@@ -40,7 +40,7 @@ It is one web page, `editions/dottore_3ed.html` (with its logos beside it), onli
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="editions/dottore_logo_white.svg">
-    <img src="editions/dottore_logo.svg" alt="Dialectica, a head with a bird perched on it, facing left" height="240">
+    <img src="editions/dottore_logo.svg" alt="Dialectica, a head with a bird perched on it, facing left" height="300">
   </picture>
 </p>
 
