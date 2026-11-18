@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="editions/dottore_watercolour.png" alt="Il Dottore, the commedia dell'arte doctor, in ink and watercolour" height="280">
+  <img src="editions/dottore_watercolour.png" alt="Il Dottore, the commedia dell'arte doctor, in ink and watercolour" height="300">
 </p>
 
 # Dottore
