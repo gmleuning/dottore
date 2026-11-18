@@ -31,16 +31,19 @@ header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px so
 .bar{max-width:var(--width);margin:0 auto;padding:12px 16px 10px;display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
 h1{font-size:21px;margin:0;font-weight:600;letter-spacing:.03em;white-space:nowrap}
 h1 a{color:inherit;text-decoration:none;display:flex;align-items:center;gap:9px}
-/* Logo: il Dottore (watercolour) in light mode, Dialectica in white in dark mode. Wide windows: a bookplate in the
-   left margin with the title under it, scrolling away (#plate, shown by the .wide class set in placePlate()).
-   Narrow windows: the logo sits in the sticky bar beside the title. */
-h1 img{height:60px;width:auto;display:block;margin:-4px 0}
-img.lt{mix-blend-mode:multiply}             /* the watercolour's white paper drops out on a light background */
-img.dk{display:none}
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) img.lt{display:none} :root:not([data-theme="light"]) img.dk{display:block} }
-:root[data-theme="dark"] img.lt{display:none} :root[data-theme="dark"] img.dk{display:block}
+/* Logo: two characters, il Dottore and Dialectica, each with an image for light and for dark mode. Settings choose
+   which character each theme shows; setChar() puts the result on <html> as data-char (dottore|dialectica) and data-ink
+   (l|d), and the name beside the logo follows the character. Wide windows: a bookplate in the left margin with the name
+   under it, scrolling away (#plate, shown by the .wide class from placePlate()). Narrow windows: the logo sits in the bar. */
+.lg,.nm{display:none}
+:root[data-char="dottore"][data-ink="l"] .lg.dot.l, :root[data-char="dottore"][data-ink="d"] .lg.dot.d,
+:root[data-char="dialectica"][data-ink="l"] .lg.dia.l, :root[data-char="dialectica"][data-ink="d"] .lg.dia.d{display:block}
+:root[data-char="dottore"] .nm.dot, :root[data-char="dialectica"] .nm.dia{display:inline}
+h1 .lg{height:60px;width:auto;margin:-4px 0}
+h1 .lg.dia{height:68px;margin:-8px 0}
 #plate{display:none;position:absolute;z-index:6;top:16px;left:var(--plate-x,16px);width:150px;color:inherit;text-decoration:none;text-align:center}
-#plate img{width:150px;height:auto;margin:0 auto}
+#plate .lg{width:150px;height:auto;margin:0 auto}
+#plate .lg.dia{width:176px;margin:0 -13px}   /* Dialectica is drawn smaller within her frame */
 #plate b{display:block;font-size:25px;font-weight:600;letter-spacing:.04em;margin-top:8px}
 .wide #plate{display:block}
 .wide header h1{display:none}
@@ -166,10 +169,10 @@ body.wk #wk, body.set #set, body.hg #hg{display:flex}
 <style id="dyn"></style>
 </head>
 <body>
-<a href="#" id="plate"><img class="lt" src="dottore_logo_big.png" alt="Il Dottore"><img class="dk" src="dottore_logo_white.svg" alt="Dialectica"><b>Dottore</b></a>
+<a href="#" id="plate"><img class="lg dot l" src="dottore_logo_big.png" alt="Il Dottore"><img class="lg dot d" src="dottore_lines_white.png" alt="Il Dottore"><img class="lg dia l" src="dottore_logo.svg" alt="Dialectica"><img class="lg dia d" src="dottore_logo_white.svg" alt="Dialectica"><b><span class="nm dot">Dottore</span><span class="nm dia">Dialectica</span></b></a>
 <header><div class="bar">
-  <h1><a href="#" id="home"><img class="lt" src="dottore_logo_big.png" alt=""><img class="dk" src="dottore_logo_white.svg" alt="">Dottore</a></h1>
-  <input id="q" type="search" placeholder="Search a word (English or German), phrase, or entry number…" autocomplete="off" spellcheck="false" autofocus>
+  <h1><a href="#" id="home"><img class="lg dot l" src="dottore_logo_big.png" alt=""><img class="lg dot d" src="dottore_lines_white.png" alt=""><img class="lg dia l" src="dottore_logo.svg" alt=""><img class="lg dia d" src="dottore_logo_white.svg" alt=""><span class="nm dot">Dottore</span><span class="nm dia">Dialectica</span></a></h1>
+  <input id="q" type="search" placeholder="Search a word, phrase, or entry number…" autocomplete="off" spellcheck="false" autofocus>
   <div class="opts">
     <label><input type="checkbox" id="partial"> partial words</label>
     <label><input type="checkbox" id="full"> show full entries</label>
@@ -188,6 +191,7 @@ const BYID=new Map(D.map((e,i)=>[e.id,i]));
 
 // ---------- settings ----------
 const DEF={theme:'auto',acc:'#a8261b',size:17,leading:1.55,width:980,font:'palatino',
+  char:{light:'dottore',dark:'dialectica'},
   partial:false,full:false,hideobs:false,gloss:false,path:true,jump:'line',
   rows:{N:true,V:true,Adj:true,Adv:true,F:true,Phr:true},   // N. V. Adj. Adv. F. Phr.
   scripts:{},
@@ -349,8 +353,10 @@ function route(){
 window.addEventListener('hashchange',route);
 
 let timer;
+// With partial words on, matching inside words is slow on every keystroke, so the search waits for Enter.
+function qHint(){ $('#q').placeholder=S.partial?'Search a word, phrase, or entry number, then press Enter…':'Search a word, phrase, or entry number…'; }
 $('#q').addEventListener('input',()=>{
-  clearTimeout(timer);
+  clearTimeout(timer); if(S.partial) return;
   timer=setTimeout(()=>{ typing=true; const v=$('#q').value.trim();
     history.replaceState(null,'',v?'#q='+encodeURIComponent(v):location.pathname+location.search); route(); typing=false; },220);
 });
@@ -386,11 +392,21 @@ $('#out').addEventListener('click',ev=>{
 // ---------- applying settings ----------
 // The bookplate logo goes in the left margin when the margin is wide enough for it; otherwise the logo stays in the bar.
 function placePlate(){
-  const r=document.documentElement, margin=(r.clientWidth-Math.min(S.width,r.clientWidth))/2;
+  const r=document.documentElement, b=document.body;
+  const side=matchMedia('(min-width:1000px)').matches&&['wk','set','hg'].some(c=>b.classList.contains(c))?420:0;   // an open side pane narrows the page
+  const avail=r.clientWidth-side, margin=(avail-Math.min(S.width,avail))/2;
   r.classList.toggle('wide',margin>=190);
   r.style.setProperty('--plate-x',Math.max(12,margin-174)+'px');
 }
 addEventListener('resize',placePlate);
+new MutationObserver(placePlate).observe(document.body,{attributes:true,attributeFilter:['class']});
+// which character shows: the setting for the theme in effect (an explicit theme, or the system's)
+const DARKQ=matchMedia('(prefers-color-scheme: dark)');
+function setChar(){
+  const r=document.documentElement, dark=S.theme==='dark'||(S.theme==='auto'&&DARKQ.matches);
+  r.dataset.ink=dark?'d':'l'; r.dataset.char=(dark?S.char.dark:S.char.light)||(dark?'dialectica':'dottore');
+}
+DARKQ.addEventListener('change',setChar);
 function applyS(){
   const r=document.documentElement;
   if(S.theme==='auto') delete r.dataset.theme; else r.dataset.theme=S.theme;
@@ -398,7 +414,7 @@ function applyS(){
   r.style.setProperty('--size',S.size+'px');
   r.style.setProperty('--leading',S.leading);
   r.style.setProperty('--width',S.width+'px');
-  placePlate();
+  placePlate(); setChar(); qHint();
   r.style.setProperty('--body',FONTS[S.font]||FONTS.palatino);
   document.body.classList.toggle('hideobs',S.hideobs);
   for(const id of ['partial','full','hideobs']) $('#'+id).checked=!!S[id];
@@ -438,6 +454,8 @@ function renderSettings(){
   $('#setb').innerHTML=`
 <h3>Appearance</h3>
 ${sel('theme','Theme',[['auto','follow system'],['light','light'],['dark','dark']])}
+${sel('char.light','Character in light mode',[['dottore','il Dottore'],['dialectica','Dialectica']])}
+${sel('char.dark','Character in dark mode',[['dialectica','Dialectica'],['dottore','il Dottore']])}
 <label class="row"><span>Accent colour</span><input type="color" data-k="acc" value="${S.acc}"></label>
 ${sel('font','Typeface',[['palatino','Palatino'],['georgia','Georgia'],['garamond','Garamond'],['sans','Sans-serif']])}
 ${rng('size','Text size',14,24,1,'px')}

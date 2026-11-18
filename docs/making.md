@@ -64,11 +64,15 @@ python tools/build_thesaurus.py               # entries/ -> data/hegel_thesaurus
 python tools/build_rogetta.py --edition 3ed   # -> editions/dottore_3ed.html (+ work/editions/dottore_3ed.md)
 ```
 
-Host the `editions/` folder as it is. `dottore_3ed.html` loads its logos from beside it: il Dottore
-(`dottore_logo_big.png`, the watercolour) in light mode and Dialectica in white (`dottore_logo_white.svg`) in dark
-mode, as a bookplate in the left margin when the window is wide enough and in the search bar when it is not;
-`dottore_logo.svg` is the tab icon. It is published with GitHub Pages at
-<https://gmleuning.github.io/dottore/editions/dottore_3ed.html>. The page's interface is `tools/dottore_page.html`: gloss reveal on headword click,
+Host the `editions/` folder as it is. `dottore_3ed.html` loads its logos from beside it. There are two characters,
+each with a light and a dark image: il Dottore (`dottore_logo_big.png`, the watercolour cut out of its paper, and
+`dottore_lines_white.png`, its ink lines in white) and Dialectica (`dottore_logo.svg` in black, `dottore_logo_white.svg`
+in white). By default light mode shows il Dottore and dark mode Dialectica; settings let the reader choose either
+character for either mode, and the name beside the logo follows. The logo is a bookplate in the left margin when the
+window (less any open side pane) is wide enough, and sits in the search bar when it is not. `dottore_logo.svg` is also
+the tab icon. The two PNGs are made by `work/design/make_logo_cutouts.py` from the original scan. The page is published
+with GitHub Pages at <https://gmleuning.github.io/dottore/editions/dottore_3ed.html>.
+The page's interface is `tools/dottore_page.html`: gloss reveal on headword click,
 settings panel (stored per browser), double-click Wiktionary panel with etymology, IPA and audio (Wiktionary's public
 REST API, so any static host works).
 
