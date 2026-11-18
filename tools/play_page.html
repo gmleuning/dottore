@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Doctor Ten Times</title>
+<link rel="icon" href="dottore_logo.svg" type="image/svg+xml">
+<style>
+/* Same colours and settings as the book (light/dark, accent, typeface, text size, line spacing), read from the
+   book's saved settings in this browser; see the script at the end. */
+:root{
+  --bg:#ffffff; --paper:#ffffff; --ink:#111111; --muted:#6e6e6e; --soft:#4f4f4f; --rule:#e1e1e1;
+  --accent:var(--acc,#a8261b);
+  --size:17px; --leading:1.6; --width:760px;
+  --body:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --ui:system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0e0e0e; --paper:#161616; --ink:#f0f0f0; --muted:#9c9c9c; --soft:#c4c4c4; --rule:#2e2e2e;
+    --accent:color-mix(in srgb, var(--acc,#a8261b) 60%, #fff);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0e0e0e; --paper:#161616; --ink:#f0f0f0; --muted:#9c9c9c; --soft:#c4c4c4; --rule:#2e2e2e;
+  --accent:color-mix(in srgb, var(--acc,#a8261b) 60%, #fff);
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font:var(--size)/var(--leading) var(--body)}
+.back{max-width:var(--width);margin:0 auto;padding:14px 16px 0;font:14px var(--ui)}
+.back a{color:var(--accent);text-decoration:none}
+.back a:hover{text-decoration:underline}
+main{max-width:var(--width);margin:0 auto;padding:10px 16px 90px}
+.fig{display:block;margin:10px auto 0;height:150px;width:auto}
+.lt{display:block} .dk{display:none}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .lt{display:none} :root:not([data-theme="light"]) .dk{display:block} }
+:root[data-theme="dark"] .lt{display:none} :root[data-theme="dark"] .dk{display:block}
+h1{text-align:center;font-size:2.1em;line-height:1.2;margin:.35em 0 .15em;font-weight:600;letter-spacing:.02em}
+.sub{text-align:center;color:var(--soft);margin:0 0 2.2em}   /* the credit: Molière's play title in roman inside italics */
+.sp{margin:0 0 1.15em}
+.sp b{color:var(--accent);font-weight:600}
+</style>
+</head>
+<body>
+<div class="back"><a href="dottore_3ed.html">&larr; Dottore</a></div>
+<main>
+<img class="fig lt" src="dottore_watercolour.png" alt="Il Dottore">
+<img class="fig dk" src="dottore_lines_white.png" alt="Il Dottore">
+<!--PLAY-->
+</main>
+<script>
+// Use the book's saved settings (same browser, same site): theme, accent, typeface, text size, line spacing.
+(function(){
+  let S={}; try{ S=JSON.parse(localStorage.getItem('dottore.settings')||'{}')||{}; }catch(e){}
+  const r=document.documentElement, F={
+    palatino:'"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif',
+    georgia:'Georgia,"Times New Roman",serif', garamond:'"EB Garamond",Garamond,"Adobe Garamond Pro","Times New Roman",serif',
+    sans:'system-ui,-apple-system,"Segoe UI",Roboto,sans-serif'};
+  if(S.theme==='light'||S.theme==='dark') r.dataset.theme=S.theme;
+  if(S.acc) r.style.setProperty('--acc',S.acc);
+  if(S.size) r.style.setProperty('--size',S.size+'px');
+  if(S.leading) r.style.setProperty('--leading',S.leading);
+  if(S.font&&S.font!=='custom'&&F[S.font]) r.style.setProperty('--body',F[S.font]);
+  if(S.font==='custom'){   // the font the reader uploaded in the book's settings
+    try{ const q=indexedDB.open('dottore',1); q.onsuccess=()=>{ try{
+      const g=q.result.transaction('fonts','readonly').objectStore('fonts').get('user');
+      g.onsuccess=async()=>{ if(!g.result) return; const face=new FontFace('DottoreUserFont',g.result.data); await face.load();
+        document.fonts.add(face); r.style.setProperty('--body','"DottoreUserFont",'+F.palatino); }; }catch(e){} }; }catch(e){}
+  }
+})();
+</script>
+</body>
+</html>
