@@ -41,4 +41,4 @@ F:
 
 Phr:
   ridentem dicere verum [Lat.] [to tell the truth laughing] [Horace]
-  the unhappy consciousness is the counterpart of this comedy [Hegel, paraphrased]
+  dies unglückliche Bewußtsein [macht] die Gegenseite und Vervollständigung des in sich vollkommen glücklichen, des komischen Bewußtseins aus [Ger.] [Hegel, Phenomenology ¶752]

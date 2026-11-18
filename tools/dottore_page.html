@@ -414,6 +414,9 @@ function setChar(){
     a.href=play?'ten_times_doctor.html':'#'; a.title=play?'Il Dottore in Doctor Ten Times':''; }
 }
 DARKQ.addEventListener('change',setChar);
+// with an entry or a search open, the figure first goes home; only from the home page does il Dottore open his play
+for(const a of document.querySelectorAll('a.fig')) a.addEventListener('click',ev=>{
+  if(location.hash.length>1){ ev.preventDefault(); $('#q').value=''; location.hash=''; } });
 function applyS(){
   const r=document.documentElement;
   if(S.theme==='auto') delete r.dataset.theme; else r.dataset.theme=S.theme;

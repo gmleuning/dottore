@@ -56,4 +56,4 @@ F:
 
 Phr:
   let the punishment fit the crime [Gilbert]
-  punishment honours the criminal as a rational being [Hegel, paraphrased]
+  so wird der Verbrecher als Vernünftiges geehrt [Ger.] [Hegel, Philosophy of Right §100 Remark]

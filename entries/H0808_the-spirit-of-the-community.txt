@@ -35,4 +35,5 @@ F:
   Sanskrit: prāyaścitta [penance]
 
 Phr:
-  the blood of the martyrs is the seed of the Church [Tertullian, paraphrased]
+  the blood of the martyrs is the seed of the Church [proverbial]
+  semen est sanguis Christianorum [Lat.] [Tertullian, Apologeticus 50]

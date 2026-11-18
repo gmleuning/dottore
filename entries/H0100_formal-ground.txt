@@ -28,7 +28,7 @@ Adv:
   formally
 
 F:
-  Latin: circulus in probando, petitio principii, idem per idem, virtus dormitiva [sleep-inducing power, after Molière], qualitas occulta
+  Latin: circulus in probando, petitio principii, idem per idem, virtus dormitiva [sleep-inducing power, Molière, Le Malade imaginaire, third interlude], qualitas occulta
   Arabic: dawr [circularity]
   Sanskrit: ātmāśraya [self-dependence fallacy], cakraka [circular reasoning]
 

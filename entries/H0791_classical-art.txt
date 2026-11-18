@@ -25,5 +25,5 @@ F:
   Japanese: koten
 
 Phr:
-  nothing more beautiful can be or become [Hegel on classical art, paraphrased]
+  Schöneres kann nicht sein und werden [Ger.] [Hegel, Aesthetics, on classical art]
   noble simplicity and quiet grandeur [Winckelmann]

@@ -20,4 +20,5 @@ Adv:
   in the name, without image, by name
 
 Phr:
-  we think in names [Hegel, paraphrased]
+  it is in names that we think [Hegel, Encyclopaedia §462 Remark, tr. Wallace]
+  es ist in Namen, daß wir denken [Ger.] [Hegel, Encyclopaedia §462 Remark]

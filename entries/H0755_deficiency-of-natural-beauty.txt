@@ -31,4 +31,4 @@ Adv:
   inadequately
 
 Phr:
-  the beauty of art is higher than nature [Hegel, paraphrased]
+  die Kunstschönheit ist die aus dem Geiste geborene und wiedergeborene Schönheit [Ger.] [Hegel, Aesthetics, Introduction]

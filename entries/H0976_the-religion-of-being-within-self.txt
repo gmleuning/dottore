@@ -29,5 +29,5 @@ F:
   Japanese: zen, satori, mu
 
 Phr:
-  nothing is God [Hegel on Buddhism, paraphrased]
+  the Nothing which the Buddhists make the universal principle, as well as the final aim and goal of everything, is the same abstraction [Hegel, Encyclopaedia §87, tr. Wallace]
   form is emptiness, emptiness is form, rūpaṃ śūnyatā śūnyataiva rūpam [Skt.] [Heart Sutra]

@@ -40,5 +40,4 @@ F:
   Japanese: tensai, reikan [inspiration]
 
 Phr:
-  genius is one per cent inspiration, ninety-nine per cent perspiration [Edison]
   sing in me, Muse [Homer]

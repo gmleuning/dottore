@@ -25,4 +25,4 @@ F:
   Chinese: deguo guannianlun
 
 Phr:
-  the Copernican revolution in philosophy [after Kant]
+  es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt [Ger.] [Kant, Critique of Pure Reason Bxvi]

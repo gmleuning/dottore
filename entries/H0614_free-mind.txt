@@ -40,4 +40,5 @@ F:
 
 Phr:
   the free will which wills the free will [Hegel]
-  freedom is the recognition of necessity [Engels, after Hegel]
+  Freiheit ist die Einsicht in die Notwendigkeit [Ger.] [Engels, Anti-Dühring I.11, on Hegel]
+  blind ist die Notwendigkeit nur, insofern dieselbe nicht begriffen wird [Ger.] [Hegel, Encyclopaedia §147 Zusatz]

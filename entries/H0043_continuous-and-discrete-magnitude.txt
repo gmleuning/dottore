@@ -30,5 +30,6 @@ F:
   Greek: synecheia
 
 Phr:
-  natura non facit saltus [Lat.] [after Leibniz]
+  natura non facit saltus [Lat.] [Linnaeus, Philosophia Botanica §77]
+  la nature ne fait jamais des sauts [Fr.] [Leibniz, New Essays, Preface]
   drop by drop, gutta cavat lapidem [Lat.]

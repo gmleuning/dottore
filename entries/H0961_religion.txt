@@ -38,5 +38,5 @@ F:
   Japanese: shūkyō, shinkō [faith]
 
 Phr:
-  religion is the self-consciousness of absolute spirit in the form of representation [Hegel, paraphrased]
+  das Wissen des göttlichen Geistes von sich durch Vermittlung des endlichen Geistes [Ger.] [Hegel, Lectures on the Philosophy of Religion, of religion]
   the opium of the people [Marx]

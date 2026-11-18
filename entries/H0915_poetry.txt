@@ -41,5 +41,5 @@ F:
   Japanese: shiika, waka
 
 Phr:
-  poetry is the universal art of the spirit [Hegel, paraphrased]
+  die allgemeine Kunst, welche jeden Inhalt … in jeder Form gestalten und aussprechen kann [Ger.] [Hegel, Aesthetics, on poetry]
   the best words in the best order [Coleridge]

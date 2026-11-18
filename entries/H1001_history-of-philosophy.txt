@@ -29,5 +29,5 @@ F:
   Japanese: tetsugakushi
 
 Phr:
-  the history of philosophy is itself philosophy [Hegel, paraphrased]
+  the study of the history of Philosophy is the study of Philosophy itself [Hegel, Lectures on the History of Philosophy, tr. Haldane]
   a gallery of heroes of thought [Hegel]

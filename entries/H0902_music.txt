@@ -39,5 +39,5 @@ F:
   Japanese: ongaku
 
 Phr:
-  music is the art of inwardness [Hegel, paraphrased]
+  die letzte subjektive Innerlichkeit als solche [Ger.] [Hegel, Aesthetics, on music]
   all art constantly aspires towards the condition of music [Walter Pater]

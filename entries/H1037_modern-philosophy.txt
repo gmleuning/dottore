@@ -25,4 +25,4 @@ F:
   Japanese: kindai tetsugaku
 
 Phr:
-  here we are at home [Hegel on Descartes, paraphrased]
+  hier, können wir sagen, sind wir zu Hause [Ger.] [Hegel, Lectures on the History of Philosophy, on Descartes]

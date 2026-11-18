@@ -27,5 +27,5 @@ F:
   Greek: hieroglyphika
 
 Phr:
-  the Sphinx is the symbol of the symbolic [Hegel, paraphrased]
+  sie ist das Symbol gleichsam des Symbolischen selber [Ger.] [Hegel, Aesthetics, on the Sphinx]
   the riddle of the Sphinx

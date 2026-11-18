@@ -27,5 +27,5 @@ F:
   Japanese: shimin shakai
 
 Phr:
-  the battlefield of everyone's private interest against everyone else [Hegel, paraphrased]
+  die bürgerliche Gesellschaft [ist] der Kampfplatz des individuellen Privatinteresses Aller gegen Alle [Ger.] [Hegel, Philosophy of Right §289 Remark]
   the invisible hand [Adam Smith]

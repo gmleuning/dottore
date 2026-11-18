@@ -34,6 +34,6 @@ F:
   Japanese: unmei [destiny]
 
 Phr:
-  because we suffer we acknowledge we have erred [Hegel, after Sophocles]
+  weil wir leiden, anerkennen wir, daß wir gefehlt [Ger.] [Hegel, Phenomenology ¶470, rendering Antigone 926]
   whom the gods would destroy they first make mad
   call no man happy until he is dead [Solon]

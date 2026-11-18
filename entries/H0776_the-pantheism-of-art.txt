@@ -25,5 +25,6 @@ F:
   Sanskrit: the Bhagavad Gītā, tat tvam asi
 
 Phr:
-  I am the soul in all things [Bhagavad Gita, paraphrased]
+  aham ātmā guḍākeśa sarvabhūtāśayasthitaḥ [Skt.] [Bhagavad Gita 10.20]
+  I am the Spirit seated deep in every creature's heart [Bhagavad Gita 10.20, tr. Arnold]
   the rose is without why [Angelus Silesius]

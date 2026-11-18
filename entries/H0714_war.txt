@@ -82,4 +82,4 @@ F:
 
 Phr:
   war is the continuation of politics by other means [Clausewitz]
-  as the winds preserve the sea from stagnation [Hegel, paraphrased]
+  wie die Bewegung der Winde die See vor der Fäulnis bewahrt, in welche sie eine dauernde Stille … versetzen würde [Ger.] [Hegel, Philosophy of Right §324 Remark]

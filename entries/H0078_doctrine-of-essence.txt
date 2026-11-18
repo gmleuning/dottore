@@ -36,6 +36,6 @@ F:
   Japanese: honshitsu
 
 Phr:
-  Wesen ist, was gewesen ist [Ger.] [Hegel, paraphrased]
+  das Wesen ist das vergangene, aber zeitlos vergangene Sein [Ger.] [Hegel, Science of Logic II, Introduction]
   ex nihilo nihil fit [Lat.]
   to ti ēn einai [Gr.] [Aristotle]

@@ -30,9 +30,9 @@ Adv:
   shiftily
 
 F:
-  German: ein ganzes Nest gedankenloser Widersprüche [Hegel, after Kant], Verstellung [dissimulation, displacement]
+  German: ein ganzes Nest gedankenloser Widersprüche [Hegel, Phenomenology ¶631, adapting Kant's 'ein ganzes Nest von dialektischen Anmaßungen', Critique of Pure Reason B637], Verstellung [dissimulation, displacement]
   Latin: dissimulatio, suppressio veri, suggestio falsi &c H0643
   Arabic: nifāq [hypocrisy]
 
 Phr:
-  a whole nest of thoughtless contradictions [Hegel, after Kant]
+  a whole nest of thoughtless contradictions [Hegel, Phenomenology ¶631, adapting Kant, Critique of Pure Reason B637]

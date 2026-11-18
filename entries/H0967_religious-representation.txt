@@ -34,4 +34,4 @@ F:
   Arabic: taṣawwur dīnī
 
 Phr:
-  the content of philosophy and religion is the same, the form differs [Hegel, paraphrased]
+  die Philosophie hat zwar ihre Gegenstände zunächst mit der Religion gemeinschaftlich [Ger.] [Hegel, Encyclopaedia §1]

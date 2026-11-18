@@ -36,6 +36,6 @@ F:
   Chinese: zhengti and bufen [whole and part]
 
 Phr:
-  the whole is something over and above its parts [Aristotle, paraphrased]
+  the whole is something besides the parts [Aristotle, Metaphysics VIII.6, 1045a10, tr. Ross]
   e pluribus unum [Lat.]
   totum est maius sua parte [Lat.]

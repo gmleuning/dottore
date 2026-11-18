@@ -37,7 +37,8 @@ F:
   Japanese: mu
 
 Phr:
-  ex nihilo nihil fit [Lat.] [after Lucretius]
+  ex nihilo nihil fit [Lat.] [proverbial]
+  nil posse creari de nilo [Lat.] [Lucretius, De rerum natura I.155–56]
   nothing will come of nothing [King Lear]
   vanity of vanities, all is vanity [Bible]
   das Nichts selbst nichtet [Ger.] [Heidegger]

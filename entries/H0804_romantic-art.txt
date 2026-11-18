@@ -29,4 +29,4 @@ F:
   Japanese: roman shugi
 
 Phr:
-  spirit withdrawn into itself [Hegel, paraphrased]
+  [der Geist geht] zur Versöhnung seiner in sich selber zurück [Ger.] [Hegel, Aesthetics, on romantic art]

@@ -28,4 +28,5 @@ F:
   Chinese: xiushen [self-cultivation]
 
 Phr:
-  the individual has validity only through culture [Hegel, paraphrased]
+  Wodurch also das Individuum hier Gelten und Wirklichkeit hat, ist die Bildung [Ger.] [Hegel, Phenomenology ¶489]
+  the means, then, whereby an individual gets objective validity and concrete actuality here is the formative process of Culture [Hegel, Phenomenology, tr. Baillie]

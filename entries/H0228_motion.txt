@@ -115,5 +115,5 @@ F:
 
 Phr:
   eppur si muove [It.] [attrib. Galileo]
-  motion is the vanishing and self-regeneration of space in time [Hegel, paraphrased]
+  das Vergehen und Sichwiedererzeugen des Raums in Zeit und der Zeit in Raum … ist die Bewegung [Ger.] [Hegel, Encyclopaedia §261]
   a rolling stone gathers no moss

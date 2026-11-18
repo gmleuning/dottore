@@ -32,4 +32,4 @@ F:
   Japanese: mono
 
 Phr:
-  a thing is a bundle of qualities [after Hume]
+  nothing but a collection of simple ideas, that are united by the imagination, and have a particular name assigned them [Hume, Treatise 1.1.6]

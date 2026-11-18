@@ -32,4 +32,4 @@ F:
   Japanese: rinri
 
 Phr:
-  the ethical is the idea of freedom as the living good [Hegel, paraphrased]
+  die Sittlichkeit ist die Idee der Freiheit als das lebendige Gute [Ger.] [Hegel, Philosophy of Right §142]

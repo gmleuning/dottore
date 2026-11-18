@@ -33,5 +33,5 @@ F:
   Japanese: hiniku
 
 Phr:
-  irony is the supreme form of subjectivity [Hegel, paraphrased]
+  die endlich höchste Form, in der diese Subjektivität sich vollkommen erfaßt und ausspricht, ist die Gestalt, die man … Ironie genannt hat [Ger.] [Hegel, Philosophy of Right §140 Remark]
   Socratic irony

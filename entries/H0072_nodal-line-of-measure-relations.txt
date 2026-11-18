@@ -36,4 +36,5 @@ Phr:
   the last drop makes the cup run over
   the straw that broke the camel's back
   alea iacta est [Lat.] [Caesar]
-  natura non facit saltus [Lat.] [after Leibniz] [Opposed]
+  natura non facit saltus [Lat.] [Linnaeus, Philosophia Botanica §77] [Opposed]
+  la nature ne fait jamais des sauts [Fr.] [Leibniz, New Essays, Preface] [Opposed]

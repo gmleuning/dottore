@@ -21,7 +21,7 @@ Adv:
 
 F:
   German: überhaupt, Dasein überhaupt
-  Latin: omnis determinatio est negatio [after Spinoza]
+  Latin: determinatio negatio est [Spinoza, Letter 50], omnis determinatio est negatio [Hegel's form of it]
 
 Phr:
   determinatio negatio est [Lat.] [Spinoza]

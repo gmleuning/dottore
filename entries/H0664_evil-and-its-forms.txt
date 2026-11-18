@@ -57,4 +57,4 @@ F:
   Japanese: aku
 
 Phr:
-  the root of evil lies in the mystery of freedom [Hegel, paraphrased]
+  der Ursprung des Bösen überhaupt liegt in dem Mysterium, d. i. in dem Spekulativen der Freiheit [Ger.] [Hegel, Philosophy of Right §139 Remark]

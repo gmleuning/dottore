@@ -32,4 +32,4 @@ F:
   Japanese: jojishi
 
 Phr:
-  the epic is the bible of a people [Hegel, paraphrased]
+  die vielen epischen Bibeln [Ger.] [Hegel, Aesthetics, on the epic]

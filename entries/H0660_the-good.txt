@@ -43,4 +43,4 @@ F:
 
 Phr:
   the form of the good [Plato]
-  the good is the realized freedom [Hegel, paraphrased]
+  das Gute ist die Idee … die realisierte Freiheit, der absolute Endzweck der Welt [Ger.] [Hegel, Philosophy of Right §129]

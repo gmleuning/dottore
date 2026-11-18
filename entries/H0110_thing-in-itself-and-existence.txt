@@ -28,5 +28,5 @@ F:
   Chinese: wu zishen [thing in itself]
 
 Phr:
-  we know things only as they appear to us [Kant, paraphrased]
+  we can have no cognition of an object, as a thing in itself, but only as an object of sensible intuition, that is, as phenomenon [Kant, Critique of Pure Reason Bxxvi, tr. Meiklejohn]
   the thing-in-itself is a caput mortuum [Hegel]

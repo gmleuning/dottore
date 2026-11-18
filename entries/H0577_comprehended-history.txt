@@ -26,4 +26,5 @@ F:
   Japanese: rekishi
 
 Phr:
-  from the chalice of this realm of spirits foams forth for Him his own infinitude [Hegel, after Schiller]
+  from the chalice of this realm of spirits foams forth for Him his own infinitude [Hegel, Phenomenology ¶808, adapting Schiller, 'Die Freundschaft']
+  aus dem Kelche dieses Geisterreiches schäumt ihm seine Unendlichkeit [Ger.] [Hegel, Phenomenology ¶808]

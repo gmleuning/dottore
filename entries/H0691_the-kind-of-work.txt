@@ -52,4 +52,4 @@ F:
 
 Phr:
   the pin factory [Adam Smith]
-  man can step aside and let the machine take his place [Hegel, paraphrased]
+  so daß dann der Mensch davontreten und an seine Stelle die Maschine eintreten lassen kann [Ger.] [Hegel, Philosophy of Right §198]
