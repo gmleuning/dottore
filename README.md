@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="editions/dottore_logo_big.png" alt="Il Dottore, the commedia dell'arte doctor, in ink and watercolour" height="280">
+  <img src="editions/dottore_watercolour.png" alt="Il Dottore, the commedia dell'arte doctor, in ink and watercolour" height="280">
 </p>
 
 # Dottore
@@ -32,7 +32,7 @@ It is one web page, `editions/dottore_3ed.html` (with its logos beside it), onli
 
 **Settings.** The settings button opens a panel that remembers your choices in this browser:
 
-- *Appearance:* light, dark or follow the system; accent colour; typeface; text size; line spacing; column width; which character the logo shows in light and in dark mode (by default il Dottore in light mode and Dialectica in dark mode, but either can be chosen for either).
+- *Appearance:* light, dark or follow the system; accent colour; typeface, including a font of your own uploaded from your computer (kept in your browser); text size; line spacing; column width; which character the logo shows in light and in dark mode (by default il Dottore in light mode and Dialectica in dark mode, but either can be chosen for either).
 - *Entries:* partial words, full entries, hiding obsolete words, glosses open by default, the path line on or off, how the list of results is shown (one expandable line, in full, or hidden), and which rows to show (for instance only nouns and foreign words).
 - *Scripts:* for each language, show the original script, the romanization, or both.
 - *Wiktionary:* double-click lookup on or off, IPA, audio, which languages to show and which to open first, how many examples per sense, and etymology as a timeline, as written, or hidden.

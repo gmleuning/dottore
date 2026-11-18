@@ -9,7 +9,7 @@ lives in `work/`, which is git-ignored and never uploaded.
 
 ```text
 dottore/
-├── editions/      THE PAGE, published: dottore_3ed.html with its logos beside it (dottore_logo_big.png,
+├── editions/      THE PAGE, published: dottore_3ed.html with its logos beside it (dottore_watercolour.png,
 │                  dottore_logo_white.svg, and dottore_logo.svg as the tab icon)
 ├── entries/       THE BOOK: one plain-text file per entry (H0393_the-feeling-soul.txt), glosses included. Edit here.
 ├── data/          what the build reads besides entries/: hegel_nodes.csv (the system's structure: numbering,
@@ -65,7 +65,7 @@ python tools/build_rogetta.py --edition 3ed   # -> editions/dottore_3ed.html (+ 
 ```
 
 Host the `editions/` folder as it is. `dottore_3ed.html` loads its logos from beside it. There are two characters,
-each with a light and a dark image: il Dottore (`dottore_logo_big.png`, the watercolour cut out of its paper, and
+each with a light and a dark image: il Dottore (`dottore_watercolour.png`, the watercolour cut out of its paper, and
 `dottore_lines_white.png`, its ink lines in white) and Dialectica (`dottore_logo.svg` in black, `dottore_logo_white.svg`
 in white). By default light mode shows il Dottore and dark mode Dialectica; settings let the reader choose either
 character for either mode, and the name beside the logo follows. The logo is a bookplate in the left margin when the
