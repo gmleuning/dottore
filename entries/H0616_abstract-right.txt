@@ -1,0 +1,45 @@
+# 616 Abstract Right
+# Spirit › 2. Objective Spirit
+G: Abstraktes Recht
+Gloss: The sphere of the person as the bearer of rights, taken apart from any particular circumstance.
+
+N:
+  abstract right; formal right, strict right, private law, property law, legal personhood, personality, the person, rights-bearer, formal equality, natural right
+  due, dueness, privilege, prerogative, prescription, pretension, birthright
+  right, title, vested interest
+  immunity, license, liberty, franchise, vested right
+  legal capacity, the right of personality
+
+V:
+  entitle, own, claim, assert one's right, be a person
+  demand, call upon for, come upon for, appeal to for, revendicate†, reclaim, exact, insist on, insist upon, challenge, take one's stand, make a point of, require, lay claim to, assume, arrogate, make good, substantiate, vindicate a claim, vindicate a right, fit for, qualify for, make out a case
+  give a right, confer a right, authorize &c H0701, sanctify, legalize, ordain, prescribe, allot
+  use a right, assert, enforce, put in force, lay under contribution
+  have right to, have title to, have claim to, be entitled to, have a claim upon, belong to &c H0617
+  respect others as persons
+
+Adj:
+  legal, juridical, formal, abstract, proprietary, rightful
+  legitimate, justifiable, as it should be, as it ought to be, lawful &c H0701
+  allowable &c H0701, lawful, licit, legalized &c H0697
+  square, unexceptionable, equitable, fit, fitting, correct, proper, meet, befitting, becoming, seemly, decorous, creditable, up to the mark, right as a trivet, just the thing, quite the thing
+  having a right to, entitled to, claiming, deserving, meriting, worthy of
+  personal
+
+Adv:
+  by right, as of right
+  duly, ex officio, by divine right, in the name of
+  abstractly, formally, as a person
+
+F:
+  German: Naturrecht
+  Latin: ius strictum, persona, ius naturale, de jure, jure divino, Dei gratia
+  French: selon les r gles
+  Arabic: ḥaqq [right], ḥuqūq [rights]
+  Sanskrit: adhikāra [entitlement]
+  Chinese: quanli [right]
+  Japanese: kenri
+
+Phr:
+  be a person and respect others as persons [Hegel]
+  suum cuique [Lat.] [to each his own]

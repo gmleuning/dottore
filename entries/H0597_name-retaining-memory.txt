@@ -1,0 +1,46 @@
+# 597 Name-Retaining Memory
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › b. Representation › iii. Memory
+G: Namenbehaltendes Gedächtnis
+Gloss: Memory that holds names and their meanings together.
+
+N:
+  name-retaining memory; memory for names, retention of words, vocabulary, lexicon, nomenclature, word-memory, verbal memory, naming
+  nuncupation†, nomination, baptism, orismology†, onomatopoeia, antonomasia†
+  dictionary, glossary, index, concordance
+  thesaurus
+  appelation†, appelative†, designation, title, heading, rubric, caption, denomination, by-name, epithet
+  word, term, vocable, name &c H0595, phrase &c H0595, root, etymon, derivative, part of speech &c H0595, ideophone†
+  misnomer, Mrs
+  Malaprop, what d'ye call 'em &c H0595 [Obs.], Hoosier
+  nickname, sobriquet, assumed name, assumed title, alias, nom de course, nom de theatre, nom de plume, pseudonym, pseudonymy
+  retentive memory, retention of names, name and meaning
+  terminology, moniker
+
+V:
+  name, retain, learn words, call by name
+  call, style, entitle, dub, christen
+  misname, miscall, misterm†, assume a name
+  hold, keep, remember names
+
+Adj:
+  nominal, verbal, lexical, onomastic
+  literal, titular
+  nuncupatory†, nuncupative, cognominal†, orismological†
+  misnamed, pseudonymous, self called, self styled, self christened, so-called
+  nameless, anonymous, without a having no name, innominate, unnamed, unacknowledged
+  retentive, name-retaining
+
+Adv:
+  by name, nominally
+  in no sense
+  retentively
+
+F:
+  Latin: gradus, delectus, lucus a non lucendo
+  French: nom de guerre, soi-disant
+  Arabic: ism [name]
+  Sanskrit: nāma [name]
+  Chinese: mingcheng [name]
+
+Phr:
+  what's in a name? [Romeo and Juliet]

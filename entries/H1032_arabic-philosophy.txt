@@ -1,0 +1,27 @@
+# 1032 Arabic Philosophy
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › c. Medieval Philosophy › i. The Idea of Christianity
+G: Die arabische Philosophie
+Gloss: The philosophy of the Islamic world, which preserved and commented on Aristotle.
+
+N:
+  Arabic philosophy; al-Kindī, al-Fārābī [the Second Teacher], Ibn Sīnā [Avicenna], Ibn Rushd [Averroes], al-Ghazālī, the Mutakallimūn, Ashʿarites, occasionalism, the Commentator, Averroism, the House of Wisdom, Maimonides [Jewish]
+  Islamic philosophy, Arabian philosophy, Arabic Aristotelianism, the Arabian Peripatetics, the Arabian commentators, the philosophers, Avicennism, Ibn Bājja [Avempace], Ibn Ṭufayl, Ibn Khaldūn, al-Rāzī, the Muʿtazilites, the Brethren of Purity, the translation movement, the active intellect, the unity of the intellect, the Incoherence of the Incoherence, the Guide for the Perplexed
+
+V:
+  comment, translate, harmonize, transmit
+  preserve, expound, interpret, annotate, gloss, paraphrase, hand down, reconcile
+
+Adj:
+  Arabic, Islamic, Avicennian, Averroist, Ashʿarite
+  Arabian, Muslim, Peripatetic, Aristotelian, Muʿtazilite, Farabian, Andalusian, Moorish, Saracenic†
+
+Adv:
+  in the Arabic tradition
+  by commentary, in commentary, in Arabic, through the Arabs
+
+F:
+  Arabic: falsafa, the falāsifa, kalām [dialectical theology], Bayt al-Ḥikma, faylasūf, ʿaql, Tahāfut al-Falāsifa, Tahāfut al-Tahāfut
+
+Phr:
+  Averrois, che 'l gran comento feo [It.] [Averroes, who made the great commentary] [Dante]
+  The Incoherence of the Philosophers, Tahāfut al-Falāsifa [Ar.] [al-Ghazālī]

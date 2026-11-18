@@ -1,0 +1,29 @@
+# 282 Difference in Particularized Corporeality
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body)
+G: Unterschied der besonderen Körperlichkeit
+Gloss: The qualities of bodies perceived through smell and taste.
+
+N:
+  difference in particularized corporeality; smell and taste; chemical senses; specific airs and specific waters
+  odor, odorament†, effluvium, emanation, exhalation, fume, essence, trail, nidor†, redolence
+  particularized bodily difference, odour and savour, the sensible qualities, the specified body in relation to air and water
+
+V:
+  smell, taste, scent, savour
+  have an odor, smell of, smell strong of, exhale, give out a smell, reek, reek of
+  differentiate, particularize
+
+Adj:
+  odorous, sapid, gustatory, olfactory
+  saporific†, gustable†, gustful†, strong, gamy, palatable &c H0284
+  particularized, sensible
+
+Adv:
+  to the nose, to the tongue
+  by smell and taste
+
+F:
+  Latin: sapor and odor
+
+Phr:
+  de gustibus non est disputandum [Lat.]

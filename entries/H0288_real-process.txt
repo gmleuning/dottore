@@ -1,0 +1,33 @@
+# 288 Real Process (Combination) [Tetrad]
+# Nature › 2. Physics › III. Physics of Total Individuality › γ. Chemical Process
+G: Realer Prozess
+Gloss: Chemical process in which bodies unite to form a new body.
+
+N:
+  real process; chemical combination, chemical union, synthesis, compounding, bonding, reaction proper, transformation, new body, compound; process of combination
+  combination, mixture &c H0287, junction &c H0259, union, unification, incorporation, amalgamation, embodiment, coalescence, crasis†, fusion, blending, absorption, centralization
+  alloy, amalgam, composition, resultant, impregnation
+  the real chemical process, the product
+
+V:
+  combine, unite, bond, synthesize, compound, transform
+  incorporate, embody, absorb, reembody†, blend, merge, fuse, melt into one, consolidate, coalesce, centralize, impregnate, put together, lump together, cement a union, marry
+  infuse, amalgamate
+  commix, intermix, commingle
+  join, conjoin
+  react
+
+Adj:
+  synthetic, combinatory, transformative, reactive
+  combined, impregnated with, ingrained, imbued inoculated
+  real, chemical, combinative
+
+Adv:
+  in combination, chemically
+  by combination
+
+F:
+  Latin: tertium quid
+
+Phr:
+  the whole is other than its parts

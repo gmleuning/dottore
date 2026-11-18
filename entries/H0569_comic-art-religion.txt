@@ -1,0 +1,44 @@
+# 569 Comic Art-Religion
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › c. Religion as Spirit's Self-Consciousness › ii. Art-Religion › 3. The Spiritual Work of Art
+G: Die Komödie
+Gloss: Religion expressed in comedy, in which human beings see through the gods and find themselves the masters.
+
+N:
+  comic art-religion; comedy, Old Comedy, Aristophanes, the comic actor, the mask removed, laughter, mockery, satire, parody, the dissolution of the gods, the self as fate, festivity, carnival
+  derision, banter, irony, persiflage, raillery
+  the comic consciousness, the mask dropped, the unmasking of the gods, the self as absolute being, the levity of self-certainty
+  gag, joke, bit, schtick, stand-up, standup, comedian, bants [Brit. Slang], lulz [Slang], piss-take [Brit. Vulg.], wind-up [Brit.], trolling, shitposting [Vulg.], send-up, takedown
+  kill, cleanup
+  haha, LOL, prank, practical joke, meme, sketch, sitcom, pun, punchline
+
+V:
+  mock, laugh, ridicule, satirize, parody, unmask, deflate
+  caricature, burlesque, travesty
+  deride, rally
+  mimic, ape, lampoon
+  smile, grin, laugh outright
+  see through, drop the mask
+  take the piss [Brit. Vulg.], rip on [U.S. Slang], roast, troll, spoof, send up, crack up, crack wise, riff, rib, josh, kid
+
+Adj:
+  comic, comical, satirical, parodic, farcical, Aristophanic, irreverent
+  ridiculous, ludicrous, droll, funny, laughable, grotesque
+  theatrical
+  unmasked, self-certain
+  hilarious, hysterical, killing, side-splitting, a riot, a scream, a hoot, cringe [Slang], cringey [Slang]
+  jokey
+
+Adv:
+  comically, in jest, irreverently
+  without a mask, laughingly
+
+F:
+  Greek: kōmōidia
+  Arabic: malhāh [comedy]
+  Sanskrit: prahasana [farce]
+  Chinese: xiju [comedy]
+  Japanese: kigeki
+
+Phr:
+  ridentem dicere verum [Lat.] [to tell the truth laughing] [Horace]
+  the unhappy consciousness is the counterpart of this comedy [Hegel, paraphrased]

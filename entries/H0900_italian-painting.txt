@@ -1,0 +1,26 @@
+# 900 Italian Painting
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › i. Painting › 3. Historical Development of Painting
+G: Italienische Malerei
+Gloss: The painting of Italy.
+
+N:
+  Italian painting; the Italian Renaissance, Giotto, Fra Angelico, Masaccio, Leonardo, Raphael, Michelangelo, Titian, Correggio, the Venetian school, Florentine school
+  the Italian school, the Italian masters, the old masters, the Roman school, the Sienese school, the Umbrian school, the Lombard school, the Bolognese school, Cimabue, Duccio, Perugino, Giorgione, Mantegna, Bellini, Botticelli, the Carracci, Guido Reni, fresco, the High Renaissance, ideal beauty, grace, soulfulness
+
+V:
+  paint, idealize
+  beautify, ennoble, harmonize, draw, colour
+
+Adj:
+  Italian, Renaissance, Raphaelesque, Florentine, Venetian
+  Tuscan, Umbrian, Sienese, Roman, Lombard, Leonardesque, Michelangelesque, Titianesque, Giottesque, ideal, graceful, soulful
+
+Adv:
+  in the Italian manner
+  in fresco, ideally, gracefully
+
+F:
+  Italian: quattrocento, cinquecento
+
+Phr:
+  the Sistine Madonna [Raphael]

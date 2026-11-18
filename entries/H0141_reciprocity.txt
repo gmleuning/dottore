@@ -1,0 +1,41 @@
+# 141 Reciprocity
+# Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation
+G: Wechselwirkung
+Gloss: Mutual action; the relation in which two things are each the cause and effect of the other.
+
+N:
+  reciprocity; reciprocal action, interaction, mutual causation, interdependence, mutuality, mutual determination, codetermination, give and take, exchange, interchange, back-and-forth, feedback loop, circular causality, community; symbiosis, synergy, complementarity, correlation; dependent co-arising; Indra's net
+  reciprocalness†, reciprocation, interrelation, connection, link, association
+  commutation, permutation, intermutation, transposition, rearrangement, alternation, castling (at chess)
+  concurrence, cooperation, coagency†, consilience†, concert, synergy &c H0702
+  interplay
+
+V:
+  reciprocate, interact, interrelate, interchange, exchange, return, requite, repay, correspond, act upon each other, codetermine, condition each other
+  counterchange†, commute
+  alternate
+  return the compliment, give a quid pro quo
+  act on one another
+
+Adj:
+  reciprocal, mutual, interactive, interdependent, correlative, correlated, complementary, symbiotic, synergistic, two-way, bilateral, circular, give-and-take
+  commutual†, reciprocative, interrelated, closely related, complemental
+  interchanged, commutative, interchangeable, intercurrent†
+  bipartisan
+
+Adv:
+  reciprocally, mutually, in turn, in return, back and forth, each to each
+  vice versa, each other, one another, by turns
+
+F:
+  German: Gemeinschaft [Kant's category of community], Wechselwirkung
+  Latin: quid pro quo, commercium, inter se, vice versa, mutatis mutandis
+  Arabic: tabāduliyya [reciprocity]
+  Sanskrit: pratītyasamutpāda, indrajāla
+  Chinese: xianghu [mutual], ganying [stimulus-response], yin-yang
+
+Phr:
+  do ut des [Lat.]
+  one hand washes the other, manus manum lavat [Lat.]
+  you scratch my back and I'll scratch yours
+  this being, that becomes [Buddha]

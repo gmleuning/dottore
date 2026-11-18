@@ -1,0 +1,27 @@
+# 1026 Neoplatonism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › b. Greek Philosophy
+G: Neuplatonismus
+Gloss: The late Greek philosophy in which all things flow from a single, ineffable One and the soul seeks to return to it; reason turned inward toward the spiritual.
+
+N:
+  Neoplatonism; Plotinus, Porphyry, Iamblichus, Proclus, the Alexandrian school, the One, emanation, nous, soul, the return, mystical union; Theology of Aristotle [Arabic Plotinus]
+  Neo-Platonism, the New Platonism, later Platonism, Alexandrian philosophy, Plotinism, the Neoplatonists, Ammonius Saccas, the Enneads, the three hypostases, the Good, the world-soul, procession and reversion, the great chain of being, the intelligible world, ecstasy, theurgy, the ineffable, mysticism, Pseudo-Dionysius
+
+V:
+  emanate, return, contemplate, ascend, unite
+  proceed, flow from, overflow, radiate, revert, turn inward, simplify, transcend, mount up, merge, Platonize
+
+Adj:
+  Neoplatonic, emanationist, mystical, Plotinian
+  Neo-Platonic, Neoplatonist, Proclean, Alexandrian, emanative, emanatist, henological, hypostatic, ecstatic, theurgic, ineffable, otherworldly, supersensuous
+
+Adv:
+  by emanation
+  mystically, ecstatically, inwardly, contemplatively, by ascent, by procession and return
+
+F:
+  Greek: to hen, psychē, epistrophē, henōsis, proodos, monē, ekstasis, theourgia, epekeina tēs ousias
+  Arabic: al-Shaykh al-Yūnānī [the Greek Sage, Plotinus]
+
+Phr:
+  the flight of the alone to the alone [Plotinus]

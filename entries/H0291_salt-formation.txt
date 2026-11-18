@@ -1,0 +1,33 @@
+# 291 Salt Formation (Neutralization)
+# Nature › 2. Physics › III. Physics of Total Individuality › γ. Chemical Process › b. Real Process (Combination) [Tetrad]
+G: Salzbildung
+Gloss: The union of acid and base into a neutral salt.
+
+N:
+  salt formation; neutralization, neutral salt, salt, acid and base, alkali, neutrality, equilibrium; reconciliation of opposites
+  mean
+  salification, the neutral product
+
+V:
+  neutralize, salt, balance, counteract, temper
+  compensate, countervail, counterpoise, counterbalance
+  salify, combine, saturate
+
+Adj:
+  neutral, saline, salty, balanced, neutralized
+  brackish, briny
+  salified
+
+Adv:
+  neutrally, in balance
+  by neutralization
+
+F:
+  Latin: sal
+  Arabic: milḥ [salt]
+  Sanskrit: lavaṇa [salt]
+  Chinese: yan [salt]
+  Japanese: shio
+
+Phr:
+  the salt of the earth [Bible]

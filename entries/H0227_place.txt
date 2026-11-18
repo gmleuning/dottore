@@ -1,0 +1,47 @@
+# 227 Place
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › γ. Place and Motion (Union of Space and Time)
+G: Ort
+Gloss: A point in space taken at a particular time; the here-and-now location of a thing.
+
+N:
+  place; location, position, situation, site, spot, point, station, seat, locale, locality, venue, whereabouts, address; here-now; placement, emplacement, positioning; place as boundary of the containing body [Aristotle]
+  ground, bearings &c H0228
+  status, latitude and longitude, footing, standing, standpoint, stage, aspect, attitude, posture, pose
+  lieu, dot, niche, nook &c H0267, hole, pigeonhole, compartment, premises, precinct, area, courtyard, square, abode &c H0672
+  displacement, elocation†, transposition
+  ejectment &c H0228 [Obs.], exile &c H0485, removal &c H0228
+  misplacement, dislocation &c H0186, fish out of water
+  locating
+
+V:
+  place, put, set, lay, locate, situate, station, position, site, post, plant, install, lodge, stand
+  localize, make a place for, quarter, house, stow, establish, fix, pin, root, graft, plant &c H0228, shelve, pitch, camp, lay down, deposit, reposit†, cradle, moor, tether, picket, pack, tuck in, embed, imbed, vest, invest in
+  displace, misplace, displant†, dislodge, disestablish, ablegate†, set aside, remove, take away, cart away, take off, draft off, lade
+  unload, empty &c H0228, transfer &c H0228, dispel
+  vacate, depart &c H0228
+
+Adj:
+  local, locative, topical, positional, situated, stationary
+  displaced, unplaced, unhoused†, unharbored†, unestablished†, unsettled, houseless†, homeless, out of place, out of a situation, in the wrong place
+  misplaced, out of its element
+  placed
+  located, aligning
+
+Adv:
+  here, there, in place, on the spot, on site, locally
+  in situ, in loco, here and there, passim, hereabouts, thereabouts
+  where, everywhere, aboard, on board, at home, afield, here there and everywhere &c H0218, in presence of, before, under the eyes of, under the nose of, in the face of
+
+F:
+  German: Ort
+  Latin: locus, hic et nunc, in situ
+  Greek: topos
+  Arabic: makān [place], mawḍiʿ
+  Sanskrit: sthāna [place, station]
+  Chinese: difang [place]
+  Japanese: basho [place, topos, Nishida's logic of place]
+
+Phr:
+  a place for everything and everything in its place
+  genius loci [Lat.]
+  basho [Jap.] [Nishida]

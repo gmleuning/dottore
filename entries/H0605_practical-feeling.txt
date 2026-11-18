@@ -1,0 +1,92 @@
+# 605 Practical Feeling
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › β. Practical Mind
+G: Praktisches Gefühl
+Gloss: The will in the form of feeling.
+
+N:
+  practical feeling; feeling of what ought to be, moral feeling, practical sentiment, agreeableness and disagreeableness, pleasure and displeasure, joy, contentment, regret, remorse, shame, hope, fear, the ought felt
+  sensibility, sensibleness, sensitiveness, moral sensibility, impressibility, affectibility†, susceptibleness, susceptibility, susceptivity†, mobility, vivacity, vivaciousness, tenderness, softness, sentimentality, sentimentalism
+  penitence, contrition, compunction, repentance
+  timidity, diffidence, want of confidence, apprehensiveness, fearfulness, solicitude, anxiety, care, apprehension, misgiving, feeze [U.S.], mistrust &c H0480, suspicion, qualm, hesitation &c H0376
+  repining, homesickness, nostalgia, mal du pays, lamentation &c H0435, penitence &c H0665
+  hopes, desire &c H0609, fervent hope, sanguine expectation, confidence, reliance, faith &c H0600, affiance, assurance, secureness, security, reassurance
+  disappointment, blighted hope, balk, blow, anticlimax, slip 'twixt cup and lip, nonfulfillment of one's hopes, sad disappointment, bitter disappointment, trick of fortune, afterclap, false expectation, vain expectation, miscalculation &c H0602, fool's paradise, much cry and little wool
+  discontent, discontentment, dissatisfaction, dissent &c H0600
+  mortification, cold comfort, taking on, heart-burning, heart-grief, querulousness &c H0435, hypercriticism
+  inquietude, vexation of spirit, soreness, worry, concern, malcontent, grumbler, growler, croaker, dissenter, censurer, complainer, fault-finder, murmerer†
+  cave of Adullam†, indignation meeting, winter of our discontent, with what I most enjoy contented least [Shakespeare]
+  wonder, marvel, astonishment, amazement, wonderment, bewilderment, amazedness†, admiration, awe, stupor, stupefaction, stound†, fascination, sensation, surprise &c H0579 [Obs.]
+  note of admiration, thaumaturgy &c H0972 [Obs.]
+  pity, compassion, commiseration, bowels, of compassion, fellow-feeling, yearning, forbearance, humanity, clemency, leniency &c H0704, charity, ruth, long- suffering
+  melting mood, quarter, grace
+  sympathizer, advocate, friend, partisan, patron, wellwisher
+  pitilessness, inclemency, severity &c H0704, malevolence &c H0664
+  condolence, sympathy, consolation
+  the feeling will, the heart, sentiment, affect, moral sentiment
+
+V:
+  feel, approve, disapprove, rue, regret, hope, fear
+  deplore, bewail &c H0435, repine, cast a longing lingering look behind, rue the day, repent &c H0665
+  be pleased, feel pleasure, experience pleasure, enjoy oneself, hug oneself, be in clover &c H0385, be in elysium &c H0992, tread on enchanted ground, fall into raptures, go into raptures
+  receive an impression, be impressed with, entertain feeling, harbor feeling, cherish feeling
+  respond, catch the flame, catch the infection, enter the spirit of
+  stand in awe of, be afraid, have qualms, apprehend, sit upon thorns, eye askance, distrust &c H0480
+  trust, confide, rely on, put one's trust in, lean upon, pin one's hope upon, pin one's faith upon &c H0600
+  be disappointed, look blank, look blue, look aghast, stand aghast, find to one's cost, laugh on the wrong side of one's mouth, find one a false prophet
+  not realize one's hope, not realize one's expectation
+  disappoint, frustrate, discomfit, crush, defeat &c H0197, crush one's hope, dash one's hope, balk one's hope, disappoint one's hope, blight one's hope, falsify one's hope, defeat one's hope, discourage, jilt, bilk, play one false, play a trick, dash the cup from the lips, tantalize, dumbfound, dumbfounder
+  be discontented, quarrel with one's bread and butter, wish one at the bottom of the Red Sea, take on, take to heart, shrug the shoulders, make a wry face, pull a long face, knit one's brows, look black, look black as thunder, look glum
+  take in bad part, take ill, fret, chafe, grumble, croak, lament &c H0435
+  cause discontent, dissatisfy, mortify, put out, disconcert, cut up, dishearten
+  admire, be surprised, start, stare, open one's eyes, rub one's eyes, turn up one's eyes, gloar†, gape, open one's mouth, hold one's breath, stand agog, not believe one's eyes, not believe one's ears, not believe one's senses
+  not be able to account for &c H0595, not know whether one stands on one's head or one's heels
+  surprise, astonish, amaze, astound, dumfound, dumfounder, startle, dazzle, daze, strike, strike with wonder, strike with awe, electrify, stun, stupefy, petrify, confound, bewilder, flabbergast, stagger, throw on one's beam ends, fascinate, turn the head, take away one's breath, strike dumb, make one's hair stand on end, make one's tongue cleave to the roof of one's mouth, make one stare
+  take by surprise &c H0579
+  be wonderful, beggar description, beggar the imagination, baffle description, stagger belief
+  have pity, show pity, take pity, commiserate, condole, sympathize, feel for, be sorry for, yearn for, weep, thaw, enter into the feelings of
+  forbear, relent, relax, give quarter, wipe the tears, give a coup de grâce, put out of one's misery
+  raise pity, excite pity, touch, soften, melt, melt the heart, propitiate, disarm
+  ask for mercy, supplicate &c H0622, cry for quarter, beg one's life, kneel, deprecate
+  have no mercy, shut the gates of mercy, give no quarter
+  condole with, console, sympathize express pity, testify pity, afford consolation, supply consolation, lament with &c H0435, express sympathy for, feel grief in common with, feel sorrow in common with, share one's sorrow
+  be moved, be affected
+
+Adj:
+  practical, affective, sentimental, moral
+  feeling, sentient, sensuous, sensorial, sensory, emotive, emotional, of feeling, with feeling
+  warm, quick, lively, smart, strong, sharp, acute, cutting, piercing, incisive, keen, keen as a razor, trenchant, pungent, racy, piquant, poignant, caustic
+  sensible, sensitive, impressible, impressionable, susceptive, susceptible, alive to, impassionable†, gushing, warm hearted, tender hearted, soft hearted, tender as a chicken, soft, romantic, enthusiastic, highflying†, spirited, mettlesome, vivacious, expressive, mobile, tremblingly alive, excitable &c H0610, oversensitive, without skin, thin-skinned, fastidious
+  disappointed, disconcerted, disgruntled, out of one's reckoning
+  discontented, dissatisfied, unsatisfied, ungratified, dissident, dissentient &c H0600, malcontented, exigent, exacting, hypercritical
+  regretful, down in the mouthin high dudgeon, in a fume, in the sulks, in the dumps, in bad humor, glum, sulky, sour as a crab, soured, sore, out of humor, out of temper
+  disappointing, unsatisfactory
+  frustrated &c H0197
+  Int, so much the worse
+  surprised, aghast, all agog, breathless, agape, open- mouthed, awestruck, thunderstruck, moonstruck, planet-struck, spellbound, lost in amazement, lost in wonder, lost in astonishment, struck all of a heap, unable to believe one's senses, like a duck ion thunder
+  wonderful, wondrous, surprising, unexpected &c H0579, unheard of, mysterious &c H0595, miraculous
+  indescribable, inexpressible, inaffable†, unutterable, unspeakable
+  monstrous, prodigious, stupendous, marvelous, inconceivable, incredible, inimaginable†, unimaginable, strange &c H0063, passing strange
+  striking, overwhelming, wonder-working
+  pitying, pitiful, compassionate, sympathetic, touched
+  merciful, clement, ruthful, humane, humanitarian &c H0660, tender, unhardened†, lenient &c H0704, exorable†, forbearing, melting, weak
+  for pity's sake, mercy, have mercy, cry you mercy, God help you, poor thing, poor dear, poor fellow, woe betide
+  pitiless, merciless, ruthless, bowelless, unpitying, unmerciful, inclement, grim-faced, grim-visaged, incompassionate†, uncompassionate, inexorable, harsh &c H0704, unrelenting &c H0649
+  felt, heartfelt
+  sorry, shocked, unacceptable, marvellous, appalled
+
+Adv:
+  feelingly, with feeling
+  wonderfully, fearfully, for a wonder, in the name of wonder, strange to say, to one's great surprise
+  with wonder, with gaping mouth, with open eyes, with upturned eyes
+  lo, lo and behold, heyday, halloo, what, indeed, really, surely, humph, hem, good lack, good heavens, good gracious, Ye gods, good Lord, good grief, Holy cow, My word, Holy shit! [Vulg.], gad so, welladay!†, dear me, only think, lackadaisy!†, my stars, my goodness, gracious goodness, goodness gracious, mercy on us, heavens and earth, God bless me, bless us, bless my heart, odzookens!†, O gemini, adzooks!†, hoity-toity, Heaven save the mark, bless the mark, can such things be, zounds, 'sdeath! [Contr.], what on earth, what in the world, who would have thought it, you don't say so, You're kidding
+  No kidding, what do you say to that, how now, where am I. from the heart
+  superbly
+
+F:
+  Latin: infandum renovare dolorem, laudator temporis acti, mirabile dictu, mirabile visu, argumentum ad misericordiam, locus paenitentiae, parcere subjectis, quis talia fando temperet a lachrymiss! [Vergil]
+  French: maladie, make a piece of work, tombe des nues, nous verrons
+  Arabic: wijdān [inner feeling]
+  Sanskrit: bhāva [feeling, emotion]
+
+Phr:
+  the heart's ought

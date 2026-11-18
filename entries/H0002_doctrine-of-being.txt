@@ -1,0 +1,32 @@
+# 2 Doctrine of Being
+# Logic
+G: Lehre vom Sein
+Gloss: The study of the simplest concepts, those that describe a thing directly as it is, without reference to anything behind it. Each such concept, when thought through, gives way to another.
+
+N:
+  doctrine of being; logic of being, ontology; immediacy, directness, givenness, the given, datum, data; surface, face value; transition, passing over; change into another &c (becoming) H0007
+  the in-itself; being-in-itself; the concept in itself, latency, implicitness, potentiality; first sphere, outset, threshold
+  categories of being, immediate categories; what simply is, what there is; brute fact, plain fact, bare fact
+  beginning, commencement, inception
+  the sphere of immediacy, quality quantity and measure
+
+V:
+  be, exist, obtain, be given, lie to hand; pass over, pass into, go over into, turn into, give way to, change into; follow upon; lie on the surface
+  have being, subsist
+  become
+
+Adj:
+  immediate, unmediated, direct, given, simple, bare, plain, raw; ontic, ontological, existential; implicit, latent, potential, inchoate, rudimentary, undeveloped; transitional, transitive, passing, transient; first, initial, primary, elementary
+  mere, sheer
+
+Adv:
+  immediately, directly, simply, barely, at first sight, at face value, on the face of it; in itself; in the first instance
+
+F:
+  German: Seinslogik, Unmittelbarkeit, Übergehen, Übergang, das Ansich, Ansichsein, an sich
+  Latin: prima facie
+  Greek: metabasis
+
+Phr:
+  panta rhei [Gr.] [attrib. Heraclitus]
+  what is, is

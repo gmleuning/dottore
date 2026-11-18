@@ -1,0 +1,33 @@
+# 968 Religious Thought
+# Spirit › 3. Absolute Spirit › II. Religion › α. The Concept of Religion › b. The Knowledge of God [Tetrad]
+G: Religiöses Denken
+Gloss: The knowing of God in thought.
+
+N:
+  religious thought; theology, rational theology, speculative theology, dogmatics, apologetics
+  theology (natural and revealed), theosophy, divinity, hagiology, hagiography, monotheism, religion, religious persuasion, religious sect, religious denomination, creed &c H0600, article of faith, declaration of faith, profession of faith, confession of faith
+  theologue, theologian, scholastic, divine, schoolman†, canonist, theologist†, the Fathers
+  the thinking of God, thinking knowledge of God, the knowledge of God in thought, religious knowledge, conceptual knowledge of God, the elevation to God in thought, the proofs of the existence of God, the cosmological proof, the teleological proof, the ontological proof, the physico-theological proof, natural theology, philosophical theology, philosophy of religion, theodicy, religious philosophy, the thinking of the infinite, reflection, the understanding in religion, rationalism, the necessity of the content, mediated knowledge, thinking reason, the concept of God, the metaphysics of God, religious speculation, sacred science, the queen of the sciences, systematic theology, doctrine, dogma, exegesis, hermeneutics
+
+V:
+  theologize, reason, reflect, demonstrate
+  think God, know God in thought, prove, argue, infer, deduce, conclude, mediate, comprehend, conceive, speculate, philosophize, dogmatize, systematize, interpret, expound, raise oneself to God, justify
+
+Adj:
+  theological, dogmatic, speculative, rational
+  religious, denominational, sectarian &c H0994
+  theologic, thinking, thoughtful, reflective, conceptual, philosophical, metaphysical, demonstrative, discursive, mediated, doctrinal, systematic, exegetical, theodical, natural-theological, reasoned
+
+Adv:
+  theologically
+  rationally, speculatively, conceptually, reflectively, discursively, in thought, by reason, by proof, by demonstration, dogmatically, doctrinally
+
+F:
+  German: religiöses Denken, das Denken, Gottesbeweise, Erhebung zu Gott, denkende Vernunft
+  Latin: theologia naturalis, theologia rationalis, fides quaerens intellectum, credo ut intelligam, regina scientiarum, via eminentiae, via negativa
+  Greek: theologia, logos
+  Arabic: kalām [dialectical theology], ʿilm al-tawḥīd
+  Sanskrit: mīmāṃsā [exegesis], vedānta
+
+Phr:
+  credo ut intelligam [Lat.]

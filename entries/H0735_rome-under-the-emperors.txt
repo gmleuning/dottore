@@ -1,0 +1,32 @@
+# 735 Rome under the Emperors (Christianity, the Byzantine Empire)
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History [Tetrad] › iii. Roman World (Abstract Legal Personhood)
+G: Rom in der Kaiserzeit
+Gloss: Rome as an empire, with the rise of Christianity and of Byzantium.
+
+N:
+  Rome under the Emperors; the Principate, the emperors, Caesars, imperial cult, Stoicism, Epicureanism, Skepticism, the rise of Christianity, the catacombs, Constantine, the Byzantine Empire, Constantinople, Byzantium
+  believer
+  declension, decadence, decrepitude
+  downfall, ruin &c H0114
+  ruin
+  imperial Rome, the Empire, Augustus, the emperor, despotism, private right, the decline and fall
+
+V:
+  rule, persecute, convert, decline, fall
+  reign, christianize
+
+Adj:
+  imperial, Augustan, Byzantine, decadent, Christian
+  Caesarean, despotic
+
+Adv:
+  under the emperors
+  under the Caesars, imperially, under the Empire
+
+F:
+  Latin: Pax Romana
+  Arabic: Qayṣar [Caesar], al-Qusṭanṭīniyya [Constantinople]
+
+Phr:
+  in hoc signo vinces [Lat.] [Constantine]
+  panem et circenses [Lat.] [Juvenal]

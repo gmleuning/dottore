@@ -1,0 +1,38 @@
+# 818 Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts
+G: Architektur
+Gloss: The art of building.
+
+N:
+  architecture; architectonics, building, construction, design, edifice, structure, frozen music
+  fabrication, erection, edification
+  fabric, pile
+  formation
+  the builder's art, tectonics, masonry
+
+V:
+  build, construct, design, erect, raise, edify, frame
+  fabricate
+  set up, rear
+  plan, contrive, project, devise
+
+Adj:
+  architectural, architectonic, structural, monumental, constructional
+  tectonic, constructive, built
+
+Adv:
+  architecturally, structurally
+  in stone
+
+F:
+  German: Baukunst
+  Latin: architectura
+  Greek: architektonikē
+  Arabic: ʿimāra [architecture], miʿmār [architect]
+  Sanskrit: vāstu-śāstra [science of building], sthāpatya
+  Chinese: jianzhu [architecture]
+  Japanese: kenchiku
+
+Phr:
+  architecture is frozen music [Schelling, attrib.]
+  firmitas, utilitas, venustas [Lat.] [firmness, commodity, delight] [Vitruvius]

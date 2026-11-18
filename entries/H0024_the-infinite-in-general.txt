@@ -1,0 +1,34 @@
+# 24 The Infinite in General
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › c. Infinity
+G: Das Unendliche überhaupt
+Gloss: The unlimited in its first, simple sense: what the limited passes into when it goes beyond itself; the negation of the finite, taken as what truly is.
+
+N:
+  the infinite in general; the beyond, beyondness, transcendence, the transcendent, the other world, otherworldliness, the hereafter, yonder, the great beyond; the unconditioned, the absolute other, the wholly other; the not-finite, the nonfinite, negation of the finite; empyrean, heaven, the heavens; ideal, the ideal; true being
+  the infinite as such, the unlimited, the non-finite
+
+V:
+  lie beyond, transcend, surpass, be other than, stand beyond, tower above
+  exceed, overpass
+  negate the finite
+
+Adj:
+  infinite, transcendent, transcendental, otherworldly, supramundane, supernal, celestial, ultramundane, beyond; unconditioned, absolute, ultimate; negative, apophatic
+  distant, remote, ulterior
+  unearthly
+  unlimited
+
+Adv:
+  beyond, in the beyond, yonder, over yonder, hereafter, in the hereafter; out of this world
+  far off, afar
+  without limit
+
+F:
+  German: das Jenseits, das ganz Andere, das Unendliche überhaupt
+  Arabic: al-ghayb [the unseen]
+  Sanskrit: paramārtha [ultimate]
+
+Phr:
+  beyond the beyond
+  my kingdom is not of this world [Bible]
+  the undiscovered country from whose bourn no traveller returns [Hamlet]

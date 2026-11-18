@@ -1,0 +1,35 @@
+# 397 The Individual and Its Genius
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy › i. Formal Subjectivity
+G: Das Individuum und sein Genius
+Gloss: The relation of a person to the guiding power within them; one's daemon or genius.
+
+N:
+  the individual and its genius; genius, guardian spirit, tutelary spirit, daemon, good angel, guardian angel, familiar, inner voice, inner oracle, conscience, intuition
+  evil genius, insight, precognition
+  the ruling self
+
+V:
+  guide, inspire, warn, prompt, counsel, whisper
+  advise, suggest, move, induce, give the cue, breathe, whisper in the ear, hint
+  govern, rule within
+
+Adj:
+  daemonic, daimonic, tutelary, guardian, inspired, intuitive, oracular
+  protective
+  guiding, inner
+
+Adv:
+  by inspiration, intuitively, as if guided
+  under one's genius, by inner prompting
+
+F:
+  Latin: genius
+  Greek: daimōn, daimonion [Socrates' inner voice]
+  Arabic: qarīn [companion spirit]
+  Sanskrit: iṣṭa-devatā [chosen deity]
+  Chinese: shouhushen [guardian deity]
+  Japanese: shugorei
+
+Phr:
+  the daimonion of Socrates
+  character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]

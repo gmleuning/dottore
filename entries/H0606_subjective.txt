@@ -1,0 +1,27 @@
+# 606 Subjective
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › β. Practical Mind › a. Practical Feeling
+G: Subjektives praktisches Gefühl
+Gloss: Feeling as the will's inner sense of agreement or disagreement with itself.
+
+N:
+  subjective practical feeling; inner feeling, private sentiment, personal pleasure and pain, agreeable or disagreeable, liking and disliking, mood
+  subjective feeling, inner sense, self-agreement, contentment, discontent, the ought in feeling
+
+V:
+  like, dislike, enjoy, mind, resent
+  delight in, rejoice in, relish
+  disrelish, object to
+  agree, disagree, accord, be content, be discontent
+
+Adj:
+  subjective, personal, private, agreeable, disagreeable
+  pleasing, pleasant, pleasurable, gratifying, acceptable, welcome
+  content, inward
+  enjoyable
+
+Adv:
+  subjectively, to one's liking
+  agreeably, contentedly, inwardly
+
+Phr:
+  de gustibus non est disputandum [Lat.]

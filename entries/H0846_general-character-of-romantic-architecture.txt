@@ -1,0 +1,23 @@
+# 846 General Character of Romantic Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › iii. Romantic Architecture
+G: Allgemeiner Charakter der romantischen Architektur
+Gloss: The general nature of romantic building.
+
+N:
+  general character of romantic architecture; inwardness, enclosure, aspiration, verticality, the upward striving, transcendence
+  the nature of romantic building, inwardness in architecture, the enclosure for devotion, elevation, infinity, the soaring, mystery, twilight, the forest of pillars
+
+V:
+  aspire, rise, enclose
+  elevate, lift, gather, uplift
+
+Adj:
+  aspiring, vertical, enclosed, transcendent
+  romantic, Gothic, inward, devotional, solemn, mysterious
+
+Adv:
+  upward, heavenward
+  in general, inwardly, solemnly, devotionally
+
+Phr:
+  the house of God

@@ -1,0 +1,71 @@
+# 684 Upbringing of Children
+# Spirit › 2. Objective Spirit › III. Ethical Life › α. Family › c. Upbringing of Children and Dissolution of the Family
+G: Kindererziehung
+Gloss: The education of children toward independence.
+
+N:
+  upbringing of children; child-rearing, education, nurture, discipline, training, schooling
+  qualification, preparation, excitation
+  instruction, edification, tuition, tutorage, tutelage, direction, guidance, opsimathy†
+  inurement &c H0427, novitiate
+  misteaching†, misinformaton, misintelligence†, misguidance, misdirection, mispersuasion†, misinstruction†, misleading, perversion, false teaching, sophistry &c H0579, college of Laputa, the blind leading the blind
+  propaganda, disinformation, agitprop, indoctrination
+  teacher, trainer, instructor, institutor, master, director, Corypheus, dry nurse, grinder, crammer, don, governor, bear leader, governess, disciplinarian
+  professor, lecturer, reader, prelector†, prolocutor, preacher, chalk talker, khoja†, pastor &c H0994, schoolmaster, usher, pedagogue, abecedarian, schoolmistress, dame, monitor, pupil teacher
+  expositor &c H0595, preceptor, guide, guru, mentor &c H0706, pioneer, missionary, munshi†, example &c H0063
+  professorship
+  learner, scholar, student, pupil, apprentice, prentice†, journeyman, articled clerk, beginner, tyro, amateur, rank amateur, alphabetarian†, alumnus
+  recruit, raw recruit, novice, neophyte, inceptor†, catechumen, probationer, seminarian, chela, fellow-commoner, debutant
+  intern, resident
+  schoolboy, fresh, freshman, frosh, junior soph†, junior, senior soph†, senior, sophister†, sophomore, questionist†
+  undergraduate, graduate student, law student, medical student, pre-med, post-doctoral student, post-doc, matriculated student, part-time student, night student, auditor
+  class, grade, seminar, remove, pupilage
+  disciple, follower, apostle, proselyte, fellow-student, condisciple†
+  the pedagogical
+  tech, prof
+  educator, skipper, preschool, highschool, postgraduate, headmaster, polytechnic, fresher, schoolteacher, demonstrator, undergrad, headmistress, yeshiva
+  educational institution, art student, head teacher, school principal, sixth-former, faculty member, eleven-plus, night school, public school, play group, college man, business college, film school, private school, training school, training college, middle school, college boy, language school, university student, college student, dance school, driving school, section teacher, science teacher, school teacher, reading teacher, music teacher, art teacher, religious school, grade school, technical school, teaching fellow, flying school, direct-grant school, graduate school, dancing school, riding school, riding master, junior college, math teacher, elementary school, nursing school, finishing school, grammar school, mathematics teacher, section instructor, private instructor, nursery school, correspondence school, veterinary school, grad student, grad school, alma mater, secretarial school
+  academy, seminary, grooming, newcomer, newbie, fledgling
+  university, uni [Brit. Coll.], college, campus, high school, secondary school, primary school, kindergarten, nursery, classroom, lesson, tutorial, course, module, semester, term, exam, test, quiz, homework, assignment, essay, coursework, mark, degree, diploma, bachelor's degree, master's degree, PhD, graduation, grad [Coll.], classmate, dean, headteacher, principal, literacy, studying, revision, cramming, enrollment, enrolment, scholarship, student loan, gap year
+
+V:
+  raise, rear, bring up, educate, discipline, train, nurture
+  bring up to, form, ground, prepare, qualify, drill, exercise, practice, habituate, familiarize with, drynurse†, take in hand, break, break in, tame, preinstruct†, initiate
+  teach, instruct, school, tutor, cram, prime, coach, enlighten &c H0595
+  edify
+  bring to maturity, nurture &c H0702
+  inure &c H0427, breed
+  misinform, misteach†, misdescribe†, misinstruct†, miscorrect†, misdirect, misguide, pervert, put on a false scent, throw off the scent, throw off the trail, deceive &c H0643, mislead &c H0204, misrepresent, lie &c H0643
+  propagandize, disinform
+  render unintelligible &c H0595, bewilder &c H0600, mystify &c H0595, unteach
+  propagandist
+  learn, practise
+  study, revise, graduate, enroll, enrol, lecture, homeschool, flunk [Coll.], fail, pass
+
+Adj:
+  educational, formative, disciplinary, nurturing, parental
+  scholastic, academic, collegiate
+  teaching, taught, doctrinal, disciplinal†, instructive, instructional, didactic, propaedeutic†, propaedeutical†
+  unedifying
+  professorial
+  in leading strings
+  educative, pedagogic
+  studious, nerdy, geeky
+
+Adv:
+  in upbringing
+  by upbringing, through discipline
+
+F:
+  German: Bildung
+  Latin: educatio, ambiguas in vulgum spargere voces [Vergil], in statu pupillari
+  Greek: paideia
+  French: dominie, eleve
+  Spanish: duenna
+  Arabic: tarbiya [upbringing]
+  Sanskrit: saṃskāra
+  Chinese: jiaoyang [upbringing]
+  Japanese: shitsuke [discipline, upbringing]
+
+Phr:
+  train up a child in the way he should go [Bible]

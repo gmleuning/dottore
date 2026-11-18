@@ -1,0 +1,45 @@
+# 476 Service
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › ii. Mastery and Servitude
+G: Dienst
+Gloss: The labour of the servant for the master, through which the servant learns to shape the world.
+
+N:
+  service; labour, work, toil, travail, drudgery, servitude, service, discipline, formative activity, shaping of things; the servant's labour that forms
+  labor, manual labor, sweat of one's brow, swink†, slavery, fagging†, hammering, industry, industriousness, operoseness†, operosity†
+  formation
+  serf, vassal, helot, bondsman, bondswoman†, bondslave†, odalisque, ryot†, villian†, villein, beadsman†, bedesman†, sizar†, pensioner, pensionary†, client, dependant, dependent, hanger on, satellite, parasite &c H0538, led captain, ward, hireling, mercenary, puppet, tool, creature
+  servitorship†, tendence†, employ, tutelage, clientship†, liability &c H0132, constraint &c H0645, oppression &c H0704, yoke &c H0650, submission &c H0704, obedience &c H0704
+  servile labour, bondage, the fear of the lord
+  helping
+
+V:
+  serve, labour, work, toil, slave, drudge, form, shape, fashion, discipline
+  moil, sweat, fag, drag a lengthened chain, wade through, strive, stretch a long arm, pull, tug, ply, ply the oar, tug at the oar, do the work, take the laboring oar, bestir oneself &c H0375, take trouble, trouble oneself
+  lick into shape, put into shape, model, work up into, mold
+  wait upon, attend upon, dance attendance upon, pin oneself upon, squire, tend, hang on the sleeve of, chore [U.S.]
+  train, break in, tame
+
+Adj:
+  serviceable, laborious, toilsome, formative, disciplined
+  laboring
+  laborious, operose†, elaborate, strained, troublesome, wearisome, uphill, herculean, gymnastic, palestric†
+  onerous, arduous
+  serving, servile
+
+Adv:
+  in service, laboriously, by the sweat of one's brow
+  lustily, with might and main, with all one's might, with a strong hand, with a sledge hammer, with much ado, to the best of one's abilities, tooth and nail, hammer and tongs, heart and soul, through thick and thin &c H0376
+  by labour
+
+F:
+  German: Arbeit, Bildung [formation]
+  Latin: limae labor, adscriptus gleboe, pugnis et calcibus, totis viribus, vi et armis, manibus pedibusque, unguibus et rostro
+  French: ame damnee, protege
+  Arabic: khidma [service], ʿamal [labour]
+  Sanskrit: sevā [service]
+  Chinese: laodong [labour]
+  Japanese: rōdō
+
+Phr:
+  work forms, Arbeit bildet [Ger.] [Hegel, paraphrased]
+  in the sweat of thy face shalt thou eat bread [Bible]

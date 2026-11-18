@@ -1,0 +1,36 @@
+# 22 Transition of the Finite into the Infinite
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › iii. Finitude as Such
+G: Übergang des Endlichen ins Unendliche
+Gloss: The way a limited thing, by pushing against its limit, goes beyond itself and points toward what has no limit.
+
+N:
+  transition of the finite into the infinite; self-transcendence, self-overcoming, self-surpassing; transgression, overstepping, overstepping of bounds, going beyond, exceeding, excess; elevation, ascent, ascension, uplift, exaltation, sublimation, rise; transcendence, transcendency, surpassing; apotheosis, deification; liberation; breakthrough, breakout, crossing, passage
+  the passage of the finite into the infinite, going beyond the limit, the self-sublation of the finite
+  jailbreak
+
+V:
+  transcend, surpass, exceed, overstep, overpass, outrun, outgrow, go beyond, get beyond, rise above, rise beyond, break through, break out, cross over; self-transcend, overcome oneself; elevate, exalt, sublimate; point beyond
+  overreach, overleap
+  transgress
+  transcend itself, pass over
+
+Adj:
+  self-transcending, self-surpassing, transcendent, transcending, liminal, transitional, transgressive; aspiring, upward, ascending, anagogic, anagogical
+  passing
+
+Adv:
+  beyond, over and above, past; upward, onward, higher
+  beyond itself, into the infinite
+
+F:
+  German: Selbstüberwindung
+  Latin: excelsior
+  Greek: anabasis, epektasis [stretching forward], theōsis
+  Arabic: fanāʾ
+  Sanskrit: mokṣa [release], nirvāṇa
+
+Phr:
+  excelsior [Lat.]
+  man is something that shall be overcome [Nietzsche]
+  per aspera ad astra [Lat.]
+  plus ultra [Lat.]

@@ -1,0 +1,38 @@
+# 215 Nature
+# (top of the system)
+G: Natur
+Gloss: The world of space, time and matter, understood as thought in the form of outwardness, where everything lies outside everything else.
+
+N:
+  nature; the natural world, the physical world, the material world, creation, the cosmos, the universe, the world, the earth, Mother Nature, Dame Nature; externality, self-externality, otherness of the idea; the order of nature, course of nature, natural order; philosophy of nature, physiology [archaic sense], natural philosophy
+  world, universe, cosmos, kosmos†, macrocosm
+  the idea in its otherness
+
+V:
+  be natural, grow, come naturally; naturalize; externalize; go forth, alienate itself
+  lie outside, exist naturally
+
+Adj:
+  natural, physical, material, cosmic, mundane, earthly, worldly, elemental, organic; external, outward, sensuous; native, inborn, innate
+  terrestrial, sublunary†
+  bodily, corporeal
+  exterior
+
+Adv:
+  naturally, by nature, according to nature, in the course of nature, physically
+  in nature, outwardly
+
+F:
+  German: Außersichsein, Anderssein, Naturphilosophie, Natur
+  Latin: natura, natura naturata, in rerum natura
+  Greek: physis
+  Arabic: ṭabīʿa [nature], kawn [cosmos]
+  Sanskrit: prakṛti [nature, matter], svabhāva
+  Chinese: ziran [nature, self-so], tiandi [heaven and earth]
+  Japanese: shizen
+
+Phr:
+  natura non facit saltus [Lat.]
+  naturam expellas furca, tamen usque recurret [Lat.] [Horace]
+  nature loves to hide, physis kryptesthai philei [Gr.] [Heraclitus]
+  the idea in the form of otherness [Hegel]

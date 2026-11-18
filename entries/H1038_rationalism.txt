@@ -1,0 +1,26 @@
+# 1038 Rationalism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy
+G: Rationalismus
+Gloss: Philosophy that takes reason, rather than the senses, as the source of certain knowledge.
+
+N:
+  rationalism; Cartesianism, innate ideas, deduction, mathematical method, clear and distinct ideas, a priori knowledge
+  intellectualism, apriorism, Continental rationalism, the natural light, pure reason, the geometrical method, demonstration, dogmatic metaphysics, Wolffianism, Descartes, Spinoza, Leibniz, Malebranche, Wolff
+
+V:
+  deduce, demonstrate, reason a priori
+  rationalize, intuit, infer, prove, derive, ratiocinate, systematize, geometrize
+
+Adj:
+  rationalist, deductive, a priori, mathematical, Cartesian
+  rationalistic, intellectualist, aprioristic, demonstrative, innatist, logical, geometrical, dogmatic
+
+Adv:
+  deductively, by pure reason, in the geometrical manner
+  demonstratively, rationally, rationalistically, by the natural light
+
+F:
+  Latin: more geometrico, a priori, mathesis universalis, lumen naturale, ideae innatae
+
+Phr:
+  ordine geometrico demonstrata [Lat.] [Spinoza]

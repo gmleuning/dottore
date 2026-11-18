@@ -1,0 +1,41 @@
+# 854 Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts
+G: Skulptur
+Gloss: The art of shaping mind in bodily form in three dimensions.
+
+N:
+  sculpture; statuary, carving, plastic art, glyptic art, modelling, casting, the chisel, the statue
+  statue, cast &c H0091, glyptotheca†
+  figure, figurine, bust, statuette
+  marble, bronze, papier-mache, ceramic ware, pottery, porcelain, china, earthenware, cloisonne, enamel, faience, Laocoon, satsuma
+  high relief, low relief, relief, bassorilievo†, altorilievo†, mezzorilievo†, intaglio, anaglyph†, medal, medallion, cameo
+  image
+  the sculptor's art, stonecutting, glyptics, plastics
+
+V:
+  sculpt, sculpture, carve, chisel, model, cast, hew, mould
+  cut, mold
+  rough hew, rough cast, block out, hammer out
+  engrave &c H0886
+
+Adj:
+  sculptural, sculptured, sculpturesque, statuesque, plastic, glyptic
+  anaglyptic†, ceroplastic†, ceramic, parian†, xanthian†
+  three-dimensional
+
+Adv:
+  sculpturally, in the round
+  plastically
+
+F:
+  German: Bildhauerei
+  Latin: sculptura
+  French: bas relief
+  Spanish: terra cotta
+  Arabic: naḥt [sculpture]
+  Sanskrit: mūrtikalā [sculpture]
+  Chinese: diaosu [sculpture]
+  Japanese: chōkoku
+
+Phr:
+  I saw the angel in the marble and carved until I set him free [attrib. Michelangelo]

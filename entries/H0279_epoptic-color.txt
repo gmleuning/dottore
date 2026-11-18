@@ -1,0 +1,25 @@
+# 279 Epoptic Color
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light › iii. Color › 2. Vision
+G: Epoptische Farbe
+Gloss: Color produced at the surface of a thin film or plate, as on a soap bubble.
+
+N:
+  epoptic colour; thin-film colour, iridescence, interference colours, Newton's rings, soap-bubble colours, oil-slick sheen, nacre, mother-of-pearl, opalescence
+  semitransparency, translucency, film
+  spectrum, rainbow, iris
+  surface colour, interference colour, the colours of the soap bubble
+
+V:
+  iridesce, shimmer, play
+
+Adj:
+  epoptic, iridescent, nacreous, opalescent, pearly, shimmering, shot
+  opaline†, prismatic, gorge de pigeon, chatoyant†, irisated†, pavonine†
+  translucent
+
+Adv:
+  iridescently
+  on the surface
+
+Phr:
+  the colours of a soap bubble

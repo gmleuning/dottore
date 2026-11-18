@@ -1,0 +1,8 @@
+# Preparatory and superseded work: drafts, reviews, sources, research scripts, old editions, design.
+# Kept locally, never uploaded. Only the page and what builds it are in the repository.
+work/
+
+# Local tooling and Python caches
+.claude/
+__pycache__/
+*.pyc

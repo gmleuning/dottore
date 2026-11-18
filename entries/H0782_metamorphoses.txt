@@ -1,0 +1,31 @@
+# 782 Metamorphoses
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 1. Comparisons Starting from the External Object
+G: Metamorphosen
+Gloss: Stories of transformation from one shape into another.
+
+N:
+  metamorphoses; transformation, metamorphosis, shape-shifting, transfiguration, Ovid's Metamorphoses, changes, transmutation, Daphne into laurel, Narcissus into flower
+  transmigration
+  shape-changing, change of form, Ovid, Daphne, Arachne, Niobe, the degradation into nature
+
+V:
+  metamorphose, transform, change shape, transmute, turn into
+  transfigure, transmogrify
+  change, shape-shift
+
+Adj:
+  metamorphic, transformative, shape-shifting, protean, Ovidian
+  transformed, transmuted
+
+Adv:
+  in transformation
+  by transformation, in changed shape
+
+F:
+  Arabic: maskh [transformation]
+  Sanskrit: rūpāntara [change of form]
+  Chinese: bianxing [metamorphosis]
+  Japanese: henshin
+
+Phr:
+  in nova fert animus mutatas dicere formas corpora [Lat.] [Ovid]

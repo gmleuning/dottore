@@ -1,0 +1,59 @@
+# 221 Surface
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › α. Space
+G: Fläche
+Gloss: Extension in two dimensions.
+
+N:
+  surface; plane, face, side, facet, area, expanse, sheet, film, skin, membrane, layer, coat, veneer, exterior, outside, top; two dimensions, flatness, planarity
+  exteriority†, superficies, superstratum†, disk, disc, extrados†
+  plate, lamina, lamella, foil, wafer, scale, flake, pellicle, leaf, shive†, cut, rasher, shaving, integument, eschar†
+  horizontality†, stratum, dead level, dead flat, level plane
+  platter, table, tablet, slab
+  lining, inner coating, coating, stalactite, stalagmite
+  filling, stuffing, wadding, padding
+  wainscot, wall
+  notch, dent, indent, indentation, dimple
+  embrasure, battlement, machicolation†, saw, tooth, crenelle†, scallop, scollop†, vandyke, depression
+  fold, plicature†, plait, pleat, ply, tuck, gather, flexion, flexure, joint, elbow, doubling, duplicature†, crumple, ruck†, dog's ear, corrugation, flounce, lapel, crow's feet, plication†
+  furrow, groove, rut, sulcus [Anat.], scratch, streak, striae, crack, score, incision, slit, chamfer, fluting, corduroy road, cradle hole
+  channel, gutter, trench, ditch, dike, dyke, moat, fosse†, trough, kennel, ravine &c H0218, tajo [U.S.], thank-ye-ma'am [U.S.]
+  two-dimensional extension
+  finishing, upside, slicing, saucer
+
+V:
+  surface, face, coat, cover, veneer, plane, flatten, level
+  slice, shave, pare, peel, delaminate
+  superpose, superimpose, overlay, overspread, wrap &c H0690, encase, incase†, case, pave, paper, tip, cap, bind, bulkhead, bulkhead in, clapboard [U.S.]
+  render horizontal, lay down, lay out, prostrate, knock down, floor, fell
+  smoothen†, file, mow, roll, macadamize, polish, burnish, calender†, glaze, iron, hot-press, mangle, lubricate &c H0230
+  line, stuff, incrust, wad, pad, fill
+  nick, jag, scarify, scotch, crimp, crenulate†
+  double, plicate†, crease, wrinkle, crinkle, crankle†, curl, cockle up, cocker, rimple†, rumple, frizzle, frounce†, rivel†, twill, corrugate, ruffle, crimple†, pucker, turn down, double down, down under, hem
+  flute, plow, incise, engrave, etch, bite in
+  spread, extend
+
+Adj:
+  superficial, planar, plane, flat, level, even, two-dimensional, facial, external
+  horizontal, flat &c H0267, flat as a billiard table, flat as a bowling green, alluvial, calm, calm as a mill pond, smooth as glass
+  outer most, outward, outlying, outdoor, round about &c H0218, extramural, extralimitary†, extramundane
+  flush, scutiform†, discoid, flat as a pancake, flat as a fluke, flat as a flounder, flat as a board, flat as my hand
+  smooth, polished, leiodermatous†, slick, velutinous†, plane &c H0267, sleek, glossy, silken, silky, lanate†, downy, velvety, glabrous, slippery, glassy, lubricous, oily, soft, unwrinkled†, smooth as ice, smooth as monumental alabaster, smooth as velvet, smooth as oil, slippery as an eel, woolly &c H0267
+  lined
+  notched, crenate†, crenated†, dentate, dentated, denticulate, denticulated, toothed, palmated†, serrated
+  folded, fluted, pleated
+  furrowed, ribbed, striated, sulcated [Anat.], canaliculated†, bisulcous†, bisulcate†, bisulcated†, canaliferous†, trisulcate†, corduroy, unisulcate†, costate†, rimiform†
+
+Adv:
+  on the surface, superficially, flat, flatwise
+
+F:
+  German: Fläche
+  Latin: superficies, parietes
+  Greek: epiphaneia
+  Arabic: saṭḥ [surface]
+  Sanskrit: tala [surface, plane]
+  Chinese: mian [surface, face]
+  Japanese: men
+
+Phr:
+  a surface is that which has length and breadth only [Euclid]

@@ -1,0 +1,35 @@
+# 263 Elasticity
+# Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad] › β. Cohesion
+G: Elastizität
+Gloss: The yielding of a body under pressure and its springing back to its former shape; resilience.
+
+N:
+  elasticity; resilience, spring, springiness, bounce, rebound, recoil, give, stretch, flexibility, pliancy, suppleness, buoyancy, recovery, Hooke's law; tension and relaxation
+  reaction, retroaction, revulsion, ricochet, repercussion, recalcitration†, kick, springing back, reflection, reflexion [Brit.], reflex, reflux, reverberation &c H0264, rebuff, repulse, return
+  softness, pliableness, pliability, sequacity†, malleability, ductility, tractility†, extendibility, extensibility, plasticity
+  tone, tension, tonicity
+  rubber, India rubber, Indian rubber, latex, caoutchouc, whalebone, gum elastic, baleen, natural rubber, neoprene, synthetic rubber, Buna- S. want of elasticity, absence of elasticity, inelasticity &c H0260
+
+V:
+  spring back, bounce back, rebound, recoil, stretch, flex, yield and recover, give
+  extend, distend, be elastic, spring back &c H0232
+  react, fly back, bound back, reverberate, repercuss†, recalcitrate†, echo
+  yield
+
+Adj:
+  elastic, resilient, springy, bouncy, stretchy, flexible, pliant, supple, rubbery, buoyant
+  tensile, renitent, ductile, stretchable, extendable
+  soft, tender, pliable, flexile, lithe, lithesome, lissom, limber, plastic, tractile†, tractable, malleable, extensile, sequacious†, aluminous†, remollient†
+  unyielding, inelastic, inflexible &c H0260, irresilient†
+
+Adv:
+  elastically, resiliently
+
+F:
+  French: contrecoup
+  Arabic: murūna [elasticity, flexibility]
+  Chinese: tanxing [elasticity]
+
+Phr:
+  ut tensio, sic vis [Lat.] [Hooke]
+  bend but not break

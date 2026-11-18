@@ -1,0 +1,44 @@
+# 121 Relation of Force and Its Expression
+# Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation
+G: Verhältnis der Kraft und ihrer Äußerung
+Gloss: The relation of a power to the effect in which it shows itself.
+
+N:
+  relation of force and its expression; force, power, potency, energy, strength, might, capacity, capability, faculty, potential; expression, manifestation, utterance, outcome, effect, output, discharge, release, exertion, display, exercise, actualization; latency and manifestation
+  potentiality, puissance, dint, ascendency†, sway, control, prepotency, prepollence†, almightiness, omnipotence, authority &c H0706, strength &c H0327
+  physical energy, keenness, intensity, elasticity, go, high pressure, fire, rush
+  vigor, main force, physical force, brute force, spring, tone, tension, tonicity
+  quality, attribute, endowment, virtue, gift, property, qualification, susceptibility
+  demonstration, exhibition
+  issue, outbreak, outburst, emanation
+  force and manifestation
+
+V:
+  exert, express, manifest, discharge, release, unleash, exercise, display, put forth, bring to bear, actualize; empower, energize
+  give energy, stimulate, kindle, excite, sharpen, intensify, inflame, wind up &c H0327
+
+Adj:
+  forceful, powerful, potent, strong, mighty, dynamic, energetic, vigorous; latent, potential, dormant; manifest, expressed, actualized, kinetic
+  hard, adamantine, stout, robust, sturdy, hardy
+  puissant, capable, able, equal to, up to, cogent, valid, efficient, productive, effective, effectual, efficacious, adequate, competent, multipotent†, plenipotent†, omnipotent, almighty
+  forcible, active, intense, deep-dyed, severe, keen, vivid, sharp, acute, incisive, trenchant, brisk
+  expressive
+  uttered
+
+Adv:
+  forcefully, powerfully, with might and main, by force; potentially; actually
+  in expression
+
+F:
+  German: Kraft, Äußerung
+  Latin: vis, in potentia, in actu
+  Greek: dynamis, energeia
+  Arabic: quwwa [force, potency]
+  Sanskrit: śakti [power, energy]
+  Chinese: li [force, strength], qi [vital force]
+  Japanese: chikara
+
+Phr:
+  knowledge is power [Bacon]
+  may the force be with you
+  scientia potentia est [Lat.]

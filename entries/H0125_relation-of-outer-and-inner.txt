@@ -1,0 +1,39 @@
+# 125 Relation of Outer and Inner
+# Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation
+G: Verhältnis des Äußern und Innern
+Gloss: The relation of inside to outside, in which what a thing is inwardly is just what it shows outwardly.
+
+N:
+  relation of outer and inner; inner and outer, inside and outside, interior and exterior, inwardness and outwardness, the inner and the outer, depth and surface, core and shell, kernel and husk; expression, manifestation, revelation, embodiment, externalization; transparency, legibility; physiognomy &c H0436
+  exteriority†, outside, surface
+  interiority, inside
+  exhibition, display
+  the outer, the identity of inner and outer
+
+V:
+  express, manifest, reveal, show, externalize, embody, wear on one's sleeve, betray, give away; internalize, interiorize
+  make manifest, render manifest, exhibit
+  show outwardly
+
+Adj:
+  inner and outer, internal and external, inward and outward, expressive, manifest, transparent, legible, revelatory
+  exterior, external, outward
+  interior, internal, inner, inward, inmost, innermost
+  outer
+
+Adv:
+  inwardly and outwardly, inside and out, through and through, within and without
+  inwardly, outwardly
+
+F:
+  German: Entäußerung
+  Arabic: bāṭin wa-ẓāhir [inner and outer]
+  Sanskrit: antara and bāhya
+  Chinese: nei and wai [inner and outer]
+  Japanese: uchi and soto [inside and outside], honne and tatemae [true feelings and public face]
+
+Phr:
+  as within, so without
+  the face is the mirror of the soul
+  what you see is what you get
+  nature has neither kernel nor shell, she is everything at once [Goethe]

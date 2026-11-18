@@ -1,0 +1,35 @@
+# 209 Theorem
+# Logic › 3. Doctrine of the Concept › III. Idea › β. The Idea of Cognition › a. The Idea of the True › ii. Synthetic Cognition
+G: Lehrsatz
+Gloss: A proposition proved from definitions and principles.
+
+N:
+  theorem; proposition, demonstration, proof, deduction, construction, lemma, corollary, porism, scholium, axiom, postulate, conjecture; geometry, Euclidean method, axiomatic method; QED
+  rigorous proof, conclusiveness, apodeixis†, apodixis†, probation, comprobation†
+  conclusion, inference
+  premises, data, principle
+  thesis
+
+V:
+  prove, demonstrate, deduce, establish, derive, construct, show, verify
+  substantiate
+
+Adj:
+  demonstrable, provable, proven, deductive, axiomatic, geometric, rigorous
+  theorematic
+
+Adv:
+  demonstrably, rigorously, QED
+  by proof
+
+F:
+  Latin: more geometrico, quod erat demonstrandum
+  Greek: theorema [also Latin]
+  Arabic: burhān [proof], mubarhana
+  Sanskrit: siddhānta [established conclusion]
+  Chinese: dingli [theorem]
+  Japanese: teiri
+
+Phr:
+  quod erat demonstrandum [Lat.]
+  there is no royal road to geometry [attrib. Euclid]

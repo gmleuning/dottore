@@ -1,0 +1,38 @@
+# 267 Shape
+# Nature › 2. Physics › III. Physics of Total Individuality
+G: Gestalt
+Gloss: The inner form by which a body arranges its own parts; figure, structure.
+
+N:
+  shape; form, figure, configuration, conformation, structure, build, frame, contour, outline, profile, silhouette, cut, cast, mould, pattern, format, arrangement, morphology; immanent form, inner form
+  make, formation, construction, trim, cut of one's jib, type, contour &c H0220, structure &c H0258, plasmature†
+  circumference, perimeter, periphery, ambit, circuit, lines tournure†, bounds, coast line
+  arc, arch, arcade, vault, bow, crescent, half-moon, lunule†, horseshoe, loop, crane neck, parabola, hyperbola, helix, spiral, catenary†, festoon, conchoid†, cardioid, caustic, tracery, arched ceiling, arched roof, bay window, bow window
+  constitution, habitude, diathesis†, fabric &c H0258, stamp, set, fit
+  formatting
+
+V:
+  shape, form, mould, fashion, model, configure, structure, figure, cast, sculpt, carve
+  efform†, chisel, hew, rough hew, rough cast, sketch, block out, hammer out, lick into shape, put into shape, knead, work up into, build &c H0137
+  sculpture, mold
+  construct, fabricate
+
+Adj:
+  shaped, formed, structured, figured, morphological, configural, shapely, well-formed
+  plastic, fictile†, formative, fluid
+  structural
+
+Adv:
+  in shape, in form, in outline
+
+F:
+  German: innere Form, Gestalt
+  Latin: figura
+  Greek: schēma, morphē
+  Arabic: shakl [shape, form], hayʾa [configuration]
+  Sanskrit: ākṛti [shape, form], saṃsthāna
+  Chinese: xingzhuang [shape]
+  Japanese: katachi
+
+Phr:
+  form is emptiness, emptiness is form, rūpaṃ śūnyatā śūnyataiva rūpam [Skt.] [Heart Sutra]

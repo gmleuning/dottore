@@ -1,0 +1,31 @@
+# 918 Poetic and Prosaic Works of Art
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 1. Poetry as Distinct from Prose
+G: Das poetische und das prosaische Kunstwerk
+Gloss: The poetic work, a free and self-contained whole, as against prose works such as history-writing and oratory, which serve a purpose outside themselves.
+
+N:
+  poetic and prosaic works of art; poem, prose work, historiography, oratory, rhetoric
+  elocution, eloquence, declamation, grandiloquence, multiloquence†, burst of eloquence, facundity†, flow of words, command of words, command of language, power of speech
+  verse work, the history, the speech, the oration, prose composition, poetic composition, the free work of art, purposive prose, the art of history, the art of oratory, the historian, the orator
+
+V:
+  write, compose
+  write prose, write in prose
+  versify, poetize, narrate, orate, persuade, record
+
+Adj:
+  literary, rhetorical, historiographic
+  rhymeless†, unrhymed, not in verse
+  eloquent, elocutionary, oratorical, declamatory
+  ornate, florid, flowery
+  poetic, prosaic, versified, historical, purposive, free
+
+Adv:
+  in prose, in verse
+  poetically, prosaically, rhetorically
+
+F:
+  Latin: copia verborum, usus loquendi
+
+Phr:
+  history and oratory as prose arts

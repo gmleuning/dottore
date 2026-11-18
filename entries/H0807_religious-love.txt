@@ -1,0 +1,35 @@
+# 807 Religious Love
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › i. The Religious Domain of Romantic Art
+G: Die religiöse Liebe
+Gloss: The love of the soul for God.
+
+N:
+  religious love; divine love, devotion, adoration, the love of Mary, the Madonna, maternal love, mystical love
+  aspiration, homage
+  yearning, passion, fervor, rapture
+  love of God, holy love, spiritual love, the love of Christ, Mary's love, mother-love, charity, agape, blessedness, bliss, self-surrender
+
+V:
+  love, adore, worship, cherish
+  lift up the heart, aspire, revere &c H0483
+  surrender, give oneself, bless
+
+Adj:
+  loving, devotional, adoring, tender, merciful
+  affectionate, ardent, rapturous, devoted
+  holy, blessed, blissful, self-surrendering, maternal, seraphic
+
+Adv:
+  lovingly, devotedly
+  in love, blissfully
+
+F:
+  Latin: caritas, amor Dei
+  Greek: agapē
+  Arabic: maḥabba [love], ʿishq ilāhī [divine love]
+  Sanskrit: bhakti [devotion]
+  Chinese: ci'ai [compassionate love]
+
+Phr:
+  God is love, Deus caritas est [Lat.] [Bible]
+  ubi caritas et amor, Deus ibi est [Lat.]

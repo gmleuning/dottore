@@ -1,0 +1,33 @@
+# 330 Systems of Shape
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad]
+G: Systeme der Gestalt
+Gloss: The bodily systems in which the functions of the organism are carried out.
+
+N:
+  systems of shape; bodily systems, organ systems, nervous system, circulatory system, digestive system, skeletal system, muscular system, respiratory system; apparatus, organs
+  the nervous the circulatory and the digestive systems, anatomy
+  musculoskeletal system, locomotor system, cardiorespiratory system, lymphatic system, endocrine system, immune system, urinary system, excretory system, reproductive system, integumentary system, sensory system
+  viscera, innards, insides, guts, vitals, inwards†, works [Slang], plumbing [Slang], wiring [Slang], machinery, the inner man
+  stomach, liver, lung, kidney, gut
+  bowel, intestine, tum, ticker
+  internal organ, respiratory organ, urinary organ, third stomach, second stomach, fourth stomach, first stomach, book lung, flame cell, small intestine, large intestine, athlete's heart, external gill, descending colon, ascending colon, transverse colon
+
+V:
+  integrate, coordinate, systematize
+  organize, articulate
+
+Adj:
+  systemic, systematic, organic, integrated
+  anatomical
+
+Adv:
+  systemically
+  by system
+
+F:
+  Arabic: anẓima [systems]
+  Chinese: xitong [system]
+
+Phr:
+  the body is a commonwealth
+  sensibility irritability and reproduction [Hegel after Kielmeyer]

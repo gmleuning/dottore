@@ -1,0 +1,30 @@
+# 1014 Socrates
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › b. Greek Philosophy › i. From Thales to Aristotle › 2. Socratism
+G: Sokrates
+Gloss: The thinker who made inner reflection the judge of truth and goodness, seeking through questioning the general definitions behind moral words; the turn from received custom to examined conviction.
+
+N:
+  Socrates; the gadfly, the midwife of ideas, maieutics, Socratic irony, the hemlock, the trial, the turn to conscience and the concept
+  the son of Sophroniscus, the Athenian gadfly, the wisest of men, the torpedo-fish, the stingray, the martyr of philosophy, Xanthippe, the Apology, the agora, the Delphic oracle
+  the elenchus, cross-examination, the Socratic method, Socratic ignorance, the examined life, self-knowledge, the definition, induction, the universal, virtue as knowledge, the daemon, the inner voice, the divine sign, subjective freedom, moral reflection, inwardness, the principle of subjectivity
+
+V:
+  question, examine, refute, deliver ideas, drink the hemlock
+  interrogate, cross-examine, cross-question, catechize, elicit, draw out, define, induce, profess ignorance, dissemble ignorance, confute, convict of ignorance, sting, awaken, know oneself, obey the inner voice
+
+Adj:
+  Socratic, ironic, maieutic, elenctic
+  questioning, interrogative, catechetical, dialectical, self-examining, self-knowing, inductive, definitional, daemonic, dissembling, gadfly-like
+
+Adv:
+  Socratically
+  ironically, maieutically, elenctically, dialectically, interrogatively, by question and answer, by cross-examination
+
+F:
+  Latin: nosce te ipsum
+  Greek: maieutikē, eirōneia, the daimonion [inner voice], elenchos, gnōthi seauton, aretē, ti esti, epagōgē
+  Arabic: Suqrāṭ
+
+Phr:
+  I know that I know nothing
+  know thyself [Delphic, taken up by Socrates]

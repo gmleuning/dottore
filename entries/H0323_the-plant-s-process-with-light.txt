@@ -1,0 +1,30 @@
+# 323 The Plant's Process with Light
+# Nature › 3. Organics › II. Plant Nature › β. The Plant's Process of Assimilation
+G: Lichtprozess der Pflanze
+Gloss: The plant's turning toward light, and its transformation of light into color and vigour.
+
+N:
+  the plant's process with light; photosynthesis, phototropism, heliotropism, greening, chlorophyll, colour of flowers, blossoming, flowering, florescence; heliotrope, sunflower
+  turning to the light, coloration, vigour, the plant's self in light
+
+V:
+  turn toward the light, follow the sun, green, blossom, bloom, flower
+  turn to the light, colour, thrive
+
+Adj:
+  phototropic, heliotropic, photosynthetic, verdant, blooming, floriferous
+  verdurous
+  light-seeking
+
+Adv:
+  sunward, toward the light
+  in the sun
+
+F:
+  French: tournesol
+  Arabic: ḍawʾ [light]
+  Chinese: guanghe zuoyong [photosynthesis]
+  Japanese: kōgōsei
+
+Phr:
+  the sunflower turns to the sun

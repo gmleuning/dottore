@@ -1,0 +1,37 @@
+# 145 The Universal Concept
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › α. The Concept as Such
+G: Der allgemeine Begriff
+Gloss: A general idea taken not as a mere common feature but as one nature that runs through and shapes all its kinds and instances, as "animal" in every animal.
+
+N:
+  the universal concept; universal, the universal, universality, generality; genus, kind, class, category, type, sort, family, order, form, idea, ideal type; common nature, what is common; general term, common noun, general idea, abstract idea; universals, problem of universals, realism and nominalism, universalia ante rem, in re; concrete universal
+  generalization, catholicity, catholicism, common run, worldwideness†
+  division, categorema†, head, section, department, subdepartment, province, domain
+  pattern, archetype, exemplar, paradigm
+
+V:
+  universalize, generalize, abstract, extend, embrace, encompass, subsume, apply to all, hold of all
+  comprehend
+
+Adj:
+  universal, general, generic, common, collective, catholic, ecumenical, all-embracing, comprehensive, abstract, ideal, typical, archetypal
+  broad, sweeping, encyclopedical†, widespread &c H0035
+  catholical†, worldwide, oecumenical†, transcendental, prevalent, prevailing
+
+Adv:
+  universally, generally, in general, in the abstract, as a rule, across the board, without exception
+  always, for better for worse, generally speaking, speaking generally, in the long run &c H0045
+  for the most part, usually, typically, most often, most frequently
+  mostly, largely
+
+F:
+  German: Allgemeinheit, das konkrete Allgemeine
+  Latin: universale, natura communis, post rem, semper et ubique
+  Greek: katholou [on the whole, universal], to katholou, eidos, koinon
+  Arabic: kullī [universal]
+  Sanskrit: sāmānya [generality], jāti [genus]
+  Chinese: gong [common], pubian [universal]
+
+Phr:
+  universalia sunt realia [Lat.]
+  quod semper, quod ubique, quod ab omnibus [Lat.] [Vincent of Lérins]

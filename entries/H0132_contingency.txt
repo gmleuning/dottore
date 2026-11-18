@@ -1,0 +1,47 @@
+# 132 Contingency (Formal Actuality, Possibility, and Necessity)
+# Logic › 2. Doctrine of Essence › III. Actuality › β. Modal Actuality
+G: Zufälligkeit
+Gloss: What happens to be but might have been otherwise; chance. Possibility, actuality and necessity taken in their bare logical form.
+
+N:
+  contingency; chance, accident, hazard, fortuity, fortuitousness, randomness, luck, happenstance, coincidence, serendipity, fluke, toss-up, lottery, roll of the dice, accident of history; possibility, formal possibility, logical possibility, conceivability, the possible, what might have been; formal actuality, formal necessity; fortune, fate &c
+  indetermination, hap, chance medley, contingence, adventure, hit, equal chance, turn of the table, turn of the cards, hazard of the die, chapter of accidents, fickle finger of fate, cast of the dice, throw of the dice, heads or tails, flip of a coin, wheel of Fortune, sortes†, sortes Virgilianae†
+  lot, fate &c H0134, good luck &c H0657
+  opportunity
+
+V:
+  happen, chance, befall, betide, occur by chance, turn up, fall out, come about; might be, could be, may be, might have been otherwise
+
+Adj:
+  contingent, accidental, fortuitous, chance, random, haphazard, aleatory, aleatoric, adventitious, casual, incidental, coincidental, serendipitous, arbitrary, unforeseen, unpredictable; possible, conceivable, thinkable, imaginable, feasible; could-have-been-otherwise
+  causeless, uncaused, undetermined, indeterminate, statistical
+  derived from without, objective, extrinsic, extrinsical†, extraneous &c H0081, modal, ascititious†, adscititious†, nonessential
+  unintentional, unintended, not meant, undesigned, purposed, unpremeditated &c H0609, uncontemplated, never thought of
+  on the cards, within range of, at the mercy of
+  in the cards, on the dice, in posse, within the bounds of possibility, credible, compatible &c H0087, likely
+  circumstantial, given, conditional, provisional, critical, adventitious &c H0081, limitative†
+  unplanned
+
+Adv:
+  by chance, by accident, accidentally, fortuitously, at random, as it happens, as luck would have it, perchance, perhaps, maybe, peradventure†, mayhap†, haply†
+  possibly, by possibility
+  casually, for aught one knows, as good would have it, as bad would have it, as ill-luck would have it, as chance would have it, as it may be, as it may chance, as it may turn up, as it may happen, as the case may be
+  randomly, unpredictably, unforeseeably, unintentionally, unwittingly
+  during pleasure, during good behavior
+  contingently
+  fortunately, luckily, indiscriminately
+
+F:
+  German: Möglichkeit, Zufälligkeit
+  Latin: contingentia, Fortuna, quamdiu se bene gesserit
+  Greek: to endechomenon, tychē
+  Arabic: ittifāq [chance], mumkin [contingent, possible], imkān [possibility]
+  Sanskrit: yadṛcchā [chance]
+  Chinese: ouran [chance]
+  Japanese: gūzen
+
+Phr:
+  alea iacta est [Lat.]
+  time and chance happeneth to them all [Bible]
+  for want of a nail the kingdom was lost
+  Cleopatra's nose, had it been shorter, the whole face of the earth would have changed [Pascal]

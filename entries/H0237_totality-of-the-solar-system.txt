@@ -1,0 +1,34 @@
+# 237 Totality of the Solar System
+# Nature › 1. Mechanics › III. Absolute Mechanics (Astronomy)
+G: Totalität des Sonnensystems
+Gloss: The sun with its planets, moons and comets as one system.
+
+N:
+  totality of the solar system; solar system, planetary system, heliocentric system, Copernican system, sun, planets, moons, satellites, comets, asteroids, the planetary family, orrery, armillary sphere; system of the world
+  orb of day, planet, planetoid, comet, satellite, moon, meteor
+  heavenly bodies, stars
+  ecliptic
+  astronomy
+  the system of the heavens, the heavenly system, the cosmos, sun and planets
+
+V:
+  revolve around, orbit, circle
+  revolve, systematize
+
+Adj:
+  solar, heliocentric, planetary, Copernican, systemic
+  heliacal†, lunar, celestial, heavenly, sidereal
+
+Adv:
+  around the sun, in the solar system
+  as one system
+
+F:
+  Latin: systema mundi
+  Arabic: al-majmūʿa al-shamsiyya [solar system]
+  Sanskrit: saurajagat [solar world]
+  Chinese: taiyang xi [solar system]
+
+Phr:
+  and yet it moves
+  De revolutionibus orbium coelestium [Lat.] [Copernicus]

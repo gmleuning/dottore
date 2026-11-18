@@ -1,0 +1,33 @@
+# 477 Community of Need and Provision
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › ii. Mastery and Servitude
+G: Gemeinsamkeit des Bedürfnisses und der Sorge
+Gloss: The shared need and its provision that bind master and servant together.
+
+N:
+  community of need and provision; mutual dependence, interdependence, shared need, provision, provisioning, supply, care, the household, economy, division of labour, symbiosis
+  subvention &c H0702, resources &c H0196
+  means, resources, wherewithal, ways and means, provision &c H0690
+  nourishment, sustenance, nurture, subsistence
+  common need, mutual need, foresight, shared want, the common store
+  assistance, supplying
+
+V:
+  provide, supply, furnish, care for, depend on one another
+  suppeditate†, find, find one in, arm
+  aid, assist, help, succor
+  need
+
+Adj:
+  interdependent, mutual, symbiotic, provident, economic
+  reciprocal, correlative, complementary
+  common
+
+Adv:
+  mutually, together
+  in common, by mutual need, providently
+
+F:
+  Greek: oikos
+
+Phr:
+  each depends on the other

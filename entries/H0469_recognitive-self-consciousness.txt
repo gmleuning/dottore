@@ -1,0 +1,36 @@
+# 469 Recognitive Self-Consciousness
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness
+G: Anerkennendes Selbstbewusstsein
+Gloss: Self-awareness that can be satisfied only by another self that acknowledges it.
+
+N:
+  recognitive self-consciousness; recognition, acknowledgment, esteem, regard, respect, validation, affirmation, intersubjectivity, mutual recognition, being-seen, the gaze of the other; dignity, honour
+  assent, admission, avowal
+  consideration, deference
+  honor, respectability &c H0663, good name
+  approbation, approval, appreciation
+  recognizing self-consciousness, the doubling of self-consciousness, the self for another, the need for recognition, being-for-another
+
+V:
+  recognize, acknowledge, esteem, respect, validate, affirm, honour, see
+  esteem &c H0483
+  observe
+  seek recognition, be acknowledged
+
+Adj:
+  recognized, acknowledged, esteemed, respected, validated, intersubjective
+  recognitive, mutual, doubled
+
+Adv:
+  in recognition, mutually
+  through another
+
+F:
+  German: Anerkennung
+  French: le regard [Sartre]
+  Arabic: iʿtirāf [recognition]
+  Chinese: chengren [recognition]
+  Japanese: shōnin
+
+Phr:
+  self-consciousness exists in and for itself when, and by the fact that, it so exists for another [Hegel]

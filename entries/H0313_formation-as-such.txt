@@ -1,0 +1,32 @@
+# 313 Formation as Such
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation
+G: Gestaltung als solche
+Gloss: The plant's growth taken simply as growth.
+
+N:
+  formation as such; growth, increase, extension, sprouting, shooting, budding, branching, ramification, proliferation, elongation, vegetative growth
+  expansion, increment, development, pullulation
+  accretion
+  germination, upgrowth†, accretion &c H0050, gemmation†
+  arborescence†
+  bifurcation
+  scion, shoot, off-shoot
+  vegetation
+
+V:
+  grow, sprout, shoot up, spring up, branch, ramify, extend, elongate, proliferate
+  expand, enlarge, swell, spread
+  sprout &c H0218
+  vegetate
+
+Adj:
+  growing, burgeoning, sprouting, branching, ramifying, rank, lush
+  vegetable, vegetal
+  vegetative, proliferating
+
+Adv:
+  in growth, upward and outward
+  by growth, vegetatively
+
+Phr:
+  tall oaks from little acorns grow

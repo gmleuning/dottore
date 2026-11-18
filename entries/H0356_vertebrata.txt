@@ -1,0 +1,27 @@
+# 356 Vertebrata [Tetrad]
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology)
+G: Wirbeltiere
+Gloss: Animals with a backbone.
+
+N:
+  vertebrata; vertebrates, backboned animals, craniates; fish, amphibians, reptiles, birds, mammals
+  the spine, the vertebral column, the higher animals
+
+V:
+  articulate
+  have a backbone
+
+Adj:
+  vertebrate, vertebral, spinal, backboned
+  axial
+
+Adv:
+  vertebrally
+
+F:
+  Arabic: fiqāriyyāt [vertebrates]
+  Chinese: jizhui dongwu [vertebrates]
+  Japanese: sekitsui dōbutsu
+
+Phr:
+  the backbone of creation

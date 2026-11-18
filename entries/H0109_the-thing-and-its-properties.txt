@@ -1,0 +1,35 @@
+# 109 The Thing and Its Properties
+# Logic › 2. Doctrine of Essence › II. Appearance › α. Existence
+G: Das Ding und seine Eigenschaften
+Gloss: The existing thing considered as a unit with many properties.
+
+N:
+  the thing and its properties; thing, object, article, item, body, entity, substance, bearer, owner, possessor of properties, substrate, subject of predication; bundle, bundle of qualities, cluster, set of properties; also
+  substantiality, hypostasis, person, being, a being, an existence, creature, flesh and blood, matter &c H0229, corporeity†, essential nature, groundwork, materiality, substantialness, vital part
+  matter, brute matter, stuff, element, principle, parenchyma [Biol.], substratum, hyle†, corpus, pabulum, frame
+  something, materials &c H0691
+  the propertied thing, the bearer of properties, the one and its many properties
+
+V:
+  have, possess, bear, carry, exhibit, display, show
+
+Adj:
+  thingly, thinglike, objectual, concrete, bodily, material, propertied
+  substantive, substantial, hypostatic, personal, tangible &c H0229
+  corporeal, corporal, physical, somatic, somatoscopic†, sensible, tangible, ponderable, palpable
+
+Adv:
+  as a thing, in itself, as such
+  substantially, essentially
+
+F:
+  German: Ding, Auch [the "also" of properties]
+  Latin: res
+  Greek: pragma
+  Arabic: shayʾ [thing]
+  Sanskrit: dravya [substance] and guṇa [quality]
+  Chinese: wu [thing]
+  Japanese: mono
+
+Phr:
+  a thing is a bundle of qualities [after Hume]

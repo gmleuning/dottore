@@ -1,0 +1,27 @@
+# 836 Species of Temple
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 2. Particular Formations of Classical Architecture
+G: Tempelarten
+Gloss: The kinds of temple, distinguished by the arrangement of their columns.
+
+N:
+  species of temple; temple types, peripteral, dipteral, prostyle, amphiprostyle, in antis, peristyle
+  arcade, cloister
+  kinds of temple, types of temple, peripteral temple, dipteral temple, pseudodipteral, hypaethral temple, intercolumniation
+
+V:
+  surround, enclose, colonnade
+  classify, distinguish, arrange, range, space
+
+Adj:
+  peripteral, prostyle, circular, rectangular
+  hypaethral, tetrastyle, hexastyle, octastyle
+
+Adv:
+  surrounded by columns
+  by kind, by arrangement, in rows
+
+F:
+  Greek: tholos
+
+Phr:
+  a temple in antis

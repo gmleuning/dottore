@@ -1,0 +1,43 @@
+# 450 Perception (the Thing and Deception)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such
+G: Wahrnehmung
+Gloss: Awareness that takes its object as a thing with many properties, and struggles to hold its unity and its many features together, at the risk of error.
+
+N:
+  perception; the thing and deception; perceiving, apprehension, discernment, observation, noticing, the thing with many properties, the one and the also; illusion, deception, error, misperception, misapprehension
+  impression
+  fallacy, misconception, misunderstanding
+  misinterpretation, misconstruction
+  attention, heed
+  taking-as-true, the thing with properties
+  mistaking
+
+V:
+  perceive, apprehend, discern, notice, observe, take as true, take for; mistake, misperceive, be deceived
+  make out, recognize
+  err, be mistaken, be deceived &c H0643, deceive oneself, misapprehend, misconceive
+  descry, distinguish
+  remark, take notice
+  misunderstand
+
+Adj:
+  perceptual, perceptive, perceptible, observant, discerning; deceptive, illusory, mistaken
+  delusive, delusory
+  illusive, specious
+  perceived
+
+Adv:
+  perceptibly, to all appearances, apparently
+  perceptually, in perception
+
+F:
+  German: das Ding und die Täuschung, Wahrnehmung
+  Latin: perceptio
+  Arabic: idrāk [perception]
+  Sanskrit: pratyakṣa, savikalpa [conceptual perception]
+  Chinese: zhijue [perception]
+  Japanese: chikaku
+
+Phr:
+  salt is white, and also tart, and also cubical [Hegel]
+  things are not always what they seem

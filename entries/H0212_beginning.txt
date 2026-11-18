@@ -1,0 +1,43 @@
+# 212 Beginning
+# Logic › 3. Doctrine of the Concept › III. Idea › γ. The Absolute Idea
+G: Anfang
+Gloss: The first step of method: the simple starting point that contains everything yet to unfold.
+
+N:
+  beginning; start, outset, commencement, inception, origin, onset, threshold, starting point, point of departure, first step, opening, debut, genesis, birth, dawn, seed, germ, embryo, root, source, fountainhead; presuppositionlessness; immediacy, simplicity
+  incipience, inchoation†, alpha, inauguration, first move, fresh start, new departure
+  rudiment, cradle, infancy, nucleus, radix
+  precursor, antecedent, precedent, predecessor, forerunner, vancourier†, pioneer, prodrome†, prodromos†, prodromus†, outrider, leader, bellwether, herald, harbinger, foreboding, avant-courier, avant-garde, bellmare†, forelooper†, foreloper†, stalking-horse, voorlooper [Afrik.], voortrekker [Afrik.]
+  prelude, preamble, preface, prologue, foreword, protasis†, proemium†, prolusion†, proem, prolepsis [Gramm.], prolegomena, prefix, introduction, heading, frontispiece, groundwork, preparation &c H0196, overture, symphony, premises
+  prefigurement &c H0972, omen &c H0972
+  showtime
+
+V:
+  begin, start, commence, initiate, inaugurate, set out, set off, launch, open, embark, institute, found, originate, kick off, get under way
+  conceive, set in, take its rise, enter upon, arise
+  sow the seeds of, lay the foundation of
+
+Adj:
+  initial, incipient, inaugural, introductory, opening, first, primary, primal, primordial, original, seminal, germinal, embryonic, inchoate, nascent, elementary, rudimentary
+  initiatory, inceptive, inchoative†, primeval, radical, preliminary
+  precursory, prelusive, prelusory, preludious†, proemial†, prefatory, prodromous†, precedent &c H0222
+  exploratory
+
+Adv:
+  at first, in the beginning, at the outset, initially, originally, from scratch, from the ground up
+  first and foremost, in the first place, in the bud, in embryo, in its infancy, from the beginning, from its birth
+
+F:
+  German: Anfang
+  Latin: initium, principium, terminus a quo, ab initio, ab ovo, imprimis, in limine, in ovo, ab origine, ab incunabulis, exordium
+  Greek: archē
+  French: le premier pas, avant-coureur, avant-propos
+  Arabic: bidāya [beginning], mabdaʾ [principle]
+  Sanskrit: ādi [beginning]
+  Chinese: shi [beginning], yuan [origin]
+  Japanese: hajime
+
+Phr:
+  in the beginning was the Word [Bible]
+  well begun is half done, dimidium facti qui coepit habet [Lat.] [Horace]
+  a journey of a thousand li begins with a single step [Laozi]

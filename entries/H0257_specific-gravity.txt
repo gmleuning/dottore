@@ -1,0 +1,46 @@
+# 257 Specific Gravity
+# Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad]
+G: Spezifische Schwere
+Gloss: The weight of a body relative to its volume; density.
+
+N:
+  specific gravity; density, specific weight, relative density, mass per volume, compactness, solidity, closeness, heaviness, ponderosity, weightiness; buoyancy, flotation, Archimedes' principle
+  weight, gravity, gravitation
+  lightness, levity, imponderability
+  consistence, impenetrability, incompressibility
+  hydrometer, areometer†
+  rarity, tenuity, absence of solidity, subtility†, subtilty†, subtlety, sponginess, compressibility
+  rarefaction, expansion, dilatation, inflation, subtilization†
+  vaporization, evaporation, diffusion, gassification†
+  ether &c H0247
+  relative weight
+
+V:
+  weigh, sink, float, displace
+  gravitate, press
+  be buoyed up
+  rarefy, expand, dilate, subtilize†
+  outweigh
+
+Adj:
+  dense, heavy, compact, solid, close, thick, ponderous, light, buoyant
+  massive, serried, impenetrable
+  weighty, ponderable, heavy as lead
+  imponderable, weightless, tenuous
+  rare, subtile, thin, fine, compressible, flimsy, slight, cavernous, spongy &c H0267
+  rarefied, unsubstantial, uncompact†, incompressed†, rarefiable†
+  specific
+
+Adv:
+  by weight, for its size
+  densely
+
+F:
+  German: spezifische Schwere
+  Arabic: al-wazn al-nawʿī [specific weight]
+  Sanskrit: ghanatva [density]
+  Chinese: bizhong [specific gravity]
+  Japanese: hijū
+
+Phr:
+  eureka! [Gr.] [Archimedes]

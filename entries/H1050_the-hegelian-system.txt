@@ -1,0 +1,29 @@
+# 1050 The Hegelian System
+# Spirit › 3. Absolute Spirit › III. Philosophy
+G: Das Hegelsche System
+Gloss: The philosophical system that grasps the whole of reality as the self-development of reason.
+
+N:
+  the Hegelian system; Hegelianism, Hegel's philosophy, absolute idealism, dialectic, speculative philosophy, the encyclopaedia, Right Hegelians, Left Hegelians, Young Hegelians, neo-Hegelianism
+  Hegelism, the System, panlogism, speculative idealism, objective idealism, philosophy of the absolute, the absolute system, Old Hegelians, British idealism, dialectics, triad
+
+V:
+  systematize, sublate, mediate, reconcile
+  comprehend, speculate, totalize, dialecticize, overcome, unify
+
+Adj:
+  Hegelian, dialectical, speculative, systematic, absolute
+  panlogical, idealist, triadic, totalizing, all-comprehending, encyclopaedic, Hegelianizing
+
+Adv:
+  dialectically, systematically
+  speculatively, absolutely, triadically, in and for itself
+
+F:
+  Arabic: hīghiliyya
+  Chinese: heigeer zhexue
+  Japanese: hēgeru tetsugaku
+
+Phr:
+  what is rational is actual, and what is actual is rational [Hegel]
+  the true is the whole [Hegel]

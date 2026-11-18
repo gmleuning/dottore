@@ -1,0 +1,45 @@
+# 389 Touch (Feeling)
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses
+G: Gefühl
+Gloss: The sense that perceives solid reality by contact.
+
+N:
+  touch; feeling, tactility, contact, handling, palpation, the tactile sense, the sense of the solid, resistance, pressure, hardness, warmth
+  tact, taction†, palpability, contrectation†, manipulation, massage
+  contiguity, proximity, apposition, abuttal†, juxtaposition, abutment, osculation, meeting, appulse†, rencontre†, rencounter†, syzygy [Astr.], coincidence, coexistence, adhesion &c H0258
+  hand, forefinger, thumb, paw, feeler, antenna, palpus†
+  numbness &c H0385, anaesthesia, pins and needles
+  cuddle, hug, squeeze, snuggle, pat, slap, pinch, nudge, rub, backrub
+  squeezing, nestle
+
+V:
+  touch, feel, handle, finger, stroke, caress, grasp, palpate, press
+  fumble, grope, grabble, twiddle, tweedle, pass the fingers over, run the fingers over, manipulate, wield, throw out a feeler
+  adjoin, abut on, graze, meet, osculate, come in contact
+  itch, tingle, creep, thrill, sting, prick, prickle, tickle, titillate
+  feel up [Slang], cop a feel [Slang], spoon, poke
+
+Adj:
+  tactile, tactual, tangible, palpable, haptic, touching
+  corporeal, sensible, ponderable
+  contiguous, in contact, conterminous, end to end, osculatory, pertingent†, tangential
+  numb, benumbed, deadened, intangible, impalpable
+  itching, stereognostic†, titillative
+  touchy-feely, handsy [Slang], squishy, squidgy [Brit.], sticky, gooey, slimy
+
+Adv:
+  by touch, to the touch, hands-on
+  tangibly
+
+F:
+  German: Gefühl
+  Latin: tactus
+  Greek: haphē
+  Arabic: lams [touch]
+  Sanskrit: sparśa [touch, contact]
+  Chinese: chujue [touch]
+  Japanese: shokkaku
+
+Phr:
+  noli me tangere [Lat.] [Bible]
+  seeing's believing, but feeling's the truth

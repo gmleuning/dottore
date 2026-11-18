@@ -1,0 +1,30 @@
+# 90 Absolute Difference
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › β. Determinations of Reflection › b. Difference
+G: Absoluter Unterschied
+Gloss: Difference as such, considered by itself rather than as a difference between particular things.
+
+N:
+  absolute difference; difference as such, pure difference, difference in itself, self-related difference, simple difference, otherness as such; the negative, negativity; radical difference, absolute otherness, wholly other; incommensurability
+  the difference of essence
+
+V:
+  differ absolutely, be wholly other, be radically different
+  differ, distinguish itself, differentiate
+
+Adj:
+  absolute, pure, radical, simple, sheer, unqualified, incommensurable, wholly other
+  mere, bare
+  self-related
+
+Adv:
+  absolutely, radically, utterly
+  in itself
+
+F:
+  German: das ganz Andere
+  Latin: toto caelo [by the whole heaven]
+
+Phr:
+  toto caelo [Lat.]
+  as different as chalk and cheese
+  worlds apart

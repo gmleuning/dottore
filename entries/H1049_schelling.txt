@@ -1,0 +1,23 @@
+# 1049 Schelling
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy › iii. Critical Philosophy (German Idealism)
+G: Schelling
+Gloss: The thinker who treated nature and mind as two expressions of a single underlying identity, so that nature is visible mind and mind is invisible nature.
+
+N:
+  Schelling; philosophy of nature, the absolute as indifference of subject and object, identity philosophy, intellectual intuition, art as organ of philosophy, the late philosophy of revelation, potencies, powers
+
+V:
+  intuit, identify, unite
+
+Adj:
+  Schellingian, romantic, organic, intuitive
+
+Adv:
+  intuitively
+
+F:
+  German: Naturphilosophie, Identitätsphilosophie, Indifferenz [nondifference], Potenzen [potencies]
+
+Phr:
+  nature is visible spirit, spirit invisible nature [Schelling]
+  the night in which all cows are black [Hegel]

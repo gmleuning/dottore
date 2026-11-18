@@ -1,0 +1,44 @@
+# 26 Affirmative Infinity
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › c. Infinity
+G: Affirmative Unendlichkeit
+Gloss: The unlimited understood as including the limited rather than lying beyond it; completeness rather than endlessness. Pictured as a circle, as against an endless line.
+
+N:
+  affirmative infinity, true infinity, genuine infinite; actual infinite, completed infinite; circle, cycle, ring, orb, sphere, round, closed curve, serpent swallowing its tail; return, homecoming, self-return; wholeness, totality, completeness, entirety, fullness, plenitude, perfection, consummation; self-containment, self-sufficiency, autarky; the whole; mandala; eternity, eternal now
+  integrity, unity &c H0031, completeness &c H0120, integration
+  hoop, annulus, loop, wheel, orbit
+  circuit
+  fullness &c H0120
+  the true infinite, the affirmative infinite
+
+V:
+  return, come round, come full circle, close the circle, round off, complete, consummate, perfect; include, embrace, encompass, comprehend, contain
+  comprise
+  include &c H0144
+  enclose, encircle
+  return into itself
+
+Adj:
+  infinite, true, genuine, actual; circular, cyclic, cyclical, orbicular, spherical, rounded, self-returning, self-enclosed, self-contained, self-sufficient; whole, entire, complete, total, integral, perfect, consummate; all-embracing, all-encompassing, comprehensive
+  annular
+  complete &c H0120
+  whole &c H0120, perfect &c H0197, absolute, plenary
+  truly infinite
+
+Adv:
+  in full, all in all, altogether, through and through; full circle
+  truly, completely
+
+F:
+  German: wahrhafte Unendlichkeit, Rückkehr in sich, das Ganze, die wahrhafte Unendlichkeit
+  Latin: infinitum actu, nunc stans, in toto
+  Greek: ouroboros, plērōma
+  Arabic: dāʾira [circle]
+  Sanskrit: maṇḍala
+  Chinese: taiji
+  Japanese: ensō [Zen circle]
+
+Phr:
+  in my end is my beginning [T. S. Eliot]
+  das Wahre ist das Ganze [Ger.] [Hegel]
+  God is an infinite sphere whose centre is everywhere and circumference nowhere [Liber XXIV philosophorum]

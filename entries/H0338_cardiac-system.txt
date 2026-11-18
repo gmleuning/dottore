@@ -1,0 +1,39 @@
+# 338 Cardiac System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › ii. Blood System
+G: Herzsystem
+Gloss: The heart; the centre of the blood's circulation.
+
+N:
+  cardiac system; heart, ventricles, atria, auricles, valves, pulse, heartbeat, systole, diastole; the seat of life
+  pulsation, rhythm
+  the circulatory centre, ventricle
+  ticker [Slang], heartstrings, heart muscle, myocardium, pericardium, endocardium, mitral valve, aortic valve, septum, pacemaker, sinoatrial node, coronary arteries, heart rate, resting heart rate, heart murmur, arrhythmia, tachycardia, bradycardia, fibrillation, palpitations, angina, heart attack, cardiac arrest, heart failure, electrocardiogram, ECG
+
+V:
+  beat, pulse, pump, throb, palpitate, pound
+  pulsate
+  race, flutter, skip a beat, miss a beat, hammer, thump, go pit-a-pat, arrest, stop
+
+Adj:
+  cardiac, cordial, cardiovascular, pulsing, beating
+  cardial, pulsatile
+  coronary, myocardial, pericardial, cordate, heart-shaped, racing, pounding, thumping
+
+Adv:
+  heartily, at heart, by heart
+  with each beat
+  pit-a-pat, pitapat
+
+F:
+  Latin: cor
+  Greek: kardia
+  Arabic: qalb [heart, also mind and soul]
+  Sanskrit: hṛdaya [heart]
+  Chinese: xin [heart-mind]
+  Japanese: kokoro [heart, mind]
+
+Phr:
+  the heart has its reasons which reason knows not of [Pascal]
+  my heart in my mouth
+  my heart skipped a beat
+  be still my beating heart

@@ -1,0 +1,27 @@
+# 272 Relation to Light
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body)
+G: Verhältnis zum Licht
+Gloss: The behaviour of a body toward light.
+
+N:
+  relation to light; optics, optical properties, behaviour toward light, opacity, translucency, reflectivity, refractivity, absorption, colour
+  transparency, refraction, reflection, lustre
+
+V:
+  reflect, refract, absorb, transmit, scatter, filter
+  darken
+
+Adj:
+  optical, opaque, translucent, transparent, reflective, refractive, absorbent
+  pellucid, lucid, diaphanous, limpid, clear, crystalline, clear as crystal, vitreous
+
+Adv:
+  optically
+  in the light
+
+F:
+  Arabic: ʿilm al-manāẓir [optics]
+  Chinese: guangxue [optics]
+
+Phr:
+  light and its affections

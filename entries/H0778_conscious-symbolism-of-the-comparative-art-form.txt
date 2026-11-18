@@ -1,0 +1,27 @@
+# 778 Conscious Symbolism of the Comparative Art-Form
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art
+G: Die bewusste Symbolik der vergleichenden Kunstform
+Gloss: Symbolism in which meaning and shape are knowingly compared.
+
+N:
+  conscious symbolism of the comparative art-form; comparison, simile, likeness, conscious analogy, figurative art, deliberate symbolism
+  conscious symbolism, comparative art, the comparative form, deliberate comparison, the known separation of meaning and shape, wit, ingenuity, the subordinate symbolic forms
+
+V:
+  compare, liken, figure
+  relate, juxtapose, set side by side
+
+Adj:
+  comparative, figurative, analogical, deliberate
+  conscious, knowing, intentional, witty
+
+Adv:
+  comparatively, by comparison
+  consciously, knowingly, deliberately
+
+F:
+  Arabic: tashbīh [simile]
+  Sanskrit: upamā [simile]
+
+Phr:
+  as it were

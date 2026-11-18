@@ -1,0 +1,34 @@
+# 164 Apodictic Judgment
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › d. Judgment of the Concept
+G: Apodiktisches Urteil
+Gloss: A judgment of value stated with its reason, and so as necessary: "this house, being built thus, is good."
+
+N:
+  apodictic judgment; apodicticity, demonstrative certainty, necessary truth, grounded judgment, reasoned verdict, justified evaluation; demonstration, proof; certain knowledge
+  rigorous proof, conclusiveness, apodeixis†, apodixis†, probation, comprobation†
+  the necessary judgment of value, the judgment with its ground, the grounded verdict
+
+V:
+  demonstrate, prove, establish, ground, justify, warrant, show conclusively
+  substantiate, verify &c H0699
+
+Adj:
+  apodictic, apodeictic, demonstrative, demonstrable, necessary, certain, conclusive, incontrovertible, grounded, reasoned, justified, warranted
+  demonstrating, probative, unanswerable, apodeictical†, irresistible, irrefutable, irrefragable
+  unimpeachable, undeniable, unquestionable, indisputable, incontestable, indubitable, irrefutable &c H0603
+  sure, assured, solid, well-founded
+
+Adv:
+  apodictically, demonstrably, necessarily, conclusively, beyond doubt, QED
+  certainly, for certain, no doubt, doubtless, of course, to a certainty
+  of necessity, needs must
+  consequently
+
+F:
+  Latin: quod erat demonstrandum
+  Greek: apodeixis
+  Arabic: burhān [demonstration], yaqīn
+
+Phr:
+  quod erat demonstrandum [Lat.]
+  the house, being so built, is good

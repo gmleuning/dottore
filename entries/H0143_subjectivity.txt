@@ -1,0 +1,28 @@
+# 143 Subjectivity
+# Logic › 3. Doctrine of the Concept
+G: Subjektivität
+Gloss: Thought considered in its own forms rather than in its objects.
+
+N:
+  subjectivity; subjective concept, formal logic, logic of the understanding; the forms of thought, laws of thought, logical forms; thought considered in itself; mind, intellect, intellection
+  understanding, thinking principle
+  formal thought, concept judgment and syllogism
+
+V:
+  think, conceive, judge, infer, reason
+
+Adj:
+  subjective, formal, logical, mental, ideal, intellectual
+  rational
+  conceptual
+
+Adv:
+  subjectively, formally, logically, in thought, in the mind
+
+F:
+  German: Subjektivität
+  Arabic: dhātī [subjective]
+  Chinese: zhuguan [subjective]
+
+Phr:
+  cogito ergo sum [Lat.] [Descartes]

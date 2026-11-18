@@ -1,0 +1,22 @@
+# 256 Physics of Particular Individuality [Tetrad]
+# Nature › 2. Physics
+G: Physik der besonderen Individualität
+Gloss: The physics of bodies in their particular, measurable properties.
+
+N:
+  physics of particular individuality; properties of matter, particular properties, specific properties, material properties, physical properties, mechanical properties; weight, cohesion, sound, heat
+  the physics of the particular individual, specific gravity cohesion sound and heat, the specified body, measurable properties
+
+V:
+  weigh, cohere, sound, heat
+  particularize, specify, measure
+
+Adj:
+  particular, specific, material, measurable
+
+Adv:
+  specifically, particularly
+  in particular, measurably
+
+Phr:
+  the properties of bodies

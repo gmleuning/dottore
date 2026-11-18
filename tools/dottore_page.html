@@ -1,0 +1,632 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dottore</title>
+<link rel="icon" href="dottore_logo.svg" type="image/svg+xml">
+<style>
+:root{
+  --bg:#ffffff; --paper:#ffffff; --ink:#111111; --muted:#6e6e6e; --soft:#4f4f4f; --rule:#e1e1e1; --obs:#7a7a7a;
+  --accent:var(--acc,#a8261b); --dark:0;
+  --size:17px; --leading:1.55; --width:980px;
+  --body:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --ui:system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0e0e0e; --paper:#161616; --ink:#f0f0f0; --muted:#9c9c9c; --soft:#c4c4c4; --rule:#2e2e2e; --obs:#8e8e8e;
+    --accent:color-mix(in srgb, var(--acc,#a8261b) 60%, #fff); --dark:1;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0e0e0e; --paper:#161616; --ink:#f0f0f0; --muted:#9c9c9c; --soft:#c4c4c4; --rule:#2e2e2e; --obs:#8e8e8e;
+  --accent:color-mix(in srgb, var(--acc,#a8261b) 60%, #fff); --dark:1;
+}
+:root{ --link:var(--accent); --mark:color-mix(in srgb, var(--accent) 18%, var(--bg)); }
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font:var(--size)/var(--leading) var(--body)}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--rule)}
+.bar{max-width:var(--width);margin:0 auto;padding:12px 16px 10px;display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+h1{font-size:21px;margin:0;font-weight:600;letter-spacing:.03em;white-space:nowrap}
+h1 a{color:inherit;text-decoration:none;display:flex;align-items:center;gap:9px}
+h1 img{width:34px;height:35px;display:block}
+h1 img.dk{display:none;width:36px}          /* dark mode: il Dottore instead of Dialectica, inverted */
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) h1 img{filter:invert(1)}
+  :root:not([data-theme="light"]) h1 img.lt{display:none} :root:not([data-theme="light"]) h1 img.dk{display:block} }
+:root[data-theme="dark"] h1 img{filter:invert(1)}
+:root[data-theme="dark"] h1 img.lt{display:none} :root[data-theme="dark"] h1 img.dk{display:block}
+#q{flex:1 1 280px;min-width:0;font:inherit;font-size:19px;padding:7px 11px;border:1px solid var(--rule);border-radius:6px;background:var(--paper);color:var(--ink)}
+#q:focus{outline:2px solid var(--accent);outline-offset:-1px}
+.opts{display:flex;gap:14px;font:14px var(--ui);color:var(--muted);flex-wrap:wrap;align-items:center}
+.opts label{cursor:pointer;user-select:none;white-space:nowrap}
+.opts input{accent-color:var(--accent)}
+.btn{font:13px var(--ui);background:none;border:1px solid var(--rule);border-radius:4px;color:var(--muted);padding:2px 8px;cursor:pointer}
+.btn:hover{color:var(--ink)}
+main{max-width:var(--width);margin:0 auto;padding:14px 16px 80px}
+.status{color:var(--muted);font-size:15px;margin:2px 0 6px}
+.jump{display:flex;gap:10px;align-items:baseline;font-size:14.5px;margin:0 0 16px;color:var(--muted)}
+.jt{font:13px var(--ui);color:var(--muted);background:none;border:0;padding:0;cursor:pointer;white-space:nowrap}
+.jt:after{content:" ▸"}
+.jump.open .jt:after{content:" ▾"}
+.jl{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.9}
+.jump.open .jl{white-space:normal}
+.jl a{color:var(--link);text-decoration:none;margin-right:12px;white-space:nowrap}
+.jl a:hover{text-decoration:underline}
+article{background:var(--paper);border:1px solid var(--rule);border-radius:8px;padding:14px 18px 12px;margin:0 0 14px;scroll-margin-top:110px}
+.eh{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+.num{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:600;text-decoration:none}
+.head{font-size:1.24em;font-weight:600}
+.head.hasdef{cursor:pointer}
+.gloss{color:var(--soft);font-style:italic}
+.opp{font-size:14px;color:var(--muted)}
+.path,.def{font-size:13px;color:var(--muted);letter-spacing:.01em}
+.path{margin:2px 0 8px}
+.path span+span:before{content:" › "}
+.def{display:grid;grid-template-rows:0fr;transition:grid-template-rows .18s ease;margin:-4px 0 0;max-width:52em}
+.def>div{overflow:hidden}
+article.open .def{grid-template-rows:1fr;margin:-4px 0 8px}
+.pos{margin:6px 0 0;padding-left:2.8em;position:relative}
+.pt{position:absolute;left:0;top:.15em;font-weight:600;color:var(--accent);font-size:14px;font-family:var(--ui)}
+.sense{margin:1px 0}
+.sense+.sense{padding-left:1.2em}
+mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
+.dag{color:var(--obs);font-size:.8em}
+.obs{color:var(--obs)}
+body.hideobs .obs{display:none}
+.tag{font-size:.78em;color:var(--soft);font-family:var(--ui)}
+.note{color:var(--soft);font-style:italic}
+.nat{margin-right:.35em;unicode-bidi:isolate}
+a.x{color:var(--link);text-decoration:none;border-bottom:1px dotted var(--link)}
+a.x:hover{border-bottom-style:solid}
+.more{font:13px var(--ui);color:var(--link);background:none;border:0;padding:6px 0 0;cursor:pointer}
+.nav{display:flex;justify-content:space-between;gap:12px;font-size:15px;margin:4px 0 14px}
+.nav a{color:var(--link);text-decoration:none}
+.help{color:var(--muted);font-size:15px;max-width:640px}
+.help kbd{font:13px var(--ui);border:1px solid var(--rule);border-radius:3px;padding:0 4px}
+@media (max-width:600px){ body{font-size:calc(var(--size) - 1px)} .pos{padding-left:0} .pt{position:static;display:block} }
+
+/* side panels: Wiktionary (double-click a word) and settings */
+.side{position:fixed;top:0;right:0;bottom:0;width:min(420px,100vw);z-index:20;background:var(--paper);border-left:1px solid var(--rule);
+  display:none;flex-direction:column;font:15px/1.6 var(--ui)}
+body.wk #wk, body.set #set, body.hg #hg{display:flex}
+@media (min-width:1000px){ body.wk, body.set, body.hg{padding-right:420px} }
+.sh{display:flex;align-items:center;gap:8px;padding:12px 14px;border-bottom:1px solid var(--rule)}
+.sh b{flex:1;font:600 20px/1.2 var(--body);overflow-wrap:anywhere}
+.sb{overflow:auto;padding:4px 16px 40px;flex:1}
+#wk .wkl{margin:14px 0 0}
+#wk .wkl>summary{cursor:pointer;font-weight:600;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:4px 0;border-bottom:1px solid var(--rule);list-style:none}
+#wk .wkl>summary::-webkit-details-marker{display:none}
+#wk .wkl>summary:after{content:" +";color:var(--muted)}
+#wk .wkl[open]>summary:after{content:""}
+#wk .wkp{margin:10px 0 0;color:var(--accent);font-weight:600;font-size:13px;font-style:italic}
+#wk .pron{margin:8px 0 0;display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center}
+#wk .ipa{font-family:"Charis SIL","Doulos SIL","Gentium Plus","Segoe UI",sans-serif}
+#wk .play{font:12px var(--ui);border:1px solid var(--rule);border-radius:12px;background:none;color:var(--ink);padding:1px 9px 1px 7px;cursor:pointer}
+#wk .play:before{content:"▶ ";color:var(--accent);font-size:10px}
+#wk .play.on{border-color:var(--accent)}
+#wk .etyh{margin:10px 0 0;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+#wk .ety{list-style:none;margin:4px 0 0 4px;padding:0;border-left:1px solid var(--rule)}
+#wk .ety li{position:relative;padding:0 0 2px 14px}
+#wk .ety li:before{content:"";position:absolute;left:-4px;top:.62em;width:7px;height:7px;border-radius:50%;background:var(--paper);border:1px solid var(--muted)}
+#wk .ety li:first-child:before{background:var(--accent);border-color:var(--accent)}
+#wk .el{color:var(--muted);font-size:13px}
+#wk .eg{color:var(--muted)}
+#wk .etyp{color:var(--soft);font-size:14px;margin:4px 0 0}
+#wk details.etyp>summary{cursor:pointer;color:var(--muted);font-size:12px;list-style:none}
+#wk details.etyp>summary:before{content:"▸ "}
+#wk details.etyp[open]>summary:before{content:"▾ "}
+#wk ol.defs{margin:4px 0 0;padding-left:1.4em}
+#wk ol.defs li{margin:3px 0}
+#wk ol.defs li::marker{color:var(--muted);font-size:.85em}
+#wk .ex{color:var(--muted);font-style:italic;font-size:14px;margin:2px 0 0;padding-left:.8em;border-left:1px solid var(--rule)}
+.side a{color:var(--link);text-decoration:none}
+.side a:hover{text-decoration:underline}
+#wk .wkf{display:flex;gap:16px;flex-wrap:wrap;margin:18px 0 0;padding-top:10px;border-top:1px solid var(--rule);font-size:13px}
+#wk .wkm{color:var(--muted);margin:16px 0}
+/* the Hegel slide: definition, quotations, where Hegel treats it */
+.hgb{font:12px var(--ui);background:none;border:1px solid var(--rule);border-radius:10px;color:var(--muted);padding:0 8px;cursor:pointer;align-self:center}
+.hgb:hover,.hgb.on{color:var(--accent);border-color:var(--accent)}
+#hg .sb{font:16px/1.6 var(--body)}
+#hg .hgn{font:13px var(--ui);color:var(--muted);margin:12px 0 0}
+#hg .hgd{margin:8px 0 0;font-size:17px;line-height:1.62}
+#hg h3{font:600 12px var(--ui);letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:22px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--rule)}
+#hg blockquote{margin:0 0 14px;padding:0 0 0 12px;border-left:2px solid var(--accent)}
+#hg .qt{color:var(--soft);font-size:15.5px}
+#hg .qt.long{display:-webkit-box;-webkit-line-clamp:7;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
+#hg .qm{font:12px var(--ui);color:var(--link);background:none;border:0;padding:2px 0 0;cursor:pointer}
+#hg cite{display:block;font:12.5px/1.5 var(--ui);font-style:normal;color:var(--muted);margin-top:4px}
+#hg ul{margin:0;padding-left:1.1em;font:14px/1.55 var(--ui)}
+#hg li{margin:0 0 6px}
+#hg li::marker{color:var(--muted)}
+#set h3{font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:20px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--rule)}
+#set .row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:7px 0;font-size:14px}
+#set .row>span{color:var(--ink)}
+#set .row small{color:var(--muted)}
+#set select,#set input[type=range]{font:13px var(--ui);max-width:180px}
+#set select{background:var(--paper);color:var(--ink);border:1px solid var(--rule);border-radius:4px;padding:2px 4px}
+#set input{accent-color:var(--accent)}
+#set .chk{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:14px;margin:6px 0}
+#set .chk label{white-space:nowrap;cursor:pointer}
+#set table{width:100%;border-collapse:collapse;font-size:14px}
+#set td,#set th{padding:3px 0;text-align:left}
+#set th{font-weight:400;color:var(--muted);font-size:12px}
+#set td+td,#set th+th{text-align:center;width:6.5em}
+#set .note2{color:var(--muted);font-size:12.5px;margin:4px 0}
+</style>
+<style id="dyn"></style>
+</head>
+<body>
+<header><div class="bar">
+  <h1><a href="#" id="home"><img class="lt" src="dottore_logo.svg" alt=""><img class="dk" src="dottore_logo_dark.svg" alt="">Dottore</a></h1>
+  <input id="q" type="search" placeholder="Search a word (English or German), phrase, or entry number…" autocomplete="off" spellcheck="false" autofocus>
+  <div class="opts">
+    <label><input type="checkbox" id="partial"> partial words</label>
+    <label><input type="checkbox" id="full"> show full entries</label>
+    <label><input type="checkbox" id="hideobs"> hide obsolete (†)</label>
+    <button id="theme" class="btn" type="button" title="Switch light/dark">light / dark</button>
+    <button id="gear" class="btn" type="button" title="Settings">settings</button>
+  </div>
+</div></header>
+<main id="out"></main>
+<aside id="wk" class="side" aria-label="Wiktionary"><div class="sh"><b id="wkt"></b><button id="wkx" class="btn" type="button" title="Close (Esc)">close</button></div><div class="sb" id="wkb"></div></aside>
+<aside id="hg" class="side" aria-label="Hegel"><div class="sh"><b id="hgt"></b><button id="hgx" class="btn" type="button" title="Close (Esc)">close</button></div><div class="sb" id="hgb"></div></aside>
+<aside id="set" class="side" aria-label="Settings"><div class="sh"><b>Settings</b><button id="setx" class="btn" type="button" title="Close (Esc)">close</button></div><div class="sb" id="setb"></div></aside>
+<script>
+const D=/*__DATA__*/[];
+const BYID=new Map(D.map((e,i)=>[e.id,i]));
+
+// ---------- settings ----------
+const DEF={theme:'auto',acc:'#a8261b',size:17,leading:1.55,width:980,font:'palatino',
+  partial:false,full:false,hideobs:false,gloss:false,path:true,jump:'line',
+  rows:{N:true,V:true,Adj:true,Adv:true,F:true,Phr:true},   // N. V. Adj. Adv. F. Phr.
+  scripts:{},
+  wk:{on:true,langs:'all',open:'en-de',examples:2,ety:'timeline',ipa:true,audio:true}};
+const FONTS={palatino:'"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif',
+  georgia:'Georgia,"Times New Roman",serif', garamond:'"EB Garamond",Garamond,"Adobe Garamond Pro","Times New Roman",serif',
+  sans:'system-ui,-apple-system,"Segoe UI",Roboto,sans-serif'};
+function merge(a,b){ for(const k in b){ if(b[k]&&typeof b[k]==='object'&&a[k]&&typeof a[k]==='object') merge(a[k],b[k]); else a[k]=b[k]; } return a; }
+let S=(()=>{ let s={}; try{ s=JSON.parse(localStorage.getItem('dottore.settings')||'{}')||{}; }catch(e){} return merge(structuredClone(DEF),s); })();
+function saveS(){ try{ localStorage.setItem('dottore.settings',JSON.stringify(S)); }catch(e){} }
+const slug=l=>l.toLowerCase().replace(/[^a-z]+/g,'-');
+// languages whose foreign words carry an original-script form (marked nativeromanization by the build)
+const SCRIPT_LANGS=[...new Set(D.flatMap(e=>e.pos.filter(g=>g[0]==='F.').flatMap(g=>g[1].filter(s=>s.includes('')).map(s=>(s.match(/^\[([^\]]+)\]/)||[])[1]))).filter(Boolean))].sort();
+
+// ---------- text folding (length-preserving: one char in, one char out) ----------
+const foldCache=new Map();
+function fold(s){
+  let o='';
+  for(const c of s){
+    let f=foldCache.get(c);
+    if(f===undefined){ f=c.normalize('NFD')[0].toLowerCase(); if(f.length!==c.length) f=c; foldCache.set(c,f); }
+    o+=f;
+  }
+  return o;
+}
+for(const e of D){
+  e.fh=fold(e.h);
+  for(const g of e.pos) g.push(g[1].map(fold));   // g = [tag, senses, foldedSenses]
+}
+
+// ---------- helpers ----------
+const $=s=>document.querySelector(s);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const reEsc=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+
+// split a sense line into items at , and ; (outside brackets; not before a digit, so "&c 197, 17" stays whole)
+function items(s){
+  const out=[]; let depth=0, start=0;
+  for(let i=0;i<s.length;i++){
+    const c=s[i];
+    if('([{'.includes(c)) depth++;
+    else if(')]}'.includes(c)) depth=Math.max(0,depth-1);
+    else if((c===','||c===';')&&depth===0&&!/^\s*\d/.test(s.slice(i+1,i+4))){
+      let j=i+1; while(s[j]===' ') j++;
+      out.push([start,j]); start=j; i=j-1;
+    }
+  }
+  if(start<s.length) out.push([start,s.length]);
+  return out;
+}
+
+function decorate(html){
+  return html
+    .replace(/&amp;c (\([^)]*\) )?((?:\d+(?:\.\d+)?[a-z]?)(?:, ?\d+(?:\.\d+)?[a-z]?)*)/g,(m,label,nums)=>
+      '&amp;c '+(label||'')+nums.replace(/\d+(?:\.\d+)?[a-z]?/g,n=>{
+        const id=n.replace(/\.\d+/,''); return BYID.has(id)?`<a class="x" href="#e=${id}">${n}</a>`:n;}))
+    .replace(/\[([A-Z][A-Za-z]{0,10}\.(?:[A-Z][A-Za-z]{0,6}\.)*)\]/g,'<span class="tag">[$1]</span>')
+    .replace(/\[([^\]<]{1,80})\]/g,'<span class="note">[$1]</span>')
+    .replace(/†/g,'<span class="dag">†</span>')
+    .replace(//g,'<span class="nat">').replace(//g,'</span><span class="rom">').replace(//g,'</span>');
+}
+
+// render one sense line; ranges = [[a,b],...] hits in this sense
+function renderSense(s,ranges){
+  let html='';
+  for(const [a,b] of items(s)){
+    const piece=s.slice(a,b);
+    let h='', p=a;
+    for(const [x,y] of ranges){
+      if(y<=a||x>=b) continue;
+      const xx=Math.max(x,a), yy=Math.min(y,b);
+      h+=esc(s.slice(p,xx))+'<mark>'+esc(s.slice(xx,yy))+'</mark>'; p=yy;
+    }
+    h+=esc(s.slice(p,b));
+    html+=`<span class="it${piece.includes('†')?' obs':''}">${decorate(h)}</span>`;
+  }
+  return html;
+}
+
+function hits(re,f){ const r=[]; if(!re) return r; re.lastIndex=0; let m;
+  while((m=re.exec(f))){ r.push([m.index,m.index+m[0].length]); if(m[0].length===0) re.lastIndex++; } return r; }
+
+function entryHTML(e,re,full){
+  const hr=hits(re,e.fh);
+  let head=esc(e.h); if(hr.length){ head=''; let p=0; for(const [a,b] of hr){head+=esc(e.h.slice(p,a))+'<mark>'+esc(e.h.slice(a,b))+'</mark>';p=b;} head+=esc(e.h.slice(p)); }
+  let opp='';
+  if(e.o) opp='<span class="opp">opposite: '+e.o.replace(/\d+[a-z]?/g,n=>BYID.has(n)?`<a class="x" href="#e=${n}">${n}</a>`:n)+'</span>';
+  let body='', hidden=0;
+  for(const [tag,senses,fs] of e.pos){
+    let rows='';
+    senses.forEach((s,k)=>{
+      const r=hits(re,fs[k]);
+      const L=tag==='F.'?(s.match(/^\[([^\]]+)\]/)||[])[1]:null;
+      if(full||r.length||!re) rows+=`<div class="sense${L?' L-'+slug(L):''}">${renderSense(s,r)}</div>`; else hidden++;
+    });
+    if(rows) body+=`<div class="pos" data-t="${tag}"><span class="pt">${tag}</span>${rows}</div>`;
+  }
+  const path=e.p.map(x=>`<span>${esc(x)}</span>`).join('');
+  return `<article id="a${e.id}"${S.gloss&&e.d?' class="open"':''}><div class="eh"><a class="num" href="#e=${e.id}">${e.id}</a><span class="head${e.d?' hasdef" title="Show the gloss':''}">${head}</span>${e.g?`<span class="gloss">${decorate(esc(e.g))}</span>`:''}${e.H?`<button class="hgb" type="button" data-id="${e.id}" title="Hegel's definition, quotations and where he treats it">Hegel</button>`:''}${opp}</div>
+<div class="path">${path}</div>${e.d?`<div class="def"><div>${esc(e.d)}</div></div>`:''}${body}${hidden?`<button class="more" data-id="${e.id}">show full entry (${hidden} more line${hidden>1?'s':''})</button>`:''}</article>`;
+}
+
+// ---------- search ----------
+function makeRe(q){
+  const f=reEsc(fold(q.trim()).replace(/\s+/g,' ')).replace(/ /g,'\\s+');
+  if(!f) return null;
+  return S.partial ? new RegExp(f,'gu') : new RegExp('(?<![\\p{L}\\p{N}])'+f+'(?![\\p{L}\\p{N}])','gu');
+}
+
+let lastRe=null;
+function search(q){
+  const out=$('#out');
+  q=q.trim();
+  if(!q){ out.innerHTML=helpHTML(); return; }
+  const n=q.replace(/^#/,'');
+  if(BYID.has(n)){ showEntry(n); return; }
+  const re=makeRe(q); lastRe=re;
+  const headHits=[], bodyHits=[];
+  for(const e of D){
+    if(hits(re,e.fh).length){ headHits.push(e); continue; }
+    if(e.pos.some(g=>g[2].some(f=>{re.lastIndex=0;return re.test(f)}))) bodyHits.push(e);
+  }
+  const res=headHits.concat(bodyHits);
+  let html=`<div class="status">${res.length} entr${res.length===1?'y contains':'ies contain'} “${esc(q)}”${headHits.length&&bodyHits.length?` · ${headHits.length} headword match${headHits.length>1?'es':''} listed first`:''}</div>`;
+  if(res.length>3&&S.jump!=='hide') html+=`<div class="jump${S.jump==='open'?' open':''}"><button class="jt" type="button" title="Show all / one line">all ${res.length}</button><span class="jl">`+
+    res.map(e=>`<a href="#a${e.id}" data-scroll="${e.id}">${e.id} ${esc(e.h)}</a>`).join(' ')+'</span></div>';
+  if(!res.length && !S.partial) html+='<div class="help">No whole-word matches. Try ticking <em>partial words</em>.</div>';
+  html+=res.map(e=>entryHTML(e,re,S.full)).join('');
+  out.innerHTML=html;
+  document.title=`${q} — Dottore`;
+}
+
+function showEntry(id){
+  const i=BYID.get(id), e=D[i];
+  const prev=D[i-1], next=D[i+1];
+  const nav=`<div class="nav"><span>${prev?`<a href="#e=${prev.id}">← ${prev.id} ${esc(prev.h)}</a>`:''}</span><span>${next?`<a href="#e=${next.id}">${next.id} ${esc(next.h)} →</a>`:''}</span></div>`;
+  $('#out').innerHTML=nav+entryHTML(e,null,true)+nav;
+  document.title=`${e.id}. ${e.h} — Dottore`;
+  window.scrollTo(0,0);
+}
+
+function helpHTML(){
+  document.title="Dottore";
+  return `<div class="help"><p>Type a word or phrase to list every entry that contains it, with the matching lines shown and highlighted. Entries whose headword matches come first; the rest follow in the order of the Hegelian system.</p>
+<p>Type an entry number (e.g. <kbd>6</kbd>) to open that entry, then step to its neighbours. Click a headword to reveal its gloss. Double-click any word to look it up in Wiktionary. Underlined numbers are cross-references (<em>&amp;c</em>) and can be clicked. <kbd>Alt</kbd>+click any word or phrase in an entry to search for it. <kbd>/</kbd> jumps back to the search box; <kbd>Esc</kbd> clears it. Accents are ignored (<em>naive</em> finds <em>naïve</em>). Words marked † are obsolete. Fonts, colours, scripts and the Wiktionary panel can be set under <em>settings</em>.</p>
+<p>${D.length} entries loaded.</p></div>`;
+}
+
+// ---------- routing: #q=word or #e=123 ----------
+let typing=false;
+function route(){
+  const h=decodeURIComponent(location.hash.slice(1));
+  if(h.startsWith('e=')){ const id=h.slice(2); if(BYID.has(id)){ if(!typing) $('#q').value=''; showEntry(id); return; } }
+  if(h.startsWith('a')&&BYID.has(h.slice(1))) return;   // in-page jump anchor
+  const q=h.startsWith('q=')?h.slice(2):'';
+  if(!typing) $('#q').value=q;
+  search(q);
+}
+window.addEventListener('hashchange',route);
+
+let timer;
+$('#q').addEventListener('input',()=>{
+  clearTimeout(timer);
+  timer=setTimeout(()=>{ typing=true; const v=$('#q').value.trim();
+    history.replaceState(null,'',v?'#q='+encodeURIComponent(v):location.pathname+location.search); route(); typing=false; },220);
+});
+$('#q').addEventListener('keydown',ev=>{
+  if(ev.key==='Enter'){ clearTimeout(timer); const v=$('#q').value.trim(); const h=v?'#q='+encodeURIComponent(v):'';
+    if(location.hash===h) route(); else location.hash=h; }
+  if(ev.key==='Escape'){ $('#q').value=''; location.hash=''; }
+});
+document.addEventListener('keydown',ev=>{
+  if(ev.key==='/'&&document.activeElement!==$('#q')&&!ev.target.closest('.side')){ ev.preventDefault(); $('#q').focus(); $('#q').select(); }
+  if(ev.key==='Escape'&&document.activeElement!==$('#q')) closeSides();
+});
+
+$('#out').addEventListener('click',ev=>{
+  const more=ev.target.closest('.more');
+  if(more){ const e=D[BYID.get(more.dataset.id)]; more.closest('article').outerHTML=entryHTML(e,lastRe,true); return; }
+  const jt=ev.target.closest('.jt');
+  if(jt){ jt.parentNode.classList.toggle('open'); return; }
+  const j=ev.target.closest('[data-scroll]');
+  if(j){ ev.preventDefault(); document.getElementById('a'+j.dataset.scroll).scrollIntoView({behavior:'smooth',block:'start'}); return; }
+  const hb=ev.target.closest('.hgb');
+  if(hb){ hegel(hb.dataset.id); return; }
+  const hd=ev.target.closest('.head.hasdef');
+  if(hd&&!ev.altKey&&ev.detail<2){ hd.closest('article').classList.toggle('open'); return; }
+  const it=ev.target.closest('.it');
+  if(it&&ev.altKey&&!ev.target.closest('a')){
+    ev.preventDefault();
+    const t=it.textContent.replace(/†/g,'').replace(/&c.*$/,'').replace(/\[[^\]]*\]|\([^)]*\)/g,'').replace(/[,;.]\s*$/,'').replace(/\s+/g,' ').trim();
+    if(t) location.hash='q='+encodeURIComponent(t);
+  }
+});
+
+// ---------- applying settings ----------
+function applyS(){
+  const r=document.documentElement;
+  if(S.theme==='auto') delete r.dataset.theme; else r.dataset.theme=S.theme;
+  r.style.setProperty('--acc',S.acc);
+  r.style.setProperty('--size',S.size+'px');
+  r.style.setProperty('--leading',S.leading);
+  r.style.setProperty('--width',S.width+'px');
+  r.style.setProperty('--body',FONTS[S.font]||FONTS.palatino);
+  document.body.classList.toggle('hideobs',S.hideobs);
+  for(const id of ['partial','full','hideobs']) $('#'+id).checked=!!S[id];
+  let css='';
+  for(const [tag,on] of Object.entries(S.rows)) if(!on) css+=`.pos[data-t="${tag}."]{display:none}`;
+  for(const l of SCRIPT_LANGS){
+    const c=S.scripts[l]||{nat:true,rom:true};
+    if(!c.nat) css+=`.L-${slug(l)} .nat{display:none}`;
+    else if(!c.rom) css+=`.L-${slug(l)} .rom{display:none}`;
+  }
+  if(!S.path) css+='.path{display:none}';
+  $('#dyn').textContent=css;
+}
+function setS(path,val,rerender){
+  const ks=path.split('.'); let o=S;
+  for(const k of ks.slice(0,-1)){ if(!o[k]||typeof o[k]!=='object') o[k]={}; o=o[k]; }
+  o[ks[ks.length-1]]=val;
+  saveS(); applyS(); if(rerender) route();
+}
+for(const id of ['partial','full','hideobs'])
+  $('#'+id).addEventListener('change',ev=>{ setS(id,ev.target.checked,id!=='hideobs'); if($('#setb').innerHTML) renderSettings(); });
+$('#theme').addEventListener('click',()=>{
+  const dark=getComputedStyle(document.documentElement).getPropertyValue('--dark').trim()==='1';
+  setS('theme',dark?'light':'dark'); if($('#setb').innerHTML) renderSettings();
+});
+
+// ---------- settings panel ----------
+function get(path){ return path.split('.').reduce((o,k)=>o&&o[k],S); }
+function sel(path,label,opts,rer){ const v=get(path);
+  return `<label class="row"><span>${label}</span><select data-k="${path}"${rer?' data-r':''}>${opts.map(([val,t])=>`<option value="${val}"${String(v)===String(val)?' selected':''}>${t}</option>`).join('')}</select></label>`; }
+function rng(path,label,min,max,step,unit){ const v=get(path);
+  return `<label class="row"><span>${label} <small data-show="${path}">${v}${unit||''}</small></span><input type="range" data-k="${path}" data-num min="${min}" max="${max}" step="${step}" value="${v}" data-unit="${unit||''}"></label>`; }
+function chk(path,label,rer){ return `<label><input type="checkbox" data-k="${path}"${rer?' data-r':''}${get(path)?' checked':''}> ${label}</label>`; }
+function renderSettings(){
+  const sc=SCRIPT_LANGS.map(l=>{ const c=S.scripts[l]||{nat:true,rom:true};
+    return `<tr><td>${esc(l)}</td><td><input type="checkbox" data-sc="${esc(l)}" data-f="nat"${c.nat?' checked':''}></td><td><input type="checkbox" data-sc="${esc(l)}" data-f="rom"${c.rom?' checked':''}></td></tr>`; }).join('');
+  $('#setb').innerHTML=`
+<h3>Appearance</h3>
+${sel('theme','Theme',[['auto','follow system'],['light','light'],['dark','dark']])}
+<label class="row"><span>Accent colour</span><input type="color" data-k="acc" value="${S.acc}"></label>
+${sel('font','Typeface',[['palatino','Palatino'],['georgia','Georgia'],['garamond','Garamond'],['sans','Sans-serif']])}
+${rng('size','Text size',14,24,1,'px')}
+${rng('leading','Line spacing',1.3,2.1,0.05)}
+${rng('width','Column width',640,1500,20,'px')}
+<h3>Entries</h3>
+<div class="chk">${chk('partial','partial words',1)}${chk('full','show full entries',1)}${chk('hideobs','hide obsolete (†)')}${chk('gloss','glosses open',1)}${chk('path','system path')}</div>
+${sel('jump','List of results',[['line','one line, expandable'],['open','in full'],['hide','hidden']],1)}
+<div class="row"><span>Rows</span></div>
+<div class="chk">${Object.keys(DEF.rows).map(t=>chk('rows.'+t,t+'.')).join('')}</div>
+<h3>Scripts</h3>
+<div class="note2">For each language, show the word in its own script, in romanization, or both. Words with no recorded original stay romanized.</div>
+<table><tr><th>Language</th><th>original</th><th>romanized</th></tr>${sc}</table>
+<h3>Wiktionary</h3>
+<div class="chk">${chk('wk.on','double-click looks words up')}${chk('wk.ipa','IPA')}${chk('wk.audio','audio')}</div>
+${sel('wk.langs','Languages',[['all','all'],['en-de','English and German'],['en','English only']])}
+${sel('wk.open','Open at first',[['en-de','English and German'],['all','all'],['none','none']])}
+${sel('wk.examples','Examples per sense',[[0,'none'],[1,'1'],[2,'2'],[99,'all']])}
+${sel('wk.ety','Etymology',[['timeline','timeline'],['prose','as written'],['off','hidden']])}
+<h3></h3>
+<button class="btn" id="reset" type="button">Reset all settings</button>`;
+}
+$('#setb').addEventListener('input',ev=>{
+  const el=ev.target;
+  if(el.dataset.sc){ const l=el.dataset.sc, c=S.scripts[l]||{nat:true,rom:true}; c[el.dataset.f]=el.checked; S.scripts[l]=c; saveS(); applyS(); return; }
+  const k=el.dataset.k; if(!k) return;
+  let v=el.type==='checkbox'?el.checked:el.value;
+  if(el.dataset.num!==undefined||(el.tagName==='SELECT'&&/^\d+$/.test(v))) v=Number(v);
+  const show=$(`[data-show="${k}"]`); if(show) show.textContent=v+(el.dataset.unit||'');
+  setS(k,v,el.dataset.r!==undefined);
+});
+$('#setb').addEventListener('click',ev=>{
+  if(ev.target.id==='reset'){ S=structuredClone(DEF); saveS(); applyS(); renderSettings(); route(); }
+});
+function closeSides(){ document.body.classList.remove('wk','set','hg'); wkSeq++; hgOn(null); }
+// ---------- the Hegel slide ----------
+let hgId=null;
+function hgOn(id){ hgId=id; document.querySelectorAll('.hgb').forEach(b=>b.classList.toggle('on',b.dataset.id===id)); }
+function hegel(id){
+  const e=D[BYID.get(id)]; if(!e||!e.H) return;
+  if(document.body.classList.contains('hg')&&hgId===id){ closeSides(); return; }
+  document.body.classList.remove('wk','set'); document.body.classList.add('hg'); hgOn(id);
+  const H=e.H;
+  $('#hgt').textContent=e.h.split(' • ').pop();
+  let h=`<div class="hgn">${e.id} · ${esc(e.h)}</div>`;
+  if(H.d) h+=`<p class="hgd">${esc(H.d)}</p>`;
+  if(H.q.length) h+='<h3>From the texts</h3>'+H.q.map(([q,c])=>`<blockquote><div class="qt${q.length>600?' long':''}">${esc(q)}</div>${q.length>600?'<button class="qm" type="button">show all</button>':''}${c?`<cite>${esc(c)}</cite>`:''}</blockquote>`).join('');
+  if(H.l.length) h+='<h3>Where Hegel treats it</h3><ul>'+H.l.map(l=>`<li>${esc(l)}</li>`).join('')+'</ul>';
+  $('#hgb').innerHTML=h; $('#hgb').scrollTop=0;
+}
+$('#hgx').addEventListener('click',closeSides);
+$('#hgb').addEventListener('click',ev=>{
+  const m=ev.target.closest('.qm,.qt.long'); if(!m) return;
+  const bq=m.closest('blockquote'); bq.querySelector('.qt').classList.remove('long'); bq.querySelector('.qm')?.remove();
+});
+$('#gear').addEventListener('click',()=>{
+  if(document.body.classList.contains('set')){ closeSides(); return; }
+  closeSides(); renderSettings(); document.body.classList.add('set');
+});
+$('#setx').addEventListener('click',closeSides);
+
+// ---------- Wiktionary panel: double-click any word ----------
+// Wiktionary's public REST API (CORS-enabled): definitions from /page/definition, etymology, IPA and audio from /page/html.
+const WK='https://en.wiktionary.org/api/rest_v1/page/';
+const OK_TAGS=new Set(['A','I','B','EM','STRONG','SPAN','SUP','SUB','SMALL','ABBR']);
+function clean(html){
+  const t=document.createElement('template'); t.innerHTML=html||'';
+  for(const el of [...t.content.querySelectorAll('*')]){
+    if(!t.content.contains(el)) continue;   // removed with an ancestor
+    if(['STYLE','SCRIPT','LINK','IMG','UL','OL','DL','TABLE','FIGURE','AUDIO'].includes(el.tagName)||el.matches('sup.reference,.mw-ref')){ el.remove(); continue; }
+    if(!OK_TAGS.has(el.tagName)){ el.replaceWith(...el.childNodes); continue; }
+    const href=el.getAttribute('href')||'';
+    for(const a of [...el.attributes]) el.removeAttribute(a.name);
+    if(el.tagName==='A'){
+      const m=href.match(/^(?:\.\/|\/wiki\/)([^#?]+)/);
+      if(m&&!/^[A-Za-z]+:/.test(decodeURIComponent(m[1]))){ el.setAttribute('href','#'); el.dataset.w=decodeURIComponent(m[1]).replace(/_/g,' '); }
+      else el.replaceWith(...el.childNodes);
+    }
+  }
+  return t.innerHTML.trim();
+}
+// "Inherited from Middle English dogge, from Old English docga ..." -> [{lang, forms, gloss}, ...] (first sentence only)
+function etyChain(p){
+  const steps=[]; let cur={lang:'',forms:[],gloss:[]}, depth=0, done=false;
+  const push=()=>{ if(cur.lang||cur.forms.length) steps.push(cur); cur={lang:'',forms:[],gloss:[]}; };
+  (function walk(n){
+    for(const c of n.childNodes){
+      if(done) return;
+      if(c.nodeType===3){
+        for(const part of c.nodeValue.split(/(\(|\)|\bfrom\b|\.(?=\s|$))/)){
+          if(part==='(') depth++;
+          else if(part===')') depth=Math.max(0,depth-1);
+          else if(depth===0&&part==='from') push();
+          else if(depth===0&&part==='.'){ done=true; return; }
+        }
+        continue;
+      }
+      if(c.nodeType!==1||depth>0||c.matches('sup,.reference,.mw-ref,link,style')) continue;
+      if(c.matches('.etyl')){ if(!cur.lang) cur.lang=c.textContent.trim(); continue; }
+      if(c.matches('.mention-gloss')){ cur.gloss.push(c.textContent.trim()); continue; }
+      if(c.matches('.mention-gloss-paren,.mention-gloss-double-quote,.mention-gloss-separator,.annotation-paren')) continue;
+      if(c.matches('.mention-tr,.tr')){ cur.forms.push('('+c.textContent.trim()+')'); continue; }
+      if(c.matches('.mention,i,b')){ const t=c.textContent.trim(); if(t) cur.forms.push(t); continue; }
+      walk(c);
+    }
+  })(p);
+  push();
+  return steps;
+}
+function etyHTML(sec){
+  if(S.wk.ety==='off'||!sec) return '';
+  let out='';
+  const etys=[...sec.querySelectorAll('section')].filter(s=>/^Etymology/.test(s.firstElementChild?.textContent||'')).slice(0,2);
+  etys.forEach((es,i)=>{
+    const p=es.querySelector(':scope > p'); if(!p||!p.textContent.trim()) return;
+    const prose=clean(p.innerHTML);
+    out+=`<div class="etyh">${etys.length>1?'Etymology '+(i+1):'Etymology'}</div>`;
+    const ch=S.wk.ety==='timeline'?etyChain(p):[];
+    if(ch.some(s=>s.lang)){          // a chain through languages; "Clipping of dogshit." stays prose
+      out+='<ol class="ety">'+ch.map(s=>`<li>${s.lang?`<span class="el">${esc(s.lang)}</span> `:''}<i>${esc(s.forms.join(' '))}</i>${s.gloss.length?` <span class="eg">“${esc(s.gloss.join('; '))}”</span>`:''}</li>`).join('')+'</ol>'+
+        `<details class="etyp"><summary>as written</summary>${prose}</details>`;
+    } else out+=`<div class="etyp">${prose}</div>`;
+  });
+  return out;
+}
+function pronHTML(sec){
+  if(!sec) return '';
+  let parts=[];
+  if(S.wk.ipa){
+    const ipa=[...new Set([...sec.querySelectorAll('.IPA')].map(x=>x.textContent.trim()).filter(x=>/^[\/\[]/.test(x)))].slice(0,3);
+    parts.push(...ipa.map(x=>`<span class="ipa">${esc(x)}</span>`));
+  }
+  if(S.wk.audio){
+    const seen={};
+    for(const a of [...sec.querySelectorAll('audio')].slice(0,4)){
+      const srcs=[...a.querySelectorAll('source')].map(s=>s.getAttribute('src')||'');
+      let src=srcs.find(s=>/\.mp3$/.test(s))||srcs[0]||a.getAttribute('src'); if(!src) continue;
+      if(src.startsWith('//')) src='https:'+src;
+      const r=decodeURIComponent((a.getAttribute('resource')||'').replace(/^\.\/File:/,''));
+      let lab=(r.match(/^[A-Za-z]{2,3}-([a-z]{2,3})(?:-[a-z]+)?-/)||[])[1];
+      lab=lab?lab.toUpperCase():/^LL-/.test(r)?'voice':'audio';
+      seen[lab]=(seen[lab]||0)+1; if(seen[lab]>1) lab+=' '+seen[lab];
+      parts.push(`<button class="play" type="button" data-src="${esc(src)}" title="${esc(r)}">${esc(lab)}</button>`);
+    }
+  }
+  return parts.length?`<div class="pron">${parts.join('')}</div>`:'';
+}
+let wkSeq=0, player=null;
+async function getJSON(u){ const r=await fetch(u,{headers:{Accept:'application/json'}}); return r.ok?r.json():null; }
+async function getHTML(u){ try{ const r=await fetch(u); return r.ok?new DOMParser().parseFromString(await r.text(),'text/html'):null; }catch(e){ return null; } }
+async function wiki(word){
+  word=word.trim(); if(!word) return;
+  const seq=++wkSeq;
+  document.body.classList.remove('set','hg'); hgOn(null); document.body.classList.add('wk');
+  $('#wkt').textContent=word;
+  const body=$('#wkb');
+  body.innerHTML='<div class="wkm">Looking up Wiktionary…</div>';
+  const wantPage=S.wk.ety!=='off'||S.wk.ipa||S.wk.audio;
+  const t=w=>encodeURIComponent(w.replace(/ /g,'_'));
+  let data=null, doc=null, used=word;
+  try{
+    [data,doc]=await Promise.all([getJSON(WK+'definition/'+t(word)+'?redirect=true'), wantPage?getHTML(WK+'html/'+t(word)):null]);
+    if(!data&&word!==word.toLowerCase()){ used=word.toLowerCase();
+      [data,doc]=await Promise.all([getJSON(WK+'definition/'+t(used)+'?redirect=true'), wantPage?getHTML(WK+'html/'+t(used)):null]); }
+  }catch(e){ if(seq===wkSeq) body.innerHTML='<div class="wkm">Wiktionary could not be reached.</div>'; return; }
+  if(seq!==wkSeq) return;
+  const page='https://en.wiktionary.org/wiki/'+t(used);
+  const foot=`<div class="wkf"><a href="${page}" target="_blank" rel="noopener">Open on Wiktionary ↗</a><a href="#q=${encodeURIComponent(used)}" data-q>Search the book for “${esc(used)}”</a></div>`;
+  if(!data){ body.innerHTML=`<div class="wkm">No Wiktionary entry for “${esc(word)}”.</div>`+foot; return; }
+  $('#wkt').textContent=used;
+  const FIRST=['en','de'];
+  let codes=Object.keys(data).filter(c=>S.wk.langs==='all'||(S.wk.langs==='en'?c==='en':FIRST.includes(c)));
+  codes.sort((a,b)=>{ const ia=FIRST.indexOf(a), ib=FIRST.indexOf(b);
+    return (ia<0?99:ia)-(ib<0?99:ib) || (data[a][0].language||a).localeCompare(data[b][0].language||b); });
+  let html='';
+  for(const c of codes){
+    const name=data[c][0].language||c;
+    const sec=doc&&doc.getElementById(name.replace(/ /g,'_'))?.closest('section');
+    let inner=pronHTML(sec)+etyHTML(sec);
+    for(const p of data[c]){
+      const defs=(p.definitions||[]).filter(d=>clean(d.definition));
+      if(!defs.length) continue;
+      inner+=`<div class="wkp">${esc(p.partOfSpeech||'')}</div><ol class="defs">`+defs.map(d=>`<li>${clean(d.definition)}`+
+        ((d.examples||[]).slice(0,S.wk.examples).map(x=>`<div class="ex">${clean(x)}</div>`).join(''))+'</li>').join('')+'</ol>';
+    }
+    const open=S.wk.open==='all'||(S.wk.open==='en-de'&&(FIRST.includes(c)||codes.length<3));
+    if(inner) html+=`<details class="wkl"${open?' open':''}><summary>${esc(name)}</summary>${inner}</details>`;
+  }
+  body.innerHTML=(html||`<div class="wkm">No definitions found${S.wk.langs!=='all'?' in the chosen languages':''}.</div>`)+foot;
+  body.scrollTop=0;
+}
+$('#wkx').addEventListener('click',closeSides);
+$('#wkb').addEventListener('click',ev=>{
+  const pl=ev.target.closest('.play');
+  if(pl){ if(player) player.pause(); document.querySelectorAll('.play.on').forEach(b=>b.classList.remove('on'));
+    player=new Audio(pl.dataset.src); pl.classList.add('on'); player.onended=()=>pl.classList.remove('on'); player.play().catch(()=>pl.classList.remove('on')); return; }
+  const a=ev.target.closest('a[data-w]'); if(a){ ev.preventDefault(); wiki(a.dataset.w); return; }
+  if(ev.target.closest('a[data-q]')&&innerWidth<1000) closeSides();
+});
+document.addEventListener('dblclick',ev=>{
+  if(!S.wk.on||ev.target.closest('header,.sh,input,button,select,.tag,.pt,.num,a.x,#set,#hg')) return;   // not register tags, N./V. labels, numbers
+  const w=String(getSelection()).replace(/[†\[\]().,;:!?“”"‘’«»]/g,' ').trim().split(/\s+/)[0]||'';
+  if(/\p{L}/u.test(w)) wiki(w.replace(/^'+|'+$/g,''));
+});
+applyS();
+route();
+</script>
+</body>
+</html>

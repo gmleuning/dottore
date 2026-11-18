@@ -1,0 +1,57 @@
+# 520 Human Law
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › i. True Spirit: The Ethical Order › 1. The Ethical World: Human and Divine Law, Man and Woman › a. Nation and Family
+G: Menschliches Gesetz
+Gloss: The law of the community and the state, open and public.
+
+N:
+  human law; law of the community, law of the city, law of the land; positive law; civil law; public law; written law; secular law, temporal law; manmade law, the laws of men
+  statute, enactment, edict, decree, ordinance, proclamation, rescript; code, civil code, statute book, black-letter law &c (law) H0697; legislation &c H0711
+  the state &c H0703; city-state; commonwealth, commonweal, body politic; government &c H0524
+  reason of state
+  citizenship, civic duty, civism, public spirit, patriotism; the public sphere
+  ethical life; custom, mores
+  [Opposed] divine law &c H0521
+  law, constitution, charter, canon &c H0698, institution, bylaw
+  mandate, precept, prescript, writ, ordination
+  canon, act, regulation
+  love of country
+  the law of the day, the known law, the law of man
+  nationalism
+
+V:
+  legislate, enact, decree, ordain, promulgate, proclaim, publish, codify; make law, pass a law, lay down the law; govern, rule, administer
+  bind, oblige, obligate, command
+  obey the law, keep the law, abide by the law, uphold the law; serve the state; render unto Caesar
+  legalize, decree &c H0706, regulate
+  order, dictate
+  make public
+
+Adj:
+  civil, civic, political, public, municipal, communal; statutory, legislative, legal, lawful, juridical; positive, enacted, promulgated, written, codified; manmade, secular, temporal, worldly, profane; open, manifest, of the daylight; universal, collective; patriotic, public-spirited
+  legitimate, constitutional, chartered, lawful &c H0701
+  lay
+  executive, administrative, judicial
+  human
+
+Adv:
+  by law, by statute; according to law, under the law; publicly, in the light of day, in the public eye; for reasons of state
+  openly, by decree
+
+F:
+  German: Staatsräson, Öffentlichkeit, Sittlichkeit &c H0517
+  Latin: lex terrae, lex humana, ius positivum, ius civile, ius publicum, lex scripta, civitas, res publica, de jure, secundum legem, pro patria, corpus juris, amor patriae
+  Greek: nomos, polis, ethos
+  French: raison d'état, civisme
+  Italian: ragion di stato
+  Aramaic: dina de-malkhuta
+  Arabic: qānūn [state law as distinct from sacred law], kanun [Turkish form]
+  Chinese: fa [codified law of the Legalists]
+  Japanese: ritsuryō
+
+Phr:
+  salus populi suprema lex esto [Lat.] [Cicero]
+  dura lex sed lex [Lat.]
+  dina de-malkhuta dina [Aram.] [Talmud]
+  the people must fight for their law as for their city wall [Heraclitus]
+  render therefore unto Caesar the things which are Caesar's [Bible]
+  man is by nature a political animal [Aristotle]

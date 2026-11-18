@@ -1,0 +1,27 @@
+# 951 Reading Dramas and Reciting Them
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › ii. External Execution of a Dramatic Work of Art
+G: Lesen und Vorlesen dramatischer Werke
+Gloss: The reading and recitation of plays.
+
+N:
+  reading dramas and reciting them; closet drama, recitation, play-reading, declamation
+  reading, reading aloud, recital, lection, elocution, delivery, rhapsody, staged reading, book drama
+  viva
+
+V:
+  read, recite, declaim
+  read aloud, read out, rehearse, intone, deliver, rhapsodize
+
+Adj:
+  closet, recited, declamatory
+  unstaged, unacted, oral, elocutionary
+
+Adv:
+  aloud
+  by reading, in recitation, from the page, viva voce
+
+F:
+  German: Lesedrama
+
+Phr:
+  drama for the study

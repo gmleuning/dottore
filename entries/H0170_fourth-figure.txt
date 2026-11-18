@@ -1,0 +1,27 @@
+# 170 Fourth (Mathematical) Figure
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › a. Syllogism of Existence (Qualitative Syllogism) [Tetrad]
+G: Vierte Figur
+Gloss: The form of inference in which all terms are interchangeable quantities: things equal to the same thing are equal to each other.
+
+N:
+  fourth figure, mathematical syllogism; U–U–U, universal–universal–universal; Galenic figure; equality, equation, transitivity, axiom of equality; quantitative inference, calculation
+  the quantitative syllogism, equality as middle, U-U-U
+
+V:
+  equate, calculate, substitute, transpose
+  equalize
+
+Adj:
+  mathematical, quantitative, equational, transitive, Galenic
+  equal, interchangeable
+
+Adv:
+  by equation, by substitution, transitively
+  mathematically, by equality
+
+F:
+  German: mathematischer Schluss
+  Latin: Bramantip, Camenes, Dimaris, Fesapo, Fresison
+
+Phr:
+  things equal to the same thing are equal to each other [Euclid]

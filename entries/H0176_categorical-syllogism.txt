@@ -1,0 +1,25 @@
+# 176 Categorical Syllogism
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › c. Syllogism of Necessity
+G: Kategorischer Schluss
+Gloss: Inference whose connecting term is a kind or genus.
+
+N:
+  categorical syllogism; inference through the genus, generic inference, classificatory reasoning, taxonomy-based inference
+  the categorical inference, the syllogism of the kind, the substantial middle
+
+V:
+  classify, subsume under a genus, infer by kind
+  subsume, infer categorically, conclude
+
+Adj:
+  categorical, generic, taxonomic
+  substantial
+
+Adv:
+  categorically, by kind
+  through the genus
+
+Phr:
+  all metals conduct
+  gold is a metal
+  gold conducts

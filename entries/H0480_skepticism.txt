@@ -1,0 +1,46 @@
+# 480 Skepticism
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › iii. Freedom of Self-Consciousness
+G: Skeptizismus
+Gloss: The freedom of thought that doubts and dissolves everything given.
+
+N:
+  skepticism; doubt, dubiety, scepticism, suspension of judgment, zetetic inquiry, Pyrrhonism, negation of all certainty, dissolution of the given
+  doubt &c H0600, misgiving, demure, distrust, cynicism, misdoubt†, suspicion, jealousy, scruple, qualm
+  unbelief, disbelief, want of faith, want of belief, bout, agnosticism
+  incredulousness†, incredulity, want of faith &c H0544 [Obs.]
+  uncertainty, incertitude, doubtfulness, dubitation†, dubitancy†, dubitousness†
+  interrogation, Socratic method, zetetic philosophy†
+  problem, moot point
+  thoroughgoing doubt, the negativity of thought, the dialectical unrest, ataraxia
+  enquiry
+
+V:
+  doubt, question, suspend judgment, challenge, query, mistrust, disbelieve, dissolve
+  be doubtful &c H0600, doubt the truth of, be skeptical as to, diffide†, suspect, smoke, scent, smell a rat, have doubts, harbor doubts, entertain doubts, suspicions, have one's doubts
+  throw doubt upon, raise a question, bring in, call in question, dispute, deny &c H0595, cavil, cause a doubt, raise a doubt, start a doubt, suggest a doubt, awake a doubt, make suspicion, ergotize†
+  negate
+
+Adj:
+  sceptical, skeptical, doubting, dubious, questioning, incredulous, Pyrrhonian, zetetic, unconvinced
+  unbelieving, inconvincible†, hard of belief, shy of belief, disposed to doubt, indisposed to believe, suspicious, scrupulous, distrustful, cynical
+  incredulous as to, skeptical as to, distrustful as to, shy as to, suspicious of, doubting
+  doubtful &c H0600, disputable, unworthy of, undeserving of belief &c H0600, questionable, open to suspicion, open to doubt, staggering, hard to believe, incredible, unbelievable, not to be believed, inconceivable, impossible &c H0132
+  freethinking
+  negative, dissolving
+  astounding
+
+Adv:
+  sceptically, doubtfully, with a grain of salt
+  doubtingly
+
+F:
+  Latin: cum grano salis, onus probandi
+  Greek: epochē, isostheneia [equipollence of arguments]
+  Arabic: shakk [doubt]
+  Sanskrit: saṃśaya [doubt]
+  Chinese: huaiyi [doubt]
+  Japanese: kaigi
+
+Phr:
+  que sais-je? [Fr.] [Montaigne]
+  de omnibus dubitandum est [Lat.]

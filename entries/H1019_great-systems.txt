@@ -1,0 +1,23 @@
+# 1019 Great Systems
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › b. Greek Philosophy › i. From Thales to Aristotle
+G: Die großen Systeme
+Gloss: The comprehensive systems in which Greek thought gathered up its earlier principles.
+
+N:
+  great systems; Plato and Aristotle, systematic philosophy, the Academy and the Lyceum
+  the great systematizers, Attic philosophy, Athenian philosophy, the summit of Greek thought, the golden age of Greek philosophy, Platonism and Aristotelianism, the Idea, the completed science, synthesis, summa, architectonic, totality, comprehensive doctrine
+
+V:
+  systematize
+  synthesize, gather up, comprehend, unify, integrate, organize, sum up, encompass, crown, consummate
+
+Adj:
+  systematic, classical
+  comprehensive, all-embracing, encyclopaedic, synthetic, Attic, mature, monumental
+
+Adv:
+  systematically
+  comprehensively, architectonically, encyclopaedically, synthetically, as a whole
+
+Phr:
+  the School of Athens

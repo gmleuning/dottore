@@ -1,0 +1,54 @@
+# 332 Osseous System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › i. Nervous System
+G: Knochensystem
+Gloss: The skeleton; the hard framework of the animal body.
+
+N:
+  osseous system; skeleton, bones, frame, framework, bony framework, carcass, ossature, osteology, spine, backbone, vertebrae, skull, cranium, ribs, pelvis, limbs
+  anatomy
+  the bony frame, ossification
+  braincase, calvaria, crown, occiput, temple, jawbone, maxilla, cheekbone, zygoma, eye socket, orbit, hyoid bone, ossicles, hammer, anvil, stirrup, malleus, incus, stapes, fontanelle, suture
+  spinal column, vertebral column, vertebra, atlas, axis, cervical vertebrae, thoracic vertebrae, lumbar vertebrae, sacrum, coccyx, tailbone, rib, rib cage, floating ribs, breastbone, clavicle, scapula, pelvic girdle, hip bone, innominate bone, ilium, ischium, pubis, wishbone, furcula, keel
+  humerus, funny bone, radius, ulna, carpus, carpals, wrist bones, metacarpals, knucklebones, phalanges, thighbone, patella, kneecap, shinbone, fibula, calf bone, tarsus, tarsals, talus, astragalus, anklebone, calcaneus, heel bone, metatarsals, hock, fetlock, pastern
+  joint, articulation, knuckle, ball-and-socket joint, hinge joint, socket, hip joint, knee joint, cartilage, gristle, meniscus, intervertebral disc, ligament, synovia, synovial fluid, marrow, bone marrow, periosteum, osteoblast, osteocyte, compact bone, spongy bone, bone meal
+  tooth, teeth, dentition, incisor, eyetooth, molar, premolar, bicuspid, wisdom tooth, milk tooth, baby tooth, fang, tusk, enamel, dentine, gnashers [Brit. Slang], choppers [Slang], chompers [U.S. Slang], pearly whites [Coll.], ivories [Slang], grinders, snags†
+  horn, antler, hoof, claw, talon, nail, fingernail, toenail, beak, bill, carapace, shell, exoskeleton, endoskeleton, scale, chitin, whalebone, baleen
+  bag of bones, skin and bone, rattlebones, bonce [Brit. Slang], dome [Slang], nut [Slang], napper [Slang], pate, poll†, sconce†, costard†, death's-head, memento mori
+  fracture, compound fracture, greenstick fracture, hairline fracture, dislocation, slipped disc, osteoporosis, brittle bones, rickets, arthritis, scoliosis, curvature of the spine, hunchback
+  bone, jaw
+  canine, femur, tibia, pearly, collarbone, sternum, mandible, carpal
+  shoulder bone, short bone, round bone, long bone, tail bone, shoulder blade, bare bone, cannon bone, wrist bone, membrane bone, temporal bone, nasal bone, cartilage bone, pubic bone, palatine bone, corpus sternum, carpal bone, splint bone, neck bone, leg bone, arm bone, primary tooth, permanent tooth, front tooth, eye tooth, back tooth, adult tooth, upper jaw, lower jaw, wishing bone, true rib, frontal bone, canine tooth, deciduous tooth, parietal bone, thoracic vertebra, lumbar vertebra, dorsal vertebra, cervical vertebra, caudal vertebra, pyramidal bone, upper jawbone, occipital bone, lower jawbone, elbow bone, lantern jaw, second molar, axis vertebra, atlas vertebra
+
+V:
+  ossify, articulate, frame
+  support
+  break, crack, splinter, set, reset, dislocate, put out, pop back in, crack one's knuckles, calcify, decalcify
+
+Adj:
+  osseous, bony, skeletal, ossified, vertebrate, cranial, spinal
+  ossific†, cartilaginous
+  boney, rawboned, big-boned, small-boned, skinny, scrawny, gaunt, angular, osteal, ossicular, vertebral, costal, sternal, clavicular, pelvic, femoral, tibial, dental, toothy, toothless, horny, clawed, hoofed, ungulate, articular, gristly, invertebrate, spineless
+
+Adv:
+  to the bone
+  in the bones
+  bone-deep, to the marrow
+
+F:
+  German: Knochen, Gebein, Gerippe [skeleton]
+  Latin: os, ossa, costa, vertebra, femur, tibia, patella
+  Greek: osteon, skeletos [dried up], kranion
+  Arabic: ʿiẓām [bones], haykal ʿaẓmī [skeleton]
+  Sanskrit: asthi [bone]
+  Chinese: gu [bone]
+  Japanese: hone
+
+Phr:
+  bone of my bones, and flesh of my flesh [Bible]
+  skin and bone
+  to feel it in one's bones
+  chilled to the marrow
+  a bone to pick
+  alas poor Yorick [Hamlet]
+  can these bones live? [Bible]
+  spirit is a bone [Hegel]

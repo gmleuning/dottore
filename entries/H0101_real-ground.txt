@@ -1,0 +1,25 @@
+# 101 Real Ground
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › b. Determinate Ground
+G: Realer Grund
+Gloss: An explanation that cites something genuinely different from what it explains.
+
+N:
+  real ground; genuine reason, substantive explanation, real cause, effective cause, informative explanation, ampliative explanation; heterogeneity of ground and grounded; ground as other; sufficient reason in content; one-sidedness, partial explanation, contributing factor, factor, determinant
+  real explanation, the real reason, substantive ground, a ground with different content
+
+V:
+  explain, account for, cause, determine, underlie, give rise to, bring about
+  originate, occasion
+  explain &c H0595, solve &c H0595, fathom
+  ground really
+
+Adj:
+  real, substantive, genuine, informative, ampliative, synthetic, explanatory, causal, partial, one-sided
+  actual, substantial
+  illuminating, enlightening
+
+Adv:
+  really, genuinely, substantively, in fact
+
+Phr:
+  the reason of the thing

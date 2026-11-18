@@ -1,0 +1,33 @@
+# 5 Pure Being
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being
+G: Reines Sein
+Gloss: Existence with no further content at all; "is" without any "what." So empty that nothing definite can be thought in it.
+
+N:
+  pure being; being as such, being qua being; mere being, bare being, naked being, sheer existence; indeterminate immediacy; the empty, the void &c H0006, emptiness, vacancy, blankness, vacuity, inanity; abstraction, the abstract, highest genus; the One of Parmenides, the Eleatic One
+  [Modern] being in general, Being
+  sheer being, indeterminate being, the empty is
+
+V:
+  be simply, be purely, merely be; abstract from everything, prescind, strip away, empty out; be equal only to oneself
+  be
+
+Adj:
+  pure, sheer, mere, bare, naked, simple, unalloyed, unqualified, unconditioned; indeterminate, undetermined, undifferentiated, indistinct, featureless, characterless, contentless, empty, void, vacant, blank, vacuous, inane; abstract, general; self-same, self-equal; ineffable, unsayable, unthinkable
+  empty &c H0227, null
+  homogeneous
+
+Adv:
+  purely, simply, merely, barely; as such, qua being
+
+F:
+  German: unbestimmte Unmittelbarkeit, Sein überhaupt, das reine Sein
+  Latin: esse purum, esse simpliciter, ens qua ens, summum genus, ens generalissimum, ens commune [scholastic], simpliciter, tabula rasa
+  Greek: on hē on
+  Sanskrit: sat, sanmātra [pure being], nirguṇa [without qualities]
+  Chinese: wuji [the limitless]
+
+Phr:
+  the same thing exists for thinking and for being [Parmenides]
+  esse est percipi [Lat.] [Berkeley]
+  ens et unum convertuntur [Lat.]

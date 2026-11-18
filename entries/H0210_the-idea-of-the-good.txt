@@ -1,0 +1,44 @@
+# 210 The Idea of the Good
+# Logic › 3. Doctrine of the Concept › III. Idea › β. The Idea of Cognition
+G: Die Idee des Guten
+Gloss: Knowing turned to action; the drive to make the world good.
+
+N:
+  the idea of the good; the good; practical idea, will, the practical, practical reason, action, conduct, ethics, morality; the ought, idealism, reform, improvement, amelioration, betterment, meliorism
+  benefit, advantage, greatest good, supreme good, weal, common weal, consummation devoutly to be wished
+  melioration, amendment, advancement, cultivation, civilization, culture
+  virtue, virtuousness, moral rectitude, integrity &c H0663, nobleness &c H0485
+  willing, volition, the will to the good
+
+V:
+  do good, act, will, strive, improve, ameliorate, better, reform, perfect, realize the good
+  produce a good effect, do a good turn, confer an obligation, improve &c H0717
+  be beneficial, produce good, do good &c H0657, profit &c H0196, confer a benefit &c H0657
+  render better, mend, amend, meliorate, correct, decrassify†
+  be better, become better, get better
+
+Adj:
+  good, practical, ethical, moral, meliorist, ameliorative, idealistic, purposive, active
+  good as gold, excellent, superior &c H0045, above par, nice, fine, genuine &c H0204
+  best, choice, select
+  virtuous, worthy, righteous
+  right
+  volitional
+
+Adv:
+  practically, in practice, for the good, for the better
+
+F:
+  German: das Gute
+  Latin: bonum, summum bonum
+  Greek: to agathon, praxis
+  Arabic: khayr [good]
+  Sanskrit: śreyas [the good], dharma
+  Chinese: shan [good]
+  Japanese: zen
+
+Phr:
+  the Form of the Good [Plato]
+  bonum est diffusivum sui [Lat.]
+  the philosophers have only interpreted the world
+  the point is to change it [Marx]

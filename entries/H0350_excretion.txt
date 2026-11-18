@@ -1,0 +1,54 @@
+# 350 Excretion
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process › iii. Digestive Process
+G: Exkretion
+Gloss: The expulsion of what the animal cannot assimilate.
+
+N:
+  excretion; elimination, evacuation, expulsion, discharge, egestion, defecation, urination, sweat, waste, faeces, excrement, dung, ordure, urine; secretion
+  exhalation, extrusion, extravasation [Med.], ecchymosis [Med.], dejection, stools, crap [Vulg.], bloody flux, cacation†, coeliac-flux, coeliac- passion, dysentery, subation†, diaphoresis, eccrinology [Med.]
+  offal, excreta, slough, pus, suppuration, feces, sewage
+  ructation†, eructation, bloodletting, venesection [Med.], phlebotomy, paracentesis†, expuition, exspuition, tapping, drainage, clearance, clearage†
+  ejection, emission, effusion, rejection, exportation, eviction, trajection†
+  egress, emanation, exudation, transudation, perspiration, sweating
+  segregation
+  extraction, removal
+  shit [Vulg.], poo [Coll.], number two, turd [Vulg.], dump [Slang], dookie [U.S. Slang], doo-doo, jobbie [Scot.], bowel movement, BM, motion, stool, droppings, scat, spoor, pellets, cowpat, cow pie, meadow muffin, manure, muck, guano, night soil
+  piss [Vulg.], pee [Coll.], wee [Brit. Coll.], wee-wee, weewee, number one, tinkle, widdle, slash [Brit. Slang], whiz [U.S. Slang], water, micturition, pissing [Vulg.]
+  fart [Vulg.], flatulence, flatus, wind, gas, trump [Brit. Coll.], toot, guff [Scot.], breaking wind, borborygmus
+  vomit, sick, puke [Slang], barf [Slang], spew [Slang], chunder [Austral. Slang], hurl [Slang], upchuck, emesis, retching, dry heaves, sick-up
+  snot [Coll.], bogey [Brit. Coll.], booger [U.S. Coll.], mucus, phlegm, spit, gob [Slang], loogie [U.S. Slang], earwax, sleep
+  menstruation, menses, period, the curse [Coll.], time of the month, monthlies, catamenia, flow, on the rag [Vulg.]
+  diarrhoea, the runs [Coll.], the trots [Coll.], the squits [Brit. Slang], the shits [Vulg.], Delhi belly, Montezuma's revenge, constipation, costiveness, incontinence, bedwetting, enuresis
+  toilet, loo [Brit.], john [U.S. Slang], can [U.S. Slang], bog [Brit. Slang], dunny [Austral.], khazi [Brit. Slang], crapper [Vulg.], shitter [Vulg.], throne [Coll.], potty, privy, jakes†, outhouse, latrine, head, WC, lavatory, restroom, bathroom, washroom, powder room, little boys' room, little girls' room, chamber pot, po, commode, bedpan, garderobe†, necessary house†, close stool†, jordan†
+  vomiting, shitting, shite, peeing
+
+V:
+  excrete, eliminate, evacuate, expel, discharge, void, egest
+  give exit, give vent to, let out, give out, pour out, squeeze out, send out, dispatch, despatch, exhale, excern†, embogue†, secrete, secern†, extravasate [Med.], shed, emit, open the sluices, open the floodgates, turn on the tap, extrude, detrude†, spend, expend, pour forth, squirt, spirt†, spurt, spill, slop, perspire &c H0228, breathe, blow &c H0252
+  eject, reject, throw up, throw off
+  exude, transude, leak, run through, out through, percolate, transcolate†, egurgitate†, strain, distill, perspire, drain, ooze, filter, filtrate, dribble, gush, spout, flow out, well, well out, pour, trickle, effuse, disembogue†, discharge itself, debouch, come forth, break forth, burst out, burst through, find vent, escape &c H0609
+  emerge, emanate, issue
+  poop, take a dump [Slang], take a shit [Vulg.], drop a deuce [U.S. Slang], do one's business, go number two, relieve oneself, ease oneself†, answer the call of nature, defecate, evacuate the bowels, open the bowels
+  take a leak [Slang], have a slash [Brit. Slang], take a whiz [U.S. Slang], piddle, urinate, micturate, make water, pass water, wet oneself, wet the bed
+  break wind, pass gas, cut the cheese [U.S. Slang], let one rip, chuck up [Brit. Slang], retch, heave, gag, be sick, toss one's cookies [U.S. Slang], ralph [Slang], blow chunks [Slang], hawk, hock a loogie [U.S. Slang], pick one's nose
+
+Adj:
+  excretory, excretive, eliminative, fecal, urinary
+  faecal, scatological, stercoraceous, stercoral, excrementitious, excremental, shitty [Vulg.], pissy [Vulg.], diuretic, laxative, cathartic, purgative, incontinent, potty-trained, toilet-trained, constipated, costive, bunged up [Brit. Coll.], menstrual, catamenial, flatulent, gassy, windy, pukey, snotty, phlegmy
+
+Adv:
+  by excretion
+
+F:
+  Latin: excretio
+  Arabic: ikhrāj [excretion]
+  Sanskrit: mala [waste, impurity]
+  Chinese: paixie [excretion]
+
+Phr:
+  inter faeces et urinam nascimur [Lat.]
+  the call of nature
+  caught short
+  piss like a racehorse [Vulg.]
+  scared shitless [Vulg.]
+  everybody poops

@@ -1,0 +1,38 @@
+# 368 Soul (Anthropology)
+# Spirit › 1. Subjective Spirit
+G: Seele
+Gloss: The mind as still bound up with the body and with nature; the life of feeling below conscious thought.
+
+N:
+  soul; anthropology, philosophical anthropology; psyche, inner being, inner self, heart, breast, bosom, spirit, sentient being, feeling life, the unconscious, the subconscious, natural mind, embodied mind
+  ghost, inner man, the Absolute, subliminal consciousness, supreme principle
+  heart's core, heart's strings, heart's blood, heart of hearts, bottom of one's heart, secret and inmost recesses of the heart, cockles of one's heart, inmost heart, inmost soul, backbone
+  human being, living soul
+  anthropogeny†, anthropography†, anthroposophy†, ethnology, ethnography, humanitarian
+  animation, vital spark, vital flame
+  inbeing†, inherence, ego, essence, quintessence, core
+  the sleep of spirit, the passive nous
+
+V:
+  ensoul, animate, inspirit, quicken, feel, sense
+
+Adj:
+  soulful, psychic, psychical, animate, sentient, anthropological, natural, embodied, unconscious
+  mental, spiritual, psychological
+
+Adv:
+  in the soul, deep down, in one's heart of hearts, at heart
+  psychically
+
+F:
+  German: Anthropologie, Seele
+  Latin: anima, penetralia mentis, divina particula aurae
+  Greek: psychē
+  Arabic: nafs [soul], rūḥ
+  Sanskrit: jīva [living soul], ātman
+  Chinese: hun and po [the two souls], linghun [soul]
+  Japanese: tamashii
+
+Phr:
+  anima forma corporis [Lat.] [Aristotle, Aquinas]
+  the soul is in a certain way all things [Aristotle]

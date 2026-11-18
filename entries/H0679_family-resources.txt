@@ -1,0 +1,30 @@
+# 679 Family Resources
+# Spirit › 2. Objective Spirit › III. Ethical Life › α. Family
+G: Vermögen der Familie
+Gloss: The property held by a family.
+
+N:
+  family resources; family property, family fortune, patrimony, estate, household goods, family capital, heritage, endowment
+  dower, dowry, jointure†, appanage, inheritance, legacy &c H0626, paternal estate
+  family estate, means, substance, livelihood, the family's permanent possession
+
+V:
+  provide, maintain, husband, manage
+  earn, administer, support
+
+Adj:
+  patrimonial, domestic, familial, hereditary
+  household
+
+Adv:
+  in common, for the family
+  as family property
+
+F:
+  German: Vermögen der Familie
+  Arabic: tirka [estate]
+  Sanskrit: kuṭumba-dhana [family wealth]
+  Chinese: jiachan [family property]
+
+Phr:
+  the family fortune

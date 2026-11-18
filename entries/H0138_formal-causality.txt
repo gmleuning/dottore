@@ -1,0 +1,29 @@
+# 138 Formal Causality
+# Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation › b. Relation of Causality
+G: Formelle Kausalität
+Gloss: Cause and effect taken in their bare form: the cause is a cause only in producing its effect and is spent in it, so that neither has meaning without the other.
+
+N:
+  formal causality; identity of cause and effect, tautological causation, sameness of content in cause and effect; rain and wetness; transfer of content
+  causality, causation, origination, production &c H0137
+  formal cause-effect identity, the tautology of causation, the same content
+
+V:
+  pass over, transfer, carry over, communicate, impart
+  cause, effect, repeat
+
+Adj:
+  formal, tautological, identical in content, equivalent
+  identical
+
+Adv:
+  formally, in form only
+  identically
+
+F:
+  Latin: causa aequat effectum [the cause equals the effect]
+  Sanskrit: satkāryavāda [doctrine that the effect pre-exists in the cause]
+
+Phr:
+  causa aequat effectum [Lat.]
+  the effect is contained in the cause

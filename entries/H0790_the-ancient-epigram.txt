@@ -1,0 +1,32 @@
+# 790 The Ancient Epigram
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 3. Disappearance of the Symbolic Art-Form
+G: Das alte Epigramm
+Gloss: A short poem of inscription.
+
+N:
+  the ancient epigram; epigram, inscription, epitaph, dedication, Greek Anthology, Martial, terse verse
+  epigraph, votive inscription, distich, Simonides, superscription
+
+V:
+  epigrammatize, inscribe, quip
+  dedicate, engrave, entitle
+
+Adj:
+  epigrammatic, terse, pithy, laconic, lapidary
+  concise, brief, compressed, condensed, pointed, trenchant
+  inscriptional, epigraphic
+
+Adv:
+  epigrammatically, pithily
+  tersely, in a distich
+
+F:
+  Greek: epigramma
+  Arabic: maqṭūʿa [short poem]
+  Sanskrit: muktaka [single-stanza poem]
+  Chinese: jueju [quatrain]
+  Japanese: haiku
+
+Phr:
+  brevity is the soul of wit [Hamlet]
+  go tell the Spartans, stranger passing by [Simonides]

@@ -1,0 +1,32 @@
+# 580 Intuition
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind
+G: Anschauung
+Gloss: The mind's direct, unreflective grasp of an object.
+
+N:
+  intuition; immediate cognition, direct apprehension, beholding, viewing, sensuous intuition, perception of the given, insight
+  cognizance, acquaintance, apprehension
+  immediate apprehension, direct awareness, sensuous knowing
+
+V:
+  intuit, behold, view, apprehend directly, see at a glance
+  see, discern, perceive, descry
+  apprehend, grasp directly
+
+Adj:
+  intuitive, immediate, direct, perceptual, unmediated
+  unreflective, non-discursive
+
+Adv:
+  intuitively, at a glance, at first sight
+  immediately, directly
+
+F:
+  Latin: intuitus, prima facie
+  Arabic: ḥads [intuition], kashf [unveiling]
+  Sanskrit: pratibhā [intuitive flash], aparokṣa [direct knowledge]
+  Chinese: zhijue [intuition]
+  Japanese: chokkan
+
+Phr:
+  intuitions without concepts are blind [Kant]

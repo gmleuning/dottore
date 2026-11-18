@@ -1,0 +1,27 @@
+# 866 Position and Movement of the Body
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture › 2. Particular Aspects of the Ideal Form
+G: Stellung und Bewegung des Körpers
+Gloss: The stance and motion of the sculpted body.
+
+N:
+  position and movement of the body; posture, pose, stance, attitude, gesture, movement, balance
+  position, footing, standing
+  bearing, carriage, gait, repose, rest, sitting, reclining, striding
+
+V:
+  pose, stand, lean, gesture, shift weight
+  sit, recline, stride, poise, move
+
+Adj:
+  poised, balanced, relaxed, dynamic
+  postural, seated, recumbent, at rest, in motion
+
+Adv:
+  in contrapposto
+  in repose, upright, erect
+
+F:
+  Italian: contrapposto
+
+Phr:
+  the weight on one leg

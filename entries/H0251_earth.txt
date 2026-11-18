@@ -1,0 +1,37 @@
+# 251 Earth (Individual Element)
+# Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements
+G: Erde
+Gloss: The solid element; the element of individuality, which holds the others together and kindles them into process.
+
+N:
+  earth; soil, ground, land, clay, loam, dust, dirt, mould, humus, sod, turf, clod, rock, stone; solid element, the solid, the individual element; Gaia, Mother Earth, Tellus, Demeter, Ceres
+  dry land, terra firma
+  glebe, marl, chalk, gravel, mold, subsoil
+  bedrock
+  the earthy element
+  grime, grunge
+
+V:
+  ground, earth, bury, inter, cultivate, till, plough
+  support, bear
+
+Adj:
+  earthy, earthen, terrene, terrestrial, telluric, chthonic, chthonian, soil-bound, solid, terrigenous
+  earthly
+  continental, terrene &c H0234
+
+Adv:
+  on earth, under the earth, to earth, down to earth, on solid ground
+  on the ground
+
+F:
+  Latin: terra, terra firma
+  Greek: gē, gaia
+  Arabic: turāb [dust], arḍ [earth]
+  Sanskrit: pṛthivī [earth], bhūmi
+  Chinese: tu [earth, soil], di [ground]
+  Japanese: tsuchi
+
+Phr:
+  dust thou art, and unto dust shalt thou return [Bible]
+  the meek shall inherit the earth [Bible]

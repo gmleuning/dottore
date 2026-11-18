@@ -1,0 +1,36 @@
+# 360 Mammals
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata [Tetrad]
+G: Säugetiere
+Gloss: Warm-blooded backboned animals that suckle their young.
+
+N:
+  mammals; mammals, quadrupeds, beasts, viviparous animals, mammary glands, fur, hair, warm-bloodedness, mammalogy
+  live stock, domestic animals, wild animals, beasts of the field
+  quadruped, the suckling animals, the land animals
+  horse, bear, mouse, bat, sheep, cattle, deer, elephant, monkey, cows, livestock, squirrel, panther, charger, camel, gorilla, moose, mare
+  mustang, rhino, jaguar, kangaroo, ape, swine, zebra, mammoth, sow, cougar, reindeer, giraffe, hamster, grizzly, fitch, bison, puma, takin, rodent, cheetah, pinto, feline, antelope, impala, koala, gnu, ferret, bronco, walrus, caribou, chimpanzee, steed, llama, chimp, possum, orca, groundhog, porcupine, merino, jackal, gazelle, racehorse, rhinoceros, orangutan, hyena, bobcat, wether, lioness, dingo, manatee, chipmunk, baboon, armadillo, platypus, orang, carnivore, mongoose, longhorn, marten, roebuck, wallaby, vole, placental
+  female mammal, placental mammal, farm animal, flying cat, ant bear, naked mole rat, egg-laying mammal, aquatic mammal, tree shrew, gnawing mammal, pen-tail, fruit bat, jumping mouse, wood-rat, wood rat, sand rat, cotton rat, sea cow, rock rabbit, small livestock, prairie dog, queen mole rat, mole rat, mouse hare, mountain beaver, tree sloth, carnivorous bat, otter shrew, duck-billed platypus, wild dog, true cat, big cat, sea horse, river horse, ice bear, cat bear, brown bear, black bear, bear cat, native bear, flying fox, bush baby, honey bear, wood mouse, house mouse, field mouse, brown bat, wood pussy, trade rat, roof rat, rice rat, pocket rat, pack rat, brown rat, black rat, guinea pig, vampire bat, true vampire bat, harvest mouse, nude mouse
+  wolf, lion, rabbit, goat, panda, wolverine, hippo, gibbon
+  whale, dolphin, porpoise, seal
+
+V:
+  suckle, nurse, bear live young
+  give suck
+
+Adj:
+  mammalian, mammal, viviparous, warm-blooded, furry, hairy
+  lactating
+
+Adv:
+  mammalianly
+  viviparously
+
+F:
+  Latin: mammalia
+  Arabic: thadyiyyāt [mammals]
+  Sanskrit: stanapāyin [breast-suckling]
+  Chinese: buru dongwu [milk-feeding animals]
+  Japanese: honyūrui
+
+Phr:
+  the higher animals

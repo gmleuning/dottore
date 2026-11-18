@@ -1,0 +1,25 @@
+# 924 Rhythmic Verse
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification
+G: Rhythmische Versifikation
+Gloss: Verse measured by the length or stress of syllables.
+
+N:
+  rhythmic verse; quantitative verse, classical metre, hexameter, dactyl, spondee, iamb, trochee, anapaest, elegiac couplet, Sapphic stanza, Alcaic
+  meter, foot, numbers, rhythm, accentuation &c H0595, anapest, pentameter
+  metre, quantity, syllable-length, longs and shorts, arsis, thesis, caesura, ictus, mora, prosody, scansion, iambic trimeter, pyrrhic, choriamb, tribrach, cadence
+
+V:
+  scan, measure
+  metrify, quantify, mete, beat time, lengthen, shorten
+
+Adj:
+  quantitative, dactylic, iambic, trochaic, hexametric
+  metrical, anapestic†
+  rhythmic, rhythmical, measured, spondaic, anapaestic, Sapphic, syllabic
+
+Adv:
+  in hexameters
+  metrically, rhythmically, by quantity, in measure
+
+Phr:
+  arma virumque cano [Lat.] [dactylic hexameter]

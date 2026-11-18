@@ -1,0 +1,24 @@
+# 448 Content of the Thing
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › a. Sense-Certainty (Sensuous Consciousness) › iii. The Sensed Thing
+G: Inhalt des Dinges
+Gloss: What the sensed thing is taken to contain.
+
+N:
+  content of the thing; what the thing contains, sensory content, qualities, features, filling, substance
+  the contents of the thing, the matters, the properties, the inner of the thing, constituents
+
+V:
+  contain, hold, comprise
+  include, comprehend, embrace, embody
+  include &c H0144, involve
+
+Adj:
+  contentful, substantial, filled
+  contained, internal, constituent, inherent
+
+Adv:
+  in content
+  within, internally
+
+Phr:
+  what is in it

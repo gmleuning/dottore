@@ -1,0 +1,36 @@
+# 235 Universal Gravitation
+# Nature › 1. Mechanics › III. Absolute Mechanics (Astronomy)
+G: Allgemeine Gravitation
+Gloss: The striving of all matter toward a common centre, which binds the heavenly bodies into one system; commonly stated as the attraction of every body for every other.
+
+N:
+  universal gravitation; gravitation, gravity, gravitational pull, gravitational attraction, weight, the inverse-square law, law of universal gravitation, attraction of bodies, mutual attraction, Newtonian gravity, general relativity, curvature of spacetime
+  heaviness, specific gravity, pondorosity†, pressure, burden, burthen†, ballast, counterpoise, lump of, mass of, weight of
+  weighing, ponderation†, trutination†, weights, avoirdupois weight, troy weight, apothecaries' weight, grain, scruple, drachma†, ounce, pound, lb, arroba†, stone, hundredweight, cwt, ton, long ton, metric ton, quintal, carat, pennyweight, tod†
+  balance, scale, scales, steelyard, beam, weighbridge†, spring balance, piezoelectric balance, analytical balance, two-pan balance, one-pan balance, postal scale, baby scale
+  gram, centigram, milligram, microgram, kilogram, nanogram, picogram, femtogram, attogram
+  universal attraction, the law of gravity
+  tonne, kilo
+
+V:
+  gravitate, attract, pull, draw, weigh, orbit
+  be heavy, press, cumber, load
+  draw towards, pull towards, drag towards, adduce
+
+Adj:
+  gravitational, gravitative, attractive, centripetal, ponderous, universal
+  weighty, heavy as lead, ponderable, lumpish†, lumpy, cumbersome, burdensome, cumbrous, unwieldy, massive
+  incumbent, superincumbent†
+  converging, convergent, confluent, concurrent, asymptotical, asymptotic, confluxible†
+
+Adv:
+  by gravity, universally
+
+F:
+  Arabic: jādhibiyya [gravitation]
+  Sanskrit: gurutvākarṣaṇa [gravitation]
+  Chinese: wanyou yinli [universal gravitation]
+  Japanese: ban'yū inryoku
+
+Phr:
+  hypotheses non fingo [Lat.] [Newton]

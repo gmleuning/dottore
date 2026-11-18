@@ -1,0 +1,37 @@
+# 3 Determinateness (Quality)
+# Logic › 1. Doctrine of Being
+G: Qualität
+Gloss: The character that makes a thing what it is, so that if the character changes the thing becomes something else; the most basic kind of definiteness.
+
+N:
+  quality; determinateness, definiteness, determination; character, characteristic, nature, kind, sort, type, stamp, cast, complexion, constitution, make, make-up, grain, fibre, temper, mettle; essence &c (essence) H0078; whatness, quiddity, haecceity, thisness, so-being; identity of kind
+  property, attribute, trait, mark, note, feature, earmark, hallmark, signature; idiosyncrasy, peculiarity, specificity
+  qualitative difference, difference in kind; such-and-suchness, suchness
+  lineament
+  speciality, particularity
+  determinacy, definite character, qualitative determinateness
+  trademark
+
+V:
+  qualify, characterize, specify, determine, define, distinguish, differentiate, mark, stamp, brand, tinge, colour; be of a kind, partake of; have the character of; be such as, be such that
+
+Adj:
+  qualitative, qualitied, qualified, characteristic, distinctive, specific, peculiar, proper, typical, idiosyncratic; determinate, definite, determined; essential, constitutive, intrinsic, inherent, innate, ingrained, inborn; such, of a kind, of a sort
+  particular
+
+Adv:
+  qualitatively, characteristically &c adj.; in kind, in nature; essentially, intrinsically; by nature; as such
+  determinately
+
+F:
+  German: Bestimmtheit, Sosein
+  Latin: qualitas, quidditas, per se
+  Greek: poiotēs
+  Arabic: ṣifa [attribute]
+  Sanskrit: guṇa [quality, strand of nature], tathatā
+  Chinese: xing [nature, inborn character]
+
+Phr:
+  qualis artifex pereo [Lat.] [Nero]
+  a leopard cannot change his spots
+  naturam expellas furca, tamen usque recurret [Lat.] [Horace]

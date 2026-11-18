@@ -1,0 +1,41 @@
+# 120 Relation of Whole and Parts
+# Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation
+G: Verhältnis des Ganzen und der Teile
+Gloss: The relation of a whole to the parts that make it up.
+
+N:
+  relation of whole and parts; whole, totality, entirety, ensemble, integrity, unity, holism, system, organism; parts, components, constituents, pieces, portions, fractions, fragments, segments, sections, members, elements, units, modules; mereology; composition and decomposition; holon
+  totalness†, collectiveness†, unity &c H0031, completeness, indivisibility, indiscerptibility†, integration, embodiment, integer
+  part, portion, item, particular, division, subdivision, section, fraction
+  perfection &c H0197, solidity, solidarity, ideal, limit
+  part-whole relation, composition, the sum of parts
+
+V:
+  compose, comprise, constitute, make up, consist of, combine, integrate; divide, partition, fragment, segment, break up, break down
+  fill up, build up, enter into the composition of
+  break &c H0293, partition &c H0620
+  form, make
+  complete &c H0197, eke out, supply deficiencies
+
+Adj:
+  whole, entire, total, complete, integral, holistic, unified; partial, fractional, fragmentary, segmental, modular, componential, constituent, mereological
+  one, individual
+  perfect &c H0197, full, good, absolute, thorough, plenary, solid, undivided, with all its parts, all- sided
+  sectional, aliquot, divided, in compartments, multifid†, disconnected
+
+Adv:
+  as a whole, in its entirety, all together, altogether; partly, in part, partially, piecemeal, part by part
+  by by installments, by snatches, by inches, by driblets, bit by bit, inch by inch, foot by foot, drop by drop, in detail, in lots
+  wholly, totally, entirely, all, all in all, wholesale, in a body, collectively, all put together, in the aggregate, in the lump, in the mass, in the gross, in the main, in the long run, en masse, as a body, on the whole, bodily†, en bloc, throughout, every inch, substantially
+
+F:
+  German: Gestalt
+  Latin: in toto, in extenso, ne plus ultra
+  Arabic: kull wa-juzʾ [whole and part]
+  Sanskrit: avayavin and avayava [whole and part]
+  Chinese: zhengti and bufen [whole and part]
+
+Phr:
+  the whole is something over and above its parts [Aristotle, paraphrased]
+  e pluribus unum [Lat.]
+  totum est maius sua parte [Lat.]

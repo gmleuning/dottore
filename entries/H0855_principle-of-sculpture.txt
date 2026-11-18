@@ -1,0 +1,24 @@
+# 855 Principle of Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture
+G: Prinzip der Skulptur
+Gloss: The fundamental nature of sculpture.
+
+N:
+  principle of sculpture; spirit in bodily form, the ideal human figure, three-dimensionality, plasticity, the body as expression of spirit
+  the nature of sculpture, the plastic principle, corporeality, the heavy mass, spatial totality, the bodily shape of spirit, objective individuality
+
+V:
+  embody, model, shape
+  form, figure, fashion, carve, cut, chisel, hew, cast, mold, sculpture
+  body forth, spatialize, ground
+
+Adj:
+  plastic, three-dimensional, embodied
+  principial, fundamental, corporeal, spatial
+
+Adv:
+  in the round
+  in principle, plastically, in three dimensions
+
+Phr:
+  spirit at rest in its body

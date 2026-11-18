@@ -1,0 +1,36 @@
+# 359 Birds
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata [Tetrad]
+G: Vögel
+Gloss: Warm-blooded, egg-laying backboned animals with feathers and wings.
+
+N:
+  birds; fowl, avifauna, flock, covey, songbird, bird of prey, raptor, waterfowl, wildfowl, ornithology, feathers, plumage, wings, beak, bill
+  the feathered tribe, the fowls of the air
+  bird, eagle, owl, swan, goose, hawk, raven, penguin, falcon, pigeon
+  finch, poultry, parrot, sparrow, mina, rooster, ani, vulture, daw, pelican, flamingo, snipe, merle, starling, pheasant, gosling, seagull, mockingbird, moa, hummingbird, condor, reeve, bluebird, magpie, brant, osprey, gander, stork, mavis, kingfisher, jaeger, ibis, woodpecker, peregrine, mallard, woodcock, bantam, guan, cochin, tern, puffin, firebird
+  night bird, flying bird, aquatic bird, dickey-bird, dicky-bird, water bird, secretary bird, sea bird, game bird, honey guide, fighting cock, tree swift, elephant bird, night raven, scrub-bird, scrub bird, mound-bird, mound builder, mound bird, water hen, marsh hen, poll parrot, true sparrow, bee eater, jenny wren, wading bird, scrub fowl, jungle fowl, domestic fowl, crested swift, shore bird, brush turkey, sea eagle, golden eagle, fish eagle, jungle cock, coastal diving bird, ground roller, wood swallow, spotted owl, little owl, laughing owl, great grey owl, great gray owl, barn owl, ant bird, black swan, bald eagle, hawk owl, fish hawk, chicken hawk, barred owl, mute swan, jungle hen, hen hawk, weaver finch, chimney swift, chimney swallow, rough-legged hawk, tree sparrow
+  turkey, robin, swift, nightingale, lark, wren, heron, rhea, oriole
+
+V:
+  fly, soar, wing, flutter, flap, glide, swoop, nest, sing, warble, chirp, twitter, migrate, fledge
+  carol, chirrup, trill, whistle
+  hover, take wing, wing one's flight
+
+Adj:
+  avian, ornithic, ornithological, feathered, winged, volant, passerine, aquiline
+  oviparous
+
+Adv:
+  as the crow flies, on the wing
+
+F:
+  Latin: aves
+  Greek: ornithes
+  Arabic: ṭuyūr [birds], Manṭiq al-Ṭayr [Conference of the Birds] [Attar]
+  Sanskrit: pakṣin [winged], dvija [twice-born, bird]
+  Chinese: niao [bird]
+  Japanese: tori
+
+Phr:
+  a bird in the hand is worth two in the bush
+  hope is the thing with feathers [Emily Dickinson]

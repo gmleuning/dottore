@@ -1,0 +1,27 @@
+# 317 Wood Sap
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such › iii. Saps
+G: Holzsaft
+Gloss: The sap that rises through the wood of a plant.
+
+N:
+  wood sap; rising sap, ascending sap, xylem sap, crude sap, spring sap, maple sap
+  lymph of the wood
+
+V:
+  rise, ascend, climb
+  mount, flow upward
+
+Adj:
+  ascending, rising, crude
+  ligneous
+
+Adv:
+  upward
+  through the wood
+
+F:
+  German: Holzsaft
+  Arabic: nusgh
+
+Phr:
+  when the sap rises in spring

@@ -1,0 +1,45 @@
+# 225 Past
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › β. Time
+G: Vergangenheit
+Gloss: The time gone by.
+
+N:
+  past; bygone times, former times, yesteryear, yesterday, days of yore, olden days, the old days, antiquity, ancient times, history, the record, memory, recollection, tradition, heritage, the dead past; what has been
+  the past, past time, times of yore, days of old, times of old, days past, times past, days gone by, times gone by, bygone days, old times, fore time, the good old days, the olden time, good old time, auld lang syne†, eld†
+  yore
+
+V:
+  pass, elapse, go by, be over, be gone, be no more, lapse, become history; remember, recall, recollect, look back
+  be past, have expired, have run its course, have had its day, pass by, pass away, go away, pass off, go off, blow over
+  retrace, think back, look back upon, bring to mind
+
+Adj:
+  past, bygone, former, previous, prior, erstwhile, sometime, late, ex-, old, olden, ancient, historic, historical, antique, gone, over, done, finished, elapsed, defunct, extinct
+  gone by, passed away, foregone, lapsed, preterlapsed†, expired, no more, run out, blown over, has-been, that has been, antediluvian, antebellum, never to return, exploded, forgotten, irrecoverable, obsoleteformer, pristine, quondam, ancestral
+  of long standing, time-honored, venerable, elder, eldest, firstborn
+  pre- existing, pre-existent, aforementioned, before- mentioned, introductory &c H0222
+  preceding, precedent, antecedent, anterior, prior &c H0222, foregoing, beforementioned†, abovementioned†, aforesaid, said, precursory, precursive†, prevenient†, preliminary, prefatory, introductory, prelusive, prelusory, proemial†, preparatory
+  perished, annihilated, exhausted, lost, vanished, departed, gone with the wind, defunct &c H0365
+  disregarded
+
+Adv:
+  formerly, before, previously, once, once upon a time, of old, in the past, long ago, in days of yore, ago, heretofore, hitherto, erst†, whilom†, erstwhile
+  paleo-, archaeo-, of yore, erewhile†, time was, in the olden time, anciently, long since, a long while, a long time ago, years ago, ages ago, some time ago, some time since, some time back
+  retrospectively, ere now, before now, till now, no longer, from time immemorial, from prehistoric times, in the memory of man, time out of mind, already, yet, up to this time, ex post facto
+
+F:
+  German: das Gewesene, erst
+  Latin: praeteritum, quondam
+  Greek: to parelēlythos
+  French: ci-devant
+  Arabic: māḍī [past]
+  Sanskrit: atīta [past], bhūta [past, what has been]
+  Chinese: guoqu [past]
+  Japanese: kako
+
+Phr:
+  the past is a foreign country
+  they do things differently there [L. P. Hartley]
+  what's past is prologue [Tempest]
+  où sont les neiges d'antan? [Fr.] [Villon]
+  the past is never dead. It's not even past [Faulkner]

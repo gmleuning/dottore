@@ -1,0 +1,23 @@
+# 939 General Character of Lyric
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry
+G: Allgemeiner Charakter des Lyrischen
+Gloss: The general nature of lyric.
+
+N:
+  general character of lyric; subjectivity, self-expression, the inner world, mood, the moment of feeling
+  inwardness, interiority, feeling, sentiment, emotion, the heart, self-utterance, reflection, the individual voice, particularity, the occasion
+
+V:
+  express, confess
+  feel, utter, voice, pour out, reveal, give vent
+
+Adj:
+  subjective, expressive, personal
+  inward, inner, emotional, heartfelt, confessional, intimate, individual
+
+Adv:
+  subjectively
+  inwardly, personally, from within, from the heart
+
+Phr:
+  the heart's own speech

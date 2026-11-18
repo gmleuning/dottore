@@ -1,0 +1,25 @@
+# 60 Specific Quantity
+# Logic › 1. Doctrine of Being › III. Measure
+G: Spezifische Quantität
+Gloss: An amount that carries a quality, as a certain temperature is the boiling point of water.
+
+N:
+  specific quantity; critical point, threshold, tipping point, boiling point, freezing point, melting point, flash point, ignition point, breaking point, saturation point, dew point; specific heat, specific gravity &c H0257; constant, physical constant, characteristic value; critical mass, quorum
+  diagnostic, lineament, feature, trait
+  the qualitative quantity, quantity with a quality, the specific magnitude, the critical amount
+
+V:
+  reach a threshold, hit the critical point, tip over, tip
+  specify, qualify, carry a quality
+
+Adj:
+  critical, threshold, characteristic, specific, defining, decisive, pivotal
+  definite, determinate
+  qualitative
+
+Adv:
+  at the critical point, at the threshold, on the cusp
+  specifically, at a certain amount
+
+Phr:
+  the last straw

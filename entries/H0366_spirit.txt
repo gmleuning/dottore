@@ -1,0 +1,43 @@
+# 366 Spirit
+# (top of the system)
+G: Geist
+Gloss: Mind in the broadest sense: the self-aware activity that knows itself and acts freely, and the human world it creates.
+
+N:
+  spirit; mind, soul, psyche, intellect, intelligence, consciousness, self-consciousness, reason, understanding, the mental, the spiritual; freedom, self-determination, self-knowledge; culture, civilization, the human world, the life of a people; Holy Ghost, Holy Spirit
+  ghost, inner man, the Absolute
+  intellect &c H0579
+  volition, free will, freedom &c H0614, spontaneity
+  vital spark, vital flame
+  Geist, the self-knowing, self-conscious life, the realm of freedom
+
+V:
+  think, know, will, mind, spiritualize, inspire, animate, enliven; know oneself, become free, return to oneself
+  know itself, act freely, create
+
+Adj:
+  spiritual, mental, intellectual, rational, conscious, self-conscious, free, cultural, ideal, noetic, psychic, pneumatic
+  psychical†, psychological
+  self-aware
+
+Adv:
+  spiritually, mentally, in spirit, in mind, in thought
+  self-consciously
+
+F:
+  German: Freiheit, Volksgeist [spirit of a people], Zeitgeist [spirit of the age], geistig
+  Latin: spiritus, mens
+  Greek: pneuma, nous
+  French: esprit, esprit de corps
+  Hebrew: ruach [breath, spirit]
+  Arabic: rūḥ [spirit], ʿaql [intellect], nafs [soul, self]
+  Sanskrit: ātman [self], cit [consciousness], manas [mind], puruṣa [spirit]
+  Chinese: jingshen [spirit], xin [heart-mind], shen [spirit]
+  Japanese: seishin
+
+Phr:
+  the wind bloweth where it listeth ... so is every one that is born of the Spirit [Bible]
+  God is a spirit [Bible]
+  the essence of spirit is freedom [Hegel]
+  spirit is a bone [Hegel]
+  mens agitat molem [Lat.] [Virgil]

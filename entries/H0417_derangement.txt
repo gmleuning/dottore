@@ -1,0 +1,49 @@
+# 417 Derangement
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling
+G: Verrücktheit
+Gloss: The mind held fast in one particular feeling or idea that it cannot fit into its ordered awareness of the world; madness, insanity.
+
+N:
+  derangement; madness, insanity, lunacy, mania, dementia, psychosis, mental illness, mental disorder, unreason, delusion, alienation, unsoundness of mind, distraction, frenzy, raving, folly, craziness; madman, lunatic, maniac; asylum, madhouse, bedlam
+  rabies, furor, mental alienation, aberration, paranoia, schizophrenia, dementation†, demency†, phrenitis†, phrensy†, incoherence, calenture of the brain†, hallucination, lycanthropy†, brain storm†
+  bedlamite†, candidate for Bedlam, raver†, madcap, energumen†, automaniac†, monomaniac, dipsomaniac, kleptomaniac, hypochondriac, crank, Tom o'Bedlam
+  disordered reason, disordered intellect, diseased mind, unsound mind, abnormal mind, unsoundness, neurosis, cognitive disorder, affective disorder†
+  rage, fury, delirium, hysterics
+  fanaticism, infatuation, oddity, eccentricity, twist, monomania &c H0612, kleptodipsomania†, hypochondriasis [Med.] &c H0375, melancholia, depression, clinical depression, severe depression, hysteria, amentia†
+  nutter [Brit. Slang], nutcase, nut, nutjob, loon, crackpot, headcase, psycho [Slang], basket case, fruitcake, screwball, loony bin [Slang], nuthouse [Slang], funny farm [Slang], psych ward, booby hatch [Slang]
+  looney
+
+V:
+  derange, madden, unhinge, drive mad, craze; rave, rant, go mad, lose one's mind, lose one's reason, go out of one's mind
+  be insane
+  become insane, lose one's senses, lose one's faculties, lose one's wits, run mad, lose one's marbles [Coll.], go crazy, go bonkers [Coll.], flip one's wig [Coll.], flip one's lid [Coll.], flip out [Coll.], flip one's bush [Coll.]
+  render mad, dementate†, addle the wits, addle the brain, derange the head, infatuate, befool†, turn the brain, turn one's head, drive one nuts [Coll.]
+  dote, ramble, wander, drivel, have a screw loose, have a devil, lose one's head &c H0600
+  lose it, crack up, freak out, go bananas, lose the plot, have a breakdown, snap
+
+Adj:
+  deranged, mad, insane, crazy, demented, lunatic, maniacal, psychotic, unhinged, unbalanced, unsound, disturbed, out of one's mind, distraught, distracted
+  loony [Coll.], crazed, aliene†, non compos mentis, not right, cracked, touched, bereft of reason, all possessed, unsettled in one's mind, insensate, reasonless, daft, phrenzied†, frenzied, frenetic, possessed, possessed with a devil, maddened, moonstruck, shatterpated†, mad-brained, scatter brained, shatter brained, crackbrained, tetched [Coll.], off one's head
+  corybantic†, dithyrambic, rabid, giddy, vertiginous, wild, haggard, mazed, flighty, depressed, agitated, hyped up, bewilderedmad as a March hare, mad as a hatter, of unsound mind, touched in one's head, wrong in one's head, not right in one's head, not in one's right mind, not right in one's wits, upper story, out of one's skull [Coll.], far gone, out of one's senses
+  delirious, lightheaded, incoherent, rambling, doting, wandering, stark staring mad, stark raving mad, wild-eyed, berserk, delusional, hallucinatory
+  frantic, beside oneself, out of one's wits
+  nuts, nutty, bonkers, barmy, crackers, bananas, loopy, batty, bats, cuckoo, wacko, mental [Brit. Slang], doolally [Brit. Slang], off one's rocker, off one's trolley, out to lunch, round the bend, round the twist, not all there, a few sandwiches short of a picnic, with a screw loose, mad as a March hare, certifiable, batshit [Vulg.], batshit crazy [Vulg.]
+  irrational, inhuman, loco
+
+Adv:
+  madly, insanely, crazily, wildly
+  frantically
+
+F:
+  German: Verrücktheit
+  Latin: non compos mentis
+  French: aliénation mentale, avoir le diable au corps
+  Arabic: junūn [madness, lit. possession by jinn]
+  Sanskrit: unmāda [madness]
+  Chinese: fengkuang [madness]
+  Japanese: kyōki
+
+Phr:
+  though this be madness, yet there is method in't [Hamlet]
+  quem deus vult perdere, prius dementat [Lat.]
+  o, let me not be mad, not mad, sweet heaven! [King Lear]

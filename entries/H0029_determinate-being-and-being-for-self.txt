@@ -1,0 +1,23 @@
+# 29 Determinate Being and Being-for-Self
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › a. Being-for-Self as Such
+G: Dasein und Fürsichsein
+Gloss: Being there in relation to others, now kept only as an aspect within being complete in oneself.
+
+N:
+  determinate being and being-for-self; being-for-other and being-for-self; outwardness and inwardness; relatedness and independence; exposure and self-possession; presence to others and presence to self; public and private, extrinsic and intrinsic; heteronomy and autonomy
+  being-there and being-for-self, the contrast of determinate being and being-for-self, relation to other and self-relation
+
+V:
+  be there for others, be outward; withdraw, retire into oneself, keep to oneself; relate, connect
+  relate to other, relate to self, contrast
+
+Adj:
+  outward, exposed, relational, heteronomous; inward, self-possessed, self-collected, autonomous
+  determinate, self-related, other-related
+
+Adv:
+  for others, for oneself; outwardly and inwardly; on the one hand, on the other
+  for itself, for another
+
+Phr:
+  neither a borrower nor a lender be [Hamlet]

@@ -1,0 +1,30 @@
+# 246 Elements
+# Nature › 2. Physics › I. Physics of Universal Individuality
+G: Elemente
+Gloss: The basic physical substances of which the planet is made: air, fire, water and earth.
+
+N:
+  elements; the four elements, fire, air, water and earth; elemental forces, the elemental; principles, roots
+  the physical elements, the universal individualities, the classical elements, element
+
+V:
+  constitute, compose, make up
+
+Adj:
+  elemental, elementary, primal, primordial, basic, fundamental, constituent
+  universal
+
+Adv:
+  elementally, in the elements
+
+F:
+  Latin: elementa
+  Greek: stoicheia, rhizōmata [Empedocles]
+  Arabic: arkān [pillars, elements], ʿanāṣir
+  Sanskrit: mahābhūta [great elements], pañcabhūta [five elements, adding ether]
+  Chinese: wuxing [five phases: wood, fire, earth, metal, water]
+  Japanese: godai [five great elements]
+
+Phr:
+  the four winds
+  the elements be kind to thee [Antony and Cleopatra]

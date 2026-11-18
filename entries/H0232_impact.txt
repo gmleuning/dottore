@@ -1,0 +1,42 @@
+# 232 Impact
+# Nature › 1. Mechanics › II. Finite Mechanics (Matter and Motion)
+G: Stoß
+Gloss: The transfer of motion by collision.
+
+N:
+  impact, percussion; collision, crash, bump, jolt, knock, bang, blow, hit, strike, shock, concussion, clash, smash, slam, thump, thud, rebound, recoil, elastic collision, inelastic collision, transfer of momentum, communication of motion
+  occursion†, encounter, cannon, carambole†, appulse†, elan, charge &c H0714, beating &c H0650
+  dint, stroke, smack, fillip, whack, thwack, cuff &c H0650, squash, dowse, swap, whap†, pelt, punce†, calcitration†, ruade†, arietation†, cut, carrom†, clip [Slang], sidewinder [U.S.], sidewipe†
+  reaction, retroaction, revulsion, ricochet, repercussion, recalcitration†, kick, springing back, elasticity &c H0263, reflection, reflexion [Brit.], reflex, reflux, reverberation &c H0264, rebuff, repulse, return
+  impulse, impulsion, impetus, momentum, pulsion†, thrust, shove, jog, brunt, booming, boost [U.S.], throw, explosion &c H0121, propulsion &c H0228
+  traction, draught, a long pull a strong pull and a pull all together, towage†, haulage
+  knocking, bash, poking, jerking, smacking
+
+V:
+  hit, strike, collide, crash, bump, knock, bang, jolt, smash, slam, ram, butt, impinge, rebound, recoil, bounce
+  tap, slap, flap, dab, pat, beat, dash, punch, hit hard, strike hard, batter, baste, patter, buffet, belabor, fetch one a blow, poke at, pink, lunge, yerk†, calcitrate†, strike at &c H0714, whip &c H0650
+  give an impetus, impel, push, start, give a start to, set going, drive, urge, boom, prod, cant, elbow, shoulder, jostle, justle†, hustle, hurtle, run against, bump against, butt against, knock one's head against, run one's head against, bunt, carom, clip y, fan, fan out, jab, plug [Slang]
+  react, spring back, fly back, bounce back, bound back, reverberate, repercuss†, recalcitrate†, echo
+  come into a collision, enter into collision, sideswipe, foul, fall foul of, run foul of, telescope
+  rap
+  draw, pull, haul, lug, rake, drag, tug, tow, trail, train, take in tow
+  wrench, jerk, twitch, touse†, yank [U.S.]
+
+Adj:
+  percussive, concussive, collisional, impactful, elastic, inelastic
+  drawing, tractile†, tractive
+  colliding
+
+Adv:
+  on impact, with a bang, head-on, full tilt
+  by impact
+
+F:
+  Latin: impulsus
+  French: contrecoup, foin
+  Arabic: ṣadma [impact, shock]
+  Sanskrit: abhighāta [impact]
+  Chinese: chongji [impact]
+
+Phr:
+  the irresistible force meets the immovable object

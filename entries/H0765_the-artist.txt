@@ -1,0 +1,36 @@
+# 765 The Artist
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal
+G: Der Künstler
+Gloss: The maker of the work of art.
+
+N:
+  the artist; artisan, maker, creator, poet, master, virtuoso, genius, craftsman, painter, sculptor, composer
+  artist, limner, drawer, sketcher, designer, engraver, old master, draftsman, draughtsman, copyist, dauber, hack, enamel, enameler, enamelist, caricaturist
+  historical painter, landscape painter, marine painter, flower painter, portrait painter, miniature painter, miniaturist, scene painter, sign painter, coach painter, Apelles†, carver, chaser, modeler, figuriste†, statuary, Phidias, Praxiteles, Royal Academician
+  workman, handicraftsman
+  originator, inventor, author, maker &c H0694
+  photographer, cinematographer, lensman, cameraman, camera technician, camera buff, wildlife photographer
+  artificer, the creative subject
+
+V:
+  create, make, compose, craft, paint, sculpt
+  produce, fashion, originate
+
+Adj:
+  artistic, creative, masterly, virtuosic, inspired
+  productive, gifted
+
+Adv:
+  artistically, masterfully
+  creatively, with mastery
+
+F:
+  Latin: artifex
+  Greek: poiētēs
+  Arabic: fannān [artist]
+  Sanskrit: kalākāra [artist], śilpin [artisan]
+  Chinese: yishujia [artist]
+  Japanese: geijutsuka
+
+Phr:
+  poeta nascitur, non fit [Lat.] [the poet is born, not made]

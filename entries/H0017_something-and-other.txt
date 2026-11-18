@@ -1,0 +1,36 @@
+# 17 Something and Other
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude
+G: Etwas und Anderes
+Gloss: The relation of a thing to what it is not. Each side is "something" and each is the "other" of the other, so which is which depends on point of view.
+
+N:
+  something and other; the other, otherness, alterity; difference &c H0089; the alien, the foreign, the stranger, the outsider; the not-self, non-ego; counterpart, opposite number, complement, foil; relativity, perspective, point of view, standpoint; being-for-other; being-in-itself; self and other, us and them, this and that, ego and alter
+  the something
+
+V:
+  be other, differ, be distinct, stand apart; other, alienate, estrange, defamiliarize; relate to, stand in relation to; contrast, compare, set against
+  relate to another
+
+Adj:
+  other, another, else, different, distinct, separate; alien, foreign, strange, outlandish, extraneous, external; relative, relational, reciprocal, mutual, correlative, perspectival
+  not the same, unequal &c H0045
+  unrelated, independent
+  ulterior
+  interrelated, complementary
+
+Adv:
+  otherwise, else, differently; on the other hand, conversely; relatively, from another point of view
+
+F:
+  German: das Andere, Anderssein, Sein-für-Anderes, Ansichsein, Etwas und Anderes
+  Latin: alteritas, alter ego, per contra, vice versa
+  Greek: heterotēs, to heteron
+  Arabic: ghayr [other]
+  Sanskrit: anātman
+  Chinese: ta [other]
+
+Phr:
+  alter ego [Lat.]
+  l'enfer, c'est les autres [Fr.] [Sartre]
+  je est un autre [Fr.] [Rimbaud]
+  one man's meat is another man's poison

@@ -1,0 +1,54 @@
+# 233 Fall
+# Nature › 1. Mechanics › II. Finite Mechanics (Matter and Motion)
+G: Fall
+Gloss: The motion of a body toward a centre of gravity.
+
+N:
+  fall; falling, descent, drop, plunge, plummet, tumble, free fall, gravitation, gravity, weight, heaviness, ponderousness, accelerated motion, law of falling bodies; downfall, collapse; inclined plane, pendulum
+  descension†, declension, declination, slump, cadence, subsidence, lapse, cropper, culbute†, titubation†, fate of Icarus
+  specific gravity, pondorosity†, pressure, load, burden, burthen†, ballast, counterpoise, lump of, mass of, weight of
+  pendency†, dependency, suspension, hanging, pedicel, pedicle, peduncle, tail, train, skirt, pigtail, pony tail, hangnail peg, knob, button, hook, nail, stud, ring, staple, tenterhook, fastening &c H0259, spar, horse
+  lowering, depression, dip &c H0267, abasement, detrusion†, reduction
+  overthrow, overset†, upset, prostration, subversion, precipitation
+  bow, courtesy, curtsy, genuflexion†, genuflection, kowtow, obeisance, salaam
+  dip, dive, header, ducking, diver
+  gravitation toward a centre
+  dangling, bowing
+
+V:
+  fall, drop, descend, plunge, plummet, tumble, topple, sink, gravitate, settle, come down
+  go down, drop down, slip, slide, rappel, crash, decline, set, droop, come down a peg
+  trip, stumble, titubate†, lurch, pitch, swag, topple over, tumble over, topple down, tumble down, tilt, sprawl, plump down, come down a cropper
+  be pendent, hang, depend, swing, dangle, daggle†, flap, trail, flow, beetle
+  suspend, sling, hook up, hitch, fasten to, append
+  depress, lower, let down, take down, let down a peg, take down a peg, cast, let drop, let fall, debase, bring low, abase, reduce, detrude†, precipitate
+  overturn, subvert, prostate, level, fell, cast down, throw down, fling down, dash down, pull down, cut down, knock down, hew down, raze, raze to the ground, rase to the ground†, trample in the dust, pull about one's ears
+  sit, sit down, couch, squat, crouch, stoop, bend, bob, kneel, bend the knee, bow the knee, bend the head, bow the head, cower, recline &c H0221
+  souse, duck, plump, take a plunge, take a header, make a plunge, bathe &c H0250
+  submerge, submerse, immerse, douse, engulf, send to the bottom
+  get out of one's depth, go to the bottom, go down like a stone, drop like a lead balloon, founder, welter, wallow
+  disturb
+
+Adj:
+  falling, descending, gravitational, heavy, weighty, ponderous, plummeting, sinking
+  weighing, heavy as lead, ponderable, lumpish†, lumpy, cumbersome, burdensome, cumbrous, unwieldy, massive
+  descendent, decurrent†, decursive†, labent†, deciduous, nodding to its fall
+  pendent, pendulous, pensile, beetling, jutting over, overhanging, projecting, dependent, suspended, loose, flowing
+  having a peduncle, pedunculate†, tailed, caudate
+  depressed, at a low ebb, prostrate &c H0221, detrusive†
+  gravitating
+  overturned, stalked, nodding
+
+Adv:
+  downward, down, headlong, by gravity
+  in free fall
+
+F:
+  Latin: casus
+  Arabic: suqūṭ [fall]
+  Sanskrit: patana [falling]
+  Chinese: luoti [falling body]
+
+Phr:
+  what goes up must come down
+  Newton's apple

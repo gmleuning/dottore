@@ -1,0 +1,39 @@
+# 174 Syllogism of Analogy
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › b. Syllogism of Reflection
+G: Schluss der Analogie
+Gloss: Inference from likeness between cases: what holds of one thing holds of another similar to it.
+
+N:
+  syllogism of analogy; analogy, argument from analogy, analogical reasoning, likeness, resemblance, similitude, parallel, comparison, correspondence, homology, isomorphism, model, metaphor
+  similarity, semblance, approximation, parallelism, analogicalness†, homoiousia†, parity
+  simile, type &c H0786, image &c H0741, close resemblance
+  association, association of ideas
+  correlation &c H0141, affinity
+  conformity &c H0063, agreement &c H0087
+  figure, trope
+  analogical inference, reasoning from likeness
+
+V:
+  analogize, compare, liken, parallel, extrapolate by likeness, model on, reason by analogy
+  be similar, resemble, bear resemblance, approximate
+  infer by analogy
+
+Adj:
+  analogical, analogous, comparable, similar, parallel, homologous, isomorphic, metaphorical
+  such as, so, homoiousian†
+  resembling, like, alike, twin
+
+Adv:
+  analogically, by analogy, by parity of reasoning, likewise, similarly
+
+F:
+  Latin: analogia entis, mutatis mutandis
+  Greek: analogia
+  French: of a piece
+  Arabic: qiyās [analogical reasoning, as in jurisprudence]
+  Sanskrit: upamāna [comparison as a means of knowledge]
+  Chinese: leibi [analogy]
+
+Phr:
+  as above, so below
+  like causes, like effects

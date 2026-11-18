@@ -1,0 +1,30 @@
+# 316 Saps
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such
+G: Säfte
+Gloss: The fluids that circulate through a plant.
+
+N:
+  saps; sap, juice, latex, resin, gum, nectar, sugar, fluid, humour, circulation
+  lymph
+  plant juices, the circulating fluids
+
+V:
+  rise, circulate, ooze, exude, bleed, drip
+  percolate
+  flow, run
+
+Adj:
+  sappy, juicy, succulent, resinous, gummy, latescent
+  liquid
+
+Adv:
+  full of sap
+  in sap
+
+F:
+  Arabic: ʿuṣāra [juice], nusgh [sap]
+  Sanskrit: rasa [juice, sap]
+  Chinese: zhiye [sap]
+
+Phr:
+  the sap is rising

@@ -1,0 +1,26 @@
+# 304 Calcareousness
+# Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy) › a. Primitive Rocks
+G: Kalkartigkeit
+Gloss: The character of rocks rich in lime, such as limestone and chalk.
+
+N:
+  calcareousness; lime, limestone, chalk, marble, travertine, tufa, calcite, dolomite, coral, shell, gypsum, alabaster
+  the calcareous series
+
+V:
+  calcify, lime, whitewash
+
+Adj:
+  calcareous, chalky, limy, marmoreal, cretaceous, calcific
+
+Adv:
+  chalkily
+  in lime
+
+F:
+  Arabic: kils [lime]
+  Sanskrit: sudhā [lime, plaster]
+  Chinese: shihui [lime]
+
+Phr:
+  as white as chalk

@@ -1,0 +1,28 @@
+# 712 External Sovereignty
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › a. Constitutional Law
+G: Äußere Souveränität
+Gloss: The state as independent in relation to other states.
+
+N:
+  external sovereignty; independence, sovereignty among states, national independence, autonomy, self-determination, territorial integrity
+  sovereignty abroad, sovereign statehood, non-dependence
+
+V:
+  assert independence, defend, recognize
+  stand independent, assert sovereignty
+
+Adj:
+  sovereign, independent, autonomous
+  self-governing, free
+
+Adv:
+  independently
+  outwardly, in relation to other states
+
+F:
+  Arabic: istiqlāl [independence], siyāda [sovereignty]
+  Chinese: zhuquan [sovereignty]
+  Japanese: shuken
+
+Phr:
+  the first freedom of a people

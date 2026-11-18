@@ -1,0 +1,26 @@
+# 193 Transition of Chemism
+# Logic › 3. Doctrine of the Concept › II. Objectivity › β. Chemism
+G: Übergang des Chemismus
+Gloss: The passage beyond the neutral product of combination.
+
+N:
+  transition of chemism; exhaustion of reaction, spent reaction, end of tension, neutrality; passage to purpose, emergence of purposiveness
+  the passage out of chemism, the sublation of the neutral product, the transition to teleology, the freed concept, the emergence of purpose
+
+V:
+  exhaust, spend, neutralize, settle, pass beyond
+  pass over, go beyond, sublate, free itself
+
+Adj:
+  spent, neutral, exhausted, inert
+  transitional, passing, self-sublating
+
+Adv:
+  at the end, past the reaction
+  in transition, beyond neutrality
+
+F:
+  German: Zweckmäßigkeit
+
+Phr:
+  the fire burns out

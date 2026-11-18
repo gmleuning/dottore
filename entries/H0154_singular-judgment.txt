@@ -1,0 +1,23 @@
+# 154 Singular Judgment
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › b. Judgment of Reflection
+G: Singuläres Urteil
+Gloss: A judgment of this kind about one thing: "this plant is healing."
+
+N:
+  singular judgment; singular proposition, judgment about an individual, individual statement; this-statement; case, instance
+  the this-judgment, the individual judgment, the judgment about a single thing, this, the singular subject
+
+V:
+  single out, point to, name, designate, instance
+  individuate, indicate
+
+Adj:
+  singular, individual, particular, one-off, demonstrative
+  indicative
+  single
+
+Adv:
+  in this case, in this instance, singly
+
+Phr:
+  this plant is medicinal

@@ -1,0 +1,40 @@
+# 388 Smell and Taste
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses
+G: Geruch und Geschmack
+Gloss: The senses that perceive through chemical contact and dissolution.
+
+N:
+  smell and taste; the chemical senses, olfaction, gustation, nose and palate, flavour, savour, scent, aroma
+  fragrance, redolence, perfume, bouquet, essence, sweet smell, aromatic perfume
+  sense of smell, act of smelling, olfactories†
+  flavor, gust, gusto, gout, sapor†, sapidity†, aftertaste, tang
+  odor, odorament†, effluvium, emanation, exhalation, fume, trail, nidor†
+  tasting, degustation
+  conk [Slang], hooter [Brit. Slang], schnozz [Slang], schnozzle, snoot, snout, beak [Slang], neb [Scot.], nostrils, nares, sinuses, tongue, taste buds, palate, mouthfeel, umami
+  stench, whiff, niff [Brit. Slang], funk, BO, fug
+
+V:
+  smell, taste, savour, sniff, relish
+  snuff, snuff up, nose, inhale
+  have an odor, smell of, smell strong of, exhale, give out a smell, reek, reek of
+  savor, smatch†, smack, twang, tickle the palate &c H0284, smack the lips
+  stink
+  pong [Brit.], hum [Brit. Slang], stink to high heaven
+
+Adj:
+  olfactory, gustatory, chemical, sapid, odorous
+  saporific†, gustable†, gustful†, strong, gamy, palatable &c H0284
+  odoriferous, smelling, reeking, strong- scented, redolent, graveolent†, nidorous†, pungent
+  savoury
+  smelly, stinky, whiffy [Brit.], niffy, pongy, funky, rank, skanky, yummy, scrummy [Brit.], moreish, delish [Slang], lush [Brit. Slang], finger-licking good
+
+Adv:
+  by nose and tongue
+  by smell, by taste
+
+F:
+  Arabic: shamm wa-dhawq [smell and taste]
+  Sanskrit: gandha and rasa
+
+Phr:
+  o taste and see that the Lord is good [Bible]

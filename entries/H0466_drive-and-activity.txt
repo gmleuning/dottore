@@ -1,0 +1,31 @@
+# 466 Drive and Activity
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › a. Immediate Self-Consciousness (Desire)
+G: Trieb und Tätigkeit
+Gloss: The urge to act, and the action that satisfies it.
+
+N:
+  drive and activity; drive, urge, impulse, instinct, motivation, need, appetite; activity, action, deed, doing, agency
+  performance, exercise, operation, praxis, execution
+  proceeding, step, move
+  impetus, conation, striving, satisfaction
+
+V:
+  drive, urge, impel, act, do, strive, pursue
+  push
+  impel &c H0232, goad, spur
+
+Adj:
+  driven, impulsive, active, motivated, appetitive
+  conative
+
+Adv:
+  actively, impulsively
+  by impulse
+
+F:
+  German: Trieb
+  Arabic: dāfiʿ [drive]
+  Sanskrit: pravṛtti [activity, impulse]
+
+Phr:
+  the urge to act

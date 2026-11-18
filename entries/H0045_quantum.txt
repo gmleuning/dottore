@@ -1,0 +1,33 @@
+# 45 Quantum
+# Logic › 1. Doctrine of Being › II. Magnitude (Quantity)
+G: Quantum
+Gloss: A definite amount; a particular "how much."
+
+N:
+  quantum; definite amount, determinate magnitude, given quantity, specific quantity, fixed amount, measured amount, quota, portion, share, dose, dosage, ration, allowance, measure, amount, sum, total; how much, so much, this much, so many; number &c H0046, degree &c H0047; unit, unit of measure, increment, quantity
+  allotment, modicum
+  magnitude, size &c H0218, amplitude, mass, substance, strength, force
+  degree, extent, ratio, range, compass
+  part, fraction, fragment
+  the how-much
+
+V:
+  quantify, measure out, mete out, dole out, portion, ration, dose, allot, apportion; amount to, total, come to, add up to
+  come up to
+
+Adj:
+  definite, determinate, specific, given, fixed, set, measured, quantified, metered, finite, exact, precise
+  well-defined
+  quantitative
+
+Adv:
+  so much, thus much, to the amount of, to the tune of; exactly, precisely, to a T. all of, a full, the sum of, fully
+
+F:
+  Latin: quantum
+  Arabic: kammiyya [quantity]
+  Sanskrit: parimāṇa
+
+Phr:
+  so much and no more
+  a pound of flesh [Merchant of Venice]

@@ -1,0 +1,37 @@
+# 147 The Singular Concept
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › α. The Concept as Such
+G: Der einzelne Begriff
+Gloss: A general idea realized in a single instance, as this particular dog.
+
+N:
+  the singular concept; singular, singularity, individual, individuality, the individual, this one, this-here, haecceity, thisness, ipseity, uniqueness, instance, specimen, exemplar, token, case, example; the concrete individual, concrete universal; person, self, subject
+  speciality, particularity, peculiarity, personality, idiosyncrasy, specificness†, singularity &c H0063
+  case in point
+  the this, the single instance
+
+V:
+  individualize, individuate, singularize, single out, identify, pick out, instantiate, exemplify, embody, personify
+
+Adj:
+  singular, individual, single, unique, particular, concrete, specific, personal, idiosyncratic, one-off, one of a kind
+  special, proper, peculiar
+  one, sole
+
+Adv:
+  individually, singly, uniquely, one by one, each, severally, in particular
+  respectively
+  per se
+
+F:
+  German: Einzelheit
+  Latin: individuum, haecceitas, sui generis, in concreto
+  Greek: atomon, tode ti
+  Arabic: fard [individual], shakhṣ [person]
+  Sanskrit: vyakti [individual], viśeṣa
+  Chinese: geti [individual]
+  Japanese: kotai
+
+Phr:
+  individuum est ineffabile [Lat.]
+  sui generis [Lat.]
+  this rose, this one, here

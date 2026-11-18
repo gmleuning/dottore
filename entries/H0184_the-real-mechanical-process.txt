@@ -1,0 +1,37 @@
+# 184 The Real Mechanical Process
+# Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › b. The Mechanical Process
+G: Der reale mechanische Prozess
+Gloss: Mechanical interaction in which one thing overpowers another.
+
+N:
+  the real mechanical process; domination, subjugation, overpowering, overmastering, power, violence, force, might, coercion, compulsion, mastery, superiority, ascendancy, preponderance, the stronger and the weaker; fate as mechanical power
+  upper hand, whip hand, conquest, victory
+  energy &c H0121, ascendency†, sway
+  pressure, predominance, dominance
+  resistance, fate
+
+V:
+  overpower, overwhelm, subdue, subjugate, dominate, master, crush, conquer, prevail, override, steamroll, bulldoze
+  vanquish, overcome, overmaster, overmatch
+  have the upper hand, preponderate, overrule
+  resist
+
+Adj:
+  overpowering, overwhelming, dominant, superior, preponderant, crushing, coercive, irresistible
+  resistless, invincible
+  predominant
+  resistant, violent
+
+Adv:
+  by force, by main force, perforce
+  forcibly
+  overpoweringly
+  overwhelmingly
+
+F:
+  German: Gewalt, Schicksal
+  Latin: vi et armis
+
+Phr:
+  might is right
+  the strong do what they can and the weak suffer what they must [Thucydides]

@@ -1,0 +1,41 @@
+# 63 The Rule
+# Logic › 1. Doctrine of Being › III. Measure › α. Specific Quantity › b. Specifying Measure
+G: Die Regel
+Gloss: A fixed outside standard used to measure other things, such as a yardstick or unit of weight.
+
+N:
+  the rule; rule, ruler, measuring rod, yardstick, metre stick, tape measure, scale, gauge, standard, unit, plumb line, level, square, chain, foot, ell, cubit, span, palm, hand, fathom, league, mile; standard weight, standard measure, weights and measures, metrology; external standard, conventional standard
+  line, nail, inch, yard, rood, pole, furlong, link, arpent†, handbreadth†, jornada [U.S.], kos†, vara†
+  yard measure, foot rule, compass, calipers, gage, meter, rod, check, dividers, velo†
+  normality, normalcy, normalness†, familiarity, naturalness, commonness &c H0222, customary &c H0427
+  model, pattern
+  prototype, original, precedent, ideal, reference, scantling, type, archetype, antitype†, protoplast, module, exemplar, example, ensample†, paradigm, lay-figure
+  principle, law, order of things, normal state, natural state
+  plummet
+  regularity, uniformity, constancy, routine &c H0427, formula
+  norm, canon, criterion
+
+V:
+  rule, measure, gauge, scale, apply the rule, take the measure of, size up, calibrate
+  pace step, apply the compass, plumb, probe, sound, heave the log, heave the lead, survey
+  standardize
+
+Adj:
+  standard, metric, imperial, regulation, conventional, external, extrinsic, canonical
+  typical, normal, nominal, formal, orthodox, strict, rigid, positive, uncompromising, Procrustean
+  regular, normative
+
+Adv:
+  by rule, by rule of thumb, by the yard, by the foot
+  conformably, agreeably to, in conformity with, in accordance with, in keeping with, according to, consistently with, as usual, more-majorum
+  as a rule
+
+F:
+  German: Regel, Maßstab
+  Latin: regula, norma [carpenter's square], ad instar, instar omnium, more solito
+  Greek: kanōn [measuring rod]
+  Arabic: qānūn [rule, canon]
+
+Phr:
+  measure twice, cut once
+  rule of thumb

@@ -1,0 +1,36 @@
+# 524 Government and War
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › i. True Spirit: The Ethical Order › 1. The Ethical World: Human and Divine Law, Man and Woman › b. The Movement of the Two Laws
+G: Regierung und Krieg
+Gloss: The rule of the state, and war as its means of holding the community together.
+
+N:
+  government and war; government, rule, governance, regime, state, the city's power; war, warfare, combat, conflict, campaign, hostilities, arms, mobilization, conscription, the shaking of the individual
+  fighting, the sword, bloodshed
+  crusade, operations, state of siege
+  management, economy, political economy, government &c H0710
+  sway, command, control, administer, govern &c H0710, preside over
+  the ruling power, the shaking of the community, the negative power, the lord death
+
+V:
+  govern, rule, wage war, mobilize, conscript, shake, unsettle, rouse
+  arm, mobilize troops, take up arms, draw the sword
+  have authority, exercise authority, reign
+
+Adj:
+  governmental, martial, warlike, bellicose, military, belligerent
+  combative, militant
+
+Adv:
+  in arms, at war, by force of arms
+  by war, under government
+
+F:
+  German: Erschütterung
+  Arabic: ḥukūma [government], ḥarb [war]
+  Sanskrit: rāja [king], yuddha [war]
+  Chinese: zhengfu [government], zhanzheng [war]
+  Japanese: sensō
+
+Phr:
+  war is the father of all things, polemos patēr pantōn [Gr.] [Heraclitus]
+  si vis pacem, para bellum [Lat.]

@@ -1,0 +1,29 @@
+# 937 Romantic Epic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › a. Epic Poetry › iii. Historical Development of Epic
+G: Das romantische Epos
+Gloss: The epic poetry of the Christian Middle Ages and after.
+
+N:
+  romantic epic; El Cid, Divine Comedy, Orlando Furioso, Paradise Lost
+  the chivalric epic, the medieval epic, the Christian epic, chanson de geste, the Song of Roland, the Arthurian romances, Parzival, Tristan, Jerusalem Delivered, the Lusiads, Ossian, the Edda, romance of chivalry, Dante, Ariosto, Tasso, Camões, Milton
+
+V:
+  sing, quest
+  rove, adventure, crusade, romance, narrate
+
+Adj:
+  medieval, chivalric, romantic, Dantean, Miltonic
+  Christian, knightly, Arthurian, Carolingian, Ariostan, Germanic
+
+Adv:
+  in the romantic manner
+  chivalrously, in romance, in the Middle Ages
+
+F:
+  German: Nibelungenlied
+  French: Chanson de Roland
+  Italian: Divina Commedia, Gerusalemme Liberata
+  Portuguese: Os Lusíadas
+
+Phr:
+  nel mezzo del cammin di nostra vita [It.] [Dante]

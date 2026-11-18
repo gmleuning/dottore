@@ -1,0 +1,29 @@
+# 292 Chemical Elective Affinity
+# Nature › 2. Physics › III. Physics of Total Individuality › γ. Chemical Process › b. Real Process (Combination) [Tetrad]
+G: Chemische Wahlverwandtschaft
+Gloss: The preference of a substance to combine with one substance rather than another.
+
+N:
+  chemical elective affinity; affinity, chemical affinity, preference, selective combination, displacement, substitution, single displacement, double displacement, double decomposition
+  elective attraction, preferential combination, selective affinity, relationship
+
+V:
+  prefer, displace, substitute, supplant, replace, pair off
+  take the place of, supersede
+  select, combine, attract
+
+Adj:
+  affined, selective, preferential, elective
+
+Adv:
+  by preference, by affinity
+  electively
+
+F:
+  German: Wahlverwandtschaften, Wahlverwandtschaft
+  Arabic: ulfa [affinity]
+  Chinese: qinhe [affinity]
+  Japanese: shinwa
+
+Phr:
+  Die Wahlverwandtschaften [Ger.] [Goethe]

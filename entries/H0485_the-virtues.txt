@@ -1,0 +1,57 @@
+# 485 The Virtues (Love, Friendship, Valor, Honor, Fame)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › c. Universal Self-Consciousness
+G: Die Tugenden
+Gloss: The virtues of shared life: love, friendship, valour, honour, fame.
+
+N:
+  the virtues; love, friendship, valour, honour, fame; virtues of shared life, social virtues, civic virtues; love; friendship; valour, courage, bravery; honour; fame, glory, renown
+  distinction, mark, name, figure, repute, reputation, good repute, high repute, note, notability, notoriety, eclat, the bubble reputation, vogue, celebrity, famousness, popularity, approbation &c H0483, credit, prestige, talk of the town, name to conjure with
+  valor, resoluteness, boldness, spirit, daring, gallantry, intrepidity, contempt of danger, defiance of danger, derring-do, audacity, rashness &c H0610, dash, defiance &c H0470, confidence, self-reliance
+  good nature, good feeling, good wishes, kindness, kindliness, loving-kindness, benignity, brotherly love, charity, humanity, fellow-feeling, sympathy, goodness of heart, warmth of heart, bonhomie, kind-heartedness, amiability, milk of human kindness, tenderness
+  amity, friendliness, brotherhood, fraternity, sodality, confraternity, harmony &c H0483, peace &c H0716
+  honor, luster &c H0241, illustriousness
+  account, regard, respect, reputableness†, respectability &c H0663, good name, good report, fair name
+  friend, friend of one's bosom, alter ego, best friend, bosom friend, soulmate, fast friend, persona grata
+  acquaintance, neighbor, next-door neighbor, casual acquaintance, nodding acquaintance, wellwisher
+  favorer, fautor†, patron, Mecaenas, tutelary saint, good genius, advocate, partisan, sympathizer, ally, friend in needcomrade, mate, companion, familiar, confrere, comrade, camarade†, confidante, intimate, old crony, crony, chum, pal, buddy, bosom buddy, playfellow, playmate, childhood friend, bedfellow, bedmate, chamber fellow
+  associate, colleague, compeer
+  schoolmate, schoolfellow†, classfellow†, classman†, classmate, roommate, fellow-man, stable companion
+  best man, maid of honor, matron of honor
+  compatriot, fellow countryman, countryman
+  shopmate, fellow-worker, shipmate, messmate†, fellow companion, boon companion, pot companion, copartner, partner, senior partner, junior partner
+  Arcades ambo Pylades and Orestes Castor and Pollux†, Damon and Pythias
+  host, Amphitryon†, Boniface, guest, visitor, protégé
+  excellences, merits
+  sidekick
+
+V:
+  love, befriend, dare, honour, glorify
+  be friendly, be friends, be acquainted with, know, have the ear of, keep company with, hold communication with, have dealings with, sympathize with, have a leaning to, bear good will &c H0660, make much of, befriend &c H0702, introduce to
+  give honor to, do honor to, pay honor to, render honor to, accredit, pay regard to, dignify, sing praises to &c H0483, exalt, aggrandize, elevate
+  excel
+
+Adj:
+  virtuous, loving, friendly, valiant, honourable, famous, glorious, renowned
+  remarkable &c H0081, notable, notorious, celebrated, talked of, famed, far-famed, conspicuous, to the front, foremost, in the front rank, in the ascendant
+  fond of, taken with, struck with, smitten, bitten, attached to, wedded to, enamored, charmed, in love, love-sick, over head and ears in love, head over heels in love
+  illustrious, splendid, brilliant, radiant, bright &c H0241, full-blown, honorific
+  affectionate, tender, sweet upon, sympathetic, amorous, amatory, fond, erotic, uxorious, ardent, passionate, rapturous, devoted, motherly
+  amicable, amical†, well-affected, unhostile†, neighborly, brotherly, fraternal, harmonious, hearty, cordial, warm- hearted
+  excellent, worthy
+  noted, struck, matured
+
+Adv:
+  virtuously, valiantly, honourably
+  worthily
+
+F:
+  Latin: virtutes, amor, amicitia, fortitudo, honor, gloria, aura popularis, nobilitate, amicus, usque ad aras, fidus Achates, Nisus and Euryalus, par nobile fratrum, virtus
+  Greek: aretai, erōs, philia, andreia, timē, kleos, aretē
+  French: succes d'estime
+  Arabic: faḍāʾil [virtues], muruwwa [manly virtue], karāma [honour]
+  Sanskrit: guṇa [virtue]
+  Chinese: de [virtue], ren [humaneness], yi [righteousness]
+
+Phr:
+  greater love hath no man than this [Bible]
+  kleos aphthiton [Gr.] [imperishable fame] [Homer]

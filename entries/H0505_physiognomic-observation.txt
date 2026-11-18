@@ -1,0 +1,31 @@
+# 505 Physiognomic Observation
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad] › ii. Observing Reason › 3. Observation of Self-Consciousness in Its Immediate Actuality
+G: Physiognomik
+Gloss: The reading of character from the face.
+
+N:
+  physiognomic observation; physiognomy, physiognomics, face-reading, Lavater's physiognomy, reading of features, character from countenance, metoposcopy [forehead-reading]
+  contour, countenance, visage, cast of countenance, profile
+  symptomatology [Med.], semiology, semiotics
+  the science of Lavater, features, expression, the hand, handwriting
+
+V:
+  read the face, scrutinize the features, judge by looks
+  read faces, physiognomize, interpret, infer character
+
+Adj:
+  physiognomic, physiognomical, facial, characterological
+  expressive
+
+Adv:
+  by the face, at face value
+  physiognomically, from the face
+
+F:
+  Arabic: firāsa [physiognomic discernment], qiyāfa [reading of traces and features]
+  Chinese: xiangshu [physiognomy]
+  Japanese: ninsō
+
+Phr:
+  you can't judge a book by its cover
+  there's no art to find the mind's construction in the face [Macbeth]

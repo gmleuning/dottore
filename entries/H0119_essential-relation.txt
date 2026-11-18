@@ -1,0 +1,40 @@
+# 119 Essential Relation
+# Logic › 2. Doctrine of Essence › II. Appearance
+G: Wesentliches Verhältnis
+Gloss: A relation in which two sides exist only through each other.
+
+N:
+  essential relation; relation, correlation, correlativity, interrelation, interdependence, connection, connexion, nexus, bond, tie, link, linkage; correlatives, relata, terms of a relation; reciprocity, mutuality, complementarity
+  reciprocalness†, reciprocation, association
+  bearing, reference, concern, cognation, correlation &c H0141, analogy, similarity &c H0091, affinity, homology, alliance, homogeneity, approximation &c H0218, filiation &c H0672, interest, relevancy &c H0087, dependency, relationship, relative position
+  vinculum, connective, bond of union, copula
+  reciprocal dependence, the essential relationship
+  connector
+
+V:
+  relate, correlate, connect, link, tie, bind, interrelate; depend on each other, presuppose each other
+  bring into relation with, bring to bear upon, associate, draw a parallel, link &c H0259
+
+Adj:
+  relational, relative, correlative, correlated, interrelated, interdependent, connected, linked, mutual, reciprocal, complementary
+  commutual†, reciprocative, closely related, alternate, interchangeable, complemental
+  correlative &c H0141, cognate, relating to, relative to, in relation with, referable or referrible to†, belonging to, appurtenant to, in common with
+  related, implicated, associated, affiliated, allied to, en rapport, in touch with
+
+Adv:
+  relatively, in relation to, with respect to, in connection with, mutually
+  thereof, as to, as for, as respects, as regards, about, concerning, anent, as relates to, with relation, with reference to, with regard to, in respect of, while speaking of, by the way, by the by, whereas, for as much as, in as much as, in point of, as far as, on the part of, on the score of, under the head of &c H0144, of, in the matter of, in re
+  correlatively
+
+F:
+  German: Verhältnis, das wesentliche Verhältnis
+  Latin: relatio, quoad hoc, pro re nata
+  Greek: pros ti [relative, toward something]
+  French: vis-à-vis, a propos of
+  Arabic: iḍāfa [relation, correlation]
+  Sanskrit: sambandha [relation, connection]
+  Chinese: guanxi [relation, connection]
+  Japanese: kankei
+
+Phr:
+  no master without servant, no servant without master

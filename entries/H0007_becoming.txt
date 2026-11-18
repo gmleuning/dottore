@@ -1,0 +1,43 @@
+# 7 Becoming
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being
+G: Werden
+Gloss: Change at its most basic: the passing of being into nothing and of nothing into being. The first concept with real content, since it holds both together.
+
+N:
+  becoming; flux, flow, flowing, fluxion†, process, passage, transition, transit, passing; change, alteration, mutation, mutability, variation, vicissitude &c (alteration of quantum) H0050; transformation, metamorphosis, transmutation; movement, motion, restlessness, unrest; evolution, development, growth, emergence, unfolding
+  impermanence, transience, transiency; the river of Heraclitus
+  dialectic, dialectical movement; unity of opposites
+  permutation, modification, modulation, inflexion, mood, qualification, innovation, metastasis, deviation, turn, revolution, diversion, break
+  transmigration, phase, conjugation, convertibility
+  transfiguration, transubstantiation, metempsychosis†, avatar, alterative
+  course
+  conversion, reduction, resolution, assimilation, sea change, change of state, developing
+  the passing-over
+
+V:
+  become, come to be, grow, grow into, turn into, develop, evolve, emerge; change, alter, shift, vary, mutate, transform, metamorphose; flow, flux, pass, pass over, run, stream; be in process, be in flux, be in the making, be on the way
+  be converted into, get, wax, come to, turn to, evolve into, develop into, turn out, lapse, run into, fall into, pass into, slide into, glide into, ripen into, open into, resolve itself into, settle into, merge into, emerge as, melt, come round to, mature, mellow, assume the form of, assume the shape of, assume the state of, assume the nature of, assume the character of, illapse†, begin a new phase, assume a new phase, undergo a change
+
+Adj:
+  becoming, changing, mutable, mutational, protean, variable, fluid, fluent, fluxional, flowing, shifting, unstable, restless; transient, transitory, fleeting, ephemeral, evanescent, impermanent; processual, processive, developmental, evolutionary, emergent, nascent, inchoate; dialectical
+  changeable, changeful, checkered, ever changing, proteiform†, versatile
+  transitive, cursory, short-lived, flying, fugacious, fugitive, slippery, spasmodic, instantaneous, momentaneous†
+
+Adv:
+  in process, in flux, in transition, in the making, on the move; little by little, by degrees
+
+F:
+  German: Unruhe, Werden
+  Latin: fieri, in fieri
+  Greek: genesis, gignesthai, kinēsis
+  Sanskrit: anitya, saṃsāra
+  Pali: anicca
+  Chinese: bian [change], yi [change]
+  Japanese: mujō [impermanence]
+
+Phr:
+  panta rhei [Gr.] [attrib. Heraclitus]
+  you cannot step twice into the same river [Heraclitus]
+  omnia mutantur, nihil interit [Lat.] [Ovid]
+  tempora mutantur, nos et mutamur in illis [Lat.]
+  plus ça change, plus c'est la même chose [Fr.] [Alphonse Karr]

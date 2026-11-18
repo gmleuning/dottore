@@ -1,0 +1,25 @@
+# 157 Judgment of Necessity
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad]
+G: Urteil der Notwendigkeit
+Gloss: A judgment that states the essential nature of its subject.
+
+N:
+  judgment of necessity; necessary judgment, essential predication, judgment of substance, judgment of kind, judgment of essence, de re necessity; definition, classification, categorization
+  the essential judgment, the judgment of the genus, the objective universal, categorical hypothetical and disjunctive judgments
+
+V:
+  classify, categorize, subsume, define, place, rank
+  necessitate, determine essentially
+
+Adj:
+  necessary, essential, substantial, generic, classificatory, taxonomic, categorical
+
+Adv:
+  necessarily, essentially, by nature
+
+F:
+  Latin: per se, de re
+  Arabic: ḍarūrī [necessary proposition]
+
+Phr:
+  gold is a metal

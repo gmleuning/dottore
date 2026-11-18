@@ -1,0 +1,65 @@
+# 711 Legislative Power
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › a. Constitutional Law › i. Internal Constitution
+G: Gesetzgebende Gewalt
+Gloss: The power that makes the laws.
+
+N:
+  legislative power; the legislature, parliament, assembly, chamber, diet, estates, congress, senate, house, lawmaking
+  chamber of deputies, directory, rigsdag, storthing†, witenagemote†, junta, divan, musnud†, sanhedrim, classis†, Amphictyonic council†, duma [Rus.], legislative assembly, legislative council, riksdag†, witan†, caput†, consistory, chapter, syndicate, court of appeal &c H0699, board of control, board of works, vestry, county council, local board
+  cabinet council, privy council, cockpit, convocation, synod, convention, states-general
+  caucus, conclave, clique, conventicle, meeting, sitting, seance, conference, exhibition, session, palaver, pourparler, durbar†, quorum, council fire [U.S.], powwow [U.S.], primary [U.S.]
+  council, committee, subcommittee, court, cabinet, board, bench, staff
+  election, poll, ballot, referendum, recall, initiative, voice, suffrage, plumper, cumulative vote, plebiscite, vox populi, electioneering, voting, elective franchise, straight ticket [U.S.], opinion poll, popularity poll
+  house of representatives
+  member, senator, member of parliament, M.P, councilor, representative of the people, assemblyman, congressman, councilman, councilwoman, alderman, freeholder
+  news, information &c H0595, budget of news, budget of information, intelligence, tidings
+  word, advice, message, dispatch, despatch, telegram, cable, marconigram†, wire, communication, errand, embassy
+  report, rumor, hearsay, flying rumor, news stirring, cry, buzz, bruit, fame, talk, scandal, eavesdropping, town tattle, table talk, tittle tattle, canard, topic of the day, idea afloat
+  bulletin, fresh news, stirring news, glad tidings, flash, news just in, on-the-spot coverage, live coverage
+  old story, old news, stale news, stale story, chestnut [Slang]
+  narrator &c H0595, newsmonger, scandalmonger, talebearer, telltale, gossip, tattler
+  journalism
+  media, news media, the press, the information industry, newspaper, magazine, tract, journal, gazette, publication &c H0595, radio, television, ticker (electronic information transmission)
+  United Press International, UPI, Associated Press, AP, The Dow Jones News Service, DJ, The New York Times News Service, NYT, Reuters [Brit.], TASS [Rus.]
+  newscaster, newsman, newswoman, reporter, journalist, correspondent, foreign correspondent, special correspondent, war correspondent, news team, news department, anchorman, anchorwoman†, sportscaster, weatherman
+  press secretary, public relations department, public relations man
+  the lawmaking power, legislation, the Estates assembly
+  broadcast
+  columnist, telecast, photojournalist, newscast
+  mass medium, school paper, sports writer, school newspaper, radio broadcast, broadcast medium, broadcast journalist, sob sister, radio news, cable radio, newspaper columnist, agony uncle, agony aunt, gossip columnist
+  broadcasting, rumour
+  video, footage, documentary, coverage, interview, audio, viewers, audience, ratings, publicity, billboard, advertisement, ad, advert [Brit.], advertising, commercial, promo, hype, spin, trend, influencer, followers, following, social media, the media, mainstream media, fake news, clickbait, viral video, censorship, paparazzi, celebrity, celeb [Coll.], spotlight, tabloid, headline, anchor, pundit
+
+V:
+  legislate, enact, deliberate, vote, pass, debate
+  legalize, ordain, decree &c H0706, pass a law, enact a regulation, codify, formulate, regulate
+  hold a council
+  transpire &c H0595, rumor &c H0595
+  make law
+  televise
+
+Adj:
+  legislative, parliamentary, deliberative, representative, bicameral
+  senatorial, curule†, congressional, law-making, regulatory
+  statutory, legislatorial
+  many-tongued, rumored, publicly rumored, currently rumored, currently reported, rife, current, floating, afloat, going about, in circulation, in every one's mouth, all over the town
+  in progress, live, on the spot, in person
+  viral, trending, mainstream, newsworthy, sensational, clickbaity [Slang], famous, celebrated, infamous
+
+Adv:
+  by vote, by act of parliament
+  as the story goes, as the story runs, as they say, it is said, by telegraph, by wireless
+  legislatively, by statute
+
+F:
+  German: Landtag, reichsrath, volksraad
+  Latin: senatus, comitia, plebiscitum
+  French: piece of news, on dit, oui dire
+  Spanish: cortes, aviso
+  Arabic: majlis [assembly], al-sulṭa al-tashrīʿiyya [legislative power]
+  Sanskrit: sabhā, samiti [assembly]
+  Chinese: lifa quan [legislative power]
+  Japanese: gikai [parliament], The Nikkei
+
+Phr:
+  the mother of parliaments

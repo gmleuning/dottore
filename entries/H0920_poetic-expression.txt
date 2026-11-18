@@ -1,0 +1,23 @@
+# 920 Poetic Expression
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry
+G: Der poetische Ausdruck
+Gloss: The language of poetry.
+
+N:
+  poetic expression; poetic language, diction, imagery, versification
+  poetic speech, the poetic word, verbal art, wording, utterance, phrasing, figures of speech, verse, metre, rhyme
+
+V:
+  express, image
+  utter, voice, word, phrase, versify, clothe in words
+
+Adj:
+  expressive, poetic
+  verbal, linguistic, figurative, metrical, eloquent
+
+Adv:
+  poetically
+  in words, in verse, expressively, figuratively
+
+Phr:
+  winged words

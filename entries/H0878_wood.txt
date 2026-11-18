@@ -1,0 +1,31 @@
+# 878 Wood
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 2. Materials for Sculpture
+G: Holz
+Gloss: Carving in wood.
+
+N:
+  wood; woodcarving, timber, linden wood, carved wood, wooden idol
+  wood-carving, woodwork, wooden image, carved figure, limewood, oak, cedar, the carver, whittling
+
+V:
+  carve, whittle, hew
+  cut, incise, saw, cleave, split, splinter, chip
+  chisel
+  fashion, shape, gouge
+
+Adj:
+  wooden, ligneous, carved
+  sylvan, arboreous†, woody
+  hewn, whittled, xyloid
+
+Adv:
+  in wood
+  from the block
+
+F:
+  Greek: xoanon [wooden cult image]
+  Arabic: khashab [wood]
+  Japanese: mokuzō [wooden statue]
+
+Phr:
+  the oldest images were of wood

@@ -1,0 +1,40 @@
+# 803 Satire
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › b. Classical Art › iii. The Dissolution of Classical Art
+G: Satire
+Gloss: Poetry that mocks the decline of a world.
+
+N:
+  satire; lampoon, burlesque, invective, pasquinade, diatribe, mockery, ridicule, Juvenal, Horace, Persius, Lucian, Menippean satire, Roman satire
+  derision, irony, persiflage, raillery
+  libel, skit
+  the satirist, Tacitus, the prose of a declining world
+
+V:
+  satirize, lampoon, mock, ridicule, deride, pillory, skewer
+  caricature
+  scoff at, twit, taunt &c H0483, sneer at &c H0220
+  scoff, sneer, gibe, jeer
+  parody, travesty
+  lash, scourge, castigate
+
+Adj:
+  satirical, satiric, mocking, sardonic, caustic, biting, Juvenalian, Horatian
+  sarcastic, cynical, cutting, withering, censorious
+  derisory, derisive, ironic, ironical, Hudibrastic†, scurrilous &c H0483
+  trenchant, acrimonious
+  mordant, scathing
+
+Adv:
+  satirically, mockingly
+  mordantly, caustically, bitingly
+
+F:
+  Latin: satura
+  Arabic: hijāʾ [satirical verse]
+  Sanskrit: vyaṅgya [irony, satire]
+  Chinese: fengci [satire]
+  Japanese: fūshi
+
+Phr:
+  difficile est saturam non scribere [Lat.] [it is hard not to write satire] [Juvenal]
+  castigat ridendo mores [Lat.]

@@ -1,0 +1,37 @@
+# 4 Being
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality)
+G: Sein
+Gloss: The bare fact of existence, considered before anything is said about what exists.
+
+N:
+  being; existence &c (determinate being) H0011, isness, is-ness, thereness; the that, that-it-is
+  the bare fact of existence; the first, the beginning, the starting point, the point of departure; the immediate, the undetermined; the indeterminate; the simple; the absolute beginning
+  the copula, "is"
+  existence, entity, subsistence
+  the is, bare existence, the fact of being
+
+V:
+  be, exist, subsist, obtain, be there, be the case; begin, start, commence &c (beginning) H0212; set out, take one's departure
+  have being, occur &c H0106, have place, prevail
+
+Adj:
+  being, existent, existing, extant; simple, bare, sheer, mere, pure, immediate; indeterminate, undetermined, indefinite, featureless; first, initial, primordial, primal, aboriginal, original, primitive, elementary, rudimentary; abstract, empty
+  under the sun, in existence, undestroyed
+
+Adv:
+  simply, barely, merely; at first, in the beginning, at the outset
+
+F:
+  German: Sein
+  Latin: esse, ens, quod est, terminus a quo, principium, ab initio, ab ovo, in principio
+  Greek: to on, einai, archē
+  Arabic: wujūd [existence, being]
+  Sanskrit: sat [being, the real], bhava
+  Chinese: you [being, having]
+  Japanese: u
+
+Phr:
+  esti gar einai [Gr.] [Parmenides]
+  in the beginning was the Word [Bible]
+  to be or not to be, that is the question [Hamlet]
+  ex nihilo nihil fit [Lat.]

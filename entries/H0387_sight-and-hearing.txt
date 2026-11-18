@@ -1,0 +1,42 @@
+# 387 Sight and Hearing
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses
+G: Gesicht und Gehör
+Gloss: The senses that perceive at a distance.
+
+N:
+  sight and hearing; the ideal senses, the theoretical senses, the distance senses, the eye and the ear, vision and audition
+  view, glance, glimpse, gaze, ken
+  deafness, hardness of hearing, surdity†, inaudibility, inaudibleness†
+  spectator, beholder, observer, looker-on, onlooker, eyewitness, bystander, passer by, sightseer, rubbernecker [U.S.]
+  spy, sentinel &c H0595
+  vision, audition, seeing, hearing
+  eye, peepers [Slang], baby blues, orbs, iris, pupil, retina, cornea, lens, eyelid, eyelash, lash, eyebrow, ear, earlobe, lobe, lughole [Brit. Slang], lugs [Slang], earhole, eardrum, tympanum, cochlea, ear canal, inner ear, auricle, pinna
+  lid, viewer, watcher
+
+V:
+  see, look, watch, behold, hear, listen, heed, attend
+  discern, descry, espy, catch a glimpse of
+  overhear, hark, lend an ear, prick up one's ears
+  be deaf, have no ear, shut one's ears, stop one's ears, close one's ears, turn a deaf ear to
+  render deaf, stun, deafen
+  witness, look on &c H0227, gawk, rubber [Slang], rubberneck [U.S.]
+  eyeball [Slang], clock [Brit. Slang], check out [Slang], scope out, peep, ogle, gawp, eavesdrop, earwig [Brit. Coll.]
+
+Adj:
+  visual, optical, aural, auditory, acoustic, audiovisual, ideal
+  ocular, optic
+  auricular, phonic
+  deaf, earless†, surd, hard of hearing, dull of hearing, deaf-mute, stunned, deafened, stone deaf, deaf as a post, deaf as an adder, deaf as a beetle, deaf as a trunkmaker†
+  inaudible, out of hearing
+
+Adv:
+  by eye and ear, at a distance
+  by sight, by ear
+
+F:
+  Arabic: samʿ wa-baṣar [hearing and sight]
+  Sanskrit: dṛṣṭi and śruti [seeing and hearing, also revelation]
+  Chinese: shiting [sight and hearing]
+
+Phr:
+  he that hath ears to hear, let him hear [Bible]

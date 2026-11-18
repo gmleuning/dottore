@@ -1,0 +1,43 @@
+# 609 Drives and Choice
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › β. Practical Mind
+G: Triebe und Willkür
+Gloss: The will's inner urges and its decision among them.
+
+N:
+  drives and choice; drives, impulses, urges, instincts, inclinations, appetites, propensities, desires; choice, free choice, decision, option, election
+  discretion &c H0614, preoption†, alternative, dilemma, adoption, cooptation†, novation†, decision &c H0602
+  impulse, inclination, propensity, appetite, arbitrary will
+
+V:
+  impel, urge, incline; choose, decide, select, elect, opt
+  use option, use discretion, exercise option, exercise discretion, one's option, adopt, take up, embrace, espouse, opt for, take one's choice, make one's choice, make choice of, fix upon
+  impel &c H0232, goad, spur
+  be willing, lean to, mind, propend, had as lief, lend a willing ear, give a willing ear, turn a willing ear, have a half a mind to, have a great mind to, hold to, cling to, desire
+  drive
+
+Adj:
+  impulsive, instinctive, inclined; elective, optional, arbitrary, discretionary
+  extemporaneous, indeliberate†, snap, improvised, improvisate†, improvisatory†, unpremeditated, unmeditated, improvise, unprompted, unguided, natural, unguarded, spontaneous &c H0614, instinctive &c H0134
+  voluntary, volitional, willful, free &c H0614, discretional, volitient†, volitive†
+  involuntary, automatic, blind, mechanical, unconscious, unwitting, unthinking, unintentional &c H0132
+  desirous, desiring, partial to, wishful, optative†, anxious, wistful, curious, at a loss for, sedulous, solicitous
+  willing, minded, fain, disposed, favorable, favorably- minded, favorably inclined, favorably disposed, nothing loth, in the vein, in the mood, in the humor, in the mind
+  appetitive
+  favourable
+
+Adv:
+  by impulse; at will, by choice
+  of one's own free will, by choice &c H0612, purposely &c H0656, deliberately &c H0652
+  by inclination
+
+F:
+  German: Neigungen, Willkür [arbitrary will]
+  Latin: liberum arbitrium, ad libitum
+  Greek: prohairesis
+  French: embarras de choix
+  Arabic: nazʿa [drive], ikhtiyār [choice]
+  Sanskrit: vāsanā, vikalpa
+  Chinese: chongdong [impulse], xuanze [choice]
+
+Phr:
+  video meliora proboque, deteriora sequor [Lat.] [I see the better and approve it, I follow the worse] [Ovid]

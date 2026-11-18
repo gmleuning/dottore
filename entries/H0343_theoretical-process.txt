@@ -1,0 +1,32 @@
+# 343 Theoretical Process
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation
+G: Theoretischer Prozess
+Gloss: The animal's relation to its world through the senses.
+
+N:
+  theoretical process; sensation, perception, sense perception, the senses, awareness, sensibility, receptivity, observation, attentiveness
+  apprehension, impression
+  attention
+  the theoretical relation, sense-relation, perception of the world
+
+V:
+  sense, perceive, feel, see, hear, smell, taste, touch, notice, observe
+  discern
+
+Adj:
+  sensory, perceptual, sensible, perceptive, receptive, observant
+  sensitive, sentient
+  theoretical
+
+Adv:
+  perceptibly, by the senses
+  theoretically, through the senses
+
+F:
+  Arabic: iḥsās [sensation]
+  Sanskrit: indriya [sense faculty]
+  Chinese: ganjue [sensation]
+  Japanese: kankaku
+
+Phr:
+  nihil est in intellectu quod non prius fuerit in sensu [Lat.]

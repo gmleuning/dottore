@@ -1,0 +1,35 @@
+# 342 The Animal's Process of Assimilation
+# Nature › 3. Organics › III. Animal Nature
+G: Assimilationsprozess des Tiers
+Gloss: The animal's taking of its surroundings into itself.
+
+N:
+  the animal's process of assimilation; assimilation, appropriation, ingestion, consumption, eating, feeding, devouring, predation; need, appetite, hunger, thirst
+  imbibation†, absorption, ingurgitation†
+  fasting, xerophagy†, famishment, starvation
+  fast, fast day, banyan day, Lent, quadragesima†, Ramadan, Ramazan, spare diet, meager diet, lenten diet, lenten entertainment, short commons, Barmecide feast†, short rations
+  intussusception, incorporation
+
+V:
+  assimilate, appropriate, ingest, consume, eat, devour, feed, prey on, take in
+  swallow
+  absorb, imbibe
+  starve, clem†, famish, perish with hunger, dine with Duke Humphrey†, make two bites of a cherry
+  incorporate
+
+Adj:
+  assimilative, appropriative, predatory, voracious, hungry
+  lenten, quadragesimal†, unfed†, starved, half-starved, hungry &c H0609
+  ingestive
+
+Adv:
+  hungrily, voraciously
+  by assimilation, into itself
+
+F:
+  French: jour maigre, soupe maigre
+  Arabic: ightidhāʾ [nourishment]
+  Sanskrit: āhāra [food, intake]
+
+Phr:
+  nature, red in tooth and claw [Tennyson]

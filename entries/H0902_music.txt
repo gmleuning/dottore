@@ -1,0 +1,43 @@
+# 902 Music
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts
+G: Musik
+Gloss: The art of expressing the inner life through sound in time.
+
+N:
+  music; tone, sound, harmony, melody, composition, tonal art, the art of the inner life
+  concert, strain, tune, air, melody &c H0907, aria, arietta†, work, number, opus, sonata, rondo, pastorale, cavatina†, roulade†, fantasia, concerto, overture, symphony, variations, cadenza, fugue, canon, quodlibet, serenade, dithyramb, operetta, oratorio, movement, stave, toccata
+  rhythm, measure, timbre, intonation
+  opera
+  cadence, resonance &c H0264
+  the art of sound, the art of tones, minstrelsy, musicianship, song, Euterpe, Polyhymnia, Orpheus, the music of the spheres
+
+V:
+  compose, play, sing, perform, harmonize, orchestrate
+  execute, accompany, sing a second, play a second, set to music, arrange
+  chant, hum, warble, carol
+  make music, intone, pipe, fiddle, strum
+
+Adj:
+  musical, melodic, harmonic, tonal, sonorous, symphonic
+  instrumental, vocal, choral, lyric, operatic, harmonious &c H0907, Wagnerian
+  resonant
+  tuneful, melodious, euphonious, dulcet, Orphic, philharmonic
+
+Adv:
+  musically, melodiously
+  tunefully, harmoniously, in tones, in sound
+
+F:
+  German: Tonkunst, Vorspiel
+  Latin: musica
+  Greek: mousikē
+  French: piece of music, rondeau
+  Italian: notturno, passamezzo
+  Arabic: mūsīqā [music], ṭarab [musical ecstasy], maqām [melodic mode]
+  Sanskrit: saṅgīta [music], rāga
+  Chinese: yinyue [music]
+  Japanese: ongaku
+
+Phr:
+  music is the art of inwardness [Hegel, paraphrased]
+  all art constantly aspires towards the condition of music [Walter Pater]

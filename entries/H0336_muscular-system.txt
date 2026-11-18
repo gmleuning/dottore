@@ -1,0 +1,48 @@
+# 336 Muscular System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › ii. Blood System
+G: Muskelsystem
+Gloss: The muscles; the organs of movement.
+
+N:
+  muscular system; muscles, musculature, flesh, brawn, sinews, tendons, thews, contraction, tension, tone, strength
+  power &c H0121, force, elasticity, tonicity
+  physique, strength &c H0327
+  exertion, effort, tug, pull
+  sinew, muscle fibre
+  biceps, triceps, deltoids, delts [Coll.], pectorals, pecs [Coll.], abdominals, abs [Coll.], six-pack, washboard abs, obliques, lats, latissimus dorsi, trapezius, traps [Coll.], glutes, gluteus maximus, quadriceps, quads, hamstrings, calves, gastrocnemius, soleus, sartorius, diaphragm, masseter, rotator cuff, the core, flexor, extensor, adductor, abductor
+  tendon, Achilles tendon, hamstring tendon, ligament, fascia, striated muscle, voluntary muscle, myology
+  guns [Slang], pythons [Slang], beef [Slang], bulk, gains [Slang], meat, lacertus†, beefcake [Slang], hunk, muscleman, strongman, bodybuilder, gym rat [Slang], muscle-head [Slang]
+  cramp, charley horse [U.S.], stitch, pulled muscle, sprain, tear, spasm, crick, myalgia, the sweats
+  muscle
+  abdominal, lat, pectoral, sphincter
+  eye muscle, smooth muscle, skeletal muscle, involuntary muscle, antagonistic muscle, ocular muscle, sphincter muscle, anatomical sphincter, facial muscle, temporal muscle, abdominal muscle, axial muscle, pectoral muscle, cowl muscle, sphincter ani, physiological sphincter, bladder sphincter, anal sphincter, cheek muscle, mid-calf, external oblique muscle, smaller pectoral muscle, greater pectoral muscle, femoral biceps, cardiac sphincter
+
+V:
+  contract, flex, tense, relax, strain, stretch
+  extend
+  move, exert
+  pump iron, work out, bulk up, tone up, beef up, get ripped, bench, curl, lift, pull a muscle, twitch, seize up
+
+Adj:
+  muscular, brawny, sinewy, beefy, burly, strapping, wiry, contractile
+  athletic, well-knit
+  buff [Slang], ripped [Slang], jacked [Slang], swole [Slang], shredded [Slang], cut [Slang], yoked [Slang], built [Coll.], hench [Brit. Slang], hunky, toned, muscle-bound, herculean, thewy†, lacertous†, musculous†, stalwart, robust, flabby, flaccid, scrawny, weedy, puny
+  chopped, sliced, hefty, thoracic
+
+Adv:
+  muscularly, with might and main
+
+F:
+  German: Muskel, Sehne [sinew]
+  Latin: musculus [little mouse], lacertus
+  Greek: mys
+  Arabic: ʿaḍalāt [muscles]
+  Sanskrit: māṃsa [flesh], snāyu [sinew]
+  Chinese: jirou [muscle]
+  Japanese: kinniku
+
+Phr:
+  sinews of war
+  no pain no gain
+  strong as an ox
+  muscles like Popeye

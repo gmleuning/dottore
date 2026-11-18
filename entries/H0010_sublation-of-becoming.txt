@@ -1,0 +1,35 @@
+# 10 Sublation of Becoming
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being › c. Becoming
+G: Aufhebung
+Gloss: The coming to rest of change in a stable result. To sublate is at once to cancel and to preserve: being and nothing are cancelled as separate, yet kept as aspects of what results.
+
+N:
+  sublation; supersession, superseding, transcendence, overcoming, surpassing, going beyond; cancellation and preservation, abolition and retention; elevation, raising up, lifting, uplift; integration, incorporation, absorption, assimilation, subsumption; synthesis, resolution, result, outcome, upshot; settling, subsidence, quiescence, coming to rest, stability, equilibrium; residue, precipitate, sediment, deposit
+  determinate negation; the negation of the negation; moment; ideality
+  union, unification
+  outgrowth
+  the calm result, stable unity
+
+V:
+  sublate; supersede, transcend, overcome, surpass, outgrow, outstrip; cancel, abolish, annul, negate; preserve, retain, conserve, keep, save, store up; raise up, lift up, elevate; incorporate, integrate, absorb, assimilate, subsume, take up into; synthesize, resolve; settle, subside, come to rest, precipitate, crystallize
+  override, set aside
+  maintain, sustain, keep up
+  raise, lift, exalt, sublimate
+  overpass
+
+Adj:
+  sublated, superseded, transcended, surpassed, overcome; preserved, retained, conserved, incorporated, integrated; ideal, moment-like; synthetic, resultant; quiescent, settled, stable
+  merged
+
+Adv:
+  in sublated form, as a moment; at a higher level, on a higher plane; in principle
+  at rest, in the result
+
+F:
+  German: aufheben, bestimmte Negation, Negation der Negation, Moment [a sublated element], Idealität, aufgehoben
+  Latin: tollere, conservare, elevare, mutatis mutandis
+
+Phr:
+  reculer pour mieux sauter [Fr.]
+  the bud disappears in the bursting-forth of the blossom [Hegel]
+  tollere et conservare [Lat.]

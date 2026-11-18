@@ -1,0 +1,41 @@
+# 223 Present
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › β. Time
+G: Gegenwart
+Gloss: The now; the moment that is.
+
+N:
+  present; now; the present moment, the here and now, this moment, today, nowadays, the current time, the moment, the instant; presence, contemporaneity, actuality; the specious present; the eternal now
+  the present, the present time, the present day, the present juncture, the present occasion, the times, the existing time, the time being, our times, modern times, the twentieth century, nonce, crisis, day
+  moment, second, minute, twinkling, trice, flash, breath, crack, jiffy, coup, burst, flash of lightning, stroke of time
+  epoch, time, time of day, time of night, hour, very minute, very time, very hour, present time, right time, true time, exact correct time
+
+V:
+  be present, be current, exist now, live in the moment, seize the day
+  be now
+
+Adj:
+  present, current, existing, extant, contemporary, contemporaneous, modern, immediate, instant, topical, up-to-date, live
+  actual, that is, present-day, up-to-the-moment
+  instantaneous, momentary
+  synchronous, synchronal†, synchronic, synchronical, synchronistical†, simultaneous, coexisting, coincident, concomitant, concurrent, coeval, coevous†, coetaneous†, coeternal, isochronous
+  synchronized
+
+Adv:
+  now, at present, presently, currently, at the moment, at this time, today, nowadays, these days, as of now, for now, for the time being, here and now
+  at this time of day, already, even now, but now, just now, on the present occasion, for the nonce, pro hac vice
+  at this moment, at the present time, at hand
+  on the nail, on the spot, on the spur of the moment, until now, to this day, to the present day
+
+F:
+  German: Jetzt
+  Latin: praesens, nunc, hic et nunc, nunc stans
+  Greek: nyn
+  Arabic: al-ān [the now], al-ḥāḍir
+  Sanskrit: vartamāna [present]
+  Chinese: xianzai [present]
+  Japanese: ima [now]
+
+Phr:
+  carpe diem [Lat.] [Horace]
+  the present is the only thing that has no end [attrib. Schrödinger]
+  be here now

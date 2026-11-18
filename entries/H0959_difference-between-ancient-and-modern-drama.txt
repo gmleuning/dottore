@@ -1,0 +1,28 @@
+# 959 Difference Between Ancient and Modern Drama
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › iii. Genres of Dramatic Poetry
+G: Unterschied der antiken und modernen dramatischen Poesie
+Gloss: The difference between ancient and modern drama.
+
+N:
+  difference between ancient and modern drama; ancient tragedy and modern tragedy, ethical pathos versus individual character, the chorus versus soliloquy, Sophocles versus Shakespeare
+  the ancients and the moderns, classical and romantic drama, ancient and modern comedy, Greek and Shakespearean tragedy, the substantial versus the subjective, substance versus subjectivity, the ethical powers versus personal passion, pathos versus character, fate versus chance, necessity versus contingency, objective collision versus inner conflict, family and state versus love and honour, the plastic figure versus the inward character, Antigone versus Hamlet, Aristophanes versus Molière, the mask versus the face, unity of action versus breadth, external reconciliation versus inner, difference, distinction, antithesis, opposition, disparity, divergence, comparison, parallel
+
+V:
+  compare, contrast
+  differ, diverge, contrast with, distinguish, differentiate, discriminate, set against, set side by side, oppose, juxtapose, weigh, mark off, tell apart
+
+Adj:
+  ancient, modern, classical, romantic
+  antique, Greek, Attic, Sophoclean, Shakespearean, substantial, subjective, objective, plastic, inward, ethical, personal, characterological, different, distinct, contrasting, contrasted, opposed, antithetical, divergent, comparative
+
+Adv:
+  then and now
+  by contrast, in contrast, by comparison, comparatively, differently, on the one hand and on the other, formerly and now, of old and of late, among the ancients, among the moderns
+
+F:
+  German: Unterschied, antik, modern, das Substantielle, Subjektivität
+  Latin: antiqui et moderni
+  French: querelle des anciens et des modernes
+
+Phr:
+  the quarrel of the ancients and the moderns

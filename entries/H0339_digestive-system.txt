@@ -1,0 +1,40 @@
+# 339 Digestive System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape
+G: Verdauungssystem
+Gloss: The organs of digestion.
+
+N:
+  digestive system; digestive tract, alimentary canal, gut, guts, bowels, entrails, viscera, intestines, stomach, belly, maw, gullet, oesophagus, glands, pancreas
+  abdomen
+  paunch, venter, ventricle, crop, craw, gizzard
+  mouth, oral cavity, gob [Brit. Slang], cakehole [Brit. Slang], trap [Slang], piehole [U.S. Slang], kisser [Slang], chops, jaws, lips, tongue, palate, gums, salivary glands, uvula, tonsils, throat, gorge, esophagus, pharynx
+  tummy [Coll.], tum [Coll.], pot, potbelly, beer belly, beer gut, breadbasket [Slang], spare tyre [Coll.], corporation [Brit. Slang], midriff, pylorus, rumen, reticulum, omasum, abomasum
+  small intestine, large intestine, bowel, colon, duodenum, jejunum, ileum, caecum, appendix, vermiform appendix, rectum, anus, sphincter, back passage, fundament, cloaca, vent, arsehole [Brit. Vulg.], asshole [U.S. Vulg.], bunghole [Vulg.], ring [Brit. Vulg.], poop chute [Slang], ringpiece [Brit. Vulg.]
+  kidneys, ureter, bladder, urethra, prostate, innards, insides, tripe, tripes, chitterlings, chitlins, giblets, vitals, inwards†, bowels of compassion†
+
+V:
+  digest, ingest, absorb, secrete, excrete
+  chew, swallow, gulp, burp, belch, hiccup, gurgle, rumble, growl
+
+Adj:
+  digestive, alimentary, gastric, intestinal, visceral, enteric, abdominal
+  nutritive, nutritious
+  oral, buccal, gastrointestinal, colonic, rectal, anal, duodenal, pyloric, renal, ruminant, pot-bellied, big-bellied, beer-bellied, paunchy
+
+Adv:
+  in the gut
+  internally
+
+F:
+  German: Bauch, Magen, Darm, Gedärm
+  Latin: venter, alvus, intestina, anus
+  Greek: gastēr, enteron, koilia
+  Arabic: jihāz haḍmī [digestive system]
+  Sanskrit: jaṭhara [stomach, belly]
+  Chinese: xiaohua xitong [digestive system]
+
+Phr:
+  an army marches on its stomach
+  the way to a man's heart is through his stomach
+  eyes bigger than one's stomach
+  to have the stomach for it

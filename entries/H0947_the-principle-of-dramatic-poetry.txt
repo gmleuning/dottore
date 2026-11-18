@@ -1,0 +1,24 @@
+# 947 The Principle of Dramatic Poetry
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › i. Drama as a Poetical Work of Art
+G: Das Prinzip der dramatischen Poesie
+Gloss: The fundamental nature of drama: action arising from the will of characters in conflict.
+
+N:
+  the principle of dramatic poetry; collision, conflict, action and character, unity of epic and lyric, the deed unfolding
+  encounter, action
+  clash, strife, struggle, contest, opposition, antagonism, agon, the will, aim, purpose, pathos, deed, reaction, resolution
+
+V:
+  collide, conflict, act
+  strive, contend, will, oppose, resolve
+
+Adj:
+  conflictual, dramatic, active
+  agonistic, antagonistic, opposed, clashing, wilful, purposive
+
+Adv:
+  in conflict
+  in collision, in action, at odds, through action
+
+Phr:
+  action is character

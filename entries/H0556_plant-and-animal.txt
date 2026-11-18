@@ -1,0 +1,24 @@
+# 556 Plant and Animal
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › c. Religion as Spirit's Self-Consciousness › i. Natural Religion
+G: Pflanze und Tier
+Gloss: The divine worshipped in plants and animals.
+
+N:
+  plant and animal; plant religion, flower religion, innocence of flowers, animal religion, animal worship, zoolatry, theriomorphism, totemism, tribal warfare, sacred animals, animal-headed gods; Indian religion, Egyptian religion; totem
+  plant and animal religion, the innocent flower-religion, the guilt of animal religion, sacred animal, pantheism
+
+V:
+  revere, deify, worship animals, totemize
+  worship, sanctify, strive, devour
+
+Adj:
+  theriomorphic, zoomorphic, totemic, animal, floral, vegetal
+  vegetable, herbaceous, sylvan, arborescent†
+  zoolatrous, pantheistic
+
+Adv:
+  in animal form
+  in plant and animal form
+
+Phr:
+  the innocence of the flower religion and the guilt of the animal religion [Hegel, paraphrased]

@@ -1,0 +1,39 @@
+# 83 Reflection
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › α. Shine (Illusory Being)
+G: Reflexion
+Gloss: The movement of turning back on oneself; a thing's depth defining itself by contrast with its own surface, as an image is returned by a mirror.
+
+N:
+  reflection; turning back, return, recoil, reflux, rebound, bounce, echo, reverberation, repercussion, mirroring, specularity; reflexivity, self-reference, recursion, recursivity; meditation, contemplation, consideration, deliberation, rumination, cogitation, introspection, retrospection, mulling, musing, pondering, brooding, second thoughts, afterthought, thinking twice; speculation, theory
+  reaction, retroaction
+  reecho
+  reconsideration, retrospection &c H0596
+  reflexion, self-relation, return into self, the movement of essence
+  rethink
+
+V:
+  reflect, mirror, echo, return, rebound, recoil, bounce back; reflect on, think over, think about, consider, contemplate, meditate, ponder, muse, mull over, ruminate, cogitate, deliberate, chew over, turn over in one's mind, take stock, step back, look back
+  react, reverberate
+  turn back, return into itself
+
+Adj:
+  reflective, reflexive, reflectional, specular, recursive; thoughtful, contemplative, meditative, pensive, ruminative, introspective, retrospective, speculative, considered, deliberate
+  self-relating
+
+Adv:
+  on reflection, upon reflection, on second thoughts, all things considered, in retrospect, in hindsight; reflexively
+  reflectively, back upon itself
+
+F:
+  Latin: reflexio
+  Greek: anaklasis
+  Arabic: tafakkur [reflection], taʾammul [contemplation]
+  Sanskrit: vimarśa [reflective awareness]
+  Chinese: xing [self-examination], fanxing [introspection]
+  Japanese: hansei [self-reflection]
+
+Phr:
+  the unexamined life is not worth living [Socrates]
+  know thyself, gnōthi seauton [Gr.]
+  look before you leap
+  the owl of Minerva spreads its wings only with the falling of the dusk [Hegel]

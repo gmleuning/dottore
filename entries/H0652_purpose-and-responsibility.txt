@@ -1,0 +1,36 @@
+# 652 Purpose and Responsibility
+# Spirit › 2. Objective Spirit › II. Morality
+G: Vorsatz und Schuld
+Gloss: The will's aim, and its answerability for what it does.
+
+N:
+  purpose and responsibility; purpose, aim, design, intent, premeditation; responsibility, accountability, culpability, imputability, authorship of a deed
+  intention, intentionality, project &c H0195, undertaking &c H0609, ambition
+  predeliberation†, predetermination, foregone conclusion, resolve, intention &c H0656
+  duty, what ought to be done, moral obligation, accountableness†, liability, onus, bounden duty, imperative duty, call, call of duty
+  deed, act, overt act
+  answerability, imputation, the deed and the action
+
+V:
+  purpose, intend, design; answer for, be accountable
+  mean, have to, propose to oneself, harbor a design, have in view, have in contemplation, have in one's eye, have in petto, have an eye to
+
+Adj:
+  purposeful, deliberate, premeditated, responsible, accountable, culpable
+  prepense†, predesignated, predesigned†, advised, studied, designed, calculated, aforethought, intended &c H0656, foregone
+  amenable, liable, answerable
+  purposed
+
+Adv:
+  purposely, deliberately, on purpose, by design
+  intentionally, wittingly, knowingly, designedly, studiously, pointedly, with intent, with one's eyes open
+  advisedly, with premeditation, all things considered, with eyes open, in cold blood, intentionally &c H0656
+  purposely &c H0656
+
+F:
+  Latin: quo animo
+  Arabic: niyya [intention], masʾūliyya [responsibility]
+  Sanskrit: saṅkalpa [resolve]
+
+Phr:
+  the buck stops here

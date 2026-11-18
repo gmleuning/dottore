@@ -1,0 +1,34 @@
+# 281 Chemical Color
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light › iii. Color
+G: Chemische Farbe
+Gloss: Color as a fixed property of a body; pigment.
+
+N:
+  chemical colour; pigment, dye, dyestuff, colorant, stain, lake, ochre, umber, sienna, vermilion, indigo, madder, cochineal, kermes, woad, henna, saffron, Tyrian purple; colour fastness
+  coloring matter, paint, wash, distemper, medium, mordant, oil paint &c H0886
+  hue, tint, complexion, shade, cast, livery, coloration, glow, flush, tone, key
+  cinnabar, fuchsine†, ruddle†, Indian red, light red, Venetian red, red ink, annotto†, annatto†, realgar, minium†, red lead
+  red, scarlet, carmine, crimson, magenta
+  crocus
+  body colour, fixed colour
+
+V:
+  dye, stain, pigment, colour, tinge, imbue, steep
+  color, tinct†, ingrain, grain, illuminate, emblazon, bedizen, paint &c H0886
+  tincture
+
+Adj:
+  pigmented, dyed, stained, coloured, colourfast, fast, fugitive
+
+Adv:
+  in grain, dyed in the wool
+  in pigment
+
+F:
+  Arabic: ṣibgh [dye]
+  Sanskrit: rañjana [dye]
+  Chinese: yanliao [pigment]
+  Japanese: ganryō
+
+Phr:
+  dyed in the wool

@@ -1,0 +1,32 @@
+# 110 Thing-in-Itself and Existence
+# Logic › 2. Doctrine of Essence › II. Appearance › α. Existence › a. The Thing and Its Properties
+G: Ding an sich und Existenz
+Gloss: The thing as it is in itself, apart from its relations, and the thing as it exists among other things.
+
+N:
+  thing-in-itself and existence; thing-in-itself, noumenon, noumena, the intelligible, the unknowable, the inscrutable, x, unknown substrate; existence, outward existence, relational being; the noumenal and the phenomenal
+  the thing in itself, the unknowable thing, the abstract thing, external existence
+
+V:
+  be in itself, withhold itself, elude knowledge, lie behind appearance; exist, appear, relate
+  stand apart
+
+Adj:
+  noumenal, intelligible, unknowable, inscrutable, inaccessible, transcendent, in itself; phenomenal, existent, relational
+  unfathomable, incognizable†, inexplicable, inapprehensible†
+  in-itself, abstract
+
+Adv:
+  in itself, intrinsically; for us
+  apart from relations
+
+F:
+  German: Ding an sich, an sich, für uns
+  Latin: mundus intelligibilis, esse in se and esse ad aliud, in se
+  Arabic: ʿayn [essence, entity]
+  Sanskrit: svalakṣaṇa [the particular in itself]
+  Chinese: wu zishen [thing in itself]
+
+Phr:
+  we know things only as they appear to us [Kant, paraphrased]
+  the thing-in-itself is a caput mortuum [Hegel]

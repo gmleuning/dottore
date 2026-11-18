@@ -1,0 +1,37 @@
+# 186 Absolute Mechanism
+# Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism
+G: Absoluter Mechanismus
+Gloss: A mechanical system organized around a centre, as a solar system.
+
+N:
+  absolute mechanism; system, solar system, planetary system, centred system, hierarchy, organization, ordered whole, regime, establishment; centre and periphery; state, government &c
+  subordination, course, even tenor, routine, method, disposition, arrangement, array, discipline orderliness
+  rank, place &c H0047
+  regularity, uniformity, symmetry, music of the spheres
+  construction, formation, architecture
+  economy, government &c H0710
+  the system of centres, free mechanism, central body and satellites
+
+V:
+  centre, organize, systematize, order, arrange, regulate, govern
+  methodize, coordinate, settle, fix
+  adjust
+  arrange &c H0208
+  orbit, gravitate
+
+Adj:
+  systemic, systematic, centred, central, organized, hierarchical, ordered
+  orderly, regular, in trim, in its proper place, well regulated, correct, methodical, uniform, symmetrical, unconfused, arranged &c H0208
+  centralized
+
+Adv:
+  systematically, centrally, in order
+  methodically, in turn, in its turn, by steps, step by step, by regular steps, by regular gradations, by regular stages, by regular intervals, seriatim, by clockwork, at stated periods &c H0222
+  around a centre
+
+F:
+  Latin: gradatim, lucidus ordo
+  French: en regle
+
+Phr:
+  a place for everything, and everything in its place

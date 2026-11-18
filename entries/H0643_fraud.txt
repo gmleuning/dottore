@@ -1,0 +1,55 @@
+# 643 Fraud
+# Spirit › 2. Objective Spirit › I. Abstract Right › γ. Wrong
+G: Betrug
+Gloss: A violation of right done under the appearance of right; deception, cheating.
+
+N:
+  fraud; deceit, deception, swindle, fraudulence, cheating, chicanery, trickery, imposture, sham, con, scam, hoax, misrepresentation, false pretences, forgery, counterfeiting
+  falseness, untruth, imposition, fraudulency†, covin†, knavery, bluff, straw-bail, straw bid [U.S.], spoof [Slang]
+  mockery &c H0091, copy &c H0091, make- believe, lie, a delusion a mockery and a snare [Denman], hollow mockery
+  falsehood, falsity, falsification, guile, lying &c H0600, lying
+  misrepresentation, mendacity, perjury, false swearing, invention, fabrication, subreption†
+  trick, wile, blind, feint, plant, bubble, fetch, catch, chicane, juggle, reach, hocus, bite, card sharping, stacked deck, loaded dice, quick shuffle, double dealing, dealing seconds, dealing from the bottom of the deck, artful dodge, tricks upon travelers, stratagem, confidence trick, fake, theft &c H0646, ballot-box stuffing [U.S.], barney [Slang], brace game [Slang], bunko game, drop game [Slang], gum game [U.S.], panel game [U.S.], shell game, thimblerig, skin game [U.S.]
+  perversion of truth, suppression of truth, perversion, distortion, false coloring, exaggeration &c H0595, prevarication, equivocation, shuffling, fencing, evasion, mystification &c H0595, simulation &c H0091, dissimulation, dissembling, blague†
+  gudgeon, gobemouche†, cull [Slang], cully†, victim, pigeon, April fool†, jay [Slang], sucker [Slang], laughingstock &c H0816, Cyclops, simple Simon, flat, greenhorn, fool &c H0417, puppet, cat's paw
+  delusion, gullery†, juggling, jugglery†, slight of hand, legerdemain, prestigiation†, prestidigitation, magic &c H0972, conjuring, conjuration, hocus-pocus, escamoterie†, jockeyship†, coggery†, supercherie†, cozenage†, circumvention, ingannation†, collusion, treachery &c H0664, practical joke
+  deceiver, dissembler, hypocrite, sophist, Pharisee, Jesuit, Mawworm†, Pecksniff, Joseph Surface, Tartufe†, Janus, serpent, snake in the grass, cockatrice, Judas, wolf in sheep's clothing, shuffler†, stool pigeon
+  liar, story-teller, perjurer, false witness, Scapin†, bunko steerer [U.S.], carpetbagger [U.S.], capper [U.S.], faker, four flusher [Slang], horse coper†, ringer [Slang], spieler†, straw bidder [U.S.]
+  imposter, pretender, humbug, adventurer, Cagliostro, Fernam Mendez Pinto, ass in lion's skin &c H0430, actor &c H0945
+  quack, charlatan, mountebank, saltimbanco†, saltimbanque†, empiric, quacksalver, medicaster†, Rosicrucian, man of straw
+  conjuror, juggler, trickster, prestidigitator, crimp, decoy, decoy duck, rogue, knave, swindler &c H0646, jobber
+  caricatura†, exaggeration, daubing, bad likeness, sign painting, scratch, anamorphosis†, misstatement, lampoon, take-off
+  semblance of right
+  grift, hustle, racket, rip-off, sting, catfishing, phishing, Ponzi scheme, pyramid scheme, identity theft, bait and switch, three-card monte, long con, scammer, grifter, hustler, con man, con artist, fraudster, shyster, crook, chancer [Brit.], wide boy [Brit.], snake-oil salesman, bullshit artist [Vulg.], bullshitter [Vulg.]
+  clone, phony, cheater, patsy
+
+V:
+  defraud, swindle, cheat, deceive, con, dupe, hoodwink, bilk, fleece, gull, misrepresent
+  take in, jockey, do, cozen, diddle, nab, chouse, play one false, jilt, victimize, abuse, mystify, blind one's eyes, blindfold, throw dust into the eyes, fool, befool†, bamboozle, flimflam, hornswoggle
+  peculate, embezzle, sponge, mulct, rook, pluck, obtain under false pretenses, live by one's wits
+  distort, overdraw, exaggerate, caricature, daub, burlesque, parody, travesty
+  rip off, stiff, do over, catfish, phish, pull a fast one, take for a ride, bullshit [Vulg.]
+
+Adj:
+  fraudulent, deceitful, deceptive, dishonest, crooked, sham, counterfeit, spurious, bogus
+  untrue, mock, make-believe, snide [Slang], pseudo, supposititious, so-called, pretended, feigned, trumped up, scamped, tricky, surreptitious, illegitimate, contraband, adulterated, sophisticated, unsound, rotten at the core, colorable, disguised, meretricious, tinsel, pinchbeck, plated, catchpenny, Brummagem
+  false, mendacious, unveracious, faithless, truthless, trothless, unfair, uncandid, hollow-hearted, evasive, uningenuous, disingenuous, hollow, sincere, Parthis mendacior, forsworn
+  deceived, deceiving, cunning, prestigious†, prestigiatory†, deceptious†, covinous†, delusive, delusory, illusive, illusory, elusive, insidious
+  misrepresented
+  dodgy [Brit.], shady, sketchy [Slang], bent [Brit.], scammy [Slang], fishy, iffy [Coll.]
+  undercover, faux, simulated, catchy, sly, crafty, clandestine
+
+Adv:
+  fraudulently, deceitfully, under false pretences
+  under colour of right
+
+F:
+  Latin: dolus, dolus malus [bad faith], suppressio veri, suggestio falsi, ad captandum vulgus
+  French: menteur a triple etage, soi-disant
+  Arabic: ghishsh [fraud], khidāʿ [deceit]
+  Sanskrit: vañcanā [fraud]
+  Chinese: qizha [fraud]
+  Japanese: sagi
+
+Phr:
+  mundus vult decipi [Lat.] [the world wants to be deceived]

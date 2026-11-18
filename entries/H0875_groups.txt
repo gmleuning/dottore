@@ -1,0 +1,23 @@
+# 875 Groups
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 1. Modes of Portrayal
+G: Gruppen
+Gloss: Several figures composed together.
+
+N:
+  groups; sculptural group, ensemble, composition, Laocoön, pediment groups, the Niobids, the Tyrannicides
+  statuary group, grouping, pediment group, the Laocoön group, the Niobe group, the Dioscuri, figures in relation
+
+V:
+  group, compose, arrange
+  combine, relate, assemble
+
+Adj:
+  grouped, compositional, dramatic
+  composite, collective, plural, composed, interrelated
+
+Adv:
+  together, in a group
+  in combination, in concert
+
+Phr:
+  Laocoön and his sons

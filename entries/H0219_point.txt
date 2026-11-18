@@ -1,0 +1,35 @@
+# 219 Point
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › α. Space
+G: Punkt
+Gloss: A position in space without extension.
+
+N:
+  point; spot, dot, speck, pinpoint, pin prick, jot, tittle, iota, locus, position, location, coordinate, vertex, node; dimensionless point, geometrical point, mathematical point; negation of space
+  inextension†, nonextension†
+  material point, atom, particle
+  place, locality &c H0227
+  atom &c H0045, fragment &c H0120, powder &c H0258, point of a pin, minutiae &c H0081
+  apex
+  station
+  shred, whit, mite
+
+V:
+  point, pinpoint, locate, fix, mark, dot, spot
+  punctuate
+
+Adj:
+  punctual, punctiform, pointlike, dimensionless, infinitesimal, focal
+
+Adv:
+  at a point, exactly there, on the spot, pinpoint
+
+F:
+  Latin: punctum
+  Greek: stigmē, sēmeion
+  Arabic: nuqṭa [point, dot]
+  Sanskrit: bindu [point, dot, drop]
+  Chinese: dian [point, dot]
+  Japanese: ten
+
+Phr:
+  a point is that which has no part [Euclid]

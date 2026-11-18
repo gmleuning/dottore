@@ -1,0 +1,36 @@
+# 373 The Individual Subject
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › a. Natural Qualities
+G: Das individuelle Subjekt
+Gloss: The individual person, considered in their natural endowment.
+
+N:
+  the individual subject; individual, person, personality, self, ego, character, idiosyncrasy, individuality, personal makeup, psychological profile
+  particularity, peculiarity, idiocrasy &c H0374, singularity &c H0063
+  affections, affect, qualities, disposition, nature, spirit, tone, temper, temperament, diathesis†, cast of mind, cast of soul, habit of mind, habit of soul, frame of mind, frame of soul, predilection, turn, natural turn of mind, bent, bias, predisposition, proneness, proclivity, propensity, propenseness†, propension†, propendency†, vein, humor, mood, grain, mettle, sympathy &c H0485
+  originality, mannerism
+  personage, mortal, somebody, one
+  myself
+  natural endowment
+
+V:
+  individuate, characterize, distinguish oneself
+  be endowed
+
+Adj:
+  individual, personal, idiosyncratic, characteristic, distinctive, singular
+  particular, specific, original, peculiar
+  distinguishing
+  inborn, inbred, ingrained, deep-rooted, ineffaceable, inveterate, pathoscopic†, congenital, dyed in the wool, implanted by nature, inherent, in the grain
+
+Adv:
+  individually, personally, in one's own way
+  in one's heart, at heart, heart and soul &c H0605
+
+F:
+  Arabic: fard, shakhṣ
+  Sanskrit: vyakti [individual], pudgala [person]
+  Chinese: geren [individual]
+  Japanese: kojin
+
+Phr:
+  every man in his humour

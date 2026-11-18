@@ -1,0 +1,25 @@
+# 814 Independence of Individual Character
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › iii. The Formal Independence of Individual Characteristics
+G: Die Selbständigkeit des individuellen Charakters
+Gloss: The firmness of an individual character.
+
+N:
+  independence of individual character; strong character, firmness, steadfastness, Shakespearean characters, Macbeth, Richard III, Juliet, formal greatness, inflexibility, monomania
+  firmness of character, self-reliance, resoluteness, strength of will, consistency, obduracy, the self-reliant character, Othello
+
+V:
+  persist, hold fast, will absolutely
+  stand firm, will, resolve, stand on oneself
+
+Adj:
+  strong-willed, firm, inflexible, self-consistent, tragic, monomaniacal
+  resolved, determined, strong-minded, resolute &c H0715, self-possessed, decided, unhesitating, unflinching
+  unbending, unyielding
+  steadfast, self-reliant, self-subsistent
+
+Adv:
+  resolutely, single-mindedly
+  firmly, steadfastly, unbendingly
+
+Phr:
+  I am in blood stepp'd in so far [Macbeth]

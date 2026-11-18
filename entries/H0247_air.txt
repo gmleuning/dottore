@@ -1,0 +1,42 @@
+# 247 Air
+# Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements
+G: Luft
+Gloss: The transparent, all-pervading element.
+
+N:
+  air; atmosphere, ether, aether, sky, heavens, the blue, firmament, welkin†, ozone, breath, breeze, wind, draught, gust, zephyr; gas, vapour; transparency, all-pervasiveness, passivity
+  flatus, afflatus, efflation†, eluvium†, breath of air, puff, whiff, drift, aura, current, jet stream, undercurrent
+  elastic fluid, vapor, steam, essence, fume, reek, effluvium, ammonia, ammoniacal gas†, volatile alkali, vacuum, partial vacuum
+  open air, blue sky, cloud &c H0252
+  common air, atmospheric air, aerosphere†
+  the aerial element, the element of undifferentiated simplicity
+
+V:
+  air, aerate, ventilate, breathe, blow, waft, float, fan
+  inflate, perflate†, blow up
+  blow hard, blow great guns, blow a hurricane, wuther†, stream, issue
+  pervade
+
+Adj:
+  aerial, airy, aery, aeriform, ethereal, atmospheric, gaseous, vaporous, airborne, breezy, windy, pneumatic, rarefied
+  volatile, evaporable†
+  meteorological, weatherwise†
+  blowing, gusty, squally, stormy, tempestuous, blustering, boisterous &c H0121
+  containing air, flatulent, effervescent, windy &c H0252
+  pervasive
+
+Adv:
+  in the air, in the open air, on the air
+
+F:
+  Latin: aer, spiritus
+  Greek: aēr, aithēr, pneuma
+  Italian: al fresco
+  Arabic: hawāʾ [air]
+  Sanskrit: vāyu [air, wind], prāṇa [breath]
+  Chinese: kongqi [air], qi [breath, vapour]
+  Japanese: kūki
+
+Phr:
+  the air, a chartered libertine, is still [Henry V]
+  into thin air [Tempest]

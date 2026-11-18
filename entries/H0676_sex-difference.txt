@@ -1,0 +1,30 @@
+# 676 Sex Difference
+# Spirit › 2. Objective Spirit › III. Ethical Life › α. Family › a. Marriage
+G: Geschlechtsunterschied
+Gloss: The difference between man and woman.
+
+N:
+  sex difference; difference of the sexes, sexual dimorphism, gender, masculine and feminine, man and woman, gender roles, complementarity
+  sex, sexuality, masculinity, maleness &c H0383, femininity &c H0383
+  sexual difference, manhood, womanhood, the natural determinacy of the sexes
+
+V:
+  differentiate, complement
+  differ
+
+Adj:
+  sexual, gendered, masculine, feminine, complementary
+  female, womanly
+  male, manly, virile
+
+Adv:
+  by sex, by gender
+  as man and woman
+
+F:
+  Arabic: dhakar wa-unthā [male and female]
+  Sanskrit: puruṣa and prakṛti [as a comparison]
+  Chinese: yin and yang
+
+Phr:
+  male and female created he them [Bible]

@@ -1,0 +1,30 @@
+# 1021 Aristotle
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › b. Greek Philosophy › i. From Thales to Aristotle › 3. Great Systems
+G: Aristoteles
+Gloss: The thinker who brought the forms back into things as their inner purpose and activity, and surveyed every field of knowledge; the turn from separate ideals to form at work in the world.
+
+N:
+  Aristotle; the Philosopher, the Stagirite, the Peripatetics, the Lyceum, form and matter, hylomorphism, act and potency, the four causes, the unmoved mover, thought thinking itself, the organon, the golden mean
+  Aristotelianism, Aristotelism, the Peripatos, Peripateticism, the Peripatetic school, Theophrastus, the tutor of Alexander, the Metaphysics, the Physics, De Anima, the Nicomachean Ethics, the Politics, the Poetics
+  entelechy, actuality and potentiality, substance, the categories, the syllogism, the final cause, the prime mover, the active intellect, the immanent form, first philosophy, the doctrine of the mean, the political animal
+
+V:
+  classify, categorize, analyse, demonstrate
+  systematize, define, syllogize, observe, survey, distinguish, divide, investigate, collect, actualize
+
+Adj:
+  Aristotelian, Peripatetic, hylomorphic, teleological
+  Aristotelic, Aristotelean, immanent, entelechial, empirical, encyclopaedic, syllogistic, categorial, systematic
+
+Adv:
+  Aristotelianly
+  peripatetically, teleologically, syllogistically, empirically, systematically, in act, in actuality
+
+F:
+  Latin: actus purus, ipse dixit
+  Greek: energeia and dynamis, noēsis noēseōs, entelecheia, ousia, hylē, eidos, telos, to ti ēn einai, zōon politikon, eudaimonia, mesotēs
+  Arabic: Arisṭūṭālīs, al-Muʿallim al-Awwal [the First Teacher]
+
+Phr:
+  the master of those who know [Dante]
+  all men by nature desire to know [Aristotle]

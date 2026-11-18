@@ -1,0 +1,41 @@
+# 649 Revenge
+# Spirit › 2. Objective Spirit › I. Abstract Right › γ. Wrong › c. Coercion and Crime › iii. Cancellation of Crime
+G: Rache
+Gloss: Retribution taken by the injured party.
+
+N:
+  revenge; vengeance, retaliation, reprisal, requital, vendetta, feud, blood feud, private justice, the Furies, Nemesis, an eye for an eye
+  revengement†, avengement†, avengeance†, sweet revenge, death feud, blood for blood retaliation, day of reckoning
+  payback, counter- stroke, counter-blast, counterplot, counter-project, reciprocation &c H0141
+  retribution, requital &c H0636
+  avenger, vindicator, Eumenides
+  recrimination &c H0699, compensation &c H0630, reaction &c H0232
+  ill blood &c H0485
+
+V:
+  avenge, revenge, retaliate, requite, pay back, settle scores, get even
+  retort, turn upon, pay, pay off, pay in one's own coin, pay in the same coin, cap, reciprocate &c H0141, turn the tables upon, give a quid pro quo, give as much as one takes, give as good as one gets, give and take, exchange fisticuffs, be quits, be even with, pay off old scores
+  vindicate, take one's revenge, have one's revenge, breathe revenge, breathe vengeance, wreak one's vengeance, wreak one's anger
+  reciprocate, return the compliment
+
+Adj:
+  vengeful, vindictive, revengeful, retaliatory, avenging, implacable
+  rancorous, pitiless &c H0605, ruthless, rigorous
+  retaliating, retaliative, talionic†
+  unforgiving, unrelenting, inexorable, stony-hearted, relentless, remorseless
+
+Adv:
+  vengefully, in revenge, in retaliation, with a vengeance
+
+F:
+  Latin: vindicta, ultio, lex talionis
+  Greek: the Erinyes
+  Arabic: thaʾr [blood revenge], intiqām [vengeance]
+  Sanskrit: pratīkāra [retaliation]
+  Chinese: fuchou [revenge]
+  Japanese: fukushū, adauchi [vendetta]
+
+Phr:
+  revenge is a dish best served cold
+  vengeance is mine, saith the Lord [Bible]
+  the infinite progression of revenge [Hegel, paraphrased]

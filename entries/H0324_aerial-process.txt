@@ -1,0 +1,24 @@
+# 324 Aerial Process
+# Nature › 3. Organics › II. Plant Nature › β. The Plant's Process of Assimilation
+G: Luftprozess
+Gloss: The plant's exchange with the air.
+
+N:
+  aerial process; transpiration, respiration, gas exchange, stomata, breathing of leaves, exhalation, evaporation, aeration
+  vaporization
+  the air process, plant respiration
+
+V:
+  transpire, respire, breathe, exhale, evaporate
+  vaporize
+
+Adj:
+  aerial, transpiratory, respiratory, stomatal
+  atmospheric
+
+Adv:
+  through the leaves
+  with the air
+
+Phr:
+  the breathing forest

@@ -1,0 +1,24 @@
+# 779 Comparisons Starting from the External Object
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form
+G: Vergleichungen, die vom Äußeren ausgehen
+Gloss: Comparison that begins from an outward object and draws a meaning from it.
+
+N:
+  comparisons starting from the external object; fable, parable, proverb, apologue, metamorphosis; external likeness
+  figure, trope, metaphor, figurativeness, image, imagery
+  comparison from the object, the outward object as starting point, the given case, the natural occurrence, the lesson drawn, fable parable and proverb, application, moral
+
+V:
+  compare, illustrate, moralize
+  draw a meaning, interpret, apply, read into, extract
+
+Adj:
+  illustrative, exemplary, moralizing
+  interpretive, applied, object-based
+
+Adv:
+  by example
+  from the object, by application, from without inward
+
+Phr:
+  by way of illustration

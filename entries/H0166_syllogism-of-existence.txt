@@ -1,0 +1,28 @@
+# 166 Syllogism of Existence (Qualitative Syllogism) [Tetrad]
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism
+G: Schluss des Daseins
+Gloss: Inference in which the connecting term is a single, directly perceived quality.
+
+N:
+  syllogism of existence; qualitative syllogism, formal syllogism, syllogism of the understanding, categorical syllogism of the schools; middle term as single quality; contingent middle; figures of the syllogism
+  the immediate syllogism, the syllogism of determinate being
+
+V:
+  syllogize formally, infer by quality
+  infer, conclude, mediate through a quality
+
+Adj:
+  formal, qualitative, contingent, external, abstract
+  immediate
+
+Adv:
+  formally, by quality
+  immediately, qualitatively
+
+F:
+  Latin: figurae
+  Greek: schēmata
+  Arabic: aṣkāl [figures]
+
+Phr:
+  barbara celarent darii ferioque prioris [Lat.]

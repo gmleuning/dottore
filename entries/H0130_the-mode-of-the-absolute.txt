@@ -1,0 +1,33 @@
+# 130 The Mode of the Absolute
+# Logic › 2. Doctrine of Essence › III. Actuality › α. The Absolute
+G: Der Modus des Absoluten
+Gloss: A particular, outward manner in which the all-inclusive whole shows itself; a passing form or mode.
+
+N:
+  the mode of the absolute; mode, modification, affection, manner, way, form, guise, shape, fashion, state, phase, aspect, instance, manifestation, expression; finite thing as mode
+  modality, schesis†, form &c H0267
+  tone, turn, style, character
+  wise, modus operandi
+  shape &c H0267, look
+  the externality of the absolute
+
+V:
+  modify, manifest, express, instantiate, take the form of
+  show itself, pass
+
+Adj:
+  modal, modified, manifest, finite, particular, dependent, derivative, transient
+  formal
+
+Adv:
+  modally, by way of, in the manner of, after the fashion of
+  in a mode, outwardly
+
+F:
+  Latin: modus, affectio, natura naturata
+  Arabic: shaʾn [mode, state]
+  Sanskrit: vivarta [apparent transformation], pariṇāma [modification]
+  Chinese: xiang [form, aspect]
+
+Phr:
+  natura naturans et natura naturata [Lat.] [Spinoza]

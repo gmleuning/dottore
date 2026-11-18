@@ -1,0 +1,34 @@
+# 43 Continuous and Discrete Magnitude
+# Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › α. Quantity
+G: Kontinuierliche und diskrete Größe
+Gloss: Quantity taken either as continuous, an unbroken whole like a line, or as discrete, a collection of separate units like a heap.
+
+N:
+  continuous and discrete magnitude; continuity, continuum, seamlessness, uninterruptedness, unbrokenness, connectedness; flow, stretch, extension, line; discreteness, discontinuity, separateness, distinctness, granularity, graininess, atomicity, digitality; units, ones, items, members, quanta; the digital and the analogue; the continuous and the discontinuous; grain, particle, bit, quantum
+  consecution, consecutiveness, succession, round, suite, progression, series, train chain, catenation, concatenation, scale, gradation, course, ceaselessness, constant flow, unbroken extent
+  disjunction &c H0293, anacoluthon†, interruption, break, fracture, flaw, fault, crack, cut, gap &c H0218, solution of continuity, caesura, broken thread, parenthesis, episode, rhapsody, patchwork, intermission, alternation &c H0222, dropping fire
+  disjunction, disconnection, isolation
+
+V:
+  continue, extend, stretch, run on, flow; discretize, quantize, digitize, break up, divide, segment, partition, chunk; count &c H0046
+
+Adj:
+  continuous, continual, unbroken, uninterrupted, seamless, smooth, connected, analogue, analog; discrete, discontinuous, separate, distinct, granular, grainy, particulate, atomic, digital, quantized, countable, numerable
+  continued, consecutive, progressive, gradual, serial, successive, immediate, entire, linear, in a row, unintermitting†, unremitting, unrelenting &c H0376, perennial, evergreen, constant
+  disjoined, disjunctive, disparate, apart, asunder, loose
+  unsuccessive†, broken, interrupted, disconnected, unconnected, fitful &c H0222, spasmodic, desultory, intermitting, occasional, intermittent, alternate, recurrent &c H0222
+  intact, undivided
+  sporadic
+
+Adv:
+  continuously, without a break, all the way; discretely, piecemeal, bit by bit, one by one, step by step
+  seriatim, in a line, in succession, in turn, running, gradually, at a stretch, in file, in column, in single file, in Indian file
+
+F:
+  German: Kontinuität, Diskretion
+  Latin: gradatim
+  Greek: synecheia
+
+Phr:
+  natura non facit saltus [Lat.] [after Leibniz]
+  drop by drop, gutta cavat lapidem [Lat.]

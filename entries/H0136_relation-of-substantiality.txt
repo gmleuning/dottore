@@ -1,0 +1,37 @@
+# 136 Relation of Substantiality
+# Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation
+G: Substantialitätsverhältnis
+Gloss: The relation of a substance to its passing states, or accidents, which arise and vanish within it.
+
+N:
+  relation of substantiality; substance and accident; substance, substratum, essence, underlying reality, bearer, subject; accident, attribute, mode, property, modification, quality, state, transient feature; accidentality, inherence
+  substantiality, hypostasis, being, matter &c H0229
+  inbeing†, inhesion†, noumenon, quiddity
+  matter
+  the substrate, the power of substance
+
+V:
+  underlie, bear, sustain, support, inhere, belong to, attach to, modify, qualify
+  subsist
+
+Adj:
+  substantial, substantive, essential, underlying, abiding, permanent, enduring; accidental, incidental, adventitious, inherent, attributive, modal, transient, passing
+  hypostatic
+  extrinsic, nonessential
+  fortuitous, contingent
+  self-existing, self-existent
+
+Adv:
+  substantially, in substance, essentially; accidentally
+
+F:
+  German: Substanz, Akzidenz
+  Latin: substantia et accidens, substantia, accidens, inesse, per accidens
+  Greek: ousia kai symbebēkos, ousia, hypostasis
+  Arabic: jawhar wa-ʿaraḍ [substance and accident]
+  Sanskrit: dravya and guṇa
+  Chinese: ti and yong [substance and function]
+
+Phr:
+  substance is that which is in itself and is conceived through itself [Spinoza]
+  ti-yong [Chin.] [substance and function]

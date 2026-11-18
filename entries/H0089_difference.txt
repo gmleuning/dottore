@@ -1,0 +1,47 @@
+# 89 Difference
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › β. Determinations of Reflection
+G: Unterschied
+Gloss: Distinction; a thing's not being the same as another, or as itself in another respect.
+
+N:
+  difference; distinction, distinctness, otherness, alterity, heterogeneity, dissimilarity, unlikeness, disparity, discrepancy, divergence, deviation, variance, variation, contrast, discrimination, differentiation, diversity &c H0091; nuance, shade of difference, subtlety, fine distinction, hair-splitting
+  variety, dissimilarity &c H0091, disagreement &c H0093, disparity &c H0045, contradistinction, alteration
+  dissimilaritude†, diversity, dissemblance†
+  nice distinction, delicate distinction, subtle distinction, discrimination &c H0602, differentia
+  diorism†, perception of difference
+  mismatch, disproportion, dissimilitude, inequality, disproportionateness†, repugnance
+  non-identity
+  variant, variability, degenerate, deviant
+
+V:
+  differ, vary, diverge, deviate, contrast, depart from, be distinct from, be different; distinguish, discriminate, differentiate, tell apart, set apart, mark off, draw a distinction, split hairs
+  ablude†, divaricate
+  severalize†, draw the line
+  vary &c H0007, deviate &c H0228, diverge &c H0228, alternate, swerve
+
+Adj:
+  different, differing, distinct, other, unlike, dissimilar, disparate, divergent, discrepant, heterogeneous, contrasting, contrastive, distinguishable, distinctive, differential, diacritical
+  diverse, multifarious, polyglot, varied, modified, various, divers, all manner of, all kinds of, variform &c H0091, daedal†
+  of a different kind, unique
+  polymorphous, multiform, diversified, manifold, many-sided
+  another, not the same, unequal &c H0045
+
+Adv:
+  differently, otherwise, else, distinctly; on the other hand; with a difference
+
+F:
+  German: Differenz, Unterschied
+  Latin: differentia, differentia specifica [specific difference], per contra, differ toto coelo
+  Greek: diaphora
+  French: différance [Derrida]
+  Italian: differ longo intervallo
+  Arabic: farq [difference], ikhtilāf
+  Sanskrit: bheda [difference], viśeṣa [distinction, particularity]
+  Chinese: yi [difference], chabie
+  Japanese: chigai
+
+Phr:
+  vive la différence [Fr.]
+  distinguo [Lat.]
+  that makes all the difference
+  a difference that makes a difference [Bateson]

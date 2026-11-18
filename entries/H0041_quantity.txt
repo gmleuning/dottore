@@ -1,0 +1,38 @@
+# 41 Quantity
+# Logic › 1. Doctrine of Being › II. Magnitude (Quantity)
+G: Quantität
+Gloss: Being considered as indifferent to its limits, so that it can be increased or decreased without becoming something else; the unity of the continuous and the divided.
+
+N:
+  quantity; sublated being-for-self; indifference; continuity and discreteness; extensibility, divisibility, compositionality, addability; increase and decrease, more and less, plus and minus, ±; quantum, amount, magnitude; homogeneity, uniformity, fungibility, interchangeability
+  size &c H0218, amplitude, mass, sum, substance, strength, force
+  fewness, paucity, small number, small quantity &c H0045, rarity, infrequency &c H0222, handful, maniple, minority, exiguity
+  reduction, weeding, elimination, sarculation†, decimation, eradication
+  the how-much, quantitativeness
+
+V:
+  increase, decrease, augment, diminish, grow, shrink, add, subtract, multiply, divide; scale up, scale down; vary in amount
+  quantify, measure, fix, estimate, determine, quantitate, enumerate
+  add to, enlarge, dilate &c H0218, wax, get ahead
+  lessen, shrink &c H0218, wane, ebb, decline
+  be few
+  render few, reduce, diminish the number, weed, eliminate, cull, decimate
+
+Adj:
+  quantitative, quantifiable, measurable, extensible, divisible, additive, homogeneous, uniform, fungible, interchangeable, indifferent, external
+  some, any, aught, a few
+  few, scant, scanty, thin, rare, scattered, thinly scattered, spotty, few and far between, exiguous, infrequent &c H0222, hardly any, scarcely any, to be counted on one's fingers, reduced, unrepeated†
+
+Adv:
+  more or less; in greater or lesser degree; quantitatively
+  to the tune of, all of, a full, the sum of, fully, exactly, precisely
+  rarely, here and there
+  seldom
+
+F:
+  German: aufgehobenes Fürsichsein, Gleichgültigkeit, Kontinuität und Diskretion, Quantität
+  Latin: rari nantes
+
+Phr:
+  plus ou moins [Fr.]
+  neither more nor less

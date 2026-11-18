@@ -1,0 +1,30 @@
+# 181 The Mechanical Object
+# Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism
+G: Das mechanische Objekt
+Gloss: A thing complete in itself and related to others only from outside.
+
+N:
+  the mechanical object; inert object, passive object, body, lump, mass, aggregate, heap, assemblage, unit, part, piece, cog, component, billiard ball; indifference, inertness, passivity, externality
+  inertia
+  solid body, block
+  bulk
+  the mechanical thing, the indifferent object, the self-enclosed object, monad, atom
+
+V:
+  lie inert, remain passive, be pushed, be acted on
+  stand indifferent, remain external
+
+Adj:
+  inert, passive, indifferent, external, self-enclosed, aggregate, impenetrable
+  inactive
+  mechanical, aggregated
+
+Adv:
+  inertly, passively, from without
+  externally, indifferently
+
+F:
+  Latin: vis inertiae
+
+Phr:
+  a cog in the machine

@@ -1,0 +1,32 @@
+# 84 Positing Reflection
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › α. Shine (Illusory Being) › c. Reflection
+G: Setzende Reflexion
+Gloss: Reflection that itself sets up what it seems merely to find: the immediate starting point is posited, that is, set up, by the very movement that returns from it.
+
+N:
+  positing reflection; positing, posit, postulation, postulate, assumption, supposition, presupposition, hypothesis, stipulation, premise; self-positing, self-production, self-presupposing; projection, construction, constitution, social construction; performativity, performative, self-fulfilling prophecy; bootstrapping, circularity, retroactivity; the posited, positedness
+  posited being, presupposing
+
+V:
+  posit, set up, lay down, put forward, postulate, assume, suppose, presuppose, stipulate, premise, hypothesize; construct, constitute, project, produce; bootstrap; retroject, read back into
+  presume
+  originate
+  make
+
+Adj:
+  posited, postulated, assumed, presupposed, hypothetical, stipulated, constructed, constitutive, projective, performative, self-positing, self-presupposing, bootstrapped, retroactive, circular
+
+Adv:
+  by assumption, by stipulation, by fiat; retroactively, after the fact
+  by positing
+
+F:
+  German: Setzen, Voraussetzung, Nachträglichkeit [deferred action, retroactive determination], das Gesetzte, Gesetztsein, setzende Reflexion
+  Latin: positio, ex hypothesi, ex post facto
+  Greek: thesis [a setting down]
+  Sanskrit: kalpanā [construction, imagination]
+
+Phr:
+  fiat lux [Lat.] [Bible]
+  the self posits itself [Fichte]
+  by pulling oneself up by one's own bootstraps

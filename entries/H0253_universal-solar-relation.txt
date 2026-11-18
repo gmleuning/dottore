@@ -1,0 +1,39 @@
+# 253 Universal Solar Relation
+# Nature › 2. Physics › I. Physics of Universal Individuality › γ. Meteorological Process
+G: Allgemeines Sonnenverhältnis
+Gloss: The relation of earth to sun that produces the seasons.
+
+N:
+  universal solar relation; seasons, the turning of the year, solstice, equinox, spring, summer, autumn, fall, winter, the zodiac, the ecliptic, insolation, day and night, the diurnal round, the annual round, the cycle of the year
+  fall of the leaf, autumnal equinox, Indian summer, St. Luke's summer, St. Martin's summer
+  vernal equinox, first point of Aries
+  dog days, canicular days†
+  the earth's relation to the sun, the solstices, the equinoxes
+
+V:
+  turn, revolve, wheel, rotate, come round
+  recur in regular order, recur in regular succession, return, come again, come in its turn, come round again, beat, pulsate, intermit
+  circulate
+  incline
+
+Adj:
+  seasonal, annual, solar, diurnal, equinoctial, solstitial, cyclical, vernal, aestival, autumnal, hibernal, brumal
+  hourly, daily, quotidian, tertian, weekly, hebdomadal†, hebdomadary†, biweekly, fortnightly, bimonthly, monthly, yearly, biennial, triennial, centennial, secular, paschal, lenten, regular, steady, punctual, regular as clockwork
+  vespertine, nocturnal
+  matin, matutinal†
+  wintry, hyemal†
+  periodic, periodical, serial, recurrent, rhythmical, recurring, intermittent, remittent, alternate, every other
+
+Adv:
+  seasonally, annually, year in year out, in season, out of season
+  with the seasons
+
+F:
+  Arabic: mawāsim [seasons]
+  Sanskrit: ṛtu [season]
+  Chinese: jieqi [solar terms]
+  Japanese: sekki
+
+Phr:
+  to every thing there is a season [Bible]
+  if winter comes, can spring be far behind? [Shelley]

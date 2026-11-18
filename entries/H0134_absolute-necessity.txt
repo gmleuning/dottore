@@ -1,0 +1,46 @@
+# 134 Absolute Necessity
+# Logic › 2. Doctrine of Essence › III. Actuality › β. Modal Actuality
+G: Absolute Notwendigkeit
+Gloss: Necessity that depends on nothing outside itself; what is because it is.
+
+N:
+  absolute necessity; necessity, fate, destiny, doom, fatality; Moirai, the Fates; inevitability, ineluctability, inexorability, unavoidability; blind necessity; what is because it is, self-grounded necessity
+  destination, kismet, election, foreordination, lot fortune, fatalism, inevitableness, spell &c H0972
+  necessitation, obligation, compulsion &c H0645, subjection &c H0475, stern necessity, hard necessity, dire necessity, imperious necessity, inexorable necessity, iron necessity, adverse necessity, what must be
+  predestination, preordination, predetermination, foregone conclusion
+  unconditioned necessity, the simply necessary
+
+V:
+  be necessary, must be, cannot be otherwise; necessitate, ordain, decree, destine, predestine, foreordain, doom
+  foredoom, devote, compel &c H0645
+  preordain
+  be of necessity
+
+Adj:
+  necessary, absolutely necessary, inevitable, ineluctable, inexorable, unavoidable, inescapable, fated, destined, predestined, fateful, fatal, ordained, decreed, written; blind, unconditioned
+  elect, spellbound compulsory &c H0645, uncontrollable, irresistible, irrevocable, avoidless†, resistless
+  self-grounded
+
+Adv:
+  necessarily, of necessity, inevitably, inexorably, perforce, willy-nilly, come what may, whether one will or no. needs must, perforce &c H0645, will he nil he, willy nilly, willing or unwilling
+  of course, in consequence, consequently, as a matter of course
+  absolutely, of itself
+
+F:
+  German: Notwendigkeit
+  Latin: necessitas, Parcae, nolens volens, ex necessitate rei
+  Greek: anankē, heimarmenē [fate], moira
+  French: bon gre mal gre, coute que coute
+  Old Norse: Norns
+  Arabic: qadar [decree, destiny], maktūb [it is written]
+  Turkish: kismet
+  Sanskrit: ṛta, niyati [destiny, necessity]
+  Chinese: ming [fate, mandate], tianming [mandate of heaven]
+  Japanese: unmei
+
+Phr:
+  anankē [Gr.]
+  ducunt volentem fata, nolentem trahunt [Lat.] [Seneca]
+  maktūb [Ar.] [it is written]
+  che sarà sarà [It.]
+  freedom is the insight into necessity [Engels after Hegel]

@@ -1,0 +1,25 @@
+# 413 The Magnetizer
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy › ii. Magnetic Somnambulism › 2. Content of Magnetic States › c. Inducing
+G: Der Magnetiseur
+Gloss: The person who induces the trance state; the mesmerist.
+
+N:
+  the magnetizer; mesmerist, hypnotist, hypnotizer, magnetizer, operator, Svengali, spellbinder, charmer, enchanter, healer, faith healer, shaman, medicine man; Mesmer
+  medium
+  mesmerizer, the magnetic physician, Puységur
+  therapist
+
+V:
+  mesmerize, hypnotize, entrance, charm, control
+  magnetize
+
+Adj:
+  mesmeric, hypnotic, controlling, dominating, magnetic, charismatic
+  magnetizing
+
+Adv:
+  under the spell of
+  mesmerically, by passes
+
+Phr:
+  a Svengali

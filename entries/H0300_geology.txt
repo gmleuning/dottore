@@ -1,0 +1,35 @@
+# 300 Geology (Oryctognosy)
+# Nature › 3. Organics › I. Terrestrial Organism
+G: Geologie
+Gloss: The science of the earth's minerals and rocks.
+
+N:
+  geology; oryctognosy, mineralogy, petrology, lithology, crystallography, rock, stone, mineral, ore, lode, vein, seam, bedrock; minerals, ores, gems
+  geognosy†, oryctology†, oryctography†
+  flint, marble, fossil, crystal, quartz, granite
+  earth science, the science of rocks
+  limestone, lava, gravel, shale
+  sandstone, grit, conglomerate, magma, basalt, tuff, obsidian, dolomite
+  road metal, crushed rock, pudding stone, emery stone, emery rock, sedimentary rock, igneous rock, metamorphic rock, pit run, volcanic rock, pit-run gravel, bank gravel, verde antique, volcanic glass, oil shale, pillow lava
+
+V:
+  mine, quarry, prospect, assay, extract, excavate
+  geologize, survey
+
+Adj:
+  geological, mineral, mineralogical, lithic, petrous, rocky, stony, metalliferous
+  granitic
+  petrological
+
+Adv:
+  geologically, underground
+
+F:
+  German: Oryktognosie
+  Arabic: maʿādin [minerals], ʿilm al-maʿādin [mineralogy]
+  Sanskrit: dhātu [mineral, element]
+  Chinese: dizhixue [geology]
+  Japanese: chishitsugaku
+
+Phr:
+  sermons in stones [As You Like It]

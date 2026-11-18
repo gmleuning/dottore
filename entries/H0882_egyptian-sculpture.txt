@@ -1,0 +1,23 @@
+# 882 Egyptian Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 3. Historical Stages in the Development of Sculpture
+G: Ägyptische Skulptur
+Gloss: The sculpture of Egypt.
+
+N:
+  Egyptian sculpture; Egyptian statuary, rigid frontality, stiff posture, symmetry, colossi, the seated pharaoh, animal-headed gods
+  the Memnon statues, the sphinx, the fixed type, canon of proportion, stiffness, rigidity, immobility, frontality, lifelessness, granite, basalt
+
+V:
+  carve, stylize
+  hew, stiffen, fix, typify, repeat
+
+Adj:
+  Egyptian, frontal, rigid, hieratic, stylized
+  Pharaonic, colossal, stiff, immobile, typical, lifeless
+
+Adv:
+  rigidly, frontally
+  stiffly, by rule
+
+Phr:
+  the arms at the sides

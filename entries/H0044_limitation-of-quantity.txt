@@ -1,0 +1,34 @@
+# 44 Limitation of Quantity
+# Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › α. Quantity
+G: Begrenzung der Quantität
+Gloss: The setting of a boundary within quantity, which turns an indefinite amount into a definite one.
+
+N:
+  limitation of quantity; limit, boundary, bound, cap, ceiling, floor, threshold, cutoff, cut-off point, quota, ration, allowance, allotment, maximum, minimum, upper limit, lower limit; definite amount &c H0045; demarcation, delimitation; interval, range, bracket, band, bandwidth, compass, span, scope
+  portion, quantum
+  degree, extent, amount, stint
+  bounds, confine, enclave, term, bourn, verge, curbstone†, but, pale, reservation, termination, terminus, frontier, precinct, marches, backwoods
+  quantitative limit, determination of amount
+  utmost, shortcut
+
+V:
+  limit, cap, restrict, ration, apportion, allot, quantify, fix, set, determine, bound, bracket, delimit; cut off, top out, bottom out
+  measure
+  circumscribe, inclose, surround &c H0218, compass about, imprison &c H0645, hedge in, wall in, rail in, fence round, fence in, hedge round, picket, corral
+  keep within bounds
+  mete, portion out, dole out
+
+Adj:
+  limited, capped, finite, bounded, rationed, fixed, determinate, definite, delimited; maximal, minimal, threshold
+  stripped
+
+Adv:
+  up to, not exceeding, at most, at least, within limits, within range, so far and no farther
+  partially, in part, to a certain extent, in some measure
+
+F:
+  Latin: limen
+
+Phr:
+  enough is as good as a feast
+  est modus in rebus [Lat.] [Horace]

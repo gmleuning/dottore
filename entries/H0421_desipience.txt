@@ -1,0 +1,34 @@
+# 421 Desipience (Rambling)
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement › 1. Vacuity
+G: Faselei
+Gloss: Incoherent talk and thought; raving.
+
+N:
+  desipience; rambling, raving, babbling, prattle, twaddle, drivel, gibberish, incoherence, wandering, maundering, delirium, rigmarole, word salad, logorrhoea
+  nonsense, jargon, rant, balderdash
+  gabble
+  frenzy
+  gibberish &c H0595
+
+V:
+  ramble, rave, babble, prattle, drivel, maunder, wander, blather, blether, gibber, jabber
+  dote, drivel &c H0417
+  prate, chatter
+  digress, meander, divagate
+  mumble, mutter
+
+Adj:
+  rambling, incoherent, babbling, delirious, wandering, desipient, maundering, garrulous, disjointed
+  lightheaded, doting
+
+Adv:
+  incoherently, at random, without rhyme or reason
+  ramblingly
+
+F:
+  German: Faselei
+  Arabic: hadhayān [delirium, raving]
+  Sanskrit: pralāpa [babble]
+
+Phr:
+  a tale told by an idiot, full of sound and fury, signifying nothing [Macbeth]

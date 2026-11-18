@@ -1,0 +1,36 @@
+# 244 Comet
+# Nature › 2. Physics › I. Physics of Universal Individuality › α. Free Physical Bodies › b. Bodies of Opposition
+G: Komet
+Gloss: The volatile, dissolving body; the body of flux.
+
+N:
+  comet; tail, coma, nucleus, hairy star, shooting star, meteor, fireball; volatility, dissolution, impermanence, fluidity; harbinger, portent, omen, prodigy
+  falling star, blazing star
+  presage
+  coruscation
+  the cometary body, the vaporous body, formal process, restlessness
+
+V:
+  blaze, streak, flare, flash, trail, vanish, portend
+  dissolve, evaporate, wander
+
+Adj:
+  cometary, cometic, meteoric, volatile, evanescent, dissolving, transient, portentous
+  fleeting, ephemeral, fugacious
+  vaporous, eccentric
+
+Adv:
+  like a comet, meteorically
+  eccentrically
+
+F:
+  Latin: cometa
+  Greek: komētēs [long-haired]
+  Arabic: nayzak [meteor], mudhannab [comet, tailed star]
+  Sanskrit: dhūmaketu [smoke-bannered, comet]
+  Chinese: huixing [broom star, comet]
+  Japanese: suisei
+
+Phr:
+  when beggars die there are no comets seen
+  the heavens themselves blaze forth the death of princes [Julius Caesar]

@@ -1,0 +1,36 @@
+# 270 The Crystal
+# Nature › 2. Physics › III. Physics of Total Individuality › α. Shape
+G: Der Kristall
+Gloss: The body that has reached its complete, regular form; shape fully realized in three dimensions.
+
+N:
+  the crystal; crystal, crystallization, lattice, crystal lattice, facet, face, cleavage, symmetry, regularity, geometric form, prism, cube, octahedron, gem, jewel; perfected shape
+  Platonic bodies, rhomboid, tetrahedron, dodecahedron, icosahedron, pyramid, parallelopiped
+  solidification, consolidation, concretion
+  surface
+  gemstone, precious stone
+  crystalline form, the regular solid, the mute life of the crystal
+  curing, grille
+
+V:
+  crystallize, facet, cleave, form, solidify, precipitate
+  consolidate, congeal
+
+Adj:
+  crystalline, crystal, crystal-clear, faceted, geometric, symmetrical, regular, prismatic, lattice-like
+  crystallized
+
+Adv:
+  crystal-clear, symmetrically
+  in crystalline form
+
+F:
+  Latin: crystallus
+  Greek: krystallos [ice, rock crystal]
+  Arabic: billawr [crystal]
+  Sanskrit: sphaṭika [crystal]
+  Chinese: jingti [crystal]
+  Japanese: kesshō
+
+Phr:
+  as clear as crystal

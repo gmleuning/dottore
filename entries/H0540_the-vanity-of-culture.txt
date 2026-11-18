@@ -1,0 +1,42 @@
+# 540 The Vanity of Culture
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › ii. Self-Alienated Spirit: Culture › 1. The World of Self-Alienated Spirit › a. Culture and Its Realm of Actuality › ii. Language as the Actuality of Culture
+G: Die Eitelkeit der Bildung
+Gloss: The emptiness of a culture that has seen through everything and believes in nothing.
+
+N:
+  the vanity of culture; vanity, vainglory, hollowness, emptiness, frivolity, superficiality, affectation, pretension, conceit, show, display, vanity of vanities, vanity fair
+  conceitedness, self-conceit
+  fashion, style, ton, bon ton†, society, polite society, civilization, world
+  triviality, levity, vanity &c H0196
+  ostentation, pretense, pretensions
+  folly, trifling
+  fop, fine gentleman, swell, dandy, dandiprat†, exquisite, coxcomb, beau, macaroni, blade, blood, buck, man about town, fast man, fribble, milliner†, Jemmy Jessamy†, carpet knight, masher, dude
+  fine lady, coquette, flirt, vamp
+  nullity, futility, vacuity, the vanity of all things, self-dissolving wit
+
+V:
+  preen, posture, show off, affect, pretend
+  dissemble, feign, affect &c H0666, simulate
+  see through, dissolve, hollow out, mock
+
+Adj:
+  vain, vainglorious, hollow, empty, frivolous, superficial, affected, pretentious
+  magniloquent, boastful, vainglorious &c H0416
+  conceited, puffed up, inflated
+  full of affectation, pedantic, stilted, stagy, theatrical, big-sounding, ad captandum, canting, insincere
+  shallow, half-learned, empty-headed
+  null, futile
+
+Adv:
+  in vain, vainly, emptily
+
+F:
+  Latin: vanitas
+  Arabic: ghurūr [vanity, delusion]
+  Sanskrit: ahaṃkāra [ego, conceit]
+  Chinese: xurong [vanity]
+  Japanese: kyoei
+
+Phr:
+  vanitas vanitatum, omnia vanitas [Lat.] [Bible]
+  Vanity Fair [Bunyan]

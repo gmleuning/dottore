@@ -1,0 +1,53 @@
+# 425 World-Weariness (Fixation on Aversion to Life)
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement › 2. Folly (Fixation of the Subjective as Objective)
+G: Lebensüberdruss
+Gloss: A settled aversion to life.
+
+N:
+  world-weariness; acedia, accidie, melancholy, melancholia, spleen, the blues, despair, despondency, anomie, malaise, nausea, disgust with life, death wish, suicidal ideation
+  sadness, dismals†, blues, lachrymals†, mumps†, dumps, blue devils, doldrums, vapors, megrims, horrors, hypochondriasis [Med.], slough of Despond, disconsolateness, hope deferred, blank despondency, voiceless woe
+  hopelessness, desperation, depression &c H0375, pessimism, Job's comforter, bird of bad omen, bird of ill omen
+  disgust, loathing, sickness, satiety &c H0613, taedium vitae &c H0375, boredom, ennui
+  hypochondriac, seek sorrow, self-tormentor, heautontimorumenos†, croaker, pessimist, mopus†
+  misanthropy, incivism, egotism &c H0664, moroseness &c H0375, cynicism
+  misanthrope, misanthropist, egotist, cynic, man hater, Timon, Diogenes
+  woman hater, misogynist
+  weariness of life, life-weariness, tedium vitae
+  depression, the blahs, the pits, a funk, burnout, existential dread, the doldrums, the black dog [Churchill], low mood
+
+V:
+  weary of, tire of, despair, languish, mope, pine
+  brood over, fret, sulk, pine away, yearn, repine &c H0605
+  repine, droop, despair &c H0605
+  tire &c H0384, bore, bore to death, weary to death, tire to death, bore out of one's skull, bore out of one's life, weary out of one's life, tire out of one's life, bore out of all patience, weary out of all patience, wear out one's patience, tire out of all patience, set to sleep, send to sleep, buttonhole
+  loathe life
+
+Adj:
+  world-weary, weary, jaded, sated, blasé, splenetic, melancholy, melancholic, despondent, disenchanted, disillusioned, nihilistic
+  woebegone, hypochondriacal, saturnine
+  tired, drowsy &c H0375, uninterested, flagging, used up, worn out, blase, life-weary, weary of life, sick of
+  dreary, flat, dull, dull as a beetle, dull as ditchwater†, depressing
+  melancholy as a gib cat, oppressed with melancholy, a prey to melancholy, downcast, downhearted, down in the mouth, down in one's luck, heavy-hearted, in the dumps, down in the dumps, in the suds, in the sulks, in the doldrums, in doleful dumps, in bad humor, sullen, mumpish†, dumpish, mopish†, moping, moody, glum, sulky &c H0613, out of sorts, out of humor, out of heart, out of spirits, ill at ease, low spirited, in low spirits, a cup too low, discouraged, disheartened, desponding, chapfallen†, chopfallen†, jaw fallen, crest fallen
+  cheerless, joyless, spiritless, dismal, gloomy, lugubrious, funereal
+  misanthropic, antisocial, unpatriotic, egotistical &c H0664, morose &c H0375
+  depressed, down, low, bummed [Slang], bummed out, gutted [Brit.], fed up, sick and tired, over it [Coll.], done [Slang], burnt out, meh [Slang], blue, emo [Slang]
+  bored, disgusted, pessimistic
+
+Adv:
+  wearily, despairingly, listlessly
+  in despair
+
+F:
+  German: Weltschmerz, Lebensüberdruß
+  Latin: taedium vitae
+  French: ennui, mal du siècle, la nausée, la maladie sans maladie, malade imaginaire, medecin tant pis
+  Italian: il penseroso
+  Arabic: saʾam [weariness]
+  Sanskrit: nirveda [world-weariness]
+  Chinese: yanshi [world-weariness]
+  Japanese: ensei, mono no aware [pathos of things]
+
+Phr:
+  how weary, stale, flat and unprofitable seem to me all the uses of this world! [Hamlet]
+  taedium vitae [Lat.]
+  not to be born is best [Sophocles]

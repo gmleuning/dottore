@@ -1,0 +1,23 @@
+# 861 Sculpture as the Art of the Classical Ideal
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › i. Principle of Sculpture
+G: Die Skulptur als Kunst des klassischen Ideals
+Gloss: Sculpture as the art best suited to the perfect union of mind and body.
+
+N:
+  sculpture as the art of the classical ideal; Greek sculpture, the classical ideal, perfection of form
+  the plastic art, the art of the ideal, the centre of classical art, the interpenetration of spirit and body, the adequate embodiment, the perfect fit of mind and body
+
+V:
+  perfect, idealize
+  embody, unite, interpenetrate, suit, fit, correspond
+
+Adj:
+  classical, ideal, perfect
+  plastic, adequate, fitting, suited, consummate
+
+Adv:
+  classically
+  ideally, adequately, pre-eminently, par excellence
+
+Phr:
+  the classical art par excellence

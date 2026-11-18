@@ -1,0 +1,29 @@
+# 118 Dissolution of Appearance
+# Logic › 2. Doctrine of Essence › II. Appearance › β. Appearance Proper
+G: Auflösung der Erscheinung
+Gloss: The collapse of the contrast between the apparent and the real world into a relation between them.
+
+N:
+  dissolution of appearance; collapse of the two worlds, breakdown of dualism, overcoming of dualism, unmasking, demystification, disenchantment, demythologization; relation
+  the collapse of appearance, the sublation of the two worlds, the passage into relation, the identity of the opposed worlds
+
+V:
+  dissolve, collapse, break down, overcome, unmask, see through, demystify, debunk
+  come to nothing, fall to the ground, cave in
+  overturn, overthrow, subvert, put an end to, undo
+  disappear, vanish, fade, melt away, pass, go, avaunt†, evaporate, vaporize, be gone, leave no trace, leave 'not a rack behind' [Tempest], go off the stage &c H0228, suffer an eclipse, undergo an eclipse, retire from sight, be lost to view, pass out of sight
+  pass into relation
+
+Adj:
+  dissolved, collapsed, disenchanted, unmasked, demystified
+  sublated
+
+Adv:
+  at last, in the end, in truth
+  in dissolution, into relation
+
+F:
+  German: Verhältnis &c H0119
+
+Phr:
+  the veil is lifted

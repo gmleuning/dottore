@@ -1,0 +1,35 @@
+# 747 Natural Beauty
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty
+G: Das Naturschöne
+Gloss: Beauty found in nature.
+
+N:
+  natural beauty; beauty of nature, scenery, landscape, the picturesque, the scenic, natural splendour, the beauties of nature
+  sight, spectacle, scene, view, prospect, vista
+  beauty unadorned
+  nature's beauty, the naturally beautiful, the first beauty, natural form, the beauty of the living
+
+V:
+  admire, behold, delight in, contemplate
+  bloom, flourish, appear, shine
+
+Adj:
+  scenic, picturesque, natural, lovely, pastoral, idyllic, unspoilt
+  aesthetic, pictorial
+  beautiful, fair
+  charming, delightful, exquisite, lovely &c H0743, ravishing
+  unmade, living
+
+Adv:
+  naturally, in nature
+  by nature
+
+F:
+  French: fait a peindre
+  Arabic: jamāl al-ṭabīʿa
+  Sanskrit: prakṛti-saundarya
+  Chinese: ziran mei [natural beauty]
+  Japanese: shizen-bi, fūkei [scenery], kachō fūgetsu [flower, bird, wind, moon]
+
+Phr:
+  the heavens declare the glory of God [Bible]

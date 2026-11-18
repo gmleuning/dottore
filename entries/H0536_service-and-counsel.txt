@@ -1,0 +1,36 @@
+# 536 Service and Counsel
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › ii. Self-Alienated Spirit: Culture › 1. The World of Self-Alienated Spirit › a. Culture and Its Realm of Actuality › i. Culture as the Alienation of Natural Being
+G: Dienst und Rat
+Gloss: The loyal service and advice the noble give to the state.
+
+N:
+  service and counsel; heroism of service, loyal service, fealty, allegiance, devotion, sacrifice for the state; counsel, advice, deliberation, the royal council, privy council, counsellor, adviser, courtier, vassal
+  loyalty, homage, deference, fidelity
+  counselor, monitor, mentor, Nestor, senator
+  suggestion, recommendation, advisement
+  the haughty vassal, self-sacrifice for the state
+  consultant, advisor
+
+V:
+  serve, counsel, advise, deliberate, swear fealty, pledge allegiance
+  give advice, give counsel, suggest, recommend, exhort &c H0611
+  sacrifice oneself
+
+Adj:
+  loyal, faithful, devoted, advisory, consultative, feudal
+  obedient
+  constant, staunch, true blue
+  observant, true, honorable &c H0663
+  serviceable
+
+Adv:
+  loyally, in counsel
+  in service, by counsel
+
+F:
+  German: Heroismus des Dienstes
+  Arabic: khidma, nasīḥa [sincere counsel], shūrā [consultation]
+  Sanskrit: mantrin [counsellor]
+
+Phr:
+  ich dien [Ger.] [I serve]

@@ -1,0 +1,24 @@
+# 865 Greek Profile
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture › 2. Particular Aspects of the Ideal Form
+G: Das griechische Profil
+Gloss: The face in profile, with brow and nose in a single line.
+
+N:
+  Greek profile; the Grecian nose, straight profile, unbroken line of brow and nose, the classical profile
+  Grecian profile, the straight line of brow and nose, the facial angle, Camper's angle, the brow, the forehead, the nose, the ideal head, physiognomy
+
+V:
+  profile, line
+  align, outline, straighten
+
+Adj:
+  Grecian, classical, straight, noble
+  straight-nosed, rectilinear, ideal, facial
+
+Adv:
+  in profile
+  in a straight line, sidewise
+  sideways
+
+Phr:
+  the Grecian nose

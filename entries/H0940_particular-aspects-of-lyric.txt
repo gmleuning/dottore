@@ -1,0 +1,23 @@
+# 940 Particular Aspects of Lyric
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry
+G: Besondere Seiten der lyrischen Poesie
+Gloss: The particular features of lyric.
+
+N:
+  particular aspects of lyric; poet, poem, kinds of lyric
+  specific features, special sides, particulars, details, the poet's subjectivity, the lyric work, lyric species, mood, occasion
+
+V:
+  specify
+  particularize, detail, distinguish, enumerate, differentiate
+
+Adj:
+  particular
+  special, specific, several, respective, distinct
+
+Adv:
+  in particular
+  specifically, in detail, severally
+
+Phr:
+  singer, song, and kind

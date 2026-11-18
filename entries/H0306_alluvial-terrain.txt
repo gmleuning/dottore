@@ -1,0 +1,34 @@
+# 306 Alluvial Terrain
+# Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy)
+G: Aufgeschwemmtes Land
+Gloss: Soil and debris deposited by water.
+
+N:
+  alluvial terrain; alluvium, alluvion, silt, mud, sand, gravel, loess, delta, floodplain, bottomland, river flats, sandbank, sandbar, estuary, mire, marsh, fen, bog; tertiary and quaternary deposits
+  sludge, slime
+  strand, bank
+  swamp, morass, quagmire, slough
+  slush, ooze
+  sediment, detritus, drift
+  debris, rubble
+
+V:
+  silt, deposit, wash down, accrete
+  settle
+
+Adj:
+  alluvial, silty, deltaic, fluvial, marshy, boggy, swampy
+  muddy, fenny
+  sedimentary, detrital
+  soggy
+
+Adv:
+  downriver, at the river's mouth
+  by deposition
+
+F:
+  Arabic: ṭamy [silt]
+  Chinese: chongji [alluvial deposit]
+
+Phr:
+  the gift of the Nile [Herodotus]

@@ -1,0 +1,29 @@
+# 948 The Dramatic Work of Art
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › i. Drama as a Poetical Work of Art
+G: Das dramatische Kunstwerk
+Gloss: The drama as a work of art.
+
+N:
+  the dramatic work of art; the play, plot, acts, scenes, the three unities, dialogue, monologue, soliloquy, exposition, climax
+  apostrophe, monology†
+  colloquy, duologue, trialogue
+  soliloquy &c H0595
+  the piece, the fable, action, intrigue, complication, development, catastrophe, resolution, peripety, unity of action, prologue, epilogue, chorus, stichomythia
+
+V:
+  plot, structure, act
+  construct, develop, complicate, unravel, resolve, unfold
+
+Adj:
+  structured, dramatic, climactic
+  plotted, unified, well-made, dialogic, scenic, five-act
+
+Adv:
+  act by act
+  scene by scene, in acts, dramatically
+
+F:
+  French: dénouement
+
+Phr:
+  the unities of time, place, and action

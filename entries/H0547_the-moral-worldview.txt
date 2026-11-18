@@ -1,0 +1,28 @@
+# 547 The Moral Worldview
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › iii. Spirit Certain of Itself: Morality
+G: Die moralische Weltanschauung
+Gloss: The view that duty and the world stand opposed, so that virtue and happiness can be reconciled only in a beyond.
+
+N:
+  the moral worldview; moral world-picture, the postulates of practical reason, God, freedom, and immortality, the highest good, harmony of virtue and happiness, endless moral progress, the moral law, duty versus inclination; Kantian ethics, Fichtean ethics
+  the moral view of the world, the moral outlook, the postulates, the harmony of morality and nature, the beyond, pure duty, the holy lawgiver
+
+V:
+  postulate, posit, hope, strive endlessly, ought
+  moralize, oppose, defer, harmonize
+
+Adj:
+  moral, deontological, dutiful, postulated, regulative
+  Kantian, otherworldly
+
+Adv:
+  morally, as a postulate
+  by postulate, in a beyond
+
+F:
+  German: die moralische Weltanschauung
+  Latin: summum bonum, ad infinitum
+
+Phr:
+  ought implies can
+  duty for duty's sake [F. H. Bradley, on Kant]

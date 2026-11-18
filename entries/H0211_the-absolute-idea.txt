@@ -1,0 +1,35 @@
+# 211 The Absolute Idea
+# Logic › 3. Doctrine of the Concept › III. Idea
+G: Die absolute Idee
+Gloss: Thought that grasps itself as the whole of its own development; the method of reason, complete.
+
+N:
+  the absolute idea; method, dialectical method, speculative method; the whole, totality, system, completion, consummation, self-knowledge of reason, thought thinking itself; the logical idea, the Logos; truth in and for itself; personality, pure personality
+  fulfillment, culmination
+  arrangement
+  all, sum total
+  the absolute method, the self-knowing idea, the idea thinking itself, the unity of the theoretical and practical idea, the speculative idea
+
+V:
+  complete, consummate, close, round off, comprehend the whole, know itself
+  accomplish, perfect
+  grasp itself, comprehend itself, think itself
+
+Adj:
+  absolute, total, complete, consummate, self-knowing, self-comprehending, methodical, systematic
+  entire, whole &c H0120
+
+Adv:
+  absolutely, in and for itself, completely, as a whole
+  methodically
+
+F:
+  German: Methode, an und für sich, die absolute Idee
+  Greek: noēsis noēseōs
+  Arabic: ʿaql [intellect], al-ʿaql al-kullī [universal intellect]
+  Sanskrit: brahman, cit [pure consciousness]
+  Chinese: dao
+
+Phr:
+  the absolute idea alone is being, imperishable life, self-knowing truth, and is all truth [Hegel]
+  the truth is the whole [Hegel]

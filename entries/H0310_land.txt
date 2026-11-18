@@ -1,0 +1,41 @@
+# 310 Land
+# Nature › 3. Organics › I. Terrestrial Organism › γ. Earth's Life
+G: Land
+Gloss: The dry ground of the earth.
+
+N:
+  land; dry land, ground, earth, soil, continent, mainland, landmass, island, shore, coast, interior, hinterland, countryside, terrain, territory, landscape
+  peninsula, delta, tongue of land, neck of land, isthmus, oasis, promontory &c H0267, highland &c H0220
+  scar, strand, beach, playa, bank, lea, seaboard, seaside, seabank†, seacoast, seabeach†, ironbound coast, loom of the land, derelict, innings, alluvium, alluvion†, ancon
+  region, area, district
+  isle, islet, eyot†, ait†, holf†, reef, atoll, breaker, archipelago, islander
+  glebe, clay, loam, marl, cledge†, chalk, gravel, mold, subsoil, clod, clot, rock, crag
+  landed property, realty, lands, acres
+  the solid earth
+  haven
+
+V:
+  land, disembark, come ashore, settle, inhabit, cultivate
+  come to land, set foot on the soil, set foot on dry land
+  go ashore, debark, make the land
+
+Adj:
+  terrestrial, territorial, continental, inland, landlocked, overland, agrarian, rural
+  earthy, midland, coastal, littoral, riparian, alluvial, terrene &c H0234, landed, predial†, geophilous†, ripicolous
+  deserted, dilapidated
+
+Adv:
+  ashore, on land, overland, inland, by land
+
+F:
+  Latin: terra, terra firma
+  Greek: gē
+  French: chersonese
+  Arabic: barr [land], yābisa [dry land]
+  Sanskrit: bhūmi, sthala [dry land]
+  Chinese: lu [land]
+  Japanese: riku
+
+Phr:
+  land ho!
+  let the dry land appear [Bible]

@@ -1,0 +1,24 @@
+# 700 Public Authority and Corporation
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society
+G: Polizei und Korporation
+Gloss: Public provision for welfare, and the associations of trades.
+
+N:
+  public authority and corporation; public administration, welfare, social policy, guilds, associations; the regulation of civil society
+  police and corporation, public provision, oversight, regulation, the care of the particular interest as common, association
+
+V:
+  regulate, administer, associate
+  unite, club together &c H0702, associate &c H0036
+  provide, oversee, care for
+
+Adj:
+  public, corporate, regulatory
+  provident
+
+Adv:
+  publicly, corporately
+  by provision, in association
+
+Phr:
+  the second family

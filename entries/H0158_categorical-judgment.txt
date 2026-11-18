@@ -1,0 +1,27 @@
+# 158 Categorical Judgment
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › c. Judgment of Necessity
+G: Kategorisches Urteil
+Gloss: A judgment that places a thing in its kind: "gold is a metal."
+
+N:
+  categorical judgment; categorical proposition, unconditional statement, judgment of genus, generic statement, subsumption, classification, typing; categorical assertion
+  kind, genus, species
+  the judgment of the genus, the substantial judgment, classification under a kind, the unconditional assertion
+
+V:
+  categorize, classify, subsume, class, type, rank, sort, pigeonhole, assign
+  place under a kind
+
+Adj:
+  categorical, generic, taxonomic, classificatory, unconditional, unqualified, flat, absolute
+  affirmative, positive
+  substantial
+
+Adv:
+  categorically, unconditionally, flatly, absolutely, without qualification
+
+F:
+  Arabic: ḥamliyya [categorical proposition]
+
+Phr:
+  the rose is a plant

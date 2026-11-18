@@ -1,0 +1,23 @@
+# 61 The Specific Quantum
+# Logic › 1. Doctrine of Being › III. Measure › α. Specific Quantity
+G: Das spezifische Quantum
+Gloss: A definite amount bound up with a particular quality; the size at which a thing is what it is.
+
+N:
+  the specific quantum; proper amount, right size, due measure, natural size, characteristic magnitude; norm, optimum, just right, sweet spot; quota, allotment, dose; fitting proportion, appropriate scale, human scale
+  measure, quantum, ratio, proportion
+  the specific amount, the proper size, the qualitative quantum, the determinate size, the natural measure
+
+V:
+  fit, suit, befit; be the right size, be just right
+  specify, fix, be of a size
+
+Adj:
+  proper, appropriate, fitting, due, right-sized, optimal, characteristic, specific
+  definite, determinate
+
+Adv:
+  just right, just so, to a nicety, to a T. at its proper size, specifically
+
+Phr:
+  Goldilocks's porridge: not too hot, not too cold

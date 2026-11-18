@@ -1,0 +1,30 @@
+# 1036 Renaissance and Reformation
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › c. Medieval Philosophy
+G: Renaissance und Reformation
+Gloss: The revival of ancient learning and the reform of the church, which together turned thought back to nature and to the individual conscience.
+
+N:
+  Renaissance and Reformation; humanism, revival of learning, Ficino, Pico della Mirandola, Bruno, Cardano, Bacon, Boehme, Luther, the Reformation, natural philosophy, the new science
+  the Renascence, the rebirth, the Revival of Letters, the Quattrocento, the Cinquecento, Protestantism, Lutheranism, Erasmus, Melanchthon, Calvin, Pomponazzi, Telesio, Campanella, Vanini, Paracelsus, Montaigne, Machiavelli, Petrus Ramus, the classics, the priesthood of all believers, justification by faith, the ninety-five theses, private judgment, inwardness of faith, the Teutonic philosopher
+
+V:
+  revive, reform, humanize, rediscover
+  renew, restore, resurrect, reawaken, protest, purify, secularize, emancipate, discover, return to the sources
+
+Adj:
+  humanist, Renaissance, Reformed, Protestant
+  Renascent, classicizing, neoclassical, Lutheran, Calvinist, evangelical, reformist, reformational, anti-scholastic, Erasmian, Baconian
+
+Adv:
+  in the Renaissance
+  at the Reformation, anew, by faith alone, by Scripture alone
+
+F:
+  Latin: studia humanitatis, ad fontes, sola fide, sola scriptura, philosophus teutonicus
+  Italian: Rinascimento, uomo universale
+  Arabic: al-nahḍa [renaissance]
+  Chinese: wenyi fuxing [renaissance]
+
+Phr:
+  oration on the dignity of man [Pico]
+  ad fontes [Lat.] [back to the sources]

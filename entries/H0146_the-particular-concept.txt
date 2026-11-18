@@ -1,0 +1,38 @@
+# 146 The Particular Concept
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › α. The Concept as Such
+G: Der besondere Begriff
+Gloss: A general idea narrowed to a definite kind, as "mammal" within "animal."
+
+N:
+  the particular concept; particular, particularity, specificity, species, kind, sort, subclass, subcategory, subtype, variety, type, specific difference, determinateness, peculiarity, specialty, specialness; the particular and the general
+  breed
+  speciality, specialite†, individuality, individuity†, idiocrasy &c H0374, personality, characteristic, idiosyncrasy, specificness†, singularity &c H0063, state, trait, distinctive feature, technicality, differentia
+  anomaly, exception
+  specification
+
+V:
+  particularize, specify, specialize, differentiate, distinguish, narrow down, define, determine, divide into kinds
+  individualize, realize, designate, denote, indicate, point out, select
+  narrow
+
+Adj:
+  particular, specific, special, especial, peculiar, distinct, determinate, differentiated, specialized, subordinate, partial
+  individual, proper, personal, original, private, respective, definite, certain, esoteric, endemic, party, appropriate, several, diagnostic, exclusive, singular &c H0063, idiomatic, idiotypical, typical
+  specialised
+
+Adv:
+  particularly, specifically, in particular, especially, specially, namely, to wit
+  that is to say, for example, id est, e.g, i.e, videlicet, viz. each, apiece, one by one, one at a time, severally, respectively, each to each, seriatim, in detail, in great detail, bit by bit
+
+F:
+  German: Besonderheit
+  Latin: differentia, viz., videlicet, in propria persona, ad hominem, exemplia gratia, pro hac vice, pro re nata
+  Greek: eidos
+  Arabic: juzʾī [particular], nawʿ [species]
+  Sanskrit: viśeṣa [particularity]
+  Chinese: tebie [particular]
+  Japanese: tokushu
+
+Phr:
+  the devil is in the details
+  every particular is a species

@@ -1,0 +1,24 @@
+# 183 The Formal Mechanical Process
+# Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › b. The Mechanical Process
+G: Der formale mechanische Prozess
+Gloss: Mechanical interaction as the mere passing on of motion or condition.
+
+N:
+  the formal mechanical process; communication, transmission, propagation, imparting, passing on, contagion, infection, spread, diffusion, dissemination, osmosis; mere sharing
+  distribution
+  communication of motion, the passing-on, formal communication
+
+V:
+  communicate, transmit, impart, pass on, propagate, spread, diffuse, disseminate, infect
+  distribute
+
+Adj:
+  communicative, transmissible, contagious, infectious, diffusive
+  formal, communicated, transmitted
+
+Adv:
+  by transmission, by contagion, by osmosis
+  by communication, formally
+
+Phr:
+  a rolling stone gathers no moss

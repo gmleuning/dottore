@@ -1,0 +1,23 @@
+# 828 Architecture of Purpose
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › i. Symbolic Architecture › 3. Transition to Classical Architecture
+G: Architektur des Zwecks
+Gloss: Building that serves an end outside itself.
+
+N:
+  architecture of purpose; functional architecture, utilitarian building, form follows function, functionalism, purpose-built
+  purposive architecture, useful building, functional building, utilitarian architecture, building as means, enclosure, dwelling, external end
+
+V:
+  serve, enclose, house, shelter
+  provide
+
+Adj:
+  functional, utilitarian, purposive, practical
+  purposeful, useful, instrumental, serviceable
+
+Adv:
+  functionally
+  for a purpose, for use, as a means
+
+Phr:
+  form follows function [Louis Sullivan]

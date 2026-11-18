@@ -1,0 +1,33 @@
+# 516 Spirit as a World
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad]
+G: Geist als Welt
+Gloss: Mind as a shared world of customs, institutions and history, rather than as an individual.
+
+N:
+  spirit as a world; spirit; a form of life, a shared world, social world, lifeworld, culture, civilization, spirit of the age, an epoch, historical world, people, nation, collective life
+  the spiritual world, the actual ethical world, objective mind, the world of customs and institutions, the I that is We and the We that is I
+
+V:
+  inhabit, share, belong, live together, constitute a world
+  institute, objectify, become a world
+
+Adj:
+  social, communal, historical, cultural, civilizational, epochal, collective
+  worldly, shared, institutional
+
+Adv:
+  in common, historically, collectively
+  as a world
+
+F:
+  German: Geist &c H0366, Lebensform, Lebenswelt [Husserl], Zeitgeist
+  Latin: mores
+  Greek: ethos
+  Arabic: ʿumrān [civilization] [Ibn Khaldun], ʿaṣabiyya [group solidarity]
+  Sanskrit: saṃskṛti [culture]
+  Chinese: wenming [civilization]
+  Japanese: bunmei
+
+Phr:
+  the spirit of the age
+  O tempora, o mores! [Lat.] [Cicero]

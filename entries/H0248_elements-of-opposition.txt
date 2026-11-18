@@ -1,0 +1,29 @@
+# 248 Elements of Opposition
+# Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements
+G: Elemente des Gegensatzes
+Gloss: The two contrasting elements: fire, which is restless and consuming, and water, which is neutral and passive.
+
+N:
+  elements of opposition; fire and water, the active elements, the opposed elements; antagonism of the elements, strife of elements; hot and cold, dry and wet
+  the elements of contrast, the consuming and the neutral, rigidity and neutrality
+
+V:
+  oppose, contend, quench, kindle
+  contrast, consume, neutralize
+
+Adj:
+  opposed, contrary, antagonistic, elemental
+  opposing, adverse
+  opposite, counter, antithetical, contrasted
+  counteracting, conflicting, contrary &c H0092
+  contrasting, active
+
+Adv:
+  like fire and water, at odds
+  in opposition, antithetically
+
+F:
+  Chinese: yin and yang
+
+Phr:
+  oil and water do not mix

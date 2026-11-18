@@ -1,0 +1,32 @@
+# 217 Mathematical Mechanics (Space and Time)
+# Nature › 1. Mechanics
+G: Mathematische Mechanik
+Gloss: The study of space and time as the bare framework of outwardness.
+
+N:
+  mathematical mechanics; space and time, spacetime, space-time; geometry and chronometry; forms of intuition; the frame of the world, framework of nature; dimension, extension, duration
+  time, period, space, span
+  abstract mechanics, the mathematics of space and time, space time and motion, geometry, the framework of externality, phoronomy
+
+V:
+  extend, endure, last, measure, coordinate
+  continue
+  succeed, abstract
+
+Adj:
+  spatial, temporal, spatiotemporal, dimensional, geometric, chronometric
+  mathematical, geometrical
+
+Adv:
+  in space and time, here and now, then and there
+  mathematically, abstractly
+
+F:
+  German: Raum und Zeit, Anschauungsformen [Kant]
+  Arabic: makān wa-zamān [space and time]
+  Sanskrit: deśa and kāla [place and time]
+  Chinese: shikong [space-time]
+  Japanese: jikū
+
+Phr:
+  henceforth space by itself, and time by itself, are doomed to fade away into mere shadows [Minkowski]

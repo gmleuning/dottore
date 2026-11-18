@@ -1,0 +1,33 @@
+# 386 The Senses
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation
+G: Die Sinne
+Gloss: The faculties by which the soul receives sensation.
+
+N:
+  the senses; five senses, sense organs, faculties, sensorium, sight, hearing, smell, taste, touch; sixth sense
+  sensory faculties, the totality of the senses
+
+V:
+  see, hear, smell, taste, touch, feel, perceive
+  handle
+  sense, receive
+
+Adj:
+  sensory, sensuous, sensual, perceptual, sense-based
+  sensible, sensitive, aesthetic, perceptive, conscious &c H0579
+  sentient, sensorial
+
+Adv:
+  through the senses, by the senses
+  sensorily
+
+F:
+  Latin: sensus
+  Greek: aisthēseis
+  Arabic: ḥawāss [senses]
+  Sanskrit: indriya [sense faculties], pañcendriya [five senses]
+  Chinese: wuguan [five senses]
+  Japanese: gokan
+
+Phr:
+  come to one's senses

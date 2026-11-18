@@ -1,0 +1,35 @@
+# 337 Pulmonary and Hepatic System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › ii. Blood System
+G: Lungen- und Lebersystem
+Gloss: The lungs and liver, organs that refine and process the blood.
+
+N:
+  pulmonary and hepatic system; lungs, liver, respiration, bile, gall, spleen, humours, lights†
+  the pulmonary organs, the hepatic organs
+  lung, bellows [Slang], windpipe, trachea, bronchus, bronchi, bronchial tubes, bronchioles, alveoli, air sacs, pleura, diaphragm, larynx, voice box, Adam's apple, epiglottis, pharynx
+  gall bladder, black bile, yellow bile, choler, phlegm, pancreas, kidneys, adrenal glands, pluck, offal, liver and lights, giblets, chitterlings, sweetbreads, haslet, foie gras
+  asthma, consumption, phthisis†, tuberculosis, pneumonia, emphysema, bronchitis, jaundice, hepatitis, cirrhosis, gallstones, smoker's cough
+
+V:
+  breathe, respire, filter, purify, secrete
+  oxygenate, secrete bile, refine
+  breathe in, breathe out, wheeze, cough, hack, cough up, hawk, gasp
+
+Adj:
+  pulmonary, pulmonic, hepatic, respiratory, biliary, splenetic
+  bronchial, pleural, laryngeal, tracheal, alveolar, bilious, jaundiced, liverish, lily-livered, choleric, splenic, wheezy, short of breath, out of breath, winded, puffed [Brit. Coll.]
+
+Adv:
+  by the lungs, by the liver
+  by lung and liver
+
+F:
+  Arabic: riʾa [lung], kabid [liver]
+  Sanskrit: phupphusa [lung], yakṛt [liver]
+  Chinese: fei [lung], gan [liver]
+
+Phr:
+  the breath of life
+  vent one's spleen
+  at the top of one's lungs
+  to have the gall

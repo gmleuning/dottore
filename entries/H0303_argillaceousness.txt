@@ -1,0 +1,29 @@
+# 303 Argillaceousness
+# Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy) › a. Primitive Rocks
+G: Tonartigkeit
+Gloss: The character of rocks rich in clay.
+
+N:
+  argillaceousness; clay, argil, loam, marl, shale, slate, mudstone, kaolin, china clay, terra cotta, potter's clay
+  alumina
+  mica-slate, the clay series
+
+V:
+  mould, model, throw, fire
+  slake, weather to clay
+
+Adj:
+  argillaceous, clayey, loamy, marly, shaly, slaty, plastic, earthy
+
+Adv:
+  like clay
+  in clay
+
+F:
+  Arabic: ṭīn [clay]
+  Sanskrit: mṛttikā [clay, earth]
+  Chinese: niantu [clay]
+  Japanese: nendo
+
+Phr:
+  we are the clay, and thou our potter [Bible]

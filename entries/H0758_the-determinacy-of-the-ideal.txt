@@ -1,0 +1,27 @@
+# 758 The Determinacy of the Ideal
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal
+G: Die Bestimmtheit des Ideals
+Gloss: The ideal given definite content, in particular figures, characters and actions.
+
+N:
+  the determinacy of the ideal; particularization, specification, the ideal made definite, concreteness
+  description, character
+  determinateness, definiteness, individuation, the determinate ideal, differentiation
+
+V:
+  specify, particularize, concretize
+  individualize, realize, specialize, designate, determine
+  define
+
+Adj:
+  determinate, particular, concrete, definite
+  special, individual, specific, especial
+  clear, unequivocal, categorical, decided
+  exact, precise, well-defined
+
+Adv:
+  concretely
+  determinately, definitely, in particular
+
+Phr:
+  the ideal in particular form

@@ -1,0 +1,38 @@
+# 618 Taking Possession
+# Spirit › 2. Objective Spirit › I. Abstract Right › α. Property
+G: Besitznahme
+Gloss: The act of making a thing one's own; appropriation.
+
+N:
+  taking possession; appropriation, seizure, occupation, occupancy, acquisition, first occupancy, homesteading, enclosure, grasping, marking, forming, staking a claim
+  taking, reception &c H0228, deglutition &c H0347, prehension, prensation†, capture, caption, apprehension, deprehension†, abreption†, expropriation, abduction, ablation, subtraction, withdrawal &c H0050, abstraction, ademption†, adrolepsy†
+  gaining, obtainment, procuration†, procurement, purchase, descent, inheritance, gift &c H0626
+  possession, seizin [Law], seisin [Law], ownership &c H0617, holding, tenure, tenancy, feodality†, dependency, villenage, villeinage†, socage†, chivalry, knight service
+  receiving, suscipiency†, acceptance, admission
+  retention, detention, custody, firm hold
+
+V:
+  take possession, seize, occupy, appropriate, grasp, mark, stake out, lay claim, enclose, homestead
+  get hold of, get between one's finger and thumb, get into one's hand, get at, come into possession, enter into possession
+  expropriate, impropriate†, assume, possess oneself of, take possession of, commandeer, lay one's hands on, clap one's hands on, help oneself to, make free with, dip one's hands into, lay under contribution, intercept, scramble for, deprive of
+  possess, have, hold, enjoy, be possessed of, have in hand, own &c H0617, command
+  retain, keep, hold fast one's own, clutch
+  take
+
+Adj:
+  appropriative, possessive, occupied, claimed, staked
+  prehensile
+  possessory
+
+Adv:
+  by occupation, first come first served
+  by seizure
+
+F:
+  German: Besitznahme
+  Latin: occupatio, res nullius [ownerless thing]
+  Arabic: ḥiyāza [taking possession], iḥyāʾ al-mawāt [reviving dead land]
+
+Phr:
+  finders keepers
+  qui prior est tempore, potior est iure [Lat.] [first in time, stronger in right]

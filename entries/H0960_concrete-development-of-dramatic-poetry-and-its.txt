@@ -1,0 +1,29 @@
+# 960 Concrete Development of Dramatic Poetry and Its Genres
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › iii. Genres of Dramatic Poetry
+G: Die konkrete Entwicklung der dramatischen Poesie und ihrer Arten
+Gloss: The actual course of dramatic poetry and its kinds.
+
+N:
+  concrete development of dramatic poetry and its genres; history of drama, Greek theatre, Roman theatre, Sanskrit drama, Spanish Golden Age, Shakespeare, Calderón, Racine, Schiller, Goethe, the end of art
+  the historical development of drama, the actual course of drama, the stages of dramatic art, the rise of drama, Oriental beginnings, Indian drama, Kālidāsa, Śakuntalā, Chinese drama, Attic tragedy, Aeschylus, Sophocles, Euripides, Attic comedy, Aristophanes, the New Comedy, Menander, Plautus, Terence, Seneca, the mystery plays, the miracle plays, the moralities, the Elizabethan stage, the Spanish comedia, Lope de Vega, French classical tragedy, Corneille, Molière, Voltaire, German drama, Lessing, Kotzebue, Iffland, the modern stage, ancient drama, modern drama, romantic drama, the dissolution of comedy, the dissolution of art in humour, the stages, the periods, the national theatres
+
+V:
+  develop, culminate
+  arise, originate, unfold, evolve, progress, advance, mature, flourish, flower, decline, dissolve, pass over, run its course, take shape, differentiate, come to an end
+
+Adj:
+  historical, culminating
+  developmental, concrete, actual, progressive, evolutionary, successive, chronological, ancient, classical, modern, romantic, Attic, Elizabethan, Shakespearean, Sophoclean, Aristophanic, final, dissolving
+
+Adv:
+  historically
+  in history, in actual history, concretely, progressively, by stages, successively, in the course of time, from ancients to moderns, in its actual development, at last
+
+F:
+  German: konkrete Entwicklung, die dramatische Poesie, Auflösung der Kunst
+  French: tragédie classique
+  Spanish: Siglo de Oro, comedia, auto sacramental
+  Sanskrit: nāṭaka, Nāṭyaśāstra
+
+Phr:
+  art has said its last word

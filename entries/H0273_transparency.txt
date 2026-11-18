@@ -1,0 +1,42 @@
+# 273 Transparency
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light
+G: Durchsichtigkeit
+Gloss: The capacity of a body to let light pass through it; clearness.
+
+N:
+  transparency, perspicuity, pellucidity, diaphaneity, translucence, translucency, clearness, clarity, limpidity, lucidity, glassiness, crystallinity, see-through; the diaphanous
+  transparence, fluorescence, transillumination, translumination†
+  semitransparency, semiopacity, opalescence, milkiness, pearliness†, gauze, muslin, film, mica, mother-of-pearl, nacre, mist &c H0252
+  transparent medium, glass, crystal, lymph, vitrite†, water
+  opacity, opaqueness
+  film, cloud &c H0252
+  turbidity, cloudiness, fog, haze, muddiness, haziness, obscurity
+  nephelometer
+
+V:
+  show through, let through, transmit, clear, clarify
+  be transparent, transmit light
+  purify, refine, filter
+  be opaque, obstruct the passage of light, obfuscate, offuscate†
+
+Adj:
+  transparent, see-through, clear, pellucid, limpid, crystal-clear, translucent, diaphanous, sheer, glassy, vitreous, lucid, perspicuous
+  tralucent†, relucent†, serene, crystalline, clear as crystal, transpicuous†, hyaline, hyaloid [Med.], vitreform†
+  semitransparent, semipellucid†, semidiaphanous†, semiopacous†, semiopaque, opalescent, opaline†, pearly, milky, frosted, nacreous
+  opaque, impervious to light, adiaphanous†, dim &c H0241, opacous†, cloud, muggy†
+  smoky, fumid†, murky, dirty
+  turbid, thick, muddy, obfuscated, fuliginous†, hazy, misty, foggy, vaporous, nubiferous†, cloudy &c H0252
+  blurred, blurry, whitish
+
+Adv:
+  transparently, clearly, crystal-clear
+
+F:
+  Greek: to diaphanes
+  Arabic: shaffāfiyya [transparency]
+  Sanskrit: svaccha [clear]
+  Chinese: touming [transparent]
+  Japanese: tōmei
+
+Phr:
+  clear as glass

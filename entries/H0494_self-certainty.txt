@@ -1,0 +1,26 @@
+# 494 Self-Certainty
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad] › i. Reason's Certainty of Being All Reality › 2. Substantial Knowledge (Objective Reason)
+G: Selbstgewissheit
+Gloss: The mind's assurance of itself as knower.
+
+N:
+  self-certainty; self-assurance, self-confidence, assurance, sureness of self, aplomb, poise, self-possession, conviction of oneself
+  certainty of self, the I am I, the cogito, self-evidence of the knower
+
+V:
+  be sure of oneself, trust oneself
+  be certain of oneself, assure oneself, know oneself
+
+Adj:
+  self-assured, self-confident, self-certain, assured, poised, self-possessed
+  self-evident
+
+Adv:
+  self-assuredly, confidently
+  self-certainly, with self-assurance
+
+F:
+  German: Selbstgewißheit
+
+Phr:
+  trust thyself [Emerson]

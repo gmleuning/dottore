@@ -1,0 +1,24 @@
+# 1015 The Socratic Schools
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › b. Greek Philosophy › i. From Thales to Aristotle › 2. Socratism
+G: Die sokratischen Schulen
+Gloss: The schools that each took up one side of Socrates' teaching.
+
+N:
+  the Socratic schools; Megarians, Cyrenaics, Cynics, the minor Socratics
+  the Socratics, the lesser Socratics, the imperfect Socratics, the one-sided Socratics, the Megaric school, the Cyrenaic school, the Cynic school, the Elian-Eretrian school, Phaedo of Elis, Menedemus, disciples of Socrates, followers of Socrates, the Socratic circle, the Socratic succession, sect, school, offshoot, one-sidedness, partial Socratism
+
+V:
+  follow, diverge
+  take up, develop one-sidedly, branch off, split, part ways, found a school, inherit, appropriate, adhere
+
+Adj:
+  Socratic, sectarian
+  post-Socratic, one-sided, partial, minor, lesser, derivative, epigonal, divergent, schismatic
+
+Adv:
+  after Socrates
+  one-sidedly, partially, severally, divergently, in the wake of Socrates, each in its own way
+  unilaterally
+
+Phr:
+  the children of Socrates

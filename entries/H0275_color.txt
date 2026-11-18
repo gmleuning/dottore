@@ -1,0 +1,68 @@
+# 275 Color
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light
+G: Farbe
+Gloss: Light dimmed by darkness; light and shade mixed through a cloudy or opaque medium; hue.
+
+N:
+  colour, color; hue, tint, tinge, shade, tone, cast, coloration, colouring, complexion, pigment, dye, stain, wash, saturation, chroma, brightness, value, spectrum, rainbow, iris; light and darkness, the turbid medium; Goethe's theory of colours
+  tincture, livery, glow, flush, key
+  coloring matter, distemper, medium, mordant, oil paint &c H0886
+  tulip, peacock, chameleon, butterfly, tortoise shell, mackerel, mackerel sky, zebra, leopard, cheetah, nacre, ocelot, ophite†, mother-of-pearl, opal, marble
+  blackness, darkness, swartliness†, lividity, dark color, chiaroscuro, nigrification†, infuscation†
+  local color, coloring, keeping, aerial perspective
+  brown, bister ocher, sepia, Vandyke brown
+  purple, blue and red, bishop's purple, aniline dyes, gridelin†, amethyst, purpure [Heral.], heliotrope
+  lividness
+  blue, garter-blue, watchet†
+  ultramarine, smalt, cobalt, cyanogen [Chem], Prussian blue, syenite blue†, bice†, indigo, zaffer†
+  lapis lazuli, sapphire, turquoise, indicolite†
+  blueness, bluishness, bloom
+  orange, red and yellow, gold, or, flame color, ocher, Mars'orange†, cadmium
+  cardinal bird, cardinal flower, cardinal grosbeak, cardinal lobelia (a flowering plant)
+  the dimming of light
+  yellow, blonde, amber, coral, scarlet, crimson
+  complementary, aqua, beige, teal, drab, whiteness, carmine, vermilion, sanguine, cyan
+  spectral colour, spectral color, chromatic colour, chromatic color, complementary color, old gold, blue green, sea green, deep red, dark red, dark blue, light brown, deep brown, royal blue, iron blue, steel blue, yellow green, orange yellow, orange red, navy blue, bottle green, coal black, steel grey, silver grey, iron-grey, steel gray, silver gray, iron-gray, pitch black, oxford grey, oxford gray, royal purple, jet black, cherry red, ash grey, ash gray, lemon yellow, olive-green, olive green, olive brown, pale yellow, salmon pink, chrome red, chrome green, sage green, jade green, charcoal grey, charcoal gray, pea green, caramel brown, peacock blue, canary yellow, reddish purple, reddish orange, reddish brown, reddish blue, cobalt blue, yellowish pink
+  burgundy
+
+V:
+  colour, tint, tinge, dye, stain, paint, wash, shade, tone, hue, pigment, saturate, bleach, fade
+  tinct†, ingrain, grain, illuminate, emblazon, bedizen, imbue, paint &c H0886
+  lose color, fly, go, become colorless, turn pale
+  deprive of color, decolorize, tarnish, achromatize, blanch, wash out, tone down
+  stipple, hatch
+  render brown, tan, embrown†, bronze
+  empurple†
+  gild, warm
+  dim
+
+Adj:
+  coloured, chromatic, polychromatic, multicoloured, colourful, vivid, bright, rich, deep, pale, pastel, muted, faded, achromatic
+  intense, fresh, unfaded†, gorgeous, gay
+  colored, colorific†, tingent†, tinctorial†, prismatic, full-colored, high-colored, deep-colored, doubly-dyed, chromatogenous†, tingible†
+  uncolored, colorless, aplanatic†, etiolate, etiolated, hueless†, pallid, palefaced†, tallow-faced, faint, dull, cold, muddy, leaden, dun, wan, sallow, dead, dingy, ashy, ashen, ghastly, cadaverous, glassy, lackluster, discolored
+  light-colored, fair, blond, white
+  bay, dapple, auburn, castaneous†, chestnut, nut-brown, cinnamon, russet, tawny, fuscous†, chocolate, maroon, foxy, brunette, whitey brown†, fawn-colored, snuff-colored, liver-colored, brown as a berry, brown as mahogany, brown as the oak leaves, khaki
+  sun-burnt, tanned
+  Primitive Colors
+  violet, ultraviolet, plum-colored, lavender, lilac, puce, mauve, livid
+  azure, cerulean, sky-blue, sky-colored, sky-dyed, cerulescent†, powder blue, bluish, atmospheric, retiring
+  ochreous†, orange-colored, gold-colored, flame-colored, copper-colored, brass-colored, apricot-colored, hot, glowing
+  tinted
+  reddish, bleached
+
+Adv:
+  in colour, colourfully, in technicolour
+
+F:
+  German: das Trübe, Farbenlehre, Farbe
+  Latin: color
+  Greek: chrōma
+  Arabic: lawn [colour]
+  Sanskrit: varṇa [colour, class], rāga [colour, passion]
+  Chinese: se [colour, form]
+  Japanese: iro
+
+Phr:
+  colours are the deeds and sufferings of light [Goethe]
+  all theory is grey [Goethe]

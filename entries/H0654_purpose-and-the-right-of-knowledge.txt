@@ -1,0 +1,29 @@
+# 654 Purpose and the Right of Knowledge
+# Spirit › 2. Objective Spirit › II. Morality › α. Purpose and Responsibility
+G: Vorsatz und das Recht des Wissens
+Gloss: The right of the agent to be answerable only for what they knew and meant.
+
+N:
+  purpose and the right of knowledge; knowing intent, foreseeability, the right to be held to account only for what one knew, the Oedipus problem, ignorance as excuse
+  the right of knowledge, imputability, the known, the foreseen, the deed as intended, Oedipus
+
+V:
+  foresee, know, intend
+  purpose, design, mean, have to, propose to oneself, harbor a design, have in view, have in contemplation, have in one's eye, have in petto, have an eye to
+  answer for
+
+Adj:
+  knowing, foreseeable, intentional, wilful
+  intended, advised, prepense &c H0652 [Obs.], minded
+  witting, foreseen
+
+Adv:
+  knowingly, wittingly, with full knowledge
+  intentionally, advisedly, designedly, purposely, on purpose, by design, studiously, pointedly, with intent, deliberately &c H0652, with one's eyes open, in cold blood
+  with foreknowledge
+
+F:
+  Latin: mens rea [guilty mind], scienter
+
+Phr:
+  actus non facit reum nisi mens sit rea [Lat.] [the act is not guilty unless the mind is guilty]

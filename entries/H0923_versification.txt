@@ -1,0 +1,33 @@
+# 923 Versification
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression
+G: Versifikation
+Gloss: The making of verse.
+
+N:
+  versification; prosody, metre, metrics, scansion, verse, measure, foot, line, stanza, strophe
+  canto, distich, couplet, triplet, quatrain, antistrophe†
+  rhyme, assonance, meter, numbers, rhythm, accentuation &c H0595, dactyl, spondee, trochee, anapest, hexameter, pentameter
+  rhyming, making verses, orthometry†
+  verse-making, versifying, verse-craft, poetic form, rhythmics, cadence, caesura, enjambment, tercet, sestet, octave, refrain, envoi
+
+V:
+  versify, scan, measure, metrify
+  poetize, make verses
+  compose, turn a verse, rhythmize, indite
+
+Adj:
+  metrical, prosodic, versified, scanned
+  rhythmic, rhythmical, measured, stanzaic, strophic, rhymed
+
+Adv:
+  metrically, in verse
+  in metre, in measure, rhythmically, in numbers
+
+F:
+  Arabic: ʿarūḍ [prosody], baḥr [metre]
+  Sanskrit: chandas [metre]
+  Chinese: gelü [prosodic rules]
+  Japanese: inritsu
+
+Phr:
+  verse is a measured speech

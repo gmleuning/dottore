@@ -1,0 +1,26 @@
+# 1039 Descartes
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy › i. Rationalism
+G: Descartes
+Gloss: The thinker who began philosophy anew from the doubting, thinking self, making the certainty of one's own thought the foundation of all knowledge and dividing reality into mind and extended matter.
+
+N:
+  Descartes; mechanism, interactionism, Cartesianism, methodic doubt, Cartesian doubt, Cartesian theatre, Cartesian Circle, the cogito, mind-body dualism, clear and distinct ideas, the evil demon, the pineal gland, vortices, subtle matter, provisional morality, generosity, intuition, deduction, simple natures, wonder, desire, love, hatred, joy, sadness, animal spirits, beast-machine, laws of nature, metaphysics of subjectivity [retrospective, Heidegger]
+
+V:
+  doubt, found, divide mind and body, intuit, deduce
+
+Adj:
+  Cartesian, dualist, foundationalist, mechanistic, interactionist
+
+Adv:
+  Cartesianly, dualisticly, mechanistically
+
+F:
+  Latin: Cartesius, res cogitans and res extensa, intuitus, deductio, naturae simplices, admiratio, leges naturae
+  French: tourbillon (vortex), matière subtile (subtle matter), morale par provision (provisional morality), générosité (generosity), esprits animaux (animal spirits), bête-machine (beast-machine), arbre de la philosophie (tree of philosophy)
+
+Phr:
+  cogito, ergo sum [Lat.]
+  je pense, donc je suis [Fr.]
+  inutile et incertain [Pascal, Fr.]
+  the tree of philosophy — metaphysics the roots, physics the trunk, ethics the branches [Descartes, Fr. arbre de la philosophie]

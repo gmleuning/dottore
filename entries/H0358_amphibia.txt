@@ -1,0 +1,32 @@
+# 358 Amphibia
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata [Tetrad]
+G: Amphibien
+Gloss: Cold-blooded backboned animals living both in water and on land.
+
+N:
+  amphibia; amphibians, frogs, toads, newts, salamanders, axolotls, caecilians; tadpole, spawn, metamorphosis; reptiles [in the older broad sense]
+  batrachians, serpents, the intermediate class
+  frog, dinosaur, lizard
+  cobra, crocodile, serpent, toad, ridley, viper, tortoise, reptile, newt, gator, cayman, asp, anaconda, gecko, rattlesnake, salamander, agua, iguana, mamba
+  toad frog, mud puppy, true frog, tree-frog, tree frog, sheep frog, congo snake, barking frog, robber frog, tailed frog, true toad, tree toad, tailed toad, bell toad, midwife toad, congo eel, blind eel, ribbed toad, worm salamander, web-toed salamander, spotted salamander, slender salamander, olympic salamander, giant salamander, fire salamander, dusky salamander, climbing salamander, alpine salamander, fire-bellied toad, sea snake, blind snake, wood-frog, wood frog, spring frog, green frog, grass frog, cricket frog, chorus frog, worm snake, leopard frog, western toad, southwestern toad, flying reptile, common newt, goliath frog, chameleon tree frog, cascades frog, tiger salamander, mole salamander, limestone salamander, agua toad, western blind snake, water snake, tiger snake, sand snake, ring snake, night snake, king snake, ground snake, green snake
+  diamondback
+
+V:
+  croak, metamorphose, spawn
+  creep, crawl, live in two elements
+
+Adj:
+  amphibian, amphibious, batrachian, anuran, cold-blooded
+  reptilian
+
+Adv:
+  amphibiously
+  in water and on land
+
+F:
+  Latin: amphibia [double-lived]
+  Arabic: barmāʾiyyāt [amphibians]
+  Chinese: liangqi [two-lived, amphibian]
+
+Phr:
+  the frog in the well [Zhuangzi]

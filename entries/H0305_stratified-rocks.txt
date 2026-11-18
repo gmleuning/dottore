@@ -1,0 +1,30 @@
+# 305 Stratified (Flötz) Rocks
+# Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy)
+G: Flözgebirge
+Gloss: Rocks laid down in layers, often bearing fossils.
+
+N:
+  stratified rocks; strata, stratum, layer, bed, seam, lode, flötz†, sedimentary rock, sediment, deposit, fossil-bearing rock, coal measures, limestone beds, sandstone beds; stratification, bedding, lamination; fossils, petrifactions
+  substratum, course, zone, tier, slab, flagstone, escarpment
+  sedimentary rocks, secondary formations, the Flötz formations, beds, layers
+
+V:
+  stratify, deposit, layer, laminate, sediment, fossilize, petrify
+  precipitate, consolidate
+
+Adj:
+  stratified, sedimentary, layered, laminated, bedded, fossiliferous, secondary
+  lamellar, laminiferous†, schistose, stratiform, foliated, micaceous†, flaky
+
+Adv:
+  layer upon layer, in strata
+  in layers
+
+F:
+  German: Flözgebirge
+  Arabic: ṭabaqāt [layers]
+  Chinese: diceng [strata]
+  Japanese: chisō
+
+Phr:
+  the record of the rocks

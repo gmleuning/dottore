@@ -1,0 +1,41 @@
+# 579 Theoretical Mind
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology)
+G: Theoretischer Geist
+Gloss: The mind as knowing; the stages of intuition, representation and thinking by which it makes what is given its own.
+
+N:
+  theoretical mind; intelligence, cognition, the cognitive faculty, the knowing mind, theoretical reason, contemplation, speculative intellect
+  intellect, mind, understanding, reason, thinking principle, rationality, cogitative faculties, cognitive faculties, discursive faculties, reasoning faculties, intellectual faculties, faculties, senses, consciousness, observation, percipience, intellection, association of ideas, instinct, conception, judgment, wits, intellectuality, brains, cognitive powers, intellectual powers, ability &c H0430, wisdom
+  capacity, comprehension, cuteness, sabe [U.S.], savvy [U.S.], parts, sagacity, mother wit, wit, esprit, gumption, quick parts, grasp of intellect, acuteness, acumen, subtlety, penetration, perspicacy†, perspicacity, discernment, due sense of, good judgment, discrimination &c H0602, cunning &c H0643, refinementhead, headpiece, upper story, long head, eagle eye, eagle- glance, eye of a lynx, eye of a hawk
+  knowledge, cognizance, cognoscence†, acquaintance, experience, ken [Scot.], privity†, insight, familiarity, apprehension, recognition, appreciation &c H0602, intuition, conscience, perception, precognition, acroamatics†
+  sage, wise man, genius, master mind, master spirit of the age, longhead†, thinker, longhair
+  theoretical spirit
+
+V:
+  know, cognize, contemplate, theorize, apprehend, take in
+  conceive, comprehend, take, realize, understand, appreciate, fathom, make out, recognize, discern, perceive, see, get a sight-of
+  appropriate
+
+Adj:
+  theoretical, cognitive, intellectual, contemplative, speculative, intelligent
+  thoughtful, meditative, reflective, philosophical
+  knowing, acroamatic†
+  quick of apprehension, keen, acute, alive, brainy, awake, bright, quick, sharp, quick witted, keen witted, clear witted, sharp-eyed, sharp sighted, sharp witted, wide- awake, canny, shrewd, astute, clear-headed, farsighted, discerning, perspicacious, penetrating, piercing, argute†, quick-witted, nimble-witted, needle-witted, sharp as a needle, sharp as a tack, alive to, clever &c H0430, arch &c H0643, acute &c H0375
+  mental, rational, subjective, metaphysical, nooscopic†, spiritual, ghostly, psychical†, psychological, cerebral, animastic†, hyperphysical†, superphysical†, subconscious, subliminal
+  intellective
+  calculating, scheming
+
+Adv:
+  theoretically, cognitively, in theory
+
+F:
+  German: Intelligenz, Vernunft, Verstand
+  Latin: intellectus
+  Greek: theōria
+  French: nous, pas si bete
+  Arabic: al-ʿaql al-naẓarī [theoretical intellect]
+  Sanskrit: jñāna-śakti [power of knowing]
+  Chinese: lilun xing [theoretical]
+
+Phr:
+  the life of the mind

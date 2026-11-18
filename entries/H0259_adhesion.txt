@@ -1,0 +1,42 @@
+# 259 Adhesion
+# Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad] › β. Cohesion
+G: Adhäsion
+Gloss: The sticking of one body to the surface of another.
+
+N:
+  adhesion; adherence, sticking, clinging, attachment, bonding, agglutination, gluing, cementing, stickiness, tackiness, viscosity, glueyness; capillarity, wetting; glue, paste, cement, adhesive, gum, mucilage
+  size, wafer, solder, putty, birdlime, mortar, stucco, plaster, grout, viscum†
+  coherence, adhesiveness, concretion accretion, conglutination, agglomeration, aggregation, consolidation, set, cementation, soldering, connection, dependence
+  tenacity, toughness, strength, grip, grasp, sequacity†, stubbornness, glutinousness†, sequaciousness†
+  semiliquidity, viscidity, gummosity†, glutinosity†, mucosity†, spissitude†, crassitude†, lentor†, adhesiveness &c H0258
+  jelly, gelatin, gluten, carlock†, fish glue, ichthyocol†, ichthycolla†, isinglass, mucus, phlegm, goo, pituite†, lava, glair†, starch, albumen, milk, cream, protein†, treacle, glue &c H0260, wax, beeswax
+  junction, joining, joinder [Law], union connection, conjunction, conjugation, annexion†, annexation, annexment†, astriction†, compagination†, vincture†, ligation, alligation†, accouplement†, infibulation†, inosculation†, symphysis [Anat.], anastomosis, confluence, communication, concatenation, meeting, reunion, assemblage &c H0036
+  nonadhesion†, immiscibility, incoherence, looseness, laxity, relaxation, loosening, freedom, disjunction &c H0293, rope of sand
+  clamp, fluttering
+
+V:
+  adhere, stick, cling, cleave, attach, bond, glue, gum, paste, cement, agglutinate
+  conglutinate†, lute, weld, cake, consolidate &c H0257, agglomerate
+  cohere, hold, take hold of, hold fast, close with, clasp, hug, grow together, hang together, twine round
+  fix, affix, saddle on, fasten, bind, secure, clinch, twist, make fast, tie, pinion, string, strap, sew, lace, tat, stitch, tack, knit, button, buckle, hitch, lash, truss, bandage, braid, splice, swathe, gird, tether, moor, picket, harness, chain, fetter &c H0645, lock, latch, belay, brace, hook, grapple, leash, couple, accouple†, link, yoke, bracket, marry &c H0673, bridge over, span
+  make loose, loosen, slacken, relax, unglue &c H0258, detach &c H0293
+  tighten
+
+Adj:
+  adhesive, adherent, sticky, tacky, gluey, gummy, viscous, viscid, clinging, tenacious
+  gelatinous, albuminous, mucilaginous, glutinous, glutenous, mastic, amylaceous†, ropy, clammy, clotted, gooey, slab, slabby†, lentous†, pituitous†, mucid†, muculent†, mucous
+  cohesive, adhering, cohering, tough
+  nonadhesive, immiscible, incoherent, detached, loose, baggy, slack, lax, relaxed, flapping, streaming, disheveled, segregated, like grains of sand unconsolidated &c H0220, uncombined &c H0288, noncohesive†
+  clogged
+
+Adv:
+  adhesively, fast, firmly
+  jointly, in conjunction with &c H0050, intimately
+
+F:
+  Latin: adhaesio
+  Arabic: iltiṣāq [adhesion]
+  Chinese: nianfu [adhesion]
+
+Phr:
+  to cleave unto [Bible]

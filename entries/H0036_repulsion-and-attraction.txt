@@ -1,0 +1,39 @@
+# 36 Repulsion and Attraction
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self
+G: Repulsion und Attraktion
+Gloss: The two relations among many units: pushing apart, which keeps them separate, and drawing together, which unites them.
+
+N:
+  repulsion and attraction; push and pull, push-pull, centrifugal and centripetal force, expansion and contraction, systole and diastole; love and strife; concord and discord, harmony and strife; polarity, tension, equilibrium, balance; affinity and aversion, sympathy and antipathy
+  repulsion, driving from, repulse, abduction
+  magnetic repulsion, magnetic levitation, antigravity
+  assemblage, collection, concourse, convergence &c H0228
+  attraction, pushing apart, drawing together
+
+V:
+  repel and attract, push and pull, drive away and draw together, expand and contract; balance, counterbalance, counterpoise, equilibrate
+  repel, push from, drive apart, drive from &c H0232, chase, dispel, retrude†, abduce†, abduct, send away
+  keep at arm's length, turn one's back upon, give the cold shoulder, send off, send away with a flea in one's ear
+  assemble, bring together, draw together, collect, gather
+  attract, push apart
+
+Adj:
+  attractive and repulsive, centripetal and centrifugal, polar, bipolar, dynamic, tensile, magnetic
+  repelling, repellent, repulsive, abducent†, abductive†
+  attractive
+
+Adv:
+  to and fro, back and forth, in and out; in tension, in balance
+  apart, together
+
+F:
+  German: Attraktion
+  Greek: philotēs kai neikos [Empedocles]
+  Arabic: jadhb wa-dafʿ [attraction and repulsion]
+  Sanskrit: rāga and dveṣa [attraction and aversion]
+  Chinese: yin and yang
+
+Phr:
+  love and strife [Empedocles]
+  opposites attract
+  birds of a feather flock together

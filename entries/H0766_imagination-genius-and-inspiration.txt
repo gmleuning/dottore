@@ -1,0 +1,44 @@
+# 766 Imagination, Genius, and Inspiration
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist
+G: Phantasie, Genie und Begeisterung
+Gloss: The artist's creative power, natural gift and inspired mood.
+
+N:
+  imagination, genius, and inspiration; genius, talent, gift, flair, brilliance; inspiration, divine afflatus, enthusiasm, the Muse, creative fire
+  fire of genius, heaven-born genius, soul, talent &c H0430
+  ability, ingenuity, faculty, endowment, forte
+  originality, invention, verve
+  idealist, romanticist, romancer, dreamer, somnambulist, rhapsodist &c H0417, fanciful projector
+  aspiration
+  phantasy, creative power, the divine spark
+
+V:
+  inspire, imagine, invent, create, conceive, be inspired
+  fancy, idealize, realize, dream, dream of, dream up, give to airy nothing a local habitation and a name
+  originate, devise, coin, fabricate, improvise, strike out something new
+  enthuse, kindle
+
+Adj:
+  inspired, ingenious, brilliant, gifted, visionary, imaginative
+  talented, endowed, inventive &c H0589
+  imagining, original, inventive, creative, fertile
+  imaginary, fanciful
+  visionary &c H0589
+  enthused, rapt
+
+Adv:
+  inspiredly, brilliantly
+  imaginatively, by genius, with inspiration, in a rapture
+
+F:
+  German: geist
+  Latin: ingenium, afflatus, furor poeticus
+  Greek: entheos
+  Arabic: ilhām [inspiration], wahb [gift]
+  Sanskrit: pratibhā [genius, flash], preraṇā [inspiration]
+  Chinese: tiancai [genius]
+  Japanese: tensai, reikan [inspiration]
+
+Phr:
+  genius is one per cent inspiration, ninety-nine per cent perspiration [Edison]
+  sing in me, Muse [Homer]

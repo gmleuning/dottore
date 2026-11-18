@@ -1,0 +1,51 @@
+# 220 Line
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › α. Space
+G: Linie
+Gloss: Extension in one dimension; the path of a moving point.
+
+N:
+  line; straight line, curve, stroke, streak, stripe, strip, thread, filament, string, cord, ray, vector, axis, trajectory, path, track, trace, course, route; length, extension in one direction
+  bar, spoke, radius
+  wire, packthread, cotton, sewing silk, twine, twist, whipcord, tape, ribbon, rope, yarn, hemp, oakum, jute
+  hair's breadth, finger's breadth, vein
+  fiber, fibril, funicle†, hair, capillament†, cilium, cilia, pilus, pili, tendril, gossamer, hair stroke, veinlet†, venula†, venule†
+  orbit
+  direction, bearing
+  rank, file, row, range, tier
+  parallelism, coextension†, equidistance†, similarity &c H0091
+  perpendicularity, orthogonality, verticality
+  obliquity, inclination, slope, slant, crookedness, slopeness†, leaning, bevel, tilt, bias, list, swag, cant, lurch, distortion &c H0267, bend &c H0267, tower of Pisa
+  acclivity, rise, ascent, gradient, khudd†, rising ground, hill, bank, declivity, downhill, dip, fall, devexity†, gentle slope, rapid slope, easy ascent, easy descent, shelving beach, talus
+  one-dimensional extension
+  road
+
+V:
+  line, draw, trace, stroke, streak, extend, rule, underline, delineate
+  be perpendicular, be orthogonal, intersect at right angles, be rectangular, be at right angles to, intersect at 90 degrees, have no correlation
+  intersect, lack parallelism
+  emphasise
+
+Adj:
+  linear, lineal, straight, rectilinear, curvilinear, one-dimensional, filiform, threadlike
+  longitudinal, oblong
+  rectilineal†, direct, even, right, true, unbent, virgate†, undeviating, unturned, undistorted, unswerving, straight as an arrow &c H0228, inflexible &c H0260
+  parallel, coextensive, equidistant
+  orthogonal, perpendicular, rectangular, uncorrelated
+
+Adv:
+  linearly, in line, in a line, lengthwise, end to end
+  at length, longitudinally, endlong†, along, tandem, in a line &c H0043, in perspective
+  alongside &c H0218
+
+F:
+  Latin: linea, facilis descensus averni
+  Greek: grammē
+  French: monagne Russe
+  Arabic: khaṭṭ [line]
+  Sanskrit: rekhā [line]
+  Chinese: xian [line]
+  Japanese: sen
+
+Phr:
+  a line is breadthless length [Euclid]
+  the shortest distance between two points

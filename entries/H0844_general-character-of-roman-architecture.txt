@@ -1,0 +1,26 @@
+# 844 General Character of Roman Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 3. Styles of Classical Architecture
+G: Allgemeiner Charakter der römischen Architektur
+Gloss: The general nature of Roman building: grand, practical and civic.
+
+N:
+  general character of Roman architecture; Roman engineering, grandeur, utility, magnificence, amphitheatre, Colosseum, basilica, baths, forum, aqueducts, roads
+  Roman building, Roman grandeur, practicality, engineering, the aqueduct, the triumphal arch, the villa, the road, the Pantheon
+
+V:
+  engineer, aggrandize, span, pave
+  vault, construct
+
+Adj:
+  Roman, magnificent, utilitarian, imperial, monumental
+  grand, grandiose, practical, civic, engineered
+
+Adv:
+  magnificently
+  grandly, practically, on a grand scale, for use
+
+F:
+  Latin: thermae
+
+Phr:
+  all roads lead to Rome

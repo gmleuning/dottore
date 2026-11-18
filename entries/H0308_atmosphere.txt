@@ -1,0 +1,37 @@
+# 308 Atmosphere
+# Nature › 3. Organics › I. Terrestrial Organism › γ. Earth's Life
+G: Atmosphäre
+Gloss: The envelope of air surrounding the earth.
+
+N:
+  atmosphere; air, sky, heavens, firmament, welkin†, ether, aether, troposphere, stratosphere, ionosphere, envelope of air, vault of heaven; ambience, mood, climate, aura
+  air &c H0247, common air, atmospheric air, aerosphere†
+  open air, blue sky, cloud &c H0252
+  weather, rise and fall of the barometer, isobar
+  empyrean, canopy of heaven
+  gas, vapor
+  wind, breath of air, breeze
+  the aerial envelope, the gaseous envelope
+
+V:
+  envelop, surround, enfold
+  breathe
+
+Adj:
+  atmospheric, aerial, airy, ethereal, celestial, ambient
+  meteorological, weatherwise†
+  gaseous, aeriform†, vaporous
+
+Adv:
+  in the air, aloft, overhead
+
+F:
+  Latin: atmosphaera
+  Greek: from atmos [vapour] and sphaira
+  Arabic: ghilāf jawwī [atmospheric envelope], jaww [atmosphere, air]
+  Sanskrit: antarikṣa [atmosphere, mid-air]
+  Chinese: daqi [atmosphere]
+  Japanese: taiki
+
+Phr:
+  this most excellent canopy, the air [Hamlet]

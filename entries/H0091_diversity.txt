@@ -1,0 +1,40 @@
+# 91 Diversity
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › β. Determinations of Reflection › b. Difference
+G: Verschiedenheit
+Gloss: Mere variety; things simply unlike one another, compared by an outside observer in respects that do not matter to them.
+
+N:
+  diversity; variety, multiplicity, manifoldness, multifariousness, heterogeneity, plurality, miscellany, assortment, medley, mixture, mishmash, hodgepodge, olio, farrago, gallimaufry, salmagundi; likeness and unlikeness; comparison, collation; mere difference, indifferent difference; external difference; biodiversity, cultural diversity, pluralism, multiculturalism
+  multiformity, omniformity†, varied assortment
+  melange, patchwork, odds and ends
+  dissociation, disconnection &c H0293, unconformity &c H0063
+  difference, unlikeness, dissimilarity
+
+V:
+  vary, diversify, differ, compare, collate, juxtapose, contrast; mix, assort
+  compare to, compare with, confront, place side by side, juxtapose &c H0218, set against one another, pit against one another, balance
+
+Adj:
+  diverse, various, varied, variegated, manifold, multifarious, heterogeneous, assorted, miscellaneous, mixed, motley, sundry, divers†, myriad, eclectic, pluralistic; like and unlike, alike and different; indifferent, unrelated
+  polymorphous, multiform, multifold, multigenerous†, multiplex, diversified, variform†, many-sided, mosaic, desultory, irregular, mingled, odd, of every description, of all sorts and kinds, and what not
+  differing, different, polyglot, distinguishable, dissimilar, modified, all manner of, all kinds of, daedal†
+  composite, motley &c H0275, promiscuous, indiscriminate
+  unlike
+
+Adv:
+  variously, diversely, severally, respectively; in various ways, here and there
+  in all manner of ways, here there and everywhere
+
+F:
+  German: Gleichheit und Ungleichheit, Verschiedenheit
+  Latin: diversitas, et hoc genus omne, de omnibus rebus et quibusdam aliis
+  French: pot-pourri
+  Arabic: tanawwuʿ [diversity]
+  Sanskrit: nānātva [diversity, manifoldness]
+  Chinese: duoyang [diversity]
+
+Phr:
+  variety is the spice of life
+  de gustibus non est disputandum [Lat.]
+  it takes all sorts to make a world
+  no two leaves are alike [Leibniz]

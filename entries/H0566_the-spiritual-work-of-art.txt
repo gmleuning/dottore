@@ -1,0 +1,26 @@
+# 566 The Spiritual Work of Art
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › c. Religion as Spirit's Self-Consciousness › ii. Art-Religion
+G: Das geistige Kunstwerk
+Gloss: The work of art in the medium of language.
+
+N:
+  the spiritual work of art; poetry, language as the element of art, epic, tragedy, comedy, the literary work, poetic art
+  play, drama
+  the spiritual artwork, the linguistic work of art, the art of language, epic tragedy and comedy, the word, the pantheon in speech
+
+V:
+  compose, recite, perform, versify
+  speak, poetize, narrate, enact
+
+Adj:
+  poetic, literary, dramatic, epic, tragic, comic
+  theatrical, scenic, histrionic
+  poetical, lyric, lyrical, dithyrambic, metrical, elegiac
+  spiritual, linguistic, verbal
+
+Adv:
+  in verse, poetically
+  in language, in speech
+
+Phr:
+  the word as the highest material of art

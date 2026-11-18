@@ -1,0 +1,29 @@
+# 709 The Sovereign as Natural Individual
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › a. Constitutional Law › i. Internal Constitution › 1. The Sovereign Power
+G: Der Souverän als natürliches Individuum
+Gloss: The sovereign as a natural individual, determined by birth.
+
+N:
+  the sovereign as natural individual; hereditary monarchy, birthright, succession by birth, primogeniture, dynasty, royal line, blood royal, legitimacy
+  hereditary monarch, the born sovereign, heredity, hereditary succession, natural birth, the natural person of the monarch
+
+V:
+  succeed, inherit, accede, be born to rule
+  descend
+
+Adj:
+  hereditary, dynastic, legitimate, natural
+  born, primogenital, inherited
+
+Adv:
+  by birth, by succession
+  by birthright, by heredity, by descent
+
+F:
+  Arabic: wirātha [hereditary succession]
+  Sanskrit: vaṃśa [lineage, dynasty]
+  Chinese: wangchao [dynasty]
+  Japanese: kōtō [imperial line]
+
+Phr:
+  the king is dead, long live the king! le roi est mort, vive le roi! [Fr.]

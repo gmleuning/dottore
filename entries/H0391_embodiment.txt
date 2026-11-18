@@ -1,0 +1,38 @@
+# 391 Embodiment
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation
+G: Verleiblichung
+Gloss: The expression of feeling in the body, as in blushing, trembling or weeping.
+
+N:
+  embodiment; bodily expression of feeling, somatization, physical symptom, blush, flush, pallor, tears, weeping, laughter, trembling, shudder, shiver, goose flesh, sigh, sob, gasp, cold sweat, lump in the throat; psychosomatics
+  groan, moan
+  suffusion, tingling, thrill, throb, throbbing
+  flutter, trepidation, tremor
+  corporealization, bodily expression, incarnation of feeling, blushing
+
+V:
+  blush, flush, pale, blanch, weep, cry, laugh, tremble, shudder, shiver, sigh, sob, gasp, sweat
+  shake
+  glow, change color, turn pale, tingle, palpitate
+  shed tears, melt into tears
+  quiver, quaver, quake
+  color up, mantle, redden
+  embody, corporealize, express bodily
+
+Adj:
+  bodily, somatic, psychosomatic, visceral, physical, involuntary
+  corporeal
+  embodied
+
+Adv:
+  visibly, involuntarily, despite oneself
+  in the body
+
+F:
+  German: Verleiblichung
+  Arabic: tajassud [embodiment]
+  Chinese: shentihua [somatization]
+
+Phr:
+  the body keeps the score
+  to wear one's heart on one's sleeve

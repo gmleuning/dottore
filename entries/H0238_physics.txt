@@ -1,0 +1,33 @@
+# 238 Physics
+# Nature
+G: Physik
+Gloss: The study of matter in its qualities, as particular kinds of body with their own properties.
+
+N:
+  physics; natural science, natural philosophy, physical science, science of matter, science of qualities; individualized matter, qualitative matter
+  experimental philosophy
+  qualified matter, the doctrine of bodies
+
+V:
+  investigate, experiment, observe, measure
+  qualify, individualize, particularize
+
+Adj:
+  physical, natural, material, qualitative, empirical, experimental
+  experimental &c H0600
+  corporeal
+
+Adv:
+  physically, in nature, experimentally
+
+F:
+  German: Physik
+  Latin: physica, philosophia naturalis
+  Greek: ta physika
+  Arabic: ʿilm al-ṭabīʿa [natural science], ṭabīʿiyyāt
+  Sanskrit: bhautika [physical]
+  Chinese: wuli [physics, lit. principle of things]
+  Japanese: butsuri
+
+Phr:
+  Philosophiae Naturalis Principia Mathematica [Lat.] [Newton]

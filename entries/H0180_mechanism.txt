@@ -1,0 +1,35 @@
+# 180 Mechanism
+# Logic › 3. Doctrine of the Concept › II. Objectivity
+G: Mechanismus
+Gloss: The relation of things that are external to one another and act only by outside force, like the parts of a machine.
+
+N:
+  mechanism; mechanics, machine, apparatus, contraption, device, engine, clockwork, works, gearing, gear train; mechanistic world, world-machine, clockwork universe; externality, indifference, aggregation, juxtaposition, mere assemblage; push and pull, pressure and impact; automatism, automaton; determinism, mechanical determinism, mechanism versus vitalism
+  instrument
+  mechanical relation, external relation, machinery
+  robot
+
+V:
+  mechanize, automate, push, pull, drive, propel, transmit, assemble
+  impel
+  act externally, aggregate
+
+Adj:
+  mechanical, mechanistic, machinelike, clockwork, automatic, automated, rote, robotic, external, indifferent, inert, deterministic
+
+Adv:
+  mechanically, automatically, like clockwork, by rote, by force
+  externally
+
+F:
+  German: Mechanismus
+  Latin: machina mundi
+  Arabic: ālī [mechanical]
+  Sanskrit: yantra [machine, device]
+  Chinese: jixie [mechanism]
+  Japanese: kikai
+
+Phr:
+  l'homme machine [Fr.] [La Mettrie]
+  the world is a great machine
+  the ghost in the machine [Ryle]

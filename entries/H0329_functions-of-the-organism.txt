@@ -1,0 +1,30 @@
+# 329 Functions of the Organism
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad]
+G: Funktionen des Organismus
+Gloss: The three functions of the animal body: sensibility, the capacity to feel; irritability, the capacity to respond; and reproduction, the capacity to renew itself.
+
+N:
+  functions of the organism; vital functions, sensibility, irritability, reproduction; feeling, response, renewal; physiology, Haller's irritability
+  sensitiveness, physical sensibility, impressibility, perceptivity, aesthetics, moral sensibility &c H0605
+  regeneration
+  impression, sensation
+  reproduction &c H0352, renovation, revival
+  the organic functions
+
+V:
+  feel, sense, respond, react, contract, renew, regenerate, reproduce
+  receive an impression
+
+Adj:
+  functional, physiological, sensible, irritable, reproductive, regenerative
+
+Adv:
+  physiologically, functionally
+
+F:
+  German: Sensibilität, Irritabilität, Reproduktion
+  Arabic: waẓāʾif al-aʿḍāʾ [functions of organs]
+  Chinese: shengli jineng [physiological functions]
+
+Phr:
+  life is the sum of the functions that resist death [Bichat]

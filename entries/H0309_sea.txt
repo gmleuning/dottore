@@ -1,0 +1,56 @@
+# 309 Sea
+# Nature › 3. Organics › I. Terrestrial Organism › γ. Earth's Life
+G: Meer
+Gloss: The great body of salt water that covers most of the earth.
+
+N:
+  sea; ocean, the deep, the main, the high seas, the briny, the brine, waters, billows, waves, swell, surf, tide, salt water, the seven seas; Poseidon, Neptune, Oceanus, Tethys, Thetis
+  main, deep, brine, high seas, offing, great waters, watery waste, vasty deep
+  hydrography, hydrographer, Triton, Naiad, Nereid, sea nymph, Siren, trident, dolphin
+  wave, billow, rollers, ground swell, breakers, white horses, whitecaps, rough sea, heavy sea
+  current
+  sailor, mariner, navigator, seaman, seafarer, seafaring man, dock walloper [Slang], tar, jack tar, able seaman, A. B, man-of-war's man, bluejacket, galiongee†, galionji†, jolly, midshipman, middy, skipper, shipman†, boatman, ferryman, waterman†, lighterman†, bargeman, longshoreman, bargee†, gondolier, oar, oarsman, rower, boatswain, cockswain†, coxswain, steersman
+  aerial navigator, aeronaut, balloonist, Icarus, aeroplanist†, airman, aviator, birdman, man-bird, wizard of the air, aviatrix, flier, pilot, test pilot, glider pilot, bush pilot, flight attendant, steward, stewardess, crew, astronaut, cosmonaut, parachutist, paratrooper
+  ship, vessel, craft, bottom
+  navy, fleet, flotilla, shipping
+  man of war &c H0715, transport, tender, storeship†, merchant ship, merchantman, packet, liner, whaler, slaver, collier, coaster, lighter, fishing boat, pilot boat, trawler, hulk, yacht, baggala†, floating hotel, floating palace, ocean greyhound
+  bark, barque, brig, snow, hermaphrodite brig, brigantine, barkantine†, schooner, topsail schooner, for and aft schooner, three masted schooner, sloop, cutter, corvette, clipper, foist, yawl, dandy, ketch, smack, lugger, barge, hoy†, cat, buss, sailer, sailing vessel, windjammer, steamer, steamboat, steamship, ocean liner, cruiseship, ship of the line, mail steamer, paddle steamer, screw steamer, tug, line of steamers
+  destroyer, cruiser, frigate, landing ship, LST, aircraft carrier, carrier, flattop [Coll.], nuclear powered carrier, submarine, submersible, atomic submarine
+  boat, pinnace, launch, life boat, long boat, jolly boat, bum boat, fly boat, cock boat, ferry boat, canal boat, swamp boat, ark, bully, battery, bateau [Can.], broadhorn†, dory, droger†, drogher, dugout, durham boat, flatboat, galiot†, shallop†, gig, funny, skiff, dingy, scow, cockleshell, wherry, coble†, punt, cog, kedge, lerret†, eight oar, four oar, pair oar, randan†, outrigger, float, raft, pontoon, prame†, iceboat, ice canoe, ice yacht
+  catamaran, hydroplane, hovercraft, coracle, gondola, carvel†, caravel, felucca, caique†, canoe, birch bark canoe, dugout canoe, galley, galleyfoist†, bilander†, dogger†, hooker, howker†, argosy, carack†, galliass†, galleon, polacca†, polacre†, tartane†, junk, lorcha†, praam†, proa†, prahu†, saick†, sampan, xebec, dhow, dahabeah†, nuggah†, kayak, keel boat [U.S.], log canoe, pirogue, quadrireme†, trireme, stern-wheeler [U.S.], wanigan†, wangan [U.S.], wharf boat
+  balloon, airship, aeroplane, biplane, monoplane, triplane†, aerodrome, air balloon, pilot balloon, fire balloon, dirigible, zeppelin, aerostat, Montgolfier, kite, parachute
+  jet plane, rocket plane, jet liner, turbojet, prop-jet, propeller plane, corporate plane, corporate jet, private plane, private aviation, airline, common carrier, fighter, bomber, fighter-bomber, escort plane, spy plane, supersonic aircraft, subsonic aircraft
+  ferry
+  lifeboat, shipwreck, freighter, sailboat, outboard, dinghy, icebreaker, houseboat
+  weather ship, small boat, sea boat, river boat, police boat, mail boat, guard boat, narrow boat, fishing vessel, patrol ship, patrol boat, sailing ship, racing yacht, packet boat, fishing smack, ship's boat, training ship, small ship, sister ship, school ship, hospital ship, supply ship, transport ship, pleasure boat, racing boat, abandoned ship, passenger ship, slave ship, pleasure craft, nuclear-powered ship, cargo vessel, cargo ship, treasure ship, car-ferry, sailing boat, pirate ship, gas-turbine ship, water scooter, sea scooter, blockade-runner, cabin cruiser, three-decker, whaling ship, clipper ship, tank ship, factory ship, racing shell, cattle boat, container vessel, container ship, banana boat, racing gig
+  scooter, tanker
+
+V:
+  surge, swell, roll, heave, break, crash, ebb, flow, sail, navigate
+  put to sea &c H0228, set sail, plow the waves, plow the deep, plow the main
+  cruise, coast, circumnavigate
+
+Adj:
+  marine, maritime, oceanic, pelagic, thalassic, nautical, naval, seagoing, abyssal, briny, salt
+  pelagian, hydrographic, bathybic†, cotidal†
+  seafaring, navigable
+  saline, brackish
+
+Adv:
+  at sea, by sea, afloat, offshore, overseas, on the high seas
+  aboard, on board, on ship board, hard a lee, hard a port, hard a starboard, hard a weather
+
+F:
+  Latin: mare, oceanus
+  Greek: thalassa, pontos, pelagos
+  French: chasse-maree
+  Arabic: baḥr [sea], muḥīṭ [ocean]
+  Sanskrit: samudra [ocean], sāgara
+  Chinese: hai [sea], yang [ocean]
+  Japanese: umi
+
+Phr:
+  thalatta! thalatta! [Gr.] [the sea! the sea!] [Xenophon]
+  the wine-dark sea [Homer]
+  mare nostrum [Lat.]
+  the sea is everything [Jules Verne]

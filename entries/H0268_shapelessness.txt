@@ -1,0 +1,38 @@
+# 268 Shapelessness
+# Nature › 2. Physics › III. Physics of Total Individuality › α. Shape
+G: Gestaltlosigkeit
+Gloss: Matter without definite form, such as a brittle grain or a fluid drop.
+
+N:
+  shapelessness; formlessness, amorphousness, amorphism, chaos, disorder, irregularity, indefiniteness, vagueness, fluidity, liquidity, sphericity; point and sphere; brittle grain, drop, globule, bead, blob
+  informity†, unlicked cub†, disorder &c H0186, deformity &c H0267
+  liquidness†, gaseity &c H0247 [Obs.]
+  derangement &c H0186, anomaly &c H0063
+  particle, molecule, corpuscle, mote
+  spherule
+  pulpiness, pulp, taste, dough, curd, pap, rob, jam, pudding, poultice, grume†
+  mush, oatmeal, baby food
+  the sphere, the brittle point
+
+V:
+  deform, dissolve, melt, blur, spread, run
+  deface, disfigure, mutilate, truncate, derange &c H0186, blemish, mar
+  lack form, flow, crumble
+
+Adj:
+  shapeless, formless, amorphous, unformed, unshaped, chaotic, irregular, nebulous, vague, fluid, globular, spherical
+  unhewn†, unfashioned†, unshapen, rough, rude, Gothic, barbarous, rugged
+  disorderly, disorganized, unsystematic
+  pulpy, pultaceous†, grumous†, baccate†
+
+Adv:
+  shapelessly, any which way
+  formlessly
+
+F:
+  Latin: rudis indigestaque moles
+  Arabic: ʿadam al-shakl
+  Chinese: xingwu [formless]
+
+Phr:
+  without form, and void [Bible]

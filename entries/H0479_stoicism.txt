@@ -1,0 +1,42 @@
+# 479 Stoicism
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › iii. Freedom of Self-Consciousness
+G: Stoizismus
+Gloss: The freedom of thought that holds itself indifferent to circumstance, free on the throne or in chains.
+
+N:
+  stoicism; Stoic philosophy &c H1023, equanimity, impassivity, imperturbability, self-control, self-possession, fortitude, endurance, resignation, indifference to fortune, inner citadel, the inner fortress; Epictetus on the throne and in chains
+  philosophy, command of temper, self-command, self-restraint, presence of mind
+  sufferance, forbearance, longanimity†
+  self-denial, self-abnegation, self-control &c H0376
+  inexcitability†, inirritability†, even temper, tranquil mind, dispassion, tolerance, patience
+  abstinence
+  the Stoa, Stoic indifference, inner freedom, freedom in thought, apathy, Epictetus and Marcus Aurelius
+
+V:
+  endure, bear, forbear, accept, resign oneself, keep calm, keep a stiff upper lip
+  suffer, abide &c H0610, bear the brunt of
+  bear the brunt, bear well, go through, support, brave, disregard
+  abstain, refrain, deny oneself
+  withdraw into thought, hold oneself indifferent
+  desist
+
+Adj:
+  stoic, stoical, impassive, imperturbable, unflappable, equanimous, self-possessed, long-suffering, resigned, philosophical
+  unexcitable, dispassionate, philosophic, staid, sober
+  patient, patient as Job, submissive &c H0704, content
+  impassible, passionless
+  indifferent, unmoved
+
+Adv:
+  stoically, impassively, with equanimity, philosophically
+  indifferently, on the throne or in chains
+
+F:
+  Greek: apatheia, ataraxia
+  Arabic: ṣabr [patience, endurance]
+  Sanskrit: vairāgya [detachment], titikṣā [forbearance]
+
+Phr:
+  whether on the throne or in chains [Hegel on Stoicism]
+  aequam memento rebus in arduis servare mentem [Lat.] [Horace]
+  some things are within our power, some are not [Epictetus]

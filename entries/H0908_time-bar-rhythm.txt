@@ -1,0 +1,41 @@
+# 908 Time, Bar, Rhythm
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 2. Particular Characteristics of Music
+G: Zeitmaß, Takt, Rhythmus
+Gloss: The measuring of music in time: beat, measure and rhythm.
+
+N:
+  time, bar, rhythm; tempo, measure, metre, beat, pulse, cadence, syncopation, time signature
+  periodicity, alternation
+  intonation, tone
+  meter, foot, numbers, accentuation &c H0595, dactyl, spondee, trochee, anapest
+  syncope
+  rest
+  oscillation, vibration, pulsation
+  time-measure, the downbeat, the upbeat, accent, stress, arsis, thesis, duple time, triple time, common time, movement, pace, speed, metronome, rubato
+  pacing
+
+V:
+  beat, keep time, measure, pulse, syncopate
+  recur in regular order
+  pulsate
+  count, mark time, tap, drum, throb
+
+Adj:
+  rhythmic, rhythmical, metrical, measured, cadenced, syncopated
+  periodic, recurrent
+  timed, regular, isochronous, pulsing, accented, duple, triple
+
+Adv:
+  rhythmically, in time
+  in measure, to the beat, in tempo, regularly
+
+F:
+  Greek: rhythmos
+  Italian: a tempo
+  Arabic: īqāʿ [rhythm]
+  Sanskrit: tāla [rhythmic cycle], laya [tempo]
+  Chinese: jiezou [rhythm]
+  Japanese: hyōshi, ma [interval]
+
+Phr:
+  in the beginning was rhythm [attrib. Hans von Bülow]

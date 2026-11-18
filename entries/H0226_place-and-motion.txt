@@ -1,0 +1,33 @@
+# 226 Place and Motion (Union of Space and Time)
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time)
+G: Ort und Bewegung
+Gloss: The meeting of space and time in definite positions and in movement.
+
+N:
+  place and motion; union of space and time, spatiotemporal unity, spacetime, space-time continuum, world-line, event, locomotion, movement, trajectory, orbit, path; kinematics
+  course, track
+  motion, going, unrest
+  location and movement, the unity of space and time, the here and now, position
+
+V:
+  move, locate, place, situate, travel, traverse
+  localize
+  change place
+
+Adj:
+  spatiotemporal, kinematic, locomotive, situated, moving
+  movable, mobile
+  local, topical, topographical
+  positional
+
+Adv:
+  in motion, on the move
+  here and now, from place to place
+
+F:
+  French: en route
+  Arabic: makān wa-ḥaraka [place and motion]
+  Chinese: shikong
+
+Phr:
+  everything flows and nothing stays

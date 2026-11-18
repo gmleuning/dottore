@@ -1,0 +1,64 @@
+# 347 Digestive Process
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process
+G: Verdauungsprozess
+Gloss: The animal's assimilation of food.
+
+N:
+  digestive process; digestion, ingestion, mastication, chewing, swallowing, deglutition, peristalsis, chylification, absorption, coction, concoction, metabolism
+  eating, gulp, epulation†, manducation†, rumination, gluttony &c H0609
+  imbibation†, ingurgitation†, suction, sucking, drinking
+  elaboration
+  meal, repast, spread, mess, dish, plate, course, regale, regalement†, refreshment, entertainment, refection, collation, picnic, feast, banquet, junket, breakfast, lunch, luncheon, bever†, tiffin†, dinner, supper, snack, junk food, fast food, whet, bait, dessert, potluck, hearty meal, square meal, substantial meal, full meal, blowout [Slang], light refreshment, bara†, chotahazri†, bara khana†
+  food, pabulum, aliment, nourishment, nutriment, sustenance, sustentation, sustention, nurture, subsistence, provender, corn, fodder, provision, ration, keep, commons, board, commissariat &c H0690, prey, forage, pasture, pasturage, cheer, diet, dietary, regimen, belly timber, staff of life, bread, bread and cheese
+  gluttony, greed, avarice, greediness, voracity
+  epicurism, good living, high living, edacity†, gulosity†, crapulence†, guttling†, guzzling, pantophagy†
+  good cheer, blow out, gastronomy
+  epicure, bon vivant, gourmand, glutton, cormorant, hog, belly god, Apicius†, gastronome, gourmet &c H0609
+  v.. gormandize, gorge, overgorge†, overeat oneself, engorge, eat one's fill, cram, stuff, guttle†, guzzle, gobble up, raven, eat out of house and home
+  have the stomach of an ostrich, play a good knife and fork &c H0609
+  pamper
+  assimilation of food, nutrition, alimentation
+  grub [Slang], chow [Slang], nosh [Brit. Slang], scran [Brit. Slang], tucker [Austral.], eats, munchies, nibbles, snacks, scoff [Brit.], vittles, victuals, chuck [U.S. Slang], slop, comfort food, elevenses, din-dins, tea [Brit.], pig-out, food coma
+  produce, apple, treat, mix, meat, cheese, eggs, pizza, butter, honey, juice, sauce, candy, chips, jam, soup, salad, sandwich, provisions, lemon, cookie, pork, vitamin, organs, flour, steak, vegetable, hay, rack, coconut, greens, fries, sausage, jelly, syrup, chili, mayo, beverage, seafood, blackberry, vinegar, cocoa, hash, pudding
+  coloring, patty, citrus, baba, bun, salsa, nutrient, cider, cling, stuffing, pear, octopus, ketchup, brunch, cracker, avocado, squid, roe, lemonade, noodle, blanc, espresso, leftovers, oatmeal, conserve, preserves, herbal, duff, pancake, muffin, cupcake, catfish, fudge, potion, melon, donut, waffle, veg, latte, tofu, chilli, seasoning, veggie, mayonnaise, eel, colouring, cheesecake, carp, bagel, custard, marshmallow, lollipop, caviar, chipotle, cheeseburger, porridge, mozzarella, veal, mulligan, marge, mackerel, shank, casserole, tortilla, goody, kebab, gingerbread, nacho, mince, banger, agar, yoghurt, roux, raisin, pepperoni, mutton, pita, molasses, hummus, dumplings, smelt, pretzel, granola, fizz, ade, prune, oreo, sprinkles, buttermilk, windfall, trifle, grits, curd, bleu, guacamole, sweetener, venison, toffee, marmalade, salami, pesto, pate, gyro, risotto, puree, meatball, brisket, ravioli, appetizer, omelette, meatloaf, poi, margarine, haddock, popsicle, jello, baguette, perishable, flounder, croissant, chowder, bap, miso, flavoring
+  solid food, baked goods, edible fruit, side order, health food, fish ball, fresh food, rose apple, fish stick, spring roll, tea-like drink, afternoon tea, drinking water, near beer, soft drink, garden truck, breakfast food, green goods, star fruit, fruit drink, piece de resistance, hot chocolate, drinking chocolate, fish finger, wish-wash, egg roll, dropped egg, passion fruit, fresh foods, fruit juice, apple sauce, side dish, pizza pie, blade apple, fruit crush, buffalo wing, sandwich plate, monkey bread, fried rice, fried egg, rabbit food, dried fruit, convenience food, cottage pie, pepper steak, stuffed egg, root vegetable, raw vegetable, ginger beer, baked egg, baked Alaska, snack food, frog legs, coconut meat, stuffed tomato, hot stuffed tomato, cold stuffed tomato, frozen dessert
+  coffee, rice, dressing, burger, berry, pasta, trout, cola, strawberry, spaghetti, lobster, pea, barley, herring, gravy, hamburger, biscuit, broth, gourmet, cheddar, kosher, bologna, partridge, halal, quail, dieting, lasagna, jerky, savoy, whiting, foodie, yolk, eggplant, fryer, chou, lentil
+  cooking, baking, dining, cuisine, recipe, chef, takeaway, takeout, delivery, shrimp, prawn, garlic, peanut, taco, burrito, sushi, curry, noodles, toast, yogurt, ice cream, chocolate, sweets, cake, soda, pop, fizzy drink, smoothie, cappuccino, milkshake, water, sparkling water, dairy, gluten-free, organic, calorie
+  carrot, potato, onion, cabbage, lettuce, tomato
+
+V:
+  digest, chew, masticate, swallow, absorb, break down, metabolize
+  eat, feed, fare, devour, take, bolt, snap, fall to, despatch, dispatch, discuss, take down, get down, gulp down, lay in, tuck in [Slang], lick, pick, peck, gormandize &c H0609, bite, champ, munch, cranch†, craunch†, crunch, nibble, gnaw, mumble
+  ingest, imbibe, take in
+  drink in, drink up, quaff, sip, sup, suck, swig
+  assimilate, nourish
+  scarf, scarf down, wolf down, gobble, chow down, snarf, inhale, demolish, polish off, pig out, stuff one's face, stuff one's gob, graze
+  ready
+  pickle, lard, refrigerate
+  freeze-dry
+  cook, bake, fry, stir-fry, boil, microwave, barbecue, order in, eat out, dine
+  marinate, roast, grill
+
+Adj:
+  digestive, peptic, gastric, digestible
+  eatable, edible, esculent†, comestible, alimentary, cereal, cibarious†, dietetic, culinary, nutritive, nutritious, succulent, potable, potulent†, bibulous
+  gluttonous, greedy, gormandizing, edacious†, omnivorous, crapulent†, swinish
+  avaricious &c H0610, selfish &c H0552
+  pampered, overfed, overgorged†
+  peckish [Brit.], starving, starved, famished, ravenous, stuffed, full, fit to burst, scrumptious, scrummy, moreish
+  vegan, vegetarian
+  tasty, yummy, delicious, roasted, grilled, smoked, fried, baked, homemade, spicy, hot, mild, sweet, savoury, savory, crunchy, crispy, greasy, cheesy
+
+Adv:
+  in digestion
+  by digestion
+
+F:
+  French: dejeuner, table d'hote, dejeuner a la fourchette, batterie de cuisine
+  Arabic: haḍm [digestion]
+  Sanskrit: pācana [digestion, cooking]
+  Chinese: xiaohua [digestion]
+  Japanese: shōka
+
+Phr:
+  one man's meat is another man's poison

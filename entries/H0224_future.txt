@@ -1,0 +1,45 @@
+# 224 Future
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › β. Time
+G: Zukunft
+Gloss: The time not yet come.
+
+N:
+  future; the time to come, the hereafter, futurity, tomorrow, the morrow, prospect, outlook, expectation, anticipation, foresight, prevision, prophecy, prediction, destiny, fate; posterity, descendants; the not-yet
+  destiny &c H0134, future existence, post existence, future state, next world, world to come, after life, everlasting life, everlasting death, life beyond the grave, world beyond the grave, prospect &c H0579
+  futurition, time to come, approaching time, coming time, subsequent time, after time, approaching age, coming age, subsequent age, after age, approaching days, coming days, subsequent days, after days, approaching hours, coming hours, subsequent hours, after hours, approaching ages, coming ages, subsequent ages, after ages, approaching life, coming life, subsequent life, approaching years, coming years, subsequent years, after years, morrow, millennium, doomsday, day of judgment, crack of doom, remote future
+  prospicience†, long- sightedness, providence &c H0196
+  expectance, expectancy, reckoning, calculation, foresight &c H0579
+  premonition &c H0595, prognosis, prognostication, foreboding
+  the to-come
+  forecasting
+
+V:
+  be about to, lie ahead, impend, loom, approach, await, come; anticipate, foresee, forecast, predict, prophesy
+  hang over, lie over, threaten, stare one in the face, foreordain, preordain, predestine, doom, have in store for
+  come on, draw on, draw near
+  expect &c H0579, foreknow
+
+Adj:
+  future, coming, forthcoming, upcoming, impending, imminent, approaching, prospective, potential, eventual, ulterior, subsequent, to come
+  destined, about to be, happen, in store, going to happen, instant, at hand, over hanging, hanging over one's head, brewing, preparing, int he wind, on the cards, in reserve, that will, is to be, looming in the distance, horizon, unborn, in embryo, int he womb of time, pregnant &c H0137
+  next, near, close at hand, in prospect &c H0579
+
+Adv:
+  hereafter, henceforth, henceforward, from now on, in future, in the future, tomorrow, eventually, sooner or later, in due course, in time, by and by, anon
+  prospectively, the day after tomorrow, in course of time, in process of time, in the fullness of time, ultimately, in after time, after a time, after a while
+  some one of these days, one of these days
+  in time to come
+
+F:
+  German: das Noch-Nicht [Bloch]
+  Latin: futurum, proximo, paulo post futurum
+  Greek: to mellon
+  Arabic: mustaqbal [future]
+  Sanskrit: bhaviṣyat [future]
+  Chinese: weilai [future]
+  Japanese: mirai
+
+Phr:
+  tomorrow, and tomorrow, and tomorrow [Macbeth]
+  the future is not what it used to be
+  quid sit futurum cras, fuge quaerere [Lat.] [Horace]

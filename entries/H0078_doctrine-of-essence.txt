@@ -1,0 +1,41 @@
+# 78 Doctrine of Essence
+# Logic
+G: Lehre vom Wesen
+Gloss: The study of concepts by which things are understood through what lies beneath their surface. These concepts come in pairs, each defined only by its relation to the other.
+
+N:
+  doctrine of essence; essence, quiddity, whatness; nature, inner nature, true nature, real nature, intrinsic nature, inwardness, core, kernel, heart, marrow, pith, gist, crux, nub, sum and substance, the heart of the matter, the nitty-gritty
+  reflection; mediation; depth, profundity, the inner, the hidden, the underlying; correlates, paired concepts, pairs, correlatives, relata; surface and depth, appearance and reality
+  intrinsicality†, inbeing†, inherence, noumenon, essentialness†, quintessence
+  substance, gist &c H0081
+  spirit &c H0081
+  the logic of essence, the sphere of mediation, the sphere of reflection, the relational categories
+
+V:
+  underlie, lie beneath, lie at the root of, constitute, inform; mediate; reflect, reflect upon; get to the heart of, go to the root of, penetrate, probe, plumb, fathom, see through
+  delve into, go deep into
+
+Adj:
+  essential, intrinsic, inherent, innate, inner, inward, underlying, fundamental, basic, radical, constitutive, substantial, substantive, quidditative; deep, profound, hidden, latent; mediated, reflected, reflective, correlative, relational
+  implanted
+
+Adv:
+  essentially, in essence, at bottom, at heart, at root, fundamentally, intrinsically, in effect, in substance; in the main
+  practically, virtually, substantially, au fond, fairly
+  radically
+  by mediation
+
+F:
+  German: Wesenslogik, Wesen, Reflexion, Vermittlung
+  Latin: essentia, quidditas, per se
+  Greek: ousia, to ti ēn einai [the what-it-was-to-be]
+  French: au fond
+  Arabic: māhiyya [quiddity], dhāt [essence], jawhar [substance]
+  Sanskrit: svabhāva [own-nature], tattva [thatness, principle]
+  Chinese: ti [substance, essence], benzhi [essential nature]
+  Japanese: honshitsu
+
+Phr:
+  Wesen ist, was gewesen ist [Ger.] [Hegel, paraphrased]
+  ex nihilo nihil fit [Lat.]
+  to ti ēn einai [Gr.] [Aristotle]

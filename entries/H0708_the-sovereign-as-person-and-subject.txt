@@ -1,0 +1,29 @@
+# 708 The Sovereign as Person and Subject
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › a. Constitutional Law › i. Internal Constitution › 1. The Sovereign Power
+G: Der Souverän als Person und Subjekt
+Gloss: The sovereign as a person in whom the state's will is embodied.
+
+N:
+  the sovereign as person and subject; the monarch as decisive will, the dotting of the i, final decision, the I will, royal assent, sign-off
+  the monarch, the person of the prince, the "I will", the personal will, personality of the state, the subjectivity of the state, the royal person, the crown
+
+V:
+  decide, sign, ratify, assent, dot the i
+  conclude, complete, settle, confirm
+  will, personify, embody, say "I will"
+
+Adj:
+  decisive, final, personal, ultimate
+  definitive, crowning &c H0197, last
+  monarchical, subjective, individual, royal, princely
+
+Adv:
+  finally, decisively
+  in person, personally, as one will
+
+F:
+  Latin: fiat
+
+Phr:
+  to dot the i [Hegel on the monarch]
+  le roi le veut [Fr.] [the king wills it]

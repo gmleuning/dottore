@@ -1,0 +1,49 @@
+# 689 The System of Needs
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society
+G: Das System der Bedürfnisse
+Gloss: The network in which individuals satisfy their needs through the work of others; the economy.
+
+N:
+  the system of needs; economy, political economy, the market economy, supply and demand, the division of labour, production and consumption, the economic system, catallaxy, commerce, interdependence, the invisible hand
+  mercature†, buying and selling, bargain and sale, traffic, business, nundination†, custom, shopping, commercial enterprise, speculation, jobbing, stockjobbing†, agiotage†, brokery†
+  management, husbandry, housekeeping, economics
+  reciprocity
+  bank account, savings account, checking account, money market account, NOW account, time deposit, deposit, demand deposit, super NOW account, certificate of deposit, CD
+  accounts, accompts†, commercial arithmetic, monetary arithmetic, statistics &c H0046, budget, bill, score, reckoning, account
+  money, legal tender, money matters, money market, finance, funds, treasure, capital, stock, assets &c H0617, wealth &c H0692, supplies, ways and means, wherewithal, sinews of war, almighty dollar, needful, cash, mammon
+  currency counter, currency exchange
+  exchange rate, rate of exchange, floating exchange rates, fixed rates
+  paper money, greenback, major denomination, minor denomination, money order, postal money order, Post Office order, bank note, bond, bill of exchange, order, warrant, coupon, debenture, exchequer bill, assignat†, blueback [U.S.], hundi†, shinplaster [U.S.]
+  note, note of hand, promissory note, I O U, draft, check, cheque, back-dated check, negotiable order of withdrawal, NOW
+  currency, circulating medium, specie, coin, hard cash, cold cash, dollar, sterling coin, pounds shillings and pence, Ls.d, pocket, breeches pocket, purse, money in hand, cash at hand, ready money, ready cash, slug [U.S.], wad [Slang] wad of bills [U.S.], wad of money, thick wad of bills, roll of dough [Coll.], rhino†, blunt†, dust†, mopus†, tin†, salt†, chink†, bottom dollar, buzzard dollar†, checks, dibs [Slang]
+  the economic order, the market
+  sent, cent, fund, savings, anna, sterling, euro, penny, sen, dong, mil, dime, leone
+  appropriation, kale, quid, cryptocurrency, lev, clams, franc, medallion, subunit, coinage, baht, hao, taka, sou, fen, lolly, schilling, agora, fiver, sixpence, naira, kobo, farthing
+  monetary unit, metal money, paper currency, hard currency, monetary fund, token money, folding money, fractional monetary unit, small change, bank bill, government note, trust fund, spending money, war chest, pocket money, pin money, mutual fund, bank deposit, pension fund, pound sterling, petty cash, nest egg, pork barrel, sinking fund, fiat money, revolving fund, fractional currency, superannuation fund, slush fund, chump change, c-note, louis d'or, operating budget, two dollar bill, twenty dollar bill, ten dollar bill, hundred dollar bill, half dollar, five dollar bill, dollar bill, index fund, half crown, silver certificate, fifty-cent piece, fifty dollar bill, exchange traded fund, half eagle, double eagle, new penny, nickel note
+  guinea, rand, yuan, tanner, lettuce, heller, som, shilling, housework, rupee, peso, lira, ruble
+  income, earnings, profit, profits, revenue, turnover, costs, cost, expense, expenses, pricing, price, finances, funding, financing, investment, investing, banking, accounting, audit, payroll, pension, subsidy, tax, taxes, taxpayer, inflation, recession, the economy, capitalism, socialism, monopoly, billionaire, millionaire, the one percent, nonprofit, charity, fundraiser, crowdfunding, crypto, bitcoin, credit card, debit card, ATM, cash machine, cashback, mortgage, rent, loan, debt, overdraft
+
+V:
+  produce, consume, trade, supply, demand, exchange, specialize
+  exchange currencies, change money
+  need, labour, depend
+
+Adj:
+  economic, commercial, interdependent, market-based, productive
+  financial, fiscal, monetary, profitable, affordable, cheap, pricey, expensive, costly, overpriced, broke, skint [Brit. Slang], loaded [Slang], minted [Brit. Slang], well off, poor, rich, wealthy
+
+Adv:
+  economically, on the market
+  through others' work
+
+F:
+  German: Staatsökonomie
+  Latin: argent comptant
+  French: bureau de change, piece
+  Arabic: iqtiṣād [economy]
+  Sanskrit: vārtā [economics, livelihood], arthaśāstra [science of wealth]
+  Chinese: jingji [economy]
+  Japanese: keizai
+
+Phr:
+  it is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner [Adam Smith]

@@ -1,0 +1,46 @@
+# 660 The Good
+# Spirit › 2. Objective Spirit › II. Morality › γ. The Good and Conscience
+G: Das Gute
+Gloss: The unity of right and well-being; the aim of moral action.
+
+N:
+  the good; the good, the highest good, goodness, the right, well-being and right united, the idea of the good
+  excellence, merit, virtue, value, worth, price
+  good man, honest man
+  the final end of the world, realized freedom, well-being with right
+
+V:
+  do good, pursue the good, seek the good
+  treat well, give comfort, smooth the bed of death, do a good turn, render a service, be of use, aid &c H0702
+  be beneficial, produce good, do good &c H0657, profit &c H0196, benefit, confer a benefit &c H0657
+  be virtuous, practice virtue, do one's duty, fulfill one's duty, perform one's duty, discharge one's duty, redeem one's pledge, keep one's promise &c H0662, act well, act one's part, fight the good fight, acquit oneself well, command one's passions, master one's passions, keep in the right path
+  will the good
+  deserve
+
+Adj:
+  good, right, virtuous, beneficent, worthy, upright
+  innocent &c H0653, meritorious, deserving, desertful†, correct, dutiful, duteous, moral, righteous, right- minded, well-intentioned, creditable, laudable, commendable, praiseworthy, above all praise, beyond all praise, admirable, sterling, pure, noble, whole-souled†
+  honest, honest as daylight, veracious &c H0663, honorable, fair, equitable, impartial, square, fair and aboveboard, open and aboveboard, white [U.S.]
+  warm-hearted, kind-hearted, tender-hearted, large-hearted, broad- hearted, merciful &c H0605, charitable, humane, benignant, bounteous, bountiful
+  just, reasonable, fit &c H0616, equal, equable, equatable†, evenhanded
+  best, choice, select, picked, elect, recherche, rare, priceless, unparagoned†, unparalleled &c H0045, superlatively &c H0045, superfine, superexcellent†, of the first water, first-rate, first-class, high- wrought, exquisite, very best, crack, prime, tiptop, capital, cardinal, standard &c H0197, inimitable
+  good as gold, excellent, better, superior &c H0045, above par, nice, fine, genuine &c H0204
+  tops
+
+Adv:
+  well, rightly
+  in justice, in equity, in reason
+  for the good
+
+F:
+  Latin: the summum bonum, bonum
+  Greek: to agathon
+  French: à bon droit, au bon droit
+  Arabic: khayr [good], ḥusn [goodness]
+  Sanskrit: śreyas [the good], kalyāṇa
+  Chinese: shan [good]
+  Japanese: zen
+
+Phr:
+  the form of the good [Plato]
+  the good is the realized freedom [Hegel, paraphrased]

@@ -1,0 +1,22 @@
+# 289 Galvanism
+# Nature › 2. Physics › III. Physics of Total Individuality › γ. Chemical Process › b. Real Process (Combination) [Tetrad]
+G: Galvanismus
+Gloss: The first stage of chemical process: two different metals joined through water act on each other and break the water down; the voltaic cell, understood as chemical action rather than as mere electric current.
+
+N:
+  galvanism; galvanic circuit, voltaic pile, voltaic cell, battery, electric current, electrolysis, electrochemistry, animal electricity; galvanization; Galvani's frog; Volta
+  voltaism, the galvanic process, the galvanic chain, current, Galvani
+
+V:
+  galvanize, electrify, electrolyse, shock, stimulate, rouse
+  electrolyze, conduct, activate
+
+Adj:
+  galvanic, voltaic, electrochemical, electrolytic
+
+Adv:
+  galvanically, as if galvanized
+  by contact of metals
+
+Phr:
+  galvanized into action

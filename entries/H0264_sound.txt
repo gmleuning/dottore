@@ -1,0 +1,75 @@
+# 264 Sound
+# Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad]
+G: Klang
+Gloss: A body's inner trembling made audible; the voice of a body, which expresses its inner nature.
+
+N:
+  sound; tone, note, ring, ringing, resonance, reverberation, vibration, oscillation, tremor, sonority, timbre, clang, peal, chime; voice of a body, inner trembling, ideality of body
+  tintinabulation, reflexion [Brit.], reflection, buzz
+  loudness, power, loud noise, din, blare, clangor, clatter, bombilation†, uproar, racket, hubbub, bobbery†, fracas, charivari†, trumpet blast, flourish of trumpets, fanfare, tintamarre†, blast, larum†, bang
+  noise, strain, accent, twang, intonation, cadence, sonorousness, audibility, voice &c H0595, aspirate, ideophone†, rough breathing
+  libration, motion of a pendulum, nutation, undulation, pulsation, pulse
+  faintness, faint sound, whisper, breath, undertone, underbreath†, murmur, susurration, still small voice
+  silence, stillness &c H0228, peace, lull, muteness &c H0595, solemn silence, awful silence, dead silence, deathlike silence
+  thud, thump, dead sound, nonresonance†, muffled drums, cracked bell, damper, silencer
+  sibilance, sibilation, zip, sternutation
+  goose, serpent, snake
+  insect, bug, bee, mosquito, wasp, fly
+  tea kettle, pressure cooker, air valve, pressure release valve, safety valve, tires, air escaping from tires, punctured tire, escaping steam, steam, steam radiator, steam release valve
+  creak, discord, stridor, roughness, sharpness, cacophony, cacoepy†
+  acute note, high note, soprano, treble, tenor, alto, falsetto, penny trumpet
+  cry, bark
+  vociferation, outcry, hullabaloo, chorus, clamor, hue and cry, plaint, lungs, stentor
+  wow, click, rolling, roaring, whispering, ting, altercation, screeching
+
+V:
+  sound, ring, resound, resonate, reverberate, vibrate, chime, peal, clang, tinkle, toll, echo
+  reecho, jingle, gingle†, chink, clink, tink†, gurgle, plash, goggle, ring in the ear
+  be loud, swell, boom, thunder, fulminate, roar
+  hum, trill, shake, tick, beat
+  produce sound, make a noise, give out sound, emit sound
+  be silent, hold one's tongue &c H0595
+  render silent, stifle, muffle, stop, muzzle, put to silence &c H0595
+  sound dead, stop the sound, damp the sound, deaden the sound, deaden the reverberations, dampen the reverberations
+  hiss, whiz, rustle, fizz, fizzle, wheeze, whistle, snuffle, squash, sneeze, sizzle, swish
+  grate, jar, burr, pipe, jangle, clank, scream, yelp
+  set the teeth on edge, pierce the ears, split the ears, split the head, offend the ear, grate upon the ear, jar upon the ear
+  shout, bawl, brawl, halloo, halloa, hoop, whoop, yell, bellow, howl, screech, screak†, shriek, squeak, squeal, squall, whine, pule, yaup†
+  cheer, hoot, grumble, moan, groan
+  snore, snort, grunt
+  vociferate, raise up the voice, lift up the voice, call out, sing out, cry out, exclaim, rend the air, thunder at the top of one's voice, shout at the top of one's voice, shout at the pitch of one's breath, thunder at the pitch of one's breath, s'égosiller, strain the throat, strain the voice, strain the lungs, give a cry
+  tsk
+
+Adj:
+  sonorous, resonant, ringing, vibrant, reverberant, acoustic, sonic, audible, tonal
+  resounding, tinnient†, tintinnabulary, booming, deep-toned, deep-sounding, deep-mouthed, hollow, sepulchral, gruff
+  sounding, soniferous†, sonorific†, distinct, stertorous, phonetic, phonic, phonocamptic†
+  silent, still, stilly, noiseless, soundless, hushed, mute, solemn, awful, deathlike, silent as the grave, inaudible
+  nonresonant†, dead, dampened, muffled
+  sibilant, hissing, wheezy, sternutative†
+  creaking, stridulous†, harsh, coarse, hoarse, horrisonous†, rough, grum†
+  sharp, high, acute, shrill, trumpet-toned, piercing, ear-piercing, high-pitched, high-toned, cracked, discordant &c H0909, cacophonous
+  crying, clamant†, clamorous, vociferous, stentorian, open-mouthed
+  noisy, unspoken, squeaky
+
+Adv:
+  aloud, audibly, resoundingly
+  loudly
+  aloud, at the top of one's voice, at the top of one's lungs, lustily, in full cry
+  silently
+  Int, hush, soft, whist, tush, chut!†, tut, be quiet, be still, shut up! [Slang], chup!†, chup rao!†
+
+F:
+  German: Ton, Klang
+  Latin: sonus, sub silentio, pax
+  Greek: phōnē
+  French: corcher les oreilles
+  Italian: tace, voce di testa
+  Arabic: ṣawt [sound], ṭanīn [ringing]
+  Sanskrit: śabda [sound, word], nāda [sound, resonance]
+  Chinese: sheng [sound], yin [tone]
+  Japanese: oto
+
+Phr:
+  the sound of one hand clapping [Hakuin]
+  nāda brahma [Skt.] [sound is God]

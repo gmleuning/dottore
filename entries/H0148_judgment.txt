@@ -1,0 +1,35 @@
+# 148 Judgment [Tetrad]
+# Logic › 3. Doctrine of the Concept › I. Subjectivity
+G: Urteil
+Gloss: A statement joining a subject to a predicate, saying that an individual is of a certain kind; the dividing of a concept into its parts.
+
+N:
+  judgment, proposition, statement, assertion, predication, declaration, affirmation, enunciation, pronouncement, verdict, finding, ruling, decision, determination, opinion, sentence; subject and predicate, copula; division of the concept, self-division
+
+V:
+  judge, adjudge, adjudicate, assess, appraise, evaluate, estimate, pronounce, rule, decide, determine, declare, assert, affirm, predicate, state, hold, deem, consider, reckon; divide, sunder
+  pass judgment
+  conclude
+  appreciate, value, rate
+  subdivide
+
+Adj:
+  judicial, judgmental, judicatory, judicative, judicious, evaluative, predicative, propositional, assertoric, declarative, apophantic
+  reigning
+
+Adv:
+  in judgment, judicially, in my judgment, to my mind, in my estimation
+  by judgment
+
+F:
+  German: Diremption, Urteil, Ur-teilung
+  Latin: iudicium, subiectum et praedicatum, me judice
+  Greek: krisis, apophansis
+  Arabic: ḥukm [judgment], qaḍiyya [proposition]
+  Sanskrit: niścaya [determination, judgment]
+  Chinese: panduan [judgment]
+  Japanese: handan
+
+Phr:
+  judge not, that ye be not judged [Bible]
+  every judgment is an Ur-teil, an original division [Hölderlin]

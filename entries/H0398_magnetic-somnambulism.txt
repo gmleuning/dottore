@@ -1,0 +1,29 @@
+# 398 Magnetic Somnambulism
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy
+G: Magnetischer Somnambulismus
+Gloss: The trance state in which the soul acts apart from waking consciousness; hypnotic sleep.
+
+N:
+  magnetic somnambulism; animal magnetism, mesmerism, Mesmerism, hypnotism, hypnosis, trance, somnambulism, sleepwalking, magnetic sleep, artificial sleep, altered state, dissociation, suggestion, autosuggestion; Mesmer, Puységur
+  ecstasy
+  mesmeric sleep, hypnotic trance, artificial somnambulism
+
+V:
+  mesmerize, magnetize, hypnotize, entrance, put under, induce a trance, sleepwalk
+  fascinate &c H0611
+
+Adj:
+  mesmeric, magnetic, hypnotic, hypnoid, somnambulistic, entranced, trance-like, spellbound
+
+Adv:
+  in a trance, under hypnosis, as if mesmerized
+  in trance, mesmerically
+
+F:
+  Arabic: nawm maghnāṭīsī [magnetic sleep]
+  Sanskrit: samādhi [absorption, trance]
+  Chinese: cuimian [hypnosis]
+  Japanese: saimin
+
+Phr:
+  you are getting sleepy

@@ -1,0 +1,38 @@
+# 18 Determination, Constitution, and Limit
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude
+G: Bestimmung
+Gloss: Three ways a thing is defined: its determination, what it is essentially; its constitution, what it happens to be through outside circumstance; and its limit, the boundary where it stops and something else begins.
+
+N:
+  determination, vocation, destiny, calling, purpose, end, in-itself, inner nature; constitution, make-up, condition, state, circumstance, situation, disposition, external character, accidental nature; limit, boundary, border, bound, bourn†, frontier, edge, margin, brink, verge, rim, periphery, confines, pale, march, marches; terminus, term, horizon, ceiling, threshold, line, demarcation, delimitation, circumscription
+  habitude, diathesis†, fabric &c H0258, stamp, set, fit, mold, mould
+  category, estate, lot, mood, temper, aspect &c H0387, dilemma, pass, predicament
+  phase, position, posture, attitude, place, point, terms, regime, footing, standing, status
+  bounds, enclave, curbstone†, but, reservation, termination, stint, precinct, backwoods
+
+V:
+  determine, destine, ordain, appoint, fix; constitute, condition, dispose, frame, shape; limit, bound, delimit, demarcate, circumscribe, confine, restrict, hem in, fence in, wall in, draw the line, mark off, mark out
+  inclose, surround &c H0218, compass about, hedge in, rail in, fence round, hedge round
+
+Adj:
+  determined, destined, fated, intended; constituted, conditioned, circumstanced, situated; limited, bounded, bordered, circumscribed, confined, restricted, terminal, marginal, peripheral, liminal, borderline, frontier
+  definite, conterminate†, conterminable†, bordering
+  qualifying, qualified, hedged, conditional, exceptional &c H0063
+
+Adv:
+  within limits, within bounds, within the pale; at the limit, on the edge, on the verge, on the brink; up to a point, so far and no further
+  by nature, by circumstance
+
+F:
+  German: Beschaffenheit, Grenze, Bestimmung
+  Latin: finis, terminus
+  Greek: telos, peras [limit]
+  Arabic: ḥadd
+  Sanskrit: sīmā [boundary]
+  Chinese: jie [boundary]
+
+Phr:
+  ne plus ultra [Lat.]
+  hitherto shalt thou come, but no further [Bible]
+  est modus in rebus, sunt certi denique fines [Lat.] [Horace]
+  good fences make good neighbours [Frost]

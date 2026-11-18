@@ -1,0 +1,44 @@
+# 73 The Measureless
+# Logic › 1. Doctrine of Being › III. Measure › β. Real Measure
+G: Das Maßlose
+Gloss: That which exceeds proper proportion; the change in amount that destroys a thing's character; excess.
+
+N:
+  the measureless; measurelessness, excess, excessiveness, immoderation, intemperance, extravagance, exorbitance, inordinateness, disproportion, enormity, monstrosity, hypertrophy, gigantism, overgrowth; hubris, insatiability, superfluity, surfeit, glut, overload, overdose, overkill, overflow, overshoot; lack of measure; formlessness, the monstrous, the shapeless; the sublime &c H0775; destruction, ruin, dissolution
+  redundancy, redundance†, superabundance, superfluence†, saturation, nimiety†, transcendency, exuberance, profuseness, profusion &c H0690, repletion, enough in all conscience, lion's share, more than enough &c H0690, plethora, engorgement, congestion, load, sickener†, turgescence &c H0218 [Obs.], overmeasure†, oversupply, inundation &c H0252, avalanche
+  luxury, intemperance &c H0609, extravagance &c H0610, lavishment†
+  overdistension†, tympany†
+  surplus
+
+V:
+  exceed, go too far, overdo, overstep, overshoot, overreach, overflow, overload, overburden, break bounds, run riot, know no bounds, go overboard, carry to excess, gild the lily; destroy, ruin, burst
+  superabound, run over, brim over
+  overpass, overshoot the mark
+  go beyond measure
+
+Adj:
+  measureless, immoderate, intemperate, excessive, inordinate, exorbitant, extravagant, extreme, outrageous, monstrous, enormous, gargantuan, hypertrophic, disproportionate, out of proportion, hubristic, unbridled, unrestrained, boundless, limitless; formless, shapeless; insatiable
+  preposterous
+  redundant, too many, exuberant, superabundant, replete, profuse, lavish, prodigal &c H0610, overweening, overcharged, supersaturated, drenched, overflowing, running over, running to waste, running down
+  immeasurable, illimitable
+  immense
+  amorphous, unformed
+  flooded, inundated
+
+Adv:
+  excessively, beyond measure, out of all proportion, to excess, too much, over the top
+  immoderately, monstrously, preposterously, inordinately, exorbitantly, with a vengeance
+  overmuch, too far, without measure, out of measure
+  extraordinarily
+
+F:
+  German: das Maßlose
+  Latin: ad nauseam, ultra vires, satis superque
+  Greek: hybris, pleonexia, ametria, ametron
+  Arabic: isrāf [prodigality, excess]
+
+Phr:
+  mēden agan [Gr.] [Opposed]
+  enough is enough
+  too much of a good thing
+  whom the gods would destroy they first make mad

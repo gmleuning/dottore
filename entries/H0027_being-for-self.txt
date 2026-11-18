@@ -1,0 +1,37 @@
+# 27 Being-for-Self
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality)
+G: Fürsichsein
+Gloss: Self-containedness; the condition of a thing that relates only to itself, holding whatever is other within itself as an aspect of its own; independence.
+
+N:
+  being-for-self, being for itself; self-relation, self-reference, self-relatedness, reflexivity; independence, self-sufficiency, self-subsistence, self-containment, autonomy, autarky, aseity; individuality, selfhood, ipseity; completeness, wholeness, integrity, closure; ideality; being-in-and-for-itself
+  totality, entirety, unity &c H0031
+  self-containedness, being-for-itself, the for-itself
+
+V:
+  be for oneself, be by oneself, stand alone, stand on one's own feet, be self-sufficient, be one's own master; relate to oneself, refer to oneself; return into oneself, withdraw into oneself
+  be for itself, relate to itself
+
+Adj:
+  self-relating, self-referential, reflexive, self-contained, self-sufficient, self-subsistent, self-standing, self-reliant, independent, autonomous, autarkic, autarkical, sovereign; individual, singular; complete, whole, closed, rounded; ideal
+  integral
+  entire, undivided
+  for-itself
+
+Adv:
+  for itself; by itself, of itself, in its own right; on one's own, on one's own account
+  independently
+
+F:
+  German: Idealität, An-und-für-sich-sein, für sich, Fürsichsein
+  Latin: aseitas, ipseitas, sui juris
+  Greek: autarkeia
+  French: pour-soi, pour soi
+  Arabic: nafs [self]
+  Sanskrit: svātantrya [self-dependence], svabhāva [own-being]
+  Chinese: ziran [self-so, spontaneity]
+
+Phr:
+  sui generis [Lat.]
+  to thine own self be true [Hamlet]
+  ipse dixit [Lat.]

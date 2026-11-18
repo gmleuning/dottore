@@ -1,0 +1,23 @@
+# 239 Physics of Universal Individuality
+# Nature › 2. Physics
+G: Physik der allgemeinen Individualität
+Gloss: The physics of the most general forms of matter.
+
+N:
+  physics of universal individuality; cosmic physics, the great bodies, universal forms of matter, cosmic elements, the elemental world
+  the physics of the universal individual, the free physical bodies, the elements, the meteorological process, universal matter
+
+V:
+  shine, revolve, pervade, compose
+  universalize, individualize
+
+Adj:
+  universal, cosmic, elemental
+  general
+
+Adv:
+  universally, cosmically
+  in general
+
+Phr:
+  the elements of the world

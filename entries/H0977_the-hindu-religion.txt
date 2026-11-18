@@ -1,0 +1,28 @@
+# 977 The Hindu Religion
+# Spirit › 3. Absolute Spirit › II. Religion › β. Determinate Religion › a. Immediate Religion, or Nature Religion [Tetrad]
+G: Die indische Religion
+Gloss: Religion in which the divine is one supreme being taking countless forms and incarnations.
+
+N:
+  the Hindu religion; Hinduism, Brahmanism, Brahman, Ātman, avatars, the Vedas, the Upaniṣads, the Bhagavad Gītā, yoga, karma, caste, the religion of fantasy
+  the Indian religion, the religion of the Hindus, the religion of Brahma, the religion of phantasy, the religion of imagination, the religion of substance, Brahmā, Śiva, the Trimūrti, Krishna, Rāma, Indra, Kālī, Gaṇeśa, the many gods, the three hundred and thirty million gods, polytheism, pantheism, the one substance, the abstract One, incarnation, the incarnations, descent, manifestation, the countless shapes, the riot of forms, measurelessness, the monstrous, the fantastic, the Brahmins, the castes, the twice-born, the pariah, the yogi, the fakir, the ascetic, the penitent, austerities, self-mortification, renunciation, absorption, abstraction, withdrawal, transmigration, rebirth, metempsychosis, release, the Purāṇas, the Mahābhārata, the Rāmāyaṇa, the Laws of Manu, the Ganges, the sacred cow, the lingam, the juggernaut, the temple-cars, suttee
+
+V:
+  meditate, worship, sacrifice, absorb, liberate
+  incarnate, descend, take form, manifest, multiply, proliferate, personify, imagine, fantasize, abstract, withdraw, renounce, mortify the flesh, practise austerities, concentrate, merge, be absorbed, transmigrate, be reborn, bathe in the Ganges, chant, offer
+
+Adj:
+  Hindu, Brahmanical, Vedic, Upanishadic, yogic, pantheistic
+  Indian, Brahmanic, Brahminical, Vaishnava, Shaiva, Puranic, polytheistic, pantheistical, many-formed, multiform, myriad-formed, protean, fantastic, phantasmal, exuberant, measureless, unbounded, monstrous, ascetic, caste-bound, avataric
+
+Adv:
+  in Brahman
+  in countless forms, in many shapes, fantastically, pantheistically, by incarnation, by austerity, by absorption, through endless rebirths, measurelessly
+
+F:
+  German: Religion der Phantasie, Substantialität
+  Sanskrit: sanātana dharma, the Trimūrti [Brahmā, Viṣṇu, Śiva], saṃsāra, mokṣa [liberation], brahman, ātman, avatāra, māyā, tapas, varṇa, bhakti, pūjā, yajña, oṃ, deva, līlā, tat tvam asi
+
+Phr:
+  tat tvam asi [Skt.] [thou art that] [Chandogya Upanishad]
+  aham brahmāsmi [Skt.] [I am Brahman] [Brihadaranyaka Upanishad]

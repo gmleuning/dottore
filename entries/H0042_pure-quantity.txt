@@ -1,0 +1,28 @@
+# 42 Pure Quantity
+# Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › α. Quantity
+G: Reine Quantität
+Gloss: Quantity before any particular amount has been fixed; sheer measurability.
+
+N:
+  pure quantity; quantity as such, sheer magnitude, abstract magnitude, measurability, extensiveness; space and time as pure quantities; the continuum, continuous magnitude; indefinite amount, indeterminate quantity, unspecified quantity, x, unknown quantity; mass noun, uncountable
+  sheer quantity, continuity, space and time as pure quantity
+
+V:
+  be measurable, admit of more and less, be quantifiable
+  continue, extend
+
+Adj:
+  pure, abstract, indefinite, indeterminate, unspecified, unquantified, unmeasured, measurable, quantifiable, homogeneous
+  continuous
+
+Adv:
+  indefinitely, in the abstract
+  purely
+
+F:
+  German: die reine Quantität
+  Latin: quantitas, in abstracto
+  Greek: posotēs
+
+Phr:
+  an unknown quantity

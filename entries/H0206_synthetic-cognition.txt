@@ -1,0 +1,37 @@
+# 206 Synthetic Cognition
+# Logic › 3. Doctrine of the Concept › III. Idea › β. The Idea of Cognition › a. The Idea of the True
+G: Synthetisches Erkennen
+Gloss: Knowing that connects the elements of a thing into a coherent whole; synthesis.
+
+N:
+  synthetic cognition; synthesis, combination, composition, construction, integration, unification, connection, systematization, building up, putting together
+  union, incorporation, amalgamation, embodiment, fusion
+  process of reasoning, chain of reasoning, deduction
+  constitution, combination &c H0288, comprehension
+  link, bond of union, copula
+  production, formation, organization
+  synthetic method
+
+V:
+  synthesize, combine, compose, construct, integrate, unify, connect, systematize, put together, build up
+  constitute, form, make up
+  join, unite, conjoin, associate
+  incorporate, amalgamate, embody, blend, fuse, consolidate, coalesce
+
+Adj:
+  synthetic, synthetical, integrative, constructive, compositional, systematic, connective
+  combinative
+
+Adv:
+  synthetically, systematically, all together
+
+F:
+  Greek: synthesis
+  French: piece together
+  Arabic: tarkīb [synthesis]
+  Sanskrit: saṃśleṣaṇa
+  Chinese: zonghe [synthesis]
+  Japanese: sōgō
+
+Phr:
+  putting two and two together

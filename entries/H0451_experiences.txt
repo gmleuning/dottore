@@ -1,0 +1,31 @@
+# 451 Experiences
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › b. Perception (the Thing and Deception)
+G: Erfahrungen
+Gloss: The particular observations of perception.
+
+N:
+  experiences; observations, perceptions, impressions, findings, data, empirical evidence, cases, instances
+  empirical findings, particular cases
+
+V:
+  experience, observe, find, undergo, encounter
+  meet with, pass through, go through
+  perceive, note
+
+Adj:
+  experiential, empirical, observational
+  observed, perceived, particular
+  discovered
+
+Adv:
+  empirically, by experience
+  in particular cases
+
+F:
+  Arabic: tajārib [experiences]
+  Sanskrit: anubhava [experience]
+  Chinese: jingyan [experience]
+  Japanese: keiken
+
+Phr:
+  experience is the teacher of all things, experientia docet [Lat.]

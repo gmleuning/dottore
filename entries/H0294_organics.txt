@@ -1,0 +1,38 @@
+# 294 Organics
+# Nature
+G: Organik
+Gloss: The study of nature as living and self-organizing.
+
+N:
+  organics, organic physics, organic nature, the organic, living nature, biology, life science, natural history; organism, organization, self-organization, autopoiesis; the living, the animate
+  organic chemistry, anatomy, zoology &c H0353, botany, microbiology, virology, bacteriology, mycology &c H0311, naturalist
+  protoplasm, cytoplasm, protein, albumen, structure &c H0258
+  organized world, organized nature, animated nature, living beings, organic remains, fossils
+  physiology, animal ecology
+  vivification, vital force, vitalization, revivification &c H0352, Prometheus, life to come &c H0224
+  life, vitality, viability, animation, vital spark, vital flame, soul, spirit
+  genetics, heredity, inheritance, evolution, natural selection
+
+V:
+  live, grow, organize, self-organize, develop, evolve
+  be alive, breathe, respire, subsist &c H0004, walk the earth, strut and fret one's hour upon the stage [Macbeth], be spared
+
+Adj:
+  organic, living, animate, biological, vital, organized, self-organizing
+  karyoplasmic†, unsegmentic†, vacuolar, zoogloeic†, zoogloeoid†
+  alive, in life, in the flesh, in the land of the living, on this side of the grave, above ground, breathing, quick, animated, animative†, lively &c H0375, all alive and kicking, tenacious of life, full of life, yeasty
+  vitalic†, vivifying, vivified, viable, zoetic†, Promethean
+
+Adv:
+  organically, biologically
+
+F:
+  Latin: historia naturalis
+  Arabic: ʿilm al-aḥyāʾ [biology]
+  Sanskrit: jīva-vidyā
+  Chinese: shengwuxue [biology]
+  Japanese: seibutsugaku
+
+Phr:
+  omne vivum ex vivo [Lat.]
+  life finds a way

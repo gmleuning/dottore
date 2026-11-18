@@ -1,0 +1,26 @@
+# 333 Nerves of Sensation and Movement
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › i. Nervous System
+G: Empfindungs- und Bewegungsnerven
+Gloss: The nerves that carry sensation to the brain and commands to the limbs.
+
+N:
+  nerves of sensation and movement; sensory nerves, afferent nerves, motor nerves, efferent nerves, reflex arc, sensorimotor system
+  the spinal cord
+  motor neuron, sensory neuron, interneuron, spinal reflex, knee jerk, patellar reflex, proprioception, kinaesthesia, kinesthesia, numbness, tingling, pins and needles, paralysis, palsy, tic, spasm
+
+V:
+  sense, feel, move, react, transmit
+  convey
+  twitch, jerk, flinch, startle, tingle, go numb, go dead
+
+Adj:
+  sensory, motor, sensorimotor, afferent, efferent, reflexive
+  neural
+  proprioceptive, kinaesthetic, twitchy, jumpy, numb, dead, paralysed, palsied
+
+Adv:
+  reflexively
+  to and from the brain
+
+Phr:
+  the knee-jerk reflex

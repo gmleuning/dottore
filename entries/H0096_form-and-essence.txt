@@ -1,0 +1,35 @@
+# 96 Form and Essence
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › a. Absolute Ground
+G: Form und Wesen
+Gloss: The relation between what a thing fundamentally is and the definite shape it takes.
+
+N:
+  form and essence; form, shape, figure, configuration, structure, frame, pattern, mould, cast, contour, outline, design; essence &c H0078, inner nature, substance, stuff; form of essence, essential form, substantial form; formal and material, formal cause
+  conformation, formation, structure &c H0258
+  matter, material, substratum
+  constitution, habitude, fabric &c H0258, stamp, mold
+  organism
+  shape &c H0267, guise
+  the form-determination, the substrate of form, what a thing is
+
+V:
+  form, shape, mould, fashion, inform, configure, structure, determine
+
+Adj:
+  formal, structural, configurational, morphological, eidetic; essential, substantial
+  formed
+
+Adv:
+  formally, in form, in shape, essentially, in substance
+
+F:
+  German: Form, Gestalt
+  Latin: forma, forma substantialis, causa formalis
+  Greek: morphē, eidos
+  Arabic: ṣūra [form] and dhāt
+  Sanskrit: rūpa [form] and svabhāva
+  Chinese: xing [form, shape] and zhi [substance]
+
+Phr:
+  form follows function
+  forma dat esse rei [Lat.]

@@ -1,0 +1,55 @@
+# 613 Happiness
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › β. Practical Mind
+G: Glückseligkeit
+Gloss: The total satisfaction of one's urges, held up as an aim of the will.
+
+N:
+  happiness; felicity, well-being, flourishing, contentment, satisfaction of all drives, welfare, bliss, joy, fortune, prosperity
+  affluence &c H0692, success &c H0197, thrift, roaring trade, good fortune, smiles of fortune, blessings, godsend
+  beatitude, enchantment, transport, rapture, ravishment, ecstasy, paradise, elysium &c H0992, third heaven†, seventh heaven, cloud nine, unalloyed happiness, hedonics†, hedonism
+  contentedness, complacency, satisfaction, entire satisfaction, ease, heart's ease, peace of mind, serenity &c H0610, cheerfulness &c H0375, ray of comfort, comfort &c H0605
+  rejoicing, exultation, triumph, jubilation, heyday, flush, revelling, merrymaking &c H0605, jubilee &c H0969, paean, congratulation &c H0434
+  smile, simper, smirk, grin, broad grin, sardonic grin
+  laughter &c H0605
+  risibility, derision &c H0816
+  Momus, Democritus the Abderite†, rollicker†
+  eudaemonia
+  good times, the high life, the life of Riley, living the dream, the good life
+  upbeat, wellbeing, hooray
+
+V:
+  be happy, flourish, prosper, thrive, rejoice, content oneself
+  be prosperous, drive a roaring trade, do a booming business, go on well, go on smoothly, go on swimmingly, sail before the wind, swim with the tide, run smooth, run smoothly, run on all fours
+  render content, set at ease, comfort, set one's heart at ease, set one's mind at ease, set one's heart at rest, set one's mind at rest, speak peace, conciliate, reconcile, win over, propitiate, disarm, beguile, satisfy, gratify &c H0605
+  thank one's stars, bless one's stars, congratulate oneself, hug oneself, rub one's hands, clap one's hands, smack the lips, fling up one's cap, dance, skip, sing, carol, chirrup, chirp, cry for joy, jump for joy, leap with joy, exult &c H0416, hold jubilee &c H0969, make merry &c H0605
+  laugh, raise laughter &c H0605
+
+Adj:
+  happy, felicitous, blissful, content, contented, flourishing, eudaimonic, fortunate, blessed
+  blest, beatified, happy as a clam at high water [U.S.], happy as a clam, happy as a king, happy as the day is long, thrice happy, enjoying, joyful &c H0375, hedonic†
+  satisfied, at ease, at one's ease, at home, with the mind at ease, easygoing, not particular, conciliatory, unrepining†, of good comfort, resigned &c H0610, cheerful &c H0375
+  lucky
+  jubilant, exultant, triumphant, flushed, elated, pleased, delighted, tickled pink
+  amused &c H0605
+  laughable &c H0957
+  Int, hurrah, Huzza, aha!†, hail, tolderolloll!†, Heaven be praised, io triumphe!†, so much the better
+  eudaemonic
+  happy as Larry [Brit.], over the moon, on cloud nine, stoked [Slang], chuffed [Brit.], made up [Brit. Slang], buzzing [Brit. Slang]
+
+Adv:
+  happily, felicitously, blissfully
+  with pleasure &c H0609 [Obs.], with glee
+  contentedly
+
+F:
+  Latin: beatitudo, summum bonum, ter quaterque beatus, sine cura, Te Deum &c H0969
+  Greek: eudaimonia
+  French: sans souci, tant mieux
+  Arabic: saʿāda [happiness, felicity]
+  Sanskrit: sukha [happiness], ānanda [bliss]
+  Chinese: xingfu [happiness]
+  Japanese: shiawase, kōfuku
+
+Phr:
+  happiness is an ideal not of reason but of imagination [Kant]
+  the periods of happiness are blank pages in history [Hegel]

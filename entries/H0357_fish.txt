@@ -1,0 +1,35 @@
+# 357 Fish
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata [Tetrad]
+G: Fische
+Gloss: Cold-blooded backboned animals living in water and breathing through gills.
+
+N:
+  fish; fishes, finfish, shoal, school, ichthyology, scales, fins, gills
+  the finny tribe, the water animals
+  shark, molly, dolphin, argentine
+  hind, sturgeon, liza, goldfish, rudd, britt, brill, moray, marlin, lotte, mademoiselle, mako, stingray, mollie, barracuda, margate, tetra, chub, beluga, minnow
+  young fish, game fish, food fish, sport fish, rough fish, bottom-feeder, climbing perch, bony fish, bottom-dweller, bottom fish, sea bass, blue jack, flying fish, sand sole, stone bass, rock sea bass, rock bass, black sea bass, black bass, silver salmon, red salmon, king salmon, shrimp-fish, rainbow trout, lake trout, brown trout, brook trout, striped bass, lake herring, horse mackerel, bellows fish, red snapper, mutton snapper, grey snapper, gray snapper, red mullet, chum salmon, chinook salmon, mangrove snapper, river shad, common American shad, speckled trout, electric ray, sand tiger, snake-fish, eagle ray, sand shark, nurse shark, fox shark, cow shark, cat shark, carpet shark, angel shark, lake salmon, whale shark, sand lance, sucking fish, flashlight fish, sand eel, mackerel shark
+  salmon, brit, coney, parr, gar
+
+V:
+  swim, dart, shoal, school, spawn
+  breathe by gills
+
+Adj:
+  piscine, ichthyic, ichthyoid, piscatorial, finny, scaly, aquatic, cold-blooded
+  gilled
+
+Adv:
+  like a fish out of water, like a fish in water
+  in water
+
+F:
+  Latin: pisces
+  Greek: ichthyes
+  Arabic: samak [fish]
+  Sanskrit: matsya [fish]
+  Chinese: yu [fish]
+  Japanese: sakana
+
+Phr:
+  there are plenty more fish in the sea

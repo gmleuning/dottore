@@ -1,0 +1,36 @@
+# 111 Property of the Thing
+# Logic › 2. Doctrine of Essence › II. Appearance › α. Existence › a. The Thing and Its Properties
+G: Eigenschaft des Dinges
+Gloss: A feature by which a thing acts on, and is known by, other things.
+
+N:
+  property of the thing; property, attribute, quality, characteristic, feature, trait, mark, note, capacity, power, disposition, dispositional property, tendency, propensity, virtue [archaic sense: active power], potency
+  faculty
+  diagnostic, lineament
+  particularity, peculiarity
+  aptitude, susceptibility
+  potentiality, force, energy &c H0121
+
+V:
+  have, possess, exhibit, display, manifest, affect, act on, influence
+  act through
+
+Adj:
+  proper, characteristic, distinctive, peculiar, inherent, dispositional, active, effective, attributive
+  discriminative, distinguishing
+
+Adv:
+  characteristically, properly, by virtue of
+  by its properties
+
+F:
+  German: Eigenschaft
+  Latin: proprium [property proper to a kind]
+  Greek: idion
+  Arabic: khāṣṣa [proprium], ṣifa
+  Sanskrit: dharma [property]
+  Chinese: xingzhi [property]
+  Japanese: seishitsu
+
+Phr:
+  by their fruits ye shall know them [Bible]

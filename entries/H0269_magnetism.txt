@@ -1,0 +1,39 @@
+# 269 Magnetism
+# Nature › 2. Physics › III. Physics of Total Individuality › α. Shape
+G: Magnetismus
+Gloss: Shape as a line of tension between two opposite poles joined at a neutral middle; polarity.
+
+N:
+  magnetism; magnet, lodestone, loadstone, magnetic needle, compass, polarity, poles, north pole, south pole, magnetic field, lines of force, attraction and repulsion; neutral point, point of indifference; animal magnetism &c H0398
+  lodestar, loadstar†, permanent magnet, siderite, magnetite, electromagnet, magnetic coil, voice coil, magnetic dipole, motor coil, rotor, stator
+  magnetic pole, magnetic monopole
+  contraposition†, opposition, inversion &c H0218, opposite side, reverse, inverse, counterpart, antipodes, opposite poles
+  electrical attraction, electricity, static electricity, static, static cling, magnetic attraction, gravity, attraction of gravitation
+  attraction, attractiveness, attractivity†, drawing to, pulling towards, adduction†
+  electrical charge, positive charge, negative charge
+  magnetic repulsion, magnetic levitation, antigravity
+  magnetic force
+  magnetic polarity, north and south pole
+
+V:
+  magnetize, attract, repel, polarize, draw, orient, point north
+  draw towards, pull towards, drag towards, adduce
+  push from, drive apart, drive from &c H0232, chase, dispel, retrude†, abduce†, abduct, send away, repulse
+
+Adj:
+  magnetic, polar, bipolar, attractive, magnetized, ferromagnetic
+  attracting, attrahent†, adducent†, adductive†
+
+Adv:
+  magnetically, toward the pole, north and south
+  pole to pole
+
+F:
+  Arabic: maghnaṭīsiyya [magnetism], ḥajar al-maghnaṭīs [lodestone]
+  Sanskrit: ayaskānta [magnet, lit. lover of iron]
+  Chinese: cixing [magnetism], cishi [loving stone, magnet]
+  Japanese: jishaku
+
+Phr:
+  like poles repel, unlike poles attract
+  true as the needle to the pole
