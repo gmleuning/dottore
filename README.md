@@ -87,7 +87,7 @@ This thesaurus has 1,056 entries, with around 98,000 English words and phrases, 
 - **Wiktionary** (CC BY-SA), consulted live by the dictionary panel and not stored in the book.
 
 ---
-<h1 align="center">Doctor Ten Times</h1>
+<h1 align="center">Doctor Ten-Times</h1>
 <p align="center"><i>after Molière,</i> La Jalousie du Barbouillé<i>, scene 2</i></p>
 
 **Flourish:** You look like an educated man, I'd like to ask you a question.

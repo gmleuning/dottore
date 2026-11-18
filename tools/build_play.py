@@ -22,5 +22,5 @@ speeches = [f'<p class="sp">{inline(p)}</p>' for p in re.split(r'\n\s*\n', body.
 page = open(os.path.join(ROOT, 'tools', 'play_page.html'), encoding='utf-8').read()
 play = f'<h1>{html.escape(title)}</h1>\n{sub}\n' + '\n'.join(speeches)
 out = os.path.join(ROOT, 'editions', 'ten_times_doctor.html')
-open(out, 'w', encoding='utf-8', newline='\n').write(page.replace('<!--PLAY-->', play).replace('<title>Doctor Ten Times</title>', f'<title>{html.escape(title)}</title>'))
+open(out, 'w', encoding='utf-8', newline='\n').write(page.replace('<!--PLAY-->', play).replace('<title>Doctor Ten-Times</title>', f'<title>{html.escape(title)}</title>'))
 print(len(speeches), 'speeches ->', os.path.abspath(out))

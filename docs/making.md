@@ -76,7 +76,7 @@ The page's interface is `tools/dottore_page.html`: gloss reveal on headword clic
 settings panel (stored per browser), double-click Wiktionary panel with etymology, IPA and audio (Wiktionary's public
 REST API, so any static host works).
 
-The play at the end of the README, *Doctor Ten Times*, also has a page of its own, `editions/ten_times_doctor.html`, opened by clicking il Dottore's figure. It is built from the README, so the two never differ: edit the play there, then run `python tools/build_play.py` (template `tools/play_page.html`). The page reads the book's saved settings (theme, accent, typeface, size, spacing) from the same browser.
+The play at the end of the README, *Doctor Ten-Times*, also has a page of its own, `editions/ten_times_doctor.html`, opened by clicking il Dottore's figure. It is built from the README, so the two never differ: edit the play there, then run `python tools/build_play.py` (template `tools/play_page.html`). The page reads the book's saved settings (theme, accent, typeface, size, spacing) from the same browser.
 
 Original scripts for foreign words: Sanskrit and Pali are converted from IAST by `tools/native_script.py`; the other
 languages come from `data/native_scripts/<Language>.tsv` (romanization, original, optional display romanization such

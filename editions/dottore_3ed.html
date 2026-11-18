@@ -411,7 +411,7 @@ function setChar(){
   r.dataset.ink=dark?'d':'l'; r.dataset.char=(dark?S.char.dark:S.char.light)||(dark?'dialectica':'dottore');
   // il Dottore's figure opens his play (a page of its own); Dialectica's, and both names, go home
   for(const a of document.querySelectorAll('a.fig')){ const play=r.dataset.char==='dottore';
-    a.href=play?'ten_times_doctor.html':'#'; a.title=play?'Il Dottore in Doctor Ten Times':''; }
+    a.href=play?'ten_times_doctor.html':'#'; a.title=play?'Il Dottore in Doctor Ten-Times':''; }
 }
 DARKQ.addEventListener('change',setChar);
 // with an entry or a search open, the figure first goes home; only from the home page does il Dottore open his play
