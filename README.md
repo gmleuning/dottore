@@ -82,6 +82,9 @@ This thesaurus has 1,056 entries, with around 98,000 English words and phrases, 
 - **Wiktionary** (CC BY-SA), consulted live by the dictionary panel and not stored in the book.
 
 ---
+# Doctor Ten Times
+After Molière's *La Jalousie du Barbouillé* scene 2.
+
 > **Flourish:** You look like an educated man, I'd like to ask you a question.
 >
 > **Dottore:** First, you must not misprize me, I am not only educated, I am a doctor but not merely. I am a doctor one time, two times, three times, four times, five times, six times, seven times, eight times, nine times and ten times inclusive. 
@@ -115,5 +118,3 @@ This thesaurus has 1,056 entries, with around 98,000 English words and phrases, 
 > **Dottore:** Seven, there are seven ages of man. I myself am a man both *in propria persona* and *ad hominem*, conative and cognitive. Doctor eight, doctorate, and of course, the number eight is, according to Augustine Hipponites, the *numerus perfectionis*, the perfect number, where perfection is defined as void's immediacy. Therefore, I am immediately void. Nine times, because there are nine tenths of the law, and doctor ten times, because ten supervenes itself in itself, it cannot be acquired or arrived at without all the numbers that came before it, one, two, three, four, five, six, seven, eight, nine and ten too, hence, I am a doctor and a dicker of doctors. Like the tree of Porphyry, I contain them all once again. *Toto coelo, tutti culo*, I am one time, two times, three times, four times, five times, six times, seven times, eight times, nine times, and ten times a doctor.
 >
 > **Flourish:** What in the hell is this? I wanted to talk to an educated man and instead I have to hear some bozo counting his As, Bs, and Cs. Are there any eleven-times doctors I can talk to?
-
-After Molière's *La Jalousie du Barbouillé* scene 2.
