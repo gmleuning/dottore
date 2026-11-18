@@ -37,9 +37,7 @@ It is one web page, `editions/dottore_3ed.html` (with its logos beside it), onli
 - *Scripts:* for each language, show the original script, the romanization, or both.
 - *Wiktionary:* double-click lookup on or off, IPA, audio, which languages to show and which to open first, how many examples per sense, and etymology as a timeline, as written, or hidden.
 
-## The system
-
-### Dialectica and il Dottore
+## Dialectica
 
 In Martianus Capella's allegory *The Marriage of Philology and Mercury*, the Liberal Arts personified gather to attend the wedding of eloquence and erudition. Among the bridesmaids is *Dialectica*. She reminds the assembled that words are serpentine, sliding away from firm sentiments, set to change shape as quickly as context. She does this both by speaking simultaneously in sharp-cut phrases and murky pale, and by animating her metaphor with an enormous snake that strangled anyone too dim to understand her maneuvers. For Dialectica, the lines tracing between the words hold truth in its perfect black shine. Hegel took her name for the negative moment of thought, where what is reaches its surface, the outside, the other, and passes into relation.
 
@@ -70,7 +68,7 @@ Its three parts are **Logic**, following the *Science of Logic*: Being, Essence,
 - **Philosophy opens with the three syllogisms** with which the *Encyclopaedia* ends, Logic–Nature–Spirit and its two rotations, so the concept of philosophy is the circle of the system.
 - **Hegel is the last entry.** Supposing the implicit terminus of his system, Hegel's own books are the telos of Philosophy, with his own triad of the *Phenomenology*, the *Logic*, and the *Encyclopaedia*, and the *Encyclopaedia* ending with its own recapitulation of Logic, Nature, and Spirit.
 
-## Sources of the words
+## Word sources
 
 This thesaurus has 1,056 entries, with around 98,000 English words and phrases, and 6,500 in non-English languages.
 - **Roget's *Thesaurus of English Words and Phrases*,** 1911 edition, in the Project Gutenberg digitization (eBook #10681, MICRA, 1991): the base vocabulary, its archaic and classical words, its Latin and French, its phrases, its cross-references and its register tags.
