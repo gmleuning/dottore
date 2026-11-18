@@ -31,6 +31,7 @@ N:
   grunt [Slang], squaddie [Brit.], GI [U.S.], doughboy†, Tommy†, dogface, jarhead, leatherneck, boots on the ground, firefight, SNAFU [Slang], FUBAR [Slang], clusterfuck [Vulg.], collateral damage, friendly fire, shell shock, PTSD, fog of war, drone strike, shock and awe, the front, no man's land
   bombing, gilbert, attacker, barrage, shelling, bloodbath
   allies, enemy, occupation, insurgency, insurgent, rebel, guerrilla, civilian, civilians, casualty, casualties, deployment, troops, tactics, strategy, ceasefire, truce, airstrike, drone, missile, nuclear war, cyberwar, veteran, vet [Coll.]
+  embedded journalist, embedded reporter, embed
 
 V:
   war, wage war, fight, battle, combat, campaign, mobilize, take up arms

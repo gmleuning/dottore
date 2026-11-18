@@ -9,14 +9,17 @@ N:
   stronghold, fastness, keep, donjon, citadel
   civil architecture, civic building, domestic building, profane architecture, burgher house, city wall, bridge, garden architecture
   marquee
+  fortification, fortifications, bulwark, rampart, ramparts, bastion, battlement, redoubt, sconce, earthwork, fortified town
 
 V:
   fortify, house, govern
   build, dwell, garden
+  entrench, wall in, ensconce
 
 Adj:
   secular, civic, palatial, fortified, baronial
   civil, domestic, profane, municipal, residential, utilitarian
+  walled, embattled, battlemented, castellated, impregnable
 
 Adv:
   civically

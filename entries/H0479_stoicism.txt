@@ -19,6 +19,7 @@ V:
   abstain, refrain, deny oneself
   withdraw into thought, hold oneself indifferent
   desist
+  fortify the mind, steel oneself
 
 Adj:
   stoic, stoical, impassive, imperturbable, unflappable, equanimous, self-possessed, long-suffering, resigned, philosophical
@@ -26,6 +27,7 @@ Adj:
   patient, patient as Job, submissive &c H0704, content
   impassible, passionless
   indifferent, unmoved
+  fortified, steeled, unshaken
 
 Adv:
   stoically, impassively, with equanimity, philosophically

@@ -10,6 +10,7 @@ N:
   anchoret†, anchorite, martyr, Heautontimorumenos†, hermit &c H0485, puritan, sabbatarian†, cynic, sanyasi†, yogi
   the unhappy soul, the divided consciousness, inner diremption, the unchangeable, infinite yearning
   hermit
+  celibacy, chastity, continence, abstinence, vow of chastity
 
 V:
   long, yearn, pine, mourn, grieve, mortify oneself, do penance, kneel, pray
@@ -26,6 +27,7 @@ Adj:
   lamenting, in mourning, sorrowing, sorrowful &c H0605, tearful, lachrymose, plaintive, plaintful†, querulous, querimonious†, in the melting mood, threnetic†
   repenting, repentant, conscience- smitten, conscience-stricken, self-accusing, self-convicted
   distressed
+  celibate, chaste, continent, abstinent
 
 Adv:
   contritely, penitently, longingly, in sackcloth and ashes

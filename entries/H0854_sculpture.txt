@@ -11,17 +11,20 @@ N:
   high relief, low relief, relief, bassorilievo†, altorilievo†, mezzorilievo†, intaglio, anaglyph†, medal, medallion, cameo
   image
   the sculptor's art, stonecutting, glyptics, plastics
+  inscription, lettering, epigraphy
 
 V:
   sculpt, sculpture, carve, chisel, model, cast, hew, mould
   cut, mold
   rough hew, rough cast, block out, hammer out
   engrave &c H0886
+  inscribe, engrave, incise
 
 Adj:
   sculptural, sculptured, sculpturesque, statuesque, plastic, glyptic
   anaglyptic†, ceroplastic†, ceramic, parian†, xanthian†
   three-dimensional
+  inscribed, engraved, incised
 
 Adv:
   sculpturally, in the round

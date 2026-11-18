@@ -27,11 +27,13 @@ V:
   inclose, circumscribe &c H0218
   inhabit
   reside
+  ensconce
 
 Adj:
   domestic, residential, sheltering
   prototypical, archetypal, basic, primary, original
   upstairs, downstairs, indoor, outdoor, homemade, cozy, cosy, roomy, cramped, homey, comfy [Coll.]
+  ensconced, sheltered, housed
 
 Adv:
   at home, under one roof

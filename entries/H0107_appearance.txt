@@ -10,6 +10,7 @@ N:
   phase
   extrinsicality†, objectiveness, non ego, extraneousness &c H0081, accident, phenomenon &c H0387
   visibility, perceptibility, manifestation &c H0595
+  obviousness, evidentness
 
 V:
   appear, emerge, manifest, show, present, display, exhibit, disclose, reveal, come into view, come to light, surface, show up, turn up
@@ -23,10 +24,12 @@ Adj:
   apparent, phenomenal, manifest, visible, evident, observable, perceptible, outward, external, surface, ostensible
   discernible
   seeming, on view
+  obvious, plain to see, in plain sight
 
 Adv:
   apparently, phenomenally, to all appearances, on the face of it, outwardly, visibly
   to all seeming, to all appearance, ostensibly, seemingly, as it seems, at the first blush, at first sight, in the eyes of, to the eye
+  obviously, evidently, manifestly, plainly
 
 F:
   German: Erscheinung

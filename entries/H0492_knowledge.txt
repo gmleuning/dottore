@@ -23,6 +23,7 @@ N:
   lubber &c H0430, fool &c H0417, pedant &c H0579
   science, verified belief, warranted certainty
   info
+  acquirements, acquisition of knowledge
 
 V:
   know, understand, comprehend, grasp, apprehend, be aware, be acquainted with, ken
@@ -30,6 +31,7 @@ V:
   scan, wot†, wot aware†, be aware of, ween†, weet†, trow†, have, possess
   master
   ascertain, verify, confirm
+  acquire, acquire knowledge, pick up
 
 Adj:
   knowing, knowledgeable, informed, learned, erudite, cognizant, epistemic
@@ -39,6 +41,7 @@ Adj:
   learned &c H0579, brought up at the feet of Gamaliel
   bookless†, shallow, ignorant &c H0579
   known, verified, confirmed
+  well-versed, versed in, conversant with, well-read, steeped in, at home in
 
 Adv:
   knowingly, knowledgeably, to one's knowledge

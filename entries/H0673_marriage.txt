@@ -13,6 +13,7 @@ N:
   unlawful marriage, left-handed marriage, morganatic marriage, ill- assorted marriage, mesalliance
   the ethical union, the one person of two
   hubby [Coll.], the missus [Coll.], the wife, ball and chain [Slang], other half, significant other, bae [Slang], wifey [Slang], shotgun wedding, marriage of convenience, same-sex marriage, civil partnership, prenup, honeymoon, hen night, stag night, bachelor party, bachelorette party
+  celibacy, bachelorhood, spinsterhood, singleness, the single life
 
 V:
   marry, wed, espouse, unite, wive, take to wife, take to husband, tie the knot
@@ -26,6 +27,7 @@ Adj:
   hymeneal
   unmarried, unwed, unwedded†, wifeless, spouseless†, single
   hitched, spliced
+  celibate
 
 Adv:
   in wedlock, matrimonially

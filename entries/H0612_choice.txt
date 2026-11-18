@@ -16,6 +16,7 @@ N:
   waverer, ass between two bundles of hay, shuttlecock, butterfly, wimp, doughface [U.S.]
   rejection, repudiation, exclusion, refusal &c H0622, declination
   arbitrariness, free choice
+  anything, anything whatever, anything at all
 
 V:
   choose, decide, resolve, determine, select, elect, opt, prefer, plump for, settle on
@@ -66,3 +67,5 @@ F:
 Phr:
   alea iacta est [Lat.] [the die is cast] [Caesar]
   to be or not to be [Hamlet]
+  anything goes
+  anything you like

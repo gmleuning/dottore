@@ -19,6 +19,7 @@ V:
   displace, misplace, displant†, dislodge, disestablish, ablegate†, set aside, remove, take away, cart away, take off, draft off, lade
   unload, empty &c H0228, transfer &c H0228, dispel
   vacate, depart &c H0228
+  ensconce, ensconce oneself, nestle, settle in
 
 Adj:
   local, locative, topical, positional, situated, stationary
@@ -26,6 +27,7 @@ Adj:
   misplaced, out of its element
   placed
   located, aligning
+  ensconced, nestled, lodged, embedded, imbedded, set in, inlaid
 
 Adv:
   here, there, in place, on the spot, on site, locally

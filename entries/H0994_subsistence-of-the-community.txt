@@ -27,6 +27,7 @@ N:
   the fellowship of believers, congregation, flock, fold, parish, the faithful, the communion of saints, the indwelling Spirit
   cleric
   sheikh
+  celibacy, clerical celibacy, vow of celibacy, monasticism, the cloister
 
 V:
   teach, preach, baptize, commune, sustain
@@ -41,6 +42,7 @@ Adj:
   didactic
   the Reverend, the very Reverend, the Right Reverend, ordained, in orders, called to the ministry
   subsisting, continuing, abiding, enduring, standing, established, existing, institutional, traditional, liturgical, catechetical, baptismal, confessional, creedal, dogmatic, devotional, churchly, ecclesial, communicant, orthodox, cultic, homiletic
+  celibate, cloistered
 
 Adv:
   sacramentally

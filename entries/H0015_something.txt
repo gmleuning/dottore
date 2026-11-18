@@ -10,6 +10,7 @@ N:
   thing, still life, stocks and stones, materials &c H0691
   aught
   creature, somebody, some one
+  anything, anything at all, whatever
 
 V:
   be something, be somebody, amount to something, count for something; stand out, take shape, crystallize, materialize; individuate, individualize, particularize
@@ -24,6 +25,7 @@ Adv:
   somehow, in some sort, after a fashion; in particular, particularly, specifically
   somewhat
   slightly
+  at all, in any way, anyhow
 
 F:
   German: Insichsein, Negation der Negation, Etwas

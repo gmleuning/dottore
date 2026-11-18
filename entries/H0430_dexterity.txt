@@ -35,6 +35,7 @@ V:
   mistake &c H0204, take the shadow for the substance &c H0600, bark up the wrong tree, be in the wrong box, aim at a pigeon and kill a crow, take the wrong pig by the tail, get the wrong pig by the tail, get the wrong sow by the ear, get the dirty end of the stick, put the saddle on the wrong horse, put a square peg into a round hole, put new wine into old bottles
   cut blocks with a razor, hold a farthing candle to the sun &c H0196, fight with a shadow, grasp at a shadow, catch at straws, lean on a broken reed, reckon without one's host, pursue a wild goose chase, go on a fool's goose chase, sleeveless errand, go further and fare worse, lose one's way, miss one's way, fail &c H0197
   bumble
+  acquire a skill, pick up, get the hang of
 
 Adj:
   dexterous, dextrous, adroit, deft, skilful, skilled, practised, proficient, expert, masterly, virtuosic, handy, nimble-fingered, accomplished
@@ -48,6 +49,7 @@ Adj:
   unaccustomed, unused, untrained &c H0684, uninitiated, unconversant &c H0579 [Obs.], shiftless, unstatesmanlike
   unadvised, ill-advised, misadvised, ill-devised, ill-imagined, ill-judged, ill-contrived, ill-conducted, unguided, misguided, misconducted, foolish, wild, infelicitous, penny wise and pound foolish &c H0612
   unprofessional, effortless, unskilled
+  well-versed, versed, conversant, seasoned, an old hand at
 
 Adv:
   dexterously, deftly, skilfully, expertly, with ease

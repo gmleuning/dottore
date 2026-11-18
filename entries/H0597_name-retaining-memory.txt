@@ -15,12 +15,14 @@ N:
   nickname, sobriquet, assumed name, assumed title, alias, nom de course, nom de theatre, nom de plume, pseudonym, pseudonymy
   retentive memory, retention of names, name and meaning
   terminology, moniker
+  inscription, record, register
 
 V:
   name, retain, learn words, call by name
   call, style, entitle, dub, christen
   misname, miscall, misterm†, assume a name
   hold, keep, remember names
+  inscribe, write down, enter
 
 Adj:
   nominal, verbal, lexical, onomastic

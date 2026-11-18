@@ -10,15 +10,18 @@ N:
 V:
   feel sure, be convinced, believe
   be persuaded, assure oneself
+  state the obvious
 
 Adj:
   subjective, personal, private, felt, inward, unconfirmed
   intrinsic, inherent, innate, inborn, ingrained
   persuaded, untested
+  obvious, evident, unquestionable, indubitable, beyond doubt
 
 Adv:
   subjectively, privately, inwardly
   to one's own mind
+  obviously, of course, needless to say
 
 F:
   German: Gewissheit [certainty, as distinct from Wahrheit, truth]

@@ -37,6 +37,7 @@ V:
   see service, be on service, be on active service, campaign, wield the sword, shoulder a musket, smell powder, be under fire, spill blood, imbrue the hands in blood, on the warpath
   quail &c H0605, be cowardly, be a coward, funk, cower, skulk, flinch, fight shy, slink, turn tail, run away &c H0609, show, the white feather
   sacrifice oneself
+  fortify, entrench, dig in, garrison, man the walls
 
 Adj:
   valorous, brave, courageous, martial, soldierly, military, chivalrous
@@ -52,6 +53,7 @@ Adj:
   Int, every man for himself! [Fr.Tr.], devil take the hindmost
   strategic, bold, unsure, feisty
   tactical, armed, defensive, offensive, badass [Slang]
+  fortified, entrenched, garrisoned, defended, impregnable
 
 Adv:
   valiantly, bravely, courageously

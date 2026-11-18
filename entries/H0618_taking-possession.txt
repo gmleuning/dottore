@@ -10,6 +10,7 @@ N:
   possession, seizin [Law], seisin [Law], ownership &c H0617, holding, tenure, tenancy, feodality†, dependency, villenage, villeinage†, socage†, chivalry, knight service
   receiving, suscipiency†, acceptance, admission
   retention, detention, custody, firm hold
+  acquirement, acquisitiveness
 
 V:
   take possession, seize, occupy, appropriate, grasp, mark, stake out, lay claim, enclose, homestead
@@ -18,11 +19,13 @@ V:
   possess, have, hold, enjoy, be possessed of, have in hand, own &c H0617, command
   retain, keep, hold fast one's own, clutch
   take
+  acquire, obtain, gain, procure, come by, come into
 
 Adj:
   appropriative, possessive, occupied, claimed, staked
   prehensile
   possessory
+  acquired, acquisitive
 
 Adv:
   by occupation, first come first served

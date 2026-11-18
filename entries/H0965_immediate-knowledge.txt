@@ -16,6 +16,7 @@ V:
 Adj:
   immediate, intuitive, fideist, direct
   unmediated, unreasoned, undemonstrated, unproved, unargued, non-inferential, non-discursive, self-evident, self-certifying, believing, faithful, trusting, convinced, assured, certain, credent†, fiducial, fideistic, implicit, childlike, inward, innate, inborn
+  obvious, axiomatic, evident
 
 Adv:
   immediately, directly, by faith alone
@@ -30,3 +31,5 @@ F:
 
 Phr:
   the heart has its reasons which reason knows not [Pascal]
+  it goes without saying
+  it stands to reason

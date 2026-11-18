@@ -16,11 +16,13 @@ N:
   guy, dude [Slang], bloke [Brit. Coll.], lad, fella, bro [Slang], gal, girl, lass, chick [Slang], bird [Brit. Slang], broad [U.S. Slang], dame [U.S. Slang], babe [Slang]
   boyfriend
   dating, girlfriend, partner, lover, sweetheart, valentine, crush, fling, hookup, relationship, situationship [Slang], ex, kissing, flirting, romance, prom, dating app, online dating, bachelor, bachelorette
+  celibacy, sexual abstinence, chastity, incel [Slang]
 
 V:
   love, desire, unite, complement
   differ
   date, kiss, flirt, go out with, ask out, hook up, break up, dump, ghost [Slang], fall in love
+  abstain
 
 Adj:
   sexual, gendered, masculine, feminine, male, female, erotic, complementary
@@ -31,6 +33,7 @@ Adj:
   manly, man-like, manful
   homosexual
   single, flirty, romantic, in a relationship, taken [Coll.]
+  celibate, abstinent, chaste
 
 Adv:
   as man and woman

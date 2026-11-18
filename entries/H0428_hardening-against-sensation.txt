@@ -17,6 +17,7 @@ V:
   harden the heart, caseharden, sear
   habituate, season, accustom
   fortify, case harden
+  fortify oneself, steel oneself, brace oneself
 
 Adj:
   hardened, inured, seasoned, tough, steeled, callous, thick-skinned, insensitive, numb, case-hardened, battle-hardened
@@ -24,6 +25,7 @@ Adj:
   insensible, unfeeling, senseless, impercipient†, hard, case hardened, proof, obtuse, dull, anaesthetic, comatose, paralytic, palsied, dead
   toughened
   anesthetic
+  fortified, braced
 
 Adv:
   unflinchingly, stoically
