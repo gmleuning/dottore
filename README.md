@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="editions/dottore_logo.svg" alt="Dialectica, a head with a bird perched on it, facing left" height="220">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="editions/dottore_logo_dark.svg" alt="Il Dottore, the commedia dell'arte doctor, facing right" height="220">
+  <img src="editions/dottore_logo_big.png" alt="Il Dottore, the commedia dell'arte doctor, in ink and watercolour" height="280">
 </p>
 
 # Dottore
@@ -13,7 +11,8 @@ Leibniz and Wilkins. Dottore keeps his method and his words and gives them a lar
 architecture of Hegel's Logic, Philosophy of Nature and Philosophy of Spirit. That frame is 1,056 entries deep, from
 Pure Being to the Hegelian System itself.
 
-It is one web page, `editions/dottore_3ed.html` (with `dottore_logo.svg` and `dottore_logo_dark.svg` beside it). It
+It is one web page, `editions/dottore_3ed.html` (with its logos beside it), online at
+**<https://gmleuning.github.io/dottore/editions/dottore_3ed.html>**. It
 needs no server and works offline, except for the dictionary panel.
 
 ## Using it

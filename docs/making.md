@@ -9,7 +9,8 @@ lives in `work/`, which is git-ignored and never uploaded.
 
 ```text
 dottore/
-├── editions/      THE PAGE, published: dottore_3ed.html with dottore_logo.svg and dottore_logo_dark.svg beside it
+├── editions/      THE PAGE, published: dottore_3ed.html with its logos beside it (dottore_logo_big.png,
+│                  dottore_logo_white.svg, and dottore_logo.svg as the tab icon)
 ├── entries/       THE BOOK: one plain-text file per entry (H0393_the-feeling-soul.txt), glosses included. Edit here.
 ├── data/          what the build reads besides entries/: hegel_nodes.csv (the system's structure: numbering,
 │                  names, parents), native_scripts/ (original scripts for foreign words); hegel_thesaurus.csv is
@@ -63,8 +64,11 @@ python tools/build_thesaurus.py               # entries/ -> data/hegel_thesaurus
 python tools/build_rogetta.py --edition 3ed   # -> editions/dottore_3ed.html (+ work/editions/dottore_3ed.md)
 ```
 
-Host the `editions/` folder as it is: `dottore_3ed.html` loads `dottore_logo.svg` and, in dark mode,
-`dottore_logo_dark.svg` from beside it. The page's interface is `tools/dottore_page.html`: gloss reveal on headword click,
+Host the `editions/` folder as it is. `dottore_3ed.html` loads its logos from beside it: il Dottore
+(`dottore_logo_big.png`, the watercolour) in light mode and Dialectica in white (`dottore_logo_white.svg`) in dark
+mode, as a bookplate in the left margin when the window is wide enough and in the search bar when it is not;
+`dottore_logo.svg` is the tab icon. It is published with GitHub Pages at
+<https://gmleuning.github.io/dottore/editions/dottore_3ed.html>. The page's interface is `tools/dottore_page.html`: gloss reveal on headword click,
 settings panel (stored per browser), double-click Wiktionary panel with etymology, IPA and audio (Wiktionary's public
 REST API, so any static host works).
 
