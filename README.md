@@ -37,14 +37,14 @@ It is one web page, `editions/dottore_3ed.html` (with its logos beside it), onli
 - *Scripts:* for each language, show the original script, the romanization, or both.
 - *Wiktionary:* double-click lookup on or off, IPA, audio, which languages to show and which to open first, how many examples per sense, and etymology as a timeline, as written, or hidden.
 
+## Dialectica
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="editions/dottore_logo_white.svg">
     <img src="editions/dottore_logo.svg" alt="Dialectica, a head with a bird perched on it, facing left" height="300">
   </picture>
 </p>
-
-## Dialectica
 
 In Martianus Capella's allegory *The Marriage of Philology and Mercury*, the Liberal Arts personified gather to attend the wedding of eloquence and erudition. Among the bridesmaids is *Dialectica*. She reminds the assembled that words are serpentine, sliding away from firm sentiments, set to change shape as quickly as context. She does this both by speaking simultaneously in sharp-cut phrases and murky pale, and by animating her metaphor with an enormous snake that strangled anyone too dim to understand her maneuvers. For Dialectica, the lines tracing between the words hold truth in its perfect black shine. Hegel took her name for the negative moment of thought, where what is reaches its surface, the outside, the other, and passes into relation.
 
