@@ -114,6 +114,7 @@ def main():
         head = f"{de[nid]} • {en[nid]}"
         d = r.get('Hegelian gloss', '').strip()   # the page shows the Hegelian gloss; the working Gloss stays in the entries for revision
         e = {'id': num(nid), 'h': head, 'g': '', 'o': None, 'p': path, 'pos': pos}
+        e['l'], e['k'] = label(nodes[nid]), int(nodes[nid]['depth'])   # label and depth, for the map
         if EDITION != '1ed': e['d'] = d      # the gloss, revealed by clicking the headword
         hd, hq, hl = (r.get(k, '').strip() for k in ('Hegel definition', 'Hegel quotes', 'Hegel locations'))
         quotes = []
