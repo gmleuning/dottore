@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism
 G: Leben der Erde
 Gloss: The earth's own vitality, shown in its atmosphere, sea and land.
+HGloss: The earth's vitality as an immediate subject, the life of the sea and land and atmosphere, which brings forth generatio aequivoca.
 
 N:
   earth's life; the living earth, biosphere, ecosphere, geosphere, hydrosphere, atmosphere, terrestrial vitality, life of the globe, earth's breathing

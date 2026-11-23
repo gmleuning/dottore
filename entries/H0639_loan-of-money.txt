@@ -1,0 +1,58 @@
+# 639 Loan of Money
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract › ii. Contract of Exchange › 2. Letting and Hiring
+G: Darlehen
+Gloss: The lending of money at interest.
+HGloss: The loan of money at interest.
+
+N:
+  loan of money; loan, credit, advance, debt, interest, usury, principal, creditor and debtor
+  premium, usance†, floating debt, floating capital
+  obligation, liability, indebtment†, debit
+  trust, tick, score, tally, account
+  lending, accommodation, feneration†, mortgage, second mortgage, home loan &c H0641, investment, note, bond, commercial paper
+  securities, stocks, common stock, preferred stock, bonds, puts, calls, options, option contract, warrants, bearer bond, tax-exempt bond, callable bond, convertable bond†
+  share, stock certificate, coupon, bond coupon
+  liquid assets
+  Monetary Relations
+  nonpayment, default, defalcation, repudiation, application of the sponge†, whitewashing
+  insolvency, bankruptcy, failure, insufficiency &c H0694, run upon a bank, overdrawn account
+  waste paper bonds, dishonored bills, protested bills, bogus check, bogus cheque, rubber check
+  bankrupt, debtor, lame duck, man of straw, welsher, stag, defaulter, levanter†
+  money-lending, loan at interest
+  insurer, brokerage
+  financial organization, financial institution, financial organisation, trust company, central bank, trust corporation, banking concern, banking company, clearing house, lending institution, issuing house, depository financial institution, state bank, member bank, lead bank, full service bank, credit union, insurance company, commercial bank, investment trust, investment company, agent bank, investment firm, insurance firm, finance company, reserve bank, securities firm, merchant bank, thrift institution, brokerage firm, insurance underwriter, national bank, unit trust, commercial credit company, unit investment trust, open-end fund, closed-end fund, private foundation, fixed investment trust, small loan company, sales finance company, commercial finance company, consumer finance company, public charity, mutual fund company, hedge fund, captive finance company, marriage mart, marriage brokerage, philanthropic foundation, building society, industrial bank, industrial loan company, federal savings bank, mutual savings bank
+  repayment
+
+V:
+  lend, loan, advance, borrow, owe, repay, finance, extend credit
+  be in debt, incur a debt, contract a debt, run up a bill, run up a score, run up an account, go on tick, borrow &c H0628, run into debt, get into debt, outrun the constable, run up bills &c H0693
+  accommodate with, lend on security, pawn &c H0641
+  disgorge, make repayment, refund, reimburse, retribute†, make compensation &c H0634
+  keep an account with, run up an account with, intrust, accredit
+  not pay, fail, break, stop payment, become insolvent, become bankrupt, be gazetted
+  protest, dishonor, repudiate, nullify, refuse payment
+  pay under protest, button up one's pockets, draw the purse strings, apply the sponge, pay over the left shoulder, get whitewashed, swindle &c H0650, run up bills, fly kites
+
+Adj:
+  lent, borrowed, owing, indebted, interest-bearing, usurious
+  liable, chargeable, answerable for
+  unpaid, unrequited, unrewarded, due, in arrear†, outstanding, past due
+  not paying, non-paying, non-performing, in debt, behindhand, behind in payments, in arrears, beggared &c H0705, unable to make both ends meet, minus, worse than nothing, worthless
+  insolvent, in the gazette, gazetted
+  gratis &c H0636, unremunerated
+
+Adv:
+  on loan, on credit, at interest
+  on account, to the account of, to the credit of
+
+F:
+  Latin: mutuum, fenus
+  Greek: tokos [interest, offspring]
+  French: a compte
+  Arabic: qarḍ [loan], ribā [usury, interest]
+  Sanskrit: ṛṇa [debt]
+  Chinese: daikuan [loan]
+  Japanese: kashitsuke
+
+Phr:
+  the borrower is servant to the lender [Bible]

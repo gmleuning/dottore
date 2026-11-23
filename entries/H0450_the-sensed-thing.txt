@@ -1,0 +1,28 @@
+# 450 The Sensed Thing
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › a. Sense-Certainty (Sensuous Consciousness)
+G: Das empfundene Ding
+Gloss: The thing as sensed.
+HGloss: The sensed thing, which proves to be a universal, a this that is many.
+
+N:
+  the sensed thing; sensible object, perceived thing, sense object, phenomenon, thing as given
+  the sensible thing, the thing of sense, the object of sense, the sensum, the perceptible
+
+V:
+  sense, perceive, encounter
+  feel
+
+Adj:
+  sensed, perceived, given, sensible, tangible
+  perceptible
+  detected
+
+Adv:
+  in sensation
+  sensibly, to the senses
+
+F:
+  Arabic: maḥsūs [the sensed]
+
+Phr:
+  the thing before me

@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity)
 G: Quantum
 Gloss: A definite amount; a particular "how much."
+HGloss: Quantity with a determinate limit: a how-much, whose limit is indifferent to it and drives beyond it.
 
 N:
   quantum; definite amount, determinate magnitude, given quantity, specific quantity, fixed amount, measured amount, quota, portion, share, dose, dosage, ration, allowance, measure, amount, sum, total; how much, so much, this much, so many; number &c H0046, degree &c H0047; unit, unit of measure, increment, quantity

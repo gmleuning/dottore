@@ -1,0 +1,36 @@
+# 687 Parental Love
+# Spirit › 2. Objective Spirit › III. Ethical Life › α. Family › c. Upbringing of Children and Dissolution of the Family
+G: Elternliebe
+Gloss: The love of parents for their children.
+HGloss: Love, the feeling of the unity, which in children is objective.
+
+N:
+  parental love; parental affection, motherly love, fatherly love, devotion, care, nurture, tenderness, solicitude
+  maternal love
+  affection, attachment
+  kindness, loving-kindness, warmth of heart
+  mother-love, father-love, fondness
+
+V:
+  love, cherish, nurture, protect, dote on
+  care for
+  cradle, nourish, nurse, foster
+  cherish one's child, dote
+
+Adj:
+  parental, maternal, paternal, motherly, fatherly, doting, tender
+  affectionate, loving, fond, devoted
+
+Adv:
+  tenderly, protectively
+  lovingly, fondly
+
+F:
+  Greek: storgē, storge
+  Arabic: ḥanān [tenderness], raḥma [compassion, from womb]
+  Sanskrit: vātsalya [parental affection]
+  Chinese: ci [parental kindness]
+  Japanese: boseiai [maternal love]
+
+Phr:
+  the child is father of the man [Wordsworth]

@@ -2,17 +2,18 @@
 # Logic › 1. Doctrine of Being › III. Measure › α. Specific Quantity › b. Specifying Measure
 G: Die Regel
 Gloss: A fixed outside standard used to measure other things, such as a yardstick or unit of weight.
+HGloss: An external standard, an arbitrary unit applied to things as their measure.
 
 N:
   the rule; rule, ruler, measuring rod, yardstick, metre stick, tape measure, scale, gauge, standard, unit, plumb line, level, square, chain, foot, ell, cubit, span, palm, hand, fathom, league, mile; standard weight, standard measure, weights and measures, metrology; external standard, conventional standard
   line, nail, inch, yard, rood, pole, furlong, link, arpent†, handbreadth†, jornada [U.S.], kos†, vara†
   yard measure, foot rule, compass, calipers, gage, meter, rod, check, dividers, velo†
-  normality, normalcy, normalness†, familiarity, naturalness, commonness &c H0222, customary &c H0427
+  normality, normalcy, normalness†, familiarity, naturalness, commonness &c H0222, customary &c H0431
   model, pattern
   prototype, original, precedent, ideal, reference, scantling, type, archetype, antitype†, protoplast, module, exemplar, example, ensample†, paradigm, lay-figure
   principle, law, order of things, normal state, natural state
   plummet
-  regularity, uniformity, constancy, routine &c H0427, formula
+  regularity, uniformity, constancy, routine &c H0431, formula
   norm, canon, criterion
 
 V:

@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › b. The One and the Many
 G: Das Eins und das Leere
 Gloss: The unit and the empty space that separates it from others; the void as the nothing between units, as in ancient atomism.
+HGloss: The one and its non-being outside it, the void, as the atomists set atom and void side by side.
 
 N:
   the one and the void; atoms and the void; void, vacuum, the empty, emptiness, empty space; interval, gap, interspace, interstice, intermediate space, separation, spacing, distance; nothing between; atomism, Democritean atomism, Epicureanism

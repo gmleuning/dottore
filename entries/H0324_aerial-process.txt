@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature › β. The Plant's Process of Assimilation
 G: Luftprozess
 Gloss: The plant's exchange with the air.
+HGloss: The plant's process with the air, its breathing out and in.
 
 N:
   aerial process; transpiration, respiration, gas exchange, stomata, breathing of leaves, exhalation, evaporation, aeration

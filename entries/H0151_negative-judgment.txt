@@ -2,25 +2,26 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › a. Judgment of Existence (Qualitative Judgment)
 G: Negatives Urteil
 Gloss: A judgment that denies a quality of a thing, as "the rose is not red."
+HGloss: The singular is not this abstract universal but a particular: the rose is not blue, but of some other colour.
 
 N:
   negative judgment; negation, denial, negative statement, contradiction, gainsaying, disavowal, disclaimer, refusal, no, nay
-  abnegation, abjuration, contravention, recusation [Law], protest, recusancy &c H0600, flat contradiction, emphatic contradiction, emphatic denial
+  abnegation, abjuration, contravention, recusation [Law], protest, recusancy &c H0604, flat contradiction, emphatic contradiction, emphatic denial
   negative proposition
   garbage, scraps
 
 V:
   deny, negate, gainsay, contradict, refute, rebut, disavow, disclaim, repudiate, reject, say no, demur
   contravene, controvert, give denial to, shake the head
-  disown, disaffirm, recant &c H0612, revoke &c H0711
-  dissent, disagree, say no &c H0595, refuse assent
+  disown, disaffirm, recant &c H0616, revoke &c H0715
+  dissent, disagree, say no &c H0599, refuse assent
   confute, disprove
   refuse
-  repudiate &c H0612, rebut &c H0603, refuse &c H0622
+  repudiate &c H0616, rebut &c H0607, refuse &c H0626
 
 Adj:
   negative, negatory, denying, contradictory, apophatic, privative
-  denied, recusant &c H0600, at issue upon
+  denied, recusant &c H0604, at issue upon
 
 Adv:
   negatively, no, nay, not, not at all, by no means, nowise

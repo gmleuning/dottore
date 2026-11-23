@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › β. Real Measure
 G: Verhältnis selbständiger Maße
 Gloss: The relation between things that each have their own measure.
+HGloss: Self-subsistent measures related to one another, each maintaining itself through its own measure.
 
 N:
   relation of self-subsistent measures; interrelation, interaction, interdependence, interplay, mutual relation, network, system of proportions, comparative measure; correlation, correspondence, compatibility, combinability

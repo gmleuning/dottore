@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation › b. Relation of Force and Its Expression
 G: Unendlichkeit der Kraft
 Gloss: A force understood as identical with its effects, so that its outward expression is its own self-expression.
+HGloss: Force expressing itself only to return into itself: its expression is the expression of the force itself.
 
 N:
   infinity of force; self-expression, self-manifestation, self-solicitation, spontaneity, self-activity, autonomy of force; unity of force and expression; inexhaustibility; power returning into itself

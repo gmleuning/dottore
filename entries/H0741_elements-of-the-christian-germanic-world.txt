@@ -1,0 +1,29 @@
+# 741 Elements of the Christian-Germanic World
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History [Tetrad] › iv. Germanic World (Freedom)
+G: Elemente der christlich-germanischen Welt
+Gloss: The foundations of the Christian-Germanic world.
+HGloss: The elements of the Christian-Germanic world: the migrations, Islam, and the empire of Charlemagne.
+
+N:
+  elements of the Christian-Germanic world; the barbarian migrations, the Germanic tribes, conversion, Islam, Mohammedanism [archaic], the Frankish kingdom, Charlemagne
+  Neoplatonism, Gnosticism
+  the foundations, the beginnings, the migrations of the peoples, the barbarian invasions, Christianity, the Germanic character, heart, fidelity, the Franks, Charlemagne's empire
+
+V:
+  migrate, invade, convert, conquer, settle
+  found, christianize
+
+Adj:
+  Germanic, barbarian, Frankish, Carolingian, Islamic
+  elemental, foundational, Christian, early medieval
+
+Adv:
+  in the age of migrations
+  at the foundation, in the beginning, originally
+
+F:
+  German: Völkerwanderung
+  Arabic: al-Islām, Muḥammad, futūḥ [conquests]
+
+Phr:
+  the revolution of the East [Hegel on Islam]

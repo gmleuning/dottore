@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad]
 G: Systeme der Gestalt
 Gloss: The bodily systems in which the functions of the organism are carried out.
+HGloss: The systems of shape in which the functions exist: the nervous, blood and digestive systems.
 
 N:
   systems of shape; bodily systems, organ systems, nervous system, circulatory system, digestive system, skeletal system, muscular system, respiratory system; apparatus, organs

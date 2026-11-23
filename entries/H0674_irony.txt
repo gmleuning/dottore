@@ -1,0 +1,38 @@
+# 674 Irony
+# Spirit › 2. Objective Spirit › II. Morality › γ. The Good and Conscience › e. Evil and Its Forms
+G: Ironie
+Gloss: A stance that treats all moral content as dependent on the self's whim.
+HGloss: Irony, the supreme form of subjectivity, which knows itself as master of all ethical content.
+
+N:
+  irony; romantic irony, Romantic irony [Friedrich Schlegel], ironic detachment, the ironic self, infinite absolute negativity, mockery, self-mockery, flippancy, nihilism, the subject as master of all things, persiflage, sardonicism
+  ridicule, derision, banter, raillery, badinage
+  absolute subjectivity, subjective vanity, the self as master of all content, self-enjoyment, frivolity
+
+V:
+  ironize, mock, detach oneself, play, make light of, scoff
+  laugh in one's sleeve, rally, chaff
+  deride, sneer
+  hold cheap, think nothing of
+  play with, toy, dissolve
+
+Adj:
+  ironic, ironical, detached, flippant, sardonic, mocking, tongue-in-cheek
+  derisive, sarcastic, quizzical, burlesque
+  self-indulgent, frivolous, arbitrary
+
+Adv:
+  ironically, with tongue in cheek, tongue in cheek
+  at whim, playfully
+
+F:
+  Latin: ironia
+  Greek: eirōneia
+  Arabic: tahakkum [irony, mockery]
+  Sanskrit: vakrokti [oblique speech]
+  Chinese: fanfeng [irony]
+  Japanese: hiniku
+
+Phr:
+  die endlich höchste Form, in der diese Subjektivität sich vollkommen erfaßt und ausspricht, ist die Gestalt, die man … Ironie genannt hat [Ger.] [Hegel, Philosophy of Right §140 Remark]
+  Socratic irony

@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › α. Existence › a. The Thing and Its Properties
 G: Eigenschaft des Dinges
 Gloss: A feature by which a thing acts on, and is known by, other things.
+HGloss: The thing's determinateness as its relation to other things: a property is the way a thing has effects on others and shows itself in them.
 
 N:
   property of the thing; property, attribute, quality, characteristic, feature, trait, mark, note, capacity, power, disposition, dispositional property, tendency, propensity, virtue [archaic sense: active power], potency

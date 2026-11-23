@@ -1,0 +1,36 @@
+# 932 Epic Poetry
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres
+G: Epische Poesie
+Gloss: Narrative poetry recounting the deeds of a people or a hero.
+HGloss: Epic, which presents an action as a world, in the totality of a people's life and ethos; the poetry of an objective whole.
+
+N:
+  epic poetry; epic, heroic poem, saga, romance, lay, narrative poetry
+  tradition, legend, story, tale
+  fable
+  epopee, epopoeia, heroic verse, heroic poetry, heroic song, the bible of a people, national epic, folk epic, rhapsody, rhapsode, bard, the Iliad, the Odyssey
+
+V:
+  narrate, sing, recount
+  relate, recite
+  tell, chant, rhapsodize, chronicle, celebrate, immortalize
+
+Adj:
+  epic, heroic, narrative, Homeric
+  historic, traditional, legendary
+  epical, bardic, rhapsodic, national, storied
+
+Adv:
+  epically
+  in epic form, in heroic verse, at length
+
+F:
+  Greek: epos
+  French: chanson de geste
+  Arabic: malḥama
+  Sanskrit: mahākāvya [great poem]
+  Chinese: shishi
+  Japanese: jojishi
+
+Phr:
+  die vielen epischen Bibeln [Ger.] [Hegel, Aesthetics, on the epic]

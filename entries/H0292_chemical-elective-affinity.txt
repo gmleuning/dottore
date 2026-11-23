@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › γ. Chemical Process › b. Real Process (Combination) [Tetrad]
 G: Chemische Wahlverwandtschaft
 Gloss: The preference of a substance to combine with one substance rather than another.
+HGloss: The neutral bodies entering into new combinations according to the preference of their affinities.
 
 N:
   chemical elective affinity; affinity, chemical affinity, preference, selective combination, displacement, substitution, single displacement, double displacement, double decomposition

@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › β. Appearance Proper
 G: Auflösung der Erscheinung
 Gloss: The collapse of the contrast between the apparent and the real world into a relation between them.
+HGloss: The two worlds each proving to be the essence of the other, so that appearance passes into essential relation.
 
 N:
   dissolution of appearance; collapse of the two worlds, breakdown of dualism, overcoming of dualism, unmasking, demystification, disenchantment, demythologization; relation

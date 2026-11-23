@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality › α. The Absolute
 G: Der Modus des Absoluten
 Gloss: A particular, outward manner in which the all-inclusive whole shows itself; a passing form or mode.
+HGloss: The absolute's own externality, its loss of itself in mutability, yet the mode is the absolute's own self-showing.
 
 N:
   the mode of the absolute; mode, modification, affection, manner, way, form, guise, shape, fashion, state, phase, aspect, instance, manifestation, expression; finite thing as mode

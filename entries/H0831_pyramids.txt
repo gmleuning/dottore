@@ -1,0 +1,29 @@
+# 831 Pyramids
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › i. Symbolic Architecture › 3. Transition to Classical Architecture
+G: Pyramiden
+Gloss: Vast stone tombs enclosing a hidden dead.
+HGloss: The pyramids, crystal shells that conceal a dead spirit: the invisible enclosed in the visible, the beginning of architecture's service to an end.
+
+N:
+  pyramids; pyramid, Great Pyramid of Giza, mastaba, ziggurat, step pyramid, tomb of the pharaohs, crystal of the dead
+  royal tomb, sepulchre, mausoleum, burial chamber, the tombs of the kings, Giza, Cheops, the housing of the dead, the hidden inner
+
+V:
+  entomb, build, raise
+  bury, enclose, conceal, pile, heap
+
+Adj:
+  pyramidal, funerary, monumental, sepulchral, pharaonic
+  mortuary, colossal, vast, crystalline
+
+Adv:
+  for eternity
+  pyramidally, in stone, over the dead
+
+F:
+  Arabic: haram [pyramid], ahrām [pyramids]
+  Chinese: jinzita [pyramid]
+
+Phr:
+  sie sind ungeheure Kristalle, welche ein Inneres in sich bergen [Ger.] [Hegel, Aesthetics, on the pyramids]
+  man fears time, yet time fears the pyramids [Arab proverb]

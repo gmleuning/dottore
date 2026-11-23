@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such › iii. Saps
 G: Lebenssaft
 Gloss: The sap by which a plant nourishes its living tissue.
+HGloss: The sap that nourishes the living tissue.
 
 N:
   vital sap; elaborated sap, phloem sap, nourishing sap, living juice, vital fluid; essence

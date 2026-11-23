@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › α. Specific Quantity
 G: Fürsichsein im Maße
 Gloss: A measure that maintains itself as a constant relation; a stable proportion that defines a thing.
+HGloss: The measure maintaining itself as a ratio of its two qualitative sides, a being-for-self in measure.
 
 N:
   being-for-self in measure; constant proportion, stable ratio, invariant, invariance, constancy, homeostasis, self-maintenance, self-regulation, persistence, stability, identity through change, equilibrium, steady state, conservation; character, defining proportion; mean, balance

@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea
 G: Leben
 Gloss: Thought present as a living being, in which an organizing principle is at work in every part of a body.
+HGloss: The idea in its immediacy: the soul in its body, the living concept present in every member.
 
 N:
   life; vitality, liveliness, animation, vigour, vivacity, spirit, vital force, life-force, life principle, entelechy; organism, organization, living being, creature; self-organization, autopoiesis, self-maintenance
@@ -16,7 +17,7 @@ V:
 
 Adj:
   living, alive, live, animate, vital, vivacious, lively, organic, biological, animated, quick, sentient, breathing, self-organizing
-  in life, in the land of the living, on this side of the grave, above ground, animative†, lively &c H0375, all alive and kicking, tenacious of life, full of life, yeasty
+  in life, in the land of the living, on this side of the grave, above ground, animative†, lively &c H0379, all alive and kicking, tenacious of life, full of life, yeasty
   active
 
 Adv:

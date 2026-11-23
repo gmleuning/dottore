@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › c. Condition
 G: Hervorgang der Sache in die Existenz
 Gloss: The coming into existence of a fact once all its conditions are present.
+HGloss: When all its conditions are present the fact enters into existence; the unconditioned become immediacy.
 
 N:
   emergence of the fact into existence; the fact, the matter, the thing itself; emergence, coming forth, issuance, appearance, manifestation, materialization, realization, actualization, coming to pass, fruition, eventuation, birth; event, occurrence, happening, outcome; the time is ripe, ripeness, readiness
@@ -14,7 +15,7 @@ V:
   take place, take effect, come, become of, come off, comeabout†, come round, come on, pass, fall, fall out, turn out, run, be on foot, fall in, befall, betide, bechance†, prove, draw on, turn up, crop up, spring up, pop up, arise, show up, show its face, cast up, supervene, survene†, arrive, ensue, start, hold, take its course, pass off &c H0225
   emanate
   present itself, reveal itself, stand forth
-  be manifest, transpire &c H0595, speak for itself
+  be manifest, transpire &c H0599, speak for itself
 
 Adj:
   emergent, emerging, nascent, issuing, actualized, realized, accomplished, ripe, ready, timely

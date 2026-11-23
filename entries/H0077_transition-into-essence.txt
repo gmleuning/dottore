@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › γ. The Becoming of Essence
 G: Übergang in das Wesen
 Gloss: The passage from what is immediately given to what lies beneath it.
+HGloss: Being's going into itself, which reveals that its truth is essence.
 
 N:
   transition into essence; passage inward, inward turn, recession, withdrawal, return into self, introversion, recollection; turning point, threshold, gateway, portal, door; depth, interior, inside, core, kernel, heart, marrow, pith; from surface to depth, from appearance to reality

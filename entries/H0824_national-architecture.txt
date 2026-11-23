@@ -1,0 +1,27 @@
+# 824 National Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › i. Symbolic Architecture
+G: Bauwerke zur Vereinigung der Völker
+Gloss: Building that expresses the unity of a people, as a tower or monument.
+HGloss: Building that unites a people, the tower of Babel and the Bel temple.
+
+N:
+  national architecture; buildings uniting peoples, the Tower of Babel, Babylonian ziggurat, the Temple of Bel, collective monument, communal building
+  national monument, the tower of Belus, the unifying work, the common work, the bond of a people, rallying point, the work of nations
+
+V:
+  unite, gather, build together
+  bind, rally, build in common, raise
+
+Adj:
+  national, communal, Babylonian, collective
+  unifying, monumental, towering
+
+Adv:
+  in common
+  as one people, together
+
+F:
+  Arabic: Bābil [Babel]
+
+Phr:
+  the Tower of Babel

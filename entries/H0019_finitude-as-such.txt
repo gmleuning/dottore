@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude
 G: Endlichkeit als solche
 Gloss: Limitedness taken seriously: a thing whose limit is part of its very nature, so that it is bound to pass away; mortality, transience.
+HGloss: The finite as such, whose being consists in having its limit within itself as its own end, so that its hour of birth is the hour of its death.
 
 N:
   finitude as such; mortality, the mortal condition, being-toward-death; perishability, transience, transitoriness, ephemerality, evanescence, fragility, frailty, vulnerability, precariousness, caducity; destined end, appointed end, doom, fate, lot; impermanence; vanity; the dust, dust and ashes; death's-head, skull, hourglass, guttering candle

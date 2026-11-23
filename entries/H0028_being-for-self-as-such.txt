@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self
 G: Fürsichsein als solches
 Gloss: Self-relation as such: a thing complete in itself, no longer defined by its dealings with something else.
+HGloss: Being-for-self taken simply, as the self-relation that has otherness only as sublated within it.
 
 N:
   being-for-self as such; pure self-relation, simple self-reference; returned-into-self, closure, self-enclosure, insularity; ideality of the finite; independence &c H0027; infinite self-relation; sufficiency, completeness

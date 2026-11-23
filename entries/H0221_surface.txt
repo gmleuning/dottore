@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › α. Space
 G: Fläche
 Gloss: Extension in two dimensions.
+HGloss: The negation of the line, the surface, which as the enclosing limit makes space a solid.
 
 N:
   surface; plane, face, side, facet, area, expanse, sheet, film, skin, membrane, layer, coat, veneer, exterior, outside, top; two dimensions, flatness, planarity
@@ -23,7 +24,7 @@ N:
 V:
   surface, face, coat, cover, veneer, plane, flatten, level
   slice, shave, pare, peel, delaminate
-  superpose, superimpose, overlay, overspread, wrap &c H0690, encase, incase†, case, pave, paper, tip, cap, bind, bulkhead, bulkhead in, clapboard [U.S.]
+  superpose, superimpose, overlay, overspread, wrap &c H0694, encase, incase†, case, pave, paper, tip, cap, bind, bulkhead, bulkhead in, clapboard [U.S.]
   render horizontal, lay down, lay out, prostrate, knock down, floor, fell
   smoothen†, file, mow, roll, macadamize, polish, burnish, calender†, glaze, iron, hot-press, mangle, lubricate &c H0230
   line, stuff, incrust, wad, pad, fill

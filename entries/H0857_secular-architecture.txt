@@ -1,0 +1,38 @@
+# 857 Secular Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › iii. Romantic Architecture › 3. Different Styles
+G: Weltliche Baukunst
+Gloss: Building for civic and domestic use.
+HGloss: The secular building of the Middle Ages: castles, city walls, town halls, fortifications.
+
+N:
+  secular architecture; civic architecture, town hall, palace, castle, fortress, mansion, villa, guildhall
+  cottage, lodge, chateau, pavilion, court, manor-house
+  stronghold, fastness, keep, donjon, citadel
+  civil architecture, civic building, domestic building, profane architecture, burgher house, city wall, bridge, garden architecture
+  marquee
+  fortification, fortifications, bulwark, rampart, ramparts, bastion, battlement, redoubt, sconce, earthwork, fortified town
+
+V:
+  fortify, house, govern
+  build, dwell, garden
+  entrench, wall in, ensconce
+
+Adj:
+  secular, civic, palatial, fortified, baronial
+  civil, domestic, profane, municipal, residential, utilitarian
+  walled, embattled, battlemented, castellated, impregnable
+
+Adv:
+  civically
+  for civic use, for domestic use, for worldly ends
+
+F:
+  German: Rathaus, Burg
+  French: château
+  Italian: palazzo
+  Arabic: qaṣr [palace], qalʿa [citadel]
+  Chinese: gongdian [palace]
+  Japanese: shiro [castle]
+
+Phr:
+  an Englishman's home is his castle

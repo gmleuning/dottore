@@ -2,7 +2,7 @@
 Run from the project root after build_thesaurus.py:
   python tools/build_rogetta.py [path/to/template.html] [out.html]
 Defaults: work/editions/hegelsaurus.html (rebuilt in place, see below), plus work/editions/hegelsaurus_1ed.md (text edition with the gloss definitions).
-  --edition 3ed  -> editions/dottore_3ed.html (the published page) and work/editions/dottore_3ed.md (text edition, not published)
+  --edition 3ed  -> editions/dottore.html (the published page) and work/editions/dottore_3ed.md (text edition, not published)
 Heads are shown without parentheticals, [Tetrad] tags and quotation marks, except where trimming would make two
 heads identical (Logic, Nature, Spirit, Subjectivity, Phenomenology of Spirit); the source files keep the full names.
 
@@ -23,7 +23,7 @@ ARGS = [a for i, a in enumerate(sys.argv[1:], 1) if a != '--edition' and sys.arg
 NAME = 'Hegelsaurus' if EDITION == '1ed' else 'Dottore'
 TEMPLATE = ARGS[0] if len(ARGS) > 0 else os.path.join(ROOT, 'work', 'editions', 'hegelsaurus.html') if EDITION == '1ed' \
     else os.path.join(ROOT, 'tools', 'dottore_page.html')
-OUT = ARGS[1] if len(ARGS) > 1 else (os.path.join(ROOT, 'work', 'editions', 'hegelsaurus.html') if EDITION == '1ed' else os.path.join(ROOT, 'editions', f'dottore_{EDITION}.html'))
+OUT = ARGS[1] if len(ARGS) > 1 else (os.path.join(ROOT, 'work', 'editions', 'hegelsaurus.html') if EDITION == '1ed' else os.path.join(ROOT, 'editions', 'dottore.html'))
 MD = os.path.join(ROOT, 'work', 'editions', 'hegelsaurus_1ed.md' if EDITION == '1ed' else f'dottore_{EDITION}.md')
 TAGLINE = {'1ed': "*Roget's 1911 Thesaurus reorganized under Hegel's system. First edition.*",
            '3ed': "*A thesaurus of English and German ordered by Hegel's system. Third edition: contemporary, colloquial and vulgar "
@@ -112,7 +112,7 @@ def main():
             ss = [xrefs(s) for s in ss]
             if ss: pos.append([tag, ss])
         head = f"{de[nid]} • {en[nid]}"
-        d = r.get('Gloss', '').strip()
+        d = r.get('Hegelian gloss', '').strip()   # the page shows the Hegelian gloss; the working Gloss stays in the entries for revision
         e = {'id': num(nid), 'h': head, 'g': '', 'o': None, 'p': path, 'pos': pos}
         if EDITION != '1ed': e['d'] = d      # the gloss, revealed by clicking the headword
         hd, hq, hl = (r.get(k, '').strip() for k in ('Hegel definition', 'Hegel quotes', 'Hegel locations'))

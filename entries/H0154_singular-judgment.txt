@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › b. Judgment of Reflection
 G: Singuläres Urteil
 Gloss: A judgment of this kind about one thing: "this plant is healing."
+HGloss: This singular is essentially universal: this plant is curative.
 
 N:
   singular judgment; singular proposition, judgment about an individual, individual statement; this-statement; case, instance

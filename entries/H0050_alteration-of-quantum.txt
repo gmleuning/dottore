@@ -2,12 +2,13 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › β. Quantum › b. Extensive and Intensive Quantum (Degree)
 G: Veränderung des Quantums
 Gloss: The change of one amount into another, to which every amount is open, since nothing in it fixes it at the size it is.
+HGloss: The quantum's continual going beyond itself, since its limit is indifferent to it.
 
 N:
   alteration of quantum; increase, increment, augmentation, accretion, accrual, accumulation, growth, gain, rise, upturn, uptick, upswing, escalation, inflation, amplification, multiplication; decrease, decrement, diminution, reduction, abatement, decline, drop, fall, downturn, downtick, deflation, contraction, shrinkage, attrition, erosion, loss; fluctuation, variation, oscillation, swing, flux; more and less, plus and minus; difference, delta, Δ, margin, differential
   enlargement, extension, dilatation &c H0218, accession, development, aggravation, ascent &c H0228, exaggeration exacerbation, spread &c H0035, flood tide, produce, product, profit
   expansion, increase of size, ampliation†, aggrandizement, pullulation, dilation, rarefaction, turgescence†, turgidness, turgidity, dispansion†, obesity &c H0218, hydrocephalus, hydrophthalmus [Med.], dropsy, tumefaction, intumescence, tumor, diastole, distension, puffing, puffiness, pandiculation†
-  subsidence, descent &c H0233, reflux, depreciation, deterioration &c H0717, anticlimax, mitigation &c H0121
+  subsidence, descent &c H0233, reflux, depreciation, deterioration &c H0721, anticlimax, mitigation &c H0121
   lessening, subtraction, declension, shrinking &c H0218, coarctation†, abridgment &c H0220, extenuation
   shrinking, compaction, attenuation
   increase and decrease, variation of amount, change of size
@@ -16,7 +17,7 @@ N:
 V:
   increase, augment, grow, swell, rise, mount, wax, add, accrue, accumulate, escalate, inflate, amplify, multiply, enlarge, magnify, boost, step up, ratchet up; decrease, diminish, lessen, reduce, decline, drop, fall, wane, ebb, shrink, contract, deflate, abate, attenuate, taper, dwindle, erode, whittle down, ratchet down; fluctuate, vary, oscillate
   abridge &c H0220, shrink &c H0218, drop off, fall off, tail off, fall away, waste, wear, descend &c H0233, subside, melt away, die away, retire into the shade, hide its diminished head, fall to a low ebb, run low, languish, decay, crumble
-  become small, become smaller, grow less, narrow, shrivel, collapse, wither, lose flesh, wizen, decay &c H0717
+  become small, become smaller, grow less, narrow, shrivel, collapse, wither, lose flesh, wizen, decay &c H0721
   add to, dilate &c H0218, get ahead
   become larger &c H0218, expand, widen, incrassate†, gather, fill out, deploy, take open order, dilate, stretch, mantle, grow up, spring up, bud, shoot, sprout, germinate, put forth, vegetate, pullulate, open, burst forth, gain flesh, gather flesh, outgrow, spread like wildfire, overrun
   bate, dequantitate†, discount, depreciate, extenuate, lower, weaken, fritter away, mitigate &c H0121, dwarf, throw into the shade, reduce &c H0218, shorten &c H0220, subtract

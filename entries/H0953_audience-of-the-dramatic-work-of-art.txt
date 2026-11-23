@@ -1,0 +1,33 @@
+# 953 Audience of the Dramatic Work of Art
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › i. Drama as a Poetical Work of Art
+G: Das Verhältnis des dramatischen Kunstwerks zum Publikum
+Gloss: The public for whom a drama is made.
+HGloss: The public, whose understanding and approval the drama must win.
+
+N:
+  audience of the dramatic work of art; audience, spectators, public, theatregoers, the house, the pit, the gallery
+  onlookers, beholders, playgoers, the stalls, the boxes, the gods, the groundlings, auditorium, spectatorship, reception, applause, public taste
+  clapping
+
+V:
+  watch, applaud, hiss, attend
+  look on
+  observe &c H0586, watch &c H0586
+  spectate, behold, witness, clap, cheer, boo, receive
+
+Adj:
+  public, spectatorial
+  popular, onlooking, receptive, applauding
+
+Adv:
+  before an audience
+  publicly, in public, to a full house
+
+F:
+  Arabic: jumhūr [public]
+  Sanskrit: sahṛdaya [the sensitive spectator]
+  Chinese: guanzhong [audience]
+  Japanese: kankyaku
+
+Phr:
+  plaudite [Lat.] [applaud!]

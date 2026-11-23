@@ -1,0 +1,25 @@
+# 602 Reproductive Memory
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › b. Representation › iii. Memory
+G: Reproduktives Gedächtnis
+Gloss: Memory that grasps a meaning directly in its name.
+HGloss: Memory that has the thing in the name and recognizes the meaning in the name without image or intuition.
+
+N:
+  reproductive memory; recall of meaning from words, verbal recall, understanding through names, retrieval; thinking in names, word-meaning link
+  reproducing memory, imageless recollection, the name as the thing, understanding in the name, recall of meaning
+
+V:
+  recall, retrieve, reproduce, understand by the word
+  recognize, understand in the name
+
+Adj:
+  reproductive, retrievable, verbal
+  imageless, recollective
+
+Adv:
+  on hearing the name
+  in the name, without image, by name
+
+Phr:
+  it is in names that we think [Hegel, Encyclopaedia §462 Remark, tr. Wallace]
+  es ist in Namen, daß wir denken [Ger.] [Hegel, Encyclopaedia §462 Remark]

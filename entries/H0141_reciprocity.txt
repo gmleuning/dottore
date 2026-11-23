@@ -2,12 +2,13 @@
 # Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation
 G: Wechselwirkung
 Gloss: Mutual action; the relation in which two things are each the cause and effect of the other.
+HGloss: The infinite reciprocal causality of substances, in which necessity unveils itself as freedom and passes into the concept.
 
 N:
   reciprocity; reciprocal action, interaction, mutual causation, interdependence, mutuality, mutual determination, codetermination, give and take, exchange, interchange, back-and-forth, feedback loop, circular causality, community; symbiosis, synergy, complementarity, correlation; dependent co-arising; Indra's net
   reciprocalness†, reciprocation, interrelation, connection, link, association
   commutation, permutation, intermutation, transposition, rearrangement, alternation, castling (at chess)
-  concurrence, cooperation, coagency†, consilience†, concert, synergy &c H0702
+  concurrence, cooperation, coagency†, consilience†, concert, synergy &c H0706
   interplay
 
 V:

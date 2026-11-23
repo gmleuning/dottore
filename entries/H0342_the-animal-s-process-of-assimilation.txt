@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature
 G: Assimilationsprozess des Tiers
 Gloss: The animal's taking of its surroundings into itself.
+HGloss: The organism's relation to an inorganic nature that it takes into itself and makes its own.
 
 N:
   the animal's process of assimilation; assimilation, appropriation, ingestion, consumption, eating, feeding, devouring, predation; need, appetite, hunger, thirst
@@ -19,7 +20,7 @@ V:
 
 Adj:
   assimilative, appropriative, predatory, voracious, hungry
-  lenten, quadragesimal†, unfed†, starved, half-starved, hungry &c H0609
+  lenten, quadragesimal†, unfed†, starved, half-starved, hungry &c H0613
   ingestive
 
 Adv:

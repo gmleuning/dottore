@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self
 G: Repulsion und Attraktion
 Gloss: The two relations among many units: pushing apart, which keeps them separate, and drawing together, which unites them.
+HGloss: Repulsion, through which the one posits the many, and attraction, through which the many are one; each presupposes the other.
 
 N:
   repulsion and attraction; push and pull, push-pull, centrifugal and centripetal force, expansion and contraction, systole and diastole; love and strife; concord and discord, harmony and strife; polarity, tension, equilibrium, balance; affinity and aversion, sympathy and antipathy

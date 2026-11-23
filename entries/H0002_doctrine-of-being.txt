@@ -2,6 +2,7 @@
 # Logic
 G: Lehre vom Sein
 Gloss: The study of the simplest concepts, those that describe a thing directly as it is, without reference to anything behind it. Each such concept, when thought through, gives way to another.
+HGloss: The sphere of immediacy, where each determination simply is and passes over into another; the concept only in itself.
 
 N:
   doctrine of being; logic of being, ontology; immediacy, directness, givenness, the given, datum, data; surface, face value; transition, passing over; change into another &c (becoming) H0007

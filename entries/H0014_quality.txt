@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › a. Determinate Being as Such
 G: Qualität
 Gloss: The definite character of an existing thing. It marks out what the thing is, and by the same token what it is not.
+HGloss: Determinateness as immediately existing, one with being; as reality and as negation, since every determination is a negation.
 
 N:
   quality; character, feature, trait, attribute, property, mark, note, characteristic; reality, positivity, affirmation, affirmativeness, positiveness; negation, negativity, privation, exclusion, absence, lack, defect, want, shortfall, deficiency, limitation &c H0021

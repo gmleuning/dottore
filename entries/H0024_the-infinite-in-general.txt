@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › c. Infinity
 G: Das Unendliche überhaupt
 Gloss: The unlimited in its first, simple sense: what the limited passes into when it goes beyond itself; the negation of the finite, taken as what truly is.
+HGloss: The infinite in its simple concept: the affirmation that results as the negation of the finite.
 
 N:
   the infinite in general; the beyond, beyondness, transcendence, the transcendent, the other world, otherworldliness, the hereafter, yonder, the great beyond; the unconditioned, the absolute other, the wholly other; the not-finite, the nonfinite, negation of the finite; empyrean, heaven, the heavens; ideal, the ideal; true being

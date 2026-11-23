@@ -2,6 +2,7 @@
 # Nature
 G: Physik
 Gloss: The study of matter in its qualities, as particular kinds of body with their own properties.
+HGloss: Matter individualized, which has its determinations within it as its qualities: light, the elements, and the individual body.
 
 N:
   physics; natural science, natural philosophy, physical science, science of matter, science of qualities; individualized matter, qualitative matter
@@ -14,7 +15,7 @@ V:
 
 Adj:
   physical, natural, material, qualitative, empirical, experimental
-  experimental &c H0600
+  experimental &c H0604
   corporeal
 
 Adv:

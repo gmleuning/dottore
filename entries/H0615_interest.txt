@@ -1,0 +1,40 @@
+# 615 Interest
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › β. Practical Mind › b. Drives and Choice
+G: Interesse
+Gloss: The engagement of the self in what it pursues.
+HGloss: The subject's own satisfaction in the activity of realizing its aims, its interest.
+
+N:
+  interest; self-interest, stake, concern, engagement, investment, involvement, motive
+  import, significance, emphasis
+  springs of action, wellsprings of action
+  pursuit &c H0613, affair
+  vested interest
+  bearing
+  thirst for knowledge, thirst for truth, curiosity, curiousness, inquiring mind, inquisitiveness
+
+V:
+  interest, concern, engage, matter, have a stake, care
+  persuade, prevail with, prevail upon, overcome, carry, bring round to one's senses, bring to one's senses, draw over, win over, gain over, come over, talk over, procure, enlist, invite, court
+  touch, affect, have to do with
+  signify
+  involve
+
+Adj:
+  interested, concerned, engaged, invested, involved
+  impulsive, suasive, suasory†, persuasive, persuasory†, hortative, hortatory, protreptical†, inviting, tempting, seductive, attractive, fascinating &c H0609, provocative &c H0609
+  encouraging, enticing, alluring
+
+Adv:
+  with interest, out of interest
+  engagedly
+
+F:
+  Latin: interesse [to be between, to matter]
+  Arabic: maṣlaḥa [interest, welfare]
+  Sanskrit: artha [aim, advantage]
+  Chinese: liyi [interest]
+  Japanese: rieki
+
+Phr:
+  cui bono? [Lat.] [who benefits?]

@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature
 G: Gestalt des Tiers
 Gloss: The animal's bodily form and the systems that compose it.
+HGloss: The animal organism as shape, the subject's self-formation into its systems: sensibility, irritability and reproduction.
 
 N:
   the animal's formation; animal form, body plan, anatomy, morphology, bodily structure, organization, physique, frame, build; organs and systems

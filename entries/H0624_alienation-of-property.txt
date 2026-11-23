@@ -1,0 +1,42 @@
+# 624 Alienation of Property
+# Spirit › 2. Objective Spirit › I. Abstract Right › α. Property
+G: Veräußerung des Eigentums
+Gloss: The giving up of a thing that is one's own; transfer, sale.
+HGloss: The giving up of my property, possible because the thing is mine only by my will.
+
+N:
+  alienation of property; alienation, conveyance, transfer, cession, disposal, sale, divestment, relinquishment, abandonment, inalienable rights
+  assignment, abalienation†, demise, limitation, conveyancing†, transmission &c H0228, enfeoffment†, bargain and sale, lease and release, exchange &c H0141, barter &c H0635, substitution &c H0017
+  abandonment &c H0616, expropriation†, dereliction, dispensation, quitclaim deed, resignation &c H0714, riddance
+  transference
+  abdication, renunciation
+  assigning, conveying
+
+V:
+  alienate, convey, transfer, cede, dispose of, relinquish, abandon, sell, give away, sign over
+  give up, surrender, yield, let go, let slip, spare, drop, resign, renounce, expropriate†, part with, lay aside, lay apart, lay down, lay on the shelf &c H0623, set aside, put aside, put away, make away with, cast behind, maroon
+  alien, assign, grant &c H0630, consign, make over, hand over, pass, hand, negotiate, hand down
+  transmit
+  forsake, forego
+  vend, effect a sale, sell over the counter, sell by auction, dispense, retail, deal in &c H0635, sell off, sell out, turn into money, realize, bring to the hammer, bring under the hammer, put up to auction, put up for auction, offer for sale, put up for sale, hawk, bring to market, offer &c H0627, undersell
+  divest
+  redo, rework
+
+Adj:
+  alienable, transferable, conveyable; inalienable, imprescriptible, untransferable
+  unalienable
+  relinquished
+
+Adv:
+  in perpetuity, for good
+  by alienation, by transfer
+
+F:
+  German: Entäußerung
+  Latin: derelictio, res extra commercium
+  Arabic: tafwīt [transfer], waqf [inalienable endowment]
+  Sanskrit: dāna [giving away]
+
+Phr:
+  inalienable rights
+  unveräußerlich sind daher diejenigen Güter … welche meine eigenste Person und das allgemeine Wesen meines Selbstbewußtseins ausmachen [Ger.] [Hegel, Philosophy of Right §66]

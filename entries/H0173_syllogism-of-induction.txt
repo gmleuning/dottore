@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › b. Syllogism of Reflection
 G: Schluss der Induktion
 Gloss: Inference from many observed cases to a general rule.
+HGloss: The middle is the complete series of singulars, an incomplete and unending task.
 
 N:
   syllogism of induction; induction, generalization, empirical generalization, enumerative induction, inference from instances, inductive reasoning, bottom-up reasoning, extrapolation, data-driven inference

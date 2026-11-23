@@ -2,12 +2,13 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity
 G: Schluss
 Gloss: An argument that joins two terms through a third, the middle term; inference.
+HGloss: The unity of concept and judgment: the extremes joined through a mediating middle; everything rational is a syllogism.
 
 N:
   syllogism; inference, deduction, reasoning, ratiocination, argument, argumentation, demonstration, derivation, conclusion, consequence, entailment, illation; premises, major premise, minor premise, middle term, extremes, conclusion; mediation; enthymeme, epicheireme, sorites, polysyllogism, prosyllogism
   dilemma, perilepsis†, a priori reasoning, reductio ad absurdum, horns of a dilemma, comprehensive argument, empirema†, epagoge†
   result, corollary, porism†
-  case, plaidoyer†, opening, lemma, proposition, terms, postulate, data, starting point, principle, inference &c H0602
+  case, plaidoyer†, opening, lemma, proposition, terms, postulate, data, starting point, principle, inference &c H0606
 
 V:
   syllogize, infer, deduce, reason, ratiocinate, argue, conclude, derive, draw a conclusion, follow, mediate, connect

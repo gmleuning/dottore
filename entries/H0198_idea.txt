@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept
 G: Idee
 Gloss: The full agreement of a concept with its reality; truth in the strongest sense, a thing being what it should be.
+HGloss: The concept and its objectivity in absolute unity: the idea, which is the true, and its process.
 
 N:
   idea; truth, the true, adequation, agreement of concept and reality, correspondence, fit, harmony; ideal, perfection, paradigm, archetype, exemplar, model, pattern, form; what a thing ought to be, the thing as it should be; reason; unity of subject and object, subject-object

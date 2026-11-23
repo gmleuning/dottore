@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › II. Appearance
 G: Existenz
 Gloss: Being that has come forth from a basis; actual presence that has reasons behind it.
+HGloss: The immediacy of being restored by the sublation of mediation: being that has come forth from ground.
 
 N:
   existence; ex-istence, standing forth, emergence from ground; actual existence, concrete existence, real existence, being in the world, worldly existence, actuality &c H0126; the existent, existing things, entities, the furniture of the world
@@ -15,7 +16,7 @@ V:
   persist, endure, abide
   emanate, come out of
   subsist &c H0004
-  arise &c H0009, come forth &c H0387
+  arise &c H0009, come forth &c H0391
 
 Adj:
   existent, existing, extant, actual, real, concrete, worldly, factual, live, living

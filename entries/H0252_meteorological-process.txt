@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality
 G: Meteorologischer Prozess
 Gloss: The interplay of the elements in weather.
+HGloss: The elements in their living process with one another, the life of the earth: weather, storms, and the alternation of the seasons.
 
 N:
   meteorological process; weather, climate, atmosphere, meteorology; rain, snow, hail, sleet, fog, mist, cloud, storm, tempest, thunder, lightning, wind, gale, hurricane, typhoon, cyclone, monsoon, drought; precipitation, evaporation, condensation, the water cycle; elemental process

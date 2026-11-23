@@ -1,0 +1,30 @@
+# 884 Precious Stones and Glass
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 2. Materials for Sculpture
+G: Edelsteine und Glas
+Gloss: Carving in gems and the shaping of glass.
+HGloss: Gems and glass, sculpture on the smallest scale, cut stones and cameos.
+
+N:
+  precious stones and glass; gem engraving, glyptics, cameo, intaglio, seal-stone, signet, carved gems, glass paste
+  gem-cutting, gem-engraving, the glyptic art, lapidary work, carved gem, onyx, sardonyx, agate, carnelian, glassware, the Portland vase
+  jasper, adamant, opal, garnet, amethyst, gemstone, moonstone
+  semi-precious stone, transparent gem, opaque gem, red coral, precious coral, water sapphire, cat's eye, black diamond, cinnamon stone, star sapphire, fire opal, black opal, harlequin opal, moss agate
+
+V:
+  engrave, cut, set, polish
+  incise, carve, facet, blow
+
+Adj:
+  glyptic, engraved, precious, gemlike
+  lapidary, incised, gem-cut, vitreous, glassy
+  etched
+
+Adv:
+  in miniature
+  in gem, in glass, in intaglio
+
+F:
+  Arabic: faṣṣ [gemstone setting]
+
+Phr:
+  the art of the gem-cutter

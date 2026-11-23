@@ -1,0 +1,36 @@
+# 708 Constitutional Law
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State
+G: Inneres Staatsrecht
+Gloss: The law governing the organization of the state.
+HGloss: The state's inner constitution as an organism, the separation and unity of powers.
+
+N:
+  constitutional law; constitution, fundamental law, charter, organic law, constitutionalism, the frame of government, separation of powers
+  sanction, constitution &c H0701
+  law, code, statute
+  internal public law, public law, state law, the law of the constitution, the rights of the state
+
+V:
+  constitute, frame, charter, ordain, establish
+  organize, order
+
+Adj:
+  constitutional, fundamental, organic, chartered
+  sanctioned, authorized
+  legal, legitimate
+  public, political
+  approved, authorised, ratified
+
+Adv:
+  constitutionally
+  by the constitution
+
+F:
+  German: Verfassung, Grundgesetz, das innere Staatsrecht
+  Latin: jus publicum
+  Arabic: dustūr [constitution]
+  Chinese: xianfa [constitution]
+  Japanese: kenpō
+
+Phr:
+  a constitution is not made, it grows

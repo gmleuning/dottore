@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › a. Being-for-Self as Such
 G: Dasein und Fürsichsein
 Gloss: Being there in relation to others, now kept only as an aspect within being complete in oneself.
+HGloss: Determinate being preserved in being-for-self only as an ideal moment: being-for-other become being-for-one.
 
 N:
   determinate being and being-for-self; being-for-other and being-for-self; outwardness and inwardness; relatedness and independence; exposure and self-possession; presence to others and presence to self; public and private, extrinsic and intrinsic; heteronomy and autonomy

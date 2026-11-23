@@ -1,0 +1,24 @@
+# 855 Romanesque Pre-Gothic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › iii. Romantic Architecture › 3. Different Styles
+G: Vorgotische Baukunst
+Gloss: The round-arched style of building before the Gothic.
+HGloss: Romanesque building, with its round arches, before the full development of the Gothic.
+
+N:
+  Romanesque pre-Gothic; Romanesque, Norman architecture, rounded arch, thick walls, barrel vault, basilica, Byzantine architecture, Hagia Sophia, Carolingian architecture
+  the round-arched style, the Byzantine style, the Norman style, groin vault, massive pier, thick wall, crypt, apse
+
+V:
+  build massively, round, vault
+  arch, wall in, mass
+
+Adj:
+  Romanesque, Norman, Byzantine, massive, round-arched
+  pre-Gothic, basilican, heavy, squat
+
+Adv:
+  massively
+  in round arches, heavily
+
+Phr:
+  the round arch

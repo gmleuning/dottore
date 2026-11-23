@@ -2,9 +2,10 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation
 G: Verhältnis des Äußern und Innern
 Gloss: The relation of inside to outside, in which what a thing is inwardly is just what it shows outwardly.
+HGloss: The inner and outer as one content, so that what something is inwardly it is outwardly, and nothing more.
 
 N:
-  relation of outer and inner; inner and outer, inside and outside, interior and exterior, inwardness and outwardness, the inner and the outer, depth and surface, core and shell, kernel and husk; expression, manifestation, revelation, embodiment, externalization; transparency, legibility; physiognomy &c H0436
+  relation of outer and inner; inner and outer, inside and outside, interior and exterior, inwardness and outwardness, the inner and the outer, depth and surface, core and shell, kernel and husk; expression, manifestation, revelation, embodiment, externalization; transparency, legibility; physiognomy &c H0440
   exteriority†, outside, surface
   interiority, inside
   exhibition, display

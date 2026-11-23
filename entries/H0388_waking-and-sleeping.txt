@@ -1,0 +1,46 @@
+# 388 Waking and Sleeping
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › b. Natural Changes
+G: Wachen und Schlafen
+Gloss: The alternation of the soul between conscious activity and rest.
+HGloss: The soul's dividing itself from its natural immediacy: waking, its being-for-self, against sleep, its retreat into undivided substance.
+
+N:
+  waking and sleeping; waking, wakefulness, vigilance, alertness, consciousness, awareness, the waking state; sleep, slumber, repose, rest, dormancy, nap, doze, siesta, Hypnos, Morpheus, Somnus; dream &c H0399, deep sleep; insomnia, sleeplessness
+  sound sleep, heavy sleep, balmy sleep, coma, trance, ecstasis†, dream, hibernation, wink of sleep, forty winks, snore, hypnology†
+  vigilance &c H0586, restlessness, pervigilium†, insomnium†, racketing
+  repose &c H0695
+  the sleeping state
+  shut-eye [Coll.], kip [Brit. Slang], zizz [Brit. Slang], beauty sleep, catnap, power nap, lie-in, sleep-in, all-nighter, night owl, early bird, insomniac, sleep debt, REM sleep
+  yawning
+
+V:
+  wake, awake, waken, rouse, stir; sleep, slumber, doze, nap, drowse, nod off, drop off, retire, rest
+  be asleep, hibernate, oversleep, sleep like a top, sleep like a log, sleep like a dormouse, sleep soundly, heavily, drowze†, snooze, take a nap, snore one's best, settle to sleep, go to sleep, go off to sleep, doze off, fall asleep, drop asleep, close the eyes, seal up the eyes, seal up eyelids, weigh down the eyelids, get sleep, nod, yawn, go to bed, turn, get some z's, stack z's [Coll.]
+  awaken
+  rest and be thankful, take a rest, take one's ease, take it easy
+  crash [Slang], crash out, conk out, zonk out, hit the hay [Coll.], hit the sack [Coll.], turn in, catch some z's, sleep in, lie in, pull an all-nighter, toss and turn
+
+Adj:
+  awake, wakeful, alert, vigilant, conscious; asleep, sleeping, slumbering, dormant, drowsy, somnolent, soporific, hypnagogic, hypnopompic
+  dead asleep, sound asleep, in a sound sleep, sound as a top, comatose, in the arms of Morpheus, in the lap of Morpheus
+  on the alert, broad awake, watchful, wide awake &c H0583
+  sleepy, sleepful†, dozy†, torpescent†, lethargic, lethargical†, somnifacient†, statuvolent†, statuvolic†, heavy, heavy with sleep, napping, somnific†, soporous†, soporiferous†, hypnotic, balmy, dreamy, unawakened
+  fatigued, tired, weary &c H0429, drowsy &c H0379
+  somniferous
+  zonked, out like a light, dead to the world, knackered [Brit. Slang], wiped, beat, pooped, bushed, shattered [Brit.], dog-tired, sleep-deprived
+  sleepless
+
+Adv:
+  awake, wide awake, asleep, fast asleep, in one's sleep
+
+F:
+  Latin: somnus
+  Greek: hypnos
+  Arabic: yaqaẓa wa-nawm [waking and sleep]
+  Sanskrit: jāgrat, suṣupti
+  Chinese: jingxing he shuimian
+
+Phr:
+  to sleep, perchance to dream [Hamlet]
+  sleep that knits up the ravell'd sleave of care [Macbeth]
+  once Zhuang Zhou dreamed he was a butterfly [Zhuangzi]

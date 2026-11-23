@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › i. Nervous System
 G: Empfindungs- und Bewegungsnerven
 Gloss: The nerves that carry sensation to the brain and commands to the limbs.
+HGloss: The nerves of sensation and of movement, sensibility as related to the outer world.
 
 N:
   nerves of sensation and movement; sensory nerves, afferent nerves, motor nerves, efferent nerves, reflex arc, sensorimotor system

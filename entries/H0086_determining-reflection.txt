@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › α. Shine (Illusory Being) › c. Reflection
 G: Bestimmende Reflexion
 Gloss: Reflection that fixes definite, stable concepts which hold good in their own right.
+HGloss: The unity of positing and external reflection, which fixes determinations of reflection that hold in and for themselves.
 
 N:
   determining reflection; determination of reflection; essentiality
@@ -37,7 +38,7 @@ Adv:
   determinately, definitely &c adj.; by definition; categorically; as such; in so many words; strictly speaking
 
 F:
-  German: Reflexionsbestimmung, Wesenheit, Denkbestimmung, Gedankenbestimmung, Verstandesbegriff, Verstand &c H0601, wesentlich
+  German: Reflexionsbestimmung, Wesenheit, Denkbestimmung, Gedankenbestimmung, Verstandesbegriff, Verstand &c H0605, wesentlich
   Latin: terminus, principium identitatis, principium contradictionis, principium exclusi tertii, ex definitione, per se, stricto sensu
   French: point d'appui
   Arabic: ḥadd [defining limit, definition], taʿrīf

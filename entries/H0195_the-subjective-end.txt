@@ -2,32 +2,33 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › γ. Teleology
 G: Der subjektive Zweck
 Gloss: A purpose as conceived before it is carried out; aim, plan, design.
+HGloss: The concept as end in itself, with a content that it opposes to the objective world and strives to realize.
 
 N:
   the subjective end; aim, intention, intent, purpose, plan, design, scheme, project, proposal, programme, blueprint, idea, conception, goal, ambition, aspiration, resolve, resolution, determination, will; motive, motivation, incentive; drive, urge
-  proposition, suggestion, motion, precaution &c H0196, deep- laid plan &c H0652, system &c H0186, organization &c H0208, germ &c H0137
-  intentionality, undertaking &c H0609, predetermination &c H0652
-  decision, fixed set purpose, settled purpose, ultimatum, resolution &c H0376, wish &c H0609, motive &c H0611
-  premeditation, predetermination, intention &c H0656
-  final cause, object, end, the be all and the end all, drift &c H0595, tendency &c H0374, destination, mark, point, target
+  proposition, suggestion, motion, precaution &c H0196, deep- laid plan &c H0656, system &c H0186, organization &c H0208, germ &c H0137
+  intentionality, undertaking &c H0613, predetermination &c H0656
+  decision, fixed set purpose, settled purpose, ultimatum, resolution &c H0380, wish &c H0613, motive &c H0615
+  premeditation, predetermination, intention &c H0660
+  final cause, object, end, the be all and the end all, drift &c H0599, tendency &c H0378, destination, mark, point, target
   program, curriculum
 
 V:
   intend, plan, design, propose, purpose, resolve, aim, mean, contemplate, envisage, have in mind, set one's sights on
-  frame, contrive, forecast, sketch, devise, invent &c H0589, set one's wits to work &c H0589, spring a project, fall upon, hit upon, strike out, chalk out, cut out, lay out, map out, lay down a plan, shape out a course, mark out a course, predetermine &c H0652, concert, preconcert, preestablish, prepare &c H0196, hatch, hatch a plot concoct, take steps, take measures
+  frame, contrive, forecast, sketch, devise, invent &c H0593, set one's wits to work &c H0593, spring a project, fall upon, hit upon, strike out, chalk out, cut out, lay out, map out, lay down a plan, shape out a course, mark out a course, predetermine &c H0656, concert, preconcert, preestablish, prepare &c H0196, hatch, hatch a plot concoct, take steps, take measures
   have to, propose to oneself, harbor a design, have in view, have in contemplation, have in one's eye, have in petto, have an eye to
   make up one's mind, determine
 
 Adj:
   intended, planned, projected, proposed, prospective, designed, intentional, deliberate, premeditated, aspirational, subjective
-  advised, express, determinate, prepense &c H0652 [Obs.], bound for, intending, minded, bent upon &c H0376, at stake, on the anvil, on the tapis†, in view, in the breast of, in petto, teleological
-  prepense†, predesignated, predesigned†, studied, calculated, aforethought, intended &c H0656, foregone
+  advised, express, determinate, prepense &c H0656 [Obs.], bound for, intending, minded, bent upon &c H0380, at stake, on the anvil, on the tapis†, in view, in the breast of, in petto, teleological
+  prepense†, predesignated, predesigned†, studied, calculated, aforethought, intended &c H0660, foregone
   purposed
   protruding
 
 Adv:
   intentionally, deliberately, by design, with intent, on purpose, in prospect, in mind
-  advisedly, wittingly, knowingly, designedly, purposely, studiously, pointedly, deliberately &c H0652, with one's eyes open, in cold blood
+  advisedly, wittingly, knowingly, designedly, purposely, studiously, pointedly, deliberately &c H0656, with one's eyes open, in cold blood
 
 F:
   German: Zweck

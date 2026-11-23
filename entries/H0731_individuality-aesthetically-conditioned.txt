@@ -1,0 +1,28 @@
+# 731 Individuality Aesthetically Conditioned
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History [Tetrad] › ii. Greek World (Beautiful Ethical Life)
+G: Die schöne Individualität
+Gloss: Greek individuality shaped by beauty.
+HGloss: Greek individuality shaped by beauty, spirit expressed in sensuous shape.
+
+N:
+  individuality aesthetically conditioned; beautiful individuality, aesthetic personality, harmony of body and soul, the Greek ideal, grace
+  aesthetic individuality, the Greek character, the plastic individual, individuality formed by beauty, free individuality, the artwork of oneself
+
+V:
+  harmonize, beautify, cultivate
+  shape, form, fashion, individualize
+
+Adj:
+  beautiful, harmonious, graceful, aesthetic, balanced
+  beauteous, handsome, elegant, comely
+  plastic, individual, free, cultivated
+
+Adv:
+  beautifully, gracefully
+  aesthetically, as a work of art
+
+F:
+  Greek: kalokagathia [beauty and goodness], sōphrosynē [temperance]
+
+Phr:
+  noble simplicity and quiet grandeur, edle Einfalt und stille Größe [Ger.] [Winckelmann]

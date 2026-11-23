@@ -1,0 +1,34 @@
+# 557 Religion as Spirit's Self-Consciousness
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad]
+G: Religion als Selbstbewusstsein des Geistes
+Gloss: The mind's awareness of the highest truth as God; a community's way of knowing itself in its god.
+HGloss: Spirit's consciousness of itself as absolute being, in natural religion, art-religion and manifest religion.
+
+N:
+  religion as spirit's self-consciousness; religion &c H0965, religious consciousness, the absolute represented, faith, worship, the divine, God-consciousness
+  the self-consciousness of spirit, spirit knowing itself as spirit, the absolute being, the consciousness of absolute being, the community's self-knowledge, picture-thinking
+
+V:
+  worship, revere, believe, adore, represent the divine
+  lift up the heart, aspire, pay homage
+  have faith, revere &c H0487, sanctify, consecrate
+  know itself, represent
+
+Adj:
+  religious, devotional, spiritual, sacred, divine
+  pious, devout, reverent, godly
+  almighty, holy, all-knowing, omniscient
+  self-conscious, representational
+
+Adv:
+  religiously, devoutly
+  in representation, as spirit
+
+F:
+  Arabic: dīn [religion]
+  Sanskrit: dharma
+  Chinese: zongjiao [religion]
+  Japanese: shūkyō
+
+Phr:
+  in religion spirit knows itself as spirit [Hegel]

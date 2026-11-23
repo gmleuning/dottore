@@ -1,0 +1,42 @@
+# 790 Metaphor, Image, Simile
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 2. Comparisons Starting from the Meaning
+G: Metapher, Bild, Gleichnis
+Gloss: The expression of one thing in terms of another.
+HGloss: The metaphor, image and simile, in which a meaning and its image are joined by the poet.
+
+N:
+  metaphor, image, simile; metaphor, trope, figure, image, imagery, simile, comparison, kenning, conceit
+  phrase &c H0599, enallage†, catachresis†, metonymy [Gramm.], synecdoche [Sem.], autonomasia†, irony, figurativeness, metalepsis†, anagoge†, personification, prosopopoeia†, allegory, apologue†, parable, fable, allusion, adumbration, application
+  parallel, type, image &c H0745
+  figure of speech, way of speaking, colloquialism
+  exaggeration, hyperbole &c H0599
+  likeness, similitude, analogy, transference
+
+V:
+  metaphorize, figure, liken, compare, image
+  employ a metaphor, personify, allegorize, adumbrate, shadow forth, apply, allude to
+  transfer
+
+Adj:
+  metaphorical, figurative, tropical [in the rhetorical sense], imagistic
+  catachrestical†, typical, tralatitious†, parabolic, allegorical, allusive, anagogical†, ironical, colloquial
+  antithetical
+  analogical, similitive
+
+Adv:
+  metaphorically, figuratively, so to speak
+  so to say, so to express oneself, as it were
+  by way of likeness
+
+F:
+  Latin: translatio
+  Greek: metaphora
+  French: facon de parler
+  Arabic: istiʿāra [metaphor], tashbīh [simile]
+  Sanskrit: rūpaka [metaphor], upamā [simile]
+  Chinese: yinyu [metaphor], biyu
+  Japanese: in'yu
+
+Phr:
+  all the world's a stage [As You Like It]
+  my love is like a red, red rose [Burns]

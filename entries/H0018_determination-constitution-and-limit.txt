@@ -2,11 +2,12 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude
 G: Bestimmung
 Gloss: Three ways a thing is defined: its determination, what it is essentially; its constitution, what it happens to be through outside circumstance; and its limit, the boundary where it stops and something else begins.
+HGloss: Determination, what something is in itself; constitution, what it is through its relation to other; limit, the non-being of each in the other.
 
 N:
   determination, vocation, destiny, calling, purpose, end, in-itself, inner nature; constitution, make-up, condition, state, circumstance, situation, disposition, external character, accidental nature; limit, boundary, border, bound, bourn†, frontier, edge, margin, brink, verge, rim, periphery, confines, pale, march, marches; terminus, term, horizon, ceiling, threshold, line, demarcation, delimitation, circumscription
   habitude, diathesis†, fabric &c H0258, stamp, set, fit, mold, mould
-  category, estate, lot, mood, temper, aspect &c H0387, dilemma, pass, predicament
+  category, estate, lot, mood, temper, aspect &c H0391, dilemma, pass, predicament
   phase, position, posture, attitude, place, point, terms, regime, footing, standing, status
   bounds, enclave, curbstone†, but, reservation, termination, stint, precinct, backwoods
 

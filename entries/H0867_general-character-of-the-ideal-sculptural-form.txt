@@ -1,0 +1,24 @@
+# 867 General Character of the Ideal Sculptural Form
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture
+G: Allgemeiner Charakter der idealen Skulpturgestalt
+Gloss: The general nature of the ideal sculptural figure.
+HGloss: The ideal sculptural form in general, the human figure purified to the expression of the divine.
+
+N:
+  general character of the ideal sculptural form; serenity, repose, balance, proportion, harmony of parts
+  the nature of the ideal figure, the plastic ideal, self-containedness, universality, the human form, objectivity, the free beautiful body
+
+V:
+  balance, compose
+  idealize, embody, universalize, generalize
+
+Adj:
+  serene, balanced, harmonious, proportioned
+  ideal, plastic, self-contained, reposeful, universal, general
+
+Adv:
+  serenely
+  ideally, in general, in repose
+
+Phr:
+  calm and noble

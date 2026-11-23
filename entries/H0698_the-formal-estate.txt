@@ -1,0 +1,45 @@
+# 698 The Formal (Business) Estate
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › iii. Resources and Estates
+G: Der formelle Stand
+Gloss: The class that lives from trade and industry.
+HGloss: The estate of trade and industry, which lives by its own work and reflection.
+
+N:
+  the formal estate; the business estate, the trading and industrial estate, the bourgeoisie, burghers, merchants, tradesmen, craftsmen, artisans, manufacturers, the commercial class, the middle class
+  calling, profession, industry, industrial arts
+  commerce, mercature†, buying and selling, bargain and sale, business, nundination†, custom, shopping, commercial enterprise, speculation, jobbing, stockjobbing†, agiotage†, brokery†
+  commoner, Philistine
+  moderate circumstances, average circumstances, respectability, middle classes, mediocrity, golden mean &c H0059
+  concern, firm &c H0706
+  jobber, broker &c H0714, buyer &c H0636, seller &c H0636, bear, bull
+  money broker, money changer, money lender, cambist†, usurer, moneyer†, banker
+  retailer, chapman, hawker, huckster, higgler†, pedlar, colporteur, cadger, Autolycus†, sutler†, vivandiere†, costerman†, costermonger†, tallyman, camelot, faker, vintner
+  merchant, trader, dealer, monger, chandler, salesman, changer, regrater†, shopkeeper, shopman†, tradesman, tradespeople, tradesfolk
+  the estate of trade and industry, the reflecting estate
+  owner, controller, provider, seller, entrepreneur, businessman, broker, supplier, vendor, accountant, distributor
+  cutler, proprietor, exporter, draper, tycoon, auctioneer, importer, comptroller, magnate, licensee, shipper, grocer, marketer, businesswoman, bookseller, bookkeeper, wholesaler, industrialist, hatter, stockbroker, caterer, innkeeper, restaurateur, arb
+  business leader, top executive, account executive, account representative, registered representative, oil operator, wine merchant, salt merchant, retail merchant, grain merchant, market keeper, book seller, rug merchant, stationery seller, customer's broker, oil woman, travel agent, selling agent, real estate agent, land agent, insurance agent, house agent, general agent, estate agent, cheap-jack, ticket agent, art dealer, newspaper publisher, stamp dealer, seed seller, bean counter, small businessman, big businessman, dry cleaner, ship broker, real estate broker, insurance broker, booking clerk, investment banker, stock trader, horse trader, cost accountant, certified public accountant, pork butcher, chartered accountant, saloon keeper, brothel keeper, lease giver, oil tycoon, customer's woman, customer's man, big businesswoman, slop-seller, press lord, hardware woman, killer bee, print seller, talent scout, ship chandler, ship's chandler
+  baker, recruiter, trafficker
+  city, town, downtown, uptown, city centre, suburb, suburbs, the burbs [Coll.], hometown, neighbourhood, neighborhood, mall, shopping centre, plaza, supermarket, grocery store, shop, store, boutique, outlet, chain store, restaurant, cafe, coffee shop, bar, pub, nightclub, club, hotel, motel, office, headquarters, warehouse, factory, startup, company, firm, corporation, brand, branding, marketing, sales, customer, client, buyer, consumer, shopper, investor, CEO, boss, manager, executive, employer, employee, staff, colleague, coworker, intern, freelancer, contractor, consultant
+
+V:
+  trade, manufacture, deal, traffic, craft
+  carry on a trade, keep a shop, deal in
+
+Adj:
+  commercial, mercantile, bourgeois, industrial, urban, entrepreneurial
+  trading, interchangeable, marketable, staple, in the market, for sale
+  suburban, corporate
+
+Adv:
+  in trade, commercially
+  by trade, by industry
+
+F:
+  Arabic: tujjār [merchants]
+  Sanskrit: vaiśya [merchant estate]
+  Chinese: shangren [merchant]
+  Japanese: shōnin, chōnin [townspeople]
+
+Phr:
+  the bourgeoisie, historically, has played a most revolutionary part [Marx]

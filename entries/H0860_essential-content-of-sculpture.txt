@@ -1,0 +1,24 @@
+# 860 Essential Content of Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › i. Principle of Sculpture
+G: Wesentlicher Inhalt der Skulptur
+Gloss: The proper content of sculpture: mind at one with its bodily form.
+HGloss: The content proper to sculpture: the objective spiritual, the eternal divine in human form, without the particularity of feeling.
+
+N:
+  essential content of sculpture; the divine, the eternal, the substantial, repose, gods and heroes
+  the proper content of sculpture, the substance of sculpture, spirit in bodily form, objective spirituality, the human form, the god, the unity of mind and body, embodied spirit, repose in itself
+
+V:
+  embody, enshrine
+  incarnate, incorporate, inform, pervade
+
+Adj:
+  divine, substantial, eternal, reposeful
+  essential, embodied, corporeal, spiritual, objective
+
+Adv:
+  eternally
+  essentially, bodily, in the body, in bodily form
+
+Phr:
+  the god at rest

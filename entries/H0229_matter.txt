@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › γ. Place and Motion (Union of Space and Time)
 G: Materie
 Gloss: The stable stuff that fills a place and moves; space and time united and made real, and by its nature heavy.
+HGloss: The identity of space and time, of place and motion, as an immediate existent unity: matter, which has the concept outside it, in gravity.
 
 N:
   matter; substance, stuff, material, mass, body, bodies, corporeality, physicality, materiality, substantiality, the physical, the material, the tangible; prime matter; corpuscles, particles, atoms, molecules

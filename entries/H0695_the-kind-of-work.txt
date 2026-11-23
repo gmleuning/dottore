@@ -1,0 +1,64 @@
+# 695 The Kind of Work
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs
+G: Die Art der Arbeit
+Gloss: The kinds of labour and their division.
+HGloss: The mediation that prepares and acquires means for the particularized needs: labour, which becomes divided and mechanical.
+
+N:
+  the kind of work; labour, work, toil, division of labour, specialization, abstraction of labour, mechanization, the machine, skill, trade, craft, occupation, industry, manufacture
+  office, place, post, chargeship†, incumbency, living, situation, berth, employ, service &c H0479, engagement, undertaking, vocation, calling, profession, cloth, faculty, art, industrial arts, mystery, handicraft, trade &c H0635
+  labor, travail, manual labor, sweat of one's brow, swink†, drudgery, slavery, fagging†, hammering, industriousness, operoseness†, operosity†
+  business, employment, pursuit &c H0613, what one is doing, what one is about, affair, concern, matter, case
+  technical competence
+  exercise, work &c H0656, avocation, press of business &c H0379
+  matter in hand, irons in the fire, thing to do, agendum, task, job, chore [U.S.], errand, commission, mission, charge, care, duty &c H0666
+  production, handiwork
+  construction, fabrication
+  workshop, workhouse, workplace, shop, place of business, manufactory, mill, plant, works, factory, cabinet, studio, branch office bureau, atelier
+  hive, hive of industry, nursery, hothouse, hotbed, kitchen, mint, forge, loom, dock, dockyard, alveary†, armory, laboratory, lab, research institute, refinery, cannery, power plant, beauty parlor, beehive, bindery, forcing pit, nailery†, usine†, slip, yard, wharf, foundry, foundery†, furnace, vineyard, crucible, alembic, caldron, matrix
+  the mode of labour
+  gig, day job, side hustle, nine-to-five, the daily grind, rat race, donkey work, scut work, grunt work, shift, overtime, hustle culture, burnout, gig economy, temp, wage slave, workaholic
+  services, career, guide, teaching, assistant, editor, employee, lesson, worker, hire, coaching, chef, potter, servant, fisher, clerk, sailing, spinning, critic, recruit, maid, booking, carpenter, mechanic, sailor, schooling, technician, sewing, costing, salesman, catering, tracker, practitioner, waiter, premiership, internship, weaver, breaker, attendant
+  librarian, miner, waitress, weaving, router, bartender, fisherman, teaser, apprenticeship, workload, helper, collier, plumber, dyer, washer, couture, vigilante, gunner, unionist, housekeeper, squire, biz, receptionist, packer, electrician, blacksmith, artisan, hanger, stewardship, accomplice, mover, esports, paramedic, undertaker, valet, hairdresser, digger, swagger, lecturing, stitching, rower, supermodel, staffer, postman, caster, accountancy, beater, checker, bridesmaid, blaster, lifeguard, woodworking, sumo, mannequin, tailoring, punter, wainwright, decoy, mariner, shifter, typography, cog, freelancer, setter, enforcer, bookkeeping, huntsman, docker, clinician, chairmanship, captaincy, carpentry, aviator, workman, trapper, labourer, earner, brainwashing, governorship, waterman, journeyman, wingman, welder, thrower, indoctrination, facilitator, sweeper, laborer, splitter, mailman, lifesaver, airman, lackey, harvester, handyman, salesperson, menial, itinerant, wiper, locksmith, falconer, scab, trimmer, barman, tutelage, paralegal, machinist, feller, professorship, gob, excavator, engraver, accumulator, lumbering, shill, instilling, breadwinner, winder, courtier, typist, prospector, stewardess, crewman, wrecker, winemaking, serviceman, phonics, huntress, seafaring, legation, caddie
+  professional person, trained worker, skilled worker, working girl, union member, crew member, salt mine, military personnel, temporary worker, power-station worker, power worker, oil worker, hard worker, self-employed person, funeral director, bread maker, bill poster, lens maker, seasonal worker, free-lance, free lance, unpaid worker, bill sticker, part-timer, lobster worker, charcoal burner, trade unionist, funeral undertaker, skilled workman, business life, company person, public service, working person, public office, military woman, military man, office boy, water dog, staff member, career woman, career man, career girl, sea dog, professional life, professional football, air force officer, girl Friday, boy Friday, organization man, hot seat, fashion model, labor coach, wine making, chief assistant, domestic help, paper route, text editor, serving girl, copy editor, art editor
+  smith, cook, miller, server, arsenal, cooper, wright, butler, cox, bunny, automation, fuller, wheeler, fowler, sawyer, skinner, thatcher, registrar, rocker, commando, reaper, cartwright, gliding, topper, loader, roper, oiler, redact
+  stove, kiln, oven, cracker, focus, combustion chamber, athanor†, hypocaust†, reverberatory, volcano, fiery furnace, limekiln, Dutch oven, tuyere, brasier†, salamander, heater, warming pan, boiler, seething caldron, pot, urn, kettle, chafing-dish, retort, still, waffle irons, muffle furnace, induction furnace, electric heater, electric furnace, electric resistance heat
+  open-hearth furnace
+  runner, courier
+  rider, horseman, equestrian, cavalier, jockey, roughrider, trainer
+  driver, coachman, whip, Jehu, charioteer, postilion, postboy†, carter, wagoner, drayman†, cabman, cabdriver, voiturier†, vetturino†, condottiere†, engine driver, stoker, fireman, guard, chauffeur, engineer, gharry-wallah†, gari-wala†, hackman, syce†, truckman†
+  carrier, porter, bearer, tranter†, conveyer, cargador†, express, expressman, stevedore, conductor, motor
+  shovel, spool, spatula, ladle, hod, hoe, spade, spaddle†, loy†, spud, pitchfork, post hole digger
+  tractor, steamshovel, backhoe, fork lift, earth mover, dump truck, bulldozer, grader, caterpillar, trench digger, steamroller, pile driver, crane, wrecking crane
+
+V:
+  work, labour, toil, specialize, manufacture, mechanize, produce
+  moil, sweat, fag, drudge, slave, drag a lengthened chain, wade through, strive, stretch a long arm, pull, tug, ply, ply the oar, tug at the oar, do the work, take the laboring oar, bestir oneself &c H0379, take trouble, trouble oneself
+  make, construct, fabricate
+  divide
+  graft [Brit.], slog, grind, hustle, work one's butt off, work one's arse off [Brit. Vulg.], bust one's ass [U.S. Vulg.], put in the hours, clock in, clock out, punch the clock, moonlight
+
+Adj:
+  industrial, specialized, mechanical, skilled, laborious, productive
+  laboring
+  laborious, operose†, elaborate, strained, toilsome, troublesome, wearisome, uphill, herculean, gymnastic, palestric†
+  instrumental &c H0196
+  at work, at the office, at the shop, working
+  Complex Voluntary Action
+  overworked, slammed [Slang], swamped, snowed under
+
+Adv:
+  industriously, by the division of labour
+  by labour, by division of labour
+
+F:
+  Latin: limae labor
+  French: métier
+  Arabic: ʿamal [work], ṣināʿa [craft, industry]
+  Sanskrit: karman [work, action]
+  Chinese: laodong [labour], fengong [division of labour]
+  Japanese: bungyō
+
+Phr:
+  the pin factory [Adam Smith]
+  so daß dann der Mensch davontreten und an seine Stelle die Maschine eintreten lassen kann [Ger.] [Hegel, Philosophy of Right §198]

@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism
 G: Schluss der Reflexion
 Gloss: Inference whose connecting term is a collection of cases.
+HGloss: Inference whose middle is the subject's reflected totality: all, then many, then one like another.
 
 N:
   syllogism of reflection; empirical inference, inference from collections, reasoning from cases; middle term as totality of instances; aggregation of cases

@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › α. Shine (Illusory Being)
 G: Schein
 Gloss: Seeming recognized as the underlying nature's own showing, not as an independent illusion.
+HGloss: Semblance recognized as essence's own shining within itself, not a being alien to it.
 
 N:
   shine proper; semblance of essence, seeming of the essential, essence's own appearing; self-showing, manifestation, epiphany, emanation, effulgence, radiance, glow, sheen, gleam, glimmer, shimmer, lustre, irradiation; projection, outward show; reflection of the inner
@@ -12,7 +13,7 @@ N:
 V:
   shine, show, appear, manifest, emanate, radiate, glow, gleam, glimmer, shimmer, irradiate; show itself, reveal itself, disclose itself
   glitter
-  seem, show &c H0595
+  seem, show &c H0599
 
 Adj:
   shining, radiant, luminous, gleaming, glowing, lustrous, manifest, phenomenal, apparent, emanant, emanative

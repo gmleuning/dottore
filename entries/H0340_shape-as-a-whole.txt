@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad]
 G: Die Gestalt als Ganzes
 Gloss: The animal body as the unity of all its systems.
+HGloss: The organism in its complete shape: the three systems as the head and thorax and abdomen, with the limbs.
 
 N:
   shape as a whole; the whole body, organism, physique, figure, frame, constitution, habit, bodily unity, symmetry, bilateral symmetry, head, trunk, limbs

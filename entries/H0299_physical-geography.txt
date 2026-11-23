@@ -2,12 +2,13 @@
 # Nature › 3. Organics › I. Terrestrial Organism › α. History of the Earth
 G: Physische Geographie
 Gloss: The description of the earth's surface: its continents, seas, mountains and rivers.
+HGloss: The configuration of the earth's surface, the division of land and sea, of continents and mountains.
 
 N:
   physical geography; geography, topography, physiography, geomorphology, relief, landforms, continents, oceans, mountains, ranges, plains, plateaus, valleys, rivers, watersheds, coasts, islands, peninsulas, archipelagos, deserts, steppes, tundra
   gazetteer
   land covered with water, gulf, gulph†, bay, inlet, bight, estuary, arm of the sea, bayou [U.S.], fiord, armlet, frith†, firth, ostiary†, mouth, lagune†, lagoon, indraught†, cove, creek, natural harbor, roads, strait, narrows, Euripus, sound, belt, gut, kyles†, continental slope, continental shelf
-  lake, loch, lough†, mere, tarn, plash, broad, pond, pool, lin†, puddle, slab, well, artesian well, standing water, dead water, sheet of water, fish pond, mill pond, ditch, dike, dyke, dam, reservoir &c H0692, alberca†, barachois†, hog wallow [U.S.]
+  lake, loch, lough†, mere, tarn, plash, broad, pond, pool, lin†, puddle, slab, well, artesian well, standing water, dead water, sheet of water, fish pond, mill pond, ditch, dike, dyke, dam, reservoir &c H0696, alberca†, barachois†, hog wallow [U.S.]
   plain, table-land, face of the country, open country, champaign country†, basin, downs, waste, weary waste, desert, wild, steppe, pampas, savanna, prairie, heath, common, wold†, veldt, moor, moorland, bush, plateau &c H0221, campagna†, alkali flat, llano, mesa, mesilla [U.S.], playa, shaking prairie, trembling prairie
   meadow, mead, haugh†, pasturage, park, field, lawn, green, plat, plot, grassplat†, greensward, sward, turf, sod, heather, lea, ley, lay, grounds, maidan†, agostadero†
   stream &c H0252, (of air) flowmeter

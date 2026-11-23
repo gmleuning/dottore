@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology)
 G: Würmer und Mollusken
 Gloss: Soft-bodied animals without a backbone.
+HGloss: The lower animals, in which the systems are not yet developed: worms, mollusks, the shelled animals.
 
 N:
   worms and mollusks; invertebrates, worms, annelids, earthworms, leeches, molluscs, snails, slugs, clams, mussels, oysters, octopuses, squid, cephalopods, shellfish

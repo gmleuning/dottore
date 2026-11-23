@@ -1,0 +1,45 @@
+# 593 Imagination
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › b. Representation
+G: Einbildungskraft
+Gloss: The mind's free power to call up and combine images.
+HGloss: The mind's free activity with its images: reproduction, association and phantasy.
+
+N:
+  imagination; the imaginative faculty, fancy, fantasy, invention, creativity, the image-making power, the mind's eye, vision, inventiveness, ingenuity
+  conceit, maggot, figment, myth, dream, shadow, chimera, phantasm, phantasy, whim, whimsey†, whimsy, vagary, rhapsody, romance, gest†, geste†, extravaganza, air drawn dagger, bugbear, nightmare
+  originality, inspiration, verve
+  idealist, romanticist, mopus†, romancer, dreamer, somnambulist, rhapsodist &c H0421, fanciful projector
+  warm imagination, heated imagination, excited imagination, sanguine imagination, ardent imagination, fiery imagination, boiling imagination, wild imagination, bold imagination, daring imagination, playful imagination, lively imagination, fertile imagination
+  genius
+  imaginative power, image-making, envisioning
+
+V:
+  imagine, fancy, envision, conceive, invent, devise, dream up, picture, conjure up
+  idealize, realize, dream of, give to airy nothing a local habitation and a name
+  visualize, conjure up a vision, fancy oneself, represent oneself, picture-oneself, figure to oneself
+  create, originate, coin, fabricate, improvise, strike out something new
+  contrive
+  envisage, combine
+
+Adj:
+  imaginative, fanciful, inventive, creative, visionary, fantastical, imaginary
+  fabulous, legendary, mythical, mythic, mythological, chimerical, notional, fantastic, whimsical, fairy, fairy-like, gestic†
+  imagining, fertile
+  original
+  imagined
+
+Adv:
+  imaginatively, in imagination, in fancy
+
+F:
+  German: vorstellen, Einbildungskraft
+  Latin: imaginatio
+  Greek: phantasia
+  Arabic: khayāl [imagination], mutakhayyila [imaginative faculty]
+  Sanskrit: kalpanā [imagination]
+  Chinese: xiangxiang [imagination]
+  Japanese: sōzō
+
+Phr:
+  imagination is more important than knowledge [Einstein]
+  the lunatic, the lover, and the poet are of imagination all compact [A Midsummer Night's Dream]

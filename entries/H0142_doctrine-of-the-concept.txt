@@ -2,6 +2,7 @@
 # Logic
 G: Lehre vom Begriff
 Gloss: The study of thought as free and self-organizing: concepts that develop themselves from within, as a seed unfolds into a plant.
+HGloss: The concept: the free, the self-subsistent power that is its own self-determination; the truth of being and essence.
 
 N:
   doctrine of the concept, subjective logic; concept, notion, idea, comprehension, grasp; freedom, self-determination, self-development, self-organization, autonomy, spontaneity; development, unfolding, evolution, growth, maturation; seed, germ, kernel, embryo, acorn, bud; organic whole, living whole; the speculative, speculation
@@ -10,7 +11,7 @@ N:
   unfoldment
   germ &c H0137, rudiment, genesis
   ripening, gestation
-  will, volition, free will, freedom &c H0614
+  will, volition, free will, freedom &c H0618
   the logic of the concept, the realm of freedom
 
 V:

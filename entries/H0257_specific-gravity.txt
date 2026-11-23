@@ -2,6 +2,7 @@
 # Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad]
 G: Spezifische Schwere
 Gloss: The weight of a body relative to its volume; density.
+HGloss: The weight of a body related to its volume, the first individuation of matter in its relation to gravity.
 
 N:
   specific gravity; density, specific weight, relative density, mass per volume, compactness, solidity, closeness, heaviness, ponderosity, weightiness; buoyancy, flotation, Archimedes' principle

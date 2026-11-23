@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such › iii. Saps
 G: Kambium
 Gloss: The growing layer from which new wood and bark are formed.
+HGloss: The living layer between wood and bark, from which new wood and bark are formed.
 
 N:
   cambium; growth layer, formative layer, vascular cambium, cork cambium, meristem, growing tissue; annual ring, growth ring, tree ring

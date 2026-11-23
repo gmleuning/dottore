@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata [Tetrad]
 G: Fische
 Gloss: Cold-blooded backboned animals living in water and breathing through gills.
+HGloss: Backboned animals of the element of water, cold and gill-breathing, without voice.
 
 N:
   fish; fishes, finfish, shoal, school, ichthyology, scales, fins, gills

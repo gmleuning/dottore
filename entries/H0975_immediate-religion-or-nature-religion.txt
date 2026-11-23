@@ -1,0 +1,31 @@
+# 975 Immediate Religion, or Nature Religion [Tetrad]
+# Spirit › 3. Absolute Spirit › II. Religion › β. Determinate Religion
+G: Die unmittelbare Religion oder Naturreligion
+Gloss: Religion in which the divine is found in natural things.
+HGloss: Nature religion, in which the divine is known in a natural shape, immediate unity of spirit and nature.
+
+N:
+  immediate religion, or nature religion; nature religion, magic, animism, shamanism, fetishism, primal religion, folk religion
+  sorcery, occult art, necromancy, theurgy, thaumaturgy†, demonology, witchcraft
+  idolatry, idolism†, demonism†, demonolatry†, fire-worship, zoolatry, fetichism, heliolatry
+  natural religion, the religion of nature, nature-worship, naturism, the first form of religion, primitive religion, the earliest religion, the religions of substance, the religion of magic, the Chinese religion, the religion of being-within-self, the Hindu religion, the unity of the spiritual and the natural, immediacy, the natural as divine, the divine in nature, worship of natural objects, sun-worship, moon-worship, star-worship, sabaism, tree-worship, dendrolatry, stone-worship, litholatry, river-worship, animal-worship, serpent-worship, ophiolatry, totemism, pantheism, physiolatry, the sacred grove, the sacred stone, the nature gods, the elemental powers, the powers of nature
+
+V:
+  conjure, worship nature
+  revere nature, deify nature, adore the sun, worship the elements, animate, personify, find the divine in things, hallow, propitiate the powers, consult the spirits, charm
+
+Adj:
+  natural, primal, animistic, shamanic
+  immediate, nature-worshipping, naturalistic, naturistic, primitive, primeval, elemental, pantheistic, totemic, fetishistic, magical, pagan, heathen, unreflective, unseparated, sunk in nature
+
+Adv:
+  naturally
+  immediately, in nature, in natural things, in natural form, primitively, unreflectively, pantheistically
+
+F:
+  German: Naturreligion, die unmittelbare Religion, Natürlichkeit, Zauberei
+  Latin: religio naturalis, numen, natura
+  Greek: physis, physiolatreia
+
+Phr:
+  the spirit sunk in nature

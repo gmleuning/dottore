@@ -1,0 +1,26 @@
+# 1045 Leibniz
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy › i. Rationalism
+G: Leibniz
+Gloss: The thinker who answered the single substance with infinitely many self-contained centres of activity, each mirroring the whole universe and kept in step by a harmony set in advance.
+HGloss: Leibniz, the monads, individuality against Spinoza's substance.
+
+N:
+  Leibniz; monads, pre-established harmony, the best of all possible worlds, principle of sufficient reason, principle of contradiction, identity of indiscernibles, theodicy, calculus, apperception, unconscious perception
+
+V:
+  harmonize, justify, calculate
+
+Adj:
+  Leibnizian, monadic, optimistic
+
+Adv:
+  harmoniously
+
+F:
+  German: Monadologie
+  French: petites perceptions [unconscious perception]
+
+Phr:
+  the best of all possible worlds [Leibniz, mocked by Voltaire]
+  monads have no windows [Leibniz]
+  two great principles [Leibniz]

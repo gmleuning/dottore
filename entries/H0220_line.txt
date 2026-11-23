@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › α. Space
 G: Linie
 Gloss: Extension in one dimension; the path of a moving point.
+HGloss: The point's negation of itself into otherness, the line, the first being-other of the point.
 
 N:
   line; straight line, curve, stroke, streak, stripe, strip, thread, filament, string, cord, ray, vector, axis, trajectory, path, track, trace, course, route; length, extension in one direction

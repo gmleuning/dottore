@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time)
 G: Zeit
 Gloss: Succession; not a container in which things come to be and pass away, but that coming-to-be and passing-away itself; change itself, perceived.
+HGloss: The negativity of space posited for itself: being that, in being, is not, and in not being, is; intuited becoming. All things are in time, not time in them.
 
 N:
   time; duration, succession, sequence, flow of time, passage of time, the stream of time, course of time, flux, temporality, transience, becoming &c H0007; past, present and future; moment, instant, now; eternity, aeon; intuited becoming; the negative unity of outwardness; Chronos devouring his children
@@ -19,7 +20,7 @@ N:
   disregard of time, neglect of time, oblivion of time
   intempestivity &c H0132 [Obs.]
   earliness, morning &c H0253
-  punctuality, promptitude &c H0375, haste &c H0228, suddenness &c H0223
+  punctuality, promptitude &c H0379, haste &c H0228, suddenness &c H0223
   prematurity, precocity, precipitation, anticipation, a stitch in time
   promptness, immediateness
   lateness, tardiness &c H0228
@@ -40,13 +41,13 @@ V:
   fix the time, mark the time, date, chronicle, beat time, mark time, bear date, synchronize watches
   misdate, antedate, postdate, backdate, overdate†, take no note of time, lose track of time, anachronize†
   be early, be beforehand, keep time, take time by the forelock, anticipate, forestall, have the start, gain the start, steal a march upon, gain time, draw on futurity, bespeak, secure, engage, preengage†
-  accelerate, expedite &c H0228, make haste &c H0375
+  accelerate, expedite &c H0228, make haste &c H0379
   be prompt, be on time, be in time, arrive on time, be in the nick of time
-  be late, tarry, wait, stay, bide, take time, dawdle &c H0375, linger, loiter, bide one's time, take one's time, hang fire, stand over, lie over
-  put off, defer, lay over, suspend, table [Parl.], shift off, stave off, waive, retard, remand, postpone, adjourn, procrastinate, dally, prolong, protract, spin out, draw out, lengthen out, stretch out, prorogue, keep back, tide over, push to the last, drive to the last, let the matter stand over, reserve &c H0692, temporize, consult one's pillow, sleep on it
-  lose an opportunity &c H0132, be kept waiting, dance attendance, kick one's heels, cool one's heels, wait impatiently, await &c H0579, sit up, sit up at night
+  be late, tarry, wait, stay, bide, take time, dawdle &c H0379, linger, loiter, bide one's time, take one's time, hang fire, stand over, lie over
+  put off, defer, lay over, suspend, table [Parl.], shift off, stave off, waive, retard, remand, postpone, adjourn, procrastinate, dally, prolong, protract, spin out, draw out, lengthen out, stretch out, prorogue, keep back, tide over, push to the last, drive to the last, let the matter stand over, reserve &c H0696, temporize, consult one's pillow, sleep on it
+  lose an opportunity &c H0132, be kept waiting, dance attendance, kick one's heels, cool one's heels, wait impatiently, await &c H0583, sit up, sit up at night
   be ill timed, mistime, intrude, come amiss, break in upon, have other fish to fry, be busy, be occupied
-  lose an opportunity, throw away an opportunity, waste an opportunity, neglect an opportunity &c H0582, allow the opportunity to pass, suffer the opportunity to pass, allow the opportunity to slip, suffer the opportunity to slip, allow the opportunity to go by, suffer the opportunity to go by, allow the opportunity to escape, suffer the opportunity to escape, allow the opportunity to lapse, suffer the opportunity to lapse, allow the occasion to pass, allow the occasion to slip by, waste time &c H0375, let slip through the fingers, lock the barn door after the horse is stolen
+  lose an opportunity, throw away an opportunity, waste an opportunity, neglect an opportunity &c H0586, allow the opportunity to pass, suffer the opportunity to pass, allow the opportunity to slip, suffer the opportunity to slip, allow the opportunity to go by, suffer the opportunity to go by, allow the opportunity to escape, suffer the opportunity to escape, allow the opportunity to lapse, suffer the opportunity to lapse, allow the occasion to pass, allow the occasion to slip by, waste time &c H0379, let slip through the fingers, lock the barn door after the horse is stolen
 
 Adj:
   temporal, chronological, successive, sequential, durational, transient, fleeting, passing, ephemeral, timely, momentary, temporary
@@ -55,9 +56,9 @@ Adj:
   chronometrical†, chronogrammatical†, quattrocento†, trecento†
   misdated, undated, overdue, past due, out of date
   Time with reference to Succession
-  early, prime, forward, prompt &c H0375, summary
+  early, prime, forward, prompt &c H0379, summary
   premature, precipitate, precocious, prevenient†, anticipatory
-  sudden &c H0223, unexpected &c H0579, near, near at hand, immediate
+  sudden &c H0223, unexpected &c H0583, near, near at hand, immediate
   seasonable, punctual, prompt
   late, tardy, slow, behindhand, serotine†, belated, postliminious†, posthumous, delayed, postponed, dilatory &c H0228, in abeyance
   ill-timed, mistimed, ill-fated, ill-omened, ill-starred, untimely, unseasonable, out of season, inopportune, timeless, intrusive, untoward, unlucky, inauspicious, infelicitous, unbefitting, unpropitious, unfortunate, unfavorable, unsuited &c H0093, inexpedient &c H0196
@@ -68,7 +69,7 @@ Adv:
   while, whilst, during, pending, during the time, during the interval, in the course of, at that point, at that point in time, for the time being, day by day, in the time of, when, meantime, in the interim, ad interim, from day to day, from hour to hour, hourly, always, for a time, for a season, till, until, up to, yet, as far as, by that time, so far, hereunto, heretofore, prior to this, up to this point
   never, ne'er [Contr.], at no time, at no period, on the second Tuesday of the week, when Hell freezes over, on no occasion, never in all one's born days, nevermore, in no degree
   o'clock
-  soon, anon, betimes, rath†, eft, eftsoons, ere long, before long, shortly, beforehand, prematurely, precipitately &c H0375, too soon, before its time, before one's time, in anticipation, unexpectedly &c H0579
+  soon, anon, betimes, rath†, eft, eftsoons, ere long, before long, shortly, beforehand, prematurely, precipitately &c H0379, too soon, before its time, before one's time, in anticipation, unexpectedly &c H0583
   suddenly &c H0223, before one can say 'Jack Robinson', at short notice, extempore, on the spur of the moment, on the spur of the occasion [Bacon], at once, on the spot, on the instant, at sight, offhand, out of hand, straight, straightway, straightforth†, forthwith, incontinently, summarily, immediately, briefly, quickly, speedily, apace, before the ink is dry, almost immediately, presently at the first opportunity, in no long time, by and by, in a while, directly
   on time, punctually, at the deadline, precisely, exactly, right on time, to the minute, in good time, in military time, in pudding time†, time enough, with no time to spare, by a hair's breadth
   lateward†, backward, late in the day, at sunset, at the eleventh hour, at length, at last, ultimately, after time, behind time, after the deadline, too late, too late for &c H0132

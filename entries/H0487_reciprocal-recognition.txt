@@ -1,0 +1,68 @@
+# 487 Reciprocal Recognition
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › c. Universal Self-Consciousness
+G: Gegenseitiges Anerkennen
+Gloss: The mutual acknowledgment of free selves.
+HGloss: The mutual recognition of free selves, which is the substance of all spirituality.
+
+N:
+  reciprocal recognition; mutual recognition, mutual respect, mutual esteem, reciprocity, equality, fellowship, solidarity, comity, fraternity, sisterhood, brotherhood, friendship
+  community, body, sodality, confraternity, familistere†, familistery†
+  amity, friendliness, harmony, peace &c H0720
+  familiarity, intimacy
+  sociality, sociability, sociableness, social intercourse, consociation†, intercourse, intercommunity†, consortship†, companionship, comradeship, clubbism†, esprit de corps
+  conviviality, good fellowship, good company, joviality, jollity, festivity, festive board, merrymaking, loving cup†, hospitality, heartiness, cheer
+  welcome, welcomeness, greeting, hearty welcome, hearty reception, warm reception, urbanity &c H0438
+  good fellow, jolly fellow, bawcock†
+  social circle, family circle, circle of acquaintance, coterie, society, company
+  social gathering, social reunion, assembly &c H0036, barbecue [U.S.], bee, corn-husking [U.S.], corn-shucking [U.S.], house raising, barn raising, husking, husking-bee [U.S.], infare†
+  party, entertainment, reception, levee, at, home, soiree, matinée, evening party, morning party, afternoon party, bridge party, garden party, surprise party, kettle, kettle drum, dish of tea, ridotto†, rout†, housewarming, ball, festival, smoker, smoker-party, stag party, hen party, tamasha†, tea-party, tea-fight [Slang]
+  the feast of reason and the flow of soul [Pope]
+  birthday party, Christmas party, New Year's Eve party, Thanksgiving Day Dinner, wedding reception
+  visiting, round of visits, call, morning call, interview &c H0599, assignation, tryst, trysting place, appointment
+  club &c H0706
+  mutual acknowledgment, reciprocal acknowledgment, being-recognized
+  camaraderie
+  hello, hi, hey, greetings, goodbye, bye, see you, cheers, thanks, thank you, congratulations, congrats [Coll.], apology, sorry, please, excuse me, handshake, hug, high five, small talk, manners, etiquette, courtesy
+
+V:
+  recognize each other, respect each other, acknowledge one another, honour one another
+  respect, regard, revere, reverence, hold in reverence, honor, venerate, hallow, esteem, think much of, entertain respect for, bear respect for, look up to, defer to, have a high opinion of, hold a high opinion of, pay attention, pay respect
+  to, do honor to, render honor to, do the honors, hail, show courtesy &c H0438, salute, present arms, do homage to, pay homage to, pay tribute to, kneel to, bow to, bend the knee to, fall down before, prostrate oneself, kiss the hem of one's garment, worship &c H0973
+  be sociable, know, be acquainted, associate with, sort with, keep company with, walk hand in hand with, eat off the same trencher, club together, consort, bear one company, join, make acquaintance with &c H0489, make advances, fraternize, embrace
+  be at home with, feel at home with, make oneself at home with, make free with, crack a bottle with, receive hospitality, live at free quarters, find the latchstring out [U.S.]
+  visit, pay a visit, interchange visits, interchange cards, call at, call upon, leave a card, drop in, look in, look one up, beat up one's quarters
+  entertain, give a party, be at home, see one's friends, hang out, keep open house, receive, receive with open arms, give a warm reception
+  to kill the fatted calf
+  recognize, acknowledge
+  greet, thank, apologize, apologise, congratulate, compliment, say hello, say goodbye, wave, shake hands
+
+Adj:
+  reciprocal, mutual, equal, fraternal, respectful, solidary
+  deferential, reverential
+  concordant, congenial, agreeing, in accord, harmonious, united, cemented, banded together &c H0706, allied, friendly &c H0489, conciliatory, at one with, of one mindat peace, in still water, tranquil &c H0720
+  interchanged
+  commutual†, correlative, reciprocative, interrelated, closely related, alternate, interchangeable, interdependent, international, complemental, complementary
+  friendly, amicable, amical†, well-affected, unhostile†, neighborly, brotherly, sympathetic, hearty, cordial, warm- hearted
+  sociable, companionable, clubbable, conversable†, cosy, cosey†, chatty, conversational, homiletical
+  convivial, festive, festal, jovial, jolly, hospitable
+  welcome as the roses in May, fêted, entertained
+  free and easy, hall fellow well met, familiar, on visiting terms, acquainted
+  social, gregarious
+  recognitive
+
+Adv:
+  mutually, reciprocally, as equals, on equal terms
+  vice versa, each other, one another, by turns &c H0141
+  in the family circle, arm in arm
+
+F:
+  German: Anerkennung
+  Latin: mutatis mutandis
+  French: savoir vivre, bon enfant, partie carrée, en famille, sans fa
+  Italian: conversazione
+  Arabic: iʿtirāf mutabādal
+  Chinese: xianghu chengren
+  Japanese: bonenkai
+
+Phr:
+  they recognize themselves as mutually recognizing one another [Hegel]

@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea › β. The Idea of Cognition › a. The Idea of the True › ii. Synthetic Cognition
 G: Lehrsatz
 Gloss: A proposition proved from definitions and principles.
+HGloss: The singular as the concrete identity of the universal and particular, with a demonstration of its necessity.
 
 N:
   theorem; proposition, demonstration, proof, deduction, construction, lemma, corollary, porism, scholium, axiom, postulate, conjecture; geometry, Euclidean method, axiomatic method; QED

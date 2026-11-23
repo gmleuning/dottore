@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › α. Quantity
 G: Begrenzung der Quantität
 Gloss: The setting of a boundary within quantity, which turns an indefinite amount into a definite one.
+HGloss: Quantity given a limit within itself, which yields a definite quantity, the quantum.
 
 N:
   limitation of quantity; limit, boundary, bound, cap, ceiling, floor, threshold, cutoff, cut-off point, quota, ration, allowance, allotment, maximum, minimum, upper limit, lower limit; definite amount &c H0045; demarcation, delimitation; interval, range, bracket, band, bandwidth, compass, span, scope
@@ -14,7 +15,7 @@ N:
 V:
   limit, cap, restrict, ration, apportion, allot, quantify, fix, set, determine, bound, bracket, delimit; cut off, top out, bottom out
   measure
-  circumscribe, inclose, surround &c H0218, compass about, imprison &c H0645, hedge in, wall in, rail in, fence round, fence in, hedge round, picket, corral
+  circumscribe, inclose, surround &c H0218, compass about, imprison &c H0649, hedge in, wall in, rail in, fence round, fence in, hedge round, picket, corral
   keep within bounds
   mete, portion out, dole out
 

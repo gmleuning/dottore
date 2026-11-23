@@ -1,0 +1,36 @@
+# 675 Ethical Life
+# Spirit › 2. Objective Spirit
+G: Sittlichkeit
+Gloss: Freedom made real in the shared customs and institutions of a living community.
+HGloss: The idea of freedom as the living good, which has its knowledge and will in self-consciousness and its actuality in the ethical world.
+
+N:
+  ethical life; ethical community, ethical order, social ethics, customary morality, second nature, the living good, family, civil society, and state
+  ethical substance, the ethical world, custom, the institutions
+
+V:
+  live ethically, belong, participate, abide by custom
+  inhabit, conform, realize freedom
+
+Adj:
+  ethical, customary, communal, social, civic
+  conventional &c H0431, well-bred, well behaved
+  national, public
+  substantial, institutional
+
+Adv:
+  ethically, in community
+  by custom, in a living community
+
+F:
+  German: Sitte, Sittlichkeit
+  Latin: mores
+  Greek: ethos, ēthos
+  French: comme il faut
+  Arabic: adab [right conduct], akhlāq
+  Sanskrit: dharma
+  Chinese: lunli [ethics], li [ritual propriety]
+  Japanese: rinri
+
+Phr:
+  die Sittlichkeit ist die Idee der Freiheit als das lebendige Gute [Ger.] [Hegel, Philosophy of Right §142]

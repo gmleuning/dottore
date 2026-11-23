@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity
 G: Chemismus
 Gloss: The relation of things defined by their attraction to one another, which combine and change in combining, like chemical substances.
+HGloss: Objects whose determinateness is their relation to their other, which they strive to complete.
 
 N:
   chemism; chemistry, chemical relation, affinity, attraction, combination, compounding, reaction, chemical change; tension, polarity, differentiation, opposition, complementarity, mutual need; alchemy; chemistry between people, rapport, attraction, spark, magnetism

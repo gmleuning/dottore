@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea › γ. The Absolute Idea
 G: Anfang
 Gloss: The first step of method: the simple starting point that contains everything yet to unfold.
+HGloss: The beginning, which is immediate and abstract, yet as the start of the method already its own self-movement.
 
 N:
   beginning; start, outset, commencement, inception, origin, onset, threshold, starting point, point of departure, first step, opening, debut, genesis, birth, dawn, seed, germ, embryo, root, source, fountainhead; presuppositionlessness; immediacy, simplicity
@@ -9,7 +10,7 @@ N:
   rudiment, cradle, infancy, nucleus, radix
   precursor, antecedent, precedent, predecessor, forerunner, vancourier†, pioneer, prodrome†, prodromos†, prodromus†, outrider, leader, bellwether, herald, harbinger, foreboding, avant-courier, avant-garde, bellmare†, forelooper†, foreloper†, stalking-horse, voorlooper [Afrik.], voortrekker [Afrik.]
   prelude, preamble, preface, prologue, foreword, protasis†, proemium†, prolusion†, proem, prolepsis [Gramm.], prolegomena, prefix, introduction, heading, frontispiece, groundwork, preparation &c H0196, overture, symphony, premises
-  prefigurement &c H0972, omen &c H0972
+  prefigurement &c H0976, omen &c H0976
   showtime
 
 V:

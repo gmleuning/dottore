@@ -1,0 +1,27 @@
+# 901 Characterization
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › i. Painting › 2. Particular Characteristics of Painting › c. The Painter's Craft
+G: Charakteristik
+Gloss: The rendering of particular character in a painting.
+HGloss: The rendering of individual character in its particularity.
+
+N:
+  characterization; characterization, portraiture, likeness, expression, physiognomy, individual traits
+  character-drawing, individualization, delineation, depiction, portrayal, particularity, distinctiveness, countenance, features, mien, bearing, truth to life, lifelikeness
+
+V:
+  characterize, portray, individualize
+  describe, draw a picture, picture, portray &c H0745, particularize
+  delineate, depict, limn, draw, render, distinguish, mark, capture, catch a likeness, bring out
+
+Adj:
+  characteristic, expressive, lifelike, individual
+  representative, typical, symbolic
+  special, particular, specific, proper, personal
+  distinctive, individualized, speaking, true to life, physiognomic, telling, graphic
+
+Adv:
+  characteristically
+  distinctively, individually, to the life, expressively, tellingly
+
+Phr:
+  a speaking likeness

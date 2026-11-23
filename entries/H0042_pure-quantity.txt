@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › α. Quantity
 G: Reine Quantität
 Gloss: Quantity before any particular amount has been fixed; sheer measurability.
+HGloss: Quantity without determinate limit, the sublated being-for-self, as continuous and discrete at once.
 
 N:
   pure quantity; quantity as such, sheer magnitude, abstract magnitude, measurability, extensiveness; space and time as pure quantities; the continuum, continuous magnitude; indefinite amount, indeterminate quantity, unspecified quantity, x, unknown quantity; mass noun, uncountable

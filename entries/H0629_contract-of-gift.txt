@@ -1,0 +1,36 @@
+# 629 Contract of Gift
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract
+G: Schenkungsvertrag
+Gloss: An agreement in which one party gives and the other receives without return.
+HGloss: The formal contract, in which only one party gives.
+
+N:
+  contract of gift; donation, gratuitous contract, unilateral contract, liberality, benefaction
+  present, cadeau†, free gift, boon, favor, offering, oblation, sacrifice, immolation
+  alms, largess, bounty, offertory, gratuity
+  almsgiving†, charity, generosity
+  bestowal, bestowment†, presentation, presentment, accordance, concession, delivery, consignment, dispensation, communication, endowment, investment, investiture
+  donation &c H0630
+  deed of gift, formal contract
+
+V:
+  donate, bestow, endow, gift
+  give, confer, grant, accord, award, assign
+  invest, settle upon, bequeath, leave, devise
+
+Adj:
+  gratuitous, donative, unilateral, liberal
+  giving, given, allowed, allowable, concessional†, communicable, charitable, eleemosynary, sportulary†, tributary, gratis &c H0636
+  gratis, free, for nothing, without charge, free of cost
+
+Adv:
+  gratuitously, free of charge
+  without return
+
+F:
+  Latin: donatio, gratis
+  Arabic: hiba [gift]
+  Sanskrit: dāna
+
+Phr:
+  freely ye have received, freely give [Bible]

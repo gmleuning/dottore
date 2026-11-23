@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process
 G: Atmen, Hautprozess und Durst
 Gloss: The animal's exchange with air and water through lungs, skin and thirst.
+HGloss: The animal's relation to air and water: breathing, the skin's process, and the feeling of thirst.
 
 N:
   breathing, cutaneous process, and thirst; respiration, breath, breathing, inhalation, exhalation, inspiration, expiration, perspiration, sweat, transpiration, skin, hide, integument; thirst, dryness, drought, drinking

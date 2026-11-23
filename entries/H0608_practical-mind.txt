@@ -1,0 +1,45 @@
+# 608 Practical Mind
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology)
+G: Praktischer Geist
+Gloss: The mind as willing; the mind giving its purposes outward existence.
+HGloss: Intelligence that knows itself as the determiner of its content: the will, which gives its purposes existence.
+
+N:
+  practical mind; will, volition, conation, agency, practical reason, purpose, intention
+  velleity, will and pleasure, free will, freedom &c H0618, discretion, option &c H0616, voluntariness†, spontaneity, spontaneousness, originality
+  intent
+  determination
+  pleasure, wish, mind, desire, frame of mind &c H0613, intention &c H0660, predetermination &c H0656, selfcontrol, determination &c H0380, force of will
+  practical spirit, willing, the practical intelligence
+
+V:
+  will, intend, purpose, resolve, choose, act
+  design, mean
+  determine, decide &c H0606
+  list, see fit, think fit, determine &c H0380, enjoin, settle &c H0616, volunteer
+  carry out, realize
+
+Adj:
+  practical, volitional, conative, voluntary, purposive, agentive
+  willful, free &c H0618, optional, discretional, discretionary, volitient†, volitive†
+  executive
+
+Adv:
+  practically, voluntarily, deliberately, of one's own volition
+  at will, at pleasure, a discretion, ad libitum, as one thinks proper, as it seems good to
+  of one's own free will, by choice &c H0616, purposely &c H0660, deliberately &c H0656
+  by will
+
+F:
+  German: Wille
+  Latin: voluntas, liberum arbitrium, ad arbitrium, proprio motu, suo motu, ex meromotu
+  Greek: boulēsis
+  French: a volonte
+  Italian: al piacere, a beneplacito
+  Arabic: irāda [will]
+  Sanskrit: icchā [will, desire], saṅkalpa [resolve]
+  Chinese: yizhi [will]
+  Japanese: ishi
+
+Phr:
+  where there's a will there's a way

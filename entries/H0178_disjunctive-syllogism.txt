@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › c. Syllogism of Necessity
 G: Disjunktiver Schluss
 Gloss: Inference through a complete set of alternatives: A is B, C or D; it is neither B nor C; therefore D.
+HGloss: The middle is the genus as the totality of its exclusive species, the mediating and the mediated in one: the syllogism completed.
 
 N:
   disjunctive syllogism; process of elimination, elimination, exclusion of alternatives, argument by elimination, exhaustive division; dilemma, trilemma

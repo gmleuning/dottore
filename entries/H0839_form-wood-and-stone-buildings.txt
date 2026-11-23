@@ -1,0 +1,30 @@
+# 839 Form: Wood and Stone Buildings
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 2. Particular Formations of Classical Architecture
+G: Holz- und Steinbau
+Gloss: Building in timber and in stone, and the shapes each gives.
+HGloss: Building in wood and in stone, the stone column keeping the memory of the tree trunk and timber beam.
+
+N:
+  form: wood and stone buildings; timber construction, masonry, stonework, post and lintel, trabeation, column, pillar, beam, architrave, frieze, cornice
+  coping stone, capital, epistyle†, pediment, entablature†, tympanum
+  framework, rafter, girder, lintel, joist, corner stone, transom
+  post, shaft, pilaster, pedestal, plinth, buttress, jamb, mullion, abutment, baluster
+  material, raw material, bricks and mortar
+  tower, steeple, spire, turret, dome, cupola
+  timber building, stone building, woodwork, carpentry, ashlar, the hut
+
+V:
+  build, hew, frame, mortise, lay
+  shape, carve, chisel
+  joint, mason
+
+Adj:
+  wooden, timber, stone, trabeated, lithic
+  timbered, framed, hewn
+
+Adv:
+  in stone, in timber
+  in wood
+
+Phr:
+  the stone remembers the wood

@@ -1,0 +1,41 @@
+# 596 Phantasy
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › b. Representation › ii. Imagination
+G: Phantasie
+Gloss: Imagination that gives images a meaning of its own; creative fancy.
+HGloss: Imagination that gives its own content to the images, making symbols and signs.
+
+N:
+  phantasy; creative imagination, productive imagination, inventive fancy, poetic imagination, vision, invention, the creative faculty, the image-forming power
+  conceit, figment, myth, chimera, phantasm, fantasy, whim, whimsy, vagary, romance, extravaganza
+  imagination, originality, inspiration, verve
+  idealist, romanticist, romancer, dreamer, somnambulist, rhapsodist &c H0421, fanciful projector
+
+V:
+  fantasize, invent, create, envision, dream, devise, compose
+  originate, coin, fabricate, improvise, strike out something new
+  visualize, conjure up a vision, fancy oneself, represent oneself, picture, picture-oneself, figure to oneself
+  contrive, invent &c H0593
+  imagine, fancy, conceive, idealize, realize, dream of, dream up, give to airy nothing a local habitation and a name
+
+Adj:
+  fantastic, fanciful, inventive, creative, visionary, poetic, productive
+  fabulous, legendary, mythical, mythic, mythological, chimerical, imaginary, notional, fantastical†, fairy, fairy-like, gestic†
+  imagining, imaginative, fertile
+  original
+  capricious
+  grotesque, whimsical
+
+Adv:
+  fantastically, inventively
+  fancifully
+
+F:
+  German: Eingebung [inspiration], vorstellen, Phantasie
+  Italian: fantasia
+  Arabic: ibdāʿ [creativity]
+  Sanskrit: pratibhā [poetic genius]
+  Chinese: huanxiang [fantasy]
+  Japanese: kūsō [fancy]
+
+Phr:
+  the poet's eye, in a fine frenzy rolling [A Midsummer Night's Dream]

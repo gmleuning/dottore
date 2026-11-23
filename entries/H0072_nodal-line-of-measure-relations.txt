@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › β. Real Measure
 G: Knotenlinie von Maßverhältnissen
 Gloss: A scale of gradual change in amount, marked at certain points by sudden changes in kind, as water freezes or boils; a leap.
+HGloss: A line of gradual quantitative alteration interrupted by qualitative leaps, as at the freezing and boiling of water.
 
 N:
   nodal line of measure relations; node, nodal point, tipping point, threshold, critical point, turning point, watershed, Rubicon, point of no return, breaking point, flashpoint, inflection point, bifurcation point, singularity, phase transition, state change, freezing, boiling, condensation; leap, qualitative leap, quantum leap, saltation, jump, discontinuity, catastrophe; transformation of quantity into quality; gradualness interrupted, sudden change, crisis, revolution, upheaval, emergence; the last straw, the straw that broke the camel's back, the drop that makes the cup overflow; sorites

@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground
 G: Absoluter Grund
 Gloss: The relation of a basis to what it supports, considered in general.
+HGloss: Ground as the relation of ground and grounded, form and essence.
 
 N:
   absolute ground; ground as such, ground in general, foundation as such; relation of grounding, ground and consequence, ground and grounded, reason and consequent; grounding, foundation, groundwork; first principle, ultimate ground, ground of being, ground of all things; prime mover, unmoved mover &c

@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › α. Existence
 G: Bestehen des Dinges aus Materien
 Gloss: The thing seen as a bundle of independent stuffs, such as heat, color or weight, each a separate "matter."
+HGloss: The properties made self-subsistent as matters, free stuffs, so that the thing is only their external collection, an also.
 
 N:
   constitution of the thing out of matters; composition, makeup, constitution, structure, fabric, texture, ingredients, components, constituents, elements, materials, stuffs, matters; caloric, phlogiston, imponderables, imponderable fluids, electric fluid, magnetic fluid, luminiferous ether; compound, composite, aggregate; porosity, pores, interpenetration

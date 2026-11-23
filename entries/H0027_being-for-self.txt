@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality)
 G: Fürsichsein
 Gloss: Self-containedness; the condition of a thing that relates only to itself, holding whatever is other within itself as an aspect of its own; independence.
+HGloss: Being that has sublated all relation to other into relation to itself; infinite being turned back into itself; the truth of quality.
 
 N:
   being-for-self, being for itself; self-relation, self-reference, self-relatedness, reflexivity; independence, self-sufficiency, self-subsistence, self-containment, autonomy, autarky, aseity; individuality, selfhood, ipseity; completeness, wholeness, integrity, closure; ideality; being-in-and-for-itself

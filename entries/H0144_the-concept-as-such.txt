@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity
 G: Der Begriff als solcher
 Gloss: A concept in its full sense: a general idea that divides into specific kinds and is realized in individuals.
+HGloss: The concept in its three moments, universality, particularity and singularity, each the whole concept.
 
 N:
   the concept as such; concept, notion, idea, conception, general idea, abstract idea, universal &c H0145; category, kind, class, type, sort, genus, species; intension and extension, comprehension and extension; moments of the concept: universality, particularity, singularity, Allgemeinheit, Besonderheit; concrete universal; concrete concept

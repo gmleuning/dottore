@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › β. Quantum
 G: Extensives und intensives Quantum
 Gloss: Two forms of definite amount: extensive, a size made up of parts side by side, such as length or number; and intensive, a degree that is simple and undivided, such as temperature or brightness.
+HGloss: Quantum as extensive magnitude, a sum of units outside one another, and as intensive magnitude, degree, a simple determinateness.
 
 N:
   extensive and intensive quantum; extensive magnitude, extension, extent, size, length, breadth, area, volume, bulk, spread, amplitude, expanse, compass, reach, magnitude, aggregate; intensive magnitude, degree, intensity, intension, strength, force, pitch, level, grade, tenor, vehemence, potency, concentration, temperature, brightness, loudness, saturation; gradation, scale, gamut, spectrum, ladder, hierarchy, register, notch, peg, rung, step, stage; degree of perfection

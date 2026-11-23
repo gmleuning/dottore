@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › c. Condition
 G: Das relativ Unbedingte
 Gloss: Conditions and bases each taken as partly independent, each depending on the other.
+HGloss: Condition and ground each a relatively unconditioned, each presupposing the other.
 
 N:
   the relatively unconditioned; relative independence, partial autonomy, relative autonomy, interdependence, mutual conditioning, reciprocal dependence, circularity of conditions; condition as independent existent; circumstances, setting, environment, context, surroundings, milieu

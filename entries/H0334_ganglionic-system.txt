@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › i. Nervous System
 G: Gangliensystem
 Gloss: The nerve-centres governing the internal organs.
+HGloss: The ganglia, the nerve-centres of the internal organs, sensibility turned inward.
 
 N:
   ganglionic system; ganglia, sympathetic nervous system, autonomic nervous system, vegetative nervous system, solar plexus, plexus, gut feeling; visceral nerves

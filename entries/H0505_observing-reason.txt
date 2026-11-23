@@ -1,0 +1,31 @@
+# 505 Observing Reason
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad]
+G: Beobachtende Vernunft
+Gloss: Reason seeking itself in the world by observing and classifying things; empirical science.
+HGloss: Reason that seeks itself in things by describing, classifying and finding laws, finding at last only itself.
+
+N:
+  observing reason; observation, empirical science, natural history, description, classification, taxonomy, the search for laws, experimental method, inductive science, the scientist, the naturalist, the observer
+  the scientific consciousness, the instinct of reason
+
+V:
+  observe, describe, classify, measure, experiment, record, catalogue, collect specimens
+  class, register &c H0600, tabulate, index
+  investigate, seek laws
+
+Adj:
+  observational, empirical, descriptive, classificatory, experimental, scientific, naturalistic
+  experimental &c H0604, tentative
+  observing
+
+Adv:
+  empirically, observationally, by observation
+  scientifically
+
+F:
+  Arabic: mushāhada [observation]
+  Chinese: guancha [observation]
+  Japanese: kansatsu
+
+Phr:
+  observe and record

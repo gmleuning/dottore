@@ -1,0 +1,24 @@
+# 1044 Spinoza
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy › i. Rationalism
+G: Spinoza
+Gloss: The thinker who overcame the split between mind and matter by making both aspects of a single infinite substance, God or nature, of which all things are passing modes.
+HGloss: Spinoza, the one substance, the necessary beginning of all philosophy.
+
+N:
+  Spinoza; the one substance, God or nature, mode, affect, affection, attribute, adequate ideas, monism, pantheism, parallelism, ratio, conatus, determinism, the Ethics, tractatus, blessedness; Spinozism, acosmism
+
+V:
+  unify, determine, see under the aspect of eternity
+
+Adj:
+  Spinozist, monist, pantheist, determinist
+
+Adv:
+  under the aspect of eternity, necessarily
+
+F:
+  Latin: affectus, scientia intuitiva, natura naturans, natura naturata, beatitudo, imaginatio
+
+Phr:
+  Deus sive Natura, sub specie aeternitatis, amor dei intellectualis, determinatio negatio est, conatus sese conservandi [Lat]. Worship likeness and images, that is paper and ink [Spinoza], entweder Spinozismus oder keine Philosophie [Ger.] [Hegel, Lectures on the History of Philosophy]
+  omnis determinatio est negatio [Hegel, Lat.], der gottbetrunkene Mensch [Novalis, Ger.], le prince des philosophes [Deleuze, Fr.]

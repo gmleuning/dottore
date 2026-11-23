@@ -1,0 +1,33 @@
+# 422 Vacuity
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement
+G: Leerheit
+Gloss: The emptying of the mind, so that it holds no definite content.
+HGloss: Derangement as an emptying of the mind, the self sunk in its own vacuity.
+
+N:
+  vacuity; emptiness of mind, blankness, vacancy, mindlessness, idiocy, stupor, torpor, apathy, inanity, absence of thought, mental void
+  incogitancy†, inunderstanding†, fatuity &c H0421, thoughtlessness &c H0586
+  emptiness, void, vacuum
+  torpidity, lethargy, trance, stupefaction
+  dullness, stupor &c H0433
+  fatuity
+
+V:
+  go blank, stare vacantly, zone out
+
+Adj:
+  vacuous, vacant, blank, empty, mindless, inane, torpid, stuporous, absent
+  unintellectual, unoccupied, unthinking, thoughtless, absent &c H0586
+  empty &c H0227, hollow, null
+  vain
+  abstracted, bemused
+
+Adv:
+  vacantly, blankly
+
+F:
+  Latin: tabula rasa
+  Arabic: farāgh [emptiness]
+
+Phr:
+  the lights are on but nobody is home

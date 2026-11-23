@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › b. Judgment of Reflection
 G: Universelles Urteil
 Gloss: A judgment of this kind about all things of a class: "all humans are mortal."
+HGloss: All singulars, the empirical allness, which becomes the genus, so the subject is a universal in itself.
 
 N:
   universal judgment; universal proposition, all-statement, universal generalization, generalization, sweeping statement, blanket statement, general rule, law, universal quantifier, ∀; allness, totality

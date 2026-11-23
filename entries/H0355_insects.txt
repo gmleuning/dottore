@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology)
 G: Insekten
 Gloss: Animals with segmented bodies, six legs and often wings.
+HGloss: Animals of the outward differentiation, with the systems separated into sections and metamorphoses.
 
 N:
   insects; bugs, beetles, flies, bees, wasps, ants, butterflies, moths, grasshoppers, locusts, crickets, termites, cicadas, hexapods, arthropods; entomology

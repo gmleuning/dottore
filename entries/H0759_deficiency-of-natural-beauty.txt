@@ -1,0 +1,35 @@
+# 759 Deficiency of Natural Beauty
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › b. Natural Beauty
+G: Mangel des Naturschönen
+Gloss: The shortcoming of natural beauty as an expression of the mind.
+HGloss: The defect of natural beauty: the living thing does not show its inner soul as free individuality; this deficiency requires art.
+
+N:
+  deficiency of natural beauty; limitation of nature, imperfection of the natural, contingency, the dependence of natural beauty, the need for art, nature's shortfall
+  stain, blot, blur
+  blemish, disfigurement, deformity, adactylism†, flaw, defect &c H0016, injury &c H0721, spots on the sun†, eyesore
+  imperfection, shortcoming, inadequacy, want, insufficiency, limitation, finitude, dependence
+
+V:
+  fall short, lack, fail
+  fall short &c H0021
+  disfigure &c H0721, speckle
+  be wanting
+
+Adj:
+  deficient, imperfect, contingent, limited, wanting
+  incomplete, imperfect &c H0016, defective
+  insufficient, inadequate, deficient &c H0120
+  faulty, crude &c H0196
+  pitted, freckled, discolored, blobber-lipped, bloodshot, injured &c H0721
+  foul &c H0694, dingy &c H0275, gaudy &c H0275, disfigured
+  frightful, hideous, odious, uncanny, forbidding, repellant, repulsive, repugnant, grotesque, bizarre, horrid, horrible, shocking &c H0609
+  finite
+  lacking, horrific, horrifying, depleted
+
+Adv:
+  deficiently, imperfectly
+  inadequately
+
+Phr:
+  die Kunstschönheit ist die aus dem Geiste geborene und wiedergeborene Schönheit [Ger.] [Hegel, Aesthetics, Introduction]

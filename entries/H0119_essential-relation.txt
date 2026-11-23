@@ -2,11 +2,12 @@
 # Logic › 2. Doctrine of Essence › II. Appearance
 G: Wesentliches Verhältnis
 Gloss: A relation in which two sides exist only through each other.
+HGloss: Appearance as relation: two sides that are self-subsistent only in their reference to each other.
 
 N:
   essential relation; relation, correlation, correlativity, interrelation, interdependence, connection, connexion, nexus, bond, tie, link, linkage; correlatives, relata, terms of a relation; reciprocity, mutuality, complementarity
   reciprocalness†, reciprocation, association
-  bearing, reference, concern, cognation, correlation &c H0141, analogy, similarity &c H0091, affinity, homology, alliance, homogeneity, approximation &c H0218, filiation &c H0672, interest, relevancy &c H0087, dependency, relationship, relative position
+  bearing, reference, concern, cognation, correlation &c H0141, analogy, similarity &c H0091, affinity, homology, alliance, homogeneity, approximation &c H0218, filiation &c H0676, interest, relevancy &c H0087, dependency, relationship, relative position
   vinculum, connective, bond of union, copula
   reciprocal dependence, the essential relationship
   connector

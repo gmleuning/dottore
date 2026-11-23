@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › α. Shape
 G: Der Kristall
 Gloss: The body that has reached its complete, regular form; shape fully realized in three dimensions.
+HGloss: Shape as the realized totality, the crystal, whose form is shaped from within in three dimensions.
 
 N:
   the crystal; crystal, crystallization, lattice, crystal lattice, facet, face, cleavage, symmetry, regularity, geometric form, prism, cube, octahedron, gem, jewel; perfected shape

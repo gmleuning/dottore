@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › c. Absolute Mechanism
 G: Das Zentrum
 Gloss: The central point or body around which a system is arranged.
+HGloss: The objective universality of the object, the centre, as the sun is to the planets.
 
 N:
   the centre; centre, center, middle, core, hub, nucleus, heart, focus, focal point, axis, pivot, fulcrum, navel, centre of gravity, capital, metropolis, seat, throne

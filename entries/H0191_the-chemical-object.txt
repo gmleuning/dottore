@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › β. Chemism
 G: Das chemische Objekt
 Gloss: A thing whose nature lies in its affinity for another.
+HGloss: An object which is, in its own being, the contradiction of its one-sidedness with its whole nature, and strives to sublate it.
 
 N:
   the chemical object; reagent, reactant, element, substance, acid, base, alkali, polar substance; incompleteness, one-sidedness, lack, need, craving, drive toward another; valence, valency

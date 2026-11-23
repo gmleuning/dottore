@@ -1,0 +1,41 @@
+# 438 Deportment
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › γ. Actual Soul › b. Voluntary Embodiment
+G: Haltung
+Gloss: The way one carries oneself; bearing.
+HGloss: The upright posture and bearing which the will gives to the body.
+
+N:
+  deportment; bearing, carriage, posture, poise, stance, mien, demeanour, comportment, manner, air, presence, address, port†, gait, upright posture
+  conduct, behavior, maintien†, observance
+  guise, demeanor
+  tread
+  courtesy, respect &c H0487, good manners, good behavior, good breeding, manners, politeness, bienseance, urbanity, comity, gentility, breeding, polish, civility, civilization, amenity, suavity, good temper, good humor, amiability, easy temper, complacency, soft tongue, mansuetude, condescension &c H0420, affability, complaisance, prévenance, amability†, gallantry, pink of politeness, pink of courtesy
+  way
+  swagger, strut, slouch, stoop, hunch, slump, sprawl, manspreading [Slang], power pose, attitude, aura, swag [Slang]
+
+V:
+  bear oneself, carry oneself, comport oneself, deport oneself, hold oneself, stand tall
+  behave oneself, demean oneself, conduct oneself, acquit oneself
+
+Adj:
+  upright, erect, poised, dignified, stately, statuesque, graceful, elegant, composed
+  solemn, majestic, formal, stiff, ceremonious, punctilious, starched
+  august
+  comely, seemly
+  well-carried
+  slouchy, hunched, swaggering, cocky, chill [Slang], cool
+
+Adv:
+  uprightly, with poise, with dignity
+  with bearing
+
+F:
+  German: Haltung
+  French: aplomb, prestance
+  Arabic: hayʾa [bearing]
+  Sanskrit: āsana [posture]
+  Chinese: ziti [posture]
+  Japanese: shisei
+
+Phr:
+  walk tall

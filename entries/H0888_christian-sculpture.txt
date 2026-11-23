@@ -1,0 +1,24 @@
+# 888 Christian Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 3. Historical Stages in the Development of Sculpture
+G: Christliche Skulptur
+Gloss: Sculpture in the service of Christianity.
+HGloss: Christian sculpture, which cannot fully express the inwardness of the romantic content.
+
+N:
+  Christian sculpture; medieval sculpture, Gothic statuary, portal figures, crucifix, Pietà, Michelangelo's David, Donatello, Bernini
+  church sculpture, cathedral sculpture, the Madonna, saints' figures, tomb effigy, altarpiece carving, Michelangelo, the Nuremberg masters, Peter Vischer
+
+V:
+  carve, sculpt, devote
+  adorn, serve, ornament
+
+Adj:
+  Christian, Gothic, devotional, Renaissance, Baroque
+  ecclesiastical, medieval, subservient, ornamental, expressive
+
+Adv:
+  devotionally
+  in the service of the church
+
+Phr:
+  the Pietà

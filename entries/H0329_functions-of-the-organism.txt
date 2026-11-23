@@ -2,10 +2,11 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad]
 G: Funktionen des Organismus
 Gloss: The three functions of the animal body: sensibility, the capacity to feel; irritability, the capacity to respond; and reproduction, the capacity to renew itself.
+HGloss: The three functions of the organism: sensibility, its universal self-relation; irritability, its being related to another; reproduction, their unity.
 
 N:
   functions of the organism; vital functions, sensibility, irritability, reproduction; feeling, response, renewal; physiology, Haller's irritability
-  sensitiveness, physical sensibility, impressibility, perceptivity, aesthetics, moral sensibility &c H0605
+  sensitiveness, physical sensibility, impressibility, perceptivity, aesthetics, moral sensibility &c H0609
   regeneration
   impression, sensation
   reproduction &c H0352, renovation, revival

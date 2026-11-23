@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › β. Real Measure › a. The Relation of Self-Subsistent Measures
 G: Verbindung zweier Maße
 Gloss: The combining of two things with their own measures into a third, whose measure is not the simple sum of theirs, as when two liquids are mixed.
+HGloss: Two self-subsistent measures combined into a third, whose measure is not the sum of theirs.
 
 N:
   combination of two measures; combination, mixture, admixture, compound, alloy, amalgam, blend, fusion, union, synthesis, composite; emergence, emergent property, non-additivity, synergy, the whole more than the sum of its parts; volume contraction, mixing
@@ -9,7 +10,7 @@ N:
   commixture, commixtion†, commixion†, intermixture, alloyage†, matrimony, combination &c H0288, miscegenation
   composition, resultant, impregnation
   brass, chowchow†, pewter, magma, melange, miscellany, ambigu†, medley, mess, hotchpot†, pasticcio†, patchwork, odds and ends, all sorts, jumble &c H0186, salad, sauce, mash, gallimaufry, olla-podrida†, olio, salmagundi, potpourri, Noah's ark, caldron texture, mingled yarn, mosaic &c H0275
-  concurrence, synergy &c H0702
+  concurrence, synergy &c H0706
   the compounding of measures, the neutral combination
 
 V:

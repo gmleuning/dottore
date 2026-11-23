@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being
 G: Werden
 Gloss: Change at its most basic: the passing of being into nothing and of nothing into being. The first concept with real content, since it holds both together.
+HGloss: The truth of being and nothing: the movement in which each has already passed over into the other, their immediate vanishing in one another.
 
 N:
   becoming; flux, flow, flowing, fluxion†, process, passage, transition, transit, passing; change, alteration, mutation, mutability, variation, vicissitude &c (alteration of quantum) H0050; transformation, metamorphosis, transmutation; movement, motion, restlessness, unrest; evolution, development, growth, emergence, unfolding

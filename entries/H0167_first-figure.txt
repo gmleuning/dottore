@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › a. Syllogism of Existence (Qualitative Syllogism) [Tetrad]
 G: Erste Figur
 Gloss: The form of inference that joins an individual to a general idea through a specific one: Socrates is a man, men are mortal, so Socrates is mortal.
+HGloss: Singular joined to universal through the particular: S–P–U, the scheme of the understanding's reasoning.
 
 N:
   first figure; S–P–U, singular–particular–universal; perfect syllogism

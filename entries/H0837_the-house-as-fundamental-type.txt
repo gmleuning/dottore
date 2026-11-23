@@ -1,0 +1,53 @@
+# 837 The House as Fundamental Type
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 1. General Character of Classical Architecture
+G: Das Haus als Grundtypus
+Gloss: The dwelling as the basic form from which building develops.
+HGloss: The house, the simple enclosure of wall, column and roof, as the type from which the temple is developed.
+
+N:
+  the house as fundamental type; the house, dwelling, abode, habitation, the primitive hut, the shelter, the enclosure, the frame of post and beam
+  lodging, domicile, residence, local habitation
+  home, homestead, fireside, hearth, household gods
+  cottage, lodge, hall
+  cot, cabin, hut, shed, hovel, shanty, wigwam
+  inclosure, envelope, case &c H0227, wrapper, girdle &c H0220
+  pen, fold, pen fold, in fold, sheep fold, paddock, pound, corral, yard, net, seine net
+  wall, hedge, hedge row, espalier, fence &c H0718, pale, paling, balustrade, rail, railing, quickset hedge, park paling, circumvallation†, enceinte, ring fence
+  barrier, barricade, gate, gateway, bent, dingle [U.S.], door, hatch, cordon, prison &c H0654
+  dike, dyke, ditch, fosse†, moat
+  prototype, archetype, model
+  room, building, bed, hotel, library, chair, restaurant, kitchen, bathroom, theatre, cabinet, men's, bedroom, castle, desk, architecture, settle, resort, theater, toilet, furniture, garage, pub, couch, casino, classroom, embassy, cafe, console, inn, lobby, chapel, cathedral, barn, locker, cab, nursery, mosque, abbey, wheelchair, kirk, grill, sofa, altar, greenhouse, shrine, observatory, monastery, motel, courthouse, cockpit
+  dorm, courtroom, consulate, tavern, stool, ballroom, stalls, cradle, convent, privy, synagogue, cafeteria, saloon, hostel, farmhouse, rink, pew, coop, clubhouse, restroom, dresser, bungalow, loo, chateau, brothel, sauna, armchair, skyscraper, kennel, duplex, dormitory, bethel, condominium, foyer, dispensary, morgue, cubicle, chalet, confessional, bistro, priory, kiosk, boardroom, minster, slaughterhouse, edifice, schoolhouse, hermitage, buttery, steakhouse, masjid, lavatory, rectory, guesthouse, tenement, pagoda, washroom, presbytery, eatery, crematorium, bookcase, cloister, planetarium, vestibule, boudoir, gazebo, boathouse, vicarage, roadhouse, guildhall, darkroom, bathhouse, wheelhouse, outhouse, chaise, gatehouse, storeroom
+  dwelling house, white room, war room, control room, back room, living-room, living room, office building, government building, front room, rest house, tv room, test room, dead room, medical building, reading room, hospital room, baby bed, waiting room, waiting area, student union, conference room, clean room, wall unit, office block, dance hall, sitting room, eating place, eating house, engine room, prison cell, television room, farm building, testing room, squad room, apartment house, apartment building, trading floor, signal box, jail cell, cutting room, health facility, storage room, sleeping room, steam room, smoking room, shipping room, signal tower, shower room, shooting gallery, picture gallery, art gallery, presence chamber, healthcare facility, council chamber, wash-hand stand, dance palace, steam bath, vacation home, entrance hall
+  booth, capitol, lounge, salon, stall, residency, hogan, ottoman, shack, davenport, parlor, parlour, chesterfield, snug
+  apartment, flat, condo, studio, bedsit [Brit.], stairs, staircase, landing, balcony, porch, patio, deck, backyard, garden, lawn, driveway, corridor, hallway, elevator, lift, basement, attic, loft, lamp, carpet, rug, pillow, cushion, blanket, duvet, mattress, tile, wallpaper, sink, shower, bathtub, drawer, shelf, mirror, curtain, blinds, radiator, air conditioning, heating
+  cupboard, wardrobe, closet, pantry, larder
+  fireplace, gas fireplace, coal fire, wood fire, fire-dog, fire- irons, grate, range, kitchener, caboose, camboose†, poker, tongs, shovel, ashpan, hob, trivet, andiron, gridiron, ashdrop, frying-pan, stew-pan, backlog
+  inglenook
+  oil burner, gas burner, Franklin stove, pot-bellied stove, wood-burning stove, central heating, steam heat, hot water heat, gas heat, forced hot air, electric heat, heat pump, solar heat, convective heat
+
+V:
+  house, shelter, dwell, enclose, roof
+  inclose, circumscribe &c H0218
+  inhabit
+  reside
+  ensconce
+
+Adj:
+  domestic, residential, sheltering
+  prototypical, archetypal, basic, primary, original
+  upstairs, downstairs, indoor, outdoor, homemade, cozy, cosy, roomy, cramped, homey, comfy [Coll.]
+  ensconced, sheltered, housed
+
+Adv:
+  at home, under one roof
+  under a roof, originally, basically
+
+F:
+  Arabic: bayt [house]
+  Sanskrit: gṛha [house]
+  Chinese: fangwu [house]
+  Japanese: ie
+
+Phr:
+  the primitive hut [Laugier]

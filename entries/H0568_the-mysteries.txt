@@ -1,0 +1,32 @@
+# 568 The Mysteries (Bacchic Enthusiasm)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › c. Religion as Spirit's Self-Consciousness › ii. Art-Religion › 2. The Living Work of Art
+G: Die Mysterien
+Gloss: The rites of ecstatic worship, in which the god is enjoyed in bread and wine.
+HGloss: The mysteries of Ceres and Bacchus, in which the god is eaten in bread and wine.
+
+N:
+  the mysteries; Bacchic enthusiasm, Dionysian frenzy, the Bacchanal, ecstasy, enthusiasm, Eleusinian mysteries, the bread and the wine, maenads, bacchantes, revelry, intoxication
+  the mystery cults, the Bacchic rites, the mysteries of Ceres and Bacchus, bread and wine, initiation, orgy
+
+V:
+  revel, rave, carouse, be possessed, initiate, celebrate the mysteries
+  partake, eat and drink, celebrate
+
+Adj:
+  Bacchic, Bacchanalian, Dionysian, ecstatic, enthusiastic, orgiastic, frenzied, mystic
+  Eleusinian
+
+Adv:
+  ecstatically, in frenzy
+  in ecstasy, in the mysteries
+
+F:
+  German: bakchischer Enthusiasmus
+  Latin: bacchanalia, in vino
+  Greek: orgia, entheos [god-filled], mania, thiasos
+  Arabic: dhikr [remembrance, ecstatic devotion], wajd [ecstasy]
+  Sanskrit: bhāva [rapture]
+
+Phr:
+  the Bacchanalian revel in which no member is not drunken [Hegel]
+  in vino veritas [Lat.]

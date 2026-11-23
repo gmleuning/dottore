@@ -1,0 +1,27 @@
+# 903 Byzantine Painting
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › i. Painting › 3. Historical Development of Painting
+G: Byzantinische Malerei
+Gloss: The painting of the Eastern Christian empire; icon painting.
+HGloss: Byzantine painting, traditional, rigid, without life.
+
+N:
+  Byzantine painting; icon, icon painting, mosaic, gold ground, Ravenna, hieratic style, iconostasis, the Pantocrator
+  the Byzantine school, the Byzantine style, the Greek manner, sacred image, holy image, panel, tempera, the Theotokos, nimbus, halo, stiffness, rigidity, frontality, the fixed type, tradition, miniature, illumination
+
+V:
+  gild, iconize, venerate
+  stylize, typify, copy, repeat, hallow, enshrine, tessellate
+
+Adj:
+  Byzantine, iconic, hieratic, gilded, mosaic
+  East Roman, Greek, Orthodox, stiff, rigid, frontal, formal, stylized, conventional, traditional, lifeless, sacred
+
+Adv:
+  on gold ground
+  hieratically, stiffly, rigidly, by tradition, frontally
+
+F:
+  Greek: eikōn
+
+Phr:
+  the Christ Pantocrator

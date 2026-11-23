@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics
 G: Mathematische Mechanik
 Gloss: The study of space and time as the bare framework of outwardness.
+HGloss: The abstract universality of nature's self-externality, space and time, prior to any matter that fills them.
 
 N:
   mathematical mechanics; space and time, spacetime, space-time; geometry and chronometry; forms of intuition; the frame of the world, framework of nature; dimension, extension, duration

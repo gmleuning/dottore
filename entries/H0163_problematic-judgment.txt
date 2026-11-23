@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › d. Judgment of the Concept
 G: Problematisches Urteil
 Gloss: A judgment of value stated as uncertain: "this house may be good."
+HGloss: The subject judged according to whether it corresponds to its concept, so the judgment is only possibly true.
 
 N:
   problematic judgment; possible judgment, tentative judgment, conjecture, surmise, guess, speculation, supposition, hypothesis, maybe, perhaps; uncertainty, doubt, hedging, qualification
@@ -10,26 +11,26 @@ N:
   assumption
   probability, likelihood, credibleness†, likeliness, verisimilitude, plausibility, color, semblance, show of, presumption, presumptive evidence, circumstantial evidence, credibility
   reasonable chance, fair chance, good chance, favorable chance, reasonable prospect, fair prospect, good prospect, favorable prospect, prospect, wellgrounded hope, chance &c H0132
-  improbability, unlikelihood, unfavorable chance, bad chance, ghost of a chance, little chance, small chance, poor chance, scarcely any chance, no chance, bare possibility, long odds, incredibility &c H0480
+  improbability, unlikelihood, unfavorable chance, bad chance, ghost of a chance, little chance, small chance, poor chance, scarcely any chance, no chance, bare possibility, long odds, incredibility &c H0484
   the uncertain judgment, the doubtful verdict, the may-be, possibility
   guessing
 
 V:
   conjecture, surmise, guess, speculate, suppose, suspect, wonder, hazard, venture, hedge
   divine, presume
-  be probable, give color to, lend color to, point to, imply &c H0699, bid fair &c H0972, stand fair for, stand a good chance, run a good chance
-  think likely, dare say, flatter oneself, expect &c H0579, count upon &c H0600
+  be probable, give color to, lend color to, point to, imply &c H0703, bid fair &c H0976, stand fair for, stand a good chance, run a good chance
+  think likely, dare say, flatter oneself, expect &c H0583, count upon &c H0604
   be improbable, have a small chance
   question
 
 Adj:
   problematic, problematical, tentative, conjectural, speculative, uncertain, doubtful, dubious, open, moot, possible, hypothetical
   supposable, presumptive, putative
-  undecided, undetermined, open to discussion, in question &c H0600
+  undecided, undetermined, open to discussion, in question &c H0604
   probable, likely, hopeful, to be expected, in a fair way
   plausible, specious, ostensible, colorable, well-founded, reasonable, credible, easy of belief, presumable, apparent
   improbable, unlikely, contrary to all reasonable expectation, wild [Coll.], far out [Coll.], out of sight [Coll.], outtasight [Coll.], heavy [Coll.]
-  rare &c H0222, unheard of, inconceivable, unimaginable, inimaginable†, incredible &c H0480, more than doubtful, strange, bizarre &c H0063
+  rare &c H0222, unheard of, inconceivable, unimaginable, inimaginable†, incredible &c H0484, more than doubtful, strange, bizarre &c H0063
   debatable, baffling
 
 Adv:

@@ -2,6 +2,7 @@
 # Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad] › β. Cohesion
 G: Elastizität
 Gloss: The yielding of a body under pressure and its springing back to its former shape; resilience.
+HGloss: Coherence as yielding and recovering, the body's self-negation and self-restoration, which gives way to sound.
 
 N:
   elasticity; resilience, spring, springiness, bounce, rebound, recoil, give, stretch, flexibility, pliancy, suppleness, buoyancy, recovery, Hooke's law; tension and relaxation

@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › β. Determinations of Reflection
 G: Identität
 Gloss: Sameness with oneself; not the empty formula A = A, but a self-sameness that already contains difference, since to be the same as oneself is to be distinguished from what is other.
+HGloss: Essence's simple self-relation, which is not abstract A = A but an identity that contains difference within itself.
 
 N:
   identity; sameness, selfsameness, self-identity, oneness, equality with self, self-equality, coincidence, congruence, equivalence, indistinguishability, indiscernibility; A = A, law of identity; tautology, redundancy, pleonasm, truism, repetition, identical proposition; abstract identity, formal identity, identity of the understanding; concrete identity; identity of indiscernibles
@@ -22,7 +23,7 @@ Adj:
   self, ilk, the same
   selfsame, homoousian†
   coalescent, coalescing, one, equivalent &c H0045, much the same, of a muchness†, unaltered
-  quits, homologous, synonymous &c H0595, resolvable into, convertible, much at one, as broad as long, neither more nor less, much the same as, the same thing as, as good as, all one, all the same, equipollent, equiponderant†, equiponderous†, equibalanced†, equalized, drawn, half and half, isochronal, isochronous isoperimetric†, isoperimetrical†, isobath [Ocean.], isobathic [Ocean.]
+  quits, homologous, synonymous &c H0599, resolvable into, convertible, much at one, as broad as long, neither more nor less, much the same as, the same thing as, as good as, all one, all the same, equipollent, equiponderant†, equiponderous†, equibalanced†, equalized, drawn, half and half, isochronal, isochronous isoperimetric†, isoperimetrical†, isobath [Ocean.], isobathic [Ocean.]
 
 Adv:
   identically, equally, likewise, alike, in the same way, ditto, ibid

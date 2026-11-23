@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation
 G: Verhältnis des Ganzen und der Teile
 Gloss: The relation of a whole to the parts that make it up.
+HGloss: The immediate relation: the whole consists of parts and is nothing without them, the parts are parts only of the whole.
 
 N:
   relation of whole and parts; whole, totality, entirety, ensemble, integrity, unity, holism, system, organism; parts, components, constituents, pieces, portions, fractions, fragments, segments, sections, members, elements, units, modules; mereology; composition and decomposition; holon
@@ -13,7 +14,7 @@ N:
 V:
   compose, comprise, constitute, make up, consist of, combine, integrate; divide, partition, fragment, segment, break up, break down
   fill up, build up, enter into the composition of
-  break &c H0293, partition &c H0620
+  break &c H0293, partition &c H0624
   form, make
   complete &c H0197, eke out, supply deficiencies
 

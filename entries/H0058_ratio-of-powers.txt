@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › γ. Quantitative Ratio
 G: Potenzenverhältnis
 Gloss: A relation in which an amount is related to itself, as in a square or cube.
+HGloss: Ratio in which a quantum relates to itself as its own exponent, the power; quantity returned into quality.
 
 N:
   ratio of powers; power, exponent, index, square, cube, involution, exponentiation, exponential, logarithm, root, evolution†; self-multiplication, self-relation of number, compounding, compound interest, geometric progression, geometric growth, exponential growth, snowball effect, chain reaction, cascade; nonlinearity, scaling law, power law

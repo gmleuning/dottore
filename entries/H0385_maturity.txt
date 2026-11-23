@@ -1,0 +1,41 @@
+# 385 Maturity
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › b. Natural Changes › i. The Ages of Life [Tetrad]
+G: Mannesalter
+Gloss: The age of life in which a person accepts their place in the world and works within it.
+HGloss: The recognition of the objective necessity of the world, the man who works within it and finds his satisfaction there.
+
+N:
+  maturity; adulthood, manhood, womanhood, prime of life, middle age, ripeness, full growth, mature years, majority, coming of age, responsibility, realism, settledness, accommodation, worldliness, vocation, career, livelihood
+  adolescence, pubescence, adultism, adultness, virility, maturity full age, ripe age, flower of age, meridian of life, spring of life
+  man &c H0387, woman &c H0387, no chicken
+  readiness, mellowness
+  adulting [Slang], midlife, midlife crisis, settling down
+
+V:
+  mature, ripen, settle down, come of age, find one's place, work, earn one's living
+  come to man's estate, come to years of discretion, attain majority, have cut one's eyeteeth, have sown one's mild oats
+  mellow, bring to maturity
+  perfect, maturate
+  settle, accept
+  grow up, put away childish things
+
+Adj:
+  mature, adult, grown-up, full-grown, ripe, seasoned, settled, responsible, realistic, worldly, experienced
+  adolescent, pubescent, of age, of full age, of ripe age, out of one's teens, grown up, full grown, middle-aged, manly, virile, womanly, matronly, marriageable, nubile
+  grown
+
+Adv:
+  in one's prime, in the prime of life, in mid-career
+  maturely
+
+F:
+  German: Reife
+  Latin: assume the toga virilis
+  Arabic: rushd [maturity]
+  Sanskrit: gṛhastha [householder stage]
+  Chinese: chengshu [maturity]
+  Japanese: seijuku
+
+Phr:
+  when I became a man, I put away childish things [Bible]
+  nel mezzo del cammin di nostra vita [It.] [Dante]

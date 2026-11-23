@@ -1,0 +1,26 @@
+# 846 Corinthian
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 3. Styles of Classical Architecture › a. Greek
+G: Korinthisch
+Gloss: The richest Greek order, with a capital of acanthus leaves.
+HGloss: The Corinthian, the richest and most ornate, with its acanthus capital.
+
+N:
+  Corinthian; the Corinthian order, acanthus capital, foliage, ornate column, Callimachus, luxury, opulence
+  the Corinthian column, the Corinthian capital, acanthus, acanthus leaf, the bell, helix, caulicolus, richness, ornateness
+
+V:
+  ornament, adorn, embellish
+  enrich, decorate, beautify
+  foliate
+
+Adj:
+  Corinthian, ornate, florid, acanthine, luxurious, rich
+  ornamented, festooned
+  foliated, leafy, luxuriant, slender
+
+Adv:
+  ornately
+  richly, luxuriantly
+
+Phr:
+  the acanthus capital

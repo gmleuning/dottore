@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea › α. Life
 G: Die Gattung
 Gloss: The living kind, which renews itself through the birth and death of individuals.
+HGloss: Life related to another life of its own kind, which reproduces itself, and in whose death the universal comes forth as spirit.
 
 N:
   the genus; kind, species, race, stock, strain, breed, line, lineage, family, kin, kindred, kith and kin, progeny, offspring, posterity, descendants, generations; reproduction, propagation, procreation, generation, breeding, regeneration, renewal; species-being
@@ -9,7 +10,7 @@ N:
   renovation, revival, palingenesis†
   issue, seed
   stirps
-  sept &c H0672, side, clan, tribe, nation
+  sept &c H0676, side, clan, tribe, nation
   pedigree, genealogy, descent
   consanguinity, blood
   bringing forth, birth, gestation &c H0196

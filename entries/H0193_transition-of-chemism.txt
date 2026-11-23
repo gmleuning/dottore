@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › β. Chemism
 G: Übergang des Chemismus
 Gloss: The passage beyond the neutral product of combination.
+HGloss: The neutral product separated again into differents; chemism thereby frees the concept and passes into purpose.
 
 N:
   transition of chemism; exhaustion of reaction, spent reaction, end of tension, neutrality; passage to purpose, emergence of purposiveness

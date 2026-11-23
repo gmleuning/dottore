@@ -1,0 +1,44 @@
+# 949 Dramatic Poetry
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres
+G: Dramatische Poesie
+Gloss: Poetry presenting action through the speech of characters.
+HGloss: Drama, the unity of epic objectivity and lyric subjectivity: an action that issues from the inner will of the characters.
+
+N:
+  dramatic poetry; drama, theatre, play, stage, dramaturgy, tragedy, comedy
+  stage play, five-act play, opera, vaudeville, comedietta†, interlude, afterpiece†, exode†, farce, divertissement, extravaganza, burletta†, harlequinade†, pantomime, burlesque, ballet, spectacle, masque, melodrama, melodrame†, sensation drama, tragicomedy, farcical-comedy, monodrame monologue, duologue trilogy†, charade, proverbs, mystery, miracle play, musical, musical comedy
+  the drama, the stage, the theater, the play, film the film, movies, motion pictures, cinema, cinematography, theatricals, histrionic art, buskin, sock, cothurnus†, Melpomene and Thalia, Thespis
+  actor, player, method actor, stage player, strolling player, stager, performer, mime, mimer†, artists, comedian, tragedian, tragedienne, Roscius, star, movie star, star of stage and screen, superstar, idol, sex symbol, supporting actor, supporting cast, ham, hamfatter [Slang], masker†
+  scene, scenery, the boards, trap, mezzanine floor, flies, floats, footlights, offstage, orchestra
+  tableau, induction, introduction, prologue, epilogue, libretto
+  performance, representation, stagery†, acting, gesture &c H0598, impersonation &c H0745, stage business, gag, buffoonery
+  playwriting, the dramatic art, dialogue, action, dramatist, playwright, dramaturge, closet drama, verse drama
+  backstage
+
+V:
+  dramatize, stage, perform, enact, act
+  put on the stage, personate &c H0745, mimic &c H0091, play a part, act a part, go through a part, perform a part, rehearse, spout, rant, strut and fret one's hour upon a stage, tread the boards, tread the stage, come out, star it
+  personate, personify, impersonate, assume a character
+  represent, present, converse, show
+
+Adj:
+  dramatic, theatrical, histrionic, thespian, scenic
+  theatric, comic, tragic, buskined†, farcical, tragicomic, melodramatic, operatic, stagy
+  spectacular
+  dialogic, dialogical, enacted, performed, mimetic
+
+Adv:
+  dramatically, on stage
+  theatrically, in dialogue, in action, before the eyes
+
+F:
+  Greek: drama [action], theatron
+  French: piece, lever de rideau, opera bouffe, drame comedie drame, comidie larmoyante, mise en scene, jeu de theatre
+  Arabic: masraḥ [theatre]
+  Sanskrit: nāṭya [drama], Nāṭyaśāstra
+  Chinese: xiju [drama], xiqu [Chinese opera]
+  Japanese: engeki, nō, kabuki
+
+Phr:
+  the play's the thing [Hamlet]
+  das Drama muß … als die höchste Stufe der Poesie und der Kunst überhaupt angesehen werden [Ger.] [Hegel, Aesthetics, on dramatic poetry]

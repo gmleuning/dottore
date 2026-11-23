@@ -1,0 +1,50 @@
+# 657 Responsibility and Liability
+# Spirit › 2. Objective Spirit › II. Morality › α. Purpose and Responsibility
+G: Schuld und Haftung
+Gloss: The extent to which a deed is one's own and can be held against one.
+HGloss: The deed attributed to the will, which is accountable only for what lay in its purpose.
+
+N:
+  responsibility and liability; accountability, answerability, liability, culpability, imputability, blameworthiness, fault, guilt, onus
+  guiltiness, criminality, criminousness†, deviation from rectitude &c H0668 [Obs.], sinfulness &c H0668
+  accountableness†, responsibility
+  delinquency
+  liableness†
+  innocence, guiltlessness, incorruption, impeccability
+  clean hands, clear conscience
+  innocent, lamb, dove
+  imputation
+
+V:
+  be responsible, answer for, be liable, bear the blame, own up
+  incur, lay oneself open to
+  be innocent
+  acquit &c H0703, exculpate &c H0703
+  impute, attribute, hold liable
+
+Adj:
+  responsible, liable, accountable, answerable, culpable, to blame, at fault
+  guilty, peccable†, in fault, censurable, illaudable†, weighed in the balance and found wanting
+  subject
+  blameworthy, reprehensible, worthy of blame, uncommendable, exceptionable, not to be thought of, bad &c H0668, vicious &c H0668
+  not guilty, unguilty†, guiltless, faultless, sinless, stainless, bloodless, spotless, clear, immaculate, unspotted, unblemished, unerring, undefiled &c H0667, unhardened†, Saturnian, Arcadian &c H0667 [Obs.]
+  inculpable, unculpable†, unblamed, unblamable†, blameless, unfallen†, inerrable†, above suspicion, irreproachable, irreprovable†, irreprehensible†, unexceptionable, unobjectionable, unimpeachable, salvable†, venial &c H0703
+  harmless, inoffensive, innoxious†, innocuous, dove-like, lamb-like, pure, harmless as doves, innocent as a lamb, innocent as the babe unborn, more sinned against than sinning [Lear]
+  virtuous &c H0664, unreproved†, unimpeached, unreproached†
+  imputable
+  acquitted, infallible
+
+Adv:
+  responsibly, accountably
+  red-handed, in the very act, with one's hand in the cookie jar
+  innocently, with clean hands, with a clear conscience, with a safe conscience
+  on one's own head
+
+F:
+  Latin: in flagrante delicto, mens sibi conscia recti [Vergil], nil conscire sibi nulla pallescere culpa [Horace], rectus in curia
+  Arabic: masʾūliyya
+  Chinese: zeren [responsibility]
+  Japanese: sekinin
+
+Phr:
+  mea culpa [Lat.]

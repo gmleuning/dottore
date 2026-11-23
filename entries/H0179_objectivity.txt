@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept
 G: Objektivität
 Gloss: Thought realized as a world of self-standing objects; the kinds of order (mechanical, chemical and purposive) that belong to objects themselves.
+HGloss: The concept realized as immediacy: a totality of self-subsistent objects, the concept sunk in externality.
 
 N:
   objectivity; object, world of objects, objective world; externality, outwardness, thinghood, thing-world, the objective; realization of the concept; immediacy regained

@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality
 G: Absolutes Verhältnis
 Gloss: Actuality as the necessary relation of things to one another.
+HGloss: Necessity as relation: substance, causality, and reciprocity, in which actuality returns into itself as concept.
 
 N:
   absolute relation; necessary relation, necessary connection, necessary nexus; relation of substance, cause, and reciprocity; ontological dependence; relationality as such

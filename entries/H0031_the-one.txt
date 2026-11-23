@@ -2,11 +2,12 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › a. Being-for-Self as Such
 G: Das Eins
 Gloss: A self-contained unit; the simplest notion of an individual that excludes everything else from itself.
+HGloss: Being-for-self as immediate self-relation, excluding all other: the one, the principle of atomism.
 
 N:
   the one, the One, unit, monad, unity, oneness, singleness, single unit, individual; atom, indivisible; point; integer, digit; self, ego, I; the One of Plotinus; exclusion, exclusiveness, repulsion &c H0037
   singularity, uniqueness, solitude, isolation
-  individuality, solitude &c H0485, isolation &c H0293, unification &c H0288
+  individuality, solitude &c H0489, isolation &c H0293, unification &c H0288
   ace, none else, no other
   the exclusive one
 

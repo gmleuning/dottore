@@ -1,0 +1,24 @@
+# 1002 Logic–Nature–Spirit
+# Spirit › 3. Absolute Spirit › III. Philosophy › α. The Concept of Philosophy (the Three Syllogisms)
+G: Logik–Natur–Geist
+Gloss: The order of the system that runs from pure thought through nature to mind: thought expresses itself in the world and returns to itself in mind.
+HGloss: The first syllogism, logic–nature–spirit, which has nature as the middle.
+
+N:
+  logic–nature–spirit; the first syllogism, nature as middle, the order of exposition, logic going out into nature
+  the syllogism of transition, the immediate syllogism, the first appearance, the logical as starting point, the logical as ground, nature as transition-point, nature as mediating term, passage, transition, procession, the natural order, the order of the Encyclopaedia, the sequence of the system, externalization, self-externalization, the going-forth, the return to self, the form of passing-over, the necessity of the course
+
+V:
+  proceed, externalize, return
+  go forth, go out, pass over, pass through, advance, progress, begin, set out, traverse, come back, express itself, alienate itself, release itself, run its course
+
+Adj:
+  progressive, expository
+  sequential, linear, serial, ordered, transitional, immediate, onward, first
+
+Adv:
+  in order
+  in sequence, in succession, in due order, serially, forward, by transition, through nature, from logic to spirit, from first to last
+
+Phr:
+  nature mediates logic and spirit

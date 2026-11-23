@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › b. Syllogism of Reflection
 G: Schluss der Allheit
 Gloss: Inference from what holds of all members of a class to what holds of one.
+HGloss: All men are mortal; Gaius is a man; the major premiss presupposes the conclusion.
 
 N:
   syllogism of allness; universal instantiation; deduction from all, application of a general rule to a case; question-begging generalization, circular deduction

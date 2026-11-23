@@ -1,0 +1,32 @@
+# 554 Conscience as Conviction
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › iii. Spirit Certain of Itself: Morality › 3. Conscience, the Beautiful Soul, Evil and Its Forgiveness
+G: Gewissen als Überzeugung
+Gloss: The inner certainty of what one must do.
+HGloss: Conscience as the certainty of its own conviction, which is immediately duty.
+
+N:
+  conscience as conviction; conviction, moral certainty, moral genius, self-certainty, integrity, authenticity, the right of conscience, freedom of conscience, liberty of conscience, conscientious objection
+  probity, rectitude, uprightness, honesty, good faith
+  inner certainty, the voice of conscience, self-assurance, the immediate knowing of duty
+
+V:
+  be convinced, act on conviction, stand firm, object
+  know one's duty, declare
+
+Adj:
+  convinced, principled, steadfast, conscientious, self-certain, unwavering
+  tender-conscienced, right-minded, high-principled, high-minded, scrupulous, religious, strict, nice, punctilious, correct, punctual, respectable, reputable
+  unswerving, unflinching
+  assured
+
+Adv:
+  by conviction, on principle
+  from conviction, conscientiously
+
+F:
+  German: Überzeugung, Gewissen
+  Arabic: iʿtiqād [conviction]
+  Chinese: daxin [conviction]
+
+Phr:
+  here I stand, I can do no other, hier stehe ich, ich kann nicht anders [Ger.] [attrib. Luther]

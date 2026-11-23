@@ -2,6 +2,7 @@
 # Nature › 2. Physics
 G: Physik der totalen Individualität
 Gloss: The physics of bodies that give themselves a definite shape and set of properties.
+HGloss: Bodies as total individuals, matter that forms itself from within: shape, specification and the chemical process.
 
 N:
   physics of total individuality; self-determining body, individual body, formed matter, figure, shape &c H0267, properties &c H0271

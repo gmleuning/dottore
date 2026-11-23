@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being
 G: Qualität
 Gloss: The character that makes a thing what it is, so that if the character changes the thing becomes something else; the most basic kind of definiteness.
+HGloss: Determinateness immediately one with being, so that a thing ceases to be what it is when its quality changes.
 
 N:
   quality; determinateness, definiteness, determination; character, characteristic, nature, kind, sort, type, stamp, cast, complexion, constitution, make, make-up, grain, fibre, temper, mettle; essence &c (essence) H0078; whatness, quiddity, haecceity, thisness, so-being; identity of kind

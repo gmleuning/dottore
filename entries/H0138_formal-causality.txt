@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation › b. Relation of Causality
 G: Formelle Kausalität
 Gloss: Cause and effect taken in their bare form: the cause is a cause only in producing its effect and is spent in it, so that neither has meaning without the other.
+HGloss: Cause and effect as the same content in different form: the cause is a cause only in its effect.
 
 N:
   formal causality; identity of cause and effect, tautological causation, sameness of content in cause and effect; rain and wetness; transfer of content

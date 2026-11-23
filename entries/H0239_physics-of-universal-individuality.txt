@@ -2,6 +2,7 @@
 # Nature › 2. Physics
 G: Physik der allgemeinen Individualität
 Gloss: The physics of the most general forms of matter.
+HGloss: Matter as qualified in its universal physical forms, the free physical bodies, the elements and their process.
 
 N:
   physics of universal individuality; cosmic physics, the great bodies, universal forms of matter, cosmic elements, the elemental world

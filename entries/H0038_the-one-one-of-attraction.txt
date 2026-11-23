@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › c. Repulsion and Attraction
 G: Das eine Eins der Attraktion
 Gloss: The single unity into which many units are drawn by attraction.
+HGloss: The many ones posited as one through attraction, an ideal one that contains them.
 
 N:
   the one one of attraction; attraction, drawing together, pull, magnetism, gravitation, gravity, affinity, cohesion, convergence, concentration, centralization, consolidation, coalescence, confluence; centre, centre of gravity, nucleus, hub, focus, focal point, rallying point, nodal point, magnet, lodestar, lodestone; union, unification, unity, rally, gathering, assembly, congregation; mutual attraction

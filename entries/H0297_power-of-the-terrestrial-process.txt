@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism › α. History of the Earth
 G: Macht des Erdprozesses
 Gloss: The forces that formed the earth.
+HGloss: The past forces of the formative process of the earth, which, as past, have left behind their products.
 
 N:
   power of the terrestrial process; geological forces, tectonic forces, plutonic forces, volcanism, upheaval, uplift, subsidence, orogeny, earthquake, eruption, erosion, weathering, sedimentation, deposition, glaciation

@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad]
 G: Bildungsprozess des Tiers
 Gloss: The animal's continuous production and repair of its own body.
+HGloss: The organism's self-formation, its production of itself as a living process, the immediate reproduction of its members.
 
 N:
   the animal's process of self-formation; self-formation, self-production, self-renewal, growth, nutrition, repair, healing, regeneration, metabolism, anabolism, catabolism, homeostasis
@@ -10,7 +11,7 @@ N:
 V:
   grow, renew, regenerate, repair, heal, rebuild
   reconstruct, renovate, rejuvenate
-  reproduce, restore &c H0364, revivify
+  reproduce, restore &c H0368, revivify
   form itself, produce itself
   refurbish
 

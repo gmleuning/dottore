@@ -1,0 +1,42 @@
+# 743 The Modern Time (Reformation, Enlightenment and Revolution)
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History [Tetrad] › iv. Germanic World (Freedom)
+G: Die neue Zeit
+Gloss: The modern world of the Reformation, the Enlightenment and revolution.
+HGloss: The modern age: the Reformation's freedom of conscience, the Enlightenment, and the French Revolution.
+
+N:
+  the modern time; the Reformation, Luther, Protestantism, the Renaissance, the printing press, discovery of America, the Enlightenment, the French Revolution, the sunrise of reason, modernity, the modern age
+  nonconformity &c H0998, schism, secession &c H0616
+  dissenter, nonconformist, separatist, schismatic
+  contradiction &c H0599, noncompliance &c H0626
+  Calvinism, methodism
+  Huguenot, Presbyterian, Lutheran, Calvinist, Methodist
+  the modern world, the new age, the principle of free spirit, the last stage of history
+  protester
+
+V:
+  reform, protest, enlighten, revolutionize, modernize
+  new model, remodel, recast, strike out something new, break with the past, change the face of
+  dissent
+  emancipate
+
+Adj:
+  modern, Protestant, Reformed, enlightened, revolutionary
+  dissenting, dissident, dissentient
+  recent
+  unorthodox
+
+Adv:
+  in modern times, since the Reformation
+  of late
+  recently, lately
+
+F:
+  German: Reformation, Aufklärung, Neuzeit
+  Arabic: al-ḥadātha [modernity]
+  Chinese: xiandai [modern age]
+  Japanese: kindai
+
+Phr:
+  it was a glorious mental dawn [Hegel on the Revolution]
+  sola fide, sola scriptura [Lat.]

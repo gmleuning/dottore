@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › c. Repulsion and Attraction
 G: Beziehung der Repulsion und Attraktion
 Gloss: The interplay of pushing apart and drawing together, each of which requires and passes into the other.
+HGloss: Repulsion and attraction each the presupposition of the other, so that being-for-self passes over into quantity.
 
 N:
   relation of repulsion and attraction; equilibrium, balance, dynamic equilibrium, homeostasis, steady state, tension, polarity, reciprocity &c H0141; interplay, interaction, give and take, ebb and flow, systole and diastole; oscillation, pulsation, rhythm, breathing; dialectic of attraction and repulsion; ying and yang

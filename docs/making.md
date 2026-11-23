@@ -9,7 +9,7 @@ lives in `work/`, which is git-ignored and never uploaded.
 
 ```text
 dottore/
-├── editions/      THE PAGE, published: dottore_3ed.html (and ten_times_doctor.html) with its logos beside it (dottore_watercolour.png,
+├── editions/      THE PAGE, published: dottore.html (and ten_times_doctor.html) with its logos beside it (dottore_watercolour.png,
 │                  dottore_logo_white.svg, and dottore_logo.svg as the tab icon)
 ├── entries/       THE BOOK: one plain-text file per entry (H0393_the-feeling-soul.txt), glosses included. Edit here.
 ├── data/          what the build reads besides entries/: hegel_nodes.csv (the system's structure: numbering,
@@ -40,6 +40,7 @@ Open the entry's file in `entries/` and edit it. The format (see `tools/entries.
 # Spirit › 1. Subjective Spirit › I. Soul (Anthropology)
 G: Die fühlende Seele
 Gloss: The soul that feels itself as a whole, before it thinks.
+HGloss: The soul that feels itself as an individual totality, the sentient individual which is only the formal self, still in its nature.
 
 N:
   the feeling soul; feeling, affect, affectivity, emotional life
@@ -50,7 +51,8 @@ Phr:
   the heart has its reasons which reason knows not of [Pascal]
 ```
 
-One sense-group per indented line under N, V, Adj, Adv; one language per line under F; one phrase per line under Phr.
+`Gloss` is the plain working gloss the entry was built from; it is kept for revision but never shown. `HGloss` is
+the Hegelian gloss, grounded in the texts, and is the one the page shows. One sense-group per indented line under N, V, Adj, Adv; one language per line under F; one phrase per line under Phr.
 `#` lines are comments; the two header lines are refreshed from `data/hegel_nodes.csv` whenever a tool saves the file.
 `python tools/entries.py check` parses every file and reports mistakes; `python tools/entries.py tidy` rewrites them
 all in canonical form.
@@ -61,17 +63,17 @@ The system's structure (names, numbering, which entry sits under which) stays in
 
 ```bash
 python tools/build_thesaurus.py               # entries/ -> data/hegel_thesaurus.csv
-python tools/build_rogetta.py --edition 3ed   # -> editions/dottore_3ed.html (+ work/editions/dottore_3ed.md)
+python tools/build_rogetta.py --edition 3ed   # -> editions/dottore.html (+ work/editions/dottore_3ed.md)
 ```
 
-Host the `editions/` folder as it is. `dottore_3ed.html` loads its logos from beside it. There are two characters,
+Host the `editions/` folder as it is. `dottore.html` loads its logos from beside it. There are two characters,
 each with a light and a dark image: il Dottore (`dottore_watercolour.png`, the watercolour cut out of its paper, and
 `dottore_lines_white.png`, its ink lines in white) and Dialectica (`dottore_logo.svg` in black, `dottore_logo_white.svg`
 in white). By default light mode shows il Dottore and dark mode Dialectica; settings let the reader choose either
 character for either mode, and the name beside the logo follows. The logo is a bookplate in the left margin when the
 window (less any open side pane) is wide enough, and sits in the search bar when it is not. `dottore_logo.svg` is also
 the tab icon. The two PNGs are made by `work/design/make_logo_cutouts.py` from the original scan. The page is published
-with GitHub Pages at <https://gmleuning.github.io/dottore/editions/dottore_3ed.html>.
+with GitHub Pages at <https://gmleuning.github.io/dottore/editions/dottore.html>.
 The page's interface is `tools/dottore_page.html`: gloss reveal on headword click,
 settings panel (stored per browser), double-click Wiktionary panel with etymology, IPA and audio (Wiktionary's public
 REST API, so any static host works).

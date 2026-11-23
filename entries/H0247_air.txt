@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements
 G: Luft
 Gloss: The transparent, all-pervading element.
+HGloss: The element of undifferentiated simplicity, a universality that is passive yet devours everything individual.
 
 N:
   air; atmosphere, ether, aether, sky, heavens, the blue, firmament, welkin†, ozone, breath, breeze, wind, draught, gust, zephyr; gas, vapour; transparency, all-pervasiveness, passivity
@@ -10,6 +11,9 @@ N:
   open air, blue sky, cloud &c H0252
   common air, atmospheric air, aerosphere†
   the aerial element, the element of undifferentiated simplicity
+  aerial navigator, aeronaut, balloonist, Icarus, aeroplanist†, airman, aviator, birdman, man-bird, wizard of the air, aviatrix, flier, pilot, test pilot, glider pilot, bush pilot, flight attendant, steward, stewardess, crew, astronaut, cosmonaut, parachutist, paratrooper
+  balloon, airship, aeroplane, biplane, monoplane, triplane†, aerodrome, air balloon, pilot balloon, fire balloon, dirigible, zeppelin, aerostat, Montgolfier, kite, parachute
+  jet plane, rocket plane, jet liner, turbojet, prop-jet, propeller plane, corporate plane, corporate jet, private plane, private aviation, airline, common carrier, fighter, bomber, fighter-bomber, escort plane, spy plane, supersonic aircraft, subsonic aircraft
 
 V:
   air, aerate, ventilate, breathe, blow, waft, float, fan

@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism
 G: Schluss der Notwendigkeit
 Gloss: Inference whose connecting term is the essential nature of things.
+HGloss: Inference whose middle is the universal as essential nature, the genus, so the mediation is substantial.
 
 N:
   syllogism of necessity; necessary inference, essential inference, reasoning from essence, demonstration proper, strict deduction

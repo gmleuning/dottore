@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › iii. Finitude as Such
 G: Unmittelbarkeit der Endlichkeit
 Gloss: The limited thing as simply given: something whose very being is to perish.
+HGloss: The finite in its immediacy, determined only to perish, its passing away fixed as its unalterable being.
 
 N:
   immediacy of finitude; the merely finite, sheer finitude, bare mortality; fixed finitude, hardened finitude, the finite as absolute; despair of the finite, melancholy, sadness, mourning; perishing as essence; fatalism, resignation, acceptance of mortality; nothingness of the finite, nullity, vanity &c H0019

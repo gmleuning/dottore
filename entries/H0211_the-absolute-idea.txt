@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea
 G: Die absolute Idee
 Gloss: Thought that grasps itself as the whole of its own development; the method of reason, complete.
+HGloss: The idea that knows itself, the concept of the idea as its own object: pure form, which is the method.
 
 N:
   the absolute idea; method, dialectical method, speculative method; the whole, totality, system, completion, consummation, self-knowledge of reason, thought thinking itself; the logical idea, the Logos; truth in and for itself; personality, pure personality

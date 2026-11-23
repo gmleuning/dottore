@@ -1,0 +1,43 @@
+# 978 Less Developed Religions of Magic
+# Spirit › 3. Absolute Spirit › II. Religion › β. Determinate Religion › a. Immediate Religion, or Nature Religion [Tetrad] › i. The Religion of Magic
+G: Unentwickelte Religionen der Zauberei
+Gloss: The simpler forms of magical religion.
+HGloss: The less developed forms of magic, among peoples of the Eskimos and Africa, as Hegel describes them.
+
+N:
+  less developed religions of magic; shamanism, fetishism, animism, ancestor cults, African traditional religion, Eskimo shamanism, the medicine man, witch doctor
+  sorcery, occult art, occult sciences, the black art, necromancy, theurgy, thaumaturgy†, demonology, demonomy†, demonship†, bedevilment, witchcraft, witchery, glamor, feticism†, ghost dance, hoodoo, obi, obiism†, voodooism, vampirism, conjuration, bewitchery, exorcism, enchantment, mysticism, second sight, od force, odylic force†, clairvoyance, spiritualism
+  idolatry, idolism†, demonism†, demonolatry†, idol- worship, demon-worship, devil-worship, fire-worship, zoolatry, fetichism, heliolatry
+  idol, golden calf, graven image, fetich, avatar, Juggernath†
+  sacrifices, hecatomb, holocaust, human sacrifices, immolation, mactation†, infanticide, self-immolation, suttee
+  deification, apotheosis, hero worship
+  undeveloped religions of magic, the lowest religions, primitive religion, the religion of sorcerers, the religion of the Africans, the religion of the Eskimos, the angekok, the sorcerer, the wizard, the magician, the shaman, the rainmaker, the conjurer, the fetish-priest, the obeah-man, the singhili, the fetish, the amulet, the charm, the talisman, the juju, the totem, the mana, spirits, ghosts, the dead, the shades, the power of the dead, cult of the dead, possession, ecstasy, frenzy, the drum, the dance, incantation, spell, rain-making, weather-magic, healing magic, direct magic, the magic of the singular will, natural religion in its crudity
+
+V:
+  divine, heal, possess, trance
+  worship idols, deify, canonize
+  vaticinate, soothsay, augurate†
+  conjure, bewitch, enchant, charm, cast spells, make rain, command the weather, call up the dead, summon spirits, propitiate spirits, drum, dance, fall into trance, rave, exorcise, bespell, curse, ward off
+
+Adj:
+  shamanic, animist, fetishistic, ancestral
+  magic, magical, mystic, weird, cabalistic, talismanic, phylacteric†, incantatory, charmed, Circean, odylic†, voodoo
+  primitive, undeveloped, rude, crude, savage, lowest, earliest, shamanistic, animistic, fetishist, totemic, spirit-haunted, possessed, entranced, ecstatic, frenzied, spellbound, bewitched, thaumaturgic
+
+Adv:
+  in trance
+  by magic, by spells, by charms, in ecstasy, in frenzy, under possession, crudely, primitively
+
+F:
+  German: Zauberei, Zauberer, Fetisch, unentwickelt
+  Latin: lares et penates, fascinum
+  French: diablerie
+  Portuguese: feitiço
+  Polynesian: tapu
+  Zulu: sangoma
+  Yoruba: babalawo
+  Greenlandic: angakkoq
+  Melanesian: mana
+
+Phr:
+  the spirit of the ancestors

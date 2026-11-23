@@ -1,0 +1,33 @@
+# 722 Oriental World
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History [Tetrad]
+G: Die orientalische Welt
+Gloss: The world of the ancient East, in which only one, the ruler, is free.
+HGloss: The Oriental world, where one is free; the substance and the despot.
+
+N:
+  the Oriental world; the East, the Orient, Asia, ancient Asia, the childhood of history, Oriental despotism, one is free
+  origin &c H0137, source, genesis, birth, nativity, cradle, infancy, dawn &c H0253
+  the Oriental realm, the childhood of spirit, despotism, the freedom of one, substantial unity, theocracy
+
+V:
+  rise, dawn
+  rule, subject, obey, absorb, despotize
+
+Adj:
+  Oriental, Eastern, Asian, ancient
+  orient, Levantine
+  Asiatic, despotic, patriarchal, theocratic, substantial
+
+Adv:
+  in the East
+  under one, despotically
+
+F:
+  Latin: ex oriente lux
+  Arabic: al-sharq [the East], al-mashriq
+  Chinese: dongfang [the East]
+  Japanese: tōyō
+
+Phr:
+  the East knew only that one is free [Hegel]
+  light rises in the East

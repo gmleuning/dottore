@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › ii. Blood System
 G: Lungen- und Lebersystem
 Gloss: The lungs and liver, organs that refine and process the blood.
+HGloss: The lungs and liver, the blood's process with air and the inward digestive fire.
 
 N:
   pulmonary and hepatic system; lungs, liver, respiration, bile, gall, spleen, humours, lights†

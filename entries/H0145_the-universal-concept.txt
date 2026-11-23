@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › α. The Concept as Such
 G: Der allgemeine Begriff
 Gloss: A general idea taken not as a mere common feature but as one nature that runs through and shapes all its kinds and instances, as "animal" in every animal.
+HGloss: Universality as the self-identical that contains particularity within itself and is the substance of its kinds, the creative power.
 
 N:
   the universal concept; universal, the universal, universality, generality; genus, kind, class, category, type, sort, family, order, form, idea, ideal type; common nature, what is common; general term, common noun, general idea, abstract idea; universals, problem of universals, realism and nominalism, universalia ante rem, in re; concrete universal

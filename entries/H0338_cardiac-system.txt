@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › ii. Blood System
 G: Herzsystem
 Gloss: The heart; the centre of the blood's circulation.
+HGloss: The heart, the living pulsation, the centre of irritability as self-moving.
 
 N:
   cardiac system; heart, ventricles, atria, auricles, valves, pulse, heartbeat, systole, diastole; the seat of life

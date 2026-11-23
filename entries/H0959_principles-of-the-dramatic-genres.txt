@@ -1,0 +1,30 @@
+# 959 Principles of the Dramatic Genres
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › iii. Genres of Dramatic Poetry
+G: Das Prinzip der Tragödie, Komödie und des Dramas
+Gloss: The principles of the kinds of drama.
+HGloss: The principles that distinguish tragedy, comedy and the drama proper.
+
+N:
+  principles of the dramatic genres; the tragic and the comic, the serious and the laughable
+  the principle of tragedy comedy and drama, the principle of the tragic, the principle of the comic, the principle of drama proper, the ground of division, the basis of the genres, the generic principle, the substantial and the subjective, substance and subjectivity, the ethical substance, the subjective caprice, the collision, the reconciliation, the downfall, the dissolution in laughter, the mediation, the earnest and the jesting, gravity and levity, weeping and laughter, tears and laughter, the sock and the buskin, the two masks, Melpomene and Thalia, the tragic conflict, the comic contradiction, the mixed kind, dramatic theory, poetics of drama, dramaturgy
+
+V:
+  distinguish
+  differentiate, divide, discriminate, classify, define, determine, characterize, ground, derive, oppose, contrast, mediate, reconcile, delimit, mark off
+
+Adj:
+  tragic, comic
+  dramatic, farcical, tragicomic, melodramatic
+  generic, principial, fundamental, basic, essential, constitutive, definitional, distinguishing, substantial, subjective, serious, earnest, laughable, grave, light, mixed, mediating, dramaturgical, theoretical
+
+Adv:
+  seriously, comically
+  in principle, in essence, essentially, fundamentally, generically, tragically, earnestly, laughably, by kind, according to its principle
+
+F:
+  German: Prinzip, das Tragische, das Komische, das Substantielle, Subjektivität
+  Latin: genera dramatica, principium
+  Greek: spoudaion, geloion, archē
+
+Phr:
+  the tragic and the comic mask

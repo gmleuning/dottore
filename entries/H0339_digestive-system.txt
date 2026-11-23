@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape
 G: Verdauungssystem
 Gloss: The organs of digestion.
+HGloss: The system of reproduction, the intestines and their glands, the organism's process with what it takes in.
 
 N:
   digestive system; digestive tract, alimentary canal, gut, guts, bowels, entrails, viscera, intestines, stomach, belly, maw, gullet, oesophagus, glands, pancreas

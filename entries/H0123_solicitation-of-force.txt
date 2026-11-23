@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation › b. Relation of Force and Its Expression
 G: Sollizitation der Kraft
 Gloss: A force set into action by another force.
+HGloss: Force solicited by another force, which is itself solicited, so that each is the condition of the other's expression.
 
 N:
   solicitation, solicitation of force; incitement, incitation, excitation, stimulation, stimulus; provocation, elicitation, evocation, calling forth, summons; activation, actuation, arousal, awakening
@@ -10,7 +11,7 @@ N:
   spark, detonator, fuse, percussion cap, hair trigger; prod, goad, spur, prick, fillip, nudge, jog
   latent force, potential energy; force &c H0121
   stimulus and response, action and reaction &c H0140; interplay of forces, play of forces; reciprocity &c H0141
-  influence, prompting, instigation, provocation &c H0605
+  influence, prompting, instigation, provocation &c H0609
   incentive
   momentum, thrust, propulsion &c H0228
   excitation of feeling
@@ -20,7 +21,7 @@ V:
   solicit, incite, excite, stimulate, provoke, elicit, evoke, call forth, draw out, bring out; trigger, set off, touch off, spark, spark off, kick off; actuate, activate, energize, galvanize; prompt, prod, goad, spur, prick, needle, nudge
   arouse, rouse, waken, awaken, stir, stir up, quicken; occasion, give rise to; set in motion, set going, start the ball rolling; release, unleash
   be solicited; respond, react, answer, rise to; spring into action
-  stimulate &c H0605, animate, act upon, work upon, operate upon
+  stimulate &c H0609, animate, act upon, work upon, operate upon
   impel, push, drive
   induce
   impel &c H0232, propel &c H0228, urge
@@ -37,7 +38,7 @@ Adv:
   by solicitation
 
 F:
-  German: Reiz, Anstoß, Auslösung, Spiel der Kräfte &c H0457, Sollizitation
+  German: Reiz, Anstoß, Auslösung, Spiel der Kräfte &c H0461, Sollizitation
   Latin: causa occasionalis, potentia, conatus, ab extra
   Greek: hormē, aphormē [occasion, starting point], dynamis
   Sanskrit: nimitta [occasioning cause] &c (cause) H0137

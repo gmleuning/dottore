@@ -1,0 +1,24 @@
+# 933 General Character of Epic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › a. Epic Poetry
+G: Allgemeiner Charakter des Epischen
+Gloss: The general nature of epic.
+HGloss: The general character of the epic: the national bible, the objective world of a people.
+
+N:
+  general character of epic; objectivity, breadth, totality of a world, narrative distance, the bard behind the tale
+  the epic manner, epic breadth, epic calm, epic objectivity, externality, the event, the occurrence, the objective world, fullness, circumstantiality, detachment, impersonality, the self-effacing poet
+
+V:
+  narrate, encompass
+  tell, relate, recount, unfold, depict, embrace
+
+Adj:
+  objective, broad, comprehensive
+  epic, impersonal, detached, calm, leisurely, circumstantial, expansive, external
+
+Adv:
+  objectively, at length
+  broadly, calmly, impersonally, in detail, in full
+
+Phr:
+  the whole world of a people

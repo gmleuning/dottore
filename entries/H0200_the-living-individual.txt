@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea › α. Life
 G: Das lebendige Individuum
 Gloss: A single living creature, whose parts are organs serving the whole.
+HGloss: The organism, a subject which is its own end and means, whose members are only moments of the whole.
 
 N:
   the living individual; living being, organism, creature, individual, being, body, living body, animate body; members, organs, limbs; organic unity, wholeness, integrity

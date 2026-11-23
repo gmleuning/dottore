@@ -2,6 +2,7 @@
 # (top of the system)
 G: Logik
 Gloss: The structure of reality and, in the same concepts, of thought: the basic determinations all thinking relies on, each leading to the next. Then the study of these concepts in their own right and in that order.
+HGloss: The science of the pure idea, of thought as the self-movement of the concept, in which the determinations of thought are at once the determinations of things.
 
 N:
   logic, science of logic; speculative logic, dialectical logic, objective logic, subjective logic; dialectic, dialectics; science of thought, science of pure reason; pure thought; thinking, ratiocination &c (inference) H0165

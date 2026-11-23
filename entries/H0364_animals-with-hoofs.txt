@@ -1,0 +1,12 @@
+# 364 Animals with Hoofs
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata [Tetrad] › 4. Mammals
+G: Huftiere
+Gloss: Hoofed mammals: ungulates.
+HGloss: Mammals whose toes end in hoofs, strong in the upper body and tamed to work for man: swine, elephants, cattle, horses.
+
+N:
+  animals with hoofs
+  horse, sheep, cattle, deer, elephant, cows, livestock, charger, camel, moose, mare, mustang, rhino, swine, zebra, mammoth, sow, reindeer, giraffe, bison, takin, pinto, antelope, impala, gnu, bronco, caribou, steed, llama, merino, gazelle, racehorse, rhinoceros, wether, longhorn, roebuck, farm animal, small livestock, river horse, goat, hippo
+  beast, beast of burden, cattle, horse, nag, palfrey, blood horse, thoroughbred, galloway†, charger, courser, racer, hunter, jument†, pony, filly, colt, foal, barb, roan, jade, hack, bidet, pad, cob, tit, punch, goer†, racehorse, pack horse, draft horse, cart horse, dray horse, post horse, ketch, Shetland pony, shelty, sheltie, garran†, garron†, jennet, genet†, bayard†, mare, stallion, gelding, bronco, broncho†, cayuse [U.S.], creature, critter [U.S.], cow pony, mustang, Narraganset, waler†, stud
+  Pegasus, Bucephalus, Rocinante
+  ass, donkey, jackass, mule, hinny, sumpter horse, sumpter mule, burro, cuddy†, ladino [U.S.], reindeer, camel, dromedary, llama, elephant

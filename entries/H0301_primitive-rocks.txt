@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy)
 G: Urgebirge
 Gloss: The original, unlayered rocks that form the base of the earth's crust, such as granite.
+HGloss: The primitive rocks as the kernel of the earth's formation, granite with its moments.
 
 N:
   primitive rocks; primary rocks, primordial rock, bedrock, crystalline rock, igneous rock, granite, gneiss, mica schist, basalt, porphyry, shield, craton; primitive formations

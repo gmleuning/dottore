@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation
 G: Substantialitätsverhältnis
 Gloss: The relation of a substance to its passing states, or accidents, which arise and vanish within it.
+HGloss: Substance as the power over its accidents, which are only its shining; the totality that posits and negates them.
 
 N:
   relation of substantiality; substance and accident; substance, substratum, essence, underlying reality, bearer, subject; accident, attribute, mode, property, modification, quality, state, transient feature; accidentality, inherence

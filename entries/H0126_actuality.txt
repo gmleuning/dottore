@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence
 G: Wirklichkeit
 Gloss: What is real and effective; the unity of a thing's underlying nature with its existence.
+HGloss: The unity, become immediate, of essence and existence, of inner and outer; what is actual is rational.
 
 N:
   actuality; reality, the real, the actual, what is, what is the case, fact, facts, effectiveness, efficacy, effectivity, operativeness, working; realization, actualization, accomplished fact; the rational actual

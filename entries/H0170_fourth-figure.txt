@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › a. Syllogism of Existence (Qualitative Syllogism) [Tetrad]
 G: Vierte Figur
 Gloss: The form of inference in which all terms are interchangeable quantities: things equal to the same thing are equal to each other.
+HGloss: U–U–U: the abstract, relationless syllogism in which the terms are equal and the mediation is equality, as in mathematics.
 
 N:
   fourth figure, mathematical syllogism; U–U–U, universal–universal–universal; Galenic figure; equality, equation, transitivity, axiom of equality; quantitative inference, calculation

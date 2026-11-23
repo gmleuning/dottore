@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality
 G: Gestalt
 Gloss: The inner form by which a body arranges its own parts; figure, structure.
+HGloss: Individuality as the immanent form of matter, which gives itself its spatial determination, as magnetism and crystal.
 
 N:
   shape; form, figure, configuration, conformation, structure, build, frame, contour, outline, profile, silhouette, cut, cast, mould, pattern, format, arrangement, morphology; immanent form, inner form

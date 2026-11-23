@@ -1,0 +1,43 @@
+# 755 Regularity and Symmetry
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › b. Natural Beauty › ii. External Beauty › 1. Beauty of Abstract Form
+G: Regelmäßigkeit und Symmetrie
+Gloss: The repetition of like forms, and the correspondence of parts on either side of a centre.
+HGloss: The repetition of an identical form, and symmetry, the like joined to the unlike; the lowest unity of form.
+
+N:
+  regularity and symmetry; regularity, uniformity, evenness, repetition, symmetry, balance, bilateral symmetry, correspondence, equilibrium, proportion, parallelism
+  shapeliness, finish, beauty &c H0747, eurythmy†, trilateral symmetry, multilateral symmetry, centrality &c H0218
+  order, music of the spheres
+  conformity &c H0063, uniformity &c H0088
+  equality, parity
+  constancy, clock-work precision, even tenor
+  sameness
+
+V:
+  regularize, symmetrize, balance, mirror, match
+  repeat, correspond
+
+Adj:
+  regular, uniform, even, symmetrical, symmetric, balanced, proportionate, equal
+  equal &c H0045, parallel, coextensive
+  orderly, methodical, systematic
+  homogeneous, homologous, consistent, connatural†, monotonous, invariable, unchanged, undeviating, unvaried, unvarying
+  coequal
+  shapely, well set, finished, beautiful &c H0747, classic, chaste, severe
+  conformable to rule, regular &c H0222, well regulated
+  bilateral
+
+Adv:
+  symmetrically, regularly, evenly
+  uniformly
+
+F:
+  Latin: lucidus ordo
+  Greek: symmetria, eurhythmia
+  French: of a piece
+  Arabic: tanāẓur [symmetry]
+  Chinese: duicheng [symmetry]
+  Japanese: taishō
+
+Phr:
+  Tyger Tyger, burning bright... what immortal hand or eye could frame thy fearful symmetry? [Blake]

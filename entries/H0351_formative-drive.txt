@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation
 G: Bildungstrieb
 Gloss: The animal's instinct to produce forms outside itself, as in building nests, webs and hives.
+HGloss: The animal's instinctive art, its drive to give an outward form to what it needs: nests, lairs, webs, hives.
 
 N:
   formative drive; instinct, building instinct, nest-building, web-spinning, hive-building, burrowing, dam-building, artifice; bower, nest, web, hive, comb, burrow, lodge, dam, mound; extended phenotype

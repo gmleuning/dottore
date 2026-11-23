@@ -2,6 +2,7 @@
 # Logic
 G: Lehre vom Wesen
 Gloss: The study of concepts by which things are understood through what lies beneath their surface. These concepts come in pairs, each defined only by its relation to the other.
+HGloss: The truth of being: being gone into itself, a reflection in which each determination is only in relation to its other.
 
 N:
   doctrine of essence; essence, quiddity, whatness; nature, inner nature, true nature, real nature, intrinsic nature, inwardness, core, kernel, heart, marrow, pith, gist, crux, nub, sum and substance, the heart of the matter, the nitty-gritty

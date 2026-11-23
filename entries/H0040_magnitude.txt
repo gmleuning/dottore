@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being
 G: Größe
 Gloss: Definiteness that makes no difference to what a thing is; amount, size or degree, which can change while the thing stays the same.
+HGloss: Quantity: determinateness become indifferent to being, a limit that is no limit, the truth of quality.
 
 N:
   magnitude, quantity; amount, size, extent, dimension, dimensions, bulk, mass, volume, measure, proportion, scale, sum, total, number &c H0046, degree &c H0047, quantum &c H0045; how much, how many; muchness, largeness, greatness, smallness

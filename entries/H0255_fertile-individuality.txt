@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › γ. Meteorological Process
 G: Fruchtbare Individualität
 Gloss: The earth as fertile, ready to bring forth life.
+HGloss: The earth made fertile by the meteorological process, its individuality as the universal ground of life.
 
 N:
   fertile individuality; fertility, fecundity, fruitfulness, productivity, richness, lushness, luxuriance, abundance, generativity; the earth as mother, the womb of nature; the cradle of life

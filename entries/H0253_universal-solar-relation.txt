@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › γ. Meteorological Process
 G: Allgemeines Sonnenverhältnis
 Gloss: The relation of earth to sun that produces the seasons.
+HGloss: The earth's relation to the sun, its sphere of light and warmth, as day and night and the seasons.
 
 N:
   universal solar relation; seasons, the turning of the year, solstice, equinox, spring, summer, autumn, fall, winter, the zodiac, the ecliptic, insolation, day and night, the diurnal round, the annual round, the cycle of the year

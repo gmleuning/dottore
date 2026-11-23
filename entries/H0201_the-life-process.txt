@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea › α. Life
 G: Der Lebensprozess
 Gloss: The activity by which a living being maintains itself through exchange with its surroundings.
+HGloss: The living individual against an inorganic nature that it assimilates, so that it sets itself up as itself.
 
 N:
   the life process; metabolism, metabolic process, assimilation, nutrition, nourishment, ingestion, digestion, absorption, respiration, excretion, homeostasis, self-maintenance, self-preservation, conservation, survival, struggle for existence; exchange with environment, interaction, adaptation; need, want, lack, drive, appetite, hunger

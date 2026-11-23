@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › α. Space
 G: Punkt
 Gloss: A position in space without extension.
+HGloss: Space's first negation, the point, which is spatial yet not extended; its own negation of space within space.
 
 N:
   point; spot, dot, speck, pinpoint, pin prick, jot, tittle, iota, locus, position, location, coordinate, vertex, node; dimensionless point, geometrical point, mathematical point; negation of space

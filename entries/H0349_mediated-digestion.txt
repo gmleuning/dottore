@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process › iii. Digestive Process
 G: Vermittelte Verdauung
 Gloss: Digestion carried out through the organs of the digestive system.
+HGloss: The mediated process of the digestive organs, a fluid process and a fiery one, as of the bile and the pancreas.
 
 N:
   mediated digestion; digestion proper, gastric digestion, stomach and bowel, bile, gastric juice, pancreatic juice, enzymes, ferments, chyme, chyle

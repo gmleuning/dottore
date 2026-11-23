@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › i. Nervous System
 G: Knochensystem
 Gloss: The skeleton; the hard framework of the animal body.
+HGloss: The bone, sensibility's moment of inertness, a fixed and unprocessual framework.
 
 N:
   osseous system; skeleton, bones, frame, framework, bony framework, carcass, ossature, osteology, spine, backbone, vertebrae, skull, cranium, ribs, pelvis, limbs

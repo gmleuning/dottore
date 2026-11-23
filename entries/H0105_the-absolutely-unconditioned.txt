@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › c. Condition
 G: Das absolut Unbedingte
 Gloss: The complete set of conditions and bases, depending on nothing further.
+HGloss: The totality of conditions and ground, which presupposes nothing further and from which the fact comes forth.
 
 N:
   the absolutely unconditioned; the unconditioned, the unconditional, the absolute, the self-sufficient, aseity, self-existence; first cause, uncaused cause, unmoved mover, prime mover; totality of conditions; ultimate ground

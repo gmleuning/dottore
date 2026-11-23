@@ -1,0 +1,25 @@
+# 844 Doric
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 3. Styles of Classical Architecture › a. Greek
+G: Dorisch
+Gloss: The oldest and plainest Greek order, with a sturdy fluted column and a plain capital.
+HGloss: The Doric, the oldest and most serious order, closest to wooden construction, sturdy and plain.
+
+N:
+  Doric; the Doric order, Doric column, fluting, echinus, abacus, triglyph, metope, masculine simplicity, the Parthenon, Paestum
+  the Doric capital, entasis, sturdiness, plainness, severity
+
+V:
+  build in the Doric manner
+  flute, bear, support, simplify
+
+Adj:
+  Doric, sturdy, austere, masculine, simple, unadorned
+  Dorian, plain, severe, massive, baseless, fluted
+
+Adv:
+  austerely
+  plainly, sturdily, severely, simply
+  badly
+
+Phr:
+  Doric severity

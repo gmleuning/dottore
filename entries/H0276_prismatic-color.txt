@@ -2,11 +2,12 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light › iii. Color
 G: Prismatische Farbe
 Gloss: Color produced when light passes through a prism.
+HGloss: Colour arising when light passes through the prism, the turbidity and displacement of the image.
 
 N:
   prismatic colour; spectrum, spectral colours, rainbow, iris, prism, dispersion, red, orange, yellow, green, blue, indigo, violet; ROYGBIV; Newton's prism
   pure color, positive color, primary color, primitive complementary color, three primaries, chromatic dispersion, broken color, secondary color, tertiary color
-  spectroscope, spectrograph, spectrometer, colorimeter &c H0387
+  spectroscope, spectrograph, spectrometer, colorimeter &c H0391
   scattering, diffusion
   spectral colour, Newton's spectrum, coloured fringes
 

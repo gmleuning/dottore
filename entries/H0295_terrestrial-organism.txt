@@ -2,6 +2,7 @@
 # Nature › 3. Organics
 G: Geologischer Organismus
 Gloss: The earth considered as an organism in outline only: the ground and framework of life, but not itself a living subject.
+HGloss: The earth as the organism that is only the presupposed framework of life, life in itself, a crystal of life.
 
 N:
   terrestrial organism; the earth as organism, living earth, Gaia, Gaia hypothesis, the body of the earth, planetary body, geobody; geology, geognosy, geophysics; Mother Earth

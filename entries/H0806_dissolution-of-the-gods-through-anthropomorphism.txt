@@ -1,0 +1,24 @@
+# 806 Dissolution of the Gods through Anthropomorphism
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › b. Classical Art › iii. The Dissolution of Classical Art
+G: Auflösung der Götter durch ihren Anthropomorphismus
+Gloss: The decay of the gods through their being made too human.
+HGloss: The decay of the gods through anthropomorphism, their becoming merely human.
+
+N:
+  dissolution of the gods through anthropomorphism; humanization of the gods, all-too-human gods, Xenophanes' critique, demythologization, divine scandal, the gods ridiculed
+  the decay of the gods, the twilight of the gods, the fall of the gods, finitude of the gods, contingency, particularity, the loss of the divine
+
+V:
+  humanize, debunk, demythologize, ridicule
+  anthropomorphize, degrade, decay, fall, dissolve
+
+Adj:
+  anthropomorphic, all-too-human, demythologized
+  humanized, finite, decadent, fallen
+
+Adv:
+  humanly
+  in human fashion, all too humanly, in decay
+
+Phr:
+  if oxen and horses or lions had hands, and could paint with their hands … horses would paint the forms of the gods like horses, and oxen like oxen [Xenophanes, fr. 15, tr. Burnet]

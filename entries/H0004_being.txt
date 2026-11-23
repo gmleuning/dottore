@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality)
 G: Sein
 Gloss: The bare fact of existence, considered before anything is said about what exists.
+HGloss: The first beginning of the logic: indeterminate immediacy, which proves to be the same as nothing and passes into becoming.
 
 N:
   being; existence &c (determinate being) H0011, isness, is-ness, thereness; the that, that-it-is

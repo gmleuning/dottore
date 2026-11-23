@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › iii. Finitude as Such
 G: Übergang des Endlichen ins Unendliche
 Gloss: The way a limited thing, by pushing against its limit, goes beyond itself and points toward what has no limit.
+HGloss: The finite, by sublating its own restriction, goes beyond itself and in this going-beyond is the infinite.
 
 N:
   transition of the finite into the infinite; self-transcendence, self-overcoming, self-surpassing; transgression, overstepping, overstepping of bounds, going beyond, exceeding, excess; elevation, ascent, ascension, uplift, exaltation, sublimation, rise; transcendence, transcendency, surpassing; apotheosis, deification; liberation; breakthrough, breakout, crossing, passage

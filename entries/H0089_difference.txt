@@ -2,12 +2,13 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › β. Determinations of Reflection
 G: Unterschied
 Gloss: Distinction; a thing's not being the same as another, or as itself in another respect.
+HGloss: The negativity of reflection, essence distinguishing itself from itself; absolute difference.
 
 N:
   difference; distinction, distinctness, otherness, alterity, heterogeneity, dissimilarity, unlikeness, disparity, discrepancy, divergence, deviation, variance, variation, contrast, discrimination, differentiation, diversity &c H0091; nuance, shade of difference, subtlety, fine distinction, hair-splitting
   variety, dissimilarity &c H0091, disagreement &c H0093, disparity &c H0045, contradistinction, alteration
   dissimilaritude†, diversity, dissemblance†
-  nice distinction, delicate distinction, subtle distinction, discrimination &c H0602, differentia
+  nice distinction, delicate distinction, subtle distinction, discrimination &c H0606, differentia
   diorism†, perception of difference
   mismatch, disproportion, dissimilitude, inequality, disproportionateness†, repugnance
   non-identity

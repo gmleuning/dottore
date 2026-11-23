@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › b. The Mechanical Process
 G: Der formale mechanische Prozess
 Gloss: Mechanical interaction as the mere passing on of motion or condition.
+HGloss: The communication of determinations between objects, as motion passed on, a mere sharing.
 
 N:
   the formal mechanical process; communication, transmission, propagation, imparting, passing on, contagion, infection, spread, diffusion, dissemination, osmosis; mere sharing

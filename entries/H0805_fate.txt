@@ -1,0 +1,45 @@
+# 805 Fate
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › b. Classical Art › iii. The Dissolution of Classical Art
+G: Schicksal
+Gloss: The necessity that stands over gods and men.
+HGloss: Fate, the necessity above the gods, the cold unity they cannot reach.
+
+N:
+  fate; necessity, the Fates, destiny, doom, lot, Nemesis; kismet
+  destination, fatality, election, foreordination, fatalism, inevitableness
+  necessitation, obligation, compulsion &c H0649, subjection &c H0479, stern necessity, hard necessity, dire necessity, imperious necessity, inexorable necessity, iron necessity, adverse necessity, what must be
+  fate &c H0134
+  predestination, preordination, predetermination
+  destiny &c H0134
+  ananke, heimarmene, the Norns, blind necessity, weird†
+
+V:
+  fate, destine, doom, foreordain, decree
+  impend, hang over, await, preordain, have in store for
+  foredoom, devote, predestine, cast a spell &c H0976, necessitate, compel &c H0649
+  be doomed, be destined, have no choice, have no alternative
+  ordain, overrule
+
+Adj:
+  fated, fateful, destined, doomed, inexorable, ineluctable
+  elect, uncontrollable, irresistible, irrevocable, resistless
+  impending, in store
+  inevitable, unavoidable, avoidless†
+  inescapable, blind
+
+Adv:
+  fatefully, inexorably, as fate would have it
+  by fate, ineluctably, inevitably
+
+F:
+  Latin: fatum, Parcae
+  Greek: anankē, moira, Moirai, heimarmenē
+  Arabic: qadar
+  Turkish: qismet
+  Sanskrit: niyati
+  Chinese: mingyun [fate]
+  Japanese: shukumei
+
+Phr:
+  even the gods do not fight against necessity [Simonides]
+  fata viam invenient [Lat.] [the fates will find a way] [Virgil]

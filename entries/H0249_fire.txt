@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements › b. Elements of Opposition
 G: Feuer
 Gloss: The consuming element; heat and combustion.
+HGloss: Air posited as unrest, the materialized time, a consuming of another that is also its own consuming.
 
 N:
   fire; flame, blaze, conflagration, inferno, combustion, burning, heat, ardour, glow, spark, ember, embers, coal, cinder, pyre, bonfire, hearth, fireside; consuming element, destruction, purification; Prometheus, Hephaestus, Vulcan

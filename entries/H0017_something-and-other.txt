@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude
 G: Etwas und Anderes
 Gloss: The relation of a thing to what it is not. Each side is "something" and each is the "other" of the other, so which is which depends on point of view.
+HGloss: Something and its other, each equally a something and an other, so that otherness falls within something itself.
 
 N:
   something and other; the other, otherness, alterity; difference &c H0089; the alien, the foreign, the stranger, the outsider; the not-self, non-ego; counterpart, opposite number, complement, foil; relativity, perspective, point of view, standpoint; being-for-other; being-in-itself; self and other, us and them, this and that, ego and alter

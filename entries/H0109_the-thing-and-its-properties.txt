@@ -2,12 +2,13 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › α. Existence
 G: Das Ding und seine Eigenschaften
 Gloss: The existing thing considered as a unit with many properties.
+HGloss: The existent as a thing with many properties, the unity of reflection-into-self and reflection-into-other.
 
 N:
   the thing and its properties; thing, object, article, item, body, entity, substance, bearer, owner, possessor of properties, substrate, subject of predication; bundle, bundle of qualities, cluster, set of properties; also
   substantiality, hypostasis, person, being, a being, an existence, creature, flesh and blood, matter &c H0229, corporeity†, essential nature, groundwork, materiality, substantialness, vital part
   matter, brute matter, stuff, element, principle, parenchyma [Biol.], substratum, hyle†, corpus, pabulum, frame
-  something, materials &c H0691
+  something, materials &c H0695
   the propertied thing, the bearer of properties, the one and its many properties
 
 V:

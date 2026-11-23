@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › γ. Meteorological Process
 G: Besondere Klimate
 Gloss: The regions of the earth distinguished by their climate.
+HGloss: The particular meteorological processes of different regions: zones and climates.
 
 N:
   particular climates; climates, climatic zones, latitudes, regions, clime, torrid zone, temperate zone, frigid zone, tropics, arctic, antarctic, equatorial region, polar region; microclimate

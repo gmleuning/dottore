@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › b. Difference in Particularized Corporeality
 G: Geschmack
 Gloss: A body's dissolving into water, perceived as its savour; flavour.
+HGloss: The body's specific individuality as a dissolving into water, its neutral relation to it, as salt in taste.
 
 N:
   taste; savour, flavour, relish, tang, smack, zest, piquancy, sapidity, palate, sweet, sour, salt, bitter, umami, astringency; specific water, dissolution into water
@@ -47,7 +48,7 @@ Adj:
   bland, void of taste, tasteless, gustless†, savorless, ingustible†, mawkish, milk and water, weak, stale, flat, vapid, fade, wishy-washy, mild, untasted†
   bitterish, acerb, acerbic
   unpalatable, unsweetened, unsweet†, ill-flavored, bitter as gall
-  offensive, repulsive, nasty, sickening, nauseous, loathsome, fulsome, unpleasant &c H0605
+  offensive, repulsive, nasty, sickening, nauseous, loathsome, fulsome, unpleasant &c H0609
   saccharine, sacchariferous†, dulcet, candied, honied†, lush, nectarious†, melliferous†, sweetened
   sweet as a nut, sweet as sugar, sweet as honey
   sickly sweet

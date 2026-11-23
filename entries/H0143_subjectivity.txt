@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept
 G: Subjektivität
 Gloss: Thought considered in its own forms rather than in its objects.
+HGloss: The concept in its own element, as concept, judgment and syllogism: thought's forms as forms of the actual.
 
 N:
   subjectivity; subjective concept, formal logic, logic of the understanding; the forms of thought, laws of thought, logical forms; thought considered in itself; mind, intellect, intellection

@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › α. Specific Quantity › b. Specifying Measure
 G: Eigentlich spezifizierendes Maß
 Gloss: Measure that modifies what it measures according to its own nature, as a body takes up heat according to its own capacity.
+HGloss: Measure that takes up an external quantum and alters it according to its own nature, as a body takes up heat by its specific capacity.
 
 N:
   specifying measure proper; capacity, specific capacity, specific heat, heat capacity, absorption, uptake, receptivity, susceptibility, coefficient, modulus, factor, index; nonlinear response, specific response, refraction &c H0274; assimilation according to one's own nature

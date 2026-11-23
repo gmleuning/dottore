@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light › iii. Color › 2. Vision
 G: Epoptische Farbe
 Gloss: Color produced at the surface of a thin film or plate, as on a soap bubble.
+HGloss: Colour formed on the surface of thin plates and films, by their mutual pressure.
 
 N:
   epoptic colour; thin-film colour, iridescence, interference colours, Newton's rings, soap-bubble colours, oil-slick sheen, nacre, mother-of-pearl, opalescence

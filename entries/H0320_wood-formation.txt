@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation
 G: Holzbildung
 Gloss: The hardening of a plant's tissue into wood.
+HGloss: The plant's self-relation becoming rigid, wood, the plant's skeleton.
 
 N:
   wood formation; lignification, wood, lumber, timber, heartwood, sapwood, grain, trunk, bole, stem, stalk, bark, cork; ligneous tissue

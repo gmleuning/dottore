@@ -2,6 +2,7 @@
 # Nature
 G: Mechanik
 Gloss: The study of matter and motion at their most abstract and external.
+HGloss: Nature's first sphere, of asunderness without inwardness: space, time, matter and motion, and the free motion of the heavens.
 
 N:
   mechanics; mechanical philosophy, physics of motion, dynamics, kinematics, statics, kinetics; matter in motion

@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation
 G: Praktischer Prozess
 Gloss: The animal's relation to its world by acting physically upon it.
+HGloss: The practical relation: need, which the animal satisfies by seizing and consuming its object.
 
 N:
   practical process; action upon the world, behaviour, activity, seizure, grasping, hunting, foraging, feeding, manipulation; need and satisfaction, appetite and gratification

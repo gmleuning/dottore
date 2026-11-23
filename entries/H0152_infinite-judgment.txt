@@ -2,9 +2,10 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › a. Judgment of Existence (Qualitative Judgment)
 G: Unendliches Urteil
 Gloss: A judgment in which subject and predicate have nothing to do with each other, as "the mind is not an elephant"; or one that denies a whole kind of a thing, as crime denies right.
+HGloss: The positive infinite judgment, the singular is singular, and the negative, in which subject and predicate do not fit at all: crime.
 
 N:
-  infinite judgment; nonsense judgment, absurd predication, category mistake, category error, incongruity; negatively infinite judgment, positively infinite judgment; total negation, radical negation; crime as negation of right, negation of the genus; meaninglessness, senselessness, absurdity; spirit is a bone &c H0507
+  infinite judgment; nonsense judgment, absurd predication, category mistake, category error, incongruity; negatively infinite judgment, positively infinite judgment; total negation, radical negation; crime as negation of right, negation of the genus; meaninglessness, senselessness, absurdity; spirit is a bone &c H0511
   the nonsensical judgment, the identical judgment, total incompatibility, crime as infinite judgment
 
 V:

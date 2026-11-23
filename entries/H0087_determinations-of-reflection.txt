@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself
 G: Reflexionsbestimmungen
 Gloss: The basic concepts by which reflection fixes what a thing is: identity, difference and contradiction, each holding only through its relation to its other.
+HGloss: The essentialities of reflection: identity, difference and contradiction, each existing only in relation to its other.
 
 N:
   determinations of reflection; essentialities; laws of thought, principles of thought, first principles, axioms; identity, difference, contradiction &c H0088, H0089, H0093; principle of identity; law of noncontradiction; law of excluded middle; principle of sufficient reason; categories of comparison, relations of comparison
@@ -11,7 +12,7 @@ N:
 V:
   identify, differentiate, distinguish, compare, contrast, oppose, contradict, determine
   discriminate, separate, draw the line
-  countervail, contradict &c H0595
+  countervail, contradict &c H0599
   fix, reflect
 
 Adj:

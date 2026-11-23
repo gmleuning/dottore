@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism
 G: Der mechanische Prozess
 Gloss: The pushing and pulling of mechanical things upon one another.
+HGloss: Objects acting upon one another through the identity of their nature, which they show only as indifferent to it.
 
 N:
   the mechanical process; mechanical action, impact, collision, push, pressure, thrust, impulse, transmission, communication of motion, force transfer, chain reaction

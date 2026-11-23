@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism › γ. Earth's Life
 G: Atmosphäre
 Gloss: The envelope of air surrounding the earth.
+HGloss: The air of the earth in its living process, its atmosphere, which is the medium of meteorological life.
 
 N:
   atmosphere; air, sky, heavens, firmament, welkin†, ether, aether, troposphere, stratosphere, ionosphere, envelope of air, vault of heaven; ambience, mood, climate, aura

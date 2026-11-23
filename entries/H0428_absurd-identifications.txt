@@ -1,0 +1,24 @@
+# 428 Absurd Identifications
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement › 2. Folly (Fixation of the Subjective as Objective)
+G: Absurde Identifikationen
+Gloss: The mistaken belief that one is someone or something else.
+HGloss: The deranged identification of oneself with some other being, as to think oneself a dog or God.
+
+N:
+  absurd identifications; delusion of identity, delusion of grandeur, megalomania, imposture, the man who thinks he is Napoleon, the man who thinks he is God, lycanthropy, transformation delusion, glass delusion, Capgras delusion
+  mistaken identity, believing oneself a king, believing oneself God, monomania
+
+V:
+  imagine oneself, believe oneself to be, take oneself for
+  mistake oneself, identify falsely
+
+Adj:
+  megalomaniac, megalomaniacal, grandiose, deluded, lycanthropic
+  self-mistaken, monomaniacal
+
+Adv:
+  grandiosely
+  delusionally, under a delusion
+
+Phr:
+  I am the King of Spain

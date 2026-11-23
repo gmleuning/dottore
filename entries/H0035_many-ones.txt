@@ -2,12 +2,13 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › b. The One and the Many
 G: Viele Eins
 Gloss: The rise of many units from one: in excluding others, a unit sets up others like itself, and plurality appears.
+HGloss: The one's self-repulsion, its exclusion of itself from itself, which posits the many ones.
 
 N:
   many ones; repulsion, self-repulsion; multiplication, proliferation, plurality, multiplicity, many, the many, manifold; dispersion, dispersal, diaspora, scattering, fragmentation, pulverization, atomization, splintering, fission; self-division, self-differentiation, diremption; fecundity, budding, gemmation
   multitude, numerosity, legion, host
   greater number, majority
-  disjunction &c H0293, divergence &c H0228, aspersion, dissemination, diffusion, dissipation, distribution, apportionment &c H0620, respersion†, circumfusion†, interspersion, spargefaction†, affusion†
+  disjunction &c H0293, divergence &c H0228, aspersion, dissemination, diffusion, dissipation, distribution, apportionment &c H0624, respersion†, circumfusion†, interspersion, spargefaction†, affusion†
   separation, detachment, division, subdivision
   the many units
 

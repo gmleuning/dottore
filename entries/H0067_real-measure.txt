@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure
 G: Reales Maß
 Gloss: Measure embodied in an independent thing that is itself a set of proportions.
+HGloss: Measure become a self-subsistent something, which is itself a unity of measures in ratio to others.
 
 N:
   real measure; independent measure, self-subsistent measure, real thing as measure, body, material thing, specific substance; proportioned thing, embodied ratio, physical body with constants; substance, material; compound, alloy, mixture

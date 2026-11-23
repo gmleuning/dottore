@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › c. Syllogism of Necessity
 G: Kategorischer Schluss
 Gloss: Inference whose connecting term is a kind or genus.
+HGloss: The middle is the genus, the substantial nature of the extremes.
 
 N:
   categorical syllogism; inference through the genus, generic inference, classificatory reasoning, taxonomy-based inference

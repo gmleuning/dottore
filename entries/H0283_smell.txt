@@ -2,12 +2,13 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › b. Difference in Particularized Corporeality
 G: Geruch
 Gloss: A body's slow dispersal into the air, perceived as its scent; odour.
+HGloss: The body's specific individuality as a volatile process with air, its silent consuming of itself into odour.
 
 N:
   smell; scent, odour, aroma, fragrance, perfume, bouquet, nose, savour, redolence, whiff, waft, trace, tang, essence, attar, incense, musk; stench, stink, reek, fetor, malodour, miasma; specific air, combustion into air
   sweet smell, aromatic perfume
   bad
-  smell, bad odor, foul odor, malodor, empyreuma†, mustiness, rancidity, foulness &c H0690
+  smell, bad odor, foul odor, malodor, empyreuma†, mustiness, rancidity, foulness &c H0694
   frankincense, pastil†, pastille, myrrh, perfumes of Arabia†, otto†, ottar†, bergamot, balm, civet, potpourri, pulvil†, nosegay, scentbag†, sachet, smelling bottle, vinaigrette, toilet water, lotion, after-shave lotion, thurification†
   sense of smell, act of smelling, olfaction, olfactories†
   odor, odorament†, effluvium, emanation, exhalation, fume, trail, nidor†
@@ -26,7 +27,7 @@ Adj:
   odorous, odoriferous, aromatic, fragrant, scented, perfumed, redolent, balmy, musky, pungent, olfactory; malodorous, fetid, rank, foul
   spicy, savory, sweet-smelling, sweet-scented, perfumatory†, thuriferous, fragrant as a rose, muscadine†, ambrosial
   smelling, reeking, foul-smelling, strong- scented, graveolent†, nidorous†, putrid
-  strong-smelling, high, bad, strong, fulsome, offensive, noisome, rancid, reasty†, tainted, musty, fusty, frouzy†, olid†, olidous†, stinking, putrid &c H0690, suffocating, mephitic, empyreumatic†
+  strong-smelling, high, bad, strong, fulsome, offensive, noisome, rancid, reasty†, tainted, musty, fusty, frouzy†, olid†, olidous†, stinking, putrid &c H0694, suffocating, mephitic, empyreumatic†
   inodorous†, onodorate, scentless, without smell, wanting smell, deodorized, deodorizing
 
 Adv:

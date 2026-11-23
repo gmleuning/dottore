@@ -1,0 +1,32 @@
+# 931 Different Genres
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry
+G: Die Gattungsunterschiede der Poesie
+Gloss: The kinds of poetry.
+HGloss: The kinds of poetry: epic, the objective; lyric, the subjective; drama, their unity.
+
+N:
+  different genres; poetic genres, epic, lyric, dramatic, literary kinds, genre
+  poem, epic poem, ode, idyl, eclogue, pastoral, sonnet
+  dramatic poetry, lyric poetry, ballad, lay
+  kinds of poetry, species of poetry, the poetic kinds, the three genres, the division of poetry, classification, kind, sort, species, type, class, category, taxonomy
+
+V:
+  classify
+  divide, distinguish, differentiate, categorize, group, specify
+
+Adj:
+  generic
+  poetic, poetical, lyrical, dithyrambic, elegiac
+  specific, classificatory, typological
+
+Adv:
+  by genre
+  generically, by kind, by species, severally
+
+F:
+  German: Gattung
+  Arabic: anwāʿ adabiyya [literary genres]
+  Chinese: wenti [genre]
+
+Phr:
+  epic, lyric, drama

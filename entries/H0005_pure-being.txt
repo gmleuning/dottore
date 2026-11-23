@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being
 G: Reines Sein
 Gloss: Existence with no further content at all; "is" without any "what." So empty that nothing definite can be thought in it.
+HGloss: Being, pure being, without any further determination: indeterminate immediacy, equal only to itself, with nothing to be intuited or thought in it.
 
 N:
   pure being; being as such, being qua being; mere being, bare being, naked being, sheer existence; indeterminate immediacy; the empty, the void &c H0006, emptiness, vacancy, blankness, vacuity, inanity; abstraction, the abstract, highest genus; the One of Parmenides, the Eleatic One

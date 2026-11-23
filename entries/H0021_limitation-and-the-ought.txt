@@ -2,18 +2,19 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › iii. Finitude as Such
 G: Schranke
 Gloss: The limit felt as a barrier to be overcome, and the demand to overcome it. What a thing ought to be stands against what it is.
+HGloss: The limit as a restriction (Schranke) within something, and the ought (Sollen) that is to go beyond it; each implies the other.
 
 N:
-  limitation, barrier, bar, obstacle, check, hindrance, impediment, constraint, restraint, restriction, confinement, fetter, shackle, trammel; ceiling, glass ceiling, cap; the ought, ought, oughtness, obligation, demand, requirement, imperative, exigency, norm, standard, ideal &c H0756; aspiration, striving, yearning, longing; the gap between is and ought, is-ought gap; vocation, task, mission, calling; deontology, deontic
+  limitation, barrier, bar, obstacle, check, hindrance, impediment, constraint, restraint, restriction, confinement, fetter, shackle, trammel; ceiling, glass ceiling, cap; the ought, ought, oughtness, obligation, demand, requirement, imperative, exigency, norm, standard, ideal &c H0760; aspiration, striving, yearning, longing; the gap between is and ought, is-ought gap; vocation, task, mission, calling; deontology, deontic
   let, knot, knag†, hitch, contretemps, screw loose, grit in the oil
-  prevention, preclusion, obstruction, stricture, restraint &c H0645
+  prevention, preclusion, obstruction, stricture, restraint &c H0649
   bond
-  coercion &c H0645, cohibition†, repression, suppression, discipline, control
+  coercion &c H0649, cohibition†, repression, suppression, discipline, control
   deterrent, hamper, roadblock, blockage
 
 V:
   limit, restrict, confine, bar, check, hinder, constrain, restrain, hem in, cramp, curb, fetter, trammel; strive, aspire, yearn, long, reach for, reach beyond; ought, should, must, be obliged, be bound, be called upon; transgress, overstep, exceed, surpass, push the envelope
-  retard, preclude, inhibit &c H0701, shackle &c H0645
+  retard, preclude, inhibit &c H0705, shackle &c H0649
   hold back, hold in check, keep within bounds
   impede, obstruct
 

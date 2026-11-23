@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › γ. Chemical Process
 G: Mischung
 Gloss: The bringing together of bodies without a change in their nature.
+HGloss: The external mixture of bodies, not yet a process that alters their nature.
 
 N:
   mixture; mix, admixture, blend, combination, commixture, intermixture, amalgam, compound, medley, concoction, solution, suspension, emulsion, alloy; physical mixture as opposed to chemical union

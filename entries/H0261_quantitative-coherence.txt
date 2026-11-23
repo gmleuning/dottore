@@ -2,6 +2,7 @@
 # Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad] › β. Cohesion › b. Coherence
 G: Quantitative Kohärenz
 Gloss: Cohesion measured as resistance to force, as in tensile, breaking or crushing strength.
+HGloss: Coherence as resistance in a determinate direction, as tensile, breaking or crushing strength.
 
 N:
   quantitative coherence; strength of materials, tensile strength, compressive strength, shear strength, breaking strength, breaking point, load, stress, strain, tolerance, yield point, fracture, rupture

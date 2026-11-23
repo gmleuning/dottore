@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light
 G: Brechung
 Gloss: The bending of light as it passes from one transparent medium into another.
+HGloss: Light passing between two media of different density, whose relation is seen in the displacement of the image.
 
 N:
   refraction; bending of light, deflection, diffraction, dispersion, double refraction, birefringence, refractive index, lens, prism, spectacles, magnifying glass, distortion, apparent bending

@@ -1,0 +1,31 @@
+# 748 The Idea
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › a. The Concept of the Beautiful as Such
+G: Die Idee
+Gloss: Truth understood as the full agreement of a thing with what it ought to be.
+HGloss: The concept that has given itself reality and is one with it: the true, which is the idea.
+
+N:
+  the idea; the idea as truth, concept and reality united, the ideal content, meaning; &c H0193
+  truth, the concept and its reality, the unity of concept and objectivity, adequacy, correspondence, the true as such, what a thing ought to be
+
+V:
+  conceive, idealize, embody
+  agree, correspond, accord, realize, fulfil, be true
+
+Adj:
+  ideal, conceptual, true
+  adequate, concrete, self-accordant
+
+Adv:
+  ideally, in idea
+  in truth, truly, adequately
+
+F:
+  German: Gehalt [import]
+  Latin: idea
+  Greek: eidos
+  Arabic: mithāl [ideal form]
+  Sanskrit: rūpa [form]
+
+Phr:
+  the idea is the true

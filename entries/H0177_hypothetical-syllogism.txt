@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › c. Syllogism of Necessity
 G: Hypothetischer Schluss
 Gloss: Inference whose connecting term is a condition: if A then B; A; therefore B.
+HGloss: The middle is the being of the condition, which is the being of the conditioned.
 
 N:
   hypothetical syllogism; conditional inference, affirming the antecedent, denying the consequent, chain argument

@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › b. The Mechanical Process
 G: Das Produkt des mechanischen Prozesses
 Gloss: The state of rest reached when mechanical interaction has run its course.
+HGloss: The fate of the mechanical process: rest, a product in which the object has the determination externally posited.
 
 N:
   the product of the mechanical process; rest, repose, equilibrium, standstill, stasis, inertia, quiescence, stillness, settlement, settling; result, outcome, residue, product

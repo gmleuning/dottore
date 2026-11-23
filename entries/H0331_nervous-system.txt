@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape
 G: Nervensystem
 Gloss: The system of feeling: the nerves and the structures that support them.
+HGloss: The system of sensibility, the nerves and brain, and the bone which is the dead mode of sensibility.
 
 N:
   nervous system; nerves, neurons, nerve cells, brain, spinal cord, ganglia, synapses, neural network, sensorium; sensibility; nervous tissue

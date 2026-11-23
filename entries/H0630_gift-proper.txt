@@ -1,0 +1,43 @@
+# 630 Gift Proper
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract › i. Contract of Gift
+G: Eigentliche Schenkung
+Gloss: The giving of a thing outright.
+HGloss: The giving of a thing outright.
+
+N:
+  gift proper; gift, present, donation, offering, largesse, bounty, benefaction, gratuity, boon, grant
+  cadeau†, fairing, free gift, favor, sacrifice, immolation, lagniappe [U.S.], pilon [U.S.]
+  alms, largess, dole, sportule†, donative†, help, oblation, offertory, honorarium, Peter pence, sportula†, Christmas box, Easter offering, vail†, drink money, pourboire, bakshish†, fee &c H0640, consideration
+  giving, bestowal, bestowment†, presentation, presentment, accordance, concession, delivery, consignment, dispensation, communication, endowment, investment, investiture
+  liberality, generosity, munificence, bounteousness, bountifulness, hospitality, charity
+  benefactor, savior, good genius, tutelary saint, guardian angel, good Samaritan, salt of the earth, auxiliary &c H0706
+  saviour
+
+V:
+  give, present, donate, bestow, confer, grant, endow, make a present of
+  accord, award, assign
+  invest, settle upon, bequeath, leave, devise
+  give away, dispense, dispose of, give out, deal out, dole out, mete out, fork out, squeeze out
+
+Adj:
+  gifted, given, donated, gratuitous, bountiful, munificent, generous
+  liberal, free, charitable &c H0664, hospitable, bounteous, handsome, unsparing, ungrudging, unselfish, open handed, free handed, full handed, open hearted, large hearted, free hearted, princely
+  allowed, allowable, concessional†, communicable, charitable, eleemosynary, sportulary†, tributary, gratis &c H0636
+
+Adv:
+  freely, as a gift
+  outright
+
+F:
+  German: trinkgeld
+  Latin: donum, gratis, pater patriae
+  Greek: dōron
+  French: douceur
+  Arabic: hadiyya [gift], ʿaṭiyya
+  Sanskrit: dāna, dakṣiṇā [ritual gift]
+  Chinese: liwu [gift]
+  Japanese: okurimono, omiyage [souvenir gift]
+
+Phr:
+  never look a gift horse in the mouth
+  timeo Danaos et dona ferentes [Lat.] [Virgil]

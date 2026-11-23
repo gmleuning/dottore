@@ -2,11 +2,12 @@
 # Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation › b. Relation of Causality
 G: Wirkung und Gegenwirkung
 Gloss: The relation in which an effect acts back upon its cause.
+HGloss: The effect reacting on the cause, so that each passive substance becomes active; the cause is effect of its own effect.
 
 N:
   action and reaction; reaction, counteraction, counterforce, recoil, rebound, kickback, backlash, blowback, repercussion, reverberation, feedback, response, retaliation, retort, riposte, counterstroke, counterblow; reflux; Newton's third law; boomerang; reactance, resistance
   retroaction, revulsion, bounce, ricochet, recalcitration†, kick, springing back, elasticity &c H0263, reflection, reflexion [Brit.], reflex, reverberation &c H0264, rebuff, repulse
-  opposition, contrariety &c H0092, antagonism, polarity, clashing, collision, interference, inhibition, renitency, friction, retroaction &c H0232, counterblast†, neutralization &c H0630, check &c H0021
+  opposition, contrariety &c H0092, antagonism, polarity, clashing, collision, interference, inhibition, renitency, friction, retroaction &c H0232, counterblast†, neutralization &c H0634, check &c H0021
   opposites, yang and yin, yang-yin &c H0092
   compensation, measure for measure
   counter-effect
@@ -15,7 +16,7 @@ N:
 V:
   react, counteract, respond, retaliate, recoil, rebound, kick back, backfire, boomerang, rebound upon, come back to, strike back, push back, return
   spring back, fly back, bounce back, bound back, reverberate, repercuss†, recalcitrate†
-  run counter, clash, cross, interfere with, conflict with, contravene, jostle, go against, run against, beat against, militate against, stultify, antagonize, block, oppose &c H0470, traverse, withstand &c H0714, hinder &c H0021, repress &c H0645, react &c H0232
+  run counter, clash, cross, interfere with, conflict with, contravene, jostle, go against, run against, beat against, militate against, stultify, antagonize, block, oppose &c H0474, traverse, withstand &c H0718, hinder &c H0021, repress &c H0649, react &c H0232
   pay back, reciprocate &c H0141, turn the tables upon
   answer, echo
   act back

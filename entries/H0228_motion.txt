@@ -2,40 +2,20 @@
 # Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › γ. Place and Motion (Union of Space and Time)
 G: Bewegung
 Gloss: Change of place over time.
+HGloss: Place's passing over into another place, and time positing itself spatially: the unity of space and time as a process.
 
 N:
   motion; movement, locomotion, travel, transit, passage, change of place, shift, displacement, translation, transfer, conveyance, drift, flow, course, progress, velocity, speed, rate, momentum, impetus, acceleration
   step, pace, tread, stride, gait, port, footfall, cadence, carriage, angular velocity, clip, voyage
   stream, flux, evolution, kinematics, telekinesis
-  transference, translocation, elocation†, metastasis, metathesis, removal, remotion†, amotion†, relegation, deportation, asportation†, extradition, draft, carrying, convection, conduction, contagion, transfer &c H0620
-  celerity, swiftness, rapidity, eagle speed, expedition &c H0375, pernicity†, haste &c H0375
+  transference, translocation, elocation†, metastasis, metathesis, removal, remotion†, amotion†, relegation, deportation, asportation†, extradition, draft, carrying, convection, conduction, contagion, transfer &c H0624
+  celerity, swiftness, rapidity, eagle speed, expedition &c H0379, pernicity†, haste &c H0379
   transition, transmission
-  traveler, wayfarer, voyager, passenger, commuter
-  tourist, excursionist, explorer, adventurer, mountaineer, hiker, backpacker, Alpine Club, peregrinator†, wanderer, rover, straggler, rambler, bird of passage, gadabout, gadling†, scatterling†, landloper†, waifs and estrays†, wastrel, foundling, loafer, tramp, tramper, vagabond, nomad, Bohemian, Wandering Jew, Hadji, pilgrim, palmer, somnambulist, emigrant, fugitive, refugee, beach comber, booly†, globegirdler†, globetrotter, hobo [U.S.], night walker, sleep walker, noctambulist, straphanger, swagman, swagsman [Austral.], trecker†, trekker, zingano†, zingaro†
-  runner, courier, Mercury, Iris, Ariel†, comet
-  pedestrian, walker, foot passenger, cyclist, wheelman
-  rider, horseman, equestrian, cavalier, jockey, roughrider, trainer, breaker
-  driver, coachman, whip, Jehu, charioteer, postilion, postboy†, carter, wagoner, drayman†, cabman, cabdriver, voiturier†, vetturino†, condottiere†, engine driver, stoker, fireman, guard, chauffeur, engineer, gharry-wallah†, gari-wala†, hackman, syce†, truckman†
-  carrier, porter, bearer, tranter†, conveyer, cargador†, express, expressman, stevedore, conductor, motor
-  beast, beast of burden, cattle, horse, nag, palfrey, blood horse, thoroughbred, galloway†, charger, courser, racer, hunter, jument†, pony, filly, colt, foal, barb, roan, jade, hack, bidet, pad, cob, tit, punch, goer†, racehorse, pack horse, draft horse, cart horse, dray horse, post horse, ketch, Shetland pony, shelty, sheltie, garran†, garron†, jennet, genet†, bayard†, mare, stallion, gelding, bronco, broncho†, cayuse [U.S.], creature, critter [U.S.], cow pony, mustang, Narraganset, waler†, stud
-  Pegasus, Bucephalus, Rocinante
-  ass, donkey, jackass, mule, hinny, sumpter horse, sumpter mule, burro, cuddy†, ladino [U.S.], reindeer, camel, dromedary, llama, elephant, carrier pigeon
-  pallet, brace, cart, dolley, support &c H0220
-  ship
-  vehicle, caravan, van, common carrier, wagon, waggon†, wain, dray, lorry
-  truck, tram, cariole, carriole†, limber, tumbrel, pontoon, barrow, wheel barrow, hand barrow, perambulator, Bath chair, wheel chair, sedan chair, chaise, palankeen†, palanquin, litter, brancard†, crate, hurdle, stretcher, ambulance, black Maria, conestoga wagon, conestoga wain, jinrikisha, ricksha, brett†, dearborn [U.S.], dump cart, hackery†, jigger, kittereen†, mailstate†, manomotor†, rig, rockaway†, prairie schooner [U.S.], shay, sloven, team, tonga†, hobbyhorse, go-cart, cycle, bicycle, bike, two-wheeler, tricycle, velocipede, quadricycle†
-  equipage, turn-out, coach, chariot, phaeton, break, mail phaeton, wagonette, drag, curricle†, tilbury†, whisky, landau, barouche, victoria, brougham, clarence†, calash, britzka†, araba†, kibitka†, berlin, sulky, sociable, vis-a-vis, jaunting car, outside car, dandi†, doolie†, dooly†, munchil†, palki†, roller skates, skate, runabout, ski, tonjon†, vettura†
-  post chaise, diligence, stage, stage coach, mail coach, hackney coach, glass coach, stage wagon, omnibus, fly, cabriolet†, cab, hansom, shofle†, four-wheeler, growler, droshki†, drosky†
-  dogcart, trap, whitechapel, buggy, four-in-hand, unicorn, random, tandem, shandredhan†
-  motor car, automobile, limousine, car, auto, jalopy, clunker, lemon, flivver, coupe, sedan, two-door sedan, four-door sedan, luxury sedan, wheels [Coll.], sports car, roadster, jeep, four-wheel drive vehicle, electric car, steamer, golf cart, electric wagon, taxicab, taxicoach†, checker cab, yellow cab, station wagon, family car, motorcycle, motor bike, side car, minivan, bus, minibus, microbus, pick-up wagon, pick-up, tractor- trailer, road train, articulated vehicle, racing car, hot rod, stock car, souped-up car
-  bob, bobsled, bobsleigh†, cutter, double ripper, double runner [U.S.], jumper, sled, sledge, sleigh, toboggan
-  train, accommodation train, passenger train, express trail, special train, corridor train, parliamentary train, luggage train, freight train, goods train, 1st class train, 2nd class train, 3rd class train, 1st class carriage, 2nd class carriage, 3rd class carriage, 1st class compartment, 2nd class compartment, 3rd class compartment, rolling stock, horse box, cattle truck, baggage car, express car, freight car, parlor car, dining car, Pullman car, sleeping car, sleeper, dome car, surface car, tram car, trolley car, box car, box wagon, horse car [U.S.], bullet train, cannonball, the Wabash cannonball, lightning express, luggage van, mail, mail car, mail van
-  shovel, spool, spatula, ladle, hod, hoe, spade, spaddle†, loy†, spud, pitchfork, post hole digger
-  tractor, steamshovel, backhoe, fork lift, earth mover, dump truck, bulldozer, grader, caterpillar, trench digger, steamroller, pile driver, crane, wrecking crane
+  Mercury, Iris, Ariel†, comet
   precession, heading, precedence &c H0222, priority &c H0222, the lead, le pas, van &c H0218, precursor &c H0222
-  sequence, coming after &c H0222, following pursuit &c H0609
+  sequence, coming after &c H0222, following pursuit &c H0613
   follower, attendant, satellite, shadow, dangler
-  approach, approximation, appropinquation†, access, appulse†, afflux†, affluxion†, advent &c H0224, pursuit &c H0609
+  approach, approximation, appropinquation†, access, appulse†, afflux†, affluxion†, advent &c H0224, pursuit &c H0613
   departure, decession†, decampment, embarkation, outset, start, exit, exodus, hejira, flight
   leave taking, valediction, adieu, goodbye, sayonara, dosvidanya [Rus.], ciao, aloha, stirrup cup, valedictorian
   starting point, starting post, point of departure, point of embarkation, place of departure, place of embarkation, port of embarkation, airport, take-off point, taxiing runway, runway, launching pad, spaceport
@@ -45,11 +25,7 @@ N:
   turning, wrench, coil, corkscrew
   circuit, roundabout way, digression, detour, circumbendibus, ambages†, loop, winding [Obs.]
   kinesis
-  transport, aircraft, tank, rocket, taxi, helicopter, airplane, bomber, pickup, spacecraft
-  destroyer, trolley, spaceship, limo, corvette, airbus, starship, skateboard, transporter, motorbike, aeroplane, hackney, warship, battleship, gurney, glider, airliner, streetcar, hatchback, panzer, stagecoach, airship, forklift, tramway, rickshaw, interceptor, hearse, moped, stanhope, pram, snowmobile, luge, wheelbarrow, flatbed, dreadnought
-  public transport, military vehicle, passenger vehicle, railroad train, cargo ships, ski lift, mine cage, merchant vessels, merchant marine, road roller, ski tow, bumper car, double-decker, wheeled vehicle, cable tramway, aerial tramway, half track, hospital train, car train, ground-effect machine, school bus, space vehicle, military plane, mail train, boat train, army tank, combat ship, horse-drawn vehicle, surface lift, chair lift, railway car, railroad car, house trailer, test rocket, step rocket, research rocket, landing craft, weapons carrier, personnel carrier, car carrier, war vessel, test instrument vehicle, covered couch, subway train, scout car, welcome wagon, shuttle bus, baby carriage, rope tow, troop transport, troop carrier, coaster wagon, armored combat vehicle, motor scooter, self-propelled vehicle, ballistic capsule
-  escape, rails, getaway, outing, traveller, haste, biker, conveyor, lander, juggernaut
-  street, road, avenue, lane, alley, intersection, crossroads, highway, freeway, motorway, expressway, bypass, railway, railroad, subway, underground, tube [Brit.], metro, terminal, arrival, layover, jet lag, passport, visa, ticket, fare, traffic, rush hour, traffic jam, gridlock, parking, car park, parking lot, garage, diesel, petrol, gas, brakes, steering, seatbelt, driving, lift, rideshare, Uber [Coll.], tourism, sightseeing, vacation, trip, road trip, staycation [Coll.], backpacking, hiking, camping
+  escape, getaway, outing, haste, juggernaut
 
 V:
   move, go, pass, proceed, travel, journey, advance, progress, shift, stir, budge, drift, flow, run, glide, slide, roll, wander, roam, traverse, cross
@@ -58,11 +34,11 @@ V:
   flit, take wing, migrate, emigrate, trek, rove, prowl, range, patrol, pace up and down, scour the country, traverse the country, peragrate†, circumambulate, perambulate, nomadize†, ramble, stroll, saunter, hover, go one's rounds, straggle, gad, gad about, expatiate
   pass through, perforate &c H0267, penetrate, permeate, thread, thrid†, enfilade, go through, go across, go over, pass over, cut across, ford, pass and repass, work, make one's way, thread one's way, worm one's way, force one's way, make a passage form a passage, cut one's way through, find its way, find its vent, transmit, make way, clear the course, go over the ground
   go before, go in the van, go in advance, precede, forerun, usher in, introduce, herald, head, take the lead, lead the way, lead the dance, get the start, have the start, steal a march, get before, get in front of, outstrip, take precedence &c H0222
-  follow, pursue &c H0609, go after, fly after
+  follow, pursue &c H0613, go after, fly after
   attend, beset, dance attendance on, dog, tread in the steps of, tread close upon, be in the wake of, be in the trail of, be in the rear of, go in the wake of, go in the trail of, go in the rear of, follow in the wake of, follow in the trail of, follow in the rear of, follow as a shadow, hang on the skirts of, follow on the heels of, camp on the trail
   approximate, appropinquate†, near, get near, go near, draw near, come to close quarters, move towards, set in towards, make up to, gain upon, tread on the heels of, bear up, make the land, hug the shore, hug the land
   depart, go away, take one's departure, set out, set off, march off, put off, start off, be off, move off, get off, whip off, pack off, go off, take oneself off, issue, march out, debouch, go forth, sally forth, sally, set forward, be gone, hail from
-  leave a place, quit, vacate, evacuate, abandon, go off the stage, make one's exit, retire, withdraw, remove, vamoose [Slang], vamose [U.S.], go one's way, go along, go from home, take flight, spring, wing one's flight, fly away, whip away, embark, go on board, go aboard, set sail' put to sea, go to sea, sail, take ship, hoist blue Peter, get under way, weigh anchor, strike tents, decamp, walk one's chalks, cut one's stick, take leave, say good bye, bid goodbye, disappear &c H0009, abscond &c H0609, entrain, inspan†
+  leave a place, quit, vacate, evacuate, abandon, go off the stage, make one's exit, retire, withdraw, remove, vamoose [Slang], vamose [U.S.], go one's way, go along, go from home, take flight, spring, wing one's flight, fly away, whip away, embark, go on board, go aboard, set sail' put to sea, go to sea, sail, take ship, hoist blue Peter, get under way, weigh anchor, strike tents, decamp, walk one's chalks, cut one's stick, take leave, say good bye, bid goodbye, disappear &c H0009, abscond &c H0613, entrain, inspan†
   have the entree, enter, go into, go in, come into, come in, pour into, pour in, flow into, flow in, creep into, creep in, slip into, slip in, pop into, pop in, break into, break in, burst into, burst in, set foot on, burst in upon, break in upon, invade, intrude, insinuate itself, interpenetrate, infiltrate, find one's way into, wriggle into, worm oneself into
   give entrance to, insert
   turn, bend, wheel, go about, put about, heel, go round to the right about, turn round to the right about, turn on one's heel, make a circle, make a complete circle, describe a circle, describe a complete circle, go through 180 degrees, go through 360 degrees, pass through 180 degrees, pass through 360 degrees

@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › α. Free Physical Bodies
 G: Licht
 Gloss: Pure radiance; matter as sheer self-display, which reveals other things.
+HGloss: The existent universal self of matter, pure identity with itself, manifestation that is its own showing; light makes visible.
 
 N:
   light; radiance, brightness, brilliance, luminosity, luminance, illumination, lustre, gleam, glow, glare, glitter, shine, sheen, effulgence, refulgence, splendour, lambency, incandescence, luminescence, phosphorescence; ray, beam, shaft, sunbeam, moonbeam; daylight, sunlight, sunshine, dawn, daybreak; photon; ether, luminiferous ether

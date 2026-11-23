@@ -1,0 +1,33 @@
+# 1027 Stoic Philosophy
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › b. Greek Philosophy › ii. Dogmatism and Skepticism
+G: Die stoische Philosophie
+Gloss: The philosophy that grounds truth in the assent of reason and places the good in a will in harmony with the rational order of the world; freedom as inner self-command.
+HGloss: The Stoics, for whom the criterion is the thought that grasps, the logos.
+
+N:
+  Stoic philosophy; Stoicism, the Stoa, the Porch, Zeno of Citium, Chrysippus, Seneca, Epictetus, Marcus Aurelius, logos, living according to nature, providence, cosmopolis, the sage
+  the Stoics, the Painted Porch, Cleanthes, Panaetius, Posidonius, Musonius Rufus, the Old Stoa, the Middle Stoa, Roman Stoicism, the Meditations, the Enchiridion
+  apathy, impassivity, self-command, self-mastery, self-control, constancy, fortitude, equanimity, resignation, the inner citadel, virtue as the sole good, things indifferent, duty, natural law
+  assent, the kataleptic impression, the ruling principle, the world-reason, the seminal reasons, pneuma, fate, cosmic sympathy, the conflagration, the wise man
+
+V:
+  endure, accept, live according to nature, bear and forbear
+  master oneself, command oneself, govern the passions, submit to fate, follow nature, follow reason, will what happens, despise fortune, resign oneself, stand firm, be indifferent to
+
+Adj:
+  Stoic, stoical, imperturbable, apathetic [old sense]
+  unexcitable, unpassionate†, dispassionate, philosophic
+  Zenonian, Chrysippean, impassive, unmoved, unruffled, self-controlled, self-commanding, self-possessed, constant, resigned, equanimous, passionless, cosmopolitan, fatalist, rigorist, austere
+
+Adv:
+  stoically
+  imperturbably, impassively, resignedly, dispassionately, unmovedly, with equanimity, according to nature, philosophically
+
+F:
+  Latin: sustine et abstine, secundum naturam vivere, amor fati
+  Greek: apatheia, ataraxia, pronoia, logos spermatikos, hēgemonikon, katalēpsis, synkatathesis, oikeiōsis, ekpyrōsis, adiaphora, prohairesis, heimarmenē, stoa poikilē
+  Arabic: al-riwāqiyyūn [the Stoics]
+
+Phr:
+  live according to nature [Zeno]
+  the impediment to action advances action [Marcus Aurelius]

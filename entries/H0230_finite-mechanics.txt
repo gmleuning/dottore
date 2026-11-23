@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics
 G: Endliche Mechanik
 Gloss: The mechanics of bodies moved from outside.
+HGloss: Matter whose motion comes to it from outside: inertia, impact, and fall, mechanics as relation of external bodies.
 
 N:
   finite mechanics; terrestrial mechanics, matter and motion, mechanics of bodies, Newtonian mechanics, classical mechanics, impressed force, external force, impulse

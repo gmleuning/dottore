@@ -1,0 +1,55 @@
+# 621 Property
+# Spirit › 2. Objective Spirit › I. Abstract Right
+G: Eigentum
+Gloss: A thing in which a person places their will; the outward sphere of freedom; ownership.
+HGloss: The person's sphere of freedom in an external thing, which becomes mine by my will put into it.
+
+N:
+  property; ownership, proprietorship, possession, holding, title, dominion, estate, belongings, goods, chattels, effects, assets, real property, realty, personalty, freehold, patrimony
+  personal property, personal estate, personal effects, movables, stock, stock in trade, things, traps, rattletraps, paraphernalia, equipage &c H0196
+  seizin [Law], seisin [Law], occupancy, tenure, tenancy, feodality†, dependency, villenage, villeinage†, socage†, chivalry, knight service
+  interest, stake, right, claim, demand, vested interest, contingent interest, beneficial interest, equitable interest, use, trust, benefit, legal estate, equitable estate
+  means, resources, circumstances, wealth &c H0696, money &c H0693, what one is worth, what one will cut up for, estate and effects
+  lordship, seignority†, empire &c H0710
+  landed property, land, lands, tenements, hereditaments, corporeal hereditaments, incorporeal hereditaments, acres, ground &c H0310, acquest†, messuage, toft†
+  absolute interest, paramount estate, fee tail, fee simple, estate in fee, estate in tail, estate tail, estate in tail male, estate in tail female, estate in tail general
+  dower, dowry, jointure†, appanage, inheritance, heritage, alimony, legacy &c H0630, Falcidian law, paternal estate, thirds
+  possessor, holder, occupant, occupier, tenant, person in possession, man in possession, renter, lodger, lessee, underlessee†, zemindar†, ryot†, tenant on sufferance, tenant at will, tenant from year to year, tenant for years, tenant for life
+  owner, proprietor, proprietress, impropriator†, master, mistress, lord
+  land holder, land owner, landlord, land lady, slumlord, lord of the manor, lord paramount, heritor, laird, vavasour†, landed gentry, mesne lord†, planter
+  beneficiary, mortgagor
+  grantee, feoffee†, releasee [Law], relessee†, devisee, legatee, legatary†
+  trustee, holder of the legal estate, mortgagee
+  right owner, rightful owner
+  heir presumptive, heir apparent, heiress, inheritor, inheritress, inheritrix, reversioner†, remainderman†
+  private property
+  landed estate, real estate
+  entail, immovable, glebe
+  dead hand, no man's land
+  heir
+
+V:
+  own, possess, hold, have, have title to, appropriate, acquire
+  occupy, enjoy, be possessed of, have in hand, command
+  be the possessor of, have for one's own, have for one's very own, come in for, inherit
+
+Adj:
+  proprietary, owned, possessed, propertied, landed, private, personal, real
+  proper
+
+Adv:
+  in possession, in fee simple, by right of ownership
+  as one's own
+
+F:
+  Latin: dominium, suum cuique, meum et tuum
+  French: cestui-que-trust
+  Arabic: mulk [ownership], milkiyya [property], amlāk [possessions]
+  Sanskrit: svatva [ownership], sva [one's own]
+  Chinese: caichan [property]
+  Japanese: shoyū [ownership]
+
+Phr:
+  property is the first embodiment of freedom [Hegel]
+  possession is nine points of the law
+  la propriété, c'est le vol [Fr.] [property is theft] [Proudhon]

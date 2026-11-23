@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › II. Finite Mechanics (Matter and Motion)
 G: Träge Materie
 Gloss: Matter considered as indifferent to rest or motion; mass, inertia.
+HGloss: Matter as indifferent to rest and motion, self-subsistent only by its mass and moved only by another.
 
 N:
   inert matter; inertia, inertness, passivity, resistance, mass, inertial mass, momentum, sluggishness, torpor, deadweight, dead weight, ballast, lump, clod; indifference to motion and rest; first law of motion
@@ -16,8 +17,8 @@ V:
 
 Adj:
   inert, inactive, passive, dead, lifeless, torpid, sluggish, static, stationary, heavy, massy, ponderous, unresponsive, resistant
-  torpid &c H0375, dull, flat, slack, tame, slow, blunt, unreactive, uninfluential†
-  quiescent, still, moveless, fixed, immotile, at rest at a stand, at a standstill, at anchor, stock, standing still, sedentary, untraveled, stay-at-home, becalmed, stagnant, quiet, unmoved, undisturbed, unruffled, calm, restful, cataleptic, immovable &c H0010, sleeping &c H0375, silent &c H0264, still as a statue, still as a post, still as a mouse, still as death, vegetative, vegetating
+  torpid &c H0379, dull, flat, slack, tame, slow, blunt, unreactive, uninfluential†
+  quiescent, still, moveless, fixed, immotile, at rest at a stand, at a standstill, at anchor, stock, standing still, sedentary, untraveled, stay-at-home, becalmed, stagnant, quiet, unmoved, undisturbed, unruffled, calm, restful, cataleptic, immovable &c H0010, sleeping &c H0379, silent &c H0264, still as a statue, still as a post, still as a mouse, still as death, vegetative, vegetating
   massive
   relaxing
 

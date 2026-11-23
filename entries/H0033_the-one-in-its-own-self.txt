@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › b. The One and the Many
 G: Das Eins an ihm selbst
 Gloss: The unit considered by itself, simple and without internal division.
+HGloss: The one as simple relation to itself, without any distinction within it.
 
 N:
   the one in its own self; simple unit, undivided unit, internal simplicity, inner unity, homogeneity, indivisibility, partlessness; atomicity, monadicity; the point, the simple; integrity, wholeness, intactness

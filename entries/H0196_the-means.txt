@@ -2,16 +2,17 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › γ. Teleology
 G: Das Mittel
 Gloss: The thing or action used to carry out a purpose; instrument.
+HGloss: The middle term of the end's syllogism, the object subdued to the end; the cunning of reason works through it.
 
 N:
   the means; means, instrument, tool, implement, utensil, device, apparatus, gadget, appliance, contrivance, mechanism, agency, agent, medium, vehicle, channel, conduit, organ, expedient, resource, method, way, wherewithal, ways and means
   machine, engine, lathe, gin, mill, air engine, caloric engine, heat engine
-  resources, capital &c H0689, revenue, stock in trade &c H0692, provision &c H0690, a shot in the locker, means and appliances, conveniences, cards to play, expedients &c H0195, two strings to one's bow, sheet anchor &c H0701
+  resources, capital &c H0693, revenue, stock in trade &c H0696, provision &c H0694, a shot in the locker, means and appliances, conveniences, cards to play, expedients &c H0195, two strings to one's bow, sheet anchor &c H0705
   employment, exercise, exercitation†, application, adhibition†, disposal, consumption, agency &c H0137, usufruct, usefulness, benefit, recourse, resort, avail
-  instrumentality, aid &c H0702, subservience, subserviency, mediation, intervention, intermedium†, hand
+  instrumentality, aid &c H0706, subservience, subserviency, mediation, intervention, intermedium†, hand
   alternative, shift &c H0017
-  gear, tackle, tackling, rig, rigging, appliances, plant, materiel, trappings, fittings, accouterments, barde†, equipment, equipmentage†, appointments, furniture, upholstery, chattels, paraphernalia &c H0617
-  perforator, piercer, borer, auger, chisel, gimlet, stylet†, drill, wimble†, awl, bradawl, scoop, terrier, corkscrew, dibble, trocar [Med.], trepan, probe, bodkin, needle, stiletto, rimer, lancet, punch, puncheon, spikebit†, gouge, spear &c H0714, puncher, punching machine, punching press, punch pliers
+  gear, tackle, tackling, rig, rigging, appliances, plant, materiel, trappings, fittings, accouterments, barde†, equipment, equipmentage†, appointments, furniture, upholstery, chattels, paraphernalia &c H0621
+  perforator, piercer, borer, auger, chisel, gimlet, stylet†, drill, wimble†, awl, bradawl, scoop, terrier, corkscrew, dibble, trocar [Med.], trepan, probe, bodkin, needle, stiletto, rimer, lancet, punch, puncheon, spikebit†, gouge, spear &c H0718, puncher, punching machine, punching press, punch pliers
   stopper, stopple, plug, cork, bung, spike, spill, stopcock, tap, rammer†, ram, ramrod, piston, stop-gap, wadding, stuffing, padding, stopping, dossil†, pledget†, tompion†, tourniquet
   cover &c H0221, valve, vent peg, spigot, slide valve
   janitor, doorkeeper, porter, warder, beadle, cerberus, ostiary†
@@ -27,14 +28,14 @@ V:
 
 Adj:
   instrumental, useful, utile, serviceable, functional, practical, handy, expedient, effective, contributory, conducive, mediating, intermediary
-  of use, proficuous†, good for, conducive &c H0374, subsidiary &c H0702
+  of use, proficuous†, good for, conducive &c H0378, subsidiary &c H0706
   ministerial, subservient, mediatorial†, intermediate, intervening
   adequate, efficient, efficacious, effectual
   contributing
 
 Adv:
   by means of, through, via, by way of, with the help of
-  by, per, whereby, thereby, hereby, by the agency of &c H0137, by dint of, by virtue of, in virtue of, through the medium of, along with, on the shoulders of, by the aid of, with the aid of &c H0702
+  by, per, whereby, thereby, hereby, by the agency of &c H0137, by dint of, by virtue of, in virtue of, through the medium of, along with, on the shoulders of, by the aid of, with the aid of &c H0706
   with, by what means, by all means, by any means, by some means, wherewith, herewith, therewith
   instrumentally
 

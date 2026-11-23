@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality › β. Modal Actuality
 G: Relative Notwendigkeit
 Gloss: What must happen given a definite set of real conditions, but only relative to those conditions.
+HGloss: Real possibility is the totality of conditions present; when they are all there the fact must follow, but only relative to them.
 
 N:
   relative necessity; real possibility; real actuality; conditional necessity, hypothetical necessity, necessity given conditions; causal necessity, determinism, conditioned necessity; inevitability under circumstances; force of circumstance, circumstance, the situation, the conditions
@@ -10,19 +11,19 @@ N:
 
 V:
   necessitate, require, entail, compel, constrain, oblige, dictate; follow necessarily, must follow, be bound to happen
-  compel &c H0645
+  compel &c H0649
   follow, be conditioned, result
 
 Adj:
   relatively necessary, conditionally necessary, hypothetically necessary, determined, conditioned, circumstantial, inevitable given, constrained, compelled; really possible, feasible, viable, practicable
   possible, in posse, conceivable
-  contingent &c H0600
+  contingent &c H0604
   impossible
   relative, conditional
 
 Adv:
   necessarily, of necessity, perforce, under the circumstances, given the conditions, as things stand
-  needs must, perforce &c H0645
+  needs must, perforce &c H0649
   consequently
   relatively
 

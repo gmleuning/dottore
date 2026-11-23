@@ -1,0 +1,30 @@
+# 792 Didactic Poetry
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 3. Disappearance of the Symbolic Art-Form
+G: Lehrgedicht
+Gloss: Poetry that teaches.
+HGloss: Didactic poetry, in which the meaning is given in prose and the art is only external ornament.
+
+N:
+  didactic poetry; didactic verse, instructive poetry, Hesiod's Works and Days, Lucretius' De rerum natura, Virgil's Georgics, Pope's Essay on Man, moral verse
+  didactics, the didactic poem, instructive verse, teaching poem, gnomic poetry, the Georgics, De Rerum Natura, Works and Days, lesson, precept, instruction
+
+V:
+  instruct, teach, versify, moralize
+  educate, edify, enlighten &c H0599
+  inculcate, preach
+
+Adj:
+  didactic, instructive, moralizing, pedagogical, georgic
+  educational, doctrinal, instructional
+  preceptive, gnomic, sententious, edifying
+
+Adv:
+  didactically
+  instructively, sententiously
+
+F:
+  Arabic: urjūza [didactic verse], naẓm [versified treatise]
+  Sanskrit: śāstra-kāvya
+
+Phr:
+  utile dulci [Lat.] [the useful with the sweet] [Horace]

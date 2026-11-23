@@ -1,0 +1,61 @@
+# 586 Attention
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › a. Intuition
+G: Aufmerksamkeit
+Gloss: The directing of the mind upon its content, singling it out.
+HGloss: The mind fixing its content and separating it from itself, the first act of intelligence.
+
+N:
+  attention; attentiveness, heed, notice, regard, concentration, focus, application, alertness, vigilance, mindfulness, observation, absorption, intentness, advertence
+  presence of mind, intentiveness†, thought &c H0604, advertency†, observance, consideration, reflection, perpension†, particularity, circumspection, diligence, study, scrutiny inspection, introspection, revision, revisal
+  alertness &c H0379, prudence, circumspection &c H0380, anxiety, forethought &c H0583, precaution &c H0196, accuracy &c H0204, minuteness, attention to detail
+  watchfulness, surveillance, eyes of Argus†, watch, vigil, look out, watch and ward
+  care, solicitude, heedfulness, scruple &c H0667
+  neglect, carelessness, trifling, negligence, omission, oversight, laches [Law], default, supineness &c H0379, inattention, nonchalance &c H0433, imprudence, recklessness &c H0614, slovenliness &c H0186, improvidence &c H0196, noncompletion &c H0197, inexactness &c H0204
+  paralipsis, paralepsis, paraleipsis (in rhetoric)
+  trifler, waiter on Providence, Micawber
+  fixation
+
+V:
+  attend, heed, notice, focus, concentrate, mind, observe, mark, note, give ear, pay attention, take heed
+  be attentive, advert to, look, see, view, remark, take notice, give attention to, pay attention to, pay heed to, give heed to, incline an ear to, lend an ear to, trouble one's head about, give a thought to, animadvert to, occupy oneself with, contemplate &c H0604, look at, look to, look after, look into, look over, see to, turn the mind to, bend the mind to, apply the mind to, direct the mind to, give the mind to, turn the eye to, bend the eye to, apply the eye to, direct the eye to, give the eye to, turn the attention to, bend the attention to, apply the attention to, direct the attention to, give the attention to, have an eye to, have in one's eye, bear in mind, take into account, take into consideration, keep in sight, keep in view, have regard to, take cognizance of entertain, recognize, make note of, take note of
+  hark, harken, listen, lend an ear
+  take notice of
+  be negligent, take no care of, let slip, let go, lay aside, set aside, cst aside, put aside, keep out of sight, put out of sight, lose sight of
+  overlook, disregard, pass over, pas by, let pass, blink, wink at, connive at, gloss over, take no note of, take no thought of, take no account of, take no notice of, pay no regard to
+  scamp, trifle, fribble†, do by halves, cut, slight &c H0487, play with, trifle with, slur, skim, skim the surface, take a cursory view of
+  slur over, skip over, jump over, slip over, pretermit†, miss, skip, jump, omit, give the go-by to, push aside, pigeonhole, shelve, sink, table [Parl.], ignore, shut one's eyes to, refuse to hear, turn a deaf ear to, leave out of one's calculation, not attend to, not mind, not trouble oneself about, not trouble one's head about, not trouble oneself with, forget &c H0600, be caught napping &c H0583, leave a loose thread, let the grass grow under one's feet
+  render neglectful, put off one's guard, throw off one's guard, distract, divert
+  fix on
+
+Adj:
+  attentive, heedful, mindful, alert, vigilant, observant, absorbed, intent, rapt, all ears
+  regardful, alive to, awake to, observing, open-eyed, intent on, taken up with, occupied with, engaged in, engrossed in, wrapped in, transfixed, riveted, mesmerized, hypnotized, glued to (the TV, the window, a book), breathless, preoccupied, undistracted, upon the stretch, on the watch &c H0583
+  careful regardful, taking care, particular, prudent &c H0380, considerate, thoughtful &c H0604, provident &c H0196, alert &c H0379, sure-footed
+  guarded, on one's guard, on the alert, on watch, on the lookout, awake, broad awake, watchful, wakeful, wistful, Argus-eyed, wide awake &c H0583, on the watch for &c H0583
+  neglecting, unmindful, negligent, neglectful, heedless, careless, thoughtless, perfunctory, remiss, feebleness &c H0599
+  inconsiderate, uncircumspect†, incircumspect†, off one's guard, unwary, unwatchful†, unguarded, offhand
+  supine &c H0379, inattentive, insouciant &c H0433, imprudent, reckless &c H0614, slovenly &c H0186, inexact &c H0204, improvident &c H0196
+  neglected, unheeded, uncared-for, unperceived, unseen, unobserved, unnoticed, unnoted†, unmarked, unattended to, unthought of, unregarded†, unremarked, unmissed†, shunted, shelved
+  unexamined, unstudied, unsearched†, unscanned†, unweighed†, unsifted, unexplored
+  abandoned, buried in a napkin, hid under a bushel
+  focused
+  ignored, overlooked, fascinated, focussed
+
+Adv:
+  attentively, heedfully, intently, with bated breath
+  negligently, hand over head, anyhow, in an unguarded moment &c H0583
+  Int, never mind, no matter, let it pass
+  anyway, anyways
+
+F:
+  Latin: intentio, per incuriam
+  Greek: prosochē [attention, Stoic vigilance]
+  French: on the qui vivre, loeil du maitre, laisser aller, effleurer
+  Arabic: intibāh [attention], murāqaba [vigilance, contemplation]
+  Sanskrit: avadhāna, ekāgratā [one-pointedness], smṛti / sati [mindfulness]
+  Chinese: zhuyi [attention]
+  Japanese: chūi
+
+Phr:
+  attention is the natural prayer of the soul [Malebranche]
+  attentiveness is the rarest and purest form of generosity [Simone Weil]

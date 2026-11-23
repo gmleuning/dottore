@@ -1,0 +1,31 @@
+# 558 Natural Religion
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › c. Religion as Spirit's Self-Consciousness
+G: Natürliche Religion
+Gloss: Religion that finds the divine in natural forms.
+HGloss: Spirit knowing itself in natural shapes: light, plant and animal, and the artificer's work.
+
+N:
+  natural religion; nature worship, religion of nature, animism, fetishism, totemism, pantheism, light worship, Zoroastrianism, Mazdaism, Egyptian religion, Indian religion
+  nature religion, immediate religion, the divine in natural shape, light plant animal and artificer, nature-worship
+
+V:
+  worship nature, deify, personify, animate
+  find the divine in nature, revere
+
+Adj:
+  natural, animistic, totemic, pantheistic, primeval, archaic
+  primitive, primordial
+  immediate, nature-worshipping
+
+Adv:
+  in nature, as nature
+  in natural form, immediately
+
+F:
+  German: die natürliche Religion
+  Arabic: dīn ṭabīʿī
+  Sanskrit: prakṛti-pūjā [nature worship]
+  Chinese: ziran zongjiao [natural religion]
+
+Phr:
+  God in the forms of nature

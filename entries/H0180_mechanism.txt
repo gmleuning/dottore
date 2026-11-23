@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity
 G: Mechanismus
 Gloss: The relation of things that are external to one another and act only by outside force, like the parts of a machine.
+HGloss: The object whose determinations are external to it, so that its combinations are indifferent to it.
 
 N:
   mechanism; mechanics, machine, apparatus, contraption, device, engine, clockwork, works, gearing, gear train; mechanistic world, world-machine, clockwork universe; externality, indifference, aggregation, juxtaposition, mere assemblage; push and pull, pressure and impact; automatism, automaton; determinism, mechanical determinism, mechanism versus vitalism

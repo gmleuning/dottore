@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality
 G: Wirklichkeit als Modalität
 Gloss: Actuality considered in terms of possibility, chance and necessity.
+HGloss: Actuality as the unity of the actual and the possible, unfolding through contingency to necessity.
 
 N:
   modal actuality; modality, modalities, modes of being, the modal categories, possibility, actuality and necessity, contingency; modal logic; alethic modality; the possible, the actual, the necessary

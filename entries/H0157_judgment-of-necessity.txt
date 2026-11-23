@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad]
 G: Urteil der Notwendigkeit
 Gloss: A judgment that states the essential nature of its subject.
+HGloss: The judgment in which the universal is the subject's substantial nature, its genus.
 
 N:
   judgment of necessity; necessary judgment, essential predication, judgment of substance, judgment of kind, judgment of essence, de re necessity; definition, classification, categorization

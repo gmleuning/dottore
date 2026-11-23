@@ -17,7 +17,8 @@
       the heart has its reasons which reason knows not of [Pascal]
 
 Lines starting with # are comments (the two header lines are rewritten from data/hegel_nodes.csv on every save, so
-they always show the entry's current place). G and Gloss take one line. N, V, Adj and Adv take one indented line per
+they always show the entry's current place). G, Gloss and HGloss take one line. Gloss is the working gloss the
+thesaurus was built from (kept unchanged, so the word lists don't drift); HGloss is the Hegelian gloss the page shows. N, V, Adj and Adv take one indented line per
 sense-group (a group's closing period is optional); F one line per language; Phr one phrase per line. Blank lines are
 ignored, so groups can be spaced out freely.
 
@@ -43,8 +44,8 @@ sys.path.insert(0, HERE)
 from convert import split_paragraphs
 
 DIR = os.path.join(ROOT, 'entries')
-FIELDS = ['G', 'Gloss', 'N', 'V', 'Adj', 'Adv', 'F', 'Phr', 'Def', 'Q', 'Loc']
-SINGLE = {'G', 'Gloss', 'Def'}
+FIELDS = ['G', 'Gloss', 'HGloss', 'N', 'V', 'Adj', 'Adv', 'F', 'Phr', 'Def', 'Q', 'Loc']
+SINGLE = {'G', 'Gloss', 'HGloss', 'Def'}
 LINES = {'Q', 'Loc'}      # kept line by line (joined with newlines inside the tools)
 CITE = '— '               # in Q, a line starting with this is the source of the quote above it
 GROUPED = {'N', 'V', 'Adj', 'Adv'}
@@ -129,7 +130,7 @@ def header(nid, N):
 
 def render(nid, entry, N):
     out = header(nid, N)
-    for k in ('G', 'Gloss'):
+    for k in ('G', 'Gloss', 'HGloss'):
         if entry.get(k): out.append(f'{k}: {entry[k]}')
     for k in ('N', 'V', 'Adj', 'Adv', 'F', 'Phr'):
         if entry.get(k):

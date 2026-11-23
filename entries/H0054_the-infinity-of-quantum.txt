@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › β. Quantum › c. Quantitative Infinity
 G: Unendlichkeit des Quantums
 Gloss: The recognition that quantity's endless going-beyond is its own nature; quantity understood as wholly relational.
+HGloss: The quantum known as essentially self-external, so that its truth lies in its relation to another quantum: the ratio.
 
 N:
   infinity of quantum; quantitative relation, ratio &c H0055; the infinite as a moment of quantity; the quality of quantity; relational magnitude; limit concept; derivative, differential quotient, dy/dx, rate of change; ratio of infinitesimals

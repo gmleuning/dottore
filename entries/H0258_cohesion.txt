@@ -2,6 +2,7 @@
 # Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad]
 G: Kohäsion
 Gloss: The holding together of a body's parts.
+HGloss: The spatial mode of the body's inner coherence, its manner of holding together against outer force.
 
 N:
   cohesion; coherence, cohesiveness, adhesion, holding together, consistency, firmness, solidity, toughness, tenacity, hardness, rigidity, stiffness, strength, resilience, integrity; molecular attraction
@@ -22,7 +23,7 @@ Adj:
   dense, solidified, close, serried, thickset, substantial, massive, lumpish†, impenetrable, impermeable, nonporous, imporous†, incompressible, concrete &c H0260, knotted, knotty, gnarled, crystalline, crystallizable, thick, grumous†, stuffy
   stubborn, starch, starched, stark, unbending, unlimber, unyielding, inflexible, tense, indurate, indurated, gritty, proof
   adhesive, adhering, cohering, sticky &c H0259
-  resisting, sequacious†, stringy, gristly cartilaginous, leathery, coriaceous†, tough as whitleather†, stubborn &c H0612
+  resisting, sequacious†, stringy, gristly cartilaginous, leathery, coriaceous†, tough as whitleather†, stubborn &c H0616
 
 Adv:
   cohesively, together, in one piece

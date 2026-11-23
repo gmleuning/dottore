@@ -1,0 +1,24 @@
+# 508 Observation of Self-Consciousness in Its Immediate Actuality
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad] › ii. Observing Reason
+G: Beobachtung der Beziehung des Selbstbewusstseins auf seine unmittelbare Wirklichkeit
+Gloss: The attempt to read the mind from the body.
+HGloss: Reason seeking the mind in its immediate bodily actuality, in face and skull.
+
+N:
+  observation of self-consciousness in its immediate actuality; reading mind from body, psychophysiology, body-mind correlation, outer expression of inner character, somatotype, biological determinism
+  the observation of the body as expression, the outer as expression of the inner, physiognomy and phrenology, the body as sign, the organ
+
+V:
+  read off, infer from the body, correlate
+  read, infer, interpret, observe the body
+
+Adj:
+  psychophysical, somatic, physiognomic, phrenological, deterministic
+  bodily, external, expressive
+
+Adv:
+  from outward signs
+  from the body, outwardly, by signs
+
+Phr:
+  the body as the mirror of the soul

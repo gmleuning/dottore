@@ -1,0 +1,41 @@
+# 399 Dreaming
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy › i. Formal Subjectivity
+G: Träumen
+Gloss: The soul's activity in sleep, when it feels without sorting its feelings.
+HGloss: The soul in sleep, feeling its whole world without the waking connection of the understanding.
+
+N:
+  dreaming; dream, dreams, dream life, dreamland, dreamworld, reverie, daydream, fantasy, vision, nightmare, incubus, succubus, phantasm, oneiromancy, dream interpretation; alcheringa, the Dreaming
+  ecstasy, trance, day dream, golden dream, somnambulism
+  figment, chimera
+  illusion, mirage
+  dream-life, the play of images, sleeping fancy
+
+V:
+  dream, daydream, muse, fantasize, imagine, envision, hallucinate
+  fancy, dream of
+  slumber
+
+Adj:
+  dreaming, dreamy, dreamlike, oneiric, visionary, phantasmagoric, reverie-like, somnial, nightmarish
+  visionary &c H0593, shadowy, ethereal, illusory, insubstantial, unreal
+
+Adv:
+  in a dream, in one's dreams, dreamily, as in a dream
+  in dreams
+
+F:
+  German: Traumdeutung [Freud]
+  Latin: somnium
+  Greek: oneiros
+  Arabic: ruʾyā [vision, dream], ḥulm [dream]
+  Sanskrit: svapna [dream]
+  Chinese: meng [dream]
+  Japanese: yume
+  Aboriginal Australian: the Dreamtime
+
+Phr:
+  we are such stuff as dreams are made on [Tempest]
+  life is a dream, la vida es sueño [Sp.] [Calderón]
+  the butterfly dream [Zhuangzi]
+  the interpretation of dreams is the royal road to a knowledge of the unconscious [Freud]

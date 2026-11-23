@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › c. Judgment of Necessity
 G: Hypothetisches Urteil
 Gloss: A judgment of conditional form: "if A, then B."
+HGloss: The connection of two contents as necessary, though their being is not posited: if A is, then B is.
 
 N:
   hypothetical judgment; conditional, conditional proposition, conditional statement, hypothetical, if-then statement, implication, material conditional, antecedent and consequent; supposition, hypothesis, assumption

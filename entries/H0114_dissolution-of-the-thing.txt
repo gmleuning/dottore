@@ -2,10 +2,11 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › α. Existence
 G: Auflösung des Dinges
 Gloss: The breaking down of the thing into the stuffs of which it is composed.
+HGloss: The thing as the mere also of its matters, porous to them, its unity a contradiction that dissolves it into appearance.
 
 N:
   dissolution of the thing; dissolution, decomposition, disintegration, breakdown, breakup, analysis, resolution, separation, decay, crumbling, falling apart, unravelling, deconstruction, dismantling, disassembly; porosity &c H0113; nothingness of the thing, insubstantiality
-  dissection, catalysis, corruption &c H0690, dispersion &c H0035, disjunction &c H0293
+  dissection, catalysis, corruption &c H0694, dispersion &c H0035, disjunction &c H0293
   fall, downfall, ruin, crash, debacle, wreck
   destruction, waste, breaking up, diruption†, disruption, consumption, disorganization
   break-up, the falling apart of the thing

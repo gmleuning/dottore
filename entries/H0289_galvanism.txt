@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › γ. Chemical Process › b. Real Process (Combination) [Tetrad]
 G: Galvanismus
 Gloss: The first stage of chemical process: two different metals joined through water act on each other and break the water down; the voltaic cell, understood as chemical action rather than as mere electric current.
+HGloss: The process of metals: different metals in contact through a neutral medium, which is the first form of chemical process.
 
 N:
   galvanism; galvanic circuit, voltaic pile, voltaic cell, battery, electric current, electrolysis, electrochemistry, animal electricity; galvanization; Galvani's frog; Volta

@@ -1,0 +1,28 @@
+# 1038 General Character of Scholasticism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › c. Medieval Philosophy › i. The Idea of Christianity › 3. Scholastics
+G: Allgemeiner Charakter der Scholastik
+Gloss: The general character of scholasticism: reason working on material given by faith, through fine distinctions and formal disputation.
+HGloss: The general character of scholasticism, reason working within the authority of the church.
+
+N:
+  general character of scholasticism; formalism, hair-splitting, subtlety, method of disputation, authority and reason
+  logic-chopping, quibbling, quodlibet, distinction, casuistry, pedantry, dialectic, syllogizing, argumentation, commentary, the gloss, the principle of authority, faith seeking understanding, dogmatism, the school logic, barbarous Latin, aridity, dryness
+
+V:
+  dispute, split hairs, distinguish
+  discriminate, draw the line, sift
+  syllogize, quibble, cavil, chop logic, subtilize, refine, argue pro and contra, gloss, comment, define, subdivide
+
+Adj:
+  subtle, formal, hair-splitting, dialectical
+  scholastic, disputatious, pedantic, casuistical, syllogistic, over-subtle, finespun, arid, dry, argumentative, authoritative, quodlibetical†
+
+Adv:
+  subtly
+  formally, scholastically, pedantically, syllogistically, pro and con, by distinction, on authority
+
+F:
+  Latin: sic et non [Abelard], distinguo, videtur quod, sed contra, respondeo, ancilla theologiae
+
+Phr:
+  how many angels can dance on the head of a pin

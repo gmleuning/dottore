@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism
 G: Schluss des Daseins
 Gloss: Inference in which the connecting term is a single, directly perceived quality.
+HGloss: Inference through an immediate determinateness, contingent and external: S–P–U.
 
 N:
   syllogism of existence; qualitative syllogism, formal syllogism, syllogism of the understanding, categorical syllogism of the schools; middle term as single quality; contingent middle; figures of the syllogism

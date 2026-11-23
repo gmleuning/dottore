@@ -2,6 +2,7 @@
 # (top of the system)
 G: Natur
 Gloss: The world of space, time and matter, understood as thought in the form of outwardness, where everything lies outside everything else.
+HGloss: The idea in the form of otherness: externality is the determination in which nature is nature, a system of stages in which the concept is hidden and seeks itself.
 
 N:
   nature; the natural world, the physical world, the material world, creation, the cosmos, the universe, the world, the earth, Mother Nature, Dame Nature; externality, self-externality, otherness of the idea; the order of nature, course of nature, natural order; philosophy of nature, physiology [archaic sense], natural philosophy

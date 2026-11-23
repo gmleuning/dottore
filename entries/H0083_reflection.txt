@@ -2,12 +2,13 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › α. Shine (Illusory Being)
 G: Reflexion
 Gloss: The movement of turning back on oneself; a thing's depth defining itself by contrast with its own surface, as an image is returned by a mirror.
+HGloss: The shining of essence within itself: the movement from nothing to nothing and thereby back to itself.
 
 N:
   reflection; turning back, return, recoil, reflux, rebound, bounce, echo, reverberation, repercussion, mirroring, specularity; reflexivity, self-reference, recursion, recursivity; meditation, contemplation, consideration, deliberation, rumination, cogitation, introspection, retrospection, mulling, musing, pondering, brooding, second thoughts, afterthought, thinking twice; speculation, theory
   reaction, retroaction
   reecho
-  reconsideration, retrospection &c H0596
+  reconsideration, retrospection &c H0600
   reflexion, self-relation, return into self, the movement of essence
   rethink
 

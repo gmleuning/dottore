@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › α. Existence › a. The Thing and Its Properties
 G: Ding an sich und Existenz
 Gloss: The thing as it is in itself, apart from its relations, and the thing as it exists among other things.
+HGloss: The thing-in-itself as the empty abstraction of the thing without its relations, set over against its existence.
 
 N:
   thing-in-itself and existence; thing-in-itself, noumenon, noumena, the intelligible, the unknowable, the inscrutable, x, unknown substrate; existence, outward existence, relational being; the noumenal and the phenomenal

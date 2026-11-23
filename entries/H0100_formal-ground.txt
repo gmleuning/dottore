@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › b. Determinate Ground
 G: Formaler Grund
 Gloss: An explanation that merely restates what it explains in other words, as when sleep is explained by a sleep-inducing power; tautology.
+HGloss: The ground that only restates the grounded in another form; the empty explanation by a virtus dormitiva.
 
 N:
   formal ground; tautology, tautological explanation, circular explanation, circular reasoning, begging the question, explanation by restatement, pseudo-explanation, empty explanation; occult quality; redundancy, truism, platitude, cliché, commonplace, banality

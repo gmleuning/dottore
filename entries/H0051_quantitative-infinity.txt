@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › β. Quantum
 G: Quantitative Unendlichkeit
 Gloss: The endlessness built into quantity: any amount can always be exceeded.
+HGloss: The quantum's self-contradiction: being a definite amount, it is always to be surpassed; the infinite progress.
 
 N:
   quantitative infinity; the infinitely great and the infinitely small, the infinitesimal, infinitesimals, infinitely small quantities, evanescent quantities, ghosts of departed quantities; the infinite in mathematics, mathematical infinite, transfinite, aleph, ∞, lemniscate; limit, limiting value, asymptote; calculus, infinitesimal calculus, differential calculus, integral calculus, method of exhaustion, fluxions; indefiniteness, unboundedness, endlessness

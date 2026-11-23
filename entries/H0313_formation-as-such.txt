@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation
 G: Gestaltung als solche
 Gloss: The plant's growth taken simply as growth.
+HGloss: The plant's formation as the immediate self-production, a growth that is an endless putting out of new individuals.
 
 N:
   formation as such; growth, increase, extension, sprouting, shooting, budding, branching, ramification, proliferation, elongation, vegetative growth

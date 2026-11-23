@@ -1,0 +1,24 @@
+# 854 Different Styles
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › iii. Romantic Architecture
+G: Die verschiedenen Baustile
+Gloss: The various manners of romantic building.
+HGloss: The styles of romantic building, from the Romanesque to the Gothic and the secular.
+
+N:
+  different styles; architectural styles, Romanesque, Gothic, Renaissance, Baroque, secular styles
+  the various styles, manners, modes, kinds of building, the secular style, varieties, periods
+
+V:
+  style, design
+  differ, vary, distinguish, classify, differentiate
+
+Adj:
+  stylistic, historical
+  various, diverse, differing, distinct, several
+
+Adv:
+  in style
+  variously, severally, in different styles, by style
+
+Phr:
+  in every style

@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › β. Quantum › b. Extensive and Intensive Quantum (Degree)
 G: Identität
 Gloss: The interchangeability of size and degree: an intensity can be read off as a length on a scale, and a size felt as an intensity.
+HGloss: Each kind of magnitude passes into the other: degree is expressed in an outside many, and an extent is felt as one intensity.
 
 N:
   identity of extensive and intensive magnitude; equivalence, interchangeability, convertibility, correspondence, translation, transduction; scale, gauge, meter, dial, index, reading, register, thermometer, barometer; measurement of intensity by extent; calibration, graduation; expression, representation, index number

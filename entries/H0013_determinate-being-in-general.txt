@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › a. Determinate Being as Such
 G: Dasein überhaupt
 Gloss: Existence that carries a negation within it, since to be definitely one thing is not to be others; being and not-being held together in the form of simple being.
+HGloss: Being with non-being taken up into its simple unity, so that its determinateness has the form of being.
 
 N:
   determinate being in general; existence with a limit, being with negation; being and nonbeing united; finite existence; something rather than nothing; definite being, specific being; negation within being; inner limit, inherent bound; the being of a thing as distinct from other things; this rather than that

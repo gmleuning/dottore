@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity)
 G: Quantität
 Gloss: Being considered as indifferent to its limits, so that it can be increased or decreased without becoming something else; the unity of the continuous and the divided.
+HGloss: Being-for-self become self-identical, indifferent to its limit; the unity of continuity and discreteness.
 
 N:
   quantity; sublated being-for-self; indifference; continuity and discreteness; extensibility, divisibility, compositionality, addability; increase and decrease, more and less, plus and minus, ±; quantum, amount, magnitude; homogeneity, uniformity, fungibility, interchangeability

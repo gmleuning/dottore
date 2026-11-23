@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › c. Repulsion and Attraction
 G: Ausschließen des Eins
 Gloss: A unit's act of excluding others, which shows that its independence depends on the very others it excludes.
+HGloss: The ones related to one another by mutual exclusion, which proves to be their self-sameness.
 
 N:
   exclusion of the one; exclusion, shutting out, keeping out, ruling out, rejection, repudiation, ostracism, banishment, expulsion, exile, excommunication, ban, boycott, blackball, cold shoulder; exclusiveness, exclusivity, clannishness, cliquishness, insularity, isolationism, separatism; closure, enclosure, gatekeeping; uniqueness, singularity; mutual exclusion, mutually exclusive; nondependence; dependence of the excluder on the excluded

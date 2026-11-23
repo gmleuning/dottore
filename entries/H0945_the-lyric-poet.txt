@@ -1,0 +1,35 @@
+# 945 The Lyric Poet
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric
+G: Der lyrische Dichter
+Gloss: The poet as the speaking subject of the lyric.
+HGloss: The lyric poet, the subject in whom the world is concentrated.
+
+N:
+  the lyric poet; lyricist, songster, bard, singer, troubadour, minnesinger, Sappho, Pindar, Hafez, Li Bai, Petrarch, Goethe
+  poet, lyrist†, scald, skald†, minstrel, versifier
+  vocalist, melodist, songstress
+  rhapsode, songwriter, sonneteer, odist, hymnist, elegist, the singing subject, the lyrical I, Anacreon, Horace, Klopstock, Schiller, Walther von der Vogelweide
+
+V:
+  sing, compose, express
+  pour forth, give voice, utter, voice, confess, lament, rhapsodize
+
+Adj:
+  lyrical, songful, Sapphic, Pindaric
+  poetic, poetical, lyric
+  bardic, Anacreontic, Horatian, Petrarchan, self-expressive
+
+Adv:
+  in song
+  lyrically, from the heart, in his own voice
+
+F:
+  German: meistersinger
+  French: trouvere
+  Arabic: shāʿir [poet]
+  Sanskrit: kavi [poet]
+  Chinese: shiren [poet]
+  Japanese: kajin [waka poet]
+
+Phr:
+  Sappho, the tenth Muse

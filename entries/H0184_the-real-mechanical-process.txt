@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › b. The Mechanical Process
 G: Der reale mechanische Prozess
 Gloss: Mechanical interaction in which one thing overpowers another.
+HGloss: Communication that becomes the power of one object over another, the negativity of the object's self-subsistence.
 
 N:
   the real mechanical process; domination, subjugation, overpowering, overmastering, power, violence, force, might, coercion, compulsion, mastery, superiority, ascendancy, preponderance, the stronger and the weaker; fate as mechanical power

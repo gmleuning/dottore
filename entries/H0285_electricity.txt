@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body)
 G: Elektrizität
 Gloss: The tension of one body against another, appearing as positive and negative charge.
+HGloss: The body's self of individuality appearing in tension with another body, as positive and negative electricity.
 
 N:
   electricity; charge, electric charge, static electricity, current, voltage, positive and negative, polarity, spark, discharge, shock, lightning, tension; galvanism &c H0289; amber and silk

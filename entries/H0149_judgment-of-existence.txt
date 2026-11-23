@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad]
 G: Urteil des Daseins
 Gloss: A judgment that ascribes a simple, directly perceived quality to a single thing.
+HGloss: Judgment in which the predicate is an immediate quality of the immediate singular.
 
 N:
   judgment of existence; qualitative judgment, judgment of inherence, judgment of quality, simple judgment, immediate judgment, perceptual judgment, observation statement, report of perception, attribution, ascription, characterization

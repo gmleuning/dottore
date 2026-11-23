@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics
 G: Absolute Mechanik
 Gloss: The mechanics of heavenly bodies, which move freely by their own law.
+HGloss: Matter that has its centre and motion within itself: the solar system, freely moving masses whose laws are the concept of matter itself.
 
 N:
   absolute mechanics; celestial mechanics, astronomy, the heavens, the firmament, the celestial sphere, cosmology; free motion, self-moving bodies

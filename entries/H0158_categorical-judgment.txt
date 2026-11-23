@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › c. Judgment of Necessity
 G: Kategorisches Urteil
 Gloss: A judgment that places a thing in its kind: "gold is a metal."
+HGloss: The genus or species predicated of the subject as its substantial nature: gold is a metal.
 
 N:
   categorical judgment; categorical proposition, unconditional statement, judgment of genus, generic statement, subsumption, classification, typing; categorical assertion

@@ -1,0 +1,46 @@
+# 820 The Dissolution of Romantic Art (Imitation of Nature, Subjective Humor, Objective Humor)
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › iii. The Formal Independence of Individual Characteristics
+G: Die Auflösung der romantischen Kunstform
+Gloss: The passing away of romantic art into imitation of nature and into humour.
+HGloss: The dissolution of romantic art into the imitation of nature and humour, subjective and objective.
+
+N:
+  the dissolution of romantic art; imitation of nature, subjective humour, objective humour; realism, naturalism, genre painting, Dutch painting, still life, Laurence Sterne, Jean Paul, humour, whimsy, irony, the end of art, the pastness of art; the free artist
+  ridicule, sardonic smile, sardonic grin, irrision†, scoffing &c H0487, quiz†, banter, persiflage, raillery, quizzing, asteism†
+  jest, jape, jibe, levity, quips and cranks, capital joke, standing jest, standing joke, private joke, conceit, quip, quirk, crank, quiddity, concetto†, brilliant idea, merry thought, bright thought, happy thought, sally, flash of wit, flash of merriment, scintillation, witticism, smart saying, bon-mot, epigram, jest book, dry joke, quodlibet, cream of the jest
+  derision, mockery
+  facsimile, counterpart, likeness
+  mimicry, simulation, impersonation, representation &c H0745, semblance
+  the end of romantic art, decay, decline, disintegration, imitation of the given, prosaic naturalness, the novel
+  fax
+
+V:
+  imitate, copy, joke, play, dissolve
+  mirror, reflect, reproduce
+  deride, taunt, snigger, laugh in one's sleeve, tease, badinage, rally, chaff, twit, roast, haze [U.S.], tehee†, fleer†, show up
+  crack a joke, make a joke, cut jokes, perpetrate a joke, pun, perpetrate a pun, make fun of, make merry with, kid, kid around, fool around, set the table in a roar &c H0609
+  disintegrate, fall apart
+
+Adj:
+  realistic, naturalistic, humorous, whimsical, playful, ironic, post-romantic
+  witty, attic, quick-witted, nimble-witted, smart, jocular, jocose, facetious, waggish, kidding, joking, puckish, playful &c H0609, merry and wise, pleasant, sprightly, light, spirituel†, sparkling, epigrammatic, full of point, comic &c H0961
+  derisory, derisive, mock, mocking, sarcastic, ironical, quizzical, burlesque, Hudibrastic†, scurrilous &c H0487
+  ridiculous, ludicrous, comical, droll, funny, laughable, pour rire, grotesque, farcical, odd, whimsical as a dancing bear, fanciful, fantastic, queer, rum, quaint, bizarre, screaming, eccentric &c H0063, strange, outlandish, out of the way, baroque, weird, awkward &c H0759
+  dissolving, decadent, late, imitative, prosaic
+
+Adv:
+  humorously, realistically
+  jokingly, in joke, in jest, in sport, in play
+  in dissolution, at the end, in decline
+
+F:
+  German: Humor
+  Latin: facetiae, canorae nugae
+  French: plaisanterie, mot, mot pour rire, jeu d'esprit
+  Italian: ben trovato
+  Arabic: fukāha [humour]
+  Chinese: youmo [humour]
+  Japanese: yūmoa
+
+Phr:
+  art, considered in its highest vocation, is and remains for us a thing of the past [Hegel]

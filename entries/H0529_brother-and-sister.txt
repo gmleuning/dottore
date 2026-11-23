@@ -1,0 +1,34 @@
+# 529 Brother and Sister
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › i. True Spirit: The Ethical Order › 1. The Ethical World: Human and Divine Law, Man and Woman › b. The Movement of the Two Laws
+G: Bruder und Schwester
+Gloss: The relation of brother and sister, the purest bond within the family.
+HGloss: The ethical relation of brother and sister, free of desire, the highest bond of the family.
+
+N:
+  brother and sister; siblinghood, siblings, sisterhood, brotherhood, the bond of brother and sister, the purest ethical relation, the sister's duty, Antigone and Polynices
+  family, fraternity
+  fellowship, solidarity, confraternity
+  the sibling bond, the sister, the brother, sisterly duty, the pure ethical relation, desireless recognition, Antigone and Polyneices
+
+V:
+  cherish, mourn, bury, keep faith
+  recognize, honour
+
+Adj:
+  sororal, fraternal, sibling, sisterly, brotherly, devoted
+  pure, desireless
+
+Adv:
+  sisterly, fraternally, as kin
+  as brother and sister, without desire, purely
+
+F:
+  Latin: fratres et sorores
+  Greek: adelphoi
+  Arabic: ukhuwwa [brotherhood]
+  Sanskrit: bhrātṛ and svasṛ
+  Chinese: xiongmei [brother and sister]
+  Japanese: kyōdai [siblings]
+
+Phr:
+  a husband lost, another might have been found, and child from another, to replace the first-born: but, father and mother hidden with Hades, no brother's life could ever bloom for me again [Sophocles, Antigone 909–12, tr. Jebb]

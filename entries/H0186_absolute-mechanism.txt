@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism
 G: Absoluter Mechanismus
 Gloss: A mechanical system organized around a centre, as a solar system.
+HGloss: Mechanism organized as a syllogism: a central body and dependent objects in relations that form a system.
 
 N:
   absolute mechanism; system, solar system, planetary system, centred system, hierarchy, organization, ordered whole, regime, establishment; centre and periphery; state, government &c
@@ -9,7 +10,7 @@ N:
   rank, place &c H0047
   regularity, uniformity, symmetry, music of the spheres
   construction, formation, architecture
-  economy, government &c H0710
+  economy, government &c H0714
   the system of centres, free mechanism, central body and satellites
 
 V:

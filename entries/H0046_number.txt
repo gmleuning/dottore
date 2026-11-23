@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › β. Quantum
 G: Zahl
 Gloss: A definite amount fully specified as a count of units.
+HGloss: Quantum completely determined as amount and unit; the thought of quantity in its most external form.
 
 N:
   number; figure, digit, numeral, cipher, integer, whole number, natural number, unit, units; amount, count, tally, total, sum, aggregate, score, tale†; annumeration†, numeration, enumeration, counting, numbering, reckoning, calculation, computation; arithmetic, number theory, numerology
@@ -11,7 +12,7 @@ N:
   difference, complement, subtrahend, product, multiplicand, multiplier, multiplicator†, coefficient, multiple, dividend, divisor, factor, quotient, submultiple [Math.], fraction, rational number, surd, irrational number, transcendental number, mixed number, complex number, complex conjugate, numerator, denominator, circulating decimal, repetend, common measure, aliquot part, prime number, relative prime, prime factor, prime pair, totient†
   all, the whole, sum total
   addition, annexation, adjection†, junction &c H0259, superposition, superaddition, superjunction†, superfetation, accession, reinforcement, increase &c H0050, increment, supplement, accompaniment &c H0120, interposition &c H0218, insertion &c H0228
-  subtraction, subduction†, deduction, retrenchment, removal, withdrawal, ablation, sublation†, abstraction &c H0618, garbling, mutilation, detruncation†, amputation, abscission, excision, recision, curtailment &c H0220, minuend, decrease &c H0050, abrasion
+  subtraction, subduction†, deduction, retrenchment, removal, withdrawal, ablation, sublation†, abstraction &c H0622, garbling, mutilation, detruncation†, amputation, abscission, excision, recision, curtailment &c H0220, minuend, decrease &c H0050, abrasion
   duplication, doubling, gemination, ingemination†, reduplication, iteration, renewal
   triplication, triplicity†, trebleness†, trine
   trisection, tripartition†, trichotomy, third, third part
@@ -33,8 +34,8 @@ V:
   reinforce, reenforce, restrengthen†, swell the ranks of, augment
   subduct, deduct, deduce, bate, retrench, remove, withdraw, take from, take away, detract
   garble, mutilate, amputate, detruncate†, cut off, cut away, cut out, abscind†, excise, pare, thin, prune, abrade, scrape, file, geld, castrate, eliminate
-  diminish &c H0050, curtail &c H0220, deprive of &c H0618, weaken
-  double, redouble, duplicate, reduplicate, geminate, repeat, renew &c H0364
+  diminish &c H0050, curtail &c H0220, deprive of &c H0622, weaken
+  double, redouble, duplicate, reduplicate, geminate, repeat, renew &c H0368
   treble, triple, triplicate, cube
   trisect, divide into three parts
   multiply by four, quadruplicate, biquadrate†

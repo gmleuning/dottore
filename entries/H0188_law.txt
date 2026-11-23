@@ -2,12 +2,13 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › c. Absolute Mechanism
 G: Gesetz
 Gloss: The principle that holds a mechanical system in order.
+HGloss: The objective universal become the immanent principle of the system: law, the soul of the object.
 
 N:
   law; law of the system, governing principle, organizing principle, regulative principle, rule, order, regulation, norm, constitution, code; immanent law, internal order; regularity &c H0116
   principle, order of things, normal state, natural state
   canon, formula
-  statute, canon &c H0698, ordinance
+  statute, canon &c H0702, ordinance
   ordering principle, free necessity
 
 V:

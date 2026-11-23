@@ -1,0 +1,34 @@
+# 847 Specification of Roman Arch and Vault
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 3. Styles of Classical Architecture
+G: Der römische Bogen und das Gewölbe
+Gloss: The round arch and vault as forms of Roman building.
+HGloss: The round arch and the vault, Roman forms that make the support self-enclosing.
+
+N:
+  specification of Roman arch and vault; arch, vault, barrel vault, groin vault, dome, cupola, keystone, voussoir, concrete, the Pantheon dome, aqueduct, triumphal arch
+  arc, arcade, bow, crescent
+  mainstay
+  semicircular arch, cross vault, rotunda, springer, impost, archivolt, arcuation
+  arched ceiling, arched roof
+
+V:
+  arch, vault, span, dome, bridge
+  overarch, turn an arch
+
+Adj:
+  arched, vaulted, domed, arcuated, cupolated
+  curved, curvilinear, bowed, semicircular
+  concave, hollow
+  round-headed
+  curving
+
+Adv:
+  overhead, in a span
+  in an arch, archwise
+
+F:
+  Latin: arcus
+  Arabic: qanṭara [arch, bridge], qubba [dome]
+
+Phr:
+  the keystone of the arch

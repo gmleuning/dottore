@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › α. Free Physical Bodies
 G: Planet als individueller Körper
 Gloss: The planet as the body that holds contrasting tendencies together.
+HGloss: The planet, the body of individuality, the concrete unity of the opposition and the true universal, which bears life.
 
 N:
   planet as individual body; planet, wandering star, the earth, globe, world, orb; concrete individuality, totality of opposites

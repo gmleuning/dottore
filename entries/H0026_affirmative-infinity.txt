@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › c. Infinity
 G: Affirmative Unendlichkeit
 Gloss: The unlimited understood as including the limited rather than lying beyond it; completeness rather than endlessness. Pictured as a circle, as against an endless line.
+HGloss: True infinity, which contains the finite as a moment within itself: being returned to itself, imaged by the circle rather than the endless line.
 
 N:
   affirmative infinity, true infinity, genuine infinite; actual infinite, completed infinite; circle, cycle, ring, orb, sphere, round, closed curve, serpent swallowing its tail; return, homecoming, self-return; wholeness, totality, completeness, entirety, fullness, plenitude, perfection, consummation; self-containment, self-sufficiency, autarky; the whole; mandala; eternity, eternal now

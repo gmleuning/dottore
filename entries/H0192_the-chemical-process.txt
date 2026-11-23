@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › β. Chemism
 G: Der chemische Prozess
 Gloss: The process in which two attracted things combine and neutralize each other.
+HGloss: Two objects, tense against each other, combining through a middle into the neutral product.
 
 N:
   the chemical process; reaction, chemical reaction, combination, union, neutralization, synthesis, bonding, fusion, merger, marriage, wedding; separation, decomposition, analysis; catalysis, middle term, catalyst, medium, solvent; neutral product, salt

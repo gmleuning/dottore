@@ -1,0 +1,27 @@
+# 404 Metal- and Water-Divining
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy › ii. Magnetic Somnambulism › 1. Appearance of Magnetic States
+G: Metall- und Wasserfühlen
+Gloss: The supposed power of sensing hidden metals and water.
+HGloss: The soul's immediate sympathy with metals and water, a sentience of the elemental earth.
+
+N:
+  metal- and water-divining; divining, dowsing, water witching, rhabdomancy, divining rod, dowsing rod, hazel twig, pendulum; dowser, diviner, water witch
+
+V:
+  dowse, divine, witch
+  detect, sense
+
+Adj:
+  divining, rhabdomantic
+  divinatory
+
+Adv:
+  by the rod
+  by divination
+
+F:
+  German: Metall- und Wasserfühlen
+  Latin: virgula divina
+
+Phr:
+  water-witching

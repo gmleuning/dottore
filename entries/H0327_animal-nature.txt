@@ -2,6 +2,7 @@
 # Nature › 3. Organics
 G: Tierische Natur
 Gloss: Life in the form of an animal: an organism with a centre of its own, which feels and moves itself.
+HGloss: The subject that has a self within itself, the animal: self-movement, voice, animal heat, feeling; it is the self for itself.
 
 N:
   animal nature; animal, beast, creature, brute, living creature, fauna, wildlife, the animal kingdom; animality, animal life, sentience, self-movement, feeling, sensibility, voice; animal soul
@@ -10,7 +11,7 @@ N:
   animal kingdom, brute creation
   sensitiveness, physical sensibility, impressibility
   cry, bowwow, ululation, latration†, belling, reboation†, wood-note, insect cry, fritiniancy†, drone, screech owl, cuckoo
-  wailing &c H0435
+  wailing &c H0439
   the animal organism, self-feeling
 
 V:

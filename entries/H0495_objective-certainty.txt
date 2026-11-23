@@ -1,0 +1,31 @@
+# 495 Objective Certainty
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad] › i. Reason's Certainty of Being All Reality › 1. Certainty (Subjective Reason)
+G: Objektive Gewissheit
+Gloss: Sureness confirmed by the object itself.
+HGloss: Certainty that has found itself confirmed in the object.
+
+N:
+  objective certainty; confirmed certainty, verified belief, corroboration, confirmation, validation, proof, evidence, warrant, objectivity
+  ratification &c H0604, authentication
+  objective certitude, verification
+  documentation
+
+V:
+  confirm, verify, corroborate, validate, bear out, prove
+  demonstrate, establish, substantiate, verify &c H0703
+  affirm, ratify, corroborate &c H0703
+  uphold
+
+Adj:
+  objective, confirmed, verified, corroborated, validated, proven, warranted
+  evident
+
+Adv:
+  objectively, demonstrably, in fact
+  on the evidence
+
+F:
+  Arabic: yaqīn mawḍūʿī
+
+Phr:
+  the proof of the pudding is in the eating

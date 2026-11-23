@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time)
 G: Raum
 Gloss: The boundless, uniform extension in which things lie beside one another, in three dimensions.
+HGloss: The first determination of nature: the abstract universality of its self-externality, a mediationless indifference, continuous and without distinction.
 
 N:
   space; extension, extent, expanse, spread, room, area, volume, capacity, dimension, three dimensions, length, breadth, depth, height; continuum, plenum; void, vacuum, emptiness; infinity of space, boundless space, outer space; juxtaposition, side-by-sideness; the outside-each-other
@@ -16,8 +17,8 @@ N:
   bystander, neighbor, borderer†
   approach &c H0228, convergence &c H0228, perihelion
   shortness, brevity, littleness, a span
-  shortening, abbreviation, abbreviature†, abridgment, concision, retrenchment, curtailment, decurtation†, reduction, epitome &c H0595
-  elision, ellipsis, conciseness &c H0595
+  shortening, abbreviation, abbreviature†, abridgment, concision, retrenchment, curtailment, decurtation†, reduction, epitome &c H0599
+  elision, ellipsis, conciseness &c H0599
   abridger, epitomist†, epitomizer†
   width, latitude, diameter, bore, caliber, radius
   thickness, crassitude†, corpulence, dilation
@@ -48,7 +49,7 @@ Adj:
   spatial, spacious, extended, three-dimensional, roomy, vast, boundless, extensive, dimensional, juxtaposed
   expansive, capacious, ample, widespread, world-wide, uncircumscribed, boundless &c H0053, shoreless†, trackless, pathless
   near, nigh, close at hand, near at hand, close, neighboring, bordering upon, contiguous, adjacent, adjoining, proximate, proximal, at hand, handy, near the mark, near run, home, intimate
-  short, brief, curt, compendious, compact, stubby, scrimp, shorn, stubbed, stumpy, pug, chunky [U.S.], decurtate†, retrousse†, stocky, squabby†, little, curtailed of its fair proportions, short by, oblate, concise &c H0595, summary
+  short, brief, curt, compendious, compact, stubby, scrimp, shorn, stubbed, stumpy, pug, chunky [U.S.], decurtate†, retrousse†, stocky, squabby†, little, curtailed of its fair proportions, short by, oblate, concise &c H0599, summary
   broad, wide, discous†, fanlike, outspread, outstretched, wide as a church-door, latifoliate†, latifolous†
   thick, dumpy, squab, squat, thickset, thick as a rope
   low, neap, debased, nether, nether most, flat, level with the ground, lying low, crouched, subjacent, prostrate &c H0221
@@ -63,7 +64,7 @@ Adv:
   extensively, wherever, far and near, right and left, all over, all the world over, throughout the world, throughout the length and breadth of the land, under the sun, in every quarter, in all quarters, in all lands, here there and everywhere, from pole to pole, from China to Peru [Johnson], from Indus to the pole [Pope], from Dan to Beersheba, from end to end, on the face of the earth, in the wide world, from all points of the compass, to the four winds, to the uttermost parts of the earth
   hard by, fast by, close to, close upon, hard upon, at the point of, next door to, within reach, within call, within hearing, within earshot, within an ace of, but a step, not far from, at no great distance, on the verge of, on the brink of, on the skirts of, in the environs, at one's door, at one's feet, at one's elbow, at one's finger's end, at one's side, on the tip of one's tongue, under one's nose, within a stone's throw, in sight of, in presence of, at close quarters, cheek by jole†, cheek by jowl, beside, alongside, tete-a-tete, in juxtaposition, yardarm to yardarm, on the confines of, at the threshold, verging to, in the way
   about, hereabouts, thereabouts, roughly, in round numbers, approximately, approximatively†, as good as, well-nigh
-  shortly, in short &c H0595
+  shortly, in short &c H0599
   under, beneath, underneath, below, downwards, adown†, at the foot of, under foot, under ground, down stairs, below stairs, at a low ebb, below par
   behind, in the rear, in the background, behind one's back, at the heels of, at the tail of, at the back of, back to back
   after, aft, abaft, astern, sternmost†, aback, rearward

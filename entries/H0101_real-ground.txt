@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › b. Determinate Ground
 G: Realer Grund
 Gloss: An explanation that cites something genuinely different from what it explains.
+HGloss: Ground and grounded with different contents, so that the ground becomes an external determination.
 
 N:
   real ground; genuine reason, substantive explanation, real cause, effective cause, informative explanation, ampliative explanation; heterogeneity of ground and grounded; ground as other; sufficient reason in content; one-sidedness, partial explanation, contributing factor, factor, determinant
@@ -10,7 +11,7 @@ N:
 V:
   explain, account for, cause, determine, underlie, give rise to, bring about
   originate, occasion
-  explain &c H0595, solve &c H0595, fathom
+  explain &c H0599, solve &c H0599, fathom
   ground really
 
 Adj:

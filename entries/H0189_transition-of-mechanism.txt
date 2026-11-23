@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › c. Absolute Mechanism
 G: Übergang des Mechanismus
 Gloss: The passage of mechanism beyond purely external relations.
+HGloss: Mechanism whose self-determination is law, and which passes beyond indifferent externality into chemism.
 
 N:
   transition of mechanism; passage beyond externality, inner tendency, orientation, self-relation of the object; breakdown of indifference

@@ -1,0 +1,37 @@
+# 585 Feeling
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › a. Intuition
+G: Gefühl
+Gloss: The mind's first, vague apprehension of a content.
+HGloss: The mind's first finding of a content within itself, the dull form of all that is spiritual.
+
+N:
+  feeling; sensation as content of mind, felt content, sentience, impression, the felt, affect, mood, tonality
+  affection, sensation, emotion
+  affections, disposition, temper, temperament
+  vague feeling, dim awareness, inkling, sentiment, affective tone, presentiment
+
+V:
+  feel, sense, be affected, be moved
+  receive an impression, be impressed with, entertain feeling
+  have affections, possess affections, be of a character, breathe
+  be aware, apprehend dimly
+
+Adj:
+  felt, affective, sentient, emotional, moody
+  sensuous, emotive, of feeling
+  impressed with, moved with, touched with, affected with
+  vague, dim, inchoate, immediate
+
+Adv:
+  feelingly, in feeling
+  dimly, vaguely
+
+F:
+  German: Stimmung
+  Arabic: shuʿūr, ḥiss [sense]
+  Sanskrit: vedanā [feeling]
+  Chinese: ganjue [feeling, sensation]
+  Japanese: kanjō [feeling]
+
+Phr:
+  I feel, therefore I am

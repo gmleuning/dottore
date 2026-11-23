@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence
 G: Wesen als Reflexion in ihm selbst
 Gloss: The underlying nature of things understood as a depth that shows itself only through surface appearance. Reflection here means a turning back, as light is returned from a mirror.
+HGloss: Essence as the reflection in itself of being: an inward movement that posits its own appearing.
 
 N:
   essence as reflection within itself; self-reflection, reflexivity, reflexion, turning back, recoil, return, reflux; mirror, looking glass, reflecting surface; self-mirroring, self-reference; mediation; inwardness, interiority; negativity, self-negation; depth that shows itself

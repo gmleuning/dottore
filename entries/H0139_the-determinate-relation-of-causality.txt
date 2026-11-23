@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation › b. Relation of Causality
 G: Das bestimmte Kausalitätsverhältnis
 Gloss: Causality among limited things with a definite content: the same content appears once as cause and once as effect, as rain and wetness, and each cause is itself an effect, giving an endless chain.
+HGloss: Causality between finite substances: the cause is itself an effect of another, the spurious infinite of causes.
 
 N:
   the determinate relation of causality; finite causality, chain of causes, causal chain, causal series, sequence of causes, regress of causes, infinite regress of causes, domino effect, knock-on effect, ripple effect, concatenation; secondary causes; mechanical causation, efficient causation

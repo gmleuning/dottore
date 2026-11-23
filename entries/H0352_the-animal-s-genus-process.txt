@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature
 G: Gattungsprozess des Tiers
 Gloss: The animal's relation to its own kind.
+HGloss: The animal's relation to its genus: the division into species, the sex-relation, and disease and death.
 
 N:
   the animal's genus process; species, kind, reproduction, mating, breeding, propagation, sex, gender, generation, offspring, progeny, brood, litter, young; genus and individual
@@ -10,7 +11,7 @@ N:
   bringing forth, parturition, birth, birth-throe, childbirth, delivery, confinement, accouchement, travail, labor, midwifery, obstetrics, geniture†, gestation &c H0196, assimilation, evolution, development, growth, entelechy [Phil.], fertilization, gemination, germination, heterogamy [Biol.], genesis, epigenesis†, procreation, progeneration†, fecundation, impregnation, albumen &c H0294
   regeneration, palingenesis†, regrowth
   sexual intercourse, copulation, coitus, lovemaking, marital relations, sexual union, sleeping together, carnal knowledge
-  race, stock, sept &c H0672, stirps, side, strain, clan, tribe, nation
+  race, stock, sept &c H0676, stirps, side, strain, clan, tribe, nation
   the species process, relation to its kind
   DNA, gene, genes, genome, genetics, chromosome, mutation, cloning, clone, heredity, inheritance, natural selection, DNA test
 

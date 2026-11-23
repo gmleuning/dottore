@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being › c. Becoming
 G: Aufhebung
 Gloss: The coming to rest of change in a stable result. To sublate is at once to cancel and to preserve: being and nothing are cancelled as separate, yet kept as aspects of what results.
+HGloss: The vanishing of becoming into a quiescent result; to sublate (aufheben) is at once to negate and to preserve, as in determinate being.
 
 N:
   sublation; supersession, superseding, transcendence, overcoming, surpassing, going beyond; cancellation and preservation, abolition and retention; elevation, raising up, lifting, uplift; integration, incorporation, absorption, assimilation, subsumption; synthesis, resolution, result, outcome, upshot; settling, subsidence, quiescence, coming to rest, stability, equilibrium; residue, precipitate, sediment, deposit

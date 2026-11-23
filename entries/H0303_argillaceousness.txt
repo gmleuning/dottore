@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy) › a. Primitive Rocks
 G: Tonartigkeit
 Gloss: The character of rocks rich in clay.
+HGloss: The argillaceous moment, clay and mica, the earth of plasticity.
 
 N:
   argillaceousness; clay, argil, loam, marl, shale, slate, mudstone, kaolin, china clay, terra cotta, potter's clay

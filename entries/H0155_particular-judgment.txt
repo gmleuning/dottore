@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › b. Judgment of Reflection
 G: Partikuläres Urteil
 Gloss: A judgment of this kind about some things: "some plants are healing."
+HGloss: Some singulars are universal; positive and negative at once, pointing toward totality.
 
 N:
   particular judgment; particular proposition, partial statement, some-statement, existential statement, qualified generalization, hedge; some, several, certain, a few; partial quantification

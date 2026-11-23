@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity
 G: Urteil
 Gloss: A statement joining a subject to a predicate, saying that an individual is of a certain kind; the dividing of a concept into its parts.
+HGloss: The concept's own self-division into its moments, an original division (Ur-teil): the singular is the universal.
 
 N:
   judgment, proposition, statement, assertion, predication, declaration, affirmation, enunciation, pronouncement, verdict, finding, ruling, decision, determination, opinion, sentence; subject and predicate, copula; division of the concept, self-division

@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › a. Being-for-Self as Such
 G: Sein-für-Eines
 Gloss: The standing of whatever falls within a self-contained thing: it is there only as an aspect for that thing, not as an independent other; ideality.
+HGloss: The ideality of the finite: what is in being-for-self has no being of its own, but is only for the one.
 
 N:
   being-for-one; ideality; for-me-ness, mineness; perspective, point of view, standpoint, angle, aspect, vantage point, viewpoint; representation, appearance-for, phenomenality; subjectivity, the subjective; appropriation, ownership, assimilation, taking-in; mental presence, intentional inexistence; the other as ideal moment

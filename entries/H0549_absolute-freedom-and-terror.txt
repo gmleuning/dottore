@@ -1,0 +1,37 @@
+# 549 Absolute Freedom and Terror
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › ii. Self-Alienated Spirit: Culture
+G: Die absolute Freiheit und der Schrecken
+Gloss: Freedom that refuses all limits and institutions and so turns to destruction, as in the Terror of the French Revolution.
+HGloss: The absolute freedom of the universal will, which destroys every institution and, having nothing else to negate, ends in the terror.
+
+N:
+  absolute freedom and terror; the Terror, Reign of Terror, revolutionary terror, the French Revolution, Jacobinism, the guillotine, Committee of Public Safety, general will, absolute freedom, the fury of destruction, suspicion, purge, show trial, revolutionary tribunal, the revolution devouring its children
+  arbitrary power, absolutism, despotism, dictatorship, autocracy, tyranny, oppression, usurpation, iron rule
+  insurgent, rebel, red republican, bonnet rouge
+  universal freedom, the coldest death, Robespierre
+  guerrilla
+
+V:
+  revolutionize, abolish, purge, guillotine, liquidate, suspect, denounce, overthrow
+  destroy, level, terrorize
+
+Adj:
+  revolutionary, absolute, Jacobin, destructive, terroristic, suspicious, fanatical
+  severe, strict, rigorous, uncompromising, inexorable, relentless
+  unrestricted, unlimited, unconditional
+  abstract
+
+Adv:
+  by terror, ruthlessly
+  destructively, without limit
+
+F:
+  German: Furie des Verschwindens, die Furie des Verschwindens
+  French: la Terreur, volonté générale, à la lanterne, sansculottes
+  Arabic: irhāb [terror]
+  Chinese: kongbu [terror]
+
+Phr:
+  the coldest and meanest of all deaths, with no more significance than cutting off a head of cabbage [Hegel]
+  la Révolution dévore ses enfants [Fr.] [the revolution devours its children]
+  liberté, égalité, fraternité [Fr.]

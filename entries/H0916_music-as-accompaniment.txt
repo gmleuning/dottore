@@ -1,0 +1,31 @@
+# 916 Music as Accompaniment
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 3. Relation Between Expression and Content
+G: Begleitende Musik
+Gloss: Music that accompanies words.
+HGloss: Music accompanying words, which expresses the feeling of the text without becoming its servant.
+
+N:
+  music as accompaniment; vocal music, song, aria, recitative, opera, oratorio, mass, cantata, chorale, setting of words
+  chant, psalm, psalmody, hymn, song &c H0919, canticle, lay, ballad, ditty, carol
+  music, strain, tune, air, melody &c H0911, arietta†
+  accompaniment, vocal setting, word-setting, the art song, libretto, text, the voice, church music, anthem, motet
+
+V:
+  accompany, set, sing
+  set to music, intone, underscore, support, follow the words
+
+Adj:
+  vocal, operatic, choral, liturgical
+  musical, lyric, harmonious &c H0911
+  accompanying, accompanied, sung, texted, lyrical, subservient
+  attended
+
+Adv:
+  with accompaniment
+  in song, to the words, vocally
+
+F:
+  German: Lied
+
+Phr:
+  the Passion according to St Matthew [Bach]

@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature › β. The Plant's Process of Assimilation
 G: Lichtprozess der Pflanze
 Gloss: The plant's turning toward light, and its transformation of light into color and vigour.
+HGloss: The plant's relation to light, its selfhood outside itself; it turns toward the sun and takes colour and odour.
 
 N:
   the plant's process with light; photosynthesis, phototropism, heliotropism, greening, chlorophyll, colour of flowers, blossoming, flowering, florescence; heliotrope, sunflower

@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › II. Finite Mechanics (Matter and Motion)
 G: Fall
 Gloss: The motion of a body toward a centre of gravity.
+HGloss: Matter's relative free motion toward its centre, in which the body's own gravity is the moving cause.
 
 N:
   fall; falling, descent, drop, plunge, plummet, tumble, free fall, gravitation, gravity, weight, heaviness, ponderousness, accelerated motion, law of falling bodies; downfall, collapse; inclined plane, pendulum

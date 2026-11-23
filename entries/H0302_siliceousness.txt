@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy) › a. Primitive Rocks
 G: Kieselartigkeit
 Gloss: The character of rocks rich in silica, such as quartz and flint.
+HGloss: The siliceous moment, quartz and flint, the abstract earth of the primitive rock.
 
 N:
   siliceousness; silica, silex, flint, quartz, chert, agate, chalcedony, jasper, opal, sand, sandstone, quartzite; siliceous earth

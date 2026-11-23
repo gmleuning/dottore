@@ -1,0 +1,42 @@
+# 758 Beauty as Abstract Unity of Sensuous Material (Purity)
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › b. Natural Beauty › ii. External Beauty
+G: Die Schönheit als abstrakte Einheit des sinnlichen Materials
+Gloss: Beauty in the purity and simplicity of a material, such as a clear tone or an unmixed color.
+HGloss: The beauty of a pure and simple material, a clear sky, a pure tone or colour, abstract sensuous unity.
+
+N:
+  beauty as abstract unity of sensuous material; purity, pure colour, pure tone, clarity, limpidity, clearness, the clear sky, the pure note
+  transparency, lucidity, pellucidity†
+  pureness, simplicity, unmixedness, homogeneity, uniformity
+
+V:
+  purify, clarify, refine
+  purify &c H0694
+  be simple
+  render simple, simplify, uncomplicate
+
+Adj:
+  pure, clear, limpid, unmixed, pellucid, crystalline, immaculate
+  transparent, lucid, clear as crystal
+  clean, spotless, stainless, untainted
+  unadorned, bare, unornamented, undecked†, ungarnished, unarranged†, untrimmed, unvarnished
+  chaste, inornate†, severe
+  unaffected, ingenuous, sincere &c H0667, free from affectation, free from ornament
+  simple, plain, homely, homespun, ordinary, household
+  unalloyed, homogeneous
+  uncut
+
+Adv:
+  purely, clearly
+  simply
+
+F:
+  German: Reinheit
+  Latin: simplex munditiis [Horace]
+  French: sans facon, en deshabille
+  Arabic: ṣafāʾ [purity, clarity]
+  Sanskrit: śuddhi [purity]
+  Chinese: chunjing [purity]
+
+Phr:
+  clear as crystal

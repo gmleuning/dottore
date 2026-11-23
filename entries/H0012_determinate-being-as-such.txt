@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being
 G: Dasein als solches
 Gloss: Definite existence considered on its own, before its relations to other things are taken into account.
+HGloss: Determinate being taken simply as it is, prior to the relations of something and other.
 
 N:
   determinate being as such; existence considered in itself, bare existence, being-there as such; simple presence; isolation, abstraction from relation; immediacy &c H0002

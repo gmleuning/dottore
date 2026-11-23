@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › β. Quantum › c. Quantitative Infinity
 G: Der quantitative unendliche Progreß
 Gloss: The endless series of ever greater or smaller amounts; infinity as a progression that never ends.
+HGloss: The spurious infinite in quantity: the endless more and less, the ought of quantity never fulfilled.
 
 N:
   the quantitative infinite progress; infinite progression, endless series, unending sequence, infinite series; bad infinity &c H0025; unending increase, unending diminution; sorites, heap paradox, Zeno's paradoxes, Achilles and the tortoise, dichotomy paradox; repetition, iteration, recursion, Droste effect, hall of mirrors; asymptotic approach; growth for its own sake; insatiability, greed
@@ -11,7 +12,7 @@ N:
 
 V:
   progress endlessly, go on and on, go on forever, never end, iterate, recur, recurse; approach but never reach
-  revert, return, reappear, renew &c H0364
+  revert, return, reappear, renew &c H0368
   be infinite, know no limits, have no limits, know no bounds, have no bounds, go on for ever
   last forever, endure forever, have no end
   go on, increase without end

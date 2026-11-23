@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › β. Real Measure › a. The Relation of Self-Subsistent Measures
 G: Maß als Reihe von Maßverhältnissen
 Gloss: A thing's measure expressed as its series of ratios to other things.
+HGloss: A measure determined by its series of ratios to other measures, which form its specific scale.
 
 N:
   measure as a series of measure relations; series, sequence, scale, spectrum, table, array, gamut, range, profile, signature, fingerprint; ranking, ordering, hierarchy; comparative table, table of affinities, periodic table; set of ratios, characteristic series, specific profile

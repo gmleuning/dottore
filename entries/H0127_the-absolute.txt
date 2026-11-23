@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality
 G: Das Absolute
 Gloss: The all-inclusive reality in which every limited thing is contained; the unconditioned whole.
+HGloss: The absolute identity of form and content, in which all determinations have vanished, positive only as their abyss.
 
 N:
   the absolute; the unconditioned, the infinite, the all, the whole, the totality, the One, Godhead, deity, the divine; substance, God or nature; ground of being, ultimate reality, totality of being

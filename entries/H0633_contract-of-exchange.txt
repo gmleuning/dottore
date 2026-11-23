@@ -1,0 +1,30 @@
+# 633 Contract of Exchange
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract
+G: Tauschvertrag
+Gloss: An agreement in which each party gives and receives.
+HGloss: The real contract, in which each party gives and receives.
+
+N:
+  contract of exchange; exchange contract, onerous contract, reciprocal contract, bilateral bargain, commutative justice
+  real contract, bilateral contract, mutual agreement, consideration
+
+V:
+  exchange, trade, swap, bargain
+  interchange, reciprocate, commute, give and take
+  barter, truck, interchange &c H0141, compound for
+  give and receive
+
+Adj:
+  commutative, reciprocal, bilateral, onerous
+  interchanged, mutual, interchangeable
+
+Adv:
+  in exchange, in return
+  reciprocally, mutually
+
+F:
+  Latin: quid pro quo
+  Arabic: muʿāwaḍa [exchange contract]
+
+Phr:
+  tit for tat

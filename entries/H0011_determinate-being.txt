@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality)
 G: Dasein
 Gloss: Existence with a definite character; a being that is this rather than that, and is there.
+HGloss: Being with a determinateness, the result of becoming: being that is there, existing as quality.
 
 N:
   determinate being, existence, being-there, thereness, presence; determinate existence, concrete existence, definite existence; something that is there, a being, an existent, existent thing, entity; the here and now; reality; actual presence, palpability

@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › III. Actuality › α. The Absolute
 G: Das absolute Attribut
 Gloss: A single basic aspect under which the all-inclusive whole is understood, such as thought or physical extension.
+HGloss: The absolute as it is for reflection, the whole absolute under one determination, as Spinoza's thought and extension.
 
 N:
   the absolute attribute; attribute, essential aspect, fundamental aspect, perspective on the whole; thought and extension; dual-aspect theory, double-aspect monism, parallelism; face of God, aspect of the One

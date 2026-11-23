@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › a. Syllogism of Existence (Qualitative Syllogism) [Tetrad]
 G: Dritte Figur
 Gloss: The form of inference whose connecting term is a general idea.
+HGloss: Singular and particular joined through the universal: S–U–P, the transition to the mathematical figure.
 
 N:
   third figure; S–U–P, singular–universal–particular; universal as middle term

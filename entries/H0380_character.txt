@@ -1,0 +1,42 @@
+# 380 Character
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › a. Natural Qualities › iii. The Individual Subject
+G: Charakter
+Gloss: The steadiness with which a person holds to their aims.
+HGloss: The formal energy by which the individual pursues aims and holds firm to them, and the substance of those aims; what makes a person.
+
+N:
+  character; firmness, strength of character, backbone, moral fibre, resolve, resolution, steadfastness, constancy, determination, integrity, consistency, persistence, tenacity, perseverance, grit, mettle, spine, will, willpower
+  iron will, unconquerable will, will of one's own, clear grit, true grit, sand, strength of mind, strength of will, resolve &c H0660, energy, vigor, resoluteness &c H0719, zeal &c H0379, aplomb, desperation, devotion, devotedness
+  steadiness, singleness of purpose, tenacity of purpose, plodding, patience, sedulity &c H0379, pertinacy†, pertinacity, pertinaciousness, iteration &c H0046, bottom, stamina, indefatigability, indefatigableness, bulldog courage
+  manliness, manhood, nerve, pluck, game, heart, heart of grace, spunk, guts, face, virtue, hardihood, fortitude, intestinal fortitude, heart of oak
+  inflexibility &c H0260, dogged resolution
+  mastery over self, self control, self command, self possession, self reliance, self government, self restraint, self conquest, self denial, moral courage, moral strength, obstinacy &c H0616, bulldog, British lion
+  continuance &c H0010, permanence &c H0010, firmness &c H0010
+  decision, settled purpose
+
+V:
+  stand firm, persevere, persist, hold fast, hold one's ground, stick to one's guns, keep faith
+  hold on, hold out, die in the last ditch, be in at the death, stick to, cling to, adhere to, stick to one's text, keep on, keep to one's course, keep to one's ground, maintain one's course, maintain one's ground, go all lengths, go through fire and water, bear up, keep up, hold up, plod, stick to work &c H0695, continue &c H0010, follow up, die in harness, die at one's post
+  have determination, know one's own mind, be resolved, make up one's mind, determine, decide &c H0606, form a determination, come to a determination, come to a resolution, come to a resolve, conclude, fix, seal, determine once for all, bring to a crisis, drive matters to an extremity, take a decisive step &c H0616, take upon oneself &c H0613
+
+Adj:
+  firm, resolute, steadfast, constant, determined, strong-willed, unwavering, staunch, stalwart, principled, consistent, tenacious, dogged
+  resolved, resolute &c H0719, self-possessed, decided, definitive, peremptory, tranchant†, unhesitating, unshrinking†, iron, gritty [U.S.], game to the backbone, inexorable, relentless, not to be shaken, not to be put down, inflexible &c H0260, obstinate &c H0616
+  persevering, steady, undeviating, unfaltering, unswerving, unflinching, unsleeping†, unflagging, undrooping†, steady as time, unrelenting, unintermitting†, unremitting, industrious &c H0379, strenuous &c H0695, pertinacious, persisting, persistent
+  strong-minded, hardy, doughty, firm &c H0010, indomitable
+  tireless
+
+Adv:
+  resolutely, steadfastly, firmly, through thick and thin
+
+F:
+  Latin: tenax propositi
+  Greek: charaktēr [stamp, impress], ethos
+  Arabic: khuluq [character], akhlāq [morals]
+  Sanskrit: śīla [character, conduct]
+  Chinese: pinge [character]
+  Japanese: jinkaku
+
+Phr:
+  character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]
+  nothing great in the world has been accomplished without passion [Hegel]

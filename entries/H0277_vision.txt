@@ -2,11 +2,12 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light › iii. Color
 G: Sehen
 Gloss: The eye's grasp of light and color; seeing.
+HGloss: The eye's activity in the production of colour, the subjective colours of seeing.
 
 N:
   vision; sight, seeing, eyesight, the eye, visual perception, perception of colour, colour vision, afterimage, complementary colours, contrast, chromatic adaptation; physiological colours
   glance, regard
-  blindness, cecity†, excecation†, amaurosis†, cataract, ablepsy†, ablepsia†, prestriction†, dim-sightedness &c H0387, Braille, Braille-type, guttaserena (drop serene), noctograph†, teichopsia†
+  blindness, cecity†, excecation†, amaurosis†, cataract, ablepsy†, ablepsia†, prestriction†, dim-sightedness &c H0391, Braille, Braille-type, guttaserena (drop serene), noctograph†, teichopsia†
   the visual sense, optics
 
 V:
@@ -14,21 +15,21 @@ V:
   descry, make out, distinguish, espy, catch a sight of
   eye, look at, look on, survey, scan
   look intently, fix the eyes upon, stare
-  observe &c H0582, watch &c H0582, see with one's own eyes
+  observe &c H0586, watch &c H0586, see with one's own eyes
   be blind, not see, lose sight of, have the eyes bandaged, grope in the dark
-  not look, close the eyes, shut the eyes-, turn away the eyes, avert the eyes, look another way, wink &c H0387, shut the eyes to, be blind to, wink at, blink at
+  not look, close the eyes, shut the eyes-, turn away the eyes, avert the eyes, look another way, wink &c H0391, shut the eyes to, be blind to, wink at, blink at
   render blind, hoodwink, dazzle, put one's eyes out, throw dust into one's eyes, pull the wool over one's eyes, screen from sight
 
 Adj:
   visual, optic, optical, ocular, visible, sighted, seeing
   perceptible, discernible, in view, in sight
-  blind, eyeless, sightless, visionless, dark, stone-blind, sand- blind, stark-blind, undiscerning†, dimsighted &c H0387
+  blind, eyeless, sightless, visionless, dark, stone-blind, sand- blind, stark-blind, undiscerning†, dimsighted &c H0391
   blind as a bat, blind as a buzzard, blind as a beetle, blind as a mole, blind as an owl, wall-eyed
   blinded
 
 Adv:
   visually, by sight, at a glance, to the naked eye
-  visibly &c H0387, at first sight
+  visibly &c H0391, at first sight
   blindly, blindfold, blindfolded, darkly
 
 F:

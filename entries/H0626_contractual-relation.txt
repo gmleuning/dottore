@@ -1,0 +1,39 @@
+# 626 Contractual Relation
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract
+G: Vertragsverhältnis
+Gloss: The relation between parties set up by an agreement.
+HGloss: The relation of the contracting wills, a common will which is not yet universal.
+
+N:
+  contractual relation; parties, contracting parties, privity, obligation, mutual consent, common will, offer and acceptance, consideration, meeting of minds
+  acquiescence, approval &c H0487, compliance, agreement, concession, yieldance†, yieldingness†, accession, acknowledgment, acceptance, agnition†
+  clauses, provisions, proviso &c H0103, covenant, stipulation, ultimatum, sine qua non
+  promise, undertaking, word, troth, plight, pledge, parole, word of honor, vow, oath &c H0599, profession, assurance, warranty, guarantee, insurance, contract &c H0625
+  presentation, overture, proposal, proposition, motion, invitation, candidature, offering &c H0630
+  compromise, commutation, composition, middle term, compensation &c H0634, abatement of differences, adjustment, mutual concession
+  mutual obligation, the bond between parties
+
+V:
+  offer, accept, consent, oblige, be party to
+  assent &c H0604, yield assent, admit, allow, concede, grant, yield, come round, come over, give into, acknowledge, agnize†, give consent, comply with, agree to, fall in with, embrace an offer, close with, take at one's word, have no objection
+  assent, acquiesce, agree &c H0087, accede, concur
+  proffer, present, tender, bid, propose, move, make a motion, make advances, start, invite, hold out, place in one's way, put forward
+  perform an obligation, fulfill an obligation, discharge an obligation, acquit oneself of an obligation, make good, make good one's word, make good one's promise, keep one's word, keep one's promise, redeem one's pledge, keep faith with, stand to one's engagement
+  bind, obligate, engage
+
+Adj:
+  contractual, mutual, bilateral, reciprocal, obligatory
+  correlative, interdependent
+  binding
+
+Adv:
+  mutually, by consent
+  contractually
+
+F:
+  Latin: quid pro quo, casus foederris
+  Italian: mezzo termine
+  Arabic: ījāb wa-qabūl [offer and acceptance]
+
+Phr:
+  quid pro quo [Lat.]

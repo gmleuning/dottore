@@ -1,0 +1,41 @@
+# 605 Understanding
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › c. Thinking
+G: Verstand
+Gloss: Thinking that grasps things in general concepts and fixed distinctions.
+HGloss: Thinking as the formal identity that works its recollected representations into genera, species, laws and forces.
+
+N:
+  understanding; comprehension, grasp, apprehension, intellect, intelligence, the faculty of concepts, classifying thought, the sorting mind
+  capacity, intellect &c H0583, parts, sagacity, mother wit, wit, quick parts
+  mind, reason, thinking principle, cogitative faculties, cognitive faculties, discursive faculties, reasoning faculties, intellectual faculties
+  sense, good sense, common sense, rationality, judgment
+  abstract thinking, the fixing of determinations, analysis, abstraction
+
+V:
+  understand, comprehend, grasp, apprehend, classify, sort, fathom, make sense of
+  conceive, realize
+  take, take in, catch, follow, collect, master, make out, see with half an eye, see daylight, see one's way, enter into the ideas of, come to an understanding
+  be intelligent, have all one's wits about one, understand &c H0599, catch an idea, take in an idea, take a joke, take a hint
+  abstract, fix, distinguish, analyse
+
+Adj:
+  understanding, comprehending, intelligent, intellectual, classificatory
+  quick of apprehension, keen, acute, bright, sharp, quick witted, clear witted, acute &c H0379
+  mental, rational, cerebral
+  analytic, fixed
+
+Adv:
+  understandingly, intelligibly
+  abstractly, analytically
+  understandably
+
+F:
+  Greek: dianoia
+  French: nous
+  Arabic: fahm [understanding]
+  Sanskrit: buddhi
+  Chinese: lijie [understanding]
+  Japanese: rikai
+
+Phr:
+  I see what you mean

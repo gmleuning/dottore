@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea › β. The Idea of Cognition › a. The Idea of the True
 G: Analytisches Erkennen
 Gloss: Knowing that breaks a given thing down into its elements; analysis.
+HGloss: Cognition that resolves the given concrete into abstract determinations and the form of universality.
 
 N:
   analytic cognition; analysis, resolution, decomposition, dissection, breakdown, reduction, abstraction, isolation of elements, anatomizing, parsing, unpacking; reductionism

@@ -1,0 +1,27 @@
+# 1056 Science of Logic
+# Spirit › 3. Absolute Spirit › III. Philosophy › γ. The Hegelian System
+G: Wissenschaft der Logik
+Gloss: The study of the basic concepts of thought in their necessary development.
+HGloss: The Science of Logic, the pure thought determinations, the idea in the element of thinking.
+
+N:
+  Science of Logic; the Greater Logic, logic as metaphysics, the exposition of God before the creation, the realm of shadows, Being, Essence, Concept, objective and subjective logic
+  the Logic, the Nuremberg Logic, the Doctrine of Being, the Doctrine of Essence, the Doctrine of the Concept, system of pure reason, science of pure thought, pure science, kingdom of pure thought, the truth without veil
+
+V:
+  unfold, develop, determine
+  deduce, derive, think through, categorize, mediate
+
+Adj:
+  logical, ontological, categorial, systematic
+  speculative, dialectical, presuppositionless, immanent, pure
+
+Adv:
+  logically
+  dialectically, speculatively, immanently, categorially, in pure thought
+
+F:
+  German: Reich der Schatten
+
+Phr:
+  the presentation of God as he is in his eternal essence before the creation of nature and a finite spirit [Hegel]

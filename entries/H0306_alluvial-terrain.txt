@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy)
 G: Aufgeschwemmtes Land
 Gloss: Soil and debris deposited by water.
+HGloss: The alluvial terrain, the deposits of water, the soil in which the earth's vitality becomes fertile.
 
 N:
   alluvial terrain; alluvium, alluvion, silt, mud, sand, gravel, loess, delta, floodplain, bottomland, river flats, sandbank, sandbar, estuary, mire, marsh, fen, bog; tertiary and quaternary deposits

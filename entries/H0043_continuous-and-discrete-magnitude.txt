@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › α. Quantity
 G: Kontinuierliche und diskrete Größe
 Gloss: Quantity taken either as continuous, an unbroken whole like a line, or as discrete, a collection of separate units like a heap.
+HGloss: Quantity posited as continuity, an unbroken self-equality, and as discreteness, a plurality of ones; each contains the other.
 
 N:
   continuous and discrete magnitude; continuity, continuum, seamlessness, uninterruptedness, unbrokenness, connectedness; flow, stretch, extension, line; discreteness, discontinuity, separateness, distinctness, granularity, graininess, atomicity, digitality; units, ones, items, members, quanta; the digital and the analogue; the continuous and the discontinuous; grain, particle, bit, quantum
@@ -14,7 +15,7 @@ V:
 
 Adj:
   continuous, continual, unbroken, uninterrupted, seamless, smooth, connected, analogue, analog; discrete, discontinuous, separate, distinct, granular, grainy, particulate, atomic, digital, quantized, countable, numerable
-  continued, consecutive, progressive, gradual, serial, successive, immediate, entire, linear, in a row, unintermitting†, unremitting, unrelenting &c H0376, perennial, evergreen, constant
+  continued, consecutive, progressive, gradual, serial, successive, immediate, entire, linear, in a row, unintermitting†, unremitting, unrelenting &c H0380, perennial, evergreen, constant
   disjoined, disjunctive, disparate, apart, asunder, loose
   unsuccessive†, broken, interrupted, disconnected, unconnected, fitful &c H0222, spasmodic, desultory, intermitting, occasional, intermittent, alternate, recurrent &c H0222
   intact, undivided

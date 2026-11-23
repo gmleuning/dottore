@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature
 G: Gattungsprozess der Pflanze
 Gloss: The plant's reproduction of itself in flower, seed and fruit.
+HGloss: The plant's genus process, the flower and fruit, in which the plant reproduces itself and dies as an individual.
 
 N:
   the plant's genus process; reproduction, flowering, blossoming, pollination, fertilization, seed, fruit, fruiting, seed-bearing, dissemination, germination, propagation; sexuality of plants; stamen and pistil; flower, bloom, blossom, fruit, seed, kernel, grain, pip, stone

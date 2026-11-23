@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › II. Magnitude (Quantity) › β. Quantum › c. Quantitative Infinity
 G: Begriff der quantitativen Unendlichkeit
 Gloss: The idea that a quantity always points beyond itself to a larger or smaller one.
+HGloss: The quantum's determination to be beyond itself, the infinite as its own other.
 
 N:
   concept of quantitative infinity; self-surpassing of quantum, self-transcendence of quantity, inherent beyond, built-in incompleteness; open-endedness, indefinite extensibility, potential infinite; the next number, successor, the always-more; insatiability, unquenchability

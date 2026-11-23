@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light › iii. Color › 2. Vision
 G: Entoptische Farbe
 Gloss: Color produced inside a transparent body by its internal structure.
+HGloss: Colour produced within a transparent body by its own inner structure and tension.
 
 N:
   entoptic colour; colour within a transparent body, interference colours, polarization colours, stress patterns, photoelasticity; inner coloration

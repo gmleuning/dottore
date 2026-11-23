@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being
 G: Reines Nichts
 Gloss: The complete absence of anything; emptiness taken as the opposite of being, yet just as blank and indefinite.
+HGloss: Nothing, pure nothing: simple equality with itself, complete emptiness, absence of all determination; the same as pure being.
 
 N:
   pure nothing, nothing, nothingness, nil, naught, nought, nix, zero, cipher; non-being, nonbeing; nonentity, nullity, nihility†, nonexistence &c (inexistence); void, vacuum, the void, vacancy, emptiness, blank, blankness; abyss, chasm, gulf

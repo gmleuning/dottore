@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › a. Syllogism of Existence (Qualitative Syllogism) [Tetrad]
 G: Zweite Figur
 Gloss: The form of inference whose connecting term is an individual instance.
+HGloss: The universal joined to the particular through the singular: P–S–U.
 
 N:
   second figure; P–S–U, particular–singular–universal; individual as middle term

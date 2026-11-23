@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › a. Absolute Ground
 G: Form und Materie
 Gloss: The relation between raw material, which can take any shape, and the form that gives it one.
+HGloss: Matter as the formless substrate presupposed by form, and form as what determines it.
 
 N:
   form and matter, hylomorphism; matter, stuff, material, raw material, substrate, substratum, prime matter, plasm, clay, wax, timber, ore; formlessness, the formless, the amorphous, potentiality, receptacle; form, shape; formation, in-formation, informing

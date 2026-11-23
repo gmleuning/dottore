@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › β. Determinations of Reflection › b. Difference
 G: Absoluter Unterschied
 Gloss: Difference as such, considered by itself rather than as a difference between particular things.
+HGloss: Difference in and for itself, the difference of essence, which is only as related to identity.
 
 N:
   absolute difference; difference as such, pure difference, difference in itself, self-related difference, simple difference, otherness as such; the negative, negativity; radical difference, absolute otherness, wholly other; incommensurability

@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements › b. Elements of Opposition
 G: Wasser
 Gloss: The neutral element; the fluid that takes any shape.
+HGloss: The element of neutrality, without shape of its own, taking any shape, the possibility of the chemical process.
 
 N:
   water; fluid, liquid, the liquid element, flood, sea, ocean, river, stream, rain, wave, current, spring, fountain, the deep; neutrality, formlessness, adaptability; the waters, the briny, H₂O

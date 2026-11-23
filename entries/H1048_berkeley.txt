@@ -1,0 +1,24 @@
+# 1048 Berkeley
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy › ii. Empiricism
+G: Berkeley
+Gloss: The thinker who drew from experience the conclusion that nothing material exists apart from perception: to be is to be perceived.
+HGloss: Berkeley, who held that to be is to be perceived.
+
+N:
+  Berkeley; immaterialism, subjective idealism, to be is to be perceived, denial of matter, God as perceiver, notion, spirit
+
+V:
+  perceive, deny matter, idealize
+
+Adj:
+  Berkeleyan, immaterialist, idealist
+
+Adv:
+  immaterially
+
+F:
+  Latin: esse est percipi
+
+Phr:
+  esse est percipi [Lat.]
+  language of nature [Berkeley], I refute it thus [Johnson, kicking a stone]

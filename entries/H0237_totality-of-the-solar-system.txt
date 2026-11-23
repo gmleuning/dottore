@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › III. Absolute Mechanics (Astronomy)
 G: Totalität des Sonnensystems
 Gloss: The sun with its planets, moons and comets as one system.
+HGloss: The system of the heavens, the sun, planets, moons and comets, matter's realized concept, the centre and its dependants.
 
 N:
   totality of the solar system; solar system, planetary system, heliocentric system, Copernican system, sun, planets, moons, satellites, comets, asteroids, the planetary family, orrery, armillary sphere; system of the world

@@ -2,11 +2,12 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light
 G: Farbe
 Gloss: Light dimmed by darkness; light and shade mixed through a cloudy or opaque medium; hue.
+HGloss: The union of light and darkness, the darkening of light by a turbid medium, as Goethe taught against Newton.
 
 N:
   colour, color; hue, tint, tinge, shade, tone, cast, coloration, colouring, complexion, pigment, dye, stain, wash, saturation, chroma, brightness, value, spectrum, rainbow, iris; light and darkness, the turbid medium; Goethe's theory of colours
   tincture, livery, glow, flush, key
-  coloring matter, distemper, medium, mordant, oil paint &c H0886
+  coloring matter, distemper, medium, mordant, oil paint &c H0890
   tulip, peacock, chameleon, butterfly, tortoise shell, mackerel, mackerel sky, zebra, leopard, cheetah, nacre, ocelot, ophite†, mother-of-pearl, opal, marble
   blackness, darkness, swartliness†, lividity, dark color, chiaroscuro, nigrification†, infuscation†
   local color, coloring, keeping, aerial perspective
@@ -27,7 +28,7 @@ N:
 
 V:
   colour, tint, tinge, dye, stain, paint, wash, shade, tone, hue, pigment, saturate, bleach, fade
-  tinct†, ingrain, grain, illuminate, emblazon, bedizen, imbue, paint &c H0886
+  tinct†, ingrain, grain, illuminate, emblazon, bedizen, imbue, paint &c H0890
   lose color, fly, go, become colorless, turn pale
   deprive of color, decolorize, tarnish, achromatize, blanch, wash out, tone down
   stipple, hatch

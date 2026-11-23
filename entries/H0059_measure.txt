@@ -2,13 +2,14 @@
 # Logic › 1. Doctrine of Being
 G: Maß
 Gloss: An amount that is essential to what a thing is, so that beyond certain limits a change in amount becomes a change in kind; proportion, due size, standard.
+HGloss: The unity of quality and quantity: the qualitative quantum, beyond whose limits a change of amount becomes a change of kind.
 
 N:
   measure; proportion, due proportion, right proportion, symmetry, harmony, balance, moderation, temperance, restraint, mean, the mean, golden mean, middle way; standard, norm, criterion, canon, rule, yardstick, benchmark, gauge, scale, measure of all things; due size, fitness, appropriateness, decorum, propriety, ratio; the specific quantity of a thing; balance of quality and quantity; mean between excess and defect
   yard measure, foot rule, compass, calipers, gage, meter, line, rod, check, dividers, velo†
-  average, median, mode, medium, mediocrity, generality, compromise &c H0622, middle state, neutrality
+  average, median, mode, medium, mediocrity, generality, compromise &c H0626, middle state, neutrality
   middle course, midcourse, mean &c H0045, middle &c H0218
-  dueness &c H0616, seemliness
+  dueness &c H0620, seemliness
   due measure
   easing
 

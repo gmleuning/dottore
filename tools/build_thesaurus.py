@@ -6,10 +6,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import entries
 
-KEYS = {'G': 'Head (German)', 'Gloss': 'Gloss', 'F': 'Foreign', 'N': 'Nouns', 'V': 'Verbs', 'Adj': 'Adjective',
+KEYS = {'G': 'Head (German)', 'Gloss': 'Gloss', 'HGloss': 'Hegelian gloss', 'F': 'Foreign', 'N': 'Nouns', 'V': 'Verbs', 'Adj': 'Adjective',
         'Adv': 'Adverbs', 'Phr': 'Phrases',
         'Def': 'Hegel definition', 'Q': 'Hegel quotes', 'Loc': 'Hegel locations'}
-FIELDS = ['node_id', 'Head', 'Head (German)', 'Path', 'Gloss', 'Nouns', 'Verbs', 'Adjective', 'Adverbs', 'Foreign', 'Phrases',
+FIELDS = ['node_id', 'Head', 'Head (German)', 'Path', 'Gloss', 'Hegelian gloss', 'Nouns', 'Verbs', 'Adjective', 'Adverbs', 'Foreign', 'Phrases',
           'Hegel definition', 'Hegel quotes', 'Hegel locations']
 
 nodes = entries.nodes()

@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being
 G: Endlichkeit
 Gloss: The condition of being limited; having an end that belongs to one's own nature.
+HGloss: The determinate being of something, which has its end in itself; to be finite is to carry the seed of one's passing away.
 
 N:
   finitude, finiteness, finity†; limitedness, boundedness, limitation, confinement, restriction, circumscription; mortality, transience, transitoriness, perishability, impermanence, temporality, evanescence, caducity, frailty; contingency, dependence, conditionedness; the finite, finite things, the creaturely, creatureliness; the human condition

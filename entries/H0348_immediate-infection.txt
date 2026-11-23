@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process › iii. Digestive Process
 G: Unmittelbare Infektion
 Gloss: The immediate transformation of what is eaten by the animal's own living power, as though by contagion.
+HGloss: The immediate infection of the food by the organism's own living power, which transforms it simply by taking it in.
 
 N:
   immediate infection; immediate assimilation, direct transformation, contagion, infection of the food by life, conversion, transmutation into self; living power over the inorganic

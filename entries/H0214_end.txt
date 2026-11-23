@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea › γ. The Absolute Idea
 G: Ende
 Gloss: The last step of method: the return to the start, now fully developed.
+HGloss: The end, in which the difference is sublated and the method returns to itself as the absolute idea, nature's beginning.
 
 N:
   end; conclusion, completion, consummation, culmination, close, termination, finale, finish, ending, outcome, result; return, homecoming, circle, closure, full circle; omega, last word, final word; the end in the beginning

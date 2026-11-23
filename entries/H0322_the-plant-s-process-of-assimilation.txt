@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature
 G: Assimilationsprozess der Pflanze
 Gloss: The plant's taking in of what it needs from its surroundings.
+HGloss: The plant's process with the elements, its turning outward toward light, air and water.
 
 N:
   the plant's process of assimilation; assimilation, nutrition, absorption, uptake, photosynthesis, transpiration, respiration

@@ -2,6 +2,7 @@
 # Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad]
 G: Wärme
 Gloss: The loosening of a body's cohesion and shape, by which it softens, melts and flows; matter's return toward formless fluidity, arising out of its inner trembling in sound.
+HGloss: The dissolution of cohesion, the body's self-restoration as the real negation of its specific determinateness, passing into shape.
 
 N:
   heat; warmth, hotness, temperature, caloric, thermal energy, fusion, melting, liquefaction, softening, dissolution of cohesion; fever, ardour, glow, swelter

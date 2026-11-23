@@ -1,0 +1,29 @@
+# 1050 Critical Philosophy (German Idealism)
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy
+G: Kritische Philosophie
+Gloss: Philosophy that begins by examining the powers and limits of reason itself, and finds in the self the source of the order of experience.
+HGloss: Critical philosophy, which examines the faculty of knowledge itself, and German idealism.
+
+N:
+  critical philosophy; German idealism, transcendental philosophy, Kant, Fichte, Schelling, the critique of reason, the Copernican revolution
+  criticism [Kantian], critical idealism, transcendental idealism, the critical turn, the tribunal of reason, the critique of knowledge, epistemology, post-Kantian idealism, classical German philosophy, the transcendental method, the limits of reason
+
+V:
+  critique, ground, deduce, posit, construct
+  criticize, examine, delimit, legitimate, justify, synthesize
+
+Adj:
+  critical, transcendental, idealist, Kantian
+  criticist, post-Kantian, epistemological, reflective, subjective-idealist, a priori
+
+Adv:
+  transcendentally
+  critically, reflectively
+
+F:
+  German: Deutscher Idealismus, Naturphilosophie, Kritizismus, Kritik, Transzendentalphilosophie
+  Arabic: al-mithāliyya al-almāniyya [German idealism]
+  Chinese: deguo guannianlun
+
+Phr:
+  es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt [Ger.] [Kant, Critique of Pure Reason Bxvi]

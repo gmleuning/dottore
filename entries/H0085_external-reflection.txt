@@ -2,11 +2,12 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › α. Shine (Illusory Being) › c. Reflection
 G: Äußere Reflexion
 Gloss: Reflection that starts from something given from outside and thinks about it; ordinary reflection on a datum.
+HGloss: Reflection that finds the immediate given and goes from it to its essence, external reflection.
 
 N:
   external reflection; external reflection, outside view, outsider's view, spectator's view, third-person standpoint, detached observation, observation; reflection upon a datum, consideration of the given; comparison, collation, juxtaposition; abstraction, generalization, subsumption under rules; reflective judgment; ratiocination; armchair reasoning, mere reflection; external standpoint, view from nowhere; outside perspective, etic perspective
   contrast, identification, comparative estimate, relative estimate, relativity
-  comparison &c H0602
+  comparison &c H0606
   outer reflection, reflection upon a given, the reflection of the understanding, presupposing reflection
 
 V:

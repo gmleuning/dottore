@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › a. Absolute Ground
 G: Form und Inhalt
 Gloss: The relation between what something contains and the form in which that content is shaped, each implying the other.
+HGloss: Content as the unity of form and matter, indifferent to form yet only in it.
 
 N:
   form and content; content, substance, subject matter, matter, material, meaning, import, purport, sense, signification, tenor, gist, burden, drift, message, theme, topic, argument; form, form of presentation, expression, style, manner, mode, vehicle, medium, structure, shape, packaging, wrapping, container, vessel; signifier and signified; letter and spirit; husk and kernel; the medium is the message

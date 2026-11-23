@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad]
 G: Urteil des Begriffs
 Gloss: A judgment that measures a thing against what it ought to be: good, bad, true, beautiful.
+HGloss: The judgment of the concept, in which the subject is measured against its concept, its ought.
 
 N:
   judgment of the concept; value judgment, evaluation, appraisal, assessment, verdict, normative judgment, critical judgment, taste, criticism, critique, rating, grading, review; good, bad, true, false, right, wrong, beautiful, ugly; ideal measure, standard, norm, criterion

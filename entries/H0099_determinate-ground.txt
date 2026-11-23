@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground
 G: Bestimmter Grund
 Gloss: A basis with a definite content.
+HGloss: Ground with a determinate content, which relates to the grounded.
 
 N:
   determinate ground; specific reason, particular cause, definite basis, assignable reason, given explanation, stated grounds, justification, rationale, account, motive, motivation

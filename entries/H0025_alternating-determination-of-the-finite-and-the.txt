@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › c. Infinity
 G: Wechselbestimmung des Endlichen und Unendlichen
 Gloss: The unlimited held apart from the limited, which makes it limited in turn; an endless alternation between the two, like a series that never arrives. Also called the bad or spurious infinite.
+HGloss: The spurious (bad) infinite, fixed beyond the finite and so itself finite: the endless alternation of finite and infinite, the infinite progress.
 
 N:
   alternating determination of the finite and the infinite; bad infinity, spurious infinity; endless progression, infinite progress, infinite regress, regress, endless regress; perpetual ought, endless striving; vicious circle, merry-go-round, treadmill, rat race, squirrel cage, Sisyphean labour; Sisyphus, the stone of Sisyphus, Tantalus, the Danaids' sieve; tedium, monotony, repetition, iteration, sameness, ad nauseam; asymptote, horizon, mirage, receding goal, will-o'-the-wisp; turtles all the way down

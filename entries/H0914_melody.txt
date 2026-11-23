@@ -1,0 +1,38 @@
+# 914 Melody
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 2. Particular Characteristics of Music
+G: Melodie
+Gloss: A succession of tones forming a whole; tune.
+HGloss: Melody, the free soul of music, which moves within harmony.
+
+N:
+  melody; tune, air, strain, aria, song, theme, motif, line
+  melody &c H0911, arietta†
+  chant, song &c H0919, canzonet†, lay, ballad, ditty
+  intonation, tone
+  descant, songfulness, tunefulness, phrase, subject, leitmotif
+
+V:
+  sing, hum, carol, warble, intone
+  trill
+  harmonize
+  lilt, croon, pipe, whistle
+
+Adj:
+  melodic, melodious, tuneful, lyrical, songful
+  musical, melic†, tunable, sweet, dulcet, canorous†, mellow, mellifluous, soft, clear, clear as a bell, silvery, euphonious, euphonic, euphonical†, symphonious, enchanting &c H0609, fine-toned, full-toned, silver-toned
+  lilting, flowing, singable, singing, arioso
+
+Adv:
+  melodiously, tunefully
+  in tune, sweetly, songfully
+
+F:
+  Greek: melos
+  Italian: cantilena, cantabile
+  Arabic: laḥn [melody], naghm
+  Sanskrit: rāga
+  Chinese: xuanlü [melody]
+  Japanese: senritsu
+
+Phr:
+  heard melodies are sweet, but those unheard are sweeter [Keats]

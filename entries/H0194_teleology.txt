@@ -2,10 +2,11 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity
 G: Teleologie
 Gloss: The relation of means to end; purpose and its fulfilment.
+HGloss: The concept existing for itself, the end, which realizes itself in the object through means.
 
 N:
   teleology; purpose, end, aim, goal, objective, object, intention, intent, design, plan, final cause, that for the sake of which; purposiveness, finality, finalism, goal-directedness, directedness, intentionality; means and end
-  drift &c H0595, tendency &c H0374, target
+  drift &c H0599, tendency &c H0378, target
   scheme, project
   consummation, destination
   employment, application, usefulness &c H0196

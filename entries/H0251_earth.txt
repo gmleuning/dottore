@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements
 G: Erde
 Gloss: The solid element; the element of individuality, which holds the others together and kindles them into process.
+HGloss: The element of individuality, the earth, which holds the moments together and is the ground of the meteorological process.
 
 N:
   earth; soil, ground, land, clay, loam, dust, dirt, mould, humus, sod, turf, clod, rock, stone; solid element, the solid, the individual element; Gaia, Mother Earth, Tellus, Demeter, Ceres

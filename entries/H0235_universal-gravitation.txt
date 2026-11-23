@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › III. Absolute Mechanics (Astronomy)
 G: Allgemeine Gravitation
 Gloss: The striving of all matter toward a common centre, which binds the heavenly bodies into one system; commonly stated as the attraction of every body for every other.
+HGloss: Gravity as the true concept of matter, its striving toward a centre outside each body, which forms the system of the heavens.
 
 N:
   universal gravitation; gravitation, gravity, gravitational pull, gravitational attraction, weight, the inverse-square law, law of universal gravitation, attraction of bodies, mutual attraction, Newtonian gravity, general relativity, curvature of spacetime

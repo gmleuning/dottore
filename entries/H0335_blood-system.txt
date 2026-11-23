@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape
 G: Blutsystem
 Gloss: The system of response: the blood and its vessels.
+HGloss: The system of irritability, the blood, the living individual's universal, its circulation.
 
 N:
   blood system; blood, circulation, circulatory system, cardiovascular system, arteries, veins, capillaries, vessels, bloodstream, lifeblood, gore, plasma; irritability

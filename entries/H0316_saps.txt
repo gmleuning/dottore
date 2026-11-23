@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such
 G: Säfte
 Gloss: The fluids that circulate through a plant.
+HGloss: The saps, the plant's internal fluidity, the vehicle of its self-formation.
 
 N:
   saps; sap, juice, latex, resin, gum, nectar, sugar, fluid, humour, circulation

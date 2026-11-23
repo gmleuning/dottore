@@ -1,0 +1,25 @@
+# 905 Flemish and German Painting
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › i. Painting › 3. Historical Development of Painting
+G: Niederländische und deutsche Malerei
+Gloss: The painting of the Low Countries and Germany.
+HGloss: Flemish and German painting, with its fidelity to the everyday and its inwardness.
+
+N:
+  Flemish and German painting; van Eyck, Memling, Rogier van der Weyden, Dürer, Holbein, Cranach, Dutch genre painting, Rembrandt, Vermeer, still life, interior, landscape, the Dutch Golden Age
+  seapiece†, view, scene, prospect
+  the Netherlandish school, the Flemish school, the Dutch school, the old German masters, the Flemish primitives, Hubert van Eyck, Schongauer, Grünewald, Rubens, van Dyck, Teniers, Ostade, Steen, Terborch, Ruisdael, oil painting, tavern scene, kermis, burgher life, domestic scene, cabinet picture
+
+V:
+  depict, render minutely
+  portray, detail, particularize, paint from life, finish
+
+Adj:
+  Flemish, Netherlandish, Dutch, German, minute, intimate, homely
+  burgherly, bourgeois, domestic, everyday, naturalistic, realistic, detailed, meticulous, painstaking, Rembrandtesque, Düreresque
+
+Adv:
+  in the Dutch manner
+  minutely, faithfully, to the life, in detail, realistically
+
+Phr:
+  the Sunday of life [Hegel on Dutch painting]

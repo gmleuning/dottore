@@ -1,0 +1,33 @@
+# 997 Origin of the Community
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › c. Community and Spirit (the Kingdom of the Spirit)
+G: Entstehung der Gemeinde
+Gloss: The beginning of the community of believers.
+HGloss: The origin of the community in the outpouring of the spirit.
+
+N:
+  origin of the community; the apostles, Pentecost, the outpouring of the Spirit, the first church, the gospel, faith in the risen one
+  founding, foundation, institution, establishment, inception, genesis, birth, rise, beginning, nascency, the nascent church, the infant church, the primitive church, the early church, the apostolic church, the apostolic age, the mother church, the birth of the church
+  the first Christians, the first believers, the disciples, the Twelve, the brethren, the upper room
+  Whitsun, Whitsuntide, the tongues of fire, the gift of the Spirit, the descent of the Holy Ghost, the Comforter, the Paraclete, the resurrection, the ascension, the Easter faith, testimony, proclamation, the good news, the glad tidings, evangel, mission, conversion, the calling, the gathering, the passage from sensuous presence to spirit, the certainty of reconciliation
+
+V:
+  found, proclaim, gather, witness
+  originate, arise, begin, be born, emerge, establish, institute, constitute, inaugurate, assemble, call together, convene, congregate, evangelize, preach, announce, testify, bear witness, convert, baptize, receive the Spirit, send forth, commission, believe
+
+Adj:
+  apostolic, pentecostal, primitive
+  ecclesiastical, clerical, sacerdotal, priestly, pastoral
+  scriptural, biblical, evangelical, inspired, canonical
+  original, originary, nascent, incipient, inaugural, foundational, early, first, kerygmatic, missionary, evangelistic, witnessing, Spirit-filled, charismatic, post-Easter, congregational
+
+Adv:
+  in the beginning
+  at the first, at the outset, originally, from the first, apostolically, at Pentecost, in the Spirit, by the Spirit, with one accord, in its infancy
+
+F:
+  German: Entstehung, Gemeinde, Urgemeinde, Ausgießung des Geistes
+  Latin: ecclesia primitiva
+  Greek: kerygma [proclamation], ekklēsia, kērygma, euangelion, paraklētos, pentēkostē, koinōnia, martyria
+
+Phr:
+  they were all filled with the Holy Ghost [Bible]

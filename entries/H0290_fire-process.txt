@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › γ. Chemical Process › b. Real Process (Combination) [Tetrad]
 G: Feuerprozess
 Gloss: Combustion; the chemical process in which a body is consumed by fire.
+HGloss: Combustion, the process of fire in which a body is kindled and consumed, burning to an oxide.
 
 N:
   fire-process; combustion, burning, oxidation, calcination, conflagration, ignition, deflagration, explosion, flame; phlogiston; incineration, cremation

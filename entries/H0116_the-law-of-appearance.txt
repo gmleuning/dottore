@@ -2,14 +2,15 @@
 # Logic › 2. Doctrine of Essence › II. Appearance › β. Appearance Proper
 G: Das Gesetz der Erscheinung
 Gloss: The stable pattern that remains the same through changing appearances; the law of a phenomenon.
+HGloss: The quiet image of appearance: what remains identical in the flux, the realm of laws.
 
 N:
   the law of appearance; law, natural law, law of nature, physical law, scientific law, regularity, uniformity, pattern, constancy, invariance, rule, principle, formula, equation; the stable in the unstable, the permanent in the changing; kingdom of laws, realm of laws
-  system, rule &c H0698
+  system, rule &c H0702
   symmetry
   order of things
   norm
-  golden rule &c H0698, settled principle
+  golden rule &c H0702, settled principle
   even tenor
   the law of the phenomenon, the abiding, the tranquil image of appearance
 

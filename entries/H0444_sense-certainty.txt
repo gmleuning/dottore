@@ -1,0 +1,32 @@
+# 444 Sense-Certainty (Sensuous Consciousness)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such
+G: Sinnliche Gewissheit
+Gloss: Awareness that takes its object as a bare "this, here, now," known directly through the senses; it claims the richest knowledge but can say the least.
+HGloss: The immediate certainty of a this, here and now, the richest knowledge in appearance and in truth the poorest.
+
+N:
+  sense-certainty; sensuous consciousness; immediate knowledge, raw experience, bare acquaintance, knowledge by acquaintance, the given, the myth of the given, sense data, the this, the here, the now, this-here-now, deixis, ostension, pointing, the indexical, the ineffable particular; haecceity
+  sensuous certainty, immediate knowing, the here and now, the meant
+
+V:
+  point, indicate, mean, intend, gesture at, sense, behold
+
+Adj:
+  immediate, sensuous, raw, unmediated, indexical, deictic, ostensive, ineffable, particular
+  obvious, palpable, plain to see, staring one in the face, as plain as the nose on one's face
+
+Adv:
+  here, now, this, immediately, at first hand
+  here and now
+  firsthand
+
+F:
+  German: sinnliches Bewusstsein, die sinnliche Gewißheit, das Diese, Meinen
+  Arabic: ḥissī [sensory]
+  Sanskrit: pratyakṣa [direct perception], nirvikalpa [non-conceptual perception]
+  Chinese: ganxing zhengque [sensory certainty]
+
+Phr:
+  now is night [Hegel]
+  the richest kind of knowledge, but in truth the most abstract and poorest [Hegel]
+  this, here, now

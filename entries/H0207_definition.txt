@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › III. Idea › β. The Idea of Cognition › a. The Idea of the True › ii. Synthetic Cognition
 G: Definition
 Gloss: A statement of what a thing is, giving its kind and its distinguishing mark.
+HGloss: The given object brought into the form of the concept: genus and specific difference.
 
 N:
   definition; genus and differentia; explanation, explication, description, specification, characterization, delimitation, determination, meaning, sense, gloss, denotation, connotation; nominal definition, real definition, ostensive definition, stipulative definition, operational definition, lexical definition; dictionary, lexicon, glossary

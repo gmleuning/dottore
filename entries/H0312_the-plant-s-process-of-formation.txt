@@ -2,6 +2,7 @@
 # Nature › 3. Organics › II. Plant Nature
 G: Gestaltungsprozess der Pflanze
 Gloss: The process by which a plant builds its own body.
+HGloss: The plant's process of self-formation, its outward going in which each member is a whole plant.
 
 N:
   the plant's process of formation; morphogenesis, growth, development, metamorphosis of plants, primal plant, organogenesis, differentiation

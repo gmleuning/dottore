@@ -2,6 +2,7 @@
 # Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › β. Time
 G: Vergangenheit
 Gloss: The time gone by.
+HGloss: The no-longer, the now that has been, the being of time as already gone over.
 
 N:
   past; bygone times, former times, yesteryear, yesterday, days of yore, olden days, the old days, antiquity, ancient times, history, the record, memory, recollection, tradition, heritage, the dead past; what has been
@@ -19,7 +20,7 @@ Adj:
   of long standing, time-honored, venerable, elder, eldest, firstborn
   pre- existing, pre-existent, aforementioned, before- mentioned, introductory &c H0222
   preceding, precedent, antecedent, anterior, prior &c H0222, foregoing, beforementioned†, abovementioned†, aforesaid, said, precursory, precursive†, prevenient†, preliminary, prefatory, introductory, prelusive, prelusory, proemial†, preparatory
-  perished, annihilated, exhausted, lost, vanished, departed, gone with the wind, defunct &c H0365
+  perished, annihilated, exhausted, lost, vanished, departed, gone with the wind, defunct &c H0369
   disregarded
 
 Adv:

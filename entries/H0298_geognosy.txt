@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism › α. History of the Earth
 G: Geognosie
 Gloss: The study of the composition of the earth's crust.
+HGloss: The knowledge of the earth's formations as a structure: primitive, stratified and alluvial rock.
 
 N:
   geognosy; geology, study of rocks, stratigraphy, petrology, petrography, lithology, mineralogy, crust, earth's crust, strata, formations, outcrops, deposits; Werner's geognosy

@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy) › a. Primitive Rocks
 G: Kalkartigkeit
 Gloss: The character of rocks rich in lime, such as limestone and chalk.
+HGloss: The calcareous moment, the earth of neutrality, limestone and chalk, which links to the organic.
 
 N:
   calcareousness; lime, limestone, chalk, marble, travertine, tufa, calcite, dolomite, coral, shell, gypsum, alabaster

@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › γ. The Becoming of Essence
 G: Indifferenz als umgekehrtes Verhältnis ihrer Faktoren
 Gloss: The underlying stuff seen as a balance of two factors that vary inversely, one gaining as the other loses.
+HGloss: Indifference determined as the inverse ratio of two factors, which are only through one another.
 
 N:
   indifference as inverse ratio of its factors; balance of factors, equilibrium, polarity, complementarity, compensation, conservation, zero-sum, constant sum, seesaw, scales, balance beam; preponderance, predominance; the two factors and their indifference

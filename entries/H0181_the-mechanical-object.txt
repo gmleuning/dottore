@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism
 G: Das mechanische Objekt
 Gloss: A thing complete in itself and related to others only from outside.
+HGloss: An object complete in itself, indifferent to its determinateness and combined with others only as an aggregate.
 
 N:
   the mechanical object; inert object, passive object, body, lump, mass, aggregate, heap, assemblage, unit, part, piece, cog, component, billiard ball; indifference, inertness, passivity, externality

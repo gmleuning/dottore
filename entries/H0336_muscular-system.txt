@@ -2,6 +2,7 @@
 # Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › ii. Blood System
 G: Muskelsystem
 Gloss: The muscles; the organs of movement.
+HGloss: The muscles, the irritability as contraction and expansion, the movement of the organism.
 
 N:
   muscular system; muscles, musculature, flesh, brawn, sinews, tendons, thews, contraction, tension, tone, strength

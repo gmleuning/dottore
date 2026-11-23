@@ -1,0 +1,29 @@
+# 507 Observation of Self-Consciousness in Its Purity and Its Relation to External Actuality (Logical and Psychological Laws)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad] › ii. Observing Reason
+G: Beobachtung des Selbstbewusstseins in seiner Reinheit und seiner Beziehung auf äußere Wirklichkeit; logische und psychologische Gesetze
+Gloss: The search for laws of thinking and of the mind, as in formal logic and psychology.
+HGloss: The search for laws of thought and psychological laws, which reason finds empty of real content.
+
+N:
+  observation of self-consciousness in its purity and its relation to external actuality, logical and psychological laws; formal logic, laws of thought, psychology, faculty psychology, associationism, empirical psychology, psychological laws, character types, influence of circumstances, environment and individual
+  logical laws, the faculties, the individual and its circumstances, environment
+
+V:
+  study the mind, classify faculties, explain behaviour
+  observe, formulate laws, catalogue faculties, correlate
+
+Adj:
+  psychological, logical, introspective, behavioural, environmental
+  formal, empirical
+
+Adv:
+  psychologically, logically
+  by law
+
+F:
+  Arabic: ʿilm al-nafs [psychology]
+  Chinese: xinlixue [psychology]
+  Japanese: shinrigaku
+
+Phr:
+  the proper study of mankind is man [Pope]

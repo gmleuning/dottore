@@ -2,14 +2,15 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself
 G: Grund
 Gloss: That from which a thing comes and in which it has its reason; basis, foundation, reason why.
+HGloss: Contradiction resolved: essence posited as the totality, the unity of identity and difference, from which existence comes forth.
 
 N:
   ground; reason, basis, foundation, groundwork, footing, bedrock, base, root, source, wellspring, fount, origin, principle, cornerstone, keystone, mainstay; reason why, justification, warrant, rationale, explanation, account, wherefore, the why and wherefore; premise, ground of proof, evidence &c; sufficient reason; abyss, groundlessness; going to the ground
   basement, foundation &c H0220, substructure, substratum
   terra firma, bearing, fulcrum, bait [U.S.], caudex crib†, purchase footing, hold, landing place, landing stage, stage, platform, block, rest, resting place, riprap, sustentation, subvention, floor &c H0220
   cause, element, occasioner†, prime mover, author &c H0137, agent, leaven
-  call, by end, by purpose, mainspring, the why and the wherefore, pro and con, secret motive, intention &c H0656
-  why and wherefore, occasion, derivation, final cause &c H0656, undercurrents
+  call, by end, by purpose, mainspring, the why and the wherefore, pro and con, secret motive, intention &c H0660
+  why and wherefore, occasion, derivation, final cause &c H0660, undercurrents
   support &c H0220
 
 V:

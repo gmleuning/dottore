@@ -1,0 +1,33 @@
+# 419 Self-Feeling
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul
+G: Selbstgefühl
+Gloss: The soul's feeling of itself as a self amid its feelings.
+HGloss: The feeling totality which distinguishes itself from its particular feelings and finds itself in them as subject.
+
+N:
+  self-feeling; self-awareness, self-sense, sense of self, inner sense of oneself, self-esteem, self-regard; inner unity, being-with-oneself
+  self-sentience, feeling of self, self-awareness in feeling, the self amid its feelings, sentient selfhood
+
+V:
+  feel oneself, sense oneself, be self-aware
+  be aware of oneself
+
+Adj:
+  self-aware, self-feeling, self-possessed, self-regarding
+  self-sentient
+
+Adv:
+  in oneself, inwardly
+  in self-feeling, feelingly
+
+F:
+  German: Selbstgefühl
+  Latin: conatus
+  French: amour-propre, amour de soi [Rousseau]
+  Arabic: wijdān al-dhāt
+  Sanskrit: ahaṃkāra [I-maker, ego-sense], asmitā [I-am-ness]
+  Chinese: zizunxin [self-esteem]
+  Japanese: jiko kankaku
+
+Phr:
+  I feel, therefore I am

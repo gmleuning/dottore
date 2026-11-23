@@ -1,0 +1,45 @@
+# 652 Justice
+# Spirit › 2. Objective Spirit › I. Abstract Right › γ. Wrong › c. Coercion and Crime › iii. Cancellation of Crime
+G: Gerechtigkeit
+Gloss: The right restored through the cancellation of wrong.
+HGloss: The restoration of right, the negation of the crime's negation.
+
+N:
+  justice; retribution, desert, just deserts, right, equity, fairness, due process, Nemesis, Themis, Justitia
+  fair play, impartiality, even-handedness
+  equitableness, propriety, measure for measure, give and take
+  penalty &c H0654, requital &c H0640, retributive justice
+  what ought to be, what should be, fitness
+  restoration of right, righting of wrong, vindication
+
+V:
+  do justice, render justice, requite, give one's due
+  recompense, repay, make amends
+  restore right, vindicate
+
+Adj:
+  just, fair, equitable, rightful, retributive, deserved, merited
+  evenhanded
+  good, reasonable, fit &c H0620, equal, equable, equatable†
+  due to, condign, richly deserved
+  equitable &c H0620, due
+  unprejudiced, unbiased, impartial
+  legitimate, justifiable, as it should be, as it ought to be, lawful &c H0705
+  compensatory
+  vindicatory
+
+Adv:
+  justly, fairly, deservedly, with justice
+  by right
+
+F:
+  Latin: iustitia, lex talionis, summum jus
+  Greek: dikē
+  Arabic: ʿadl [justice], qiṣāṣ [retaliation in kind], inṣāf [equity]
+  Sanskrit: nyāya [justice], daṇḍa [rod, punishment]
+  Chinese: zhengyi [justice]
+  Japanese: seigi
+
+Phr:
+  fiat iustitia, ruat caelum [Lat.] [let justice be done though the heavens fall]
+  an eye for an eye [Bible]

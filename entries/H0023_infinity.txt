@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being
 G: Unendlichkeit
 Gloss: That which is not limited by anything outside it; boundlessness.
+HGloss: The negation of the negation: the finite's own going-beyond itself, which first appears as the infinite set over against it.
 
 N:
   infinity, infinitude, the infinite; boundlessness, limitlessness, endlessness, illimitability, immeasurability, immensity, vastness, unboundedness, eternity &c; the unbounded, the unlimited, the endless; absolute, perfection, plenitude

@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment [Tetrad] › a. Judgment of Existence (Qualitative Judgment)
 G: Positives Urteil
 Gloss: A judgment that affirms a quality of a thing, as "the rose is red."
+HGloss: The singular is a universal: the rose is red; the subject is not wholly its predicate, so the judgment is untrue.
 
 N:
   positive judgment; affirmation, affirmative judgment, assertion, positive statement, yes, aye, yea, avowal, averment, declaration
@@ -12,8 +13,8 @@ N:
 V:
   affirm, assert, aver, avow, declare, state, maintain, posit, predicate, say yes, attest, certify
   make an assertion, have one's say, say, protest, profess
-  confirm, ratify, corroborate &c H0699
-  acknowledge, own, admit, allow, concede &c H0622
+  confirm, ratify, corroborate &c H0703
+  acknowledge, own, admit, allow, concede &c H0626
   avouch, asseverate
 
 Adj:

@@ -2,6 +2,7 @@
 # Nature › 2. Physics › II. Physics of Particular Individuality [Tetrad] › β. Cohesion › b. Coherence
 G: Qualitative Kohärenz
 Gloss: Cohesion as a felt quality of a body: hardness, softness, brittleness, toughness, malleability.
+HGloss: Coherence as the inner quality of a body: hard, soft, brittle, ductile, malleable.
 
 N:
   qualitative coherence; hardness, softness, brittleness, toughness, ductility, malleability, plasticity, flexibility, pliability, elasticity, rigidity, friability, frangibility, tenacity, temper; texture, consistency
@@ -14,10 +15,10 @@ N:
   nib, tooth, tusk, spoke, cog, ratchet
   crag, crest, cone peak, sugar loaf, pike, aiguille†, spire, pyramid, steeple
   beard, porcupine, hedgehog, brier, bramble, thistle, comb, awn, beggar's lice, bur, burr, catchweed†, cleavers, clivers†, goose, grass, hairif†, hariff, flax comb, hackle, hatchel†, heckle
-  wedge, knife edge, cutting edge, blade, edge tool, cutlery, knife, penknife, whittle, razor, razor blade, safety razor, straight razor, electric razor, scalpel, bistoury†, lancet, plowshare, coulter, colter†, hatchet, ax, pickax, mattock, pick, adze, gill, billhook, cleaver, cutter, scythe, sickle, scissors, shears, pruning shears, cutters, wire cutters, nail clipper, paper cutter, sword &c H0714, bodkin &c H0267, belduque†, bowie knife†, paring knife, bushwhacker [U.S.], drawing knife, drawing shave, microtome [Micro.], chisel, screwdriver blade, flint blade, guillotine
+  wedge, knife edge, cutting edge, blade, edge tool, cutlery, knife, penknife, whittle, razor, razor blade, safety razor, straight razor, electric razor, scalpel, bistoury†, lancet, plowshare, coulter, colter†, hatchet, ax, pickax, mattock, pick, adze, gill, billhook, cleaver, cutter, scythe, sickle, scissors, shears, pruning shears, cutters, wire cutters, nail clipper, paper cutter, sword &c H0718, bodkin &c H0267, belduque†, bowie knife†, paring knife, bushwhacker [U.S.], drawing knife, drawing shave, microtome [Micro.], chisel, screwdriver blade, flint blade, guillotine
   sharpener, hone, strop, grindstone, whetstone, novaculite†, steel, emery
   bluntness
-  roughness, grain, ripple, asperity, rugosity†, salebrosity†, corrugation, nodosity†, arborescence† &c H0751, pilosity†
+  roughness, grain, ripple, asperity, rugosity†, salebrosity†, corrugation, nodosity†, arborescence† &c H0755, pilosity†
   brush, hair, shag, mane, whisker, moustache, imperial, tress, lock, curl, ringlet, fimbriae, pili, cilia, villi, lovelock, beaucatcher†, curl paper, goatee, papillote, scalp lock
   plumage, plumosity†, plume, panache, feather, tuft, fringe, toupee
   wool, velvet, plush, nap, pile, floss, fur, down, byssus†, moss, fluff
@@ -45,7 +46,7 @@ Adj:
   acinaciform, apiculate†, apiculated†, aristate†, awned, awny†, bearded, calamiform†, cone-shaped, coniform†, crestate†, echinate†, gladiate†, lanceolate†, lanciform, awl, awl-shaped, lance-shaped, awl- shaped, scimitar-shaped, sword-shaped, setarious†, spinuliferous†, subulate†, tetrahedral, xiphoid†
   cutting, sharp edged, knife edged, sharp as a razor, keen as a razor, sharp as a needle, sharp as a tack, sharpened
   blunt, obtuse, dull, bluff, edentate, toothless
-  rough, uneven, scabrous, scaly, knotted, rugged, rugose†, rugous†, knurly†, asperous†, salebrous†, gnarled, unpolished, unsmooth†, roughhewn†, craggy, cragged, crankling†, scraggy, prickly &c H0267, arborescent &c H0751 [Obs.], leafy, well-wooded, feathery, plumose, plumigerous†, laciniate†, laciniform†, laciniose†, pappose†, pileous†, pilose†, trichogenous†, trichoid [Med.], tufted, fimbriated, hairy, ciliated, filamentous, hirsute, crinose†, crinite†, bushy, hispid, villous, pappous†, pilous†, shaggy, shagged, fringed, befringed†, setous†, setose†, setaceous, like quills upon the fretful porcupine [Hamlet], rough as a nutmeg grater, rough as a bear
+  rough, uneven, scabrous, scaly, knotted, rugged, rugose†, rugous†, knurly†, asperous†, salebrous†, gnarled, unpolished, unsmooth†, roughhewn†, craggy, cragged, crankling†, scraggy, prickly &c H0267, arborescent &c H0755 [Obs.], leafy, well-wooded, feathery, plumose, plumigerous†, laciniate†, laciniform†, laciniose†, pappose†, pileous†, pilose†, trichogenous†, trichoid [Med.], tufted, fimbriated, hairy, ciliated, filamentous, hirsute, crinose†, crinite†, bushy, hispid, villous, pappous†, pilous†, shaggy, shagged, fringed, befringed†, setous†, setose†, setaceous, like quills upon the fretful porcupine [Hamlet], rough as a nutmeg grater, rough as a bear
   downy, velvety, flocculent, woolly, lanate†, lanated†, lanuginous†, lanuginose†, tomentose†, fluffy
   decorated, haired, curly, crispy, hilly, jagged
 

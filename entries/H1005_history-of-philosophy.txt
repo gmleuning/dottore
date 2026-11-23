@@ -1,0 +1,34 @@
+# 1005 History of Philosophy [Tetrad]
+# Spirit › 3. Absolute Spirit › III. Philosophy
+G: Geschichte der Philosophie
+Gloss: The course of philosophy in time, read as a single development in which each system takes up and corrects those before it.
+HGloss: The history of philosophy as the development of the one philosophy, each system a stage of the idea.
+
+N:
+  history of philosophy; the history of philosophy, doxography, the succession of systems, the gallery of heroes of thought
+  philosophical history, history of thought, history of ideas, intellectual history, historiography of philosophy, the philosophical tradition, the tradition, the canon, the perennial philosophy, lives and opinions, the opinions of the philosophers
+  the development of thought, the progress of philosophy, the course of thought, the march of mind, the self-development of the Idea in time, philosophy in time, the series of systems, the sequence of principles, the chain of thinkers, the procession of spirits, the schools, the sects, the systems, the epochs, the periods, the ancients and the moderns
+  refutation, supersession, sublation of principles, inheritance, heirloom, legacy, the owl of Minerva, one philosophy in many, the latest philosophy as the richest
+
+V:
+  trace, recount, survey
+  historicize, chronicle, narrate, relate, record, review, retrace, follow, periodize, expound, take up, inherit, receive, hand down, transmit, supersede, refute, correct, preserve, recapitulate, recollect, develop
+
+Adj:
+  historical, doxographic, perennial
+  historiographical, developmental, successive, sequential, progressive, cumulative, chronological, diachronic, genetic, traditional, inherited, epochal, periodic
+
+Adv:
+  historically
+  in time, in succession, successively, chronologically, in sequence, developmentally, progressively, through the ages, down the ages, from age to age, epoch by epoch, system by system
+
+F:
+  German: Geschichte der Philosophie, Philosophiegeschichte, Galerie der Heroen der denkenden Vernunft
+  Latin: philosophia perennis, placita philosophorum, historia philosophica
+  Arabic: tārīkh al-falsafa
+  Chinese: zhexue shi
+  Japanese: tetsugakushi
+
+Phr:
+  the study of the history of Philosophy is the study of Philosophy itself [Hegel, Lectures on the History of Philosophy, tr. Haldane]
+  a gallery of heroes of thought [Hegel]

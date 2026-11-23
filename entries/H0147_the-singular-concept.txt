@@ -2,6 +2,7 @@
 # Logic › 3. Doctrine of the Concept › I. Subjectivity › α. The Concept as Such
 G: Der einzelne Begriff
 Gloss: A general idea realized in a single instance, as this particular dog.
+HGloss: The concept returned into itself from its difference: the determinate universal, the subject.
 
 N:
   the singular concept; singular, singularity, individual, individuality, the individual, this one, this-here, haecceity, thisness, ipseity, uniqueness, instance, specimen, exemplar, token, case, example; the concrete individual, concrete universal; person, self, subject

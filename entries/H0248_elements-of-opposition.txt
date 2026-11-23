@@ -2,6 +2,7 @@
 # Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements
 G: Elemente des Gegensatzes
 Gloss: The two contrasting elements: fire, which is restless and consuming, and water, which is neutral and passive.
+HGloss: The elements of opposition: fire, the being-for-self that consumes, and water, the neutral and passive.
 
 N:
   elements of opposition; fire and water, the active elements, the opposed elements; antagonism of the elements, strife of elements; hot and cold, dry and wet

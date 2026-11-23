@@ -2,6 +2,7 @@
 # Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › α. Shine (Illusory Being) › c. Reflection
 G: Setzende Reflexion
 Gloss: Reflection that itself sets up what it seems merely to find: the immediate starting point is posited, that is, set up, by the very movement that returns from it.
+HGloss: Reflection that posits what it presupposes, the immediate as only a returning.
 
 N:
   positing reflection; positing, posit, postulation, postulate, assumption, supposition, presupposition, hypothesis, stipulation, premise; self-positing, self-production, self-presupposing; projection, construction, constitution, social construction; performativity, performative, self-fulfilling prophecy; bootstrapping, circularity, retroactivity; the posited, positedness

@@ -2,6 +2,7 @@
 # Logic › 1. Doctrine of Being › III. Measure › γ. The Becoming of Essence
 G: Absolute Indifferenz
 Gloss: A single underlying stuff that remains the same while its qualities and amounts change.
+HGloss: The substrate become indifferent to all determinations of quality and quantity, which are now only states of it.
 
 N:
   absolute indifference; indifference, neutrality, undifferentiatedness, sameness, identity, substrate, substratum, underlying substance, prime matter; the absolute as indifference of subject and object; night in which all cows are black; equanimity, indifference to all distinction; hundun; neutral monism

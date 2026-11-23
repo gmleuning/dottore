@@ -2,6 +2,7 @@
 # Nature › 3. Organics › I. Terrestrial Organism
 G: Geschichte der Erde
 Gloss: The earth as having undergone a formative history.
+HGloss: The earth as the result of a past process of formation, whose stages are now only lying side by side.
 
 N:
   history of the earth; geological history, earth history, deep time, geological time, aeons, eras, epochs, periods, ages; geogony, geogeny, cosmogony; revolutions of the globe, catastrophes, deluge, flood; Neptunism, Vulcanism, Plutonism, catastrophism, uniformitarianism

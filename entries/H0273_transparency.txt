@@ -2,6 +2,7 @@
 # Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light
 G: Durchsichtigkeit
 Gloss: The capacity of a body to let light pass through it; clearness.
+HGloss: The body as the abstract identity of individuality with itself, transparent to light, like the crystal.
 
 N:
   transparency, perspicuity, pellucidity, diaphaneity, translucence, translucency, clearness, clarity, limpidity, lucidity, glassiness, crystallinity, see-through; the diaphanous

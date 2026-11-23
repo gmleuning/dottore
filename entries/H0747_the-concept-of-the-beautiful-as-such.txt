@@ -1,0 +1,47 @@
+# 747 The Concept of the Beautiful as Such
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty
+G: Der Begriff des Schönen überhaupt
+Gloss: The beautiful considered in its general nature.
+HGloss: The beautiful in its concept: the sensuous shining of the idea, free and infinite, which is not to be grasped by the understanding.
+
+N:
+  the concept of the beautiful as such; beauty, loveliness, comeliness, pulchritude, fairness, grace, elegance, splendour, harmony, perfection, aesthetic value, the sensuous shining of the idea
+  form, beauty unadorned, natural beauty, symmetry &c H0755, gloss, good effect, good looks, belle tournure†, trigness†, brilliancy, radiance, splendor, gorgeousness, magnificence, sublimity, sublimification†
+  the beautiful, le beau ideal
+  taste, refinement
+  gracefulness, concinnity†
+  the beautiful as such, the nature of beauty, the essence of beauty, the notion of beauty
+
+V:
+  beautify, adorn, grace, embellish, enchant, please
+  render beautiful, polish, burnish, gild &c H0768, set out
+  be beautiful, shine, beam, bloom, become one &c H0087, set off
+  charm, captivate
+  conceive, define, comprehend, determine
+
+Adj:
+  beautiful, lovely, comely, fair, graceful, elegant, exquisite, sublime, pulchritudinous
+  beauteous, handsome, gorgeous, pretty, prepossessing, attractive &c H0615, delicate, dainty, refined, personable, seemly, bonny [Scot.], good-looking, well-favored, well-made, well-formed, well- proportioned, proper, shapely, symmetrical &c H0755, harmonious &c H0275, sightly
+  charming, delightful
+  rich, superb, magnificent, grand, fine, showy, specious
+  aesthetic, conceptual, general
+  bonnie
+
+Adv:
+  beautifully, exquisitely, gracefully
+  as such, in general, in its concept
+  delicately
+
+F:
+  German: das Schöne, das sinnliche Scheinen der Idee
+  Latin: pulchritudo
+  Greek: to kalon
+  Arabic: jamāl, ḥusn
+  Sanskrit: saundarya, rasa [aesthetic flavour]
+  Chinese: mei [beauty]
+  Japanese: bi, yūgen [profound grace]
+
+Phr:
+  beauty is truth, truth beauty [Keats]
+  the beautiful is the sensuous shining of the idea [Hegel]
+  beauty is in the eye of the beholder
