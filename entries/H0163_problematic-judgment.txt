@@ -44,6 +44,7 @@ F:
   French: vraisemblance
   Italian: ben trovato
   Arabic: ẓann [conjecture, opinion]
+  Korean: gaeyeon pandan [problematic judgment]
 
 Phr:
   it may be good, it may not be

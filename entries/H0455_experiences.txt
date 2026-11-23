@@ -27,6 +27,7 @@ F:
   Sanskrit: anubhava [experience]
   Chinese: jingyan [experience]
   Japanese: keiken
+  Korean: gyeongheom [experiences]
 
 Phr:
   experience is the teacher of all things, experientia docet [Lat.]

@@ -41,6 +41,7 @@ F:
   Sanskrit: ābhāsa, rūpa
   Chinese: xianxiang [phenomenon]
   Japanese: genshō
+  Korean: hyeonsang [appearance]
 
 Phr:
   save the appearances, sōzein ta phainomena [Gr.]

@@ -39,6 +39,7 @@ F:
   Sanskrit: mṛtyu [death], maraṇa, nirvāṇa [extinction]
   Chinese: si [death]
   Japanese: shi
+  Korean: gaecheui jugeum [death]
 
 Phr:
   death is the debt we all must pay

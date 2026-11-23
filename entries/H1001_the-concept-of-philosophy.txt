@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: die drei Schlüsse
+  Korean: churon [syllogism], samdannonbeop [syllogism]
 
 Phr:
   a circle of circles [Hegel]

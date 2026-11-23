@@ -33,6 +33,7 @@ Adv:
 
 F:
   German: Zusammenhalt
+  Korean: gyeolsok [coherence]
 
 Phr:
   a chain is no stronger than its weakest link

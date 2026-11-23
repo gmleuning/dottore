@@ -36,6 +36,7 @@ F:
   Sanskrit: śūnyatā [emptiness], śūnya
   Chinese: wu [nonbeing, nothing]
   Japanese: mu
+  Korean: mu [nothing], heomu [nothingness]
 
 Phr:
   ex nihilo nihil fit [Lat.] [proverbial]

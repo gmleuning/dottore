@@ -40,6 +40,7 @@ Adv:
 F:
   Latin: summum bonum, sine cura, canis in praesepi, alieni appetens sui profusus
   French: sans souci, amour propre
+  Korean: jagi manjokgwa bokji
 
 Phr:
   the right of the subject's particularity to find satisfaction [Hegel]

@@ -35,6 +35,7 @@ F:
   Sanskrit: aham [I], ātman, ahaṃkāra [ego]
   Chinese: wo [I, self], ziwo [ego]
   Japanese: jiga
+  Korean: na [the I], jaa [ego]
 
 Phr:
   cogito, ergo sum [Lat.] [Descartes]

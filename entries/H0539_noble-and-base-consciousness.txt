@@ -34,6 +34,7 @@ F:
   French: noblesse oblige
   Arabic: nabāla [nobility], karam [generosity], khissa [baseness]
   Chinese: junzi [noble person] and xiaoren [petty person]
+  Korean: gogwihan uisikgwa bicheonhan uisik
 
 Phr:
   noblesse oblige [Fr.]

@@ -34,6 +34,7 @@ F:
   Sanskrit: viyoga [separation]
   Chinese: fenli [separation]
   Japanese: bunri
+  Korean: bulli [separation], bunhae
 
 Phr:
   separate the wheat from the chaff

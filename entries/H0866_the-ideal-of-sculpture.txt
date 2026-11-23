@@ -22,6 +22,7 @@ Adv:
 
 F:
   Greek: kanōn
+  Korean: isangjeok inche [ideal human figure]
 
 Phr:
   the Canon of Polyclitus

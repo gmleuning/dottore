@@ -35,6 +35,7 @@ F:
   Arabic: ḥaqīqa
   Sanskrit: satya
   Chinese: qiu zhen [seeking truth]
+  Korean: chamui inyeom [idea of the true]
 
 Phr:
   veritas liberabit vos [Lat.] [Bible]

@@ -35,6 +35,7 @@ F:
   Arabic: muqāyaḍa [barter]
   Chinese: wuwu jiaohuan [barter]
   Japanese: butsubutsu kōkan
+  Korean: mulmul gyohwan [barter]
 
 Phr:
   the propensity to truck, barter, and exchange [Adam Smith]

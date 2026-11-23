@@ -22,6 +22,7 @@ Adv:
 
 F:
   Arabic: mukāshafāt [unveilings]
+  Korean: jagi sangtaeui naeyong
 
 Phr:
   what the trance reveals

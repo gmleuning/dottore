@@ -33,6 +33,7 @@ F:
   Sanskrit: rasāyana
   Chinese: huaxue fanying [chemical reaction]
   Japanese: kagaku hannō
+  Korean: hwahak gwajeong [chemical process]
 
 Phr:
   solve et coagula [Lat.]

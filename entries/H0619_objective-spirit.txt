@@ -28,6 +28,7 @@ F:
   Sanskrit: dharma [social order]
   Chinese: keguan jingshen [objective spirit]
   Japanese: kyakkanteki seishin
+  Korean: gaekgwanjeok jeongsin [objective spirit]
 
 Phr:
   the system of right is the realm of freedom made actual [Hegel]

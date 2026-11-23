@@ -46,6 +46,7 @@ F:
   French: grand mal, petit mal, un sot a triple etage, qui n'a pas invente' la poudre
   Arabic: ṣarʿ [epilepsy]
   Sanskrit: apasmāra [epilepsy]
+  Korean: baekchi [imbecility], ganjil [epilepsy]
 
 Phr:
   the falling sickness [Julius Caesar]

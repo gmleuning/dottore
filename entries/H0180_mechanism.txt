@@ -29,6 +29,7 @@ F:
   Sanskrit: yantra [machine, device]
   Chinese: jixie [mechanism]
   Japanese: kikai
+  Korean: gigyeron [mechanism]
 
 Phr:
   l'homme machine [Fr.] [La Mettrie]

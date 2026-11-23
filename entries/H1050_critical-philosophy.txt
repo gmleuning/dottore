@@ -24,6 +24,7 @@ F:
   German: Deutscher Idealismus, Naturphilosophie, Kritizismus, Kritik, Transzendentalphilosophie
   Arabic: al-mithāliyya al-almāniyya [German idealism]
   Chinese: deguo guannianlun
+  Korean: bipan cheolhak [critical philosophy], Dogil gwannyeomnon [German idealism]
 
 Phr:
   es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt [Ger.] [Kant, Critique of Pure Reason Bxvi]

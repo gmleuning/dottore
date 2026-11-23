@@ -18,6 +18,7 @@ Adv:
 
 F:
   Latin: tabula rasa, a posteriori
+  Korean: gyeongheomnon [empiricism]
 
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]

@@ -28,6 +28,7 @@ F:
   Latin: principia, principium identitatis, principium contradictionis, tertium non datur, principium exclusi tertii, principium rationis sufficientis, nihil est sine ratione
   Greek: archai
   Arabic: uṣūl [principles], badīhiyyāt [self-evident truths]
+  Korean: banseong gyujeong
 
 Phr:
   A is A

@@ -20,5 +20,8 @@ Adv:
   as a whole
   wholly, entirely, as a totality, organically
 
+F:
+  Korean: saphwa [episode]
+
 Phr:
   beginning, middle, and end [Aristotle]

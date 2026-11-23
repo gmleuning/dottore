@@ -20,5 +20,8 @@ Adv:
   half building, half statue
   sculpturally, monumentally, in the mass
 
+F:
+  Korean: jogakjeok geonchuk [sculptural architecture]
+
 Phr:
   the colossi of Memnon

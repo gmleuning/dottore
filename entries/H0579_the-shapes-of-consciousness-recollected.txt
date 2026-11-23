@@ -27,6 +27,7 @@ Adv:
 F:
   German: Er-innerung [inwardizing], Galerie von Bildern
   Greek: anamnēsis
+  Korean: uisigui hyeongtaedeul hoesang
 
 Phr:
   a gallery of images, each endowed with the entire wealth of spirit [Hegel]

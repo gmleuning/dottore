@@ -36,6 +36,7 @@ F:
   Sanskrit: alaṃkāra [figure of speech], dhvani [suggestion]
   Chinese: xiangzheng [symbol], biyu [metaphor]
   Japanese: shōchō
+  Korean: sangjing [symbol], uiyu [allegory], sijeok sangsangnyeok
 
 Phr:
   all that is transitory is but a likeness, alles Vergängliche ist nur ein Gleichnis [Ger.] [Goethe]

@@ -27,6 +27,7 @@ F:
   Sanskrit: svabhāva
   Chinese: benneng [instinct]
   Japanese: honnō
+  Korean: hyeongseong chungdong [formative drive]
 
 Phr:
   go to the ant, thou sluggard

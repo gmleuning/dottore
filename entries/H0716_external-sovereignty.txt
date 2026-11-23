@@ -24,6 +24,7 @@ F:
   Arabic: istiqlāl [independence], siyāda [sovereignty]
   Chinese: zhuquan [sovereignty]
   Japanese: shuken
+  Korean: daeoe jugwon [external sovereignty]
 
 Phr:
   the first freedom of a people

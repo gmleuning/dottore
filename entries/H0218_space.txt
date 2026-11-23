@@ -82,6 +82,7 @@ F:
   Sanskrit: ākāśa [space, ether], dik [direction, space]
   Chinese: kongjian [space]
   Japanese: kūkan, ma [interval, spatial pause]
+  Korean: gonggan [space]
 
 Phr:
   the eternal silence of these infinite spaces terrifies me, le silence éternel de ces espaces infinis m'effraie [Fr.] [Pascal]

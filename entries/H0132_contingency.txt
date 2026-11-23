@@ -40,6 +40,7 @@ F:
   Sanskrit: yadṛcchā [chance]
   Chinese: ouran [chance]
   Japanese: gūzen
+  Korean: uyeonseong [contingency], ganeungseong [possibility]
 
 Phr:
   alea iacta est [Lat.]

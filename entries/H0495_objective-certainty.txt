@@ -26,6 +26,7 @@ Adv:
 
 F:
   Arabic: yaqīn mawḍūʿī
+  Korean: gaekgwanjeok hwaksilseong
 
 Phr:
   the proof of the pudding is in the eating

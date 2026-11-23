@@ -22,5 +22,8 @@ Adv:
   monumentally
   symbolically, in itself
 
+F:
+  Korean: sangjingjeok geonchuk [symbolic architecture]
+
 Phr:
   let us build us a city and a tower, whose top may reach unto heaven [Bible]

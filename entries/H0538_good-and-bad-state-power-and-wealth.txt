@@ -33,6 +33,7 @@ F:
   Arabic: sulṭa [authority], tharwa [wealth]
   Sanskrit: artha [wealth, power]
   Chinese: quanli [power], caifu [wealth]
+  Korean: gukka gwollyeokgwa bu [state power and wealth]
 
 Phr:
   money makes the world go round

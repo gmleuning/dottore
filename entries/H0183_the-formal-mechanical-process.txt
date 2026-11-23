@@ -21,5 +21,8 @@ Adv:
   by transmission, by contagion, by osmosis
   by communication, formally
 
+F:
+  Korean: hyeongsikjeok gigyejeok gwajeong
+
 Phr:
   a rolling stone gathers no moss

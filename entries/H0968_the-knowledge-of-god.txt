@@ -27,6 +27,7 @@ F:
   Greek: gnōsis theou, theognōsia, theōria
   Arabic: maʿrifat Allāh [knowledge of God], maʿrifa
   Sanskrit: brahmajñāna [knowledge of Brahman], brahmavidyā, jñāna
+  Korean: sin insik [knowledge of God]
 
 Phr:
   fides quaerens intellectum [Lat.] [faith seeking understanding] [Anselm]

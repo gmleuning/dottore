@@ -34,6 +34,7 @@ Adv:
 F:
   Latin: mens, quo animo
   French: arriere pensee
+  Korean: uidoui gwolli [right of intention]
 
 Phr:
   it's the thought that counts

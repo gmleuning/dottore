@@ -26,5 +26,8 @@ Adv:
   in stone, in timber
   in wood
 
+F:
+  Korean: mokjo [timber construction], seokjo [stone construction]
+
 Phr:
   the stone remembers the wood

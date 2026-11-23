@@ -25,6 +25,9 @@ Adv:
   poetically, prosaically
   in verse, by contrast
 
+F:
+  Korean: sanmun [prose], unmun [verse]
+
 Phr:
   prose is words in their best order
   poetry the best words in the best order [Coleridge]

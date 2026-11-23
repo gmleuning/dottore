@@ -23,6 +23,7 @@ Adv:
 F:
   German: Religion der Phantasie, Substantialität
   Sanskrit: sanātana dharma, the Trimūrti [Brahmā, Viṣṇu, Śiva], saṃsāra, mokṣa [liberation], brahman, ātman, avatāra, māyā, tapas, varṇa, bhakti, pūjā, yajña, oṃ, deva, līlā, tat tvam asi
+  Korean: Hindugyo [Hinduism], Beurahman [Brahman]
 
 Phr:
   tat tvam asi [Skt.] [thou art that] [Chandogya Upanishad]

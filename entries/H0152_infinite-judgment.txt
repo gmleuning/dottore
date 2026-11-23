@@ -25,6 +25,7 @@ Adv:
 
 F:
   Latin: iudicium infinitum, non sequitur, reductio ad absurdum, toto caelo
+  Korean: muhan pandan [infinite judgment]
 
 Phr:
   the mind is not an elephant

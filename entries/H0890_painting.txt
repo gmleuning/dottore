@@ -41,6 +41,7 @@ F:
   Sanskrit: citra [painting]
   Chinese: huihua [painting], guohua [Chinese painting]
   Japanese: kaiga, sumi-e [ink painting]
+  Korean: hoehwa [painting], geurim [picture]
 
 Phr:
   ut pictura poesis [Lat.] [Horace]

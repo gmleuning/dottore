@@ -43,6 +43,7 @@ F:
   Sanskrit: sthāna [place, station]
   Chinese: difang [place]
   Japanese: basho [place, topos, Nishida's logic of place]
+  Korean: jangso [place]
 
 Phr:
   a place for everything and everything in its place

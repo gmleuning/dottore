@@ -61,6 +61,7 @@ F:
   Sanskrit: sabhā, samiti [assembly]
   Chinese: lifa quan [legislative power]
   Japanese: gikai [parliament], The Nikkei
+  Korean: ipbeopgwon [legislative power]
 
 Phr:
   the mother of parliaments

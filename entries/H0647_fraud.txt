@@ -51,6 +51,7 @@ F:
   Sanskrit: vañcanā [fraud]
   Chinese: qizha [fraud]
   Japanese: sagi
+  Korean: sagi [fraud]
 
 Phr:
   mundus vult decipi [Lat.] [the world wants to be deceived]

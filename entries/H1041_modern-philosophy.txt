@@ -24,6 +24,7 @@ F:
   Arabic: al-falsafa al-ḥadītha
   Chinese: jindai zhexue
   Japanese: kindai tetsugaku
+  Korean: geundae cheolhak [modern philosophy]
 
 Phr:
   hier, können wir sagen, sind wir zu Hause [Ger.] [Hegel, Lectures on the History of Philosophy, on Descartes]

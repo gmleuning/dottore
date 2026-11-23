@@ -22,5 +22,8 @@ Adv:
   by kind
   variously, severally, in kind
 
+F:
+  Korean: jogagui jongnyu [kinds of sculpture]
+
 Phr:
   in the round and in relief

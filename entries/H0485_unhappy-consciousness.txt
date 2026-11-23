@@ -41,6 +41,7 @@ F:
   Arabic: ḥuzn [sorrow], shawq [longing]
   Sanskrit: viraha [longing of separation]
   Chinese: buxing yishi [unhappy consciousness]
+  Korean: bulhaenghan uisik [unhappy consciousness]
 
 Phr:
   the dark night of the soul [John of the Cross]

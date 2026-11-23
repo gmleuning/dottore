@@ -20,5 +20,8 @@ Adv:
   purposefully
   in general, regularly, symmetrically, harmoniously
 
+F:
+  Korean: gojeon yangsik [classical style]
+
 Phr:
   beauty in service

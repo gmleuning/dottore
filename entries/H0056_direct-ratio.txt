@@ -22,6 +22,7 @@ Adv:
 
 F:
   Latin: pari passu
+  Korean: jeongbirye [direct ratio]
 
 Phr:
   pari passu [Lat.]

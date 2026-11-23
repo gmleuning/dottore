@@ -38,6 +38,7 @@ F:
   Arabic: ṣadma [impact, shock]
   Sanskrit: abhighāta [impact]
   Chinese: chongji [impact]
+  Korean: chungdol [impact]
 
 Phr:
   the irresistible force meets the immovable object

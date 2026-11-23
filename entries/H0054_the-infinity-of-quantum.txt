@@ -21,5 +21,8 @@ Adv:
   in the limit, relatively, proportionally
   infinitely, relationally
 
+F:
+  Korean: yangjeok bi [quantitative ratio]
+
 Phr:
   the infinitely small is not nothing

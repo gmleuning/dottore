@@ -31,6 +31,7 @@ F:
   Latin: donatio, gratis
   Arabic: hiba [gift]
   Sanskrit: dāna
+  Korean: jeungyeo gyeyak [contract of gift]
 
 Phr:
   freely ye have received, freely give [Bible]

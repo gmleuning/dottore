@@ -33,6 +33,7 @@ F:
   Sanskrit: dāyabhāga [partition of inheritance]
   Chinese: jicheng [inheritance]
   Japanese: sōzoku
+  Korean: sangsokgwon [inheritance]
 
 Phr:
   hereditas numquam ascendit [Lat.]

@@ -40,6 +40,7 @@ F:
   Sanskrit: chāṭu [flattery]
   Chinese: chanmei [flattery]
   Japanese: tsuishō
+  Korean: acheom [flattery]
 
 Phr:
   the heroism of flattery [Hegel]

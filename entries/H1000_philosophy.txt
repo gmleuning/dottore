@@ -35,6 +35,7 @@ F:
   Sanskrit: darśana [viewpoint, philosophy], ānvīkṣikī [inquiry]
   Chinese: zhexue [philosophy]
   Japanese: tetsugaku
+  Korean: cheolhak [philosophy]
 
 Phr:
   the owl of Minerva spreads its wings only with the falling of the dusk [Hegel]

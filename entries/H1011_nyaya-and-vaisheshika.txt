@@ -24,6 +24,7 @@ Adv:
 
 F:
   Sanskrit: Nyāya and Vaiśeṣika, pramāṇa [perception, inference, comparison, testimony], paramāṇu [atom], padārtha, pratyakṣa, anumāna, upamāna, śabda, dravya, guṇa, karman, sāmānya, viśeṣa, samavāya, abhāva, tarka, vyāpti, hetu, adṛṣṭa, ānvīkṣikī, vāda
+  Korean: Niyaya [Nyaya], Baisyesika [Vaisheshika]
 
 Phr:
   where there is smoke there is fire [the Nyāya example]

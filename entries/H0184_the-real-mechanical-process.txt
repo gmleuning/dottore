@@ -32,6 +32,7 @@ Adv:
 F:
   German: Gewalt, Schicksal
   Latin: vi et armis
+  Korean: silsangjeok gigyejeok gwajeong
 
 Phr:
   might is right

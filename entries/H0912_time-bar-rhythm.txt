@@ -37,6 +37,7 @@ F:
   Sanskrit: tāla [rhythmic cycle], laya [tempo]
   Chinese: jiezou [rhythm]
   Japanese: hyōshi, ma [interval]
+  Korean: bakja [beat], madi [bar], rideum [rhythm]
 
 Phr:
   in the beginning was rhythm [attrib. Hans von Bülow]

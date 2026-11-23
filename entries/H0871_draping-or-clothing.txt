@@ -36,6 +36,7 @@ Adv:
 
 F:
   Greek: chiton, himation, peplos
+  Korean: otjureum [folds of drapery], hwijang [drapery]
 
 Phr:
   the folds of the chiton

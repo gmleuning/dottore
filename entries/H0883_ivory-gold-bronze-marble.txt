@@ -22,6 +22,7 @@ Adv:
 
 F:
   French: cire perdue
+  Korean: sanga [ivory], cheongdong [bronze], daeriseok [marble]
 
 Phr:
   aere perennius [Lat.] [more lasting than bronze] [Horace]

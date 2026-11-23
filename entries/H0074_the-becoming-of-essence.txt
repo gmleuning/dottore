@@ -24,6 +24,7 @@ Adv:
 F:
   German: Erinnerung [inwardizing, recollection]
   French: au fond
+  Korean: bonjillo ihaeng [passage to essence]
 
 Phr:
   still waters run deep

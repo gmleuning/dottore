@@ -41,6 +41,7 @@ F:
   Sanskrit: saṃśaya [doubt]
   Chinese: huaiyi [doubt]
   Japanese: kaigi
+  Korean: hoeuijuui [skepticism]
 
 Phr:
   que sais-je? [Fr.] [Montaigne]

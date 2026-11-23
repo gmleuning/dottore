@@ -60,6 +60,7 @@ F:
   Sanskrit: siddhi [accomplishment]
   Chinese: shixian [realization]
   Japanese: jitsugen
+  Korean: silhyeondoen mokjeok [realized end]
 
 Phr:
   consummatum est [Lat.] [Bible]

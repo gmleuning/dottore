@@ -80,6 +80,7 @@ F:
   Sanskrit: yuddha
   Chinese: zhanzheng
   Japanese: sensō
+  Korean: jeonjaeng [war]
 
 Phr:
   war is the continuation of politics by other means [Clausewitz]

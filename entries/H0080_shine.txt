@@ -36,6 +36,7 @@ F:
   Sanskrit: māyā [illusion], līlā [play], avidyā
   Chinese: huanxiang [illusion]
   Japanese: ukiyo [floating world]
+  Korean: gasang [shine, semblance]
 
 Phr:
   all that glisters is not gold [Merchant of Venice]

@@ -32,6 +32,7 @@ F:
   Sanskrit: pṛthivī [earth], bhūmi
   Chinese: tu [earth, soil], di [ground]
   Japanese: tsuchi
+  Korean: heuk [earth], ttang
 
 Phr:
   dust thou art, and unto dust shalt thou return [Bible]

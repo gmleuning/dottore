@@ -47,6 +47,7 @@ F:
   Sanskrit: upāya [skilful means], sādhana [means, instrument]
   Chinese: shouduan [means]
   Japanese: shudan
+  Korean: sudan [means], dogu [tool]
 
 Phr:
   the plough is more honourable than the enjoyments it procures [Hegel]

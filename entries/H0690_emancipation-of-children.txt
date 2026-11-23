@@ -32,6 +32,7 @@ F:
   Sanskrit: samāvartana [return home after studies]
   Chinese: chengnian [adulthood]
   Japanese: seijin, seijinshiki [coming-of-age ceremony]
+  Korean: janyeoui dongnip [emancipation]
 
 Phr:
   to leave the nest

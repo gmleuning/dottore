@@ -53,6 +53,7 @@ F:
   Sanskrit: ṛṇa [debt]
   Chinese: daikuan [loan]
   Japanese: kashitsuke
+  Korean: geumjeon sobi daecha [loan of money], ija
 
 Phr:
   the borrower is servant to the lender [Bible]

@@ -38,6 +38,7 @@ F:
   Sanskrit: saṃvid [agreement]
   Chinese: hetong [contract]
   Japanese: keiyaku
+  Korean: gyeyak [contract]
 
 Phr:
   pacta sunt servanda [Lat.] [agreements must be kept]

@@ -24,6 +24,7 @@ Adv:
 
 F:
   Arabic: ʿazīma [incantation]
+  Korean: yubal [inducing], choemyeon geolgi
 
 Phr:
   look into my eyes

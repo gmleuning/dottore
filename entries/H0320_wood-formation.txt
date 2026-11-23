@@ -31,6 +31,7 @@ F:
   Sanskrit: dāru [wood]
   Chinese: mu [wood, tree]
   Japanese: ki
+  Korean: mokjil hyeongseong [wood formation]
 
 Phr:
   from the crooked timber of humanity no straight thing was ever made [Kant]

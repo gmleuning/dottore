@@ -24,6 +24,7 @@ F:
   German: Drama, bürgerliches Trauerspiel, Schauspiel, das Drama, Rührstück, Versöhnung
   Latin: tragicomoedia
   French: drame, drame bourgeois, comédie larmoyante, tragi-comédie
+  Korean: jeonggeuk [serious drama]
 
 Phr:
   Iphigenia in Tauris [Goethe]

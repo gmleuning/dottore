@@ -20,6 +20,9 @@ Adv:
   individually
   each in his sphere, distinctively
 
+F:
+  Korean: teuksu sindeurui gaeseong
+
 Phr:
   grey-eyed Athena
   rosy-fingered dawn [Homer]

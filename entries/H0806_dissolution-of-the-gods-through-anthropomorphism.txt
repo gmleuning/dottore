@@ -20,5 +20,8 @@ Adv:
   humanly
   in human fashion, all too humanly, in decay
 
+F:
+  Korean: ingyeokhwa [anthropomorphism]
+
 Phr:
   if oxen and horses or lions had hands, and could paint with their hands … horses would paint the forms of the gods like horses, and oxen like oxen [Xenophanes, fr. 15, tr. Burnet]

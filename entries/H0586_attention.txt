@@ -55,6 +55,7 @@ F:
   Sanskrit: avadhāna, ekāgratā [one-pointedness], smṛti / sati [mindfulness]
   Chinese: zhuyi [attention]
   Japanese: chūi
+  Korean: juui [attention]
 
 Phr:
   attention is the natural prayer of the soul [Malebranche]

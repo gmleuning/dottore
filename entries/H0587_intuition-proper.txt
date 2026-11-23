@@ -23,6 +23,7 @@ Adv:
 
 F:
   German: Gestalt, Anschauung
+  Korean: bollaeui jikgwan
 
 Phr:
   to see with one's own eyes

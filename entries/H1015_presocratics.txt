@@ -25,6 +25,7 @@ Adv:
 F:
   Greek: physiologoi, the archē [first principle], apeiron, physis, logos, nous, to on, kosmos, stoicheia, rhizōmata, homoiomereiai, philia kai neikos, peri physeōs
   Arabic: al-ṭabīʿiyyūn [the naturalists]
+  Korean: Sokeurateseu ijeon cheolhak [Presocratic philosophy], areuke [archē]
 
 Phr:
   panta rhei [Gr.] [all flows] [attrib. Heraclitus]

@@ -34,6 +34,7 @@ Adv:
 F:
   German: Attraktion
   Arabic: tawḥīd [unification]
+  Korean: gyeonin [attraction], illyeok
 
 Phr:
   e pluribus unum [Lat.]

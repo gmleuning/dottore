@@ -22,5 +22,8 @@ Adv:
   by upheaval, seismically
   by fire and water
 
+F:
+  Korean: jigu gwajeongui him
+
 Phr:
   the mountains skipped like rams [Bible]

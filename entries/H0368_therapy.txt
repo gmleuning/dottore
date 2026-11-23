@@ -54,6 +54,7 @@ F:
   Sanskrit: āyurveda, cikitsā [treatment], bheṣaja [remedy]
   Chinese: yixue [medicine], zhiliao [therapy]
   Japanese: chiryō
+  Korean: chiryo [therapy], yak
 
 Phr:
   vis medicatrix naturae [Lat.]

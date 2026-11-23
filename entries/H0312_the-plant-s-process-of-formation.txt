@@ -27,6 +27,7 @@ Adv:
 F:
   German: Metamorphose der Pflanzen [Goethe], Urpflanze [Goethe]
   Arabic: nuṣūʾ [growth]
+  Korean: sikmurui hyeongseong
 
 Phr:
   everything is leaf [Goethe]

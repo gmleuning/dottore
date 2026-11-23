@@ -25,6 +25,7 @@ F:
   Arabic: manṭiq
   Chinese: luoji
   Japanese: ronri
+  Korean: nolli [logic], inyeom [idea]
 
 Phr:
   the science of the idea in and for itself [Hegel]

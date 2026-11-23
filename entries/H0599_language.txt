@@ -101,6 +101,7 @@ F:
   Sanskrit: bhāṣā [language], lipi [script]
   Chinese: yuyan [language], wenzi [script]
   Japanese: gengo [language], moji [letters]
+  Korean: eoneo [language], mal [speech], geul [writing]
 
 Phr:
   the limits of my language mean the limits of my world [Wittgenstein]

@@ -33,6 +33,7 @@ F:
   Sanskrit: āśrama [four stages: student, householder, forest dweller, renunciant]
   Chinese: nianling [age]
   Japanese: nenrei
+  Korean: insaengui sigi [ages of life]
 
 Phr:
   all the world's a stage [As You Like It]

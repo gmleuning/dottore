@@ -38,6 +38,7 @@ F:
   Latin: libido dominandi [Augustine]
   French: traiter de haut en bas, regarder de haut en bas
   Arabic: takabbur [arrogance]
+  Korean: oman [imperiousness]
 
 Phr:
   libido dominandi [Lat.] [Augustine]

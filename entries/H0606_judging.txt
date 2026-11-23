@@ -48,6 +48,7 @@ F:
   Sanskrit: viveka [discernment]
   Chinese: panduan [judgment]
   Japanese: handan
+  Korean: pandan [judging]
 
 Phr:
   judgment is the faculty of subsuming under rules [Kant]

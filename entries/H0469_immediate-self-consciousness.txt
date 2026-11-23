@@ -41,6 +41,7 @@ F:
   Sanskrit: tṛṣṇā [thirst, craving], kāma [desire]
   Chinese: yuwang [desire]
   Japanese: yokubō
+  Korean: yongmang [desire], yokgu
 
 Phr:
   self-consciousness is desire in general [Hegel]

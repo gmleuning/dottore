@@ -20,5 +20,8 @@ Adv:
   beyond the mechanical, toward affinity
   in transition, beyond externality
 
+F:
+  Korean: gigyeronui ihaeng
+
 Phr:
   more than a machine

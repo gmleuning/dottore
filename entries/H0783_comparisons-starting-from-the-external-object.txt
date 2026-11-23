@@ -21,5 +21,8 @@ Adv:
   by example
   from the object, by application, from without inward
 
+F:
+  Korean: oejeok daesangeseo sijakhaneun bigyo
+
 Phr:
   by way of illustration

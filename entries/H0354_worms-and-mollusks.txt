@@ -29,6 +29,7 @@ F:
   Arabic: dūd [worms], ḥalazūn [snail]
   Sanskrit: kṛmi [worm]
   Chinese: ruantidongwu [soft-bodied animals, molluscs]
+  Korean: yeonche dongmul [mollusk], beolle [worm]
 
 Phr:
   the worm turns

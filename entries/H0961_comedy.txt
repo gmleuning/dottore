@@ -70,6 +70,7 @@ F:
   Sanskrit: prahasana [farce], vidūṣaka [jester]
   Chinese: xiju, xiangsheng [crosstalk], chou [clown role], huaji
   Japanese: kigeki, kyōgen [comic interlude], manzai, rakugo, owarai
+  Korean: huigeuk [comedy], golgye [the comic]
 
 Phr:
   zum Komischen dagegen gehört überhaupt die unendliche Wohlgemutheit und Zuversicht [Ger.] [Hegel, Aesthetics, on comedy]

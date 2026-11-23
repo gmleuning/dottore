@@ -28,6 +28,7 @@ F:
   Arabic: ajrām samāwiyya [heavenly bodies]
   Sanskrit: graha [planet, lit. seizer], jyotis [luminary]
   Chinese: tianti [celestial body]
+  Korean: jayuroun mulliche
 
 Phr:
   the host of heaven [Bible]

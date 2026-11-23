@@ -25,6 +25,7 @@ Adv:
 F:
   Latin: quid pro quo
   Arabic: muʿāwaḍa [exchange contract]
+  Korean: gyohwan gyeyak [contract of exchange]
 
 Phr:
   tit for tat

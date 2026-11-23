@@ -35,6 +35,7 @@ Adv:
 F:
   German: Abhärtung
   Latin: vis inertiae
+  Korean: gamgage daehan dallyeon
 
 Phr:
   what does not kill me makes me stronger [Nietzsche]

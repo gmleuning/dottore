@@ -26,6 +26,7 @@ F:
   Arabic: mushāhada [observation]
   Chinese: guancha [observation]
   Japanese: kansatsu
+  Korean: gwanchal iseong [observing reason]
 
 Phr:
   observe and record

@@ -23,6 +23,7 @@ Adv:
 F:
   Latin: modus ponens, modus tollens
   Arabic: istithnāʾī [exceptive syllogism]
+  Korean: gaeon churon [hypothetical syllogism]
 
 Phr:
   if it rains, the ground is wet

@@ -21,5 +21,8 @@ Adv:
   unconsciously, naively
   unknowingly, unwittingly
 
+F:
+  Korean: muuisikjeok sangjing
+
 Phr:
   the myth-making mind

@@ -37,6 +37,7 @@ F:
   Latin: ad nauseam, ultra vires, satis superque
   Greek: hybris, pleonexia, ametria, ametron
   Arabic: isrāf [prodigality, excess]
+  Korean: molcheokdo [the measureless]
 
 Phr:
   mēden agan [Gr.] [Opposed]

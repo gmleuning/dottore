@@ -22,5 +22,8 @@ Adj:
 Adv:
   really, genuinely, substantively, in fact
 
+F:
+  Korean: siljaejeok geungeo [real ground]
+
 Phr:
   the reason of the thing

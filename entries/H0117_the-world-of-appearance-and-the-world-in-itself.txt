@@ -29,6 +29,7 @@ F:
   Latin: mundus sensibilis et intelligibilis
   Arabic: ẓāhir wa-bāṭin [outer and inner], ʿālam al-shahāda wa-l-ghayb [the visible and the unseen world]
   Sanskrit: saṃvṛti and paramārtha [conventional and ultimate truth]
+  Korean: hyeonsang segye, jeondoen segye [inverted world]
 
 Phr:
   the allegory of the cave [Plato]

@@ -24,6 +24,7 @@ Adv:
 
 F:
   German: Potenzenverhältnis
+  Korean: geodeupjegop [power]
 
 Phr:
   the rich get richer

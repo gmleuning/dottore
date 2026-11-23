@@ -30,5 +30,8 @@ Adv:
   contentedly, to one's satisfaction
   with gratification
 
+F:
+  Korean: manjok [satisfaction]
+
 Phr:
   desire reborn from satisfaction

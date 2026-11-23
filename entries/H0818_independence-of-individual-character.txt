@@ -22,5 +22,8 @@ Adv:
   resolutely, single-mindedly
   firmly, steadfastly, unbendingly
 
+F:
+  Korean: gaebyeol seonggyeogui dongnipseong
+
 Phr:
   I am in blood stepp'd in so far [Macbeth]

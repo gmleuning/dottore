@@ -23,6 +23,7 @@ Adv:
 
 F:
   Arabic: ḥayawiyya [vitality]
+  Korean: saengmyeongeuroseoui jayeonmi
 
 Phr:
   life as the first beauty

@@ -35,6 +35,7 @@ F:
   Sanskrit: niṣedha [negation, prohibition]
   Chinese: fouding [negation]
   Japanese: hitei
+  Korean: bujeong pandan [negative judgment]
 
 Phr:
   the rose is not red

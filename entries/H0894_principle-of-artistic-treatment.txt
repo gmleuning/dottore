@@ -20,5 +20,8 @@ Adv:
   skilfully
   in principle, artistically, in treatment
 
+F:
+  Korean: gasang [semblance]
+
 Phr:
   the hand of the master

@@ -36,6 +36,7 @@ F:
   Sanskrit: sambandha [relation, connection]
   Chinese: guanxi [relation, connection]
   Japanese: kankei
+  Korean: bonjiljeok gwangye [essential relation]
 
 Phr:
   no master without servant, no servant without master

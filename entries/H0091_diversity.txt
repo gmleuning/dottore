@@ -33,6 +33,7 @@ F:
   Arabic: tanawwuʿ [diversity]
   Sanskrit: nānātva [diversity, manifoldness]
   Chinese: duoyang [diversity]
+  Korean: dayangseong [diversity]
 
 Phr:
   variety is the spice of life

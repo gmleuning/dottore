@@ -20,5 +20,8 @@ Adv:
   definitely
   serenely, calmly, in repose
 
+F:
+  Korean: isangjeok gyujeongseong
+
 Phr:
   the divine in definite form

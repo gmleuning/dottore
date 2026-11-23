@@ -30,6 +30,7 @@ F:
   German: Faselei
   Arabic: hadhayān [delirium, raving]
   Sanskrit: pralāpa [babble]
+  Korean: heotsori [rambling]
 
 Phr:
   a tale told by an idiot, full of sound and fury, signifying nothing [Macbeth]

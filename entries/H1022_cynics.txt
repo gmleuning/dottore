@@ -25,6 +25,7 @@ Adv:
 
 F:
   Greek: kyōn, autarkeia [self-sufficiency], askēsis, anaideia, parrhēsia [frank speech], kynikos, typhos, ponos, kosmopolitēs, paracharattein to nomisma
+  Korean: Gyeonyuhakpa [Cynics]
 
 Phr:
   stand out of my sunlight [Diogenes to Alexander]

@@ -25,6 +25,7 @@ Adv:
 
 F:
   Arabic: irtibāṭ [connection]
+  Korean: yeongyeol [connection]
 
 Phr:
   the thing is one and also many

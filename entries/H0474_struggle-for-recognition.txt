@@ -41,6 +41,7 @@ F:
   Italian: duello
   Arabic: ṣirāʿ [struggle]
   Chinese: douzheng [struggle]
+  Korean: injeong tujaeng [struggle for recognition]
 
 Phr:
   it is only through staking one's life that freedom is won [Hegel]

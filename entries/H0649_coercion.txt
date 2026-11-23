@@ -37,6 +37,7 @@ F:
   Sanskrit: bala [force]
   Chinese: qiangpo [coercion]
   Japanese: kyōsei
+  Korean: gangje [coercion]
 
 Phr:
   coercion is cancelled by coercion [Hegel]

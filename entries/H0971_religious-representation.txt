@@ -33,6 +33,7 @@ F:
   Latin: imago, figura, repraesentatio, historia sacra, per speculum in aenigmate
   Greek: mythos, eikōn, typos, parabolē, symbolon
   Arabic: taṣawwur dīnī
+  Korean: pyosang [representation]
 
 Phr:
   die Philosophie hat zwar ihre Gegenstände zunächst mit der Religion gemeinschaftlich [Ger.] [Hegel, Encyclopaedia §1]

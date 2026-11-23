@@ -37,6 +37,7 @@ F:
   Sanskrit: saṃskāra [refinement]
   Chinese: jiaoyang [cultivation]
   Japanese: kyōyō [cultivation]
+  Korean: soedoen jeongsin [self-alienated spirit], gyoyang [culture]
 
 Phr:
   culture as the alienation of natural being [Hegel]

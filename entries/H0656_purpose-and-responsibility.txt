@@ -32,6 +32,7 @@ F:
   Latin: quo animo
   Arabic: niyya [intention], masʾūliyya [responsibility]
   Sanskrit: saṅkalpa [resolve]
+  Korean: goui [purpose], chaegim [responsibility]
 
 Phr:
   the buck stops here

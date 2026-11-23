@@ -25,6 +25,7 @@ F:
   Sanskrit: paramātman [supreme self], brahman
   Chinese: juedui jingshen [absolute spirit]
   Japanese: zettai seishin
+  Korean: jeoldaejeok jeongsin [absolute spirit]
 
 Phr:
   spirit knowing itself as absolute [Hegel]

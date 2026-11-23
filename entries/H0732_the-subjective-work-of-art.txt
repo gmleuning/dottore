@@ -24,5 +24,8 @@ Adv:
   athletically
   in the games
 
+F:
+  Korean: jugwanjeok yesul jakpum
+
 Phr:
   the body as an organ of spirit

@@ -41,6 +41,7 @@ F:
   Sanskrit: pāṭha [recitation]
   Chinese: beisong [recite by heart]
   Japanese: anki [rote memorization]
+  Korean: gigyejeok gieok [mechanical memory], amgi
 
 Phr:
   the transition from memory to thought

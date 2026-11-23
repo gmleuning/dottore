@@ -33,6 +33,7 @@ F:
   German: reflektierende Urteilskraft [Kant], Räsonnement, äußere Reflexion
   Latin: ab extra, parva componere magnis
   Arabic: taʾammul
+  Korean: oejeok banseong [external reflection]
 
 Phr:
   the onlooker sees most of the game

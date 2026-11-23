@@ -30,6 +30,7 @@ F:
   Sanskrit: deśa [country]
   Chinese: jiaguo [family-state]
   Japanese: kokka
+  Korean: yullijeok silche, gajok, joguk, gukka
 
 Phr:
   dulce et decorum est pro patria mori [Lat.] [Horace]

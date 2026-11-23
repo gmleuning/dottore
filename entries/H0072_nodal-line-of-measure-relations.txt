@@ -32,6 +32,7 @@ F:
   German: Sprung, Knotenlinie
   Latin: per saltum, saltus
   French: coup d'etat
+  Korean: madiui seon [nodal line], biyak [leap]
 
 Phr:
   the last drop makes the cup run over

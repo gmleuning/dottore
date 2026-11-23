@@ -23,6 +23,7 @@ Adv:
 F:
   Arabic: haram [pyramid], ahrām [pyramids]
   Chinese: jinzita [pyramid]
+  Korean: piramideu [pyramid], geumjatap [monumental achievement, pyramid]
 
 Phr:
   sie sind ungeheure Kristalle, welche ein Inneres in sich bergen [Ger.] [Hegel, Aesthetics, on the pyramids]

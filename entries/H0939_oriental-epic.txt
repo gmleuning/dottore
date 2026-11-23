@@ -23,6 +23,7 @@ Adv:
 F:
   Persian: Shāhnāma [Ferdowsi's Book of Kings]
   Sanskrit: Rāmāyaṇa
+  Korean: Mahabarata [Mahabharata], Syaname [Shahnameh]
 
 Phr:
   the Book of Kings [Ferdowsi]

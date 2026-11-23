@@ -32,6 +32,7 @@ F:
   Sanskrit: pakṣin [winged], dvija [twice-born, bird]
   Chinese: niao [bird]
   Japanese: tori
+  Korean: jollyu [birds], sae
 
 Phr:
   a bird in the hand is worth two in the bush

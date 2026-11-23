@@ -24,5 +24,8 @@ Adv:
   animatedly, vivaciously
   with life
 
+F:
+  Korean: saenggi [animation]
+
 Phr:
   the breath of life

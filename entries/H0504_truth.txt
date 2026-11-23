@@ -35,6 +35,7 @@ F:
   Sanskrit: satya, ṛta
   Chinese: zhenli [truth]
   Japanese: shinri, makoto [sincerity, truth]
+  Korean: jilli [truth]
 
 Phr:
   veritas liberabit vos [Lat.] [Bible]

@@ -32,6 +32,7 @@ F:
   Arabic: maḥārim [forbidden degrees]
   Sanskrit: gotra exogamy
   Chinese: tongxing buhun [same surname no marriage]
+  Korean: geunchin honin geumji [incest prohibition]
 
 Phr:
   marriage outside the blood

@@ -34,6 +34,7 @@ F:
   Latin: quid pro quo, casus foederris
   Italian: mezzo termine
   Arabic: ījāb wa-qabūl [offer and acceptance]
+  Korean: gyeyak gwangye
 
 Phr:
   quid pro quo [Lat.]

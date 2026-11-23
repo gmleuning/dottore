@@ -33,6 +33,7 @@ F:
   German: Verleiblichung
   Arabic: tajassud [embodiment]
   Chinese: shentihua [somatization]
+  Korean: sinchehwa [embodiment]
 
 Phr:
   the body keeps the score

@@ -24,6 +24,7 @@ F:
   Arabic: qawānīn [laws]
   Sanskrit: niyama
   Chinese: dinglü [laws]
+  Korean: beopchik [laws]
 
 Phr:
   nature is the realm of laws

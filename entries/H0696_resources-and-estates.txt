@@ -70,6 +70,7 @@ F:
   Sanskrit: varṇa [estate, class]
   Chinese: jieji [class]
   Japanese: mibun [status, estate]
+  Korean: jaesan [resources], sinbun [estates]
 
 Phr:
   my station and its duties [F. H. Bradley]

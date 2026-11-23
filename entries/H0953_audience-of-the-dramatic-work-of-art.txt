@@ -28,6 +28,7 @@ F:
   Sanskrit: sahṛdaya [the sensitive spectator]
   Chinese: guanzhong [audience]
   Japanese: kankyaku
+  Korean: gwangaek [audience]
 
 Phr:
   plaudite [Lat.] [applaud!]

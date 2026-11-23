@@ -21,5 +21,8 @@ Adv:
   for that reason, by reason of
   determinately, definitely
 
+F:
+  Korean: gyujeongdoen geungeo
+
 Phr:
   a reason of the hope that is in you [Bible]

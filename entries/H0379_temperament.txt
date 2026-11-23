@@ -42,6 +42,7 @@ F:
   Sanskrit: doṣa [constitutional humours: vāta, pitta, kapha], prakṛti
   Chinese: qizhi [temperament]
   Japanese: kishitsu
+  Korean: gijil [temperament]
 
 Phr:
   every man in his humour [Ben Jonson]

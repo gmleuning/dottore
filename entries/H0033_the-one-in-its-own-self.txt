@@ -28,6 +28,7 @@ Adv:
 F:
   Arabic: jawhar fard [indivisible atom]
   Sanskrit: aṇu [atom]
+  Korean: ilja
 
 Phr:
   an atom is that which cannot be cut

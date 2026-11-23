@@ -29,6 +29,7 @@ Adv:
 
 F:
   Latin: decor
+  Korean: jeokhapseong [fitness], gidung [column], deulbo [beam]
 
 Phr:
   fit for purpose

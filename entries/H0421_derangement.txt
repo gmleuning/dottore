@@ -43,6 +43,7 @@ F:
   Sanskrit: unmāda [madness]
   Chinese: fengkuang [madness]
   Japanese: kyōki
+  Korean: jeongsin chakran [derangement], gwangi
 
 Phr:
   though this be madness, yet there is method in't [Hamlet]

@@ -35,6 +35,7 @@ F:
   Latin: elocutio
   Greek: lexis
   French: la morgue litteraire
+  Korean: eobeop [diction]
 
 Phr:
   what oft was thought, but ne'er so well expressed [Pope]

@@ -35,6 +35,7 @@ F:
   Arabic: nisba [ratio, relation]
   Sanskrit: anupāta [proportion]
   Chinese: bi [ratio]
+  Korean: bi [ratio], biyul
 
 Phr:
   man is the measure of all things [Protagoras]

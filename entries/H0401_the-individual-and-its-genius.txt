@@ -30,6 +30,7 @@ F:
   Sanskrit: iṣṭa-devatā [chosen deity]
   Chinese: shouhushen [guardian deity]
   Japanese: shugorei
+  Korean: suhoryeong [genius], cheonjae
 
 Phr:
   the daimonion of Socrates

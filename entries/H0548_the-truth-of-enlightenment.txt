@@ -36,6 +36,7 @@ F:
   French: être suprême
   Arabic: maṣlaḥa [public interest, utility]
   Chinese: gongli [utility]
+  Korean: gyemongui jilli [truth of Enlightenment]
 
 Phr:
   everything is useful [Hegel on Enlightenment]

@@ -69,6 +69,7 @@ F:
   Sanskrit: kṣatriya [warrior estate]
   Chinese: wuren [warrior]
   Japanese: bushi [warrior], bushidō [way of the warrior], samurai
+  Korean: yonggiui sinbun [estate of valour], gunin
 
 Phr:
   courage is the first of human qualities because it guarantees all others [Churchill, attrib.]

@@ -20,5 +20,8 @@ Adv:
   by passes, by manipulation
   by stroking, methodically
 
+F:
+  Korean: bangbeopgwa sudan
+
 Phr:
   tricks of the trade

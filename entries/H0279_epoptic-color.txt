@@ -22,5 +22,8 @@ Adv:
   iridescently
   on the surface
 
+F:
+  Korean: pyomyeon saek [epoptic colour]
+
 Phr:
   the colours of a soap bubble

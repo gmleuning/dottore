@@ -26,5 +26,8 @@ Adv:
   by impact, by contact, by transmission
   mechanically, by push and pull
 
+F:
+  Korean: gigyejeok gwajeong
+
 Phr:
   action and reaction

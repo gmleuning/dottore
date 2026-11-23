@@ -24,6 +24,7 @@ F:
   German: die reine Quantität
   Latin: quantitas, in abstracto
   Greek: posotēs
+  Korean: sunsu yang
 
 Phr:
   an unknown quantity

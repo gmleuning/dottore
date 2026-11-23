@@ -29,6 +29,7 @@ F:
   Sanskrit: dharma
   Chinese: zongjiao [religion]
   Japanese: shūkyō
+  Korean: jonggyo [religion]
 
 Phr:
   in religion spirit knows itself as spirit [Hegel]

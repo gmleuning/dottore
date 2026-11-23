@@ -28,6 +28,7 @@ F:
   Arabic: ʿaks [reflection]
   Sanskrit: pratibimba [reflection, reflected image]
   Chinese: ying [reflection]
+  Korean: bonjil, banseong [reflection]
 
 Phr:
   as in a glass, darkly

@@ -39,6 +39,7 @@ F:
   Arabic: nazʿa [drive], ikhtiyār [choice]
   Sanskrit: vāsanā, vikalpa
   Chinese: chongdong [impulse], xuanze [choice]
+  Korean: chungdong [drive], seontaek [choice]
 
 Phr:
   video meliora proboque, deteriora sequor [Lat.] [I see the better and approve it, I follow the worse] [Ovid]

@@ -23,6 +23,7 @@ Adv:
 F:
   Arabic: baṣīra [inner sight, insight]
   Sanskrit: antardṛṣṭi [inner vision]
+  Korean: naejeok sigak [inner vision]
 
 Phr:
   that inward eye which is the bliss of solitude [Wordsworth]

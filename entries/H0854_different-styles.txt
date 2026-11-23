@@ -20,5 +20,8 @@ Adv:
   in style
   variously, severally, in different styles, by style
 
+F:
+  Korean: yangsiksa [history of styles]
+
 Phr:
   in every style

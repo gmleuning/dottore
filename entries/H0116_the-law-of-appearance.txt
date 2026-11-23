@@ -33,6 +33,7 @@ F:
   Arabic: sunnat Allāh [custom of God, natural regularity]
   Sanskrit: ṛta [cosmic order], niyama [law, regularity]
   Chinese: li [principle], faze [law]
+  Korean: hyeonsangui beopchik [law of appearance]
 
 Phr:
   la filosofia è scritta in questo grandissimo libro … (io dico l'universo) … egli è scritto in lingua matematica [It.] [Galileo, Il Saggiatore]

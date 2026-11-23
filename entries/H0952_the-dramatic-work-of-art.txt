@@ -25,6 +25,7 @@ Adv:
 
 F:
   French: dénouement
+  Korean: mak [act], jang [scene]
 
 Phr:
   the unities of time, place, and action

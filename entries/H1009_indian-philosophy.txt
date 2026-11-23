@@ -24,6 +24,7 @@ Adv:
 
 F:
   Sanskrit: darśana [the schools], āstika and nāstika [orthodox and heterodox], Advaita [non-dualism], mokṣa, mukti, nirvāṇa, saṃsāra, karma, māyā, avidyā, jñāna, ātman, tat tvam asi, neti neti, yoga, tapas, dhyāna, samādhi
+  Korean: Indo cheolhak [Indian philosophy], haetal [liberation]
 
 Phr:
   neti neti [Skt.] [not this, not this] [Brihadaranyaka Upanishad]

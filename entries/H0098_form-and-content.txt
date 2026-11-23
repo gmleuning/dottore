@@ -33,6 +33,7 @@ F:
   Arabic: maʿnā [meaning] and lafẓ [expression]
   Sanskrit: artha [meaning] and śabda [word]
   Chinese: neirong [content] and xingshi [form]
+  Korean: hyeongsikgwa naeyong [form and content]
 
 Phr:
   the medium is the message [McLuhan]

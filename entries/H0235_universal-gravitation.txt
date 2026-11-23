@@ -32,6 +32,7 @@ F:
   Sanskrit: gurutvākarṣaṇa [gravitation]
   Chinese: wanyou yinli [universal gravitation]
   Japanese: ban'yū inryoku
+  Korean: manyu illyeok [universal gravitation]
 
 Phr:
   hypotheses non fingo [Lat.] [Newton]

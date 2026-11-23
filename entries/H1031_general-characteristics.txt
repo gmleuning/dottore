@@ -22,6 +22,7 @@ Adv:
 
 F:
   Greek: monē, proodos, epistrophē, henōsis, to hen, nous, psychē, ekstasis
+  Korean: yuchulseol [emanationism]
 
 Phr:
   remaining, procession, return, monē, proodos, epistrophē [Gr.] [Proclus]

@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: Schädellehre
+  Korean: golsanghak [phrenology]
 
 Phr:
   to have one's bumps read

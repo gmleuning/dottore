@@ -25,6 +25,7 @@ Adv:
 
 F:
   German: Verhältnis &c H0119
+  Korean: hyeonsangui haeche
 
 Phr:
   the veil is lifted

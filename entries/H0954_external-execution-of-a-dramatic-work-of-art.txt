@@ -23,6 +23,7 @@ Adv:
 
 F:
   French: mise en scène
+  Korean: sangyeon [staging], gongyeon [performance]
 
 Phr:
   the boards

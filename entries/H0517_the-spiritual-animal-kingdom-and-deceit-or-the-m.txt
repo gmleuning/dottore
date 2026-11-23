@@ -30,6 +30,7 @@ F:
   Latin: opus
   Greek: ergon
   French: mauvaise foi [Sartre]
+  Korean: jeongsinjeok dongmul wangguk [spiritual animal kingdom]
 
 Phr:
   honesty is the best policy

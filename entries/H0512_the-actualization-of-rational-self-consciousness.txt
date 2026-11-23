@@ -20,5 +20,8 @@ Adv:
   practically, actively, by one's own efforts
   by one's own doing, in action
 
+F:
+  Korean: iseongjeok jagi uisigui silhyeon
+
 Phr:
   to make one's way in the world

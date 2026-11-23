@@ -18,5 +18,8 @@ Adj:
 Adv:
   in one's sleep, rigidly
 
+F:
+  Korean: gangjikjeung [catalepsy], mongyubyeong [sleepwalking]
+
 Phr:
   out, damned spot! [Macbeth]

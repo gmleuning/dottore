@@ -29,6 +29,7 @@ F:
   Sanskrit: bhāṭaka [rent]
   Chinese: zulin [lease]
   Japanese: chintai [rental]
+  Korean: imdaecha [letting and hiring]
 
 Phr:
   to let

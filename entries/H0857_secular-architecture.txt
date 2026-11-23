@@ -33,6 +33,7 @@ F:
   Arabic: qaṣr [palace], qalʿa [citadel]
   Chinese: gongdian [palace]
   Japanese: shiro [castle]
+  Korean: sesok geonchuk [secular architecture], seongchae [castle, fortress]
 
 Phr:
   an Englishman's home is his castle

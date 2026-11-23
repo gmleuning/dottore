@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: Reich der Schatten
+  Korean: Nollihak [Science of Logic]
 
 Phr:
   the presentation of God as he is in his eternal essence before the creation of nature and a finite spirit [Hegel]

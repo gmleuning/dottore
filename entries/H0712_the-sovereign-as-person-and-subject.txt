@@ -24,6 +24,7 @@ Adv:
 
 F:
   Latin: fiat
+  Korean: ingyeokgwa jucheroseoui gunju
 
 Phr:
   to dot the i [Hegel on the monarch]

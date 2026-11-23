@@ -26,6 +26,7 @@ Adv:
 
 F:
   Arabic: ṭarab
+  Korean: gamdong [being moved]
 
 Phr:
   music has charms to soothe a savage breast [Congreve]

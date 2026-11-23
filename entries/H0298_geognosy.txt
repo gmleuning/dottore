@@ -26,6 +26,7 @@ Adv:
 
 F:
   Arabic: ʿilm ṭabaqāt al-arḍ [science of earth layers]
+  Korean: jijil josa
 
 Phr:
   written in the rocks

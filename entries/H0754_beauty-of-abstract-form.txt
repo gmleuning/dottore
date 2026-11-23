@@ -24,6 +24,7 @@ F:
   Greek: symmetria
   Arabic: tanāsub [proportion]
   Persian: girih [geometric ornament]
+  Korean: chusangjeok hyeongsigui mi
 
 Phr:
   let no one ignorant of geometry enter [attrib. Plato]

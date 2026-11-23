@@ -31,6 +31,7 @@ F:
   Sanskrit: gotra [lineage], kula
   Chinese: zongzu [lineage]
   Japanese: ichizoku [clan]
+  Korean: chinjok jipdan [kinship group], ssijok [clan]
 
 Phr:
   blood will tell

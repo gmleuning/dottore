@@ -29,6 +29,7 @@ F:
   Sanskrit: krama [sequence, progression]
   Chinese: jinzhan [advance]
   Japanese: shinten
+  Korean: jinhaeng [advance]
 
 Phr:
   eppur si muove [It.] [attrib. Galileo]

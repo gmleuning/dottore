@@ -32,6 +32,7 @@ F:
   Sanskrit: buddhi [intellect]
   Chinese: zhixing [understanding]
   Japanese: gosei
+  Korean: himgwa oseong [force and understanding]
 
 Phr:
   to understand is to see the hidden force

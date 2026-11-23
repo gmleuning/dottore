@@ -34,6 +34,7 @@ F:
   Sanskrit: virodha [contradiction]
   Chinese: maodun [spear and shield, contradiction], gong'an
   Japanese: mujun, kōan [paradoxical riddle]
+  Korean: mosun [contradiction]
 
 Phr:
   do I contradict myself? Very well then I contradict myself [Whitman]

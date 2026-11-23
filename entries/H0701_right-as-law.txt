@@ -38,6 +38,7 @@ F:
   Sanskrit: dharmaśāstra [law code]
   Chinese: falü [law]
   Japanese: hōritsu
+  Korean: beobeuroseoui beop [right as law]
 
 Phr:
   ignorantia legis neminem excusat [Lat.] [ignorance of the law excuses no one]

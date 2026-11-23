@@ -30,6 +30,7 @@ F:
   Sanskrit: graha
   Chinese: xingxing [moving star, planet]
   Japanese: wakusei
+  Korean: hokseong, haengseong [planet]
 
 Phr:
   the earth is the Lord's, and the fulness thereof [Bible]

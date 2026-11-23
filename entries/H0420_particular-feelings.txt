@@ -51,6 +51,7 @@ Adv:
 F:
   Latin: alieni appetens
   French: soi-disant, se faire valoir, faire claquer son fouet, Gascon, jalousie de milier
+  Korean: teuksu gamjeong [particular feelings]
 
 Phr:
   in the grip of passion

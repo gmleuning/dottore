@@ -41,6 +41,7 @@ F:
   Arabic: fukāha [humour]
   Chinese: youmo [humour]
   Japanese: yūmoa
+  Korean: nangmanjeok yesurui haeche, yumeo
 
 Phr:
   art, considered in its highest vocation, is and remains for us a thing of the past [Hegel]

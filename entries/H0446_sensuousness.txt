@@ -24,6 +24,7 @@ Adv:
 F:
   German: Sinnlichkeit
   Arabic: maḥsūsāt [sensibles]
+  Korean: gamgakseong [sensuousness]
 
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]

@@ -27,6 +27,7 @@ F:
   German: Zivilisationsprozess [Norbert Elias], Bildung, Entäußerung
   Arabic: tahdhīb al-akhlāq [refinement of character]
   Chinese: xiushen [self-cultivation]
+  Korean: jayeonjeok jonjaeui soe
 
 Phr:
   Wodurch also das Individuum hier Gelten und Wirklichkeit hat, ist die Bildung [Ger.] [Hegel, Phenomenology ¶489]

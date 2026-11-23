@@ -30,6 +30,7 @@ F:
   Latin: progressus in infinitum, regressus in infinitum, circulus vitiosus, ignis fatuus, ad infinitum, ad nauseam
   Arabic: tasalsul [infinite chain]
   Sanskrit: saṃsāra [cycle of rebirth], anavasthā [infinite regress]
+  Korean: angmuhan [bad infinite]
 
 Phr:
   turtles all the way down

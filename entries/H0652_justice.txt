@@ -39,6 +39,7 @@ F:
   Sanskrit: nyāya [justice], daṇḍa [rod, punishment]
   Chinese: zhengyi [justice]
   Japanese: seigi
+  Korean: jeongui [justice]
 
 Phr:
   fiat iustitia, ruat caelum [Lat.] [let justice be done though the heavens fall]

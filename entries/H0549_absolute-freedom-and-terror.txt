@@ -30,6 +30,7 @@ F:
   French: la Terreur, volonté générale, à la lanterne, sansculottes
   Arabic: irhāb [terror]
   Chinese: kongbu [terror]
+  Korean: jeoldaejeok jayuwa gongpo [absolute freedom and terror]
 
 Phr:
   the coldest and meanest of all deaths, with no more significance than cutting off a head of cabbage [Hegel]

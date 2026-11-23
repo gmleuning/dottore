@@ -25,6 +25,7 @@ F:
   French: tragédie classique
   Spanish: Siglo de Oro, comedia, auto sacramental
   Sanskrit: nāṭaka, Nāṭyaśāstra
+  Korean: yeongeuksa [history of drama]
 
 Phr:
   art has said its last word

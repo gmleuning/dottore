@@ -25,6 +25,7 @@ Adv:
 
 F:
   Afrikaans: apartheid
+  Korean: baeje [exclusion]
 
 Phr:
   odi profanum vulgus et arceo [Lat.] [Horace]

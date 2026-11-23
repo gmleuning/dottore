@@ -28,6 +28,7 @@ F:
   Sanskrit: pratibhā [intuitive flash], aparokṣa [direct knowledge]
   Chinese: zhijue [intuition]
   Japanese: chokkan
+  Korean: jikgwan [intuition]
 
 Phr:
   intuitions without concepts are blind [Kant]

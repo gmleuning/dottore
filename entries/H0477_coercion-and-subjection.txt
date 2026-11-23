@@ -33,6 +33,7 @@ Adv:
 F:
   Arabic: ikrāh [coercion]
   Chinese: qiangpo [coercion]
+  Korean: gangjewa bokjong [coercion and subjection]
 
 Phr:
   vae victis [Lat.] [woe to the vanquished]

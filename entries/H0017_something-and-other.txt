@@ -29,6 +29,7 @@ F:
   Arabic: ghayr [other]
   Sanskrit: anātman
   Chinese: ta [other]
+  Korean: taja [the other], dareun geot
 
 Phr:
   alter ego [Lat.]

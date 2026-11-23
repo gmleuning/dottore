@@ -22,6 +22,7 @@ Adv:
 
 F:
   Latin: urbs condita, ab urbe condita [from the founding of the city]
+  Korean: jeicha poeni jeonjaeng [Second Punic War]
 
 Phr:
   ab urbe condita [Lat.] [Livy]

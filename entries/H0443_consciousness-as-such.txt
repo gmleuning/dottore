@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: natürliche Einstellung [Husserl], Gegenstand [that which stands against]
+  Korean: uisik [consciousness]
 
 Phr:
   the world as it appears to common sense

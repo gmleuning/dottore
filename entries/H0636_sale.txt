@@ -54,6 +54,7 @@ F:
   Sanskrit: kraya-vikraya [buying and selling]
   Chinese: maimai [buying and selling]
   Japanese: baibai
+  Korean: maemae [sale]
 
 Phr:
   caveat emptor [Lat.] [let the buyer beware]

@@ -48,6 +48,7 @@ F:
   Sanskrit: māna [honour]
   Chinese: mianzi [face], rongyu [honour]
   Japanese: meiyo, giri
+  Korean: myeongye [honour]
 
 Phr:
   death before dishonour

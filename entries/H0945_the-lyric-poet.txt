@@ -30,6 +30,7 @@ F:
   Sanskrit: kavi [poet]
   Chinese: shiren [poet]
   Japanese: kajin [waka poet]
+  Korean: seojeong siin [lyric poet]
 
 Phr:
   Sappho, the tenth Muse

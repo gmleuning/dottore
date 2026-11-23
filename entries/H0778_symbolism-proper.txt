@@ -26,6 +26,7 @@ Adv:
 
 F:
   Greek: hieroglyphika
+  Korean: bollaeui sangjing [symbolism proper]
 
 Phr:
   sie ist das Symbol gleichsam des Symbolischen selber [Ger.] [Hegel, Aesthetics, on the Sphinx]

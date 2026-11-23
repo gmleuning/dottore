@@ -28,6 +28,7 @@ Adv:
 
 F:
   German: das reale Maß
+  Korean: jarip cheokdo
 
 Phr:
   the thing itself

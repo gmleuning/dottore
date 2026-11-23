@@ -26,6 +26,7 @@ F:
   Latin: positio, ex hypothesi, ex post facto
   Greek: thesis [a setting down]
   Sanskrit: kalpanā [construction, imagination]
+  Korean: jeongnip banseong [positing reflection]
 
 Phr:
   fiat lux [Lat.] [Bible]

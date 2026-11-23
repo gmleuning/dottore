@@ -31,6 +31,7 @@ F:
   Sanskrit: svabhāva [own nature], guṇa
   Chinese: tianzhi [natural endowment]
   Japanese: tenpu [natural gift]
+  Korean: jayeonjeok seongjil [natural qualities]
 
 Phr:
   what's bred in the bone will come out in the flesh

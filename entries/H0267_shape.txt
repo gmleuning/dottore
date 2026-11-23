@@ -34,6 +34,7 @@ F:
   Sanskrit: ākṛti [shape, form], saṃsthāna
   Chinese: xingzhuang [shape]
   Japanese: katachi
+  Korean: hyeongtae [shape]
 
 Phr:
   form is emptiness, emptiness is form, rūpaṃ śūnyatā śūnyataiva rūpam [Skt.] [Heart Sutra]

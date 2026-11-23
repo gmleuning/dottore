@@ -38,6 +38,7 @@ F:
   Arabic: tanāẓur [symmetry]
   Chinese: duicheng [symmetry]
   Japanese: taishō
+  Korean: gyuchikseonggwa daechingseong
 
 Phr:
   Tyger Tyger, burning bright... what immortal hand or eye could frame thy fearful symmetry? [Blake]

@@ -34,6 +34,7 @@ Adv:
 
 F:
   Latin: bona fide, per incuriam
+  Korean: bigoui bulbeop [unintentional wrong]
 
 Phr:
   honest mistake

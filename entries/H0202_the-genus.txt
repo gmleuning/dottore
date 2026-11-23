@@ -36,6 +36,7 @@ F:
   Arabic: jins [genus], nawʿ
   Sanskrit: jāti [birth, genus]
   Chinese: zhong [kind, seed], shu [genus]
+  Korean: yu [genus], jongjok
 
 Phr:
   one generation passeth away, and another generation cometh [Bible]

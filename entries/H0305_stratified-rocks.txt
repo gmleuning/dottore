@@ -26,6 +26,7 @@ F:
   Arabic: ṭabaqāt [layers]
   Chinese: diceng [strata]
   Japanese: chisō
+  Korean: cheungsangam [stratified rock]
 
 Phr:
   the record of the rocks

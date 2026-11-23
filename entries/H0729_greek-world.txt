@@ -25,6 +25,7 @@ F:
   Greek: Hellas, Hellēnes
   Arabic: al-Yūnān [Greece]
   Sanskrit: Yavana [Greeks]
+  Korean: geuriseu segye [Greek world]
 
 Phr:
   the Greeks knew that some are free [Hegel]

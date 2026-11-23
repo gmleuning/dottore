@@ -34,6 +34,7 @@ F:
   Sanskrit: ṛtu [season]
   Chinese: jieqi [solar terms]
   Japanese: sekki
+  Korean: gyejeol [season], taeyang gwangye
 
 Phr:
   to every thing there is a season [Bible]

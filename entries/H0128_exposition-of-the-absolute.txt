@@ -31,6 +31,7 @@ F:
   Latin: via negativa
   Arabic: fanāʾ [passing away in God]
   Sanskrit: neti neti
+  Korean: jeoldaejaui haemyeong [exposition]
 
 Phr:
   neti neti [Skt.] [Brihadaranyaka Upanishad]

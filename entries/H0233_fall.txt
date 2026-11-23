@@ -49,6 +49,7 @@ F:
   Arabic: suqūṭ [fall]
   Sanskrit: patana [falling]
   Chinese: luoti [falling body]
+  Korean: nakha [fall]
 
 Phr:
   what goes up must come down

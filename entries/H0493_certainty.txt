@@ -30,6 +30,7 @@ F:
   Sanskrit: niścaya [certainty]
   Chinese: queding [certainty]
   Japanese: kakushin
+  Korean: hwaksilseong [certainty]
 
 Phr:
   I know it in my bones

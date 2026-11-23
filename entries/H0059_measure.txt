@@ -35,6 +35,7 @@ F:
   Arabic: wasaṭ [middle, moderation]
   Sanskrit: madhyamā pratipad
   Chinese: zhongyong [doctrine of the mean]
+  Korean: cheokdo [measure], jeoldo
 
 Phr:
   mēden agan [Gr.] [nothing in excess]

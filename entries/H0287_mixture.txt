@@ -36,6 +36,7 @@ F:
   Sanskrit: miśraṇa [mixing]
   Chinese: hunhe [mixture]
   Japanese: kongō
+  Korean: honhap [mixture]
 
 Phr:
   oil and water do not mix

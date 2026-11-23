@@ -25,6 +25,7 @@ Adv:
 F:
   Latin: concordia discors, mutatis mutandis
   Chinese: yin-yang
+  Korean: banbalgwa gyeonin
 
 Phr:
   concordia discors [Lat.] [Horace]

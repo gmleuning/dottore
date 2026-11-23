@@ -26,6 +26,7 @@ Adv:
 
 F:
   Spanish: terra cotta
+  Korean: jaeryo [material]
 
 Phr:
   truth to materials

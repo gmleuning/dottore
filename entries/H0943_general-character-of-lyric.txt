@@ -20,5 +20,8 @@ Adv:
   subjectively
   inwardly, personally, from within, from the heart
 
+F:
+  Korean: jagipyohyeon [self-expression]
+
 Phr:
   the heart's own speech

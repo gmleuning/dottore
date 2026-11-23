@@ -28,6 +28,7 @@ Adv:
 F:
   German: Heiterkeit [cheerfulness, serenity]
   Latin: ne plus ultra
+  Korean: isang jache
 
 Phr:
   life is earnest, art is serene, ernst ist das Leben, heiter ist die Kunst [Ger.] [Schiller]

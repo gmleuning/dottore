@@ -28,6 +28,7 @@ F:
   German: Entstehung, Gemeinde, Urgemeinde, Ausgießung des Geistes
   Latin: ecclesia primitiva
   Greek: kerygma [proclamation], ekklēsia, kērygma, euangelion, paraklētos, pentēkostē, koinōnia, martyria
+  Korean: Osunjeol [Pentecost]
 
 Phr:
   they were all filled with the Holy Ghost [Bible]

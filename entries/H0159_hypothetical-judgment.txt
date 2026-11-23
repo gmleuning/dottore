@@ -30,6 +30,7 @@ F:
   Greek: protasis and apodosis
   Arabic: sharṭiyya muttaṣila [conjunctive conditional]
   Sanskrit: vyāpti [invariable concomitance]
+  Korean: gaeon pandan [hypothetical judgment]
 
 Phr:
   if A, then B

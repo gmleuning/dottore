@@ -23,6 +23,7 @@ Adv:
 
 F:
   Greek: tholos
+  Korean: sinjeon [temple], yeolju [colonnade]
 
 Phr:
   a temple in antis

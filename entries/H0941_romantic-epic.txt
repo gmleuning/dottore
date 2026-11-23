@@ -25,6 +25,7 @@ F:
   French: Chanson de Roland
   Italian: Divina Commedia, Gerusalemme Liberata
   Portuguese: Os Lusíadas
+  Korean: Singok [the Divine Comedy], gisado munhak [chivalric literature]
 
 Phr:
   nel mezzo del cammin di nostra vita [It.] [Dante]

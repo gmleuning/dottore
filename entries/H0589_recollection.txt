@@ -35,6 +35,7 @@ F:
   Sanskrit: smaraṇa [remembrance]
   Chinese: huiyi [recollection]
   Japanese: kaisō
+  Korean: hoesang [recollection]
 
 Phr:
   Erinnerung as Er-innerung [Ger.] [making inward]

@@ -36,6 +36,7 @@ F:
   Latin: derelictio, res extra commercium
   Arabic: tafwīt [transfer], waqf [inalienable endowment]
   Sanskrit: dāna [giving away]
+  Korean: yangdo [alienation of property]
 
 Phr:
   inalienable rights

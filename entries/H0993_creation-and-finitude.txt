@@ -30,6 +30,7 @@ F:
   Sanskrit: sṛṣṭi
   Chinese: chuangzao [creation]
   Japanese: sōzō
+  Korean: changjo [creation], yuhanseong [finitude]
 
 Phr:
   in the beginning God created the heaven and the earth [Bible]

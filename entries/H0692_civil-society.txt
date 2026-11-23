@@ -26,6 +26,7 @@ F:
   Arabic: al-mujtamaʿ al-madanī [civil society]
   Chinese: shimin shehui [civil society]
   Japanese: shimin shakai
+  Korean: simin sahoe [civil society]
 
 Phr:
   die bürgerliche Gesellschaft [ist] der Kampfplatz des individuellen Privatinteresses Aller gegen Alle [Ger.] [Hegel, Philosophy of Right §289 Remark]

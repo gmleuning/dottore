@@ -47,6 +47,7 @@ F:
   Latin: usus fructus
   Arabic: intifāʿ [usufruct], manfaʿa [use]
   Sanskrit: upayoga [use]
+  Korean: samurui sayong [use]
 
 Phr:
   use it or lose it

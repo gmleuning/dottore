@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: begreifende Vernunft
+  Korean: jeongsingwa jilli
 
 Phr:
   they that worship him must worship him in spirit and in truth [Bible]

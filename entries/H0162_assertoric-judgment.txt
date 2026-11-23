@@ -29,6 +29,7 @@ Adv:
 
 F:
   Latin: ipse dixit
+  Korean: hwageon pandan [assertoric judgment]
 
 Phr:
   ipse dixit [Lat.]

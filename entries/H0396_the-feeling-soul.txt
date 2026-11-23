@@ -34,6 +34,7 @@ F:
   Sanskrit: bhāva [feeling, emotion]
   Chinese: qinggan [feeling]
   Japanese: kanjō
+  Korean: neukkineun yeonghon [feeling soul]
 
 Phr:
   the heart has its reasons which reason knows not of [Pascal]

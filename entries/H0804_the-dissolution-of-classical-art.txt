@@ -20,5 +20,8 @@ Adv:
   in decline
   in dissolution, at the end
 
+F:
+  Korean: gojeonjeok yesurui haeche
+
 Phr:
   the twilight of the gods

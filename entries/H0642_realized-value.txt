@@ -31,6 +31,7 @@ Adv:
 F:
   German: Tauschwert
   Arabic: qīma [value]
+  Korean: silhyeondoen gachi [realized value]
 
 Phr:
   as good as gold

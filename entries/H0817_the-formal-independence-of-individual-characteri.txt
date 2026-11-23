@@ -20,5 +20,8 @@ Adv:
   independently
   formally, individually, on its own account
 
+F:
+  Korean: gaebyeol teukjingui hyeongsikjeok dongnipseong
+
 Phr:
   the individual on his own

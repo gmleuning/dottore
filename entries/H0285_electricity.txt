@@ -28,6 +28,7 @@ F:
   Sanskrit: vidyut [lightning]
   Chinese: dian [electricity, lightning]
   Japanese: denki
+  Korean: jeongi [electricity]
 
 Phr:
   lightning never strikes twice in the same place

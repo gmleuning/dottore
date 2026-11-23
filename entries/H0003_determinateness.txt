@@ -31,6 +31,7 @@ F:
   Arabic: ṣifa [attribute]
   Sanskrit: guṇa [quality, strand of nature], tathatā
   Chinese: xing [nature, inborn character]
+  Korean: jil [quality], seongjil
 
 Phr:
   qualis artifex pereo [Lat.] [Nero]

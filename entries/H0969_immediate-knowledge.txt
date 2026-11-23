@@ -29,6 +29,7 @@ F:
   Greek: pistis
   Arabic: dhawq [taste, direct experience], ʿirfān [gnosis]
   Sanskrit: anubhava [experience], sākṣātkāra [direct realization]
+  Korean: jikjeopji [immediate knowledge], mideum [faith]
 
 Phr:
   the heart has its reasons which reason knows not [Pascal]

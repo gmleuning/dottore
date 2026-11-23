@@ -39,6 +39,7 @@ F:
   Sanskrit: ṛtu [season]
   Chinese: tianqi [weather]
   Japanese: tenki
+  Korean: gisang [weather], gisang gwajeong
 
 Phr:
   it never rains but it pours

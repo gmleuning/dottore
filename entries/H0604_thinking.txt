@@ -38,6 +38,7 @@ F:
   Sanskrit: cintana [thinking], manana [reflection]
   Chinese: siwei [thinking]
   Japanese: shikō
+  Korean: sayu [thinking], saenggak
 
 Phr:
   thought knows only itself

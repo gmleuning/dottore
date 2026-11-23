@@ -36,6 +36,7 @@ F:
   Sanskrit: rūpaka [metaphor], upamā [simile]
   Chinese: yinyu [metaphor], biyu
   Japanese: in'yu
+  Korean: eunyu [metaphor], jigyu [simile]
 
 Phr:
   all the world's a stage [As You Like It]

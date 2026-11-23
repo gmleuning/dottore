@@ -20,5 +20,8 @@ Adv:
   systematically
   comprehensively, architectonically, encyclopaedically, synthetically, as a whole
 
+F:
+  Korean: chegye [system]
+
 Phr:
   the School of Athens

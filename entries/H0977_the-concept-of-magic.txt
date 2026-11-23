@@ -29,6 +29,7 @@ F:
   Arabic: baraka [blessing-power]
   Polynesian: mana, tapu
   Iroquoian: orenda
+  Korean: juryeok [magical power]
 
 Phr:
   like produces like

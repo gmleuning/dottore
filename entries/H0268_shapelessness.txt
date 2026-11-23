@@ -34,6 +34,7 @@ F:
   Latin: rudis indigestaque moles
   Arabic: ʿadam al-shakl
   Chinese: xingwu [formless]
+  Korean: muhyeongtae [shapelessness]
 
 Phr:
   without form, and void [Bible]

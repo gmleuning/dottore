@@ -45,6 +45,7 @@ F:
   Sanskrit: śarīra [body], deha
   Chinese: shenti [body]
   Japanese: karada
+  Korean: jeoncheroseoui hyeongtae
 
 Phr:
   a sound mind in a sound body, mens sana in corpore sano [Lat.] [Juvenal]

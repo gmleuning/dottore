@@ -32,6 +32,7 @@ F:
   Sanskrit: hṛdaya [heart]
   Chinese: xin [heart-mind]
   Japanese: kokoro [heart, mind]
+  Korean: simjang [heart]
 
 Phr:
   the heart has its reasons which reason knows not of [Pascal]

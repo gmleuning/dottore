@@ -24,6 +24,7 @@ F:
   Arabic: ʿilm al-nafs [psychology]
   Chinese: xinlixue [psychology]
   Japanese: shinrigaku
+  Korean: nolli beopchikgwa simni beopchik
 
 Phr:
   the proper study of mankind is man [Pope]

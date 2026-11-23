@@ -37,6 +37,7 @@ F:
   Sanskrit: śreyas [the good], dharma
   Chinese: shan [good]
   Japanese: zen
+  Korean: seonui inyeom [idea of the good]
 
 Phr:
   the Form of the Good [Plato]

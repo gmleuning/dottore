@@ -22,6 +22,7 @@ Adv:
 
 F:
   Greek: naos, pronaos, opisthodomos, acroterion
+  Korean: Geuriseu sinjeon [Greek temple]
 
 Phr:
   the Parthenon on the Acropolis

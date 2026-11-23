@@ -28,6 +28,7 @@ Adv:
 
 F:
   German: Allheit
+  Korean: jeonching pandan [universal judgment]
 
 Phr:
   all men are mortal

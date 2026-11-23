@@ -68,6 +68,7 @@ F:
   Sanskrit: rasa [taste, juice, aesthetic flavour]
   Chinese: wei [taste]
   Japanese: aji, umami
+  Korean: mat [taste]
 
 Phr:
   de gustibus non est disputandum [Lat.]

@@ -38,6 +38,7 @@ F:
   Sanskrit: dharma, kartavya [what ought to be done], svadharma [one's own duty]
   Chinese: yiwu [duty]
   Japanese: gimu, giri [social obligation]
+  Korean: dodeokjeok uimu [moral duty]
 
 Phr:
   duty for duty's sake [F. H. Bradley, on Kant]

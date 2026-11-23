@@ -33,6 +33,7 @@ F:
   Arabic: jihāz haḍmī [digestive system]
   Sanskrit: jaṭhara [stomach, belly]
   Chinese: xiaohua xitong [digestive system]
+  Korean: sohwagye [digestive system]
 
 Phr:
   an army marches on its stomach

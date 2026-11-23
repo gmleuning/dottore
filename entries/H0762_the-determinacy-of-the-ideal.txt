@@ -24,5 +24,8 @@ Adv:
   concretely
   determinately, definitely, in particular
 
+F:
+  Korean: isangui gyujeongseong
+
 Phr:
   the ideal in particular form

@@ -36,6 +36,7 @@ F:
   Sanskrit: buddhi
   Chinese: lijie [understanding]
   Japanese: rikai
+  Korean: oseong [understanding]
 
 Phr:
   I see what you mean

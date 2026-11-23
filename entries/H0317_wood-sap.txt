@@ -23,6 +23,7 @@ Adv:
 F:
   German: Holzsaft
   Arabic: nusgh
+  Korean: mokbu susaek [wood sap]
 
 Phr:
   when the sap rises in spring

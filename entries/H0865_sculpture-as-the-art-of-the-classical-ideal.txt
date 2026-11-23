@@ -20,5 +20,8 @@ Adv:
   classically
   ideally, adequately, pre-eminently, par excellence
 
+F:
+  Korean: gojeonjeok isang [classical ideal]
+
 Phr:
   the classical art par excellence

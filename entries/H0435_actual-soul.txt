@@ -24,6 +24,7 @@ F:
   German: Leib, die wirkliche Seele
   Arabic: tajassud
   Sanskrit: śarīrin [embodied one]
+  Korean: hyeonsiljeok yeonghon [actual soul]
 
 Phr:
   the body is the temple of the soul

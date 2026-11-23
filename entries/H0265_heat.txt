@@ -53,6 +53,7 @@ F:
   Sanskrit: tapas [heat, ascetic ardour], uṣṇa
   Chinese: re [heat]
   Japanese: netsu
+  Korean: yeol [heat]
 
 Phr:
   if you can't stand the heat, get out of the kitchen

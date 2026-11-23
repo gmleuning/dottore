@@ -31,6 +31,7 @@ F:
   Sanskrit: dhūmaketu [smoke-bannered, comet]
   Chinese: huixing [broom star, comet]
   Japanese: suisei
+  Korean: hyeseong [comet]
 
 Phr:
   when beggars die there are no comets seen

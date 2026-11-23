@@ -25,6 +25,7 @@ F:
   Sanskrit: mahābhūta [great elements], pañcabhūta [five elements, adding ether]
   Chinese: wuxing [five phases: wood, fire, earth, metal, water]
   Japanese: godai [five great elements]
+  Korean: wonso [element], sadae [four elements]
 
 Phr:
   the four winds

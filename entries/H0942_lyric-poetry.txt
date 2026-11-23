@@ -30,6 +30,7 @@ F:
   Sanskrit: gīti-kāvya
   Chinese: shi, ci [lyric song]
   Japanese: tanka, haiku
+  Korean: seojeongsi [lyric poetry]
 
 Phr:
   the spontaneous overflow of powerful feelings [Wordsworth]

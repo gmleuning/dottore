@@ -29,6 +29,7 @@ F:
   Greek: anabasis, epektasis [stretching forward], theōsis
   Arabic: fanāʾ
   Sanskrit: mokṣa [release], nirvāṇa
+  Korean: yuhanjaui jiyang
 
 Phr:
   excelsior [Lat.]

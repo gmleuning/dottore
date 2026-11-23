@@ -32,6 +32,7 @@ F:
   Arabic: tanwīr [enlightenment], Nahḍa [Arab renaissance]
   Chinese: qimeng [enlightenment]
   Japanese: keimō
+  Korean: gyemong [Enlightenment]
 
 Phr:
   sapere aude [Lat.] [dare to know] [Horace, Kant]

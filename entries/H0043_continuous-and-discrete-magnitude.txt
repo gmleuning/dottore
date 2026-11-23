@@ -29,6 +29,7 @@ F:
   German: Kontinuität, Diskretion
   Latin: gradatim
   Greek: synecheia
+  Korean: yeonsongnyang [continuous], bulliryang [discrete]
 
 Phr:
   natura non facit saltus [Lat.] [Linnaeus, Philosophia Botanica §77]

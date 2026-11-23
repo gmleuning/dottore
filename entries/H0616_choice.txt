@@ -64,6 +64,7 @@ F:
   Sanskrit: varaṇa [choice]
   Chinese: xuanze [choice]
   Japanese: sentaku
+  Korean: jauiseong [arbitrariness], seontaek
 
 Phr:
   alea iacta est [Lat.] [the die is cast] [Caesar]

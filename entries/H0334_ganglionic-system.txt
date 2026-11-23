@@ -20,6 +20,9 @@ Adv:
   involuntarily, unconsciously, automatically
   in one's gut, in the pit of one's stomach
 
+F:
+  Korean: sinjeolgye [ganglionic system]
+
 Phr:
   a gut feeling
   trust your gut

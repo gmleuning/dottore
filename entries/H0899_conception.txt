@@ -22,6 +22,7 @@ Adv:
 
 F:
   Italian: concetto, disegno
+  Korean: gusang [conception]
 
 Phr:
   disegno interno [It.] [inner design]

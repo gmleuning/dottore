@@ -31,6 +31,7 @@ F:
   Sanskrit: vātsalya [parental affection]
   Chinese: ci [parental kindness]
   Japanese: boseiai [maternal love]
+  Korean: bumoui sarang [parental love]
 
 Phr:
   the child is father of the man [Wordsworth]

@@ -20,5 +20,8 @@ Adv:
   rigidly, frontally
   stiffly, by rule
 
+F:
+  Korean: Ijipteu jogak [Egyptian sculpture]
+
 Phr:
   the arms at the sides

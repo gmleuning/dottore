@@ -24,5 +24,8 @@ Adv:
   subjectively, to one's liking
   agreeably, contentedly, inwardly
 
+F:
+  Korean: jugwanjeok gamjeong
+
 Phr:
   de gustibus non est disputandum [Lat.]

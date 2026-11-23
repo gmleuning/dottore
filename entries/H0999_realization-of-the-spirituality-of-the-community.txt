@@ -24,6 +24,7 @@ Adv:
 F:
   German: Verwirklichung, Weltlichkeit, Sittlichkeit, Beruf
   Latin: saeculum, regnum Dei
+  Korean: sinang gongdongche [community of faith]
 
 Phr:
   the kingdom of God is within you [Bible]

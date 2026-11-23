@@ -38,6 +38,7 @@ F:
   Sanskrit: śakti [power, energy]
   Chinese: li [force, strength], qi [vital force]
   Japanese: chikara
+  Korean: himgwa balhyeon [force and expression]
 
 Phr:
   knowledge is power [Bacon]

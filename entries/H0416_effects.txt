@@ -19,5 +19,8 @@ Adj:
 Adv:
   in effect, as a result
 
+F:
+  Korean: hyogwa [effects]
+
 Phr:
   the cure is worse than the disease

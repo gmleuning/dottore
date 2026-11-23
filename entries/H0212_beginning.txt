@@ -37,6 +37,7 @@ F:
   Sanskrit: ādi [beginning]
   Chinese: shi [beginning], yuan [origin]
   Japanese: hajime
+  Korean: sijak [beginning]
 
 Phr:
   in the beginning was the Word [Bible]

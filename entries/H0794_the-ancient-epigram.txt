@@ -27,6 +27,7 @@ F:
   Sanskrit: muktaka [single-stanza poem]
   Chinese: jueju [quatrain]
   Japanese: haiku
+  Korean: godae gyeongu [epigram]
 
 Phr:
   brevity is the soul of wit [Hamlet]

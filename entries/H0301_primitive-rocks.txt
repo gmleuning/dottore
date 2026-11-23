@@ -23,6 +23,7 @@ Adv:
 
 F:
   German: Urgestein
+  Korean: wonsiam [primitive rock]
 
 Phr:
   solid as granite

@@ -32,6 +32,7 @@ F:
   Arabic: iʿtirāf [recognition]
   Chinese: chengren [recognition]
   Japanese: shōnin
+  Korean: seungin [recognition], injeong
 
 Phr:
   self-consciousness exists in and for itself when, and by the fact that, it so exists for another [Hegel]

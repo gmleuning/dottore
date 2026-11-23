@@ -38,6 +38,7 @@ F:
   Sanskrit: ṛta, niyati [destiny, necessity]
   Chinese: ming [fate, mandate], tianming [mandate of heaven]
   Japanese: unmei
+  Korean: jeoldaejeok pillyeonseong
 
 Phr:
   anankē [Gr.]

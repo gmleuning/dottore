@@ -32,6 +32,7 @@ F:
   Sanskrit: vyakti [individual], pudgala [person]
   Chinese: geren [individual]
   Japanese: kojin
+  Korean: gaebyeol juche [individual subject]
 
 Phr:
   every man in his humour

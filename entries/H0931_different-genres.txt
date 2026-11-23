@@ -27,6 +27,7 @@ F:
   German: Gattung
   Arabic: anwāʿ adabiyya [literary genres]
   Chinese: wenti [genre]
+  Korean: seosasi [epic], seojeongsi [lyric], geuksi [dramatic poetry]
 
 Phr:
   epic, lyric, drama

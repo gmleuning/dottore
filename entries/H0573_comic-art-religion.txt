@@ -39,6 +39,7 @@ F:
   Sanskrit: prahasana [farce]
   Chinese: xiju [comedy]
   Japanese: kigeki
+  Korean: huigeuk [comedy]
 
 Phr:
   ridentem dicere verum [Lat.] [to tell the truth laughing] [Horace]

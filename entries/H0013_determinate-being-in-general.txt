@@ -23,6 +23,7 @@ Adv:
 F:
   German: überhaupt, Dasein überhaupt
   Latin: determinatio negatio est [Spinoza, Letter 50], omnis determinatio est negatio [Hegel's form of it]
+  Korean: jil [quality]
 
 Phr:
   determinatio negatio est [Lat.] [Spinoza]

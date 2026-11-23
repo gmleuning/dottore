@@ -23,6 +23,7 @@ Adv:
 
 F:
   Latin: dictum de omni, dictum de omni et nullo, a fortiori
+  Korean: jeoncheseong churon [allness]
 
 Phr:
   what holds of all holds of each

@@ -35,6 +35,7 @@ F:
   Sanskrit: gṛhastha [householder stage]
   Chinese: chengshu [maturity]
   Japanese: seijuku
+  Korean: jangnyeon [maturity], seongnyeon
 
 Phr:
   when I became a man, I put away childish things [Bible]

@@ -23,6 +23,7 @@ Adv:
 F:
   Arabic: ʿilm al-manāẓir [optics]
   Chinese: guangxue [optics]
+  Korean: biche daehan gwangye
 
 Phr:
   light and its affections

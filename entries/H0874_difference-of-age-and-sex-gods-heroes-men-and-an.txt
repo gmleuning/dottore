@@ -21,5 +21,8 @@ Adv:
   by age, by sex
   by rank, in degree
 
+F:
+  Korean: singwa yeongung [gods and heroes]
+
 Phr:
   gods, heroes, and men

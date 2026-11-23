@@ -45,6 +45,7 @@ F:
   Arabic: masʾūliyya
   Chinese: zeren [responsibility]
   Japanese: sekinin
+  Korean: chaegimgwa gwichaek [liability]
 
 Phr:
   mea culpa [Lat.]

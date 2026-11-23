@@ -32,6 +32,7 @@ F:
   Sanskrit: vāc [speech]
   Chinese: yuyan [language]
   Japanese: kotoba
+  Korean: eoneo [language]
 
 Phr:
   language is the existence of the self as self [Hegel]

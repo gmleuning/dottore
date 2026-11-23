@@ -37,6 +37,7 @@ F:
   Sanskrit: anumāna [inference]
   Chinese: tuili [inference]
   Japanese: suiri
+  Korean: hyeongsikjeok iseong [formal reason]
 
 Phr:
   it stands to reason

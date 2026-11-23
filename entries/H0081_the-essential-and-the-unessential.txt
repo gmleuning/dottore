@@ -34,6 +34,7 @@ F:
   Greek: adiaphora [things indifferent], kat' exochin
   French: en passant
   Arabic: ʿaraḍ [accident] vs. dhāt [essence]
+  Korean: bonjiljeogin geot, bibonjiljeok
 
 Phr:
   sine qua non [Lat.]

@@ -24,6 +24,7 @@ Adv:
 
 F:
   German: Geistestätigkeit
+  Korean: jeongsin hwaldong
 
 Phr:
   to make it one's own

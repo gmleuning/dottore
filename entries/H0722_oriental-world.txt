@@ -27,6 +27,7 @@ F:
   Arabic: al-sharq [the East], al-mashriq
   Chinese: dongfang [the East]
   Japanese: tōyō
+  Korean: dongyang segye [Oriental world]
 
 Phr:
   the East knew only that one is free [Hegel]

@@ -32,6 +32,7 @@ F:
   Arabic: kullī [universal]
   Sanskrit: sāmānya [generality], jāti [genus]
   Chinese: gong [common], pubian [universal]
+  Korean: bopyeonjeok gaenyeom [universal]
 
 Phr:
   universalia sunt realia [Lat.]

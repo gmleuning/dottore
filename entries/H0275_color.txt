@@ -63,6 +63,7 @@ F:
   Sanskrit: varṇa [colour, class], rāga [colour, passion]
   Chinese: se [colour, form]
   Japanese: iro
+  Korean: saek [color], saekchae
 
 Phr:
   colours are the deeds and sufferings of light [Goethe]

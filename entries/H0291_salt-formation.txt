@@ -29,6 +29,7 @@ F:
   Sanskrit: lavaṇa [salt]
   Chinese: yan [salt]
   Japanese: shio
+  Korean: yeom hyeongseong [salt formation], junghwa
 
 Phr:
   the salt of the earth [Bible]

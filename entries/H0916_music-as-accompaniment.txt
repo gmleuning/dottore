@@ -26,6 +26,7 @@ Adv:
 
 F:
   German: Lied
+  Korean: banju [accompaniment], gagok [art song]
 
 Phr:
   the Passion according to St Matthew [Bach]

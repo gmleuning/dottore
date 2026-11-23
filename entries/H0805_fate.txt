@@ -39,6 +39,7 @@ F:
   Sanskrit: niyati
   Chinese: mingyun [fate]
   Japanese: shukumei
+  Korean: unmyeong [fate]
 
 Phr:
   even the gods do not fight against necessity [Simonides]

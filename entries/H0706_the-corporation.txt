@@ -38,6 +38,7 @@ F:
   Sanskrit: śreṇī [guild]
   Chinese: hanghui [guild]
   Japanese: za [medieval guild]
+  Korean: johap [corporation], dongeop johap [guild]
 
 Phr:
   the corporation as the second family [Hegel]

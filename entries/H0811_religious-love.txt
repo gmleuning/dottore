@@ -30,6 +30,7 @@ F:
   Arabic: maḥabba [love], ʿishq ilāhī [divine love]
   Sanskrit: bhakti [devotion]
   Chinese: ci'ai [compassionate love]
+  Korean: jonggyojeok sarang [religious love]
 
 Phr:
   God is love, Deus caritas est [Lat.] [Bible]

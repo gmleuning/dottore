@@ -41,6 +41,7 @@ F:
   Sanskrit: paśu [animal], prāṇin
   Chinese: dongwu [moving thing, animal]
   Japanese: dōbutsu
+  Korean: dongmul [animal]
 
 Phr:
   all animals are equal, but some animals are more equal than others [Orwell]

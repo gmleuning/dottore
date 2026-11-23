@@ -35,6 +35,7 @@ F:
   Sanskrit: ātman [self], cit [consciousness], manas [mind], puruṣa [spirit]
   Chinese: jingshen [spirit], xin [heart-mind], shen [spirit]
   Japanese: seishin
+  Korean: jeongsin [spirit], jeongsin cheolhak
 
 Phr:
   the wind bloweth where it listeth ... so is every one that is born of the Spirit [Bible]

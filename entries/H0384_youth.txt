@@ -38,6 +38,7 @@ F:
   Sanskrit: yauvana [youth]
   Chinese: qingchun [green spring, youth]
   Japanese: seishun
+  Korean: cheongnyeon [youth], cheongchun
 
 Phr:
   bliss was it in that dawn to be alive, but to be young was very heaven [Wordsworth]

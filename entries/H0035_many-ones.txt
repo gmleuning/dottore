@@ -28,6 +28,7 @@ Adv:
 F:
   German: Repulsion, Abstoßen, Entzweiung [division into two]
   Greek: hoi polloi
+  Korean: daja [many ones]
 
 Phr:
   divide et impera [Lat.]

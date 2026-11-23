@@ -35,6 +35,7 @@ F:
   Arabic: ladhdha [pleasure]
   Sanskrit: kāma
   Chinese: xiangle [enjoyment]
+  Korean: kwaerakgwa pillyeon
 
 Phr:
   he takes hold of life much as a ripe fruit is plucked [Hegel]

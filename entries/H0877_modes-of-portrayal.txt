@@ -24,6 +24,7 @@ Adv:
 
 F:
   French: bas relief
+  Korean: hwanjo [sculpture in the round], bujo [relief]
 
 Phr:
   alone or in groups

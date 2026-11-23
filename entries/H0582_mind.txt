@@ -37,6 +37,7 @@ F:
   Sanskrit: manas [mind], citta [mind-stuff], antaḥkaraṇa [inner instrument]
   Chinese: xin [heart-mind]
   Japanese: kokoro [heart-mind], seishin [spirit, mind]
+  Korean: simnihak [psychology], jeongsin [mind]
 
 Phr:
   mens agitat molem [Lat.] [mind moves matter] [Virgil]

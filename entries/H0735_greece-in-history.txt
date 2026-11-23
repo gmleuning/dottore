@@ -23,6 +23,7 @@ Adv:
 F:
   Arabic: Iskandar [Alexander]
   Persian: Sikandar
+  Korean: yeoksasogui geuriseu
 
 Phr:
   go tell the Spartans [Simonides]

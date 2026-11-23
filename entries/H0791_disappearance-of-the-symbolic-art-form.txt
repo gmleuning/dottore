@@ -20,5 +20,8 @@ Adv:
   prosaically
   in dissolution, at the end, in passing
 
+F:
+  Korean: sangjingjeok yesulhyeongsigui somyeol
+
 Phr:
   the symbol fades into prose

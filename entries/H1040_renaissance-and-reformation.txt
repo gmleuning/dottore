@@ -25,6 +25,7 @@ F:
   Italian: Rinascimento, uomo universale
   Arabic: al-nahḍa [renaissance]
   Chinese: wenyi fuxing [renaissance]
+  Korean: Reunesangseu [Renaissance], jonggyo gaehyeok [Reformation]
 
 Phr:
   oration on the dignity of man [Pico]

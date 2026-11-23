@@ -38,6 +38,7 @@ F:
   Sanskrit: bandhaka [pledge]
   Chinese: diya [pledge]
   Japanese: tanpo [security]
+  Korean: dambo gyeyak [pledge]
 
 Phr:
   as surety

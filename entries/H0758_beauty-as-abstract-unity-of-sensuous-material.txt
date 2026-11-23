@@ -37,6 +37,7 @@ F:
   Arabic: ṣafāʾ [purity, clarity]
   Sanskrit: śuddhi [purity]
   Chinese: chunjing [purity]
+  Korean: sunsuseong [purity]
 
 Phr:
   clear as crystal

@@ -28,6 +28,7 @@ F:
   German: das Jenseits, das ganz Andere, das Unendliche überhaupt
   Arabic: al-ghayb [the unseen]
   Sanskrit: paramārtha [ultimate]
+  Korean: muhanja [the infinite]
 
 Phr:
   beyond the beyond

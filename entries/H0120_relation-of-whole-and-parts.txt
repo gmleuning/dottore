@@ -35,6 +35,7 @@ F:
   Arabic: kull wa-juzʾ [whole and part]
   Sanskrit: avayavin and avayava [whole and part]
   Chinese: zhengti and bufen [whole and part]
+  Korean: jeonchewa bubun [whole and parts]
 
 Phr:
   the whole is something besides the parts [Aristotle, Metaphysics VIII.6, 1045a10, tr. Ross]

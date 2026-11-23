@@ -32,6 +32,7 @@ F:
   Sanskrit: kalākāra [artist], śilpin [artisan]
   Chinese: yishujia [artist]
   Japanese: geijutsuka
+  Korean: yesulga [artist]
 
 Phr:
   poeta nascitur, non fit [Lat.] [the poet is born, not made]

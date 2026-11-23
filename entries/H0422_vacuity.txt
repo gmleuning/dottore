@@ -28,6 +28,7 @@ Adv:
 F:
   Latin: tabula rasa
   Arabic: farāgh [emptiness]
+  Korean: gonheo [vacuity]
 
 Phr:
   the lights are on but nobody is home

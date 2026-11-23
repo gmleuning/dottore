@@ -35,6 +35,7 @@ F:
   Sanskrit: svabhāva [own-nature], tattva [thatness, principle]
   Chinese: ti [substance, essence], benzhi [essential nature]
   Japanese: honshitsu
+  Korean: bonjil [essence]
 
 Phr:
   das Wesen ist das vergangene, aber zeitlos vergangene Sein [Ger.] [Hegel, Science of Logic II, Introduction]

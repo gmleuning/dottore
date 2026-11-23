@@ -35,6 +35,7 @@ F:
   Sanskrit: kula [family, lineage]
   Chinese: jia [family], guo [state]
   Japanese: ie [household]
+  Korean: minjokgwa gajok [nation and family]
 
 Phr:
   blood is thicker than water

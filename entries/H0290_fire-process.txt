@@ -45,6 +45,7 @@ F:
   Sanskrit: dahana [burning]
   Chinese: ranshao [combustion]
   Japanese: nenshō
+  Korean: yeonso gwajeong [fire process]
 
 Phr:
   ashes to ashes

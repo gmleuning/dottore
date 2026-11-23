@@ -27,6 +27,7 @@ Adv:
 
 F:
   Latin: ad infinitum
+  Korean: muhan jinhaeng [infinite progress]
 
 Phr:
   the ghosts of departed quantities [Berkeley]

@@ -28,6 +28,7 @@ F:
   Greek: eidolon
   Arabic: mafhūm, maʿqūl [intelligible]
   Sanskrit: jāti [universal, genus]
+  Korean: gaenyeom [concept]
 
 Phr:
   thoughts without content are empty, intuitions without concepts are blind [Kant]

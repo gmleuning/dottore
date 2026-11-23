@@ -39,6 +39,7 @@ F:
   Sanskrit: adharma [wrong]
   Chinese: buyi [injustice]
   Japanese: fusei
+  Korean: bulbeop [wrong]
 
 Phr:
   two wrongs don't make a right

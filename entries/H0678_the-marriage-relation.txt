@@ -30,6 +30,7 @@ Adv:
 F:
   Latin: consortium vitae [partnership of life], vinculum matrimonii
   Arabic: mawadda wa-raḥma [love and mercy] [Qur'an]
+  Korean: bubu gwangye [marriage relation]
 
 Phr:
   they shall be one flesh [Bible]

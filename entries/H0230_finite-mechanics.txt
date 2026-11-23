@@ -33,6 +33,7 @@ Adv:
 
 F:
   Latin: vis impressa
+  Korean: yuhan yeokhak [finite mechanics]
 
 Phr:
   a body at rest tends to stay at rest

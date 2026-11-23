@@ -29,6 +29,7 @@ F:
   Arabic: khiṣb [fertility]
   Sanskrit: urvarā [fertile soil]
   Chinese: feiwo [fertile]
+  Korean: biokan daeji [fertile earth]
 
 Phr:
   be fruitful and multiply [Bible]

@@ -20,5 +20,8 @@ Adv:
   inwardly
   chiefly, principally, above all, decisively
 
+F:
+  Korean: naemyeonseong [inwardness]
+
 Phr:
   the soul's depths in colour

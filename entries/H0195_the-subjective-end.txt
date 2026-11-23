@@ -38,6 +38,7 @@ F:
   Sanskrit: saṅkalpa [resolve, intention]
   Chinese: yitu [intention]
   Japanese: ito
+  Korean: jugwanjeok mokjeok [subjective end]
 
 Phr:
   the best laid schemes o' mice an' men gang aft agley [Burns]

@@ -28,6 +28,7 @@ F:
   Arabic: maʾsāh [tragedy]
   Chinese: beiju [tragedy]
   Japanese: higeki
+  Korean: bigeuk [tragedy]
 
 Phr:
   pity and fear [Aristotle]

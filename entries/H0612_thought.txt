@@ -20,5 +20,8 @@ Adv:
   on reflection, upon consideration
   with shame, remorsefully, hopefully
 
+F:
+  Korean: sayujeok gamjeong, suchisim [shame], huhoe [remorse]
+
 Phr:
   the heart has its reasons [Pascal]

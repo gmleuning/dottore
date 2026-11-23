@@ -20,5 +20,8 @@ Adv:
   in hexameters
   in the classical manner, in heroic verse
 
+F:
+  Korean: Illiaseu [Iliad], Odiseia [Odyssey], Aineiseu [Aeneid]
+
 Phr:
   arma virumque cano [Lat.] [Virgil]

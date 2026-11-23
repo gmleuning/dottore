@@ -54,6 +54,7 @@ F:
   Latin: missa cantata, ebdomarius, ecclesia, traditio, depositum fidei, unio mystica, extra ecclesiam nulla salus
   Greek: ekklēsia, koinōnia, eucharistia
   French: conge d'elire, suisse, Bonhomme, religieuse
+  Korean: gyohoe [church], seongsa [sacrament]
 
 Phr:
   this do in remembrance of me [Bible]

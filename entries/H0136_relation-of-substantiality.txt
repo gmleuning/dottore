@@ -32,6 +32,7 @@ F:
   Arabic: jawhar wa-ʿaraḍ [substance and accident]
   Sanskrit: dravya and guṇa
   Chinese: ti and yong [substance and function]
+  Korean: silche [substance], uyuseong [accident]
 
 Phr:
   substance is that which is in itself and is conceived through itself [Spinoza]

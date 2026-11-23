@@ -25,6 +25,7 @@ F:
   Greek: sophia
   Arabic: ḥikma [wisdom]
   Sanskrit: prajñā [wisdom]
+  Korean: silchejeok ji
 
 Phr:
   wisdom is the principal thing [Bible]

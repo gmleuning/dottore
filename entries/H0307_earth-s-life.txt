@@ -25,6 +25,7 @@ Adv:
 F:
   Arabic: ḥayāt al-arḍ
   Chinese: diqiu shengming
+  Korean: jiguui saengmyeong [earth's life]
 
 Phr:
   the earth breathes

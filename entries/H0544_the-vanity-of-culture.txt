@@ -37,6 +37,7 @@ F:
   Sanskrit: ahaṃkāra [ego, conceit]
   Chinese: xurong [vanity]
   Japanese: kyoei
+  Korean: gyoyangui heoyeong [vanity of culture]
 
 Phr:
   vanitas vanitatum, omnia vanitas [Lat.] [Bible]

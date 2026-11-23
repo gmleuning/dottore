@@ -42,6 +42,7 @@ F:
   Sanskrit: ghanatva [density]
   Chinese: bizhong [specific gravity]
   Japanese: hijū
+  Korean: bijung [specific gravity], mildo
 
 Phr:
   eureka! [Gr.] [Archimedes]

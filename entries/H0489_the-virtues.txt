@@ -52,6 +52,7 @@ F:
   Arabic: faḍāʾil [virtues], muruwwa [manly virtue], karāma [honour]
   Sanskrit: guṇa [virtue]
   Chinese: de [virtue], ren [humaneness], yi [righteousness]
+  Korean: deok [virtue], sarang, ujeong, myeongye
 
 Phr:
   greater love hath no man than this [Bible]

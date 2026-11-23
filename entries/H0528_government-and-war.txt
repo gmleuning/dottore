@@ -31,6 +31,7 @@ F:
   Sanskrit: rāja [king], yuddha [war]
   Chinese: zhengfu [government], zhanzheng [war]
   Japanese: sensō
+  Korean: jeongbuwa jeonjaeng [government and war]
 
 Phr:
   war is the father of all things, polemos patēr pantōn [Gr.] [Heraclitus]

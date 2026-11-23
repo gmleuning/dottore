@@ -25,6 +25,7 @@ F:
   Sanskrit: viṣaya [object]
   Chinese: keguan [objective]
   Japanese: kyakkan
+  Korean: gaekgwanseong [objectivity]
 
 Phr:
   the world is everything that is the case [Wittgenstein]

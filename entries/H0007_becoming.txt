@@ -35,6 +35,7 @@ F:
   Pali: anicca
   Chinese: bian [change], yi [change]
   Japanese: mujō [impermanence]
+  Korean: saengseong [becoming]
 
 Phr:
   panta rhei [Gr.] [attrib. Heraclitus]

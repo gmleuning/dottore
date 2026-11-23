@@ -38,6 +38,7 @@ F:
   Sanskrit: vicheda [separation]
   Chinese: lihun [divorce]
   Japanese: rikon
+  Korean: ihon [divorce]
 
 Phr:
   let not man put asunder [Bible]

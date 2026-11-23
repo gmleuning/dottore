@@ -27,6 +27,7 @@ Adv:
 
 F:
   German: Erinnerung
+  Korean: bonjillo ihaeng
 
 Phr:
   things are not what they seem

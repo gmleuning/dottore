@@ -70,6 +70,7 @@ F:
   Sanskrit: śabda [sound, word], nāda [sound, resonance]
   Chinese: sheng [sound], yin [tone]
   Japanese: oto
+  Korean: sori [sound], eum
 
 Phr:
   the sound of one hand clapping [Hakuin]

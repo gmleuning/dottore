@@ -21,5 +21,8 @@ Adv:
   in a straight line, sidewise
   sideways
 
+F:
+  Korean: Geuriseu ko [Greek nose], yeobeolgul [profile]
+
 Phr:
   the Grecian nose

@@ -29,6 +29,7 @@ F:
   Sanskrit: chandas [metre]
   Chinese: gelü [prosodic rules]
   Japanese: inritsu
+  Korean: jaksibeop [versification], unyul [metre]
 
 Phr:
   verse is a measured speech

@@ -43,6 +43,7 @@ F:
   Sanskrit: vivāha [marriage]
   Chinese: hunyin [marriage]
   Japanese: kekkon
+  Korean: gyeolhon [marriage], honin
 
 Phr:
   marriage is ethical love [Hegel]

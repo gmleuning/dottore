@@ -26,6 +26,7 @@ F:
   Arabic: dīn ṭabīʿī
   Sanskrit: prakṛti-pūjā [nature worship]
   Chinese: ziran zongjiao [natural religion]
+  Korean: jayeon jonggyo [natural religion]
 
 Phr:
   God in the forms of nature

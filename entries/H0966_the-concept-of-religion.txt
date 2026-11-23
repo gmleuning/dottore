@@ -29,6 +29,7 @@ F:
   Greek: thrēskeia, eusebeia
   Arabic: dīn
   Sanskrit: dharma
+  Korean: jonggyo gaenyeom [concept of religion]
 
 Phr:
   the philosophy of religion

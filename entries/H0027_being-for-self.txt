@@ -31,6 +31,7 @@ F:
   Arabic: nafs [self]
   Sanskrit: svātantrya [self-dependence], svabhāva [own-being]
   Chinese: ziran [self-so, spontaneity]
+  Korean: daejajonjae [being-for-self]
 
 Phr:
   sui generis [Lat.]

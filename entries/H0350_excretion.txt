@@ -45,6 +45,7 @@ F:
   Arabic: ikhrāj [excretion]
   Sanskrit: mala [waste, impurity]
   Chinese: paixie [excretion]
+  Korean: baesseol [excretion]
 
 Phr:
   inter faeces et urinam nascimur [Lat.]

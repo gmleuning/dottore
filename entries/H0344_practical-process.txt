@@ -21,6 +21,7 @@ Adv:
 
 F:
   Arabic: ʿamal [action]
+  Korean: silcheon gwajeong [practical process]
 
 Phr:
   the early bird catches the worm

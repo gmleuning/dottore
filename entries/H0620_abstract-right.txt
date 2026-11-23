@@ -40,6 +40,7 @@ F:
   Sanskrit: adhikāra [entitlement]
   Chinese: quanli [right]
   Japanese: kenri
+  Korean: chusang beop [abstract right]
 
 Phr:
   be a person and respect others as persons [Hegel]

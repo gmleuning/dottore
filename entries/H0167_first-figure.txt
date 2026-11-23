@@ -24,6 +24,7 @@ F:
   Latin: Barbara, Celarent, Darii, Ferio [mnemonic moods], figura prima
   Greek: prōton schēma, teleios syllogismos
   Arabic: al-shakl al-awwal
+  Korean: jeilgyeok [first figure]
 
 Phr:
   all men are mortal

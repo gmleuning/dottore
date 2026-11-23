@@ -35,6 +35,7 @@ F:
   Latin: mimus, pantomimus
   French: mise en scène, spectacle, ballet, corps de ballet, tableau vivant
   Italian: commedia dell'arte, all'improvviso, opera seria, opera buffa, ballo
+  Korean: opera [opera], balle [ballet]
 
 Phr:
   commedia dell'arte [It.]

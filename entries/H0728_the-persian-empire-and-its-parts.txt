@@ -25,6 +25,7 @@ Adv:
 F:
   Hebrew: Yehuda
   Arabic: Sūriya, Miṣr [Egypt]
+  Korean: pereusia jeguk [Persian empire]
 
 Phr:
   the riddle of the Sphinx

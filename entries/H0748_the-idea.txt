@@ -26,6 +26,7 @@ F:
   Greek: eidos
   Arabic: mithāl [ideal form]
   Sanskrit: rūpa [form]
+  Korean: inyeom [the Idea]
 
 Phr:
   the idea is the true

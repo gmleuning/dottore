@@ -20,5 +20,8 @@ Adv:
   heavenward
   for devotion, inwardly
 
+F:
+  Korean: nangmanjeok geonchuk [romantic architecture]
+
 Phr:
   a forest of stone

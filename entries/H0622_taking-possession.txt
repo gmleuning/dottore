@@ -36,6 +36,7 @@ F:
   German: Besitznahme
   Latin: occupatio, res nullius [ownerless thing]
   Arabic: ḥiyāza [taking possession], iḥyāʾ al-mawāt [reviving dead land]
+  Korean: jeomyu [taking possession]
 
 Phr:
   finders keepers

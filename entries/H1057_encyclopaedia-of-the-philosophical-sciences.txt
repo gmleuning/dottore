@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: the Zusätze [additions]
+  Korean: Cheolhak baekgwa [Encyclopaedia]
 
 Phr:
   a circle of circles [Hegel]

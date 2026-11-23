@@ -42,6 +42,7 @@ F:
   Sanskrit: bhūgola [geography, earth-sphere]
   Chinese: dili [geography, lit. earth-patterns]
   Japanese: chiri
+  Korean: jayeon jiri [physical geography]
 
 Phr:
   here be dragons, hic sunt dracones [Lat.]

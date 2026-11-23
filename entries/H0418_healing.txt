@@ -27,6 +27,7 @@ F:
   Arabic: shifāʾ [healing], ruqya [healing incantation]
   Sanskrit: āyurveda
   Chinese: zhiyu [cure]
+  Korean: chiyu [healing]
 
 Phr:
   thy faith hath made thee whole [Bible]

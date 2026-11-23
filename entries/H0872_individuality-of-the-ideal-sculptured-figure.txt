@@ -23,5 +23,8 @@ Adv:
   distinctively
   individually, characteristically
 
+F:
+  Korean: sinsang [image of a god]
+
 Phr:
   known by their attributes

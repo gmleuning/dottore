@@ -29,6 +29,7 @@ Adv:
 F:
   German: aufheben, bestimmte Negation, Negation der Negation, Moment [a sublated element], Idealität, aufgehoben
   Latin: tollere, conservare, elevare, mutatis mutandis
+  Korean: jiyang [sublation]
 
 Phr:
   reculer pour mieux sauter [Fr.]

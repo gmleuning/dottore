@@ -23,6 +23,7 @@ Adv:
 F:
   Greek: to hen, psychē, epistrophē, henōsis, proodos, monē, ekstasis, theourgia, epekeina tēs ousias
   Arabic: al-Shaykh al-Yūnānī [the Greek Sage, Plotinus]
+  Korean: Sinpeullatonjuui [Neoplatonism], ilja [the One], yuchul [emanation]
 
 Phr:
   the flight of the alone to the alone [Plotinus]

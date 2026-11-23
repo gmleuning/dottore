@@ -28,6 +28,7 @@ Adv:
 
 F:
   French: idée fixe
+  Korean: gojeong gwannyeom [fixed idea], pyeonjip
 
 Phr:
   King Charles's head [Dickens]

@@ -40,6 +40,7 @@ F:
   Sanskrit: kalā [art], śilpa [craft, art]
   Chinese: yishu [art]
   Japanese: geijutsu
+  Korean: yesul [art]
 
 Phr:
   ars longa, vita brevis [Lat.] [Hippocrates]

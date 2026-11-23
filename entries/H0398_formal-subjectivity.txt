@@ -22,5 +22,8 @@ Adv:
   in outline, in embryo, in germ
   formally, only in outline, passively
 
+F:
+  Korean: hyeongsikjeok jugwanseong
+
 Phr:
   the self in embryo

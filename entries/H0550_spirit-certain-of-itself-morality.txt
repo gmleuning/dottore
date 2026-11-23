@@ -29,6 +29,7 @@ F:
   Sanskrit: dharma
   Chinese: daode [morality]
   Japanese: dōtoku
+  Korean: dodeok [morality]
 
 Phr:
   the starry heavens above me and the moral law within me [Kant]

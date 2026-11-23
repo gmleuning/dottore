@@ -84,6 +84,7 @@ F:
   Sanskrit: saṃkhyā [number], gaṇita [mathematics], śūnya
   Chinese: shu [number, fate]
   Japanese: ban, man, banzai
+  Korean: su [number]
 
 Phr:
   all things are number [Pythagoreans]

@@ -20,5 +20,8 @@ Adv:
   in rhymed verse
   jointly, together
 
+F:
+  Korean: gangse [stress]
+
 Phr:
   the marriage of metre and rhyme

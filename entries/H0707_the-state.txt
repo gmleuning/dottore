@@ -36,6 +36,7 @@ F:
   Sanskrit: rājya [kingdom, state]
   Chinese: guojia [state]
   Japanese: kokka
+  Korean: gukka [the State]
 
 Phr:
   the state is the actuality of the ethical idea [Hegel]

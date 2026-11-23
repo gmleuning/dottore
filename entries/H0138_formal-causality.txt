@@ -24,6 +24,7 @@ Adv:
 F:
   Latin: causa aequat effectum [the cause equals the effect]
   Sanskrit: satkāryavāda [doctrine that the effect pre-exists in the cause]
+  Korean: hyeongsikjeok ingwaseong
 
 Phr:
   causa aequat effectum [Lat.]

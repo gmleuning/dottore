@@ -32,6 +32,7 @@ F:
   German: Heroismus des Dienstes
   Arabic: khidma, nasīḥa [sincere counsel], shūrā [consultation]
   Sanskrit: mantrin [counsellor]
+  Korean: bongsawa chungo [service and counsel]
 
 Phr:
   ich dien [Ger.] [I serve]

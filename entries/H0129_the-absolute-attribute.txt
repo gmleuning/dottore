@@ -24,6 +24,7 @@ F:
   Latin: attributum, cogitatio et extensio [Spinoza], sub specie
   Arabic: ṣifa [divine attribute], asmāʾ wa-ṣifāt [names and attributes]
   Sanskrit: guṇa
+  Korean: jeoldaejeok sokseong [attribute]
 
 Phr:
   Deus sive natura [Lat.] [Spinoza]

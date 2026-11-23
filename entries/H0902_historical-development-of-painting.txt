@@ -20,5 +20,8 @@ Adv:
   historically
   by stages, successively, by schools, in the course of time
 
+F:
+  Korean: hoehwasa [history of painting]
+
 Phr:
   from icon to genre

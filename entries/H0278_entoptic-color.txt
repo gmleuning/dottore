@@ -20,5 +20,8 @@ Adv:
   within
   within the body, internally
 
+F:
+  Korean: naebu saek [entoptic colour]
+
 Phr:
   colour in the heart of glass

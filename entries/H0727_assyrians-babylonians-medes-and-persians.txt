@@ -20,6 +20,9 @@ Adv:
   by the rivers of Babylon
   in succession, in the Near East
 
+F:
+  Korean: Asiria [Assyria], Babillonia [Babylonia], Media [Media]
+
 Phr:
   the law of the Medes and Persians, which altereth not [Bible]
   by the rivers of Babylon [Bible]

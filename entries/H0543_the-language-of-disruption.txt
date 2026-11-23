@@ -34,6 +34,7 @@ F:
   German: Zerrissenheit [torn-apartness]
   Latin: spretae injuria formae
   French: Le Neveu de Rameau [Diderot], mot juste, bon mot, esprit, chronique scandaleuse
+  Korean: bunyeorui eoneo [language of disruption]
 
 Phr:
   the language of disruption is the perfect language and the true existent spirit of this whole world of culture [Hegel]

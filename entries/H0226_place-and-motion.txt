@@ -29,6 +29,7 @@ F:
   French: en route
   Arabic: makān wa-ḥaraka [place and motion]
   Chinese: shikong
+  Korean: jangsowa undong [place and motion]
 
 Phr:
   everything flows and nothing stays

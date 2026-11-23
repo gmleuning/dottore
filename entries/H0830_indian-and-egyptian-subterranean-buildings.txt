@@ -26,6 +26,7 @@ Adv:
 F:
   Latin: hypogeum
   Sanskrit: guhā [cave]
+  Korean: jiha geonchungmul [subterranean buildings]
 
 Phr:
   the house of the dead

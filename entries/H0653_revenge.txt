@@ -35,6 +35,7 @@ F:
   Sanskrit: pratīkāra [retaliation]
   Chinese: fuchou [revenge]
   Japanese: fukushū, adauchi [vendetta]
+  Korean: boksu [revenge]
 
 Phr:
   revenge is a dish best served cold

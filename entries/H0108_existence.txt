@@ -37,6 +37,7 @@ F:
   Sanskrit: astitva [existence]
   Chinese: cunzai [existence]
   Japanese: sonzai
+  Korean: siljon [existence]
 
 Phr:
   existence precedes essence, l'existence précède l'essence [Fr.] [Sartre]

@@ -25,6 +25,7 @@ F:
   Arabic: istiqrāʾ [induction]
   Chinese: guina [induction]
   Japanese: kinō
+  Korean: gwinap [induction]
 
 Phr:
   one swallow does not make a summer

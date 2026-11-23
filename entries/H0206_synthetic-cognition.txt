@@ -33,6 +33,7 @@ F:
   Sanskrit: saṃśleṣaṇa
   Chinese: zonghe [synthesis]
   Japanese: sōgō
+  Korean: jonghapjeok insik [synthetic cognition]
 
 Phr:
   putting two and two together

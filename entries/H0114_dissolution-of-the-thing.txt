@@ -28,6 +28,9 @@ Adv:
   to pieces, to bits, into its elements, asunder
   in dissolution
 
+F:
+  Korean: samurui haeche [dissolution of the thing]
+
 Phr:
   things fall apart
   the centre cannot hold [Yeats]

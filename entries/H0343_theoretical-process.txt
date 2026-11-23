@@ -28,6 +28,7 @@ F:
   Sanskrit: indriya [sense faculty]
   Chinese: ganjue [sensation]
   Japanese: kankaku
+  Korean: iron gwajeong [theoretical process], gamgak
 
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]

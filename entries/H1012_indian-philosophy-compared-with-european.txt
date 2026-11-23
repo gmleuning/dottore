@@ -20,5 +20,8 @@ Adv:
   comparatively
   by comparison, in comparison, by contrast, in contrast, side by side, in parallel, relatively, analogously, cross-culturally
 
+F:
+  Korean: bigyo cheolhak [comparative philosophy]
+
 Phr:
   East is East and West is West [Kipling]

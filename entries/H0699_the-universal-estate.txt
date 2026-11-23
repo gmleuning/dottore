@@ -31,6 +31,7 @@ F:
   Sanskrit: kāyastha [scribe caste]
   Chinese: guanliao [bureaucracy], shidaifu [scholar-officials]
   Japanese: kanryō
+  Korean: gwalli sinbun [universal estate], gongmuwon
 
 Phr:
   the universal interests of the community [Hegel]

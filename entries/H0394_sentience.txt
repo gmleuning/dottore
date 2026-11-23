@@ -42,6 +42,7 @@ F:
   Arabic: shuʿūr [feeling, awareness]
   Sanskrit: vedanā
   Chinese: minganxing [sensitivity]
+  Korean: gamgakseong [sentience]
 
 Phr:
   the heart of sensibility

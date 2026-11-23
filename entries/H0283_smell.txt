@@ -42,6 +42,7 @@ F:
   Sanskrit: gandha [smell, fragrance]
   Chinese: xiang [fragrance]
   Japanese: kaori, kōdō [the way of incense]
+  Korean: naemsae [smell], hyang
 
 Phr:
   a rose by any other name would smell as sweet [Romeo and Juliet]

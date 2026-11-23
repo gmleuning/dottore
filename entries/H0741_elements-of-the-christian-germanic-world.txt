@@ -24,6 +24,7 @@ Adv:
 F:
   German: Völkerwanderung
   Arabic: al-Islām, Muḥammad, futūḥ [conquests]
+  Korean: gidokgyo-gereuman segyeui yoso
 
 Phr:
   the revolution of the East [Hegel on Islam]

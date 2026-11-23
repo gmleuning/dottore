@@ -40,6 +40,7 @@ F:
   Sanskrit: kāvya [poetry]
   Chinese: shi [poetry]
   Japanese: shiika, waka
+  Korean: si [poetry], siga [poetry and song]
 
 Phr:
   die allgemeine Kunst, welche jeden Inhalt … in jeder Form gestalten und aussprechen kann [Ger.] [Hegel, Aesthetics, on poetry]

@@ -21,5 +21,8 @@ Adj:
 Adv:
   relatively, in part, to a degree, up to a point; mutually
 
+F:
+  Korean: sangdaejeok mujogeonja
+
 Phr:
   no man is an island [Donne]

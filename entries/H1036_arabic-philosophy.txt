@@ -22,6 +22,7 @@ Adv:
 
 F:
   Arabic: falsafa, the falāsifa, kalām [dialectical theology], Bayt al-Ḥikma, faylasūf, ʿaql, Tahāfut al-Falāsifa, Tahāfut al-Tahāfut
+  Korean: Iseullam cheolhak [Islamic philosophy], Aberoeseu [Averroes]
 
 Phr:
   Averrois, che 'l gran comento feo [It.] [Averroes, who made the great commentary] [Dante]

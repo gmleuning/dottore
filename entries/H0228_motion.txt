@@ -88,6 +88,7 @@ F:
   Sanskrit: gati [motion, going]
   Chinese: yundong [motion]
   Japanese: undō, shinkansen
+  Korean: undong [motion]
 
 Phr:
   eppur si muove [It.] [attrib. Galileo]

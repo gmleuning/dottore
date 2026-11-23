@@ -23,6 +23,7 @@ Adv:
 F:
   German: Erhebung, das Geistige, das Natürliche, geistige Individualität, Subjektivität
   Latin: sursum corda, supra naturam
+  Korean: jeongsinseong [spirituality]
 
 Phr:
   spirit rising above nature

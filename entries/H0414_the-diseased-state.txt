@@ -22,5 +22,8 @@ Adv:
   morbidly, nervously
   in sickness
 
+F:
+  Korean: byeongjeok sangtae [diseased state]
+
 Phr:
   the vapours

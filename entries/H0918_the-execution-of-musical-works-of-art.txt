@@ -45,6 +45,7 @@ F:
   French: viola d'amore, cor Anglais
   Italian: con brio, viola di gamba, corno di bassetto
   Arabic: adāʾ [performance]
+  Korean: yeonju [performance], yeonjuja [performer]
 
 Phr:
   the performer as co-creator

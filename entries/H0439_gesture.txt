@@ -32,6 +32,7 @@ F:
   Sanskrit: mudrā [ritual gesture]
   Chinese: shoushi [hand sign]
   Japanese: miburi
+  Korean: momjit [gesture]
 
 Phr:
   actions speak louder than words

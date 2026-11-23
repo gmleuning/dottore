@@ -19,5 +19,8 @@ Adv:
   galvanically, as if galvanized
   by contact of metals
 
+F:
+  Korean: galbanijeum [galvanism]
+
 Phr:
   galvanized into action

@@ -50,6 +50,7 @@ F:
   Sanskrit: sukha [happiness], ānanda [bliss]
   Chinese: xingfu [happiness]
   Japanese: shiawase, kōfuku
+  Korean: haengbok [happiness]
 
 Phr:
   happiness is an ideal not of reason but of imagination [Kant]

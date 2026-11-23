@@ -31,6 +31,7 @@ Adv:
 
 F:
   Latin: pia fraus, finis sanctificat media
+  Korean: mokjeogeun sudaneul jeongdanghwahanda [the end justifies the means]
 
 Phr:
   the end justifies the means

@@ -22,6 +22,7 @@ Adv:
 
 F:
   Avestan: ātar [fire]
+  Korean: uimiwa hyeongtaeui jikjeopjeok tongil
 
 Phr:
   light is the good

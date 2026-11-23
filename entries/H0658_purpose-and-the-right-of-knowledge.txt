@@ -25,6 +25,7 @@ Adv:
 
 F:
   Latin: mens rea [guilty mind], scienter
+  Korean: gwisok [imputation]
 
 Phr:
   actus non facit reum nisi mens sit rea [Lat.] [the act is not guilty unless the mind is guilty]

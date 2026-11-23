@@ -42,6 +42,7 @@ F:
   Sanskrit: pūjā, yajña
   Chinese: jisi
   Japanese: saishi [rites]
+  Korean: yebae [worship], jeui [rite]
 
 Phr:
   lex orandi, lex credendi [Lat.] [the law of prayer is the law of belief]

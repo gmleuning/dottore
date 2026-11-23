@@ -25,6 +25,7 @@ Adv:
 
 F:
   French: le monde, the beau monde
+  Korean: gyoyanggwa hyeonsil
 
 Phr:
   the world of fashion

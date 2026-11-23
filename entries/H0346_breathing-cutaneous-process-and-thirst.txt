@@ -42,6 +42,7 @@ F:
   Sanskrit: prāṇa [breath], tṛṣṇā [thirst, craving]
   Chinese: huxi [breathing]
   Japanese: kokyū
+  Korean: hoheup [breathing], galjeung [thirst]
 
 Phr:
   as the hart panteth after the water brooks [Bible]

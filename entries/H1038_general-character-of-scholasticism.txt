@@ -23,6 +23,7 @@ Adv:
 
 F:
   Latin: sic et non [Abelard], distinguo, videtur quod, sed contra, respondeo, ancilla theologiae
+  Korean: sinanggwa iseong [faith and reason]
 
 Phr:
   how many angels can dance on the head of a pin

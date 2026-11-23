@@ -26,6 +26,7 @@ F:
   Arabic: al-Masīḥiyya [Christianity]
   Chinese: jidujiao [Christianity]
   Japanese: kirisutokyō
+  Korean: Gidokgyo [Christianity], wanseongdoen jonggyo [consummate religion]
 
 Phr:
   die Religion der Wahrheit und der Freiheit [Ger.] [Hegel, Lectures on the Philosophy of Religion, of the consummate religion]

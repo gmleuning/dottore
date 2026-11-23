@@ -36,6 +36,7 @@ F:
   Sanskrit: bhūmi, sthala [dry land]
   Chinese: lu [land]
   Japanese: riku
+  Korean: yukji [land], ttang
 
 Phr:
   land ho!

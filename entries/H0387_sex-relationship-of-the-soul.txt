@@ -45,6 +45,7 @@ F:
   Arabic: dhakar wa-unthā [male and female]
   Sanskrit: puruṣa and prakṛti, śiva and śakti
   Chinese: yin and yang, nannü [man and woman]
+  Korean: yeonghonui seong gwangye
 
 Phr:
   male and female created he them [Bible]

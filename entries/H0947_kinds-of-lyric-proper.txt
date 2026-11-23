@@ -28,6 +28,7 @@ F:
   French: rondeau
   Arabic: ghazal
   Japanese: haiku
+  Korean: songga [ode], changa [hymn], norae [song]
 
 Phr:
   hymn, ode, and song

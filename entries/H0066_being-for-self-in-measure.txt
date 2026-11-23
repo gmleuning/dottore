@@ -25,5 +25,8 @@ Adv:
   constantly, invariably, steadily, through thick and thin, come what may
   for itself
 
+F:
+  Korean: daejajeok cheokdo
+
 Phr:
   plus ça change, plus c'est la même chose [Fr.] [Alphonse Karr]

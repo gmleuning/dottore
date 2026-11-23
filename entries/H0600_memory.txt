@@ -36,6 +36,7 @@ F:
   Sanskrit: smṛti [memory]
   Chinese: jiyi [memory]
   Japanese: kioku
+  Korean: gieok [memory]
 
 Phr:
   memory is the treasury and guardian of all things [Cicero]

@@ -31,6 +31,7 @@ F:
   Sanskrit: bindu [point, dot, drop]
   Chinese: dian [point, dot]
   Japanese: ten
+  Korean: jeom [point]
 
 Phr:
   a point is that which has no part [Euclid]

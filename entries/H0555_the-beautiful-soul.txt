@@ -25,6 +25,7 @@ F:
   German: schöne Seele [Schiller, Goethe], die schöne Seele
   French: belle âme
   Italian: anima bella
+  Korean: areumdaun yeonghon [beautiful soul]
 
 Phr:
   it lacks the power to externalize itself [Hegel]

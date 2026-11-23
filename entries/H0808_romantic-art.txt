@@ -28,6 +28,7 @@ F:
   Arabic: rūmānsiyya [romanticism]
   Chinese: langman zhuyi [romanticism]
   Japanese: roman shugi
+  Korean: nangmanjeok yesul [romantic art]
 
 Phr:
   [der Geist geht] zur Versöhnung seiner in sich selber zurück [Ger.] [Hegel, Aesthetics, on romantic art]

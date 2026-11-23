@@ -20,5 +20,8 @@ Adv:
   gracefully
   slenderly, elegantly
 
+F:
+  Korean: Ionia yangsik [Ionic order]
+
 Phr:
   Ionic grace

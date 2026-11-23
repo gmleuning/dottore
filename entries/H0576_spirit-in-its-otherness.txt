@@ -28,6 +28,7 @@ F:
   Greek: kenōsis [self-emptying]
   Arabic: khalq [creation]
   Sanskrit: sṛṣṭi [creation]
+  Korean: changjo [creation], tarak [fall], jungbo [mediator]
 
 Phr:
   felix culpa [Lat.] [O happy fault]

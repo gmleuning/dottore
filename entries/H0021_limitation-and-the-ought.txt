@@ -31,6 +31,7 @@ F:
   Latin: nisus, de jure
   Sanskrit: dharma [duty]
   Chinese: dao [the way one ought to go]
+  Korean: jeyak [restriction], dangwi [ought]
 
 Phr:
   du kannst, denn du sollst [Ger.] [Schiller, on Kant]

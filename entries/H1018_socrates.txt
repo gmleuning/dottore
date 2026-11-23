@@ -25,6 +25,7 @@ F:
   Latin: nosce te ipsum
   Greek: maieutikē, eirōneia, the daimonion [inner voice], elenchos, gnōthi seauton, aretē, ti esti, epagōgē
   Arabic: Suqrāṭ
+  Korean: Sokeurateseu [Socrates], sanpasul [maieutic method], mujiui ji [knowledge of ignorance]
 
 Phr:
   I know that I know nothing

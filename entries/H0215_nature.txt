@@ -31,6 +31,7 @@ F:
   Sanskrit: prakṛti [nature, matter], svabhāva
   Chinese: ziran [nature, self-so], tiandi [heaven and earth]
   Japanese: shizen
+  Korean: jayeon [nature], jayeon cheolhak
 
 Phr:
   natura non facit saltus [Lat.]

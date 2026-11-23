@@ -20,5 +20,8 @@ Adv:
   part by part
   in particular, in detail, specifically
 
+F:
+  Korean: geonchuk hyeongsik [architectural form]
+
 Phr:
   column, beam, and roof

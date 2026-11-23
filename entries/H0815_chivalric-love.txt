@@ -29,6 +29,7 @@ F:
   French: amour courtois
   Occitan: fin'amor
   Arabic: ʿudhrī love [chaste, unrequited love], ghazal [love lyric]
+  Korean: gisaui sarang [chivalric love]
 
 Phr:
   love conquers all, omnia vincit amor [Lat.] [Virgil]

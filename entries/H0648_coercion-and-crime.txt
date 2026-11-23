@@ -29,6 +29,7 @@ Adv:
 
 F:
   Latin: vi et armis
+  Korean: gangjewa beomjoe [coercion and crime]
 
 Phr:
   force is the midwife of every old society pregnant with a new one [Marx]

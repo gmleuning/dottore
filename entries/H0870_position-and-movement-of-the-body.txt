@@ -23,6 +23,7 @@ Adv:
 
 F:
   Italian: contrapposto
+  Korean: jase [posture], konteuraposeuto [contrapposto]
 
 Phr:
   the weight on one leg

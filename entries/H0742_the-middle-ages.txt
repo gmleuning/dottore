@@ -28,6 +28,7 @@ F:
   Latin: medium aevum
   Arabic: ḥurūb ṣalībiyya [Crusades], al-Ṣalībiyyūn [Crusaders]
   Japanese: hōken seido [feudal system]
+  Korean: jungse [Middle Ages], bonggeon jedo
 
 Phr:
   Deus vult [Lat.] [God wills it]

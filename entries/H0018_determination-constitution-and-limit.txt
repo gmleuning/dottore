@@ -31,6 +31,7 @@ F:
   Arabic: ḥadd
   Sanskrit: sīmā [boundary]
   Chinese: jie [boundary]
+  Korean: gyujeong [determination], hangye [limit]
 
 Phr:
   ne plus ultra [Lat.]

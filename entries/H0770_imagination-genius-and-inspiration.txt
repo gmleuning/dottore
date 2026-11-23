@@ -39,6 +39,7 @@ F:
   Sanskrit: pratibhā [genius, flash], preraṇā [inspiration]
   Chinese: tiancai [genius]
   Japanese: tensai, reikan [inspiration]
+  Korean: sangsangnyeok, cheonjae, yeonggam
 
 Phr:
   sing in me, Muse [Homer]

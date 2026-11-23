@@ -35,6 +35,7 @@ F:
   Greek: sōma, anatomē
   Arabic: tashrīḥ [anatomy]
   Chinese: jiepou [anatomy]
+  Korean: dongmurui hyeongtae [shape]
 
 Phr:
   fearfully and wonderfully made [Bible]

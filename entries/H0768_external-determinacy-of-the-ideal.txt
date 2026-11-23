@@ -35,6 +35,7 @@ Adv:
 F:
   Latin: Moresque
   French: coquillage, fleur-de-lis, champleve ware, head piece, tail piece, cul-de-lampe, en grand tenue, en grande toilette, endimanche, champleve
+  Korean: isangui oejeok gyujeongseong
 
 Phr:
   local colour

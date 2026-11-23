@@ -28,6 +28,7 @@ F:
   Tibetan: tulku, bla-ma
   Chinese: chan, wu
   Japanese: zen, satori, mu
+  Korean: Bulgyo [Buddhism], Ramagyo [Lamaism], gong [emptiness]
 
 Phr:
   the Nothing which the Buddhists make the universal principle, as well as the final aim and goal of everything, is the same abstraction [Hegel, Encyclopaedia §87, tr. Wallace]

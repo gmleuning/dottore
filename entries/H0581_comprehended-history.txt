@@ -25,6 +25,7 @@ F:
   Arabic: tārīkh [history]
   Chinese: lishi [history]
   Japanese: rekishi
+  Korean: gaenyeomjeogeuro padakdoen yeoksa
 
 Phr:
   from the chalice of this realm of spirits foams forth for Him his own infinitude [Hegel, Phenomenology ¶808, adapting Schiller, 'Die Freundschaft']

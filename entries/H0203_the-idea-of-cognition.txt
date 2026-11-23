@@ -35,6 +35,7 @@ F:
   Sanskrit: jñāna [knowledge]
   Chinese: renshi [cognition]
   Japanese: ninshiki
+  Korean: insik [cognition]
 
 Phr:
   all men by nature desire to know [Aristotle]

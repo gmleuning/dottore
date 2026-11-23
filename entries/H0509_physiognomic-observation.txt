@@ -26,6 +26,7 @@ F:
   Arabic: firāsa [physiognomic discernment], qiyāfa [reading of traces and features]
   Chinese: xiangshu [physiognomy]
   Japanese: ninsō
+  Korean: gwansanghakjeok gwanchal [physiognomy]
 
 Phr:
   you can't judge a book by its cover

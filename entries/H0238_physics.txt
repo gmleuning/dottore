@@ -29,6 +29,7 @@ F:
   Sanskrit: bhautika [physical]
   Chinese: wuli [physics, lit. principle of things]
   Japanese: butsuri
+  Korean: mullihak [physics]
 
 Phr:
   Philosophiae Naturalis Principia Mathematica [Lat.] [Newton]

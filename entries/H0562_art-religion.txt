@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: die Götter Griechenlands [Schiller], Kunstreligion
+  Korean: yesul jonggyo [art-religion]
 
 Phr:
   the gods of Greece

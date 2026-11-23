@@ -36,6 +36,7 @@ F:
   Sanskrit: pratyaya [condition], hetu-pratyaya, upādhi [limiting condition], pratītyasamutpāda
   Chinese: tiaojian [condition], yuan [conditioning circumstance]
   Japanese: jōken
+  Korean: jogeon [condition]
 
 Phr:
   sine qua non [Lat.]

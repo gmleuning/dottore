@@ -31,6 +31,7 @@ F:
   Sanskrit: pūjā [worship], yajña [sacrifice]
   Chinese: jisi [sacrifice]
   Japanese: matsuri [festival]
+  Korean: jesa [cult], yebae
 
 Phr:
   do ut des [Lat.] [I give so that you may give]

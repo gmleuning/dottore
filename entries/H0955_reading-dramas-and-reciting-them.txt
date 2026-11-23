@@ -23,6 +23,7 @@ Adv:
 
 F:
   German: Lesedrama
+  Korean: nangdok [recitation]
 
 Phr:
   drama for the study

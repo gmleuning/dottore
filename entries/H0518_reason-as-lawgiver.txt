@@ -21,6 +21,7 @@ Adv:
 
 F:
   Arabic: tashrīʿ [legislation]
+  Korean: ipbeop iseong [lawgiving reason]
 
 Phr:
   everyone ought to speak the truth [Hegel's example]

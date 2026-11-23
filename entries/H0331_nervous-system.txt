@@ -35,6 +35,7 @@ F:
   Sanskrit: nāḍī [channel, nerve]
   Chinese: shenjing xitong [nervous system, lit. spirit-channels]
   Japanese: shinkei
+  Korean: singyeonggye [nervous system]
 
 Phr:
   a bundle of nerves

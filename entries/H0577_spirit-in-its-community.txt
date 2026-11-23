@@ -26,6 +26,7 @@ F:
   Greek: koinōnia
   Arabic: umma [community of believers]
   Sanskrit: saṅgha [community]
+  Korean: jungbojaui jugeum, buhwal
 
 Phr:
   where two or three are gathered together in my name, there am I [Bible]

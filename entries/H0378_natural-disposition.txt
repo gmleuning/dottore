@@ -34,6 +34,7 @@ F:
   Sanskrit: pratibhā [innate genius]
   Chinese: tiancai [natural talent]
   Japanese: tensai
+  Korean: jaejil [disposition], cheonbu
 
 Phr:
   poeta nascitur, non fit [Lat.]

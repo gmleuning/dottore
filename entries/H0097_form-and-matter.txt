@@ -34,6 +34,7 @@ F:
   Arabic: mādda [matter], hayūlā [primal matter, from hylē], ṣūra [form]
   Sanskrit: prakṛti [matter, nature]
   Chinese: qi [vital stuff] and li [pattern, principle]
+  Korean: hyeongsikgwa jillyo [form and matter]
 
 Phr:
   the potter and the clay

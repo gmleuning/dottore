@@ -36,6 +36,7 @@ F:
   Sanskrit: satya [truth], ṛta
   Chinese: li [principle], zhen [truth]
   Japanese: shinri
+  Korean: inyeom [idea], gwannyeom
 
 Phr:
   the truth is the whole [Hegel]

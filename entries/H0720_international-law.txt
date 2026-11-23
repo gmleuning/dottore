@@ -38,6 +38,7 @@ F:
   Arabic: siyar [Islamic law of nations], al-qānūn al-dawlī
   Chinese: guoji fa [international law]
   Japanese: kokusaihō
+  Korean: gukjebeop [international law]
 
 Phr:
   pacta sunt servanda [Lat.]

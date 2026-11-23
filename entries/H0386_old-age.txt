@@ -39,6 +39,7 @@ F:
   Sanskrit: vārdhakya [old age], vānaprastha [forest-dweller stage], saṃnyāsa [renunciation]
   Chinese: laonian [old age]
   Japanese: rōnen
+  Korean: noryeon [old age], neulgeum
 
 Phr:
   grow old along with me, the best is yet to be [Browning]

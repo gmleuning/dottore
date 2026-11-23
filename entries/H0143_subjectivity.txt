@@ -24,6 +24,7 @@ F:
   German: Subjektivität
   Arabic: dhātī [subjective]
   Chinese: zhuguan [subjective]
+  Korean: jugwanseong [subjectivity]
 
 Phr:
   cogito ergo sum [Lat.] [Descartes]

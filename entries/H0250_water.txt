@@ -37,6 +37,7 @@ F:
   Sanskrit: āpas [waters], jala
   Chinese: shui [water]
   Japanese: mizu
+  Korean: mul [water], su
 
 Phr:
   water is the archē of all things [Thales, via Aristotle]

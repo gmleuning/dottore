@@ -23,6 +23,7 @@ F:
   Arabic: fiqāriyyāt [vertebrates]
   Chinese: jizhui dongwu [vertebrates]
   Japanese: sekitsui dōbutsu
+  Korean: cheokchu dongmul [vertebrates]
 
 Phr:
   the backbone of creation

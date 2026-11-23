@@ -44,6 +44,7 @@ F:
   Arabic: ism [name]
   Sanskrit: nāma [name]
   Chinese: mingcheng [name]
+  Korean: ireum gieok [name-retaining memory]
 
 Phr:
   what's in a name? [Romeo and Juliet]

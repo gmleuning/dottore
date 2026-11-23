@@ -25,6 +25,7 @@ Adv:
 F:
   Latin: testimonium spiritus sancti internum
   Arabic: yaqīn, ʿayn al-yaqīn [eye of certainty]
+  Korean: jeongsinjeok hwaksilseong
 
 Phr:
   the Spirit itself beareth witness with our spirit [Bible]

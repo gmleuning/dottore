@@ -27,6 +27,7 @@ F:
   Sanskrit: candra [moon], soma
   Chinese: yue [moon]
   Japanese: tsuki
+  Korean: dal [moon]
 
 Phr:
   the inconstant moon [Romeo and Juliet]

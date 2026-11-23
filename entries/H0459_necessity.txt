@@ -25,6 +25,7 @@ Adv:
 
 F:
   Latin: nolens volens
+  Korean: pillyeonseong [necessity]
 
 Phr:
   it had to happen

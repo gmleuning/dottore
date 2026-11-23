@@ -30,6 +30,7 @@ Adv:
 F:
   Arabic: ṭamy [silt]
   Chinese: chongji [alluvial deposit]
+  Korean: chungjeokji [alluvial terrain]
 
 Phr:
   the gift of the Nile [Herodotus]

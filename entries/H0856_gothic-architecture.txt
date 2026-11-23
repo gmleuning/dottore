@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: Kölner Dom
+  Korean: Godik geonchuk [Gothic architecture], cheomduachi [pointed arch]
 
 Phr:
   von deutscher Baukunst [Ger.] [Goethe on Strasbourg]

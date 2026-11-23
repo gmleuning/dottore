@@ -27,6 +27,7 @@ Adv:
 
 F:
   Hebrew: Tehillim [Psalms], kavod [glory]
+  Korean: sunggoui yesul [art of the sublime]
 
 Phr:
   let there be light: and there was light [Bible]

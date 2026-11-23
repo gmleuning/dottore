@@ -38,6 +38,7 @@ F:
   Sanskrit: dambha [hypocrisy]
   Chinese: weishan [hypocrisy]
   Japanese: gizen
+  Korean: wiseon [hypocrisy]
 
 Phr:
   hypocrisy is the homage vice pays to virtue [La Rochefoucauld]

@@ -22,6 +22,7 @@ Adv:
 
 F:
   Persian: shāhanshāh, Īrān, Fārs
+  Korean: pereusia [Persia]
 
 Phr:
   the beginning of history proper [Hegel on Persia]

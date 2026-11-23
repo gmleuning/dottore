@@ -24,6 +24,7 @@ Adv:
 F:
   Arabic: khawāṣṣ [properties]
   Sanskrit: guṇa [qualities]
+  Korean: mulche teuksuhwa
 
 Phr:
   by their properties ye shall know them

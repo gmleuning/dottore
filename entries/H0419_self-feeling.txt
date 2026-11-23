@@ -28,6 +28,7 @@ F:
   Sanskrit: ahaṃkāra [I-maker, ego-sense], asmitā [I-am-ness]
   Chinese: zizunxin [self-esteem]
   Japanese: jiko kankaku
+  Korean: jagi gamjeong [self-feeling]
 
 Phr:
   I feel, therefore I am

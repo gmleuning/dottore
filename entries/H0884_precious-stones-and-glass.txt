@@ -25,6 +25,7 @@ Adv:
 
 F:
   Arabic: faṣṣ [gemstone setting]
+  Korean: boseok [gem], kameo [cameo], yuri [glass]
 
 Phr:
   the art of the gem-cutter

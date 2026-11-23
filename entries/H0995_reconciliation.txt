@@ -39,6 +39,7 @@ F:
   French: tirer d'affaire
   Arabic: muṣālaḥa [reconciliation]
   Chinese: jiushu [redemption]
+  Korean: hwahae [reconciliation], sipjaga [the Cross], buhwal [resurrection]
 
 Phr:
   God himself is dead [Johann Rist's hymn, cited by Hegel]

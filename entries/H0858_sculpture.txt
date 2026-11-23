@@ -40,6 +40,7 @@ F:
   Sanskrit: mūrtikalā [sculpture]
   Chinese: diaosu [sculpture]
   Japanese: chōkoku
+  Korean: jogak [sculpture], joso [plastic art]
 
 Phr:
   I saw the angel in the marble and carved until I set him free [attrib. Michelangelo]

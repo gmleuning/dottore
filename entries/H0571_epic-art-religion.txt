@@ -27,6 +27,7 @@ F:
   Sanskrit: itihāsa [epic history]
   Chinese: shishi [epic]
   Japanese: jojishi
+  Korean: seosasi [epic]
 
 Phr:
   sing, O goddess, the wrath of Achilles [Homer]

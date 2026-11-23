@@ -34,6 +34,7 @@ F:
   Arabic: ījāb [affirmation]
   Sanskrit: vidhi [affirmative injunction]
   Chinese: kending [affirmation]
+  Korean: geungjeong pandan [positive judgment]
 
 Phr:
   the rose is red

@@ -38,6 +38,7 @@ F:
   Sanskrit: dāsatva [slavery]
   Chinese: nuli [slave]
   Japanese: dorei
+  Korean: noye [slave], noyeje
 
 Phr:
   man is born free, and everywhere he is in chains [Rousseau]

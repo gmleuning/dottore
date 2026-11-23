@@ -28,6 +28,7 @@ F:
   Arabic: riʾa [lung], kabid [liver]
   Sanskrit: phupphusa [lung], yakṛt [liver]
   Chinese: fei [lung], gan [liver]
+  Korean: pyewa gan [lungs and liver]
 
 Phr:
   the breath of life

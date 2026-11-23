@@ -33,6 +33,7 @@ F:
   Arabic: tamāsuk [cohesion]
   Sanskrit: saṃhati [cohesion]
   Chinese: ningju [cohesion]
+  Korean: eungjip [cohesion]
 
 Phr:
   united we stand, divided we fall

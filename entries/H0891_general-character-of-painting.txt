@@ -20,5 +20,8 @@ Adv:
   on the flat
   pictorially, in appearance, to the eye, in general
 
+F:
+  Korean: pyeongmyeon [plane surface]
+
 Phr:
   a window onto the world [Alberti]

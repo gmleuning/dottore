@@ -28,6 +28,7 @@ Adv:
 
 F:
   French: piece of music, rondeau
+  Korean: giak [instrumental music], jeoldae eumak [absolute music]
 
 Phr:
   songs without words, Lieder ohne Worte [Ger.] [Mendelssohn]

@@ -40,6 +40,7 @@ F:
   Sanskrit: śrāddha [rite for ancestors], antyeṣṭi [last rites]
   Chinese: sangli [funeral rites], jizu [ancestor rites]
   Japanese: sōshiki [funeral]
+  Korean: jangnye [burial]
 
 Phr:
   dust thou art, and unto dust shalt thou return [Bible]

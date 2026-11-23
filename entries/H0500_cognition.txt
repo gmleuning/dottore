@@ -30,6 +30,7 @@ F:
   Sanskrit: bodha [understanding, awakening]
   Chinese: renzhi [cognition]
   Japanese: ninchi
+  Korean: insik [cognition]
 
 Phr:
   Erkenntnis ist Macht

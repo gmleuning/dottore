@@ -34,6 +34,7 @@ F:
   Sanskrit: bimba [image]
   Chinese: yingxiang [image]
   Japanese: imēji
+  Korean: sang [image], imiji
 
 Phr:
   a picture is worth a thousand words

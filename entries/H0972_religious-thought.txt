@@ -29,6 +29,7 @@ F:
   Greek: theologia, logos
   Arabic: kalām [dialectical theology], ʿilm al-tawḥīd
   Sanskrit: mīmāṃsā [exegesis], vedānta
+  Korean: sinhak [theology]
 
 Phr:
   credo ut intelligam [Lat.]

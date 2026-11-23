@@ -41,6 +41,7 @@ F:
   Sanskrit: śreyas [the good], kalyāṇa
   Chinese: shan [good]
   Japanese: zen
+  Korean: seon [the good]
 
 Phr:
   the form of the good [Plato]

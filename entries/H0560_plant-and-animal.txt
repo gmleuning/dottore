@@ -21,5 +21,8 @@ Adv:
   in animal form
   in plant and animal form
 
+F:
+  Korean: sikmulgwa dongmul [plant and animal]
+
 Phr:
   die Unschuld der Blumenreligion, die nur selbstlose Vorstellung des Selbsts ist, geht in den Ernst des kämpfenden Lebens, in die Schuld der Tierreligion … über [Ger.] [Hegel, Phenomenology ¶689]

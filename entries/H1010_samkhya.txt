@@ -24,6 +24,7 @@ Adv:
 
 F:
   Sanskrit: Sāṃkhya, puruṣa [spirit] and prakṛti [nature], the three guṇas [sattva, rajas, tamas], viveka, kaivalya, guṇa, buddhi, mahat, ahaṃkāra, manas, tattva, tanmātra, mokṣa, avyakta, sākṣin
+  Korean: Sangkiya [Samkhya]
 
 Phr:
   the twenty-five principles

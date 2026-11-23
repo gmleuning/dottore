@@ -34,6 +34,7 @@ Adv:
 
 F:
   French: métier, cul de lampe
+  Korean: hwaga [painter], gudo [composition]
 
 Phr:
   the tricks of the trade

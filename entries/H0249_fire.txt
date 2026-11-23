@@ -45,6 +45,7 @@ F:
   Sanskrit: Agni, agni [fire], tejas
   Chinese: huo [fire]
   Japanese: hi
+  Korean: bul [fire], hwa
 
 Phr:
   this world was ever and is and shall be ever-living fire [Heraclitus]

@@ -38,6 +38,7 @@ F:
   Sanskrit: saṅgīta [music], rāga
   Chinese: yinyue [music]
   Japanese: ongaku
+  Korean: eumak [music], eum [tone]
 
 Phr:
   die letzte subjektive Innerlichkeit als solche [Ger.] [Hegel, Aesthetics, on music]

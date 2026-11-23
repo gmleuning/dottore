@@ -43,6 +43,7 @@ F:
   Sanskrit: asthi [bone]
   Chinese: gu [bone]
   Japanese: hone
+  Korean: gogyeok [skeleton], ppyeo
 
 Phr:
   bone of my bones, and flesh of my flesh [Bible]

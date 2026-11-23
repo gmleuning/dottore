@@ -33,6 +33,7 @@ F:
   Latin: progressus in infinitum, regressus in infinitum, ad infinitum, et cetera
   Greek: pleonexia [grasping for more]
   French: mise en abyme
+  Korean: muhan jinhaeng
 
 Phr:
   Achilles and the tortoise [Zeno]

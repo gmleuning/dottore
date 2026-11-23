@@ -21,5 +21,8 @@ Adv:
   in the round
   in principle, plastically, in three dimensions
 
+F:
+  Korean: jogagui wolli [principle of sculpture]
+
 Phr:
   spirit at rest in its body

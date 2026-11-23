@@ -28,6 +28,7 @@ F:
   Arabic: ʿurf [custom], sunna [practice, tradition]
   Sanskrit: dharma [duty, order]
   Chinese: li [ritual propriety]
+  Korean: yullijeok jilseo [ethical order], illyun
 
 Phr:
   moribus antiquis res stat Romana virisque [Lat.] [Ennius]

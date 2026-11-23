@@ -26,6 +26,7 @@ F:
   Arabic: tanjīm [astrology]
   Sanskrit: jyotiṣa
   Chinese: tianren ganying [resonance of heaven and humanity]
+  Korean: haengseong saengmyeong [planetary life]
 
 Phr:
   the fault, dear Brutus, is not in our stars, but in ourselves [Julius Caesar]

@@ -38,6 +38,7 @@ F:
   Sanskrit: madhya [middle], nābhi [navel, hub]
   Chinese: zhongxin [centre], zhongguo [middle kingdom]
   Japanese: chūshin
+  Korean: jungsim [centre]
 
 Phr:
   the centre cannot hold [Yeats]

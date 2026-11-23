@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: Lebensgefühl
+  Korean: saengmyeong uisik [consciousness of life]
 
 Phr:
   reverence for life, Ehrfurcht vor dem Leben [Ger.] [Albert Schweitzer]

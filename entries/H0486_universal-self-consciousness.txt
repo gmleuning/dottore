@@ -23,6 +23,7 @@ Adv:
 F:
   Arabic: ʿaql jamʿī [collective mind]
   Chinese: jiti yishi [collective consciousness]
+  Korean: bopyeonjeok jagi uisik
   Nguni: ubuntu [I am because we are]
 
 Phr:

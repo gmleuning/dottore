@@ -29,6 +29,7 @@ Adv:
 F:
   Latin: sectio aurea
   French: en regle, of a piece
+  Korean: beopchikseong [conformity to law]
 
 Phr:
   the line of beauty [Hogarth]

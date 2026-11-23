@@ -30,5 +30,8 @@ Adv:
   in advance, on loan, on security
   severally
 
+F:
+  Korean: gyeyagui jongnyu
+
 Phr:
   do ut des, do ut facias, facio ut des, facio ut facias [Lat.] [Roman law]

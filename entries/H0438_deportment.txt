@@ -36,6 +36,7 @@ F:
   Sanskrit: āsana [posture]
   Chinese: ziti [posture]
   Japanese: shisei
+  Korean: taedo [deportment], momgajim
 
 Phr:
   walk tall

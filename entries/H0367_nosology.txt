@@ -59,6 +59,7 @@ F:
   Sanskrit: nidāna [diagnosis, cause]
   Chinese: bingli [pathology]
   Japanese: byōri
+  Korean: jilbyeonghak [nosology], byeong
 
 Phr:
   physician, heal thyself [Bible]

@@ -29,6 +29,7 @@ F:
   Arabic: wājib al-wujūd [necessary existent]
   Sanskrit: asaṃskṛta [unconditioned]
   Chinese: ziran [self-so]
+  Korean: jeoldaejeok mujogeonja [unconditioned]
 
 Phr:
   causa sui [Lat.] [Spinoza]

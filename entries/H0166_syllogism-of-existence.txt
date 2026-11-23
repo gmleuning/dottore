@@ -24,6 +24,7 @@ F:
   Latin: figurae
   Greek: schēmata
   Arabic: aṣkāl [figures]
+  Korean: jeongjae churon [syllogism of existence]
 
 Phr:
   barbara celarent darii ferioque prioris [Lat.]

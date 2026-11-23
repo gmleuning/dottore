@@ -25,5 +25,8 @@ Adv:
   evocatively, at will
   by recall, from memory
 
+F:
+  Korean: jaesaengjeok sangsangnyeok
+
 Phr:
   to conjure up the past

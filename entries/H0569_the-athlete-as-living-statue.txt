@@ -35,6 +35,7 @@ Adv:
 F:
   Greek: kalokagathia, epinikion
   Spanish: corso
+  Korean: undongseonsu [athlete]
 
 Phr:
   citius, altius, fortius [Lat.]

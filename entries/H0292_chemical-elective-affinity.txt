@@ -25,6 +25,7 @@ F:
   Arabic: ulfa [affinity]
   Chinese: qinhe [affinity]
   Japanese: shinwa
+  Korean: hwahakjeok seontaek chinhwaryeok
 
 Phr:
   Die Wahlverwandtschaften [Ger.] [Goethe]

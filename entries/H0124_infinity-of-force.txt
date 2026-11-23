@@ -24,6 +24,7 @@ F:
   German: Selbsttätigkeit
   Latin: sua sponte
   Sanskrit: śakti as self-manifesting power
+  Korean: himui muhanseong
 
 Phr:
   the force is its expression

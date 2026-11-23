@@ -67,6 +67,7 @@ F:
   Sanskrit: mada [intoxication], soma
   Chinese: zui [drunk]
   Japanese: futsukayoi [hangover]
+  Korean: jikjeopjeok neukkineun yeonghon
 
 Phr:
   the oceanic feeling [Romain Rolland, via Freud]

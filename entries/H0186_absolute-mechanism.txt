@@ -33,6 +33,7 @@ Adv:
 F:
   Latin: gradatim, lucidus ordo
   French: en regle
+  Korean: jeoldaejeok gigyeron [absolute mechanism]
 
 Phr:
   a place for everything, and everything in its place

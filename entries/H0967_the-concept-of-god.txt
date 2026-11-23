@@ -42,6 +42,7 @@ F:
   Sanskrit: Īśvara [the Lord], Brahman
   Chinese: Shangdi [the Lord on High], Tian [Heaven]
   Japanese: kami
+  Korean: Haneunim [God], sin [god]
 
 Phr:
   God is that than which nothing greater can be conceived [Anselm]

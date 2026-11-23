@@ -35,6 +35,7 @@ F:
   Sanskrit: artha [aim, advantage]
   Chinese: liyi [interest]
   Japanese: rieki
+  Korean: gwansim [interest], ihae
 
 Phr:
   cui bono? [Lat.] [who benefits?]

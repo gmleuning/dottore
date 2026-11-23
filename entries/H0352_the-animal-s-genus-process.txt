@@ -36,6 +36,7 @@ F:
   Sanskrit: prajā [offspring]
   Chinese: fanzhi [reproduction]
   Japanese: hanshoku
+  Korean: dongmurui jongjok gwajeong
 
 Phr:
   be fruitful, and multiply [Bible]

@@ -24,6 +24,7 @@ Adv:
 F:
   Chinese: Kongzi, the Yijing [Book of Changes], Lunyu, li and qi [principle and material force], ren [humaneness], yin-yang, wuxing, dao, de, yi, zhi, xiao, tian, tianming, junzi, taiji, wuwei, zhengming, zhongyong, rujia, daojia, mojia, fajia, bagua, ziran
   Japanese: jugaku [Confucian studies]
+  Korean: Yuga [Confucianism], Gongja [Confucius], Yeokgyeong [Book of Changes]
 
 Phr:
   the rectification of names, zhengming [Chin.] [Confucius]

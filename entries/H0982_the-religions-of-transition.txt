@@ -23,6 +23,7 @@ Adv:
 
 F:
   German: Übergang, die Religionen des Übergangs, Kampf der Subjektivität, Gärung
+  Korean: gwadogi jonggyo [religion of transition]
 
 Phr:
   from nature to spirit

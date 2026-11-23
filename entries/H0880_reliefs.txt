@@ -26,6 +26,7 @@ Adv:
 F:
   French: bas relief
   Italian: basso rilievo, alto rilievo, relievo
+  Korean: bujo [relief], dodeulsaegim [relief carving]
 
 Phr:
   the Panathenaic procession

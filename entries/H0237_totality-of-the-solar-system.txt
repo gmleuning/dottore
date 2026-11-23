@@ -29,6 +29,7 @@ F:
   Arabic: al-majmūʿa al-shamsiyya [solar system]
   Sanskrit: saurajagat [solar world]
   Chinese: taiyang xi [solar system]
+  Korean: taeyanggye [solar system]
 
 Phr:
   and yet it moves

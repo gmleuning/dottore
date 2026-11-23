@@ -30,6 +30,7 @@ F:
   Arabic: al-falsafa al-sharqiyya
   Chinese: dongfang zhexue
   Japanese: tōyō tetsugaku
+  Korean: Dongyang cheolhak [Eastern philosophy]
 
 Phr:
   ex oriente lux [Lat.]

@@ -27,6 +27,7 @@ Adv:
 
 F:
   German: Gegen-stand, Anderssein
+  Korean: tajaseong [otherness]
 
 Phr:
   the world out there

@@ -48,6 +48,7 @@ F:
   French: aller â tâtons
   Arabic: ʿilm al-ṭabīʿa
   Chinese: ziran guancha
+  Korean: jayeon gwanchal [observation of nature]
 
 Phr:
   God created, Linnaeus arranged, Deus creavit, Linnaeus disposuit [Lat.]

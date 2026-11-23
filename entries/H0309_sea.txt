@@ -46,6 +46,7 @@ F:
   Sanskrit: samudra [ocean], sāgara
   Chinese: hai [sea], yang [ocean]
   Japanese: umi
+  Korean: bada [sea], haeyang
 
 Phr:
   thalatta! thalatta! [Gr.] [the sea! the sea!] [Xenophon]

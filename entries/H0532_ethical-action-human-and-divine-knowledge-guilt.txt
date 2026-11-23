@@ -33,6 +33,7 @@ F:
   Sanskrit: karma
   Chinese: ming [fate]
   Japanese: unmei [destiny]
+  Korean: yullijeok haengwi, joewa unmyeong
 
 Phr:
   weil wir leiden, anerkennen wir, daß wir gefehlt [Ger.] [Hegel, Phenomenology ¶470, rendering Antigone 926]

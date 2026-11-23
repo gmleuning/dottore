@@ -28,6 +28,7 @@ F:
   Sanskrit: pātra [character in drama]
   Chinese: renwu [character]
   Japanese: jinbutsu
+  Korean: bollaeui haengwi, paetoseu [pathos]
 
 Phr:
   character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]

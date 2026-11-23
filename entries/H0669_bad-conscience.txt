@@ -38,6 +38,7 @@ F:
   Middle English: agenbite of inwit
   Arabic: nadam [remorse]
   Sanskrit: paścāttāpa [remorse]
+  Korean: yangsimui gachaek [bad conscience]
 
 Phr:
   agenbite of inwit [Middle English, Joyce]

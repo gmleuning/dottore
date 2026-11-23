@@ -33,6 +33,7 @@ F:
   Arabic: mughāmara [adventure], riḥla [journey]
   Chinese: maoxian [adventure]
   Japanese: bōken
+  Korean: moheom [adventures]
 
 Phr:
   the knight of the woeful countenance [Cervantes]

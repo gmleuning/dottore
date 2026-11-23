@@ -30,6 +30,7 @@ F:
   Arabic: fanāʾ [passing away]
   Sanskrit: anitya [impermanence]
   Japanese: mujō
+  Korean: yuhanja [the finite], eotteon geot
 
 Phr:
   memento mori [Lat.]

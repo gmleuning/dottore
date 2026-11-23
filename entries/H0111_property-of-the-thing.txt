@@ -32,6 +32,7 @@ F:
   Sanskrit: dharma [property]
   Chinese: xingzhi [property]
   Japanese: seishitsu
+  Korean: sokseong [property]
 
 Phr:
   by their fruits ye shall know them [Bible]

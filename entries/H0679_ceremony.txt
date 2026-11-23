@@ -36,6 +36,7 @@ F:
   Sanskrit: saptapadī [the seven steps]
   Chinese: hunli [wedding]
   Japanese: kekkonshiki
+  Korean: gyeolhonsik [ceremony], hollye
 
 Phr:
   I do

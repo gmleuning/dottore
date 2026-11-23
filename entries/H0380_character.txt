@@ -36,6 +36,7 @@ F:
   Sanskrit: śīla [character, conduct]
   Chinese: pinge [character]
   Japanese: jinkaku
+  Korean: seonggyeok [character], inpum
 
 Phr:
   character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]

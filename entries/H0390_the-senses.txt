@@ -29,6 +29,7 @@ F:
   Sanskrit: indriya [sense faculties], pañcendriya [five senses]
   Chinese: wuguan [five senses]
   Japanese: gokan
+  Korean: ogam [the five senses]
 
 Phr:
   come to one's senses

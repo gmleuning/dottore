@@ -33,6 +33,7 @@ F:
   German: das Reich des Geistes, Gemeinde, Geist, der heilige Geist
   Latin: ecclesia, communio sanctorum, spiritus sanctus, corpus Christi mysticum
   Greek: pneuma, ekklēsia, koinōnia, paraklētos
+  Korean: Seongnyeong [Holy Spirit], gongdongche [community]
 
 Phr:
   where two or three are gathered together in my name [Bible]

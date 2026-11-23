@@ -42,6 +42,7 @@ F:
   Sanskrit: māyā [illusion, magic], mantra [spell], tantra
   Chinese: wushu [sorcery]
   Japanese: majutsu
+  Korean: jusul [magic], musok [shamanism]
 
 Phr:
   abracadabra

@@ -34,6 +34,7 @@ F:
   Arabic: tanāghum [harmony]
   Chinese: hesheng [harmony]
   Japanese: waon [chord]
+  Korean: hwaseong [harmony], hwaeum [chord]
 
 Phr:
   the music of the spheres

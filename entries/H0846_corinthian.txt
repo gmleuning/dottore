@@ -22,5 +22,8 @@ Adv:
   ornately
   richly, luxuriantly
 
+F:
+  Korean: Korinteu yangsik [Corinthian order]
+
 Phr:
   the acanthus capital

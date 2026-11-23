@@ -54,6 +54,7 @@ F:
   Sanskrit: daṇḍa
   Chinese: chengfa [punishment]
   Japanese: keibatsu
+  Korean: hyeongbeol [punishment]
 
 Phr:
   let the punishment fit the crime [Gilbert]

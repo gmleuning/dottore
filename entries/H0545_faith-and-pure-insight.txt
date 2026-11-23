@@ -38,6 +38,7 @@ F:
   Sanskrit: śraddhā [faith]
   Chinese: xinyang [faith]
   Japanese: shinkō
+  Korean: sinanggwa sunsu tongchal [faith and pure insight]
 
 Phr:
   credo ut intelligam [Lat.] [I believe in order to understand] [Anselm]

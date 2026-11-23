@@ -34,6 +34,7 @@ F:
   Arabic: al-ḥaqq [the Real], al-muṭlaq [the absolute]
   Sanskrit: brahman, paramātman
   Chinese: dao [the Way], taiji, tian [Heaven]
+  Korean: jeoldaeja [the Absolute]
 
 Phr:
   Deus sive natura [Lat.] [Spinoza]

@@ -37,6 +37,7 @@ F:
   Greek: hamartia
   Arabic: khaṭīʾa [sin]
   Sanskrit: avidyā [ignorance]
+  Korean: ak [evil], wonjoe [original sin], tarak [the Fall]
 
 Phr:
   ye shall be as gods, knowing good and evil [Bible]

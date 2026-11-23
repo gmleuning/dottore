@@ -25,6 +25,7 @@ F:
   German: Idealität, Jemeinigkeit, Sein-für-Eines
   Latin: me judice
   Sanskrit: sākṣin [witness]
+  Korean: inyeomseong [ideality], gwannyeomseong
 
 Phr:
   man is the measure of all things [Protagoras]

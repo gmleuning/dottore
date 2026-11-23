@@ -34,6 +34,7 @@ F:
   Arabic: tabāduliyya [reciprocity]
   Sanskrit: pratītyasamutpāda, indrajāla
   Chinese: xianghu [mutual], ganying [stimulus-response], yin-yang
+  Korean: sanghojagyong [reciprocity]
 
 Phr:
   do ut des [Lat.]

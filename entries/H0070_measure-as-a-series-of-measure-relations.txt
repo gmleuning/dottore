@@ -25,6 +25,7 @@ Adv:
 
 F:
   Latin: seriatim
+  Korean: cheokdo gyeyeol
 
 Phr:
   a place for everything and everything in its place

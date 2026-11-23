@@ -29,6 +29,7 @@ F:
   Pali: Jātaka
   Chinese: yuyan [fable]
   Japanese: gūwa
+  Korean: uhwa [fable]
 
 Phr:
   the moral of the story

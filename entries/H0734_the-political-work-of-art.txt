@@ -22,6 +22,7 @@ Adv:
 
 F:
   Greek: ekklēsia, isonomia [equality before the law], politēs
+  Korean: jeongchijeok yesul jakpum
 
 Phr:
   Pericles' funeral oration [Thucydides]

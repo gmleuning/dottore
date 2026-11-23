@@ -22,5 +22,8 @@ Adv:
   individually, in its own right
   as total individual
 
+F:
+  Korean: chongche gaeche mulli
+
 Phr:
   each after its kind

@@ -26,6 +26,7 @@ F:
   Sanskrit: prakṛti
   Chinese: ziran
   Japanese: shizen
+  Korean: jayeon [nature], jayeoncheolhak [philosophy of nature]
 
 Phr:
   the idea in the form of otherness [Hegel]

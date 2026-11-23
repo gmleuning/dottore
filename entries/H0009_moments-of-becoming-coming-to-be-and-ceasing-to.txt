@@ -35,6 +35,7 @@ F:
   Sanskrit: utpāda [arising], nirodha [cessation], vyaya, bhavacakra
   Chinese: shengmie [arising and extinction]
   Japanese: shōmetsu
+  Korean: saenggim [arising], somyeol [ceasing]
 
 Phr:
   sic transit gloria mundi [Lat.]

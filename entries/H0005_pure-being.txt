@@ -27,6 +27,7 @@ F:
   Greek: on hē on
   Sanskrit: sat, sanmātra [pure being], nirguṇa [without qualities]
   Chinese: wuji [the limitless]
+  Korean: sunsu jonjae [pure being]
 
 Phr:
   the same thing exists for thinking and for being [Parmenides]

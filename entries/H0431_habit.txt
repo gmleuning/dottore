@@ -48,6 +48,7 @@ F:
   Sanskrit: saṃskāra [impression, latent habit], vāsanā [habitual tendency]
   Chinese: xiguan [habit]
   Japanese: shūkan
+  Korean: seupgwan [habit]
 
 Phr:
   habit is second nature, consuetudo est altera natura [Lat.]

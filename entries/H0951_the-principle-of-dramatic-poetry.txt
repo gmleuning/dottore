@@ -21,5 +21,8 @@ Adv:
   in conflict
   in collision, in action, at odds, through action
 
+F:
+  Korean: haengwi [action], galdeung [conflict]
+
 Phr:
   action is character

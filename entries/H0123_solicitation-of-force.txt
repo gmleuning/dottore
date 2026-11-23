@@ -43,6 +43,7 @@ F:
   Greek: hormē, aphormē [occasion, starting point], dynamis
   Sanskrit: nimitta [occasioning cause] &c (cause) H0137
   Chinese: gan-ying [stimulus and response, resonance]
+  Korean: himui yudo [solicitation]
 
 Phr:
   nemo me impune lacessit [Lat.]

@@ -53,6 +53,7 @@ F:
   Arabic: ḥājāt [needs], kamāliyyāt [luxuries]
   Chinese: xuqiu [need, demand]
   Japanese: juyō [demand]
+  Korean: yokguwa manjok [need and satisfaction]
 
 Phr:
   man needs not only bread

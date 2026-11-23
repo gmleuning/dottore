@@ -20,5 +20,8 @@ Adv:
   by osmosis
   by water, by absorption
 
+F:
+  Korean: sujeok gwajeong [aqueous process]
+
 Phr:
   like a tree planted by the rivers of water [Bible]

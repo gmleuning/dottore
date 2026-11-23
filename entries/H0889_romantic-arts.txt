@@ -20,5 +20,8 @@ Adv:
   inwardly
   subjectively, from within, in feeling
 
+F:
+  Korean: nangmanjeok yesul [romantic arts]
+
 Phr:
   the arts of the soul

@@ -24,6 +24,7 @@ F:
   Arabic: taṭawwur
   Sanskrit: āśrama [stages of life]
   Chinese: rensheng jieduan [life stages]
+  Korean: jayeonjeok byeonhwa
 
 Phr:
   all the world's a stage ... one man in his time plays many parts [As You Like It]

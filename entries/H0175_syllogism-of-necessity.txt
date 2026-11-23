@@ -19,5 +19,8 @@ Adj:
 Adv:
   necessarily, of necessity, strictly
 
+F:
+  Korean: pillyeon churon [syllogism of necessity]
+
 Phr:
   it cannot be otherwise

@@ -36,6 +36,7 @@ F:
   Sanskrit: tādātmya [identity, sameness of nature]
   Chinese: tong [sameness], tongyi [identity]
   Japanese: doitsu
+  Korean: dongilseong [identity]
 
 Phr:
   A is A

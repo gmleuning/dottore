@@ -20,5 +20,8 @@ Adv:
   in detail
   in particular, specifically, severally
 
+F:
+  Korean: yeommoseup [profile], jase [posture]
+
 Phr:
   profile, pose, and drapery

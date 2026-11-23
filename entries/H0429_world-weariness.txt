@@ -47,6 +47,7 @@ F:
   Sanskrit: nirveda [world-weariness]
   Chinese: yanshi [world-weariness]
   Japanese: ensei, mono no aware [pathos of things]
+  Korean: yeomsejuui [world-weariness]
 
 Phr:
   how weary, stale, flat and unprofitable seem to me all the uses of this world! [Hamlet]

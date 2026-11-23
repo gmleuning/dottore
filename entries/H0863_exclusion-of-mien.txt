@@ -22,5 +22,8 @@ Adv:
   impassively
   without expression, without glance
 
+F:
+  Korean: pyojeong [facial expression], nunbit [glance]
+
 Phr:
   the blind eyes of the gods

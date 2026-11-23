@@ -28,6 +28,7 @@ F:
   Latin: quantum
   Arabic: kammiyya [quantity]
   Sanskrit: parimāṇa
+  Korean: jeongnyang [quantum]
 
 Phr:
   so much and no more

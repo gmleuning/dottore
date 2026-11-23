@@ -28,6 +28,7 @@ F:
   Latin: ens, hic et nunc, in esse, de facto, esse
   Arabic: mawjūd [existent]
   Sanskrit: bhāva [entity, state of being]
+  Korean: hyeonjonjae [determinate being], jeongjae
 
 Phr:
   there it is

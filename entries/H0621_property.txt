@@ -48,6 +48,7 @@ F:
   Sanskrit: svatva [ownership], sva [one's own]
   Chinese: caichan [property]
   Japanese: shoyū [ownership]
+  Korean: soyu [property], soyugwon
 
 Phr:
   property is the first embodiment of freedom [Hegel]

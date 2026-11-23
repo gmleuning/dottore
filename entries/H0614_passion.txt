@@ -43,6 +43,7 @@ F:
   Sanskrit: rāga [passion, attachment]
   Chinese: reqing [passion]
   Japanese: jōnetsu
+  Korean: jeongnyeol [passion]
 
 Phr:
   nothing great in the world has been accomplished without passion [Hegel]

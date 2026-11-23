@@ -20,5 +20,8 @@ Adv:
   substantively
   substantially, enduringly, abidingly, permanently
 
+F:
+  Korean: gaeseong [individuality]
+
 Phr:
   individual yet universal

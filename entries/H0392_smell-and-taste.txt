@@ -36,6 +36,7 @@ Adv:
 F:
   Arabic: shamm wa-dhawq [smell and taste]
   Sanskrit: gandha and rasa
+  Korean: hugakgwa migak [smell and taste]
 
 Phr:
   o taste and see that the Lord is good [Bible]

@@ -36,6 +36,7 @@ F:
   German: Vorspiel
   French: piece of music, rondeau, piece of music &c H0906
   Italian: notturno, passamezzo
+  Korean: bakja [time], hwaseong [harmony], seonyul [melody]
 
 Phr:
   rhythm, harmony, melody

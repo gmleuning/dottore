@@ -25,5 +25,8 @@ Adv:
   poetically, literally, soberly, figuratively
   gravely
 
+F:
+  Korean: sijeok [poetic], sanmunjeok [prosaic]
+
 Phr:
   the prose of the world

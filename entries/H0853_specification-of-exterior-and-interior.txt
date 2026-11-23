@@ -20,5 +20,8 @@ Adv:
   inside and out
   without, within, outside, inside, from within outward
 
+F:
+  Korean: naebu [interior], oebu [exterior]
+
 Phr:
   the portal and the nave

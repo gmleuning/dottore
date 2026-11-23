@@ -26,6 +26,7 @@ F:
   Arabic: aqālīm [climes, the seven climes], iqlīm [clime, from Gr. klima]
   Chinese: qihou [climate]
   Japanese: fūdo [climate and culture] [Watsuji]
+  Korean: gihu [climate], pungto
 
 Phr:
   caelum non animum mutant qui trans mare currunt [Lat.] [Horace]

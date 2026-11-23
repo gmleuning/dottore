@@ -24,6 +24,7 @@ Adv:
 F:
   Latin: carpe diem
   Greek: monochronos hēdonē, pathos, telos, echō ouk echomai
+  Korean: Kirene hakpa [Cyrenaics], kwaerakjuui [hedonism]
 
 Phr:
   I possess, I am not possessed, echō ouk echomai [Gr.] [Aristippus]

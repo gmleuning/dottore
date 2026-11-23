@@ -24,6 +24,7 @@ F:
   Arabic: hīghiliyya
   Chinese: heigeer zhexue
   Japanese: hēgeru tetsugaku
+  Korean: Hegel cheolhak [Hegel's philosophy], chegye [system]
 
 Phr:
   what is rational is actual, and what is actual is rational [Hegel]

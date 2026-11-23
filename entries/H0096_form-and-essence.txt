@@ -30,6 +30,7 @@ F:
   Arabic: ṣūra [form] and dhāt
   Sanskrit: rūpa [form] and svabhāva
   Chinese: xing [form, shape] and zhi [substance]
+  Korean: hyeongsikgwa bonjil
 
 Phr:
   form follows function

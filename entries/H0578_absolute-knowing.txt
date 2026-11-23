@@ -27,6 +27,7 @@ F:
   Arabic: ʿilm al-yaqīn [knowledge of certainty], ḥaqq al-yaqīn [truth of certainty]
   Sanskrit: kaivalya [absolute isolation, final knowledge], brahmavidyā [knowledge of the absolute]
   Chinese: juedui zhishi [absolute knowledge]
+  Korean: jeoldaejeok ji [absolute knowing]
 
 Phr:
   spirit knowing itself as spirit [Hegel]

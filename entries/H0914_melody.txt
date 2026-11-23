@@ -33,6 +33,7 @@ F:
   Sanskrit: rāga
   Chinese: xuanlü [melody]
   Japanese: senritsu
+  Korean: seonyul [melody], garak [tune]
 
 Phr:
   heard melodies are sweet, but those unheard are sweeter [Keats]

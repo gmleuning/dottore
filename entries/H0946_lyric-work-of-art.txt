@@ -20,5 +20,8 @@ Adv:
   lyrically
   in a single mood, briefly, in stanzas
 
+F:
+  Korean: sipyeon [poem]
+
 Phr:
   a short poem of feeling

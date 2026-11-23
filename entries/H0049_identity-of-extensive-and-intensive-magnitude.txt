@@ -24,5 +24,8 @@ Adv:
   equivalently, correspondingly; in proportion, proportionally
   interchangeably, as one
 
+F:
+  Korean: dongilseong
+
 Phr:
   the higher the column, the hotter the day

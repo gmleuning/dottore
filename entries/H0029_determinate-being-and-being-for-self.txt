@@ -20,5 +20,8 @@ Adv:
   for others, for oneself; outwardly and inwardly; on the one hand, on the other
   for itself, for another
 
+F:
+  Korean: daetajonjae [being-for-other]
+
 Phr:
   neither a borrower nor a lender be [Hamlet]

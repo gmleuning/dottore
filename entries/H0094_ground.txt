@@ -37,6 +37,7 @@ F:
   Sanskrit: hetu [ground, reason], ādhāra [substratum, support]
   Chinese: gen [root], ben [root, origin]
   Japanese: konkyo [ground, basis]
+  Korean: geungeo [ground]
 
 Phr:
   nihil est sine ratione [Lat.] [Leibniz]

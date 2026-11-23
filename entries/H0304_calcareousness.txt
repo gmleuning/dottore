@@ -22,6 +22,7 @@ F:
   Arabic: kils [lime]
   Sanskrit: sudhā [lime, plaster]
   Chinese: shihui [lime]
+  Korean: seokhoejil [calcareousness]
 
 Phr:
   as white as chalk

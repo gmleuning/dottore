@@ -20,5 +20,8 @@ Adv:
   historically
   by stages, successively, in the course of time
 
+F:
+  Korean: seojeongsiui yeoksa [history of lyric]
+
 Phr:
   from Sappho to Goethe

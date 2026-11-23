@@ -36,6 +36,7 @@ F:
   Arabic: shayʾ [thing]
   Chinese: dongxi [thing]
   Japanese: mono [thing]
+  Korean: eotteon geot [something]
 
 Phr:
   aliquid stat pro aliquo [Lat.]

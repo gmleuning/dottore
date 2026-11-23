@@ -38,6 +38,7 @@ F:
   Sanskrit: svaccha [clear]
   Chinese: touming [transparent]
   Japanese: tōmei
+  Korean: tumyeongseong [transparency]
 
 Phr:
   clear as glass

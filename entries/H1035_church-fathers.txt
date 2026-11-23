@@ -16,6 +16,9 @@ Adj:
 Adv:
   patristically, dogmatically, doctrinally, orthodoxly, by the creed, in council
 
+F:
+  Korean: gyobu [Church Father], gyobucheolhak [patristics]
+
 Phr:
   credo quia absurdum [Lat.] [attrib. Tertullian]
   credo ut intelligam [Lat.] [Augustine; "I believe in order that I may understand"]

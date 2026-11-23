@@ -37,6 +37,7 @@ F:
   Sanskrit: anta [end]
   Chinese: zhong [end]
   Japanese: owari
+  Korean: jongmal [end], gyeolmal
 
 Phr:
   in my end is my beginning [T. S. Eliot]

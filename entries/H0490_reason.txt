@@ -32,6 +32,7 @@ F:
   Sanskrit: buddhi, viveka [discernment]
   Chinese: lixing [reason]
   Japanese: risei
+  Korean: iseong [reason]
 
 Phr:
   reason is the certainty of consciousness that it is all reality [Hegel]

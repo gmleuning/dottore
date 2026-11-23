@@ -22,5 +22,8 @@ Adv:
   in tension, toward the other
   by affinity, toward its other
 
+F:
+  Korean: hwahakjeok gaekche [chemical object]
+
 Phr:
   one half seeking its other half [Plato]

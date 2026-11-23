@@ -37,6 +37,7 @@ F:
   Sanskrit: dāna, dakṣiṇā [ritual gift]
   Chinese: liwu [gift]
   Japanese: okurimono, omiyage [souvenir gift]
+  Korean: jeungyeo [gift]
 
 Phr:
   never look a gift horse in the mouth

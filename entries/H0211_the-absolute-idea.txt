@@ -30,6 +30,7 @@ F:
   Arabic: ʿaql [intellect], al-ʿaql al-kullī [universal intellect]
   Sanskrit: brahman, cit [pure consciousness]
   Chinese: dao
+  Korean: jeoldae inyeom [absolute idea]
 
 Phr:
   the absolute idea alone is being, imperishable life, self-knowing truth, and is all truth [Hegel]

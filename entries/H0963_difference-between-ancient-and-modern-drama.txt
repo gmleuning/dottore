@@ -24,6 +24,7 @@ F:
   German: Unterschied, antik, modern, das Substantielle, Subjektivität
   Latin: antiqui et moderni
   French: querelle des anciens et des modernes
+  Korean: godaegeuk [ancient drama], geundaegeuk [modern drama]
 
 Phr:
   the quarrel of the ancients and the moderns

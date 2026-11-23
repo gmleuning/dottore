@@ -21,6 +21,9 @@ Adv:
   merely, only, no more than; in the end; irrevocably, without remedy
   transiently, perishably
 
+F:
+  Korean: yuhan [finite]
+
 Phr:
   all is vanity and vexation of spirit [Bible]
   out, out, brief candle [Macbeth]

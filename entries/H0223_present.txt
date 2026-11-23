@@ -35,6 +35,7 @@ F:
   Sanskrit: vartamāna [present]
   Chinese: xianzai [present]
   Japanese: ima [now]
+  Korean: hyeonjae [present]
 
 Phr:
   carpe diem [Lat.] [Horace]

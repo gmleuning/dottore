@@ -36,6 +36,7 @@ F:
   Arabic: iḥsās [sensation], ḥiss [sense]
   Sanskrit: vedanā [feeling, sensation]
   Chinese: ganjue [sensation]
+  Korean: gamgak [sensation]
 
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]

@@ -32,6 +32,7 @@ F:
   Sanskrit: vakrokti [oblique speech]
   Chinese: fanfeng [irony]
   Japanese: hiniku
+  Korean: aireoni [irony], baneo
 
 Phr:
   die endlich höchste Form, in der diese Subjektivität sich vollkommen erfaßt und ausspricht, ist die Gestalt, die man … Ironie genannt hat [Ger.] [Hegel, Philosophy of Right §140 Remark]

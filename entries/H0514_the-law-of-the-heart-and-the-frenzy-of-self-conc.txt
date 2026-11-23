@@ -27,6 +27,7 @@ Adv:
 
 F:
   German: Schwärmerei [enthusiasm, fanaticism], Eigendünkel
+  Korean: maeumui beopchik [law of the heart]
 
 Phr:
   the heart has its laws

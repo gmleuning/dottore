@@ -56,6 +56,7 @@ F:
   Sanskrit: pāpa
   Chinese: e [evil]
   Japanese: aku
+  Korean: akgwa geu hyeongtae [evil and its forms]
 
 Phr:
   der Ursprung des Bösen überhaupt liegt in dem Mysterium, d. i. in dem Spekulativen der Freiheit [Ger.] [Hegel, Philosophy of Right §139 Remark]

@@ -35,6 +35,7 @@ Adv:
 
 F:
   French: bourgeon
+  Korean: jeongnyangui byeonhwa
 
 Phr:
   crescit eundo [Lat.]

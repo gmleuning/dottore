@@ -25,6 +25,7 @@ Adv:
 F:
   Greek: herma
   Sanskrit: liṅga
+  Korean: namgeun seokju [phallic columns]
 
 Phr:
   the generative power worshipped

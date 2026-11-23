@@ -33,6 +33,7 @@ F:
   Sanskrit: siddhānta [established conclusion]
   Chinese: dingli [theorem]
   Japanese: teiri
+  Korean: jeongni [theorem]
 
 Phr:
   quod erat demonstrandum [Lat.]

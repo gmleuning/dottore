@@ -23,5 +23,8 @@ Adv:
   continuously, day by day
   by self-renewal
 
+F:
+  Korean: dongmurui jagi hyeongseong
+
 Phr:
   the inward man is renewed day by day [Bible]

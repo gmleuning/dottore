@@ -33,6 +33,7 @@ F:
   Sanskrit: jīva-vidyā
   Chinese: shengwuxue [biology]
   Japanese: seibutsugaku
+  Korean: yugiche [organics], yugijeok jayeon
 
 Phr:
   omne vivum ex vivo [Lat.]

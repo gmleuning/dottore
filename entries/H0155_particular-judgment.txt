@@ -23,5 +23,8 @@ Adv:
   sometimes, in some cases, partly, in part, to some extent
   partially, to a certain extent
 
+F:
+  Korean: teuksu pandan [particular judgment]
+
 Phr:
   some swans are white

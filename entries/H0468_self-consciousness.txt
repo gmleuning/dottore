@@ -26,6 +26,7 @@ F:
   Sanskrit: ātma-jñāna [self-knowledge], sva-saṃvedana [self-awareness]
   Chinese: ziwo yishi [self-consciousness]
   Japanese: jiko ishiki
+  Korean: jagi uisik [self-consciousness]
 
 Phr:
   know thyself, gnōthi seauton [Gr.]

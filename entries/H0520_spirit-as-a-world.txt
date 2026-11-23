@@ -28,6 +28,7 @@ F:
   Sanskrit: saṃskṛti [culture]
   Chinese: wenming [civilization]
   Japanese: bunmei
+  Korean: segyeroseoui jeongsin
 
 Phr:
   the spirit of the age

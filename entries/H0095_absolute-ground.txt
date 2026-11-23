@@ -26,6 +26,7 @@ Adv:
 F:
   German: Grund und Folge
   Latin: ratio et rationatum
+  Korean: jeoldaejeok geungeo
 
 Phr:
   the ground of being [Tillich]

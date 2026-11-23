@@ -27,6 +27,7 @@ F:
   Sanskrit: viśleṣaṇa [analysis]
   Chinese: fenxi [analysis]
   Japanese: bunseki
+  Korean: bunseokjeok insik [analytic cognition]
 
 Phr:
   we murder to dissect [Wordsworth]

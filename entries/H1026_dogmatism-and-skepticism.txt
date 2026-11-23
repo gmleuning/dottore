@@ -31,6 +31,7 @@ Adv:
 F:
   Latin: onus probandi
   Greek: kritērion, epochē, ataraxia, autarkeia
+  Korean: dokdannon [dogmatism], hoeuiron [skepticism]
 
 Phr:
   the search for the criterion

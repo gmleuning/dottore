@@ -22,6 +22,7 @@ Adv:
 
 F:
   Arabic: yaqīn ʿaqlī [rational certainty]
+  Korean: iseongui hwaksilseonggwa jilli
 
 Phr:
   the world is my world

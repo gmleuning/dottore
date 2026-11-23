@@ -36,6 +36,7 @@ F:
   Sanskrit: kāraṇa and kārya [cause and effect], hetu-phala, karma [action and its fruit]
   Chinese: yinguo [cause and effect]
   Japanese: inga
+  Korean: ingwaseong [causality]
 
 Phr:
   nihil fit sine causa [Lat.]

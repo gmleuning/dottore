@@ -27,6 +27,7 @@ F:
   German: Schein
   Arabic: nūr [light], tajallī [self-disclosure, theophany]
   Sanskrit: ābhāsa [semblance, reflected appearance]
+  Korean: gasang
 
 Phr:
   the light shineth in darkness [Bible]

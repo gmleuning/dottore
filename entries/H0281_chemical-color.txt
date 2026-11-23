@@ -30,6 +30,7 @@ F:
   Sanskrit: rañjana [dye]
   Chinese: yanliao [pigment]
   Japanese: ganryō
+  Korean: hwahakjeok saek [chemical colour], allyo [pigment]
 
 Phr:
   dyed in the wool

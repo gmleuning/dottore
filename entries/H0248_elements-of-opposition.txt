@@ -25,6 +25,7 @@ Adv:
 
 F:
   Chinese: yin and yang
+  Korean: bulgwa mul [fire and water]
 
 Phr:
   oil and water do not mix

@@ -39,6 +39,7 @@ F:
   Sanskrit: saṃvāda [concord]
   Chinese: hexie [harmony]
   Japanese: wa [harmony], chōwa
+  Korean: johwa [harmony]
 
 Phr:
   the hidden harmony is better than the obvious [Heraclitus]

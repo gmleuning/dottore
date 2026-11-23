@@ -23,6 +23,7 @@ Adv:
 F:
   Greek: eidos, idea, anamnēsis, methexis, chōrismos, to agathon, kosmos noētos, mimēsis, dialektikē, dēmiourgos
   Arabic: Aflāṭūn
+  Korean: Peullaton [Plato], idea [Idea]
 
 Phr:
   the allegory of the cave [Plato]

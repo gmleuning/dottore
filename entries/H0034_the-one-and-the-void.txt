@@ -33,6 +33,7 @@ F:
   Sanskrit: ākāśa [space, ether], śūnya
   Chinese: xu [emptiness], kong
   Japanese: ma [interval, meaningful gap]
+  Korean: heogong [the void], gong
 
 Phr:
   nothing exists except atoms and empty space

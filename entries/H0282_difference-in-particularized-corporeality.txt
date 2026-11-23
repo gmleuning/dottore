@@ -25,6 +25,7 @@ Adv:
 
 F:
   Latin: sapor and odor
+  Korean: teuksuhwadoen mulchejeok chai
 
 Phr:
   de gustibus non est disputandum [Lat.]

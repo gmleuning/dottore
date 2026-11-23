@@ -30,5 +30,8 @@ Adv:
   in flux, from moment to moment
   changeably, by alteration
 
+F:
+  Korean: guchejeok byeonhwa
+
 Phr:
   now it is no longer now

@@ -22,6 +22,7 @@ Adv:
 
 F:
   Greek: entasis [swelling of the column]
+  Korean: Geuriseu yangsik [Greek style]
 
 Phr:
   the Acropolis

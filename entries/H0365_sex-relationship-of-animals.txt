@@ -48,6 +48,7 @@ F:
   Sanskrit: liṅga [gender, mark]
   Chinese: xingbie [sex distinction]
   Japanese: seibetsu
+  Korean: dongmurui seong gwangye
 
 Phr:
   male and female created he them [Bible]

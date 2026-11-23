@@ -31,6 +31,7 @@ F:
   Sanskrit: kathā [story]
   Chinese: qingjie [plot]
   Japanese: suji
+  Korean: haengwi [action], haengdong
 
 Phr:
   plot is the soul of tragedy [Aristotle]

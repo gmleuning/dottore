@@ -24,5 +24,8 @@ Adv:
   figuratively
   by illustration, from the meaning outward
 
+F:
+  Korean: uimieseo sijakhaneun bigyo
+
 Phr:
   the meaning comes first

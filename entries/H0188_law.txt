@@ -33,6 +33,7 @@ F:
   Arabic: sunna, qānūn
   Sanskrit: dharma, ṛta
   Chinese: li, fa
+  Korean: beopchik [law]
 
 Phr:
   order is heaven's first law [Pope]

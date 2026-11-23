@@ -58,6 +58,7 @@ F:
   Sanskrit: karman [work, action]
   Chinese: laodong [labour], fengong [division of labour]
   Japanese: bungyō
+  Korean: nodong [work], bungeop [division of labour]
 
 Phr:
   the pin factory [Adam Smith]

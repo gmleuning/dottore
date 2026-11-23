@@ -25,6 +25,7 @@ Adv:
 F:
   German: Sachlichkeit [matter-of-factness]
   Latin: bona fides
+  Korean: pyohyeonui gaekgwanseong
 
 Phr:
   the work speaks for itself

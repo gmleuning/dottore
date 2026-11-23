@@ -30,6 +30,7 @@ F:
   Sanskrit: mokṣa [liberation], svātantrya
   Chinese: ziyou [freedom]
   Japanese: jiyū
+  Korean: jagi uisigui jayu
 
 Phr:
   Gedanken sind frei [Ger.] [thoughts are free]

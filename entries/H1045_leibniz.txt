@@ -19,6 +19,7 @@ Adv:
 F:
   German: Monadologie
   French: petites perceptions [unconscious perception]
+  Korean: Raipeunicheu [Leibniz], danja [monad]
 
 Phr:
   the best of all possible worlds [Leibniz, mocked by Voltaire]

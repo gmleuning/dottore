@@ -32,6 +32,7 @@ F:
   Sanskrit: jīva, prāṇin [breathing being]
   Chinese: shengwu [living thing]
   Japanese: seibutsu
+  Korean: sarainneun gaeche [living individual]
 
 Phr:
   a severed hand is no longer a hand [Aristotle]

@@ -25,6 +25,7 @@ F:
   Sanskrit: vaṃśa [lineage, dynasty]
   Chinese: wangchao [dynasty]
   Japanese: kōtō [imperial line]
+  Korean: jayeonjeok gaeineuroseoui gunju
 
 Phr:
   the king is dead, long live the king! le roi est mort, vive le roi! [Fr.]

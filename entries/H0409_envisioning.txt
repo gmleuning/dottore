@@ -27,6 +27,7 @@ F:
   German: vorstellen
   Arabic: ruʾyā
   Sanskrit: darśana [seeing, vision]
+  Korean: hwansang [envisioning], hwanyeong
 
 Phr:
   where there is no vision, the people perish [Bible]

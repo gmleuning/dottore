@@ -30,6 +30,7 @@ F:
   Sanskrit: sat [being, the real], bhava
   Chinese: you [being, having]
   Japanese: u
+  Korean: jonjae [being], sijak [beginning]
 
 Phr:
   esti gar einai [Gr.] [Parmenides]

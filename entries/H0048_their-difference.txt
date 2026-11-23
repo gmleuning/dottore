@@ -20,5 +20,8 @@ Adv:
   in extent, in degree; widely, deeply
   in size
 
+F:
+  Korean: oeyeollyang
+
 Phr:
   a mile wide and an inch deep

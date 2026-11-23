@@ -30,6 +30,7 @@ F:
   Sanskrit: vikalpa, pratyaya
   Chinese: gainian [concept]
   Japanese: gainen
+  Korean: gaenyeomnon [doctrine of the concept]
 
 Phr:
   the acorn contains the oak

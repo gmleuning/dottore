@@ -88,6 +88,7 @@ F:
   French: maladie, make a piece of work, tombe des nues, nous verrons
   Arabic: wijdān [inner feeling]
   Sanskrit: bhāva [feeling, emotion]
+  Korean: silcheonjeok gamjeong [practical feeling]
 
 Phr:
   the heart's ought

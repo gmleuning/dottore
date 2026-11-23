@@ -20,5 +20,8 @@ Adv:
   typically
   in general, without detail, simply, abstractly
 
+F:
+  Korean: uyeonseong [contingency]
+
 Phr:
   no wart or wrinkle

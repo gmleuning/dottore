@@ -26,6 +26,7 @@ Adv:
 F:
   German: das absolute Verhältnis
   Latin: nexus necessarius
+  Korean: jeoldaejeok gwangye [absolute relation]
 
 Phr:
   no effect without a cause

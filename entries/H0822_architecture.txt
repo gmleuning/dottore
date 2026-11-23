@@ -33,6 +33,7 @@ F:
   Sanskrit: vāstu-śāstra [science of building], sthāpatya
   Chinese: jianzhu [architecture]
   Japanese: kenchiku
+  Korean: geonchuk [architecture]
 
 Phr:
   architecture is frozen music [Schelling, attrib.]

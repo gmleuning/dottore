@@ -39,6 +39,7 @@ F:
   Sanskrit: bhaviṣyat [future]
   Chinese: weilai [future]
   Japanese: mirai
+  Korean: mirae [future]
 
 Phr:
   tomorrow, and tomorrow, and tomorrow [Macbeth]

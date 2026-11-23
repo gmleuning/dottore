@@ -32,6 +32,7 @@ F:
   Sanskrit: prakṛti, bhūta [element, material]
   Chinese: wuzhi [matter], qi [vital stuff]
   Japanese: busshitsu
+  Korean: mujil [matter]
 
 Phr:
   matter can be neither created nor destroyed

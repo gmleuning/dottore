@@ -32,6 +32,7 @@ F:
   Sanskrit: vedanā [feeling]
   Chinese: ganjue [feeling, sensation]
   Japanese: kanjō [feeling]
+  Korean: gamjeong [feeling]
 
 Phr:
   I feel, therefore I am

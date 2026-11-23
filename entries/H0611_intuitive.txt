@@ -22,5 +22,8 @@ Adv:
   intuitively, instinctively, in one's gut
   with pleasure, with joy, painfully
 
+F:
+  Korean: jikgwanjeok gamjeong
+
 Phr:
   it just feels right

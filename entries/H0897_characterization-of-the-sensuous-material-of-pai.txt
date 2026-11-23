@@ -26,6 +26,7 @@ Adv:
 
 F:
   Italian: chiaroscuro, sfumato, incarnato
+  Korean: wongeunbeop [perspective], somyo [drawing], chaesaek [colouring]
 
 Phr:
   the magic of colour

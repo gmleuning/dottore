@@ -22,6 +22,7 @@ Adv:
 
 F:
   Latin: analogia entis, universalia ante rem, universalia in re, universalia post rem, flatus vocis, id quo maius cogitari nequit, fides quaerens intellectum, haecceitas
+  Korean: siljaeron [realism], yumyeongnon [nominalism], jonjaeronjeok jeungmyeong [ontological proof]
 
 Phr:
   universalia ante rem, in re, post rem [Lat.]

@@ -18,6 +18,7 @@ Adv:
 
 F:
   German: Ding an sich [thing-in-itself], Anschauung [Intuition]
+  Korean: Kanteu [Kant], muljache [thing in itself]
 
 Phr:
   thoughts without content are empty, intuitions without concepts are blind [Kant]

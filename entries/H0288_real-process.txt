@@ -29,6 +29,7 @@ Adv:
 
 F:
   Latin: tertium quid
+  Korean: silsangjeok gwajeong [real process], gyeolhap
 
 Phr:
   the whole is other than its parts

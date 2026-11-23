@@ -26,6 +26,7 @@ F:
   German: Naturreligion, die unmittelbare Religion, Natürlichkeit, Zauberei
   Latin: religio naturalis, numen, natura
   Greek: physis, physiolatreia
+  Korean: jayeon jonggyo [nature religion]
 
 Phr:
   the spirit sunk in nature

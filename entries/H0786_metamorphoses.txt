@@ -27,6 +27,7 @@ F:
   Sanskrit: rūpāntara [change of form]
   Chinese: bianxing [metamorphosis]
   Japanese: henshin
+  Korean: byeonsin [metamorphoses]
 
 Phr:
   in nova fert animus mutatas dicere formas corpora [Lat.] [Ovid]

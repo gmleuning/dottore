@@ -29,6 +29,7 @@ Adv:
 
 F:
   Greek: oikos
+  Korean: yokgu gongdongche
 
 Phr:
   each depends on the other

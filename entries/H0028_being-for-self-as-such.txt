@@ -23,6 +23,7 @@ Adv:
 F:
   German: an und für sich, Fürsichsein als solches
   Latin: in se, per se
+  Korean: daejajonjae
 
 Phr:
   omnia mea mecum porto [Lat.] [Bias, via Cicero]

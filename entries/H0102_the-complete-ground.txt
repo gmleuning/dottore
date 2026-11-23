@@ -34,6 +34,7 @@ Adv:
 
 F:
   Latin: ratio sufficiens, in extenso, toto coelo
+  Korean: wanjeonhan geungeo
 
 Phr:
   the whole truth and nothing but the truth

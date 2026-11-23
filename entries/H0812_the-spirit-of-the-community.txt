@@ -34,6 +34,7 @@ F:
   Greek: martyrion, metanoia
   Arabic: shahāda [martyrdom, witness], tawba [repentance], karāmāt [saints' miracles]
   Sanskrit: prāyaścitta [penance]
+  Korean: gongdongcheui jeongsin
 
 Phr:
   the blood of the martyrs is the seed of the Church [proverbial]

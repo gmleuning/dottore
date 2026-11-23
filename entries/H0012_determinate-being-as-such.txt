@@ -21,6 +21,7 @@ Adv:
 
 F:
   Latin: per se, simpliciter
+  Korean: hyeonjonjae
 
 Phr:
   just as it is

@@ -23,5 +23,8 @@ Adv:
   involuntarily, despite oneself, unwittingly
   in spite of oneself
 
+F:
+  Korean: bijayuui sinchehwa
+
 Phr:
   the face betrays the heart

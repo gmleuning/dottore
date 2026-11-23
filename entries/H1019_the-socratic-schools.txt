@@ -21,5 +21,8 @@ Adv:
   one-sidedly, partially, severally, divergently, in the wake of Socrates, each in its own way
   unilaterally
 
+F:
+  Korean: Sokeurateseu hakpa [Socratic schools]
+
 Phr:
   the children of Socrates

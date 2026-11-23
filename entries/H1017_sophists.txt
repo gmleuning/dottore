@@ -27,6 +27,7 @@ F:
   German: Räsonnement, Bildung
   Greek: sophistēs, dissoi logoi, nomos, physis, antilogia, eristikē, aretē, paideia, deinotēs, pantōn chrēmatōn metron anthrōpos
   Arabic: al-sūfisṭāʾiyya
+  Korean: sopiseuteu [Sophist], gwebyeon [sophistry]
 
 Phr:
   man is the measure of all things [Protagoras]

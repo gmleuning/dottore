@@ -25,6 +25,7 @@ F:
   Latin: aenigma
   Greek: ainigma, sphinx, mystērion, symbolon
   Egyptian: Maat [truth, order], ka, ba, duat
+  Korean: Seupingkeuseu [sphinx], susukkekki [riddle]
 
 Phr:
   I am all that was, is, and shall be

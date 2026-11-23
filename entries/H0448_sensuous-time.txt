@@ -24,6 +24,7 @@ Adv:
 
 F:
   French: durée [Bergson]
+  Korean: gamgakjeok sigan
 
 Phr:
   now is night

@@ -20,5 +20,8 @@ Adv:
   in formation
   by degrees, in the making
 
+F:
+  Korean: gojeonjeok yesurui hyeongseong gwajeong
+
 Phr:
   from beast to god

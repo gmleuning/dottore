@@ -28,6 +28,7 @@ F:
   Arabic: qāfiya [rhyme], sajʿ [rhymed prose]
   Sanskrit: anuprāsa [alliteration]
   Chinese: yayun [rhyme]
+  Korean: gagun [end rhyme], abun [rhyme]
 
 Phr:
   neither rhyme nor reason

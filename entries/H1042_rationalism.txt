@@ -22,6 +22,7 @@ Adv:
 
 F:
   Latin: more geometrico, a priori, mathesis universalis, lumen naturale, ideae innatae
+  Korean: hamniron [rationalism]
 
 Phr:
   ordine geometrico demonstrata [Lat.] [Spinoza]

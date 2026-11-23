@@ -20,5 +20,8 @@ Adv:
   ideally
   perfectly, in human form
 
+F:
+  Korean: gojeonjeok yesurui isang
+
 Phr:
   the gods in human form

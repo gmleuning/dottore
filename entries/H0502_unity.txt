@@ -30,6 +30,7 @@ F:
   Sanskrit: ekatva [oneness]
   Chinese: tongyi [unity]
   Japanese: tōitsu
+  Korean: tongil [unity]
 
 Phr:
   to gar auto noein estin te kai einai [Gr.] [Parmenides]

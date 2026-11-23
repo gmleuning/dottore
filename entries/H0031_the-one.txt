@@ -33,6 +33,7 @@ F:
   Arabic: tawḥīd [oneness], aḥad, wāḥid
   Sanskrit: ekam [one], eka
   Chinese: yi [one], taiyi [Great One]
+  Korean: ilja [the One]
 
 Phr:
   e pluribus unum [Lat.]

@@ -32,6 +32,7 @@ F:
   Sanskrit: vimarśa [reflective awareness]
   Chinese: xing [self-examination], fanxing [introspection]
   Japanese: hansei [self-reflection]
+  Korean: banseong [reflection]
 
 Phr:
   the unexamined life is not worth living [Socrates]

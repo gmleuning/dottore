@@ -22,6 +22,7 @@ Adv:
 
 F:
   Greek: dodekatheon
+  Korean: teuksu sindeul [particular gods]
 
 Phr:
   the twelve Olympians

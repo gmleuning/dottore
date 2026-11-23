@@ -34,6 +34,7 @@ F:
   Sanskrit: anumāna [inference], pañcāvayava [five-membered syllogism]
   Chinese: tuili [inference], sanduanlun [syllogism]
   Japanese: sandanronpō
+  Korean: churon [syllogism], samdannonbeop
 
 Phr:
   everything rational is a syllogism [Hegel]

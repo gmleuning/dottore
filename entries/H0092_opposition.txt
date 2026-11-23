@@ -35,6 +35,7 @@ F:
   Sanskrit: dvandva [pair of opposites]
   Chinese: yin-yang, duili [opposition]
   Japanese: tairitsu
+  Korean: daerip [opposition]
 
 Phr:
   opposites attract

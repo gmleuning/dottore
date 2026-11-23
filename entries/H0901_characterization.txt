@@ -23,5 +23,8 @@ Adv:
   characteristically
   distinctively, individually, to the life, expressively, tellingly
 
+F:
+  Korean: seonggyeok myosa [characterization]
+
 Phr:
   a speaking likeness

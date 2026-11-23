@@ -23,6 +23,7 @@ Adv:
 F:
   Latin: Darapti, Disamis, Datisi, Felapton, Bocardo, Ferison, figura tertia
   Arabic: al-shakl al-thālith
+  Korean: jesamgyeok [third figure]
 
 Phr:
   all men are mortal

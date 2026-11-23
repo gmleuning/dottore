@@ -20,5 +20,8 @@ Adv:
   as a function of, in terms of, in relation to
   on both sides, qualitatively
 
+F:
+  Korean: cheokdo gwangye
+
 Phr:
   s = ½gt²

@@ -34,6 +34,7 @@ F:
   Sanskrit: itihāsa [history]
   Chinese: shijie shi [world history]
   Japanese: sekaishi
+  Korean: segyesa [world history]
 
 Phr:
   world history is the world's court of judgment, die Weltgeschichte ist das Weltgericht [Ger.] [Schiller, Hegel]

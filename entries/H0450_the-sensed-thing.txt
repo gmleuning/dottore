@@ -23,6 +23,7 @@ Adv:
 
 F:
   Arabic: maḥsūs [the sensed]
+  Korean: gamgakdoen samul
 
 Phr:
   the thing before me

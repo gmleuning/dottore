@@ -26,5 +26,8 @@ Adv:
   internally, organically
   constitutionally, within itself
 
+F:
+  Korean: gungnae heonbeop [internal constitution]
+
 Phr:
   the state as organism

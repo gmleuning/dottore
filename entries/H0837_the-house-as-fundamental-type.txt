@@ -48,6 +48,7 @@ F:
   Sanskrit: gṛha [house]
   Chinese: fangwu [house]
   Japanese: ie
+  Korean: jip [house], wonhyeong [archetype]
 
 Phr:
   the primitive hut [Laugier]

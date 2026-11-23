@@ -36,6 +36,7 @@ F:
   Sanskrit: sāmudrika [body-sign reading]
   Chinese: xiangmian [face-reading]
   Japanese: ninsō
+  Korean: gwansang [physiognomy], eolgul
 
 Phr:
   the face is the index of the mind, vultus est index animi [Lat.]

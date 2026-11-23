@@ -37,6 +37,7 @@ F:
   Sanskrit: atīta [past], bhūta [past, what has been]
   Chinese: guoqu [past]
   Japanese: kako
+  Korean: gwageo [past]
 
 Phr:
   the past is a foreign country

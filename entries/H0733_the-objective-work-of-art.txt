@@ -20,5 +20,8 @@ Adv:
   in marble, in myth
   objectively, in divine form, as gods
 
+F:
+  Korean: gaekgwanjeok yesul jakpum
+
 Phr:
   οὗτοι δέ εἰσι οἱ ποιήσαντες θεογονίην Ἕλλησι καὶ τοῖσι θεοῖσι τὰς ἐπωνυμίας δόντες [Gk.] [Herodotus II.53, of Homer and Hesiod: these are they who made a theogony for the Greeks and gave the gods their names]

@@ -25,6 +25,7 @@ F:
   Sanskrit: samādhi [absorption, trance]
   Chinese: cuimian [hypnosis]
   Japanese: saimin
+  Korean: jagijeok mongyu [magnetic somnambulism], choemyeon
 
 Phr:
   you are getting sleepy

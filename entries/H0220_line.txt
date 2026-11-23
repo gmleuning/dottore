@@ -46,6 +46,7 @@ F:
   Sanskrit: rekhā [line]
   Chinese: xian [line]
   Japanese: sen
+  Korean: seon [line]
 
 Phr:
   a line is breadthless length [Euclid]

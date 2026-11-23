@@ -20,5 +20,8 @@ Adv:
   expressively
   fittingly, adequately, in keeping, with expression
 
+F:
+  Korean: pyohyeon [expression]
+
 Phr:
   prima la musica, poi le parole [It.] [first the music, then the words]

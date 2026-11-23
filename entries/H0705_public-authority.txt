@@ -63,6 +63,7 @@ F:
   Arabic: ḥisba [market inspection], muḥtasib [market inspector]
   Chinese: gongan [public security]
   Japanese: gyōsei [administration]
+  Korean: gyeongchal [police], gongan
 
 Phr:
   the rabble, der Pöbel [Ger.] [Hegel]

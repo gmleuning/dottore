@@ -58,6 +58,7 @@ F:
   Sanskrit: aparādha [offence], pāpa [sin]
   Chinese: fanzui [crime]
   Japanese: hanzai
+  Korean: beomjoe [crime]
 
 Phr:
   crime is the negation of right [Hegel]

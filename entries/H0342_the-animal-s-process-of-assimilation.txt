@@ -31,6 +31,7 @@ F:
   French: jour maigre, soupe maigre
   Arabic: ightidhāʾ [nourishment]
   Sanskrit: āhāra [food, intake]
+  Korean: dongmurui donghwa [assimilation]
 
 Phr:
   nature, red in tooth and claw [Tennyson]

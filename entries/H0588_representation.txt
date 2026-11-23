@@ -38,6 +38,7 @@ F:
   Sanskrit: vikalpa [mental construction], pratyaya [idea]
   Chinese: biaoxiang [representation]
   Japanese: hyōshō
+  Korean: pyosang [representation]
 
 Phr:
   the map is not the territory [Korzybski]

@@ -29,6 +29,7 @@ Adv:
 F:
   Latin: arcus
   Arabic: qanṭara [arch, bridge], qubba [dome]
+  Korean: achi [arch], gungnyung [vault]
 
 Phr:
   the keystone of the arch

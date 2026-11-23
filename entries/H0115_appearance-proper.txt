@@ -30,6 +30,7 @@ Adv:
 F:
   German: Erscheinung
   French: coup d'oeil, mise en sc ne
+  Korean: hyeonsang [appearance]
 
 Phr:
   saving the phenomena

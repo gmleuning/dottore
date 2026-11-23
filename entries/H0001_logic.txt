@@ -30,6 +30,7 @@ F:
   Arabic: manṭiq, ʿilm al-manṭiq
   Sanskrit: nyāya, hetuvidyā, pramāṇa [means of valid knowledge]
   Chinese: mingjia [School of Names]
+  Korean: nollihak [logic], sabyeon [speculation]
 
 Phr:
   to gar auto noein estin te kai einai [Gr.] [Parmenides]

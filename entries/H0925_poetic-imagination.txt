@@ -20,5 +20,8 @@ Adv:
   imaginatively
   vividly, graphically, pictorially, in images
 
+F:
+  Korean: sijeok sangsangnyeok [poetic imagination]
+
 Phr:
   to see a world in a grain of sand [Blake]

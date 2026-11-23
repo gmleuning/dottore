@@ -54,6 +54,7 @@ F:
   Sanskrit: jyotis [light], prakāśa [light, manifestation], tejas
   Chinese: guang [light], ming [brightness]
   Japanese: hikari
+  Korean: bit [light], gwang
 
 Phr:
   fiat lux [Lat.] [Bible]

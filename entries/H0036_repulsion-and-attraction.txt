@@ -33,6 +33,7 @@ F:
   Arabic: jadhb wa-dafʿ [attraction and repulsion]
   Sanskrit: rāga and dveṣa [attraction and aversion]
   Chinese: yin and yang
+  Korean: banbal [repulsion], gyeonin [attraction]
 
 Phr:
   love and strife [Empedocles]

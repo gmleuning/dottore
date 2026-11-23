@@ -35,6 +35,7 @@ F:
   Sanskrit: vetana [wage]
   Chinese: gongzi [wage]
   Japanese: chingin
+  Korean: goyong gyeyak [wage contract]
 
 Phr:
   the labourer is worthy of his hire [Bible]

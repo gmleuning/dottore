@@ -31,6 +31,7 @@ F:
   Sanskrit: matsya [fish]
   Chinese: yu [fish]
   Japanese: sakana
+  Korean: eoryu [fish], mulgogi
 
 Phr:
   there are plenty more fish in the sea

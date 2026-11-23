@@ -23,6 +23,7 @@ Adv:
 F:
   German: Mann und Weib
   Greek: nomos and themis, polis and oikos
+  Korean: yullijeok segye, ingan beopgwa sinui beop
 
 Phr:
   the law of the upper world and the law of the nether world

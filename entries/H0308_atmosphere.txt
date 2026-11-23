@@ -33,6 +33,7 @@ F:
   Sanskrit: antarikṣa [atmosphere, mid-air]
   Chinese: daqi [atmosphere]
   Japanese: taiki
+  Korean: daegi [atmosphere]
 
 Phr:
   this most excellent canopy, the air [Hamlet]

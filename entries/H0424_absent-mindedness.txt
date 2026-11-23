@@ -33,6 +33,7 @@ F:
   French: distrait
   Arabic: ghafla [heedlessness]
   Sanskrit: pramāda [heedlessness]
+  Korean: bangsim [absent-mindedness]
 
 Phr:
   lost in thought

@@ -27,6 +27,7 @@ Adv:
 F:
   Latin: Pax Romana
   Arabic: Qayṣar [Caesar], al-Qusṭanṭīniyya [Constantinople]
+  Korean: jejeong roma [imperial Rome]
 
 Phr:
   in hoc signo vinces [Lat.] [Constantine]

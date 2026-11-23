@@ -31,6 +31,7 @@ F:
   Sanskrit: prahelikā [riddle]
   Chinese: miyu [riddle]
   Japanese: nazo, nazonazo
+  Korean: susukkekki [riddle]
 
 Phr:
   the riddle of the Sphinx

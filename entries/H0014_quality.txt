@@ -32,6 +32,7 @@ F:
   Arabic: ʿaraḍ [accident], ṣifa
   Sanskrit: dharma [property, characteristic]
   Chinese: xing [nature]
+  Korean: siljaeseong [reality], bujeong [negation]
 
 Phr:
   every quality is a limitation

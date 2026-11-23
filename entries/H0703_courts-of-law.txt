@@ -60,6 +60,7 @@ F:
   Sanskrit: sabhā [assembly, court]
   Chinese: fayuan [court]
   Japanese: saibansho
+  Korean: beobwon [court of law]
 
 Phr:
   audi alteram partem [Lat.] [hear the other side]

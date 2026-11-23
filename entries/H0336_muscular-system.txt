@@ -41,6 +41,7 @@ F:
   Sanskrit: māṃsa [flesh], snāyu [sinew]
   Chinese: jirou [muscle]
   Japanese: kinniku
+  Korean: geunyuk [muscle]
 
 Phr:
   sinews of war

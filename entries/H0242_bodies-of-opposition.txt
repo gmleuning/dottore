@@ -19,5 +19,8 @@ Adj:
 Adv:
   in opposition, at opposite poles
 
+F:
+  Korean: daeripui mulche
+
 Phr:
   as different as the moon and a comet

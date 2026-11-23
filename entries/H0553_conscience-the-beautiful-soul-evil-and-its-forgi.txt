@@ -28,6 +28,7 @@ F:
   Sanskrit: antaḥkaraṇa [inner faculty]
   Chinese: liangxin [conscience]
   Japanese: ryōshin
+  Korean: yangsim [conscience], areumdaun yeonghon
 
 Phr:
   conscience does make cowards of us all [Hamlet]

@@ -66,6 +66,7 @@ F:
   Sanskrit: kauśala [skill]
   Chinese: jiqiao [skill]
   Japanese: waza [technique]
+  Korean: sungnyeon [dexterity], somssi
 
 Phr:
   practice makes perfect

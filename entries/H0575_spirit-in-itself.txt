@@ -25,6 +25,7 @@ F:
   Latin: una substantia, tres personae
   Greek: perichōrēsis
   Sanskrit: trimūrti [triple form, as a comparison]
+  Korean: samwiilche [Trinity]
 
 Phr:
   in the beginning was the Word [Bible]

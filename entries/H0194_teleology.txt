@@ -36,6 +36,7 @@ F:
   Sanskrit: prayojana [purpose], artha [aim, meaning]
   Chinese: mudi [purpose]
   Japanese: mokuteki
+  Korean: mokjeongnon [teleology]
 
 Phr:
   nature does nothing in vain [Aristotle]

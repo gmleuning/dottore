@@ -48,6 +48,7 @@ F:
   Arabic: qānūn [state law as distinct from sacred law], kanun [Turkish form]
   Chinese: fa [codified law of the Legalists]
   Japanese: ritsuryō
+  Korean: inganui beop [human law]
 
 Phr:
   salus populi suprema lex esto [Lat.] [Cicero]

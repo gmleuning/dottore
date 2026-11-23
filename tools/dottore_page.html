@@ -124,6 +124,8 @@ a.x:hover{border-bottom-style:solid}
   display:none;flex-direction:column;font:15px/1.6 var(--ui)}
 body.wk #wk, body.set #set, body.hg #hg, body.map #map{display:flex}
 @media (min-width:1000px){ body.wk, body.set, body.hg, body.map{padding-right:420px} }
+@media (max-width:600px){   /* phones: Wiktionary rises from the bottom, leaving the word in view */
+  #wk{top:auto;left:0;width:100%;height:58vh;height:58dvh;border-left:0;border-top:1px solid var(--rule);border-radius:12px 12px 0 0;box-shadow:0 -6px 24px rgba(0,0,0,.18)} }
 .sh{display:flex;align-items:center;gap:8px;padding:12px 14px;border-bottom:1px solid var(--rule)}
 .sh b{flex:1;font:600 20px/1.2 var(--body);overflow-wrap:anywhere}
 .sb{overflow:auto;padding:4px 16px 40px;flex:1}

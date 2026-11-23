@@ -20,5 +20,8 @@ Adv:
   in transition
   on the way, by degrees
 
+F:
+  Korean: gojeon geonchugeuroui ihaeng
+
 Phr:
   from monument to dwelling

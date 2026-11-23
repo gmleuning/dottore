@@ -40,6 +40,7 @@ F:
   Sanskrit: vāyu [air, wind], prāṇa [breath]
   Chinese: kongqi [air], qi [breath, vapour]
   Japanese: kūki
+  Korean: gonggi [air], daegi
 
 Phr:
   the air, a chartered libertine, is still [Henry V]

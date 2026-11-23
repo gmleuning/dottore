@@ -37,6 +37,7 @@ F:
   Sanskrit: vyavahāra [legal procedure]
   Chinese: sifa [judiciary]
   Japanese: shihō
+  Korean: sabeop [administration of justice]
 
 Phr:
   justice must not only be done, but must be seen to be done [Lord Hewart]

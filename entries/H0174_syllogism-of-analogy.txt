@@ -34,6 +34,7 @@ F:
   Arabic: qiyās [analogical reasoning, as in jurisprudence]
   Sanskrit: upamāna [comparison as a means of knowledge]
   Chinese: leibi [analogy]
+  Korean: yuchu [analogy]
 
 Phr:
   as above, so below

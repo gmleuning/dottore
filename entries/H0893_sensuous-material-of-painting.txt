@@ -20,5 +20,8 @@ Adv:
   in colour
   on the flat, on canvas, to the eye
 
+F:
+  Korean: saekchae [colour], bit [light]
+
 Phr:
   the visible made spiritual

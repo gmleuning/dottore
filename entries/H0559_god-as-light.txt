@@ -28,6 +28,7 @@ F:
   Arabic: nūr [light], al-Nūr [the Light, a divine name]
   Sanskrit: jyotis [light], prakāśa [luminosity]
   Chinese: guangming [light]
+  Korean: bitui sin [God as light]
 
 Phr:
   ex oriente lux [Lat.]

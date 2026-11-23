@@ -30,6 +30,7 @@ F:
   Sanskrit: niścaya [determination, judgment]
   Chinese: panduan [judgment]
   Japanese: handan
+  Korean: pandan [judgment]
 
 Phr:
   judge not, that ye be not judged [Bible]

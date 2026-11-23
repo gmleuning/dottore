@@ -20,5 +20,8 @@ Adv:
   in time
   inwardly, in sound, in tones, fleetingly, successively
 
+F:
+  Korean: naemyeon [inner self]
+
 Phr:
   sound vanishes as it arises

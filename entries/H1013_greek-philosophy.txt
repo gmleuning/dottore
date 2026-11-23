@@ -24,6 +24,7 @@ F:
   Greek: philosophia, theōria, sophia, thaumazein, archē, epistēmē, alētheia, logon didonai
   Arabic: al-falsafa al-yūnāniyya
   Chinese: xila zhexue
+  Korean: Geuriseu cheolhak [Greek philosophy]
 
 Phr:
   philosophy begins in wonder [Plato]

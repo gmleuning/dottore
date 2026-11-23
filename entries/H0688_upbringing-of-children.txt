@@ -67,6 +67,7 @@ F:
   Sanskrit: saṃskāra
   Chinese: jiaoyang [upbringing]
   Japanese: shitsuke [discipline, upbringing]
+  Korean: yangyuk [upbringing], gyoyuk
 
 Phr:
   train up a child in the way he should go [Bible]

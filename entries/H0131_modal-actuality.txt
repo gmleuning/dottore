@@ -28,6 +28,7 @@ Adv:
 F:
   German: Möglichkeit, Wirklichkeit, Notwendigkeit
   Arabic: jiha [modality]
+  Korean: hyeonsilseong, yangsang [modality]
 
 Phr:
   what can be, may be

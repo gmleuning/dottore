@@ -24,6 +24,7 @@ Adv:
 F:
   German: Zweckmäßigkeit, Verstand, Nützlichkeit
   Latin: Lares and Penates, pietas, the pax deorum [peace of the gods], do ut des, religio, lares et penates, pontifex maximus, haruspex, auspicia, votum, Fortuna publica, Roma aeterna, ex voto
+  Korean: Roma jonggyo [Roman religion]
 
 Phr:
   do ut des [Lat.]

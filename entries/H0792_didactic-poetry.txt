@@ -25,6 +25,7 @@ Adv:
 F:
   Arabic: urjūza [didactic verse], naẓm [versified treatise]
   Sanskrit: śāstra-kāvya
+  Korean: gyohunsi [didactic poetry]
 
 Phr:
   utile dulci [Lat.] [the useful with the sweet] [Horace]

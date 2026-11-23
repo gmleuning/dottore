@@ -27,6 +27,7 @@ F:
   Greek: anamnēsis
   Arabic: dhikr [remembrance]
   Sanskrit: smṛti [recollection]
+  Korean: hoesang [recollecting]
 
 Phr:
   lost and found

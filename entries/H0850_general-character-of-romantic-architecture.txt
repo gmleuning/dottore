@@ -20,5 +20,8 @@ Adv:
   upward, heavenward
   in general, inwardly, solemnly, devotionally
 
+F:
+  Korean: seongdang [cathedral, church]
+
 Phr:
   the house of God

@@ -32,6 +32,7 @@ F:
   Sanskrit: vijñāna [consciousness], caitanya
   Chinese: yishi [consciousness]
   Japanese: ishiki
+  Korean: jeongsin hyeonsanghak [phenomenology of spirit], uisik
 
 Phr:
   the highway of despair [Hegel]

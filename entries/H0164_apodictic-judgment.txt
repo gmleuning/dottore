@@ -29,6 +29,7 @@ F:
   Latin: quod erat demonstrandum
   Greek: apodeixis
   Arabic: burhān [demonstration], yaqīn
+  Korean: pillyeon pandan [apodictic judgment]
 
 Phr:
   quod erat demonstrandum [Lat.]

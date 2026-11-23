@@ -37,6 +37,7 @@ F:
   Sanskrit: satya [the real, truth], tattva
   Chinese: xianshi [actuality, reality]
   Japanese: genjitsu
+  Korean: hyeonsilseong [actuality]
 
 Phr:
   what is rational is actual, and what is actual is rational [Hegel]

@@ -41,6 +41,7 @@ F:
   Sanskrit: vanaspati [plant, lord of the forest], oṣadhi [herb]
   Chinese: zhiwu [plant]
   Japanese: shokubutsu
+  Korean: sikmul [plant]
 
 Phr:
   consider the lilies of the field, how they grow [Bible]

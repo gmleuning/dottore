@@ -28,6 +28,7 @@ F:
   Sanskrit: jīvātman [individual self]
   Chinese: zhuti jingshen [subjective spirit]
   Japanese: shukanteki seishin
+  Korean: jugwanjeok jeongsin [subjective spirit]
 
 Phr:
   know thyself, gnōthi seauton [Gr.]

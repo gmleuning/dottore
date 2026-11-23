@@ -20,5 +20,8 @@ Adv:
   among the islands
   by land and sea, from foreign origins, natively
 
+F:
+  Korean: geuriseu jeongsinui yoso
+
 Phr:
   Hellas as the meeting of East and West

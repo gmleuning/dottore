@@ -40,6 +40,7 @@ F:
   Arabic: ʿilm al-ḥayawān [zoology], Kitāb al-Ḥayawān [al-Jāḥiẓ]
   Sanskrit: prāṇiśāstra [zoology]
   Chinese: dongwuxue [zoology]
+  Korean: yuwa jong [genus and species], dongmulhak
 
 Phr:
   two of every sort shalt thou bring into the ark [Bible]

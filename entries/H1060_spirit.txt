@@ -26,6 +26,7 @@ F:
   Sanskrit: ātman
   Chinese: jingshen
   Japanese: seishin
+  Korean: jeongsin [spirit], jeongsincheolhak [philosophy of spirit]
 
 Phr:
   the idea that has returned to itself out of its otherness [Hegel]

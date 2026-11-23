@@ -23,6 +23,7 @@ Adv:
 F:
   Latin: infinitum potentia
   Greek: apeiron
+  Korean: yangjeok muhan
 
 Phr:
   there is always a bigger fish

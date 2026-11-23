@@ -22,5 +22,8 @@ Adv:
   dramatically
   poetically, in dramatic form, for the stage
 
+F:
+  Korean: geukjakpum [dramatic work]
+
 Phr:
   the poem as play

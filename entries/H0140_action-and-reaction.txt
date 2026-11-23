@@ -33,6 +33,7 @@ Adv:
 F:
   Latin: quid pro quo, vis inertiae
   French: contrecoup
+  Korean: jagyonggwa banjagyong [action and reaction]
 
 Phr:
   to every action there is always opposed an equal reaction [Newton]

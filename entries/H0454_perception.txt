@@ -38,6 +38,7 @@ F:
   Sanskrit: pratyakṣa, savikalpa [conceptual perception]
   Chinese: zhijue [perception]
   Japanese: chikaku
+  Korean: jigak [perception], chakgak [deception]
 
 Phr:
   salt is white, and also tart, and also cubical [Hegel]

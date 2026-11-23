@@ -23,6 +23,7 @@ Adv:
 F:
   Latin: Imperium Romanum, Senatus Populusque Romanus, gravitas, virtus, pietas, Rōma, more Romano
   Arabic: al-Rūm [Romans, Byzantines]
+  Korean: roma segye [Roman world]
 
 Phr:
   tu regere imperio populos, Romane, memento [Lat.] [Virgil]

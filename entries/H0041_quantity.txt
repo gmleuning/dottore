@@ -33,6 +33,7 @@ Adv:
 F:
   German: aufgehobenes Fürsichsein, Gleichgültigkeit, Kontinuität und Diskretion, Quantität
   Latin: rari nantes
+  Korean: sunsu yang [pure quantity]
 
 Phr:
   plus ou moins [Fr.]

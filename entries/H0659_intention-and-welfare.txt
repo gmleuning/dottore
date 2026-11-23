@@ -28,6 +28,7 @@ F:
   French: raison d'etre
   Arabic: niyya, maṣlaḥa [welfare]
   Sanskrit: yogakṣema [welfare]
+  Korean: uidowa bokji [intention and welfare]
 
 Phr:
   actions are judged by intentions, innamā al-aʿmālu bi-l-niyyāt [Ar.] [Hadith]

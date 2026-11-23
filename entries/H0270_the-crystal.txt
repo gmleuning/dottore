@@ -32,6 +32,7 @@ F:
   Sanskrit: sphaṭika [crystal]
   Chinese: jingti [crystal]
   Japanese: kesshō
+  Korean: gyeoljeong [crystal]
 
 Phr:
   as clear as crystal

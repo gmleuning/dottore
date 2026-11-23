@@ -28,6 +28,7 @@ F:
   Sanskrit: deśa and kāla [place and time]
   Chinese: shikong [space-time]
   Japanese: jikū
+  Korean: suhakjeok yeokhak
 
 Phr:
   henceforth space by itself, and time by itself, are doomed to fade away into mere shadows [Minkowski]

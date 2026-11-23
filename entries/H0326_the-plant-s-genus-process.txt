@@ -39,6 +39,7 @@ F:
   Sanskrit: puṣpa [flower], phala [fruit], bīja [seed]
   Chinese: hua [flower], guo [fruit], zhong [seed]
   Japanese: hana
+  Korean: sikmurui jongjok gwajeong
 
 Phr:
   except a corn of wheat fall into the ground and die, it abideth alone [Bible]

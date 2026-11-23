@@ -32,6 +32,7 @@ Adv:
 
 F:
   Latin: virginibus puerisque
+  Korean: ilbu ilcheoje [monogamy]
 
 Phr:
   forsaking all other [Book of Common Prayer]

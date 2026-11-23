@@ -24,6 +24,7 @@ F:
   Arabic: kilāsīkī
   Chinese: gudian [classical]
   Japanese: koten
+  Korean: gojeonjeok yesul [classical art]
 
 Phr:
   Schöneres kann nicht sein und werden [Ger.] [Hegel, Aesthetics, on classical art]

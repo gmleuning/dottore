@@ -20,5 +20,8 @@ Adv:
   massively
   in round arches, heavily
 
+F:
+  Korean: Romaneseukeu [Romanesque]
+
 Phr:
   the round arch

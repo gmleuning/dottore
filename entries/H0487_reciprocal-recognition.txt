@@ -63,6 +63,7 @@ F:
   Arabic: iʿtirāf mutabādal
   Chinese: xianghu chengren
   Japanese: bonenkai
+  Korean: sangho seungin [reciprocal recognition]
 
 Phr:
   they recognize themselves as mutually recognizing one another [Hegel]

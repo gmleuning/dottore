@@ -26,6 +26,7 @@ Adv:
 
 F:
   German: das spezifizierende Maß
+  Korean: gyujeonghaneun cheokdo
 
 Phr:
   the measure of a man

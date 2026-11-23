@@ -21,5 +21,8 @@ Adv:
   immediately, directly, on contact
   as by contagion
 
+F:
+  Korean: jikjeopjeok gamyeom [immediate infection]
+
 Phr:
   life infects what it touches

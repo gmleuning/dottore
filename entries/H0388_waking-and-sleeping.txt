@@ -39,6 +39,7 @@ F:
   Arabic: yaqaẓa wa-nawm [waking and sleep]
   Sanskrit: jāgrat, suṣupti
   Chinese: jingxing he shuimian
+  Korean: kkaeeonam [waking], jam [sleep]
 
 Phr:
   to sleep, perchance to dream [Hamlet]

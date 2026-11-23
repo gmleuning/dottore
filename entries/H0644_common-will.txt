@@ -27,6 +27,7 @@ Adv:
 F:
   Latin: consensus ad idem
   Arabic: ijmāʿ [consensus]
+  Korean: gongdong uiji [common will]
 
 Phr:
   with one voice

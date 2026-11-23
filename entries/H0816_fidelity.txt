@@ -33,6 +33,7 @@ F:
   Sanskrit: niṣṭhā [devotion]
   Chinese: zhong [loyalty]
   Japanese: chūgi [loyalty]
+  Korean: chungseong [fidelity]
 
 Phr:
   semper fidelis [Lat.]

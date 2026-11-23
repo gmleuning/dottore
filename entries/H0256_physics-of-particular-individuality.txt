@@ -19,5 +19,8 @@ Adv:
   specifically, particularly
   in particular, measurably
 
+F:
+  Korean: teuksu gaeche mulli
+
 Phr:
   the properties of bodies

@@ -58,6 +58,7 @@ F:
   Sanskrit: jñāna, vidyā
   Chinese: zhishi [knowledge]
   Japanese: chishiki
+  Korean: ji [knowledge], jisik
 
 Phr:
   scientia potentia est [Lat.]

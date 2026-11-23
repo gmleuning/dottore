@@ -38,6 +38,7 @@ F:
   Sanskrit: nāṭya [drama], Nāṭyaśāstra
   Chinese: xiju [drama], xiqu [Chinese opera]
   Japanese: engeki, nō, kabuki
+  Korean: geuk [drama], huigok [play]
 
 Phr:
   the play's the thing [Hamlet]

@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: Heroenzeit
+  Korean: bopyeonjeok segye sangtae [general world-situation]
 
 Phr:
   the heroic age

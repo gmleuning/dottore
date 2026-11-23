@@ -38,6 +38,7 @@ F:
   Sanskrit: subhāṣita [well-said verse]
   Chinese: yanyu [proverb], chengyu [set idiom]
   Japanese: kotowaza
+  Korean: biyu [parable], sokdam [proverb]
 
 Phr:
   the parable of the sower [Bible]

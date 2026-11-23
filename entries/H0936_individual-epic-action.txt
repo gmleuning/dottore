@@ -22,6 +22,7 @@ Adv:
 
 F:
   Greek: nostos [homecoming]
+  Korean: sageon [event]
 
 Phr:
   tell me, O Muse, of that ingenious hero [Homer]

@@ -29,6 +29,7 @@ F:
   Sanskrit: stanapāyin [breast-suckling]
   Chinese: buru dongwu [milk-feeding animals]
   Japanese: honyūrui
+  Korean: poyuryu [mammals]
 
 Phr:
   the higher animals

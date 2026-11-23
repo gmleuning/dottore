@@ -27,6 +27,7 @@ F:
   Greek: xoanon [wooden cult image]
   Arabic: khashab [wood]
   Japanese: mokuzō [wooden statue]
+  Korean: mokjogak [wood carving]
 
 Phr:
   the oldest images were of wood

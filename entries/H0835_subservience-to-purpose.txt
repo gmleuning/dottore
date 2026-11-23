@@ -25,5 +25,8 @@ Adv:
   in service of
   for use, for a purpose, serviceably, functionally
 
+F:
+  Korean: hammokjeokseong [purposiveness]
+
 Phr:
   architecture as servant

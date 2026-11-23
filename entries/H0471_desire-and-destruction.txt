@@ -34,6 +34,7 @@ Adv:
 
 F:
   German: Begierde
+  Korean: yongmanggwa pagoe
 
 Phr:
   I came, I saw, I consumed

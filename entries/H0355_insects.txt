@@ -30,6 +30,7 @@ F:
   Sanskrit: kīṭa [insect]
   Chinese: kunchong [insect]
   Japanese: konchū
+  Korean: gonchung [insect]
 
 Phr:
   the busy bee

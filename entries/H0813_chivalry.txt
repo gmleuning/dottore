@@ -30,6 +30,7 @@ F:
   Arabic: furūsiyya [chivalry], futuwwa
   Chinese: wuxia [martial chivalry]
   Japanese: bushidō
+  Korean: gisado [chivalry]
 
 Phr:
   sans peur et sans reproche [Fr.] [without fear and without reproach]

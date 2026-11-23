@@ -28,6 +28,7 @@ F:
   Arabic: maʾsāh
   Chinese: beiju
   Japanese: higeki
+  Korean: bigeuk [tragedy], bigeukjeok galdeung [tragic conflict]
 
 Phr:
   the collision of two rights [Hegel on Antigone]

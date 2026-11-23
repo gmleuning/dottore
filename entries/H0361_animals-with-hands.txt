@@ -7,3 +7,6 @@ HGloss: Mammals whose feet are hands: man and the monkey, which is a satire on m
 N:
   animals with hands
   monkey, gorilla, ape, chimpanzee, chimp, orangutan, baboon, orang, gibbon, bush baby
+
+F:
+  Korean: yeongjangnyu [primates]

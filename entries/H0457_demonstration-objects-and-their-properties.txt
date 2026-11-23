@@ -26,6 +26,7 @@ Adv:
 
 F:
   Arabic: ʿarḍ [display]
+  Korean: jeungmyeong [demonstration]
 
 Phr:
   see for yourself

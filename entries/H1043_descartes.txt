@@ -19,6 +19,7 @@ Adv:
 F:
   Latin: Cartesius, res cogitans and res extensa, intuitus, deductio, naturae simplices, admiratio, leges naturae
   French: tourbillon (vortex), matière subtile (subtle matter), morale par provision (provisional morality), générosité (generosity), esprits animaux (animal spirits), bête-machine (beast-machine), arbre de la philosophie (tree of philosophy)
+  Korean: Dekareuteu [Descartes], kogito [cogito]
 
 Phr:
   cogito, ergo sum [Lat.]

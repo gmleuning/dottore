@@ -23,6 +23,7 @@ Adv:
 F:
   German: Heiterkeit, Schönheit, die schöne Individualität, Kunstreligion
   Greek: kalokagathia, theoi, anankē, to kalon, daimōn, mystēria, sōphrosynē
+  Korean: areumdaumui jonggyo [religion of beauty]
 
 Phr:
   the gods of Greece [Schiller]

@@ -32,6 +32,7 @@ F:
   Pali: anicca
   Chinese: wuchang [impermanence]
   Japanese: mujō
+  Korean: yuhan [finitude], yuhanseong
 
 Phr:
   memento mori [Lat.]

@@ -20,5 +20,8 @@ Adv:
   functionally
   for a purpose, for use, as a means
 
+F:
+  Korean: mokjeok geonchuk [architecture of purpose]
+
 Phr:
   form follows function [Louis Sullivan]

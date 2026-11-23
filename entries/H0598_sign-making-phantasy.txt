@@ -40,6 +40,7 @@ F:
   Sanskrit: liṅga [sign, mark]
   Chinese: fuhao [sign, symbol]
   Japanese: kigō
+  Korean: gihoreul mandeuneun sangsangnyeok
 
 Phr:
   the sign is a pyramid into which a foreign soul has been conveyed [Hegel]

@@ -20,5 +20,8 @@ Adj:
 Adv:
   in this case, in this instance, singly
 
+F:
+  Korean: danching pandan [singular judgment]
+
 Phr:
   this plant is medicinal

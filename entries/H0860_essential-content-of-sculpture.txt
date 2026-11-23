@@ -20,5 +20,8 @@ Adv:
   eternally
   essentially, bodily, in the body, in bodily form
 
+F:
+  Korean: sinseong [divinity]
+
 Phr:
   the god at rest

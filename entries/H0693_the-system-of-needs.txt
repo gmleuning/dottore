@@ -44,6 +44,7 @@ F:
   Sanskrit: vārtā [economics, livelihood], arthaśāstra [science of wealth]
   Chinese: jingji [economy]
   Japanese: keizai
+  Korean: yokgu chegye [system of needs], gyeongje
 
 Phr:
   it is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner [Adam Smith]

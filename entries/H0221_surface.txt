@@ -55,6 +55,7 @@ F:
   Sanskrit: tala [surface, plane]
   Chinese: mian [surface, face]
   Japanese: men
+  Korean: myeon [surface]
 
 Phr:
   a surface is that which has length and breadth only [Euclid]

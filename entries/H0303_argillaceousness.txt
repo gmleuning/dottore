@@ -25,6 +25,7 @@ F:
   Sanskrit: mṛttikā [clay, earth]
   Chinese: niantu [clay]
   Japanese: nendo
+  Korean: jeomtojil [argillaceousness]
 
 Phr:
   we are the clay, and thou our potter [Bible]

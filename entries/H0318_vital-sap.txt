@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: Lebenssaft
+  Korean: saengmyeong susaek [vital sap]
 
 Phr:
   the lifeblood of the plant

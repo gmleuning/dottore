@@ -27,6 +27,7 @@ F:
   German: Seinslogik, Unmittelbarkeit, Übergehen, Übergang, das Ansich, Ansichsein, an sich
   Latin: prima facie
   Greek: metabasis
+  Korean: jonjae [being], jonjaeron [doctrine of being]
 
 Phr:
   panta rhei [Gr.] [attrib. Heraclitus]

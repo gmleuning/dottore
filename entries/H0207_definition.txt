@@ -30,6 +30,7 @@ F:
   Sanskrit: lakṣaṇa [defining mark]
   Chinese: dingyi [definition]
   Japanese: teigi
+  Korean: jeongui [definition]
 
 Phr:
   omnis definitio in iure periculosa est [Lat.]

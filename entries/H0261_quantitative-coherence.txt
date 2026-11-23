@@ -24,5 +24,8 @@ Adv:
   under stress, under load, to the breaking point
   in degree, measurably
 
+F:
+  Korean: yangjeok gyeolsok
+
 Phr:
   the breaking point

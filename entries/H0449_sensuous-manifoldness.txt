@@ -24,6 +24,7 @@ Adv:
 
 F:
   German: das Mannigfaltige
+  Korean: gamgakjeok dayangseong
 
 Phr:
   one great blooming, buzzing confusion [William James]

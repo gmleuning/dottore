@@ -22,6 +22,7 @@ Adv:
 
 F:
   German: Affektenlehre [doctrine of affections]
+  Korean: jeongjo [mood]
 
 Phr:
   music as the language of feeling

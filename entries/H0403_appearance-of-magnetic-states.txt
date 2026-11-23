@@ -22,6 +22,7 @@ Adv:
 
 F:
   Arabic: ẓawāhir
+  Korean: jagi sangtae [magnetic states]
 
 Phr:
   there are more things in heaven and earth, Horatio, than are dreamt of in your philosophy [Hamlet]

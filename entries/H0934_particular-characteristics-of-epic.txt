@@ -20,5 +20,8 @@ Adv:
   in particular
   specifically, in detail, severally
 
+F:
+  Korean: seosa [narrative]
+
 Phr:
   world, deed, and whole

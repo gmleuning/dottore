@@ -29,6 +29,7 @@ F:
   German: Schmerz, die Religion des Schmerzes, Klage, Tod Gottes
   Latin: planctus, lamentatio, dea Syria
   Greek: Adōnia, thrēnos, pathos, penthos
+  Korean: Adoniseu [Adonis]
 
 Phr:
   women weeping for Tammuz [Bible]

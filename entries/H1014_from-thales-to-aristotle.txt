@@ -20,5 +20,8 @@ Adv:
   from the beginning
   from Thales onward, from nature to mind, from first principles, progressively, ascendingly, by stages, at the outset
 
+F:
+  Korean: Talleseu [Thales], Aristotelleseu [Aristotle]
+
 Phr:
   all is water [Thales]

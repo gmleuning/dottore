@@ -40,6 +40,7 @@ F:
   Sanskrit: rājan [king]
   Chinese: junzhu [monarch]
   Japanese: tennō [emperor]
+  Korean: gunju gwollyeok [sovereign power], jugwon
 
 Phr:
   the king reigns but does not govern

@@ -22,5 +22,8 @@ Adv:
   at the critical point, at the threshold, on the cusp
   specifically, at a certain amount
 
+F:
+  Korean: jikjeopjeok cheokdo
+
 Phr:
   the last straw

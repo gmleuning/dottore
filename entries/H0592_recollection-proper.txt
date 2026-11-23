@@ -30,6 +30,7 @@ Adv:
 
 F:
   French: déjà vu
+  Korean: bollaeui hoesang
 
 Phr:
   I know that face

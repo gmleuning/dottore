@@ -33,6 +33,7 @@ F:
   Arabic: kamm [quantity], miqdār [magnitude]
   Sanskrit: parimāṇa [size, measure]
   Chinese: liang [quantity]
+  Korean: yang [quantity]
 
 Phr:
   omnia in mensura et numero et pondere disposuisti [Lat.] [Bible, Wisdom 11:20]

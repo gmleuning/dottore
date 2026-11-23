@@ -23,6 +23,7 @@ Adv:
 F:
   Arabic: tashbīh [simile]
   Sanskrit: upamā [simile]
+  Korean: bigyo yesulhyeongsik [comparative art-form]
 
 Phr:
   as it were

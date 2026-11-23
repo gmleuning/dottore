@@ -28,6 +28,7 @@ F:
   Sanskrit: vidyā
   Chinese: kexue [science]
   Japanese: gakumon [learning]
+  Korean: hangmun [science]
 
 Phr:
   the true shape in which truth exists can only be the scientific system of it [Hegel]

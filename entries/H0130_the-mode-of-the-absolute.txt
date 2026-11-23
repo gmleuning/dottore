@@ -29,6 +29,7 @@ F:
   Arabic: shaʾn [mode, state]
   Sanskrit: vivarta [apparent transformation], pariṇāma [modification]
   Chinese: xiang [form, aspect]
+  Korean: yangtae [mode]
 
 Phr:
   natura naturans et natura naturata [Lat.] [Spinoza]

@@ -29,6 +29,7 @@ F:
   Arabic: rahn ʿaqārī [real-estate mortgage]
   Chinese: diya daikuan [mortgage loan]
   Japanese: teitō [mortgage]
+  Korean: jeodang [mortgage]
 
 Phr:
   mortgaged to the hilt

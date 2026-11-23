@@ -24,6 +24,7 @@ F:
   Arabic: khalāyā [cells]
   Chinese: xibao [cell]
   Japanese: saibō
+  Korean: sepo jojik [cellular tissue], gwan [vessels]
 
 Phr:
   omnis cellula e cellula [Lat.] [Virchow]

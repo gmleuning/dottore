@@ -38,6 +38,7 @@ F:
   Greek: apatheia, ataraxia
   Arabic: ṣabr [patience, endurance]
   Sanskrit: vairāgya [detachment], titikṣā [forbearance]
+  Korean: seutoa juui [stoicism]
 
 Phr:
   whether on the throne or in chains [Hegel on Stoicism]

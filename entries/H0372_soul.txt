@@ -33,6 +33,7 @@ F:
   Sanskrit: jīva [living soul], ātman
   Chinese: hun and po [the two souls], linghun [soul]
   Japanese: tamashii
+  Korean: yeonghon [soul], illyuhak [anthropology]
 
 Phr:
   anima forma corporis [Lat.] [Aristotle, Aquinas]

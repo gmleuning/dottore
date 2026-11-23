@@ -26,6 +26,7 @@ F:
   Arabic: tirka [estate]
   Sanskrit: kuṭumba-dhana [family wealth]
   Chinese: jiachan [family property]
+  Korean: gajok jaesan [family resources]
 
 Phr:
   the family fortune

@@ -39,6 +39,7 @@ F:
   Sanskrit: kalpanā [imagination]
   Chinese: xiangxiang [imagination]
   Japanese: sōzō
+  Korean: sangsangnyeok [imagination]
 
 Phr:
   imagination is more important than knowledge [Einstein]

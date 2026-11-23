@@ -22,6 +22,7 @@ Adv:
 
 F:
   Chinese: Zhongguo, Tianchao, Tianzi, Tianming
+  Korean: junggukgwa monggol
 
 Phr:
   the empire long divided must unite, long united must divide [Romance of the Three Kingdoms]

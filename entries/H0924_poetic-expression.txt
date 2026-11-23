@@ -20,5 +20,8 @@ Adv:
   poetically
   in words, in verse, expressively, figuratively
 
+F:
+  Korean: sieo [poetic language]
+
 Phr:
   winged words

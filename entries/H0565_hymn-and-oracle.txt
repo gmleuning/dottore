@@ -38,6 +38,7 @@ F:
   Sanskrit: stotra [hymn]
   Chinese: shenyu [oracle]
   Japanese: takusen [oracle]
+  Korean: chansonggwa sinyak [hymn and oracle]
 
 Phr:
   know thyself [inscribed at Delphi]

@@ -33,6 +33,7 @@ F:
   Sanskrit: viśeṣa [particularity]
   Chinese: tebie [particular]
   Japanese: tokushu
+  Korean: teuksujeok gaenyeom [particular]
 
 Phr:
   the devil is in the details

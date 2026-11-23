@@ -20,5 +20,8 @@ Adv:
   in the classical orders
   by order, stylistically, in each order
 
+F:
+  Korean: odeo [order], geonchuk yangsik [architectural style]
+
 Phr:
   the five orders

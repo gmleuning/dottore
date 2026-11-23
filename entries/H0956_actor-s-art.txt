@@ -33,6 +33,7 @@ F:
   Sanskrit: naṭa [actor]
   Chinese: yanyuan [actor]
   Japanese: haiyū
+  Korean: baeu [actor], yeongi [acting]
 
 Phr:
   all the world's a stage, and all the men and women merely players [As You Like It]

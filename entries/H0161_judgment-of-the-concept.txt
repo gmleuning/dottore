@@ -30,6 +30,7 @@ Adv:
 F:
   Arabic: ḥukm qīmī [value judgment]
   Chinese: jiazhi panduan [value judgment]
+  Korean: gaenyeom pandan [judgment of the concept]
 
 Phr:
   by their fruits ye shall know them [Bible]

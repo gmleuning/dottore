@@ -20,5 +20,8 @@ Adv:
   from outward signs
   from the body, outwardly, by signs
 
+F:
+  Korean: jikjeopjeok hyeonsilseong
+
 Phr:
   the body as the mirror of the soul

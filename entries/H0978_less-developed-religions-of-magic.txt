@@ -38,6 +38,7 @@ F:
   Yoruba: babalawo
   Greenlandic: angakkoq
   Melanesian: mana
+  Korean: mudang [shaman]
 
 Phr:
   the spirit of the ancestors
