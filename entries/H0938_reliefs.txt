@@ -1,0 +1,34 @@
+# 938 Reliefs
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 1. Modes of Portrayal
+G: Reliefs
+Gloss: Figures projecting from a flat ground.
+HGloss: The relief, figures emerging from a flat ground, the passage toward painting.
+
+N:
+  reliefs; relief, bas-relief, high relief, low relief, frieze, metope, stele, cameo, intaglio, the Parthenon frieze
+  anaglyph†, medal, medallion
+  relief-work, rilievo, alto-relievo, mezzo-relievo, sunk relief, plaque, embossment
+  cavo-rilievo
+
+V:
+  carve in relief, emboss, chase
+  render prominent
+  raise, project, stand out
+
+Adj:
+  relief, embossed, sculptured, frieze-like
+  anaglyptic†
+  raised, projecting, salient, half-round, friezelike
+
+Adv:
+  in relief
+  in low relief, in high relief, on the flat
+
+F:
+  French: bas relief
+  Italian: basso rilievo, alto rilievo, relievo
+
+Phr:
+  the Panathenaic procession
+  half emerging from the stone
+  the frieze of the Parthenon

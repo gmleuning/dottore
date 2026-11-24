@@ -1,0 +1,29 @@
+# 690 Probabilism
+# Spirit › 2. Objective Spirit › II. Morality › γ. The Good and Conscience › e. Evil and Its Forms
+G: Probabilismus
+Gloss: Holding that any action is justified if some authority can be found to approve it.
+HGloss: Probabilism, the doctrine that a deed is permissible if any good reason or authority can be found for it.
+
+N:
+  probabilism; casuistry, Jesuitry, special pleading, a probable opinion, moral loophole, rationalization, sophistry, hair-splitting, legalism; the authority of one doctor, tutiorism, laxism
+  equivocation, evasion, chicanery
+  moral laxity, the authority of a doctor, Jesuitism
+
+V:
+  rationalize, quibble, find a loophole, split hairs, cite authority
+  pervert, equivocate, evade, gloss over, varnish, cavil, subtilize†
+  find a reason, cite an authority, excuse, casuistize
+
+Adj:
+  casuistic, Jesuitical, sophistical, specious, lax
+  deceptive, plausible, evasive
+  probabilistic, casuistical
+
+Adv:
+  casuistically, on some authority or other
+  on some authority, on probable grounds
+
+Phr:
+  there's always someone who says it's fine
+  there's always a reason
+  to find a loophole

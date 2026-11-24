@@ -7,7 +7,7 @@ HGloss: The universal in its determinateness, which is the universal distinguish
 N:
   the particular concept; particular, particularity, specificity, species, kind, sort, subclass, subcategory, subtype, variety, type, specific difference, determinateness, peculiarity, specialty, specialness; the particular and the general
   breed
-  speciality, specialite†, individuality, individuity†, idiocrasy &c H0378, personality, characteristic, idiosyncrasy, specificness†, singularity &c H0063, state, trait, distinctive feature, technicality, differentia
+  speciality, specialite†, individuality, individuity†, idiocrasy &c H0388, personality, characteristic, idiosyncrasy, specificness†, singularity &c H0063, state, trait, distinctive feature, technicality, differentia
   anomaly, exception, abnormity†
   specification
 

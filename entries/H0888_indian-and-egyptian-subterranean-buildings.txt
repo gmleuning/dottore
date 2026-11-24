@@ -1,0 +1,31 @@
+# 888 Indian and Egyptian Subterranean Buildings
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › i. Symbolic Architecture › 3. Transition to Classical Architecture
+G: Indische und ägyptische unterirdische Bauten
+Gloss: Chambers cut into rock or built underground, especially for the dead.
+HGloss: Subterranean buildings of India and Egypt, the houses of the dead.
+
+N:
+  Indian and Egyptian subterranean buildings; cave temples, rock-cut temples, Ellora, Elephanta, Ajanta, catacombs, crypts, tombs, necropolis, Valley of the Kings
+  rock-cut building, cave temple, rock temple, grotto, cavern, excavation, catacomb, crypt, vault, labyrinth, the Mithras caves
+  mining, digging
+
+V:
+  excavate, hew, tunnel, carve out
+  hollow, scoop out, dig, delve, mine, burrow
+  hew out, entomb
+
+Adj:
+  subterranean, underground, rock-cut, cavernous, sepulchral, troglodytic, dissocial†, inconversable†
+  deep, profound, buried, subterraneous, subterrene†
+  rock-hewn, excavated, hypogeal
+
+Adv:
+  underground, in the bowels of the earth
+  below ground, in the rock, beneath the earth
+
+F:
+  Latin: hypogeum
+
+Phr:
+  the house of the dead
+  underground chambers

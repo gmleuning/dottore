@@ -1,0 +1,26 @@
+# 742 International Commerce
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › c. Public Authority and Corporation › i. Public Authority (Police)
+G: Handel über die Grenzen
+Gloss: Trade across the sea with distant lands, and the colonies that it founds.
+HGloss: As the earth is the condition of family life, so the sea is the element of industry: it links distant lands in trade and contract, and drives an overcrowded society to found colonies (§246-248).
+
+N:
+  international commerce; foreign trade, overseas trade, world trade, the world market, maritime trade, seaborne trade, navigation, shipping, the sea, colonization, colony, colonies, emigration, settlement, export, import, globalization
+  traveler, wayfarer, voyager, passenger, commuter
+  tourist, excursionist, explorer, adventurer, mountaineer, hiker, backpacker, Alpine Club, peregrinator†, wanderer, rover, straggler, rambler, bird of passage, gadabout, nomad, Bohemian, Wandering Jew, Hadji, pilgrim, palmer, emigrant, fugitive, refugee, booly†, globegirdler†, globetrotter, trecker†, trekker, zingano†, zingaro†, waveson†, Arab†, wilding†
+  ship
+  cargo ships, merchant vessels, merchant marine
+  passport, visa, arrival, layover, jet lag, tourism, sightseeing, vacation, trip, road trip, staycation [Coll.], backpacking, hiking, camping
+
+V:
+  export, import, colonize, settle, emigrate, navigate, ship
+
+Adj:
+  international, overseas, maritime, colonial, seafaring
+
+F:
+  Latin: mare liberum [Grotius]
+  German: Welthandel, Kolonisation
+
+Phr:
+  für die Industrie das nach außen sie belebende natürliche Element das Meer [Ger.] [Hegel, Philosophy of Right §247]

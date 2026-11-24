@@ -1,0 +1,43 @@
+# 969 Particular Characteristics of Music
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music
+G: Besondere Bestimmungen der musikalischen Ausdrucksmittel
+Gloss: The particular features of music.
+HGloss: The particular means by which music shapes tones: measure, harmony, melody.
+
+N:
+  particular characteristics of music; time, harmony, melody
+  rhythm, measure, timbre, intonation, tone
+  harmonics, thorough-bass, fundamental-bass, counterpoint, faburden†
+  concord, emmeleia†, unison, unisonance†, homophony, euphony, euphonism†, tonality, consonance, consent, part
+  music, concert, strain, tune, air, aria, arietta†, work, number, opus, sonata, rondo, pastorale, cavatina†, roulade†, fantasia, concerto, overture, symphony, variations, cadenza, cadence, fugue, canon, quodlibet, serenade, dithyramb, opera, operetta, oratorio, composition, movement, stave, toccata
+  composer, harmonist†, contrapuntist &c H0976
+  tonic, key note, leading note, fundamental note, supertonic†, mediant†, dominant, submediant†, subdominant†, octave, tetrachord†, major key, minor key, major scale, minor scale, major mode, minor mode, passage, phrase
+  breve, semibreve [Mus.], minim, crotchet, quaver, semiquaver, demisemiquaver, hemidemisemiquaver, sustained note, drone, burden
+  the means of musical expression, the elements of music
+
+V:
+  specify
+  be harmonious, harmonize, chime, symphonize†, transpose, put in tune, accord, string
+  particularize, detail, distinguish, modulate
+
+Adj:
+  particular
+  melodious, musical, melic†, tuneful, tunable, sweet, dulcet, canorous†, mellow, mellifluous, soft, clear, clear as a bell, silvery, euphonious, euphonic, euphonical†, symphonious, enchanting &c H0628, fine-toned, full-toned, silver-toned, numerose†
+  measured, rhythmical, diatonic†, chromatic, enharmonic†
+  harmonious, harmonical†, in concord, in tune, in concert, unisonant†, concentual†, symphonizing†, isotonic, homophonous†, assonant, ariose†, consonant
+  special, specific, rhythmic, harmonic, melodic, tonal
+
+Adv:
+  in particular
+  harmoniously, in harmony, as one
+  specifically, in detail, severally
+
+F:
+  German: Vorspiel
+  French: piece of music, rondeau, piece of music &c H0964
+  Italian: notturno, passamezzo
+
+Phr:
+  rhythm, harmony, melody
+  time, harmony and melody
+  the hidden soul of harmony [Milton]

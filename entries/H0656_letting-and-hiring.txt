@@ -1,0 +1,31 @@
+# 656 Letting and Hiring
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract › ii. Contract of Exchange
+G: Vermietung
+Gloss: The granting of the use of a thing for a price.
+HGloss: The alienation of use for a price, while the ownership remains.
+
+N:
+  letting and hiring; lease, leasing, letting, hire, rental, renting, tenancy
+  rent roll, rentage†, rack-rent
+  occupancy, holding, tenure
+  lessor, lessee
+  bailment
+
+V:
+  let, lease, rent, hire, charter, sublet
+  farm, take a demise
+  demise, sett†, underlet
+  grant a lease, take a lease, hold a lease
+
+Adj:
+  leased, rented, hired, tenanted, rental
+
+Adv:
+  on lease, for hire, to let
+  on hire, for a price
+
+F:
+  Latin: locatio conductio
+
+Phr:
+  to let

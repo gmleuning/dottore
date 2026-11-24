@@ -7,7 +7,7 @@ HGloss: The union of light and darkness, the darkening of light by a turbid medi
 N:
   colour, color; hue, tint, tinge, shade, tone, cast, coloration, colouring, complexion, pigment, dye, stain, wash, saturation, chroma, brightness, value, spectrum, rainbow, iris; light and darkness, the turbid medium; Goethe's theory of colours
   tincture, livery, glow, flush, key
-  coloring matter, distemper, medium, mordant, oil paint &c H0890
+  coloring matter, distemper, medium, mordant, oil paint &c H0948
   tulip, peacock, chameleon, butterfly, tortoise shell, mackerel, mackerel sky, zebra, leopard, cheetah, nacre, ocelot, ophite†, mother-of-pearl, opal, marble, April showers†, conciliatrix†, procuress†, wittol†
   blackness, darkness, swartliness†, lividity, dark color, chiaroscuro, nigrification†, infuscation†
   local color, coloring, keeping, aerial perspective
@@ -29,7 +29,7 @@ N:
 
 V:
   colour, tint, tinge, dye, stain, paint, wash, shade, tone, hue, pigment, saturate, bleach, fade
-  tinct†, ingrain, grain, illuminate, emblazon, bedizen, imbue, paint &c H0890
+  tinct†, ingrain, grain, illuminate, emblazon, bedizen, imbue, paint &c H0948
   lose color, fly, go, become colorless, turn pale
   deprive of color, decolorize, tarnish, achromatize, blanch, wash out, tone down, smutch†
   stipple, hatch

@@ -1,0 +1,9 @@
+# 1040 Church Song
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › c. Song › i. Song Proper
+G: Kirchenlied
+Gloss: The hymns of the congregation.
+HGloss: The church song, the congregation's common voice before God.
+
+N:
+  church song; chorale, church hymn, Lutheran chorale, hymn tune, Kirchenlied
+  carol, motet

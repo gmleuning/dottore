@@ -1,0 +1,23 @@
+# 716 Culture
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › ii. Abstraction of Needs and Means
+G: Bildung
+Gloss: The training that work gives: the habit of being occupied, of fitting one's activity to the material and to other people's wishes, and the skill this brings.
+HGloss: Practical Bildung through labour: the need for and habit of occupation, the restriction of one's activity by the material and by the will of others, and the general skills won by this discipline (§197).
+
+N:
+  culture; Bildung, practical culture, theoretical culture, training, formation, cultivation, discipline, habituation, the habit of occupation, dexterity, know-how, aptitude, proficiency, expertise, workmanship, versatility, practice, general skills
+  technical competence, skill, apprenticeship, internship, prenticeship†, tutelage
+
+V:
+  train, practise, learn a trade, acquire a skill, cultivate, discipline, form
+
+Adj:
+  skilled
+  trained, practised, adept, handy, versatile, cultivated, formed
+
+F:
+  German: Bildung, Geschicklichkeit
+
+Phr:
+  die praktische Bildung besteht eben in der Gewohnheit und in dem Bedürfen der Beschäftigung [Ger.] [Hegel, Philosophy of Right §197 Zusatz]
+  der Barbar ist faul [Ger.] [Hegel, Philosophy of Right §197 Zusatz]

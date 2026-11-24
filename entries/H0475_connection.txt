@@ -1,0 +1,30 @@
+# 475 Connection
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › b. Perception (the Thing and Deception)
+G: Verbindung
+Gloss: The joining of properties into one thing.
+HGloss: Perception's effort to connect the properties into one thing, an also and a one.
+
+N:
+  connection; combination, unification, unity of properties, synthesis, binding, the also and the one, bundle, bundle theory
+  junction &c H0259, union, incorporation, amalgamation, coalescence, fusion
+  conjunction, linkage, the also, the medium, the one of the thing, togetherness of properties
+  concatenation
+
+V:
+  connect, combine, unify, bind, bundle, hold together
+  join, unite, conjoin, associate, put together
+  link
+
+Adj:
+  connected, combined, unified, bundled, coherent
+  joined, conjoined, linked
+
+Adv:
+  together, as one, in combination
+  simultaneously
+  in connection, conjointly
+
+Phr:
+  the thing is one and also many
+  to put two and two together
+  to join the dots

@@ -1,0 +1,25 @@
+# 831 The Forms of Art
+# Spirit › 3. Absolute Spirit › I. Art
+G: Die Kunstformen
+Gloss: The forms in which the ideal is embodied in art.
+HGloss: The forms of art: the relations of idea and shape in symbolic, classical and romantic art.
+
+N:
+  the forms of art; art-forms, symbolic, classical, and romantic art, stages of art, artistic epochs, modes of art
+  the particular forms of art, the symbolic the classical and the romantic, the forms of the beautiful, the stages of the ideal, the relation of content and shape
+
+V:
+  develop, evolve, succeed
+  form, embody, particularize, differentiate, unfold
+
+Adj:
+  formal, historical, epochal
+  particular
+
+Adv:
+  in succession
+  in its forms, form by form, successively
+
+Phr:
+  symbolic, classical, romantic
+  in its proper form

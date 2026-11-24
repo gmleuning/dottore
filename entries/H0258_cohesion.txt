@@ -24,7 +24,7 @@ Adj:
   dense, solidified, close, serried, thickset, substantial, massive, lumpish†, impenetrable, impermeable, nonporous, imporous†, incompressible, concrete &c H0260, knotted, knotty, gnarled, crystalline, crystallizable, thick, grumous†, stuffy, knarled†, unpierced†, unpassable†, invious†
   stubborn, starch, starched, stark, unbending, unlimber, unyielding, inflexible, tense, indurate, indurated, gritty, proof
   adhesive, adhering, cohering, sticky &c H0259
-  resisting, sequacious†, stringy, gristly cartilaginous, leathery, coriaceous†, tough as whitleather†, stubborn &c H0616
+  resisting, sequacious†, stringy, gristly cartilaginous, leathery, coriaceous†, tough as whitleather†, stubborn &c H0635
 
 Adv:
   cohesively, together, in one piece

@@ -5,18 +5,14 @@ Gloss: The cells and conducting channels of a plant.
 HGloss: The plant's abstract inner structure, its cells and the vessels through which its fluids move.
 
 N:
-  cellular tissue and vessels; cells, tissue, parenchyma, xylem, phloem, vessels, tracheids, sieve tubes, vascular bundles, ducts, fibres, pith, medulla, fascicle, fascicule†
-  cell-tissue, vascular tissue, spiral vessels, tubes
-  bast
+  cellular tissue and vessels; tissue, parenchyma
+  cell-tissue
 
 V:
-  conduct, transport, channel
   transmit, convey
 
 Adj:
-  cellular, vascular, tissue, fibrous, medullary, fibrillous†, oedematous†, fasciculated
-  vesicular, vasicular†
-  tubular, cannular†
+  tissue, oedematous†
 
 Adv:
   through the vessels
@@ -25,6 +21,5 @@ F:
   Latin: fasciculus
 
 Phr:
-  omnis cellula e cellula [Lat.] [Virchow]
   the tissue of
   cell by cell

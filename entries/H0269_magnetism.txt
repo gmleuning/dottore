@@ -5,7 +5,7 @@ Gloss: Shape as a line of tension between two opposite poles joined at a neutral
 HGloss: Shape as the linear tension of opposed poles united in a neutral middle, the concept as the north and south of a magnet.
 
 N:
-  magnetism; magnet, lodestone, loadstone, magnetic needle, compass, polarity, poles, north pole, south pole, magnetic field, lines of force, attraction and repulsion; neutral point, point of indifference; animal magnetism &c H0402
+  magnetism; magnet, lodestone, loadstone, magnetic needle, compass, polarity, poles, north pole, south pole, magnetic field, lines of force, attraction and repulsion; neutral point, point of indifference; animal magnetism &c H0412
   lodestar, loadstar†, permanent magnet, siderite, magnetite, electromagnet, magnetic coil, voice coil, magnetic dipole, motor coil, rotor, stator, handpost†, fingerpost†, balize†
   magnetic pole, magnetic monopole
   contraposition†, opposition, inversion &c H0218, opposite side, reverse, inverse, counterpart, antipodes, opposite poles

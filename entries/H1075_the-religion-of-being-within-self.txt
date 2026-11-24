@@ -1,0 +1,36 @@
+# 1075 The Religion of Being-Within-Self (Buddhism, Lamaism)
+# Spirit › 3. Absolute Spirit › II. Religion › β. Determinate Religion › a. Immediate Religion, or Nature Religion [Tetrad]
+G: Die Religion des Insichseins
+Gloss: Religion in which the divine is the stillness of inner emptiness, reached by withdrawal from all things.
+HGloss: The religion of being-within-self, Buddhism and Lamaism, where the divine is the stillness of nothing.
+
+N:
+  the religion of being-within-self; Buddhism, Lamaism, the void, nothingness, meditation, the Buddha, bodhisattva, the Dalai Lama, the living god, the eightfold path
+  the religion of being-in-self, the religion of inwardness, the religion of Fo, the religion of the Lamas, the religion of nothingness, Buddhadharma, the Dharma, the Sangha, the Enlightened One, Gautama, Śākyamuni, Fo, the Lama, the Tashi Lama, the incarnate Lama, the monk, the bhikkhu, the monastery, the Middle Way, the four noble truths, emptiness, vacuity, the nothing, the nought, extinction, cessation, quenching, blowing-out, annihilation, stillness, quiet, calm, repose, rest, tranquillity, peace, inner emptiness, inwardness, self-collectedness, self-absorption, withdrawal, retreat, detachment, non-attachment, dispassion, renunciation, abnegation, self-emptying, quietism, contemplation, concentration, mindfulness, awakening, enlightenment, release from rebirth, the cessation of desire, nothingness as the principle and end of all things
+
+V:
+  meditate, extinguish, renounce, awaken, be enlightened, attain nirvana
+  withdraw, retire, turn inward, go within, sink into oneself, collect oneself, empty oneself, detach, let go, abandon, give up, relinquish, still, quench, blow out, cease, desire nothing, do nothing, contemplate, concentrate, be absorbed, annihilate the self, become nothing
+
+Adj:
+  Buddhist, Lamaist, meditative, contemplative, empty, serene, enlightened
+  pensive, introspective
+  Buddhistic, Lamaistic, Tibetan, monastic, inward, inner, withdrawn, self-absorbed, self-collected, self-contained, tranquil, peaceful, reposeful, vacant, detached, unattached, passionless, desireless, dispassionate, quietist, nihilistic, awakened, extinguished
+
+Adv:
+  in meditation, serenely
+  inwardly, within, in stillness, in silence, in emptiness, in withdrawal, quietly, calmly, tranquilly, peacefully, detachedly, contemplatively, desirelessly
+
+F:
+  German: nichts, Insichsein, Stille
+  Sanskrit: nirvāṇa, śūnyatā [emptiness], dhyāna, samādhi, bodhi, dharma, saṅgha, duḥkha, tṛṣṇā, anātman, tathāgata
+  Pali: nibbāna, dukkha [suffering], anattā [non-self], jhāna
+  Tibetan: tulku, bla-ma
+  Chinese: chan, wu, dunwu [sudden enlightenment] [Huineng], wuwei zhenren [the true man of no rank] [Linji]
+  Japanese: zen, satori, mu, zazen [seated meditation], kenshō [seeing one's nature], mushin [no-mind], munen [no-thought], shikantaza [just sitting] [Dōgen]
+  Korean: gong [emptiness], Seon [Korean Zen]
+
+Phr:
+  the Nothing which the Buddhists make the universal principle, as well as the final aim and goal of everything, is the same abstraction [Hegel, Encyclopaedia §87, tr. Wallace]
+  form is emptiness, emptiness is form, rūpaṃ śūnyatā śūnyataiva rūpam [Skt.] [Heart Sutra]
+  all is suffering

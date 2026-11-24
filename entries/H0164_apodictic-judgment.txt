@@ -11,12 +11,12 @@ N:
 
 V:
   demonstrate, prove, establish, ground, justify, warrant, show conclusively
-  substantiate, verify &c H0703
+  substantiate, verify &c H0731
 
 Adj:
   apodictic, apodeictic, demonstrative, demonstrable, necessary, certain, conclusive, incontrovertible, grounded, reasoned, justified, warranted
   demonstrating, probative, unanswerable, apodeictical†, irresistible, irrefutable, irrefragable
-  unimpeachable, undeniable, unquestionable, indisputable, incontestable, indubitable, irrefutable &c H0607
+  unimpeachable, undeniable, unquestionable, indisputable, incontestable, indubitable, irrefutable &c H0626
   sure, assured, solid, well-founded
 
 Adv:

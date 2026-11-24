@@ -1,0 +1,26 @@
+# 349 Practical Process
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation
+G: Praktischer Prozess
+Gloss: The animal's relation to its world by acting physically upon it.
+HGloss: The practical relation: need, which the animal satisfies by seizing and consuming its object.
+
+N:
+  practical process; action upon the world, behaviour, activity, seizure, grasping, hunting, foraging, feeding, manipulation; need and satisfaction, appetite and gratification
+  the practical relation, real assimilation, seizing, appetite, need
+  appetence
+
+V:
+  act, seize, grasp, hunt, forage, feed, manipulate, attack, consume
+  act upon, prey
+
+Adj:
+  practical, active, behavioural, appetitive, predatory, predal†, predatorial†, furacious†
+
+Adv:
+  practically, actively
+  by action, physically
+
+Phr:
+  the early bird catches the worm
+  to go for it
+  in want of

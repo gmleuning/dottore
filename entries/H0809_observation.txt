@@ -1,0 +1,17 @@
+# 809 Observation
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 1. Inspiration › a. Fancy
+G: Beobachtung
+Gloss: The artist's gift for seeing the shapes of the world and keeping them in memory.
+HGloss: The first side of Phantasie: the gift and sense for grasping actuality, which sees much, attends closely and holds the many images of the world in a retentive memory.
+
+N:
+  observation; perception, a keen eye, an eye for detail, attentiveness, noticing, the observing eye, retentive memory, a store of images, knowledge of the world, study from life, life study, sketchbook, field notes
+
+V:
+  observe, notice, take in, study, watch, sketch from life, take notes
+
+Adj:
+  observant, perceptive, keen-eyed, sharp-eyed, attentive, watchful
+
+Adv:
+  observantly, from life

@@ -1,0 +1,37 @@
+# 829 Style
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 3. Authorship
+G: Stil
+Gloss: The way of presentation that the medium and the laws of an art demand, as distinct from an artist's manner.
+HGloss: Stil, the manner of presentation that follows the conditions of the material and the demands of the art and its kinds, as in the severe, the ideal and the pleasing style.
+
+N:
+  style; the laws of the art, the demands of the medium, the severe style, the ideal style, the pleasing style
+  style, diction, technique
+  phraseology, wording, strain, composition, mode of expression, choice of words, mode of speech, literary power, ready pen, pen of a ready writer, command of language &c H0618
+  turn of expression
+  hand, touch, the grand manner
+  perspicuity, perspicuousness &c H0618, plain speaking &c H0618, definiteness, definition, exactness &c H0204, explicitness, lucidness
+  obscurity &c H0618, involution, hard words, ambiguity &c H0618, unintelligibleness, vagueness &c H0623, inexactness &c H0204, what d'ye call 'em &c H0618 [Obs.], darkness of meaning
+  plainness, simplicity, severity, plain terms, plain English, Saxon English, household words
+
+V:
+  stylize
+  call a spade 'a spade', plunge in medias res, come to the point
+
+Adj:
+  stylish, stylistic
+  lucid &c H0618, explicit &c H0618, exact
+  obscure, crabbed, involved, confused
+  plain, simple, unornamented, unadorned, unvarnished, homely, homespun, neat, severe, chaste, pure, Saxon, commonplace, matter-of- fact, natural, prosaic, kempt†, tricksy†
+  dry, unvaried, monotonous &c H0618
+
+Adv:
+  stylishly, with style
+  in plain terms, in plain words, in plain English, in plain common parlance, point-blank
+
+F:
+  German: Stil
+
+Phr:
+  le style est l'homme même [Fr.] [Buffon]
+  the style is the man

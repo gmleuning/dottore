@@ -1,0 +1,30 @@
+# 761 India (Theocratic Aristocracy)
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History [Tetrad] › i. Oriental World
+G: Indien
+Gloss: The ancient civilization of India, divided into castes fixed by birth, with the priestly Brahmins at their head.
+HGloss: India, the dreaming spirit of caste, theocratic aristocracy.
+
+N:
+  India; theocratic aristocracy, caste system, Brahmins, the Vedas, Brahman, dream-like spirit, the land of desire
+  Hindustan, the Indian world, the land of the Ganges, the Kshatriyas, the castes, the land of dreams, the dreaming spirit
+  varna, Brahmanism
+
+V:
+  dream, stratify, contemplate
+  divide into castes, fantasize, ordain
+
+Adj:
+  Indian, Brahminical, caste-based, Vedic, contemplative, dreamy
+  Hindu, Brahmanical, caste-bound, priestly
+
+Adv:
+  in India
+  by caste, by birth, in dream
+
+F:
+  Persian: Hindustān
+  Sanskrit: varṇa, jāti, brāhmaṇa, kṣatriya, vaiśya, śūdra, Bhārata
+
+Phr:
+  the land of desire [Hegel on India]
+  the land of the Vedas

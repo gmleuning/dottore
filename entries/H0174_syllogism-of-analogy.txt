@@ -7,7 +7,7 @@ HGloss: The middle is a singular taken in its essential universality, so that li
 N:
   syllogism of analogy; analogy, argument from analogy, analogical reasoning, likeness, resemblance, similitude, parallel, comparison, correspondence, homology, isomorphism, model, metaphor
   similarity, semblance, approximation, parallelism, analogicalness†, homoiousia†, parity
-  simile, type &c H0790, image &c H0745, close resemblance
+  simile, type &c H0848, image &c H0782, close resemblance
   association, association of ideas
   correlation &c H0141, affinity
   conformity &c H0063, agreement &c H0087

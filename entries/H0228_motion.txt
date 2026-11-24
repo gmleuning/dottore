@@ -8,14 +8,14 @@ N:
   motion; movement, locomotion, travel, transit, passage, change of place, shift, displacement, translation, transfer, conveyance, drift, flow, course, progress, velocity, speed, rate, momentum, impetus, acceleration, porterage†, vection†, vecture†, vectitation†, brusquerie†
   step, pace, tread, stride, gait, port, footfall, cadence, carriage, angular velocity, clip, voyage, altimetry†
   stream, flux, evolution, kinematics, telekinesis
-  transference, translocation, elocation†, metastasis, metathesis, removal, remotion†, amotion†, relegation, deportation, asportation†, extradition, draft, carrying, convection, conduction, contagion, transfer &c H0624, diathermancy†, transcalency†
-  celerity, swiftness, rapidity, eagle speed, expedition &c H0379, pernicity†, haste &c H0379
+  transference, translocation, elocation†, metastasis, metathesis, removal, remotion†, amotion†, relegation, deportation, asportation†, extradition, draft, carrying, convection, conduction, contagion, transfer &c H0643, diathermancy†, transcalency†
+  celerity, swiftness, rapidity, eagle speed, expedition &c H0389, pernicity†, haste &c H0389
   transition, transmission
   Mercury, Iris, Ariel†, comet, Camilla†
   precession, heading, precedence &c H0222, priority &c H0222, the lead, le pas, van &c H0218, precursor &c H0222, antecedency†, anteposition†, epacme†
-  sequence, coming after &c H0222, following pursuit &c H0613
+  sequence, coming after &c H0222, following pursuit &c H0632
   follower, attendant, satellite, shadow, dangler
-  approach, approximation, appropinquation†, access, appulse†, afflux†, affluxion†, advent &c H0224, pursuit &c H0613
+  approach, approximation, appropinquation†, access, appulse†, afflux†, affluxion†, advent &c H0224, pursuit &c H0632
   departure, decession†, decampment, embarkation, outset, start, exit, exodus, hejira, flight, aerostation†, aerostatics†, balloonery†, volitation†, remigration†, avolation†
   leave taking, valediction, adieu, goodbye, sayonara, dosvidanya [Rus.], ciao, aloha, stirrup cup, valedictorian
   starting point, starting post, point of departure, point of embarkation, place of departure, place of embarkation, port of embarkation, airport, take-off point, taxiing runway, runway, launching pad, spaceport, bunder†
@@ -36,11 +36,11 @@ V:
   flit, take wing, migrate, emigrate, trek, rove, prowl, range, patrol, pace up and down, scour the country, traverse the country, peragrate†, circumambulate, perambulate, nomadize†, ramble, stroll, saunter, hover, go one's rounds, straggle, gad, gad about, expatiate, tralineate†
   pass through, perforate &c H0267, penetrate, permeate, thread, thrid†, enfilade, go through, go across, go over, pass over, cut across, ford, pass and repass, work, make one's way, thread one's way, worm one's way, force one's way, make a passage form a passage, cut one's way through, find its way, find its vent, transmit, make way, clear the course, go over the ground, empierce†, transpierce†
   go before, go in the van, go in advance, precede, forerun, usher in, introduce, herald, head, take the lead, lead the way, lead the dance, get the start, have the start, steal a march, get before, get in front of, outstrip, take precedence &c H0222
-  follow, pursue &c H0613, go after, fly after
+  follow, pursue &c H0632, go after, fly after
   attend, beset, dance attendance on, dog, tread in the steps of, tread close upon, be in the wake of, be in the trail of, be in the rear of, go in the wake of, go in the trail of, go in the rear of, follow in the wake of, follow in the trail of, follow in the rear of, follow as a shadow, hang on the skirts of, follow on the heels of, camp on the trail
   approximate, appropinquate†, near, get near, go near, draw near, come to close quarters, move towards, set in towards, make up to, gain upon, tread on the heels of, bear up, make the land, hug the shore, hug the land, luff†
   depart, go away, take one's departure, set out, set off, march off, put off, start off, be off, move off, get off, whip off, pack off, go off, take oneself off, issue, march out, debouch, go forth, sally forth, sally, set forward, be gone, hail from
-  leave a place, quit, vacate, evacuate, abandon, go off the stage, make one's exit, retire, withdraw, remove, vamoose [Slang], vamose [U.S.], go one's way, go along, go from home, take flight, spring, wing one's flight, fly away, whip away, embark, go on board, go aboard, set sail' put to sea, go to sea, sail, take ship, hoist blue Peter, get under way, weigh anchor, strike tents, decamp, walk one's chalks, cut one's stick, take leave, say good bye, bid goodbye, disappear &c H0009, abscond &c H0613, entrain, inspan†
+  leave a place, quit, vacate, evacuate, abandon, go off the stage, make one's exit, retire, withdraw, remove, vamoose [Slang], vamose [U.S.], go one's way, go along, go from home, take flight, spring, wing one's flight, fly away, whip away, embark, go on board, go aboard, set sail' put to sea, go to sea, sail, take ship, hoist blue Peter, get under way, weigh anchor, strike tents, decamp, walk one's chalks, cut one's stick, take leave, say good bye, bid goodbye, disappear &c H0009, abscond &c H0632, entrain, inspan†
   have the entree, enter, go into, go in, come into, come in, pour into, pour in, flow into, flow in, creep into, creep in, slip into, slip in, pop into, pop in, break into, break in, burst into, burst in, set foot on, burst in upon, break in upon, invade, intrude, insinuate itself, interpenetrate, infiltrate, find one's way into, wriggle into, worm oneself into
   give entrance to, insert
   turn, bend, wheel, go about, put about, heel, go round to the right about, turn round to the right about, turn on one's heel, make a circle, make a complete circle, describe a circle, describe a complete circle, go through 180 degrees, go through 360 degrees, pass through 180 degrees, pass through 360 degrees

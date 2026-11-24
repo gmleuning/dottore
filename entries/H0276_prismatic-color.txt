@@ -7,7 +7,7 @@ HGloss: Colour arising when light passes through the prism, the turbidity and di
 N:
   prismatic colour; spectrum, spectral colours, rainbow, iris, prism, dispersion, red, orange, yellow, green, blue, indigo, violet; ROYGBIV; Newton's prism
   pure color, positive color, primary color, primitive complementary color, three primaries, chromatic dispersion, broken color, secondary color, tertiary color
-  spectroscope, spectrograph, spectrometer, colorimeter &c H0391, abdominoscope†, helioscope†, polariscope†, polemoscope†
+  spectroscope, spectrograph, spectrometer, colorimeter &c H0401, abdominoscope†, helioscope†, polariscope†, polemoscope†
   scattering, diffusion
   spectral colour, Newton's spectrum, coloured fringes
   iridescence

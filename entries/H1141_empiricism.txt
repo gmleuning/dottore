@@ -1,0 +1,25 @@
+# 1141 Empiricism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy
+G: Empirismus
+Gloss: Philosophy that takes experience through the senses as the source of knowledge.
+HGloss: Empiricism, which takes experience as the source of knowledge.
+
+N:
+  empiricism; British empiricism, experience as source of knowledge, ideas of sensation and reflection, induction, a posteriori knowledge, sensationalism, primary qualities, secondary qualities
+
+V:
+  observe, induce, derive from experience
+
+Adj:
+  empiricist, empirical, inductive, a posteriori
+
+Adv:
+  empirically
+
+F:
+  Latin: tabula rasa, a posteriori
+
+Phr:
+  nihil est in intellectu quod non prius fuerit in sensu [Lat.]
+  nothing in the intellect that was not first in the senses
+  experience is the teacher

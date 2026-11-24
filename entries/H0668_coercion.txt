@@ -1,0 +1,46 @@
+# 668 Coercion
+# Spirit › 2. Objective Spirit › I. Abstract Right › γ. Wrong › c. Coercion and Crime
+G: Zwang
+Gloss: Force applied to another's will; compulsion.
+HGloss: Force applied to the existence of a will, which as the first coercion is to be cancelled by a second.
+
+N:
+  coercion; compulsion, constraint, duress, force, violence, intimidation, pressure, threat, menace, extortion, blackmail, smart money†, carcelage†, solatium†
+  coaction†, enforcement, conscription
+  defiance &c H0493, abuse, minacity†, denunciation, fulmination, commination &c H0618 [Obs.], gathering clouds &c H0618, malison†, maranatha†
+  restraint, hindrance &c H0021, cohibition†, repression, suppression, discipline, control
+
+V:
+  coerce, compel, force, constrain, pressure, intimidate, threaten, extort, bully, strong-arm, dragoon
+  make, drive, enforce, necessitate, oblige
+  snarl, growl, gnarl, mutter, bark
+  restrain, check, put under restraint, lay under restraint, enthral, enthrall, inthral†, inthrall†, bethral†, bethrall†, restrict, debar &c H0021, curb, hold back, hold from, hold in, hold in check, hold within bounds, keep back, keep from, keep in, keep in check, keep within bounds, hold in leash, hold in leading strings, withhold, cohibit†
+  domineer, bear down, beat down, browbeat
+  put in fear, put in bodily fear, terrorize, cow, daunt, overawe, abash, deter, discourage
+  bully &c H0494, tyrannize, put on the screw
+  force upon, press, cram down the throat, thrust down the throat, force down the throat, say it must be done, make a point of, insist upon, take no denial, put down
+  embarrass, dissuade, dehort†
+
+Adj:
+  coercive, compulsory, forcible, violent, constraining, forced, under duress
+  compelling, coactive†, inexorable &c H0745, compulsatory†, obligatory, stringent, peremptory
+
+Adv:
+  under duress, by force, at gunpoint
+  by force of arms, on compulsion, perforce, under the lash, at the point of the sword, at the point of the bayonet, forcibly, by a strong arm, amain†, a outrance†
+
+F:
+  German: Gewalt, Berufsverbot [ban from one's profession]
+  Latin: vis, vi et armis, brutum fulmen [empty threat, an unenforceable decree]
+  Greek: bia
+  Arabic: jabr [compulsion]
+  French: lettre de cachet
+
+Phr:
+  coercion is cancelled by coercion [Hegel]
+  might is not right
+  strong-arm tactics
+  I'll make him an offer he can't refuse
+  beshrew!
+  aroynt!
+  delenda est Carthago [Lat.]

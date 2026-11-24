@@ -12,7 +12,7 @@ N:
 V:
   disjoin, separate, divide, alternate, choose, opt
   disconnect, dissociate
-  part, partition &c H0624
+  part, partition &c H0643
 
 Adj:
   disjunctive, alternative, exclusive, exhaustive, either-or, binary

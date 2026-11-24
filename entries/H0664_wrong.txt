@@ -1,0 +1,45 @@
+# 664 Wrong
+# Spirit › 2. Objective Spirit › I. Abstract Right
+G: Unrecht
+Gloss: The violation of right.
+HGloss: The will's existence posited as a semblance, the particular will set against the universal: wrong.
+
+N:
+  wrong; injustice, injury, tort, delict, violation, infringement, offence, trespass, grievance, illegality, transgression of right
+  unfairness, iniquity
+  usurpation, breach, presumption, assumption, seizure, stretch, exaction, imposition, lion's share
+  what ought not to be, what should not be, unreasonableness, shame
+  outrage, foul play, bad turn, ill turn, disservice, spoliation &c H0669, crying evil
+  transgression, encroachment, transcursion†, transiliency†, extravagation†
+  unright
+
+V:
+  wrong, injure, violate, infringe, trespass, offend, aggrieve, do injustice, enchafe†
+  trench on, exact, arrogate, arrogate to oneself, give an inch and take an ell, stretch a point, strain a point, usurp, do violence to
+  sin, err, transgress
+  encroach, trench upon, entrench on, intrench on†, strain, cross the Rubicon
+
+Adj:
+  wrong, wrongful, unjust, unlawful, illegal, tortious, injurious, iniquitous
+  bad, too bad, unfair, inequitable, unequitable†, unequal, partial, one-sided
+  objectionable, unreasonable, unallowable, unwarrantable, unjustifiable, improper, unfit, unjustified, immoral &c H0687, unallowed†, injudicial†
+  illegitimate, not allowed, prohibited &c H0733, illicit, contraband, actionable, unentitled†
+  criminal
+  obnoxious
+
+Adv:
+  wrongfully, unjustly, unlawfully
+  wrongly
+
+F:
+  Latin: iniuria, delictum, contra legem, malum in se
+  Greek: adikia
+  Arabic: ẓulm [injustice, wrong]
+  Sanskrit: adharma [wrong]
+
+Phr:
+  two wrongs don't make a right
+  summum ius, summa iniuria [Lat.] [extreme law, extreme injustice] [Cicero]
+  in the wrong
+  it will not do
+  filius nullius

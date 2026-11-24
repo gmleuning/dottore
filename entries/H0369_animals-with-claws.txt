@@ -1,0 +1,17 @@
+# 369 Animals with Claws
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata [Tetrad] › 4. Mammals
+G: Tiere mit Klauen
+Gloss: Clawed mammals: carnivores, rodents, bats, sloths.
+HGloss: Mammals whose extremities are claws, fitted for seizing and holding: beasts of prey, rodents, bats and sloths.
+
+N:
+  animals with claws
+  bear, mouse, bat, squirrel, panther, jaguar, kangaroo, cougar, hamster, grizzly, fitch, puma, rodent, cheetah, feline, koala, ferret, possum, groundhog, porcupine, jackal, hyena, bobcat, lioness, dingo, chipmunk, armadillo, platypus, carnivore, mongoose, marten, wallaby, vole, flying cat, ant bear, naked mole rat, tree shrew, gnawing mammal, pen-tail, fruit bat, jumping mouse, wood-rat, wood rat, sand rat, cotton rat, rock rabbit, prairie dog, queen mole rat, mole rat, mouse hare, mountain beaver, tree sloth, carnivorous bat, otter shrew, duck-billed platypus, wild dog, true cat, big cat, ice bear, cat bear, brown bear, black bear, bear cat, native bear, flying fox, honey bear, wood mouse, house mouse, field mouse, brown bat, wood pussy, trade rat, roof rat, rice rat, pocket rat, pack rat, brown rat, black rat, guinea pig, vampire bat, true vampire bat, harvest mouse, nude mouse, wolf, lion, rabbit, panda, wolverine, buckjumper†
+  carnivoran
+
+Adj:
+  unguiculate
+
+Phr:
+  tooth and claw
+  to show one's claws

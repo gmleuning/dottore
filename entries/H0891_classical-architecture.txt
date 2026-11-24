@@ -1,0 +1,26 @@
+# 891 Classical Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture
+G: Klassische Architektur
+Gloss: Architecture that serves a purpose and is beautiful in doing so.
+HGloss: Building that serves a purpose and is beautiful in serving it, the house of the god, with function and form in harmony.
+
+N:
+  classical architecture; Greek architecture, Roman architecture, the orders, classicism, the temple, the colonnade, Palladianism, neoclassicism
+  architecture proper, the classical style, the columnar style, beauty in service, purposive beauty, the house of the god
+  peristyle, entablature, pediment
+
+V:
+  classicize, proportion, colonnade
+  build, serve, house, beautify
+
+Adj:
+  classical, Palladian, neoclassical, columnar, colonnaded
+  purposive, functional, trabeated, beautiful, harmonious
+
+Adv:
+  classically
+  purposively, beautifully, for the god
+
+Phr:
+  the glory that was Greece, and the grandeur that was Rome [Poe]
+  beauty in use

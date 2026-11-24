@@ -1,0 +1,12 @@
+# 433 Feelings with a Thought Content
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › i. Particular Feelings
+G: Empfindungen mit Gedankeninhalt
+Gloss: Feelings whose content is a thought: shame, remorse, the feeling of right and of religion.
+HGloss: Feelings with a spiritual content, a thought of right, duty or the divine held in the form of feeling: shame, remorse, reverence, the moral and religious feelings. They are taken up again as practical feeling (&c H0628).
+
+N:
+  feelings with a thought content; moral feeling, religious feeling, the feeling of right, the sense of duty, conscience as feeling
+  shame, pride, dignity, gratitude, forgiveness, contempt, devotion, resentment, admiration, remorse, repentance, contrition, penance, reverence, veneration, adoration, indignation, scorn, disdain, disapproval, sincerity, cynicism, benevolence, compassion, pity, empathy, belonging, embarrassment, optimism, pessimism, hopelessness, resignation
+  fellow feeling, guilt pang, self-respect, self-esteem, self-worth, self-reproach, self-hatred, self-disgust, self-depreciation, self-doubt, self-pity, self-distrust, class feeling, hero worship, ancestor worship, agape love, filial love
+  improbation†, disvaluation†, despisal†, despiciency†, despisement†, despect†, displacency†, dilection†
+  practical feeling &c H0628, the ought &c H0629

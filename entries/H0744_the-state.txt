@@ -1,0 +1,54 @@
+# 744 The State
+# Spirit › 2. Objective Spirit › III. Ethical Life
+G: Der Staat
+Gloss: Ethical life as a self-conscious, organized whole; the political community.
+HGloss: The actuality of the ethical idea: the state, the march of God in the world, in which freedom attains its highest right.
+
+N:
+  the state; the commonwealth, polity, body politic, nation-state, sovereign state, the political community, the actuality of the ethical idea, government, constitution
+  sway, control, govern &c H0751, lead, preside over, reign, possess the throne, be seated on the throne, occupy the throne, sway the scepter, wield the scepter, wear the crown
+  community, nation, commonweal, commonwealth, republic
+  realm
+  legal authority, sovereign authority, authority &c H0747, master &c H0747, direction &c H0751
+  shire [Brit.], province [Can.], county [Ire.], canton [Switz.], territory [Austral.], duchy, archduchy, archdukedom†, woiwodshaft, region &c H0218, property &c H0640, mofussil†
+  national government, country, nation- state, union, democratic republic, kingdom, principality
+  command, empire, dominion, domination, sovereignty, supremacy, suzerainty, lordship, headship†, chiefdom†, seigniory, seigniority†
+  the march of God in the world
+  raison d'état
+
+V:
+  govern, constitute, organize, rule, administer
+  have authority, hold authority, possess authority, exercise authority, exert authority, wield authority, be sovereign
+
+Adj:
+  political, civic, state, public, sovereign, governmental, constitutional
+  federal, his majesty's [Brit.], her majesty's, city
+  national
+  regal, governing, royal, royalist, monarchical, kingly, imperial, imperiatorial†, princely, feudal, aristocratic, autocratic, oligarchic, republican, dynastic
+
+Adv:
+  politically, by the state
+  in the state
+
+F:
+  Latin: respublica, civitas, posse comitatus, state government, status
+  Greek: polis
+  Arabic: madīna [city-state] [al-Fārābī]
+  German: Rechtsstaat [state under the rule of law], Rechtstaat
+  Italian: stato [Machiavelli]
+  French: État de droit, gouvernement, Raison d’État
+  Spanish: estado
+
+Phr:
+  the state is the actuality of the ethical idea [Hegel]
+  man is by nature a political animal [Aristotle]
+  L'État, c'est moi [Fr.] [attrib. Louis XIV]
+  the ship of state
+  reason of state
+  a dog's obeyed in office [Lear]
+  cada uno tiene su alguazil [Sp.]
+  regibus esse manus en nescio longas [Lat.]
+  regnant populi [Lat.]
+  the demigod Authority [Lat.Tran] [Measure for Measure]
+  the right divine of kings to govern wrong [Pope]
+  uneasy lies the head that wears a crown [Henry IV]

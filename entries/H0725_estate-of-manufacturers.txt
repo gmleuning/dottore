@@ -1,0 +1,23 @@
+# 725 Estate of Manufacturers
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › iii. Division of the General Resources › 2. The Estate of Trade and Industry
+G: Fabrikantenstand
+Gloss: Makers who produce in bulk for a general demand.
+HGloss: The estate of manufacturers, which works as a more abstract mass of labour for single needs but for a more general demand (§204).
+
+N:
+  estate of manufacturers; manufacturing, mass production, the factory system, manufacturer, mill owner, factory owner, factory hand, mill hand, operative, factory worker, the workforce
+  manufacture, manufactory, mill, plant, works, factory, cannery, refinery, foundry, foundery†, usine†, bindery
+  industrialist
+
+V:
+  manufacture
+  mass-produce, turn out
+
+Adj:
+  manufactured, mass-produced, factory-made, ready-made, off the peg
+
+F:
+  German: Fabrikantenstand, Fabrik
+
+Phr:
+  abstraktere Gesamtmasse der Arbeit für einzelne Bedürfnisse, aber eines allgemeineren Bedarfs [Ger.] [Hegel, Philosophy of Right §204]

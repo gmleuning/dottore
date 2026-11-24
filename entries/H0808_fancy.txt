@@ -1,0 +1,22 @@
+# 808 Fancy
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 1. Inspiration
+G: Phantasie
+Gloss: The artist's power to grasp the actual world and give an inner content an outward, concrete shape.
+HGloss: Phantasie, productive imagination as opposed to passive fancy: it grasps reality and gives its rational content a consciousness of itself not in general thoughts but in concrete, individual shape.
+
+N:
+  fancy; Phantasie, productive imagination, creative imagination, image-making, the shaping power, the inward eye
+  phantasy, creative power
+  idealist, romanticist, romancer, dreamer, rhapsodist &c H0434, fanciful projector
+
+V:
+  fancy, idealize, realize, dream, dream of, dream up, give to airy nothing a local habitation and a name
+
+Adj:
+  imaginary, fanciful, imagining
+
+Adv:
+  imaginatively
+
+Phr:
+  aus der Leichtfertigkeit der Phantasie geht kein gediegenes Werk hervor [Ger.] [Hegel, Aesthetics]

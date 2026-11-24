@@ -1,0 +1,26 @@
+# 674 Morality
+# Spirit › 2. Objective Spirit
+G: Moralität
+Gloss: The sphere of the will that answers to itself; inner moral judgment.
+HGloss: The will reflected into itself, which is infinite within itself: subjectivity, which recognizes only what is its own.
+
+N:
+  morality; the moral standpoint, subjective will, moral subjectivity, inner conviction, intention, the right of the subject
+  the moral point of view, inward determination, moral reflection, conscience, the ought, subjectivity
+
+V:
+  moralize, judge, intend, will
+  judge oneself, answer to oneself, will inwardly
+
+Adj:
+  moral, subjective, inward, principled
+  reflective, self-determining
+
+Adv:
+  morally, subjectively
+  inwardly, on one's own account
+
+Phr:
+  the right of the subjective will
+  on moral grounds
+  a matter of principle

@@ -8,7 +8,7 @@ N:
   difference; distinction, distinctness, otherness, alterity, heterogeneity, dissimilarity, unlikeness, disparity, discrepancy, divergence, deviation, variance, variation, contrast, discrimination, differentiation, diversity &c H0091; nuance, shade of difference, subtlety, fine distinction, hair-splitting, discrepance†
   variety, dissimilarity &c H0091, disagreement &c H0093, disparity &c H0045, contradistinction, alteration
   dissimilaritude†, diversity, dissemblance†, oogamy†
-  nice distinction, delicate distinction, subtle distinction, discrimination &c H0606, differentia
+  nice distinction, delicate distinction, subtle distinction, discrimination &c H0625, differentia
   diorism†, perception of difference
   mismatch, disproportion, dissimilitude, inequality, disproportionateness†, repugnance, inequation†
   non-identity

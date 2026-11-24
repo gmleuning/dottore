@@ -1,0 +1,27 @@
+# 950 Chief Determinant of Subject-Matter
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › i. Painting › 1. General Character of Painting
+G: Hauptbestimmung des Inhalts
+Gloss: What chiefly determines the content of painting.
+HGloss: The content of painting: the inner life of the subject, feeling, love, piety.
+
+N:
+  chief determinant of subject-matter; subjective inwardness, the feeling soul, the human heart, emotional content, the subject of the picture
+  determining factor, governing content, subject, theme, inner life, subjectivity, feeling, the heart, inwardness, particularity
+  interiority
+
+V:
+  express, depict feeling
+  determine, govern, condition, dictate, select
+
+Adj:
+  inward, emotional, heartfelt
+  determining, decisive, governing, chief, principal
+
+Adv:
+  inwardly
+  chiefly, principally, above all, decisively
+
+Phr:
+  the soul's depths in colour
+  the heart's own story
+  love and piety

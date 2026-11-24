@@ -1,0 +1,27 @@
+# 922 Substantive Individuality
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › i. Principle of Sculpture › 2. Beautiful Sculptural Form
+G: Substantielle Individualität
+Gloss: Individual character as the embodiment of what is enduring.
+HGloss: Individuality embodying the substantial, the god or hero as the universal in an individual shape.
+
+N:
+  substantive individuality; self-contained individuality, essential character, enduring type
+  substantial individuality, the substantial character, the enduring, the abiding, the permanent, the universal in the individual, ethos, the god as substantial individual, fixity, constancy
+  haecceity, individuation
+
+V:
+  individuate, persist
+  endure, abide, embody, stand fast
+
+Adj:
+  substantive, essential, self-contained
+  substantial, enduring, abiding, permanent, lasting, constant, universal, objective
+
+Adv:
+  substantively
+  substantially, enduringly, abidingly, permanently
+
+Phr:
+  individual yet universal
+  the universal in one figure
+  a god among gods

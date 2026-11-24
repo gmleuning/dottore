@@ -15,7 +15,7 @@ V:
 
 Adj:
   physical, natural, material, qualitative, empirical, experimental
-  experimental &c H0604
+  experimental &c H0623
   corporeal
 
 Adv:

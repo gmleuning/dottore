@@ -1,0 +1,25 @@
+# 1147 Fichte
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy › iii. Critical Philosophy (German Idealism)
+G: Fichte
+Gloss: The thinker who removed the unknowable thing-in-itself and derived the whole world of experience from the activity of the self, which sets itself up and marks out its own limits.
+HGloss: Fichte, who made the I the principle and removed the thing in itself.
+
+N:
+  Fichte; the self-positing I, the I and the not-I, subjective idealism, striving, the vocation of man, intellectual intuition, productive imagination
+
+V:
+  posit, strive, act
+
+Adj:
+  Fichtean, subjective, activist
+
+Adv:
+  by self-positing
+
+F:
+  German: das Ich, Wissenschaftslehre [science of knowledge], Tathandlung [deed-act], Anstoß [check], intellektuelle Anschauung [intellectual intuition], Produktive Einbildungskraft [productive imagination]
+
+Phr:
+  the I posits itself [Fichte]
+  what sort of philosophy one chooses depends on what sort of person one is [Fichte]
+  I = I

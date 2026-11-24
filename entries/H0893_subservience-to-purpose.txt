@@ -1,0 +1,32 @@
+# 893 Subservience to Purpose
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 1. General Character of Classical Architecture
+G: Dienstbarkeit für einen Zweck
+Gloss: The dependence of a building on the use it serves.
+HGloss: The building's subordination to an end not its own, the image of the god it shelters.
+
+N:
+  subservience to purpose; serviceability, function, utility, instrumentality, fitness
+  usefulness, service, use, applicability, subservience &c H0196, function &c H0715
+  expedience, expediency, fitness &c H0087, utility &c H0196, propriety
+  functionality, dependence, subordination, means to an end, external purpose, purposiveness
+
+V:
+  serve, subserve, accommodate
+  avail, subserve &c H0196, conduce &c H0388, answer a purpose, serve a purpose
+  minister to, depend on, answer, be of use
+
+Adj:
+  subservient, serviceable, functional, instrumental
+  useful, subservient &c H0196, conducive &c H0388, subsidiary &c H0743
+  useful &c H0196, ministerial, conducive
+  dependent, subordinate, purposive
+  ancillary
+
+Adv:
+  in service of
+  for use, for a purpose, serviceably, functionally
+
+Phr:
+  architecture as servant
+  in the service of another
+  a shelter for the god

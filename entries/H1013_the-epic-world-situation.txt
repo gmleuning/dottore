@@ -1,0 +1,26 @@
+# 1013 The Epic World-Situation
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › a. Epic Poetry › ii. Particular Characteristics of Epic
+G: Der allgemeine epische Weltzustand
+Gloss: The state of the world in which epic action takes place.
+HGloss: The epic world-situation, the heroic age in which the individual and the community are one.
+
+N:
+  the epic world-situation; the heroic age, the national world, background, setting, the age of heroes
+  the heroic world, the heroic condition, the general world-condition, the world of the epic, the national spirit, customs, manners, mores, the patriarchal state, the scene, the mythic age, the youth of a people
+
+V:
+  set, situate
+  ground, frame, presuppose, locate, depict, lay the scene
+
+Adj:
+  heroic, national, primeval
+  epic, patriarchal, pre-political, mythic, legendary, ancestral, archaic
+  chivalric
+
+Adv:
+  in heroic times
+  in the age of heroes, of old, in olden times
+
+Phr:
+  once upon a time
+  when gods walked among men

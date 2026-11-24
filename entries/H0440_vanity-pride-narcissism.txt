@@ -1,0 +1,16 @@
+# 440 Vanity, Pride, Narcissism
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement › 2. Madness Proper
+G: Eitelkeit und Hochmut
+Gloss: The vanity and pride that shut the soul up within itself; self-absorption.
+HGloss: Vanity and pride, which Hegel names as the chief cause of the soul's cocooning itself within itself: the eremitic consciousness shut in a narrow circle of its own interests.
+
+N:
+  vanity, pride, narcissism; self-absorption, self-cocooning, egotism, egoism, amour-propre, self-conceit, vainglory, hubris, the eremitic consciousness, the narrow circle of one's own interests
+  conceit
+
+Adj:
+  vain, proud, narcissistic, self-absorbed, conceited, vainglorious, egotistic, self-enclosed
+
+F:
+  Greek: hybris
+  French: amour-propre

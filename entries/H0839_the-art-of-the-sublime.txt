@@ -1,0 +1,35 @@
+# 839 The Art of the Sublime (Hebrew Poetry)
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › ii. The Symbolism of the Sublime
+G: Die Kunst der Erhabenheit
+Gloss: Art that exalts the one God above all creation.
+HGloss: The negative sublime of Hebrew poetry, where God's power is praised and the creature is nothing before him.
+
+N:
+  the art of the sublime; Hebrew poetry, the Psalms, the prophets, Job, the creator God, praise, nothingness of creatures, divine majesty
+  sublime art, sacred poetry, the nullity of the creature, the glory of God, the praise of the Lord, creation as accident, the one Lord
+  psalmody
+
+V:
+  praise, exalt, glorify, magnify, humble
+  give thanks, bless, sing praises
+  laud, eulogize, extol, belaud†
+  honor, dignify, sing praises to &c H0506, aggrandize
+  abase
+
+Adj:
+  sublime, psalmic, prophetic, exalted, majestic
+  transcendent, sacred
+  august, grand, majestic &c H0508
+  lofty, Hebraic, hymnic
+
+Adv:
+  sublimely, in praise
+  exaltedly, to the glory of God
+
+F:
+  Hebrew: Tehillim [Psalms], kavod [glory]
+
+Phr:
+  let there be light: and there was light [Bible]
+  what is man, that thou art mindful of him? [Bible]
+  vanity of vanities

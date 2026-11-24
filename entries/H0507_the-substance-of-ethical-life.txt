@@ -1,0 +1,36 @@
+# 507 The Substance of Ethical Life (Family, Fatherland, State)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › c. Universal Self-Consciousness
+G: Die Substanz der Sittlichkeit
+Gloss: The shared life of family, homeland and state.
+HGloss: The ethical substance in which universal self-consciousness is actual: family, fatherland, state.
+
+N:
+  the substance of ethical life; ethical life; family, fatherland, homeland, state, community, commonwealth, people, nation, the common good, the public
+  folk, public, society, nationality, realm, commonweal
+  country, republic, kingdom
+  ethical substance, the common life, the substance of the people, family fatherland and state, shared mores
+
+V:
+  belong, serve, cherish, defend
+  share, uphold, sustain
+
+Adj:
+  ethical, communal, patriotic, familial, civic, national
+  social
+  substantial, shared
+
+Adv:
+  for family and country
+  in common, in shared life
+
+F:
+  German: Sittlichkeit &c H0694, Vaterland, Heimat [home ground]
+  Latin: patria, pro patria
+  Arabic: umma [community]
+  Chinese: jiaguo [family-state]
+  French: terre natale
+
+Phr:
+  dulce et decorum est pro patria mori [Lat.] [Horace]
+  hearth and home
+  for king and country

@@ -1,0 +1,30 @@
+# 967 Musical Treatment of Subject-Matter
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 1. General Character of Music
+G: Musikalische Behandlung des Inhalts
+Gloss: The manner in which music treats its content.
+HGloss: The musical treatment of content, which takes it in the form of feeling.
+
+N:
+  musical treatment of subject-matter; expression, word-painting, programme music, affect
+  musical conception, musical expression, the setting, tone-painting, characterization, the expression of feeling, sentiment, mood, the passions, imitation
+  Stimmung
+
+V:
+  express, set, paint in sound
+  treat, render, convey, voice, depict, characterize, evoke, interpret
+
+Adj:
+  expressive, programmatic, affective
+  characteristic, descriptive, pictorial, evocative, emotive, lyrical
+
+Adv:
+  expressively
+  musically, in tones, in sound, evocatively
+
+F:
+  German: Affektenlehre [doctrine of affections]
+
+Phr:
+  music as the language of feeling
+  the feeling without the object
+  a mood in sound

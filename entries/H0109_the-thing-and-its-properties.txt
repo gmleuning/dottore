@@ -8,7 +8,7 @@ N:
   the thing and its properties; thing, object, article, item, body, entity, substance, bearer, owner, possessor of properties, substrate, subject of predication; bundle, bundle of qualities, cluster, set of properties; also
   substantiality, hypostasis, person, being, a being, an existence, creature, flesh and blood, matter &c H0229, corporeity†, essential nature, groundwork, materiality, substantialness, vital part
   matter, brute matter, stuff, element, principle, parenchyma [Biol.], substratum, hyle†, corpus, pabulum, frame
-  something, materials &c H0695
+  something, materials &c H0715
   the propertied thing, the bearer of properties, the one and its many properties
 
 V:

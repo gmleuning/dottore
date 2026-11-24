@@ -1,0 +1,48 @@
+# 532 Pleasure and Necessity
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad] › iii. The Actualization of Rational Self-Consciousness through Its Own Activity
+G: Die Lust und die Notwendigkeit
+Gloss: The pursuit of personal pleasure, which ends by running into an impersonal fate.
+HGloss: Self-consciousness that plunges into life to take pleasure and is crushed by abstract necessity.
+
+N:
+  pleasure and necessity; pleasure-seeking, hedonism, voluptuousness, sensualism, libertinism, Faustian striving, enjoyment, gratification, self-indulgence, dissipation; necessity, fate, iron necessity, abstract necessity; Faust, Don Juan, intrigant†, paillard†, Bluebeard†
+  necessitation, stern necessity, hard necessity, what must be
+  pleasure, physical pleasure, sensual pleasure, sensuous pleasure, sensuality
+  voluptuary &c H0632, rake, debauchee, rakehell†
+  fruition, delectation, satisfaction &c H0636, delection†
+  Sybarite, voluptuary, man of pleasure, epicurean, sensualist, tragalist†
+  predestination, foredoom
+  the pleasure-seeker, the plucking of life, blind necessity, the dead actuality
+  sybaritism
+
+V:
+  enjoy, indulge, seize pleasure, take one's pleasure, revel; be crushed by fate
+  live it up, wallow in voluptuousness, plunge into dissipation
+  live hard, run riot, sow one's wild oats
+  seize, pluck, be shattered
+
+Adj:
+  hedonistic, pleasure-seeking, voluptuous, sensual, libertine, self-indulgent, Faustian
+  intemperate, luxurious, licentious, dissolute, inabstinent†
+  fated
+  indulgent
+
+Adv:
+  hedonistically, voluptuously
+  for pleasure, of necessity
+
+F:
+  Latin: carpe diem, suavitas, voluptas, delectatio, fruitio
+  Sanskrit: kāma
+  French: plaisir, jouissance
+  German: Wohlgefallen, Vergnügen
+  Greek: hēdonē, chara, chairein, terpsis, euphrosynē
+  Italian: piacere, diletto, gusto, godimento
+  Spanish: goce, gozo, placer
+
+Phr:
+  he takes hold of life much as a ripe fruit is plucked [Hegel]
+  gather ye rosebuds while ye may [Herrick]
+  Verweile doch, du bist so schön [Ger.] [Goethe]
+  eat, drink and be merry
+  to live for pleasure

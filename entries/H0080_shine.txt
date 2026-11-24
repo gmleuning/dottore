@@ -13,15 +13,15 @@ N:
 V:
   seem, appear, look, show, look like, have the air of, pass for, masquerade as; glitter, glisten, shimmer, gleam; delude, beguile, deceive, dazzle, mislead
   glimmer
-  present the appearance of, wear the appearance of, show &c H0599
+  present the appearance of, wear the appearance of, show &c H0618
   give a false impression
 
 Adj:
   seeming, apparent, ostensible, outward, superficial, surface, skin-deep, specious, illusory, illusive, delusive, chimerical, phantasmal, spectral, shadowy, unreal, insubstantial, hollow, empty, sham, spurious, factitious, meretricious; nugatory, nonessential
-  visionary &c H0593, immaterial &c H0222, spectral &c H0976, dreamy, ethereal, airy, cloud built, cloud formed, gossamery
+  visionary &c H0612, immaterial &c H0222, spectral &c H1071, dreamy, ethereal, airy, cloud built, cloud formed, gossamery
   make-believe, counterfeit, pseudo, so-called, pretended, feigned
   deceptive, plausible
-  spurious &c H0647
+  spurious &c H0666
 
 Adv:
   seemingly, apparently, ostensibly, outwardly, superficially, on the surface, to all appearances, at first blush, in appearance

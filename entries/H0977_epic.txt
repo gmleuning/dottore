@@ -1,0 +1,18 @@
+# 977 Epic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 3. Relation Between Expression and Content › c. The Execution of Musical Works of Art
+G: Der epische Vortrag
+Gloss: Performance that gives the work faithfully, the performer receding behind it as an epic rhapsode does.
+HGloss: The first kind of execution, which gives itself wholly to the work and reproduces only what is there, like the epic reciter who disappears behind his matter.
+
+N:
+  epic; faithful performance, objective rendering, self-effacing performance, fidelity to the score, straight reading, Werktreue
+  reproduction, delivery
+
+V:
+  reproduce, deliver
+
+F:
+  German: Werktreue
+
+Phr:
+  faithful to the score

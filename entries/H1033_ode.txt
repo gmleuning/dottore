@@ -1,0 +1,12 @@
+# 1033 Ode
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper
+G: Ode
+Gloss: The ode, in which the poet's self rises to a great subject.
+HGloss: The ode, in which the poet's inwardness takes up a lofty object and both struggle for mastery.
+
+N:
+  ode; the lofty ode
+  ode, epode†
+
+Adj:
+  odic

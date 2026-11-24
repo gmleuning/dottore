@@ -1,0 +1,66 @@
+# 374 Nosology
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › c. Genus and Individual (Disease and Death)
+G: Nosologie
+Gloss: The study and classification of diseases.
+HGloss: Disease as the disproportion of the organism's being and its self, when one system sets itself up apart from the whole. Hegel sorts diseases by where they start: in the elements, in a particular system, or in the mind; fever is the stage where the whole organism takes up the struggle.
+
+N:
+  nosology; pathology, aetiology, etiology, diagnosis, diagnostics, symptomatology, semiotics of disease, classification of diseases, epidemiology, disease, illness, sickness, malady, complaint, disorder, syndrome, condition, affliction, fever, inflammation, nosology†
+  all the ills that flesh is heir to [Hamlet], morbidity, morbosity†, infirmity, ailment, indisposition, distemper, distemperature†
+  taint, pollution, sepsis, septicity†, infestation, tainture†
+  temperature, calenture†
+  examination, analysis, urinalysis, biopsy, radiology
+  nonnaturals†, plague spot, death in the pot, toxicity
+  relapse, lapse, falling back, retrogradation &c H0228 [Obs.], deterioration &c H0758
+  backsliding, recidivation†, recidivism, recidivity†, recrudescence, vicinism†
+  bane, curse, evil &c H0687, hurtfulness &c H0687 [Obs.], painfulness &c H0628, scourge &c H0673, white elephant, peccancy†
+  sting, fang, thorn, tang, bramble, brier, nettle
+  poison, toxin, teratogen, leaven, virus venom, arsenic, antimony, tartar emetic, strychnine, nicotine, azote†, sewer gas, pest
+  Albany hemp†, arsenious oxide, arsenious acid, bichloride of mercury, carbonic acid, carbonic gas, choke damp, corrosive sublimate, fire damp, hydrocyanic acid, cyanide, Prussic acid, hydrogen cyanide, marsh gas, ratsbane†
+  hemlock, hellebore, nightshade, belladonna, henbane, aconite, banewort†, bhang, ganja†, hashish, Upas tree
+  Toxline (online)
+  rust, worm, helminth [Med.], moth, moth and rust, fungus, mildew, dry rot, canker, cankerworm, cancer, torpedo, viper &c H0687, demon &c H1071, rubigo†
+  toxicology
+  the theory of disease
+  bug [Coll.], a dose, the lurgy [Brit. Slang], crud [U.S. Slang], sick note, sickie [Brit. Coll.]
+  pain, suffering, burn, collapse, hurting, autism, cough, scar, twitch, swelling, congestion, symptom
+  nausea, mono, aura, coughing, ache, corona, creeps, torment, pip, gall, aching, malnutrition, wilt, kink, shivering, hickey, stinging, sneezing, soreness, hardening, clubbing, redness, hiccup, toothache, throb, chafing, knarl†, caruncle†, errhine†, sternutatory†, horripilation†, rubescence†, rubification†, scotomy†
+  eye disease, plant disease, animal disease, hot flash, cat scratch disease, lead poisoning, food poisoning, milk sickness, catastrophic illness, side effect, black spot, labor pain, yellow spot, referred pain, pink disease, chest pain, sand crack, sword-cut
+  scrutiny, contamination, filth, sinus, indagation†, perquisition†, perscrutation†, pervestigation†, defoedation†, soilure†, soiliness†, venenation†
+  obesity, allergy, allergic reaction, wound, injury, concussion, fracture, bruise, sprain, headache, sneeze, sore throat, runny nose
+
+V:
+  diagnose, classify, identify, sicken, ail, infect, inflame
+  be ill, suffer, labor under, be affected with, complain of, have, droop, flag, languish, halt, peak, pine, gasp
+  fall back, slide back, sink back, return, retrograde &c H0228, recidivate, fall off again &c H0758
+  come down with, catch, pick up, go down with, throw a sickie [Brit. Coll.], call in sick
+  sully
+
+Adj:
+  pathological, nosological, morbid, diseased, sick, ill, ailing, infected, febrile, chronic, acute, contagious, epidemic, endemic
+  ill of, taken ill, seized with, indisposed, unwell, squeamish, poorly, seedy, affected with illness, afflicted with illness, laid up, confined, bedridden, invalided, in hospital, on the sick list, out of health, out of sorts, under the weather [U.S.], valetudinary†
+  infectious, catching, taking, epizootic
+  morbific [Obs.], zymotic†, morbiferous†
+  tainted, vitiated, peccant, contaminated, poisoned, tabid†, mangy, leprous, cankered, rotten, rotten to the core, rotten at the core, withered, luetic†, rachitic, syntectic†, syntectical†, tabetic†, marcid†
+  unsound, unhealthy, sickly, morbose†, healthless†, infirm, chlorotic [Med.], unbraced†
+  baneful &c H0687, poisonous, scathful†
+  Contingent Subservience
+  peaky [Brit.], off-colour, sick as a dog, crook [Austral.], ropy [Brit.], rough, green around the gills
+  reckless, weakened, autistic, polluted, septic, azotic†
+  allergic, immune, wounded, injured, hurt, sore, achy, feverish, nauseous, queasy, obese, overweight, squeasy†
+  innutritious†
+
+Adv:
+  pathologically, morbidly
+  nosologically
+
+F:
+  Latin: damnosa hereditas, nux vomica, phr.. bibere venenum in auro
+  Sanskrit: nidāna [diagnosis, cause]
+
+Phr:
+  physician, heal thyself [Bible]
+  a clean bill of health
+  out of the frying pan into the fire
+  agrescit medendo [Lat.]
+  what a falling off was there! [Hamlet]

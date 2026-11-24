@@ -1,0 +1,44 @@
+# 627 Practical Mind
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology)
+G: Praktischer Geist
+Gloss: The mind as willing; the mind giving its purposes outward existence.
+HGloss: Intelligence that knows itself as the determiner of its content: the will, which gives its purposes existence.
+
+N:
+  practical mind; will, volition, conation, agency, practical reason, purpose, intention
+  velleity, will and pleasure, free will, freedom &c H0637, discretion, option &c H0635, voluntariness†, spontaneity, spontaneousness, originality
+  intent
+  determination
+  pleasure, wish, mind, desire, frame of mind &c H0632, intention &c H0679, predetermination &c H0675, selfcontrol, determination &c H0390, force of will
+  practical spirit, willing, the practical intelligence
+
+V:
+  will, intend, purpose, resolve, choose, act
+  design, mean
+  determine, decide &c H0625
+  list, see fit, think fit, determine &c H0390, enjoin, settle &c H0635, volunteer
+  carry out, realize
+
+Adj:
+  practical, volitional, conative, voluntary, purposive, agentive
+  willful, free &c H0637, optional, discretional, discretionary, volitient†, volitive†
+  executive
+
+Adv:
+  practically, voluntarily, deliberately, of one's own volition
+  at will, at pleasure, a discretion, ad libitum, as one thinks proper, as it seems good to
+  of one's own free will, by choice &c H0635, purposely &c H0679, deliberately &c H0675
+  by will
+
+F:
+  German: Wille, Sorge [care] [Heidegger], Klugheit, praktische Vernunft
+  Latin: voluntas, liberum arbitrium, ad arbitrium, proprio motu, suo motu, ex meromotu, prudentia, appetitus
+  Greek: boulēsis, phronēsis [practical wisdom] [Aristotle], thelēsis, orexis
+  French: a volonte, prudence, sagesse, sagesse pratique, intelligence pratique, sagacité, volonté
+  Italian: al piacere, a beneplacito, prudenza, ragione pratica
+  Arabic: irāda [will]
+  Sanskrit: saṅkalpa [resolve]
+  Spanish: prudencia
+
+Phr:
+  where there's a will there's a way

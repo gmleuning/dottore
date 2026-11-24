@@ -1,0 +1,28 @@
+# 722 Family Property
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › iii. Division of the General Resources › 1. The Substantial (Agricultural) Estate
+G: Familienvermögen
+Gloss: Land held by a family across generations: the entailed estate, primogeniture, feudal tenure and the landed nobility.
+HGloss: The estate that cannot be sold or divided, bound to the family by entail (Majorat); it frees the landed nobility for political life and sends it to the upper house (§306-307).
+
+N:
+  family property; family estate, entailed estate, entailment, Majorat, primogeniture, inalienable estate, hereditary estate, ancestral land, family seat, manor, demesne, fief, feud, fee, landed nobility
+  fee tail, fee simple, estate in fee, estate in tail, estate tail, estate in tail male, estate in tail female, estate in tail general, absolute interest, paramount estate
+  entail, glebe, landed estate
+  feodality†, villenage, villeinage†, socage†, chivalry, knight service
+  lord of the manor, lord paramount, laird, vavasour†, mesne lord†, armiger†, palsgrave†, waldgrave†
+  landed gentry
+  gentry, gentlefolk, squirarchy [Slang], better sort magnates, primates, optimates†
+  peer, peerage, house of lords, house of peers, lords, lords temporal and spiritual, noblesse, nobleman, lord, lordling†, grandee, hidalgo, don, donship†, aristocrat, swell, three- tailed bashaw†, gentleman, squire, squireen†
+
+Adj:
+  noble, exalted, of rank, princely, titled, patrician, aristocratic, high-, well-born, of gentle blood, genteel, gentlemanlike†, courtly &c H0553, highly respectable
+  entailed, inalienable, hereditary, feudal, manorial, seigneurial, chivalric, knightly
+
+F:
+  German: Majorat, Fideikommiss, Erbgut, Rittergut
+  Latin: feudum
+
+Phr:
+  Adel sitzt im Gemuthe nicht im Gebluete [Ger.]
+  adelig und edel sind zweierlei [Ger.]
+  das Vermögen wird so ein unveräußerliches, mit dem Majorate belastetes Erbgut [Ger.] [Hegel, Philosophy of Right §306]

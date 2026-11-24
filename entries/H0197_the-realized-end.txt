@@ -8,11 +8,11 @@ N:
   the realized end; realization, fulfilment, accomplishment, achievement, attainment, consummation, completion, execution, implementation, actualization, fruition, success, product, work, result, outcome, payoff, harvest, fruit; entelechy
   fulfillment, performance, culmination, finish, conclusion, close &c H0009, terminus &c H0228, winding up, finale, denouement, catastrophe, final touch, last touch, crowning touch, finishing touch, finishing stroke, last finish, coup de grace, crowning of the edifice, coping-stone, keystone, missing link &c H0120, superstructure, work done
   upshot, issue
-  failure, nonsuccess†, nonfulfillment, dead failure, successlessness†, abortion, miscarriage, labor in vain &c H0196, no go, inefficacy†, inefficaciousness, vain attempt, ineffectual attempt, abortive attempt, abortive efforts, lame and impotent conclusion [Othello], frustration, slip 'twixt cup and lip &c H0609
-  blunder &c H0204, fault, omission, oversight, slip, trip, stumble, claudication†, footfall, false step, wrong step, titubation†, lurch, botchery &c H0434 [Obs.], scrape, mess, fiasco, breakdown
-  mishap &c H0661, split, collapse, smash, blow, explosion
+  failure, nonsuccess†, nonfulfillment, dead failure, successlessness†, abortion, miscarriage, labor in vain &c H0196, no go, inefficacy†, inefficaciousness, vain attempt, ineffectual attempt, abortive attempt, abortive efforts, lame and impotent conclusion [Othello], frustration, slip 'twixt cup and lip &c H0628
+  blunder &c H0204, fault, omission, oversight, slip, trip, stumble, claudication†, footfall, false step, wrong step, titubation†, lurch, botchery &c H0453 [Obs.], scrape, mess, fiasco, breakdown
+  mishap &c H0680, split, collapse, smash, blow, explosion
   repulse, rebuff, defeat, rout, overthrow, discomfiture, beating, drubbing, quietus, nonsuit†, subjugation, checkmate, stalemate, fool's mate
-  fall, downfall, ruin, perdition, wreck &c H0114, deathblow, bankruptcy &c H0639, deperdition†
+  fall, downfall, ruin, perdition, wreck &c H0114, deathblow, bankruptcy &c H0658, deperdition†
   losing game, affaire flambée
   victim, bankrupt, flunker†, flunky [U.S.]
   proceeds, bribe
@@ -27,23 +27,23 @@ V:
   fail, be unsuccessful, not succeed, make vain efforts, do in vain, labor in vain, toil in vain, flunk [U.S.], lose one's labor, take nothing by one's motion, bring to naught, make nothing of, wash a blackamoor white &c H0132, roll the stones of Sisyphus &c H0196, do by halves, lose ground &c H0228, fall short of &c H0021
   miss, miss one's aim, miss the mark, miss one's footing, miss stays, make a slip
   blunder &c H0204, make a mess of, make a botch of, bitch it†, miscarry, abort, go up like a rocket and come down like the stick, come down in flames, get shot down, reckon without one's host, get the wrong pig by the tail, get the wrong sow by the ear, )mismanage) 699
-  limp, halt, hobble, titubate†, tumble, lose one's balance, fall between two stools, flounder, falter, stick in the mud, run aground, split upon a rock, beat one's head against a stone wall, run one's head against a stone wall, knock one's head against a stone wall, dash one's head against a stone wall, break one's back, break down, sink, drown, founder, have the ground cut from under one, get into trouble, get into a mess, get into a scrape, come to grief &c H0661, go to the wall, go to the dogs, go to pot, lick the dust, bite the dust, be defeated, have the worst of it, lose the day, come off second best, lose, fall a prey to, succumb &c H0708, not have a leg to stand on
+  limp, halt, hobble, titubate†, tumble, lose one's balance, fall between two stools, flounder, falter, stick in the mud, run aground, split upon a rock, beat one's head against a stone wall, run one's head against a stone wall, knock one's head against a stone wall, dash one's head against a stone wall, break one's back, break down, sink, drown, founder, have the ground cut from under one, get into trouble, get into a mess, get into a scrape, come to grief &c H0680, go to the wall, go to the dogs, go to pot, lick the dust, bite the dust, be defeated, have the worst of it, lose the day, come off second best, lose, fall a prey to, succumb &c H0745, not have a leg to stand on
   come to nothing, end in smoke, flat out†, fall to the ground, fall through, fall dead, fall stillborn, fall flat, slip through one's fingers, hang fire, miss fire, flash in the pan, topple down &c H0228, go to wrack and ruin &c H0114
   go amiss, go wrong, go cross, go hard with, go on a wrong tack, go on ill, come off ill, turn out ill, work ill, take a wrong term, take an ugly term, take an ugly turn, take a turn for the worse
-  be all over with, be all up with, explode, dash one's hopes &c H0609, defeat the purpose, sow the wind and reap the whirlwind, jump out of the frying pan into the fire, go from the frying pan into the fire
+  be all over with, be all up with, explode, dash one's hopes &c H0628, defeat the purpose, sow the wind and reap the whirlwind, jump out of the frying pan into the fire, go from the frying pan into the fire
 
 Adj:
   realized, fulfilled, accomplished, achieved, attained, consummated, completed, executed, done, finished, successful, entelechial
   done for, sped, wrought out, highly wrought &c H0196, thorough &c H0120, ripe &c H0196
   perfect, faultless, sound, intact
-  succeeding, prosperous &c H0661, triumphant, flushed with success, crowned with success, victorious, on top, set up, in the ascendant, unbeaten, well-spent, felicitous, effective, in full swing
-  unsuccessful, successless†, failing, tripping, at fault, unfortunate &c H0661, featly†
-  abortive, addle, stillborn, fruitless, bootless, ineffectual, ineffective, inconsequential, trifling, nugatory, inefficient &c H0121, insufficient &c H0694, unavailing &c H0196, of no effect, inservient†
+  succeeding, prosperous &c H0680, triumphant, flushed with success, crowned with success, victorious, on top, set up, in the ascendant, unbeaten, well-spent, felicitous, effective, in full swing
+  unsuccessful, successless†, failing, tripping, at fault, unfortunate &c H0680, featly†
+  abortive, addle, stillborn, fruitless, bootless, ineffectual, ineffective, inconsequential, trifling, nugatory, inefficient &c H0121, insufficient &c H0714, unavailing &c H0196, of no effect, inservient†
   aground, grounded, swamped, stranded, cast away, wrecked, foundered, capsized, shipwrecked, nonsuited†, foiled, defeated, struck down, borne down, broken down, downtrodden, overborne, overwhelmed, all up with, ploughed, plowed, plucked, damnatory†
-  lost, undone, ruined, broken, bankrupt &c H0639, played out, done up, dead beat, ruined root and branch, flambe†, knocked on the head, destroyed &c H0114
+  lost, undone, ruined, broken, bankrupt &c H0658, played out, done up, dead beat, ruined root and branch, flambe†, knocked on the head, destroyed &c H0114
   frustrated, crossed, unhinged, disconcerted dashed, thrown off one's balance, thrown on one's back, thrown on one's beam ends†, unhorsed, in a sorry plight, hard hit
   stultified, befooled†, dished, hoist on one's own petard, victimized, sacrificed
-  wide of the mark &c H0204, out of one's reckoning &c H0583 [Obs.], left in the lurch, thrown away &c H0694, unattained, uncompleted
+  wide of the mark &c H0204, out of one's reckoning &c H0602 [Obs.], left in the lurch, thrown away &c H0714, unattained, uncompleted
   destroyed, useless, sunk, idle, undefeated, thwarted
   fucked [Vulg.], screwed [Slang], busted [Coll.], bust [Coll.], kaput, shot [Coll.], toast [Slang], stuffed [Brit. Slang], knackered [Brit. Slang]
 

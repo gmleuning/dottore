@@ -1,0 +1,22 @@
+# 720 Soil
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › iii. Division of the General Resources › 1. The Substantial (Agricultural) Estate
+G: Boden
+Gloss: The land itself, the resource on which the agricultural estate lives.
+HGloss: The soil, the substantial estate's resource, a gift of nature it trusts; as the earth is the condition of family life, so the sea is that of industry (§247).
+
+N:
+  soil; land, the land, earth, ground, the soil, arable land, acreage, tilth, loam, clod, sod, turf, pasture, glebe land, the native soil, the fatherland
+  field, meadow, farmland, countryside, the country, village, hamlet, thorp†, dorp†
+
+Adj:
+  arable, predial†, rural, rustic
+
+Adv:
+  on the land, from the land
+
+F:
+  Latin: ager, solum
+  German: Grund und Boden, Erdscholle
+
+Phr:
+  wie für das Prinzip des Familienlebens die Erde, fester Grund und Boden, Bedingung ist [Ger.] [Hegel, Philosophy of Right §247]

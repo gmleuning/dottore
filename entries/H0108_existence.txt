@@ -18,7 +18,7 @@ V:
   persist, endure, abide
   emanate, come out of
   subsist &c H0004
-  arise &c H0009, come forth &c H0391
+  arise &c H0009, come forth &c H0401
 
 Adj:
   existent, existing, extant, actual, real, concrete, worldly, factual, live, living

@@ -1,0 +1,26 @@
+# 855 Degradation of the Animal
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › b. Classical Art › i. The Process of Formation of Classical Art
+G: Die Herabsetzung des Tierischen
+Gloss: The lowering of the animal from divine status.
+HGloss: The animal degraded from the divine: animal sacrifice, hunts, metamorphoses.
+
+N:
+  degradation of the animal; demotion of the animal, the end of animal gods, animal sacrifice, metamorphosis as punishment, the beast subordinated
+  debasement of the animal, abasement, demotion, the animal as attribute, the hunt, the animal as degraded
+
+V:
+  degrade, demote, sacrifice, subordinate
+  debase, abase, lower, humble, embase†
+
+Adj:
+  degraded, demoted, subordinate
+  debased, abased, lowered, bestial, subhuman
+
+Adv:
+  below the human
+  degradingly, as punishment, beneath the human
+
+Phr:
+  the beast made servant
+  dethroned
+  cast down

@@ -1,0 +1,70 @@
+# 515 Knowledge
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad] › i. Reason's Certainty of Being All Reality › 1. Certainty (Subjective Reason)
+G: Wissen
+Gloss: Certainty that has been borne out; belief joined with its confirmation.
+HGloss: Certainty become truth, knowing confirmed in what is known.
+
+N:
+  knowledge; justified belief, cognition, learning, erudition, understanding, information, know-how, gnosis
+  lore, scholarship, reading, letters, book learning, store of knowledge, education &c H0707, bibliomania†
+  cognizance, cognoscence†, experience, privity†, insight, familiarity, comprehension, apprehension, recognition, appreciation &c H0625, intuition, conscience, consciousness, perception, precognition, acroamatics†
+  acquisition of knowledge &c H0602, acquirement, attainment, acquired knowledge
+  enlightenment, acquaintance, knowledge &c H0602
+  scholar, connoisseur, savant, pundit, schoolman†, professor, graduate, wrangler, academician, academist†, master of arts, doctor, licentitate, gownsman, philosopher, master of math, scientist, clerk, sophist, sophister†, linguist, glossolinguist, philologist, philologer†, lexicographer, glossographer, grammarian, literati, dilettanti, illuminati, fellow, Hebraist, lexicologist, mullah, munshi†, Sanskritish, sinologist, sinologue†, Mezzofanti†, admirable Crichton, Mecaenas, verbarian†
+  bookworm, bibliophile, bibliomaniac†, bluestocking, bigwig, learned Theban, don
+  learned man, literary man, man of learning, man of letters, man of education, man of genius
+  antiquarian, antiquary, archaeologist, memorialist†
+  sage &c H0602
+  pedant, doctrinaire, pedagogue, Dr. Pangloss, pantologist†, criminologist
+  schoolboy &c H0707
+  ignoramus, dunce, wooden spoon, no scholar
+  (imbecility) 499 (folly) 501 moron, imbecile, idiot, fool, jerk, nincompoop, asshole [Vulg.]
+  dilettante, sciolist†, smatterer, dabbler, half scholar, charlatan, wiseacre, Aristarchus†, stagirite†
+  greenhorn, amateur &c H0666, novice, tyro &c H0707, numskull
+  lubber &c H0453, fool &c H0434, pedant &c H0602
+  science, verified belief, warranted certainty
+  info
+  acquirements, acquisition of knowledge
+
+V:
+  know, understand, comprehend, grasp, apprehend, be aware, be acquainted with, ken
+  conceive, take, realize, savvy [Slang], appreciate, fathom, make out, recognize, discern, perceive, see, get a sight-of
+  scan, wot†, wot aware†, be aware of, ween†, weet†, trow†, have, possess
+  master
+  ascertain, verify, confirm
+  acquire, acquire knowledge, pick up
+
+Adj:
+  knowing, knowledgeable, informed, learned, erudite, cognizant, epistemic
+  instructed, lettered, educated, well informed, well read, enlightened
+  cognitive, acroamatic†
+  aware of, cognizant of, conscious of, acquainted with, au fait with, au courant
+  learned &c H0602, brought up at the feet of Gamaliel
+  bookless†, shallow, ignorant &c H0602
+  known, verified, confirmed
+  well-versed, versed in, conversant with, well-read, steeped in, at home in
+
+Adv:
+  knowingly, knowledgeably, to one's knowledge
+  with knowledge
+
+F:
+  Latin: scientia, helluo librorum, Artium Baccalaureus, Artium Magister, homo multarum literarum
+  Greek: epistēmē
+  French: savoir, connaissance, litterateur, bas-bleu, épistémè [Foucault]
+  Italian: cognoscenti
+  Arabic: maʿrifa [gnosis]
+  Sanskrit: vidyā
+
+Phr:
+  scientia potentia est [Lat.]
+  knowledge is power [Bacon]
+  all men by nature desire to know [Aristotle]
+  to know for a fact
+  he was a scholar and a ripe and good one [Henry VIII]
+  the manifold linguist [All's Well That Ends Well]
+  a wit with dunces and a dunce with wits [Pope]
+  a lumber-house of books in every head [Pope]
+  ancora imparo! [Lat.]
+  hold high converse with the mighty dead [Thomson]
+  lash'd into Latin by the tingling rod [Gay]

@@ -15,7 +15,7 @@ N:
 V:
   compose, comprise, constitute, make up, consist of, combine, integrate; divide, partition, fragment, segment, break up, break down
   fill up, build up, enter into the composition of
-  break &c H0293, partition &c H0624
+  break &c H0293, partition &c H0643
   form, make
   complete &c H0197, eke out, supply deficiencies
 

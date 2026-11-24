@@ -6,7 +6,7 @@ HGloss: Colour become the fixed darkness of the body itself, its own quality as 
 
 N:
   chemical colour; pigment, dye, dyestuff, colorant, stain, lake, ochre, umber, sienna, vermilion, indigo, madder, cochineal, kermes, woad, henna, saffron, Tyrian purple; colour fastness
-  coloring matter, paint, wash, distemper, medium, mordant, oil paint &c H0890
+  coloring matter, paint, wash, distemper, medium, mordant, oil paint &c H0948
   hue, tint, complexion, shade, cast, livery, coloration, glow, flush, tone, key
   cinnabar, fuchsine†, ruddle†, Indian red, light red, Venetian red, red ink, annotto†, annatto†, realgar, minium†, red lead
   red, scarlet, carmine, crimson, magenta, rose du Barry†
@@ -15,7 +15,7 @@ N:
 
 V:
   dye, stain, pigment, colour, tinge, imbue, steep
-  color, tinct†, ingrain, grain, illuminate, emblazon, bedizen, paint &c H0890
+  color, tinct†, ingrain, grain, illuminate, emblazon, bedizen, paint &c H0948
   tincture
 
 Adj:

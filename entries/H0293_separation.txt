@@ -6,13 +6,13 @@ HGloss: The separation of the neutral product into its components; reduction, th
 
 N:
   separation; decomposition, analysis, resolution, dissociation, disintegration, breakdown, breakup, extraction, distillation, sublimation, precipitation, refinement, purification, filtration, electrolysis, sublimination†, ebullioscope†
-  dissection, catalysis, dissolution, corruption &c H0694, dispersion &c H0035, disjunction
+  dissection, catalysis, dissolution, corruption &c H0714, dispersion &c H0035, disjunction
   parting, circumcision, detachment, segregation, divorce, sejunction†, seposition†, diduction†, diremption†, discerption†, elision, caesura, break, fracture, division, subdivision, rupture, compartition†, dismemberment, dislocation, luxation†, severance, disseverance, scission, rescission, abscission, laceration, dilaceration†, disruption, abruption†, avulsion†, divulsion†, section, resection, cleavage, fission, partibility†, separability, evulsion†
   reduction
 
 V:
   separate, decompose, analyse, dissociate, resolve, extract, distil, sublimate, refine, purify, filter, precipitate, isolate
-  disjoin, disconnect, disengage, disunite, dispair†, dispart†, detach, cut off, rescind, segregate, set apart, keep apart, insulate, throw out of gear, cut adrift, unloose, undo, unbind, unchain, unlock &c H0259, unpack, unravel, disentangle, set free &c H0618, disembroil†, feaze†
+  disjoin, disconnect, disengage, disunite, dispair†, dispart†, detach, cut off, rescind, segregate, set apart, keep apart, insulate, throw out of gear, cut adrift, unloose, undo, unbind, unchain, unlock &c H0259, unpack, unravel, disentangle, set free &c H0637, disembroil†, feaze†
   elutriate [Chem], lixiviate†, clarify, filtrate, absterge†, deterge†
   decompound, analyze, disembody, dissolve, resolve into its elements, separate into its elements, electrolyze [Chem], dissect, decentralize, break up, disperse &c H0035, unravel &c H0228, crumble into dust
   part, part company, leave

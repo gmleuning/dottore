@@ -1,0 +1,31 @@
+# 599 Science: The Concept Grasping Itself
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › d. Absolute Knowing
+G: Wissenschaft
+Gloss: Knowledge in the form of a complete, self-grounding system; science in the fullest sense.
+HGloss: The concept grasping itself, science as spirit's knowledge of itself in its pure element.
+
+N:
+  science; the concept grasping itself, systematic philosophy, the system, philosophical science, logic as the beginning, the self-comprehending concept
+  systematic science, self-grounding knowledge, the concept knowing itself, the element of knowing, pure knowing
+
+V:
+  comprehend, systematize, grasp, conceive
+  comprehend itself, grasp itself, ground itself
+
+Adj:
+  scientific, systematic, conceptual, self-comprehending
+  self-grounding
+
+Adv:
+  systematically, scientifically, in the form of the concept
+  in the concept
+
+F:
+  German: der sich begreifende Begriff
+  Latin: scientia
+  Greek: epistēmē
+
+Phr:
+  the true shape in which truth exists can only be the scientific system of it [Hegel]
+  the science of it
+  to grasp the whole

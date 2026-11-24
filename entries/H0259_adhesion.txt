@@ -20,7 +20,7 @@ V:
   adhere, stick, cling, cleave, attach, bond, glue, gum, paste, cement, agglutinate
   conglutinate†, lute, weld, cake, consolidate &c H0257, agglomerate
   cohere, hold, take hold of, hold fast, close with, clasp, hug, grow together, hang together, twine round
-  fix, affix, saddle on, fasten, bind, secure, clinch, twist, make fast, tie, pinion, string, strap, sew, lace, tat, stitch, tack, knit, button, buckle, hitch, lash, truss, bandage, braid, splice, swathe, gird, tether, moor, picket, harness, chain, fetter &c H0649, lock, latch, belay, brace, hook, grapple, leash, couple, accouple†, link, yoke, bracket, marry &c H0677, bridge over, span, conduplicate†, inweave†, inosculate†, forelay†, inerclude†
+  fix, affix, saddle on, fasten, bind, secure, clinch, twist, make fast, tie, pinion, string, strap, sew, lace, tat, stitch, tack, knit, button, buckle, hitch, lash, truss, bandage, braid, splice, swathe, gird, tether, moor, picket, harness, chain, fetter &c H0668, lock, latch, belay, brace, hook, grapple, leash, couple, accouple†, link, yoke, bracket, marry &c H0696, bridge over, span, conduplicate†, inweave†, inosculate†, forelay†, inerclude†
   make loose, loosen, slacken, relax, unglue &c H0258, detach &c H0293, misbecome†
   tighten, enchase†, intwine†
 

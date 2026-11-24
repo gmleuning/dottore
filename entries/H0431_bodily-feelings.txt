@@ -1,0 +1,13 @@
+# 431 Bodily Feelings
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › i. Particular Feelings
+G: Leibliche Empfindungen
+Gloss: Feelings of the body itself, such as pleasure and pain, appetite and desire.
+HGloss: Feelings whose content is the body's own state, pleasure and pain, the pleasant and the unpleasant, felt where they arise.
+
+N:
+  bodily feelings; pleasure and pain, the pleasant and the unpleasant, physical sensation, bodily sensation, comfort and discomfort
+  pleasure, appetite, lust, craving, relish, gusto, zest, libido, sensuality, sexiness, tingle, shudder, pang, stab, throes, stupor, daze, tears, laughter
+  sexual urge, sexual desire, sexual pleasure, physical attraction, sinking feeling, cold feet, heartburning†
+
+Adj:
+  pleasant, unpleasant, comfortable, uncomfortable, sensual, voluptuous, painful

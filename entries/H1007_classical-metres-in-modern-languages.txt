@@ -1,0 +1,8 @@
+# 1007 Classical Metres in Modern Languages
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › iii. Unification of Verse and Rhyme
+G: Antike Versmaße in neueren Sprachen
+Gloss: The imitation of ancient metres in modern languages, such as the German hexameter.
+HGloss: The attempt to carry the classical metres into the modern languages, as in Klopstock's odes and Voss's Homer, where the accent of meaning resists quantity.
+
+N:
+  classical metres in modern languages; accentual hexameter, German hexameter, English hexameter, English Sapphics, imitation of classical metres, Klopstock's odes, Voss's Homer

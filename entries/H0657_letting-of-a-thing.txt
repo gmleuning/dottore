@@ -1,0 +1,29 @@
+# 657 Letting of a Thing
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract › ii. Contract of Exchange › 2. Letting and Hiring
+G: Vermietung einer Sache
+Gloss: The renting of a thing.
+HGloss: The letting of a thing for rent.
+
+N:
+  letting of a thing; lease of a thing, rental, tenancy, renting out, landlord and tenant, lessor and lessee, rent
+  hire of a thing, letting, tenant, lessor
+
+V:
+  let, rent out, lease
+  hire out
+
+Adj:
+  leased, rental, tenanted
+  rented
+
+Adv:
+  on lease
+  for rent, at a rent
+
+F:
+  Latin: locatio rei
+
+Phr:
+  the tenant's due
+  to rent out
+  room to let

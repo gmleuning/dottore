@@ -1,0 +1,36 @@
+# 580 The Artificer
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › c. Religion as Spirit's Self-Consciousness › i. Natural Religion
+G: Der Werkmeister
+Gloss: The divine worshipped through the craftsman's work: pyramids, obelisks and sculptured forms.
+HGloss: The artificer, the instinctive worker who makes pyramids and obelisks, and then statues half beast, half man.
+
+N:
+  the artificer; the master builder, craftsman, artisan, demiurge, Egyptian builder, architect of pyramids and obelisks, instinctive labour, the bee-like builder, monumentality; pyramid, obelisk, sphinx, Memnon statue, hieroglyph
+  workman, handicraftsman, mechanic, demiurgus, navvy†, lumper†
+  monument, cenotaph, shrine, hatchment†
+  figure, conformation, configuration, formation, construction, mold
+  the master craftsman, the master-workman, the builder, the working spirit, Egyptian religion, the crystal, the Memnon
+
+V:
+  build, construct, fashion, craft, raise, erect, carve
+  produce, make, fabricate, frame, manufacture, forge
+  form, shape, cut, chisel, hew, cast, model, sculpture
+  elevate, rear
+  work instinctively
+
+Adj:
+  monumental, architectural, Egyptian, enigmatic, hieroglyphic, crystalline
+  artisanal, instinctive, geometric
+
+Adv:
+  monumentally, instinctively
+  like bees, by craft
+
+F:
+  Greek: dēmiourgos
+  Sanskrit: Viśvakarman [divine architect]
+
+Phr:
+  the riddle of the sphinx
+  built to last
+  set in stone

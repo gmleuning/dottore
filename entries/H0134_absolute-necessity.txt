@@ -6,8 +6,8 @@ HGloss: Necessity that is because it is: being that has its ground only in itsel
 
 N:
   absolute necessity; necessity, fate, destiny, doom, fatality; Moirai, the Fates; inevitability, ineluctability, inexorability, unavoidability; blind necessity; what is because it is, self-grounded necessity
-  destination, kismet, election, foreordination, lot fortune, fatalism, inevitableness, spell &c H0976
-  necessitation, obligation, compulsion &c H0649, subjection &c H0479, stern necessity, hard necessity, dire necessity, imperious necessity, inexorable necessity, iron necessity, adverse necessity, what must be
+  destination, kismet, election, foreordination, lot fortune, fatalism, inevitableness, spell &c H1071
+  necessitation, obligation, compulsion &c H0668, subjection &c H0498, stern necessity, hard necessity, dire necessity, imperious necessity, inexorable necessity, iron necessity, adverse necessity, what must be
   predestination, preordination, predetermination, foregone conclusion
   unconditioned necessity, the simply necessary
   ananke, necessitarianism
@@ -15,17 +15,17 @@ N:
 
 V:
   be necessary, must be, cannot be otherwise; necessitate, ordain, decree, destine, predestine, foreordain, doom
-  foredoom, devote, compel &c H0649
+  foredoom, devote, compel &c H0668
   preordain
   be of necessity
 
 Adj:
   necessary, absolutely necessary, inevitable, ineluctable, inexorable, unavoidable, inescapable, fated, destined, predestined, fateful, fatal, ordained, decreed, written; blind, unconditioned
-  elect, spellbound compulsory &c H0649, uncontrollable, irresistible, irrevocable, avoidless†, resistless
+  elect, spellbound compulsory &c H0668, uncontrollable, irresistible, irrevocable, avoidless†, resistless
   self-grounded
 
 Adv:
-  necessarily, of necessity, inevitably, inexorably, perforce, willy-nilly, come what may, whether one will or no. needs must, perforce &c H0649, will he nil he, willy nilly, willing or unwilling
+  necessarily, of necessity, inevitably, inexorably, perforce, willy-nilly, come what may, whether one will or no. needs must, perforce &c H0668, will he nil he, willy nilly, willing or unwilling
   of course, in consequence, consequently, as a matter of course
   absolutely, of itself
 

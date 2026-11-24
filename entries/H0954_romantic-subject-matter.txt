@@ -1,0 +1,32 @@
+# 954 Romantic Subject-Matter
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › i. Painting › 2. Particular Characteristics of Painting
+G: Romantischer Inhalt
+Gloss: The content proper to painting as an art of the inner life.
+HGloss: The romantic content of painting, the religious love of the Madonna, and the everyday life of the world.
+
+N:
+  romantic subject-matter; religious subjects, the Madonna and Child, the Passion, saints, landscape, genre, everyday life, portrait, history painting
+  the content of painting, the inner life as subject, inwardness, depth of feeling, the soul, religious love, maternal love, the Holy Family, the Nativity, the Crucifixion, the martyrs, the Magdalene, devotion, bliss, repentance, the human heart, nature, still life, particularity
+  bambocciata
+
+V:
+  depict, portray, choose
+  represent, delineate
+  express, render, picture, paint, show, treat
+
+Adj:
+  religious, devotional, domestic, intimate
+  romantic, inward, soulful, heartfelt, spiritual, Christian, sacred, human, everyday, particular, subjective
+
+Adv:
+  devotionally
+  inwardly, soulfully, lovingly, from the heart
+
+F:
+  Korean: pungsokhwa [genre painting]
+  Italian: veduta [view painting]
+  Spanish: costumbrismo, bodegón [still life]
+
+Phr:
+  the Madonna and Child
+  scenes of everyday life

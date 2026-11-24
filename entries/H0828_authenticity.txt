@@ -1,0 +1,15 @@
+# 828 Authenticity
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 3. Authorship › a. Mere Manner
+G: Die echtere Manier
+Gloss: A manner that has widened beyond private habit to keep to the nature of the matter, like Goethe's or Horace's light turn at the end of a serious poem.
+HGloss: Die ächtere Manier: a manner that lifts itself out of narrow particularity and holds to the nature of the matter in a more general way, as Goethe and Horace end serious beginnings with a cheerful turn.
+
+N:
+  authenticity; the truer manner, a personal yet general manner, the light touch, the deft turn, a cheerful ending, conversational ease
+  authenticity
+
+Adj:
+  authentic, genuine, natural, unforced
+
+Phr:
+  die ächtere Manier [Ger.] [Hegel, Aesthetics]

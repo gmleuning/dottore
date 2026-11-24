@@ -1,0 +1,11 @@
+# 1035 Expressionist Odes
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › b. Ode
+G: Die horazische Ode
+Gloss: The Horatian ode, which gives the poet's own reflective mood.
+HGloss: The Horatian ode, where the subject is mastered less than the poet's own mood and reflection is expressed.
+
+N:
+  expressionist odes; Horatian ode, Horace, the ode of reflection, carmen, Klopstock's odes
+
+Adj:
+  Horatian

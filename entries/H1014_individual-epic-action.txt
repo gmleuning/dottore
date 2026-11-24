@@ -1,0 +1,29 @@
+# 1014 Individual Epic Action
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › a. Epic Poetry › ii. Particular Characteristics of Epic
+G: Die individuelle epische Handlung
+Gloss: The deed of the epic hero.
+HGloss: The individual epic action, an event in which the whole of a people's life is engaged.
+
+N:
+  individual epic action; the hero's deed, quest, war, wandering, the wrath of Achilles, the return of Odysseus
+  exploit, feat, enterprise, adventure, undertaking, expedition, campaign, voyage, journey, homecoming, combat, battle, the epic event, the hero
+  emprise
+
+V:
+  quest, fight, wander, return
+  undertake, achieve, rove, strive, overcome
+
+Adj:
+  heroic, adventurous, martial
+  individual, valiant, valorous, warlike, questing
+
+Adv:
+  heroically
+  valiantly, bravely, in battle, on the quest
+
+F:
+  Greek: nostos [homecoming]
+
+Phr:
+  tell me, O Muse, of that ingenious hero [Homer]
+  one deed that moves a world

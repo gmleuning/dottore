@@ -1,0 +1,33 @@
+# 726 Estate of Commerce
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › iii. Division of the General Resources › 2. The Estate of Trade and Industry
+G: Handelsstand
+Gloss: Traders who exchange goods for one another, chiefly through money.
+HGloss: The estate of commerce, whose business is the exchange of single means for one another, chiefly through money, the universal medium of exchange (§204).
+
+N:
+  estate of commerce; trade, the trading class, merchants, the merchant class, exchange, wholesale, retail
+  commerce, mercature†, buying and selling, bargain and sale, business, nundination†, custom, shopping, commercial enterprise, speculation, jobbing, stockjobbing†, agiotage†, brokery†
+  jobber, broker &c H0751, buyer &c H0655, seller &c H0655, bear, bull
+  money broker, money changer, money lender, cambist†, usurer, moneyer†, banker, obligor†, obligee†
+  retailer, chapman, hawker, huckster, higgler†, pedlar, colporteur, cadger, Autolycus†, sutler†, vivandiere†, costerman†, costermonger†, tallyman, camelot, faker, vintner
+  merchant, trader, dealer, monger, chandler, salesman, changer, regrater†, shopkeeper, shopman†, tradesman, tradespeople, tradesfolk
+  exporter, importer, auctioneer, wholesaler, stockbroker, shipper, grocer, bookseller, arb
+  wine merchant, salt merchant, retail merchant, grain merchant, market keeper, book seller, rug merchant, stationery seller, ship broker, stock trader, horse trader, art dealer, stamp dealer, seed seller, cheap-jack, slop-seller, print seller, ship chandler, ship's chandler, investment banker
+  warehouse, promptuary†, wareroom†, interposit†, arbitrager†, arbitrageur†, bale, fardel†, seron†, seroon†
+
+V:
+  trade, deal, traffic, keep a shop, deal in
+
+Adj:
+  mercantile, trading, interchangeable, marketable, staple, in the market, for sale
+
+Adv:
+  commercially
+
+F:
+  German: Handelsstand, Handel, Kaufmann
+
+Phr:
+  open for business
+  to drive a hard bargain
+  das Geschäft des Tausches der vereinzelten Mittel gegeneinander vornehmlich durch das allgemeine Tauschmittel, das Geld [Ger.] [Hegel, Philosophy of Right §204]

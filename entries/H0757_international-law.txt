@@ -1,0 +1,50 @@
+# 757 International Law
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State
+G: Äußeres Staatsrecht
+Gloss: The law governing relations between states.
+HGloss: External state law between independent states, binding only through their particular wills, an ought.
+
+N:
+  international law; law of nations, public international law, treaties, comity of nations, diplomacy, recognition, alliances, the balance of power, the ought of treaties, perpetual peace
+  mediation, mediatorship†, mediatization†, intervention, interposition, interference, intermeddling, intercession, arbitration, flag of truce, good offices, parley, negotiation, diplomatics†, compromise &c H0645
+  negotiation &c H0654, negotiator &c H0751
+  peace, amity &c H0508, harmony &c H0506, tranquility, calm &c H0228, truce, peace treaty, accord, peace pipe, pipe of peace, indisturbance†, imperturbation†
+  peace offering, olive branch, calumet of peace, preliminaries of peace
+  dove of peace, white dove
+  the law of peoples, treaty, comity, mutual recognition
+  armistice
+
+V:
+  negotiate, treat, ally, recognize, ratify
+  stipulate, make terms, bargain &c H0654
+  mediate, mediatize†, intercede, interpose, interfere, intervene, step in, meet halfway, arbitrate
+  conclude
+  raise a siege, lift a siege, put up the sword, sheathe the sword, bury the hatchet, lay down one's arms, turn swords into plowshares, smoke the calumet of peace, close the temple of Janus, be pacified, come round
+  pacify, tranquilize, compose, allay &c H0121, reconcile, propitiate, placate, conciliate, hold out the olive branch, heal the breach, make peace, restore harmony, bring to terms
+  be at peace, keep the peace &c H0506
+
+Adj:
+  international, diplomatic, inter-state, treaty-bound
+  interstate
+
+Adv:
+  diplomatically, by treaty
+  internationally, between states
+
+F:
+  German: Zum ewigen Frieden [Kant], Weltpolitik [world policy]
+  Latin: ius gentium, magnas componere lites, jus gentium, pacta sunt servanda
+  French: droit des gens, cordon sanitaire, corps diplomatique, chargé d'affaires
+  Arabic: siyar [Islamic law of nations]
+  Chinese: tianxia [all under heaven], duojihua [multipolarity]
+
+Phr:
+  pacta sunt servanda [Lat.]
+  perpetual peace [Kant]
+  the comity of nations
+  the storm blown over
+  the lion lies down with the lamb
+  all quiet on the Potomac
+  paritur pax bello [Lat.] [Nepos]
+  peace hath her victories no less renowned than war [Milton]
+  they make a desert and they call it peace

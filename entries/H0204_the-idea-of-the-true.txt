@@ -6,10 +6,10 @@ HGloss: The drive of cognition to make the given world its own by finding itself
 
 N:
   the idea of the true; truth-seeking, inquiry, theoretical inquiry, research, investigation, science, theory, contemplation, speculation; the pursuit of truth, love of truth
-  request &c H0626, search, quest, pursuit &c H0613
-  system of knowledge, body of knowledge, philosophy, pansophy†, acroama†, aetiology†, etiology, circle of the sciences, pandect†, doctrine, body of doctrine, cyclopedia, encyclopedia, school &c H0604
-  investigation &c H0604, study &c H0604, discussion &c H0607, exposition &c H0599
-  learning, scholarship, erudition, acquired knowledge, inquiry &c H0604
+  request &c H0645, search, quest, pursuit &c H0632
+  system of knowledge, body of knowledge, philosophy, pansophy†, acroama†, aetiology†, etiology, circle of the sciences, pandect†, doctrine, body of doctrine, cyclopedia, encyclopedia, school &c H0623
+  investigation &c H0623, study &c H0623, discussion &c H0626, exposition &c H0618
+  learning, scholarship, erudition, acquired knowledge, inquiry &c H0623
   thought, intellection, reflection, cogitation
   illusion, delusion, snare, false impression, false idea, bubble, self-decit, self-deception, mists of error
   the theoretical idea, theoretical cognition, the search for truth
@@ -23,7 +23,7 @@ V:
 
 Adj:
   theoretical, inquiring, investigative, scientific, scholarly, academic, truth-seeking, contemplative
-  exact, accurate, definite, precise, well-defined, just, just so, so, strict, severe, close &c H0091, literal, rigid, rigorous, scrupulous &c H0667, religiously exact, punctual, mathematical, faithful, constant, unerring, curious, particular, nice, delicate, fine, clean-cut, clear-cut
+  exact, accurate, definite, precise, well-defined, just, just so, so, strict, severe, close &c H0091, literal, rigid, rigorous, scrupulous &c H0686, religiously exact, punctual, mathematical, faithful, constant, unerring, curious, particular, nice, delicate, fine, clean-cut, clear-cut
   speculative, conjectural, hypothetical
   cognitive
 

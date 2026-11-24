@@ -1,0 +1,31 @@
+# 381 Subjective Spirit
+# Spirit
+G: Subjektiver Geist
+Gloss: The mind of the individual person, from its bodily life to its thinking and willing.
+HGloss: Spirit in relation to itself, ideal within itself: the soul, consciousness and mind of the individual, whose development is liberation from nature.
+
+N:
+  subjective spirit; individual mind, the individual psyche, the inner life, inwardness, subjectivity, personal consciousness, the self, selfhood, personhood, the human being as knower and willer; psychology, philosophy of mind; anthropology, phenomenology and psychology
+  the subjective mind, the finite mind, anthropology phenomenology and psychology, soul consciousness and mind
+
+V:
+  think, feel, perceive, will, know oneself
+  be conscious
+
+Adj:
+  subjective, individual, personal, inner, psychological, mental, private
+  psychical†
+  human
+  finite
+
+Adv:
+  subjectively, inwardly, personally, in one's own mind
+  individually
+
+F:
+  Sanskrit: jīvātman [individual self]
+
+Phr:
+  know thyself, gnōthi seauton [Gr.]
+  in one's own head
+  mind and body

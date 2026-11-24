@@ -1,0 +1,26 @@
+# 336 Ganglionic System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › i. Nervous System
+G: Gangliensystem
+Gloss: The nerve-centres governing the internal organs.
+HGloss: The ganglia, the nerve-centres of the internal organs, sensibility turned inward.
+
+N:
+  ganglionic system; ganglia, sympathetic nervous system, autonomic nervous system, vegetative nervous system, solar plexus, plexus, gut feeling; visceral nerves
+  the sympathetic system, the sympathetic nerve
+  vagus nerve, enteric nervous system, the second brain, parasympathetic nervous system, fight or flight, rest and digest, adrenal rush, adrenaline, gut instinct, butterflies, butterflies in the stomach, the pit of the stomach
+  ganglion
+
+V:
+  regulate, govern automatically
+  innervate
+
+Adj:
+  ganglionic, sympathetic, autonomic, visceral, vegetative, involuntary
+
+Adv:
+  involuntarily, unconsciously, automatically
+  in one's gut, in the pit of one's stomach
+
+Phr:
+  a gut feeling
+  trust your gut

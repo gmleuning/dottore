@@ -1,0 +1,93 @@
+# 756 The Estate of Valor
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › a. Constitutional Law › ii. External Sovereignty
+G: Der Stand der Tapferkeit
+Gloss: The class devoted to defence of the state; the military.
+HGloss: The military estate, the estate of valour, whose virtue is courage.
+
+N:
+  the estate of valour; the military, the army, the soldiery, the warrior class, standing army, military estate, officers, knights, valour, bravery, courage
+  armed force, troops, soldiery, military forces, sabaoth†, regulars, the line, troops of the line, militia, yeomanry, volunteers, trainband, fencible†, auxiliary, bersagliere†, garde-nationale, minuteman [U.S.], auxiliary forces, reserve forces, reserves, national guard, gendarme, beefeater, guards, guardsman, yeomen of the guard, life guards, household troops, sbirro†, alguazil†, kavass†, lictor†, bedel†
+  valor, resoluteness, boldness, spirit, daring, gallantry, intrepidity, contempt of danger, defiance of danger, derring-do, audacity, rashness &c H0633, dash, defiance &c H0493, confidence, self-reliance
+  prize fighter, pugilist, boxer, bruiser, the fancy, gladiator, athlete, wrestler, fighting-cock, game-cock, warrior, soldier, fighting man, Amazon, man at arms, armigerent†, campaigner, veteran, swordsman, sabreur†, redcoat, military man, Rajput
+  arms, weapon, deadly weapon, armament, armaments, armature, panoply, stand of arms, armor &c H0755, armory &c H0718
+  ammunition, powder, powder and shot, cartridge, ball cartridge, cartouche, fireball, villainous saltpeter, dumdum bullet
+  explosive, gunpowder, guncotton, mercury fulminate, picrates, pentaerythritol tetranitrate, PETN
+  high explosive, trinitrotoluene, TNT, dynamite, melinite†, cordite, lyddite, plastic explosive, plastique, pyroxyline†
+  sword, saber, broadsword, cutlass, falchion†, scimitar, cimeter†, brand, whinyard, bilbo, glaive†, glave†, rapier, skean, Toledo, Ferrara, tuck, claymore, adaga†, baselard†, Lochaber ax, skean dhu†, creese†, kris, dagger, dirk, banger†, poniard, stiletto, stylet†, dudgeon, bayonet, sword-bayonet, sword-stick, side arms, foil, blade, steel, ax, bill, pole-ax, battle-ax, gisarme†, halberd, partisan, tomahawk, bowie knife†, ataghan†, attaghan†, yataghan†, yatacban†, assagai, assegai†, good sword, trusty sword, naked sword, cold steel
+  club, mace, truncheon, staff, bludgeon, cudgel, life preserver, shillelah, sprig, hand staff, quarter staff, bat, cane, stick, knuckle duster, billy, blackjack, sandbag, waddy†, staddle†, bourdon†, cowlstaff†, lathi†, mahlstick†, fasces†
+  gun, firearms, artillery, ordnance, siege train, battering train, park, battery, cannon, gun of position, heavy gun, mortar, howitzer, carronade†, culverin†, basilisk, falconet, jingal†, swivel, pederero†, petard, torpedo, infernal machine, smooth bore, rifled cannon, Armstrong gun†, Lancaster gun, Paixhan gun, Whitworth gun, Parrott gun, Krupp gun, Gatling gun, Maxim gun, machine gun, pompom†, ten pounder
+  small arms, musket, musketry, firelock†, rifle, fusil†, caliver†, carbine, blunderbuss, musketoon†, Brown Bess, matchlock, harquebuss†, arquebus, haguebut†, pistol, postolet†, petronel, small bore, breach-loader, muzzle-loader, revolver, repeater, Minis rifle, Enfield rifle, Flobert rifle, Westley Richards rifle, Snider rifle, Martini-Henry rifle, Lee-Metford rifle, Lee-Enfield rifle, Mauser rifle, magazine rifle, needle gun, chassepot†, wind gun, air gun, automatic gun, automatic pistol, escopet†, escopette†, gunflint, gun- lock, hackbut†, shooter, shooting iron [U.S.], six-shooter [U.S.], shotgun, Uzzi, assault rifle, Kalashnikov, toxophilite†
+  bow, crossbow, balister†, catapult, sling, battering ram &c H0232, gunnery, ballistics &c H0228
+  missile, bolt, projectile, shot, ball, grape, grape shot, canister shot, bar shot, cannon shot, langrel shot†, langrage shot†, round shot, chain shot, balista†, ballista†, slung shot, trebucbet†, trebucket†, bullet, slug, stone, brickbat, grenade, shell, bomb, carcass, rocket, congreve†, congreve rocket†, shrapnel, levin bolt†, levin brand†, thunderbolt, locofoco†, linstock†
+  pike, lance, spear, spontoon†, javelin, dart, jereed†, jerid†, arrow, reed, shaft, boomerang, harpoon, gaff, eelspear†, oxgoad†, weet-weet, wommerah†, cattle prod, chemical mace
+  cowardice, pusillanimity, cowardliness, timidity, effeminacy, feminality†
+  poltroonery, baseness, dastardness†, dastardy†, abject fear, Dutch courage, fear &c H0628, white feather, faint heart, cold feet [U.S.], yellow streak [Slang]
+  coward, poltroon, sneak, recreant, shy cock, dunghill cock, coistril†, milksop, white liver, lily liver, nidget†, one that cannot say 'boo' to a goose, Bob Acres, Jerry Sneak
+  alarmist, terrorist†, pessimist, runagate &c H0632
+  officer, division, enemy, squad, commander, colonel, corps, patrol, infantry, regiment, brigade, battalion, armour, troop, firearm, aide, battalia†, sotnia†, levy
+  kylie, vanguard, platoon, orderly, commodore, fodder, handgun, knuckles, brigadier, trident, ensign, commandant, machete, adjutant, shiv, hatchet, quartermaster, bombardier, cannonball, lancer, gat, sarin, mujahideen, dragoon, flamethrower, halberdier†, cockarouse†, werowance†
+  military group, military force, military officer, military unit, weapon system, point person, army officer, army unit, air unit, fire ship, executive officer, fresh fish, light arm, task force, tank driver, foot soldier, trip wire, desk officer, inspector general, warrant officer, naval unit, naval officer, pole weapon, brass hat, military advisor, commissioned officer, military adviser, commanding officer, cavalry soldier, enlisted officer, aide-de-camp, standard-bearer, color bearer, stun gun, stun baton, cannon fodder, brass knuckles, point man, air group, point woman, staff officer, line officer, set gun, minute gun, gas gun, battle group, spring gun, air division, supply officer, throw stick, small-arm, home guard, aircraft officer, nuclear weapon, chemical weapon, wing commander, throwing stick, Tommy Atkins†, sepoy†, pikeman†, carabineer†, yager†, fusileer†, marechal†, seraskier†, hetman†, jemidar†, dizdar†, naik†
+  captain, marshall, sergeant, admiral, armor, squadron, nightclub, ammo, trooper, cabaret, arming, canister, sabre, equipping, navarch†
+  cavalry, sniper, marine, commando, special forces, paratrooper, defender, defence, defense, the navy, the air force, recruit, cadet
+  recruiting-sergeant
+
+V:
+  fight, defend, serve, dare, brave
+  be courageous, venture, make bold, face danger, front danger, affront danger, confront danger, brave danger, defy danger, despise danger, mock danger, look in the face, look full in the face, look boldly in the face, look danger in the face, face, meet, meet in front, beard, defy &c H0493
+  guard &c H0733
+  arm, raise troops, mobilize troops, raise up in arms, take up the cudgels &c H0493, take up arms, fly to arms, appeal to arms, fly to the sword, draw the sword, unsheathe the sword, dig up the hatchet, dig up the tomahawk, go to war, wage war, let slip the dogs of war, cry havoc, kindle the torch of war, light the torch of war, raise one's banner, raise the fire cross, hoist the black flag, throw away, fling away the scabbard, enroll, enlist, take the field, take the law into one's own hands, do battle, give battle, join battle, engage in battle, go to battle, flesh one's sword, set to, fall to, engage, measure swords with, draw the trigger, cross swords, come to blows, come to close quarters, combat, contend &c H0493, battle with, break a lance with
+  see service, be on service, be on active service, campaign, wield the sword, shoulder a musket, smell powder, be under fire, spill blood, imbrue the hands in blood, on the warpath
+  quail &c H0628, be cowardly, be a coward, funk, cower, skulk, flinch, fight shy, slink, turn tail, run away &c H0632, show, the white feather, play at bopeep†
+  sacrifice oneself
+  fortify, entrench, dig in, garrison, man the walls, engarrison†, intrench†, propugn†
+
+Adj:
+  valorous, brave, courageous, martial, soldierly, military, chivalrous
+  valiant, gallant, intrepid, spirited, spiritful†, high-spirited, high-mettled†, mettlesome, plucky, manly, manful, resolute, stout, stout-hearted, iron-hearted, lion-hearted, heart of oak, Penthesilean, chafing
+  startlish†
+  unpacific†, unpeaceful†, belligerent, combative, armigerous†, bellicose, warlike, militant, soldier-like
+  enterprising, adventurous, venturous, venturesome, dashing, soldierly &c H0755, heroic
+  strategical, internecine
+  cowardly, fearful, shy, timid, timorous, skittish, poor- spirited, spiritless, soft, effeminate
+  weak-minded, infirm of purpose &c H0390, weak-hearted, fainthearted, chickenhearted, henhearted†, lilyhearted, pigeon-hearted, white- livered†, lily-livered, milk-livered†, smock-faced, unable to say 'boo' to a goose
+  dastard, dastardly, base, craven, sneaking, dunghill, unwarlike, unsoldier-like, earthborn†
+  in face a lion but in heart a deer
+  unmanned, frightened &c H0628
+  Int, every man for himself! [Fr.Tr.], devil take the hindmost
+  strategic, bold, unsure, feisty
+  tactical, armed, defensive, offensive, badass [Slang]
+  fortified, entrenched, garrisoned, defended, impregnable, imperdible†
+
+Adv:
+  valiantly, bravely, courageously
+  valorously, in arms
+
+F:
+  German: Tapferkeit
+  Latin: fortitudo, posse comitatus, apparatus belli
+  Greek: andreia
+  French: garde-royale, piece, field piece, bouche a feu, mitrailleur, mitrailleuse, fowling piece, mitraille, sauve qui peut
+  Arabic: furūsiyya [horsemanship, chivalry]
+  Sanskrit: kṣatriya [warrior estate]
+  Japanese: bushidō [way of the warrior], samurai
+  Italian: condottiere [mercenary captain]
+
+Phr:
+  courage is the first of human qualities because it guarantees all others [Churchill, attrib.]
+  to answer the call
+  to serve one's country
+  one's blood being up
+  courage sans peur [Fr.]
+  fortes fortuna adjuvat [Lat.] [Terence]
+  have I not in my time heard lions roar [Taming of the Shrew]
+  I dare do all that may become a man [Macbeth]
+  male vincetis sed vincite [Lat.] [Ovid]
+  omne solum forti patria [Lat.]
+  self-trust is the essence of heroism [Emerson]
+  stimulos dedit oemula virtus [Lat.] [Lucan]
+  strong and great, a hero [Longfellow]
+  teloque animus proestantior omni [Lat.] [Ovid]
+  there, is always safety in valor [Emerson]
+  virtus ariete fortier [Lat.]
+  ante tubam trepidat [Lat.], one's courage oozing out
+  degeneres animos timor arguit [Lat.] [Virgil]

@@ -1,0 +1,48 @@
+# 502 Stoicism
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › iii. Freedom of Self-Consciousness
+G: Stoizismus
+Gloss: The freedom of thought that holds itself indifferent to circumstance, free on the throne or in chains.
+HGloss: Freedom of thought which is indifferent to existence, on the throne or in chains; free only abstractly.
+
+N:
+  stoicism; Stoic philosophy &c H1122, equanimity, impassivity, imperturbability, self-control, self-possession, fortitude, endurance, resignation, indifference to fortune, inner citadel, the inner fortress; Epictetus on the throne and in chains
+  philosophy, command of temper, self-command, self-restraint, presence of mind, Quakerism†
+  sufferance, forbearance, longanimity†, supportance†, longsufferance†
+  self-denial, self-abnegation, self-control &c H0390
+  inexcitability†, inirritability†, even temper, tranquil mind, dispassion, tolerance, patience
+  abstinence
+  the Stoa, Stoic indifference, inner freedom, freedom in thought, apathy, Epictetus and Marcus Aurelius
+
+V:
+  endure, bear, forbear, accept, resign oneself, keep calm, keep a stiff upper lip
+  suffer, abide &c H0633, bear the brunt of, aby†
+  bear the brunt, bear well, go through, support, brave, disregard
+  abstain, refrain, deny oneself
+  withdraw into thought, hold oneself indifferent
+  desist
+  fortify the mind, steel oneself
+
+Adj:
+  stoic, stoical, impassive, imperturbable, unflappable, equanimous, self-possessed, long-suffering, resigned, philosophical
+  unexcitable, dispassionate, philosophic, staid, sober, inexcitable†
+  patient, patient as Job, submissive &c H0745, content, lamblike†
+  impassible, passionless
+  indifferent, unmoved
+  fortified, steeled, unshaken, unweakened†, unwithered†, unexhausted†
+
+Adv:
+  stoically, impassively, with equanimity, philosophically
+  indifferently, on the throne or in chains
+
+F:
+  Greek: apatheia, ataraxia
+  Arabic: ṣabr [patience, endurance]
+  Sanskrit: vairāgya [detachment], titikṣā [forbearance]
+  German: Sitzfleisch [staying power]
+
+Phr:
+  whether on the throne or in chains [Hegel on Stoicism]
+  aequam memento rebus in arduis servare mentem [Lat.] [Horace]
+  some things are within our power, some are not [Epictetus]
+  to keep a stiff upper lip
+  grin and bear it

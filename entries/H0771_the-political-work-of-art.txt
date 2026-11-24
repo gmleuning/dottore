@@ -1,0 +1,31 @@
+# 771 The Political Work of Art
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History [Tetrad] › ii. Greek World (Beautiful Ethical Life) › 2. Individuality Aesthetically Conditioned
+G: Das politische Kunstwerk
+Gloss: The state as a work of art.
+HGloss: The political work of art: the democratic city-state, where the citizen's will is one with the custom of the people.
+
+N:
+  the political work of art; the polis as artwork, Athenian democracy, the assembly, Periclean Athens, the agora, the citizen, Sparta, demos, oratory
+  the polis, the city-state, the Greek state, democracy, the Athenian constitution, the beautiful state, the living spirit of the people, citizenship
+
+V:
+  deliberate, vote, assemble, debate, govern oneself
+  govern, legislate, participate, constitute
+
+Adj:
+  democratic, civic, Athenian, Spartan, political
+  republican
+
+Adv:
+  democratically, in assembly
+  politically, civically, as citizens
+
+F:
+  Greek: ekklēsia, isonomia [equality before the law], politēs
+
+Phr:
+  Pericles' funeral oration [Thucydides]
+  we do not say that a man who takes no interest in politics minds his own business
+  μόνοι γὰρ τόν τε μηδὲν τῶνδε μετέχοντα οὐκ ἀπράγμονα, ἀλλ᾽ ἀχρεῖον νομίζομεν [Gk.] [Thucydides II.40]
+  we regard the citizen who takes no part in these duties not as unambitious but as useless [Thucydides II.40, tr. Crawley]
+  the Athenian democracy

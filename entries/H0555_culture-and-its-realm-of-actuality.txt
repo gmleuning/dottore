@@ -1,0 +1,31 @@
+# 555 Culture and Its Realm of Actuality
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › ii. Self-Alienated Spirit: Culture › 1. The World of Self-Alienated Spirit
+G: Die Bildung und ihr Reich der Wirklichkeit
+Gloss: Culture and the social world it shapes.
+HGloss: Culture and its realm of actuality, in which the self is what it makes itself through renunciation.
+
+N:
+  culture and its realm of actuality; the cultural world, society, the social order, institutions, power and wealth, the realm of refinement, polite society
+  civilized life, civilization
+  the realm of culture, the actual world of culture, the social world, cultivated society, state-power and wealth, the world of estrangement
+
+V:
+  frequent, move in society, form oneself, make one's way
+  cultivate, shape, count, be valid
+
+Adj:
+  social, cultural, polite, worldly, cosmopolitan
+  civic, public
+  actual, cultivated
+  well-versed, cultured, well-read, lettered, polished
+
+Adv:
+  in society, in polite company
+  culturally, in the actual world
+
+F:
+  French: le monde, the beau monde, grand monde, haut monde, haute volée, tout Paris, honnête homme, savoir-vivre, goût du jour, air du temps
+
+Phr:
+  the world of fashion
+  to cultivate oneself

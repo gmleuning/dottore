@@ -1,0 +1,27 @@
+# 919 Beautiful Sculptural Form
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › i. Principle of Sculpture
+G: Die schöne Gestalt der Skulptur
+Gloss: The beautiful shape proper to sculpture.
+HGloss: The beautiful form proper to sculpture, purified of everything contingent.
+
+N:
+  beautiful sculptural form; ideal form, the beautiful figure, abstraction from accident
+  beautiful form, the beautiful shape, plastic beauty, the beautiful body, shapeliness, comeliness, form, figure, contour, outline, proportion, the human figure
+  idealization, purism
+
+V:
+  idealize, abstract
+  shape, mould, model, beautify
+
+Adj:
+  ideal, beautiful, abstracted
+  shapely, comely, well-formed, well-proportioned, plastic, statuesque
+
+Adv:
+  ideally
+  beautifully, shapelily, in beautiful form
+
+Phr:
+  beauty without blemish
+  purified of the accidental
+  beauty in the round

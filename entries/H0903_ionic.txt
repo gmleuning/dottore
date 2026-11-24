@@ -1,0 +1,26 @@
+# 903 Ionic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 3. Styles of Classical Architecture › a. Greek
+G: Ionisch
+Gloss: The Greek order with a slender column and a capital of scroll-shaped volutes.
+HGloss: The Ionic, more slender and graceful, with its spiral volutes.
+
+N:
+  Ionic; the Ionic order, volute, scroll capital, slender column, base, feminine grace, the Erechtheum
+  the Ionic column, the Ionic capital, scroll, spiral, slenderness, grace, elegance
+  dentil, fillet
+
+V:
+  build in the Ionic manner
+  curl, slim
+
+Adj:
+  Ionic, slender, graceful, voluted, elegant
+  Ionian, scrolled, feminine
+
+Adv:
+  gracefully
+  slenderly, elegantly
+
+Phr:
+  Ionic grace
+  the matronly order

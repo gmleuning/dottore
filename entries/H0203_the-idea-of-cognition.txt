@@ -8,10 +8,10 @@ N:
   the idea of cognition; cognition, knowing, knowledge, understanding, comprehension, apprehension, inquiry, investigation, research, science; theory and practice; spirit as knowing and willing
   cognizance, cognoscence†, acquaintance, insight, recognition, intuition
   system of knowledge, body of knowledge, philosophy, theory, doctrine
-  request &c H0626, search, quest, pursuit &c H0613
-  intelligence, intellect &c H0583
-  learning, acquisition of knowledge &c H0583
-  investigation &c H0604, study &c H0604, discussion &c H0607, exposition &c H0599
+  request &c H0645, search, quest, pursuit &c H0632
+  intelligence, intellect &c H0602
+  learning, acquisition of knowledge &c H0602
+  investigation &c H0623, study &c H0623, discussion &c H0626, exposition &c H0618
   the knowing idea, the theoretical and the practical idea, finite cognition
   epistēmē
 
@@ -23,7 +23,7 @@ V:
 
 Adj:
   cognitive, epistemic, noetic, intellectual, theoretical, practical, inquisitive
-  inquisitive &c H0583, analytic, in search of, in quest of, zetetic†, inquisitory†, requisitive†, requisitory†
+  inquisitive &c H0602, analytic, in search of, in quest of, zetetic†, inquisitory†, requisitive†, requisitory†
 
 Adv:
   cognitively, knowingly, theoretically, in theory and in practice

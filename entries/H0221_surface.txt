@@ -26,7 +26,7 @@ N:
 V:
   surface, face, coat, cover, veneer, plane, flatten, level
   slice, shave, pare, peel, delaminate, disfurnish†, uncoif†
-  superpose, superimpose, overlay, overspread, wrap &c H0694, encase, incase†, case, pave, paper, tip, cap, bind, bulkhead, bulkhead in, clapboard [U.S.], inclasp†, embay†, embosom†
+  superpose, superimpose, overlay, overspread, wrap &c H0714, encase, incase†, case, pave, paper, tip, cap, bind, bulkhead, bulkhead in, clapboard [U.S.], inclasp†, embay†, embosom†
   render horizontal, lay down, lay out, prostrate, knock down, floor, fell
   smoothen†, file, mow, roll, macadamize, polish, burnish, calender†, glaze, iron, hot-press, mangle, lubricate &c H0230, discind†, scamble†
   line, stuff, incrust, wad, pad, fill

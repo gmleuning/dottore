@@ -1,0 +1,32 @@
+# 1055 Tragedy
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › iii. Genres of Dramatic Poetry › x. Principles of the Dramatic Genres
+G: Tragödie
+Gloss: Drama in which rightful but one-sided powers collide and are reconciled through the downfall of those who embody them.
+HGloss: Tragedy, the collision of ethical powers each justified but one-sided, resolved through the downfall of those who embody them.
+
+N:
+  tragedy; tragic drama, the tragic, the collision of ethical powers, right against right, catharsis, pity and fear, the tragic hero, Antigone, Oedipus, Hamlet
+  the tragic muse, Melpomene, the buskin, tragic poetry, Attic tragedy, Greek tragedy, the tragic conflict, the tragic collision, the collision of right with right, the conflict of duties, the ethical substance, the ethical powers, family and state, divine and human law, pathos, the one-sidedness of pathos, the tragic flaw, the tragic error, tragic guilt, guilt and innocence, hubris, nemesis, fate, destiny, doom, necessity, eternal justice, the downfall, ruin, undoing, destruction, the catastrophe, the reversal, the recognition, the reconciliation, tragic reconciliation, the restoration of the ethical order, purgation, purification, terror, the chorus, the protagonist, the tragedian, the tragic poet, Aeschylus, Sophocles, Euripides, Shakespeare, Creon, Orestes, the Oresteia, Lear, Macbeth, the tragedy of fate, the tragedy of character, woe, calamity, disaster
+  crossroads
+  anagnorisis
+
+V:
+  suffer, fall, collide, perish, purge
+  clash, conflict, contend, oppose, transgress, err, incur guilt, overreach, bring down, be brought low, be undone, be destroyed, go under, founder, come to grief, meet one's fate, atone, expiate, be reconciled, purify, move to pity, terrify, bewail
+
+Adj:
+  tragic, tragical, fateful, catastrophic, cathartic, doom-laden
+  Sophoclean, Aeschylean, Euripidean, Shakespearean, Melpomenean, buskined, cothurnate, one-sided, justified, guilty, fated, doomed, ill-fated, ill-starred, star-crossed, fatal, calamitous, disastrous, ruinous, dire, woeful, pitiable, terrible, harrowing, sublime, pathetic, purgative, reconciling, hubristic, inexorable
+
+Adv:
+  tragically
+  fatefully, fatally, catastrophically, disastrously, calamitously, inexorably, by fate, by necessity, to one's ruin, to the bitter end, in buskins, with pity and fear
+
+F:
+  German: Trauerspiel, das Tragische, Kollision, Schuld, Schicksal, Untergang, ewige Gerechtigkeit
+  Latin: tragoedia, cothurnus, fatum
+  Greek: tragōidia, katharsis, hamartia, hybris, peripeteia, anagnōrisis, moira, eleos kai phobos, atē, dikē
+
+Phr:
+  the collision of two rights [Hegel on Antigone]
+  the rest is silence [Hamlet]

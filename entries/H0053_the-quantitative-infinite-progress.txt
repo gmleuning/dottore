@@ -13,7 +13,7 @@ N:
 
 V:
   progress endlessly, go on and on, go on forever, never end, iterate, recur, recurse; approach but never reach
-  revert, return, reappear, renew &c H0368
+  revert, return, reappear, renew &c H0378
   be infinite, know no limits, have no limits, know no bounds, have no bounds, go on for ever
   last forever, endure forever, have no end
   go on, increase without end

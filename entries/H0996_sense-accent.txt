@@ -1,0 +1,11 @@
+# 996 Sense-Accent
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse › 2. Accent
+G: Sinnakzent
+Gloss: The stress that falls by meaning on the important word, which may cross the metrical accent.
+HGloss: The sense-accent, which the meaning lays on the significant word and which may agree or contend with the metrical accent.
+
+N:
+  sense-accent; logical stress, rhetorical accent, sense stress, meaning-stress, word accent
+
+Adj:
+  emphatic

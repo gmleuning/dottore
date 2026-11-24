@@ -1,0 +1,29 @@
+# 1111 Socratism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › b. Greek Philosophy › i. From Thales to Aristotle
+G: Das Sokratische
+Gloss: The turn of philosophy from nature to the human being and its inner judgment.
+HGloss: The turn to subjectivity: the Sophists and Socrates.
+
+N:
+  Socratism; the turn to the subject, ethical reflection, the examined life, dialectic of question and answer, the Socratic method
+  the Socratic turn, the Socratic principle, the anthropological turn, the turn to man, the turn inward, the principle of subjectivity, inwardness, subjective reflection, moral consciousness, self-knowledge, self-examination, conscience, the inner oracle, the inner judge, moral philosophy, ethics, the search for definitions, the universal, the concept, conviction, insight, humanism, morality over custom, the Good as end, philosophy brought down from heaven [Cicero]
+  subjectivism
+
+V:
+  question, examine, refute
+  turn inward, reflect, know oneself, examine oneself, define, seek the universal, moralize, humanize, judge for oneself, call to account, interrogate, deliberate
+
+Adj:
+  Socratic, elenctic, dialectical, ethical
+  anthropological, humanistic, moral, reflective, inward, subjective, self-examining, introspective, conscientious, questioning, maieutic, ironic
+
+Adv:
+  Socratically
+  inwardly, reflectively, ethically, morally, from within, from conviction, by self-examination, by question and answer
+
+F:
+  Greek: elenchos
+
+Phr:
+  the unexamined life is not worth living [Plato, Apology]
+  man the measure

@@ -1,0 +1,15 @@
+# 1041 Sonnet, Sestina, Elegy, Epistle
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › c. Song
+G: Sonett, Sestine, Elegie, Epistel
+Gloss: The reflective song forms: sonnet, sestina, elegy, epistle.
+HGloss: Forms in which reflection enters the song: the sonnet, sestina, elegy and verse epistle.
+
+N:
+  sonnet, sestina, elegy, epistle; verse epistle
+  sonnet, sestina, elegy, epistle, villanelle, epigram, dirge, threnody, epithalamium, madrigal, idyl, eclogue, pastoral, romance, occasional poem
+
+V:
+  elegize, lament
+
+Adj:
+  elegiac, epigrammatic

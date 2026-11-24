@@ -6,11 +6,11 @@ HGloss: The not-yet of the now, into which the present passes as its negation.
 
 N:
   future; the time to come, the hereafter, futurity, tomorrow, the morrow, prospect, outlook, expectation, anticipation, foresight, prevision, prophecy, prediction, destiny, fate; posterity, descendants; the not-yet
-  destiny &c H0134, future existence, post existence, future state, next world, world to come, after life, everlasting life, everlasting death, life beyond the grave, world beyond the grave, prospect &c H0583
+  destiny &c H0134, future existence, post existence, future state, next world, world to come, after life, everlasting life, everlasting death, life beyond the grave, world beyond the grave, prospect &c H0602
   futurition, time to come, approaching time, coming time, subsequent time, after time, approaching age, coming age, subsequent age, after age, approaching days, coming days, subsequent days, after days, approaching hours, coming hours, subsequent hours, after hours, approaching ages, coming ages, subsequent ages, after ages, approaching life, coming life, subsequent life, approaching years, coming years, subsequent years, after years, morrow, millennium, doomsday, day of judgment, crack of doom, remote future
   prospicience†, long- sightedness, providence &c H0196
-  expectance, expectancy, reckoning, calculation, foresight &c H0583
-  premonition &c H0599, prognosis, prognostication, foreboding, mantology†, auguration†, ariolation†, hariolation†, aboding†, bodement†, abodement†, omniation†, omniousness†, sooth†
+  expectance, expectancy, reckoning, calculation, foresight &c H0602
+  premonition &c H0618, prognosis, prognostication, foreboding, mantology†, auguration†, ariolation†, hariolation†, aboding†, bodement†, abodement†, omniation†, omniousness†, sooth†
   the to-come
   forecasting
   aftertime
@@ -19,12 +19,12 @@ V:
   be about to, lie ahead, impend, loom, approach, await, come; anticipate, foresee, forecast, predict, prophesy
   hang over, lie over, threaten, stare one in the face, foreordain, preordain, predestine, doom, have in store for
   come on, draw on, draw near
-  expect &c H0583, foreknow, presurmise†
+  expect &c H0602, foreknow, presurmise†
 
 Adj:
   future, coming, forthcoming, upcoming, impending, imminent, approaching, prospective, potential, eventual, ulterior, subsequent, to come
   destined, about to be, happen, in store, going to happen, instant, at hand, over hanging, hanging over one's head, brewing, preparing, int he wind, on the cards, in reserve, that will, is to be, looming in the distance, horizon, unborn, in embryo, int he womb of time, pregnant &c H0137
-  next, near, close at hand, in prospect &c H0583
+  next, near, close at hand, in prospect &c H0602
 
 Adv:
   hereafter, henceforth, henceforward, from now on, in future, in the future, tomorrow, eventually, sooner or later, in due course, in time, by and by, anon, henceforwards†

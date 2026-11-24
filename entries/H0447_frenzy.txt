@@ -1,0 +1,15 @@
+# 447 Frenzy
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement › 3. Mania or Insanity
+G: Tollheit
+Gloss: Raving madness; a rage of reason against unreason and of unreason against reason.
+HGloss: The raving of the deranged, a rage of reason against unreason and of unreason against reason, the self in open war with its own contradiction.
+
+N:
+  frenzy; the rage of reason against unreason, raving
+  raving madness, delirium, hysteria, phrensy†, distraction, hysterics, paroxysm, raver†
+
+V:
+  rave, storm
+
+Adj:
+  frenzied, frantic, frenetic, raving, delirious, lightheaded, incoherent

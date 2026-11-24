@@ -1,0 +1,48 @@
+# 1065 Religious Feeling
+# Spirit › 3. Absolute Spirit › II. Religion › α. The Concept of Religion › b. The Knowledge of God [Tetrad]
+G: Religiöses Gefühl
+Gloss: The knowing of God in the form of feeling.
+HGloss: God in the form of feeling, the subjective certainty of the heart, which is formal and can contain anything.
+
+N:
+  religious feeling; feeling of absolute dependence, piety, devotion, awe, the numinous, reverence, holy fear
+  religion, theism, faith, religiousness, holiness, saintship†, reverence &c H0506, humility, veneration, prostration &c H1068, grace, unction, edification, sanctity, sanctitude†, consecration, religionism†
+  adoration, aspiration, homage, service, humiliation, kneeling, genuflection, prostration, accubation†, supination†, resupination†
+  feeling, religious emotion, religious sentiment, the religious affections, religiosity, the heart, the pious heart, inwardness, the inner life, feeling of dependence, the sense of the infinite, the taste for the infinite [Schleiermacher], the sense of the divine, the feeling of God, God in the heart, creature-feeling, the mysterium tremendum, dread, fear of God, godly fear, godliness, devoutness, piousness, pietism, fervour, ardour, zeal, rapture, ecstasy, exaltation, elevation, uplift, bliss, blessedness, beatitude, contrition, compunction, thankfulness, gratitude, love of God, trust, longing, yearning, immediate certainty, subjectivity of feeling, the witness of the heart, enthusiasm, emotion, sentiment, sensibility, stirring, thrill, tremor, shudder
+
+V:
+  feel, revere, be moved, be awed
+  be pious, have faith, believe, receive Christ, be converted, convert, edify, sanctify, keep holy, beatify, regenerate, inspire, consecrate, enshrine
+  hold in reverence, venerate, hallow
+  worship, lift up the heart, aspire, revere &c H0506, adore, do service, pay homage, humble oneself, kneel, bow the knee, bend the knee, fall down, fall on one's knees, prostrate oneself, bow down and worship
+  feel God, sense, be touched, be stirred, tremble, quake, stand in awe, marvel, wonder, fear, love God, long, yearn, thirst after, rejoice, exult, melt, glow, burn, be uplifted, be rapt, repent, give thanks
+
+Adj:
+  pious, reverent, awestruck, numinous, devout, heartfelt
+  religious, devoted, godly, heavenly- minded, humble, holy, spiritual, pietistic, saintly, saint-like, seraphic, sacred
+  worshipping, devotional, pure, solemn, fervid &c H0628
+  profound, deep felt
+  emotional, sentimental, affective, inward, fervent, ardent, zealous, rapt, enraptured, ecstatic, awed, awe-inspired, trembling, God-fearing, dependent, contrite, thankful, grateful, loving, trusting, uplifted, blissful, blessed, enthusiastic, moved, touched, stirred, tender, pietist, warm-hearted
+  appreciative
+
+Adv:
+  devoutly, reverently, with fear and trembling
+  heart and soul, from the bottom of one's heart
+  piously, fervently, ardently, feelingly, inwardly, humbly, tremblingly, adoringly, rapturously, in awe, in the heart, with all one's heart, with bated breath, on one's knees
+
+F:
+  German: schlechthinniges Abhängigkeitsgefühl [Schleiermacher], Gefühl, das religiöse Gefühl, Andacht, Herz, Gemüt, Frömmigkeit, Ehrfurcht, Gefühl der schlechthinnigen Abhängigkeit
+  Latin: mysterium tremendum et fascinans [Rudolf Otto], pietas, timor Dei, sensus numinis, cor inquietum
+  Greek: eusebeia, deisidaimonia
+  Arabic: khushūʿ [humble devotion], taqwā [God-consciousness]
+  Sanskrit: bhakti
+  Chinese: jingwei [reverence and awe]
+
+Phr:
+  so wäre der Hund der beste Christ [Ger.] [Hegel, Foreword to Hinrichs, Die Religion, 1822, against Schleiermacher]
+  the feeling of absolute dependence
+  the heart has its reasons
+  ne vile fano [It.]
+  pure-eyed Faith
+  thou hovering angel girt with golden wings [Milton]
+  giovane santo diavolo vecchio [It.]

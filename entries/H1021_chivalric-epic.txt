@@ -1,0 +1,22 @@
+# 1021 Chivalric Epic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › a. Epic Poetry › iii. Historical Development of Epic › xxx. Romantic Epic
+G: Das ritterliche Epos
+Gloss: The epic and romance of knights, their honour, love and adventure.
+HGloss: The chivalric epic, whose matter is the knight's honour, love and loyalty, and its adventures, down to Ariosto's comic play with them.
+
+N:
+  chivalric epic; knight-errantry, romance of adventure, the quest
+  El Cid, Orlando Furioso, the chivalric epic, the medieval epic, chanson de geste, the Song of Roland, the Arthurian romances, Parzival, Tristan, romance of chivalry, Ariosto, romaunt
+
+V:
+  quest, rove, adventure, crusade
+
+Adj:
+  chivalric, knightly, Arthurian, Carolingian, Ariostan
+
+Adv:
+  chivalrously
+
+Phr:
+  knights and ladies
+  the matter of Britain

@@ -1,0 +1,75 @@
+# 669 Crime
+# Spirit › 2. Objective Spirit › I. Abstract Right › γ. Wrong › c. Coercion and Crime
+G: Verbrechen
+Gloss: A deliberate violation of right as such.
+HGloss: The negative infinite judgment, the deliberate negation of right as right, which annuls itself.
+
+N:
+  crime; offence, felony, misdemeanour, delict, malfeasance, transgression, violation, lawbreaking, wrongdoing, iniquity, outrage, atrocity, criminality, delinquency
+  offense, trespass, misdemeanor, misfeasance, misprision, malefaction, malversation
+  misconduct, misbehavior, misdoing, misdeed, malpractice, fault, error, dereliction, indiscretion, lapse, slip, trip, peccadillo, flaw, blot, omission, failing, failure, bad break! [U.S.], capital crime, procacity†
+  culprit, crook, hoodlum, hood, thug, malefactor, offender, perpetrator, perp [Coll.], disorderly person, misdemeanant [Law], outlaw, scofflaw, vandal, felon, (convicted criminal), convict, prisoner, inmate, jail bird, ticket of leave man, multiple offender, repressionist†
+  infringement, infraction, piracy
+  enormity, deadly sin, mortal sin, deed without a name [Macbeth]
+  evil-doing, wickedness
+  thief, robber, pilferer, rifler, filcher†, plagiarist
+  spoiler, depredator, pillager, marauder, harpy, shark [Slang], land shark, falcon, mosstrooper†, bushranger†, Bedouin†, brigand, freebooter, bandit, dacoit†, corsair, viking, Paul Jones†, buccaneer, buccanier†, piqueerer†, pickeerer†, rover, ranger, privateer, filibuster, rapparee†, wrecker, picaroon†, smuggler, poacher, abductor, badger [Slang], bunko man, cattle thief, chor†, contrabandist†, hawk, holdup man, hold-up [U.S.], jackleg [U.S.], kidnaper, rustler, cattle rustler, sandbagger, sea king, skin [Slang], sneak thief, spieler†, strong-arm man [U.S.]
+  highwayman, Dick Turpin, Claude Duval, Macheath, footpad, sturdy beggar
+  cut purse, pick purse, pickpocket, light-fingered gentry, sharper, card sharper, skittle sharper, thimblerigger, rook [Slang], Greek, blackleg, leg, welsher [Slang], defaulter, Autolycus†, Jeremy Diddler†, Robert Macaire, artful dodger, trickster, swell mob [Slang], shoplifter, blackquarter†
+  swindler, peculator, forger, coiner, fence, receiver of stolen goods, duffer, smasher
+  burglar, housebreaker, cracksman†, magsman [Slang], Bill Sikes, Jack Sheppard, Jonathan Wild
+  gang, gang of thieves, theft ring, organized crime, mafia, the Sicilian Mafia, the mob
+  Dillinger, Al Capone, Robin Hood
+  booty, spoil, plunder, prize, loot, swag [Slang], pickings, prey, blackmail, stolen goods
+  the negatively infinite judgment
+  con [Slang], lag [Brit. Slang], jailbird, gangsta [Slang], mobster, mafioso, wise guy, goon, heavy, lowlife, scumbag [Slang], scum, dirtbag [Slang], villain, repeat offender, career criminal, recrement†
+  heist, job, hit, mugging, holdup, stickup, smash-and-grab, carjacking, joyriding, shoplifting, five-finger discount, bust, rap, rap sheet
+  fraud, stealing, punk, theft, robbery, scam, treason, bravo, prostitution, hustle, traitor, latrociny†, direption†, autoplagiarism†, latrocinium†
+  gangster, mayhem, torpedo, burglary, abduction, bribery, gunman, raider, perjury, ripper, collaborator, hijack, hijacking, yakuza, sedition, embezzlement, molestation, henchman, larceny, ghoul, racketeering, rustling, cutthroat, conspirator, thieving, iceman, moll, swindle, infanticide, misappropriation, foeticide†, uxoricide†, vaticide†, filibusterism†, coemption†
+  law-breaking, criminal offense, criminal offence, war crime, vice crime, desperate criminal, capital offense, regulatory offense, drug dealer, regulatory offence, high treason, statutory offense, statutory offence, law offender, habitual criminal, gun moll, drug peddler, sex crime, road agent, sexual abuse, hired gun, positive fraud, mail fraud, legal fraud, election fraud, sex offense, bearing false witness, arms-runner, identity theft, lying under oath, literary pirate, serial murderer, mass murderer, constructive fraud, collateral fraud, fifth columnist, intrinsic fraud, public nudity, indecent exposure, disorderly conduct, disorderly behavior, hatchet man, false pretense, false pretence, extrinsic fraud, hit man, hit woman, confidence game, confidence trick, shell game, con game, grand theft, sea rover, spree killer, wharf rat, mutineering†, prodition†
+  petty, predator, apache, stealth, havoc, looting, git, inquination†, delaceration†, scath†
+  murder, killer, murderer, homicide, manslaughter, assassination, assassin, serial killer, hitman, kidnapping, kidnapper, rapist, sexual assault, abuser, bullying, harassment, stalking, stalker, terrorism, terrorist, genocide, hate crime, cartel, dealer, trafficking, trafficker, smuggling, hacker, cybercrime, vandalism, graffiti, arson, arsonist, mugger, gambling, trucidation†, iccusion†, Gothicism†
+
+V:
+  commit, perpetrate, offend, transgress, break the law, violate
+  infringe, pirate, trample under foot, do violence to, drive a coach and six through
+  sin
+  break
+  knock off, knock over, hold up, stick up, mug, nick [Brit. Slang], pinch, lift, boost, jack [Slang], burgle, burglarize, pull a job, spoliate†
+  kill, assassinate, kidnap, abduct, rape, abuse, bully, harass, stalk, smuggle, traffic, vandalize, hack
+
+Adj:
+  criminal, felonious, culpable, guilty, delinquent, illegal, nefarious, heinous
+  infamous, villainous, flagitious, atrocious
+  to blame, peccable†, in fault, at fault, censurable, reprehensible, blameworthy, uncommendable, illaudable†, weighed in the balance and found wanting, exceptionable
+  manubial†
+  Interchange of Property
+  bent [Brit. Slang], crooked, dodgy, hot, on the lam, on the run
+  cheesy
+
+Adv:
+  criminally, feloniously
+
+F:
+  Latin: crimen, in flagrante delicto, delictum, homo triumliterarum, spolia opima
+  French: faux pas, chevalier d'industrie
+  Italian: la cosa nostra
+  Sanskrit: pāpa [sin]
+
+Phr:
+  crime is the negation of right [Hegel]
+  nullum crimen sine lege [Lat.]
+  crime doesn't pay
+  caught red-handed
+  assassination has never changed the history of the world [Disraeli]
+  seditiosissimus quisque ignavus [Lat.] [Tacitus]
+  unthread the rude eye of rebellion [King John]
+  sic vos non vobis [Lat.]
+  cui prodest scelus in fecit [Lat.] [Seneca]
+  culpam paena premit comes [Lat.] [Horace]
+  O would the deed were good! [Richard II]
+  responsibility prevents crimes se judice nemo nocens absolvitur [Lat.] [Juvenal]
+  so many laws argues so many sins [Paradise Lost]
+  sirrah!
+  Acherontis pabulum
+  gibier de potence [Fr.]

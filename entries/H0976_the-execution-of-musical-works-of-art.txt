@@ -1,0 +1,30 @@
+# 976 The Execution of Musical Works of Art
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 3. Relation Between Expression and Content
+G: Die ausübende künstlerische Tätigkeit
+Gloss: The performance of music.
+HGloss: Performance, in which the musical work exists, either reproducing it faithfully or carrying it as a virtuoso.
+
+N:
+  the execution of musical works of art; performance, execution, interpretation, rendition, recital, concert
+  touch, expression, solmization†
+  playing, singing, musicianship, technique, performer, executant, singer
+
+V:
+  perform, play, interpret, render, execute
+  accompany, sing a second, play a second, compose, set to music, arrange
+  construe
+  rehearse
+  have an ear for music, have a musical ear, have a correct ear
+  sing, sound
+
+Adj:
+  interpretive, performative
+  executive, performing, reproductive
+
+Adv:
+  in performance
+  live, at sight
+
+F:
+  Italian: con brio, bel canto
+  German: Urtext [the original text of a score]

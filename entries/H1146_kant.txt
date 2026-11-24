@@ -1,0 +1,28 @@
+# 1146 Kant
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › d. Modern Philosophy › iii. Critical Philosophy (German Idealism)
+G: Kant
+Gloss: The thinker who turned philosophy into a critique of reason, showing that the mind supplies the forms and categories of experience, so that we know things only as they appear, never as they are in themselves.
+HGloss: Kant, who found the categories in the self and declared the thing in itself unknowable.
+
+N:
+  Kant; the critical turn that asks how knowledge is possible, the critique of pure reason, transcendental idealism, the thing in itself, phenomena and noumena, the categories, the synthetic a priori, the categorical imperative, autonomy, the sublime, transcendental aesthetic, transcendental analytic, Determining judgment, Reflective judgment, faculties, sensibility
+  noumenon
+
+V:
+  critique, limit, legislate, deduce
+
+Adj:
+  Kantian, critical, transcendental, deontological
+
+Adv:
+  transcendentally, critically
+
+F:
+  German: Ding an sich [thing-in-itself], Anschauung [Intuition]
+  Korean: muljache [thing in itself]
+
+Phr:
+  thoughts without content are empty, intuitions without concepts are blind [Kant]
+  sapere aude [Lat.]
+  the starry heavens above and the moral law within
+  dare to know

@@ -1,0 +1,53 @@
+# 637 Free Mind
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology)
+G: Freier Geist
+Gloss: The will that wills its own freedom; mind that knows and wills itself as free.
+HGloss: The will that has freedom as its content and end: free spirit, which must become objective.
+
+N:
+  free mind; free spirit, free will, freedom of the will, autonomy, self-determination, rational will, the will that wills freedom, liberty
+  will, volition, conation†, velleity, will and pleasure, discretion, option &c H0635, voluntariness†, spontaneity, spontaneousness, originality
+  self-government, liberalism, noninterference &c H0021
+  freedom, independence, license &c H0733, facility &c H0453
+  freelance, free thinker, free trader
+  the actually free will, the will that wills itself
+
+V:
+  be free, will freely, determine oneself, liberate, emancipate
+  set free, set clear, set at liberty, render free, release, enfranchise, affranchise†, manumit, enlarge, disband, discharge, disenthrall, disenthral, dismiss, let go, let loose, let out, let slip, cast adrift, turn adrift, deliver &c H1090, absolve &c H0731
+  have scope, have the run of, have one's own way, have a will of one's own, have one's fling, do what one likes, do what one wishes, do what one pleases, do what one chooses, go at large, feel at home, paddle one's own canoe, stand on one's legs, stand on one's rights, shift for oneself
+  disencumber, disentangle, disengage, extricate, deobstruct†
+  will oneself
+
+Adj:
+  free, autonomous, self-determining, independent, sovereign, emancipated, unfettered
+  free as air, out of harness, at large, loose, scot-free, left alone, left to oneself
+  exempt, freed, freeborn, freehold, allodial†, gratis &c H0655, eleutherian†, feodal†
+  unsubject†, ungoverned, unenslaved†, unenthralled†, unchained, unshackled, unreined†, unbridled, uncurbed, unmuzzled
+  voluntary, volitional, willful, optional, discretional, discretionary, volitient†, volitive†
+  unchecked, unprevented†
+
+Adv:
+  freely, of one's own free will, autonomously
+  by choice &c H0635, purposely &c H0679, deliberately &c H0675
+  of one's own will
+
+F:
+  Latin: liberum arbitrium, proprio motu, suo motu, ex meromotu, libertas
+  Sanskrit: mukti [liberation]
+  Russian: volya [freedom as unbounded will], svoboda [freedom]
+  French: liberté, libre arbitre, volonté
+  German: Willkür
+
+Phr:
+  the free will which wills the free will [Hegel]
+  Freiheit ist die Einsicht in die Notwendigkeit [Ger.] [Engels, Anti-Dühring I.11, on Hegel]
+  blind ist die Notwendigkeit nur, insofern dieselbe nicht begriffen wird [Ger.] [Hegel, Encyclopaedia §147 Zusatz]
+  a free spirit
+  stet pro ratione voluntas [Lat.]
+  sic volo sic jubeo [Lat.]
+  a vostro beneplacito [It.]
+  beneficium accipere libertatem est vendere [Lat.]
+  was man nicht kann meiden muss man willig leiden [Ger.]
+  ubi libertas ibi patria [Lat.]
+  free white and twenty-one

@@ -7,7 +7,7 @@ HGloss: Reflection that finds the immediate given and goes from it to its essenc
 N:
   external reflection; external reflection, outside view, outsider's view, spectator's view, third-person standpoint, detached observation, observation; reflection upon a datum, consideration of the given; comparison, collation, juxtaposition; abstraction, generalization, subsumption under rules; reflective judgment; ratiocination; armchair reasoning, mere reflection; external standpoint, view from nowhere; outside perspective, etic perspective
   contrast, identification, comparative estimate, relative estimate, relativity
-  comparison &c H0606
+  comparison &c H0625
   outer reflection, reflection upon a given, the reflection of the understanding, presupposing reflection
   externality
 

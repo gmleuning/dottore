@@ -1,0 +1,12 @@
+# 377 Disease from the Universal Subject
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › c. Genus and Individual (Disease and Death) › i. Nosology
+G: Krankheit, die vom Geist ausgeht
+Gloss: Illness that begins in the mind and passes into the body.
+HGloss: The third kind of disease, which starts in the universal subject, the mind, as when terror or grief strikes the body or a passion wears it down; here disease reaches the soul, and leads over into derangement (&c H0434).
+
+N:
+  disease from the universal subject; mental illness, psychosomatic illness, nervous disease, illness of the spirit, sickness of heart, the mind's disease passing into the body, hypochondria, nerves, nervous exhaustion, neurasthenia
+  depression, anxiety, eating disorder, addiction, burnout, trauma, PTSD, fatigue, withdrawal symptom, overdose, hangover, wasting away
+
+Adj:
+  psychosomatic, nervous, hypochondriac, neurasthenic, heartsick, careworn

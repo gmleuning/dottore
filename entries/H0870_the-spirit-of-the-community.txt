@@ -1,0 +1,42 @@
+# 870 The Spirit of the Community (Martyrdom, Repentance and Conversion, Miracles and Legends)
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › i. The Religious Domain of Romantic Art
+G: Der Geist der Gemeinde
+Gloss: The life of the believing community, with its martyrs, penitents, miracles and legends.
+HGloss: The spirit of the community, its martyrs, repentance and conversion, miracles and legends.
+
+N:
+  the spirit of the community; martyrdom, repentance and conversion, miracles and legends; martyrdom, passion, witness, the martyrs, the saints; repentance, penance, contrition; conversion, Damascus road; miracles, legends, hagiography
+  penitence, compunction, remorse, regret &c H0628
+  mortification, maceration, flagellation, penance &c H0670, lustration†
+  Magdalen, prodigal son
+  acknowledgment, confession &c H0618, apology &c H0670, recantation &c H0635, resipiscence†
+  sackcloth and ashes, shrift, purgation
+  recantation, palinode, renunciation, abjuration†, palinody†, revokement†
+  proselyte
+  the life of the congregation, miracle, legend, the lives of the saints
+
+V:
+  martyr, repent, convert, work miracles, canonize
+  be sorry for, be penitent, rue, recant &c H0635, cry peccavi
+  suffer, testify
+
+Adj:
+  martyred, penitent, converted, miraculous, legendary, hagiographic
+  repenting, repentant, contrite, conscience-stricken, self-accusing, self-convicted
+  penitential, saintly
+
+Adv:
+  miraculously, penitently
+  in penance, by miracle, in martyrdom
+
+F:
+  Latin: Legenda Aurea
+  Greek: martyrion, metanoia
+  Arabic: shahāda [martyrdom, witness], karāmāt [saints' miracles]
+  Sanskrit: prāyaścitta [penance]
+
+Phr:
+  the blood of the martyrs is the seed of the Church [proverbial]
+  semen est sanguis Christianorum [Lat.] [Tertullian, Apologeticus 50]
+  the noble army of martyrs
+  saints and miracles

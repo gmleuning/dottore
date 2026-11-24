@@ -7,7 +7,7 @@ HGloss: Measure as a standard that determines another quantum by itself.
 N:
   specifying measure; standard, rule, norm, criterion, gauge, yardstick, benchmark, touchstone, canon, model; regulation, calibration, standardization, normalization; specification, spec, tolerance
   measure
-  regularity, formula, rule &c H0702
+  regularity, formula, rule &c H0730
   pattern
   prototype
   the measuring that specifies, the application of a standard, the rule and the specified

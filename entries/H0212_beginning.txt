@@ -10,7 +10,7 @@ N:
   rudiment, cradle, infancy, nucleus, radix
   precursor, antecedent, precedent, predecessor, forerunner, vancourier†, pioneer, prodrome†, prodromos†, prodromus†, outrider, leader, bellwether, herald, harbinger, foreboding, avant-courier, avant-garde, bellmare†, forelooper†, foreloper†, stalking-horse, voorlooper [Afrik.], voortrekker [Afrik.]
   prelude, preamble, preface, prologue, foreword, protasis†, proemium†, prolusion†, proem, prolepsis [Gramm.], prolegomena, prefix, introduction, heading, frontispiece, groundwork, preparation &c H0196, overture, symphony, premises
-  prefigurement &c H0976, omen &c H0976, adytum prefiguration†
+  prefigurement &c H1071, omen &c H1071, adytum prefiguration†
   showtime
   incipit
 

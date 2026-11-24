@@ -17,8 +17,8 @@ V:
 
 Adj:
   inert, inactive, passive, dead, lifeless, torpid, sluggish, static, stationary, heavy, massy, ponderous, unresponsive, resistant, tardigrade†, lusk†, drony†, dronish†, torpedinous†, torporific†
-  torpid &c H0379, dull, flat, slack, tame, slow, blunt, unreactive, uninfluential†
-  quiescent, still, moveless, fixed, immotile, at rest at a stand, at a standstill, at anchor, stock, standing still, sedentary, untraveled, stay-at-home, becalmed, stagnant, quiet, unmoved, undisturbed, unruffled, calm, restful, cataleptic, immovable &c H0010, sleeping &c H0379, silent &c H0264, still as a statue, still as a post, still as a mouse, still as death, vegetative, vegetating
+  torpid &c H0389, dull, flat, slack, tame, slow, blunt, unreactive, uninfluential†
+  quiescent, still, moveless, fixed, immotile, at rest at a stand, at a standstill, at anchor, stock, standing still, sedentary, untraveled, stay-at-home, becalmed, stagnant, quiet, unmoved, undisturbed, unruffled, calm, restful, cataleptic, immovable &c H0010, sleeping &c H0389, silent &c H0264, still as a statue, still as a post, still as a mouse, still as death, vegetative, vegetating
   massive
   relaxing
 

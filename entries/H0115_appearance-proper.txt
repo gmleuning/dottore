@@ -15,8 +15,8 @@ V:
   appear, present, manifest, occur regularly, recur, follow a pattern
   open to the view, meet the eye, present itself, reveal itself, stand forth
   happen, occur, take place, come to pass, turn out
-  be visible, become visible &c H0391, seem, look, present the appearance of, wear the appearance of, carry the appearance of, have the appearance of, bear the appearance of, exhibit the appearance of, take the appearance of, take on the appearance of, assume the appearance, present the semblance of, wear the semblance of, carry the semblance of, have the semblance of, bear the semblance of, exhibit the semblance of, take the semblance of, take on the semblance of, assume the semblance of, look like, cut a figure, figure, present to the view, show &c H0599
-  be manifest, appear &c H0391, transpire &c H0599, speak for itself, stand to reason, stare one in the face, rear its head, give token, give sign, give indication of, tell its own tale &c H0599
+  be visible, become visible &c H0401, seem, look, present the appearance of, wear the appearance of, carry the appearance of, have the appearance of, bear the appearance of, exhibit the appearance of, take the appearance of, take on the appearance of, assume the appearance, present the semblance of, wear the semblance of, carry the semblance of, have the semblance of, bear the semblance of, exhibit the semblance of, take the semblance of, take on the semblance of, assume the semblance of, look like, cut a figure, figure, present to the view, show &c H0618
+  be manifest, appear &c H0401, transpire &c H0618, speak for itself, stand to reason, stare one in the face, rear its head, give token, give sign, give indication of, tell its own tale &c H0618
 
 Adj:
   phenomenal, apparent, empirical, observable, lawful, regular, patterned

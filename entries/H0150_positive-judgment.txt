@@ -13,8 +13,8 @@ N:
 V:
   affirm, assert, aver, avow, declare, state, maintain, posit, predicate, say yes, attest, certify
   make an assertion, have one's say, say, protest, profess
-  confirm, ratify, corroborate &c H0703
-  acknowledge, own, admit, allow, concede &c H0626
+  confirm, ratify, corroborate &c H0731
+  acknowledge, own, admit, allow, concede &c H0645
   avouch, asseverate
 
 Adj:

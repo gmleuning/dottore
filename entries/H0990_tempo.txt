@@ -1,0 +1,9 @@
+# 990 Tempo
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse
+G: Das Zeitmaß
+Gloss: The time-measure of verse: the length of syllables, their grouping into feet, and the beat that orders them.
+HGloss: Das Zeitmaß, the first element of rhythmic verse: the fixed measure of long and short syllables in time.
+
+N:
+  tempo; time-measure, quantity, duration, length, pace, movement
+  quantity

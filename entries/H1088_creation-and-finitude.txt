@@ -1,0 +1,32 @@
+# 1088 Creation and Finitude
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › b. Representation and Appearance (the Kingdom of the Son)
+G: Schöpfung und Endlichkeit
+Gloss: The making of the world, and its limitedness.
+HGloss: The creation of the world, finitude and nature, the other of God.
+
+N:
+  creation and finitude; creation, the created world, cosmogony, genesis, finitude, creatureliness, contingency, the world
+  origin &c H0137
+  the creature, creatures, creaturehood, the work of the six days, handiwork, making, origination, production, bringing-forth, the creator, the maker, the positing of the other, the other of God, the world as other, the finite world, the finite spirit, limitedness, limitation, boundedness, transience, transitoriness, perishableness, mortality, dependence, dust, clay, the realm of time, nature and finite spirit, the divine judgment, the primal division
+
+V:
+  create, make, fashion, bring forth
+  originate, produce, form, frame, shape, mould, call into being, posit, let go forth, release, beget, engender, speak into being, limit, bound, perish, pass away
+
+Adj:
+  created, creaturely, finite, contingent, mortal
+  made, formed, fashioned, originated, derivative, dependent, limited, bounded, transient, transitory, perishable, passing, fleeting, temporal, worldly, earthly, cosmogonic, creative
+
+Adv:
+  from nothing
+  out of nothing, in the beginning, finitely, contingently, in time, within limits, for a season
+
+F:
+  German: Schöpfung, Endlichkeit, Erschaffung, Kreatur, Urteil
+  Latin: creatio ex nihilo, ex nihilo, fiat, ens creatum, natura naturata, creatura
+  Greek: ktisis, kosmos, genesis
+  Hebrew: bara, bereshit
+
+Phr:
+  in the beginning God created the heaven and the earth [Bible]
+  let there be light

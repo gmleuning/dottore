@@ -15,7 +15,7 @@ N:
 V:
   limit, cap, restrict, ration, apportion, allot, quantify, fix, set, determine, bound, bracket, delimit; cut off, top out, bottom out
   measure
-  circumscribe, inclose, surround &c H0218, compass about, imprison &c H0649, hedge in, wall in, rail in, fence round, fence in, hedge round, picket, corral, incage†, encage†
+  circumscribe, inclose, surround &c H0218, compass about, imprison &c H0668, hedge in, wall in, rail in, fence round, fence in, hedge round, picket, corral, incage†, encage†
   keep within bounds
   mete, portion out, dole out
 

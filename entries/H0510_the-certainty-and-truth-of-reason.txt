@@ -1,0 +1,27 @@
+# 510 The Certainty and Truth of Reason [Tetrad]
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad]
+G: Gewissheit und Wahrheit der Vernunft
+Gloss: Reason's first assertion that the world is rational through and through.
+HGloss: Reason's assurance that its determinations are as much the determinations of things as of its own thought.
+
+N:
+  the certainty and truth of reason; rational certainty, idealism, the idealist thesis, confidence of reason, rational optimism
+  reason's assertion, the first assertion of idealism, the rationality of the world, the immediate certainty of reason, the bare assurance
+  certitude
+
+V:
+  assert, affirm, be certain, trust reason
+  assure, declare
+
+Adj:
+  certain, rational, idealist, confident, optimistic
+  assertoric, immediate
+
+Adv:
+  certainly, confidently, with assurance
+  through and through, rationally, by assertion
+
+Phr:
+  the world is my world
+  beyond reasonable doubt
+  to be sure

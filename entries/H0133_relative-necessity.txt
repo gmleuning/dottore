@@ -11,19 +11,19 @@ N:
 
 V:
   necessitate, require, entail, compel, constrain, oblige, dictate; follow necessarily, must follow, be bound to happen
-  compel &c H0649
+  compel &c H0668
   follow, be conditioned, result
 
 Adj:
   relatively necessary, conditionally necessary, hypothetically necessary, determined, conditioned, circumstantial, inevitable given, constrained, compelled; really possible, feasible, viable, practicable
   possible, in posse, conceivable
-  contingent &c H0604
+  contingent &c H0623
   impossible
   relative, conditional
 
 Adv:
   necessarily, of necessity, perforce, under the circumstances, given the conditions, as things stand
-  needs must, perforce &c H0649
+  needs must, perforce &c H0668
   consequently
   relatively
 

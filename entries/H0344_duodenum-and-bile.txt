@@ -1,0 +1,17 @@
+# 344 Duodenum and Bile
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape › iii. Digestive System
+G: Zwölffingerdarm und Galle
+Gloss: The first part of the small intestine, where bile breaks down the food.
+HGloss: The third moment of the circuit: the duodenum, where the bile, the animal's fire, masters and transforms the food.
+
+N:
+  duodenum and bile; bile, gall, choler, gall bladder, bile duct, bilious secretion
+  duodenum, jejunum, ileum
+
+Adj:
+  duodenal
+  biliary, bilious, choleric
+
+F:
+  Latin: bilis, fel
+  Greek: cholē

@@ -1,0 +1,51 @@
+# 562 The Language of Disruption
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › b. Spirit as a World › ii. Self-Alienated Spirit: Culture › 1. The World of Self-Alienated Spirit › a. Culture and Its Realm of Actuality › ii. Language as the Actuality of Culture
+G: Die Sprache der Zerrissenheit
+Gloss: Witty, cynical speech that tears apart all fixed values; the voice of a culture at odds with itself.
+HGloss: The language of disruption, the witty, torn consciousness that inverts all values and is the truth of culture.
+
+N:
+  the language of disruption; disrupted consciousness, torn consciousness, witty cynicism, scintillating wit, Rameau's nephew, persiflage, irony, sarcasm, cynicism, iconoclasm, the cutting remark, inversion of all values, transvaluation; the honest soul vs. the disrupted one
+  criticism &c H0506, invective &c H0506, envenomed tongue
+  ridicule, derision, sardonic smile, sardonic grin, irrision†, scoffing &c H0506, quiz†, banter, raillery, quizzing, asteism†
+  contumely, scurrility, scoffing, mockery, irony &c H0878, vilipendency†, exprobation†, obtrectation†
+  hiss, hoot, boo, gibe, flout, jeer, gleek†, fling, wipe, slap in the face
+  personality, libel, skit, pasquinade, roorback [U.S.]
+  the language of dismemberment, wit
+
+V:
+  disrupt, invert, mock, satirize, deride, scoff, lampoon, quip
+  have in derision, hold in derision, barrack, sneer, laugh at, niggle†, gird, turn into ridicule, burlesque &c H0878, laugh to scorn &c H0506, smoke, fool, make game of, make a fool of, make an April fool of†, play a practical joke, lead one a dance, run the rig upon, have a fling at, scout, mob
+  scoff at, point at, twit, taunt &c H0506, sneer at &c H0220, defame, find fault with, criticize, cut up, pull to pieces, pick to pieces, take exception, cavil, peck at, nibble at, carp at, be censorious, pick holes, pick a hole, make a fuss about
+  detract, derogate, decry, deprecate, depreciate, disparage, run down, cry down, backcap [U.S.], belittle, sneer at &c H0506, pick a hole in one's coat, asperse, cast aspersions, blow upon, bespatter, blacken, vilify, vilipend†, avile†, give a dog a bad name, brand, malign, muckrake, backbite, traduce, slander, calumniate, bear false witness against, speak ill of behind one's back, discommend†, exprobate†, clapperclaw†
+  taunt, snigger, laugh in one's sleeve, tease, badinage, rally, chaff, joke, roast, haze [U.S.], tehee†, fleer†, show up
+  tear apart, pervert
+
+Adj:
+  disrupted, torn, witty, cynical, sardonic, ironic, sarcastic, scintillating, iconoclastic, brilliant
+  detracting, defamatory, detractory†, derogatory, deprecatory, catty, disparaging, libelous, scurrile, scurrilous, abusive, foul- spoken, foul-tongued, foul-mouthed, slanderous, calumnious, calumniatory†, expostulatory†, minacious†, comminatory†, damnatory†, objurgatory†
+  satirical, dry, sharp, cutting, biting, severe, withering, trenchant, hard upon, censorious, critical, captious, carping, hypercritical, fastidious &c H0628, sparing of praise, grudging praise
+  derisory, derisive, mocking, ironical, quizzical, burlesque, Hudibrastic†, scurrilous &c H0506
+
+Adv:
+  cynically, wittily, sardonically
+
+F:
+  German: Zerrissenheit [torn-apartness]
+  Latin: spretae injuria formae
+  French: Le Neveu de Rameau [Diderot], mot juste, bon mot, esprit, chronique scandaleuse
+
+Phr:
+  the language of disruption is the perfect language and the true existent spirit of this whole world of culture [Hegel]
+  the wit that tears apart
+  nothing is sacred
+  a dismal universal hiss, the sound of public scorn [Paradise Lost]
+  I had rather be a dog and bay the moon than such a Roman [Julius Caesar]
+  O tempora!
+  damn with faint praise, assent with civil leer
+  and without sneering, teach the rest to sneer [Pope]
+  another lie nailed to the counter
+  cut men's throats with whisperings [B. Jonson]
+  foul whisperings are abroad [Macbeth]
+  soft-buzzing slander [Thomson]
+  virtue itself 'scapes not calumnious strokes [Hamlet]

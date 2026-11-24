@@ -7,7 +7,7 @@ HGloss: Determination, what something is in itself; constitution, what it is thr
 N:
   determination, vocation, destiny, calling, purpose, end, in-itself, inner nature; constitution, make-up, condition, state, circumstance, situation, disposition, external character, accidental nature; limit, boundary, border, bound, bourn†, frontier, edge, margin, brink, verge, rim, periphery, confines, pale, march, marches; terminus, term, horizon, ceiling, threshold, line, demarcation, delimitation, circumscription, roomage†
   habitude, diathesis†, fabric &c H0258, stamp, set, fit, mold, mould
-  category, estate, lot, mood, temper, aspect &c H0391, dilemma, pass, predicament
+  category, estate, lot, mood, temper, aspect &c H0401, dilemma, pass, predicament
   phase, position, posture, attitude, place, point, terms, regime, footing, standing, status
   bounds, enclave, curbstone†, but, reservation, termination, stint, precinct, backwoods
 

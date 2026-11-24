@@ -1,0 +1,18 @@
+# 366 Birds Whose Young Are Fed in the Nest
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata [Tetrad] › 3. Birds
+G: Nesthocker
+Gloss: Birds whose chicks are helpless and must be fed in the nest.
+HGloss: Lamarck's last four orders, whose young are fed in the nest: pigeons, perching and singing birds, birds of prey and climbers; the birds of the air proper, of song and of the hunt.
+
+N:
+  altricial birds; nidicolous birds, nestlings, columbidae, passerines, perching birds, songbirds, birds of prey, raptors, climbers
+  songbird, bird of prey, raptor, eagle, owl, hawk, raven, falcon, pigeon, finch, parrot, sparrow, mina, ani, vulture, daw, merle, starling, mockingbird, hummingbird, condor, bluebird, magpie, osprey, mavis, kingfisher, woodpecker, peregrine, firebird
+  night bird, secretary bird, honey guide, tree swift, night raven, scrub-bird, scrub bird, poll parrot, true sparrow, bee eater, jenny wren, crested swift, sea eagle, golden eagle, fish eagle, ground roller, wood swallow, spotted owl, little owl, laughing owl, great grey owl, great gray owl, barn owl, ant bird, bald eagle, hawk owl, fish hawk, chicken hawk, barred owl, hen hawk, weaver finch, chimney swift, chimney swallow, rough-legged hawk, tree sparrow
+  robin, swift, nightingale, lark, wren, oriole, philomel†, carrier pigeon
+
+V:
+  sing, warble, chirp, twitter, carol, chirrup, trill
+
+Adj:
+  passerine, aquiline, aduncous†, uncinated†
+  altricial, nidicolous, raptorial, columbine, scansorial

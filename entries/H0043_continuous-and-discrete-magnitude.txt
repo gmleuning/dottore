@@ -15,7 +15,7 @@ V:
 
 Adj:
   continuous, continual, unbroken, uninterrupted, seamless, smooth, connected, analogue, analog; discrete, discontinuous, separate, distinct, granular, grainy, particulate, atomic, digital, quantized, countable, numerable, unsevered†, unclipped†
-  continued, consecutive, progressive, gradual, serial, successive, immediate, entire, linear, in a row, unintermitting†, unremitting, unrelenting &c H0380, perennial, evergreen, constant, aoristic†, intransient†, longeval†, diuturnal†, sempervirent†, sempervirid†, unshifting†
+  continued, consecutive, progressive, gradual, serial, successive, immediate, entire, linear, in a row, unintermitting†, unremitting, unrelenting &c H0390, perennial, evergreen, constant, aoristic†, intransient†, longeval†, diuturnal†, sempervirent†, sempervirid†, unshifting†
   disjoined, disjunctive, disparate, apart, asunder, loose
   unsuccessive†, broken, interrupted, disconnected, unconnected, fitful &c H0222, spasmodic, desultory, intermitting, occasional, intermittent, alternate, recurrent &c H0222, immethodical†
   intact, undivided

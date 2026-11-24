@@ -6,10 +6,10 @@ HGloss: The one in its self-relation, which repels itself into many ones like it
 
 N:
   the one and the many; unity and plurality, unity in multiplicity, unity in diversity, multiplicity, manifold, plurality, pluralism; the problem of the one and the many; monism and pluralism; aggregation, collection, collectivity; individuals, units, members, atoms
-  multitude, numerous, numerosity, numerality, profusion &c H0694, legion, host, great number, large number, round number, enormous number, a quantity, numbers, array, sight, army, sea, galaxy, scores, peck, bushel, shoal, swarm, draught, bevy, cloud, flock, herd, drove, flight, covey, hive, brood, litter, farrow, fry, nest, crowd &c H0036, lots, all in the world and his wife, throng, black hole of Calcutta
+  multitude, numerous, numerosity, numerality, profusion &c H0714, legion, host, great number, large number, round number, enormous number, a quantity, numbers, array, sight, army, sea, galaxy, scores, peck, bushel, shoal, swarm, draught, bevy, cloud, flock, herd, drove, flight, covey, hive, brood, litter, farrow, fry, nest, crowd &c H0036, lots, all in the world and his wife, throng, black hole of Calcutta
   a number, a certain number, one or two, two or three, multitude &c H0046
   assemblage, compilation, gathering, congregation, colligation†, contesseration†, omnium gatherum
-  accumulation &c H0696, congeries, heap, mass, agglomeration, conglomeration, cumulation, acervation†, glomeration†, conglobation†, coagmentation†, rouleau†, bing†
+  accumulation &c H0718, congeries, heap, mass, agglomeration, conglomeration, cumulation, acervation†, glomeration†, conglobation†, coagmentation†, rouleau†, bing†
   majority, multiplication
   unit and units
   tons, loads, dozens, stacks, heaps

@@ -9,15 +9,15 @@ N:
   expression, exposition, demonstration
   sight, spectacle, premonstration†, scene, species, view, lookout, outlook, prospect, vista, perspective, bird's-eye view, scenery, landscape, picture, tableau, exposure, rising of the curtain, prospection†
   phase
-  extrinsicality†, objectiveness, non ego, extraneousness &c H0081, accident, phenomenon &c H0391, alienage†
-  visibility, perceptibility, manifestation &c H0599, conspicuity†, bassetting†, periscopism†
+  extrinsicality†, objectiveness, non ego, extraneousness &c H0081, accident, phenomenon &c H0401, alienage†
+  visibility, perceptibility, manifestation &c H0618, conspicuity†, bassetting†, periscopism†
   obviousness, evidentness
 
 V:
   appear, emerge, manifest, show, present, display, exhibit, disclose, reveal, come into view, come to light, surface, show up, turn up
   open to the view, meet the eye, catch the eye, produce itself, discover itself, reveal itself, expose itself, betray itself, stand forth
   make manifest, render manifest, bring into view, expose
-  be visible, become visible &c H0391, seem, present the appearance of, wear the appearance of, carry the appearance of, have the appearance of, bear the appearance of, exhibit the appearance of, take the appearance of, take on the appearance of, assume the appearance, present the semblance of, wear the semblance of, carry the semblance of, have the semblance of, bear the semblance of, exhibit the semblance of, take the semblance of, take on the semblance of, assume the semblance of, look like, cut a figure, figure, present to the view, show &c H0599
+  be visible, become visible &c H0401, seem, present the appearance of, wear the appearance of, carry the appearance of, have the appearance of, bear the appearance of, exhibit the appearance of, take the appearance of, take on the appearance of, assume the appearance, present the semblance of, wear the semblance of, carry the semblance of, have the semblance of, bear the semblance of, exhibit the semblance of, take the semblance of, take on the semblance of, assume the semblance of, look like, cut a figure, figure, present to the view, show &c H0618
   come into existence, come forth, come to pass, present itself
   show itself
 

@@ -1,0 +1,30 @@
+# 1017 Oriental Epic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › a. Epic Poetry › iii. Historical Development of Epic
+G: Das orientalische Epos
+Gloss: The epic poetry of the East.
+HGloss: The oriental epic, the Indian and Persian epics, with their measureless fantasy.
+
+N:
+  Oriental epic; Mahābhārata, Gilgamesh, the Book of Job
+  the Indian epic, the Persian epic, Shāhnāmeh, Firdausi, Vālmīki, Vyāsa, Antar, the Moallakat, the Purāṇas
+  sloka
+
+V:
+  chant, recite
+  narrate, intone, sing, amplify
+
+Adj:
+  Oriental, Sanskrit, Persian, vast
+  Eastern, Indian, Arabic, Hebrew, colossal, immeasurable, fantastic, sprawling
+  Puranic
+
+Adv:
+  in the East
+  on a vast scale, at immense length, in the Oriental manner
+
+F:
+  Persian: Shāhnāma [Ferdowsi's Book of Kings]
+  Sanskrit: Rāmāyaṇa
+
+Phr:
+  the Book of Kings [Ferdowsi]

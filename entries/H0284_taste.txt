@@ -17,7 +17,7 @@ N:
   sugar, syrup, treacle, molasses, honey, manna, confection, confectionary, sweets, grocery, conserve, preserve, confiture†, jam, julep, sugar-candy, sugar-plum, licorice, marmalade, plum, lollipop, bonbon, jujube, comfit, sweetmeat, apple butter, caramel, damson, glucose, maple sirup†, maple syrup, maple sugar, mithai†, sorghum, taffy
   nectar, hydromel†, mead, meade†, metheglin†, honeysuckle, liqueur, sweet wine, aperitif
   sugar cane, sugar beets
-  desert, pastry, pie, cake, candy, ice cream, puff, pudding &c H0347
+  desert, pastry, pie, cake, candy, ice cream, puff, pudding &c H0352
   dulcification†, dulcoration†
   sweetener, corn syrup, cane sugar, refined sugar, beet sugar, dextrose, artificial sweetener, saccharin, cyclamate, aspartame, Sweet'N Low
   acid, acidity, low pH, acetous fermentation, lactic fermentation
@@ -49,7 +49,7 @@ Adj:
   bland, void of taste, tasteless, gustless†, savorless, ingustible†, mawkish, milk and water, weak, stale, flat, vapid, fade, wishy-washy, mild, untasted†, finikin†, fingle-fangle†
   bitterish, acerb, acerbic
   unpalatable, unsweetened, unsweet†, ill-flavored, bitter as gall
-  offensive, repulsive, nasty, sickening, nauseous, loathsome, fulsome, unpleasant &c H0609, loathful†
+  offensive, repulsive, nasty, sickening, nauseous, loathsome, fulsome, unpleasant &c H0628, loathful†
   saccharine, sacchariferous†, dulcet, candied, honied†, lush, nectarious†, melliferous†, sweetened
   sweet as a nut, sweet as sugar, sweet as honey
   sickly sweet

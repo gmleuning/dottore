@@ -14,7 +14,7 @@ N:
 V:
   shine, show, appear, manifest, emanate, radiate, glow, gleam, glimmer, shimmer, irradiate; show itself, reveal itself, disclose itself
   glitter
-  seem, show &c H0599
+  seem, show &c H0618
 
 Adj:
   shining, radiant, luminous, gleaming, glowing, lustrous, manifest, phenomenal, apparent, emanant, emanative

@@ -1,0 +1,29 @@
+# 921 Exclusion of Mien
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › i. Principle of Sculpture › 2. Beautiful Sculptural Form
+G: Ausschluss des Mienenspiels
+Gloss: The leaving aside of fleeting facial expression in sculpture.
+HGloss: The exclusion of fleeting expression; the sculptural figure has no glance, no momentary mien.
+
+N:
+  exclusion of mien; impassivity, absence of expression, blank gaze, eyeless statues, the absence of the glance, calm features
+  exclusion of expression, absence of mien, facial expression, countenance, look, glance, the fleeting look, play of features, the sightless eye, the blank eye, expressionlessness
+  physiognomy
+
+V:
+  compose, still, blank
+  exclude, omit, leave out, forgo, banish, suppress, abstract from
+
+Adj:
+  impassive, expressionless, calm, composed, eyeless
+  quiescent, motionless, fixed
+  unruffled, quiet, tranquil
+  sightless, blank-eyed, unmoved, unexpressive
+
+Adv:
+  impassively
+  without expression, without glance
+
+Phr:
+  the blind eyes of the gods
+  the blind gaze of statues
+  eyes without pupils

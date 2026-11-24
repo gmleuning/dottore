@@ -1,0 +1,18 @@
+# 991 Natural Syllables
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse › 1. Tempo
+G: Natürliche Länge und Kürze der Silben
+Gloss: The natural length and shortness of syllables, by vowel or by position.
+HGloss: The natural length and brevity of syllables, given by the sounds themselves or by position, on which ancient rhythm rests.
+
+N:
+  natural syllables; long syllable, short syllable, natural length, vowel length, length by position, quantity by nature, quantity by position, breve, macron
+  syllable-length, longs and shorts, mora
+
+V:
+  lengthen, shorten
+
+Adj:
+  syllabic
+
+Phr:
+  long and short

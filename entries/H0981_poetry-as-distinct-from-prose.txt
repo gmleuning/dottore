@@ -1,0 +1,33 @@
+# 981 Poetry as Distinct from Prose
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry
+G: Das Poetische und das Prosaische
+Gloss: The difference between poetry and prose.
+HGloss: Poetry in its difference from prose.
+
+N:
+  poetry as distinct from prose; poetry versus prose, the poetic and the prosaic
+  prose, prose writer
+  prosaicism†, prosaism†, prosaist†, proser†
+  verse and prose, the prose of the world, the poetry of life, the poetic mode, the prosaic mode, distinction, contrast, antithesis, demarcation
+  prosody
+
+V:
+  distinguish
+  write prose, write in prose
+  differentiate, demarcate, set apart, tell apart, discriminate
+
+Adj:
+  poetic, prosaic
+  prosal†, prosy, unpoetic, unpoetical†
+  rhymeless†, unrhymed, in prose, not in verse
+  versified, metrical, imaginative, matter-of-fact, literal, distinct, contrasting
+
+Adv:
+  poetically, prosaically
+  in verse, by contrast
+
+Phr:
+  prose is words in their best order
+  poetry the best words in the best order [Coleridge]
+  prose and verse
+  speaking prose without knowing it

@@ -1,0 +1,22 @@
+# 993 Beat and Metre
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse › 1. Tempo
+G: Takt und Versmaß
+Gloss: The regular beat and the metres built from feet: hexameter, trimeter and the stanzas of the ode.
+HGloss: Takt and Versmaß: the regular return of the same time-measure, built from feet into lines and metres.
+
+N:
+  beat and metre; beat, bar, time, metrical pattern, dimeter, trimeter, tetrameter
+  hexameter, elegiac couplet, Sapphic stanza, Alcaic, iambic trimeter, pentameter, meter, metre, numbers
+
+V:
+  beat time, mete
+
+Adj:
+  hexametric, Sapphic, metrical
+
+Adv:
+  in hexameters
+
+Phr:
+  arma virumque cano [Lat.] [dactylic hexameter]
+  the dactylic hexameter

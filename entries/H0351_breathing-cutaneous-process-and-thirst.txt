@@ -1,0 +1,48 @@
+# 351 Breathing, Cutaneous Process, and Thirst
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process
+G: Atmen, Hautprozess und Durst
+Gloss: The animal's exchange with air and water through lungs, skin and thirst.
+HGloss: The animal's relation to air and water: breathing, the skin's process, and the feeling of thirst.
+
+N:
+  breathing, cutaneous process, and thirst; respiration, breath, breathing, inhalation, exhalation, inspiration, expiration, perspiration, sweat, transpiration, skin, hide, integument; thirst, dryness, drought, drinking, immission†, introception†
+  ingestion, imbibation†, absorption, suction
+  excretion, emanation, exudation, secretion
+  tegument, pellicle, cuticle, epidermis, shagreen†, peltry†, cordwain†, derm†
+  aridity
+  the skin process
+  birthday suit, pore, zit [Slang], pimple, spot, blackhead, whitehead, acne, freckle, mole, wart, wrinkle, crease, goosebumps, goose pimples, BO, body odour, pit stains, armpit, pits [Slang], blobber lip†, blain†, wem†
+  hair, mop, mane, locks, tresses, barnet [Cockney], thatch, beard, stubble, five o'clock shadow, body hair, pubes, fuzz, bald patch, baldness, educt†
+  dipsesis
+
+V:
+  breathe, inhale, exhale, respire, pant, gasp, sweat, perspire, thirst, drink
+  puff, wheeze, sniff, sneeze, cough
+  ingest, absorb, imbibe, breathe in
+  excern†, excrete, secrete, secern†
+  draw breath, take breath
+  exude, transude, ooze
+  sweat buckets, sweat like a pig, huff and puff, catch one's breath, be gasping, spit feathers [Brit. Coll.]
+
+Adj:
+  respiratory, breathing, cutaneous, dermal, perspiring, thirsty, parched, dry
+  cuticular, tegumentary†, loricated†, cucullate†, dermatoid†, encuirassed†, squamiferous†, tectiform†, vaginate†
+  athirst, parched with thirst, drouthy†
+  sweaty, clammy, whiffy [Brit.], spotty, zitty, pimply, freckly, hairy, hirsute, bald, gasping [Brit. Coll.], dry as a bone, adust†, arescent†, juiceless†
+  fuzzy
+
+Adv:
+  breathlessly, thirstily
+  by breath, through the skin
+  eagerly
+
+F:
+  Latin: cutis
+  Greek: derma
+  Sanskrit: prāṇa [breath], tṛṣṇā [thirst, craving]
+  Chinese: huxi [breathing; the sage breathes from his heels] [Zhuangzi]
+
+Phr:
+  as the hart panteth after the water brooks [Bible]
+  to catch one's breath
+  dying of thirst

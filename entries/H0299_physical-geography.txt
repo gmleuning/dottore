@@ -8,7 +8,7 @@ N:
   physical geography; geography, topography, physiography, geomorphology, relief, landforms, continents, oceans, mountains, ranges, plains, plateaus, valleys, rivers, watersheds, coasts, islands, peninsulas, archipelagos, deserts, steppes, tundra, chorography†
   gazetteer
   land covered with water, gulf, gulph†, bay, inlet, bight, estuary, arm of the sea, bayou [U.S.], fiord, armlet, frith†, firth, ostiary†, mouth, lagune†, lagoon, indraught†, cove, creek, natural harbor, roads, strait, narrows, Euripus, sound, belt, gut, kyles†, continental slope, continental shelf, abra†, barranca†, barranco†
-  lake, loch, lough†, mere, tarn, plash, broad, pond, pool, lin†, puddle, slab, well, artesian well, standing water, dead water, sheet of water, fish pond, mill pond, ditch, dike, dyke, dam, reservoir &c H0696, alberca†, barachois†, hog wallow [U.S.], linn†, ghyll†, aljibar†, gasometer†
+  lake, loch, lough†, mere, tarn, plash, broad, pond, pool, lin†, puddle, slab, well, artesian well, standing water, dead water, sheet of water, fish pond, mill pond, ditch, dike, dyke, dam, reservoir &c H0718, alberca†, barachois†, hog wallow [U.S.], linn†, ghyll†, aljibar†, gasometer†
   plain, table-land, face of the country, open country, champaign country†, basin, downs, waste, weary waste, desert, wild, steppe, pampas, savanna, prairie, heath, common, wold†, veldt, moor, moorland, bush, plateau &c H0221, campagna†, alkali flat, llano, mesa, mesilla [U.S.], playa, shaking prairie, trembling prairie
   meadow, mead, haugh†, pasturage, park, field, lawn, green, plat, plot, grassplat†, greensward, sward, turf, sod, heather, lea, ley, lay, grounds, maidan†, agostadero†, sordes†, argol†
   stream &c H0252, (of air) flowmeter

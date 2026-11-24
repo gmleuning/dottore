@@ -1,0 +1,29 @@
+# 886 Egyptian Temples
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › i. Symbolic Architecture › 2. Sculptural Architecture
+G: Ägyptische Tempel
+Gloss: The temple precincts of Egypt, with their avenues, courts and colonnades.
+HGloss: The Egyptian temples, avenues of sphinxes, a labyrinth of courts and halls.
+
+N:
+  Egyptian temples; Karnak, Luxor, avenue of sphinxes, pylon, hypostyle hall, propylaea, colonnade, labyrinth
+  temple complex, temple precinct, sacred precinct, propylon, forecourt, Thebes, forest of columns
+
+V:
+  build, enclose, process
+  wall, align, range, lead on
+
+Adj:
+  Egyptian, hypostyle, colossal, monumental, labyrinthine, labyrinthic†, labyrinthian†
+  huge, immense, enormous, vast, stupendous, gigantic
+  Theban, pyloned, roofless
+
+Adv:
+  between rows of sphinxes
+  in rows, in avenues, court after court
+
+F:
+  Greek: dromos
+
+Phr:
+  an avenue of sphinxes
+  temple of Karnak

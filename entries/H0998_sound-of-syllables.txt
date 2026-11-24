@@ -1,0 +1,9 @@
+# 998 Sound of Syllables
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse
+G: Der Klang der Silben
+Gloss: The sound of syllables and words in themselves, which comes forward as rhythm recedes.
+HGloss: The sound of the syllables, which gains weight as the rhythmic element recedes.
+
+N:
+  sound of syllables; sound, euphony, tone, verbal music, vowel music, word music
+  cadence

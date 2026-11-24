@@ -1,0 +1,32 @@
+# 1078 The Religion of Light (Persian)
+# Spirit › 3. Absolute Spirit › II. Religion › β. Determinate Religion › a. Immediate Religion, or Nature Religion [Tetrad] › iv. The Religions of Transition
+G: Die Religion des Guten oder des Lichts
+Gloss: The religion that worships the good as light, locked in struggle with darkness.
+HGloss: The Persian religion of light, the good as light and its struggle with darkness.
+
+N:
+  the religion of light; Persian religion, Zoroastrianism, Mazdaism, Ahura Mazda, Ormazd, Ahriman, the good and the evil principle, dualism, fire, light, Parsis
+  the religion of the good, the religion of the Parsees, the Persian religion of light, Parsism, Parseeism, Magianism, the religion of the Magi, the Zend religion, the Zend-Avesta, the Avesta, Zoroaster, Zarathustra, the Magi, the fire-worshippers, the Guebres, fire-worship, the sacred fire, the fire-temple, Mithra, Mithras, the Amshaspands, the Fravashis, the Izeds, Zervan, limitless time, the kingdom of light, the kingdom of darkness, the realm of Ormuzd, the good principle, the evil principle, the good, the pure, purity, radiance, brightness, splendour, luminosity, the sun, the stars, daylight, the dawn, the holy word, the struggle of light and darkness, the antithesis, Manichaeism, the light as the good, the natural as the good
+
+V:
+  worship light, combat darkness, tend the fire
+  shine, illumine, illuminate, enlighten, radiate, glow, kindle, purify, keep pure, serve the good, struggle, fight the evil one, oppose, overcome darkness, promote life, plant, cultivate
+
+Adj:
+  Zoroastrian, dualistic, luminous, Mazdean, Parsi
+  Persian, Zend, Avestan, Magian, Mithraic, Manichaean, Ormuzdian, Ahrimanic, light-worshipping, fire-worshipping, bright, radiant, shining, resplendent, pure, good, clean, luminiferous, solar, dual, antithetical
+
+Adv:
+  in the light
+  luminously, brightly, radiantly, purely, dualistically, in purity, by fire, toward the light, against the darkness
+
+F:
+  German: Lichtreligion, das Gute, Lichtwesen, Parsen
+  Latin: lux, ex oriente lux
+  Avestan: Angra Mainyu, aša [truth, order], druj [the lie], Ahura Mazdā, Spenta Mainyu, asha, Amesha Spenta, fravashi, ātar, Zurvan akarana
+  Korean: Baehwagyo [fire-worship, Zoroastrianism]
+
+Phr:
+  the good as light [Hegel]
+  light against darkness
+  good thoughts, good words, good deeds

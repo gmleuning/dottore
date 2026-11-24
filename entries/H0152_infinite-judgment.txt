@@ -5,7 +5,7 @@ Gloss: A judgment in which subject and predicate have nothing to do with each ot
 HGloss: The positive infinite judgment, the singular is singular, and the negative, in which subject and predicate do not fit at all: crime.
 
 N:
-  infinite judgment; nonsense judgment, absurd predication, category mistake, category error, incongruity; negatively infinite judgment, positively infinite judgment; total negation, radical negation; crime as negation of right, negation of the genus; meaninglessness, senselessness, absurdity; spirit is a bone &c H0511
+  infinite judgment; nonsense judgment, absurd predication, category mistake, category error, incongruity; negatively infinite judgment, positively infinite judgment; total negation, radical negation; crime as negation of right, negation of the genus; meaninglessness, senselessness, absurdity; spirit is a bone &c H0530
   the nonsensical judgment, the identical judgment, total incompatibility, crime as infinite judgment
 
 V:

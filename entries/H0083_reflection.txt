@@ -8,7 +8,7 @@ N:
   reflection; turning back, return, recoil, reflux, rebound, bounce, echo, reverberation, repercussion, mirroring, specularity; reflexivity, self-reference, recursion, recursivity; meditation, contemplation, consideration, deliberation, rumination, cogitation, introspection, retrospection, mulling, musing, pondering, brooding, second thoughts, afterthought, thinking twice; speculation, theory
   reaction, retroaction
   reecho
-  reconsideration, retrospection &c H0600
+  reconsideration, retrospection &c H0619
   reflexion, self-relation, return into self, the movement of essence
   rethink
 

@@ -1,0 +1,29 @@
+# 1128 Medieval Philosophy
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad]
+G: Philosophie des Mittelalters
+Gloss: The philosophy of the Christian and Islamic Middle Ages, in which thought works within a revealed religion.
+HGloss: Medieval philosophy, Christian and Arabic, the content of the faith reflected in thought.
+
+N:
+  medieval philosophy; scholasticism, Christian philosophy, Arabic philosophy, Jewish philosophy, the schoolmen, the Church Fathers, philosophy as handmaid of theology
+  mediaeval thought, philosophy of the schools, school philosophy, patristics, the Fathers and the Schoolmen, Arabian philosophy, scholastic theology, theology, the age of faith, Latin Christendom, Augustinianism, Aristotelianism, Thomism, the universities, the cathedral schools
+
+V:
+  dispute, comment, reconcile faith and reason
+  theologize, syllogize, gloss, expound, harmonize, systematize, defend doctrine, subordinate reason to faith
+
+Adj:
+  medieval, scholastic, patristic
+  mediaeval, theological, Christian, ecclesiastical, Latin, dogmatic, monkish, pre-modern, Aristotelian
+
+Adv:
+  in the Middle Ages
+  within the faith, under authority, scholastically, theologically
+
+F:
+  Latin: ancilla theologiae, philosophia ancilla theologiae, fides quaerens intellectum, medium aevum
+
+Phr:
+  philosophia ancilla theologiae [Lat.]
+  philosophy the handmaid of theology
+  the Dark Ages

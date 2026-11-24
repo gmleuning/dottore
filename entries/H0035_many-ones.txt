@@ -8,7 +8,7 @@ N:
   many ones; repulsion, self-repulsion; multiplication, proliferation, plurality, multiplicity, many, the many, manifold; dispersion, dispersal, diaspora, scattering, fragmentation, pulverization, atomization, splintering, fission; self-division, self-differentiation, diremption; fecundity, budding, gemmation
   multitude, numerosity, legion, host
   greater number, majority
-  disjunction &c H0293, divergence &c H0228, aspersion, dissemination, diffusion, dissipation, distribution, apportionment &c H0624, respersion†, circumfusion†, interspersion, spargefaction†, affusion†, interjacence†, intercurrence†, intervenience†, interlocation†, humectation†, balneation†
+  disjunction &c H0293, divergence &c H0228, aspersion, dissemination, diffusion, dissipation, distribution, apportionment &c H0643, respersion†, circumfusion†, interspersion, spargefaction†, affusion†, interjacence†, intercurrence†, intervenience†, interlocation†, humectation†, balneation†
   separation, detachment, division, subdivision
   the many units
 

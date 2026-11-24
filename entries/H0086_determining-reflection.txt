@@ -38,7 +38,7 @@ Adv:
   determinately, definitely &c adj.; by definition; categorically; as such; in so many words; strictly speaking
 
 F:
-  German: Reflexionsbestimmung, Wesenheit, Denkbestimmung, Gedankenbestimmung, Verstandesbegriff, Verstand &c H0605, wesentlich
+  German: Reflexionsbestimmung, Wesenheit, Denkbestimmung, Gedankenbestimmung, Verstandesbegriff, Verstand &c H0624, wesentlich
   Latin: terminus, principium identitatis, principium contradictionis, principium exclusi tertii, ex definitione, per se, stricto sensu, praedicabile
   French: point d'appui, prédicable
   Sanskrit: vikalpa [conceptual construction]

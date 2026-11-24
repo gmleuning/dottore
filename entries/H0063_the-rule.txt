@@ -8,12 +8,12 @@ N:
   the rule; rule, ruler, measuring rod, yardstick, metre stick, tape measure, scale, gauge, standard, unit, plumb line, level, square, chain, foot, ell, cubit, span, palm, hand, fathom, league, mile; standard weight, standard measure, weights and measures, metrology; external standard, conventional standard
   line, nail, inch, yard, rood, pole, furlong, link, arpent†, handbreadth†, jornada [U.S.], kos†, vara†
   yard measure, foot rule, compass, calipers, gage, meter, rod, check, dividers, velo†
-  normality, normalcy, normalness†, familiarity, naturalness, commonness &c H0222, customary &c H0431, oftness†, oftenness†
+  normality, normalcy, normalness†, familiarity, naturalness, commonness &c H0222, customary &c H0450, oftness†, oftenness†
   model, pattern
   prototype, original, precedent, ideal, reference, scantling, type, archetype, antitype†, protoplast, module, exemplar, example, ensample†, paradigm, lay-figure
   principle, law, order of things, normal state, natural state
   plummet
-  regularity, uniformity, constancy, routine &c H0431, formula
+  regularity, uniformity, constancy, routine &c H0450, formula
   norm, canon, criterion
 
 V:

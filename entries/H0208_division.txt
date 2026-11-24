@@ -15,7 +15,7 @@ N:
 
 V:
   divide, classify, categorize, sort, arrange, group, class, rank, grade, order, partition, subdivide, ramify, branch, dichotomize, pigeonhole, taxonomize
-  file, string together, thread, register &c H0600, catalogue, tabulate, index, graduate, digest
+  file, string together, thread, register &c H0619, catalogue, tabulate, index, graduate, digest
   dispose, place, form, put in order, set in order, place in order, set out, collocate, pack, marshal, range, size, parcel out, allot, distribute, deal, cast the parts, assign the parts, dispose of, assign places to, assort, sift, riddle, put to rights, set to rights, put into shape, put in trim, put in array, apportion
   bisect, halve, cleave dimidiate†
 

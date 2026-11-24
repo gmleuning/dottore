@@ -1,0 +1,53 @@
+# 784 The Concept of the Beautiful as Such
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty
+G: Der Begriff des Schönen überhaupt
+Gloss: The beautiful considered in its general nature.
+HGloss: The beautiful in its concept: the sensuous shining of the idea, free and infinite, which is not to be grasped by the understanding.
+
+N:
+  the concept of the beautiful as such; beauty, loveliness, comeliness, pulchritude, fairness, grace, elegance, splendour, harmony, perfection, aesthetic value, the sensuous shining of the idea
+  form, beauty unadorned, natural beauty, symmetry &c H0792, gloss, good effect, good looks, belle tournure†, trigness†, brilliancy, radiance, splendor, gorgeousness, magnificence, sublimity, sublimification†
+  the beautiful, le beau ideal
+  taste, refinement
+  gracefulness, concinnity†, Atticism†, classicalism†
+  the beautiful as such, the nature of beauty, the essence of beauty, the notion of beauty
+
+V:
+  beautify, adorn, grace, embellish, enchant, please
+  render beautiful, polish, burnish, gild &c H0805, set out
+  be beautiful, shine, beam, bloom, become one &c H0087, set off
+  charm, captivate
+  conceive, define, comprehend, determine
+
+Adj:
+  beautiful, lovely, comely, fair, graceful, elegant, exquisite, sublime, pulchritudinous
+  beauteous, handsome, gorgeous, pretty, prepossessing, attractive &c H0634, delicate, dainty, refined, personable, seemly, bonny [Scot.], good-looking, well-favored, well-made, well-formed, well- proportioned, proper, shapely, symmetrical &c H0792, harmonious &c H0275, sightly
+  charming, delightful
+  rich, superb, magnificent, grand, fine, showy, specious
+  aesthetic, conceptual, general
+  bonnie
+
+Adv:
+  beautifully, exquisitely, gracefully
+  as such, in general, in its concept
+  delicately
+
+F:
+  German: das Schöne, das sinnliche Scheinen der Idee, Schönheit, Geschmack
+  Latin: pulchritudo, sensus communis [the shared sense of taste] [Kant], gustus
+  Greek: to kalon, kallos
+  Sanskrit: rasa [aesthetic flavour]
+  Japanese: yūgen [profound grace]
+  French: beauté, sens commun
+  Italian: bellezza, gusto
+
+Phr:
+  beauty is truth, truth beauty [Keats]
+  the beautiful is the sensuous shining of the idea [Hegel]
+  beauty is in the eye of the beholder
+  auxilium non leve vultus habet [Lat.] [Ovid]
+  beauty born of murmuring sound [Wordsworth]
+  flowers preach to us if we will hear [C.G. Rossetti]
+  gratior ac pulchro veniens in corpore virtus [Lat.] [Virgil]
+  none but the brave deserve the fair [Dryden]
+  thou who hast the fatal gift of beauty [Byron]

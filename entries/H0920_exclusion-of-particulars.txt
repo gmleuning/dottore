@@ -1,0 +1,27 @@
+# 920 Exclusion of Particulars
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › i. Principle of Sculpture › 2. Beautiful Sculptural Form
+G: Ausschluss des Partikularen
+Gloss: The leaving aside of accidental detail in sculpture.
+HGloss: The exclusion of the particular, the contingent and the merely natural from the sculptural figure.
+
+N:
+  exclusion of particulars; abstraction, generalization, idealization, omission of accidentals, the typical
+  omission of detail, exclusion of the accidental, abstraction from particulars, simplification, the accidental, the contingent, the incidental, minutiae, trivia
+
+V:
+  exclude, abstract, omit, idealize
+  leave out, eliminate, discard, simplify, generalize, purge
+
+Adj:
+  abstract, typical, general, idealized
+  generalized, simplified, purged, unparticularized, universal
+  inessential, adventitious
+
+Adv:
+  typically
+  in general, without detail, simply, abstractly
+
+Phr:
+  no wart or wrinkle
+  nothing incidental
+  the clutter cut away

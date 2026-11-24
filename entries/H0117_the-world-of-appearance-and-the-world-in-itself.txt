@@ -5,7 +5,7 @@ Gloss: The world as it appears, contrasted with the world as it is in itself, ea
 HGloss: The supersensible world, which is the inverted world of appearance: what is positive in one is negative in the other.
 
 N:
-  the world of appearance and the world-in-itself; this world and the other world, the phenomenal and the noumenal, appearance and reality, the visible and the invisible, the seen and the unseen, the sensible and the supersensible; two worlds, two-world theory, dualism; inversion, reversal, mirror image, upside-down world, inverted world &c H0463; Plato's cave
+  the world of appearance and the world-in-itself; this world and the other world, the phenomenal and the noumenal, appearance and reality, the visible and the invisible, the seen and the unseen, the sensible and the supersensible; two worlds, two-world theory, dualism; inversion, reversal, mirror image, upside-down world, inverted world &c H0482; Plato's cave
   eversion, subversion, reversion, contrariety &c H0092
   opposition, polarity, inversion &c H0218, inverse, counterpart, antipodes
   the phenomenal world, the noumenal world, the world in and for itself

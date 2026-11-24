@@ -1,0 +1,31 @@
+# 487 Self-Consciousness
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness)
+G: Selbstbewusstsein
+Gloss: Awareness that has itself as its object; the self knowing itself.
+HGloss: The truth of consciousness: the I that is its own object, I = I, whose first form is desire.
+
+N:
+  self-consciousness; self-awareness, self-knowledge, reflexivity, self-reflection, self-recognition, self-relation, the I that is a we, apperception
+  the I, I am I, selfhood, the native realm of truth
+
+V:
+  know oneself, be self-aware, reflect upon oneself, recognize oneself
+  be aware of oneself, reflect, apperceive
+
+Adj:
+  self-conscious, self-aware, self-knowing, reflexive, reflective, introspective
+  meditative, contemplative
+  apperceptive
+
+Adv:
+  self-consciously, reflexively
+
+F:
+  German: Selbstbewußtsein
+  Sanskrit: ātma-jñāna [self-knowledge], sva-saṃvedana [self-awareness]
+  Korean: jagi uisik [self-consciousness]
+  French: aperception [Leibniz]
+
+Phr:
+  know thyself, gnōthi seauton [Gr.]
+  I that is We, and We that is I [Hegel]

@@ -12,7 +12,7 @@ N:
 V:
   identify, differentiate, distinguish, compare, contrast, oppose, contradict, determine
   discriminate, separate, draw the line
-  countervail, contradict &c H0599
+  countervail, contradict &c H0618
   fix, reflect
 
 Adj:

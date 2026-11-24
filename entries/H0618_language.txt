@@ -1,0 +1,182 @@
+# 618 Language (Speech and Writing)
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › b. Representation › ii. Imagination › 3. Phantasy
+G: Sprache
+Gloss: The system of signs in sound and letter by which thought is expressed.
+HGloss: The sign made audible and visible: speech, the element of the name, and writing, preferably alphabetic.
+
+N:
+  language; speech and writing; speech, tongue, idiom, vernacular, parlance, discourse, utterance, word; writing, script, alphabet, hieroglyphic writing, ideogram, letters, orthography, phonetic writing
+  phraseology, lingo, mother tongue, vulgar tongue, native tongue, household words, King's English, Queen's English, dialect, Americanism†
+  faculty of speech, locution, verbal intercourse, prolation†, oral communication, word of mouth, parole, palaver, prattle, effusion
+  letter, character, hieroglyphic, type, capitals, digraph, trigraph, ideograph, majuscule, minuscule, ABC†, abecedary†, christcross-row, Brahmi†
+  conversation, interlocution, collocution†, colloquy, converse, confabulation, commerce, dialogue, duologue, trialogue
+  interpreter, expositor, expounder, exponent, explainer, demonstrator
+  scholiast, commentator, annotator, metaphrast†, paraphrast†, glossarist†, prolocutor
+  spokesman, speaker, mouthpiece
+  dragoman, valet de place, cicerone, showman, oneirocritic†, (Edipus, oracle) &c H0584
+  messenger, envoy, emissary, legate, nuncio, internuncio†, ambassador &c H0751
+  marshal, flag bearer, herald, crier, trumpeter, bellman†, pursuivant†, apparitor†
+  courier, runner, dak†, estafette†, Mercury, Iris, Ariel†
+  errand boy, chore boy, newsboy
+  mail, overnight mail, express mail, next-day delivery, post, post office, letter bag, delivery service, United Parcel Service, UPS, Federal Express, Fedex
+  telegraph, telephone, cable, wire (electronic information transmission), carrier pigeon, cresset†
+  (news) 532 reporter, gentleman of the press, representative of the press, penny-a-liner, special correspondent, own correspondent, spy, scout, informer, mouchard†
+  grammar, accidence, syntax, praxis, punctuation, parts of speech, jussive†, syllabication, inflection, case, declension, conjugation, Lindley Murray &c H0707, correct style, philology
+  solecism, bad grammar, false grammar, slip of the pen, slip of the tongue, slipslop†, bull, barbarism, impropriety, haplography†, Irishism†, Hibernicism†, caconym†, discommodity†
+  allocution, alloquy†, apostrophe, interpellation, appeal, invocation, salutation, word in the ear, impetration†, imploration†, obsecration†, obtestation†
+  dialogism†
+  platform &c H0707, plank, audience
+  see Answer 462
+  printing, block printing, type-printing, plate printing &c H0948 (engraving), the press, composition
+  print, letterpress, text, context, page, column, rouleau†
+  typography, stereotype, electrotype, aprotype†, black letter, font, fount, pi, pie, brevier†, bourgeois, pica boldface, caps, catchword, composing-frame, composing room, composing rule, composing stand, composing stick, italics, justification, linotype, live matter, logotype, lower case, upper case, make-up, matrix, matter, monotype†, 4-1/2 point, 5 point, 5-1/2 point, 6 point, 7 point, 8 point, press room, press work, reglet†, roman, running head, running title, scale, serif, shank, sheet work, shoulder, signature, slug, underlay, sublineation†
+  folio, copy, impression, pull, proof, revise, author's proof, galley proof, press proof, press revise
+  printer, compositor, reader, printer's devil copyholder
+  correspondence, epistle, note, billet, post card, missive, circular, favor, billet-doux, chit, chitty†, letter card, picture post card, postal [U.S.], card, despatch, dispatch, bulletin, these presents, rescript, rescription†, pigmy†, pigwidgeon†, countercheck†, countermark†, dib†, tessera†
+  booklet, work, volume, tome, opuscule†, tract, tractate†, livret†, brochure, libretto, handbook, codex, manual, pamphlet, enchiridion†, publication, chap book, Baedeker†, tractation†
+  part, issue, portfolio, periodical, serial, magazine, ephemeris, annual, journal
+  paper, bill, sheet, broadsheet†, leaf, leaflet, fly leaf, quire, ream
+  chapter, section, head, article, paragraph, passage, clause, endpapers, frontispiece, cover, binding
+  quarto, octavo, duodecimo†, sextodecimo†, octodecimo†, parvitude†, parvity†, Hop-o'-my-thumb†, dapperling†
+  encyclopedia, encompilation†
+  library, bibliotheca†
+  press
+  definitive work, treatise, comprehensive treatise
+  writer, author, essayist, journalism, pen, scribbler, the scribbling race, literary hack, Grub-street writer, writer for the press, adjective jerker†, diaskeaust†, ghost, hack writer, ink slinger, publicist, reporter, penny a liner, editor, subeditor†, playwright &c H1044, poet &c H0980, intelligencer†
+  bookseller, publisher, bibliopole†, bibliopolist†, librarian, bookstore, bookshop, bookseller's shop
+  knowledge of books, bibliography, book learning
+  compend, compendium, precis, epitome, analysis, pandect†, digest, sum and substance, brief, abridgment, summary, apercu, draft, minute, excerpt, synopsis, textbook, conspectus, outlines, syllabus, contents, heads, prospectus
+  album, scrap book, note book, memorandum book, commonplace book, extracts, excerpta†, cuttings, fugitive pieces, fugitive writing, spicilegium†, flowers, anthology, collectanea†, analecta†, compilation, dottings†
+  recapitulation, resume, review
+  abbreviation, abbreviature†, contraction, shortening &c H0220, compression &c H0218
+  phone, return, code, radio, option, television, blog, drama, novel, literature, ticket, papers, resolution, license, document, heading, legend, fiction, iPhone, treaty, invite, franchise, certificate, editing, poem, warrant, copyright, essay, charter, permit, scenario, patent, cancel, invitation, diary, myth, smartphone, ballot, finale, supplement, headline, insert, adaptation, spelling, manga, mandate, manuscript, thriller, header, saga, judgement, coupon, typing, statute, critique, decree, prohibition, diploma, deed, cue, storyline, credentials, authorization, pact, covenant, macro, transcript, indictment, dissertation, manifest, cellphone, pedal, fiat, doquet†, timbrology†, orthograph†, phonography†, anagrammatism†, metagrammatism†, denization†, hukm†, Encratism†
+  impeachment, telecom, handwriting, concession, transcription, screenplay, inscription, appendix, paycheck, dissolve, cheque, autograph, rewrite, notation, flashback, estimation, questionnaire, postcard, preface, affidavit, subpoena, voicemail, ode, writ, invoice, prologue, plagiarism, firmware, lettering, devise, clipping, slur, revising, telecommunication, shorthand, probate, monograph, rewriting, foreword, capitalization, parable, toggle, novella, haiku, paraphrase, handset, allegory, calligraphy, stave, escrow, backdoor, authorisation, escalator, stanza, postcode, sexting, sonnet, erasure, sutra, recitation, cursive, capitulation, telephony, addendum, preamble, overdraft, overestimate, epitaph, historiography, arraignment, punchline, multiplex, credential, coda, trill, scribble, excision, lithography, elegy, scrip, metaphrase†, rasure†, circumduction†, cacography†, griffonage†, barbouillage†, chronography†, decretal†, placit†, hatti- sherif†, latitat†, surrebutter†, surrejoinder†
+  written language, written communication, electronic communication, telephone set, pay-phone, written text, pay-station, written material, reading material, digital communication, data communication, electronic mail, extension phone, desk phone, telephone extension, wireless telephone, dial telephone, dial phone, command prompt, electronic messaging, phone call, legal code, health code, fire code, building code, writing system, call waiting, secret writing, religious writing, religious text, mobile phone, dress code, voice mail, small print, fine print, written document, telephone call, dramatic work, dramatic composition, literary work, literary criticism, literary composition, printing process, sacred writing, sacred text, junk e-mail, cellular telephone, cellular phone, coding system, sanitary code, call forwarding, phonetic transcription, asynchronous transfer mode, call-back, service book, local call, end matter, back matter, front matter, phonorganon†, brachygraphy†, tachygraphy†, pasigraphy†, Polygraphy†, logography†
+  above, aside, chat, posting, logo, menu, poster, lineup, tab, coding, folder, arranging, empowerment, headphone, carte, limerick, giro, annotation, earphone, guillemets†
+  email, e-mail, text message, texting, messaging, notification, link, thread, retweet, hashtag, meme, emoji, emoticon, GIF, selfie, blogger, vlogger, podcast, podcaster, newsletter, subscriber, inbox, spam, video call, facetime, group chat
+  glottology, glossology†, chrestomathy†, paleology†
+  unmeaningness†, pseudology†, neologist†, gastriloquism†, polyphonism†, polyphonist†
+
+V:
+  speak, talk, utter, express, articulate, pronounce, write, inscribe, spell
+  breathe, give utterance, give tongue, cry &c H0264, ejaculate, rap out, vocalize, prolate†, enunciate, accentuate, aspirate, mouth, whisper in the ear, jaculate†
+  break silence, open one's lips, open one's mouth, lift one's voice, raise one's voice, give the tongue, wag the tongue, outspeak†, put in a word or two, hold forth, make a speech, deliver a speech, speechify, harangue, declaim, stump, flourish, recite, lecture, sermonize, be on one's legs, have one's say, say one's say, spout, rant, rave, vent one's fury, vent one's rage, expatiate, speak one's mind, go on the stump, take the stump [U.S.]
+  speak of, say, deliver, give utterance to, utter forth, pour forth, let fall, come out with, blurt out have on one's lips, have at the end of one's tongue, have at the tip of one's tongue
+  phrase, word it, give words to, give expression to, voice, arrange in words, clothe in words, put into words, express by words, couch in terms, find words to express, speak by the card, call, denominate, designate, dub
+  parse, punctuate, syllabicate†
+  use bad grammar, faulty grammar, solecize†, commit a solecism, murder the King's English, murder the Queen's English, break Priscian's head
+  speak to, address, accost, make up to, apostrophize, appeal to, invoke, ball, salute, call to
+  take aside, take by the button, talk to in private
+  Int, soho!†, halloo, hey, hist
+  compose, put to press, go to press, pass through the press, see through the press, publish, bring out, appear in print, rush into print, distribute, makeup, mortise, offset, overrun, rout
+  correspond with, write to, send a letter to, keep up a correspondence
+  abridge, abstract, epitomize, summarize, make an abstract, prepare an abstract, draw an abstract, compile an abstract
+  recapitulate, skim, run over, sum up
+  abbreviate &c H0220, condense &c H0218, compile &c H0036
+  emphasize
+  message, DM [Slang], tweet, repost, share, like, comment, reply, tag, subscribe, unsubscribe, follow, unfollow, unfriend, block, mute, troll, livestream, stream, vlog, ring [Brit. Coll.], buzz [Coll.]
+  doomscroll [Slang], scroll, swipe
+  dissert upon a subject†
+
+Adj:
+  linguistic, verbal, oral, spoken, written, scriptural, alphabetic, ideographic, phonetic
+  speaking, not written, unwritten, outspoken, eloquent, elocutionary, oratorical, rhetorical, declamatory, grandiloquent &c H0987, talkative, Ciceronian, nuncupative, Tullian, unbreathed†, untalked of†, unproclaimed†, altiloquent†, linguacious†, multiloquous†, largiloquent†
+  vocal, ejaculatory, distinct, stertorous, euphonious &c H0969
+  in black and white, under one's hand
+  lingual, dialectic, current, bilingual, diglot†, hexaglot†, polyglot, literary
+  ungrammatical, incorrect, inaccurate, faulty, improper, incongruous, solecistic, solecistical†
+  printed, in type, typographical, solid in galleys
+  epistolary
+  compendious, synoptic, analectic†, abridged, variorum†
+  alphabetical, multilingual, majuscular†, minuscular†
+  cadastral†, inconcealable†, hight†, admonitive†
+
+Adv:
+  verbally, orally, in writing, in so many words
+  in short, in epitome, in substance, in few words
+  in words
+  into the realms supersensible†
+
+F:
+  German: Rede und Schrift, Sprachgefühl [feel for language], Paronym, nachbenannt, Vollziehung, dolmetschen, übersetzen, übertragen, überliefern, Wort
+  Latin: lingua, us et norma loquendi, lapsus linguae, multum in parvo, homonyma, aequivoca, synonyma, univoca, eloquium, loquela, idioma, locutio, sermo, oratio, denominativum, actus exercitus, vertere, convertere, exprimere, reddere, transferre, interpretari, imitari, traducere, vox, verbum, dictio, muttum, pars orationis, vocabulum
+  Greek: logos, homōnyma, synōnyma, glōssa, idiōma, parōnymos, epideixis, hermēneuein, metaballein, metaphrazein, metapherein, metagraphein, metharmozein, onoma, rhēma, lexis
+  French: langue and parole [Saussure], parlementaire, commissionaire, number livraison, litterateur, abrege, synchronie, diachronie [Saussure], énoncé, énonciation [the statement and the act of stating] [Benveniste, Foucault], langage, paronyme, acte de langage, traduire, mot
+  Korean: Hangeul [the Korean alphabet], mal [speech], geul [writing]
+  Catalan: llengua, lenguatge, parla
+  Italian: linguaggio, favella, parlare, denominativo, parola
+  Portuguese: língua, linguagem, falar, palavra
+  Romanian: limba, limbaj, vorbire, cuvânt
+  Russian: yazyk, rech', slovo
+  Spanish: lengua, lenguaje, habla(r), palabra
+
+Phr:
+  the limits of my language mean the limits of my world [Wittgenstein]
+  verba volant, scripta manent [Lat.] [spoken words fly, written words remain]
+  he that runs may read
+  it's Greek to me
+  on the one hand, on the other hand
+  cela saute aux yeux [Fr.]
+  you can see it with half an eye
+  it needs no ghost to tell us [Hamlet]
+  the meaning lies on the surface
+  cela va sans dire [Fr.]
+  res ipsa loquitur [Lat.]
+  clothing the palpable and familiar [Coleridge]
+  fari quae sentiat [Lat.]
+  volto sciolto i pensieri stretti [It.]
+  you don't need a weatherman to know which way the wind blows [Bob Dylan]
+  a little bird told me
+  I heard it through the grapevine
+  quoth he
+  dixi [Lat.]
+  there never was a greater mistake
+  I know better
+  non haec in faedera [Lat.]
+  a thousand times no
+  excitabat enim fluctus in simpulo [Lat.] [Cicero]
+  exegi monumentum aere perennium [Horace]
+  read their history in a nation's eyes [Gray]
+  records that defy the tooth of time [Young]
+  delenda est Carthago [Lat.] [Cato]
+  syllables govern the world [Selden]
+  the artillery of words [Swift]
+  beggar'd all description [Antony and Cleopatra]
+  le style c'est de l'homme [Buffon]
+  style is the dress of thoughts [Chesterfield]
+  brevis esse laboro obscurus fio [Lat.] [Horace]
+  thoughts that breath and words that burn [Gray]
+  how sweetly sounds the voice of a good woman [Massinger]
+  the organ of the soul [Longfellow]
+  thy voice is a celestial melody [Longfellow]
+  vox faucibus haesit [Lat.] [Virgil]
+  quoth he, said he
+  action is eloquence [Coriolanus]
+  pour the full tide of eloquence along [Pope]
+  she speaks poignards and every word stabs [Much Ado About Nothing]
+  speech is but broken light upon the depth of the unspoken [G. Eliot]
+  to try thy eloquence now 'tis time [Antony and Cleopatra]
+  the tongue running fast, the tongue running loose, the tongue running on wheels
+  all talk and no cider
+  foul whisperings are abroad [Macbeth]
+  what a spendthrift is he of his tongue! [Tempest]
+  cave quid dicis quando et cui [Lat.]
+  with thee conversing I forget all time [Paradise Lost]
+  audacter et sincere [Lat.]
+  le style est l'homme meme [Fr.]
+  nature's noblest gift - my gray goose quill [Byron]
+  scribendi recte sapere et principium et fons [Lat.] [Horace]
+  that mighty instrument of little men [Byron]
+  the pen became a clarion [Longfellow]
+  furor scribendi [Lat.]
+  among the giant fossils of my past [E. B. Browning]
+  craignez tout d'un auteur en courroux [Fr.]
+  for authors nobler palms remain [Pope]
+  I lived to write and wrote to live [Rogers]
+  look in thy heart and write [Sidney]
+  there is no Past so long as Books shall live [Bulwer Lytton]
+  the public mind is the creation of the Master-Writers [Disraeli]
+  volumes that I prize above my dukedom [Tempest]
+  it lies in a nutshell
+  avec permissin [Fr.]
+  brevet d'invention [Fr.]

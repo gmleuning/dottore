@@ -1,0 +1,32 @@
+# 1104 Indian Philosophy
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy [Tetrad] › a. Oriental Philosophy
+G: Indische Philosophie
+Gloss: Thought aimed at release from the world of change through union with the one reality.
+HGloss: Indian thought, which seeks the liberation of the soul from the world of change.
+
+N:
+  Indian philosophy; Vedānta, Sāṃkhya, Yoga, Nyāya, Vaiśeṣika, Mīmāṃsā, Buddhist philosophy, Jaina philosophy, Cārvāka, Śaṅkara, Nāgārjuna
+  Hindu philosophy, Indian thought, philosophy of the Hindus, the six systems, the six orthodox schools, the orthodox and heterodox schools, the Vedas, the Upaniṣads, the Bhagavad Gītā, the sūtras, non-dualism, Rāmānuja, Madhva, Patañjali, Kapila, Gautama, Mahāvīra, the Buddha, Vasubandhu, Dignāga, Kumārila, the guru, the sage, the seer, the ascetic
+  Brahman, the Self, the Absolute, the One, abstract unity, intellectual substantiality [Hegel], release, liberation, deliverance, emancipation, extinction, absorption, union, the wheel of rebirth, transmigration, illusion, ignorance, the veil of Māyā
+  meditation, contemplation, concentration, austerity, renunciation
+  moksha, darshana, Vedanta
+
+V:
+  inquire, meditate, discriminate
+  contemplate, renounce, withdraw, concentrate, abstract, practise austerities, seek release, unite, merge, be absorbed, realize the Self, liberate, pierce the veil, yoke, extinguish, transcend
+
+Adj:
+  Indian, Vedantic, Advaitic, Buddhist, Jaina
+  Hindu, Brahmanical, Vedic, Upanishadic, Sāṃkhyan, yogic, non-dualist, monistic, soteriological, contemplative, meditative, ascetic, renunciant, world-denying, liberative, orthodox, heterodox, Sanskritic
+
+Adv:
+  in the darśanas
+  in the Indian manner, by meditation, by renunciation, non-dualistically, contemplatively, ascetically, toward release
+
+F:
+  Sanskrit: darśana [the schools], āstika and nāstika [orthodox and heterodox], Advaita [non-dualism], mokṣa, mukti, nirvāṇa, saṃsāra, karma, māyā, avidyā, jñāna, ātman, tat tvam asi, neti neti, yoga, tapas, dhyāna, samādhi, śūnyatāvāda [the doctrine of emptiness]
+  Korean: haetal [liberation]
+
+Phr:
+  neti neti [Skt.] [not this, not this] [Brihadaranyaka Upanishad]
+  release from rebirth

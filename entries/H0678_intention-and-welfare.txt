@@ -1,0 +1,38 @@
+# 678 Intention and Welfare
+# Spirit › 2. Objective Spirit › II. Morality
+G: Absicht und Wohl
+Gloss: The purpose behind a deed, and the good of the one who does it.
+HGloss: The universal side of the deed, the intention, and the particular content that is the subject's welfare.
+
+N:
+  intention and welfare; intention, motive, aim, goal; welfare, well-being, good, interest, happiness, prosperity
+  final cause, object, end, drift &c H0618, tendency &c H0388, destination
+  good &c H0680, comfort, ease
+  benefit, advantage, greatest good, supreme good, behoof, behalf, weal, common weal
+  the agent's good, particular interest
+  prudential
+
+V:
+  intend, aim, mean, seek one's welfare
+  purpose, design, propose to oneself, have in view, have in contemplation
+
+Adj:
+  intentional, motivated, beneficial, welfare-oriented
+  purposive
+
+Adv:
+  intentionally, for one's welfare
+  with intent, on purpose, for one's good
+
+F:
+  Latin: cui bono, summum bonum, prudentia
+  French: raison d'etre, prudentiel, prudence
+  Arabic: maṣlaḥa [welfare]
+  Sanskrit: yogakṣema [welfare]
+  German: Klugheit
+  Greek: phronēsis
+
+Phr:
+  actions are judged by intentions, innamā al-aʿmālu bi-l-niyyāt [Ar.] [Hadith]
+  the road to hell is paved with good intentions
+  to mean well

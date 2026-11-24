@@ -8,9 +8,9 @@ N:
   place; location, position, situation, site, spot, point, station, seat, locale, locality, venue, whereabouts, address; here-now; placement, emplacement, positioning; place as boundary of the containing body [Aristotle]
   ground, bearings &c H0228
   status, latitude and longitude, footing, standing, standpoint, stage, aspect, attitude, posture, pose
-  lieu, dot, niche, nook &c H0267, hole, pigeonhole, compartment, premises, precinct, area, courtyard, square, abode &c H0676, coign†, fontanel†, transforation†
+  lieu, dot, niche, nook &c H0267, hole, pigeonhole, compartment, premises, precinct, area, courtyard, square, abode &c H0695, coign†, fontanel†, transforation†
   displacement, elocation†, transposition
-  ejectment &c H0228 [Obs.], exile &c H0489, removal &c H0228
+  ejectment &c H0228 [Obs.], exile &c H0508, removal &c H0228
   misplacement, dislocation &c H0186, fish out of water
   locating
   ubiety, ubiquitariness†

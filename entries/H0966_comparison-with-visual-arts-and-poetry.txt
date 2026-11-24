@@ -1,0 +1,29 @@
+# 966 Comparison with Visual Arts and Poetry
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 1. General Character of Music
+G: Vergleich mit den bildenden Künsten und der Poesie
+Gloss: How music differs from the visual arts and from poetry.
+HGloss: Music compared with the visual arts and poetry.
+
+N:
+  comparison with visual arts and poetry; music and architecture, music and poetry, the sister arts
+  music and painting, music and sculpture, the arts compared, parallel, analogy, contrast, difference, affinity
+
+V:
+  compare
+  liken, distinguish, differentiate, set beside
+
+Adj:
+  comparative
+  contrastive, analogous, distinct, akin
+
+Adv:
+  by comparison
+  comparatively, in comparison, by contrast, side by side
+
+F:
+  Latin: ut pictura poesis
+  Italian: paragone
+
+Phr:
+  architecture is frozen music
+  painting is silent poetry

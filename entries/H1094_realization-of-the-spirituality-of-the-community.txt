@@ -1,0 +1,34 @@
+# 1094 Realization of the Spirituality of the Community
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › c. Community and Spirit (the Kingdom of the Spirit)
+G: Realisierung der Geistigkeit der Gemeinde
+Gloss: The making real of the community's spiritual life in the world.
+HGloss: The realization of the spirituality of the community in the world, in ethical life and in thought.
+
+N:
+  realization of the spirituality of the community; the spirit in the world, ethical life, the secular realization of religion, the Reformation, philosophy as the community's understanding
+  realization, actualization, embodiment, the realized community, the kingdom of God on earth, the worldly realm, the world, worldliness, secularity, secularization, the state, the ethical state, the institutions, freedom realized, the reconciliation of religion and world, the Protestant principle, the free conscience, spirit in actuality, the worldly existence of spirit, the consecration of the worldly, the hallowing of everyday life, vocation, calling, work in the world, marriage family and state, culture, enlightenment, the thinking of faith, the laity, the priesthood of all believers
+  sanctification
+
+V:
+  realize, secularize, actualize
+  embody, make real, bring into the world, carry into the world, incarnate, institutionalize, reconcile, permeate, penetrate, leaven, transform, reform, laicize, hallow, sanctify the secular, come down to earth, work out
+
+Adj:
+  actualized, secular, ethical, reformed
+  lay, laical, civil, temporal, profane
+  realized, embodied, worldly, mundane, this-worldly, intramundane, terrestrial, earthly, Protestant, institutional, reconciled, practical, concrete, effective, free
+
+Adv:
+  in the world
+  actually, concretely, practically, secularly, temporally, in actuality, on earth, here below, in ethical life, in state and society
+
+F:
+  German: Verwirklichung, Weltlichkeit, Sittlichkeit, Beruf
+  Latin: saeculum, regnum Dei, officium, professio, vocatio
+  French: métier
+  Greek: ergon, ponos, klēsis
+  Hebrew: tafqid
+
+Phr:
+  the kingdom of God is within you [Bible]
+  faith working through love

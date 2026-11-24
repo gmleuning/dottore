@@ -7,7 +7,7 @@ HGloss: The actual as only possible, which might as well not be: contingency, wh
 N:
   contingency; chance, accident, hazard, fortuity, fortuitousness, randomness, luck, happenstance, coincidence, serendipity, fluke, toss-up, lottery, roll of the dice, accident of history; possibility, formal possibility, logical possibility, conceivability, the possible, what might have been; formal actuality, formal necessity; fortune, fate &c
   indetermination, hap, chance medley, contingence, adventure, hit, equal chance, turn of the table, turn of the cards, hazard of the die, chapter of accidents, fickle finger of fate, cast of the dice, throw of the dice, heads or tails, flip of a coin, wheel of Fortune, sortes†, sortes Virgilianae†, raccroc†, tombola†, sortilegy†, sortition†
-  lot, fate &c H0134, good luck &c H0661
+  lot, fate &c H0134, good luck &c H0680
   opportunity, tempestivity†
   adventitiousness
 
@@ -18,7 +18,7 @@ Adj:
   contingent, accidental, fortuitous, chance, random, haphazard, aleatory, aleatoric, adventitious, casual, incidental, coincidental, serendipitous, arbitrary, unforeseen, unpredictable; possible, conceivable, thinkable, imaginable, feasible; could-have-been-otherwise
   causeless, uncaused, undetermined, indeterminate, statistical, driftless†, designless†
   derived from without, objective, extrinsic, extrinsical†, extraneous &c H0081, modal, ascititious†, adscititious†, nonessential
-  unintentional, unintended, not meant, undesigned, purposed, unpremeditated &c H0613, uncontemplated, never thought of
+  unintentional, unintended, not meant, undesigned, purposed, unpremeditated &c H0632, uncontemplated, never thought of
   on the cards, within range of, at the mercy of
   in the cards, on the dice, in posse, within the bounds of possibility, credible, compatible &c H0087, likely
   circumstantial, given, conditional, provisional, critical, adventitious &c H0081, limitative†

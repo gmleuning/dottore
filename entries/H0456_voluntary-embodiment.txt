@@ -1,0 +1,29 @@
+# 456 Voluntary Embodiment
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › γ. Actual Soul
+G: Willkürliche Verleiblichung
+Gloss: The body's expression of the soul as willed.
+HGloss: The soul's deliberate shaping of the body as its sign and instrument.
+
+N:
+  voluntary embodiment; deliberate expression, voluntary movement, controlled bearing, cultivated manner, poise, deportment, demeanour
+  willed expression, voluntary expression, intentional gesture, deliberate bearing, the body as instrument, the upright posture, the hand
+
+V:
+  express, gesture, carry oneself, comport oneself
+  bear oneself, behave oneself, demean oneself, conduct oneself
+  express at will, command the body
+
+Adj:
+  voluntary, deliberate, intentional, cultivated, controlled
+  intended
+  willed
+
+Adv:
+  deliberately, intentionally
+  designedly, purposely, deliberately &c H0675
+  voluntarily, at will
+
+Phr:
+  suit the action to the word, the word to the action [Hamlet]
+  to compose one's features
+  body language

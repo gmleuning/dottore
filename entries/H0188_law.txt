@@ -8,7 +8,7 @@ N:
   law; law of the system, governing principle, organizing principle, regulative principle, rule, order, regulation, norm, constitution, code; immanent law, internal order; regularity &c H0116
   principle, order of things, normal state, natural state
   canon, formula
-  statute, canon &c H0702, ordinance
+  statute, canon &c H0730, ordinance
   ordering principle, free necessity
   lawfulness
   thirdness [Peirce]

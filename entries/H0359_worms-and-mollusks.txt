@@ -1,0 +1,34 @@
+# 359 Worms and Mollusks
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology)
+G: Würmer und Mollusken
+Gloss: Soft-bodied animals without a backbone.
+HGloss: The lower animals, in which the systems are not yet developed: worms, mollusks, the shelled animals.
+
+N:
+  worms and mollusks; invertebrates, worms, annelids, earthworms, leeches, molluscs, snails, slugs, clams, mussels, oysters, octopuses, squid, cephalopods, shellfish
+  Mollusca, the soft animals
+  worm, snail
+  oyster, slater, clam, leech, conch, abalone, krill
+  seed shrimp, ribbon worm, beard worm, sea cradle, parasitic worm, segmented worm, mussel shrimp, spiny-headed worm, ear-shell, bubble shell, tooth shell, fairy shrimp, ark shell, sea hare, water flea, sea slug, wheat eel, blood clam, hermit crab, mantis shrimp, mantis crab, brine shrimp, tusk shell, tropical prawn, pearly nautilus, chambered nautilus, fish louse, blue point, sea-ear, knife-handle, moon shell, sea mouse, skeleton shrimp, pistol shrimp, red worm, fishing worm, swimming crab, stone crab, spider crab, soft-shell crab, rock crab, hard-shell crab, garden snail, true lobster, rock lobster, vinegar worm, edible snail, window oyster, seed oyster, saddle oyster, pearl oyster, pea crab, dew worm, sand hopper, snapping shrimp, sea slater, sand flea, beach flea, scorpion shell, vinegar eel
+  wiggle
+  annelid, mollusc
+
+V:
+  crawl, creep, burrow, wriggle
+
+Adj:
+  invertebrate, vermiform, vermicular, molluscan, testaceous, spineless, anguill†
+  snake-like, serpentine, tortile†, tortive†, anfractuous†, reclivate†, rivulose†, scolecoid†, spiriferous†, spiroid†, daedalian†
+  soft-bodied, boneless
+
+Adv:
+  at a snail's pace
+  sluggishly
+
+F:
+  Latin: vermes
+
+Phr:
+  the worm turns
+  to worm one's way
+  to come out of one's shell

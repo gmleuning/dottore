@@ -1,0 +1,33 @@
+# 478 Necessity
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › c. Force and the Understanding
+G: Notwendigkeit
+Gloss: The understanding's grasp of what must be.
+HGloss: The necessity which the understanding finds in its laws.
+
+N:
+  necessity; lawful necessity, explanatory necessity, causal necessity, nomic necessity, must, the must-be of law
+  inner necessity, compulsion of the concept, inevitability, lawfulness, the necessary connection
+
+V:
+  necessitate, compel, require
+  force, constrain, oblige
+  destine, predestine, preordain
+  follow necessarily
+
+Adj:
+  necessary, lawful, nomic, compelled, inevitable
+  apodictic
+
+Adv:
+  necessarily, by law, of necessity
+  of course, needs must, perforce &c H0668, willy nilly
+  consequently
+
+F:
+  Latin: nolens volens
+  French: vérités de raison [Leibniz]
+
+Phr:
+  it had to happen
+  as a matter of course
+  it stands to reason

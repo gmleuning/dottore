@@ -1,0 +1,31 @@
+# 1057 Drama Proper (Schauspiel)
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › iii. Genres of Dramatic Poetry › x. Principles of the Dramatic Genres
+G: Das Schauspiel
+Gloss: Drama that reconciles the tragic and the comic; serious drama with a peaceful ending.
+HGloss: Drama proper, which reconciles the tragic and the comic.
+
+N:
+  drama proper; serious drama, tragicomedy, bourgeois drama, the problem play, reconciliation drama
+  the play, the serious play, the middle genre, the mixed genre, the intermediate kind, the drama of reconciliation, the modern play, the social drama, the drama of sentiment, sentimental comedy, the tearful comedy, bourgeois tragedy, domestic drama, domestic tragedy, the melodrama, the romance [dramatic], the pastoral drama, the satyr play, the happy ending, the peaceful ending, the bloodless resolution, the conciliatory close, the averted catastrophe, mediation of tragic and comic, the blunting of opposition, the harmony of interests, accommodation, compromise, settlement, the Eumenides, Philoctetes, Nathan the Wise, Kotzebue, Iffland
+
+V:
+  reconcile, resolve
+  mediate, conciliate, harmonize, compose, settle, adjust, accommodate, blend, mingle, mix, temper, soften, blunt, avert the catastrophe, end happily, end peacefully, come to terms, make peace, forgive, relent
+
+Adj:
+  tragicomic, serious, reconciling
+  mixed, mingled, intermediate, middle, mediating, conciliatory, harmonizing, peaceful, happy-ending, bloodless, earnest, grave, sober, sentimental, domestic, bourgeois, melodramatic, tempered, softened, resolved
+
+Adv:
+  tragicomically
+  seriously, earnestly, conciliatorily, peacefully, happily, bloodlessly, midway between tragedy and comedy, without catastrophe, to a happy issue
+
+F:
+  German: Drama, bürgerliches Trauerspiel, Rührstück, Versöhnung
+  Latin: tragicomoedia
+  French: drame, drame bourgeois, comédie larmoyante, tragi-comédie, pièce à thèse, pièce bien faite
+
+Phr:
+  Iphigenia in Tauris [Goethe]
+  tears and laughter
+  the middle kind

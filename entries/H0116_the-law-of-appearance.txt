@@ -6,11 +6,11 @@ HGloss: The quiet image of appearance: what remains identical in the flux, the r
 
 N:
   the law of appearance; law, natural law, law of nature, physical law, scientific law, regularity, uniformity, pattern, constancy, invariance, rule, principle, formula, equation; the stable in the unstable, the permanent in the changing; kingdom of laws, realm of laws
-  system, rule &c H0702
+  system, rule &c H0730
   symmetry
   order of things
   norm
-  golden rule &c H0702, settled principle
+  golden rule &c H0730, settled principle
   even tenor
   the law of the phenomenon, the abiding, the tranquil image of appearance
   lawfulness

@@ -6,11 +6,11 @@ HGloss: The exclusive preference of one measure for another among the series, an
 
 N:
   elective affinity of measures; affinity, attraction, attractiveness, preference, predilection, partiality, inclination, bent, propensity, tendency, sympathy, rapport, kinship, chemistry, compatibility, congeniality; choice, selection, election, discrimination, preferential bond; exclusivity, monogamy; mutual attraction, natural partners, attractability†
-  leaning, penchant, propensity &c H0377
+  leaning, penchant, propensity &c H0387
   aptness, proclivity, bias, predisposition
-  predilection &c H0613
+  predilection &c H0632
   adduction†
-  attraction &c H0615
+  attraction &c H0634
   selective affinity, preferential combination, neutrality, saturation
 
 V:

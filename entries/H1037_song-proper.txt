@@ -1,0 +1,8 @@
+# 1037 Song Proper
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › c. Song
+G: Das eigentliche Lied
+Gloss: The simple song proper, of the people, of company and of the church.
+HGloss: The song proper, in its simplest forms, rooted in a people, a company or a congregation.
+
+N:
+  song proper; art song, simple song

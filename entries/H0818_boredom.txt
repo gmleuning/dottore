@@ -1,0 +1,22 @@
+# 818 Boredom
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 1. Inspiration › c. Enthusiasm › i. Origins of Enthusiasm
+G: Sinnliche Anregung
+Gloss: Waiting for inspiration to arrive by itself, through wine or idleness; Hegel says it does not come so.
+HGloss: The belief that Begeisterung comes from sensuous stimulation: but champagne yields no poetry, and the best genius may lie morning and evening in the green grass gazing at the sky and feel no breath of inspiration.
+
+N:
+  boredom; idleness, ennui, tedium, waiting for the Muse, lying fallow, writer's block, sensuous stimulation, stimulants, intoxication, champagne, dolce far niente, daydreaming, lassitude, torpor
+
+V:
+  idle, laze, lie in the grass, gaze at the sky, wait for inspiration
+
+Adj:
+  idle, bored, uninspired, listless, fallow, blocked
+
+F:
+  Italian: dolce far niente
+  French: ennui
+
+Phr:
+  Champagner giebt noch keine Poesie [Ger.] [Hegel, Aesthetics]
+  die Wärme des Bluts macht's nicht allein [Ger.] [Hegel, Aesthetics]

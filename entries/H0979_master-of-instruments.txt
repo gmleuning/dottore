@@ -1,0 +1,30 @@
+# 979 Master of Instruments
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 3. Relation Between Expression and Content › c. The Execution of Musical Works of Art
+G: Meisterschaft im Instrument
+Gloss: The instruments of music and the players who command them.
+HGloss: Mastery of the instrument, through which the virtuoso makes a foreign tool into a perfect organ of his own soul.
+
+N:
+  master of instruments; mastery of the instrument, instrumental technique
+  musical instruments, band, string-band, brass-band, orchestra, orchestrina†
+  monochord†, polychord†, harp, lyre, lute, archlute†, mandola†, mandolin, mandoline†, guitar, zither, cither†, cithern†, gittern†, rebeck†, bandurria†, bandura, banjo, bina†, vina†, xanorphica†
+  viol, violin, kit, viola, tenor, cremona, violoncello, bass, bass viol, base viol, theorbo†, double base, contrabasso†, violone†, psaltery [Slang], bow, fiddlestick†, fiddlestick end†
+  piano, pianoforte, harpsichord, clavichord, clarichord†, manichord†, clavier, spinet, virginals, dulcimer, hurdy-gurdy, vielle†, pianino†, Eolian harp
+  organ, harmonium, harmoniphon†, American organ†, barrel organ, hand organ, accordion, seraphina†, concertina, humming top
+  flute, fife, piccolo, flageolet, clarinet, claronet†, basset horn, oboe, hautboy, corno Inglese†, bassoon, double bassoon, contrafagotto†, serpent, bass clarinet, bagpipes, union pipes, musette, ocarina, Pandean pipes, reed instrument, sirene†, pitch-pipe, whistle, catcall, doodlesack†, harmoniphone†
+  horn, bugle, cornet, cornet-a-pistons, cornopean†, clarion, trumpet, trombone, ophicleide†, French horn, saxophone, sax [Slang], buglehorn†, saxhorn, flugelhorn†, althorn†, helicanhorn†, posthorn†, sackbut, euphonium, bombardon tuba†
+  cymbal, bell, gong, tambour†, tambourine, tamborine†, drum, tom-tom, tabor, tabret†, tabourine†, taborin†, side drum, kettle drum, timpani, tympani†, tymbal†, timbrel†, castanet, bones, musical glasses, musical stones, harmonica, sounding-board, rattle, tam-tam, zambomba†, cylindroid†
+  reed, tuning fork, triangle, Jew's harp, musical box, harmonicon†, xylophone
+  sordine†, sordet†, sourdine†, sourdet†, mute
+  harper, musician, rapper, drummer, guitarist
+  vibes, pianist, alto, diva, vocalist, soprano, cello, bassist, chime, violinist, ukulele, soloist, baritone, organist, bongo, tuba, fiddler, hummer, warbler, saxophonist, bombard, cellist, trumpeter, mezzo, barytone†, fifer†
+  musical instrument, music box, band player, guitar player, piano player, mouth bow, wind instrument, electronic musical instrument, electronic instrument, steam organ, keyboard instrument, jazz musician, grind organ, recorder player, flute player, wheel fiddle, jews' harp, percussion instrument, bell ringer, trombone player, stringed instrument, percussive instrument, rock star, rain stick, string bass, double bass, bass guitar, opera star, pipe major, folk singer, poet-singer, post horn, pipe organ, organ pipe, electronic organ, electric organ, bass horn, steel drum, electronic drum set, electronic drum kit, free-reed instrument, brass instrument, squeeze box, torch singer, bull fiddle, bass fiddle, orchestral bells, forte-piano, operatic star, finger cymbals, tenor saxophonist, alto saxophonist, bowed stringed instrument, steel guitar, electric guitar
+  piper, buzzer, rattling, doorbell
+  instrumentalist, player
+
+V:
+  pipe, strike up, sweep the chords, tweedle, fiddle, strike the lyre, beat the drum, blow the horn, sound the horn, wind the horn, touch the guitar, thrum, strum, beat time
+
+F:
+  French: viola d'amore, cor Anglais
+  Italian: viola di gamba, corno di bassetto

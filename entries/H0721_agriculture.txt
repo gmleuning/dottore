@@ -1,0 +1,27 @@
+# 721 Agriculture
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › iii. Division of the General Resources › 1. The Substantial (Agricultural) Estate
+G: Ackerbau
+Gloss: Tilling the soil and raising stock; the farmer's work, which follows the seasons.
+HGloss: The work of the substantial estate, bound to the seasons and to nature, in which trust in nature counts for more than one's own reflection (§203).
+
+N:
+  agriculture; farming, husbandry, tillage, cultivation, horticulture, stock raising, animal husbandry, the farmer's year, seedtime and harvest
+  husbandman, horticulturist, gardener, florist, agricultor†, agriculturist, yeoman, farmer, cultivator, tiller of the soil, woodcutter, backwoodsman, granger, vigneron†, viticulturist, Triptolemus
+  breeder, rancher, grower, stockman, roundup [U.S.], remuda†, atajo†, mulada [U.S.]
+  tree farmer, stock farmer, small farmer, dairy farmer, tenant farmer, plantation owner, stock raiser, beef man, cow man, stock breeder, fruit grower
+  ranch, farming, agriculture, dairy, crops, rural life, geoponics†, arboriculture†
+  ingathering, gatherer, sheaf, shock, stook†, hattock†, haycock†, rick, stack, gavel, wisp, truss
+  garden, botanic garden†, winter garden, ornamental garden, flower garden, kitchen garden, market garden, hop garden, nursery, green house, hot house, conservatory, bed, border, seed plot, grassplot†, grassplat†, lawn, parterre, shrubbery, plantation, arboretum, pinery†, pinetum†, orchard, vineyard, vinery, orangery†
+
+V:
+  till the soil, sow, plant, reap, mow, cut, manure, dress the ground, dig, delve, dibble, hoe, plow, harrow, rake, weed, lop and top, backset [U.S.]
+
+Adj:
+  agricultural, agrarian, horticultural, georgic, pastoral, bucolic
+
+Adv:
+  by tillage, in the field
+
+Phr:
+  o fortunatos nimium, sua si bona norint, agricolas [Lat.] [Virgil]
+  tibi seris tibi metis [Lat.]

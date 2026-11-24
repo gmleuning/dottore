@@ -1,0 +1,18 @@
+# 1031 Dithyramb and Psalm
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › a. Religious Lyric
+G: Dithyrambe und Psalm
+Gloss: The ecstatic song of Dionysus, and the Hebrew psalm.
+HGloss: The dithyramb and the psalm, in which the soul is carried away beyond itself toward the god in ecstasy or longing.
+
+N:
+  dithyramb and psalm; the Psalms, psalter, psalmist, Bacchic song
+  dithyramb, psalm, psalmody, chant, antiphon†
+
+V:
+  rhapsodize
+
+Adj:
+  dithyrambic
+
+Phr:
+  the dithyramb

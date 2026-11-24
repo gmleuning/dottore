@@ -1,0 +1,36 @@
+# 905 Specification of Roman Arch and Vault
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 3. Styles of Classical Architecture
+G: Der römische Bogen und das Gewölbe
+Gloss: The round arch and vault as forms of Roman building.
+HGloss: The round arch and the vault, Roman forms that make the support self-enclosing.
+
+N:
+  specification of Roman arch and vault; arch, vault, barrel vault, groin vault, dome, cupola, keystone, voussoir, concrete, the Pantheon dome, aqueduct, triumphal arch
+  arc, arcade, bow, crescent
+  mainstay
+  semicircular arch, cross vault, rotunda, springer, impost, archivolt, arcuation, cess†, sess†, tallage†, abkari†
+  arched ceiling, arched roof
+  extrados
+
+V:
+  arch, vault, span, dome, bridge
+  overarch, turn an arch, endome†
+
+Adj:
+  arched, vaulted, domed, arcuated, cupolated, aduncated†, arclike†, alveolate†, calathiform†, favaginous†, faveolate†, favose†, scyphiform†, scyphose†, infundibul†, infundibular†, infundibuliform†, campaniform†
+  curved, curvilinear, bowed, semicircular, curviform†, curvilineal†, devex†, recurvous†, crump†, falciform†, falcated†, luniform†, lunular†, conchoidal†, cordiform†, cordated†, lentiform†, bicorn†, bicornuous†, bicornute†, clypeate†, clypeiform†, cymbiform†, embowed†, galeiform†, hamate†, hamiform†, hamous†, linguiform†, lingulate†, lobiform†, navicular†, peltate†, remiform†, rhamphoid†, rostrate†, rostriferous†, rostroid†, scutate†, scaphoid†, uncate†, unguiform†, clavated†, hummocky†, moutonne†, mammiliform†, papulous†, papilose†
+  concave, hollow
+  round-headed
+  curving
+
+Adv:
+  overhead, in a span
+  in an arch, archwise
+
+F:
+  Latin: arcus
+
+Phr:
+  the keystone of the arch
+  the arch never sleeps
+  a vault of heaven

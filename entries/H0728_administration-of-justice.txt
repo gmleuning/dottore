@@ -1,0 +1,41 @@
+# 728 Administration of Justice
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society
+G: Rechtspflege
+Gloss: The protection of property and persons through law.
+HGloss: The sphere of right as law, which protects property and personality in civil society.
+
+N:
+  administration of justice; judiciary, judicature, the courts, justice system, legal system, rule of law, due process, jurisprudence, adjudication
+  jurisdiction, soc, commission of the peace, magistracy &c H0747
+  judge &c H0731, tribunal &c H0731, municipality, corporation, bailiwick, shrievalty [Brit.], lord lieutenant, sheriff, shire reeve, shrieve†, constable, selectman, police, police force, the fuzz [Sarc.], constabulary, bumbledom†
+  justice, justiciar†, justiciary†, chancellor, justice of assize, judge of assize, recorder, common sergeant, puisne judge, assistant judge, county court judge, conservator of the peace, justice of the peace, J.P, court &c H0731, magistrate, police magistrate, beak [Slang], his worship, his honor, his lordship
+  assize, eyre, wardmote†, burghmote†, barmote†, superior courts of Westminster, court of record, court oyer and terminer [Law], court assize, court of appeal, court of error, High court of Judicature, High court of Appeal, Judicial Committee of the Privy Council, Star Chamber, Court of Chancery, Court of King's or Queen's Bench, Court of Exchequer, Court of Common Pleas, Court of Probate, Court of Arches, Court of Admiralty, Lords Justices' court, Rolls court, Vice Chancellor's court, Stannary court†, Divorce court, Family court, Palatine court, county court, district court, police court, sessions, quarter sessions, petty sessions, court-baron, court of common council, board of green cloth
+  arbitration
+  long arm of the law, extradition
+  coroner, edile†, aedile†, portreeve†, paritor†
+  legal protection, jurisprudence in practice
+  exciseman†, gager†
+
+V:
+  administer justice, adjudicate, judge, try, hear
+  hear a cause, adjudicate &c H0625
+  pass judgment, pass sentence, adjudge
+  sit in judgment
+  protect, uphold
+
+Adj:
+  judicial, juridical, legal, forensic
+  executive, administrative, municipal, inquisitorial, causidical†, judicatory†
+
+Adv:
+  judicially, in court, in law
+  by law
+
+F:
+  Latin: posse comitatus
+  French: gendarmerie, court-leet, court of pie poudre
+
+Phr:
+  justice must not only be done, but must be seen to be done [Lord Hewart]
+  to have one's day in court
+  justice is blind

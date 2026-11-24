@@ -6,8 +6,8 @@ HGloss: Bodies setting themselves in contact by motion, communicating their moti
 
 N:
   impact, percussion; collision, crash, bump, jolt, knock, bang, blow, hit, strike, shock, concussion, clash, smash, slam, thump, thud, rebound, recoil, elastic collision, inelastic collision, transfer of momentum, communication of motion
-  occursion†, encounter, cannon, carambole†, appulse†, elan, charge &c H0718, beating &c H0654
-  dint, stroke, smack, fillip, whack, thwack, cuff &c H0654, squash, dowse, swap, whap†, pelt, punce†, calcitration†, ruade†, arietation†, cut, carrom†, clip [Slang], sidewinder [U.S.], sidewipe†
+  occursion†, encounter, cannon, carambole†, appulse†, elan, charge &c H0755, beating &c H0673
+  dint, stroke, smack, fillip, whack, thwack, cuff &c H0673, squash, dowse, swap, whap†, pelt, punce†, calcitration†, ruade†, arietation†, cut, carrom†, clip [Slang], sidewinder [U.S.], sidewipe†
   reaction, retroaction, revulsion, ricochet, repercussion, recalcitration†, kick, springing back, elasticity &c H0263, reflection, reflexion [Brit.], reflex, reflux, reverberation &c H0264, rebuff, repulse, return
   impulse, impulsion, impetus, momentum, pulsion†, thrust, shove, jog, brunt, booming, boost [U.S.], throw, explosion &c H0121, propulsion &c H0228
   traction, draught, a long pull a strong pull and a pull all together, towage†, haulage
@@ -15,7 +15,7 @@ N:
 
 V:
   hit, strike, collide, crash, bump, knock, bang, jolt, smash, slam, ram, butt, impinge, rebound, recoil, bounce, brustle†
-  tap, slap, flap, dab, pat, beat, dash, punch, hit hard, strike hard, batter, baste, patter, buffet, belabor, fetch one a blow, poke at, pink, lunge, yerk†, calcitrate†, strike at &c H0718, whip &c H0654, vellicate†, swinge†
+  tap, slap, flap, dab, pat, beat, dash, punch, hit hard, strike hard, batter, baste, patter, buffet, belabor, fetch one a blow, poke at, pink, lunge, yerk†, calcitrate†, strike at &c H0755, whip &c H0673, vellicate†, swinge†
   give an impetus, impel, push, start, give a start to, set going, drive, urge, boom, prod, cant, elbow, shoulder, jostle, justle†, hustle, hurtle, run against, bump against, butt against, knock one's head against, run one's head against, bunt, carom, clip y, fan, fan out, jab, plug [Slang]
   react, spring back, fly back, bounce back, bound back, reverberate, repercuss†, recalcitrate†, echo
   come into a collision, enter into collision, sideswipe, foul, fall foul of, run foul of, telescope

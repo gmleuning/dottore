@@ -1,0 +1,30 @@
+# 1077 The Religions of Transition
+# Spirit › 3. Absolute Spirit › II. Religion › β. Determinate Religion › a. Immediate Religion, or Nature Religion [Tetrad]
+G: Die Religionen des Übergangs
+Gloss: Religions that move from nature toward mind.
+HGloss: The religions of transition from nature to spirit: light, pain, enigma.
+
+N:
+  the religions of transition; transitional religions, Persian, Syrian, Egyptian religion, religions of light, pain, and enigma
+  the religions of passage, the religions of mediation, the middle religions, the intermediate stage, the in-between forms, the bridge, the passage, passing-over, crossing, the threshold, the turning point, the mean, the middle term, the Persian religion, the Syrian religion, the religion of the good, the struggle of subjectivity, emerging subjectivity, the dawning of spirit, nature passing into spirit, the natural not yet overcome, fermentation, the transition from substance to subject, from nature religion to spiritual religion
+  syncretism
+
+V:
+  transition, pass over
+  pass, pass on, cross, cross over, go over, move toward, lead over, bridge, mediate, emerge, dawn, struggle free, ferment, shift, change, evolve, approach, turn
+
+Adj:
+  transitional, intermediate
+  transitive, passing, mediating, interjacent, middle, in-between, half-way, liminal, emergent, nascent, dawning, fermenting, struggling, half-natural, half-spiritual, preparatory
+
+Adv:
+  in transition
+  transitionally, midway, in passage, in between, on the threshold, on the way, by degrees
+  halfway, midships†
+
+F:
+  German: Übergang, Kampf der Subjektivität, Gärung
+
+Phr:
+  from nature to spirit
+  light, pain and riddle

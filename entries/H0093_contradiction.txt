@@ -6,8 +6,8 @@ HGloss: The positive and negative each containing and excluding the other; the r
 
 N:
   contradiction; self-contradiction, inner contradiction, inconsistency, incoherence, incompatibility, contrariety, antinomy, paradox, dilemma, double bind, catch-22, impasse, deadlock; oxymoron, contradiction in terms; conflict, tension, strife, discord, struggle; dialectic, dialectics, unity and struggle of opposites; the motor of change, driving force, spring of movement, inconcinnity†
-  disagreement, discordance, dissonance, discrepancy, incongruity, jarring, conflict &c H0474, incongruence†, discongruity†
-  contrast, foil, antithesis, oppositeness, antagonism &c H0474, clashing, repugnance
+  disagreement, discordance, dissonance, discrepancy, incongruity, jarring, conflict &c H0493, incongruence†, discongruity†
+  contrast, foil, antithesis, oppositeness, antagonism &c H0493, clashing, repugnance
   disaccord†, dissidence, shock, jostling, screw loose
   self-opposition
   antilogy
@@ -18,7 +18,7 @@ V:
   confute, disprove, rebut, confound, explode, invalidate, redargue†, give one a setdown†
   disagree, jar, pull different ways
   contravene, go against, run against, beat against, militate against, come in conflict with
-  subvert &c H0114, contradict &c H0599
+  subvert &c H0114, contradict &c H0618
 
 Adj:
   contradictory, self-contradictory, inconsistent, incoherent, incompatible, irreconcilable, paradoxical, antinomic, aporetic, oxymoronic, conflicting, contrary, at odds, at variance, double-edged, two-sided, ambivalent; dialectical; dynamic, restless, double-shotted†

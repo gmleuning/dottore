@@ -1,0 +1,26 @@
+# 1027 Lyric Work of Art
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric
+G: Das lyrische Kunstwerk
+Gloss: The lyric poem as a work of art.
+HGloss: The lyric poem as a unity of feeling, its occasion and its musical form.
+
+N:
+  lyric work of art; poem, song, lyric piece, the lyric's unity of mood
+  lyric poem, the lyric, verse, piece, stanzaic form, unity of feeling, concentration, brevity, inner unity
+  stanza
+
+V:
+  compose
+  versify, shape, round off, concentrate, sing
+
+Adj:
+  lyrical, unified
+  lyric, brief, concentrated, compact, rounded, stanzaic
+
+Adv:
+  lyrically
+  in a single mood, briefly, in stanzas
+
+Phr:
+  a short poem of feeling
+  the occasion of the poem

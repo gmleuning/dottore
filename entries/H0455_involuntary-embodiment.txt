@@ -1,0 +1,29 @@
+# 455 Involuntary Embodiment
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › γ. Actual Soul
+G: Unwillkürliche Verleiblichung
+Gloss: The body's expression of the soul without the soul's willing it.
+HGloss: The soul's expression in the body that occurs without its will: laughing, weeping, the voice.
+
+N:
+  involuntary embodiment; involuntary expression, tell, giveaway, reflex, blush, tremor, tic, twitch, body language, nonverbal cues, unconscious gesture
+  suffusion, flush, quiver, flutter, tingling, throb, palpitation, trepidation, succussion†, jactitation†, quassation†
+  unwilled expression, pallor, trembling, laughter, weeping, sighing
+
+V:
+  betray, give away, show, reveal unwittingly
+  let slip
+  pale, tremble, laugh, weep
+
+Adj:
+  involuntary, unconscious, reflexive, unwitting, spontaneous, telltale
+  instinctive, automatic, unthinking, unintentional
+  unwilled
+
+Adv:
+  involuntarily, despite oneself, unwittingly
+  in spite of oneself
+
+Phr:
+  the face betrays the heart
+  laughing and crying
+  to give oneself away

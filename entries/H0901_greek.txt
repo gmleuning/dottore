@@ -1,0 +1,30 @@
+# 901 Greek
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 3. Styles of Classical Architecture
+G: Griechische Architektur
+Gloss: The building of the Greeks.
+HGloss: The Greek orders, each a different measure of the relation of bearing and borne.
+
+N:
+  Greek architecture; Hellenic architecture, the Greek orders, Athens, the Acropolis, the stoa, the propylaea
+  Grecian building, the Greek temple, the orders, the column, the colonnade, the Parthenon
+
+V:
+  build, proportion
+  column, harmonize
+
+Adj:
+  Greek, Hellenic, Attic, columnar
+  Grecian, trabeated, classical, harmonious
+  canonical
+
+Adv:
+  in the Greek manner
+  in the Grecian style
+
+F:
+  Greek: entasis [swelling of the column]
+
+Phr:
+  the Acropolis
+  the three Greek orders
+  the measure of bearing

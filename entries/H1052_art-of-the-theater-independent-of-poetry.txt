@@ -1,0 +1,45 @@
+# 1052 Art of the Theater Independent of Poetry
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › c. Dramatic Poetry › ii. External Execution of a Dramatic Work of Art
+G: Die vom Dichter unabhängige Schauspielkunst
+Gloss: The arts of the stage apart from the poetry: spectacle, opera, ballet.
+HGloss: The art of the theatre independent of poetry: spectacle, opera, ballet.
+
+N:
+  art of the theatre independent of poetry; spectacle, opera, ballet, pantomime, improvisation, stage effects, scenery
+  scene, the boards, footlights, orchestra
+  show
+  vaudeville, interlude, masque
+  the theatrical art, the actor's independent art, the art of performance apart from the poet, stagecraft, stage production, theatre, theatrics, theatricals, showmanship, staging, mounting, production, presentation, performance, the stage picture, stage setting, décor, decoration, costume, lighting, machinery, stage machinery, transformation scene, tableau, pageant, pageantry, show-piece, display, extravaganza, grand opera, operetta, the musical play, the dance-drama, choreography, the corps de ballet, dumb-show, mummery, harlequinade, extemporization, virtuosity, the virtuoso actor, the actor as artist, the player's free creation, mask-play, sensuous splendour, magic of the stage, the feast for the eyes, biograph†, cosmorama†, georama†
+  film, movie, actor, actress, pic, dancer, comedian, performer, joker, geek
+  magician, ballerina, toon, jester, headliner, strongman, harlequin, artiste, talkie, understudy, striptease, zany, starlet
+  picture show, moving-picture show, moving picture, television show, television program, motion-picture show, motion picture, performing artist, three-D, final cut, family film, role player, home movie, family movie, co-production, talking picture, short subject, feature film, slow motion, pilot program, pilot film, situation comedy, musical comedy, rough cut, silent picture, silent movie, fire walker, musical theater, documentary film, coming attraction, second banana, professional dancer, exotic dancer, skin flick, film noir, rodeo rider, collage film, snake charmer, striptease artist, end man, straight woman, straight man, leading man, dance master, corner man, screen actor, play-actor, movie actor, character actor, escape expert, dancing-master, thought-reader, mind reader, horse opera, ham actor, animated cartoon, top banana, taxi dancer, tap dancer, belly dancer
+  sitcom
+  the movies, cinema, flick [Coll.], blockbuster, sequel, prequel, remake, trilogy, franchise, soundtrack, premiere, trailer, spoiler, box office, filming, film star, movie star, TV, telly [Brit. Coll.], the box [Brit. Coll.], soap opera, soap, series, season, episode, reality TV, game show, talk show, binge-watching, streaming, anime, cartoon, animation, superhero
+  Gesamtkunstwerk
+
+V:
+  improvise, dance, mime, stage
+  perform, produce, mount, present, put on, exhibit, extemporize, ad-lib, act without script, gesture, sing, choreograph, decorate, dazzle, parade
+  shoot, star, binge-watch, stream
+
+Adj:
+  spectacular, operatic, improvised, mimetic
+  theatrical, scenic, staged, stagy, performative, histrionic, Thespian, balletic, choreographic, pantomimic, extempore, extemporaneous, unscripted, virtuosic, showy, splendid, sumptuous, dazzling, decorative, pictorial, musical, wordless, gestural
+  unprepared
+
+Adv:
+  spectacularly
+  theatrically, scenically, operatically, on the stage, in dumb-show, in pantomime, impromptu, without script, for show, for the eye
+
+F:
+  German: Schauspielkunst, Theater, Oper, Ballett, Pantomime, Stegreif, Augenweide
+  Latin: mimus, pantomimus
+  French: mise en scène, spectacle, ballet, corps de ballet, tableau vivant, société du spectacle [Debord]
+  Italian: commedia dell'arte, all'improvviso, opera seria, opera buffa, ballo
+  Korean: talchum [masked dance drama]
+  Spanish: zarzuela
+
+Phr:
+  commedia dell'arte [It.]
+  spectacle and song
+  the total work of art

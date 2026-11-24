@@ -1,0 +1,29 @@
+# 323 Bud Formation
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation
+G: Knospenbildung
+Gloss: The forming of a bud, which is a new plant in germ.
+HGloss: The plant putting forth a new individual, the bud, the plant's self-multiplication.
+
+N:
+  bud formation; bud, gemmation, budding, shoot, sprout, sprig, burgeon, bourgeon, germ, eye, node, scion, offshoot, sucker, runner, stolon; bulbil
+  germination
+  embryo, gemmule†
+  acrospire†, plumule†, off-shoot, sprit†
+  germ &c H0137
+
+V:
+  bud, burgeon, sprout, shoot, germinate, gemmate
+
+Adj:
+  budding, gemmate, gemmiferous, burgeoning, sprouting, nascent
+
+Adv:
+  in bud, in the bud
+
+F:
+  Latin: gemma
+
+Phr:
+  nip it in the bud
+  the bud disappears in the bursting-forth of the blossom [Hegel]
+  nip in the bud

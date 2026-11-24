@@ -1,0 +1,11 @@
+# 1042 Schillerian Reflection
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › c. Song
+G: Schillers Gedankenlyrik
+Gloss: The lyric of ideas, as in Schiller's philosophical poems.
+HGloss: Schiller's reflective lyric, in which great thoughts of life and the ideal are carried in passionate verse.
+
+N:
+  Schillerian reflection; reflective lyric, philosophical poem, poem of ideas, Gedankenlyrik
+
+F:
+  German: Gedankenlyrik

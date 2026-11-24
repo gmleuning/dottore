@@ -1,0 +1,9 @@
+# 994 Accent
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse
+G: Der Rhythmus (Akzent und Zäsur)
+Gloss: The life that stress and pause give to the bare measure.
+HGloss: Der Rhythmus proper, the animation of the time-measure by accent and caesura.
+
+N:
+  accent; stress, emphasis, rhythmic animation
+  rhythm, accentuation &c H0618

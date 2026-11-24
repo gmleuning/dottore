@@ -1,0 +1,26 @@
+# 529 Phrenological Observation
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason [Tetrad] › a. The Certainty and Truth of Reason [Tetrad] › ii. Observing Reason › 3. Observation of Self-Consciousness in Its Immediate Actuality
+G: Schädellehre
+Gloss: The reading of character from the shape of the skull.
+HGloss: The reading of mind from the shape of the skull, the lowest form of observing reason.
+
+N:
+  phrenological observation; phrenology, craniology, cranioscopy, Gall's doctrine, organology, bumps on the head, skull-reading, faculties located in the brain; pseudoscience, quackery
+  psychology, mental philosophy, philosophy of the mind
+  the skull, bumps, the doctrine of Gall, the organ of murder
+
+V:
+  read bumps, measure the skull, palpate the cranium
+  feel the skull, palpate, infer
+
+Adj:
+  phrenological, craniological, cranial, pseudoscientific
+
+Adv:
+  phrenologically
+  from the skull
+
+Phr:
+  to have one's bumps read
+  to have one's head examined
+  a bump on the head

@@ -1,0 +1,39 @@
+# 931 Attributes, Weapons, Adornments
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture › 3. Individuality of the Ideal Sculptured Figure
+G: Attribute, Waffen, Schmuck
+Gloss: The emblems and ornaments by which a sculpted figure is identified.
+HGloss: The attributes, weapons and adornments by which the individual gods are known.
+
+N:
+  attributes, weapons, adornments; attribute, emblem, symbol, insignia, thunderbolt, trident, caduceus, aegis, lyre, bow, owl, eagle, ornament, jewellery, floridness c†
+  jewel [general], jewelry, bijoutry†, bijou, trinket, fine jewelry, costume jewelry, junk jewelry, gem, gemstone, precious stone, scagliola†, albata†, paktong†
+  banner, banneret†, bannerol†, bandrol†, flag, colors, streamer, standard, labarum†, oriflamb†, oriflamme, figurehead, ensign, pennon, pennant, pendant, burgee†, blue Peter, jack, ancient, gonfalon, union jack, banderole, old glory [U.S.], quarantine flag, vexillum†, yellow-flag, yellow jack, tricolor, stars and stripes, bunting
+  ornamentation, ornamental art, ornature†, ornateness, adornment, decoration, embellishment, architecture, jewelry &c H0805
+  wreath, festoon, garland, chaplet, flower, nosegay, bouquet, posy, daisies pied and violets blue, tassel, knot, shoulder knot, apaulette†, epaulet, aigulet†, frog, star, rosette, feather, plume, pompom†, panache, aigrette
+  pearl, cultured pearl, fresh-water pearl, mother of pearl, coral
+  diamond, brilliant, rock [Coll.], beryl, emerald, chalcedony, agate, heliotrope, girasol†, girasole†, onyx, plasma, sard†, sardonyx, garnet, lapis lazuli, opal, peridot, tourmaline, chrysolite, sapphire, ruby, synthetic ruby, spinel, spinelle, balais†, oriental, oriental topaz, turquois†, turquoise, zircon, cubic zirconia, jacinth, hyacinth, carbuncle, amethyst, alexandrite†, cat's eye, bloodstone, hematite, jasper, moonstone, sunstone†
+  badge, token, insigne, trapping, the thyrsus, brocatelle†
+  embroidery
+
+V:
+  adorn, equip, identify
+  embellish, enrich, decorate, bead, beautify, adonize†
+  betoken, mark
+
+Adj:
+  emblematic, symbolic, adorned, armed
+  representative, typical
+  bejeweled
+  attributive, identifying, ornamental
+
+Adv:
+  by emblem
+  emblematically, by attribute
+
+F:
+  French: bijouterie
+
+Phr:
+  Zeus with his thunderbolt
+  the thunderbolt of Zeus
+  known by their tokens

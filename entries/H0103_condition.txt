@@ -7,7 +7,7 @@ HGloss: The immediate existence that is presupposed by ground and that the thing
 N:
   condition; precondition, prerequisite, requisite, requirement, necessary condition, sufficient condition, enabling condition, presupposition, premise, proviso, provision, stipulation, qualification, reservation, term, terms, clause, contingency, circumstance, factor; antecedent
   dependent origination
-  specification, exemption, exception, escape clause, salvo, saving clause, discount &c H0636, restriction
+  specification, exemption, exception, escape clause, salvo, saving clause, discount &c H0655, restriction
 
 V:
   condition, make conditional, stipulate, require, presuppose, qualify, limit, depend on, hinge on, turn on, rest on, be contingent on, be subject to
@@ -24,7 +24,7 @@ Adj:
 Adv:
   conditionally, on condition that, provided that, providing, given that, if, if and only if, iff, as long as, so long as, in the event that, in case, subject to, with the proviso that
   if so, if so be, if it be so, depending on circumstances, in certain circumstances, under certain conditions, if it so happen, if it so turn out, in the event of, in such a contingency, in such a case, in such an event, provisionally, without
-  provided, unless, supposing, on the supposition of &c H0604
+  provided, unless, supposing, on the supposition of &c H0623
   conditioned upon, with this proviso
   on condition
 

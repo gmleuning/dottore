@@ -1,0 +1,49 @@
+# 488 Immediate Self-Consciousness (Desire)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness
+G: Unmittelbares Selbstbewusstsein
+Gloss: Self-awareness in its first form, as appetite: the self proving its independence by consuming its objects.
+HGloss: Self-consciousness as desire, which certain of itself negates its object and so proves the object's nothingness.
+
+N:
+  immediate self-consciousness; desire, appetite, cupidity, craving, longing, yearning, wanting, hunger, thirst, lust, greed, avidity, concupiscence
+  appetition†, appetence†, appetency†
+  covetousness, ravenousness
+  hankering, coveting, aspiration, eagerness
+  wish, fancy, fantasy, need, exigency
+  carnality, tragalism†, sapphism†
+  greediness, rapacity, Alsatia†
+  appetitive self-consciousness, the desiring self, immediate self-certainty
+  the munchies [Slang], jones [U.S. Slang], itch, yen, FOMO [Slang], the hots [Slang]
+  conation
+
+V:
+  desire, want, crave, covet, hunger for, thirst for, lust after, long for, yearn for, hanker after
+  be hungry, have a good appetite, play a good knife and fork, hunger after, thirst after, crave after, itch after, run mad after, raven for, die for, burn to
+  consume, negate, appropriate
+  jones for [U.S. Slang], have the hots for [Slang], be dying for, would kill for, be gagging for [Brit. Slang], have a yen for
+
+Adj:
+  desirous, desiring, appetitive, craving, avid, covetous, greedy, hungry, lustful, concupiscent
+  ravening, thirsty, athirst, famished, esurient†
+  wishful
+  eager, keen, dying for, devoured by desire
+  immediate
+  horny [Slang], peckish [Brit.], gagging [Brit. Slang], itching
+
+Adv:
+  desirously, avidly, hungrily
+  immediately, appetitively
+
+F:
+  German: Begierde
+  Latin: conatus
+  Greek: orexis, epithymia
+  Arabic: shahwa [appetite, desire]
+  Sanskrit: tṛṣṇā [thirst, craving], kāma [desire]
+  French: appétition [Leibniz]
+
+Phr:
+  self-consciousness is desire in general [Hegel]
+  desire is the very essence of man [Spinoza]
+  hungry for
+  to have one's heart set on

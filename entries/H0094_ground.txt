@@ -9,8 +9,8 @@ N:
   basement, foundation &c H0220, substructure, substratum
   terra firma, bearing, fulcrum, bait [U.S.], caudex crib†, purchase footing, hold, landing place, landing stage, stage, platform, block, rest, resting place, riprap, sustentation, subvention, floor &c H0220
   cause, element, occasioner†, prime mover, author &c H0137, agent, leaven
-  call, by end, by purpose, mainspring, the why and the wherefore, pro and con, secret motive, intention &c H0660
-  why and wherefore, occasion, derivation, final cause &c H0660, undercurrents, glossology†, terminology orismology†
+  call, by end, by purpose, mainspring, the why and the wherefore, pro and con, secret motive, intention &c H0679
+  why and wherefore, occasion, derivation, final cause &c H0679, undercurrents, glossology†, terminology orismology†
   support &c H0220
 
 V:

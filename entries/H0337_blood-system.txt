@@ -1,0 +1,42 @@
+# 337 Blood System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) [Tetrad] › b. Systems of Shape
+G: Blutsystem
+Gloss: The system of response: the blood and its vessels.
+HGloss: The system of irritability, the blood, the living individual's universal, its circulation.
+
+N:
+  blood system; blood, circulation, circulatory system, cardiovascular system, arteries, veins, capillaries, vessels, bloodstream, lifeblood, gore, plasma; irritability, Archeus†
+  the vascular system
+  aorta, vena cava, carotid, carotid artery, jugular vein, femoral artery, pulmonary artery, arteriole, venule, red blood cells, red corpuscles, white blood cells, leucocytes, platelets, haemoglobin, serum, lymph, blood group, blood type, blood count, blood pressure
+  claret [Brit. Slang], the red stuff, ichor, hemorrhage, bleeding, nosebleed, scab, bruise, black-and-blue, anaemia, haemophilia
+  artery
+  jugular
+  blood vessel, arterial blood vessel, venous blood vessel, capillary vessel, spinal vein, portal vein, facial vein, digital vein, common facial vein, cardinal vein, accompanying vein, communicating artery, temporal vein, cerebral vein, cerebral artery, thyroid vein, nutrient artery, angular vein, angular artery, pulmonary vein, external nasal vein, vortex vein, ovarian vein, ovarian artery, digital arteries, radial vein, radial artery, deep cervical vein, cervical vein, cervical artery, vaginal artery, renal vein, renal artery, coronary artery, basal vein, pancreatic vein, pancreatic artery, intestinal artery, ascending artery, gastric vein, gastric artery, internal auditory vein, internal auditory artery, lumbar vein, lumbar artery, cystic vein, cystic artery, hepatic vein, hepatic portal vein, hepatic artery, thoracic vein, uterine vein, uterine artery, umbilical vein, testicular vein, testicular artery, pectoral vein, celiac trunk, celiac artery
+  anemia
+
+V:
+  circulate, pump, flow, bleed, course
+  pulse
+  bleed out, haemorrhage, clot, coagulate, transfuse, let blood, draw blood
+
+Adj:
+  sanguine, sanguineous, haematic, vascular, circulatory, cardiovascular, arterial, venous, bloody, venose†
+  gory, sanguinary, bloodshot, bloodless, anaemic, haemophiliac, ruddy, florid, sanguinolent†, ensanguined†, blowed†, rubiform†, murrey†, carroty†, lateritious†, rubineous†, rubricose†, rufulous†
+  haemal
+
+Adv:
+  in the blood, through the veins
+  in circulation
+
+F:
+  Latin: sanguis
+  Greek: haima
+
+Phr:
+  blood is thicker than water
+  the blood is the life [Bible]
+  go for the jugular
+  first blood
+  blood will have blood [Macbeth]
+  you can't get blood from a stone
+  in cold blood

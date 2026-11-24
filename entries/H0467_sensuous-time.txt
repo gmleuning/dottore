@@ -1,0 +1,31 @@
+# 467 Sensuous Time
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › a. Sense-Certainty (Sensuous Consciousness) › ii. Sensuousness
+G: Sinnliche Zeit
+Gloss: Time as met with by the senses.
+HGloss: Time as given to sense, the now which is many nows.
+
+N:
+  sensuous time; perceived time, lived time, the specious present, now and then, before and after, flow of experience
+  sensible time, felt time, the sensuous now, succession, lived duration
+  momentariness
+
+V:
+  last, pass, succeed, endure
+  abide, continue
+  elapse
+
+Adj:
+  temporal, durational, lived, successive
+  present, momentary
+
+Adv:
+  now, then, before, after
+  in time, successively
+  occasionally
+
+F:
+  French: durée [Bergson]
+
+Phr:
+  now is night
+  just now

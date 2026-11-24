@@ -1,0 +1,33 @@
+# 1080 The Religion of the Enigma (Egyptian)
+# Spirit › 3. Absolute Spirit › II. Religion › β. Determinate Religion › a. Immediate Religion, or Nature Religion [Tetrad] › iv. The Religions of Transition
+G: Die Religion des Rätsels
+Gloss: The religion in which the divine is a riddle posed in natural and animal forms.
+HGloss: The Egyptian religion of the enigma, the sphinx, Osiris, where spirit struggles out of nature.
+
+N:
+  the religion of the enigma; Egyptian religion, Osiris, Isis, Horus, Set, the Sphinx, the cult of the dead, mummification, the Book of the Dead, the judgment of the soul, hieroglyph, the veil of Isis
+  the religion of riddle, the religion of mystery, the religion of the Egyptians, the Egyptian gods, Anubis, Thoth, Ra, Amun, Apis, Typhon, Neith, the animal gods, animal worship, zoolatry, the sacred animals, the scarab, the ibis, the cat, the animal mask, the animal-headed gods, the half-human, the hybrid, the enigma, puzzle, mystery, secret, arcanum, cipher, rebus, conundrum, the unsolved problem, the obscure, obscurity, symbol, symbolism, the symbolic, emblem, the hieroglyphs, the inscription at Sais, the pyramids, the obelisks, the labyrinth, the tombs, the necropolis, the mummy, the realm of the dead, Amenthes, the immortality of the soul, the weighing of the heart, the death of Osiris, the struggling spirit, the artificer, the working spirit, fermentation, the impulse toward clarity, Oedipus, Asian mystery†
+
+V:
+  embalm, riddle, veil, conceal
+  perplex, mystify, pose a riddle, propound, symbolize, signify, hint, intimate, shroud, hide, cloak, obscure, encipher, inscribe, entomb, mummify, bury, preserve the dead, struggle toward expression, labour, build, half-reveal
+
+Adj:
+  Egyptian, enigmatic, Osirian, mysterious, funerary
+  riddling, puzzling, cryptic, dark, hidden, arcane, hieroglyphic, hieroglyphical, symbolic, emblematic, sphinx-like, inscrutable, mystical, Isiac, Pharaonic, Nilotic, sepulchral, mortuary, theriomorphic, animal-headed, zoomorphic, struggling, unresolved
+
+Adv:
+  enigmatically, veiled
+  mysteriously, cryptically, obscurely, darkly, symbolically, in riddles, in symbols, in hieroglyphs, under a veil, secretly, inscrutably
+
+F:
+  German: Rätsel, das Rätselhafte, Werkmeister
+  Latin: aenigma
+  Greek: ainigma, sphinx, mystērion, symbolon
+  Egyptian: Maat [truth, order], ka, ba, duat
+
+Phr:
+  I am all that was, is, and shall be
+  τὸν ἐμὸν πέπλον οὐδείς πω θνητὸς ἀπεκάλυψεν [Gk.] [inscription at Sais, Plutarch, De Iside et Osiride 9: no mortal has yet lifted my robe]
+  the riddle of the Sphinx
+  know thyself

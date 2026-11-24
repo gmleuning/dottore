@@ -1,0 +1,37 @@
+# 611 Recollection Proper
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › b. Representation › i. Recollection
+G: Eigentliche Erinnerung
+Gloss: The calling up of a stored image in the presence of a new experience; recognition.
+HGloss: The image called up by a present intuition, recognized as one's own.
+
+N:
+  recollection proper; recognition, re-cognition, matching image to intuition, memory confirmed, familiarity, recall on cue
+  identification, diagnosis, apperception, assimilation, classification, memory &c H0619, interpretation &c H0618, cognizance &c H0602
+  cognizance, acquaintance, apprehension
+  reminiscence, recollection, rememoration†, recurrence, flashback, retrospect, retrospection
+  anamnesis, subsumption under an image
+
+V:
+  recognize, recall, match, identify, remember
+  match up, remember &c H0619, find similarity &c H0091, place in order &c H0208
+  recollect, bethink oneself, call up, retrace, look back, trace back, trace backwards, think back, look back upon, review, call upon, recall upon, bring to mind, bring to remembrance, carry one's thoughts back, rake up the past
+  realize, verify, make certain of
+  mind, retain the memory of, retain the remembrance of, keep in view
+  know again
+
+Adj:
+  recognized, familiar, recalled, recognizable, autoptical†
+  known, well-known
+  recognitive, recollective, reminiscent
+
+Adv:
+  on recognition, familiarly
+  at sight, again
+
+F:
+  French: déjà vu
+
+Phr:
+  I know that face
+  that rings a bell
+  it comes back to me
