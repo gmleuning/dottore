@@ -1,0 +1,29 @@
+# 1182 Evil and Estrangement
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › b. Representation and Appearance (the Kingdom of the Son)
+G: Das Böse und die Entfremdung
+Gloss: The fall of humanity and its separation from God.
+HGloss: Evil, the estrangement of the finite spirit from God, the fall.
+
+N:
+  evil and estrangement
+  evil, moral evil, the fall of man, the first disobedience, the forbidden fruit, the knowledge of good and evil, the loss of innocence, the expulsion from Paradise, banishment, transgression, guilt, sinfulness, fallenness, depravity, corruption, concupiscence, self-will, selfishness, natural will, cleavage, rupture, breach, rift, division, diremption, separation, disunion, severance, self-division, disaffection, anguish, infinite grief, the contradiction of the natural man
+
+V:
+  disobey, eat of the tree, lose innocence, go astray, stray, wander, turn away, fall away, break with, separate, sever, divide, sunder, alienate, estrange, rebel, be cast out, be banished, know good and evil, will evil, misdemean oneself†, misdo†
+
+Adj:
+  guilty, corrupt, depraved, disobedient, unregenerate, erring, peccant, self-willed, separated, sundered, divided, riven, disunited, banished, exiled, outcast, godforsaken, unreconciled
+
+Adv:
+  sinfully, wickedly, guiltily, in sin
+
+F:
+  German: das Böse, Entfremdung, Entzweiung, Sündenfall, Erbsünde, Trennung, Schmerz, Teufel
+  Latin: peccatum originale, Erebus, Avernus, lapsus, felix culpa, non posse non peccare, diabolus, daemon
+  Greek: hamartia, diabolos, daimōn
+  Sanskrit: avidyā [ignorance]
+  Korean: wonjoe [original sin]
+  French: diable
+  Hebrew: satan
+  Italian: diavolo, demonio, demone
+  Spanish: diablo

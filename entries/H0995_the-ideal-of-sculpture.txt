@@ -1,0 +1,31 @@
+# 995 The Ideal of Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture
+G: Das Ideal der Skulptur
+Gloss: The perfected human figure as sculpture presents it.
+HGloss: The ideal human figure as sculpture shapes it.
+
+N:
+  the ideal of sculpture; ideal sculpture, perfected human form, the canon, Polyclitus' canon
+  the sculptural ideal, the ideal figure, the ideal body, the divine in human shape, plastic beauty, perfection of form, the gods of Greece
+  kouros
+
+V:
+  idealize, perfect, measure
+  embody, beautify, ennoble
+
+Adj:
+  ideal, canonical, perfected
+  plastic, godlike, statuesque, flawless
+  Polyclitan
+
+Adv:
+  ideally, by the canon
+  perfectly, in perfect form
+
+F:
+  Greek: kanōn
+
+Phr:
+  the Canon of Polyclitus
+  the measure of man
+  the perfect body

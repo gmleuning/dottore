@@ -1,0 +1,17 @@
+# 813 Persians
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy) › b. Assyrians, Babylonians, Medes, and Persians
+G: Die Perser
+Gloss: The Persians, the mountain people under Cyrus who united the Near East into one empire.
+HGloss: Die Perser, the free mountain people under Cyrus that united Medes, Babylonians and Assyrians into one empire under a principle of light.
+
+N:
+  the Persians
+  Cyrus, the Achaemenids, the Medes and Persians, the law of the Medes and Persians
+  the Great King
+  Darius, Xerxes, Persepolis, Pasargadae
+
+Adj:
+  Persian
+
+Phr:
+  the law of the Medes and Persians, which altereth not [Bible]

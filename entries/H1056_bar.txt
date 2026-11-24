@@ -1,0 +1,23 @@
+# 1056 Bar
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 2. Particular Characteristics of Music › a. Time, Bar, Rhythm
+G: Der Takt
+Gloss: The bar, a fixed group of beats with its own stress, repeated through the music.
+HGloss: Der Takt: the regular repetition of equal units of time, given a definite unity by stress, which orders the uniformity of time-measure into a rule.
+
+N:
+  bar
+  measure, metre, beat, pulse, the downbeat, the upbeat, accent, stress, arsis, thesis, duple time, triple time, common time
+  meter, foot, numbers, accentuation &c H0662, dactyl, spondee, trochee, anapest
+
+V:
+  beat
+  recur in regular order
+
+Adj:
+  metrical, measured, accented, duple, triple
+
+Adv:
+  in measure, to the beat, regularly
+
+Phr:
+  in three-four time

@@ -1,0 +1,33 @@
+# 829 Germanic World (Freedom)
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History
+G: Die germanische Welt
+Gloss: The world of the Germanic peoples, in which all are free.
+HGloss: The Germanic world, where all are free: the principle of Christian freedom, worked out through the history of the Germanic peoples.
+
+N:
+  the Germanic world; freedom, Christendom, Europe, the Christian-Germanic peoples, the old age of spirit, all are free; the Franks, the West
+  The Church, Established Church, body of Christ
+  believer, devotee
+  the Germanic realm, the Germanic peoples, the Teutons, the Christian world, the freedom of all, man as man is free, the reconciliation
+
+V:
+  free, convert, settle, reform
+  emancipate, reconcile, christianize, mature
+
+Adj:
+  Germanic, Christian, European, Western, Occidental, free
+  Hesperian
+  Teutonic, Nordic, reconciled
+
+Adv:
+  in Christendom, in the West
+  in the Germanic world, as free, for all
+
+F:
+  German: Abendland [the Occident], Kleinstaaterei [patchwork of petty states], Sonderweg [special path]
+  Latin: Germania
+  Arabic: al-Ifranj [the Franks, Europeans]
+
+Phr:
+  the German World knows that All are free [Hegel, Philosophy of History, tr. Sibree]
+  the freedom of a Christian

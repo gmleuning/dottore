@@ -1,0 +1,21 @@
+# 20 Determination, Constitution, and Limit
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude
+G: Bestimmung, Beschaffenheit und Grenze
+Gloss: Three ways a thing is defined: its determination, what it is essentially; its constitution, what it happens to be through outside circumstance; and its limit, the boundary where it stops and something else begins.
+HGloss: Determination, what something is in itself; constitution, what it is through its relation to other; limit, the non-being of each in the other.
+
+N:
+  determination, constitution, and limit
+
+Adj:
+  qualifying, qualified, hedged, conditional, exceptional &c H0073
+
+F:
+  German: Beschaffenheit, Grenze
+  Latin: finis, terminus
+  Greek: telos, peras [limit]
+  Arabic: ḥadd
+  Korean: gyujeong [determination], hangye [limit]
+
+Phr:
+  est modus in rebus, sunt certi denique fines [Lat.] [Horace]

@@ -1,0 +1,42 @@
+# 41 The One and the Void
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › b. The One and the Many
+G: Das Eins und das Leere
+Gloss: The unit and the empty space that separates it from others; the void as the nothing between units, as in ancient atomism.
+HGloss: The one and its non-being outside it, the void, as the atomists set atom and void side by side.
+
+N:
+  the one and the void; atoms and the void; void, vacuum, the empty, emptiness, empty space; interval, gap, interspace, interstice, intermediate space, separation, spacing, distance; nothing between; atomism, Democritean atomism, Epicureanism
+  separation &c H0303, break, opening, hole &c H0277, chasm, hiatus, caesura, interruption, interregnum, lacuna, cleft, mesh, crevice, chink, rime, creek, cranny, crack, chap, slit, fissure, scissure†, rift, flaw, breach, rent, gash, cut, leak, dike, ha-ha
+  vacuity, vacancy, exemption, hiatus &c H0228, lipotype†
+  abyss, abysm, gulf, yawning gulf
+  the atom
+
+V:
+  separate, space out, interspace, keep apart, hold apart; empty, evacuate, void
+
+Adj:
+  atomic, atomistic, discrete, separate, isolated, apart; empty, void, vacant, hollow, vacuous; interstitial, intervening
+  discontinuous &c H0050
+  empty &c H0237, blank, null
+  interjacent†
+  bare, devoid of, unpossessed of†, unblest with†
+
+Adv:
+  apart, asunder, at a distance, at intervals
+  separately
+  in the void
+
+F:
+  Latin: inane, vacuum, in vacuo, tabula rasa
+  Greek: atoma kai kenon, kenon, to kenon, atomon
+  Arabic: khalāʾ [void]
+  Sanskrit: ākāśa [space, ether], śūnya
+  Chinese: xu [emptiness]
+  Japanese: ma [interval, meaningful gap]
+  Korean: heogong [the void], gong [emptiness]
+
+Phr:
+  nothing exists except atoms and empty space
+  everything else is opinion [Democritus]
+  natura abhorret vacuum [Lat.]
+  nature abhors a vacuum

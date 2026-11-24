@@ -1,0 +1,38 @@
+# 736 Good Intention Justifying the Means
+# Spirit › 2. Objective Spirit › II. Morality › γ. The Good and Conscience › e. Evil and Its Forms
+G: Gute Absicht rechtfertigt die Mittel
+Gloss: Excusing an evil deed by a good purpose.
+HGloss: The pretence that a good intention justifies an evil means.
+
+N:
+  good intention justifying the means; the end justifies the means, consequentialism, ends-means reasoning, noble cause corruption, pious fraud, Machiavellianism, Jesuitry
+  warrant, be an excuse for, lend a color, vindicate, exculpate, exonerate, disculpate†
+  extenuate, palliate, varnish, put a good face upon, gloss over
+  apology, plea &c H0734, extenuating circumstances
+  pretext, pretense, ostensible motive, ostensible reason, color, gloss
+  white lie
+  jesuitism, Machiavelism
+  sophistry, casuistry, special pleading
+  the holy end, the good purpose, justification
+
+V:
+  justify, excuse, rationalize, whitewash
+  pretend, plead, allege, excuse &c H0776, make a pretext of, use as a plea, pretend &c H0710
+  sanctify
+  mitigate
+
+Adj:
+  consequentialist, Machiavellian, expedient, unscrupulous
+  justifying, excusing, well-meant, specious, spleenless†
+
+Adv:
+  expediently, by any means necessary
+  for a good end, with good intent
+
+F:
+  Latin: pia fraus, finis sanctificat media
+
+Phr:
+  the end justifies the means
+  the road to hell is paved with good intentions
+  for a good cause

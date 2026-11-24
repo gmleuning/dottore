@@ -1,0 +1,36 @@
+# 115 The Absolutely Unconditioned
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › c. Condition
+G: Das absolut Unbedingte
+Gloss: The complete set of conditions and bases, depending on nothing further.
+HGloss: The totality of conditions and ground, which presupposes nothing further and from which the fact comes forth.
+
+N:
+  the absolutely unconditioned; the unconditioned, the unconditional, the absolute, the self-sufficient, aseity, self-existence; first cause, uncaused cause, unmoved mover, prime mover; totality of conditions; ultimate ground
+  the absolute unconditioned, the fact itself, the unconditioned fact, the self-grounding
+  absoluteness
+
+V:
+  be unconditioned, depend on nothing, stand alone, be self-caused
+  ground itself, complete
+
+Adj:
+  unconditioned, unconditional, absolute, categorical, unqualified, unrestricted, unlimited, independent, self-existent, self-caused, self-sufficient, uncaused, ultimate, final, unreduced†
+  definitive
+  unmitigated
+  self-existing
+  self-grounding
+
+Adv:
+  unconditionally, absolutely, categorically, without qualification, without reservation, no strings attached, no ifs or buts
+
+F:
+  German: das Unbedingte, die Sache selbst
+  Latin: causa sui, ens a se, primum movens
+  Greek: to prōton kinoun akinēton
+  Arabic: wājib al-wujūd [necessary existent]
+  Sanskrit: asaṃskṛta [unconditioned]
+  Chinese: ziran [self-so]
+
+Phr:
+  causa sui [Lat.] [Spinoza]
+  I am that I am [Bible]

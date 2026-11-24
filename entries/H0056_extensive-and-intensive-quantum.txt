@@ -1,0 +1,28 @@
+# 56 Extensive and Intensive Quantum (Degree)
+# Logic › 1. Doctrine of Being › II. Magnitude › β. Quantum
+G: Extensives und intensives Quantum
+Gloss: Two forms of definite amount: extensive, a size made up of parts side by side, such as length or number; and intensive, a degree that is simple and undivided, such as temperature or brightness.
+HGloss: Quantum as extensive magnitude, a sum of units outside one another, and as intensive magnitude, degree, a simple determinateness.
+
+N:
+  extensive and intensive quantum
+  measure, amount, ratio, stint, standard, height, scope, caliber, shade, sphere, station, standing, rate, way, sort
+  greatness, fullness
+  difference of extensive and intensive magnitude; size and strength, extent and intensity, breadth and depth, quantity and degree; manyness and muchness; extensity and intensity, spread and pitch; sum versus grade, aggregate versus level; volume versus concentration
+  the difference of extensive and intensive, size and degree, amount and intensity, the many and the simple
+
+V:
+  distinguish, contrast, spread versus intensify, broaden versus deepen, differ
+
+Adj:
+  extensive versus intensive, broad but shallow, narrow but deep
+
+F:
+  German: Grad
+  Latin: gradus, gradus perfectionis, di grado in grado, gradatim
+  Italian: pro tanto
+
+Phr:
+  far and wide
+  deep down
+  a mile wide and an inch deep

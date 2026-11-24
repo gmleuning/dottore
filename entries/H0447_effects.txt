@@ -1,0 +1,26 @@
+# 447 Effects
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy › ii. Magnetic Somnambulism › 2. Content of Magnetic States › c. Inducing
+G: Wirkungen
+Gloss: The results of inducing a trance state.
+HGloss: The consequences of magnetizing, a dependency of the patient's feeling on the magnetizer.
+
+N:
+  effects; outcomes, results, aftereffects, consequences, influence, crisis, convulsion, catharsis, relief
+  outcome, magnetic sleep, insensibility
+  rapport, suggestibility
+
+V:
+  affect, influence, relieve, convulse, purge
+  result, produce, bring about, ensue
+
+Adj:
+  effective, cathartic, convulsive, relieving
+  resultant, consequent, effected, induced
+
+Adv:
+  in effect, as a result
+
+Phr:
+  the cure is worse than the disease
+  under someone's spell
+  at someone's beck and call

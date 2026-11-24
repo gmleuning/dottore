@@ -1,0 +1,28 @@
+# 564 The Frenzy of Self-Conceit
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › a. The Certainty and Truth of Reason › iii. Self-Actualization of Reason › 2. The Law of the Heart and the Frenzy of Self-Conceit
+G: Der Wahnsinn des Eigendünkels
+Gloss: The rage of the heart that finds its law perverted in the world and blames the world's order for its own madness.
+HGloss: Der Wahnsinn des Eigendünkels: the heart, seeing its law turned into a universal order alien to it, declares that order a perversion devised by fanatical priests and despots.
+
+N:
+  the frenzy of self-conceit
+  self-righteousness, self-conceit, conceit, sanctimony, rage against the world, misanthropy, paranoia, crusading zeal, Karl Moor [Schiller]
+  vanity, conceitedness, self-sufficiency, self-love, self-approbation, self-gratulation†
+  the madness of self-conceit, derangement
+
+V:
+  rail against the world, fulminate, crusade, rage, denounce, blame others, rave
+  execrate, thunder against, beshrew†
+  loathe
+
+Adj:
+  self-righteous, sanctimonious, conceited, zealous, fanatical, misanthropic, enraged, paranoid, self-conceited, frenzied, deranged
+  vain, overweening, vainglorious, puffed up
+  intolerant, infatuated, dogmatic
+
+Adv:
+  self-righteously, furiously, in a frenzy, conceitedly
+
+Phr:
+  the time is out of joint [Hamlet]
+  das Herzklopfen für das Wohl der Menschheit geht in das Toben des verrückten Eigendünkels über [Ger.] [Hegel, Phenomenology]

@@ -1,0 +1,16 @@
+# 355 Portal System and Liver
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) › b. Systems of Shape › iii. Digestive System
+G: Pfortadersystem und Leber
+Gloss: The portal vein and the liver, with the stomach's and pancreas's juices.
+HGloss: The second moment of the circuit: the portal system and the liver, where the blood, with the gastric and pancreatic juices, turns against the food it has to master.
+
+N:
+  portal system and liver; portal vein, hepatic portal system, liver, hepatic vein, gastric juice, pancreatic juice, digestive juices, pepsin, enzymes
+  pancreas
+
+Adj:
+  portal, hepatic, gastric, pancreatic
+
+F:
+  Latin: vena portae, hepar, iecur
+  Greek: hēpar

@@ -1,0 +1,19 @@
+# 816 Judaea
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy) › c. The Persian Empire and Its Parts
+G: Judäa
+Gloss: The land of the Jews, whose religion of the one God set spirit above nature.
+HGloss: Judäa, where nature is reduced to the created and the One is grasped as pure spirit, though bound to one people.
+
+N:
+  Judaea
+  the Hebrew religion of the One
+  Israel, Jerusalem, the Temple, Jehovah, the Law, Moses, the prophets
+
+V:
+  worship
+
+Adj:
+  Judaean, Hebrew
+
+Phr:
+  Hear, O Israel: the Lord our God is one Lord, Shema Yisrael [Heb.] [Bible]

@@ -1,0 +1,13 @@
+# 1261 The Eastern Peripatetics
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity › 2. Arabic Philosophy
+G: Die morgenländischen Peripatetiker
+Gloss: The Arabic Aristotelians of Baghdad and Persia: al-Kindī, al-Fārābī and Avicenna.
+HGloss: The eastern falāsifa, al-Kindī, al-Fārābī and Avicenna, who received Aristotle through translation and commented on him in a Neoplatonic spirit.
+
+N:
+  the Eastern Peripatetics
+  al-Kindī, al-Fārābī [the Second Teacher], Ibn Sīnā [Avicenna], the House of Wisdom, Avicennism, al-Rāzī, the Brethren of Purity, the translation movement, the active intellect
+  Baghdad, the Book of Healing, the Canon of Medicine, the necessary existent, essence and existence
+
+Adj:
+  Avicennian, Farabian

@@ -1,0 +1,33 @@
+# 419 Sight
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses › 1. Sight and Hearing
+G: Gesicht
+Gloss: The sense of light and colour, which takes in its objects at a distance and leaves them as they are.
+HGloss: Gesicht, the sense of physical ideality, related to light, the ideal physical element; it lets its object be.
+
+N:
+  sight
+  view, glance, glimpse, gaze, ken, espial†, perlustration†, conspection†, conspectuity†
+  spectator, beholder, observer, looker-on, onlooker, eyewitness, bystander, passer by, sightseer, rubbernecker [U.S.]
+  vision, seeing, eye, peepers [Slang], baby blues, orbs, iris, pupil, retina, cornea, lens, eyelid, eyelash, lash, eyebrow, lid, viewer, watcher
+  lippitude†, presbyopia†, chromato pseudo blepsis†, nyctalopia†, strabism†, blearedness†, hemeralopia†, xanthocyanopia†, chromatrope†, thaumatrope†, pseudoscope†, polyscope†, eriometer†, actinometer†, lucimeter†, abdominoscopy†
+
+V:
+  see, look, watch, behold
+  discern, descry, espy, catch a glimpse of
+  witness, look on &c H0237, gawk, rubber [Slang], rubberneck [U.S.]
+  eyeball [Slang], clock [Brit. Slang], check out [Slang], scope out, peep, ogle, gawp
+
+Adj:
+  visual, optical
+  ocular, optic
+  periscopic†
+
+Adv:
+  by sight
+
+Phr:
+  out of sight, out of mind
+  the scales falling from one's eyes
+  an eye like Mars to threaten or command [Hamlet]
+  her eyes are homes of silent prayer [Tennyson]
+  O dark, dark, dark, amid the blaze of noon [Milton]

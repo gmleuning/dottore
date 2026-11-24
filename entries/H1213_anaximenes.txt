@@ -1,0 +1,13 @@
+# 1213 Anaximenes
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Anaximenes
+Gloss: The Milesian who held that all things come from air, thinned into fire or thickened into water and earth.
+HGloss: Anaximenes, for whom the principle is air, the infinite in sensuous form and soul-like, from which things arise by rarefaction and condensation.
+
+N:
+  Anaximenes
+  air
+  Anaximenes of Miletus, rarefaction and condensation, the breath of the world
+
+F:
+  Greek: pneuma, aēr

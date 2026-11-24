@@ -1,0 +1,31 @@
+# 517 Satisfaction
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › a. Immediate Self-Consciousness (Desire) › iii. Satisfaction and Identification
+G: Befriedigung
+Gloss: The fulfilment of desire, in which the want is stilled for a time.
+HGloss: Befriedigung, the satisfaction in which the drive is fulfilled and the object's independence negated.
+
+N:
+  satisfaction
+  gratification, fulfilment, contentment, satiety, appeasement, sating
+  contentedness, complacency, peace of mind
+  enjoyment, fruition, satisfaction &c H0680
+  repletion, satiation
+  kick, buzz, hit, high, fix, rush, dopamine hit, instant gratification, treat
+  calming
+
+V:
+  satisfy, gratify, fulfil, sate, appease, content
+  slake, indulge
+  satiate, quench
+  hit the spot, scratch the itch, get one's fix
+
+Adj:
+  satisfied, gratified, sated, content, contented, fulfilled
+  at ease
+  chuffed [Brit.], stoked [Slang], made up [Brit. Slang], sorted [Brit. Slang], stuffed, full
+
+Adv:
+  contentedly, to one's satisfaction, with gratification
+
+Phr:
+  to have one's fill

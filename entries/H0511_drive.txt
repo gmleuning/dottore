@@ -1,0 +1,25 @@
+# 511 Drive
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › a. Immediate Self-Consciousness (Desire) › i. Drive and Activity
+G: Trieb
+Gloss: The urge that springs from the self's lack and turns it toward the object.
+HGloss: Trieb, self-consciousness's drive to sublate the contradiction between its certainty of itself and the object that stands over against it.
+
+N:
+  drive
+  urge, impulse, instinct, motivation, need, appetite, impetus, conation, striving
+  conatus
+
+V:
+  drive, urge, impel, strive
+  push
+  impel &c H0242, goad, spur
+
+Adj:
+  driven, impulsive, motivated, appetitive
+  conative
+
+Adv:
+  impulsively, by impulse
+
+Phr:
+  to be driven by

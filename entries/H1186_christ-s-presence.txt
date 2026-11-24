@@ -1,0 +1,19 @@
+# 1186 Christ's Presence
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › b. Representation and Appearance (the Kingdom of the Son) › iii. Reconciliation
+G: Die Gegenwart Christi
+Gloss: God present in the world as an individual human being, in Christ's life and teaching.
+HGloss: Die Gegenwart Christi: the unity of divine and human nature appearing for immediate certainty as one individual man, whose life and teaching proclaim the kingdom of God.
+
+N:
+  Christ's presence
+  the God-man, kenosis
+  the Incarnation, the Word made flesh, Emmanuel, God with us, the Sermon on the Mount, the kingdom of God, sensuous presence
+
+V:
+  become flesh, dwell among us, teach
+
+Adj:
+  incarnate
+
+Phr:
+  the Word was made flesh, and dwelt among us [Bible]

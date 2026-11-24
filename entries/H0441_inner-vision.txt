@@ -1,0 +1,30 @@
+# 441 Inner Vision
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy › ii. Magnetic Somnambulism › 2. Content of Magnetic States › b. Envisioning
+G: Inneres Schauen
+Gloss: The seeing of what is within one's own body.
+HGloss: The somnambulist's seeing of the interior of their own body.
+
+N:
+  inner vision; inner sight, seeing within, self-diagnosis, autoscopy, introspective vision, inward eye
+  inward seeing, self-inspection, vision of one's own body, internal sight
+  introspection
+
+V:
+  look within, see inwardly, introspect
+  see within, look inward, inspect oneself
+
+Adj:
+  inward, introspective, autoscopic
+  internal
+
+Adv:
+  inwardly, within
+  into oneself
+
+F:
+  Arabic: baṣīra [inner sight, insight]
+
+Phr:
+  that inward eye which is the bliss of solitude [Wordsworth]
+  the mind's eye
+  to look within

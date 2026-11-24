@@ -1,0 +1,15 @@
+# 326 Parenchyma
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such › ii. Cellular Tissue and Vessels
+G: Parenchym
+Gloss: The plant's soft ground tissue of thin-walled cells.
+HGloss: The regular cellular tissue, the plant's undifferentiated substance from which its other formations arise.
+
+N:
+  parenchyma; cellular tissue, the regular cellular tissue, ground tissue, cell walls, cellulose, utricles, vesicles
+  cells, pith, medulla
+
+Adj:
+  cellular, vesicular, vasicular†, medullary
+
+Phr:
+  omnis cellula e cellula [Lat.] [Virchow]

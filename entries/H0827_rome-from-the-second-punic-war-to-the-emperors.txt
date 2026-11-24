@@ -1,0 +1,32 @@
+# 827 Rome from the Second Punic War to the Emperors
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › iii. Roman World (Abstract Legal Personhood)
+G: Rom vom zweiten Punischen Krieg bis zum Kaisertum
+Gloss: Rome in its period of expansion and civil strife.
+HGloss: Rome from the second Punic war to the emperors, the age of conquest and civil war.
+
+N:
+  Rome from the Second Punic War to the Emperors; Hannibal, Carthage, Scipio, world dominion, the Gracchi, civil wars, Marius and Sulla, Pompey, Caesar, the fall of the Republic, Augustus
+  the later Republic, Roman expansion, conquest, the Punic Wars
+  proconsul, triumvirate
+
+V:
+  conquer, destroy, contest, cross the Rubicon
+  expand, subjugate, annex, contend
+
+Adj:
+  imperial, expansionist, civil, Caesarean
+  conquering, republican, factional, internecine
+
+Adv:
+  across the Rubicon
+  by conquest, in civil strife, abroad
+
+F:
+  Latin: Carthago delenda est
+
+Phr:
+  Carthago delenda est [Lat.] [Cato, attrib.]
+  alea iacta est [Lat.] [Caesar]
+  veni, vidi, vici [Lat.] [Caesar]
+  Carthage must be destroyed
+  to cross the Rubicon

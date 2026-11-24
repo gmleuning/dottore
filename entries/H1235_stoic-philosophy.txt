@@ -1,0 +1,33 @@
+# 1235 Stoic Philosophy
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 1. Dogmatism
+G: Die stoische Philosophie
+Gloss: The philosophy that grounds truth in the assent of reason and places the good in a will in harmony with the rational order of the world; freedom as inner self-command.
+HGloss: The Stoics, for whom the criterion is the thought that grasps, the logos.
+
+N:
+  Stoic philosophy; Stoicism, the Stoa, logos, living according to nature, providence, cosmopolis, the sage
+  the Stoics, the Middle Stoa
+  apathy, impassivity, self-command, self-mastery, self-control, constancy, fortitude, equanimity, resignation, virtue as the sole good, things indifferent, duty, natural law
+  the wise man
+
+V:
+  live according to nature
+  master oneself, command oneself, govern the passions, submit to fate, follow nature, follow reason, will what happens, despise fortune, resign oneself, stand firm, be indifferent to
+
+Adj:
+  Stoic, stoical, imperturbable, apathetic [old sense]
+  unexcitable, unpassionate†, dispassionate, philosophic
+  impassive, unmoved, unruffled, self-controlled, self-commanding, self-possessed, constant, resigned, equanimous, passionless, cosmopolitan, fatalist, rigorist, austere
+
+Adv:
+  stoically
+  imperturbably, impassively, resignedly, dispassionately, unmovedly, with equanimity, according to nature, philosophically
+
+F:
+  Latin: sustine et abstine, secundum naturam vivere, amor fati, conciliatio, commendatio
+  Greek: apatheia, ataraxia, pronoia, logos spermatikos, hēgemonikon, katalēpsis, synkatathesis, oikeiōsis, ekpyrōsis, adiaphora, prohairesis, heimarmenē, stoa poikilē
+  Arabic: al-riwāqiyyūn [the Stoics]
+  Korean: budongsim [imperturbability]
+  French: appropriation
+  German: Zueignung
+  Italian: attrazione

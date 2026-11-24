@@ -1,0 +1,76 @@
+# 679 Choice
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › β. Practical Mind › b. Drives and Choice
+G: Wahl
+Gloss: The will's picking among its urges; arbitrary will, free choice.
+HGloss: The will reflecting on its drives and deciding among them, free and yet dependent on a given content.
+
+N:
+  choice; decision, resolution, determination, selection, election, option, preference, deliberate choice
+  will, resolve &c H0724
+  discretion &c H0681, preoption†, alternative, dilemma, adoption, cooptation†, novation†, decision &c H0669
+  prelation†, predilection &c H0676
+  unwillingness, indisposition, indisposedness†, disinclination, aversation†, nolleity†, nolition†, renitence†, renitency, reluctance, indifference &c H0473, backwardness, slowness &c H0238, want of alacrity, want of readiness, indocility [Obs.], diuturnity†, displacency†
+  scrupulousness, scrupulosity, qualms of conscience, twinge of conscience, delicacy, qualm, shrinking, hesitation &c H0405, fastidiousness &c H0672, titbit†
+  averseness &c H0672 [Obs.], dissent &c H0667, refusal
+  irresolution, infirmity of purpose, indecision, indetermination, undetermination†, unsettlement, uncertainty &c H0667, suspense, hesitating, hesitation, hesitancy, vacillation, changeableness &c H0007, fluctuation, alternation &c H0238, caprice, diaporesis†
+  fickleness, levity, pliancy &c H0270, weakness, timidity &c H0672, cowardice &c H0801, half measures
+  waverer, ass between two bundles of hay, shuttlecock, butterfly, wimp, doughface [U.S.]
+  rejection, repudiation, exclusion, refusal &c H0689, declination
+  arbitrariness, free choice
+  anything, anything whatever, anything at all
+
+V:
+  choose, decide, resolve, determine, select, elect, opt, prefer, plump for, settle on
+  have determination, know one's own mind, be resolved, make up one's mind, form a determination, come to a determination, come to a resolution, come to a resolve, conclude, fix, seal, determine once for all, bring to a crisis, drive matters to an extremity, take a decisive step, take upon oneself &c H0676
+  use option, use discretion, exercise option, exercise discretion, one's option, adopt, take up, embrace, espouse, opt for, take one's choice, make one's choice, make choice of, fix upon
+  pick and choose, pick out, single out, cull, glean, winnow, sift the chaff from the wheat, separate the chaff from the wheat, winnow the chaff from the wheat, pick up, pitch upon, pick one's way, indulge one's fancy
+  settle, decide &c H0669, list &c H0681, make up one's mind &c H0405
+  be unwilling, nill, dislike &c H0672, grudge, begrudge, not be able to find it in one's heart to, not have the stomach to
+  demur, stick at, scruple, stickle, hang fire, run rusty, recoil, shrink, swerve, hesitate &c H0405, avoid &c H0676
+  oppose &c H0520, refuse &c H0689
+  be irresolute, hang in suspense, keep in suspense, leave "ad referendum", think twice about, pause, dawdle &c H0404, remain neuter, dillydally, hesitate, boggle, hover, dacker†, hum and haw, not know one's own mind, debate, balance, dally with, coquet with, will and will not, chaser-balancer†, go halfway, compromise, make a compromise, be thrown off one's balance, stagger like a drunken man, be afraid &c H0672, let 'I dare not' wait upon 'I would' [Macbeth], falter, waver vacillate &c H0007, change &c H0007, retract, fluctuate, pendulate†, alternate &c H0238, keep off and on, play fast and loose, blow hot and coldshuffle, palter, blink, trim, balbutiate†, balbucinate†
+  reject, set aside, lay aside, give up, decline &c H0689, exclude, except, pluck, spin, cast
+  repudiate, scout, set at naught, fling to the winds, fling to the dogs, fling overboard, fling away, cast to the winds, cast to the dogs, cast overboard, cast away, throw to the winds, throw to the dogs, throw overboard, throw away, toss to the winds, toss to the dogs, toss overboard, toss away, send to the right about, disclaim &c H0662, discard &c H0238
+  pick
+
+Adj:
+  chosen, elective, optional, decisive, resolute, deliberate
+  eclectic, choosing, preferential, choice &c H0728
+  unwilling, not in the vein, loth, loath, shy of, disinclined, indisposed, averse, reluctant, not content, adverse &c H0520, laggard, backward, remiss, slack, slow to, indifferent &c H0473, scrupulous, squeamish &c H0672, repugnant &c H0672, restiff†, restive, demurring, unconsenting &c H0689, involuntary &c H0144, resty†, crossgrained†, dogsick†
+  irresolute, infirm of purpose, double-minded, half-hearted, undecided, unresolved, undetermined, shilly-shally, fidgety, tremulous, off one's balance, at a loss &c H0667
+  vacillating, unsteady &c H0007, unsteadfast†, fickle, without ballast, capricious, volatile, frothy, light, lightsome, light-minded, giddy, fast and loose, unstaid†
+  weak, feeble-minded, frail, timid, wimpish, wimpy &c H0672, cowardly &c H0801, dough-faced [U.S.], facile, pliant &c H0270, unable to say 'no', easy-going revocable, reversible
+  rejected, rejectaneous†, rejectious†, not chosen, to be thought of, out of the question, unsurmountable†, seemless†
+  arbitrary
+  hesitant, itchy
+
+Adv:
+  by choice, deliberately, at one's discretion
+  by preference, in preference, rather, before
+  of one's own free will
+  unwillingly, grudgingly, with a heavy heart, with a bad, with an ill grace, against one's wishes, against one's will, against the grain, sore against one's wishes, sore against one's will, sore against one's grain, in spite of one's teeth, in spite of oneself, perforce &c H0712, under protest, not for the world, far be it from me, overthwart†
+  irresolutely, irresolved†, irresolvedly†, in faltering accents, off and on, from pillar to post, seesaw &c H0238
+  Int, how happy could I be with either! [Gay]
+  neither, neither the one nor the other, no &c H0662
+  arbitrarily, at will, at pleasure
+  kinda, preferably
+
+F:
+  German: Willkür
+  Latin: arbitrium, invita Minerva, nolens volens &c H0144, liberum arbitrium, (liberum) arbitrium
+  Greek: prohairesis
+  French: embarras de choix, a contre caeur, malgre soi, legerete, pis aller, faute de mieux, arbitre, libre arbitre
+  Arabic: ikhtiyār [choice]
+
+Phr:
+  alea iacta est [Lat.] [the die is cast] [Caesar]
+  to be or not to be [Hamlet]
+  anything goes
+  anything you like
+  as one pleases
+  a change came o'er the spirit of my dream [Byron]
+  nil fuit unquain sic inipar sibi [Lat.]
+  the deuce is in him
+  who cares?, what difference does it make?
+  There's not a dime's worth of difference between them [George Wallace]
+  non haec in faedera [Lat.]

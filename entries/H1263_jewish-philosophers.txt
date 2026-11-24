@@ -1,0 +1,10 @@
+# 1263 Jewish Philosophers
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity › 2. Arabic Philosophy
+G: Jüdische Philosophen
+Gloss: The Jewish philosophers of the Islamic world, chief among them Maimonides.
+HGloss: Jewish philosophy within Arabic culture, Moses Maimonides above all, whose Guide reconciles the Law with Aristotle and reports the doctrines of the Kalam.
+
+N:
+  Jewish philosophers
+  Maimonides [Jewish], the Guide for the Perplexed
+  Moses Maimonides, Rambam, Saadia Gaon, Judah Halevi, Ibn Gabirol, Avicebron

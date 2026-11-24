@@ -1,0 +1,13 @@
+# 50 Continuous and Discrete Magnitude
+# Logic › 1. Doctrine of Being › II. Magnitude › α. Quantity
+G: Kontinuierliche und diskrete Größe
+Gloss: Quantity taken either as continuous, an unbroken whole like a line, or as discrete, a collection of separate units like a heap.
+HGloss: Quantity posited as continuity, an unbroken self-equality, and as discreteness, a plurality of ones; each contains the other.
+
+N:
+  continuous and discrete magnitude; the digital and the analogue; the continuous and the discontinuous
+
+F:
+  German: Kontinuität, Diskretion
+  Latin: gradatim
+  Greek: synecheia

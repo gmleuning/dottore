@@ -1,0 +1,41 @@
+# 108 Form and Content
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › a. Absolute Ground
+G: Form und Inhalt
+Gloss: The relation between what something contains and the form in which that content is shaped, each implying the other.
+HGloss: Content as the unity of form and matter, indifferent to form yet only in it.
+
+N:
+  form and content; content, substance, subject matter, matter, material, meaning, import, purport, sense, signification, tenor, gist, burden, drift, message, theme, topic, argument; form, form of presentation, expression, style, manner, mode, vehicle, medium, structure, shape, packaging, wrapping, container, vessel; signifier and signified; letter and spirit; husk and kernel; the medium is the message
+  significance
+  subject, thesis
+  figure, conformation, configuration, formation, cast, mold, structure &c H0268
+  stuff, substratum
+  text, sum and substance
+  turn of expression
+  method, fashion
+  contents, cargo, lading, freight, shipment, load, bale, jag, cartload†, shipload, cup of, basket of, inside &c H0228, stuffing, ullage, wafture†
+
+V:
+  express, convey, embody, carry, contain, mean, signify, import; formulate, frame, couch, phrase, word, put into words, shape, package
+  imply
+  couch in terms
+
+Adj:
+  formal, stylistic, structural; substantive, substantial, contentful, meaningful, significant, pregnant, weighty; empty, contentless, vacuous
+
+Adv:
+  in form, in substance, formally, substantively; in effect, in essence; in so many words
+  in content
+
+F:
+  German: Inhalt
+  French: signifiant et signifié [Saussure]
+  Arabic: maʿnā [meaning] and lafẓ [expression]
+  Sanskrit: artha [meaning] and śabda [word]
+
+Phr:
+  the medium is the message [McLuhan]
+  the letter killeth, but the spirit giveth life [Bible]
+  le style est l'homme même [Fr.] [Buffon]
+  style and substance
+  the gist of it

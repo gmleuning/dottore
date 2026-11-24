@@ -1,0 +1,35 @@
+# 379 Birds
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata
+G: Vögel
+Gloss: Warm-blooded, egg-laying backboned animals with feathers and wings.
+HGloss: The animals of the air, warm-blooded and egg-laying, with the voice of song.
+
+N:
+  birds; fowl, avifauna, flock, covey, ornithology, feathers, plumage, wings, beak, bill
+  the feathered tribe, the fowls of the air
+  bird
+  flying bird, dickey-bird, dicky-bird
+  aviary
+
+V:
+  fly, soar, wing, flutter, flap, glide, swoop, nest, migrate, fledge
+  whistle
+  hover, take wing, wing one's flight
+
+Adj:
+  avian, ornithic, ornithological, feathered, winged, volant
+  oviparous
+
+Adv:
+  as the crow flies, on the wing
+
+F:
+  Latin: aves
+  Greek: ornithes
+  Arabic: Manṭiq al-Ṭayr [Conference of the Birds] [Attar]
+  Sanskrit: dvija [twice-born, bird]
+
+Phr:
+  a bird in the hand is worth two in the bush
+  hope is the thing with feathers [Emily Dickinson]
+  free as a bird

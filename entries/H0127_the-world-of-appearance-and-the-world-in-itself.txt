@@ -1,0 +1,39 @@
+# 127 The World of Appearance and the World-in-Itself
+# Logic › 2. Doctrine of Essence › II. Appearance › β. Appearance Proper
+G: Die erscheinende und die an sich seiende Welt
+Gloss: The world as it appears, contrasted with the world as it is in itself, each the inverse of the other.
+HGloss: The supersensible world, which is the inverted world of appearance: what is positive in one is negative in the other.
+
+N:
+  the world of appearance and the world-in-itself; this world and the other world, the phenomenal and the noumenal, appearance and reality, the visible and the invisible, the seen and the unseen, the sensible and the supersensible; two worlds, two-world theory, dualism; inversion, reversal, mirror image, upside-down world, inverted world &c H0503; Plato's cave
+  eversion, subversion, reversion, contrariety &c H0102
+  opposition, polarity, inversion &c H0228, inverse, counterpart, antipodes
+  the phenomenal world, the noumenal world, the world in and for itself
+  mundus inversus
+
+V:
+  invert, reverse, mirror, turn upside down, turn inside out
+  turn the tables, turn topsy-turvy
+  subvert, transpose
+  appear, oppose
+
+Adj:
+  dual, dualistic, two-world, phenomenal and noumenal, sensible and supersensible, inverted, reversed, mirror-image
+  twin, double, biparous†, conduplicate†, biduous†, binate†, diphyletic†, dispermic†, unijugate†
+  phenomenal, noumenal
+
+Adv:
+  in this world and the next, here and hereafter; inside out, upside down, topsy-turvy
+  in appearance, in itself
+
+F:
+  Latin: mundus sensibilis et intelligibilis
+  Arabic: ẓāhir wa-bāṭin [outer and inner], ʿālam al-shahāda wa-l-ghayb [the visible and the unseen world]
+  Sanskrit: saṃvṛti and paramārtha [conventional and ultimate truth], dve satye [the two truths] [Nāgārjuna]
+  Korean: jeondoen segye [inverted world]
+
+Phr:
+  the allegory of the cave [Plato]
+  as above, so below
+  the world turned upside down
+  through the looking glass

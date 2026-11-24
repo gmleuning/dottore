@@ -1,0 +1,43 @@
+# 415 Sleeping
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › b. Natural Changes › iii. Waking and Sleeping
+G: Schlafen
+Gloss: Sleep, in which the soul sinks back into its undivided natural life to rest and restore itself.
+HGloss: Sleep, the soul's return into its undivided substance, a strengthening of its activity, not as mere rest but as a return from the world of determinations.
+
+N:
+  sleeping
+  sleep, slumber, repose, rest, dormancy, nap, doze, siesta, Hypnos, Morpheus, Somnus, dream &c H0430, deep sleep
+  sound sleep, heavy sleep, balmy sleep, coma, trance, ecstasis†, dream, hibernation, wink of sleep, forty winks, snore, hypnology†
+  repose &c H0760
+  the sleeping state
+  shut-eye [Coll.], kip [Brit. Slang], zizz [Brit. Slang], beauty sleep, catnap, power nap, lie-in, sleep-in, REM sleep
+  yawning, apertness†, hiation†, oscitancy†, fatigation†
+  somnolence, hypnagogia
+
+V:
+  sleep, slumber, doze, nap, drowse, nod off, drop off, retire, rest
+  be asleep, hibernate, oversleep, sleep like a top, sleep like a log, sleep like a dormouse, sleep soundly, heavily, drowze†, snooze, take a nap, snore one's best, settle to sleep, go to sleep, go off to sleep, doze off, fall asleep, drop asleep, close the eyes, seal up the eyes, seal up eyelids, weigh down the eyelids, get sleep, nod, yawn, go to bed, turn, get some z's, stack z's [Coll.]
+  rest and be thankful, take a rest, take one's ease, take it easy
+  crash [Slang], crash out, conk out, zonk out, hit the hay [Coll.], hit the sack [Coll.], turn in, catch some z's, sleep in, lie in
+
+Adj:
+  asleep, sleeping, slumbering, dormant, drowsy, somnolent, soporific, hypnagogic, hypnopompic
+  dead asleep, sound asleep, in a sound sleep, sound as a top, comatose, in the arms of Morpheus, in the lap of Morpheus
+  sleepy, sleepful†, dozy†, torpescent†, lethargic, lethargical†, somnifacient†, statuvolent†, statuvolic†, heavy, heavy with sleep, napping, somnific†, soporous†, soporiferous†, hypnotic, balmy, dreamy, unawakened
+  fatigued, tired, weary &c H0462, drowsy &c H0404, toilworn†, surbated†, unrefreshed†
+  somniferous
+  zonked, out like a light, dead to the world, knackered [Brit. Slang], wiped, beat, pooped, bushed, shattered [Brit.], dog-tired, sleep-deprived
+
+Adv:
+  asleep, fast asleep, in one's sleep
+
+F:
+  German: Schlafen
+
+Phr:
+  to sleep, perchance to dream [Hamlet]
+  sleep that knits up the ravell'd sleave of care [Macbeth]
+  the mystery of folded sleep [Tennyson]
+  the timely dew of sleep [Milton]
+  thou driftest gently down the tides of sleep [Longfellow]
+  tired Nature's sweet restorer, balmy sleep [Young]

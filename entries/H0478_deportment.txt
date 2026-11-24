@@ -1,0 +1,47 @@
+# 478 Deportment
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › γ. Actual Soul › b. Voluntary Embodiment
+G: Haltung
+Gloss: The way one carries oneself; bearing.
+HGloss: The upright posture and bearing which the will gives to the body.
+
+N:
+  deportment; bearing, carriage, posture, poise, stance, mien, demeanour, comportment, manner, air, presence, address, port†, gait, upright posture
+  conduct, behavior, maintien†, observance
+  guise, demeanor
+  tread
+  courtesy, respect &c H0535, good manners, good behavior, good breeding, manners, politeness, bienseance, urbanity, comity, gentility, breeding, polish, civility, civilization, amenity, suavity, good temper, good humor, amiability, easy temper, complacency, soft tongue, mansuetude, condescension &c H0451, affability, complaisance, prévenance, amability†, gallantry, pink of politeness, pink of courtesy, invitingness†
+  way
+  swagger, strut, slouch, stoop, hunch, slump, sprawl, manspreading [Slang], power pose, attitude, aura, swag [Slang], astrology†
+
+V:
+  bear oneself, carry oneself, comport oneself, deport oneself, hold oneself, stand tall
+  behave oneself, demean oneself, conduct oneself, acquit oneself
+
+Adj:
+  upright, erect, poised, dignified, stately, statuesque, graceful, elegant, composed
+  solemn, majestic, formal, stiff, ceremonious, punctilious, starched
+  august
+  comely, seemly
+  well-carried
+  slouchy, hunched, swaggering, cocky, chill [Slang], cool
+  gratulatory†
+
+Adv:
+  uprightly, with poise, with dignity
+  with bearing
+
+F:
+  French: aplomb, prestance, désinvolture [casual ease], conduite, comportement, béhaviorisme, béhaviourisme, comportementalisme, grâce, beauté, élégance, légèreté
+  Sanskrit: āsana [posture]
+  Italian: sprezzatura [studied nonchalance] [Castiglione], garbo [grace, good manners], leggiadria [natural grace, effortless elegance], comportamento, comportamentismo
+  Chinese: songchigan [ease, relaxedness]
+  Spanish: majismo [the swagger of the majos]
+  German: Verhalten, Behaviorismus, Geschicklichkeit
+  Latin: negligentia
+
+Phr:
+  walk tall
+  to carry oneself well
+  head held high
+  Tien de plus estimable que la ceremonie [Fr.]
+  the very pink of courtesy [Romeo and Juliet]

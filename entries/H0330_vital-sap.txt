@@ -1,0 +1,26 @@
+# 330 Vital Sap
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such › iii. Saps
+G: Lebenssaft
+Gloss: The sap by which a plant nourishes its living tissue.
+HGloss: The sap that nourishes the living tissue.
+
+N:
+  vital sap; elaborated sap, phloem sap, nourishing sap, living juice, vital fluid; essence
+  life-sap, latex, the proper juice, descending sap
+
+V:
+  nourish, feed, sustain
+  circulate
+
+Adj:
+  vital, nourishing, elaborated, enlivening
+  nutritive, lacteal, lactean†, lacteous†, lactescent†, lactiferous†
+
+Adv:
+  vitally
+  through the living tissue
+
+Phr:
+  the lifeblood of the plant
+  the vital juices
+  life-blood

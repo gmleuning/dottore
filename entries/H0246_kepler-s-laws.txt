@@ -1,0 +1,30 @@
+# 246 Kepler's Laws
+# Nature › 1. Mechanics › III. Absolute Mechanics (Astronomy)
+G: Keplersche Gesetze
+Gloss: The laws of planetary motion: elliptical orbits, equal areas swept in equal times, and the squares of the periods proportional to the cubes of the distances.
+HGloss: The laws of absolutely free motion, which Hegel claims as the concept of matter itself rather than Newton's derivation from forces.
+
+N:
+  Kepler's laws; laws of planetary motion; elliptical orbit, ellipse, foci, focus, perihelion, aphelion, apsides; law of equal areas, areal velocity; harmonic law, period and distance; music of the spheres, harmony of the spheres; orbit, revolution, period, year
+  the three laws, the law of areas, Kepler
+  oval
+
+V:
+  orbit, revolve, sweep out equal areas, describe an ellipse
+  sweep out
+
+Adj:
+  Keplerian, elliptical, orbital, periodic, harmonic
+  planetary
+
+Adv:
+  in orbit, elliptically, periodically
+  in ellipses, by Kepler's laws
+
+F:
+  Latin: harmonice mundi [harmony of the world], musica universalis
+
+Phr:
+  harmonices mundi [Lat.] [Kepler]
+  there's not the smallest orb which thou behold'st but in his motion like an angel sings [Merchant of Venice]
+  equal areas in equal times

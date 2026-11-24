@@ -1,0 +1,103 @@
+# 228 Space
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time)
+G: Raum
+Gloss: The boundless, uniform extension in which things lie beside one another, in three dimensions.
+HGloss: The first determination of nature: the abstract universality of its self-externality, a mediationless indifference, continuous and without distinction.
+
+N:
+  space; extension, extent, expanse, spread, room, area, volume, capacity, dimension, three dimensions, length, breadth, depth, height; continuum, plenum; void, vacuum, emptiness; infinity of space, boundless space, outer space; juxtaposition, side-by-sideness; the outside-each-other
+  superficial extent, hyperspace, scope, range, field, way, compass, sweep, swing, dustman†
+  size, magnitude, bulk, largeness, greatness &c H0054, amplitude, mass, proportions
+  length &c H0230, hypervolume
+  distance, remoteness, farness†, far- cry to, longinquity†, elongation, offing, background, remote region, removedness†, parallax, reach, stride
+  expansion
+  nearness, proximity, propinquity, vicinity, adjacency, contiguity
+  short distance, short step, short cut, earshot, close quarters, stone's throw, bow shot, gun shot, pistol shot, hair's breadth
+  purlieus, neighborhood, vicinage, environs, suburbs, confines, banlieue†, borderland, whereabouts, faubourgs†
+  bystander, neighbor, borderer†
+  approach &c H0238, convergence &c H0238, perihelion
+  shortness, brevity, littleness, a span
+  shortening, abbreviation, abbreviature†, abridgment, concision, retrenchment, curtailment, decurtation†, reduction, epitome &c H0662
+  elision, ellipsis, conciseness &c H0662, laconism†, monostich†
+  abridger, epitomist†, epitomizer†
+  width, latitude, diameter, bore, caliber, radius, fulgurite†, thundertube†, eagre†, hygre†
+  thickness, crassitude†, corpulence, dilation
+  lowness, debasement, depression, prostration &c H0231, depression &c H0277, lowlihood†
+  molehill, lowlands, basement floor, ground floor, cellar, hold, bilge, feet, gibbosity†
+  low water, low tide, ebb tide, neap tide, spring tide, siccity†
+  shallowness, shoals, mere scratch
+  rear, posteriority, rear rank, rear guard, hinterland
+  occiput [Anat.], nape, chine, heels, tail, rump, croup, buttock, posteriors, backside scut†, breech, dorsum, loin, dorsal region, lumbar region, hind quarters, aitchbone†, natch, natch bone
+  stern, poop, afterpart†, heelpiece†, crupper
+  wake, train &c H0238
+  reverse, other side of the shield
+  dextrality†, right, right hand, offside, starboard
+  sinistrality†, left, left hand, a gauche, nearside†, larboard, port
+  self-externality, asunderness
+  neighbourhood, overweight, neighbour
+  spatiality
+  micrography†, metacenter†
+
+V:
+  extend, spread, stretch, span, occupy, fill, space out, lie beside
+  be near, adjoin, hang about, trench on, border upon, verge upon, stand by, approximate, tread on the heels of, cling to, clasp, hug, huddle, hang upon the skirts of, hover over, burn
+  touch, bring near, draw near &c H0238, converge &c H0238, crowd &c H0043, place side by side, connaturalize†
+  be short, render short, shorten, curtail, abridge, abbreviate, take in, reduce, compress, epitomize, retrench, cut short, obtruncate†, cut, chop up, hack, hew, cut down, pare down, clip, dock, lop, prune, shear, shave, mow, reap, crop, snub, truncate, pollard, stunt, nip, check the growth of, foreshorten (in drawing), jugulate†, displume†
+  be broad, become broad, render broad, expand, thicken, widen, calibrate, inspissate†
+  be low, lie low, lie flat, underlie, crouch, slouch, wallow, grovel, lower &c H0238
+  be behind, fall astern, bend backwards, bring up the rear
+
+Adj:
+  spatial, spacious, extended, three-dimensional, roomy, vast, boundless, extensive, dimensional, juxtaposed
+  expansive, capacious, ample, widespread, world-wide, uncircumscribed, boundless &c H0063, shoreless†, trackless, pathless, invious†
+  near, nigh, close at hand, near at hand, close, neighboring, bordering upon, contiguous, adjacent, adjoining, proximate, proximal, at hand, handy, near the mark, near run, home, intimate
+  short, brief, curt, compendious, compact, stubby, scrimp, shorn, stubbed, stumpy, pug, chunky [U.S.], decurtate†, retrousse†, stocky, squabby†, little, curtailed of its fair proportions, short by, oblate, concise &c H0662, summary, portative†
+  broad, wide, discous†, fanlike, outspread, outstretched, wide as a church-door, latifoliate†, latifolous†, longsome†, wiredrawn†, macrocolous†
+  thick, dumpy, squab, squat, thickset, thick as a rope
+  low, neap, debased, nether, nether most, flat, level with the ground, lying low, crouched, subjacent, prostrate &c H0231
+  shallow, slight, superficial, skin deep, ankle deep, knee deep, just enough to wet one's feet, shoal, shoaly†
+  back, hind, hinder, hindmost, hindermost†, postern, posterior, dorsal, caudal, lumbar, mizzen, tergal†, vergent†
+  dextral, right-handed, dexter, dextrorsal†, dextrorse†, ambidextral†, ambidextrous, dextro-
+  left-handed, sinister, sinistral, sinistrorsal†, sinistrorse†, sinistrous†, laevo- [Pref.], exceptious†
+  remaining, neighbouring, clockwise, abbreviated
+
+Adv:
+  in space, side by side, here and there, far and wide, everywhere, throughout
+  extensively, wherever, far and near, right and left, all over, all the world over, throughout the world, throughout the length and breadth of the land, under the sun, in every quarter, in all quarters, in all lands, here there and everywhere, from pole to pole, from China to Peru [Johnson], from Indus to the pole [Pope], from Dan to Beersheba, from end to end, on the face of the earth, in the wide world, from all points of the compass, to the four winds, to the uttermost parts of the earth
+  hard by, fast by, close to, close upon, hard upon, at the point of, next door to, within reach, within call, within hearing, within earshot, within an ace of, but a step, not far from, at no great distance, on the verge of, on the brink of, on the skirts of, in the environs, at one's door, at one's feet, at one's elbow, at one's finger's end, at one's side, on the tip of one's tongue, under one's nose, within a stone's throw, in sight of, in presence of, at close quarters, cheek by jole†, cheek by jowl, beside, alongside, tete-a-tete, in juxtaposition, yardarm to yardarm, on the confines of, at the threshold, verging to, in the way
+  about, hereabouts, thereabouts, roughly, in round numbers, approximately, approximatively†, as good as, well-nigh
+  shortly, in short &c H0662
+  under, beneath, underneath, below, downwards, adown†, at the foot of, under foot, under ground, down stairs, below stairs, at a low ebb, below par
+  behind, in the rear, in the background, behind one's back, at the heels of, at the tail of, at the back of, back to back, a la sourdine†
+  after, aft, abaft, astern, sternmost†, aback, rearward
+  dextrad†, dextrally†
+  sinistrally, sinistrously†
+  spatially
+  almost, nearly, backwards
+
+F:
+  German: Nebeneinander, Außereinander
+  Latin: spatium
+  Greek: chōra, topos
+  French: alentours, rez de chaussee
+  Sanskrit: ākāśa [space, ether], dik [direction, space]
+  Japanese: ma [interval, spatial pause]
+
+Phr:
+  the eternal silence of these infinite spaces terrifies me, le silence éternel de ces espaces infinis m'effraie [Fr.] [Pascal]
+  I could be bounded in a nutshell and count myself a king of infinite space [Hamlet]
+  in the middle of nowhere
+  room to move
+  distance lends enchantment [Campbell]
+  it's a long long way to Tipperary
+  formosa muta commendatio est [Lat.] [Syrus]
+  frons est animi janua [Lat.] [Cicero]
+  Human face divine [Milton]
+  imago animi vultus est indices oculi [Lat.] [Cicero]
+  sea of upturned faces [Scott]
+  ogni medaglia ha il suo rovescio [It.]
+  the other side of the coin
+  his cheek the may of days outworn [Shakespeare]
+  thereby hangs a tale [As You Like It]
+  tacitum vivit sub pectore vulnus [Lat.] [Virgil]
+  where there's smoke, there's fire

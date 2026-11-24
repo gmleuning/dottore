@@ -1,0 +1,74 @@
+# 669 Judging
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › c. Thinking
+G: Urteilen
+Gloss: Thinking that relates the particular to the general.
+HGloss: Thinking that distinguishes and relates its determinations, the universal and the singular.
+
+N:
+  judging; judgment, adjudication, assessment, appraisal, discernment, verdict, decision, opinion, predication
+  determination, finding, sentence, decree, findings of fact, findings of law
+  estimation, appreciation, judication†, dijudication†, arbitrament, arbitrement†, arbitration, ponderation†, valorization
+  discrimination, distinction, differentiation, diagnosis, diorism†, nice perception, perception of difference, appreciation of difference, estimation &c H0069, nicety, refinement, taste &c H0835, critique, tact, discernment &c H0646, acuteness, penetration, nuances
+  plebiscite, voice, casting vote, vote &c H0679, opinion &c H0667, good judgment &c H0646
+  umpire, arbiter, arbitrator, referee, referendary†, domesman†, barmaster†, ephor†
+  valuation, appraisement
+  overestimation, exaggeration &c H0662, vanity &c H0451, optimism
+  much cry and little wool, much ado about nothing, storm in a teacup, tempest in a teacup, fine talking, venditation†, teratology†
+  underestimation, depreciation &c H0604, pessimism, pessimist, undervaluing, modesty
+  subsumption
+  reviewer, ump
+
+V:
+  judge, assess, appraise, discern, determine, predicate, decide, pronounce
+  settle, pass an opinion, give an opinion, try, rule, pass judgment, pass sentence, doom, find, give judgment, deliver judgment, adjudge, adjudicate, arbitrate, award, report, bring in a verdict, make absolute, set a question at rest, confirm &c H0667
+  evaluate, rate
+  conclude, come to a conclusion, draw a conclusion, arrive at a conclusion, ascertain, make up one's mind, stablish†, stabilitate†
+  form an estimate, estimate, appreciate, value, count, rank, account, regard, consider, think of, look upon &c H0667, review, size up [Slang]
+  overestimate, overrate, overvalue, overprize, overweigh, overreckon†, overstrain, overpraise, eulogize, estimate too highly, attach too much importance to, make mountains of molehills, catch at straws, strain, magnify, exaggerate &c H0662, set too high a value upon, think much of, make much of, think too much of, make too much of, outreckon†, panegyrize†, bepraise†
+  extol, extol to the skies, make the most of, make the best of, make the worst of, make two bites of a cherry
+  have too high an opinion of oneself &c H0451
+  underrate, underestimate, undervalue, underreckon†, depreciate, disparage &c H0604, not do justice to, misprize, disprize, ridicule &c H0942, slight &c H0535, neglect &c H0649, slur over
+  make light of, make little of, make nothing of, make no account of, belittle, minimize, think nothing of, set no store by, set at naught, shake off as dewdrops from the lion's mane
+  subsume
+
+Adj:
+  judicious, judgmental, discerning, evaluative, predicative
+  judicious &c H0646, determinate, conclusive
+  overestimated, oversensitive &c H0672
+  depreciating, depreciated, unvalued, unprized†, unwished†
+  judicative, judicial, subsumptive
+
+Adv:
+  judiciously, in judgment
+  by judgment
+
+F:
+  Latin: res judicata
+  Sanskrit: viveka [discernment]
+
+Phr:
+  judgment is the faculty of subsuming under rules [Kant]
+  in my judgment
+  to weigh up
+  comparisons are odious
+  comparisons are odorous [Much Ado about Nothing]
+  like apples and oranges
+  no basis for comparison
+  no standard for comparison
+  il y a fagots et fagots
+  rem acu tetigisti [Lat.]
+  la critique est aisee et l'art est difficile [Fr.]
+  miles apart
+  valeat quantum valere potest [Lat.]
+  a Daniel come to judgment [Merchant of Venice]
+  and stand a critic, hated yet caress'd [Byron]
+  it is much easier to be critical than to be correct [Disraeli]
+  nothing if not critical [Othello]
+  O most lame and impotent conclusion [Othello]
+  nothing like leather
+  the wish the father to the thought
+  wishful thinking
+  unshakable conviction
+  my mind is made up - don't bother me with the facts
+  all his geese are swans
+  parturiunt montes [Lat.]

@@ -1,0 +1,27 @@
+# 281 Properties of Bodies (Specification of the Individual Body)
+# Nature › 2. Physics › III. Physics of Total Individuality
+G: Eigenschaften der Körper
+Gloss: The qualities by which one body is distinguished from others.
+HGloss: The individual body specified in its relation to the elements: to light, to air and water, and to fire as electricity.
+
+N:
+  properties of bodies; specification of the individual body, particular properties, sensible qualities, secondary qualities, colour, smell, taste, electricity; physical character
+  properties, qualities, attributes, characteristics, physical properties, distinguishing marks, specific qualities
+
+V:
+  characterize, specify, distinguish
+  differentiate, qualify
+
+Adj:
+  sensible, perceptible, specific, characteristic, secondary
+  particular, peculiar
+  distinctive, qualitative
+
+Adv:
+  sensibly, characteristically
+  by its properties
+
+Phr:
+  by their properties ye shall know them
+  a body of its own
+  telling them apart

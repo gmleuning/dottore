@@ -1,0 +1,17 @@
+# 567 The Spiritual Animal Kingdom and Deceit, or the Matter in Hand Itself
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › a. The Certainty and Truth of Reason › iv. Individuality Real In and For Itself
+G: Das geistige Tierreich und der Betrug
+Gloss: The individual absorbed in their work, the self-deceptions that surround it, and everyone's shared concern with the cause itself; honest and dishonest engagement.
+HGloss: Individuals each busy with their own work, the matter in hand, and the deceit of claiming it as a universal concern.
+
+N:
+  the spiritual animal kingdom and deceit; the matter in hand itself
+
+Adv:
+  busily
+
+F:
+  German: die Sache selbst, das Werk, das geistige Tierreich
+  Latin: opus
+  Greek: ergon
+  French: mauvaise foi [Sartre]

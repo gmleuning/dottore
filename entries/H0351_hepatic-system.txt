@@ -1,0 +1,26 @@
+# 351 Hepatic System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) › b. Systems of Shape › ii. Blood System › 2. Pulmonary and Hepatic System
+G: Die Leber
+Gloss: The liver and its circulation, where the blood turns inward to digestion.
+HGloss: The liver and the portal system, where the blood's subjectivity becomes activity, a consuming volcano, the inward fire of digestion.
+
+N:
+  hepatic system
+  liver, bile, gall, spleen, humours
+  gall bladder, black bile, yellow bile, choler, phlegm, pancreas, kidneys, adrenal glands, pluck, offal, liver and lights, giblets, chitterlings, sweetbreads, haslet, foie gras
+  jaundice, hepatitis, cirrhosis, gallstones, icterus†, xantho- cyanopia†
+  portal circulation, venous blood, the inward fire
+
+V:
+  filter, purify, secrete, secrete bile, refine
+
+Adj:
+  hepatic, biliary, splenetic, bilious, jaundiced, liverish, lily-livered, choleric, splenic
+
+Adv:
+  by the liver
+
+Phr:
+  vent one's spleen
+  to have the gall
+  zum verzehrenden Vulkan [Ger.] [Hegel, Encyclopedia §354 Zusatz, on the portal system]

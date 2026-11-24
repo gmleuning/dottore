@@ -1,0 +1,43 @@
+# 150 Action and Reaction
+# Logic › 2. Doctrine of Essence › III. Actuality › γ. Absolute Relation › b. Relation of Causality
+G: Wirkung und Gegenwirkung
+Gloss: The relation in which an effect acts back upon its cause.
+HGloss: The effect reacting on the cause, so that each passive substance becomes active; the cause is effect of its own effect.
+
+N:
+  action and reaction; reaction, counteraction, counterforce, recoil, rebound, kickback, backlash, blowback, repercussion, reverberation, feedback, response, retaliation, retort, riposte, counterstroke, counterblow; reflux; Newton's third law; boomerang; reactance, resistance, surrejoinder†, surrebutter†
+  retroaction, revulsion, bounce, ricochet, recalcitration†, kick, springing back, elasticity &c H0273, reflection, reflexion [Brit.], reflex, reverberation &c H0274, rebuff, repulse
+  opposition, contrariety &c H0102, antagonism, polarity, clashing, collision, interference, inhibition, renitency, friction, retroaction &c H0242, counterblast†, neutralization &c H0697, check &c H0026
+  opposites, yang and yin, yang-yin &c H0102
+  compensation, measure for measure
+  counter-effect
+  comeback
+
+V:
+  react, counteract, respond, retaliate, recoil, rebound, kick back, backfire, boomerang, rebound upon, come back to, strike back, push back, return
+  spring back, fly back, bounce back, bound back, reverberate, repercuss†, recalcitrate†
+  run counter, clash, cross, interfere with, conflict with, contravene, jostle, go against, run against, beat against, militate against, stultify, antagonize, block, oppose &c H0520, traverse, withstand &c H0800, hinder &c H0026, repress &c H0712, react &c H0242
+  pay back, reciprocate &c H0151, turn the tables upon
+  answer, echo
+  act back
+
+Adj:
+  reactive, reactionary, responsive, retaliatory, counteractive, reciprocal, recoiling
+  refluent†, repercussive, recalcitrant
+  counteracting, antagonistic, conflicting, retroactive, renitent, contrary &c H0102
+
+Adv:
+  in return, in response, in reaction, tit for tat, back
+  reactively
+
+F:
+  Latin: quid pro quo, vis inertiae
+  French: contrecoup
+
+Phr:
+  to every action there is always opposed an equal reaction [Newton]
+  he that diggeth a pit shall fall into it [Bible]
+  hoist with his own petard [Hamlet]
+  every action has an equal and opposite reaction
+  to give as good as one gets
+  for every action there is a reaction, equal in force and opposite in direction [Newton]

@@ -1,0 +1,40 @@
+# 32 Alternating Determination of the Finite and the Infinite
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › c. Infinity
+G: Wechselbestimmung des Endlichen und Unendlichen
+Gloss: The unlimited held apart from the limited, which makes it limited in turn; an endless alternation between the two, like a series that never arrives. Also called the bad or spurious infinite.
+HGloss: The spurious (bad) infinite, fixed beyond the finite and so itself finite: the endless alternation of finite and infinite, the infinite progress.
+
+N:
+  alternating determination of the finite and the infinite; bad infinity, spurious infinity; endless progression, infinite progress, infinite regress, regress, endless regress; perpetual ought, endless striving; vicious circle, merry-go-round, treadmill, rat race, squirrel cage, Sisyphean labour; Sisyphus, the stone of Sisyphus, Tantalus, the Danaids' sieve; tedium, monotony, repetition, iteration, sameness, ad nauseam; asymptote, horizon, mirage, receding goal, will-o'-the-wisp; turtles all the way down
+  recurrence, succession
+  the bad infinite, the spurious infinite, the endless progress, the alternation, the ought
+
+V:
+  alternate, oscillate, seesaw, shuttle, ping-pong, go back and forth, swing to and fro, see-saw; regress, recede; repeat, reiterate, iterate; go on forever, go round in circles, chase one's tail, run in place, tread water; never arrive
+  fluctuate, waver, vacillate, turn and turn about, wamble†
+  go on endlessly
+
+Adj:
+  endless, unending, interminable, never-ending, perpetual, ceaseless, incessant, sempiternal; repetitive, iterative, monotonous, tedious, Sisyphean, Tantalean; asymptotic, receding; alternating, oscillating, oscillatory, reciprocating; spurious, false, bad, vicious, pulsatory†, vibratile†
+  recursive [Comp.]
+  tiresome, insistent
+
+Adv:
+  without end, on and on, again and again, over and over, round and round, back and forth, to and fro, hither and thither; et cetera, and so on, and so forth, and so on and so forth
+  backwards and forwards, wibble-wabble†
+  alternately
+  repeatedly, ofttimes†, unseldom†, not unfrequently†
+
+F:
+  German: schlechte Unendlichkeit, Wechselbestimmung
+  Latin: progressus in infinitum, regressus in infinitum, circulus vitiosus, ignis fatuus, ad infinitum, ad nauseam
+  Arabic: tasalsul [infinite chain]
+  Sanskrit: saṃsāra [cycle of rebirth], anavasthā [infinite regress]
+  Korean: angmuhan [bad infinite]
+
+Phr:
+  turtles all the way down
+  great fleas have little fleas upon their backs to bite 'em [Augustus De Morgan]
+  who will guard the guards themselves? quis custodiet ipsos custodes? [Lat.] [Juvenal]
+  the more things change, the more they stay the same
+  an endless round

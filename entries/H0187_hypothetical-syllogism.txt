@@ -1,0 +1,31 @@
+# 187 Hypothetical Syllogism
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › γ. Syllogism › c. Syllogism of Necessity
+G: Hypothetischer Schluss
+Gloss: Inference whose connecting term is a condition: if A then B; A; therefore B.
+HGloss: The middle is the being of the condition, which is the being of the conditioned.
+
+N:
+  hypothetical syllogism; conditional inference, affirming the antecedent, denying the consequent, chain argument
+  the hypothetical inference, the if-then syllogism, the antecedent, the consequent
+
+V:
+  infer conditionally, affirm the antecedent, deny the consequent
+  condition
+
+Adj:
+  hypothetical, conditional, inferential
+  consequential
+
+Adv:
+  if so, then; given that, it follows
+  hypothetically, conditionally
+
+F:
+  Latin: modus ponens, modus tollens
+  Arabic: istithnāʾī [exceptive syllogism]
+
+Phr:
+  if it rains, the ground is wet
+  it rains
+  the ground is wet
+  if so, then so

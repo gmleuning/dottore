@@ -1,0 +1,35 @@
+# 456 Mental Closure
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement
+G: Das Insichverschlossensein
+Gloss: The emptying of the mind, so that it holds no definite content.
+HGloss: The first form of derangement: the soul shut up within itself, no longer in immediate connection with actuality, in imbecility, absent-mindedness and rambling.
+
+N:
+  mental closure; vacuity; emptiness of mind, blankness, vacancy, mindlessness, idiocy, stupor, torpor, apathy, inanity, absence of thought, mental void
+  incogitancy†, inunderstanding†, fatuity &c H0455, thoughtlessness &c H0649
+  emptiness, void, vacuum
+  torpidity, lethargy, trance, stupefaction, torpescence†
+  dullness, stupor &c H0473
+  fatuity
+  inanition
+
+V:
+  go blank, stare vacantly, zone out
+
+Adj:
+  vacuous, vacant, blank, empty, mindless, inane, torpid, stuporous, absent
+  unintellectual, unoccupied, unthinking, thoughtless, absent &c H0649, unbusied†
+  empty &c H0237, hollow, null
+  vain
+  abstracted, bemused
+
+Adv:
+  vacantly, blankly
+
+F:
+  Latin: tabula rasa
+
+Phr:
+  the lights are on but nobody is home
+  nobody home
+  blank stare

@@ -1,0 +1,26 @@
+# 418 Sight and Hearing
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses
+G: Gesicht und Gehör
+Gloss: The senses that perceive at a distance.
+HGloss: The senses of ideality, sight of physical light and hearing of the body's inner tremor.
+
+N:
+  sight and hearing; the ideal senses, the theoretical senses, the distance senses, the eye and the ear, vision and audition
+  spy, sentinel &c H0662
+  hearing
+  covercle†
+
+Adj:
+  audiovisual, ideal
+
+Adv:
+  by eye and ear, at a distance
+
+F:
+  Sanskrit: dṛṣṭi and śruti [seeing and hearing, also revelation]
+
+Phr:
+  all eyes and ears
+  looking before and after [Hamlet]
+  thy rapt soul sitting in thine eyes [Milton]
+  full many a flower is born to blush unseen [Gray]

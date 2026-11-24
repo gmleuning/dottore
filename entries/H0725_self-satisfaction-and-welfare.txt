@@ -1,0 +1,56 @@
+# 725 Self-Satisfaction and Welfare
+# Spirit › 2. Objective Spirit › II. Morality › β. Intention and Welfare
+G: Selbstbefriedigung und Wohl
+Gloss: The agent's satisfaction in acting, and their well-being.
+HGloss: The subject's right to find its satisfaction in its deed, its welfare.
+
+N:
+  self-satisfaction and welfare; satisfaction, well-being, personal welfare, self-interest, fulfilment, the subject's particular satisfaction
+  prosperity, welfare, affluence &c H0763, success &c H0207, thrift, roaring trade, good fortune, smiles of fortune, blessings, godsend
+  good, advantage, improvement &c H0803, greatest good, supreme good, interest, service, behoof, behalf, weal, main chance, common weal, consummation devoutly to be wished, gain, boot, profit, harvest
+  contentment, contentedness, complacency, entire satisfaction, heart's ease, peace of mind, serenity &c H0677, cheerfulness &c H0404, ray of comfort, comfort &c H0672
+  snugness, comfort, ease, cushion &c H0230, without worry, mind at ease
+  selfishness, self-love, self-indulgence, self-worship, egotism, egoism, nepotism
+  worldliness, world wisdom
+  illiberality, meanness, insuavity†, uncourteousness†, inurbanity†, incivility displacency†
+  time-pleaser, time-server, tuft- hunter, fortune-hunter, jobber, worldling, egotist, egoist, monopolist, nepotist, dog in the manger, charity that begins at home, foes to nobleness, temporizer, trimmer
+  subjective satisfaction, the right of subjective freedom
+
+V:
+  satisfy, fulfil, benefit
+  be beneficial, produce good, do good, profit &c H0206, confer a benefit
+  be selfish, please oneself, indulge oneself, coddle oneself, consult one's own wishes, consult one's own pleasure, look after one's own interest, feather one's nest, take care of number one, have an eye to the main chance, know on which side one's bread is buttered, give an inch and take an ell
+  satisfy oneself, find satisfaction, fare well
+
+Adj:
+  satisfied, self-interested, fulfilled
+  content, contented, at ease, at one's ease, at home, with the mind at ease, easygoing, not particular, conciliatory, unrepining†, of good comfort, resigned &c H0677, cheerful &c H0404
+  selfish, self-seeking, self-indulgent, self- centered, wrapped up in self, wrapt up in self†, centered in self, egotistic, egotistical, egoistical†
+  illiberal, mean, ungenerous, narrow-minded, mercenary, venal, covetous &c H0677
+  unspiritual, earthly, earthly-minded, mundane, worldly, worldly- minded, worldly-wise, timeserving†
+  interested
+  self-satisfied, well-off
+  narcissistic, complacent, opportunistic
+
+Adv:
+  to one's own satisfaction
+  ungenerously, to gain some private ends, from interested motives
+  to one's satisfaction, for one's own good
+
+F:
+  Latin: summum bonum, sine cura, canis in praesepi, alieni appetens sui profusus
+  French: sans souci, amour propre
+
+Phr:
+  the right of the subject's particularity to find satisfaction [Hegel]
+  to look after number one
+  so far so good
+  magnum bonum [Lat.]
+  one's star in the ascendant, all for the best, one's course runs smooth
+  chacun est l'artisan de sa fortune [Fr.]
+  donec eris felix multos numerabis amicos [Lat.] [Ovid]
+  felicitas multos habet amicos [Lat.]
+  felix se nescit amari [Lat.] [Lucan]
+  good luck go with thee [Henry V]
+  nulli est homini perpetuum bonum [Lat.] [Plautus]
+  apres nous le deluge [Fr.]

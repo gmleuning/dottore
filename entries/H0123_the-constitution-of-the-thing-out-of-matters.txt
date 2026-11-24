@@ -1,0 +1,40 @@
+# 123 The Constitution of the Thing out of Matters
+# Logic › 2. Doctrine of Essence › II. Appearance › α. Existence
+G: Bestehen des Dinges aus Materien
+Gloss: The thing seen as a bundle of independent stuffs, such as heat, color or weight, each a separate "matter."
+HGloss: The properties made self-subsistent as matters, free stuffs, so that the thing is only their external collection, an also.
+
+N:
+  constitution of the thing out of matters; composition, makeup, constitution, structure, fabric, texture, ingredients, components, constituents, elements, materials, stuffs, matters; caloric, phlogiston, imponderables, imponderable fluids, electric fluid, magnetic fluid, luminiferous ether; compound, composite, aggregate; porosity, pores, interpenetration
+  component part, integral part, integrant part†, element, ingredient, leaven, part and parcel, contents, appurtenance, feature, member &c H0130, personnel
+  crasis†, combination &c H0298, inclusion, admission, comprehension, reception, embodiment, formation
+  alloy, amalgam
+  stuff, stock
+  total, sum, complexus†, intrication†
+  the free matters, caloric matter, the porosity of matters, the thing as an also
+
+V:
+  compose, constitute, make up, consist of, be composed of, comprise, contain, incorporate, combine, include
+  fill up, build up, enter into the composition of &c H0130
+  comprehend
+  be made of, be formed of, be made up of, be resolved into
+  include &c H0154, hold, take in, admit, embrace, involve, implicate, drag into
+  form, make
+  embody, blend
+
+Adj:
+  composite, compound, complex, constituent, component, elemental, material, porous, permeable
+  pervious, honeycombed, foraminous†, cribriform†, infundibular†, tubulous†, tubulated†, tubate†
+  constituted, composed
+  complicated, leaky
+
+Adv:
+  in composition, by composition, materially
+  out of matters
+
+F:
+  German: Materien
+
+Phr:
+  the sum of its parts
+  the makings of

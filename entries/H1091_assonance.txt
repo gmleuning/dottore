@@ -1,0 +1,15 @@
+# 1091 Assonance
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › ii. Rhyme
+G: Assonanz
+Gloss: The rhyme of vowels alone, as in Spanish romances.
+HGloss: Assonance, the echo of vowels, especially in Spanish verse, between alliteration and full rhyme.
+
+N:
+  assonance; vowel rhyme, near rhyme
+  assonance, consonance, half-rhyme
+
+V:
+  assonate
+
+Adj:
+  assonant

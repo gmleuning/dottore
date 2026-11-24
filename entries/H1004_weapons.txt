@@ -1,0 +1,20 @@
+# 1004 Weapons
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture › 3. Individuality of the Ideal Sculptured Figure › a. Attributes, Weapons, Adornments
+G: Die Waffen
+Gloss: The arms carried by sculpted gods and heroes, which show their character and deeds.
+HGloss: Die Waffen: the weapons of gods and heroes, Apollo's bow, Athena's spear and helmet, Heracles' club, which mark the individual's activity.
+
+N:
+  weapons
+  bow
+  banner, banneret†, bannerol†, bandrol†, flag, colors, streamer, standard, labarum†, oriflamb†, oriflamme, figurehead, ensign, pennon, pennant, pendant, burgee†, blue Peter, jack, ancient, gonfalon, union jack, banderole, old glory [U.S.], quarantine flag, vexillum†, yellow-flag, yellow jack, tricolor, stars and stripes, bunting
+  spear, shield, helmet, sword, quiver, arrows, club, armour
+
+V:
+  equip
+
+Adj:
+  armed
+
+Adv:
+  under arms

@@ -16,7 +16,7 @@ V:
 
 Adj:
   pure, sheer, mere, bare, naked, simple, unalloyed, unqualified, unconditioned; indeterminate, undetermined, undifferentiated, indistinct, featureless, characterless, contentless, empty, void, vacant, blank, vacuous, inane; abstract, general; self-same, self-equal; ineffable, unsayable, unthinkable
-  empty &c H0227, null
+  empty &c H0237, null
   homogeneous
 
 Adv:

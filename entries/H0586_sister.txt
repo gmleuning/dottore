@@ -1,0 +1,25 @@
+# 586 Sister
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › i. True Spirit: The Ethical Order › 1. The Ethical World › b. The Movement of the Two Laws › iv. Brother and Sister
+G: Die Schwester
+Gloss: The sister, who has the highest intuition of ethical being and keeps the divine law of the family.
+HGloss: Die Schwester: the woman who, as sister, has the highest presentiment of the ethical; the loss of the brother is for her irreplaceable, and her duty to him is the highest.
+
+N:
+  the sister
+  sisterhood, the sister's duty, sisterly duty, sorority
+  Antigone, the guardian of the divine law, the sister's piety
+
+V:
+  cherish, mourn, bury, keep faith
+
+Adj:
+  sororal, sisterly, devoted
+
+Adv:
+  sisterly
+
+F:
+  Latin: soror
+
+Phr:
+  a husband lost, another might have been found, and child from another, to replace the first-born: but, father and mother hidden with Hades, no brother's life could ever bloom for me again [Sophocles, Antigone 909–12, tr. Jebb]

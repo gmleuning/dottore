@@ -1,0 +1,25 @@
+# 727 The Good and Conscience
+# Spirit › 2. Objective Spirit › II. Morality
+G: Das Gute und das Gewissen
+Gloss: The universal good, and the inner certainty that knows it.
+HGloss: The good, the idea as the unity of the will's concept and the particular will, and conscience, the subjectivity which determines it.
+
+N:
+  the good and conscience; the good, conscience, moral reflection, subjective certainty of the good
+  the idea of the good, the universal good, moral conscience, inner certainty, the good as end, the subjective knowing of the good
+
+V:
+  aim at the good, follow one's conscience
+  will the good, know the good, determine
+
+Adj:
+  good, conscientious, moral
+  universal, inward
+
+Adv:
+  in good conscience
+  for the good, in conscience
+
+Phr:
+  the good and conscience
+  to do the right thing

@@ -1,0 +1,42 @@
+# 240 Finite Mechanics (Matter and Motion)
+# Nature › 1. Mechanics
+G: Endliche Mechanik
+Gloss: The mechanics of bodies moved from outside.
+HGloss: Matter whose motion comes to it from outside: inertia, impact, and fall, mechanics as relation of external bodies.
+
+N:
+  finite mechanics; terrestrial mechanics, matter and motion, mechanics of bodies, Newtonian mechanics, classical mechanics, impressed force, external force, impulse
+  lubrication, lubrification†, anointment, oiling
+  synovia [Anat.], glycerine, lubricating oil, grease &c H0300, saliva
+  smoothness &c H0277, unctuousness &c H0268
+  rolling friction, sliding friction, starting friction
+  friction, attrition, rubbing, abrasion, scraping, confrication†, detrition, contrition†, affriction†, arrosion†, limature†, frication†, elbow grease, rosin, massage, roughness &c H0277, comminution†, subaction†, levigation†, multure†, tripsis†
+  impulsion, impetus, momentum, pulsion†, jog, jolt, brunt, booming, boost [U.S.], throw, explosion &c H0131, propulsion &c H0238
+  the mechanics of finite bodies, common mechanics, externally moved bodies
+  scratching
+  statics
+
+V:
+  move, push, impel, accelerate, decelerate, collide
+  lubricate, lubricitate†, oil, grease, lather, soap, wax
+  rub, scratch, scrape, scrub, slide, fray, rasp, graze, curry, scour, polish, rub out, wear down, gnaw, file, grindset one's teeth on edge, mundify†
+  drive, thrust, shove
+  pull, move from outside
+
+Adj:
+  mechanical, Newtonian, classical, terrestrial, external
+  lubricated, lubricous
+  finite, externally moved
+  anatriptic†, attrite†
+
+Adv:
+  by impressed force, mechanically
+  from outside
+
+F:
+  Latin: vis impressa
+
+Phr:
+  a body at rest tends to stay at rest
+  what goes up must come down
+  set in motion

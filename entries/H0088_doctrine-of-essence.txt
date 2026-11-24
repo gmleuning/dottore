@@ -1,0 +1,43 @@
+# 88 Doctrine of Essence
+# Logic
+G: Lehre vom Wesen
+Gloss: The study of concepts by which things are understood through what lies beneath their surface. These concepts come in pairs, each defined only by its relation to the other.
+HGloss: The truth of being: being gone into itself, a reflection in which each determination is only in relation to its other.
+
+N:
+  doctrine of essence; essence, quiddity, whatness; nature, inner nature, true nature, real nature, intrinsic nature, inwardness, core, kernel, heart, marrow, pith, gist, crux, nub, sum and substance, the heart of the matter, the nitty-gritty
+  reflection; mediation; depth, profundity, the inner, the hidden, the underlying; correlates, paired concepts, pairs, correlatives, relata; surface and depth, appearance and reality
+  intrinsicality†, inbeing†, inherence, noumenon, essentialness†, quintessence, egohood†
+  substance, gist &c H0091
+  spirit &c H0091
+  the logic of essence, the sphere of mediation, the sphere of reflection, the relational categories
+  essentiality
+
+V:
+  underlie, lie beneath, lie at the root of, constitute, inform; mediate; reflect, reflect upon; get to the heart of, go to the root of, penetrate, probe, plumb, fathom, see through
+  delve into, go deep into
+
+Adj:
+  essential, intrinsic, inherent, innate, inner, inward, underlying, fundamental, basic, radical, constitutive, substantial, substantive, quidditative; deep, profound, hidden, latent; mediated, reflected, reflective, correlative, relational
+  implanted
+
+Adv:
+  essentially, in essence, at bottom, at heart, at root, fundamentally, intrinsically, in effect, in substance; in the main
+  practically, virtually, substantially, au fond, fairly
+  radically
+  by mediation
+
+F:
+  German: Wesenslogik, Wesen, Reflexion, Vermittlung
+  Latin: essentia, quidditas, per se, substantia, subsistentia, existentia, esse essentiae, esse existentiae
+  Greek: ousia, to ti ēn einai [the what-it-was-to-be], hypostasis, ousiōsis, hyparxis
+  French: au fond, la quiddité, l’essentiel de l’essence
+  Arabic: māhiyya [quiddity], dhāt [essence], jawhar [substance], ḥaqīqa
+  Sanskrit: svabhāva [own-nature], tattva [thatness, principle]
+  Chinese: ti [substance, essence]
+  Korean: bonjil [essence]
+
+Phr:
+  das Wesen ist das vergangene, aber zeitlos vergangene Sein [Ger.] [Hegel, Science of Logic II, Introduction]
+  ex nihilo nihil fit [Lat.]
+  to ti ēn einai [Gr.] [Aristotle]

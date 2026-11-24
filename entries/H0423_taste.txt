@@ -1,0 +1,27 @@
+# 423 Taste
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses › 2. Smell and Taste
+G: Geschmack
+Gloss: The sense that perceives bodies dissolving in water, on the tongue.
+HGloss: Geschmack, the sense of the body's dissolution into the neutral element of water, the real process of its being consumed.
+
+N:
+  taste
+  gustation, flavour, savour, tongue, taste buds, palate, mouthfeel, umami
+  flavor, gust, gusto, gout, sapor†, sapidity†, aftertaste, tang
+  tasting, degustation
+
+V:
+  taste, savour, relish
+  savor, smatch†, smack, twang, tickle the palate &c H0294, smack the lips
+
+Adj:
+  gustatory, sapid, yummy, scrummy [Brit.], moreish, delish [Slang], lush [Brit. Slang], finger-licking good
+  saporific†, gustable†, gustful†, strong, gamy, palatable &c H0294
+  savoury
+
+Adv:
+  by taste
+
+Phr:
+  o taste and see that the Lord is good [Bible]
+  a matter of taste

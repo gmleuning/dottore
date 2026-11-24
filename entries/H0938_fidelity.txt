@@ -1,0 +1,40 @@
+# 938 Fidelity
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › ii. Chivalry
+G: Treue
+Gloss: The knight's loyalty to a lord.
+HGloss: Fidelity to a lord, personal loyalty.
+
+N:
+  fidelity; faithfulness, loyalty, fealty, allegiance, devotion, constancy, steadfastness, trustiness, troth, vassal loyalty, staunchness
+  homage, deference
+  incorruption, incorruptibility
+  self-denial, self-sacrifice
+  honesty
+  faith, vassalage, liege service, the vassal, the liegeman
+
+V:
+  be faithful, keep faith, stand by, abide, cleave
+  serve, follow, swear fealty, pledge faith
+
+Adj:
+  faithful, loyal, constant, steadfast, staunch, true, trusty, devoted
+  true blue, true to the core
+  as good as one's word
+  unwavering, unswerving
+  leal†, liege
+
+Adv:
+  faithfully, loyally, steadfastly
+  truly, in fealty
+
+F:
+  Latin: fides
+  Sanskrit: niṣṭhā [devotion]
+  Chinese: zhong [loyalty]
+  Korean: chung [loyalty]
+
+Phr:
+  semper fidelis [Lat.]
+  Treue um Treue [Ger.]
+  loyal to the last
+  to keep faith

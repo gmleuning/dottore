@@ -1,0 +1,42 @@
+# 857 External Determinacy of the Ideal
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › ii. The Determinacy of the Ideal
+G: Die äußerliche Bestimmtheit des Ideals
+Gloss: The outward conditions of the ideal: setting, surroundings and audience.
+HGloss: The ideal's external determinacy, its outer setting in nature and the human world.
+
+N:
+  external determinacy of the ideal; setting, environment, costume, local colour, decor, the external world of the work, historical detail
+  pattern, diaper, powdering, paneling, graining, pargeting†, detail, repousse &c H0277, texture &c H0268, richness, tracery, molding, fillet, listel†, strapwork†, flourish, arabesque, fret, anthemion†, egg and tongue, egg and dart, astragal†, zigzag, acanthus, cartouche, pilaster &c H0277, beading, cloisonne ware, frost work, Morisco, tooling
+  fleuron†, flowers of rhetoric &c H1074, work of art
+  external surroundings, milieu, locale, backdrop, the public
+  modeling
+
+V:
+  set, costume, furnish, localize
+  equip, dress, array
+  garnish, trim, dizen†, bedizen, prink†, prank, trick out, fig out, deck, bedeck, dight†, bedight†, begawd†, titivate†, dress up, spangle, bespangle, powder, embroider, work, chase, emboss, emblazon, illuminate, illustrate, betrim†
+  smarten, furbish, polish, gild, varnish, whitewash, enamel, japan, lacquer, paint, grain, lacker†, parget†
+  ornament, embellish, enrich, decorate, adorn, bead, beautify, adonize†
+  surround, environ, situate, stage
+
+Adj:
+  external, local, historical, scenic
+  ornamental, decorative, becoming &c H0097
+  showy, flashy, gaudy &c H0835, garish, gairish†, gorgeous
+  in full dress &c H0595, dressed to kill, dressed to the nines, dressed to advantage, in Sunday best, in best bib and tucker
+  smart, gay, trickly†, flowery, glittering, new gilt, new spangled, fine as a Mayday queen, fine as a fivepence†, fine as a carrot fresh scraped, pranked out, well-groomed
+  ornamented, beautified, ornate, rich, gilt, begilt†, tesselated, festooned, cloisonne, topiary, punctated†, sesquipedal†
+  environmental, circumstantial
+
+Adv:
+  in setting
+  outwardly, in its setting, externally
+
+F:
+  Latin: Moresque
+  French: coquillage, fleur-de-lis, champleve ware, head piece, tail piece, cul-de-lampe, en grand tenue, en grande toilette, endimanche, champleve
+
+Phr:
+  local colour
+  the setting of the scene
+  honores mutant mores [Lat.]

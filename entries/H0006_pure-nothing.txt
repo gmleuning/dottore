@@ -7,10 +7,10 @@ HGloss: Nothing, pure nothing: simple equality with itself, complete emptiness, 
 N:
   pure nothing, nothing, nothingness, nil, naught, nought, nix, zero, cipher; non-being, nonbeing; nonentity, nullity, nihility†, nonexistence &c (inexistence); void, vacuum, the void, vacancy, emptiness, blank, blankness; abyss, chasm, gulf
   negation, negativity, the negative; abstraction from all content
-  inexistence†, nonexistence, nonsubsistence, negativeness, nihilism, abeyance, absence &c H0227, oblivion
+  inexistence†, nonexistence, nonsubsistence, negativeness, nihilism, abeyance, absence &c H0237, oblivion
   nul, goose egg, none, nixie [Slang], zilch [Slang], zip [Slang], zippo [Slang], Cluricaune†, dwerger†, ouphe†, pigwidgeon†
-  no such thing, none in the world, nothing whatever, nothing at all, nothing on earth, not a particle &c H0045
-  vacuity, hiatus &c H0218
+  no such thing, none in the world, nothing whatever, nothing at all, nothing on earth, not a particle &c H0054
+  vacuity, hiatus &c H0228
   unsubstantiality†, insubstantiality, no degree, no part, no quantity, no thing
   nada
 
@@ -19,8 +19,8 @@ V:
 
 Adj:
   null, void, null and void, nil, empty, vacant, blank, hollow, vacuous, inane; nonexistent, unreal; negative, nugatory; indeterminate &c H0005; nihilistic, nihilist
-  empty &c H0227
-  inexistent†, nonexistent &c H0004, absent &c H0227, insubstantial, shadowy, spectral, visionary
+  empty &c H0237
+  inexistent†, nonexistent &c H0004, absent &c H0237, insubstantial, shadowy, spectral, visionary
 
 Adv:
   in vain, for nothing, to no purpose; nowhere, never

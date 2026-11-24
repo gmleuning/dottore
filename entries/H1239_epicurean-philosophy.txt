@@ -1,0 +1,26 @@
+# 1239 Epicurean Philosophy
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 1. Dogmatism
+G: Die epikureische Philosophie
+Gloss: The philosophy that grounds truth in sensation and places the good in calm pleasure, explaining the world by atoms in the void.
+HGloss: The Epicureans, for whom the criterion is sensation.
+
+N:
+  Epicurean philosophy; Epicureanism, the Garden, atomism, pleasure as absence of pain
+  Epicurism, the Epicureans
+  ataraxy, tranquillity, peace of mind, freedom from fear, freedom from pain, katastematic pleasure, hedonism, eudaemonism, prudence
+
+V:
+  enjoy, withdraw, live quietly
+  seek pleasure, avoid pain, banish fear, be untroubled, calculate pleasures, trust the senses
+
+Adj:
+  Epicurean, hedonistic, atomistic, tranquil
+  sensationalist, eudaemonistic, ataractic, untroubled, unperturbed, serene, pleasure-seeking, delitescent†
+
+Adv:
+  quietly
+  tranquilly, serenely, pleasurably, hedonistically, untroubledly, according to the senses
+
+F:
+  Latin: clinamen, intermundia
+  Greek: ataraxia, aponia, lathe biōsas [live hidden], hēdonē, kanōn, prolēpsis, tetrapharmakos, kēpos

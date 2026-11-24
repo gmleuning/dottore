@@ -1,0 +1,51 @@
+# 494 Perception (the Thing and Deception)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such
+G: Wahrnehmung
+Gloss: Awareness that takes its object as a thing with many properties, and struggles to hold its unity and its many features together, at the risk of error.
+HGloss: Consciousness that takes the object as a thing with many properties, and, failing to hold them together, deceives itself.
+
+N:
+  perception; the thing and deception; perceiving, apprehension, discernment, observation, noticing, the thing with many properties, the one and the also; illusion, deception, error, misperception, misapprehension
+  impression
+  fallacy, misconception, misunderstanding, misstanding†, mumpsimus†
+  misinterpretation, misconstruction, misacceptation†, eisegesis†
+  attention, heed
+  taking-as-true, the thing with properties
+  mistaking
+  affordance [Gibson]
+
+V:
+  perceive, apprehend, discern, notice, observe, take as true, take for; mistake, misperceive, be deceived
+  make out, recognize
+  err, be mistaken, be deceived &c H0710, deceive oneself, misapprehend, misconceive, misthink†, misconjecture†
+  descry, distinguish
+  remark, take notice
+  misunderstand
+
+Adj:
+  perceptual, perceptive, perceptible, observant, discerning; deceptive, illusory, mistaken
+  delusive, delusory
+  illusive, specious
+  perceived
+
+Adv:
+  perceptibly, to all appearances, apparently
+  perceptually, in perception
+
+F:
+  German: das Ding und die Täuschung, affordanz, Empfindung, Apperzeption
+  Latin: perceptio, comprehensio, aperceptio
+  Sanskrit: savikalpa [conceptual perception]
+  Korean: jigak [perception]
+  French: disponibilité [of a resource], exploitabilité [of a situation], aperception
+  Greek: katalēpsis
+
+Phr:
+  salt is white, and also tart, and also cubical [Hegel]
+  things are not always what they seem
+  to see things as they are
+  an optical illusion
+  errare est humanum [Lat.]
+  mentis gratissimus error [Lat.] [Horace]
+  on the dubious waves of error tost [Cowper]
+  you lie — under a mistake [Shelley]

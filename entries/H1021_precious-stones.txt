@@ -1,0 +1,24 @@
+# 1021 Precious Stones
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 2. Materials for Sculpture › c. Precious Stones and Glass
+G: Edelsteine
+Gloss: Engraving in gems, cameos and seal-stones, sculpture on the smallest scale.
+HGloss: Edelsteine: the cut stones and cameos of glyptic art, in which the whole wealth of sculpture is repeated in miniature.
+
+N:
+  precious stones
+  gem engraving, glyptics, cameo, intaglio, seal-stone, signet, carved gems, gem-cutting, gem-engraving, the glyptic art, lapidary work, carved gem, onyx, sardonyx, agate, carnelian
+  jasper, adamant, opal, garnet, amethyst, gemstone, moonstone
+  semi-precious stone, transparent gem, opaque gem, red coral, precious coral, water sapphire, cat's eye, black diamond, cinnamon stone, star sapphire, fire opal, black opal, harlequin opal, moss agate
+
+V:
+  engrave, cut, set, incise, facet
+
+Adj:
+  glyptic, engraved, precious, gemlike, lapidary, incised, gem-cut, etched
+
+Adv:
+  in gem, in intaglio
+
+Phr:
+  the art of the gem-cutter
+  a world in a stone

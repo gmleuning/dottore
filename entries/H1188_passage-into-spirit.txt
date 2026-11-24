@@ -1,0 +1,19 @@
+# 1188 Passage into Spirit
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › b. Representation and Appearance (the Kingdom of the Son) › iii. Reconciliation
+G: Der Übergang in den Geist
+Gloss: Christ's resurrection and ascension, by which his presence passes into the Spirit living in the community.
+HGloss: Der Übergang in den Geist: the death of death, the resurrection and ascension, through which the sensuous presence becomes the Spirit of the community.
+
+N:
+  passage into spirit
+  the Resurrection
+  the Ascension, the outpouring of the Spirit, Pentecost, the community of the Spirit
+
+V:
+  rise, ascend, overcome death
+
+Adj:
+  risen
+
+Phr:
+  the death of death

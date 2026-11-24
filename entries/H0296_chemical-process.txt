@@ -1,0 +1,38 @@
+# 296 Chemical Process
+# Nature › 2. Physics › III. Physics of Total Individuality
+G: Chemischer Prozess
+Gloss: The process in which different bodies come together and are transformed.
+HGloss: The process in which the total individualities of bodies are negated and reconstituted, as galvanism, fire, neutralization and elective affinity.
+
+N:
+  chemical process; chemical change, reaction, chemistry, transformation, combination, decomposition, synthesis, analysis; alchemy, spagyric art, the Great Work
+  resolution, catalysis, dissolution, disintegration
+  union, amalgamation, fusion
+  unctuousness, unctuosity†, lubricity, ointment &c H0300, anointment, lubrication &c H0240, lasciviency†
+  oil, fat, butter, cream, grease, tallow, suet, lard, dripping exunge†, blubber, glycerin, elaine [Chem], oleagine†, soap, soft soap, wax, cerement, paraffin, spermaceti, adipocere†, petroleum, mineral, mineral rock, mineral crystal, mineral oil, vegetable oil, colza oil†, olive oil, salad oil, linseed oil, cottonseed oil, soybean oil, nut oil, animal oil, neat's foot oil, train oil, ointment, unguent, liniment, aceite†, amole†, Barbados tar†, fusel oil, grain oil, rape oil, seneca oil, hydrate of amyl, ghee†, heating oil, #2 oil, No, engobe†, graveclothes†, epithem†, embrocation†, cataplasm†, sinapism†, arquebusade†, pepastic†, collyrium†, emplastrum†, eyewater†
+  2 oil, distillate, residual oils, kerosene, jet fuel, gasoline, naphtha, stearin
+  chemical action, chemism, combination and separation, metamorphosis of bodies
+  petrol
+  transmutation
+
+V:
+  react, combine, transform, decompose, synthesize, analyse, transmute
+  transmogrify, metamorphose
+  oil &c H0240
+  separate
+
+Adj:
+  chemical, reactive, alchemical, transformative
+  unctuous, oily, oleaginous, adipose, sebaceous, unguinous†, fatty, greasy, waxy, butyraceous, soapy, saponaceous†, pinguid, lardaceous†, slippery
+
+Adv:
+  chemically, by reaction
+
+F:
+  Latin: magnum opus
+  Arabic: al-kīmiyāʾ
+  Sanskrit: rasāyana
+
+Phr:
+  solve et coagula [Lat.]
+  to react with

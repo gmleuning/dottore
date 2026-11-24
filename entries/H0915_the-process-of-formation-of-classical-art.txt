@@ -1,0 +1,25 @@
+# 915 The Process of Formation of Classical Art
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › b. Classical Art
+G: Der Gestaltungsprozess der klassischen Kunstform
+Gloss: The development by which classical art arises.
+HGloss: The process by which classical art arises, from the degradation of animal forms to the victory of the new gods.
+
+N:
+  the process of formation of classical art; the emergence of classical art, the overcoming of the animal, theogony, the war of gods
+  the genesis of classical art, the coming-to-be, emergence, formation, development, shaping, the purification of the natural, the self-production of the classical
+
+V:
+  form, emerge, overcome
+  shape, arise, develop, purify, come to be
+
+Adj:
+  formative, emergent
+  genetic, developmental, nascent
+
+Adv:
+  in formation
+  by degrees, in the making
+
+Phr:
+  from beast to god
+  the old order passes

@@ -1,0 +1,31 @@
+# 163 Judgment of Reflection
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment
+G: Urteil der Reflexion
+Gloss: A judgment that ascribes a relational or practical property, such as "useful" or "dangerous."
+HGloss: The predicate is an essential universality of relation, by which the subject is related to other things.
+
+N:
+  judgment of reflection; relational judgment, judgment of quantity, practical judgment, judgment of use, judgment of value-for, evaluation, appraisal, assessment; predicate of relation, relational predicate, dispositional predicate; useful, harmful, dangerous, healing, edible
+  valuation
+  appraisement, estimation
+  the reflective judgment, the judgment of relation, the quantitative judgment, the judgment of subsumption
+
+V:
+  assess, evaluate, appraise, estimate, rate, gauge, weigh
+  value
+  appreciate
+  relate, subsume, ascribe
+
+Adj:
+  relational, reflective, evaluative, practical, dispositional, functional
+  subsumptive
+  grievous
+
+Adv:
+  in relation, relatively, for practical purposes
+  reflectively
+
+Phr:
+  one man's meat is another man's poison
+  good for what ails you
+  for what it's worth

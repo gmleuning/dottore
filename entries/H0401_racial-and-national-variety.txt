@@ -1,0 +1,43 @@
+# 401 Racial and National Variety
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › a. Natural Qualities
+G: Rassenverschiedenheit und Nationalcharakter
+Gloss: The differences of temperament between peoples, as they arise from nature and geography.
+HGloss: The natural differences of spirit among peoples and races, the local spirits of the earth's divisions.
+
+N:
+  racial and national variety; national character, national temperament, ethos, folk character, local spirit, regional temperament, climate and character, geographical determinism, environmental determinism, ethnology, ethnography; peoples, nations, ethnicities, ethnic groups, cultures; diversity of humankind
+  population, people &c H0397, colony, settlement, endenization†, populousness
+  aboriginal, American†, Caledonian, Cambrian, Canadian, Canuck [Slang], downeaster [U.S.], Scot, Scotchman, Hibernian, Irishman, Welshman, Uncle Sam, Yankee, Brother Jonathan, intrigant†
+  native, indigene, aborigines, autochthones†, Englishman, John Bull, newcomer &c H0091
+  racial difference, the spirits of peoples, local spirits
+  racism, racial profiling, prejudice, bigotry, bigot, discrimination, xenophobia, xenophobe, sexism, homophobia, homophobe, segregation, apartheid, ethnicity, diversity, multiculturalism, immigration, migrant, migration, refugee, asylum seeker, expat, foreigner, citizen, citizenship, Africander†, pererration†, demigration†, intermigration†, opinator†
+  ethnos, Volksgeist
+
+V:
+  characterize, typify, differ, vary by region
+  vary
+  welch
+
+Adj:
+  national, ethnic, ethnological, ethnographic, regional, local, cultural, geographical, temperamental
+  territorial, parochial, provincial
+  civic
+  indigenous, natal, autochthonal†, autochthonous, British, English, Irish, Scotch, Scottish, Welsh, domestic, domiciliated†, domiciled, naturalized, vernacular, domesticated, domiciliary, resiant†
+  racial
+  racist, multicultural, diverse, xenophobic, sexist, homophobic, bigoted, foreign, immigrant
+
+Adv:
+  nationally, regionally, by temperament
+  by nation, by race
+  nationwide
+
+F:
+  German: Volkscharakter
+  Latin: genius loci
+  Arabic: ʿaṣabiyya [group feeling] [Ibn Khaldun]
+  Japanese: fūdo [climate and culture] [Watsuji]
+  Spanish: mestizaje [mixing of peoples], casta, limpieza de sangre [purity of blood], cristiano viejo, converso, morisco
+
+Phr:
+  caelum non animum mutant qui trans mare currunt [Lat.] [Horace]
+  every nation under heaven

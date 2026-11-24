@@ -1,0 +1,19 @@
+# 1025 Greek and Roman Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 3. Historical Stages in the Development of Sculpture
+G: Skulptur der Griechen und Römer
+Gloss: The sculpture of Greece and Rome.
+HGloss: Greek and Roman sculpture, the realized ideal and its decline.
+
+N:
+  Greek and Roman sculpture
+  antique statuary, the antique
+
+V:
+  sculpt, chisel, model
+
+Adj:
+  classical
+  antique, plastic
+
+Adv:
+  classically

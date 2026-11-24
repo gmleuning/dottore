@@ -1,0 +1,16 @@
+# 810 Assyrians
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy) › b. Assyrians, Babylonians, Medes, and Persians
+G: Die Assyrer
+Gloss: The people of Assyria, with its capital Nineveh, the first great empire of the Tigris.
+HGloss: Die Assyrer, whose empire with Nineveh is among the peoples the Persian empire gathered into one.
+
+N:
+  the Assyrians
+  Nineveh, Assyria
+  Ashur, Sennacherib, Ashurbanipal, Sardanapalus, the Assyrian empire, winged bulls
+
+Adj:
+  Assyrian
+
+Phr:
+  the Assyrian came down like the wolf on the fold [Byron]

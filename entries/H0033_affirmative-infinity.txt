@@ -1,0 +1,46 @@
+# 33 Affirmative Infinity
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › c. Infinity
+G: Affirmative Unendlichkeit
+Gloss: The unlimited understood as including the limited rather than lying beyond it; completeness rather than endlessness. Pictured as a circle, as against an endless line.
+HGloss: True infinity, which contains the finite as a moment within itself: being returned to itself, imaged by the circle rather than the endless line.
+
+N:
+  affirmative infinity, true infinity, genuine infinite; actual infinite, completed infinite; circle, cycle, ring, orb, sphere, round, closed curve, serpent swallowing its tail; return, homecoming, self-return; wholeness, totality, completeness, entirety, fullness, plenitude, perfection, consummation; self-containment, self-sufficiency, autarky; the whole; mandala; eternity, eternal now
+  integrity, unity &c H0038, completeness &c H0130, integration
+  hoop, annulus, loop, wheel, orbit, roundlet†, annulet†, contrate wheel†
+  circuit
+  fullness &c H0130
+  the true infinite, the affirmative infinite
+
+V:
+  return, come round, come full circle, close the circle, round off, complete, consummate, perfect; include, embrace, encompass, comprehend, contain
+  comprise
+  include &c H0154
+  enclose, encircle
+  return into itself
+
+Adj:
+  infinite, true, genuine, actual; circular, cyclic, cyclical, orbicular, spherical, rounded, self-returning, self-enclosed, self-contained, self-sufficient; whole, entire, complete, total, integral, perfect, consummate; all-embracing, all-encompassing, comprehensive, cycloidal†
+  annular
+  complete &c H0130
+  whole &c H0130, perfect &c H0207, absolute, plenary
+  truly infinite
+
+Adv:
+  in full, all in all, altogether, through and through; full circle
+  truly, completely
+
+F:
+  German: wahrhafte Unendlichkeit, Rückkehr in sich, das Ganze
+  Latin: infinitum actu, nunc stans, in toto
+  Greek: ouroboros, plērōma
+  Sanskrit: maṇḍala
+  Chinese: taiji
+  Japanese: ensō [Zen circle]
+  Korean: chamdoen muhan [true infinite]
+
+Phr:
+  in my end is my beginning [T. S. Eliot]
+  das Wahre ist das Ganze [Ger.] [Hegel]
+  God is an infinite sphere whose centre is everywhere and circumference nowhere [Liber XXIV philosophorum]
+  the circle closes

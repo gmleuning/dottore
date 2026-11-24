@@ -1,0 +1,17 @@
+# 1236 The Early Stoa
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 1. Dogmatism › a. Stoic Philosophy
+G: Die ältere Stoa
+Gloss: The first Stoics at Athens, Zeno, Cleanthes and Chrysippus, who built the system of logic, physics and ethics.
+HGloss: The older Stoa of Zeno, Cleanthes and Chrysippus, whose criterion is the grasping representation and whose physics is the rational world-fire.
+
+N:
+  the early Stoa
+  the Porch, Zeno of Citium, Chrysippus, the Painted Porch, Cleanthes, the Old Stoa
+  assent, the kataleptic impression, the ruling principle, the world-reason, the seminal reasons, pneuma, fate, cosmic sympathy, the conflagration
+  the Hymn to Zeus, Stoic logic, physics, logic and ethics
+
+Adj:
+  Zenonian, Chrysippean
+
+Phr:
+  live according to nature [Zeno]

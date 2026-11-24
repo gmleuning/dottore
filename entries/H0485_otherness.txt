@@ -1,0 +1,33 @@
+# 485 Otherness
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › a. Sense-Certainty (Sensuous Consciousness)
+G: Anderssein
+Gloss: The object of sense taken as something other than the mind.
+HGloss: The object of sense as simply other to consciousness.
+
+N:
+  otherness; the object as other, externality, foreignness, objectivity, opposition, standing-against, the not-I; alterity &c H0019
+  otherhood, difference from the mind
+
+V:
+  stand opposite, confront, face, oppose
+  front
+  counteract
+  be other, stand over against, differ
+
+Adj:
+  other, external, foreign, alien, objective, opposite
+  exterior, outward
+  extraneous
+  unrelated, independent, unconnected, disconnected, strange, irrelative†
+  different, opposed
+
+Adv:
+  over against, outside
+  otherwise, as other
+
+F:
+  German: Gegen-stand
+
+Phr:
+  the world out there
+  other than oneself

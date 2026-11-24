@@ -1,0 +1,40 @@
+# 755 Rights of Inheritance
+# Spirit › 2. Objective Spirit › III. Ethical Life › α. Family › c. Upbringing of Children and Dissolution of the Family
+G: Erbrecht
+Gloss: The passing of property to heirs.
+HGloss: Inheritance, the entry of individuals into the family's property after its natural dissolution by death.
+
+N:
+  rights of inheritance; inheritance, succession, heritage, bequest, legacy, testament, will, intestacy, primogeniture, heirship, dotation†
+  future possession, reversion, fee, seigniority†, ultimogeniture†
+  dot
+  patrimony, legacy &c H0693
+  last will and testament, codicil, muniment†
+  descent
+
+V:
+  inherit, bequeath, devise, leave, succeed, will, entail
+  endow
+  come to
+  come in for, step into the shoes of, succeed to
+  devolve
+
+Adj:
+  hereditary, testamentary, ancestral, inherited, patrimonial
+  heritable, intestate
+
+Adv:
+  by inheritance, by will
+  by succession
+
+F:
+  Latin: hereditas, fideicommissum, ab intestato
+  Arabic: farāʾiḍ [fixed shares]
+  Sanskrit: dāyabhāga [partition of inheritance]
+  German: Nachlass [estate, literary remains]
+
+Phr:
+  hereditas numquam ascendit [Lat.]
+  the meek shall inherit the earth [Bible]
+  to come into money
+  the family fortune

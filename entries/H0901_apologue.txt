@@ -1,0 +1,21 @@
+# 901 Apologue
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 1. Comparisons Starting from the External Object › b. Parable, Proverb, Apologue
+G: Der Apolog
+Gloss: A short tale used as an example to teach a moral, where the meaning is told openly.
+HGloss: Der Apolog: a parable in which a single case is presented as an example of a general meaning that it does not merely signify but contains.
+
+N:
+  apologue
+  deev†, lamia†
+  fairy tale, fable
+  lesson
+  beast fable, moral fable, didactic tale, example story
+
+V:
+  moralize, preach
+
+Adj:
+  didactic, moral
+
+Adv:
+  by way of a moral

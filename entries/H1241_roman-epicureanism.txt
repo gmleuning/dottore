@@ -1,0 +1,17 @@
+# 1241 Roman Epicureanism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 1. Dogmatism › b. Epicurean Philosophy
+G: Der römische Epikureismus
+Gloss: The Epicureanism of Rome and Campania, Lucretius's great poem and Philodemus's circle.
+HGloss: The Roman Epicureans, Lucretius above all, who set out the atomic physics and the freedom from fear of the gods in verse.
+
+N:
+  Roman Epicureanism
+  Lucretius, the swerve, Philodemus, atoms and void, the intermundia, the gods of the intermundia, materialism
+  Herculaneum, the Villa of the Papyri
+
+Adj:
+  Lucretian, materialist
+
+Phr:
+  De rerum natura [Lat.] [Lucretius]
+  tantum religio potuit suadere malorum [Lat.] [Lucretius]

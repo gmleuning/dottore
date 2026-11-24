@@ -1,0 +1,55 @@
+# 521 Imperiousness
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › i. Struggle for Recognition
+G: Herrschsucht
+Gloss: The demand to be acknowledged; the assertion of one's own will over another.
+HGloss: Each self's imperious demand to be recognized, setting its will over the other.
+
+N:
+  imperiousness; domineeringness, imperiousness, arrogance, high-handedness, overbearingness, lordliness, haughtiness, peremptoriness, assertiveness, will to dominate, will to power
+  insolence, airs, overbearance†, tyranny &c H0790
+  pride, high notions, hauteur, vainglory, crest
+  arbitrary power, absolutism, despotism, dictatorship, autocracy, tyranny, oppression, assumption, usurpation, inquisition, reign of terror, martial law, iron heel, iron rule, iron hand, iron sway, tight grasp, brute force, brute strength, coercion &c H0712, strong hand, tight hand, arguementum baculinum†
+  blusterer, swaggerer, vaporer, roisterer†, brawler, fanfaron†, braggart &c H0451, terrorist, rough, bulldozer [U.S.], hoodlum, hooligan [Slang], larrikin†, roarer [Slang], Mohock, Mohawk, drawcansir†, swashbuckler, Captain Bobadil, Sir Lucius O'Trigger, Thraso, Pistol, Parolles, Bombastes Furioso†, Chrononhotonthologos†, jingo, desperado, dare-devil, fire eater, fury, rowdy, slang-whanger [Slang], tough [U.S.]
+  puppy &c H0595, prig, Sir Oracle, dogmatist, doctrinaire, jack-in-office, saucebox†, malapert, jackanapes, minx, bantam-cock, opinionist†
+  masterfulness, self-assertion
+
+V:
+  domineer, dominate, lord it over, browbeat, boss, command, dictate, demand
+  bully, hector, exact, snub, huff, beard, fly in the face of, put to the blush, bear down, beat down, intimidate, trample down, tread down, trample under foot, dragoon, ride roughshod over
+  have the upper hand, get the upper hand, have the whip, get the whip, gain a hold upon, preponderate, rule the roost, override, overrule, overawe, hold in hand, keep under, make a puppet of, lead by the nose, turn round one's little finger, bend to one's will, hold one's own, wear the breeches, have the ball at one's feet, have it all one's own way, have the game in one's own hand, have on the hip, have under one's thumb, be master of the situation, take the lead, play first fiddle, set the fashion, give the law to, carry with a high hand, lay down the law, ride in the whirlwind and direct the storm [Addison], rule with a rod of iron
+  order, decree, enact, ordain, direct, give orders
+  usurp, arrogate, tyrannize
+  assert oneself, overbear, lord it
+
+Adj:
+  imperious, domineering, overbearing, high-handed, peremptory, lordly, haughty, arrogant, masterful, autocratic, precisian†
+  insolent, dictatorial, arbitrary, contumelious, intolerant, high-flown
+  severe, strict, harsh, stern, rigorous, uncompromising, exacting, exigeant†
+  supercilious, disdainful, bumptious, magisterial, high and mighty, overweening, consequential, unblushing, stiff, stiff-necked, starch, perked stuck-up, in buckram, strait- laced, prim &c H0734
+  authoritative, imperative, absolute
+  insulting, disrespectful, bossy
+
+Adv:
+  imperiously, peremptorily, high-handedly
+  domineeringly
+
+F:
+  German: Wille zur Macht [Nietzsche]
+  Latin: libido dominandi [Augustine]
+  French: traiter de haut en bas, regarder de haut en bas
+  Spanish: chulería [cocky insolence]
+
+Phr:
+  libido dominandi [Lat.] [Augustine]
+  my way or the highway
+  to lord it over
+  Delirant reges plectuntur Achivi [Lat.]
+  manu forti [Lat.]
+  ogni debole ha sempre il suo tiranno [It.]
+  a duke's revenues on her back [Henry VI]
+  disdains the shadow which he treads on at noon [Coriolanis]
+  pride in their port, defiance in their eye [Goldsmith]
+  one's bark being worse than his bite
+  beggars mounted run their horse to death [Henry VI]
+  quid times? Caesarem vehis [Lat.] [Plutarch]
+  wagahai wa [Jap.] (expressing superiority) [Jap.Tr.]

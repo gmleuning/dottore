@@ -1,0 +1,16 @@
+# 1256 The Alexandrian Fathers
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity › 1. Church Fathers
+G: Die alexandrinischen Kirchenväter
+Gloss: The Fathers of Alexandria, Clement and Origen, who used Greek philosophy to give the faith a speculative form.
+HGloss: The Alexandrian Fathers, Clement and Origen, who drew on Platonic philosophy to develop the doctrine of the Trinity speculatively.
+
+N:
+  the Alexandrian Fathers
+  Origen, Clement of Alexandria, Athanasius
+  the catechetical school of Alexandria, allegorical exegesis, the Stromata, De Principiis, the true gnostic, Cyril of Alexandria
+
+V:
+  Platonize
+
+Adj:
+  Origenist, Athanasian

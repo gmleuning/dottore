@@ -1,0 +1,34 @@
+# 635 Tragic Art-Religion
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › c. Religion as Spirit's Self-Consciousness › ii. Art-Religion › 3. The Spiritual Work of Art
+G: Die Tragödie
+Gloss: Religion expressed in tragedy, in which moral powers collide and fate prevails.
+HGloss: Tragedy, in which actors wearing masks speak the self of the ethical powers that collide, and destiny reigns.
+
+N:
+  tragic art-religion; tragedy, Attic tragedy, the tragic hero, the chorus, the mask, persona, pity and fear, catharsis, fate, Aeschylus, Sophocles
+  the tragic consciousness, the hero, the collision of powers, necessity, Zeus and the Furies
+  hamartia
+
+V:
+  perform, suffer, purge, lament, fall
+  collide, perish, submit to fate
+
+Adj:
+  tragic, cathartic, fateful, dire, pitiable, fearful
+  formidable, portentous, dread, direful, terrible, tremendous
+  grim, appalling, dreadful, heart-breaking, heart-rending
+  fated, masked, choral
+  alarming, horrendous, dreaded, fearsome
+
+Adv:
+  tragically
+  under fate, by necessity
+
+F:
+  Greek: tragōidia, eleos kai phobos, katharsis, anagnorisis [recognition], peripeteia [reversal]
+
+Phr:
+  pity and fear [Aristotle]
+  the chorus as the ideal spectator [A. W. Schlegel]
+  the tragic mask
+  a tragic flaw

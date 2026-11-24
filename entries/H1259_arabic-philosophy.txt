@@ -1,0 +1,25 @@
+# 1259 Arabic Philosophy
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity
+G: Die arabische Philosophie
+Gloss: The philosophy of the Islamic world, which preserved and commented on Aristotle.
+HGloss: The philosophy of the Arabs, which preserved Aristotle and transmitted him to Europe.
+
+N:
+  Arabic philosophy
+  Islamic philosophy, Arabian philosophy, Arabic Aristotelianism, the Arabian Peripatetics, the Arabian commentators, the philosophers, Ibn Khaldūn
+
+V:
+  comment, translate, harmonize, transmit
+  preserve, expound, interpret, annotate, gloss, paraphrase, hand down, reconcile
+
+Adj:
+  Arabic, Islamic
+  Arabian, Muslim, Peripatetic, Aristotelian, Saracenic†
+
+Adv:
+  in the Arabic tradition
+  by commentary, in commentary, in Arabic, through the Arabs
+
+F:
+  Arabic: falsafa, the falāsifa, kalām [dialectical theology], Bayt al-Ḥikma, faylasūf, ʿaql, Tahāfut al-Falāsifa, Tahāfut al-Tahāfut
+  Latin: intellectus agens [the agent intellect] [Avicenna, Averroes]

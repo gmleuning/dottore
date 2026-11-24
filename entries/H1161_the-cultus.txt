@@ -1,0 +1,56 @@
+# 1161 The Cultus
+# Spirit › 3. Absolute Spirit › II. Religion › α. The Concept of Religion
+G: Der Kultus
+Gloss: Worship; the practice by which the believer is united with God.
+HGloss: The cultus, the practice by which the subject reunites itself with God and enjoys the reconciliation.
+
+N:
+  the cultus; worship, devotion, rite, ritual, liturgy, sacrament, prayer, sacrifice, communion, celebration, festival
+  ceremony, ordinance, observance, function, duty, form, formulary, solemnity, psalmody
+  Eucharist, Lord's supper, the sacrament, the holy sacrament, high celebration, asperges†, introit, consecration, consubstantiation, transubstantiation, real presence, elements, mass, high mass, low mass, dry mass
+  adoration, aspiration, homage, service, humiliation, kneeling, genuflection, prostration
+  invocation, supplication, rogation, intercession, orison, holy breathing, petition &c H0689, collect, litany, Lord's prayer, beadroll†, latria†, dulia†, hyperdulia†, vigils, revival, cult, camp meeting
+  solemnization, jubilee, commemoration, paean, jubilation, holiday, zarabanda†
+  oblation, incense, libation, burnt offering, heave offering, votive offering, offertory
+  place of worship, house of God, house of prayer
+  divine service, divine worship, public worship, the service of God, practice, religious practice, exercise, devotions, observances, office, the divine office, ministry, the act of worship, the unity with God, the union, communion with God, participation, partaking, enjoyment, the enjoyment of God, the sacrificial meal, the feast, thanksgiving, praise, hymn, psalm, doxology, benediction, blessing, vow, pilgrimage, procession, fast, penance, repentance, contrition, self-surrender, self-renunciation, the sacrifice of the heart, the giving up of particularity, inner cultus, piety in act, the practical relation, the sublation of the cleavage, the certainty of reconciliation, the mystical union, the testimony of the spirit, undernsong†, tierce†
+  plea
+
+V:
+  worship, pray, celebrate, sacrifice, commune, adore
+  lift up the heart, aspire, revere &c H0535, do service, pay homage, humble oneself, kneel, bow the knee, bend the knee, fall down, fall on one's knees, prostrate oneself, bow down and worship
+  invoke, supplicate, put up, offer up prayers, offer petitions, beseech &c H0689, say one's prayers, tell one's beads
+  attend services, attend mass, go to mass, hear mass, take the sacrament, receive the sacrament, receive communion, attend the sacrament, partake of the sacrament, partake of communion, communicate, receive extreme unction, confess, go to confession, receive penance, anele†
+  serve God, perform rites, celebrate the rites, observe, solemnize, officiate, minister, offer, offer up, make offering, give thanks, bless, glorify, magnify, chant, sing praises, make pilgrimage, repent, surrender oneself, renounce oneself, unite with God, partake, enjoy, feast, hallow, sanctify
+  nominate
+
+Adj:
+  cultic, liturgical, ritual, sacramental, devotional
+  worshipping, devout, reverent, pure, solemn, fervid &c H0672
+  ritualistic, ceremonial, baptismal, eucharistical, paschal
+  cultual, worshipful, liturgic, ritualist, sacrificial, eucharistic, festal, prayerful, adoring, reverential, pious, practical, participatory, unitive, hallowed, consecrated, sacred, votive, penitential, doxological
+
+Adv:
+  ritually, in worship
+  liturgically, ceremonially, devoutly, reverently, prayerfully, solemnly, sacramentally, in prayer, in devotion, in spirit and in truth, on bended knee, at the altar
+
+F:
+  German: Gottesdienst, Andacht, Opfer, Genuß, Gebet
+  Latin: cultus, missa cantata, paternoster, cultus Dei, opus Dei, sacrificium, unio mystica, lex orandi lex credendi, ora et labora
+  Greek: latreia, leitourgia, thysia, eucharistia, thrēskeia
+  Arabic: ṣalāt [prayer]
+  Sanskrit: pūjā
+
+Phr:
+  lex orandi, lex credendi [Lat.] [the law of prayer is the law of belief]
+  the communion of saints
+  Dieu vous garde [Fr.]
+  dirigenos Domine [Lat.]
+  would you be so kind as to
+  gramercy!
+  allelujah!
+  making their lives a prayer [Whittier]
+  prayers ardent open heaven [Young]
+  what art thou, thou idol ceremony? [Henry V]
+  ne vile fano [It.]
+  there's nothing ill can dwell in such a temple [Tempest]

@@ -1,0 +1,15 @@
+# 893 Christian Mysticism
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › ii. The Symbolism of the Sublime › 1. The Pantheism of Art
+G: Die christliche Mystik
+Gloss: The mysticism of Eckhart and Angelus Silesius, in which God and soul are found in one another.
+HGloss: Die christliche Mystik: in Angelus Silesius and Eckhart the identity of God and the soul is expressed with boldness and depth of intuition.
+
+N:
+  Christian mysticism
+  Angelus Silesius, Meister Eckhart, mystical union
+  the Cherubinic Wanderer, Jakob Böhme, the birth of God in the soul, the ground of the soul
+
+Phr:
+  the rose is without why [Angelus Silesius]
+  die Ros' ist ohn warum [Ger.] [Angelus Silesius]
+  ich weiß, daß ohne mich Gott nicht ein Nu kann leben [Ger.] [Angelus Silesius]

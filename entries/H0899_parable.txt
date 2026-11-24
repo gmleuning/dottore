@@ -1,0 +1,22 @@
+# 899 Parable
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 1. Comparisons Starting from the External Object › b. Parable, Proverb, Apologue
+G: Die Parabel
+Gloss: A story of everyday life that points to a higher, general meaning.
+HGloss: Die Parabel: an occurrence from ordinary life given a higher significance, so that the meaning is grasped through the familiar happening, as in the Gospel parables.
+
+N:
+  parable
+  similitude, exemplum, moral tale
+  the prodigal son, the good Samaritan, story with a moral
+
+V:
+  exemplify, teach, point a moral
+
+Adj:
+  parabolic
+
+Adv:
+  in a parable, in parables
+
+Phr:
+  the parable of the sower [Bible]

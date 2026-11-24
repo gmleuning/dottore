@@ -1,0 +1,33 @@
+# 15 Determinate Being in General
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › a. Determinate Being as Such
+G: Dasein überhaupt
+Gloss: Existence that carries a negation within it, since to be definitely one thing is not to be others; being and not-being held together in the form of simple being.
+HGloss: Being with non-being taken up into its simple unity, so that its determinateness has the form of being.
+
+N:
+  determinate being in general; existence with a limit, being with negation; being and nonbeing united; finite existence; something rather than nothing; definite being, specific being; negation within being; inner limit, inherent bound; the being of a thing as distinct from other things; this rather than that
+  being-there in general, determinacy
+  quale
+
+V:
+  be something, be this rather than that; exclude, rule out, not be other; bear a limit within oneself
+  be there, exist definitely
+
+Adj:
+  definite, determinate, specific, particular, limited, bounded, circumscribed; negative in part, exclusive; finite
+  precise, well-defined
+
+Adv:
+  in general; generally speaking, by and large, in the main
+  definitely, there
+
+F:
+  German: überhaupt
+  Latin: determinatio negatio est [Spinoza, Letter 50], omnis determinatio est negatio [Hegel's form of it]
+
+Phr:
+  determinatio negatio est [Lat.] [Spinoza]
+  something rather than nothing
+  why is there something rather than nothing? [Leibniz]
+  of that ilk
+  to a degree

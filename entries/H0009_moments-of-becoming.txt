@@ -1,0 +1,37 @@
+# 9 Moments of Becoming
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being › c. Becoming
+G: Die Momente des Werdens
+Gloss: The two directions of becoming, coming-to-be and ceasing-to-be, each passing into the other.
+HGloss: The moments of becoming: coming-to-be, where nothing passes into being, and ceasing-to-be, where being passes into nothing; each sublates itself in itself.
+
+N:
+  moments of becoming; appearance, dawn; creation, production
+  generation and corruption; arising and passing away, rise and fall, ebb and flow, waxing and waning, flux and reflux; birth and death, life and death; the wheel of becoming
+
+V:
+  appear, dawn; produce
+  wax and wane, ebb and flow, rise and fall
+  pass, go, avaunt†, vaporize, be gone, leave no trace, leave 'not a rack behind' [Tempest], go off the stage &c H0238, suffer an eclipse, undergo an eclipse, retire from sight, be lost to view, pass out of sight
+
+Adv:
+  ever arising and ever passing
+
+F:
+  German: Vergehen
+  Latin: generatio, corruptio, generatio et corruptio, in ovo, in articulo mortis
+  Greek: genesis, phthora, genesis kai phthora
+  Sanskrit: utpāda [arising], nirodha [cessation], bhavacakra
+  Chinese: shengmie [arising and extinction]
+
+Phr:
+  mors janua vitae [Lat.]
+  what's past is prologue [Tempest]
+  coming and going
+  here today, gone tomorrow
+  let's get going!, let's get this show on the road!, up and at 'em!
+  aller Anfang ist schwer [Ger.], dimidium facti qui coepit habet [Lat.] [Cicero]
+  as high as Heaven and as deep as hell [Beaumont and Fletcher]
+  en toute chose il faut considerer la fin [Fr.]
+  finem respice [Lat.]
+  ultimus Romanorum [Lat.]
+  I pause for a reply [Julius Caesar]

@@ -1,0 +1,33 @@
+# 11 Ceasing-to-Be
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being › c. Becoming › ii. Moments of Becoming
+G: Vergehen
+Gloss: Being passing over into nothing: the perishing of what was.
+HGloss: Vergehen, the direction of becoming in which being goes over into nothing.
+
+N:
+  ceasing-to-be
+  passing away, perishing, decease, demise, extinction, expiry, cessation, termination, dissolution, decay, decline, disappearance, evanescence
+  expiration, end of all things, passing-away, desinence
+
+V:
+  cease to be, pass away, perish, expire, die, die out, decay, wither, fade, vanish, disappear, become extinct, dissolve, melt away
+  be transient, flit, fly, gallop, evaporate, pass away like a cloud, pass away like a summer cloud, pass away like a shadow, pass away like a dream
+  end, close, finish, terminate, conclude, be all over, die &c H0394, come-, draw-to-a-close, have run its course, run out
+  not exist &c H0004, have no existence &c H0004, be null and void, cease to exist &c H0004, be extinct, leave not a rack behind, be no more
+
+Adj:
+  perishing, perishable, mortal, dying, moribund, fading, waning, evanescent, transient, transitory, ephemeral, caducous, corruptible, destructible
+
+Adv:
+  out of being
+
+F:
+  German: Vergehen
+  Greek: phthora
+  Sanskrit: nirodha [cessation]
+
+Phr:
+  sic transit gloria mundi [Lat.]
+  all that is born must die
+  dust thou art, and unto dust shalt thou return [Bible]
+  deficit omne quod nascitur [Lat.] [Quintilian]

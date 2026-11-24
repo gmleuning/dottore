@@ -1,0 +1,36 @@
+# 785 Care for the Poor
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › c. Public Authority and Corporation › i. Public Authority (Police) › 2. Common Utility › c. Instantiation of Citizenship
+G: Die allgemeine Macht an der Stelle der Familie bei den Armen
+Gloss: Poverty, the poor and the rabble, and society's relief of them.
+HGloss: Wealth piles up at one pole while a mass sinks into poverty and loses its sense of right, honour and self-respect: the rabble, which Hegel names a problem that torments modern society (§241-245).
+
+N:
+  care for the poor; poor relief, outdoor relief, the poor laws, charity, alms, the dole, welfare payments
+  the rabble problem, poverty, pauperism, deprivation, deprivement†, disherison†
+  indigence, penury, destitution, neediness, lack, necessity, privation, distress, difficulties, wolf at the door
+  want, need
+  mob, rabble, rabble rout, chaff, rout, horde, canaille, scum of the people, residuum of the people, dregs of the people, dregs of society, swinish multitude, foex populi†, trash, vermin, riffraff, ragtag and bobtail, small fry, fatras†, attroupement†, cohue†
+  pauper, homeless person, hobo, bum, tramp, bindle stiff, bo, knight of the road, hard core unemployed, welfare client, welfare case, mumper†
+  wastrel, foundling, loafer, tramper, vagabond, waifs and estrays†, beach comber, swagman, swagsman [Austral.], sundowner†, mudlark†, raff†, bezonian†, gaberlunzie†, cinderwench†, gossoon†, runnion†, polisson†, bummer†, gadling†, scatterling†, landloper†
+
+V:
+  provide relief
+  render poor, impoverish, reduce, reduce to poverty, pauperize, fleece, ruin, bring to the parish
+
+Adj:
+  poor, indigent, destitute, penniless, impoverished, pauperized, down and out, on the dole, on welfare
+
+F:
+  German: Armut, Armenpflege, Pöbel
+
+Phr:
+  the rabble, der Pöbel [Ger.] [Hegel]
+  die Frage, wie der Armut abzuhelfen sei, ist eine vorzüglich die modernen Gesellschaften bewegende und quälende [Ger.] [Hegel, Philosophy of Right §244 Zusatz]
+  zonam perdidit [Lat.]
+  a penniless lass wi' a lang pedigree [Lady Nairne]
+  a pobreza no hay verguenza [Sp.]
+  he that is down can fall no lower [Butler]
+  poca roba poco pensiero [It.]
+  the short and simple annals of the poor [Gray]
+  dummodo sit dives barbarus ipse placet [Lat.] [Ovid]
+  steeped in poverty to the very lips [Othello]

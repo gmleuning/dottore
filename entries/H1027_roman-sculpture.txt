@@ -1,0 +1,16 @@
+# 1027 Roman Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 3. Historical Stages in the Development of Sculpture › b. Greek and Roman Sculpture
+G: Die Skulptur der Römer
+Gloss: The sculpture of Rome, given to portraits and the record of public life.
+HGloss: Die Skulptur der Römer, which keeps the Greek forms but turns to portrait and likeness, where the ideal begins to dissolve.
+
+N:
+  Roman sculpture
+  Roman portraiture, the bust, Roman portrait bust
+  portrait statue, imperial portraiture, the Ara Pacis, Trajan's Column, historical relief
+
+V:
+  portray
+
+Adj:
+  Roman, veristic

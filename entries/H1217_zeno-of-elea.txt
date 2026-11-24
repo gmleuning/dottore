@@ -1,0 +1,18 @@
+# 1217 Zeno of Elea
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Zenon
+Gloss: The Eleatic who defended Parmenides by paradoxes showing that motion and plurality contradict themselves.
+HGloss: Zeno, the originator of dialectic, who shows the contradiction in motion, Achilles and the tortoise, the arrow, by thinking it through.
+
+N:
+  Zeno of Elea
+  Zeno's paradoxes, Achilles and the tortoise, the flying arrow, the dichotomy, the stadium, dialectic, reductio ad absurdum
+
+V:
+  reduce to absurdity
+
+Adj:
+  Zenonian
+
+Phr:
+  the flying arrow is at rest [Zeno]

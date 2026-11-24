@@ -1,0 +1,31 @@
+# 985 Gothic Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › iii. Romantic Architecture › 3. Different Styles
+G: Gotische Architektur
+Gloss: The building of pointed arches, ribbed vaults and soaring height.
+HGloss: Gothic building, pointed arches and ribbed vaults soaring upward, the stone that rises above itself toward the infinite.
+
+N:
+  Gothic architecture; the Gothic cathedral, Chartres, Cologne Cathedral, Notre-Dame, pointed arch, ogive, ogival arch, flying buttress, rib vault, spire, pinnacle, tracery, rose window, gargoyle, the Gothic forest
+  the pointed style, the German style, ogival architecture, the pier, the nave, the cathedral, the minster
+  finial
+
+V:
+  soar, aspire, point, buttress
+  rise, tower, vault
+
+Adj:
+  Gothic, ogival, pointed, soaring, spired, traceried, flamboyant, perpendicular
+  ribbed, aspiring, vertical, lofty
+
+Adv:
+  soaringly, heavenward
+  skyward, upward, aloft
+
+F:
+  German: Kölner Dom
+
+Phr:
+  von deutscher Baukunst [Ger.] [Goethe on Strasbourg]
+  the stone forest
+  frozen music
+  stone that rises to heaven

@@ -1,0 +1,40 @@
+# 690 Form of the Contract
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract
+G: Form des Vertrags
+Gloss: The outward form of an agreement, whether spoken, written or sealed.
+HGloss: The stipulation, the outward form in which the agreement of wills exists.
+
+N:
+  form of the contract; stipulation, formality, formal requirements, execution, signature, seal, deed, the written instrument, the spoken word, the handshake, consideration, terms and conditions, clause, provision
+  voucher, certificate, document, warranty &c H0704, seal &c H0661, testamur†, pi ce justificative†
+  acceptance, indorsement†, stamp
+  promise, word, pledge, vow, oath &c H0662, warranty
+  condition, proviso, specification
+  clauses, provisions, proviso &c H0113, covenant, obligation, ultimatum, sine qua non
+  mark, autograph, autography, attestation, hand, hand writing, sign manual, cipher, hand and seal [Law], paraph†, brand, superscription, endorsement
+  ratification, completion, signet
+  conditions, terms, articles, articles of agreement, memorandum, muniment†
+  memo
+
+V:
+  stipulate, execute, sign, seal, witness, draft, set forth
+  undersign†, set one's hand and seal, sign and seal, deliver as one's act and deed, certify, attest
+  make terms, come to terms &c H0688, make it a condition, insist upon, make a point of, bind, tie up
+  conclude, confirm, ratify, subscribe, underwrite, endorse
+  formalize
+
+Adj:
+  formal, executed, signed and sealed, stipulated, written, verbal
+  writing, in black and white, under one's hand
+
+Adv:
+  in writing, in due form, formally
+  under seal
+
+F:
+  Latin: stipulatio, sine qua non, casus foederris, sigil
+
+Phr:
+  signed, sealed, and delivered
+  in for a penny in for a pound
+  gage d'amour

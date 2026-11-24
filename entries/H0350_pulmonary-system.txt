@@ -1,0 +1,27 @@
+# 350 Pulmonary System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) › b. Systems of Shape › ii. Blood System › 2. Pulmonary and Hepatic System
+G: Der Lungenkreislauf
+Gloss: The lungs and the circulation through them, where the blood takes up air.
+HGloss: The blood in the pulmonary circulation, the purely negative immaterial life for which nature is air; the first breath is the child's own individual life.
+
+N:
+  pulmonary system
+  lungs, respiration, lights†
+  lung, bellows [Slang], windpipe, trachea, bronchus, bronchi, bronchial tubes, bronchioles, alveoli, air sacs, pleura, diaphragm, larynx, voice box, Adam's apple, epiglottis, pharynx, punkah†, airhole†, breathinghole†, weasand†, ventiduct†, jhilmil†
+  asthma, consumption, phthisis†, tuberculosis, pneumonia, emphysema, bronchitis, smoker's cough, London fog†
+  pulmonary circulation, the lesser circulation, the first breath, oxygenation, arterial blood
+
+V:
+  breathe, respire, oxygenate
+  breathe in, breathe out, wheeze, cough, hack, cough up, hawk, gasp
+
+Adj:
+  pulmonary, pulmonic, respiratory, bronchial, pleural, laryngeal, tracheal, alveolar, wheezy, short of breath, out of breath, winded, puffed [Brit. Coll.], anhelose†, dyspnaeal†, dyspnaeic†
+
+Adv:
+  by the lungs
+
+Phr:
+  the breath of life
+  at the top of one's lungs
+  der erste Atemzug ist das eigene individuelle Leben des Kindes [Ger.] [Hegel, Encyclopedia §354 Zusatz]

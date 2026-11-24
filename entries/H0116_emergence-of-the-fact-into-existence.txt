@@ -1,0 +1,44 @@
+# 116 Emergence of the Fact (Sache) into Existence
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › c. Condition
+G: Hervorgang der Sache in die Existenz
+Gloss: The coming into existence of a fact once all its conditions are present.
+HGloss: When all its conditions are present the fact enters into existence; the unconditioned become immediacy.
+
+N:
+  emergence of the fact into existence; the fact, the matter, the thing itself; emergence, coming forth, issuance, appearance, manifestation, materialization, realization, actualization, coming to pass, fruition, eventuation, birth; event, occurrence, happening, outcome; the time is ripe, ripeness, readiness
+  eventuality, incident, affair, matter, thing, episode, proceeding, contingency, juncture, experience, fact, matter of fact, naked fact, bare facts, just the facts, phenomenon, advent
+  emersion, emanation
+  the coming-forth of the fact, coming into existence, the totality of conditions fulfilled
+
+V:
+  emerge, come forth, issue, appear, materialize, come to pass, come about, happen, occur, eventuate, transpire, come to fruition, come into existence, take shape, see the light of day
+  take place, take effect, come, become of, come off, comeabout†, come round, come on, pass, fall, fall out, turn out, run, be on foot, fall in, befall, betide, bechance†, prove, draw on, turn up, crop up, spring up, pop up, arise, show up, show its face, cast up, supervene, survene†, arrive, ensue, start, hold, take its course, pass off &c H0235
+  emanate
+  present itself, reveal itself, stand forth
+  be manifest, transpire &c H0662, speak for itself
+
+Adj:
+  emergent, emerging, nascent, issuing, actualized, realized, accomplished, ripe, ready, timely
+  going on, doing, current, in the wind, in the air, afloat, on foot, afoot, on the tapis†, at issue, in question, incidental, agoing†
+
+Adv:
+  in the event, in the fullness of time, when the time is ripe, at the right moment, in due course
+  eventually, in the event of, in case, just in case, in the course of things, as things, times go, as the world goes, wags, as the tree falls, cat jumps, as it may turn out
+  into existence
+
+F:
+  German: die Sache, die Sache selbst, Hervorgang der Sache, Sachverhalt [state of affairs] [Wittgenstein], Ereignis [the event of appropriation] [Heidegger], Faktum
+  Latin: res, status rerum, status quaestionis, dispositio rei, complexe significabile, factum
+  Greek: pragma, kairos
+  French: fait accompli, événement, appropriement, sidération, amêmement, réalité, état de chose, état-de-chose, contenu propositionnel
+
+Phr:
+  ripeness is all [King Lear]
+  the readiness is all [Hamlet]
+  when all conditions are present, the thing is there
+  it comes to pass
+  that's the way the ball bounces, that's the way the cookie crumbles
+  you never know what may turn up, you never know what the future will bring
+  breasts the blows of circumstance [Tennyson]
+  so runs round of life from hour to hour [Keble]
+  sprinkled along the waste of years [Tennyson]

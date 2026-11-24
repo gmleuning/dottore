@@ -1,0 +1,42 @@
+# 941 Adventures
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › iii. The Formal Independence of Individual Characteristics
+G: Die Abenteuerlichkeit
+Gloss: The chance events that befall the knight-errant.
+HGloss: Adventures, the contingency of the external world, which the knight-errant meets.
+
+N:
+  adventures; adventure, venture, exploit, escapade, quest, romance, knight-errantry, the picaresque, Don Quixote, Ariosto, Orlando Furioso, the contingent
+  pursuit, enterprise &c H0676, adventure &c H0676, quest &c H0667
+  enterprise, emprise†, pilgrimage
+  essay, trial, attempt
+  errantry, derring-do, accident, chance encounter, wandering, aventure
+  pastime
+  quixotry
+
+V:
+  adventure, venture, quest, wander, rove, roam
+  tempt fortune, try one's fortune
+  hazard, run the gauntlet &c H0801
+  range, traverse, scour the country
+  fare forth
+
+Adj:
+  adventurous, venturesome, picaresque, errant, quixotic
+  venturous, cavalier
+  enterprising, dashing, chivalrous, heroic
+  roving, chance, accidental
+
+Adv:
+  adventurously
+  at a venture, at hazard, by chance, on the quest
+
+F:
+  Arabic: riḥla [journey]
+  German: Bildungsroman, Entwicklungsroman, Erziehungsroman, Zeitroman, Schlüsselroman [roman à clef], Fernweh [longing for far places]
+  Spanish: quijotismo, picarismo, picaresca
+  French: roman-fleuve
+
+Phr:
+  the knight of the woeful countenance [Cervantes]
+  to seek one's fortune
+  tilting at windmills

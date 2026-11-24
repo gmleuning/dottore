@@ -1,0 +1,20 @@
+# 363 Breathing, Cutaneous Process, and Thirst
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process
+G: Atmen, Hautprozess und Durst
+Gloss: The animal's exchange with air and water through lungs, skin and thirst.
+HGloss: The animal's relation to air and water: breathing, the skin's process, and the feeling of thirst.
+
+N:
+  breathing, cutaneous process, and thirst; breathing; thirst
+
+V:
+  sweat buckets, sweat like a pig, huff and puff, catch one's breath, be gasping, spit feathers [Brit. Coll.]
+
+Adj:
+  breathing
+
+F:
+  Latin: cutis
+  Greek: derma
+  Sanskrit: prāṇa [breath], tṛṣṇā [thirst, craving]
+  Chinese: huxi [breathing; the sage breathes from his heels] [Zhuangzi]

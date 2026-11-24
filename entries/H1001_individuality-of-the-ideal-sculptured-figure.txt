@@ -1,0 +1,30 @@
+# 1001 Individuality of the Ideal Sculptured Figure
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture
+G: Die Individualität der idealen Skulpturgestalten
+Gloss: The individual character of the ideal sculpted figure.
+HGloss: The individuality of the ideal figure, its particular character among the gods and heroes.
+
+N:
+  individuality of the ideal sculptured figure; distinguishing features, attributes, character types, individual gods
+  individual character, individuation, particularity, the particular god, the determinate figure, distinguishing marks, type, personality within the ideal
+  iconography, xoanon
+
+V:
+  distinguish, characterize
+  individualize, individuate, particularize, differentiate
+
+Adj:
+  distinctive, individual, characteristic
+  distinguishing
+  representative, typical, symbolic
+  special, particular, specific, proper, personal, original
+  individualized, determinate
+
+Adv:
+  distinctively
+  individually, characteristically
+
+Phr:
+  known by their attributes
+  each god his own
+  the character of a deity

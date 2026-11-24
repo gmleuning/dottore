@@ -1,0 +1,26 @@
+# 596 The World of Self-Alienated Spirit
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › ii. Self-Alienated Spirit: Culture
+G: Die Welt des sich entfremdeten Geistes
+Gloss: The world in which mind has become foreign to itself.
+HGloss: The world of self-alienated spirit, a world which spirit has made and which confronts it as alien.
+
+N:
+  the world of self-alienated spirit; the divided world, the double world, this world and the beyond, the actual world and the world of faith, here below and up above, the secular and the sacred
+  the alienated world, the self-estranged world, the here and the beyond, estrangement, foreignness
+
+V:
+  divide, double, split
+  alienate, estrange
+
+Adj:
+  divided, double, split, secular, otherworldly
+  self-alienated, estranged, foreign, doubled
+
+Adv:
+  here below, in the world beyond
+  in estrangement, as alien, dividedly
+
+Phr:
+  render unto Caesar the things which are Caesar's, and unto God the things that are God's [Bible]
+  a world apart
+  out of one's element

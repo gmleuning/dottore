@@ -1,0 +1,30 @@
+# 223 Advance
+# Logic › 3. Doctrine of the Concept › III. Idea › γ. The Absolute Idea
+G: Fortgang
+Gloss: The middle step of method: the unfolding of what was contained in the start.
+HGloss: The progress in which the immediate shows itself as the determinate, the negative, its own other.
+
+N:
+  advance, progress, progression, procession, development, unfolding, explication, evolution, movement, course, march, onward movement, forward movement, headway, step, stage, phase; determinate negation; differentiation, diremption, judgment; immanent development
+  progressiveness, advancement
+  evolvement, unfoldment, eversion
+
+V:
+  advance, progress, proceed, develop, unfold, evolve, move forward, move on, go ahead, make headway, make progress, forge ahead, press on, push on
+  gain ground, go on
+  unroll
+
+Adj:
+  progressive, advancing, developing, developmental, evolving, unfolding, onward, forward, immanent
+  profluent†, advanced, diffluent†
+
+Adv:
+  forward, onward, ahead, step by step, stage by stage, by degrees, progressively
+  in progress
+  gradually
+
+Phr:
+  eppur si muove [It.] [attrib. Galileo]
+  festina lente [Lat.]
+  one step at a time
+  to move forward

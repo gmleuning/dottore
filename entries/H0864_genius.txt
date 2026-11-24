@@ -1,0 +1,19 @@
+# 864 Genius
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 1. Inspiration
+G: Genie
+Gloss: The artist's inborn gift for true artistic production, with the energy to carry it through.
+HGloss: Genie, the general capacity for true production of art together with the energy to develop and work it out; it has, unlike thought, a side of natural gift.
+
+N:
+  genius; native genius, creative genius, the gift, the born artist
+  genius, flair, brilliance, fire of genius, heaven-born genius, the divine spark
+
+Adj:
+  brilliant, gifted, ingenious
+
+Adv:
+  brilliantly, by genius
+
+Phr:
+  a stroke of genius
+  poeta nascitur, non fit [Lat.] [the poet is born, not made]

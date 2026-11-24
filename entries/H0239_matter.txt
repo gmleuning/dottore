@@ -1,0 +1,38 @@
+# 239 Matter (Substrate of Place and Motion)
+# Nature › 1. Mechanics › I. Mathematical Mechanics (Space and Time) › γ. Place and Motion (Union of Space and Time)
+G: Materie
+Gloss: The stable stuff that fills a place and moves; space and time united and made real, and by its nature heavy.
+HGloss: The identity of space and time, of place and motion, as an immediate existent unity: matter, which has the concept outside it, in gravity.
+
+N:
+  matter; substance, stuff, material, mass, body, bodies, corporeality, physicality, materiality, substantiality, the physical, the material, the tangible; prime matter; corpuscles, particles, atoms, molecules
+  brute matter, element, principle, parenchyma [Biol.], hyle†, corpus, pabulum, frame
+  materialness, corporeity†, corporality†, substantialness, flesh and blood, plenum, physical condition
+  substratum
+  raw material, stock
+  solid body, block
+  bulk, lump
+
+V:
+  materialize, embody, corporealize, substantiate, reify; matter, count
+  fill, occupy
+
+Adj:
+  material, physical, corporeal, bodily, substantial, tangible, palpable, concrete, solid, massy, ponderable
+  corporal, somatic, somatoscopic†, sensible
+
+Adv:
+  materially, physically, bodily, corporeally, in the flesh
+
+F:
+  Latin: materia, materia prima
+  Greek: hylē
+  Arabic: hayūlā
+  Sanskrit: prakṛti, bhūta [element, material]
+  Chinese: qi [vital stuff]
+
+Phr:
+  matter can be neither created nor destroyed
+  what is matter? Never mind. What is mind? No matter
+  mind over matter
+  it doesn't matter

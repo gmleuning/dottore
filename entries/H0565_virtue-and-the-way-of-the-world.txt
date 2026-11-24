@@ -1,0 +1,38 @@
+# 565 Virtue and the Way of the World
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › a. The Certainty and Truth of Reason › iii. Self-Actualization of Reason
+G: Die Tugend und der Weltlauf
+Gloss: Virtue that sets itself against the way of the world and finds the world better than it supposed.
+HGloss: Virtue that would sacrifice individuality to the good and learns that the way of the world is the good's actuality.
+
+N:
+  virtue and the way of the world; virtue, moral crusade, knight of virtue, Don Quixote, sanctimonious virtue, quixotism, moralism, sermonizing; the way of the world, the world's course, worldliness, the ways of men, the real world, realpolitik, the market; ironies of virtue, foolhardihood†
+  virtuousness, morality, moral rectitude, integrity &c H0731, nobleness &c H0537
+  knight-errant
+  knight-errantry
+  the course of the world, abstract virtue, pompous talk, the sham fight
+
+V:
+  crusade, moralize, preach, sermonize, tilt at windmills; yield to the world
+  be virtuous, practice virtue, do one's duty, fight the good fight
+  combat, declaim, succumb
+
+Adj:
+  virtuous, moralistic, quixotic, sanctimonious, preachy; worldly, realistic, pragmatic
+  good, meritorious, worthy, moral, righteous, well-intentioned
+  venturesome, adventurous
+  upright, honest, honorable, just
+  high-flown
+
+Adv:
+  quixotically, moralistically
+  virtuously
+
+F:
+  German: Tugend, Weltlauf
+  French: vertu
+  Greek: aretē
+  Latin: virtus, virtutes
+
+Phr:
+  the way of the world is victorious over virtue [Hegel]
+  tilting at windmills [Cervantes]

@@ -1,0 +1,115 @@
+# 800 War
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › a. Constitutional Law › ii. External Sovereignty
+G: Krieg
+Gloss: Armed conflict between states.
+HGloss: War, in which the ideality of the particular is shown, and the ethical health of nations is preserved.
+
+N:
+  war; warfare, hostilities, armed conflict, combat, battle, campaign, the ethical health of nations
+  fighting, arms, the sword, Mars, Bellona, grim visaged war, bloodshed
+  conflict, skirmish, rencounter†, encounter, rencontre†, collision, affair, brush, battle royal, action, engagement, joust, tournament, tilt, tilting [Mediev.], tournay†, list, pitched battle
+  battle array, crusade, expedition, operations, mobilization, state of siege, battlefield, theater of operations, warpath
+  tug of war &c H0520, service, campaigning, active service, tented field, fire cross, trumpet, clarion, bugle, pibroch†, slogan, war-cry, war-whoop, battle cry, beat of drum, rappel, tom-tom, calumet of war, word of command, password, watchword, angelus†, sacring bell†
+  combatant
+  camouflage, mimicry, hiding place, secret place, secret drawer, recess, hold, holes and corners, closet, crypt, adytum†, abditory†, oubliette, retrocession†, retrograduation†, reculade†, almshouse†
+  ambush, ambuscade, stalking horse, lurking hole, lurking place, secret path, back stairs, retreat &c H0778
+  screen, cover, shade, blinker, veil, curtain, blind, cloak, cloud
+  mask, visor, vizor†, disguise, masquerade dress, domino, steganography†, disguisement†
+  pitfall &c H0142, trap &c H0710
+  opponent, antagonist, adversary, adverse party, opposition, enemy &c H0537, the other side
+  oppositionist, obstructive, brawler, wrangler, brangler†, disputant, filibuster [U.S.], obstructionist
+  malcontent, Jacobin, Fenian, demagogue, reactionist†
+  competitor, corrival†, prizer†
+  attack, assault, assault and battery, onset, onslaught, charge
+  aggression, offense, incursion, inroad, invasion, irruption, outbreak, estrapade†, ruade†, coupe de main, sally, sortie, camisade†, raid, foray, run against, dead set at, sackage†, fustigation†, strappado†
+  storm, storming, boarding, escalade†, siege, investment, obsession†, bombardment, cannonade
+  fire, volley, platoon fire, file fire, fusillade, sharpshooting, broadside, raking fire, cross fire, volley of grapeshot, whiff of the grape, noyade†, Thuggism†
+  cut, thrust, lunge, pass, passado†, home thrust, punch &c H0242
+  battue†, razzia†, Jacquerie, dragonnade†, devastation &c H0124, biblioclasm†
+  assailant, aggressor, invader
+  base of operations, point of attack, echelon
+  armed strife, belligerency, the ethical moment of war, the state of war
+  grunt [Slang], squaddie [Brit.], GI [U.S.], doughboy†, Tommy†, dogface, jarhead, leatherneck, boots on the ground, firefight, SNAFU [Slang], FUBAR [Slang], clusterfuck [Vulg.], collateral damage, friendly fire, shell shock, PTSD, fog of war, drone strike, shock and awe, the front, no man's land
+  bombing, gilbert, attacker, barrage, shelling, bloodbath
+  allies, enemy, occupation, insurgency, insurgent, rebel, guerrilla, civilian, civilians, casualty, casualties, deployment, troops, tactics, strategy, ceasefire, truce, airstrike, drone, missile, nuclear war, cyberwar, veteran, vet [Coll.], strategics†, castrametation†, legist†
+  embedded journalist, embedded reporter, embed
+  belligerence, bellicosity
+  tank, bomber, destroyer, corvette, warship, battleship, panzer, interceptor, dreadnought, military vehicle, military plane, army tank, combat ship, war vessel, weapons carrier, personnel carrier, troop transport, troop carrier, armored combat vehicle, landing craft, half track, scout car
+
+V:
+  war, wage war, fight, battle, combat, campaign, mobilize, take up arms
+  arm, raise troops, mobilize troops, raise up in arms, take up the cudgels &c H0520, fly to arms, appeal to arms, fly to the sword, draw the sword, unsheathe the sword, dig up the hatchet, dig up the tomahawk, go to war, let slip the dogs of war, cry havoc, kindle the torch of war, light the torch of war, raise one's banner, raise the fire cross, hoist the black flag, throw away, fling away the scabbard, enroll, enlist, take the field, take the law into one's own hands, do battle, give battle, join battle, engage in battle, go to battle, flesh one's sword, set to, fall to, engage, measure swords with, draw the trigger, cross swords, come to blows, come to close quarters, contend &c H0520, battle with, break a lance with
+  serve, see service, be on service, be on active service, wield the sword, shoulder a musket, smell powder, be under fire, spill blood, imbrue the hands in blood, on the warpath
+  carry on war, carry on hostilities, keep the field, fight the good fight, fight it out, fight like devils, fight one's way, fight hand to hand, sell one's life dearly, pay the ferryman's fee
+  blend in, blend into the background
+  lie in ambush &c H0662, lie in wait for, lurk, set a trap for &c H0710
+  invade, set upon, fall upon, enter the lists
+  assume the offensive, take the offensive, be the aggressor, become the aggressor, strike the first blow, draw first blood, throw the first stone at, lift a hand against, draw the sword against, take up the cudgels, advance against, march against, march upon, harry, come on, show fight
+  strike at, poke at, thrust at, aim a blow at, deal a blow at, give one a blow, fetch one a blow, fetch one a kick, give one a kick, have a cut at, have a shot at, take a cut at, take a shot at, have a fling at, have a shy at, be down upon, pounce upon, fall foul of, pitch into, launch out against, bait, slap on the face, make a thrust at, make a pass at, make a set at, make a dead set at, bear down upon, clapperclaw†
+  close with, bring to bay
+  ride full tilt against, attack tooth and nail, go at hammer and tongs
+  let fly at, dash at, run a tilt at, rush at, tilt at, run at, fly at, hawk at, have at, let out at, make a dash, make a rush at, strike home, drive one hard, press one hard, be hard upon, run down, strike at the root of
+  lay about one, run amuck, tund†, fustigate†
+  aim at, draw a bead on [U.S.]
+  fire upon, fire at, fire a shot at, shoot at, pop at, level at, let off a gun at, open fire, pepper, bombard, shell, pour a broadside into, fire a volley, fire red-hot shot, spring a mine
+  throw a stone, throw stones at, stone, lapidate†, pelt, hurl at, hurl against, hurl at the head of, rock beset [U.S.], besiege, beleaguer, lay siege to, invest, open the trenches, plant a battery, sap, mine, board, scale the walls
+  cut and thrust, bayonet, butt, kick, strike &c H0242, whip &c H0717
+  assail, impugn, malign &c H0604
+  bomb, rocket, blast
+  nuke, carpet-bomb, take out, waste [Slang], frag [Slang], blow away
+
+Adj:
+  warlike, martial, bellicose, belligerent, military, hostile
+  unpacific†, unpeaceful†, combative, armigerous†, militant, soldier-like, soldierly
+  competitive, rival, contentious, quarrelsome &c H0404, pugnacious, pugilistic, gladiatorial, palestric†, palestrical†, exceptious†
+  contending, contentious &c H0520, armed, armed to the teeth, armed cap-a-pie, sword in hand, under arms, up in arms, at war with, bristling with arms, in battle array, in open arms, in the field, embattled, battled, mural†
+  camouflaged, hidden, concealed, delitescent†
+  attacking, aggressive, offensive, obsidional†
+  scrappy
+
+Adv:
+  at war, in arms, bellicosely
+  aux aguets†
+  on the offensive
+  Int, up and at them
+
+F:
+  German: sittliche Gesundheit der Völker, kriegspiel, Kriegsspiel
+  Latin: bellum, horrida bella
+  Greek: polemos
+  French: passage d-armes, bete noir, feu d'enfer, carte and tierce, coupe de bec, eboulement, coup de main, sauve qui peut
+  Arabic: jihād [striving, war]
+
+Phr:
+  war is the continuation of politics by other means [Clausewitz]
+  wie die Bewegung der Winde die See vor der Fäulnis bewahrt, in welche sie eine dauernde Stille … versetzen würde [Ger.] [Hegel, Philosophy of Right §324 Remark]
+  all's fair in love and war
+  it must go no further, it will go no further
+  don't tell a soul
+  tell it not in Gath, nobody the wiser
+  alitur vitium vivitque tegendo [Lat.]
+  let it be tenable in your silence still [Hamlet]
+  [confidential disclosure to news reporters] background information, deep background information, deep background
+  background session, backgrounder
+  not for attribution
+  the din of arms, the yell of savage rage, the shriek of agony, the groan of death [Southey]
+  their fatal hands no second stroke intend [Paradise Lost]
+  thirst for glory quells the love of life [Addison]
+  defense not defiance
+  Dieu defend le droit [Fr.]
+  fidei defensor [Lat.], defender of the faith
+  the battle rages
+  a la guerre comme a la guerre [Fr.]
+  bis peccare in bello non licet [Lat.]
+  jus gladii [Lat.]
+  my voice is still for war [Addison]
+  'tis well that war is so terrible, otherwise we might grow fond of it [Robert E. Lee]
+  my sentence is for open war [Milton]
+  pride, pomp, and circumstance of glorious war [Othello]
+  the cannons have their bowels full of wrath [King John]
+  the cannons aspit forth their iron indignation [King John]
+  the fire-eyed maid of smoky war [Henry IV]
+  silent leges inter arma [Lat.] [Cicero]
+  si vis pacem para bellum [Lat.]
+  en flute
+  nervos belli pecuniam infinitam [Lat.]

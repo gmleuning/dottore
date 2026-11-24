@@ -1,0 +1,30 @@
+# 903 Comparisons Starting from the Meaning
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form
+G: Vergleichungen, die von der Bedeutung anfangen
+Gloss: Comparison that begins from a meaning and finds an image for it.
+HGloss: Comparisons that begin from a meaning and find an image to clothe it.
+
+N:
+  comparisons starting from the meaning; riddle, allegory, metaphor, image, simile; meaning seeking an image
+  trope, metonymy [Gramm.], synecdoche [Sem.], figurativeness, imagery
+  similitude, allegory &c H0906
+  parallel, type &c H0906, image &c H0834
+  comparison from the meaning, the meaning as starting point, image-finding, illustration, figuration
+
+V:
+  figure, image, allegorize
+  illustrate, clothe, embody, exemplify
+
+Adj:
+  figurative, allegorical, metaphoric
+  metaphorical, typical, parabolic, allusive
+  illustrative, comparative, image-seeking
+
+Adv:
+  figuratively
+  by illustration, from the meaning outward
+
+Phr:
+  the meaning comes first
+  to put it figuratively
+  in a manner of speaking

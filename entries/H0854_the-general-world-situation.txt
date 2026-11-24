@@ -1,0 +1,28 @@
+# 854 The General World-Situation
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › ii. The Determinacy of the Ideal › 2. Action
+G: Der allgemeine Weltzustand
+Gloss: The general state of the world in which action takes place.
+HGloss: The general state of the world, the heroic age in which the individual is the bearer of right and custom.
+
+N:
+  the general world-situation; the world-state, background, setting, epoch, milieu, the age of heroes, heroic age, the prosaic modern world
+  the state of the world, the general condition, the world-condition, individual independence, the prose of the present, the age, the times
+
+V:
+  set, situate, frame
+  condition, underlie, ground, prevail
+
+Adj:
+  heroic, prosaic, epochal, general
+  universal, prevailing
+
+Adv:
+  in the age of heroes
+  in general, in the state of the world, at large
+
+F:
+  German: Heroenzeit
+
+Phr:
+  the heroic age
+  in those days

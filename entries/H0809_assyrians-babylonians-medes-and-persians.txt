@@ -1,0 +1,19 @@
+# 809 Assyrians, Babylonians, Medes, and Persians
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy)
+G: Assyrer, Babylonier, Meder und Perser
+Gloss: The peoples of the ancient Near Eastern empires.
+HGloss: The Assyrians, Babylonians, Medes and Persians, the peoples that the Persian empire gathered into one.
+
+N:
+  Assyrians, Babylonians, Medes, and Persians; Mesopotamian empires
+  the Near Eastern empires
+
+V:
+  conquer, build, rule
+  succeed, overthrow
+
+Adj:
+  imperial
+
+Adv:
+  in succession, in the Near East

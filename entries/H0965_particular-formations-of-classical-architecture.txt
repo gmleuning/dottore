@@ -1,0 +1,27 @@
+# 965 Particular Formations of Classical Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture
+G: Die besonderen Grundformen der klassischen Architektur
+Gloss: The particular forms of classical building.
+HGloss: The particular formations of classical architecture: its materials, its kinds of temple, the temple as a whole.
+
+N:
+  particular formations of classical architecture; columns, entablatures, pediments, the parts of the temple
+  particular forms, specific formations, details of classical building, wall, entablature, roof, pediment
+  tectonics, morphology, articulation
+
+V:
+  articulate, compose
+  particularize, detail, specify, form, shape
+
+Adj:
+  articulated, compositional
+  particular, special, specific, formal, detailed
+
+Adv:
+  part by part
+  in particular, in detail, specifically
+
+Phr:
+  column, beam, and roof
+  the grammar of building
+  stone by stone

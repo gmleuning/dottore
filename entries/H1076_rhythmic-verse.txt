@@ -1,0 +1,21 @@
+# 1076 Rhythmic Verse
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification
+G: Rhythmische Versifikation
+Gloss: Verse measured by the length or stress of syllables.
+HGloss: The measure of syllables by quantity, the rhythm of ancient verse.
+
+N:
+  rhythmic verse; quantitative verse, classical metre
+  foot
+  prosody, scansion, cadence
+
+V:
+  scan, measure
+  metrify, quantify
+
+Adj:
+  quantitative
+  rhythmic, rhythmical, measured
+
+Adv:
+  metrically, rhythmically, by quantity, in measure

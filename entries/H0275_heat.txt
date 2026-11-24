@@ -1,0 +1,62 @@
+# 275 Heat
+# Nature › 2. Physics › II. Physics of Particular Individuality
+G: Wärme
+Gloss: The loosening of a body's cohesion and shape, by which it softens, melts and flows; matter's return toward formless fluidity, arising out of its inner trembling in sound.
+HGloss: The dissolution of cohesion, the body's self-restoration as the real negation of its specific determinateness, passing into shape.
+
+N:
+  heat; warmth, hotness, temperature, caloric, thermal energy, fusion, melting, liquefaction, softening, dissolution of cohesion; fever, ardour, glow, swelter
+  fervor, calidity†, incalescence†, incandescence, hectic
+  increase of temperature, heating, calefaction†, tepefaction†, torrefaction†, burning, ambustion†, combustion, incension†, accension†, concremation†, cremation, scorification†, cautery, cauterization, ustulation†, calcination, cracking, refining, incineration, cineration†, carbonization, cupellation [Chem]
+  liquescence†, liquescency†, colliquation†, colliquefaction†, liquation†, deliquation†, deliquescence, lixiviation†, dissolution
+  flame, ebullition
+  refrigeration, infrigidation†, reduction of temperature, congelation†, conglaciation†, solidification &c H0267, ice box
+  fire annihilator, amianth†, amianthus†, earth- flax, mountain-flax, flexible asbestos, fireman, fire brigade
+  incombustibility, incombustibleness†
+  air conditioning, central air conditioning, air conditioner, attic fan, dehumidifier
+  refrigerator, refrigeratory†, frigidarium†, cold storage, cold room, cold laboratory, icehouse, icepail, icebag, icebox, cooler, damper, polyurethane cooler, wine cooler
+  freezer, deep freeze, dry ice freezer, liquid nitrogen freezer, refigerator-freezer
+  freezing mixture, ice, ice cubes, blocks of ice, chipped ice, liquid nitrogen, dry ice, dry ice-acetone, liquid helium
+  thermometer, thermometrograph†, mercury thermometer, alcohol thermometer, clinical thermometer, dry-bulb thermometer, wet-bulb thermometer, gas thermometer, telethermometer, color-changing temperature indicator, thermopile, thermoscope†, pyrometer, calorimeter, bomb calorimeter, thermistor, thermocouple, pyrology†, thermology†, thermotics†
+  thermostat, thermoregulator
+  (3) Taste
+  fervour
+  warming, chilling, grilling
+  alkahest†
+
+V:
+  heat, warm, melt, fuse, liquefy, soften, thaw, smelt, fire, kindle, glow, burn
+  be hot, flush, sweat, bask, smoke, reek, stew, simmer, seethe, boil, blister, broil, blaze, smolder, fume, pant
+  inflame, roast, toast, fry, grill, singe, parch, bake, torrefy†, scorch, brand, cauterize, sear, burn in, corrode, char, calcine, incinerate, scorify†, reduce to ashes, burn to a cinder, commit to the flames, consign to the flames, exsiccate†, hob and nob†
+  render liquid &c H0268, run, deliquesce, solve, dissolve, resolve, liquate†, hold in solution, condense, precipitate, rain
+  recalesce†, give
+  set fire to, set on fire, enkindle, light, ignite, strike a light, apply the match to, apply the torch to, rekindle, relume†, fan the flame, add fuel to the flame, poke the fire, stir the fire, blow the fire, make a bonfire of
+  chafe, stive†, foment, make hot, sun oneself, sunbathe, stupe†
+  cool, fan, refrigerate, refresh, congeal, freeze, glaciate, benumb, starve, pinch, chill, petrify, chill to the marrow, regelate†, nip, cut, pierce, bite, make one's teeth chatter, damp, slack quench, put out, stamp out, extinguish, go out, burn out, horripilate†, refocillate†
+  expand
+
+Adj:
+  hot, warm, thermal, caloric, calorific, molten, fusible, melting, torrid, tepid, lukewarm, adust†
+  mild, genial, unfrozen, thermic, fervent, fervid, ardent, aglow
+  unwarmed†, unthawed†, isocheimal†, isocheimenal†, isocheimic†, unmelted†, unliquefied†
+  cooled, frozen out, cooling, frigorific†
+  frozen, melted
+
+Adv:
+  hotly, warmly, at white heat, at red heat
+
+F:
+  German: Anschutz thermometer
+  Latin: calor
+  Greek: thermē
+  French: extincteur
+  Sanskrit: tapas [heat, ascetic ardour]
+
+Phr:
+  if you can't stand the heat, get out of the kitchen
+  strike while the iron is hot
+  in the heat of the moment
+  to melt down
+  not a breath of air
+  whirlwinds of tempestuous fire [Paradise Lost]
+  fight fire with fire

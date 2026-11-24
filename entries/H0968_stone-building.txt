@@ -1,0 +1,24 @@
+# 968 Stone Building
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 2. Particular Formations of Classical Architecture › a. Form: Wood and Stone Buildings
+G: Der Steinbau
+Gloss: Building in stone, which keeps the forms of timber building in lasting material.
+HGloss: Der Steinbau: building in stone, the temple column recalling the tree trunk, freed from wood into the solidity of stone.
+
+N:
+  stone building
+  masonry, stonework, column, pillar, architrave, frieze, cornice, ashlar, petrification
+  coping stone, capital, epistyle†, pediment, entablature†, tympanum, zoophorus†
+  post, shaft, pilaster, pedestal, plinth, buttress, jamb, mullion, abutment, baluster, thill†, socle†, zocle†
+
+V:
+  hew, lay, joint, mason, carve, chisel
+
+Adj:
+  stone, lithic, hewn
+
+Adv:
+  in stone
+
+Phr:
+  the stone remembers the wood
+  timber turned to stone

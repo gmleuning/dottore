@@ -1,0 +1,31 @@
+# 422 Smell
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses › 2. Smell and Taste
+G: Geruch
+Gloss: The sense that perceives bodies dissolving into the air.
+HGloss: Geruch, the sense of the body's invisible volatilization into air, its process of dissolution.
+
+N:
+  smell
+  olfaction, scent, aroma
+  fragrance, redolence, perfume, bouquet, essence, sweet smell, aromatic perfume
+  sense of smell, act of smelling, olfactories†
+  odor, odorament†, effluvium, emanation, exhalation, fume, trail, nidor†
+  conk [Slang], hooter [Brit. Slang], schnozz [Slang], schnozzle, snoot, snout, beak [Slang], neb [Scot.], nostrils, nares, sinuses
+  stench, whiff, niff [Brit. Slang], funk, BO, fug
+
+V:
+  smell, sniff
+  snuff, snuff up, nose, inhale
+  have an odor, smell of, smell strong of, exhale, give out a smell, reek, reek of
+  stink
+  pong [Brit.], hum [Brit. Slang], stink to high heaven
+
+Adj:
+  olfactory, odorous, smelly, stinky, whiffy [Brit.], niffy, pongy, funky, rank, skanky
+  odoriferous, smelling, reeking, strong- scented, redolent, graveolent†, nidorous†, pungent
+
+Adv:
+  by smell
+
+Phr:
+  to smell a rat

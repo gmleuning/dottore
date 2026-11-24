@@ -1,0 +1,42 @@
+# 118 Existence
+# Logic › 2. Doctrine of Essence › II. Appearance
+G: Existenz
+Gloss: Being that has come forth from a basis; actual presence that has reasons behind it.
+HGloss: The immediacy of being restored by the sublation of mediation: being that has come forth from ground.
+
+N:
+  existence; ex-istence, standing forth, emergence from ground; actual existence, concrete existence, real existence, being in the world, worldly existence, actuality &c H0136; the existent, existing things, entities, the furniture of the world
+  reality, actuality, positiveness, fact, matter of fact, sober reality, truth &c H0214
+  grounded being, the emerged
+  extancy
+  secondness [Peirce]
+
+V:
+  exist, be, subsist, obtain, live, stand forth, issue, emerge, come forth
+  have being, breathe, stand, be the case, occur &c H0116, have place, prevail, find oneself, pass the time, vegetate
+  come into existence, come to pass
+  persist, endure, abide
+  emanate, come out of
+  subsist &c H0004
+  arise &c H0009, come forth &c H0418
+
+Adj:
+  existent, existing, extant, actual, real, concrete, worldly, factual, live, living
+  under the sun, afloat, afoot, on foot, current, prevalent, undestroyed
+  present
+  positive, absolute, true &c H0214, substantial, substantive, self-existing, self-existent, essential
+  actual &c H0004
+  grounded
+
+Adv:
+  in existence, in being, in actuality, in fact
+
+F:
+  German: das Existierende
+  Latin: existentia, in esse, de facto, esse et id quod est [being and that-which-is] [Boethius]
+  Greek: hyparxis
+  Arabic: wujūd [existence]
+
+Phr:
+  existence precedes essence, l'existence précède l'essence [Fr.] [Sartre]
+  as large as life

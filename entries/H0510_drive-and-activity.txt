@@ -1,0 +1,17 @@
+# 510 Drive and Activity
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › a. Immediate Self-Consciousness (Desire)
+G: Trieb und Tätigkeit
+Gloss: The urge to act, and the action that satisfies it.
+HGloss: The drive to sublate the object, and the activity that satisfies it.
+
+N:
+  drive and activity; drive; activity
+  satisfaction
+
+F:
+  German: Trieb
+  Sanskrit: pravṛtti [activity, impulse]
+
+Phr:
+  the urge to act
+  an urge to act

@@ -1,0 +1,42 @@
+# 16 Quality
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › a. Determinate Being as Such
+G: Qualität
+Gloss: The definite character of an existing thing. It marks out what the thing is, and by the same token what it is not.
+HGloss: Determinateness as immediately existing, one with being; as reality and as negation, since every determination is a negation.
+
+N:
+  quality; character, feature, trait, attribute, property, mark, note, characteristic; reality, positivity, affirmation, affirmativeness, positiveness; negation, negativity, privation, exclusion, absence, lack, defect, want, shortfall, deficiency, limitation &c H0026
+  accident; attribute; affirmation and negation
+  lineament
+  particularity, peculiarity
+  actuality
+  determinacy, reality and negation, suchness
+  deficit, shortage
+  realitas
+  firstness [Peirce]
+
+V:
+  qualify, characterize, mark; affirm, posit, assert; negate, deny, exclude, rule out, lack, want, fall short of
+  determine
+
+Adj:
+  qualitative, characteristic, attributive; real, positive, affirmative; negative, privative, exclusive, apophatic; partial, one-sided
+  qualified, determinate
+
+Adv:
+  positively, negatively; in reality, in point of fact; in part, partly
+  qualitatively
+
+F:
+  German: Realität, Negation, Wirklichkeit, Wesenheit, Sachheit
+  Latin: accidens, via affirmativa and via negativa, actualitas, forma, formalitas, entitas, entitas quidditativa
+  Greek: symbebēkos, kataphasis and apophasis
+  Sanskrit: dharma [property, characteristic]
+  French: réalité
+  Italian: realtà, realtà effettiva, effettualità
+  Spanish: realidad, efectividad
+
+Phr:
+  every quality is a limitation
+  the defect of a quality, le défaut de ses qualités [Fr.]
+  for real

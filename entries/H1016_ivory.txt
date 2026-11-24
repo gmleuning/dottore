@@ -1,0 +1,21 @@
+# 1016 Ivory
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 2. Materials for Sculpture › b. Ivory, Gold, Bronze, Marble
+G: Elfenbein
+Gloss: Ivory carved and joined with gold for the great cult statues of the gods.
+HGloss: Elfenbein: with gold, the material of the colossal chryselephantine statues, Phidias' Zeus and Athena.
+
+N:
+  ivory
+  chryselephantine, ivory and gold, chryselephantine work, ivory-carving, the Zeus of Olympia, the Athena Parthenos
+
+V:
+  inlay
+
+Adj:
+  chryselephantine, eburnean
+
+Adv:
+  in ivory
+
+Phr:
+  gold and ivory

@@ -1,0 +1,16 @@
+# 1257 The Cappadocian Fathers
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity › 1. Church Fathers
+G: Die kappadokischen Kirchenväter
+Gloss: Basil and the two Gregories, the Greek Fathers who settled the doctrine of the Trinity.
+HGloss: The Cappadocian Fathers, who fixed the trinitarian dogma of one essence in three hypostases against the Arians.
+
+N:
+  the Cappadocian Fathers
+  Basil, Gregory of Nyssa, Gregory of Nazianzus, Chrysostom, the Greek Fathers
+  the three Cappadocians, the Council of Constantinople, homoousios
+
+Adj:
+  Nicene, post-Nicene
+
+F:
+  Greek: homoousios, hypostasis, ousia

@@ -1,0 +1,39 @@
+# 65 Quantitative Ratio
+# Logic › 1. Doctrine of Being › II. Magnitude
+G: Quantitatives Verhältnis
+Gloss: A relation of two amounts, in which what matters is not either amount alone but the proportion between them.
+HGloss: Quantum related to quantum, where each is determined only through the other, so that quality returns into quantity.
+
+N:
+  quantitative ratio; ratio, proportion; relation, rate, quotient, fraction, percentage, per cent, per mille, scale, index; exponent; relative magnitude, comparative size; balance, symmetry, harmony, commensurability, commensuration; golden ratio, golden section, divine proportion, agio†
+  comparison &c H0669, progression, arithmetical progression, geometrical progression, harmonical progression†, permilage
+  sum, difference, complement, subtrahend, product, multiplicand, multiplier, multiplicator†, coefficient, multiple, dividend, divisor, factor, submultiple [Math.], rational number, surd, irrational number, transcendental number, mixed number, complex number, complex conjugate, numerator, denominator, circulating decimal, repetend, common measure, aliquot part, prime number, relative prime, prime factor, prime pair, totient†
+  power, root, logarithm, antilogarithm, modulus, base
+  quota
+  degree
+  fractional part, part &c H0130
+  percent
+
+V:
+  proportion, relate, ratio, compare, scale, apportion, prorate, commensurate
+
+Adj:
+  proportional, proportionate, relative, comparative, commensurate, commensurable, proportioned, symmetrical, rational, fractional
+  approximative†, approximating, proportionable, allusive, comparable
+  accordant, correspondent, conformable
+  numerical, incommensurable
+  numeral, complementary, divisible, aliquot, reciprocal, prime, relatively prime, decimal, figurate†
+  fragmentary, inconsiderable, negligible, infinitesimal
+
+Adv:
+  proportionally, in proportion, at a ratio of, relatively, comparatively
+
+F:
+  German: Verhältnis
+  Latin: ratio, proportio, sectio aurea, pro rata, pro rata parte, per
+  Greek: logos, analogia
+
+Phr:
+  man is the measure of all things [Protagoras]
+  in medio stat virtus [Lat.]
+  in the ratio of

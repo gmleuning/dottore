@@ -1,0 +1,80 @@
+# 732 Evil and Its Forms
+# Spirit › 2. Objective Spirit › II. Morality › γ. The Good and Conscience
+G: Das Böse und seine Formen
+Gloss: The ways in which a will that is sure of itself turns against the good.
+HGloss: The forms in which subjectivity, certain of itself, sets its own particularity above the universal: evil.
+
+N:
+  evil and its forms; evil, wickedness, malice, iniquity, sin, malevolence, corruption, perversity, depravity, villainy, the subjective self-elevation over the universal, pervicacy†, pervicacity†
+  vice, evil-doing, evil courses, wrongdoing, viciousness, peccability†, demerit, Adam†, old Adam†, offending Adam†
+  bad intent, bad intention, unkindness, diskindness†, ill nature, ill will, ill blood, bad blood, enmity &c H0537, hate &c H0537, malignity, malice prepense†, maliciousness, spite, despite, resentment &c H0677, troublous times†
+  immorality, impropriety, indecorum, scandal, laxity, looseness of morals, enphagy†, dophagy†, exophagy†, want of principle, want of ballast, obliquity, backsliding, infamy, demoralization, pravity†, pollution, hardness of heart, brutality, corruption &c H0803, knavery [Obs.], profligacy, flagrancy, atrocity, cannibalism, lesbianism, Sadism, courseness†, blackguardism†, brusquerie†
+  shabbiness, villany†, baseness, abjection, debasement, turpitude, moral turpitude, trimming, shuffling
+  evil doer, evil worker, wrongdoer, mischief-maker, marplot, oppressor, tyrant, destroyer, Vandal, iconoclast†, precisian†, bashaw†, accipitres†, raptorials†, raptors†
+  firebrand, incendiary, fire bug [U.S.], pyromaniac, anarchist, communist†, terrorist, seductor†
+  brute, ruffian, barbarian, semibarbarian†, caitiff, desperado, hoodlum, hood, plug-ugly [U.S.], Red Skin, tough [U.S.], Mohawk, Mo-hock, Mo-hawk, bludgeon man, bully, rough, hooligan, larrikin†, dangerous classes, ugly customer, thief &c H0713
+  cockatrice, scorpion, hornet
+  snake, viper, adder, snake in the grass, serpent, cobra, asp, rattlesnake, anaconda†, aspick†
+  canker-worm, wire-worm, locust, Colorado beetle, alacran†, alligator, caymon†, crocodile, mosquito, mugger, octopus, torpedo, bane &c H0389
+  cutthroat &c H0667
+  cannibal, anthropophagus†, anthropophagist†, bloodsucker, vampire, ogre, ghoul, gorilla, vulture, gyrfalcon†, gerfalcon†, mormo†, Hurlothrumbo†, afreet†, barghest†, bogle†
+  wild beast, tiger, hyena, butcher, hangman, blood-hound, hell- hound, sleuth-hound, catamount [U.S.], cougar, jaguar, puma, Tisiphone†, Alecto†
+  hag, hellhag†, beldam, Jezebel, Aspasia†, lorette†, cocotte†, grisette†
+  monster, fiend &c H1164, devil incarnate, demon in human shape, Frankenstein's monster, teratism†, bizarrerie†, rakehell†, daeva†, Asmodeus†
+  harpy, siren, Furies, Eumenides
+  Hun, Attila†, scourge of the human race
+  knave, rogue, Scapin†, rascal, Lazarillo de Tormes, bad man, blackguard, barrater†, barrator†, shyster [U.S.], crosspatch†, budmash†
+  traitor, betrayer, archtraitor†, conspirator, Judas, Catiline, reptile, wolf in sheep's clothing, sneak, Jerry Sneak, squealer [Slang], tell-tale, trimmer, fence-sitter, renegade &c H0679, truant, recreant, sycophant &c H0603, turn tippet†, vaurien†
+  moral evil, the evil will, subjectivity turned against the universal
+  fiend
+  bastard [Vulg.], son of a bitch [Vulg.], arsehole [Brit. Vulg.], asshole [U.S. Vulg.], prick [Vulg.], scumbag [Slang], lowlife, creep, sleazebag, sleaze, douchebag [Slang], douche [Slang], dirtbag, bitch [Vulg.], cow [Brit. Vulg.], villain, psycho
+  maleficence
+  Alsatian den†
+
+V:
+  do evil, sin, corrupt, pervert, damnify†, endamage†
+  turn against the good
+
+Adj:
+  evil, wicked, malicious, malevolent, iniquitous, depraved, nefarious
+  vicious, sinful, sinning, immoral, unrighteous, criminal, naughty, incorrect, unduteous†, undutiful
+  wrong, shocking, reprehensible &c H0535
+  miscreated†, misbegotten, demoralized
+  evil-minded, evil-disposed, ill-conditioned, heartless, graceless, shameless, virtueless, abandoned, lost to virtue, unconscionable, sunk in iniquity, lost in iniquity, steeped in iniquity, uncourteous†, uncourtly†, devoutless†
+  base, sinister, scurvy, foul, gross, vile, black, grave, facinorous†, felonious, shameful, scandalous, infamous, villainous, of a deep dye, heinous, flagrant, flagitious, atrocious, incarnate, accursed, dedecorous†
+  malign, malignant, rancorous, despiteful, spiteful, mordacious, caustic, bitter, envenomed, acrimonious, virulent, unamiable, uncharitable, maleficent, venomous, grinding, galling, disserviceable†, catheretic†, Achillean†
+  unbenevolent, unbenign, ill-disposed, ill-intentioned, ill-natured, ill-contrived, evil- disposed, black-browed†
+  dishonest, dishonorable, unconscientious, unscrupulous, fraudulent &c H0710, knavish, disgraceful &c H0717
+  perverse
+  cruel, brutal, irritating, bleak, disgraceful, unworthy, pesky, wayward, niveous†, pervicacious†, crossgrained†, humorsome†, ferine†, bloodyminded†, desertless†
+  nasty, mean, sleazy, creepy, shady, toxic [Coll.], toxiferous†
+
+Adv:
+  wickedly, malevolently
+  perversely
+
+F:
+  French: roué, libertin
+
+Phr:
+  der Ursprung des Bösen überhaupt liegt in dem Mysterium, d. i. in dem Spekulativen der Freiheit [Ger.] [Hegel, Philosophy of Right §139 Remark]
+  the root of all evil
+  deliver us from evil
+  moving accidents by flood and field [Othello]
+  bad is the best: the worst come to the worst
+  herba mala presto cresco [Lat.]
+  wrongs unredressed or insults unavenged [Wordsworth]
+  cruel as death
+  hard unkindness' alter'd eye [Gray]
+  homo homini lupus [Lat.] [Plautus]
+  mala mens [Lat.], malus animus [Lat.] [Terence]
+  rich gifts wax poor when givers prove unkind [Hamlet]
+  sharp-tooth'd unkindness [Lear]
+  faenum habet in cornu [Lat.]
+  corruptissima respublica plurimae leges [Lat.] [Tacitus]
+  alitur vitium vivitque tegendo [Virgil]
+  genus est mortis male vivere [Lat.] [Ovid]
+  mala mens malus animus [Lat.] [Terence]
+  nemo repente fuit turpissimus [Lat.]
+  the trail of the serpent is over them all [Moore]
+  to sanction vice and hunt decorum down [Bryon]

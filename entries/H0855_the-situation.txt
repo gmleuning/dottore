@@ -1,0 +1,28 @@
+# 855 The Situation
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › ii. The Determinacy of the Ideal › 2. Action
+G: Die Situation
+Gloss: The particular circumstances that call for action.
+HGloss: The situation which, by a collision, provokes the action.
+
+N:
+  the situation; circumstance, setting, occasion, predicament, scene, juncture, complication, collision, conflict
+  circumstances, state of affairs, posture of affairs, the situationless, the determinate situation
+
+V:
+  situate, place, complicate, complexify†
+  prompt, call forth, give rise to
+
+Adj:
+  situational, circumstantial, conflicted
+  occasional, particular, determinate
+
+Adv:
+  circumstantially
+  in the circumstances, in the situation, as occasion arises
+
+F:
+  Latin: in situ
+
+Phr:
+  the situation calls for action
+  to set the scene

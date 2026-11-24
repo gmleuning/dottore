@@ -1,0 +1,48 @@
+# 774 Right as Law
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › b. Administration of Justice
+G: Recht als Gesetz
+Gloss: Right set down as known and binding law.
+HGloss: Right posited as law, a known universal.
+
+N:
+  right as law; positive law, codified law, statute, legislation, code, codification, enacted law
+  jurisprudence, nomology†
+  legislature, law, constitution, pandect†, charter, enactment, canon &c H0775, ordinance, institution, bylaw, byelaw, ordonnance†, standing order, plebiscite &c H0679
+  rule, canon, act, rubric, stage direction, regulation, formulary, technicality, norm
+  equity, common law, law of nations, international law, civil law, canon law, crown law, criminal law, statute law, ecclesiastical law, administrative law
+  lawyer, attorney, legal counsel &c H0776
+  legal process, form, formula, formality, rite, arm of the law, habeas corpus
+  court
+  constitutionalism, constitutionality, justice &c H0683
+  legality, legitimacy, legitimateness
+  posited right, the legal code
+
+V:
+  codify, enact, legislate, promulgate, posit
+  legalize, ordain, decree &c H0792, pass a law, enact a regulation, formulate, regulate
+
+Adj:
+  positive, statutory, codified, legislated, legal
+  legitimate, vested, constitutional, chartered, legalized, lawful &c H0778, statutable†, legislatorial, legislative, regulatory, regulated
+  enacted
+
+Adv:
+  by statute, according to law
+  legally, in the eye of the law
+  by law, positively, by enactment
+
+F:
+  Latin: lex, ius positivum, corpus juris, lex scripta, lex nonscripta, jus gentium, jus civile, lex mercatoria, fieri facias, de jure
+  French: droit des gens, droits civils, droits civiques, loi
+  Arabic: sharʿ
+  Sanskrit: dharmaśāstra [law code]
+  Spanish: ley, derecho
+  Greek: nomos
+  Italian: diritto
+
+Phr:
+  ignorantia legis neminem excusat [Lat.] [ignorance of the law excuses no one]
+  the letter of the law
+  the rule of law
+  ignorantia legis neminem excusat [Lat.], ignorance of the law is no excuse
+  where law ends tyranny begins [Earl of Chatham]

@@ -1,0 +1,20 @@
+# 1120 Psalm
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › a. Religious Lyric › ii. Dithyramb and Psalm
+G: Der Psalm
+Gloss: The Hebrew song of praise and lament before the one God.
+HGloss: Der Psalm: the Hebrew lyric that exalts the Lord's power and glory and cries out of the depths, the soul raised in longing toward God.
+
+N:
+  psalm
+  the Psalms, psalter, psalmist, psalmody, chant, antiphon†
+  the Psalms of David, songs of praise, the penitential psalms
+
+V:
+  chant, praise, lament
+
+Adj:
+  psalmic, psalmodic
+
+Phr:
+  out of the depths have I cried unto thee, O Lord [Bible]
+  the Lord is my shepherd [Bible]

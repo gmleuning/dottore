@@ -1,0 +1,29 @@
+# 917 The Battle of the Old and New Gods
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › b. Classical Art › i. The Process of Formation of Classical Art
+G: Der Kampf der alten und neuen Götter
+Gloss: The struggle between the old nature-gods and the new gods of mind.
+HGloss: The struggle of the old nature gods and the new spiritual gods, the Titans and the Olympians.
+
+N:
+  the battle of the old and new gods; Titanomachy, Gigantomachy, the Titans, Cronus and Zeus, the Olympians victorious, theogony, Hesiod's Theogony, the overthrow of the elder gods
+  the war of the gods, the Giants, Cronus, Uranus, Prometheus, the overthrow of the Titans, the victory of Zeus, nature-powers and spiritual gods
+
+V:
+  overthrow, war, supplant, succeed, depose, uncrown†
+  battle, dethrone, vanquish, subdue, hurl down, unthrone†, disenthrone†, disbench†
+
+Adj:
+  titanic, Olympian, theogonic, primeval, chthonic
+  warring, victorious, vanquished, dethroned
+
+Adv:
+  in the war of the gods
+  in battle, in strife, victoriously
+
+F:
+  German: Götterdämmerung [twilight of the gods]
+
+Phr:
+  Zeus overthrows Cronus
+  the war in heaven
+  Titans and Olympians

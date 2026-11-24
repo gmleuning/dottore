@@ -1,0 +1,41 @@
+# 161 Negative Judgment
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment › a. Judgment of Existence (Qualitative Judgment)
+G: Negatives Urteil
+Gloss: A judgment that denies a quality of a thing, as "the rose is not red."
+HGloss: The singular is not this abstract universal but a particular: the rose is not blue, but of some other colour.
+
+N:
+  negative judgment; negation, denial, negative statement, contradiction, gainsaying, disavowal, disclaimer, refusal, no, nay, declinature†
+  abnegation, abjuration, contravention, recusation [Law], protest, recusancy &c H0667, flat contradiction, emphatic contradiction, emphatic denial
+  negative proposition
+  garbage, scraps
+
+V:
+  deny, negate, gainsay, contradict, refute, rebut, disavow, disclaim, repudiate, reject, say no, demur
+  contravene, controvert, give denial to, shake the head
+  disown, disaffirm, recant &c H0679, revoke &c H0797
+  dissent, disagree, say no &c H0662, refuse assent
+  confute, disprove
+  refuse
+  repudiate &c H0679, rebut &c H0670, refuse &c H0689
+
+Adj:
+  negative, negatory, denying, contradictory, apophatic, privative
+  denied, recusant &c H0667, at issue upon
+
+Adv:
+  negatively, no, nay, not, not at all, by no means, nowise
+  non
+  nah, nope, no way, not really, never
+
+F:
+  Latin: iudicium negativum, dementi
+  Greek: apophasis
+  Sanskrit: niṣedha [negation, prohibition]
+  German: Verneinung [negation that admits the repressed] [Freud]
+  French: dénégation [disavowal]
+
+Phr:
+  the rose is not red
+  omnis determinatio est negatio [Lat.]
+  to say no to

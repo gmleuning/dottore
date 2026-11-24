@@ -1,0 +1,34 @@
+# 542 Subjective Certainty
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › a. The Certainty and Truth of Reason › i. Reason's Certainty of Being All Reality › 1. Certainty (Subjective Reason)
+G: Subjektive Gewissheit
+Gloss: Sureness felt within, without outside confirmation.
+HGloss: Certainty within the self, not yet confirmed by its object.
+
+N:
+  subjective certainty; inner certainty, personal conviction, private assurance, felt certainty, sureness
+  subjective certitude, inner conviction, persuasion, unconfirmed certainty, mere certainty
+
+V:
+  feel sure, be convinced, believe
+  be persuaded, assure oneself
+  state the obvious
+
+Adj:
+  subjective, personal, private, felt, inward, unconfirmed
+  intrinsic, inherent, innate, inborn, ingrained
+  persuaded, untested
+  obvious, evident, unquestionable, indubitable, beyond doubt, autoptical†
+
+Adv:
+  subjectively, privately, inwardly
+  to one's own mind
+  obviously, of course, needless to say
+
+F:
+  German: Gewissheit [certainty, as distinct from Wahrheit, truth]
+  Sanskrit: svasaṃvedya [self-evident to oneself]
+
+Phr:
+  certainty is not truth
+  to know in one's heart
+  gut conviction

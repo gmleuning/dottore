@@ -1,0 +1,47 @@
+# 409 Youth
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › b. Natural Changes › i. The Ages of Life
+G: Jugend
+Gloss: The age of life marked by ideals and opposition to the world as it is.
+HGloss: Spirit in opposition: the ideal confronts a world felt as hostile, and the youth seeks to change it.
+
+N:
+  youth; adolescence, puberty, teens, teenage years, young adulthood, salad days, springtime of life, heyday, idealism, rebellion, revolt, ardour, impetuosity, inexperience, greenness; youth, youngster, adolescent, teenager, stripling, lad, lass, juvenile, ephebe
+  boy, youngun, younker†, callant†, whipster†, whippersnapper, whiffet [U.S.], schoolboy, hobbledehoy, hopeful, cadet, minor, master
+  juvenility, juvenescence†, juniority†, infancy, babyhood, childhood, boyhood, girlhood, youthhood†, incunabula, minority, nonage, tender age, bloom
+  cradle, nursery, leading strings, pupilage, pucelage†
+  prime of life, flower of life, springtide of life†, seedtime of life, golden season of life, heyday of youth, school days, rising generation
+  pubescence, flower of age, spring of life
+  girl, lassie, wench, miss, damsel, demoiselle, maid, maiden, virgin, hoyden, grisette†, trull†, quean†, mopsy†
+  youthful idealism
+  teen, young buck, young blood, young gun, upstart, kid, youth culture, Gen Z, zoomer [Slang], millennial, raging hormones, growing pains, teen angst, rebel without a cause, skipjack†
+  uprising, insurrection
+
+V:
+  rebel, dream, aspire, idealize, revolt, find oneself
+
+Adj:
+  youthful, young, adolescent, juvenile, green, callow, fresh, idealistic, rebellious, ardent, impetuous, starry-eyed
+  budding, sappy, puisne, beardless, under age, in one's teens, younger, junior, hebetic†, unfledged
+  raw, immature, kachcha†
+  pubescent
+  teenage, teenaged, teeny-bopper, wet behind the ears, green as grass, young and dumb [Slang]
+
+Adv:
+  in one's youth, in one's salad days, in the flower of youth
+  youthfully, in youth
+
+F:
+  German: Sturm und Drang
+  Latin: iuventus, adulescentia, in statu pupillari
+  Greek: neotēs, ephēbos
+  Chinese: qingchun [green spring, youth]
+  French: jeunesse dorée, enfant terrible
+
+Phr:
+  bliss was it in that dawn to be alive, but to be young was very heaven [Wordsworth]
+  youth is wasted on the young [attrib. Shaw]
+  si jeunesse savait, si vieillesse pouvait [Fr.]
+  sow one's wild oats
+  young at heart
+  youth on the prow and pleasure at the helm [Gray]
+  youth a the glad season of life [Carlyle]

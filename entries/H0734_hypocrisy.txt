@@ -1,0 +1,43 @@
+# 734 Hypocrisy
+# Spirit › 2. Objective Spirit › II. Morality › γ. The Good and Conscience › e. Evil and Its Forms
+G: Heuchelei
+Gloss: Passing off one's evil as good.
+HGloss: Hypocrisy, the passing off of evil as good for others.
+
+N:
+  hypocrisy; dissimulation, pretence, sanctimony, cant, pharisaism, two-facedness, double standard, lip service, insincerity, sham piety, whited sepulchre; Tartuffe [Molière]
+  lip homage, mouth honor, hollowness, mere show, mere outside, duplicity, double dealing, humbug, jesuitism, jesuitry, Machiavelism, organized hypocrisy, crocodile tears, mealy-mouthedness†, quackery, charlatanism†, charlatanry, gammon, bun-kum†, bumcombe, flam, bam [Slang], flimflam, cajolery, flattery, Judas kiss, perfidy &c H0732, charlatism†
+  hypocrisy &c H0710, pietism, pious fraud, lip devotion, lip reverence
+  false coloring, prevarication, equivocation
+  dissembling, Tartuffery
+
+V:
+  dissemble, pretend, feign, play the hypocrite, pay lip service, cant
+  dissimulate, assume, put on, make believe, play possum, play false, play a double game, coquet, act a part, play a part, affect, simulate, pass off for, counterfeit, sham, make a show of, malinger, say the grapes are sour
+  sham Abraham, put on the mask, clean the outside of the platter, lie like a conjuror, hand out false colors, hold out false colors, sail under false colors, commend the poisoned chalice to the lips [Macbeth], deceive &c H0710
+  make a pretext of, pretend &c H0710
+
+Adj:
+  hypocritical, sanctimonious, pharisaical, insincere, two-faced, canting, double-faced
+  hypocritical &c H0710, pietistical†, unctuous, overrighteous†, righteous over much
+  artificial, contrived, jesuitical, tartuffish, Machiavelian, double, double tongued, double faced, double handed, double minded, double hearted, Janus faced, smooth-faced, smooth spoken, smooth tongued, plausible, mealy-mouthed
+  affected, full of affectation, pretentious, pedantic, stilted, stagy, theatrical, big-sounding, ad captandum
+  false-hearted, disingenuous, double-tongued, insidious, perfidious
+  smug, demure, quakerish, puritanical, prudish, priggish, pragmatical†, overwise†
+  victorian
+
+Adv:
+  hypocritically, sanctimoniously
+  under a mask
+
+F:
+  Latin: ambiguas in vulgum spargere voces
+  French: Tartufferie, faire pattes de velours, mauvaise foi [bad faith] [Sartre]
+  Italian: il volto sciolto i pensieri stretti
+  Arabic: riyāʾ [ostentation in piety]
+
+Phr:
+  hypocrisy is the homage vice pays to virtue [La Rochefoucauld]
+  whited sepulchres [Bible]
+  practise what you preach
+  conceit in weakest bodies strongest works [Hamlet]

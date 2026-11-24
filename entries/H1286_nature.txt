@@ -1,0 +1,27 @@
+# 1286 Nature (二)
+# Spirit › 3. Absolute Spirit › III. Philosophy › γ. The Hegelian System › c. Encyclopaedia of the Philosophical Sciences
+G: Natur
+Gloss: The second part of the system: thought in the form of outward, material existence.
+HGloss: The philosophy of nature, the science of the idea in its otherness.
+
+N:
+  nature; the second part, philosophy of nature, the idea in its otherness
+  realm of nature, externality, self-externality, the idea outside itself, the material world, the physical world, creation, mechanics, physics, organics, petrified intelligence [Schelling]
+
+V:
+  externalize, appear, manifest
+  go outside itself, alienate itself, materialize, embody, fall away from itself
+
+Adj:
+  natural, external
+  material, physical, corporeal, outward, self-external, spatiotemporal
+
+Adv:
+  in nature
+  outwardly, externally, materially, in space and time
+
+F:
+  German: Naturphilosophie, Außersichsein
+
+Phr:
+  the idea in the form of otherness [Hegel]

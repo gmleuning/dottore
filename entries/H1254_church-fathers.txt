@@ -1,0 +1,17 @@
+# 1254 Church Fathers
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity
+G: Die Kirchenväter
+Gloss: The early Christian thinkers who gave the faith a doctrinal form, using Greek philosophy as their tool.
+HGloss: The Church Fathers, who worked out the faith into doctrine.
+
+N:
+  Church Fathers, the Fathers, Fathers of the Church, the Doctors of the Church; patristics, patrology, patristic theology, patristic philosophy, apologetics; John of Damascus, Pseudo-Dionysius, the Cappadocians, Gnostics; the creed, the rule of faith, the homoousion; the councils, Nicaea, Chalcedon, dogma, heresy, orthodoxy, Arianism, Christian Platonism
+
+V:
+  define, defend, anathematize, dogmatize, formulate, expound, catechize, condemn, systematize
+
+Adj:
+  patristic, patristical, orthodox, conciliar, ante-Nicene, dogmatic, doctrinal, catholic, creedal
+
+Adv:
+  patristically, dogmatically, doctrinally, orthodoxly, by the creed, in council

@@ -1,0 +1,36 @@
+# 286 Prismatic Color
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light › iii. Color
+G: Prismatische Farbe
+Gloss: Color produced when light passes through a prism.
+HGloss: Colour arising when light passes through the prism, the turbidity and displacement of the image.
+
+N:
+  prismatic colour; spectrum, spectral colours, rainbow, iris, prism, dispersion, red, orange, yellow, green, blue, indigo, violet; ROYGBIV; Newton's prism
+  pure color, positive color, primary color, primitive complementary color, three primaries, chromatic dispersion, broken color, secondary color, tertiary color
+  spectroscope, spectrograph, spectrometer, colorimeter &c H0418, abdominoscope†, helioscope†, polariscope†, polemoscope†
+  scattering, diffusion
+  spectral colour, Newton's spectrum, coloured fringes
+  iridescence
+
+V:
+  disperse, split, spread
+  refract
+
+Adj:
+  prismatic, spectral, iridescent, rainbow-coloured, opalescent
+  opaline†, nacreous, pearly, shot, gorge de pigeon, chatoyant†, irisated†, pavonine†
+  colored, chromatic, polychromatic
+  rainbow-hued, dioptric
+
+Adv:
+  prismatically, in all the colours of the rainbow
+  through the prism
+
+F:
+  Latin: experimentum crucis
+  French: arc-en-ciel
+  Sanskrit: indradhanus [Indra's bow]
+
+Phr:
+  my heart leaps up when I behold a rainbow in the sky [Wordsworth]
+  the spectrum

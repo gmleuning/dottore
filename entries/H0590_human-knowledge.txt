@@ -1,0 +1,19 @@
+# 590 Human Knowledge
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › i. True Spirit: The Ethical Order › 2. Ethical Action
+G: Das menschliche Wissen
+Gloss: The knowledge that belongs to the human law: what the community openly knows and decrees.
+HGloss: Das menschliche Wissen: the self-conscious knowledge of the human law, manifest in the light of day, which in acting knows only one side of the ethical substance.
+
+N:
+  human knowledge
+  Creon
+  the law of the state, public law, statecraft, the knowledge of the community, civic reason, reason of state
+
+V:
+  know the law, decree, enforce
+
+Adj:
+  civic, political, public, manifest
+
+Adv:
+  by the law of the land

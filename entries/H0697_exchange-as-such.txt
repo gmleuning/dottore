@@ -1,0 +1,40 @@
+# 697 Exchange as Such
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract › ii. Contract of Exchange
+G: Tausch als solcher
+Gloss: The exchange of one thing for another.
+HGloss: The exchange of one thing for another.
+
+N:
+  exchange as such; exchange, trade, interchange, commerce, traffic, reciprocity
+  reciprocation, interchange &c H0151
+  mercature†, buying and selling, bargain and sale, business, nundination†, custom, shopping, commercial enterprise, speculation, jobbing, stockjobbing†, agiotage†, brokery†
+  commutation, permutation
+  scorse†, truck system
+  transfer, exchange &c H0151, barter &c H0698
+  quid pro quo
+
+V:
+  exchange, trade, swap, interchange, barter, sell
+  swop†, truck, commutate &c H0019, compound for
+  commute
+  buy and sell, give and take, nundinate†, carry on a trade, ply a trade, drive a trade, be in business, be in the city, keep a shop, deal in, employ one's capital in
+  reciprocate, alternate, counterchange†
+
+Adj:
+  commercial, mercantile, reciprocal, exchangeable
+  trading, interchangeable, marketable, staple, in the market, for sale
+  interchanged, mutual, commutative, intercurrent†
+
+Adv:
+  in exchange, in trade
+  vice versa, backwards and forwards, by turns, turn and turn about, each in his turn, everyone in his turn
+  in return
+
+F:
+  Latin: permutatio, mutatis mutandis
+  Greek: allagē
+
+Phr:
+  a fair exchange is no robbery
+  tit for tat
+  even exchange

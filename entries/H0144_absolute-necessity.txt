@@ -1,0 +1,65 @@
+# 144 Absolute Necessity
+# Logic › 2. Doctrine of Essence › III. Actuality › β. Modal Actuality
+G: Absolute Notwendigkeit
+Gloss: Necessity that depends on nothing outside itself; what is because it is.
+HGloss: Necessity that is because it is: being that has its ground only in itself, at once blind and the self-relation of freedom.
+
+N:
+  absolute necessity; necessity, fate, destiny, doom, fatality; Moirai, the Fates; inevitability, ineluctability, inexorability, unavoidability; blind necessity; what is because it is, self-grounded necessity
+  destination, kismet, election, foreordination, lot fortune, fatalism, inevitableness, spell &c H1164
+  necessitation, obligation, compulsion &c H0712, subjection &c H0527, stern necessity, hard necessity, dire necessity, imperious necessity, inexorable necessity, iron necessity, adverse necessity, what must be
+  predestination, preordination, predetermination, foregone conclusion
+  unconditioned necessity, the simply necessary
+  ananke, necessitarianism
+  necessarian†, necessitarian†
+
+V:
+  be necessary, must be, cannot be otherwise; necessitate, ordain, decree, destine, predestine, foreordain, doom
+  foredoom, devote, compel &c H0712
+  preordain
+  be of necessity
+
+Adj:
+  necessary, absolutely necessary, inevitable, ineluctable, inexorable, unavoidable, inescapable, fated, destined, predestined, fateful, fatal, ordained, decreed, written; blind, unconditioned
+  elect, spellbound compulsory &c H0712, uncontrollable, irresistible, irrevocable, avoidless†, resistless
+  self-grounded
+
+Adv:
+  necessarily, of necessity, inevitably, inexorably, perforce, willy-nilly, come what may, whether one will or no. needs must, perforce &c H0712, will he nil he, willy nilly, willing or unwilling
+  of course, in consequence, consequently, as a matter of course
+  absolutely, of itself
+
+F:
+  German: Notwendigkeit
+  Latin: necessitas, Parcae, nolens volens, ex necessitate rei
+  Greek: anankē, heimarmenē [fate], moira
+  French: bon gre mal gre, coute que coute, force des choses [the force of circumstance]
+  Old Norse: Norns
+  Arabic: qadar [decree, destiny], maktūb [it is written]
+  Turkish: kismet
+  Sanskrit: ṛta, niyati [destiny, necessity]
+  Chinese: ming [fate, mandate], tianming [mandate of heaven]
+
+Phr:
+  anankē [Gr.]
+  ducunt volentem fata, nolentem trahunt [Lat.] [Seneca]
+  maktūb [Ar.] [it is written]
+  che sarà sarà [It.]
+  Freiheit ist die Einsicht in die Notwendigkeit [Ger.] [Engels, Anti-Dühring I.11, on Hegel]
+  blind ist die Notwendigkeit nur, insofern dieselbe nicht begriffen wird [Ger.] [Hegel, Encyclopaedia §147 Zusatz]
+  it is what it is
+  it had to be
+  it cannot be helped
+  there is no help for, there is no helping it
+  it will be, it must be, it needs to be, it must be so, it will have its way
+  the die is cast
+  jacta est alea [Lat.]
+  che sara sara [Fr.]
+  one's days are numbered, one's fate is sealed
+  Fata obstant [Lat.]
+  diis aliter visum [Lat.]
+  actum me invito factus [Lat.], non est meus actus [Lat.]
+  aujord'hui roi demain rien [Fr.]
+  quisque suos patimur manes [Lat.] [Virgil]
+  The moving finger writes and having writ moves on
+  Nor all thy piety nor wit shall draw it back to cancel half a [Rubayyat of Omar Khayyam]

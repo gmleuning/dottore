@@ -1,0 +1,28 @@
+# 922 The Individuality of the Particular Gods
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › b. Classical Art › ii. The Ideal of Classical Art
+G: Die Individualität der besonderen Götter
+Gloss: The character of each god as an individual.
+HGloss: The individuality of the particular gods, each with its own character and attributes.
+
+N:
+  the individuality of the particular gods; divine personality, attributes, epithets, myths, local cults, the characters of the gods
+  divine individuality, the character of each god, personality, the particular god, distinctive character, determinate individuality, attribute, sphere, province
+  theomorphism
+
+V:
+  characterize, individualize, personify
+  distinguish, particularize
+
+Adj:
+  individual, characteristic, mythic
+  particular, distinctive, personal, determinate
+
+Adv:
+  individually
+  each in his sphere, distinctively
+
+Phr:
+  grey-eyed Athena
+  rosy-fingered dawn [Homer]
+  each god in his sphere
+  the attributes of the gods

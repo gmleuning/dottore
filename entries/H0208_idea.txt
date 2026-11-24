@@ -1,0 +1,45 @@
+# 208 Idea
+# Logic › 3. Doctrine of the Concept
+G: Idee
+Gloss: The full agreement of a concept with its reality; truth in the strongest sense, a thing being what it should be.
+HGloss: The concept and its objectivity in absolute unity: the idea, which is the true, and its process.
+
+N:
+  idea; truth, the true, adequation, agreement of concept and reality, correspondence, fit, harmony; ideal, perfection, paradigm, archetype, exemplar, model, pattern, form; what a thing ought to be, the thing as it should be; reason; unity of subject and object, subject-object
+  notion, conception, thought, formative notion
+  prototype, standard
+  entirety, perfection &c H0207, unity
+  the unity of concept and objectivity, the adequate concept
+
+V:
+  realize, embody, fulfil, perfect, idealize, conform, correspond, fit, agree
+  accord, harmonize, tally, square with, homologate†
+  bring to perfection, complete
+  conceive
+  be true
+
+Adj:
+  ideal, true, perfect, adequate, fitting, corresponding, consummate, archetypal, exemplary, paradigmatic, rational, real
+  actual &c H0004, veritable
+  faultless
+
+Adv:
+  truly, ideally, in truth, in reality, perfectly, as it should be
+  verily
+  in idea
+
+F:
+  German: Wahrheit, Vernunft
+  Latin: adaequatio
+  Greek: idea [also Latin], eidos
+  Arabic: ḥaqq [truth, the real]
+  Sanskrit: satya [truth], ṛta
+  Chinese: li [principle]
+  Korean: inyeom [idea]
+
+Phr:
+  the truth is the whole [Hegel]
+  veritas est adaequatio rei et intellectus [Lat.] [Aquinas]
+  whatever is real is rational
+  the idea of the thing
+  true to its idea

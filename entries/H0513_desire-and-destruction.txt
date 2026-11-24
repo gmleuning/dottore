@@ -1,0 +1,14 @@
+# 513 Desire and Destruction
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › a. Immediate Self-Consciousness (Desire)
+G: Begierde und Vernichtung
+Gloss: Desire that destroys its object.
+HGloss: Desire that destroys its object, and so must always reproduce it as other.
+
+N:
+  desire and destruction; destruction
+
+F:
+  German: Begierde
+
+Phr:
+  to eat one's fill

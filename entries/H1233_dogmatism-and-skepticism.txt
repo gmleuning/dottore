@@ -1,0 +1,38 @@
+# 1233 Dogmatism and Skepticism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy
+G: Dogmatismus und Skeptizismus
+Gloss: The later Greek schools that sought a sure test of truth to secure the individual's peace of mind, and the school that denied any such test exists.
+HGloss: Dogmatism and skepticism, the schools that sought a criterion of truth.
+
+N:
+  dogmatism and skepticism; Hellenistic philosophy, Skepticism, the criterion of truth
+  doubt &c H0667, scepticism, misgiving, distrust, mistrust, misdoubt†, suspicion, scruple, qualm
+  pyrrhonism, agnosticism
+  incredulity
+  uncertainty
+  the post-Aristotelian schools, post-Aristotelian philosophy, the Sceptics, sceptic, Roman philosophy
+  suspension of judgment
+  peace of mind, imperturbability, tranquillity, ataraxy, inner freedom, self-sufficiency of the sage, the wise man, eudaemonism, the philosophy of self-consciousness
+  criteriology
+
+V:
+  doubt
+  be doubtful &c H0667, doubt the truth of, be skeptical as to
+  deny, suspend judgment, withhold assent, call in question, seek a criterion, withdraw into oneself
+
+Adj:
+  Hellenistic, sceptical
+  unbelieving, skeptical
+  post-Aristotelian, Pyrrhonian, doubting, zetetic, ephectic, criterial, ataractic, self-sufficient, imperturbable
+
+Adv:
+  sceptically
+  doubtingly, imperturbably, with suspended judgment
+
+F:
+  Latin: onus probandi
+  Greek: kritērion, epochē, ataraxia, autarkeia
+
+Phr:
+  the search for the criterion
+  dogma and doubt

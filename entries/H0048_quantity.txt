@@ -1,0 +1,43 @@
+# 48 Quantity
+# Logic › 1. Doctrine of Being › II. Magnitude
+G: Quantität
+Gloss: Being considered as indifferent to its limits, so that it can be increased or decreased without becoming something else; the unity of the continuous and the divided.
+HGloss: Being-for-self become self-identical, indifferent to its limit; the unity of continuity and discreteness.
+
+N:
+  quantity; sublated being-for-self; indifference; continuity and discreteness; extensibility, divisibility, compositionality, addability; increase and decrease, more and less, plus and minus, ±; quantum, amount, magnitude; homogeneity, uniformity, fungibility, interchangeability, interchangeableness†
+  size &c H0228, amplitude, mass, sum, substance, strength, force
+  fewness, paucity, small number, small quantity &c H0054, rarity, infrequency &c H0232, handful, maniple, minority, exiguity, yaffle†, seldomness†
+  reduction, weeding, elimination, sarculation†, decimation, eradication
+  the how-much, quantitativeness
+  mathesis†
+
+V:
+  increase, decrease, augment, diminish, grow, shrink, add, subtract, multiply, divide; scale up, scale down; vary in amount
+  quantify, measure, fix, estimate, determine, quantitate, enumerate
+  add to, enlarge, dilate &c H0228, wax, get ahead
+  lessen, shrink &c H0228, wane, ebb, decline
+  be few
+  render few, reduce, diminish the number, weed, eliminate, cull, decimate
+
+Adj:
+  quantitative, quantifiable, measurable, extensible, divisible, additive, homogeneous, uniform, fungible, interchangeable, indifferent, external, discerptible†
+  some, any, aught, a few
+  few, scant, scanty, thin, rare, scattered, thinly scattered, spotty, few and far between, exiguous, infrequent &c H0232, hardly any, scarcely any, to be counted on one's fingers, reduced, unrepeated†, unfrequent†, not since Adam†, weazen†, brevipennate†, incapacious†
+
+Adv:
+  more or less; in greater or lesser degree; quantitatively
+  to the tune of, all of, a full, the sum of, fully, exactly, precisely
+  rarely, here and there
+  seldom, unfrequently†, unoften†
+
+F:
+  German: aufgehobenes Fürsichsein, Gleichgültigkeit, Kontinuität und Diskretion
+  Latin: rari nantes
+
+Phr:
+  plus ou moins [Fr.]
+  neither more nor less
+  so much
+  by the measure
+  ein mal kein mal [Ger.]

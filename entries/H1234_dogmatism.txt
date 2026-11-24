@@ -1,0 +1,18 @@
+# 1234 Dogmatism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism
+G: Der Dogmatismus
+Gloss: The schools that set up a criterion of truth and a positive doctrine to give the wise man his footing.
+HGloss: Der Dogmatismus: the Stoics and the Epicureans, who each assert a principle and criterion, thought or sensation, as the ground of the individual's freedom.
+
+N:
+  dogmatism
+  Stoicism, Epicureanism, dogmatic schools, the Stoics, the Epicureans, dogmatist, the criterion, the canon, the test of truth, dogma, tenet, positive doctrine, assertion, affirmation, assent
+
+V:
+  assert, dogmatize, affirm, maintain, lay down, pronounce
+
+Adj:
+  dogmatic, Stoic, Epicurean, assertive, positive, doctrinaire, opinionated
+
+Adv:
+  dogmatically, assertively, positively

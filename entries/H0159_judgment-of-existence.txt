@@ -1,0 +1,26 @@
+# 159 Judgment of Existence (Qualitative Judgment)
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment
+G: Urteil des Daseins
+Gloss: A judgment that ascribes a simple, directly perceived quality to a single thing.
+HGloss: Judgment in which the predicate is an immediate quality of the immediate singular.
+
+N:
+  judgment of existence; qualitative judgment, judgment of inherence, judgment of quality, simple judgment, immediate judgment, perceptual judgment, observation statement, report of perception, attribution, ascription, characterization
+  imputation
+  the judgment of determinate being
+
+V:
+  ascribe, attribute, assign, predicate, characterize, describe, report, observe, note
+  inhere
+
+Adj:
+  qualitative, descriptive, perceptual, observational, attributive, immediate, simple
+  inherent
+
+Adv:
+  descriptively, observationally, at first sight
+  immediately, qualitatively
+
+Phr:
+  the grass is green
+  as it strikes the eye

@@ -1,0 +1,29 @@
+# 859 Inspiration
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist
+G: Phantasie, Genie und Begeisterung
+Gloss: The artist's creative power, natural gift and inspired mood.
+HGloss: Imagination, the artist's power to grasp and shape; genius, the natural gift; inspiration, absorption in the subject.
+
+N:
+  inspiration; soul
+  ingenuity
+
+V:
+  imagine, invent, create, conceive
+  originate, devise, coin, fabricate
+
+Adj:
+  visionary, imaginative
+  inventive &c H0656
+  original, inventive, creative, fertile
+  visionary &c H0656
+
+F:
+  German: geist, Naturell, natürlich Fähigkeit, Witz
+  Latin: ingenium, afflatus, furor poeticus, genus, talentum
+  Greek: entheos, euphyia, talanton
+  Arabic: ilhām [inspiration], ḥads
+  Sanskrit: pratibhā [genius, flash]
+  Spanish: duende [dark inspiration] [Lorca], ingenio, talante
+  French: bel esprit, génie
+  Italian: ingegno, talento

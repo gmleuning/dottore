@@ -1,0 +1,36 @@
+# 97 Determinations of Reflection
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself
+G: Reflexionsbestimmungen
+Gloss: The basic concepts by which reflection fixes what a thing is: identity, difference and contradiction, each holding only through its relation to its other.
+HGloss: The essentialities of reflection: identity, difference and contradiction, each existing only in relation to its other.
+
+N:
+  determinations of reflection; essentialities; laws of thought, principles of thought, first principles, axioms; identity, difference, contradiction &c H0098, H0099, H0103; principle of identity; law of noncontradiction; law of excluded middle; principle of sufficient reason; categories of comparison, relations of comparison
+  equivalence, equipollence†, equipoise, distinction without a difference
+  the reflection-determinations, identity difference and contradiction, the categories of reflection
+
+V:
+  identify, differentiate, distinguish, compare, contrast, oppose, contradict, determine
+  discriminate, separate, draw the line
+  countervail, contradict &c H0662
+  fix, reflect
+
+Adj:
+  axiomatic, self-evident, formal, logical, principled, fundamental, reflective, comparative
+  essential, determinate
+
+Adv:
+  in principle, axiomatically, formally, by definition
+  reflectively
+
+F:
+  German: Wesenheiten
+  Latin: principia, principium identitatis, principium contradictionis, tertium non datur, principium exclusi tertii, principium rationis sufficientis, nihil est sine ratione
+  Greek: archai
+  Arabic: badīhiyyāt [self-evident truths]
+
+Phr:
+  A is A
+  nothing is without a reason
+  tertium non datur [Lat.]
+  the first principles

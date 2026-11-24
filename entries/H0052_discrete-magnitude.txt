@@ -1,0 +1,30 @@
+# 52 Discrete Magnitude
+# Logic › 1. Doctrine of Being › II. Magnitude › α. Quantity › b. Continuous and Discrete Magnitude
+G: Diskrete Größe
+Gloss: Amount taken as a set of separate units, like a heap or a count.
+HGloss: Diskrete Größe, quantity as a plurality of ones outside one another, which still contains continuity as their unit.
+
+N:
+  discrete magnitude
+  discreteness, discontinuity, separateness, distinctness, granularity, graininess, atomicity, digitality, units, ones, items, members, quanta, grain, particle, bit, quantum, abjunction†, cataclasm†, inconnection†
+  disjunction &c H0303, anacoluthon†, interruption, break, fracture, flaw, fault, crack, cut, gap &c H0228, solution of continuity, caesura, broken thread, parenthesis, episode, rhapsody, patchwork, intermission, alternation &c H0232, dropping fire, transposal†, anastrophy†, hyperbaton†, anastrophe†, hypallage†, synchysis†, tmesis†
+  disjunction, disconnection, isolation
+
+V:
+  discretize, quantize, digitize, break up, divide, segment, partition, chunk, count &c H0055
+
+Adj:
+  discrete, discontinuous, separate, distinct, granular, grainy, particulate, atomic, digital, quantized, countable, numerable
+  disjoined, disjunctive, disparate, apart, asunder, loose
+  unsuccessive†, broken, interrupted, disconnected, unconnected, fitful &c H0232, spasmodic, desultory, intermitting, occasional, intermittent, alternate, recurrent &c H0232, immethodical†
+  sporadic
+
+Adv:
+  discretely, piecemeal, bit by bit, one by one, step by step
+
+F:
+  German: Diskretion
+
+Phr:
+  drop by drop, gutta cavat lapidem [Lat.]
+  like 'angel visits few and far between' [Campbell]

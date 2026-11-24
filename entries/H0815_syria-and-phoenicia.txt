@@ -1,0 +1,16 @@
+# 815 Syria and Phoenicia
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy) › c. The Persian Empire and Its Parts
+G: Syrien und das semitische Vorderasien
+Gloss: The Syrian and Phoenician coast, its seafaring traders and the worship of Adonis.
+HGloss: Syrien und das semitische Vorderasien: Phoenician industry and navigation, the cult of Adonis and its lament for the dead god, under Persian rule.
+
+N:
+  Syria and Phoenicia
+  Syria, Phoenicia, the Phoenician sea-traders, Asia Minor
+  Tyre, Sidon, the purple trade, Carthage, Astarte, Adonis, the alphabet
+
+V:
+  trade, sail
+
+Adj:
+  Syrian, Phoenician

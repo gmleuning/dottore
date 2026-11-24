@@ -1,0 +1,27 @@
+# 729 The Right of Insight into the Good
+# Spirit › 2. Objective Spirit › II. Morality › γ. The Good and Conscience
+G: Das Recht der Einsicht in das Gute
+Gloss: The right of the will to accept as good only what it knows to be good.
+HGloss: The subjective will's right that what it recognizes as valid be seen by it as good.
+
+N:
+  the right of insight into the good; the subject's right to recognize only what it knows as good, moral autonomy, rational insight, informed conscience
+  the right of the subjective will, the right of insight, moral insight, conviction, recognition of the good, the right to know the good
+
+V:
+  recognize, judge, assent, insist on understanding
+  acquiesce, accept, consent
+  know, approve, acknowledge
+
+Adj:
+  autonomous, rational, insightful, reflective
+  knowing, convinced, subjective
+
+Adv:
+  on one's own insight
+  with insight, knowingly, on one's own conviction
+
+Phr:
+  I will accept nothing I do not see to be good
+  see for oneself
+  to be convinced

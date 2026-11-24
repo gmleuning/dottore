@@ -1,0 +1,50 @@
+# 101 Diversity
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › β. Determinations of Reflection › b. Difference
+G: Verschiedenheit
+Gloss: Mere variety; things simply unlike one another, compared by an outside observer in respects that do not matter to them.
+HGloss: Difference falling apart into indifferent differents, compared by a third through likeness and unlikeness.
+
+N:
+  diversity; variety, multiplicity, manifoldness, multifariousness, heterogeneity, plurality, miscellany, assortment, medley, mixture, mishmash, hodgepodge, olio, farrago, gallimaufry, salmagundi; likeness and unlikeness; comparison, collation; mere difference, indifferent difference; external difference; biodiversity, cultural diversity, pluralism, multiculturalism, sciamachy†
+  multiformity, omniformity†, varied assortment
+  melange, patchwork, odds and ends
+  dissociation, disconnection &c H0303, unconformity &c H0073, irrelation†, misrelation†, inconnection†, anomalousness†
+  difference, unlikeness, dissimilarity
+  apograph†
+
+V:
+  vary, diversify, differ, compare, collate, juxtapose, contrast; mix, assort
+  compare to, compare with, confront, place side by side, juxtapose &c H0228, set against one another, pit against one another, balance
+
+Adj:
+  diverse, various, varied, variegated, manifold, multifarious, heterogeneous, assorted, miscellaneous, mixed, motley, sundry, divers†, myriad, eclectic, pluralistic; like and unlike, alike and different; indifferent, unrelated
+  polymorphous, multiform, multifold, multigenerous†, multiplex, diversified, variform†, many-sided, mosaic, desultory, irregular, mingled, odd, of every description, of all sorts and kinds, and what not
+  differing, different, polyglot, distinguishable, dissimilar, modified, all manner of, all kinds of, daedal†
+  composite, motley &c H0285, promiscuous, indiscriminate, cymophanous†
+  unlike
+
+Adv:
+  variously, diversely, severally, respectively; in various ways, here and there
+  in all manner of ways, here there and everywhere
+
+F:
+  German: Gleichheit und Ungleichheit
+  Latin: diversitas, et hoc genus omne, de omnibus rebus et quibusdam aliis
+  French: pot-pourri
+
+Phr:
+  variety is the spice of life
+  de gustibus non est disputandum [Lat.]
+  it takes all sorts to make a world
+  no two leaves are alike [Leibniz]
+  apples and oranges
+  et sic de similibus [Lat.]
+  tel maitre tel valet [Fr.]
+  tel pere tel fils [Fr.]
+  like master, like servant
+  the fruit doesn't fall far from the tree
+  a chip off the old block
+  diis aliter visum [Lat.]
+  no more like my father than I to Hercules [Hamlet]
+  harmoniously confused [Pope]
+  variety's the very spice of life [Cowper]

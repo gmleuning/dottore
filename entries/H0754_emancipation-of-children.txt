@@ -1,0 +1,37 @@
+# 754 Emancipation of Children
+# Spirit › 2. Objective Spirit › III. Ethical Life › α. Family › c. Upbringing of Children and Dissolution of the Family
+G: Emanzipation der Kinder
+Gloss: The coming of children into independence.
+HGloss: The children's coming of age to free personality, to found new families.
+
+N:
+  emancipation of children; coming of age, majority, adulthood, independence, emancipation, leaving home, manumission
+  liberation, disengagement, release, enlargement, disenthrallment†, disenthralment†, affranchisement†, discharge, dismissal, demission†
+  emancipation &c H0681, enfranchisement
+  freedom, liberty
+  full age, release from parental power, the free person
+
+V:
+  come of age, emancipate, leave home, fledge, grow up
+  liberate, set free, enfranchise, manumit
+  attain majority, set up for oneself
+
+Adj:
+  adult, emancipated, independent, of age, fledged
+  of full age, grown up, mature, full grown
+  free
+  grown
+
+Adv:
+  on coming of age
+  at majority, independently
+
+F:
+  Latin: emancipatio
+  Sanskrit: samāvartana [return home after studies]
+  Japanese: seijinshiki [coming-of-age ceremony]
+
+Phr:
+  to leave the nest
+  to come of age
+  to leave home

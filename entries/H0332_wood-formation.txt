@@ -1,0 +1,33 @@
+# 332 Wood Formation
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation
+G: Holzbildung
+Gloss: The hardening of a plant's tissue into wood.
+HGloss: The plant's self-relation becoming rigid, wood, the plant's skeleton.
+
+N:
+  wood formation; lignification, wood, lumber, timber, heartwood, sapwood, grain, trunk, bole, stem, stalk, bark, cork; ligneous tissue
+  tree
+  the formation of wood, woody fibre, hardening, annual rings
+  rose, marijuana, pine, cannabis, heather, heath, jasmine
+  erica, hazel, almond, coco, arbor, lavender, aspen, thrift, mei, elm, rowan, blueberry, cassie, pollard, hawthorn, shrub, samba, cranberry, juniper, dak, tung, lilac, dahl, haw, azalea, nutmeg, acacia, paprika, cayenne, senna, mangrove, caper, cacao, bonsai, belvedere, hazelnut, pistachio, hibiscus, cashew, palmyra, mesquite, palmetto, ganja, fuchsia, honeysuckle, butternut, yucca, ponderosa, rattan, inga, wormwood, sal ammoniac†
+  summer sweet, staff tree, service tree, lead tree, coffee tree, sun rose, rock rose, coffee rose, silver tree, plane tree, smoke tree, wild orange, salt tree, bottle-tree, bottle tree, button tree, wheel tree, smoke bush, silver-bush, fire-bush, fire bush, beauty bush, five-finger, desert rose, crystal tea, grass tree, honey-flower, honey bell, cotton-seed tree, cotton plant, mountain devil, devil tree, consumption weed, screw tree, palm tree, twist wood, fever tree, phoenix tree, sand cherry, oak tree, silver ash, shade tree, ash tree, pepper tree, pepper bush, southern arrow wood, arrow wood, silk wood, potato tree, wild fig, screw pine, lemon-wood tree, lemon-wood, fig tree, blue fig, poison bush, poison arrow plant, flame bush, guinea flower, timber tree
+  holly, peach, mango, myrtle, grapefruit, mulberry, apricot
+  maple, bamboo, birch, beech, sycamore, willow, poplar, cedar
+  xylem
+
+V:
+  lignify, harden, toughen
+  become woody
+
+Adj:
+  woody, ligneous, lignified, arboreal, timbered, wooden, xyloid
+  sylvan, arboreous†, arborescent†
+
+Adv:
+  woodenly
+  into wood
+
+Phr:
+  from the crooked timber of humanity no straight thing was ever made [Kant]
+  heart of oak
+  knock on wood

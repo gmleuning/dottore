@@ -1,0 +1,28 @@
+# 814 The Persian Empire and Its Parts
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy)
+G: Das persische Reich und seine Bestandteile
+Gloss: The provinces and peoples under Persian rule.
+HGloss: The Persian empire, which let its peoples keep their own natures: Syria with its trade, Judaea with its one God, Egypt with its riddle.
+
+N:
+  the Persian Empire and its parts; satrapies, provinces
+  the subject peoples, Persia proper, the empire of many nations
+  satrap
+
+V:
+  rule, subject, tolerate, unite, comprise
+
+Adj:
+  imperial, provincial, satrapal, multinational, tributary
+  transnational
+  Achaemenid
+
+Adv:
+  across the empire
+  under Persian rule, province by province
+
+F:
+  Hebrew: Yehuda
+
+Phr:
+  from India to Ethiopia

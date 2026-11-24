@@ -1,0 +1,35 @@
+# 756 Civil Society
+# Spirit › 2. Objective Spirit › III. Ethical Life
+G: Bürgerliche Gesellschaft
+Gloss: The sphere of independent individuals bound together by their needs; the market society.
+HGloss: The ethical substance lost in its extremes: the concrete person as an end, related to others as means, the system of all-round dependence.
+
+N:
+  civil society; bourgeois society, market society, commercial society, the economy, the market, the private sphere, the system of needs, self-interest, individualism, interdependence, the external state
+  the civil sphere, the state of necessity, the state of the understanding, private persons, the burgher
+
+V:
+  trade, compete, associate, exchange, pursue one's interest
+  pursue self-interest, depend on others
+
+Adj:
+  civil, bourgeois, commercial, economic, market, private, individualistic
+  self-interested
+
+Adv:
+  in society, on the market
+  in civil society, as private persons
+
+F:
+  German: Not- und Verstandesstaat, das Man [the they] [Heidegger]
+  Latin: societas civilis
+  Korean: simin sahoe [civil society]
+  Chinese: neijuan [involution, self-defeating competition]
+  French: flâneur, flâneuse, boulevardier
+  Greek: koinonia politike
+
+Phr:
+  die bürgerliche Gesellschaft [ist] der Kampfplatz des individuellen Privatinteresses Aller gegen Alle [Ger.] [Hegel, Philosophy of Right §289 Remark]
+  the invisible hand [Adam Smith]
+  every man for himself
+  the rat race

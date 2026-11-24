@@ -1,0 +1,13 @@
+# 812 Medes
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy) › b. Assyrians, Babylonians, Medes, and Persians
+G: Die Meder
+Gloss: The Medes, a warlike mountain people of Iran, whose priestly caste were the Magi.
+HGloss: Die Meder, the warlike people whose Magi kept the Zend religion, from whom rule passed to the Persians.
+
+N:
+  the Medes
+  Media, Ecbatana, the Magi
+  Deioces, Cyaxares, Astyages
+
+Adj:
+  Median

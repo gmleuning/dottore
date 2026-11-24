@@ -1,0 +1,16 @@
+# 1260 Kalam
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity › 2. Arabic Philosophy
+G: Die Philosophie der Medabberim
+Gloss: Islamic dialectical theology, whose speakers defended the faith by reason and held that God creates the world anew at each instant.
+HGloss: Die Philosophie der Medabberim (the Mutakallimūn), reported by Maimonides: atoms and accidents created anew each moment, all necessary connection denied.
+
+N:
+  kalam
+  al-Ghazālī, the Mutakallimūn, Ashʿarites, occasionalism, the Muʿtazilites
+  dialectical theology, atoms of time, continuous creation, the denial of causality
+
+Adj:
+  Ashʿarite, Muʿtazilite
+
+Phr:
+  The Incoherence of the Philosophers, Tahāfut al-Falāsifa [Ar.] [al-Ghazālī]

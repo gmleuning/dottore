@@ -1,0 +1,35 @@
+# 845 Conformity to Law
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › b. Natural Beauty › ii. External Beauty › 1. Beauty of Abstract Form
+G: Gesetzmäßigkeit
+Gloss: The order of a thing according to a rule.
+HGloss: A unity of differences that is no longer mere equality, as the curves of the egg and the ellipse.
+
+N:
+  conformity to law; lawfulness, lawful form, regularity of a higher kind, ordered variation, the curve, the oval, the golden section, the line of beauty [Hogarth], the serpentine line
+  lawlikeness, regularity, rule, order, orderliness, the parabola, the undulating line
+
+V:
+  conform, follow a law, vary lawfully
+  conform to, conform to rule, accommodate oneself to, adapt oneself to, rub off corners
+  obey, follow a rule, regulate
+
+Adj:
+  lawful, ordered, regular, curvilinear, serpentine
+  conformable to rule, regular &c H0232, according to regulation
+  steady, constant
+  uniform, homogeneous, homologous, consistent, connatural†, monotonous, even, invariable, unchanged, undeviating, unvaried, unvarying
+  balanced
+  lawlike, orderly, rule-governed
+
+Adv:
+  lawfully, according to rule
+  conformably, by rule, in conformity with, in accordance with, in keeping with, consistently with
+  regularly, in order
+
+F:
+  Latin: sectio aurea
+  French: en regle, of a piece
+
+Phr:
+  the line of beauty [Hogarth]
+  as regular as clockwork

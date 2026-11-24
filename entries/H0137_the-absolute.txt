@@ -1,0 +1,45 @@
+# 137 The Absolute
+# Logic › 2. Doctrine of Essence › III. Actuality
+G: Das Absolute
+Gloss: The all-inclusive reality in which every limited thing is contained; the unconditioned whole.
+HGloss: The absolute identity of form and content, in which all determinations have vanished, positive only as their abyss.
+
+N:
+  the absolute; the unconditioned, the infinite, the all, the whole, the totality, the One, Godhead, deity, the divine; substance, God or nature; ground of being, ultimate reality, totality of being
+  all, sum total, tout ensemble, Alpha and Omega, be all and end all
+  Divinity
+  the one and all
+
+V:
+  absolutize, totalize; contain all, comprehend all, encompass all
+  include, contain, encompass
+
+Adj:
+  absolute, unconditioned, unlimited, infinite, all-inclusive, all-embracing, all-encompassing, total, complete, perfect, ultimate, supreme, sovereign, divine, transcendent, immanent
+  whole, integral
+  entire, whole &c H0130, perfect &c H0207
+  unconditional
+  immense, measureless, illimitable
+  paramount, preeminent
+
+Adv:
+  absolutely, utterly, totally, unconditionally, without exception
+  completely, altogether, wholly, in toto
+
+F:
+  Latin: absolutum, natura naturans, Deus sive natura [Spinoza], sub specie aeternitatis
+  Greek: plērōma, hen kai pan
+  Hebrew: Ein Sof
+  Arabic: al-ḥaqq [the Real]
+  Sanskrit: brahman, paramātman
+  Chinese: dao [the Way], taiji, tian [Heaven]
+  Korean: jeoldaeja [the Absolute]
+  French: plan d'immanence [plane of immanence] [Deleuze]
+
+Phr:
+  Deus sive natura [Lat.] [Spinoza]
+  the Dao that can be spoken is not the eternal Dao [Laozi]
+  neti neti [Skt.] [not this, not this]
+  hen kai pan [Gr.]
+  the be-all and end-all
+  first and last

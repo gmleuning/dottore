@@ -1,0 +1,14 @@
+# 380 Birds Whose Young Walk and Feed at Once
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › a. Genus and Species (Zoology) › iii. Vertebrata › 3. Birds
+G: Vögel, deren Junge sogleich gehen und sich ernähren können
+Gloss: Birds whose chicks can walk and find their own food as soon as they hatch.
+HGloss: Lamarck's first three orders of birds, whose young walk and feed at once: palmipeds, waders and gallinaceous birds, the birds closest to the earth and the water.
+
+N:
+  precocial birds; nidifugous birds, palmipeds, web-footed birds, waders, gallinaceous birds, fowl that run from the nest
+  waterfowl, wildfowl, goose, swan, penguin, poultry, rooster, pelican, flamingo, snipe, pheasant, gosling, seagull, moa, reeve, brant, gander, stork, jaeger, ibis, mallard, woodcock, bantam, guan, cochin, tern, puffin
+  aquatic bird, water bird, sea bird, game bird, elephant bird, mound-bird, mound builder, mound bird, water hen, marsh hen, wading bird, scrub fowl, jungle fowl, domestic fowl, shore bird, brush turkey, jungle cock, coastal diving bird, black swan, mute swan, jungle hen, fighting cock
+  turkey, heron, rhea
+
+Adj:
+  precocial, nidifugous, web-footed, palmiped, gallinaceous

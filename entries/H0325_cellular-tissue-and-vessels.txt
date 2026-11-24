@@ -1,0 +1,25 @@
+# 325 Cellular Tissue and Vessels
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such
+G: Zellgewebe und Gefäße
+Gloss: The cells and conducting channels of a plant.
+HGloss: The plant's abstract inner structure, its cells and the vessels through which its fluids move.
+
+N:
+  cellular tissue and vessels; tissue, parenchyma
+  cell-tissue
+
+V:
+  transmit, convey
+
+Adj:
+  tissue, oedematous†
+
+Adv:
+  through the vessels
+
+F:
+  Latin: fasciculus
+
+Phr:
+  the tissue of
+  cell by cell

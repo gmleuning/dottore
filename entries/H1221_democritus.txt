@@ -1,0 +1,16 @@
+# 1221 Democritus
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Demokrit
+Gloss: The philosopher of Abdera who carried atomism into an account of the senses and of the cheerful life.
+HGloss: Democritus, who carries on the atomism of Leucippus, telling what is by convention, sweet and bitter, from what truly is, atoms and void.
+
+N:
+  Democritus
+  the atom
+  Democritus of Abdera, the laughing philosopher, cheerfulness, convention and reality
+
+Adj:
+  Democritean
+
+Phr:
+  by convention sweet, by convention bitter, in reality atoms and void [Democritus]

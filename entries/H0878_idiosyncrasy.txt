@@ -1,0 +1,18 @@
+# 878 Idiosyncrasy
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 3. Authorship › a. Mere Manner
+G: Zufällige Eigentümlichkeit
+Gloss: A merely accidental peculiarity of the artist, which belongs to them and not to the matter.
+HGloss: Manier as the artist's contingent peculiarity (zufällige Eigentümlichkeit), concerning not the general nature of the subject but only the particular artist.
+
+N:
+  idiosyncrasy; quirk, tic, personal trait, foible, eccentricity, habit, signature habit
+  idiosyncrasy, individuality, peculiarity, idiocrasy &c H0403
+
+V:
+  individualize
+
+Adj:
+  idiosyncratic, individual
+
+Adv:
+  in his own manner

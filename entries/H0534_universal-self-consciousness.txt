@@ -1,0 +1,34 @@
+# 534 Universal Self-Consciousness
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness
+G: Allgemeines Selbstbewusstsein
+Gloss: Self-awareness that knows itself in and through other free selves.
+HGloss: The affirmative knowledge of self in the other self, in which each is free and knows the other as free.
+
+N:
+  universal self-consciousness; the we, the I that is we, intersubjectivity, mutual recognition, collective consciousness, shared self-consciousness, community of minds, spirit
+  universal self-awareness, the We that is I, affirmative knowing of oneself in another, the free among the free, shared selfhood
+
+V:
+  recognize one another, share, belong, commune
+  know oneself in others, recognize, universalize
+
+Adj:
+  universal, collective, communal, intersubjective, shared, mutual
+  free
+
+Adv:
+  mutually, together, collectively
+  universally, in one another, among equals
+
+F:
+  Korean: uri [we, us]
+  Nguni: ubuntu [I am because we are]
+  German: Mitsein [being-with] [Heidegger], Menschheit, Menschlichkeit [humanity as species and as virtue]
+  French: humanité, sentiment d’humanité
+  Latin: humanitas
+
+Phr:
+  I that is We and We that is I [Hegel]
+  umuntu ngumuntu ngabantu [Zulu] [a person is a person through other persons]
+  one for all and all for one
+  to see oneself in others

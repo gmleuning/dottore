@@ -1,0 +1,35 @@
+# 711 Coercion and Crime
+# Spirit › 2. Objective Spirit › I. Abstract Right › γ. Wrong
+G: Zwang und Verbrechen
+Gloss: Wrong done by force.
+HGloss: Wrong which violates the existence of freedom by force: coercion and crime.
+
+N:
+  coercion and crime; violence, force, duress, criminality, infringement of right as right, lawbreaking
+  vehemence, might, impetuosity
+  brute force, outrage
+  violence &c H0131
+  compulsion, crime, the first coercion, forcible wrong
+
+V:
+  coerce, force, violate, commit a crime
+  compel, make, drive, constrain, enforce, necessitate, oblige
+  usurp, arrogate, domineer, bully &c H0521, tyrannize
+  commit, do violence
+
+Adj:
+  coercive, criminal, violent, unlawful
+  vehement
+  forcible
+
+Adv:
+  by force, criminally
+  violently, by main force
+  by violence
+
+F:
+  Latin: vi et armis
+
+Phr:
+  force is the midwife of every old society pregnant with a new one [Marx]
+  against one's will

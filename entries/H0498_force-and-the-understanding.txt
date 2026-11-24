@@ -1,0 +1,36 @@
+# 498 Force and the Understanding
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such
+G: Kraft und Verstand
+Gloss: Awareness that explains things by forces and laws lying behind their appearance; scientific understanding.
+HGloss: The understanding, which takes the thing as appearance and finds its truth in force and law behind it.
+
+N:
+  force and the understanding; understanding, intellect, explanatory reason, scientific understanding, theoretical explanation, hidden forces, the inner of things, the supersensible
+  mind, reason, rationality
+  intelligence, comprehension, intellect &c H0646
+  scientific explanation, explanation by forces and laws, the explaining consciousness
+
+V:
+  understand, explain, account for, theorize, infer, posit forces, look behind
+  attribute to, ascribe to, refer to, trace to
+  infer the inner
+
+Adj:
+  explanatory, theoretical, scientific, intellectual, rational, analytical
+  mental
+  nomological
+
+Adv:
+  theoretically, in explanation, behind the scenes
+  by explanation, scientifically
+
+F:
+  German: Verstand
+  Latin: intellectus
+  Greek: dianoia
+  Arabic: ʿaql [intellect]
+  Sanskrit: buddhi [intellect]
+
+Phr:
+  to understand is to see the hidden force
+  the powers that be

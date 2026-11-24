@@ -1,0 +1,25 @@
+# 364 Breathing
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process › ii. Breathing, Cutaneous Process, and Thirst
+G: Atmen
+Gloss: The animal's process with air: drawing in and giving out breath.
+HGloss: The process with air, breathing, continuity presenting itself as interrupted, an evaporation of the blood.
+
+N:
+  breathing
+  respiration, breath, inhalation, exhalation, inspiration, expiration
+  the breathing process, interrupted continuity, evaporation of the blood
+
+V:
+  breathe, inhale, exhale, respire, pant, gasp
+  puff, wheeze, sniff, sneeze, cough
+  draw breath, take breath
+
+Adj:
+  respiratory
+
+Adv:
+  breathlessly, by breath
+
+Phr:
+  to catch one's breath
+  der Atmungsprozeß ist die als unterbrochen sich darstellende Kontinuität [Ger.] [Hegel, Encyclopedia §357 Zusatz]

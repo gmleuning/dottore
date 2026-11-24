@@ -1,0 +1,27 @@
+# 276 Physics of Total Individuality
+# Nature › 2. Physics
+G: Physik der totalen Individualität
+Gloss: The physics of bodies that give themselves a definite shape and set of properties.
+HGloss: Bodies as total individuals, matter that forms itself from within: shape, specification and the chemical process.
+
+N:
+  physics of total individuality; self-determining body, individual body, formed matter, figure, shape &c H0277, properties &c H0281
+  conformation, configuration, formation
+  the physics of the total individual, the self-shaping body, individual totality, shape properties and chemical process, the physical individual
+
+V:
+  shape, form, individuate
+  fashion
+  shape itself, individualize, totalize
+
+Adj:
+  individual, formed, shaped, self-determining
+  total, self-shaping
+
+Adv:
+  individually, in its own right
+  as total individual
+
+Phr:
+  each after its kind
+  to take shape

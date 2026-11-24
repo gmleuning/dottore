@@ -1,0 +1,18 @@
+# 390 Elemental and Climatic Disease
+# Nature › 3. Organics › III. Animal Nature › γ. The Animal's Genus Process › c. Genus and Individual (Disease and Death) › i. Nosology
+G: Die Schädlichkeit, die in der unorganischen Natur überhaupt liegt
+Gloss: Disease that comes from the elements, the weather and the air, and from infection; seated mostly in the skin, lymph and bones.
+HGloss: The first kind of disease, set going by the elemental powers outside the organism (climate, weather, miasma, contagion), which lodges in the organism's most general and least animate parts, the skin, the lymph and the bones.
+
+N:
+  elemental and climatic disease; epidemic disease, climatic disease, atmospheric disease, contagious disease, infectious disease, endemic disease, epidemic, epizootic
+  pestilence, plague, contagion, infection, pandemic, murrain, pox, miasma, miasm†, mephitis†, malaria, insalubrity, unhealthiness
+  virus, bacteria, germ, germs, flu, influenza, covid, coronavirus, outbreak, lockdown, quarantine, the flu, a cold, common cold, communicable disease, endemic disease
+  cholera, Asiatic cholera†, typhus, typhoid, dengue, smallpox, measles, mumps, diphtheria, polio, leprosy, rabies, anthrax, glanders†, breakbone fever†, blackwater, black disease, red water
+  syphilis, gonorrhea, chlamydia, herpes, the clap [Slang], STD, STI, blennorrhagia†, blennorrhoea†
+  sunburn, siriasis†, bloodstroke†, ozone sickness, decompression sickness, bends
+  rash, eczema, dermatitis, psoriasis, acne, hives, spots, pimple, dandruff, lupus, shingles, skin disease, skin disorder, tetter†, psora†, exanthem†, enanthem†, enanthema†, scurfiness†, blain†
+  rheumatism, arthritis, osteoarthritis, gout, rachitis†, exostosis†, struma†, scurvy
+
+Adj:
+  epidemic, endemic, climatic, miasmatic, malarial, contagious, infectious, catching, pestilential, rheumatic, scrofulous, cutaneous

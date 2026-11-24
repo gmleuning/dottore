@@ -1,0 +1,19 @@
+# 1255 The Apologists
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity › 1. Church Fathers
+G: Die Apologeten
+Gloss: The second-century writers who defended Christianity against pagans and heretics: Justin, Irenaeus and Tertullian.
+HGloss: The Apologists, who defended the faith before the pagan world and against the Gnostics, giving it its first doctrinal statement.
+
+N:
+  the Apologists
+  Justin Martyr, Irenaeus, Tertullian, the Apostolic Fathers
+  apology, the defence of the faith, Against Heresies, Athenagoras
+
+V:
+  apologize [defend], confute
+
+Adj:
+  apologetic
+
+Phr:
+  credo quia absurdum [Lat.] [attrib. Tertullian]

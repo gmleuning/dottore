@@ -1,0 +1,30 @@
+# 497 Demonstration, Objects, and Their Properties
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › b. Perception (the Thing and Deception)
+G: Demonstration
+Gloss: The showing of objects and their properties to awareness.
+HGloss: Perception's showing of objects and properties to consciousness, by which it finds its contradictions.
+
+N:
+  demonstration, objects, and their properties; showing, display, exhibition, presentation, object and properties, thing and qualities; ostension
+  manifestation, exposition
+  appearance, phenomenon, sight, spectacle, view
+  pointing out, the object, the thing and its properties, the many properties
+
+V:
+  show, demonstrate, display, exhibit, present
+  make manifest, bring into view, represent, set forth
+  prove, establish, evince, manifest &c H0776, substantiate, verify &c H0776
+  point out, indicate
+
+Adj:
+  demonstrative, ostensive, exhibited, displayed
+  shown, propertied
+
+Adv:
+  demonstrably, before one's eyes
+  demonstratively, by showing
+
+Phr:
+  see for yourself
+  to show one's hand
+  to prove the point

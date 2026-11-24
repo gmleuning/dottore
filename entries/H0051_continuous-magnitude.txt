@@ -1,0 +1,30 @@
+# 51 Continuous Magnitude
+# Logic › 1. Doctrine of Being › II. Magnitude › α. Quantity › b. Continuous and Discrete Magnitude
+G: Kontinuierliche Größe
+Gloss: Amount taken as an unbroken whole, like a line or a stretch of time.
+HGloss: Kontinuierliche Größe, quantity as the unbroken self-equality of its many ones, which still contains discreteness within it.
+
+N:
+  continuous magnitude
+  continuity, continuum, seamlessness, uninterruptedness, unbrokenness, connectedness, flow, stretch, extension, line
+  consecution, consecutiveness, succession, round, suite, progression, series, train chain, catenation, concatenation, scale, gradation, course, ceaselessness, constant flow, unbroken extent
+
+V:
+  continue, extend, stretch, run on, flow
+
+Adj:
+  continuous, continual, unbroken, uninterrupted, seamless, smooth, connected, analogue, analog, unsevered†, unclipped†
+  continued, consecutive, progressive, gradual, serial, successive, immediate, entire, linear, in a row, unintermitting†, unremitting, unrelenting &c H0405, perennial, evergreen, constant, aoristic†, intransient†, longeval†, diuturnal†, sempervirent†, sempervirid†, unshifting†
+  intact, undivided
+
+Adv:
+  continuously, without a break, all the way
+  seriatim, in a line, in succession, in turn, running, gradually, at a stretch, in file, in column, in single file, in Indian file
+
+F:
+  German: Kontinuität
+
+Phr:
+  natura non facit saltus [Lat.] [Linnaeus, Philosophia Botanica §77]
+  la nature ne fait jamais des sauts [Fr.] [Leibniz, New Essays, Preface]
+  in an unbroken line

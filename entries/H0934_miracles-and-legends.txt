@@ -1,0 +1,21 @@
+# 934 Miracles and Legends
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › i. The Religious Domain of Romantic Art › 3. The Spirit of the Community
+G: Die Wunder und Legenden
+Gloss: The miracles and legends of the saints, where the divine breaks into the course of nature.
+HGloss: Die Wunder und Legenden: the divine shown as breaking the natural connection of things, which for art easily becomes the merely fanciful and adventurous.
+
+N:
+  miracles and legends
+  miracles, legends, hagiography, miracle, legend, the lives of the saints, the saints
+
+V:
+  work miracles, canonize
+
+Adj:
+  miraculous, legendary, hagiographic, saintly
+
+Adv:
+  miraculously, by miracle
+
+Phr:
+  saints and miracles

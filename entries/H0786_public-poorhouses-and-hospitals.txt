@@ -1,0 +1,20 @@
+# 786 Public Poorhouses and Hospitals
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › c. Public Authority and Corporation › i. Public Authority (Police) › 2. Common Utility › c. Instantiation of Citizenship
+G: Öffentliche Armenanstalten, Krankenhäuser
+Gloss: The public institutions that look after those who cannot look after themselves: hospitals, poorhouses, asylums, shelters.
+HGloss: The public authority's institutions of care, which take the place of the family for the poor, the sick and the helpless (§241-242).
+
+N:
+  public poorhouses and hospitals; public institutions of social care, poorhouse, workhouse, almshouse, hospital, infirmary, asylum, orphanage, foundling hospital, charitable foundation, welfare office, soup kitchen, food bank, homeless shelter, social work, social worker, public health
+  public health, refuge
+  protector, governor, nurse, nanny, babysitter, catsitter, dogsitter, ayah†, propugner†, amah†
+  ambulance, stretcher, hospital train
+
+V:
+  care for, look after, nurse, shelter, take in
+
+Adj:
+  charitable, custodial
+
+F:
+  German: Armenhaus, Krankenhaus, Waisenhaus

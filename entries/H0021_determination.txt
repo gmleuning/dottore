@@ -1,0 +1,22 @@
+# 21 Determination
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › ii. Determination, Constitution, and Limit
+G: Bestimmung
+Gloss: What something is in itself and is meant to be; its vocation, kept up in its relation to others.
+HGloss: Bestimmung, the in-itself of something filled with content and maintained against its relation to other.
+
+N:
+  determination
+  vocation, destiny, calling, purpose, end, in-itself, inner nature
+  destination, what something is meant to be, the vocation of man
+
+V:
+  determine, destine, ordain, appoint, fix
+
+Adj:
+  determined, destined, fated, intended
+
+Adv:
+  by nature
+
+Phr:
+  die Bestimmung des Menschen [Ger.] [Fichte]

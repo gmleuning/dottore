@@ -1,0 +1,22 @@
+# 591 Divine Knowledge
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › i. True Spirit: The Ethical Order › 2. Ethical Action
+G: Das göttliche Wissen
+Gloss: The knowledge that belongs to the divine law: the unwritten, eternal law of the family and the dead.
+HGloss: Das göttliche Wissen: the knowledge of the divine law, unwritten and eternal, of which no one knows whence it came; kept by woman and the family.
+
+N:
+  divine knowledge
+  Antigone
+  the unwritten law, the law of the gods, the law of the nether world, the knowledge of the family
+
+V:
+  obey the gods, keep the unwritten law
+
+Adj:
+  unwritten, eternal, hidden
+
+Adv:
+  by the law of heaven
+
+Phr:
+  nicht etwa jetzt und gestern, sondern immerdar lebt es, und keiner weiß, von wannen es erschien [Ger.] [Sophocles, quoted by Hegel, Phenomenology]

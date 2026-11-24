@@ -1,0 +1,31 @@
+# 545 Substantial Knowledge (Objective Reason)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › a. The Certainty and Truth of Reason › i. Reason's Certainty of Being All Reality
+G: Substantielles Wissen
+Gloss: Knowledge whose content is solid and real, not merely personal.
+HGloss: Reason's knowledge of the object as its own, substantial rather than merely subjective.
+
+N:
+  substantial knowledge; solid knowledge, real knowledge, knowledge of substance, objective reason, objective knowledge, wisdom
+  substantive knowledge, well-grounded knowledge
+
+V:
+  know truly, grasp the substance, comprehend
+  know solidly, ground, substantiate
+
+Adj:
+  substantial, solid, objective, real, sound, well-founded
+  well-grounded
+
+Adv:
+  substantially, soundly, in substance
+  solidly, objectively
+
+F:
+  Latin: sapientia
+  Greek: sophia
+  Arabic: ḥikma [wisdom]
+  Sanskrit: prajñā [wisdom]
+
+Phr:
+  wisdom is the principal thing [Bible]
+  to know the substance

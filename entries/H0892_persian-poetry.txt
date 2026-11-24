@@ -1,0 +1,16 @@
+# 892 Persian Poetry
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › ii. The Symbolism of the Sublime › 1. The Pantheism of Art
+G: Die mohammedanische Poesie
+Gloss: The Persian mystical poetry of Rumi and Hafez, in which the self gives itself up to the divine beloved in joy.
+HGloss: Die mohammedanische Poesie: in Jalāl al-Dīn Rūmī and Hafez the subject gives itself to the One in blissful, intoxicated love, the rose and the nightingale.
+
+N:
+  Persian poetry
+  Sufi poetry, Rumi, Jalāl al-Dīn Rūmī, Hafez, the beloved, the rose and the nightingale, Persian pantheism, Mohammedan mysticism, Rūmī, Hafiz, Jāmī
+  Sufism
+
+V:
+  intoxicate
+
+Adj:
+  Sufi, Sufic, ecstatic

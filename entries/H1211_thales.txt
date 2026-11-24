@@ -1,0 +1,16 @@
+# 1211 Thales
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Thales
+Gloss: The first Greek philosopher, of Miletus, who held that all things come from water.
+HGloss: Thales, with whom philosophy begins: water as the principle, the one universal essence grasped as a sensuous element.
+
+N:
+  Thales
+  water
+  Thales of Miletus, the first philosopher, water as the principle, the Seven Sages
+
+Adj:
+  Milesian
+
+Phr:
+  all things are full of gods

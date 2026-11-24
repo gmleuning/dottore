@@ -1,0 +1,31 @@
+# 942 The Dissolution of Romantic Art
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › iii. The Formal Independence of Individual Characteristics
+G: Die Auflösung der romantischen Kunstform
+Gloss: The passing away of romantic art into imitation of nature and into humour.
+HGloss: The dissolution of romantic art into the imitation of nature and humour, subjective and objective.
+
+N:
+  the dissolution of romantic art; the end of art, the pastness of art; the free artist
+  the end of romantic art, decay, decline, disintegration
+  fax
+
+V:
+  dissolve
+  disintegrate, fall apart
+
+Adj:
+  post-romantic
+  dissolving, decadent, late
+
+Adv:
+  in dissolution, at the end, in decline
+
+F:
+  German: Humor, Nachahmung, nachmachen, kopieren, nachbilden
+  Latin: facetiae, canorae nugae, imitatio, similitude
+  French: plaisanterie, mot, mot pour rire, jeu d'esprit, représentation
+  Italian: ben trovato, imitazione, rassimiglianze, rittrare
+  Korean: haehak [folk humour]
+
+Phr:
+  art, considered in its highest vocation, is and remains for us a thing of the past [Hegel]

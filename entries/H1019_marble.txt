@@ -1,0 +1,19 @@
+# 1019 Marble
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 2. Materials for Sculpture › b. Ivory, Gold, Bronze, Marble
+G: Marmor
+Gloss: Marble carved for statues, whose soft translucence suits the ideal human figure.
+HGloss: Marmor, the material best suited to ideal sculpture, whose gentle translucence and softness answer to the human form.
+
+N:
+  marble
+  Parian marble, Pentelic marble, Carrara marble, marble-carving
+  statuary marble
+
+V:
+  carve, chisel, polish
+
+Adj:
+  marble, marmoreal, unblushlng†
+
+Adv:
+  in marble

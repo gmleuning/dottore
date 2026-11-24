@@ -1,0 +1,19 @@
+# 1258 The Latin Fathers
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity › 1. Church Fathers
+G: Die lateinischen Kirchenväter
+Gloss: The Fathers of the Latin West, Ambrose, Jerome and Augustine, who shaped the theology of the Western Church.
+HGloss: The Latin Fathers, above all Augustine, in whom the doctrine of grace, sin and the City of God is worked out for the West.
+
+N:
+  the Latin Fathers
+  Ambrose, Jerome, Augustine
+  the Confessions, the City of God, Gregory the Great, the Vulgate, grace and predestination
+
+Adj:
+  Augustinian
+
+Phr:
+  credo ut intelligam [Lat.] [Augustine; "I believe in order that I may understand"]
+  tolle, lege [Lat.] [take up and read] [Augustine]
+  the City of God
+  I believe in order to understand

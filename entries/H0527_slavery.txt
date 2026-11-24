@@ -1,0 +1,41 @@
+# 527 Slavery
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › ii. Mastery and Servitude
+G: Sklaverei
+Gloss: The condition of one who is owned by another.
+HGloss: The servant as a thing for the master, a consciousness owned by another.
+
+N:
+  slavery; bondage, enslavement, thraldom, serfdom, servitude, captivity, chattel slavery, the yoke, chains, fetters, shackles; slave, bondsman, bondswoman, serf, thrall, helot, villein, chattel
+  subjection, dependence, dependency, subordination, thralldom, enthrallment, subjugation, feudalism, feudality†, vassalage, villenage, involuntary servitude, conquest
+  vassal, bondslave†, odalisque, villian†, beadsman†, bedesman†, sizar†, pensioner, pensionary†, client, dependant, hanger on, satellite, parasite &c H0603, led captain, ward, hireling, mercenary, puppet, tool, creature, almsman†
+  service, servitorship†, tendence†, employ, tutelage, clientship†, liability &c H0142, constraint &c H0712, oppression &c H0790, yoke &c H0717, submission &c H0790, obedience &c H0790
+  bond, bandage, irons, pinion, gyve, trammel, manacle, handcuff, straight jacket, strait jacket, strait-jacket, strait-waistcoat, hopples†, vice, vise
+  churl, ryot†, fellah, carle†, kern†, chuff†
+  chattelhood
+  helotry
+
+V:
+  enslave, enthral, subjugate, shackle, fetter, chain, bind; serve, toil, slave
+  break in, tame, master &c H0207, tread down, tread under foot, weigh down, drag at one's chariot wheels, reduce to subjection, reduce to slavery, enthrall, inthrall†, bethrall†, lead captive, take into custody &c H0712, rule &c H0792, drive into a corner, hold at the sword's point, keep under, hold in bondage, hold in leading strings, hold in swaddling clothes
+  enchain, fasten &c H0269, entrammel†, bridle, muzzle, hopple†, gag, tie one's hands, hobble, bind hand and foot, swathe, swaddle, pin down, tether, picket, tie down, tie up, secure, forge fetters, disable, hamstring &c H0131, inwrap†
+  drudge
+  serve &c H0528, obey &c H0790, submit &c H0790
+  own
+
+Adj:
+  enslaved, servile, slavish, bonded, captive, unfree, in chains
+  cringing, groveling, abject
+  subject, dependent, subordinate, feudal, feudatory, in subjection to, under control, in leading strings, in harness, subjected, constrained &c H0712, downtrodden, overborne, overwhelmed, under the lash, on the hip, led by the nose, henpecked, the puppet of, the sport of, the plaything of, under one's orders, under one's command, under one's thumb, a slave to, at the mercy of, in the power of, in the hands of, in the clutches of, at the feet of, at one's beck and call &c H0790, liable &c H0142, parasitical, stipendiary
+  imprisoned, jailed
+
+Adv:
+  in chains, in bondage, slavishly
+
+F:
+  Latin: servitus, servus, adscriptus gleboe
+  Greek: douleia, doulos
+  French: ame damnee, protege
+
+Phr:
+  man is born free, and everywhere he is in chains [Rousseau]
+  slaves - in a land of light and law [Whittier]

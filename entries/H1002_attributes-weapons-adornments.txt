@@ -1,0 +1,8 @@
+# 1002 Attributes, Weapons, Adornments
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture › 3. Individuality of the Ideal Sculptured Figure
+G: Attribute, Waffen, Schmuck
+Gloss: The emblems and ornaments by which a sculpted figure is identified.
+HGloss: The attributes, weapons and adornments by which the individual gods are known.
+
+F:
+  French: bijouterie

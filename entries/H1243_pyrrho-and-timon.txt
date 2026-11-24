@@ -1,0 +1,19 @@
+# 1243 Pyrrho and Timon
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 2. Skepticism
+G: Pyrrhon und Timon
+Gloss: Pyrrho of Elis and his disciple Timon, who taught suspension of judgment and calm indifference.
+HGloss: Pyrrho and Timon, the older skepticism, which withholds assent and seeks imperturbability in indifference to all things.
+
+N:
+  Pyrrho and Timon
+  Pyrrho, Timon of Phlius, Pyrrhonist, suspension of judgment, withholding of assent, non-assertion
+  Elis, the Silloi, indifference
+
+V:
+  suspend judgment
+
+Adj:
+  Pyrrhonian, Pyrrhonic
+
+Phr:
+  no more this than that, ou mallon [Gr.]

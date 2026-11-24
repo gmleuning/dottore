@@ -1,0 +1,15 @@
+# 1090 Alliteration
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › ii. Rhyme
+G: Alliteration
+Gloss: The rhyme of initial sounds, as in Germanic verse.
+HGloss: Alliteration (Stabreim), the earliest and most abstract echo, the binding of words by their initial sounds.
+
+N:
+  alliteration; head rhyme, initial rhyme, staves, alliterative verse
+  alliteration
+
+V:
+  alliterate
+
+Adj:
+  alliterative

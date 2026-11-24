@@ -1,0 +1,69 @@
+# 520 Struggle for Recognition
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness
+G: Kampf um Anerkennung
+Gloss: The life-and-death struggle of two selves, each demanding to be acknowledged by the other.
+HGloss: The struggle of two self-consciousnesses, each risking its life to be recognized as free.
+
+N:
+  struggle for recognition; life-and-death struggle, duel, contest of wills, battle of wills, rivalry, combat, single combat, trial of strength, showdown, honour duel, vendetta
+  monomachy†, satisfaction, passage of arms, affair of honor, triangular duel, hostile meeting, digladiation†, deeds of arms, feats of arms, appeal to arms &c H0800
+  conflict, skirmish, rencounter†, rencontre†, collision, affair, brush, battle, battle royal, action, engagement, joust, tournament, tilting [Mediev.], tournay†, list, pitched battle
+  controversy, polemics, debate &c H0670, war of words, logomachy†, litigation, paper war, high words, sparring, disceptation†, tracasserie†, towrow†, brabble†
+  competition, corrivalry†, corrivalship†, agonism†, concours†, match, horse racing, heat, steeple chase, handicap, regatta, field day, sham fight, Derby day, turf, sporting, bullfight, tauromachy†, gymkhana†, boat race, torpids†, Bairam†, wayz-goos†
+  contention, strife, contestation†, belligerency, opposition
+  competition, two of a trade, emulation, race
+  enemy, antagonist, foe, foeman†, open enemy, bitter enemy, opponent, back friend
+  public enemy, enemy to society
+  the struggle to the death, the fight for recognition, mortal combat, the trial by death
+  arguing
+  agon
+  Armageddon†, naumachia†
+
+V:
+  struggle, fight, contend, clash, duel, risk one's life, stake one's life, challenge, defy
+  contest, strive, scramble, wrestle, spar, square, exchange blows, exchange fisticuffs, fib†, justle†, tussle, tilt, box, stave, fence, pickeer†, fight &c H0800, wrangle
+  stem, breast, encounter, stem the tide, breast the tide, stem the current, stem the flood, buffet the waves, beat up against, make head against, grapple with, kick against the pricks &c H0800, do battle with &c H0800, do battle against
+  dare, beard, brave &c H0801, bid defiance to, set at defiance, set at naught, hurl defiance at, dance the war dance, beat the war drums, snap the fingers at, laugh to scorn, disobey &c H0790
+  be discordant, disagree, come amiss &c H0103, jar, jostle, pull different ways, have no measures with, misunderstand one another, live like cat and dog, differ, dissent &c H0667, have a bone to pick, have a crow to pluck with
+
+Adj:
+  agonistic, combative, rivalrous, mortal, life-and-death, contentious
+  competitive, rival, belligerent, bellicose, unpeaceful†, warlike &c H0800, quarrelsome &c H0404, pugnacious, pugilistic, gladiatorial, palestric†, palestrical†
+  discordant, disagreeing, out of tune, ajar, on bad terms, dissentient &c H0667, unreconciled, unpacified, oscitant†
+  struggling
+
+Adv:
+  to the death, tooth and nail, at swords' points
+  in mortal struggle
+
+F:
+  German: Kampf auf Leben und Tod
+  Greek: agōn, thymos [spiritedness]
+  French: à outrance, passage d'armes
+  Italian: duello
+  Korean: injeong tujaeng [struggle for recognition]
+
+Phr:
+  it is only through staking one's life that freedom is won [Hegel]
+  give me liberty, or give me death [Patrick Henry]
+  a fight to the death
+  to stake one's life
+  nitor in adversum [Lat.]
+  quot homines tot sententiae [Lat.] [Terence]
+  no love lost between them, non nostrum tantas componere lites [Lat.] [Virgil]
+  Mars gravior sub pace latet [Lat.] [Claudius]
+  hoity toity!
+  don't tread on me
+  don't you dare
+  don't even think of it
+  Go ahead, make my day! [Dirty Harry]
+  a verbis ad verbera [Lat.]
+  a word and a blow
+  a very pretty quarrel as it stands [Sheridan]
+  commune periculum concordiam parit [Lat.]
+  lis litem generat [Lat.]
+  every hand being against one
+  he makes no friend who never made a foe [Tennyson]
+  with friends like that, who needs enemies?
+  Lord protect me from my friends
+  I can protect myself from my enemies

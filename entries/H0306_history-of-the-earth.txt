@@ -1,0 +1,31 @@
+# 306 History of the Earth
+# Nature › 3. Organics › I. Terrestrial Organism
+G: Geschichte der Erde
+Gloss: The earth as having undergone a formative history.
+HGloss: The earth as the result of a past process of formation, whose stages are now only lying side by side.
+
+N:
+  history of the earth; geological history, earth history, deep time, geological time, aeons, eras, epochs, periods, ages; geogony, geogeny, cosmogony; revolutions of the globe, catastrophes, deluge, flood; Neptunism, Vulcanism, Plutonism, catastrophism, uniformitarianism
+  the past of the earth, the epochs of nature
+
+V:
+  form, evolve, accrete, erode, sediment, upheave
+  undergo, become
+
+Adj:
+  geological, geohistorical, primeval, primordial, antediluvian, diluvial, prehistoric, aeonian, primigenous†, diluvian†, protohistoric†, paleocrystic†
+  prime, primitive, paleolithic, paleoanthropic†, primordinate†
+  initial, incipient, inchoate, embryonic, rudimental
+  geogonic, formative, past
+
+Adv:
+  in deep time, over aeons, from time immemorial
+  in the past, over ages
+
+F:
+  Sanskrit: kalpa [aeon], yuga [age]
+
+Phr:
+  no vestige of a beginning, no prospect of an end [James Hutton]
+  in the mists of time
+  time out of mind

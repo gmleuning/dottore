@@ -5,7 +5,7 @@ Gloss: The character that makes a thing what it is, so that if the character cha
 HGloss: Determinateness immediately one with being, so that a thing ceases to be what it is when its quality changes.
 
 N:
-  quality; determinateness, definiteness, determination; character, characteristic, nature, kind, sort, type, stamp, cast, complexion, constitution, make, make-up, grain, fibre, temper, mettle; essence &c (essence) H0078; whatness, quiddity, haecceity, thisness, so-being; identity of kind
+  quality; determinateness, definiteness, determination; character, characteristic, nature, kind, sort, type, stamp, cast, complexion, constitution, make, make-up, grain, fibre, temper, mettle; essence &c (essence) H0088; whatness, quiddity, haecceity, thisness, so-being; identity of kind
   property, attribute, trait, mark, note, feature, earmark, hallmark, signature; idiosyncrasy, peculiarity, specificity
   qualitative difference, difference in kind; such-and-suchness, suchness
   lineament

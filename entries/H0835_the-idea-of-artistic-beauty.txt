@@ -1,0 +1,26 @@
+# 835 The Idea of Artistic Beauty
+# Spirit › 3. Absolute Spirit › I. Art
+G: Die Idee des Kunstschönen
+Gloss: Beauty as the subject of art: what it is, and where it is found.
+HGloss: The beautiful as the idea itself, the concept united with its reality, appearing sensuously.
+
+N:
+  the idea of artistic beauty; the ideal, the concept of beauty, aesthetic idea, the beautiful in art
+  the idea of the beauty of art, the nature of artistic beauty, the province of aesthetics, where beauty dwells
+  kalon
+
+V:
+  idealize, conceive beauty
+  conceive, determine, locate, embody
+
+Adj:
+  ideal, beautiful, aesthetic
+  in good taste, cute, tasteful, tasty, unaffected, pure, chaste, classical, attic, cultivated, refined, dainty, esthetic, artistic, elegant &c H1074, euphemistic, unlabored†
+
+Adv:
+  ideally, beautifully
+  aesthetically, artistically, in idea
+
+Phr:
+  a thing of beauty is a joy for ever [Keats]
+  beauty is truth, truth beauty

@@ -1,0 +1,36 @@
+# 1176 The Religion of Sublimity (Jewish)
+# Spirit › 3. Absolute Spirit › II. Religion › β. Determinate Religion › b. The Elevation of the Spiritual above the Natural
+G: Die Religion der Erhabenheit
+Gloss: The religion of the Jews, in which the one God is exalted above all creation.
+HGloss: The Jewish religion of sublimity, the one God, the Lord, before whom all creation is nothing.
+
+N:
+  the religion of sublimity; Judaism, Jewish religion, the One God, monotheism, the creator, YHWH, the covenant, the commandments, the fear of the Lord, Job, the Psalms, the prophets
+  the religion of the Hebrews, the Israelite religion, the Mosaic religion, the Mosaic law, Mosaism, Hebraism, the religion of the One, the religion of the Lord, the religion of the Law, the Lord, Jehovah, the God of Israel, the God of Abraham Isaac and Jacob, the Holy One, the Most High, the Almighty, the Eternal, the Lord of hosts, the one Lord, the jealous God, the sublime One, the unimaged God, the Law, the Decalogue, the Ten Commandments, Sinai, Moses, the chosen people, the people of God, Israel, the Temple, the ark, the Sabbath, creation out of nothing, wisdom, the divine wisdom, sublimity, loftiness, majesty, exaltedness, transcendence, holiness, the fear of God, awe, obedience, service, bondage to the Law, the prohibition of images, the power, lordship
+
+V:
+  create, command, covenant, fear the Lord, obey
+  exalt, be exalted, tower above, transcend, rule, reign, ordain, give the law, choose, elect, hallow, sanctify, serve the Lord, keep the commandments, keep the covenant, walk humbly, tremble, bow down, forbid images, praise, magnify
+
+Adj:
+  Jewish, Hebrew, monotheistic, sublime, prophetic, covenantal
+  Judaic, Israelite, Mosaic, Hebraic, Yahwistic, Sinaitic, legal, exalted, lofty, majestic, transcendent, holy, awful, almighty, jealous, imageless, aniconic, God-fearing, obedient, theocratic, chosen
+
+Adv:
+  sublimely, in fear and trembling
+  on high, above all, exaltedly, majestically, loftily, obediently, in awe, in the fear of the Lord, by the Law, according to the commandment
+
+F:
+  German: Erhabenheit, der Herr, Furcht des Herrn, Bund, Gesetz
+  Latin: soli Deo gloria, timor Domini initium sapientiae, testamentum, foedus, pactum, lex
+  Hebrew: Adonai, Elohim, berit, Torah, El Shaddai, Shema Yisrael, qadosh, yirat Adonai, ruach, hokhmah, olam [world and eternity]
+  Arabic: tawḥīd [divine unity]
+  Korean: sunggo [the sublime]
+  Greek: diathēkē [covenant, testament], nomos
+  French: alliance, monde, loi
+  Italian: patto
+
+Phr:
+  Shema Yisrael, Adonai Eloheinu, Adonai Echad [Heb.] [Bible]
+  the fear of the Lord is the beginning of wisdom [Bible]
+  I am that I am

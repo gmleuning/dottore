@@ -1,0 +1,26 @@
+# 334 The Plant's Process of Assimilation
+# Nature › 3. Organics › II. Plant Nature
+G: Assimilationsprozess der Pflanze
+Gloss: The plant's taking in of what it needs from its surroundings.
+HGloss: The plant's process with the elements, its turning outward toward light, air and water.
+
+N:
+  the plant's process of assimilation; assimilation, nutrition, absorption, uptake, photosynthesis, transpiration, respiration
+  plant assimilation, intake, nourishment from light air and water
+
+V:
+  assimilate, absorb, take up, draw up, photosynthesize, transpire, feed
+  take in
+
+Adj:
+  assimilative, absorptive, nutritive, photosynthetic
+  absorbent
+
+Adv:
+  by assimilation
+  from its surroundings
+
+Phr:
+  the plant drinks the sun
+  to draw nourishment
+  to drink in

@@ -1,0 +1,26 @@
+# 583 Parents and Children
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › i. True Spirit: The Ethical Order › 1. The Ethical World › b. The Movement of the Two Laws
+G: Eltern und Kinder
+Gloss: The piety of parents toward children and of children toward parents, each seeing in the other its own passing.
+HGloss: Eltern und Kinder: the parents' piety, moved by seeing their own actuality in another that grows as they fade, and the children's, who owe their being to a source that vanishes.
+
+N:
+  parents and children
+  parenthood, filiation, piety, filial piety, parental love, the generations, father and mother, son and daughter, offspring, upbringing, heirs, the household gods, Penates, ancestors
+
+V:
+  beget, bear, raise, rear, bring up, honour one's father and mother, inherit
+
+Adj:
+  parental, filial, paternal, maternal, pious, dutiful, ancestral, hereditary
+
+Adv:
+  from generation to generation, filially
+
+F:
+  Latin: pietas
+  Chinese: xiao [filial piety]
+
+Phr:
+  honour thy father and thy mother [Bible]
+  the child is father of the man [Wordsworth]

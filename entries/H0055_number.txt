@@ -1,0 +1,103 @@
+# 55 Number
+# Logic › 1. Doctrine of Being › II. Magnitude › β. Quantum
+G: Zahl
+Gloss: A definite amount fully specified as a count of units.
+HGloss: Quantum completely determined as amount and unit; the thought of quantity in its most external form.
+
+N:
+  number; figure, digit, numeral, cipher, integer, whole number, natural number, unit, units; amount, count, tally, total, sum, aggregate, score, tale†; annumeration†, numeration, enumeration, counting, numbering, reckoning, calculation, computation; arithmetic, number theory, numerology, doubleacrostic†
+  the one and the many &c H0039; cardinal number, ordinal number; zero; Pythagoreanism
+  pagination, recension†, summation, supputation†, calculus, algorithm, algorism†, rhabdology†, dactylonomy†, measurement &c H0069, statistics
+  symbol, counter, round number, formula, function, series
+  difference, complement, subtrahend, product, multiplicand, multiplier, multiplicator†, coefficient, multiple, dividend, divisor, factor, quotient, submultiple [Math.], fraction, rational number, surd, irrational number, transcendental number, mixed number, complex number, complex conjugate, numerator, denominator, circulating decimal, repetend, common measure, aliquot part, prime number, relative prime, prime factor, prime pair, totient†, ritornello†
+  all, the whole, sum total
+  addition, annexation, adjection†, junction &c H0269, superposition, superaddition, superjunction†, superfetation, accession, reinforcement, increase &c H0060, increment, supplement, accompaniment &c H0130, interposition &c H0228, insertion &c H0238, additament†, appelidage†, annexe†, inunction†, obduction†, reenforcement†
+  subtraction, subduction†, deduction, retrenchment, removal, withdrawal, ablation, sublation†, abstraction &c H0685, garbling, mutilation, detruncation†, amputation, abscission, excision, recision, curtailment &c H0230, minuend, decrease &c H0060, abrasion
+  duplication, doubling, gemination, ingemination†, reduplication, iteration, renewal
+  triplication, triplicity†, trebleness†, trine
+  trisection, tripartition†, trichotomy, third, third part
+  quadruplication
+  quadrisection, quadripartition†, quartering, fourth, quart, quartern†, farthing†, fourthing, quadrant, graphometer†
+  five, quint, quincux†, six, half-a- dozen, half dozen, seven, eight, nine, three times three, dicker, ten, decade, eleven, twelve, dozen, thirteen, long dozen, baker's dozen, quintuplet, twenty, twenty-four, four and twenty, two dozen, twenty-five, five and twenty, quarter of a hundred, forty, two score, fifty, half a hundred, sixty, three score, seventy, three score and ten, eighty, four score, ninety, fourscore and ten, sestiad†
+  hundred, centenary, hecatomb, century, hundredweight, cwt, one hundred and forty-four, gross
+  thousand, chiliad, millennium, thousand years, grand [Coll.], myriad, ten thousand, ten thousand years, lac, one hundred thousand, plum, million, thousand million, milliard, billion, trillion, Atlantis†, Arabian nights†
+  division by five, quinquesection, decimation
+  amount and unit
+  trio, trinity, figuring, threesome, Triality†, ternion†, septett†, bourdon†, morceau†, terzetto†
+  numerosity
+  figurate numbers†, tetract†
+
+V:
+  number, count, enumerate, numerate, reckon, tally, tell†, compute, calculate, cipher, figure, total, sum, add up, tot up; amount to, come to, run to
+  call over, run over, take an account of, muster, poll, recite, recapitulate, sum up, cast up, tell off, suppute†, add, subtract, multiply, divide, extract roots
+  list, itemize, sort, collate, tabulate, catalog
+  annex, affix, superadd†, subjoin, superpose, clap on, saddle on, tack to, append, tag, ingraft†, saddle with, sprinkle, introduce &c H0228, insert &c H0238, inosculate†
+  become added, accrue, advene†, supervene
+  reinforce, reenforce, restrengthen†, swell the ranks of, augment, refect†
+  subduct, deduct, deduce, bate, retrench, remove, withdraw, take from, take away, detract, disseize†
+  garble, mutilate, amputate, detruncate†, cut off, cut away, cut out, abscind†, excise, pare, thin, prune, abrade, scrape, file, geld, castrate, eliminate
+  diminish &c H0060, curtail &c H0230, deprive of &c H0685, weaken
+  double, redouble, duplicate, reduplicate, geminate, repeat, renew &c H0393
+  treble, triple, triplicate, cube
+  trisect, divide into three parts
+  multiply by four, quadruplicate, biquadrate†
+  quarter, divide into four parts
+  centuriate†, quintuplicate
+  decimate, quinquesect
+  algebraize†
+
+Adj:
+  numerical, numeric, numeral, arithmetical, countable, numerable, enumerable, computable, calculable; cardinal, ordinal; integral, whole; odd, even, prime
+  analytic, algebraic, statistical, commensurable, commensurate, incommensurate, innumerable, unfathomable, infinite
+  complementary, divisible, aliquot, reciprocal, relatively prime, fractional, decimal, figurate†, incommensurable
+  added, additional, supplemental, supplementary, suppletory†, subjunctive, adjectitious†, adscititious†, ascititious†, additive, accessory
+  subtracted, subtractive
+  doubled, bicipital†, bicephalous†, bidental†, bilabiate, bivalve, bivalvular†, bifold†, biform†, bilateral, bifarious†, bifacial†, two-sided, disomatous†, duplex, double-faced, double-headed, twin, ingeminate†, second
+  tern, ternary, threefold, trilogistic†, trinal†
+  trifid, trisected, tripartite, trichotomous†, trisulcate†
+  Triadelphous†, triangular, tricuspid, tricapsular†, tridental†, tridentate, tridentiferous†, trifoliate, trifurcate, trigonal†, trigrammic†, trigrammatic†, tripetalous†, tripodal, tripodic†, triquetral†, triquetrous†, cuneate†, multangular†, oxygonal†
+  fourfold, quadrable†, quadrumanous†, quadruple, quadrible†
+  quadrifoliate†, quadrifoliolate†, quadrigeminal†, quadrigeminate†, quadriplanar†, quadriserial†
+  quartered, quadrifid†, quadripartite
+  rectangular
+  quinary†, quintuple, fifth, senary†, sextuple, sixth, seventh, septuple, octuple, eighth, ninefold, ninth, tenfold, denary†, decuple†, eleventh, duodenary†, duodenal, in one's 'teens, thirteenth
+  vicesimal†, vigesimal, twentieth, twenty-fourth, vicenary†, vicennial†
+  centuple†, centuplicate†, centennial, centurial†, secular, hundredth, thousandth
+  quinquefid, quinquelateral, quinquepartite, quinqevalent, pentavalent, quinquarticular†, octifid†, tenth, tithe, duodecimal, twelfth, sexagesimal†, sexagenary†, centesimal, millesimal
+  multilateral
+
+Adv:
+  numerically, by numbers, by the numbers, in figures, one by one, by tale†
+  in addition, more, plus, extra, and, also, likewise, too, furthermore, further, item, and also, and eke, else, besides, to boot, et cetera, and so on, and so forth, into the bargain, over and above, moreover
+  with, withal, including, inclusive, as well as, not to mention, let alone, together with, along with, coupled with, in conjunction with, conjointly, jointly &c H0269
+  in deduction, less, short of, minus, without, except, except for, excepting, with the exception of, barring, save, exclusive of, save and except, with a reservation, not counting, if one doesn't count
+  twice, once more, over again, as much again, twofold
+  secondly, in the second place, again
+  three times, three fold, thrice, in the third place, thirdly, trebly
+  four times, in the fourth place, fourthly
+  additionally, doubly
+
+F:
+  Latin: numerus, cum multis aliis
+  Greek: arithmos
+  French: au reste, cinque
+  Hebrew: gematria
+  Arabic: abjad
+  Sanskrit: śūnya
+  Chinese: shu [number, fate]
+
+Phr:
+  all things are number [Pythagoreans]
+  God made the integers, all else is the work of man [Kronecker]
+  numero Deus impare gaudet [Lat.] [Virgil]
+  to have someone's number
+  noscitur a sociis [Lat.]
+  virtutis fortuna comes [Lat.]
+  tria juncta in uno [Lat.]
+  non deficit alter [Lat.]
+  their name is 'legion'
+  acervatim [Lat.]
+  en foule [Fr.]
+  many- headed multitude [Sidney]
+  numerous as glittering gems of morning dew [Young]
+  vel prece vel pretio [Lat.]

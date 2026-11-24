@@ -1,0 +1,19 @@
+# 1184 Estrangement
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › b. Representation and Appearance (the Kingdom of the Son) › ii. Evil and Estrangement
+G: Die Entzweiung
+Gloss: The rupture between the finite self and God, felt as infinite pain and longing.
+HGloss: Die Entzweiung: the division of consciousness from God, the infinite pain of separation, which is also the source of the need for reconciliation.
+
+N:
+  estrangement
+  estrangement from God, alienation, exile, the unhappy consciousness
+  division, diremption, inner rupture, infinite pain, separation from God
+
+V:
+  be estranged, be exiled
+
+Adj:
+  estranged, alienated
+
+Adv:
+  in exile, apart from God, east of Eden, estrangedly

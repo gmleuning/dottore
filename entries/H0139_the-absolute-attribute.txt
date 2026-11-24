@@ -1,0 +1,31 @@
+# 139 The Absolute Attribute
+# Logic › 2. Doctrine of Essence › III. Actuality › α. The Absolute
+G: Das absolute Attribut
+Gloss: A single basic aspect under which the all-inclusive whole is understood, such as thought or physical extension.
+HGloss: The absolute as it is for reflection, the whole absolute under one determination, as Spinoza's thought and extension.
+
+N:
+  the absolute attribute; attribute, essential aspect, fundamental aspect, perspective on the whole; thought and extension; dual-aspect theory, double-aspect monism, parallelism; face of God, aspect of the One
+  the absolute in a determination, relative absolute
+
+V:
+  attribute, ascribe, predicate; aspect, view under
+  determine, express
+
+Adj:
+  attributive, aspectual, dual-aspect, parallel, fundamental, essential
+  determinate
+
+Adv:
+  under the aspect of, qua, in respect of
+  under an attribute
+
+F:
+  Latin: attributum, cogitatio et extensio [Spinoza], sub specie
+  Arabic: asmāʾ wa-ṣifāt [names and attributes]
+
+Phr:
+  Deus sive natura [Lat.] [Spinoza]
+  one substance, two attributes
+  sub specie aeternitatis
+  under one aspect

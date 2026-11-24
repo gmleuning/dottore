@@ -1,0 +1,25 @@
+# 721 The Right of Knowledge
+# Spirit › 2. Objective Spirit › II. Morality › α. Purpose and Responsibility
+G: Das Recht des Wissens
+Gloss: The will's right to own as its deed only what it knew of the circumstances in which it acted.
+HGloss: Das Recht des Wissens: the will has the right to recognize as its action only what it knew of the presupposed circumstances; Oedipus, who killed his father unknowing, cannot be charged with parricide (§117).
+
+N:
+  the right of knowledge
+  knowing intent, foreseeability, the right to be held to account only for what one knew, the Oedipus problem, ignorance as excuse, the known, the foreseen, Oedipus
+
+V:
+  foresee, know
+
+Adj:
+  knowing, foreseeable, witting, foreseen
+
+Adv:
+  knowingly, wittingly, with full knowledge, with foreknowledge
+
+F:
+  Latin: scienter
+
+Phr:
+  ignorance is no excuse
+  to know what one is doing

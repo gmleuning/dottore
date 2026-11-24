@@ -1,0 +1,38 @@
+# 202 The Chemical Process
+# Logic › 3. Doctrine of the Concept › II. Objectivity › β. Chemism
+G: Der chemische Prozess
+Gloss: The process in which two attracted things combine and neutralize each other.
+HGloss: Two objects, tense against each other, combining through a middle into the neutral product.
+
+N:
+  the chemical process; reaction, chemical reaction, combination, union, neutralization, synthesis, bonding, fusion, merger, marriage, wedding; separation, decomposition, analysis; catalysis, middle term, catalyst, medium, solvent; neutral product, salt
+  coalescence
+  resolution, dissolution
+  compensation, equation
+  counteraction
+  mean &c H0054
+  chemical combination, tension and its discharge
+  uniting
+
+V:
+  react, combine, unite, bond, fuse, merge, neutralize, synthesize, catalyse, dissolve, precipitate
+  amalgamate, blend
+  liquefy, resolve
+
+Adj:
+  reactive, combinatory, synthetic, neutralizing, catalytic, solvent
+  analytical, resolvent
+  chemical, combinative
+
+Adv:
+  in combination, in solution, by reaction
+  chemically, by neutralization
+
+F:
+  Latin: menstruum, solve et coagula [dissolve and coagulate]
+  Greek: hieros gamos [sacred marriage]
+
+Phr:
+  solve et coagula [Lat.]
+  to cancel each other out
+  neutral ground

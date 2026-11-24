@@ -1,0 +1,32 @@
+# 706 Mortgage
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract › iii. Contract Completed by Pledge
+G: Hypothek
+Gloss: A pledge of land or property as security for a debt.
+HGloss: A pledge of land or property, a lien which secures the contract.
+
+N:
+  mortgage; hypothec, lien, charge, encumbrance, deed of trust, mortgage bond, mortgagor and mortgagee, foreclosure, equity of redemption, incumbrance†
+  security, guaranty, guarantee, gage, bond, plight, collateral, hypothecation, bill of sale, pignoration†, real security
+  debenture
+  second mortgage, home loan &c H0704
+  mortgage deed
+
+V:
+  mortgage, hypothecate, encumber, pledge, foreclose, redeem
+  pawn, impawn†, impignorate†
+  secure
+
+Adj:
+  mortgaged, encumbered, hypothecated, secured
+  hypothecary
+
+Adv:
+  under mortgage
+  on mortgage, on security
+
+F:
+  Latin: hypotheca
+
+Phr:
+  mortgaged to the hilt
+  under water

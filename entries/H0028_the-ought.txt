@@ -1,0 +1,25 @@
+# 28 The Ought
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › iii. Finitude as Such › 2. Restriction and the Ought
+G: Das Sollen
+Gloss: What something is to be but is not yet: the demand to go beyond its own restriction.
+HGloss: Das Sollen, the in-itself of something set against its restriction, which it is to transcend and yet keeps as its limit.
+
+N:
+  the ought
+  ought, oughtness, obligation, demand, requirement, imperative, exigency, norm, standard, ideal &c H0849, aspiration, striving, yearning, longing, the gap between is and ought, is-ought gap, vocation, task, mission, calling, deontology, deontic
+
+V:
+  strive, aspire, yearn, long, reach for, reach beyond, ought, should, must, be obliged, be bound, be called upon, transgress, overstep, exceed, surpass, push the envelope
+
+Adj:
+  obligatory, binding, incumbent, mandatory, imperative, normative, deontic, prescriptive, aspiring, striving, yearning, unfulfilled, unrealized, ideal
+  incumbent on, under obligation, bound by
+
+Adv:
+  as it ought to be, as it should be, by rights, in principle, ideally, as it ought
+
+Phr:
+  du kannst, denn du sollst [Ger.] [Schiller, on Kant]
+  a man's reach should exceed his grasp, or what's a heaven for? [Browning]
+  ought implies can
+  ultra posse nemo obligatur [Lat.]

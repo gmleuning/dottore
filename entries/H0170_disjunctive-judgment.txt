@@ -1,0 +1,35 @@
+# 170 Disjunctive Judgment
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment › c. Judgment of Necessity
+G: Disjunktives Urteil
+Gloss: A judgment of alternatives: "A is either B or C."
+HGloss: The genus as the totality of its species, each excluding the others: A is either B or C.
+
+N:
+  disjunctive judgment; disjunction, alternative, either-or, dilemma, choice, option, exclusive disjunction, inclusive disjunction; division, complete division, exhaustive alternatives, partition
+  distribution
+  alternation
+
+V:
+  disjoin, separate, divide, alternate, choose, opt
+  disconnect, dissociate
+  part, partition &c H0687
+
+Adj:
+  disjunctive, alternative, exclusive, exhaustive, either-or, binary
+  disjoined, disparate
+  discontinuous, discrete
+
+Adv:
+  either ... or, or else, alternatively, otherwise
+  disjunctively
+  instead
+
+F:
+  German: Entweder-Oder
+  Latin: vel and aut, aut ... aut, aut-aut
+  Arabic: sharṭiyya munfaṣila [disjunctive conditional]
+
+Phr:
+  Either/Or, Enten-Eller [Danish] [Kierkegaard]
+  tertium non datur [Lat.]
+  one or the other

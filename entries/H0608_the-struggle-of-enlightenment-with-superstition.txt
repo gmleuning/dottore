@@ -1,0 +1,46 @@
+# 608 The Struggle of Enlightenment with Superstition
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › ii. Self-Alienated Spirit: Culture › 2. Enlightenment
+G: Der Kampf der Aufklärung mit dem Aberglauben
+Gloss: The conflict of critical reason with belief.
+HGloss: The struggle of pure insight against faith, in which insight misunderstands faith and itself.
+
+N:
+  the struggle of enlightenment with superstition; superstition, credulity, priestcraft, fanaticism, obscurantism, bigotry, mumbo jumbo, the infection of insight, silent spread, the idol falls
+  credulousness, cullibility†, gullibility, gross credulity, self delusion, self deception, one's blind side, hyperorthodoxy &c H1191 [Obs.], misjudgment &c H0669
+  bigotry &c H0679, iconoclasm, hyperorthodoxy†, precisianism†, bibliolatry†, sabbatarianism†, puritanism, anthropomorphism, idolatry &c H1166, superstition &c H0667, dissent &c H0667, Christianism†
+  intolerance, dogmatism, zealotry
+  bias, partiality, infatuation
+  the battle of Enlightenment, the war on superstition, the critique of faith, the unmasking of priests, misrepresentation of faith
+
+V:
+  combat, expose, debunk, demystify, unmask, infect, spread, pervade
+  disclose, draw aside the veil, lift the veil, tear aside the veil, unveil
+  struggle, criticize
+
+Adj:
+  superstitious, credulous, obscurantist, priest-ridden, fanatical, bigoted; critical, polemical, debunking
+  superstitious &c H0667, idolatrous &c H1166, visionary &c H0656
+  narrow-minded, illiberal, intolerant, infatuated, narrow-souled†, opiniative†
+  gullible, easily deceived &c H0710, simple, green, soft, childish, silly, stupid, easily convinced, over-credulous, over confident, over trustful, confiding &c H0667
+  confiding, unsuspecting, credulous &c H0667, suspectless†
+  dogmatic, prejudiced &c H0669, hidebound, restringent†, barkbound†
+  anticlerical, combative
+
+Adv:
+  silently, pervasively
+  polemically, critically, in struggle
+
+F:
+  German: Aberglaube
+  Latin: superstitio
+  Greek: deisidaimonia
+
+Phr:
+  one fine morning it gives its comrade a shove with the elbow, and bang! crash! the idol lies on the floor [Hegel, Phenomenology ¶545, quoting Diderot, Rameau's Nephew]
+  to dispel superstition
+  old wives' tales
+  the wish the father to the thought
+  credo quia impossibile [Lat.] [Tertullian]
+  all is not gold that glitters
+  no es oro todo lo que reluce [Sp.]
+  omne ignotum pro magnifico [Lat.]

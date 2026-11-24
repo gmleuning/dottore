@@ -1,0 +1,46 @@
+# 834 Art
+# Spirit › 3. Absolute Spirit
+G: Kunst
+Gloss: The presentation of the highest truths in sensuous form; the making of beauty.
+HGloss: Absolute spirit in the shape of sensuous intuition: the idea present to sense as beauty, the first and immediate form of spirit's self-knowledge.
+
+N:
+  art; fine art, aesthetics, philosophy of art, the beautiful, artistry, artwork, creative work, the arts
+  representation, representment†, imitation &c H0101, illustration, delineation, depictment†, imagery, portraiture, iconography, designing, fine arts, painting &c H1030, sculpture &c H0987, engraving &c H1030, photography, cinematography, radiography, autoradiography [Bioch.], fluorography [Chem], sciagraphy†
+  figure
+  the beautiful arts, the sensuous shining of the idea
+  graphics
+  museum, gallery, art gallery, exhibition, exhibit, show, installation, masterpiece, artist, curator, museology†, collector
+  techne
+
+V:
+  create, compose, depict, portray, render, represent, express, shape, fashion
+  delineate, depicture†, take a likeness, catch a likeness, hit off, photograph, daguerreotype, snapshot, shadow forth, shadow out, adumbrate, body forth, describe &c H0662, trace, copy
+  form, carve, chisel, model, mold
+  describe, draw a picture, picture
+  paint, design, sketch, draw in pencil, paint in oils
+  make, beautify
+
+Adj:
+  artistic, aesthetic, creative, beautiful, fine, imaginative, expressive
+  representing, representative, represented, imitative, figurative, iconic
+  tasteful, esthetic
+  artistical†, picturesque, pictorial, well-composed, well grouped, well varied, curious
+
+Adv:
+  artistically, aesthetically, artfully
+  in sensuous form
+
+F:
+  German: die schönen Künste, Ästhetik, ästhetisch
+  Latin: ars, aesthetica
+  Greek: technē, aisthētikos
+  French: beaux-arts, fait a peindre, esthétique
+  Italian: belle arti, arte
+  Korean: pungnyu [refined taste, elegance]
+
+Phr:
+  ars longa, vita brevis [Lat.] [Hippocrates]
+  art is the sensuous shining of the idea [Hegel]
+  art for art's sake, l'art pour l'art [Fr.]
+  life is short, art is long

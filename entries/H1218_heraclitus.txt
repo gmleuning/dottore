@@ -1,0 +1,18 @@
+# 1218 Heraclitus
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Heraklit
+Gloss: The philosopher of Ephesus for whom all things flow and the unity of opposites is the law of the world.
+HGloss: Heraclitus, the first concrete thinker: becoming as principle, the unity of being and nothing, the idea in its speculative form.
+
+N:
+  Heraclitus
+  becoming, flux, the logos, fire
+  Heraclitus of Ephesus, the Obscure, the unity of opposites, strife the father of all, the ever-living fire
+
+Adj:
+  Heraclitean
+
+Phr:
+  panta rhei [Gr.] [all flows] [attrib. Heraclitus]
+  you cannot step twice into the same river
+  es ist kein Satz des Heraklit, den ich nicht in meine Logik aufgenommen [Ger.] [Hegel, Lectures on the History of Philosophy]

@@ -1,0 +1,16 @@
+# 1214 Pythagoras
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Pythagoras
+Gloss: The philosopher of Samos and Croton for whom number is the essence of things, founder of a religious brotherhood.
+HGloss: Pythagoras, who makes number the principle, midway between the sensuous and the concept, the first thought-determinations.
+
+N:
+  Pythagoras
+  number, the Pythagoreans, Philolaus, the Italian school
+  Pythagoras of Samos, the tetractys, the harmony of the spheres, transmigration of souls, metempsychosis, the Pythagorean brotherhood, the limit and the unlimited, the monad and the dyad, Croton
+
+Adj:
+  Pythagorean
+
+Phr:
+  all things are numbers [the Pythagoreans]

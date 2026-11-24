@@ -1,0 +1,12 @@
+# 1123 Odes of Mastery
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › b. Ode
+G: Die pindarische Ode
+Gloss: The Pindaric ode, in which the poet masters his great subject.
+HGloss: The Pindaric ode, where the poet's inspiration masters the subject, celebrating victors while ranging freely through myth.
+
+N:
+  odes of mastery; Pindaric ode, Pindar, victory ode, epinician ode, triad, strophe and antistrophe
+  epinicion
+
+Adj:
+  Pindaric

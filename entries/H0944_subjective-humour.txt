@@ -1,0 +1,36 @@
+# 944 Subjective Humour
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › iii. The Formal Independence of Individual Characteristics › 3. The Dissolution of Romantic Art
+G: Der subjektive Humor
+Gloss: Humour in which the artist's own wit and whims dissolve every fixed content.
+HGloss: Der subjektive Humor: the artist's subjectivity making itself the content, breaking up every objective shape by wit and the play of fancies, as in Jean Paul; Sterne and Hippel show its truer form.
+
+N:
+  subjective humour
+  Jean Paul, Laurence Sterne, humour, whimsy, irony
+  ridicule, sardonic smile, sardonic grin, irrision†, scoffing &c H0535, quiz†, banter, persiflage, raillery, quizzing, asteism†
+  jest, jape, jibe, levity, quips and cranks, capital joke, standing jest, standing joke, private joke, conceit, quip, quirk, crank, quiddity, concetto†, brilliant idea, merry thought, bright thought, happy thought, sally, flash of wit, flash of merriment, scintillation, witticism, smart saying, bon-mot, epigram, jest book, dry joke, quodlibet, cream of the jest
+  derision, mockery
+  Witz
+
+V:
+  joke, play
+  deride, taunt, snigger, laugh in one's sleeve, tease, badinage, rally, chaff, twit, roast, haze [U.S.], tehee†, fleer†, show up
+  crack a joke, make a joke, cut jokes, perpetrate a joke, pun, perpetrate a pun, make fun of, make merry with, kid, kid around, fool around, set the table in a roar &c H0672
+
+Adj:
+  humorous, whimsical, playful, ironic
+  witty, attic, quick-witted, nimble-witted, smart, jocular, jocose, facetious, waggish, kidding, joking, puckish, playful &c H0672, merry and wise, pleasant, sprightly, light, spirituel†, sparkling, epigrammatic, full of point, comic &c H1149, playsome†
+  derisory, derisive, mock, mocking, sarcastic, ironical, quizzical, burlesque, Hudibrastic†, scurrilous &c H0535
+  ridiculous, ludicrous, comical, droll, funny, laughable, pour rire, grotesque, farcical, odd, whimsical as a dancing bear, fanciful, fantastic, queer, rum, quaint, bizarre, screaming, eccentric &c H0073, strange, outlandish, out of the way, baroque, weird, awkward &c H0848
+
+Adv:
+  humorously
+  jokingly, in joke, in jest, in sport, in play
+
+Phr:
+  tongue in cheek
+  adhibenda est in jocando moderatio [Lat.]
+  gentle dullness ever loves a joke [Pope]
+  leave this keen encounter of our wits [Richard III]
+  just joking, just kidding
+  surely you jest!

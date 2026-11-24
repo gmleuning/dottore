@@ -1,0 +1,16 @@
+# 1212 Anaximander
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Anaximander
+Gloss: The Milesian who made the boundless the source from which all things arise and to which they return.
+HGloss: Anaximander, whose principle is the infinite (to apeiron), an indeterminate matter from which the opposites separate out.
+
+N:
+  Anaximander
+  the boundless, the unlimited
+  Anaximander of Miletus, the indefinite, the separating out of opposites, the gnomon, the first map
+
+F:
+  Greek: to apeiron [the boundless]
+
+Phr:
+  they pay penalty to one another for their injustice [Anaximander]

@@ -1,0 +1,27 @@
+# 1007 Portrayal of Individual Gods
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture › 3. Individuality of the Ideal Sculptured Figure
+G: Darstellung der einzelnen Götter
+Gloss: The representation of each god in sculpture.
+HGloss: The portrayal of the individual gods, each with its own character.
+
+N:
+  portrayal of individual gods; Zeus of Olympia, Athena Parthenos, Apollo Belvedere, Venus de Milo, Hermes of Praxiteles, Aphrodite of Knidos
+  the gods in sculpture, divine image, cult statue, the type of each god, Zeus, Hera, Apollo, Athena, Aphrodite, Hermes, Dionysus, the Jupiter of Phidias, characteristic type
+  dodecatheon, pantheon
+
+V:
+  portray, sculpt, represent
+  depict, embody, individualize, typify, characterize
+
+Adj:
+  divine, Olympian, Praxitelean, Phidian
+  individual, characteristic, typical, distinctive
+
+Adv:
+  in marble, in ivory and gold
+  individually, each in his kind, characteristically
+
+Phr:
+  the Zeus of Phidias
+  the Olympians
+  the twelve gods

@@ -1,0 +1,51 @@
+# 321 Plant Nature
+# Nature › 3. Organics
+G: Vegetabilische Natur
+Gloss: Life in the form of a plant: an organism that grows outward into parts, each of which could become a whole plant.
+HGloss: The first subjective life: the plant, which is not yet a self but is outside itself in its members, each an individual.
+
+N:
+  plant nature; plant, vegetable, vegetation, flora, plant life, greenery, verdure, herbage, foliage, botany, the vegetable kingdom; vegetative soul; growth, sprouting, outward growth, viridity†, viridescence†, verditure†
+  physiological botany, structural botany, systematic botany, phytography†, phytology†, phytotomy†, vegetable physiology, herborization†, dendrology, mycology, fungology†, algology†, romona, botanic garden &c H0764 [Obs.], herbarium
+  bine†, flowering plant, timber tree, fruit tree, pulse, legume
+  vegetable life, vegetability†, vegetality†
+  branch, bough, ramage†, stem, tigella†, spray &c H0130, leaf, sarmentum†
+  timber, forest, wood, woodlands, timberland, hurst†, frith†, holt, weald†, park, chase, greenwood, brake, grove, copse, coppice, bocage†, tope, clump of trees, thicket, spinet, spinney, underwood, brushwood, scrub, boscage, bosk†, chaparal, motte [U.S.], arboretum, bush, jungle, prairie, heath, heather, fern, bracken, furze, gorse, whin, grass, turf, pasture, pasturage, turbary†, sedge, rush, weed, fungus, mushroom, toadstool, lichen, moss, conferva†, mold, alfalfa, alfilaria†, banyan, blowth†, floret†, petiole, pin grass, timothy, yam, yew, zinnia
+  acrospire†, plumule†, off-shoot, ramification
+  the vegetable organism
+  cole, banana, lily, ginger, garlic, violet, ivy, herb, iris, vine, mustard, squash, achar†, cubeb†, fitchet†, fitchew†, fourmart†
+  pineapple, clocks, rosemary, rue, broccoli, spinach, sesame, medic, evergreen, cactus, hops, clover, ornamental, napa, celery, parsley, asparagus, thistle, cauliflower, tulip, climber, trumpets, pia, dill, peppermint, angelica, thyme, truffle, aloe, beet, cumin, succulent, ramona, fennel, coriander, creeper, primrose, dandelion, cilantro, wort, turmeric, lupin, licorice, candida, oregano, lucerne, buttercup, buckwheat, angelique, clary, wasabi, pansy, blinks, seedling, soya, agave, nettle, cardamom, wildflower, catnip, salvia, plantain, hoya, balsam, anise, phytoplankton, cultivar, collard, morel, chives, chamomile, woodbine, agueweed†, boneset†, feverroot†, quinquina†, flow'ret gay†
+  herbaceous plant, baby blue-eyes, forget-me-not, earth-ball, touch-me-not, rock plant, money plant, gas plant, bar-room plant, air plant, wild coffee, garden plant, love apple, mad apple, cast-iron plant, red fox, silver dollar, garden egg, dead-men's-fingers, golden thread, yellow root, stone-root, stone root, pot plant, butter-flower, tall-grass, silver grass, short-grass, rush-grass, rush grass, love grass, giant star grass, finger grass, bunch grass, blue grass, beach grass, bay grass, sword grass, earth-tongue, drop-seed, morning glory, dead-man's-fingers, white rocket, wall rocket, sea-rocket, mouse ear, garden rocket, golden seal, devil grass, blue stem, blue devil, globe flower, mad-dog weed, heart-leaf, bible leaf, tobacco plant, sheep plant, ladies' tobacco, sea cole
+  woods, pumpkin, woodland, raspberry, cucumber, watermelon, kiwi, bittersweet, swede
+  seaweed, kelp, wrack, algae
+  phyton
+  herbist†, herbarist†, herborist†, herbarian†
+
+V:
+  grow, sprout, shoot, burgeon, bud, blossom, bloom, flower, flourish, vegetate, root, germinate
+  grow up, spring up
+  blow, fructify, bear fruit, fatten
+  grow roots, put down roots
+  herborize†
+
+Adj:
+  vegetable, vegetal, vegetative, botanical, herbaceous, verdant, green, leafy, floral, sylvan, arboreal
+  vegetive†, vegitous†, herbal, botanic†, silvan†, arborary†, arboreous†, arborescent†, arborical†, woody, grassy, verdurous, mossy, lignous†, ligneous, wooden, leguminous, vosky†, cespitose†, turf-like, turfy, endogenous, exogenous
+  rank, lush
+
+Adv:
+  vegetatively, botanically, in leaf, in flower, in bloom
+
+F:
+  Latin: regnum vegetabile, anima vegetativa, hortus siccus
+  Greek: threptikon [nutritive soul]
+  Spanish: ceja
+  Sanskrit: vanaspati [plant, lord of the forest]
+
+Phr:
+  consider the lilies of the field, how they grow [Bible]
+  the force that through the green fuse drives the flower [Dylan Thomas]
+  the green world
+  to put down roots
+  green-robed senators of mighty woods [Keats]
+  this is the forest primeval [Longfellow]

@@ -1,0 +1,42 @@
+# 82 Nodal Line of Measure Relations
+# Logic › 1. Doctrine of Being › III. Measure › β. Real Measure
+G: Knotenlinie von Maßverhältnissen
+Gloss: A scale of gradual change in amount, marked at certain points by sudden changes in kind, as water freezes or boils; a leap.
+HGloss: A line of gradual quantitative alteration interrupted by qualitative leaps, as at the freezing and boiling of water.
+
+N:
+  nodal line of measure relations; node, nodal point, tipping point, threshold, critical point, turning point, watershed, Rubicon, point of no return, breaking point, flashpoint, inflection point, bifurcation point, singularity, phase transition, state change, freezing, boiling, condensation; leap, qualitative leap, quantum leap, saltation, jump, discontinuity, catastrophe; transformation of quantity into quality; gradualness interrupted, sudden change, crisis, revolution, upheaval, emergence; the last straw, the straw that broke the camel's back, the drop that makes the cup overflow; sorites
+  bouleversement, subversion, break up, destruction &c H0124, radical change, sweeping organic change, change of state, phase change, quantum jump, clean sweep, counter revolution
+  plunge, jerk, start, transilience†, explosion, spasm, convulsion, throe, revulsion, storm, earthquake, cataclysm, catadupe†
+  hop, bound, vault, rigadoon†, saraband†
+  emergency, pinch
+  gap &c H0228, solution of continuity, caesura
+  boundary line, landmark, line of demarcation, line of circumvallation†
+  the nodal line, nodes, qualitative jump
+  dancing, leaping
+
+V:
+  tip, tip over, reach the tipping point, cross the threshold, cross the Rubicon, boil over, freeze over, snap, crack, break, give way; leap, jump, spring, saltate; transform, metamorphose; come to a head
+  transfigure, transmute
+
+Adj:
+  nodal, critical, pivotal, decisive, crucial, saltatory, saltational, sudden, abrupt, discontinuous, catastrophic, revolutionary, qualitative, transformative
+  instantaneous, precipitous
+
+Adv:
+  suddenly, abruptly, all at once, at a stroke, by a leap, in a flash, in one fell swoop, subito†
+  instantaneously, in the twinkling of an eye, tantivy†
+  at a node
+
+F:
+  German: Sprung, Knotenlinie
+  Latin: per saltum, saltus
+  French: coup d'etat
+
+Phr:
+  the last drop makes the cup run over
+  the straw that broke the camel's back
+  alea iacta est [Lat.] [Caesar]
+  natura non facit saltus [Lat.] [Linnaeus, Philosophia Botanica §77] [Opposed]
+  la nature ne fait jamais des sauts [Fr.] [Leibniz, New Essays, Preface] [Opposed]
+  a sudden leap

@@ -1,0 +1,26 @@
+# 413 Waking and Sleeping
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › b. Natural Changes
+G: Wachen und Schlafen
+Gloss: The alternation of the soul between conscious activity and rest.
+HGloss: The soul's dividing itself from its natural immediacy: waking, its being-for-self, against sleep, its retreat into undivided substance.
+
+N:
+  waking and sleeping; waking
+
+Adv:
+  awake
+
+F:
+  Latin: somnus
+  Greek: hypnos
+  Sanskrit: jāgrat, suṣupti
+
+Phr:
+  once Zhuang Zhou dreamed he was a butterfly [Zhuangzi]
+  to sleep on it
+  the eyes begin to draw straws
+  bankrupt of life yet prodigal of ease [Dryden]
+  better 50 years of Europe than a cycle of Cathay [Tennyson]
+  idly busy rolls their world away [Goldsmith]
+  The best of men have ever loved repose [Thompson]
+  to repair our nature with comforting repose [Henry VIII]

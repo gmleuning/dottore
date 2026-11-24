@@ -1,0 +1,17 @@
+# 908 Image
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 2. Comparisons Starting from the Meaning › c. Metaphor, Image, Simile
+G: Das Bild
+Gloss: A fuller picture drawn from another sphere and set out for itself to show the meaning.
+HGloss: Das Bild: a developed metaphor, in which a whole situation from another sphere is portrayed to express a meaning that is not itself named.
+
+N:
+  image
+  imagery
+  parallel, type, image &c H0834
+  picture, emblem, poetic image, word-picture, extended metaphor
+
+V:
+  image
+
+Adj:
+  imagistic

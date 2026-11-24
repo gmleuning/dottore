@@ -1,0 +1,21 @@
+# 1240 The Garden
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 1. Dogmatism › b. Epicurean Philosophy
+G: Der Garten
+Gloss: Epicurus and his school in their garden at Athens, a community of friends living quietly apart.
+HGloss: The school of Epicurus at Athens, whose canon makes sensation the criterion and whose ethics seeks tranquillity in friendship and withdrawal.
+
+N:
+  the Garden
+  Epicurus, friendship, the philosopher of the Garden, Metrodorus, Hermarchus, the canon, canonic, anticipations, the Principal Doctrines, the fourfold remedy, simple pleasures, the hidden life
+
+V:
+  live unnoticed, retire
+
+Adj:
+  retired, unpolitical
+
+Adv:
+  in the Garden, in retirement, unnoticed
+
+Phr:
+  death is nothing to us [Epicurus]

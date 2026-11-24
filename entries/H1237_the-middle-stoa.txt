@@ -1,0 +1,13 @@
+# 1237 The Middle Stoa
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 1. Dogmatism › a. Stoic Philosophy
+G: Die mittlere Stoa
+Gloss: The Stoics of Rhodes and Rome, Panaetius and Posidonius, who softened the doctrine and carried it to the Roman world.
+HGloss: The middle Stoa of Panaetius and Posidonius, which moderated Stoic rigour and taught Cicero and the Roman nobility.
+
+N:
+  the Middle Stoa
+  Panaetius, Posidonius
+  Rhodes, the Scipionic circle, duties, moderate Stoicism
+
+F:
+  Latin: De officiis

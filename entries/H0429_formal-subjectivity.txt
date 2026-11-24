@@ -1,0 +1,28 @@
+# 429 Formal Subjectivity
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy
+G: Formelle Subjektivität
+Gloss: The soul as a self only in outline, not yet distinct from its contents.
+HGloss: The soul as a self not yet distinguished from its feeling content, a subjectivity that is only formal.
+
+N:
+  formal subjectivity; nascent selfhood, incipient self, rudimentary subjectivity, proto-self, mere form of self, undeveloped ego
+  formal selfhood, merely formal subject, the self in outline, the passive totality, the dreaming self
+
+V:
+  begin to be oneself, stir, awaken
+  outline, remain formal, be passive
+
+Adj:
+  formal, nascent, incipient, rudimentary, inchoate, embryonic
+  rudimental
+  primitive, primordial, seminal
+  undeveloped, passive, undistinguished
+
+Adv:
+  in outline, in embryo, in germ
+  formally, only in outline, passively
+
+Phr:
+  the self in embryo
+  half awake
+  not yet oneself

@@ -1,0 +1,29 @@
+# 445 The Diseased State
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › a. The Feeling Soul in Its Immediacy › ii. Magnetic Somnambulism › 2. Content of Magnetic States › c. Inducing
+G: Der Krankheitszustand
+Gloss: The sickly condition in which trance states arise.
+HGloss: The disease state of the soul which is the condition of magnetic phenomena, the separation of feeling from waking unity.
+
+N:
+  the diseased state; morbid condition, nervous disorder, hysteria, neurasthenia, susceptibility, suggestibility, vapours, nerves, frailty, debility, malaise
+  morbid state, sickly condition, pathological state, illness, nervous weakness
+  morbidity
+
+V:
+  languish, ail, be indisposed, be susceptible
+  droop, sicken, pine
+  weaken, be predisposed
+
+Adj:
+  morbid, sickly, hysterical, neurasthenic, nervous, suggestible, susceptible, delicate
+  unsound, unhealthy, infirm
+  diseased, pathological
+
+Adv:
+  morbidly, nervously
+  in sickness
+
+Phr:
+  the vapours
+  out of sorts
+  not in one's right mind

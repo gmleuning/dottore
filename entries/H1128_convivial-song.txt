@@ -1,0 +1,8 @@
+# 1128 Convivial Song
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › c. Song › i. Song Proper
+G: Gesellschaftslied
+Gloss: Songs for company: drinking songs, table songs, rounds.
+HGloss: The convivial song, which expresses the shared pleasure of company.
+
+N:
+  convivial song; drinking song, table song, glee, catch, round, skolion, carousal song

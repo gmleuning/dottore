@@ -1,0 +1,42 @@
+# 213 The Idea of Cognition
+# Logic › 3. Doctrine of the Concept › III. Idea
+G: Die Idee des Erkennens
+Gloss: Mind seeking to bring the world and its own thinking into agreement, by knowing and by acting.
+HGloss: The idea that has itself as its object, divided into the theoretical idea of truth and the practical idea of the good.
+
+N:
+  the idea of cognition; cognition, knowing, knowledge, understanding, comprehension, apprehension, inquiry, investigation, research, science; theory and practice; spirit as knowing and willing
+  cognizance, cognoscence†, acquaintance, insight, recognition, intuition
+  system of knowledge, body of knowledge, philosophy, theory, doctrine
+  request &c H0689, search, quest, pursuit &c H0676
+  intelligence, intellect &c H0646
+  learning, acquisition of knowledge &c H0646
+  investigation &c H0667, study &c H0667, discussion &c H0670, exposition &c H0662
+  the knowing idea, the theoretical and the practical idea, finite cognition
+  epistēmē
+
+V:
+  know, cognize, understand, comprehend, apprehend, grasp, investigate, inquire, research, study; will, act
+  conceive, realize, fathom, recognize, discern, perceive
+  make inquiry, ask, seek
+  look into
+
+Adj:
+  cognitive, epistemic, noetic, intellectual, theoretical, practical, inquisitive
+  inquisitive &c H0646, analytic, in search of, in quest of, zetetic†, inquisitory†, requisitive†, requisitory†
+
+Adv:
+  cognitively, knowingly, theoretically, in theory and in practice
+
+F:
+  German: Erkennen, Erkenntnistheorie
+  Latin: cognitio
+  Greek: gnōsis, theōria and praxis
+  Arabic: maʿrifa [cognition]
+  Sanskrit: jñāna [knowledge]
+  French: épistémologie
+
+Phr:
+  all men by nature desire to know [Aristotle]
+  to come to know
+  to find out

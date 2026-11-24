@@ -1,0 +1,26 @@
+# 57 Extensive Quantum
+# Logic › 1. Doctrine of Being › II. Magnitude › β. Quantum › b. Extensive and Intensive Quantum (Degree)
+G: Extensive Größe
+Gloss: A definite amount made of parts outside one another, a size such as a length, an area or a number.
+HGloss: Extensive Größe, the quantum whose determinateness lies in a plurality of units outside one another, an amount.
+
+N:
+  extensive quantum; extensive magnitude, extension, extent, size, length, breadth, area, volume, bulk, spread, amplitude, expanse, compass, reach, magnitude, aggregate
+  dimension, largeness, greatness &c H0054, expanse &c H0228, mass, proportions
+  range
+
+V:
+  extend, expand, stretch, spread, enlarge
+
+Adj:
+  distinct
+  extensive, extended, spacious, vast, wide, broad, large
+
+Adv:
+  in extent; widely
+  in size
+  extensively
+
+Phr:
+  by degrees
+  through and through

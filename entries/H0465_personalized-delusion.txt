@@ -1,0 +1,31 @@
+# 465 Personalized Delusion
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement › 2. Madness Proper › c. Fixations
+G: Wahn, Gott, Christus oder König zu sein
+Gloss: The delusion that one is a great person: God, Christ or a king.
+HGloss: Madness whose content comes from a particular passion, ambition or pride: those who take themselves to be God, Christ or a king.
+
+N:
+  personalized delusion; absurd identifications; delusion of identity, delusion of grandeur, megalomania, imposture, the man who thinks he is Napoleon, the man who thinks he is God, Capgras delusion
+  mistaken identity, believing oneself a king, believing oneself God, monomania
+
+V:
+  imagine oneself, believe oneself to be, take oneself for
+  mistake oneself, identify falsely
+
+Adj:
+  megalomaniac, megalomaniacal, grandiose, deluded
+  self-mistaken, monomaniacal
+
+Adv:
+  grandiosely
+  delusionally, under a delusion
+
+F:
+  French: non-sens, absurdité
+  German: Unsinn, Sinnlosigkeit
+  Spanish: disparate, sinsentido
+
+Phr:
+  I am the King of Spain
+  to think oneself Napoleon
+  delusions of grandeur

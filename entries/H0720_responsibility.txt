@@ -1,0 +1,51 @@
+# 720 Responsibility
+# Spirit › 2. Objective Spirit › II. Morality › α. Purpose and Responsibility
+G: Schuld
+Gloss: The extent to which a deed is one's own and can be held against one.
+HGloss: Schuld: the deed is imputed to the will as its own; it is responsible for what it has done, and liable for damage done by things it owns (§§115-116).
+
+N:
+  responsibility; liability, accountability, answerability, liability, culpability, imputability, blameworthiness, fault, guilt, onus
+  guiltiness, criminality, criminousness†, deviation from rectitude &c H0732 [Obs.], sinfulness &c H0732
+  accountableness†, responsibility
+  delinquency
+  liableness†
+  innocence, guiltlessness, incorruption, impeccability, indefectibility†, impeccancy†
+  clean hands, clear conscience
+  innocent, lamb, dove
+  imputation
+
+V:
+  be responsible, answer for, be liable, bear the blame, own up
+  incur, lay oneself open to
+  be innocent
+  acquit &c H0776, exculpate &c H0776
+  impute, attribute, hold liable
+
+Adj:
+  responsible, liable, accountable, answerable, culpable, to blame, at fault
+  guilty, peccable†, in fault, censurable, illaudable†, weighed in the balance and found wanting
+  subject
+  blameworthy, reprehensible, worthy of blame, uncommendable, exceptionable, not to be thought of, bad &c H0732, vicious &c H0732, incogitable†
+  not guilty, unguilty†, guiltless, faultless, sinless, stainless, bloodless, spotless, clear, immaculate, unspotted, unblemished, unerring, undefiled &c H0731, unhardened†, Saturnian, Arcadian &c H0731 [Obs.], indefective†, indeficient†, scathless†
+  inculpable, unculpable†, unblamed, unblamable†, blameless, unfallen†, inerrable†, above suspicion, irreproachable, irreprovable†, irreprehensible†, unexceptionable, unobjectionable, unimpeachable, salvable†, venial &c H0776, inobjectionable†, veniable†
+  harmless, inoffensive, innoxious†, innocuous, dove-like, lamb-like, pure, harmless as doves, innocent as a lamb, innocent as the babe unborn, more sinned against than sinning [Lear], hurtless†, unobnoxious†
+  virtuous &c H0728, unreproved†, unimpeached, unreproached†
+  imputable
+  acquitted, infallible
+
+Adv:
+  responsibly, accountably
+  red-handed, in the very act, with one's hand in the cookie jar
+  innocently, with clean hands, with a clear conscience, with a safe conscience
+  on one's own head
+
+F:
+  Latin: in flagrante delicto, mens sibi conscia recti [Vergil], nil conscire sibi nulla pallescere culpa [Horace], rectus in curia
+  German: Sippenhaft [kin liability]
+
+Phr:
+  mea culpa [Lat.]
+  to take the blame
+  the buck stops here
+  murus aeneus conscientia sana [Horace]

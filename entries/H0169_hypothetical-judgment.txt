@@ -1,0 +1,38 @@
+# 169 Hypothetical Judgment
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment › c. Judgment of Necessity
+G: Hypothetisches Urteil
+Gloss: A judgment of conditional form: "if A, then B."
+HGloss: The connection of two contents as necessary, though their being is not posited: if A is, then B is.
+
+N:
+  hypothetical judgment; conditional, conditional proposition, conditional statement, hypothetical, if-then statement, implication, material conditional, antecedent and consequent; supposition, hypothesis, assumption
+  postulation, condition, presupposition, postulate, theory, proposition
+  condition and conditioned
+
+V:
+  suppose, assume, hypothesize, posit, conditionalize, imply, entail
+  theorize, presume, presuppose
+  involve
+
+Adj:
+  hypothetical, conditional, suppositional, contingent, implicative, if-then
+  assumed, suppositive†, conjectural, theoretical, supposable, presumptive, postulatory†
+  given, provisional
+
+Adv:
+  if, if so, in that case, supposing, assuming, provided that, then
+  provided, unless, conditionally
+  if so be, on the supposition, in the event of
+  hypothetically
+
+F:
+  Latin: ergo, ex hypothesi, illatio, inferentia, consequentia
+  Greek: protasis and apodosis, sympeplegmenon, symperasma, synēmmenon, akolouthia, antakolouthia
+  Arabic: sharṭiyya muttaṣila [conjunctive conditional]
+  Sanskrit: vyāpti [invariable concomitance]
+  German: nachsichziehen, zurfolgehaben, Folge(-rung), Schluß, Konsequenz, Implikation, Implikatur
+
+Phr:
+  if A, then B
+  if wishes were horses, beggars would ride
+  what if

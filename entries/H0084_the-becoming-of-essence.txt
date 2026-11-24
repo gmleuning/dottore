@@ -1,0 +1,32 @@
+# 84 The Becoming of Essence
+# Logic › 1. Doctrine of Being › III. Measure
+G: Das Werden des Wesens
+Gloss: The process in which the shifting of measures reveals something underlying that persists through them.
+HGloss: The sublation of measure into the indifferent substrate that persists through its alterations: essence in becoming.
+
+N:
+  the becoming of essence; inwardization, internalization; going within, introversion, deepening, profundity, depth; penetration, getting to the bottom, finding the core; disclosure of the substrate; the depth beneath the surface, the essential behind the given; transition to essence &c H0087
+  the genesis of essence, the emergence of essence, the passage of measure into essence, the underlying revealed
+  hypokeimenon
+
+V:
+  go within, deepen, penetrate, probe, get to the bottom, go to the root, dig deeper, look beneath the surface
+  become essence, emerge, reveal the underlying
+
+Adj:
+  underlying, deeper, inner, inward, essential, fundamental, radical
+  intrinsic, inherent
+  emergent, becoming, transitional
+
+Adv:
+  at bottom, fundamentally, in essence, beneath the surface, deep down
+  in becoming, through measures
+
+F:
+  German: Erinnerung [inwardizing, recollection]
+  French: au fond
+
+Phr:
+  still waters run deep
+  scratch the surface
+  under the surface

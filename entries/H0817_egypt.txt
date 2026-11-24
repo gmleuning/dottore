@@ -1,0 +1,20 @@
+# 817 Egypt
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy) › c. The Persian Empire and Its Parts
+G: Ägypten
+Gloss: The land of the Nile, of pyramids, hieroglyphs and the cult of the dead, the riddle of the ancient world.
+HGloss: Ägypten, the land of the riddle, whose spirit labours toward self-knowledge and whose problem is solved only in Greece.
+
+N:
+  Egypt
+  the Egyptian riddle, hieroglyphs, the Sphinx, pyramids, Isis and Osiris
+  the Nile, the pharaohs, the mummy, the cult of the dead, animal worship, Thebes, Memnon
+
+V:
+  embalm, decipher, decode
+
+Adj:
+  Egyptian, hieroglyphic
+
+Phr:
+  the riddle of the Sphinx
+  a riddle for themselves and for others, the solution of which is only to be found in the Greek World [Hegel, Philosophy of History, tr. Sibree]

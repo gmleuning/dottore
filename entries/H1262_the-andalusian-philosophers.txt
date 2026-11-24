@@ -1,0 +1,16 @@
+# 1262 The Andalusian Philosophers
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › c. Medieval Philosophy › i. The Idea of Christianity › 2. Arabic Philosophy
+G: Die andalusischen Philosophen
+Gloss: The philosophers of Muslim Spain, Avempace, Ibn Ṭufayl and Averroes, the great commentator on Aristotle.
+HGloss: The Andalusian philosophers, Averroes above all, the Commentator, through whom Aristotle passed to the Latin scholastics.
+
+N:
+  the Andalusian philosophers
+  Ibn Rushd [Averroes], the Commentator, Averroism, Ibn Bājja [Avempace], Ibn Ṭufayl, the unity of the intellect, the Incoherence of the Incoherence
+  Córdoba, the Great Commentary, Hayy ibn Yaqzan
+
+Adj:
+  Averroist, Andalusian, Moorish
+
+Phr:
+  Averrois, che 'l gran comento feo [It.] [Averroes, who made the great commentary] [Dante]

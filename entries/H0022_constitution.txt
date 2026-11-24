@@ -1,0 +1,21 @@
+# 22 Constitution
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › ii. Determination, Constitution, and Limit
+G: Beschaffenheit
+Gloss: What something happens to be through its circumstances and its dealings with other things.
+HGloss: Beschaffenheit, the determinateness something has through its being-for-other: its outward make-up, open to influence and alteration.
+
+N:
+  constitution
+  make-up, condition, state, circumstance, situation, disposition, external character, accidental nature
+  habitude, diathesis†, fabric &c H0268, stamp, set, fit, mold, mould
+  category, estate, lot, mood, temper, aspect &c H0418, dilemma, pass, predicament
+  phase, position, posture, attitude, place, point, terms, regime, footing, standing, status
+
+V:
+  constitute, condition, dispose, frame, shape
+
+Adj:
+  constituted, conditioned, circumstanced, situated
+
+Adv:
+  by circumstance

@@ -1,9 +1,0 @@
-# 442 Fixations
-# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › ii. Derangement › 2. Madness Proper
-G: Fixe Ideen
-Gloss: Madness fixed on one idea, which comes either from a particular passion or from something contingent.
-HGloss: Madness with an individualized content, where the fixed idea is drawn either from a particular passion (to be God or king) or from something contingent (to be a barleycorn or a dog).
-
-N:
-  fixations; fixed ideas, idées fixes, individualized delusions, delusional content
-  fixed idea, monomania, obsession, fixation

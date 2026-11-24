@@ -1,0 +1,32 @@
+# 856 Action Proper (Universal Powers, Individuals, Character)
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › ii. The Determinacy of the Ideal › 2. Action
+G: Die Handlung eigentlich
+Gloss: The action itself, with the moral powers at stake, the agents and their character.
+HGloss: Action proper: the universal ethical powers, the individuals who act, and their character, pathos.
+
+N:
+  action proper; universal powers, individuals, character; ethical powers, the gods as motives, character, hero, protagonist, antagonist
+  the deed, the acting individuals, the agent, reaction
+  ethos
+
+V:
+  act, characterize, impel, move, embody
+  do, will, carry out, react, resolve
+
+Adj:
+  characterful, pathetic [in the old sense], heroic, motivated
+  active, ethical, individual
+
+Adv:
+  in character
+  in action, in deed, actively
+
+F:
+  German: Charakter
+  Latin: dramatis personae
+  Greek: pathos [the moving power of the soul], ēthos
+
+Phr:
+  character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]
+  a clash of powers
+  true to character

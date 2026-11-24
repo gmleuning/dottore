@@ -1,0 +1,52 @@
+# 214 The Idea of the True
+# Logic › 3. Doctrine of the Concept › III. Idea › β. The Idea of Cognition
+G: Die Idee des Wahren
+Gloss: Knowing directed at truth; theoretical inquiry.
+HGloss: The drive of cognition to make the given world its own by finding itself in it.
+
+N:
+  the idea of the true; truth-seeking, inquiry, theoretical inquiry, research, investigation, science, theory, contemplation, speculation; the pursuit of truth, love of truth
+  request &c H0689, search, quest, pursuit &c H0676
+  system of knowledge, body of knowledge, philosophy, pansophy†, acroama†, aetiology†, etiology, circle of the sciences, pandect†, doctrine, body of doctrine, cyclopedia, encyclopedia, school &c H0667
+  investigation &c H0667, study &c H0667, discussion &c H0670, exposition &c H0662
+  learning, scholarship, erudition, acquired knowledge, inquiry &c H0667
+  thought, intellection, reflection, cogitation
+  illusion, delusion, snare, false impression, false idea, bubble, self-decit, self-deception, mists of error
+  the theoretical idea, theoretical cognition, the search for truth
+  theoria
+
+V:
+  inquire, investigate, research, study, explore, seek the truth, theorize, contemplate
+  think, reflect, consider, speculate, meditate
+  mislead, misguide, lead astray, delude
+  know
+
+Adj:
+  theoretical, inquiring, investigative, scientific, scholarly, academic, truth-seeking, contemplative
+  exact, accurate, definite, precise, well-defined, just, just so, so, strict, severe, close &c H0101, literal, rigid, rigorous, scrupulous &c H0731, religiously exact, punctual, mathematical, faithful, constant, unerring, curious, particular, nice, delicate, fine, clean-cut, clear-cut
+  speculative, conjectural, hypothetical
+  cognitive
+
+Adv:
+  theoretically, in theory, scientifically
+
+F:
+  German: Wissenschaft
+  Greek: theōria, philosophia
+
+Phr:
+  veritas liberabit vos [Lat.] [Bible]
+  amicus Plato, sed magis amica veritas [Lat.]
+  in search of truth
+  to get at the truth
+  the truth is, the fact is
+  rem acu tetigisti [Lat.]
+  en suivant la verite [Fr.]
+  ex facto jus oritur [Lat.]
+  la verita e figlia del empo [It.]
+  locos y ninos dicen la verdad [Sp.], crazy people and children tell the truth
+  nihil est veritatis luce dulcius [Lat.] [Cicero]
+  veritas nunquam perit [Lat.] [Seneca]
+  veritatem dies aperit [Lat.] [Seneca]
+  the truth, the whole truth, and nothing but the truth
+  just the facts, ma'am, just the facts [Dragnet]

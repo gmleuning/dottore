@@ -1,0 +1,26 @@
+# 23 Limit
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › ii. Determination, Constitution, and Limit
+G: Grenze
+Gloss: The point where something stops and something else begins, which both separates and joins them.
+HGloss: Grenze, the non-being of the other in something and of something in the other, through which something is what it is and also is not.
+
+N:
+  limit
+  boundary, border, bound, bourn†, frontier, edge, margin, brink, verge, rim, periphery, confines, pale, march, marches, terminus, term, horizon, ceiling, threshold, line, demarcation, delimitation, circumscription, roomage†
+  bounds, enclave, curbstone†, but, reservation, termination, stint, precinct, backwoods
+
+V:
+  limit, bound, delimit, demarcate, circumscribe, confine, restrict, hem in, fence in, wall in, draw the line, mark off, mark out
+  inclose, surround &c H0228, compass about, hedge in, rail in, fence round, hedge round
+
+Adj:
+  limited, bounded, bordered, circumscribed, confined, restricted, terminal, marginal, peripheral, liminal, borderline, frontier, labiated†, marginated†
+  definite, conterminate†, conterminable†, bordering
+
+Adv:
+  within limits, within bounds, within the pale, at the limit, on the edge, on the verge, on the brink, up to a point, so far and no further
+
+Phr:
+  ne plus ultra [Lat.]
+  hitherto shalt thou come, but no further [Bible]
+  good fences make good neighbours [Frost]

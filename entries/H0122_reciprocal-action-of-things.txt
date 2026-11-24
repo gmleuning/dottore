@@ -1,0 +1,39 @@
+# 122 Reciprocal Action of Things
+# Logic › 2. Doctrine of Essence › II. Appearance › α. Existence › a. The Thing and Its Properties
+G: Wechselwirkung der Dinge
+Gloss: The mutual influence of things on one another through their properties.
+HGloss: Things related through their properties, so that their distinction lies in the properties, and the properties become self-subsistent.
+
+N:
+  reciprocal action of things; interaction, mutual influence, reciprocal action, interplay, interchange, intercourse, commerce, give and take, crosstalk, feedback, causal nexus, network, web, mesh, interdependence &c H0151; contact, impact, communication, influx; indra's net
+  reciprocalness†, reciprocity, mutuality, correlation, interdependence, interrelation, connection, link, association, barter
+  reciprocation, alternation
+  interaction of things, reciprocal influence
+
+V:
+  interact, interplay, act upon one another, affect each other, influence one another, react, reciprocate, interrelate, communicate
+  counterchange†, commute
+  alternate, interchange &c H0151, exchange
+  reciprocate &c H0151, return the compliment
+  act and react
+
+Adj:
+  interactive, interacting, reciprocal, mutual, interdependent, interrelated, correlative, networked
+  commutual†, reciprocative, closely related, international, complemental, complementary
+  interchanged, commutative, interchangeable, intercurrent†, endosmosmic†
+
+Adv:
+  mutually, reciprocally, each upon the other, back and forth
+  vice versa, each other, one another, by turns &c H0151
+  through their properties
+
+F:
+  Latin: nexus, influxus physicus, mutatis mutandis
+  Sanskrit: indrajāla
+  Chinese: ganying [mutual resonance]
+
+Phr:
+  all things are connected
+  the butterfly effect
+  each to each
+  rub off on

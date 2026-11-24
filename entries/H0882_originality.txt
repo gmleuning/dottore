@@ -1,0 +1,29 @@
+# 882 Originality
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 3. Authorship
+G: Originalität
+Gloss: The artist's own creation in which subjectivity and the matter are one.
+HGloss: Originalität, the identity of the subjectivity of the artist and the true objectivity of the presentation, free of both manner and mere convention.
+
+N:
+  originality; true originality, the original work, the new
+  originality, novelty, inventiveness, freshness, signature, voice
+  no imitation, creativeness, invention, creation
+  originality, invention
+
+V:
+  originate, innovate
+  strike out something new
+
+Adj:
+  original, inventive, fresh, creative, incomparable
+  unimitated†, uncopied†, unmatched, unparalleled, inimitable &c H0098, unique, untranslated, exceptional, rare, unexampled
+
+Adv:
+  originally
+
+F:
+  German: Originalität
+
+Phr:
+  one of a kind
+  nothing new under the sun [Bible]

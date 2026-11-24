@@ -1,0 +1,20 @@
+# 585 Brother
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › i. True Spirit: The Ethical Order › 1. The Ethical World › b. The Movement of the Two Laws › iv. Brother and Sister
+G: Der Bruder
+Gloss: The brother, who leaves the family for the life of the community and becomes its citizen.
+HGloss: Der Bruder: the member of the family in whom its spirit becomes individuality turned outward, passing from the divine law to the human law of the community.
+
+N:
+  the brother
+  brotherhood, fraternity
+  Polynices, the citizen-to-be
+
+Adj:
+  fraternal, brotherly
+
+Adv:
+  fraternally
+
+F:
+  Latin: frater
+  Greek: adelphos

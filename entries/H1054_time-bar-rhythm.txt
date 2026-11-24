@@ -1,0 +1,16 @@
+# 1054 Time, Bar, Rhythm
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 2. Particular Characteristics of Music
+G: Zeitmaß, Takt, Rhythmus
+Gloss: The measuring of music in time: beat, measure and rhythm.
+HGloss: The measurement of tone in time: beat, bar, rhythm.
+
+N:
+  intonation, tone
+  rest
+
+F:
+  Greek: rhythmos
+  Italian: a tempo
+  Sanskrit: tāla [rhythmic cycle]
+  Japanese: ma [interval]
+  Korean: jangdan [rhythmic cycle]

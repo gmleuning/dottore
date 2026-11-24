@@ -1,0 +1,37 @@
+# 772 The Universal Estate
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › iii. Division of the General Resources
+G: Der allgemeine Stand
+Gloss: The class that serves the general interest; civil servants.
+HGloss: The estate that has the universal interests of society as its business, the civil service.
+
+N:
+  the universal estate; the civil service, the bureaucracy, officials, functionaries, public servants, the mandarinate, the administrative class; mandarin
+  the universal class, civil servants, the class of the universal, officialdom
+  notary, assessor, appointee, bureaucrat, rapporteur, commissar, vizier, marland†, sheik nizam†
+  vote counter, returning officer, administrative official, civil servant, record-keeper, town clerk, census taker, postmaster general, notary public, political commissar, federal official, internal revenue agent, tax collector, office-bearer, paper-pusher, tax assessor, cursitor†
+  lister
+
+V:
+  administer, serve the state, govern, officiate
+  serve
+
+Adj:
+  bureaucratic, official, administrative, public, civil, mandarin
+  executive, departmental
+  universal, disinterested
+
+Adv:
+  officially, in the public service
+  for the general interest
+
+F:
+  German: Beamter, Beamtenstaat [state of officials]
+  Arabic: dīwān [chancery]
+  Sanskrit: kāyastha [scribe caste]
+  Chinese: shidaifu [scholar-officials]
+  French: haut fonctionnaire
+
+Phr:
+  the universal interests of the community [Hegel]
+  public servant
+  red tape

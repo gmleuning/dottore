@@ -1,0 +1,38 @@
+# 172 Assertoric Judgment
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment › d. Judgment of the Concept
+G: Assertorisches Urteil
+Gloss: A judgment of value stated as a bare claim: "this house is good."
+HGloss: The singular is judged good or true by bare assurance, which stands against the equal assurance of its opposite.
+
+N:
+  assertoric judgment; bare assertion, mere assertion, dogmatic claim, say-so, fiat, decree, pronouncement, verdict without reasons, bald statement, unsupported claim, opinion, gut feeling, intuition, taste
+  asseveration, assurance, protestation, profession
+  persuasion, conviction
+  the simple claim, affirmation
+
+V:
+  assert, declare, pronounce, proclaim, aver, say so, lay down the law, opine
+  make an assertion, have one's say, say, affirm, predicate, state, protest, profess
+  insist upon, assert roundly, assert positively, dogmatize
+  put forth, advance, allege, propound, maintain, contend
+  avow, avouch, asseverate
+  claim
+
+Adj:
+  assertoric, assertive, dogmatic, unsupported, ungrounded, bald, flat, bare, unargued
+  asserting, declaratory, affirmative, positive, emphatic, decided, confident, predicatory†, pronunciative†, unretracted†
+  naked
+
+Adv:
+  dogmatically, flatly, baldly, by fiat, on one's say-so
+  assertorically
+
+F:
+  Latin: ipse dixit
+
+Phr:
+  ipse dixit [Lat.]
+  because I said so
+  de gustibus non est disputandum [Lat.]
+  take my word for it
+  because I say so

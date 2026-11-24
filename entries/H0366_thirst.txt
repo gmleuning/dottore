@@ -1,0 +1,27 @@
+# 366 Thirst
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process › ii. Breathing, Cutaneous Process, and Thirst
+G: Durst
+Gloss: The animal's need for water and the feeling that drives it to drink.
+HGloss: Thirst, the animal's process with water, the felt lack that turns it toward the element.
+
+N:
+  thirst
+  dryness, drought, drinking, immission†, introception†
+  ingestion, imbibation†, absorption, suction
+  aridity
+  dipsesis
+
+V:
+  thirst, drink
+  ingest, absorb, imbibe, breathe in
+
+Adj:
+  thirsty, parched, dry
+  athirst, parched with thirst, drouthy†
+
+Adv:
+  thirstily, eagerly
+
+Phr:
+  as the hart panteth after the water brooks [Bible]
+  dying of thirst

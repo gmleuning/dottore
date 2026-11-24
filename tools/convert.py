@@ -15,10 +15,10 @@ LANG = {
 MULTI = {'Gr., Lat.': ('Greek', 'Latin'), 'It., Sp.': ('Italian', 'Spanish'),
          'Ar., Turk.': ('Arabic', 'Turkish'), 'Turk., from Ar. qisma': ('Turkish', None)}
 OVERRIDE = {
-    'H0404': 'Empfindsamkeit',
-    'H1106': 'Nyāya und Vaiśeṣika (Gotama und Kaṇāda)',
-    'H1138': 'Descartes',
-    'H0526': 'Beobachtung des Selbstbewusstseins in seiner Reinheit und seiner Beziehung auf äußere Wirklichkeit; logische und psychologische Gesetze',
+    'H0425': 'Empfindsamkeit',
+    'H1204': 'Nyāya und Vaiśeṣika (Gotama und Kaṇāda)',
+    'H1270': 'Descartes',
+    'H0555': 'Beobachtung des Selbstbewusstseins in seiner Reinheit und seiner Beziehung auf äußere Wirklichkeit; logische und psychologische Gesetze',
 }
 ORDER = ['German', 'Latin', 'Greek', 'French', 'Italian', 'Spanish', 'Portuguese', 'Occitan',
          'Middle English', 'Old Norse', 'Danish', 'Afrikaans', 'Hebrew', 'Aramaic', 'Arabic', 'Persian',

@@ -1,0 +1,22 @@
+# 1018 Bronze
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 2. Materials for Sculpture › b. Ivory, Gold, Bronze, Marble
+G: Erz
+Gloss: Bronze cast in moulds, the material of statues in motion and of many figures.
+HGloss: Erz, the cast metal the Greeks favoured for its dark warm tone and its fitness for many figures and bold movement.
+
+N:
+  bronze
+  bronze casting, lost-wax casting, bronze-casting, casting, founding, the lost-wax process, patina
+  Myron, the Riace bronzes
+
+V:
+  cast, found, chase, hammer
+
+Adj:
+  bronze, brazen, chased
+
+Adv:
+  in bronze
+
+Phr:
+  aere perennius [Lat.] [more lasting than bronze] [Horace]

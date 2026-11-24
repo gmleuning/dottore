@@ -1,0 +1,28 @@
+# 10 Coming-to-Be
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being › c. Becoming › ii. Moments of Becoming
+G: Entstehen
+Gloss: Nothing passing over into being: the arising of what was not.
+HGloss: Entstehen, the direction of becoming in which nothing goes over into being.
+
+N:
+  coming-to-be
+  origin, origination, arising, rise, birth, nativity, inception, emergence, advent, nascency, generation
+  origin &c H0147, source, bud, germ &c H0147, egg, rudiment, genesis, primogenesis†, cradle, infancy, start, starting point &c H0238, dawn &c H0263, evolution
+
+V:
+  come to be, come into being, come into existence, arise, originate, emerge, spring up, be born, take rise, generate, beget
+  come into the world
+
+Adj:
+  nascent, incipient, emergent, budding, dawning, inchoate, generative, genetic
+
+Adv:
+  in the bud, in embryo, into being
+
+F:
+  German: Entstehen
+  Greek: genesis
+  Sanskrit: utpāda [arising]
+
+Phr:
+  omnium rerum principia parva sunt [Lat.] [Cicero]

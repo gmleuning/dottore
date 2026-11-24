@@ -1,0 +1,30 @@
+# 324 Leaf and Root
+# Nature › 3. Organics › II. Plant Nature › α. The Plant's Process of Formation › a. Formation as Such
+G: Blatt und Wurzel
+Gloss: The leaf, by which the plant turns to light and air, and the root, by which it turns to earth and water.
+HGloss: The plant's dual relation: the leaf to light and air, the root to earth and water.
+
+N:
+  leaf and root; leaf, blade, frond, needle, leaflet, foliage, leafage; root, taproot, rootstock, rhizome, tuber, corm, bulb, rootlet, radicle; the plant's turning to light and to earth
+  branch, bough
+  stem, stock, tap-root
+  petiole
+
+V:
+  leaf, foliate, root, take root, strike root, radicate
+  unfold
+
+Adj:
+  foliar, foliate, leafy, radical, rooted, rhizomatous, tuberous
+
+Adv:
+  root and branch, in leaf
+  at the root
+
+F:
+  Latin: folium, radix
+  Greek: phyllon, rhiza
+
+Phr:
+  root and branch
+  to take root

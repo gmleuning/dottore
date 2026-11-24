@@ -1,0 +1,35 @@
+# 764 The Substantial (Agricultural) Estate
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs › iii. Division of the General Resources
+G: Der substantielle Stand
+Gloss: The class that lives from the land.
+HGloss: The estate that has its resources in the soil, its substantiality and trust in nature.
+
+N:
+  the substantial estate; the agricultural estate, the peasantry, farmers, husbandmen, landowners, the landed gentry, tillers of the soil, the yeomanry
+  park &c H0672, avenue, farm &c H0740, estrade†
+  pantisocracy†, monocracy†
+  the immediate estate, husbandry
+  boulevard, forester
+
+V:
+  farm, till, cultivate, plough, harvest, husband
+
+Adj:
+  landed, agrestic†
+  country
+  provincial
+  tame, domestic
+  countrified, incondite†, unclassical†
+
+F:
+  Latin: agricola, magnifico
+  Greek: geōrgos
+  French: comme il faut, commune paysanne
+  German: Junkertum [the landed Prussian nobility]
+  Spanish: latifundio [great estate], minifundio [smallholding]
+  Russian: mir [the peasant commune; also world, peace]
+
+Phr:
+  the family-based ethical life of the soil
+  salt of the earth
+  to till the soil

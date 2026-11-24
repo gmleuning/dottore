@@ -1,0 +1,34 @@
+# 171 Judgment of the Concept
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment
+G: Urteil des Begriffs
+Gloss: A judgment that measures a thing against what it ought to be: good, bad, true, beautiful.
+HGloss: The judgment of the concept, in which the subject is measured against its concept, its ought.
+
+N:
+  judgment of the concept; value judgment, evaluation, appraisal, assessment, verdict, normative judgment, critical judgment, taste, criticism, critique, rating, grading, review; good, bad, true, false, right, wrong, beautiful, ugly; ideal measure, standard, norm, criterion
+  valuation, appraisement
+  discrimination, distinction, appreciation of difference, estimation &c H0069
+  model, pattern, paradigm
+  the judgment of value, evaluative judgment
+  scaling, leveling
+
+V:
+  evaluate, appraise, assess, rate, grade, rank, judge, criticize, critique, review, approve, disapprove, commend, condemn
+  measure, value
+  estimate, appreciate
+  measure against the ought
+
+Adj:
+  evaluative, normative, critical, axiological, appraisive, judgmental, ideal
+  correct
+  appraising
+
+Adv:
+  by any standard, on the merits, in the final analysis, judged by its own concept
+  evaluatively, normatively
+
+Phr:
+  by their fruits ye shall know them [Bible]
+  weighed in the balances and found wanting [Bible]
+  as it should be
+  up to standard

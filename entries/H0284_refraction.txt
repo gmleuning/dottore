@@ -1,0 +1,37 @@
+# 284 Refraction
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › a. Relation to Light
+G: Brechung
+Gloss: The bending of light as it passes from one transparent medium into another.
+HGloss: Light passing between two media of different density, whose relation is seen in the displacement of the image.
+
+N:
+  refraction; bending of light, deflection, diffraction, dispersion, double refraction, birefringence, refractive index, lens, prism, spectacles, magnifying glass, distortion, apparent bending, deflexion†, deflexure†, megascope†, tienoscope†
+  deviation
+  reflection, refractivity
+  diffraction grating, beam splitter, half-wave plate, quarter-wave plate
+  meniscus
+  flexure, flexion, bending, inflection, curvity†, curvation†, incurvature†, incurvity†, incurvation†, flection†, conflexure†, concameration†, recurvity†, recurvation†
+  dioptrics, catoptrics†
+  glasses, specs
+  refrangibility
+
+V:
+  refract, bend, deflect, diffract, disperse, distort, angle, incurvate†, concamerate†, intervert†
+  inflect
+
+Adj:
+  refractive, refracting, refringent, dioptric, birefringent, prismatic
+  refracted
+  sloping
+
+Adv:
+  obliquely, at an angle, aslant
+  by refraction
+
+F:
+  Latin: refractio
+
+Phr:
+  the bent oar in the water
+  bent out of shape
+  a broken stick in water

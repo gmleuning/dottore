@@ -1,0 +1,52 @@
+# 133 Solicitation of Force
+# Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation › b. Relation of Force and Its Expression
+G: Sollizitation der Kraft
+Gloss: A force set into action by another force.
+HGloss: Force solicited by another force, which is itself solicited, so that each is the condition of the other's expression.
+
+N:
+  solicitation, solicitation of force; incitement, incitation, excitation, stimulation, stimulus; provocation, elicitation, evocation, calling forth, summons; activation, actuation, arousal, awakening, suscitation†, enravishment†
+  impulse, impulsion, impetus; trigger, triggering, release; catalyst, catalysis
+  occasion, occasional cause
+  spark, detonator, fuse, percussion cap, hair trigger; prod, goad, spur, prick, fillip, nudge, jog, ankus†
+  latent force, potential energy; force &c H0131
+  stimulus and response, action and reaction &c H0150; interplay of forces, play of forces; reciprocity &c H0151
+  influence, prompting, instigation, provocation &c H0672
+  incentive
+  momentum, thrust, propulsion &c H0238
+  excitation of feeling
+  urging, activating, rousing
+
+V:
+  solicit, incite, excite, stimulate, provoke, elicit, evoke, call forth, draw out, bring out; trigger, set off, touch off, spark, spark off, kick off; actuate, activate, energize, galvanize; prompt, prod, goad, spur, prick, needle, nudge
+  arouse, rouse, waken, awaken, stir, stir up, quicken; occasion, give rise to; set in motion, set going, start the ball rolling; release, unleash
+  be solicited; respond, react, answer, rise to; spring into action
+  stimulate &c H0672, animate, act upon, work upon, operate upon
+  impel, push, drive
+  induce
+  impel &c H0242, propel &c H0238, urge
+  instigate
+
+Adj:
+  soliciting, solicitant, solicited; incitive†, excitative†, excitant, excitatory, stimulant, stimulative, provocative, evocative, catalytic, triggering
+  latent, dormant, potential, quiescent, slumbering, pent-up; responsive, reactive, excitable, irritable; reciprocal, mutual
+  stimulated
+  provoking, repressed
+
+Adv:
+  at a touch, at the touch of, at a word, on cue; in response, in reply, by way of reaction; reciprocally
+  by solicitation
+
+F:
+  German: Reiz, Anstoß, Auslösung, Spiel der Kräfte &c H0501, Sollizitation
+  Latin: causa occasionalis, potentia, conatus, ab extra
+  Greek: hormē, aphormē [occasion, starting point], dynamis
+  Chinese: gan-ying [stimulus and response, resonance]
+
+Phr:
+  nemo me impune lacessit [Lat.]
+  parva saepe scintilla contempta magnum excitavit incendium [Lat.] [Curtius]
+  behold, how great a matter a little fire kindleth! [Bible]
+  the straw that broke the camel's back
+  a call to action
+  to set in motion

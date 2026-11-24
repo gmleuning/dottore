@@ -1,0 +1,13 @@
+# 1220 Leucippus
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Leukipp
+Gloss: The founder of atomism, who taught that the world is made of indivisible atoms moving in the void.
+HGloss: Leucippus, with whom the One becomes principle as the atom, being-for-self, and the void as the negative.
+
+N:
+  Leucippus
+  the Atomists, atoms and void
+  the founder of atomism, the full and the empty, the indivisibles
+
+Adj:
+  atomist

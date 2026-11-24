@@ -1,0 +1,8 @@
+# 1086 Inflected Languages
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse › 3. Sound of Syllables
+G: Flektierende Sprachen
+Gloss: Languages like Greek and Latin whose endings and long syllables carry the rhythm.
+HGloss: The ancient languages, in which inflectional endings and natural length give the syllables a quantity independent of meaning.
+
+N:
+  inflected languages; inflection, endings, terminations, case endings, quantitative languages, the classical languages, Greek and Latin

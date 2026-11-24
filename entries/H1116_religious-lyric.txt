@@ -1,0 +1,8 @@
+# 1116 Religious Lyric
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper
+G: Religiöse Lyrik
+Gloss: The lyric that lifts the soul to God.
+HGloss: The religious lyric, in which the self raises itself to the divine and loses itself in it.
+
+N:
+  religious lyric; sacred poetry, devotional verse, religious poetry

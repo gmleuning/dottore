@@ -1,0 +1,43 @@
+# 1193 Philosophy
+# Spirit › 3. Absolute Spirit
+G: Philosophie
+Gloss: The mind's knowledge of the highest truth in the form of rigorous thought; the system that comprehends the whole.
+HGloss: Absolute spirit in the form of the concept, the thinking cognition of the content of art and religion; the unity of both.
+
+N:
+  philosophy; wisdom, speculation, metaphysics, ontology, epistemology, logic, ethics, thought thinking itself
+  intellect, understanding, rationality
+  sapience, depth, profundity
+  system of knowledge, body of knowledge, science, pansophy†, theory, doctrine
+  thought, intellection, reflection, cogitation, meditation
+  love of wisdom, the science of the absolute, the science of truth, the thinking consideration of things, conceptual knowledge, comprehending cognition, its own time apprehended in thoughts, the owl of Minerva, grey in grey, the highest knowledge, first philosophy, world-wisdom†, lore, speculative thought, speculative science, the concept, the idea thinking itself, absolute knowing, the system, the system of science, the encyclopaedia, contemplation, ratiocination, natural philosophy, moral philosophy, dialectic, aesthetics
+  philosopher, sage, thinker, metaphysician, lover of wisdom, wise man, savant, philosophe
+  philosophizing
+
+V:
+  philosophize, speculate, reason, reflect, think, contemplate
+  cogitate, consider, meditate, ponder
+  comprehend, conceive, grasp, apprehend in thought, think through, theorize, ratiocinate, excogitate, deliberate, muse, ruminate, inquire, investigate, systematize, conceptualize, wonder, know, metaphysicize
+
+Adj:
+  philosophical, speculative, metaphysical, theoretical, contemplative, sapiential
+  thinking, thoughtful, meditative, reflective
+  philosophic, wise, sapient, sagacious, profound, deep, rational, reasoned, rigorous, systematic, scientific, conceptual, comprehending, dialectical, ratiocinative, cogitative, noetic, intellectual, abstract, erudite, learned
+
+Adv:
+  philosophically, speculatively
+  wisely, sagely, profoundly, rationally, rigorously, systematically, conceptually, theoretically, reflectively, thoughtfully, metaphysically, in thought, in the concept
+
+F:
+  German: Weltweisheit [archaic, worldly wisdom], Wissenschaft, begreifendes Denken, Weltanschauung
+  Latin: sapientia, amor sapientiae, scientia, philosophia prima, sapere aude
+  Greek: philosophia [love of wisdom], sophia, theōria, epistēmē, noēsis
+  Arabic: falsafa [philosophy], ḥikma [wisdom]
+  Sanskrit: darśana [viewpoint, philosophy], ānvīkṣikī [inquiry]
+  Korean: cheolhak [philosophy]
+
+Phr:
+  the owl of Minerva spreads its wings only with the falling of the dusk [Hegel]
+  philosophy is its own time comprehended in thought [Hegel]
+  wonder is the beginning of philosophy [Plato]
+  the love of wisdom

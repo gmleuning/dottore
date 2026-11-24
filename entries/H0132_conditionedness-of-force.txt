@@ -1,0 +1,48 @@
+# 132 Conditionedness of Force
+# Logic › 2. Doctrine of Essence › II. Appearance › γ. Essential Relation › b. Relation of Force and Its Expression
+G: Bedingtheit der Kraft
+Gloss: A force considered as dependent on conditions outside itself.
+HGloss: Force presupposes an existing thing in which it resides and a solicitation from outside to express itself.
+
+N:
+  conditionedness of force; dependence of force, conditioned force, finite force, limited power, need of solicitation, passivity, receptivity, susceptibility, potentiality awaiting release, latency
+  impotence, inability, disability, disablement, impuissance, imbecility, incapacity, incapability, inaptitude, ineptitude, incompetence, unproductivity†, indocility†, invalidity, disqualification, inefficiency, wastefulness, unsubservience†
+  blank, blank cartridge, flash in the pan, dead letter, bit of waste paper, dummy, paper tiger, Quaker gun
+  inefficacy &c H0206 [Obs.], failure &c H0207
+  helplessness, prostration, paralysis, palsy, apoplexy, syncope, sideration†, exhaustion, softening of the brain, inanition, emasculation, orchiotomy [Med.], orchotomy [Med.]
+  cripple, old woman, muff, powder puff, creampuff, pussycat, wimp, mollycoddle, eunuch
+  the presupposed, external condition, the thing as bearer of force
+  handicapped
+
+V:
+  depend, await, need, require, wait upon, lie dormant, lie latent
+  be impotent, not have a leg to stand on
+  collapse, faint, swoon, fall into a swoon, drop, go by the board, go by the wayside, go up in smoke, end in smoke &c H0207
+  render powerless, deprive of power, disable, disenable†, disarm, incapacitate, disqualify, unfit, invalidate, deaden, cramp, tie the hands, double up, prostrate, paralyze, muzzle, becripple†, maim, lame, hamstring, draw the teeth of, throttle, strangle, garrotte, garrote, ratten†, silence, sprain, clip the wings of, spike the guns, take the wind out of one's sails, scotch the snake, put a spoke in one's wheel, break the neck, break the back, unhinge, put out of gear
+  unman, unnerve, enervate, emasculate, castrate, geld, alter, neuter, sterilize, fix
+  shatter, exhaust, weaken &c H0389
+  presuppose, be conditioned
+
+Adj:
+  conditioned, dependent, limited, finite, passive, receptive, latent, dormant, quiescent, inert
+  powerless, impotent, unable, incapable, incompetent, inefficient, ineffective, inept, unfitted, unqualified, disqualified, unendowed, inapt, unapt, crippled, disabled, armless†, strengthless†, unconducting to†
+  harmless, unarmed, weaponless, defenseless, unfortified, indefensible, vincible, pregnable, untenable, aidless†, guardless†
+  paralytic, paralyzed, palsied, imbecile, nerveless, sinewless†, marrowless†, pithless†, lustless†, disjointed, out of joint, out of gear, unnerved, unhinged, water-logged, on one's beam ends, rudderless, laid on one's back, done up, dead beat, exhausted, shattered, demoralized, graveled &c H0026, helpless, unfriended†, fatherless, without a leg to stand on, laid on the shelf, guideless†
+  null and void, nugatory, inoperative, good for nothing, ineffectual &c H0207, inadequate &c H0759, inefficacious &c H0206
+  presupposing
+  incapacitated, halting
+
+Adv:
+  conditionally, dependently, in waiting, in abeyance
+
+F:
+  Latin: telum imbelle, brutum fulmen, vox et proeterea nihil, deliquium, sine ictu
+  French: vouloir rompre l'anguille au genou, vouloir prendre la lune avec les dents, put hors de combat, hors de combat
+
+Phr:
+  it takes two to tango
+  to be called forth
+  under constraint
+  der kranke Mann [Ger.]
+  desirous still but impotent to rise [Shenstone]
+  non sum qualis eram [Lat.]

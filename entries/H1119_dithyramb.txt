@@ -1,0 +1,19 @@
+# 1119 Dithyramb
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › a. Religious Lyric › ii. Dithyramb and Psalm
+G: Die Dithyrambe
+Gloss: The ecstatic choral song of Dionysus, in which the singer is carried out of himself.
+HGloss: Die Dithyrambe: subjective elevation in worship, the poet shaken by the power of the god and borne beyond himself in rapture.
+
+N:
+  dithyramb
+  Bacchic song
+  Dionysian hymn, Bacchic frenzy, ecstatic song
+
+V:
+  rhapsodize
+
+Adj:
+  dithyrambic
+
+Phr:
+  the dithyramb

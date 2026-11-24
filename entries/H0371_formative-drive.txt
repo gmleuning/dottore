@@ -1,0 +1,32 @@
+# 371 Formative Drive (Nisus Formativus)
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation
+G: Bildungstrieb
+Gloss: The animal's instinct to produce forms outside itself, as in building nests, webs and hives.
+HGloss: The animal's instinctive art, its drive to give an outward form to what it needs: nests, lairs, webs, hives.
+
+N:
+  formative drive; instinct, building instinct, nest-building, web-spinning, hive-building, burrowing, dam-building, artifice; bower, nest, web, hive, comb, burrow, lodge, dam, mound; extended phenotype
+  nidus, lair, den, aerie, eyrie, rookery, snuggery†, eyry†, kala jagah†, Augean stable†
+  constructive instinct, the artistic drive
+  nidification
+
+V:
+  build, construct, spin, weave, burrow, nest, hive
+  form, fabricate
+
+Adj:
+  instinctive, instinctual, formative, constructive, architectural, artful
+  plastic
+
+Adv:
+  instinctively, by instinct
+
+F:
+  German: Kunsttrieb [artistic instinct of animals]
+  Latin: nisus formativus [Blumenbach]
+
+Phr:
+  go to the ant, thou sluggard
+  consider her ways, and be wise [Bible]
+  to feather one's nest
+  a bird in its nest

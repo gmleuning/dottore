@@ -1,0 +1,17 @@
+# 1222 Anaxagoras
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Anaxagoras
+Gloss: The philosopher who brought philosophy to Athens and made mind the cause that orders all things.
+HGloss: Anaxagoras, with whom the understanding, Nous, is first recognized as the principle, the self-determining universal.
+
+N:
+  Anaxagoras
+  the seeds, homoeomeries, mind
+  Anaxagoras of Clazomenae, Nous, mind as the principle, the sun a fiery stone
+
+Adj:
+  Anaxagorean
+
+Phr:
+  nous orders all things [Anaxagoras]
+  like a sober man among random talkers [Aristotle, on Anaxagoras]

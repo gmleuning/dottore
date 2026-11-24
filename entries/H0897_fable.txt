@@ -1,0 +1,34 @@
+# 897 Fable
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 1. Comparisons Starting from the External Object
+G: Fabel
+Gloss: A short story that teaches a moral, often using animals.
+HGloss: The fable, a natural event used to illustrate a universal moral truth.
+
+N:
+  fable; beast fable, Aesop's fables, apologue, moral tale, parable; Aesop, La Fontaine, Panchatantra
+  fairy tale, nursery tale
+  animal tale, Phaedrus, Reynard the Fox, the fabulist
+
+V:
+  fable, moralize, tell a tale
+  point a moral, teach, relate
+
+Adj:
+  fabulous [in the old sense], allegorical, moral, didactic, Aesopian
+  Aesopic, apologal
+
+Adv:
+  in fable
+  by fable, with a moral
+
+F:
+  Latin: fabula, fabula docet
+  Greek: mythos, ainos
+  Arabic: Kalīla wa-Dimna
+  Sanskrit: Pañcatantra, Hitopadeśa
+  Pali: Jātaka
+
+Phr:
+  the moral of the story
+  de te fabula narratur [Lat.] [the tale is told of you] [Horace]
+  sour grapes

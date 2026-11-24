@@ -1,0 +1,59 @@
+# 206 The Means
+# Logic › 3. Doctrine of the Concept › II. Objectivity › γ. Teleology
+G: Das Mittel
+Gloss: The thing or action used to carry out a purpose; instrument.
+HGloss: The middle term of the end's syllogism, the object subdued to the end; the cunning of reason works through it.
+
+N:
+  the means; means, instrument, tool, implement, utensil, device, apparatus, gadget, appliance, contrivance, mechanism, agency, agent, medium, vehicle, channel, conduit, organ, expedient, resource, method, way, wherewithal, ways and means
+  machine, engine, lathe, gin, mill, air engine, caloric engine, heat engine, garth†, soke†
+  resources, capital &c H0757, revenue, stock in trade &c H0763, provision &c H0759, a shot in the locker, means and appliances, conveniences, cards to play, expedients &c H0205, two strings to one's bow, sheet anchor &c H0778, killick†
+  employment, exercise, exercitation†, application, adhibition†, disposal, consumption, agency &c H0147, usufruct, usefulness, benefit, recourse, resort, avail
+  instrumentality, aid &c H0788, subservience, subserviency, mediation, intervention, intermedium†, hand
+  alternative, shift &c H0019
+  gear, tackle, tackling, rig, rigging, appliances, plant, materiel, trappings, fittings, accouterments, barde†, equipment, equipmentage†, appointments, furniture, upholstery, chattels, paraphernalia &c H0684, toggery†
+  perforator, piercer, borer, auger, chisel, gimlet, stylet†, drill, wimble†, awl, bradawl, scoop, terrier, corkscrew, dibble, trocar [Med.], trepan, probe, bodkin, needle, stiletto, rimer, lancet, punch, puncheon, spikebit†, gouge, spear &c H0800, puncher, punching machine, punching press, punch pliers, recapper†, tenpenny†, votograph†
+  stopper, stopple, plug, cork, bung, spike, spill, stopcock, tap, rammer†, ram, ramrod, piston, stop-gap, wadding, stuffing, padding, stopping, dossil†, pledget†, tompion†, tourniquet
+  cover &c H0231, valve, vent peg, spigot, slide valve, drugget†, hygiastics†, hygiantics†
+  janitor, doorkeeper, porter, warder, beadle, cerberus, ostiary†
+  cup, bag, bottle, kit, wallet, portfolio, basin, bucket, basket, oven, container, fridge, purse, jar, sack, spoon, envelope, tub, luggage, coffin, axe, drawer, backpack, tray, baggage, razor, stove, boiler, capsule, parcel, freezer, refrigerator, maund†, theca†, elytron†, elytrum†, testaceology†, cinerary urn†, drawee†
+  scissors, aquarium, suitcase, vase, kettle, shovel, crate, bunk, bathtub, pouch, blender, handbag, cassette, bender, magnum, smoother, cooker, mailbox, jug, dishwasher, tote, hoe, crucible, plow, flask, chainsaw, sickle, screwdriver, grapple, whisk, vial, mower, fob, briefcase, skillet, churn, ard, cauldron, cleaver, paintball, dispenser, saucepan, pitchfork, cutlery, chalice, toolbox, manger, tun, caddy, argyle, sander, sledgehammer, inhaler, argyll, teapot, steeper, shears, satchel, pliers, maul, tamper, sawmill, locket, receptacle, toothpick, sarcophagus, pail, scythe, scraper, scalpel, ashtray, sump, creamer, scuttle, cesspool, matchbox, ladle, gridiron, gavel, airbrush, thermos, broiler, spreader, rucksack, sheaf, posnet†, likin†, gabel†, gabelle†, octroi†, exactment†
+  hand tool, cutting implement, household appliance, home appliance, saw set, money box, tea ball, drinking glass, display case, white goods, storage ring, power tool, garden tool, cutting tool, steam press, grab bag, savings bank, cooking pan, rolling pin, pipe bowl, bread-bin, food turner, coin bank, magnetic bottle, powder horn, waste-paper basket, waste basket, cookie sheet, nut tool, nut key, tin can, cargo container, cake tin, tire tool, tire iron, lawn tool, circular file, baking form, spray extraction machine, spray extraction cleaner, sausage maker, cake mold, baking mold, dice cup, dice box, baking tray, shaping tool, fuel pod, time capsule, pipe cutter, paper cutter, cookie cutter, cheese cutter, sewing machine, shaving cutter, watering pot, watering can, curling iron, wire stripper, bhisti†, mussuk†
+  bath, bin, vat, hopper, casket, canteen, jigsaw, faucet, sandbox
+  umbrella, torch [Brit.], flashlight, lighter, matches, tape, glue, stapler, clipboard, pen, pencil, marker, notebook, notepad, binder, folder, box, cardboard box, trash can, garbage can, wheelie bin [Brit.], mop, broom, vacuum cleaner, hoover [Brit. Coll.], washing machine, dryer, iron, toaster, microwave, hob [Brit.], frying pan, wok, plate, bowl, mug, glass, knife, fork, chopsticks, wrench, spanner [Brit.], hammer, nail, screw, saw, ladder, battery, charger, adapter, rollingstone†, periscopic lens†, convexo-concave lens†, besom†
+
+V:
+  use, employ, utilize, exploit, apply, harness, wield, deploy, make use of, avail oneself of, put to use, instrumentalize
+  put in action, put in operation, put in practice, set in motion, set to work
+
+Adj:
+  instrumental, useful, utile, serviceable, functional, practical, handy, expedient, effective, contributory, conducive, mediating, intermediary
+  of use, proficuous†, good for, conducive &c H0403, subsidiary &c H0788
+  ministerial, subservient, mediatorial†, intermediate, intervening, intervenient†, embolismal†
+  adequate, efficient, efficacious, effectual
+  contributing
+
+Adv:
+  by means of, through, via, by way of, with the help of
+  by, per, whereby, thereby, hereby, by the agency of &c H0147, by dint of, by virtue of, in virtue of, through the medium of, along with, on the shoulders of, by the aid of, with the aid of &c H0788, airwind†, abovestairs†
+  with, by what means, by all means, by any means, by some means, wherewith, herewith, therewith
+  instrumentally
+
+F:
+  Latin: modus operandi, instrumentum, per, solertia, sapientia, sagacitas
+  Greek: organon [tool], mētis [cunning intelligence] [Detienne and Vernant]
+  Sanskrit: upāya [skilful means]
+  German: Zuhandenheit [readiness-to-hand] [Heidegger]
+  Arabic: talaṭṭuf [felicitous ability; God's subtle craft]
+  French: habilité salutaire
+
+Phr:
+  the plough is more honourable than the enjoyments it procures [Hegel]
+  give me a place to stand, and I will move the earth [Archimedes]
+  by hook or by crook
+  hae tibi erunt artes [Lat.]
+  actum ne agas [Lat.]
+  chercher une aiguille dans une botte de foin [Fr.]
+  tanto buon che val niente [It.]
+  operae pretium est [Lat.]
+  it will never do

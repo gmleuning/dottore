@@ -1,0 +1,36 @@
+# 493 Concrete Alteration
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › α. Consciousness as Such › a. Sense-Certainty (Sensuous Consciousness) › iii. The Sensed Thing
+G: Konkrete Veränderung
+Gloss: Change as met with in the sensed thing.
+HGloss: Change in the sensed thing, which undoes the certainty of the this.
+
+N:
+  concrete alteration; change, alteration, flux, sensed change, transformation, vicissitude, the now passing
+  mutation, permutation, variation, modification, modulation, inflexion, mood, qualification, innovation, metastasis, deviation, evolution, revolution, diversion, break
+  transfiguration, metamorphosis, transmutation
+  changeableness, mutability, inconstancy, versatility, mobility, instability, unstable equilibrium, vacillation &c H0405, fluctuation, alternation &c H0238
+  lapse
+  sensible change
+  imbalance
+
+V:
+  change, alter, pass, vary, shift
+  wax and wane, modulate, turn, veer, intervert†
+  fluctuate, waver, vacillate
+  become, turn into, evolve into, develop into, pass into
+  modify
+
+Adj:
+  changing, altering, fluid, variable, mutable
+  changeable, changeful, changing &c H0007, checkered, ever changing, protean, proteiform†, versatile
+  altered, changed
+  adapted
+
+Adv:
+  in flux, from moment to moment
+  changeably, by alteration
+
+Phr:
+  now it is no longer now
+  here today, gone tomorrow
+  things change

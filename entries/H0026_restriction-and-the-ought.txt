@@ -1,0 +1,25 @@
+# 26 Restriction and the Ought
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › iii. Finitude as Such
+G: Die Schranke und das Sollen
+Gloss: The limit felt as a barrier to be overcome, and the demand to overcome it. What a thing ought to be stands against what it is.
+HGloss: The limit as a restriction (Schranke) within something, and the ought (Sollen) that is to go beyond it; each implies the other.
+
+N:
+  restriction and the ought; bond
+  coercion &c H0712, cohibition†, repression, suppression, discipline, control
+
+Adj:
+  windbound†
+
+F:
+  German: das Sollen, Streben, Sehnsucht
+  Latin: nisus, de jure
+  Sanskrit: dharma [duty]
+  Chinese: dao [the way one ought to go]
+  Korean: dangwi [the ought]
+  French: devoir
+
+Phr:
+  ad astra per aspera [Lat.]
+  thus far and no further
+  occurrent nubes [Lat.]

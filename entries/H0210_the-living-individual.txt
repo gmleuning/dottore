@@ -1,0 +1,35 @@
+# 210 The Living Individual
+# Logic › 3. Doctrine of the Concept › III. Idea › α. Life
+G: Das lebendige Individuum
+Gloss: A single living creature, whose parts are organs serving the whole.
+HGloss: The organism, a subject which is its own end and means, whose members are only moments of the whole.
+
+N:
+  the living individual; living being, organism, creature, individual, being, body, living body, animate body; members, organs, limbs; organic unity, wholeness, integrity
+  living soul
+  totality, unity &c H0038
+  the living thing, organic individual, members and organs
+
+V:
+  live, breathe, feel, grow, move, sustain oneself
+  be alive
+  organize, articulate
+
+Adj:
+  living, organic, organismic, individual, embodied, bodily, corporeal, animate, whole
+  alive, quick, animated
+  physical, somatic
+  organized
+
+Adv:
+  organically, bodily, in the flesh
+  as a living whole
+
+F:
+  German: Leib [lived body]
+  French: corps vécu
+  Sanskrit: prāṇin [breathing being]
+
+Phr:
+  a severed hand is no longer a hand [Aristotle]
+  a living thing

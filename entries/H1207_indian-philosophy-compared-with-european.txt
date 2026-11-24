@@ -1,0 +1,26 @@
+# 1207 Indian Philosophy Compared with European
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › a. Oriental Philosophy › iii. Indian Philosophy
+G: Indische Philosophie im Vergleich mit der europäischen
+Gloss: The comparison of Indian thought with European thought.
+HGloss: Indian thought compared with European, as substance with the free subject.
+
+N:
+  Indian philosophy compared with European; comparative philosophy, East and West, cross-cultural philosophy
+  comparison, parallel, analogy, juxtaposition, collation, confrontation, likeness and difference, resemblance, affinity, correspondence, counterpart, Orient and Occident, Indian and Greek thought, substantiality and free subjectivity, absorption and individuality, intellectual substantiality, the want of subjectivity, the European standpoint, Colebrooke
+  comparativism
+
+V:
+  compare, contrast
+  liken, collate, juxtapose, set side by side, set against, confront, oppose, differentiate, distinguish, measure against, weigh, correlate, draw a parallel
+
+Adj:
+  comparative, cross-cultural
+  contrastive, analogous, juxtaposed, collative, intercultural, relative, differential, Eastern and Western
+
+Adv:
+  comparatively
+  by comparison, in comparison, by contrast, in contrast, side by side, in parallel, relatively, analogously, cross-culturally
+
+Phr:
+  East is East and West is West [Kipling]
+  substance and subject

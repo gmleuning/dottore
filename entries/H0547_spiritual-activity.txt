@@ -1,0 +1,32 @@
+# 547 Spiritual Activity
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › a. The Certainty and Truth of Reason › i. Reason's Certainty of Being All Reality › 2. Substantial Knowledge (Objective Reason)
+G: Geistige Tätigkeit
+Gloss: The work by which the mind makes its object intelligible and its own.
+HGloss: The activity of spirit which makes the object its own.
+
+N:
+  spiritual activity; mental activity, intellectual work, thinking, mind-work, appropriation, comprehension, making intelligible, energeia of mind
+  the activity of spirit, the work of mind, intellectual labour, the labour of the concept, idealization
+  noesis, mentation
+
+V:
+  think, comprehend, appropriate, make one's own, digest, assimilate
+  reflect, cogitate, consider, contemplate, meditate, ponder
+  penetrate, idealize, work up
+
+Adj:
+  intellectual, mental, spiritual, active, appropriative
+  rational
+  productive
+
+Adv:
+  mentally, intellectually
+  actively, by the work of mind
+
+F:
+  German: Geistestätigkeit
+
+Phr:
+  to make it one's own
+  mental work
+  the work of the mind

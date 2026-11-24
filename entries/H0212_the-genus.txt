@@ -1,0 +1,42 @@
+# 212 The Genus
+# Logic › 3. Doctrine of the Concept › III. Idea › α. Life
+G: Die Gattung
+Gloss: The living kind, which renews itself through the birth and death of individuals.
+HGloss: Life related to another life of its own kind, which reproduces itself, and in whose death the universal comes forth as spirit.
+
+N:
+  the genus; kind, species, race, stock, strain, breed, line, lineage, family, kin, kindred, kith and kin, progeny, offspring, posterity, descendants, generations; reproduction, propagation, procreation, generation, breeding, regeneration, renewal; species-being
+  sort, genus, variety, type
+  renovation, revival, palingenesis†, regeneracy†, regenerateness†
+  issue, seed
+  stirps
+  sept &c H0740, side, clan, tribe, nation
+  pedigree, genealogy, descent
+  consanguinity, blood
+  bringing forth, birth, gestation &c H0206
+  the genus process
+
+V:
+  reproduce, procreate, propagate, beget, breed, generate, regenerate, renew, perpetuate
+  multiply
+  engender
+
+Adj:
+  generic, specific, reproductive, procreative, generative, ancestral, hereditary, genetic, familial
+  life-giving, propagable
+
+Adv:
+  generically, after its kind, from generation to generation, in perpetuity
+  in kind
+
+F:
+  German: Gattungswesen [Feuerbach, Marx]
+  Latin: genus
+  Greek: genos, eidos
+  Sanskrit: jāti [birth, genus]
+  French: aspect, apparence, exemple, forme, idée, modèle
+
+Phr:
+  one generation passeth away, and another generation cometh [Bible]
+  after their kind [Bible]
+  the circle of life

@@ -1,0 +1,27 @@
+# 555 Logical and Psychological Laws
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › a. The Certainty and Truth of Reason › ii. Observing Reason
+G: Logische und psychologische Gesetze
+Gloss: The search for laws of thinking and of the mind, as in formal logic and psychology.
+HGloss: The search for laws of thought and psychological laws, which reason finds empty of real content.
+
+N:
+  logical and psychological laws; observation of self-consciousness in its purity and its relation to external actuality; formal logic, laws of thought, psychology, faculty psychology, associationism, empirical psychology, psychological laws, character types, influence of circumstances, environment and individual
+  logical laws, the faculties, the individual and its circumstances, environment
+  psychologism
+
+V:
+  study the mind, classify faculties, explain behaviour
+  observe, formulate laws, catalogue faculties, correlate
+
+Adj:
+  psychological, logical, introspective, behavioural, environmental
+  formal, empirical
+
+Adv:
+  psychologically, logically
+  by law
+
+Phr:
+  the proper study of mankind is man [Pope]
+  the laws of thought
+  the workings of the mind

@@ -1,0 +1,32 @@
+# 1040 Composition
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › i. Painting › 2. Particular Characteristics of Painting › c. The Painter's Craft
+G: Komposition
+Gloss: The arrangement of the parts of a painting.
+HGloss: The arrangement of the figures in the painting into a unified situation.
+
+N:
+  composition; arrangement, grouping, layout, design, disposition, placement, balance, pyramidal composition
+  plan &c H0205, disposal, collocation, allocation, distribution
+  subordination, method, array, system, economy
+  treatment
+  ordering, configuration, structure, organization, symmetry, proportion, unity, harmony, foreground, middle ground, background
+
+V:
+  compose, arrange, group, dispose, balance
+  place, form, put in order, set in order, collocate, marshal, range
+  order, organize, lay out, distribute, unify, harmonize
+
+Adj:
+  compositional, balanced, arranged
+  ordered, grouped, disposed, well-proportioned, symmetrical, unified, harmonious, structural
+
+Adv:
+  compositionally
+  in order, harmoniously, symmetrically, in balance, as a whole
+
+F:
+  French: ordonnance, montage
+
+Phr:
+  the pyramid of figures
+  balance and grouping

@@ -1,0 +1,27 @@
+# 722 Purpose
+# Spirit › 2. Objective Spirit › II. Morality › α. Purpose and Responsibility
+G: Vorsatz
+Gloss: The aim the will set itself in acting, for which alone it is answerable.
+HGloss: Vorsatz: the deed as the will purposed it, what lay in its knowledge and aim, as distinct from consequences that fall outside it (§118).
+
+N:
+  purpose
+  imputability, the deed as intended
+
+V:
+  intend
+  purpose, design, mean, have to, propose to oneself, harbor a design, have in view, have in contemplation, have in one's eye, have in petto, have an eye to
+  answer for
+
+Adj:
+  intentional, wilful
+  intended, advised, prepense &c H0719 [Obs.], minded
+
+Adv:
+  intentionally, advisedly, designedly, purposely, on purpose, by design, studiously, pointedly, with intent, deliberately &c H0719, with one's eyes open, in cold blood
+
+F:
+  Latin: mens rea [guilty mind], scienter
+
+Phr:
+  actus non facit reum nisi mens sit rea [Lat.] [the act is not guilty unless the mind is guilty]

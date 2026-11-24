@@ -1,0 +1,22 @@
+# 967 Wood Building
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › ii. Classical Architecture › 2. Particular Formations of Classical Architecture › a. Form: Wood and Stone Buildings
+G: Der Holzbau
+Gloss: Building in timber, whose posts and beams are the first shapes of architecture.
+HGloss: Der Holzbau: building in wood, the hut, whose posts and beams supply the original forms that stone architecture keeps.
+
+N:
+  wood building
+  timber construction, beam, timber building, woodwork, carpentry, the hut
+  framework, rafter, girder, lintel, joist, corner stone, transom, travis†, trave†, modillion†
+
+V:
+  frame, mortise
+
+Adj:
+  wooden, timber, timbered, framed, ligneous
+
+Adv:
+  in timber, in wood
+
+Phr:
+  the column remembers the tree

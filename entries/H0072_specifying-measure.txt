@@ -1,0 +1,33 @@
+# 72 Specifying Measure
+# Logic › 1. Doctrine of Being › III. Measure › α. Specific Quantity
+G: Spezifizierendes Maß
+Gloss: Measure that applies its own standard to something else, fixing the amounts that belong to it.
+HGloss: Measure as a standard that determines another quantum by itself.
+
+N:
+  specifying measure; standard, rule, norm, criterion, gauge, yardstick, benchmark, touchstone, canon, model; regulation, calibration, standardization, normalization; specification, spec, tolerance
+  measure
+  regularity, formula, rule &c H0775
+  pattern
+  prototype
+  the measuring that specifies, the application of a standard, the rule and the specified
+
+V:
+  specify, standardize, calibrate, normalize, regulate, gauge, measure against
+  apply a standard, fix
+
+Adj:
+  standard, normative, regulative, regulatory, criterial, canonical
+  specifying, specificatory, determining
+
+Adv:
+  by the book, according to the standard, to spec
+  specifically, by its own standard
+
+F:
+  German: das spezifizierende Maß
+
+Phr:
+  the measure of a man
+  to take the measure of
+  set the standard

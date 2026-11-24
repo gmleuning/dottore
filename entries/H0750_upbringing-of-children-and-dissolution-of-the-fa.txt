@@ -1,0 +1,30 @@
+# 750 Upbringing of Children and Dissolution of the Family
+# Spirit › 2. Objective Spirit › III. Ethical Life › α. Family
+G: Erziehung der Kinder und Auflösung der Familie
+Gloss: The raising of children, and the breaking up of the family.
+HGloss: The upbringing of children and the natural and ethical dissolution of the family.
+
+N:
+  upbringing of children and dissolution of the family; upbringing, rearing, education, child-raising; dissolution, break-up, coming of age, divorce, death, inheritance
+  teaching, instruction, edification, tuition, tutorage, tutelage, direction, guidance, opsimathy†, obtestation†
+  child-rearing, the dissolution of the family, the ethical dissolution, the founding of new families
+
+V:
+  raise, rear, educate, dissolve, leave home
+  teach, instruct, edify, school, tutor, cram, prime, coach, enlighten &c H0662
+  train, discipline, bring up, form, nurture, breed, take in hand
+  part
+
+Adj:
+  parental, educational, dissolving
+  instructive, didactic
+  educative, formative, emancipating
+
+Adv:
+  in due course
+  by upbringing, at majority, into independence
+
+Phr:
+  the family dissolves into families
+  to fly the nest
+  to bring up

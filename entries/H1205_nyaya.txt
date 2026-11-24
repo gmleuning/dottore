@@ -1,0 +1,23 @@
+# 1205 Nyaya (Gotama)
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › a. Oriental Philosophy › iii. Indian Philosophy › 2. Nyaya and Vaisheshika
+G: Nyāya (Gotama)
+Gloss: The Indian school of logic founded by Gotama, which sets out the means of valid knowledge and the five-membered syllogism.
+HGloss: The Nyāya of Gotama, Indian dialectic, which treats the syllogism and the means and objects of knowledge.
+
+N:
+  Nyāya
+  Gotama
+  logic, the Nyāya syllogism, means of knowledge, Nyaya, the Naiyāyikas, Akṣapāda, Gautama, the Nyāya Sūtras, Indian logic, the science of reasoning, the art of debate, dialectics, epistemology
+  the five-membered syllogism, proposition reason example application and conclusion, perception, testimony, the sources of knowledge, the objects of knowledge, the sixteen topics, the mark, the reason, pervasion, fallacy
+
+V:
+  infer, debate, reason, syllogize, prove, demonstrate, dispute, argue, refute, establish, perceive, testify
+
+Adj:
+  logical, Nyāya, Naiyāyika, inferential, syllogistic, epistemological, dialectical, disputative, demonstrative
+
+Adv:
+  by inference, logically, syllogistically, by perception and inference, by the means of knowledge
+
+Phr:
+  where there is smoke there is fire [the Nyāya example]

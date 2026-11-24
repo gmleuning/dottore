@@ -1,0 +1,34 @@
+# 515 Destruction
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › a. Immediate Self-Consciousness (Desire) › ii. Desire and Destruction
+G: Vernichtung
+Gloss: Desire's annihilation of its object, which proves the object nothing but must begin again.
+HGloss: Vernichtung, desire's negation of the independent object, through which it is certain of itself, yet which reproduces both the object and the desire.
+
+N:
+  destruction
+  consumption, devouring, annihilation, negation of the object, using up, eating, ravening
+  dissolution
+  extinction
+  destroyer &c H0124, cankerworm &c H0389, assassin &c H0713, executioner &c H0717, biblioclast†, eidoloclast†, iconoclast, idoloclast†, nihilist
+  devourment
+
+V:
+  consume, devour, annihilate, negate, destroy, use up, eat up, swallow
+  desolate, devastate, lay waste, exterminate, extinguish
+  do away with, make away with, demolish, exenterate†
+  swallow up, absorb, expend, tax, task, wear, put to task
+  render null, nullify, abrogate &c H0797, destroy &c H0124, take away, remove &c H0238, obliterate, extirpate
+  eat, gulp, bolt
+  eradicate, averruncate†, unroot†
+
+Adj:
+  consuming, devouring, destructive, voracious, ravenous, insatiable
+  subversive, ruinous, devastating, deletory†
+  obliterated, printless†
+
+Adv:
+  voraciously, ravenously, destructively
+
+Phr:
+  I came, I saw, I consumed
+  to devour

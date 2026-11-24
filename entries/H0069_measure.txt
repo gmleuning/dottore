@@ -1,0 +1,47 @@
+# 69 Measure
+# Logic › 1. Doctrine of Being
+G: Maß
+Gloss: An amount that is essential to what a thing is, so that beyond certain limits a change in amount becomes a change in kind; proportion, due size, standard.
+HGloss: The unity of quality and quantity: the qualitative quantum, beyond whose limits a change of amount becomes a change of kind.
+
+N:
+  measure; proportion, due proportion, right proportion, symmetry, harmony, balance, moderation, temperance, restraint, mean, the mean, golden mean, middle way; standard, norm, criterion, canon, rule, yardstick, benchmark, gauge, scale, measure of all things; due size, fitness, appropriateness, decorum, propriety, ratio; the specific quantity of a thing; balance of quality and quantity; mean between excess and defect
+  yard measure, foot rule, compass, calipers, gage, meter, line, rod, check, dividers, velo†
+  average, median, mode, medium, mediocrity, generality, compromise &c H0689, middle state, neutrality
+  middle course, midcourse, mean &c H0054, middle &c H0228
+  dueness &c H0683, seemliness
+  due measure
+  easing
+  mesotes, modicum
+  armillary sphere†
+
+V:
+  measure, mete, gauge, proportion, temper, moderate, balance, keep within bounds, observe due measure, keep in proportion
+  determine, assay, evaluate, value, assess, rate, appraise, estimate, form an estimate, set a value on, appreciate, standardize
+
+Adj:
+  measured, proportionate, proportioned, balanced, harmonious, symmetrical, moderate, temperate, restrained, sober, sane, even, fitting, appropriate, due, apt, seemly, commensurate
+  reasonable, tempered
+  within compass
+
+Adv:
+  in due measure, in moderation, within measure, within reason, in proportion; neither too much nor too little
+  in measure
+
+F:
+  Latin: mensura, modus, aurea mediocritas
+  Greek: metron, sōphrosynē, mesotēs [the mean], kairos [right time], ariston metron, mēden agan
+  French: juste milieu
+  Italian: mezzo termine
+  Arabic: wasaṭ [middle, moderation]
+  Sanskrit: madhyamā pratipad
+  Chinese: zhongyong [doctrine of the mean]
+
+Phr:
+  mēden agan [Gr.] [nothing in excess]
+  pan metron ariston [Gr.] [measure is best]
+  est modus in rebus [Lat.] [Horace]
+  in medio stat virtus [Lat.]
+  man is the measure of all things [Protagoras]
+  in good measure
+  medium tenuere beati [Lat.]

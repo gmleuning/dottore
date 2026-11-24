@@ -1,0 +1,12 @@
+# 1215 Xenophanes
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Xenophanes
+Gloss: The poet-philosopher of Colophon who mocked the gods of Homer and taught one unmoved god.
+HGloss: Xenophanes, the beginner of the Eleatic school, who denies coming-to-be and makes the One the principle, against the gods made in man's image.
+
+N:
+  Xenophanes
+  Xenophanes of Colophon, the critique of anthropomorphism, the one god, the rhapsode
+
+Phr:
+  if oxen and horses had hands, they would draw the gods like oxen and horses [Xenophanes]

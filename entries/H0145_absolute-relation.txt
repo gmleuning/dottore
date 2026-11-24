@@ -1,0 +1,33 @@
+# 145 Absolute Relation
+# Logic › 2. Doctrine of Essence › III. Actuality
+G: Absolutes Verhältnis
+Gloss: Actuality as the necessary relation of things to one another.
+HGloss: Necessity as relation: substance, causality, and reciprocity, in which actuality returns into itself as concept.
+
+N:
+  absolute relation; necessary relation, necessary connection, necessary nexus; relation of substance, cause, and reciprocity; ontological dependence; relationality as such
+  relation, bearing, reference, connection, correlation &c H0151
+  the absolute relationship, substance causality and reciprocity, the relation of necessity
+
+V:
+  necessitate, connect necessarily, bind, determine
+  bring into relation with, connect, link &c H0269
+  relate necessarily
+
+Adj:
+  necessary, absolute, binding, constitutive, essential
+  requisite, indispensable
+  real, actual
+  relational
+
+Adv:
+  necessarily, absolutely, essentially
+
+F:
+  German: das absolute Verhältnis
+  Latin: nexus necessarius
+
+Phr:
+  no effect without a cause
+  the nature of the case
+  all bound up together

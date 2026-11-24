@@ -1,0 +1,28 @@
+# 365 Cutaneous Process
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process › ii. Breathing, Cutaneous Process, and Thirst
+G: Hautprozeß
+Gloss: The skin's exchange with air and water: sweating, absorbing and shedding.
+HGloss: The cutaneous process, the skin's absorbing and exhaling, the organism's general relation to its non-organic nature at its surface.
+
+N:
+  cutaneous process
+  perspiration, sweat, transpiration, skin, hide, integument
+  tegument, pellicle, cuticle, epidermis, shagreen†, peltry†, cordwain†, derm†
+  the skin process
+  birthday suit, pore, zit [Slang], pimple, spot, blackhead, whitehead, acne, freckle, mole, wart, wrinkle, crease, goosebumps, goose pimples, BO, body odour, pit stains, armpit, pits [Slang], blobber lip†, blain†, wem†
+  hair, mop, mane, locks, tresses, barnet [Cockney], thatch, beard, stubble, five o'clock shadow, body hair, pubes, fuzz, bald patch, baldness, educt†
+  excretion, emanation, exudation, secretion
+
+V:
+  sweat, perspire
+  excern†, excrete, secrete, secern†
+  exude, transude, ooze
+
+Adj:
+  cutaneous, dermal, perspiring
+  cuticular, tegumentary†, loricated†, cucullate†, dermatoid†, encuirassed†, squamiferous†, tectiform†, vaginate†
+  sweaty, clammy, whiffy [Brit.], spotty, zitty, pimply, freckly, hairy, hirsute, bald, gasping [Brit. Coll.], dry as a bone, adust†, arescent†, juiceless†
+  fuzzy
+
+Adv:
+  through the skin

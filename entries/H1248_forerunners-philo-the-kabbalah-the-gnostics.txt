@@ -1,0 +1,19 @@
+# 1248 Forerunners: Philo, the Kabbalah, the Gnostics
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › iii. Neoplatonism
+G: Philo, die Kabbala und die Gnostiker
+Gloss: The Alexandrian thinkers who joined Jewish and Christian faith to Greek philosophy before Plotinus: Philo, the Kabbalah and the Gnostics.
+HGloss: Philo, the Kabbalah and the Gnostics, in whom the oriental and the Greek meet: God as the abyss and the Logos as his first-born, the beginning of the Alexandrian concrete idea.
+
+N:
+  Philo, the Kabbalah and the Gnostics
+  Philo of Alexandria, Philo Judaeus, the Logos, allegorical interpretation, the Sefirot, En Sof, Valentinus, Basilides, the pleroma, the aeons, the demiurge, gnosis
+
+V:
+  allegorize
+
+Adj:
+  Philonic, Gnostic, Kabbalistic, Valentinian
+
+F:
+  Hebrew: Kabbalah, Ein Sof, Sefirot
+  Greek: gnōsis, plērōma, aiōn, dēmiourgos

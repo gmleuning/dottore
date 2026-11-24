@@ -1,0 +1,36 @@
+# 152 Doctrine of the Concept
+# Logic
+G: Lehre vom Begriff
+Gloss: The study of thought as free and self-organizing: concepts that develop themselves from within, as a seed unfolds into a plant.
+HGloss: The concept: the free, the self-subsistent power that is its own self-determination; the truth of being and essence.
+
+N:
+  doctrine of the concept, subjective logic; concept, notion, idea, comprehension, grasp; freedom, self-determination, self-development, self-organization, autonomy, spontaneity; development, unfolding, evolution, growth, maturation; seed, germ, kernel, embryo, acorn, bud; organic whole, living whole; the speculative, speculation
+  conception, thought
+  root, nucleus
+  unfoldment
+  germ &c H0147, rudiment, genesis
+  ripening, gestation
+  will, volition, free will, freedom &c H0681
+  the logic of the concept, the realm of freedom
+
+V:
+  conceive, comprehend, grasp, apprehend, understand, conceptualize; develop, unfold, evolve, grow, mature, self-determine, self-organize
+
+Adj:
+  conceptual, notional, speculative, comprehensive, self-determining, self-developing, free, autonomous, spontaneous, organic, developmental
+
+Adv:
+  conceptually, notionally, in concept, in principle; freely, of itself
+
+F:
+  German: Begriffslogik, Begriff, Begreifen [grasping], Entwicklung
+  Latin: conceptus
+  Sanskrit: vikalpa
+
+Phr:
+  the acorn contains the oak
+  the truth is the whole [Hegel]
+  the concept is the free [Hegel]
+  to have a grasp of
+  to get the idea

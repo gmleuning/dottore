@@ -1,0 +1,29 @@
+# 68 Ratio of Powers
+# Logic › 1. Doctrine of Being › II. Magnitude › γ. Quantitative Ratio
+G: Potenzenverhältnis
+Gloss: A relation in which an amount is related to itself, as in a square or cube.
+HGloss: Ratio in which a quantum relates to itself as its own exponent, the power; quantity returned into quality.
+
+N:
+  ratio of powers; power, exponent, index, square, cube, involution, exponentiation, exponential, logarithm, root, evolution†; self-multiplication, self-relation of number, compounding, compound interest, geometric progression, geometric growth, exponential growth, snowball effect, chain reaction, cascade; nonlinearity, scaling law, power law
+  antilogarithm, modulus, base
+  extraction of roots
+  the power-ratio, the relation of powers
+
+V:
+  square, cube, raise to a power, exponentiate, compound, snowball, mushroom, balloon, escalate
+  involve
+
+Adj:
+  exponential, geometric, logarithmic, nonlinear, quadratic, cubic, compound, compounding, logometric†, totitive†, quaternal†, tetract†, tetractic†, tetractinal†
+  potential, squared, cubed
+
+Adv:
+  exponentially, geometrically, by leaps and bounds
+  to a power
+
+Phr:
+  the rich get richer
+  doubling every year
+  squared and cubed
+  to the nth degree

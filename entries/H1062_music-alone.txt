@@ -1,0 +1,33 @@
+# 1062 Music Alone
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 3. Relation Between Expression and Content
+G: Selbständige Musik
+Gloss: Music without words.
+HGloss: Music freed from a text, which lives in its own harmonic and melodic development, the province of the connoisseur.
+
+N:
+  music alone; absolute music, instrumental music, symphony, sonata, quartet, fugue, concerto, pure music, quartett†
+  music, concert, strain, tune, air, melody &c H1053, opus, rondo, overture
+  independent music, self-sufficient music, music for its own sake, chamber music, orchestral music, the trio, the prelude, the étude, the suite, the play of tones
+  blues, carol, disco, hymn, chant
+  boogie, reggae, choral, jive, dubstep, scat, trad, bebop, rock'n'roll, rockabilly
+  popular music, musical style, popular music genre, musical genre, music genre, black music, church music, serious music, rock music, dance music, pop music, religious music, rock 'n' roll, electronic music, ethnic music, classical music, folk music, rap music, marching music, disco music, ballroom music, country music, military music, military march, art rock, beat music, religious song, square-dance music, heavy metal music, heavy metal, industrial music, acid rock, swing music, progressive rock, sweet jazz, new jazz, modern jazz, jazz-rock, hot jazz, cool jazz, folk song, folk metal, punk rock, gospel singing, martial music, jazz fusion, neo jazz, surf music, folk ballad, psychedelic rock, scat singing, dead march, wedding march, musical drama, funeral march, rock opera, grand opera, comic opera
+  four, bop, quaternity†
+  jazz, rock, pop, hip-hop, rap, techno, folk, soul, funk, punk, metal
+
+V:
+  compose, play
+  sound, orchestrate, improvise, develop a theme
+
+Adj:
+  instrumental, absolute, symphonic, abstract
+  independent, self-sufficient, wordless, textless, pure, orchestral, autonomous
+
+Adv:
+  without words
+  instrumentally, purely, independently, for its own sake
+
+F:
+  French: piece of music, rondeau
+
+Phr:
+  songs without words, Lieder ohne Worte [Ger.] [Mendelssohn]

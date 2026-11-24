@@ -1,0 +1,26 @@
+# 1003 Attributes
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › ii. The Ideal of Sculpture › 3. Individuality of the Ideal Sculptured Figure › a. Attributes, Weapons, Adornments
+G: Die Attribute
+Gloss: The emblems by which each god is known: Zeus's eagle, Athena's owl, Hermes' staff.
+HGloss: Die Attribute: the signs, eagle, owl, trident or thyrsus, by which the individual gods are told apart, marks whose meaning is often only conventional.
+
+N:
+  attributes
+  attribute, emblem, symbol, insignia, thunderbolt, trident, caduceus, aegis, lyre, owl, eagle
+  badge, token, insigne, trapping, the thyrsus, brocatelle†
+
+V:
+  identify
+  betoken, mark
+
+Adj:
+  emblematic, symbolic, attributive, identifying
+  representative, typical
+
+Adv:
+  by emblem, emblematically, by attribute
+
+Phr:
+  Zeus with his thunderbolt
+  the thunderbolt of Zeus
+  known by their tokens

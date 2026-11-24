@@ -1,0 +1,41 @@
+# 198 Law
+# Logic › 3. Doctrine of the Concept › II. Objectivity › α. Mechanism › c. Absolute Mechanism
+G: Gesetz
+Gloss: The principle that holds a mechanical system in order.
+HGloss: The objective universal become the immanent principle of the system: law, the soul of the object.
+
+N:
+  law; law of the system, governing principle, organizing principle, regulative principle, rule, order, regulation, norm, constitution, code; immanent law, internal order; regularity &c H0126
+  principle, order of things, normal state, natural state
+  canon, formula
+  statute, canon &c H0775, ordinance
+  ordering principle, free necessity
+  lawfulness
+  thirdness [Peirce]
+
+V:
+  govern, order, rule, regulate, organize, determine, direct
+  methodize, systematize, coordinate, settle, fix
+  guide
+
+Adj:
+  lawful, regular, orderly, governing, regulative, constitutive, normative, immanent
+  conformable to rule, regular &c H0232, well regulated
+  uniform
+  methodical, systematic
+  lawlike, ordering
+
+Adv:
+  by law, lawfully, in order, according to rule
+  methodically, systematically, by clockwork
+
+F:
+  Greek: nomos
+  Arabic: sunna
+  Sanskrit: dharma, ṛta
+  Chinese: li, fa
+
+Phr:
+  order is heaven's first law [Pope]
+  the law of the land
+  laid down in law

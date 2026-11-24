@@ -1,0 +1,26 @@
+# 592 Guilt
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › i. True Spirit: The Ethical Order › 2. Ethical Action
+G: Die Schuld
+Gloss: The guilt of the deed, which acts on one law and so violates the other.
+HGloss: Die Schuld: the deed is itself guilt, for in acting on one side of the ethical substance it injures the other; only non-action is innocent.
+
+N:
+  guilt
+  tragic guilt, culpability, responsibility, the deed, the crime
+  guiltiness, criminality, sinfulness &c H0732
+  the ethical deed, transgression
+
+V:
+  act, transgress, offend, incur guilt
+  sin, err, fall, lapse
+
+Adj:
+  guilty, culpable, one-sided
+  at fault, reprehensible, blameworthy
+
+Adv:
+  guiltily, by the deed
+
+Phr:
+  weil wir leiden, anerkennen wir, daß wir gefehlt [Ger.] [Hegel, Phenomenology ¶470, rendering Antigone 926]
+  unschuldig ist daher nur das Nichttun [Ger.] [Hegel, Phenomenology]

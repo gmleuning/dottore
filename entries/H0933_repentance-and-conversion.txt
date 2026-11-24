@@ -1,0 +1,26 @@
+# 933 Repentance and Conversion
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › i. The Religious Domain of Romantic Art › 3. The Spirit of the Community
+G: Die Buße und Bekehrung
+Gloss: The inward turning of the soul from sin to God, without outward torment.
+HGloss: Die Buße und Bekehrung: the inward conversion of the heart, which achieves in the spirit what martyrdom sought through the body.
+
+N:
+  repentance and conversion
+  repentance, penance, contrition, conversion, Damascus road
+  penitence, compunction, remorse, regret &c H0672
+  Magdalen, prodigal son
+  acknowledgment, confession &c H0662, apology &c H0714, recantation &c H0679, resipiscence†
+  sackcloth and ashes, shrift, purgation
+  recantation, palinode, renunciation, abjuration†, palinody†, revokement†
+  proselyte
+
+V:
+  repent, convert
+  be sorry for, be penitent, rue, recant &c H0679, cry peccavi
+
+Adj:
+  penitent, converted, penitential
+  repenting, repentant, contrite, conscience-stricken, self-accusing, self-convicted
+
+Adv:
+  penitently, in penance

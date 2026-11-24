@@ -1,0 +1,25 @@
+# 928 The Religious Domain of Romantic Art
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art
+G: Der religiöse Kreis der romantischen Kunst
+Gloss: The sphere of religion in romantic art.
+HGloss: The religious domain of romantic art: the infinite subject reconciled with God.
+
+N:
+  the religious domain of romantic art; Christian art, sacred art, religious painting, devotional art, iconography, altarpiece, Madonna, Pietà, Passion, the Nativity
+  the religious sphere, the religious circle, the sacred subjects, the divine history, religious inwardness, the heart reconciled with God
+
+V:
+  depict, venerate, illuminate
+  sanctify, hallow, devote, reconcile
+
+Adj:
+  sacred, devotional, religious, iconographic
+  Christian, holy, spiritual
+
+Adv:
+  devotionally
+  religiously, in the sphere of religion
+
+Phr:
+  ad maiorem Dei gloriam [Lat.]
+  the life of the spirit

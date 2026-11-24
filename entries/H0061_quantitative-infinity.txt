@@ -1,0 +1,34 @@
+# 61 Quantitative Infinity
+# Logic › 1. Doctrine of Being › II. Magnitude › β. Quantum
+G: Quantitative Unendlichkeit
+Gloss: The endlessness built into quantity: any amount can always be exceeded.
+HGloss: The quantum's self-contradiction: being a definite amount, it is always to be surpassed; the infinite progress.
+
+N:
+  quantitative infinity; the infinitely great and the infinitely small, the infinitesimal, infinitesimals, infinitely small quantities, evanescent quantities, ghosts of departed quantities; the infinite in mathematics, mathematical infinite, transfinite, aleph, ∞, lemniscate; limit, limiting value, asymptote; calculus, infinitesimal calculus, differential calculus, integral calculus, method of exhaustion, fluxions; indefiniteness, unboundedness, endlessness
+  calculus of differences
+  computation, calculation
+  the quantitative infinite, boundlessness of amount, the infinitely great, the infinitely small
+
+V:
+  approach a limit, tend toward, converge, diverge; increase without bound, grow indefinitely, shrink indefinitely; differentiate, integrate
+  exceed, surpass, outgo
+  outperform
+
+Adj:
+  infinite, infinitesimal, transfinite, asymptotic, unbounded, indefinite, immeasurable, incalculable, limitless; convergent, divergent
+  immense, numberless, countless, sumless†, measureless, illimitable, inexhaustible, interminable, unfathomable, unapproachable, exhaustless, without number, without measure, without limit, without end, incomprehensible, endless, boundless, termless†, untold, unnumbered, unmeasured, unlimited, illimited†, perpetual, unexhausted†, unwasted†
+  converging, asymptotical
+  numerical, incommensurable, innumerable
+  exceedable
+
+Adv:
+  infinitely, indefinitely, without bound, in the limit
+
+F:
+  Latin: ad infinitum
+
+Phr:
+  the ghosts of departed quantities [Berkeley]
+  to infinity and beyond
+  on and on

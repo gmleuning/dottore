@@ -1,0 +1,35 @@
+# 640 Spirit in Its Community (Death of the Mediator, Resurrection in the Community)
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › c. Religion as Spirit's Self-Consciousness › iii. Manifest Religion
+G: Der Geist in seiner Gemeinde
+Gloss: God as present in the community of believers, through the mediator's death and spiritual return.
+HGloss: The death of the mediator and the resurrection of the spirit in the community, where God is present as spirit.
+
+N:
+  spirit in its community; the death of the mediator, the resurrection in the community, the Church, the congregation, the communion of saints, the Holy Spirit, Pentecost, the speculative Good Friday, the death of God
+  the spiritual community, the kingdom of the Spirit, the spiritual resurrection, the indwelling Spirit
+  koinonia
+
+V:
+  die, rise, gather, commune, dwell in
+  indwell, rise spiritually, universalize
+
+Adj:
+  communal, ecclesial, risen, pentecostal, spiritual
+  pneumatic, indwelling
+
+Adv:
+  in communion, in the spirit
+  in the community, spiritually
+
+F:
+  German: der spekulative Karfreitag
+  Latin: ecclesia
+  Greek: koinōnia
+  Arabic: umma [community of believers]
+  Sanskrit: saṅgha [community]
+
+Phr:
+  where two or three are gathered together in my name, there am I [Bible]
+  God himself is dead [Johann Rist's hymn, cited by Hegel]
+  death, where is thy sting?
+  risen indeed

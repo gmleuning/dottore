@@ -1,0 +1,21 @@
+# 943 Imitation of Nature
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › iii. The Formal Independence of Individual Characteristics › 3. The Dissolution of Romantic Art
+G: Die subjektive Kunstnachahmung des Vorhandenen
+Gloss: Art that copies the ordinary world as it is, in genre scenes and still lifes.
+HGloss: Die subjektive Kunstnachahmung des Vorhandenen: faithful portrayal of everyday reality, as in Dutch painting, whose interest lies in the artist's skill and the life of the passing moment.
+
+N:
+  imitation of nature
+  realism, naturalism, genre painting, Dutch painting, still life, imitation of the given, prosaic naturalness, the novel
+  facsimile, counterpart, likeness
+  mimicry, simulation, impersonation, representation &c H0834, semblance
+
+V:
+  imitate, copy
+  mirror, reflect, reproduce
+
+Adj:
+  realistic, naturalistic, imitative, prosaic
+
+Adv:
+  realistically

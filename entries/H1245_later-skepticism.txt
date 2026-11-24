@@ -1,0 +1,19 @@
+# 1245 Later Skepticism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 2. Skepticism
+G: Der spätere Skeptizismus
+Gloss: The skepticism of Aenesidemus, Agrippa and Sextus Empiricus, with its modes for setting argument against argument.
+HGloss: Der spätere Skeptizismus: the ten tropes of Aenesidemus and the five of Agrippa, collected by Sextus, which turn dialectic against every determinate claim.
+
+N:
+  later skepticism
+  Sextus Empiricus, the modes, tropes, Aenesidemus, Agrippa, the ten modes, the five modes, Outlines of Pyrrhonism, equipollence, the equal weight of opposed arguments, antinomy, the regress, the problem of the criterion
+  Against the Mathematicians, medical empiricism
+
+V:
+  oppose argument to argument, counterbalance, equipoise
+
+Adj:
+  equipollent
+
+Phr:
+  equipollence of arguments

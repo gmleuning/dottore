@@ -1,0 +1,36 @@
+# 1058 Musical Harmony
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 2. Particular Characteristics of Music
+G: Harmonie
+Gloss: The sounding together of tones according to fixed relations.
+HGloss: Harmony, the tones in their essential relation according to law.
+
+N:
+  musical harmony; chord, consonance, dissonance, tonality, key, mode, scale, interval, triad, counterpoint, polyphony, resolution
+  concord, emmeleia†, unison, unisonance†, homophony, euphony, euphonism†, consent, part
+  discord, discordance, cacophony, want of harmony, harshness &c H0274
+  gamut, diapason, diatonic chromatic scale†, enharmonic scale†, clef, chords
+  note, musical note, notes of a scale, sharp, flat, natural, high note &c H0274, low note &c H0274, semitone, second, third, fourth, diatessaron†
+  harmony, harmonics, thorough-bass, fundamental-bass, faburden†
+  modulation, temperament, syncope, syncopation, preparation, suspension
+  cadence, the common chord, concent†, chord progression, voice-leading, the tonic, the dominant
+
+V:
+  harmonize, resolve, modulate, chord
+  be harmonious, chime, symphonize†, transpose, put in tune, tune, accord, string
+  attune, concert, blend, sound together, consort
+
+Adj:
+  harmonic, consonant, dissonant, tonal, modal, contrapuntal, polyphonic
+  discordant, absonant†, out of tune, tuneless, unmusical, untunable†, unmelodious, immelodious†, unharmonious†, inharmonious, singsong, cacophonous, harsh &c H0274, jarring, absonous†
+  harmonious, harmonical†, in concord, in tune, in concert, unisonant†, concentual†, symphonizing†, isotonic, homophonous†, assonant, ariose†
+  chordal, concordant, euphonious, attuned, triadic, diatonic
+
+Adv:
+  harmonically, in harmony
+  harmoniously, as one
+  in accord, concordantly, in unison
+
+Phr:
+  the music of the spheres
+  the harmony of the spheres
+  consonance and dissonance

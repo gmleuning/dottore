@@ -1,0 +1,43 @@
+# 107 Form and Matter
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › a. Absolute Ground
+G: Form und Materie
+Gloss: The relation between raw material, which can take any shape, and the form that gives it one.
+HGloss: Matter as the formless substrate presupposed by form, and form as what determines it.
+
+N:
+  form and matter, hylomorphism; matter, stuff, material, raw material, substrate, substratum, prime matter, plasm, clay, wax, timber, ore; formlessness, the formless, the amorphous, potentiality, receptacle; form, shape; formation, in-formation, informing
+  stock, staple
+  figure, conformation, configuration, make, construction, cut, set, build, trim, cut of one's jib, type, contour &c H0230, structure &c H0268, plasmature†
+  body, brute matter, principle, parenchyma [Biol.], hyle†, corpus, pabulum, compages†
+  substance, matter &c H0239, element
+
+V:
+  form, shape, mould, cast, fashion, model, sculpt, carve, hew, forge, inform, impress, stamp, imprint; materialize, embody
+  lick into shape, put into shape, knead
+  construct, frame
+  sculpture, mold
+
+Adj:
+  formal, material, hylomorphic, hylic, formless, shapeless, amorphous, plastic, malleable, ductile, formable, mouldable, raw, crude, unformed, unshaped, potential, receptive; formed, shaped, informed
+  rough cast, rough hewn
+  pliant, pliable, flexible
+  fictile†, formative, fluid
+  peeled
+
+Adv:
+  materially, formally, in the raw, in the rough
+
+F:
+  German: Materie
+  Latin: forma et materia, materia, materia prima
+  Greek: hylē kai morphē, hylē, dynamis, chōra [Plato's receptacle], eidos, morphē
+  Arabic: hayūlā [primal matter, from hylē], ṣūra [form]
+  Sanskrit: prakṛti [matter, nature]
+  Chinese: qi [vital stuff] and li [pattern, principle]
+
+Phr:
+  the potter and the clay
+  tabula rasa [Lat.]
+  li and qi [Chin.] [Zhu Xi]
+  matter in motion
+  the stuff of

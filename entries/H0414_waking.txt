@@ -1,0 +1,28 @@
+# 414 Waking
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › b. Natural Changes › iii. Waking and Sleeping
+G: Wachen
+Gloss: The waking state, in which the soul is for itself and distinguishes itself from the world.
+HGloss: Waking, the soul's being-for-self against its sleep: it divides itself from its natural immediacy and finds the world as an objective whole.
+
+N:
+  waking
+  wakefulness, vigilance, alertness, consciousness, awareness, the waking state, insomnia, sleeplessness
+  vigilance &c H0649, restlessness, pervigilium†, insomnium†, racketing
+  all-nighter, night owl, early bird, insomniac, sleep debt
+
+V:
+  wake, awake, waken, rouse, stir
+  awaken
+  pull an all-nighter, toss and turn
+
+Adj:
+  awake, wakeful, alert, vigilant, conscious
+  on the alert, broad awake, watchful, wide awake &c H0646
+  sleepless
+  untired†
+
+Adv:
+  wide awake
+
+F:
+  German: Wachen

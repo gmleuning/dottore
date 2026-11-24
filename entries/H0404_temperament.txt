@@ -1,0 +1,62 @@
+# 404 Temperament
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › a. Natural Qualities › iii. The Individual Subject
+G: Temperament
+Gloss: The manner in which a person is disposed to act and feel: sanguine, choleric, phlegmatic or melancholic.
+HGloss: The individual's natural manner of activity, the way they go about their aims: sanguine, choleric, phlegmatic, melancholic.
+
+N:
+  temperament; disposition, humour, humours, complexion, constitution, nature, makeup, mettle, character, mood, temper, frame of mind; the four temperaments: sanguine, choleric, phlegmatic, melancholic; the four humours: blood, yellow bile, phlegm, black bile
+  affections, affect, qualities, tone, idiosyncrasy, cast of mind, cast of soul, habit of mind, habit of soul, frame of soul, predilection, turn, natural turn of mind, proneness, propenseness†, propension†, propendency†, sympathy &c H0537
+  humor, vein
+  proclivity, bent, bias, predisposition, propensity
+  habit, spirit, grain
+  principle, type, quality, crasis†, diathesis†
+  sadness, melancholia, dismals†, blues, lachrymals†, mumps†, dumps, blue devils, doldrums, vapors, megrims, spleen, horrors, hypochondriasis [Med.], pessimism, despondency, slough of Despond, disconsolateness, hope deferred, blank despondency, voiceless woe, morosity†
+  the four temperaments
+  personality type, type A, type B, introvert, extrovert, introversion, extroversion, hothead, cold fish, wet blanket, sunny disposition, short fuse
+  indiligence†, dawdling
+  ergophobia†, otiosity†
+
+V:
+  temper, dispose, incline
+
+Adj:
+  temperamental, constitutional, dispositional; sanguine, choleric, phlegmatic, melancholic, melancholy, bilious, splenetic, mercurial, saturnine, jovial, equable, even-tempered
+  sad, pensive, hypochondriacal, atrabilious†, tristful†, dolesome†, hypped†
+  hasty, overhasty, quick, warm, hot, testy, touchy, techy†, tetchy, like touchwood, like tinder, huffy, pettish, petulant, waspish, snappish, peppery, fiery, passionate, shrewish, sudden and quick in quarrel, subitaneous†
+  moody, spleenish†, spleenly†, cankered
+  joyful, joyous, jocund, blithesome, gleeful, merry as a grig†, jolly as a sandboy†, gleesome†
+  dismal, somber, gloomy, lugubrious, mournful
+  humoral
+  hot-headed, hot-tempered, short-fused, laid-back, chill [Slang], easygoing, uptight, high-strung, highly strung, chilled out, prickly, grumpy, crabby, cranky, stroppy [Brit. Coll.]
+  hurried, fussy
+  overofficious†, intrigant†, acariâtre†
+
+Adv:
+  temperamentally, by disposition, by temper
+  by temperament
+
+F:
+  Latin: temperamentum
+  Greek: krasis
+  French: la maladie sans maladie
+  Italian: il penseroso
+  Arabic: mizāj [temperament, mixture], akhlāṭ [humours]
+  Sanskrit: doṣa [constitutional humours: vāta, pitta, kapha]
+  Chinese: qizhi [temperament]
+  Korean: gijil [temperament]
+
+Phr:
+  every man in his humour [Ben Jonson]
+  cool as a cucumber
+  a merry heart goes all the day [A winter's Tale]
+  as merry as the day is long [Much Ado]
+  ride si sapis [Lat.] [Martial]
+  the countenance falling
+  the heart failing, the heart sinking within one
+  a plague of sighing and grief [Henry IV]
+  thick-ey'd musing and curs'd melancholy [Henry IV]
+  the sickening pang of hope deferred [Scott]
+  a vieux comptes nouvelles disputes [Fr.]
+  quamvis tegatur proditur vultu furor [Lat.] [Seneca]
+  vino tortus et ira [Lat.] [Horace]

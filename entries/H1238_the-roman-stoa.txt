@@ -1,0 +1,17 @@
+# 1238 The Roman Stoa
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 1. Dogmatism › a. Stoic Philosophy
+G: Die römische Stoa
+Gloss: The Stoicism of imperial Rome, Seneca, Epictetus and Marcus Aurelius, a philosophy of inner freedom and endurance.
+HGloss: The Roman Stoics, Seneca, Epictetus and Marcus Aurelius, in whom the abstract freedom of self-consciousness becomes moral exhortation in a world of despotism.
+
+N:
+  the Roman Stoa
+  Seneca, Epictetus, Marcus Aurelius, Musonius Rufus, Roman Stoicism, the Meditations, the Enchiridion, the inner citadel
+  the Moral Letters, imperial Stoicism, the emperor-philosopher
+
+V:
+  endure, accept, bear and forbear
+
+Phr:
+  the impediment to action advances action [Marcus Aurelius]
+  some things are up to us

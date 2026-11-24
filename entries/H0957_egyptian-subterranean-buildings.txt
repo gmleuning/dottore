@@ -1,0 +1,22 @@
+# 957 Egyptian Subterranean Buildings
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › i. Symbolic Architecture › 3. Transition to Classical Architecture › a. Indian and Egyptian Subterranean Buildings
+G: Ägyptische unterirdische Bauten
+Gloss: The underground tombs and chambers of Egypt, built as houses for the dead.
+HGloss: The Egyptian subterranean buildings, rock-tombs and the labyrinth, dwellings for the dead in which the invisible is first given a house.
+
+N:
+  Egyptian subterranean buildings
+  catacombs, crypts, tombs, necropolis, Valley of the Kings, excavation, catacomb, crypt, vault, labyrinth
+  rock tombs, the tombs of the kings, the dwelling of the dead
+
+V:
+  excavate, tunnel, entomb, hollow, dig, delve, mine, burrow
+
+Adj:
+  sepulchral, buried, hypogeal, excavated
+
+Adv:
+  below ground, beneath the earth
+
+Phr:
+  the house of the dead

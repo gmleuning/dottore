@@ -1,0 +1,36 @@
+# 691 Kinds of Contract
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract
+G: Arten des Vertrags
+Gloss: The various sorts of agreement concerning property.
+HGloss: The division of contracts according to the relation of the wills and the things exchanged.
+
+N:
+  kinds of contract; types of contract, gift, exchange, pledge, nominate and innominate contracts, real, consensual, and formal contracts
+  security, guaranty, guarantee, bond, mortgage, collateral, lien, pawn
+  borrowing, pledging
+  lender, pawnbroker, money lender, usurer, loan shark
+  species of contract, types of agreement, classification of contracts, gift exchange and pledge
+
+V:
+  classify, categorize
+  hire, rent, farm, take a lease
+  borrow, desume†
+  let, demise, lease, sett†, underlet
+  intrust, invest, place out to interest, put out to interest
+  lend, advance, accommodate with, lend on security, loan, pawn &c H0704
+  divide, distinguish, sort
+
+Adj:
+  contractual, typological
+  lending, lent, unborrowed [Obs.]
+  formal, several
+
+Adv:
+  by kind
+  in advance, on loan, on security
+  severally
+
+Phr:
+  do ut des, do ut facias, facio ut des, facio ut facias [Lat.] [Roman law]
+  the fine print
+  terms and conditions

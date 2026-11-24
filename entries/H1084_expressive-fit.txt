@@ -1,0 +1,11 @@
+# 1084 Expressive Fit
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse › 2. Accent
+G: Übereinstimmung von Bewegung und Inhalt
+Gloss: The fit between the movement of the verse and what it says.
+HGloss: The correspondence of the rhythmic movement with the content and its feeling, in which the verse's tempo and accent express the matter.
+
+N:
+  expressive fit; the fit of movement to content, sound echoing sense, expressive rhythm, mimetic rhythm, onomatopoeia
+
+Phr:
+  the sound must seem an echo to the sense [Pope]

@@ -1,0 +1,26 @@
+# 312 Siliceousness
+# Nature › 3. Organics › I. Terrestrial Organism › β. Geology (Oryctognosy) › a. Primitive Rocks
+G: Kieselartigkeit
+Gloss: The character of rocks rich in silica, such as quartz and flint.
+HGloss: The siliceous moment, quartz and flint, the abstract earth of the primitive rock.
+
+N:
+  siliceousness; silica, silex, flint, quartz, chert, agate, chalcedony, jasper, opal, sand, sandstone, quartzite; siliceous earth
+  onyx
+  crystal
+  rock crystal, the siliceous series
+
+V:
+  silicify
+
+Adj:
+  siliceous, silicious, flinty, quartzose, sandy, arenaceous, hard, glassy, pulverulent†, branny†, furfuraceous†, sabulous†, psammous†, arenarious†, lentiginous†, lepidote†, sabuline†, sporaceous†, sporous†
+  granular, arenose†
+  vitreous
+
+Adv:
+  flintily
+  in silica
+
+Phr:
+  hard as flint

@@ -1,0 +1,26 @@
+# 74 Specifying Measure Proper
+# Logic › 1. Doctrine of Being › III. Measure › α. Specific Quantity › b. Specifying Measure
+G: Eigentlich spezifizierendes Maß
+Gloss: Measure that modifies what it measures according to its own nature, as a body takes up heat according to its own capacity.
+HGloss: Measure that takes up an external quantum and alters it according to its own nature, as a body takes up heat by its specific capacity.
+
+N:
+  specifying measure proper; capacity, specific capacity, specific heat, heat capacity, absorption, uptake, receptivity, susceptibility, coefficient, modulus, factor, index; nonlinear response, specific response, refraction &c H0284; assimilation according to one's own nature
+  multiplier
+  the specifying measure in the strict sense, the modifying measure
+
+V:
+  absorb, take up, assimilate, modulate, refract, filter, transform according to its nature
+  specify, modify, take up according to its nature
+
+Adj:
+  specific, characteristic, idiosyncratic, receptive, absorptive, susceptible, modulating
+  specifying, modifying
+
+Adv:
+  after its own fashion, after its kind, in its own way
+  specifically, according to its own nature
+
+Phr:
+  quidquid recipitur, ad modum recipientis recipitur [Lat.] [Aquinas]
+  according to its capacity

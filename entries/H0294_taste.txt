@@ -1,0 +1,83 @@
+# 294 Taste (Specific Water)
+# Nature › 2. Physics › III. Physics of Total Individuality › β. Properties of Bodies (Specification of the Individual Body) › b. Difference in Particularized Corporeality
+G: Geschmack
+Gloss: A body's dissolving into water, perceived as its savour; flavour.
+HGloss: The body's specific individuality as a dissolving into water, its neutral relation to it, as salt in taste.
+
+N:
+  taste; savour, flavour, relish, tang, smack, zest, piquancy, sapidity, palate, sweet, sour, salt, bitter, umami, astringency; specific water, dissolution into water
+  flavor, gust, gusto, gout, sapor†, aftertaste
+  condiment, seasoning, sauce, appetizer
+  bitterness, acridness†, caustic, alkali, gall, wormwood, bitters, astringent bitters, heartburning†, mordacity†
+  Angostura, aromatic bitters
+  sourness, pungency
+  alkaloids, turmeric
+  unsavoriness, amaritude†, acrimony, roughness, acerbity, austerity, gall and wormwood, rue, quassia†, aloes, marah†, sickener†, acritude†, causiticity†
+  sweetness, dulcitude†
+  sugar, syrup, treacle, molasses, honey, manna, confection, confectionary, sweets, grocery, conserve, preserve, confiture†, jam, julep, sugar-candy, sugar-plum, licorice, marmalade, plum, lollipop, bonbon, jujube, comfit, sweetmeat, apple butter, caramel, damson, glucose, maple sirup†, maple syrup, maple sugar, mithai†, sorghum, taffy
+  nectar, hydromel†, mead, meade†, metheglin†, honeysuckle, liqueur, sweet wine, aperitif
+  sugar cane, sugar beets
+  desert, pastry, pie, cake, candy, ice cream, puff, pudding &c H0367
+  dulcification†, dulcoration†
+  sweetener, corn syrup, cane sugar, refined sugar, beet sugar, dextrose, artificial sweetener, saccharin, cyclamate, aspartame, Sweet'N Low
+  acid, acidity, low pH, acetous fermentation, lactic fermentation
+  vinegar, verjuice†, crab, alum, acetic acid, lactic acid
+  acridity, bite
+  tear gas, smoke, acrid fumes
+  acquired taste
+  gustation
+
+V:
+  taste, savour, sample, relish, smack of, flavour, season, spice
+  render pungent, pepper, pickle, brine, devil, kyanize†
+  savor, smatch†, twang, tickle the palate
+  spice up
+  render palatable
+  relish, like, smack the lips
+  be unpalatable, sicken, disgust, nauseate, pall, turn the stomach, appal†, wamble†
+  be sweet
+  render sweet, sweeten, edulcorate†, dulcorate†, dulcify†, mull
+  be sour, turn sour, set the teeth on edge
+  render sour, acidify, acidulate
+
+Adj:
+  sapid, savoury, flavourful, tasty, toothsome, palatable, delectable, gustatory, gustative, sweet, sour, salty, bitter, piquant, tangy, insipid
+  savory, delicious, well-tasted, to one's taste, good, nice, dainty, toothful†, appetizing, lickerish†, delicate, exquisite, rich, luscious, ambrosial, scrumptious, delightful, provoquant†, appetible†
+  saporific†, gustable†, gustful†, gamy
+  saline, brackish, briny, salty as brine, salty as a herring, salty as Lot's wife
+  pungent, strong, high-, full-flavored, high-tasted, high-seasoned, sharp, stinging, rough, racy, biting, mordant, spicy, seasoned, hot, hot as pepper, peppery, vellicating†, escharotic†, meracious†, acrid, acrimonious, unsavory
+  bland, void of taste, tasteless, gustless†, savorless, ingustible†, mawkish, milk and water, weak, stale, flat, vapid, fade, wishy-washy, mild, untasted†, finikin†, fingle-fangle†
+  bitterish, acerb, acerbic
+  unpalatable, unsweetened, unsweet†, ill-flavored, bitter as gall
+  offensive, repulsive, nasty, sickening, nauseous, loathsome, fulsome, unpleasant &c H0672, loathful†
+  saccharine, sacchariferous†, dulcet, candied, honied†, lush, nectarious†, melliferous†, sweetened
+  sweet as a nut, sweet as sugar, sweet as honey
+  sickly sweet
+  acidulous, acidulated, tart, crabbed, acetous, acetose†, acetic, sour as vinegar, sourish, acescent†, subacid [Chem], styptic, hard
+  astringent, harsh
+  (5) Sound (i) SOUND IN GENERAL
+  flavoured
+  sugary, distasteful
+
+Adv:
+  to the taste, on the palate
+
+F:
+  Latin: sapor
+  Greek: geusis, chymos
+  Arabic: dhawq [taste]
+  Sanskrit: rasa [taste, juice, aesthetic flavour]
+  Japanese: umami
+
+Phr:
+  de gustibus non est disputandum [Lat.]
+  the proof of the pudding is in the eating
+  to leave a bad taste
+  a matter of taste
+  take it with a grain of salt
+  bitter pill to take
+  sugar coating on a bitter pill
+  cela se laisse manger [Fr.]
+  eau sucrée [Fr.]
+  sweets to the sweet [Hamlet]
+  sour as a lemon

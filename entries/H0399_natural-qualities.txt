@@ -1,0 +1,36 @@
+# 399 Natural Qualities
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul
+G: Natürliche Qualitäten
+Gloss: The traits a soul has by nature rather than by choice.
+HGloss: Natural determinations of the soul that it has as nature's qualities, not as its own doing.
+
+N:
+  natural qualities; nature, natural traits, innate qualities, endowments, gifts, birthright, heredity, inheritance, constitution, makeup, temperament, nature not nurture
+  principle, type, quality, crasis†
+  character, qualities, disposition, diathesis†, idiosyncrasy
+  genetics
+  aptitude, proclivity, bent, predisposition, propensity
+  habit, temper, spirit, humor, grain
+  inborn qualities, native characteristics, the given
+  innateness
+
+V:
+  be born with, inherit, have by nature
+
+Adj:
+  natural, innate, inborn, inbred, native, inherent, congenital, hereditary, constitutional, temperamental
+  intrinsic, fundamental, implanted, essential, inwrought, coeval with birth, intrinsical†, genetous†, haematobious†, syngenic†, congenite†, ingenerate†, ingenite†
+  ingrained, implanted by nature, in the grain
+  embedded, deep-seated, built-in, inbuilt
+
+Adv:
+  by nature, naturally, from birth, innately
+  natively
+
+F:
+  Arabic: fiṭra
+
+Phr:
+  what's bred in the bone will come out in the flesh
+  born that way
+  second nature

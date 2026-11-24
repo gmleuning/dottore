@@ -1,0 +1,48 @@
+# 99 Difference
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › β. Determinations of Reflection
+G: Unterschied
+Gloss: Distinction; a thing's not being the same as another, or as itself in another respect.
+HGloss: The negativity of reflection, essence distinguishing itself from itself; absolute difference.
+
+N:
+  difference; distinction, distinctness, otherness, alterity, heterogeneity, dissimilarity, unlikeness, disparity, discrepancy, divergence, deviation, variance, variation, contrast, discrimination, differentiation, diversity &c H0101; nuance, shade of difference, subtlety, fine distinction, hair-splitting, discrepance†
+  variety, dissimilarity &c H0101, disagreement &c H0103, disparity &c H0054, contradistinction, alteration
+  dissimilaritude†, diversity, dissemblance†, oogamy†
+  nice distinction, delicate distinction, subtle distinction, discrimination &c H0669, differentia
+  diorism†, perception of difference
+  mismatch, disproportion, dissimilitude, inequality, disproportionateness†, repugnance, inequation†
+  non-identity
+  variant, variability, degenerate, deviant
+
+V:
+  differ, vary, diverge, deviate, contrast, depart from, be distinct from, be different; distinguish, discriminate, differentiate, tell apart, set apart, mark off, draw a distinction, split hairs, gybe†
+  ablude†, divaricate
+  severalize†, draw the line
+  vary &c H0007, deviate &c H0238, diverge &c H0238, alternate, swerve
+
+Adj:
+  different, differing, distinct, other, unlike, dissimilar, disparate, divergent, discrepant, heterogeneous, contrasting, contrastive, distinguishable, distinctive, differential, diacritical
+  diverse, multifarious, polyglot, varied, modified, various, divers, all manner of, all kinds of, variform &c H0101, daedal†
+  of a different kind, unique
+  polymorphous, multiform, diversified, manifold, many-sided
+  another, not the same, unequal &c H0054
+
+Adv:
+  differently, otherwise, else, distinctly; on the other hand; with a difference
+
+F:
+  German: Differenz
+  Latin: differentia, differentia specifica [specific difference], per contra, differ toto coelo, distinctio formalis [formal distinction] [Duns Scotus]
+  Greek: diaphora
+  French: différance [Derrida], répétition [Deleuze]
+  Italian: differ longo intervallo
+  Sanskrit: bheda [difference], viśeṣa [distinction, particularity]
+
+Phr:
+  vive la différence [Fr.]
+  distinguo [Lat.]
+  that makes all the difference
+  a difference that makes a difference [Bateson]
+  a distinction without a difference
+  worlds apart
+  il y a fagots et fagots

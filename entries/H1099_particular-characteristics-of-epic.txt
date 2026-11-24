@@ -1,0 +1,27 @@
+# 1099 Particular Characteristics of Epic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › a. Epic Poetry
+G: Besondere Bestimmungen des eigentlichen Epos
+Gloss: The particular features of epic.
+HGloss: The particular characteristics of the epic.
+
+N:
+  particular characteristics of epic; world-situation, action, unity
+  specific features, particulars, special determinations, details, the epic world, the epic action, the epic whole, the hero, episodes
+  diegesis, narration
+
+V:
+  specify
+  particularize, detail, distinguish, enumerate, determine
+
+Adj:
+  particular
+  special, specific, several, distinct, respective
+
+Adv:
+  in particular
+  specifically, in detail, severally
+
+Phr:
+  world, deed, and whole
+  tell it from the beginning
+  in medias res

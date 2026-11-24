@@ -1,0 +1,20 @@
+# 1216 Parmenides
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Parmenides
+Gloss: The philosopher of Elea who taught that being is and non-being is not, so that change and plurality are illusion.
+HGloss: Parmenides, with whom philosophy proper begins: pure being, the One, thought for which non-being simply is not.
+
+N:
+  Parmenides
+  being, the One, the Eleatics, the Eleatic school, Melissus
+  Parmenides of Elea, the way of truth, the way of opinion, the well-rounded sphere
+
+Adj:
+  Eleatic, Parmenidean
+
+F:
+  Greek: to eon
+
+Phr:
+  being is, non-being is not [Parmenides]
+  to gar auto noein estin te kai einai [Gr.] [Parmenides]

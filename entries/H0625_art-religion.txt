@@ -1,0 +1,28 @@
+# 625 Art-Religion
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › c. Religion as Spirit's Self-Consciousness
+G: Kunst-Religion
+Gloss: Religion in which the divine is expressed through works of art, as in ancient Greece.
+HGloss: The religion of art, in which spirit produces its shape as a work of art, the Greek religion of beauty.
+
+N:
+  art-religion; the religion of art, the religion of beauty, Greek religion, Olympian religion, aesthetic religion, anthropomorphic gods, the Olympians; the beautiful gods of Greece
+  the ethical spirit in art, the artist as priest, the artwork as divine
+
+V:
+  sculpt, hymn, celebrate, glorify, beautify
+  create, shape, worship in art, embody
+
+Adj:
+  aesthetic, Olympian, anthropomorphic, Hellenic, classical, beautiful
+  artistic, Greek
+
+Adv:
+  beautifully, in the Greek manner
+  in art, through art, artistically
+
+F:
+  German: die Götter Griechenlands [Schiller], Kunstreligion
+
+Phr:
+  the gods of Greece
+  the beauty of holiness

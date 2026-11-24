@@ -5,7 +5,7 @@ Gloss: The bare fact of existence, considered before anything is said about what
 HGloss: The first beginning of the logic: indeterminate immediacy, which proves to be the same as nothing and passes into becoming.
 
 N:
-  being; existence &c (determinate being) H0011, isness, is-ness, thereness; the that, that-it-is
+  being; existence &c (determinate being) H0013, isness, is-ness, thereness; the that, that-it-is
   the bare fact of existence; the first, the beginning, the starting point, the point of departure; the immediate, the undetermined; the indeterminate; the simple; the absolute beginning
   the copula, "is"
   existence, entity, subsistence
@@ -13,8 +13,8 @@ N:
   inchoation, incipience
 
 V:
-  be, exist, subsist, obtain, be there, be the case; begin, start, commence &c (beginning) H0212; set out, take one's departure
-  have being, occur &c H0106, have place, prevail
+  be, exist, subsist, obtain, be there, be the case; begin, start, commence &c (beginning) H0222; set out, take one's departure
+  have being, occur &c H0116, have place, prevail
 
 Adj:
   being, existent, existing, extant; simple, bare, sheer, mere, pure, immediate; indeterminate, undetermined, indefinite, featureless; first, initial, primordial, primal, aboriginal, original, primitive, elementary, rudimentary; abstract, empty

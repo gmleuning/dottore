@@ -1,0 +1,33 @@
+# 250 Free Physical Bodies
+# Nature › 2. Physics › I. Physics of Universal Individuality
+G: Freie physikalische Körper
+Gloss: The heavenly bodies considered as independent physical bodies.
+HGloss: The heavenly bodies as physical qualities: light, its opposition in moon and comet, and the planet that unites them.
+
+N:
+  free physical bodies; heavenly bodies, celestial bodies, luminaries, stars, sun, moon, planets, comets, orbs, spheres, globes, the host of heaven
+  asteroids, nebulae, galaxy, milky way
+  planet, comet, satellite
+  sun planets moons and comets, the free bodies
+  firmament
+
+V:
+  shine, glow, wheel, revolve, wander
+  rotate, gyrate
+  move freely, orbit
+
+Adj:
+  celestial, heavenly, astral, sidereal, stellar, lunar, solar, planetary
+  starry
+  free, independent
+
+Adv:
+  in the heavens, aloft, on high
+  freely
+
+F:
+  Sanskrit: graha [planet, lit. seizer]
+
+Phr:
+  the host of heaven [Bible]
+  the starry heavens

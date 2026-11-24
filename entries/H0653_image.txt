@@ -1,0 +1,40 @@
+# 653 Image
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › b. Representation › i. Recollection
+G: Bild
+Gloss: An experience kept in the mind, detached from its original place and time.
+HGloss: The intuition freed from its immediacy and placed in the mind's own space and time.
+
+N:
+  image; mental image, picture, impression, likeness, afterimage, memory image, mental picture, icon
+  similitude, semblance, representation, resemblance
+  idea
+  copy, counterpart, effigy
+  image &c H0834
+  trace, engram, phantasm, memory-image
+
+V:
+  image, picture, form an image, visualize
+  envision, figure to oneself
+  retain, abstract
+
+Adj:
+  imaged, pictured, imagistic, iconic, eidetic
+  pictorial, abstracted, detached
+  portrayed, depicted
+
+Adv:
+  imagistically, in image
+  pictorially
+
+F:
+  German: vorstellen
+  Latin: imago, species, figura, effigies, forma, pictura, simulacrum
+  Greek: eidōlon, phantasma, eidolon
+  Arabic: khayāl [image, phantom]
+  French: tableau, visage
+  Hebrew: demut
+
+Phr:
+  a picture is worth a thousand words
+  in one's mind's eye
+  a picture in one's head

@@ -1,0 +1,19 @@
+# 1022 Glass
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 2. Materials for Sculpture › c. Precious Stones and Glass
+G: Glas
+Gloss: Glass shaped and cut, and glass pastes copying engraved gems.
+HGloss: Glas, the pastes and cast glass that copy engraved stones and carry the glyptic art into a cheaper material.
+
+N:
+  glass
+  glass paste, glassware, the Portland vase
+  cameo glass, cast glass
+
+V:
+  blow
+
+Adj:
+  vitreous, glassy
+
+Adv:
+  in glass

@@ -1,0 +1,45 @@
+# 338 The Plant's Genus Process
+# Nature › 3. Organics › II. Plant Nature
+G: Gattungsprozess der Pflanze
+Gloss: The plant's reproduction of itself in flower, seed and fruit.
+HGloss: The plant's genus process, the flower and fruit, in which the plant reproduces itself and dies as an individual.
+
+N:
+  the plant's genus process; reproduction, flowering, blossoming, pollination, fertilization, seed, fruit, fruiting, seed-bearing, dissemination, germination, propagation; sexuality of plants; stamen and pistil; flower, bloom, blossom, fruit, seed, kernel, grain, pip, stone
+  flowering plant, fruit tree
+  seed plot, second crop, aftermath, arrish†, eddish†, rowen†
+  spore
+  unproductiveness, infertility, sterility, infecundity†, masturbation, impotence &c H0131, unprofitableness &c H0206
+  waste, desert, Sahara, wild, wilderness, howling wilderness
+  fructification
+  mum, corn, wheat, vanilla, daisy, cereal, popcorn
+  poppy, veronica, milo, sunflower, maize, orchid, spelt, marguerite, columbine, oat, dahlia, aster, marigold, campion, snapdragon, carnation, bloomer, goldilocks, rosita
+  cereal grass, hot water plant, spring beauty, wild rice, garden pink, babies'-breath, western wall flower, rice grass, cotton rose, sweet rocket, four o'clock, brass buttons, billy buttons, peace lily, composite plant, old maid flower, old maid, coral drops, bush violet, merry bells, white daisy, painted daisy, moon daisy, blue daisy, sweet alison, hedge pink, lace-flower vine, baby's breath, prairie rocket, mist-flower, woodland star, bouncing Bet, sea poppy, horn poppy, tidy tips, bachelor's button, scarlet musk flower, blazing star, ox-eyed daisy, wild oats, scorpion weed, pebble plant, poor man's orchid, blue marguerite, bouncing Bess, devil's flax, yellow horned poppy, horned poppy, pearl millet, kingfisher daisy, white-topped aster, stokes' aster, sun marigold, fig marigold, cape marigold, wild snapdragon, meeting house, sun plant, ice plant, sweet William
+  millet
+  anthesis
+
+V:
+  flower, blossom, bloom, pollinate, fertilize, fruit, seed, bear fruit, ripen, propagate, sow, germinate
+  blow
+  fructify, teem, ean†, yean†
+  mellow, bring to maturity
+  be unproductive, hang fire, flash in the pan, come to nothing
+  sterilize, addle, disable, inactivate
+
+Adj:
+  floral, flowering, fruiting, fruitful, seminal, seed-bearing, ripe, mature, fertile
+  productive, prolific, teeming, teemful†, frugiferous†, fruit-bearing, fecund, luxuriant, pregnant, uberous†
+  unproductive, acarpous†, inoperative, barren, addled, infertile, unfertile, unprolific†, arid, sterile, unfruitful, infecund†, sine prole, fallow, teemless†, issueless†, fruitless, unprofitable &c H0206, null and void, of no effect, gainless†
+  reproductive, fructiferous
+
+Adv:
+  in flower, in fruit, in seed, in season
+
+F:
+  Sanskrit: bīja [seed]
+
+Phr:
+  except a corn of wheat fall into the ground and die, it abideth alone [Bible]
+  by their fruits ye shall know them [Bible]
+  to bear fruit
+  to go to seed

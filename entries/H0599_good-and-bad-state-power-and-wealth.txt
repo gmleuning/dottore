@@ -1,0 +1,41 @@
+# 599 Good and Bad: State-Power and Wealth
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › ii. Self-Alienated Spirit: Culture › 1. The World of Self-Alienated Spirit › a. Culture and Its Realm of Actuality › i. Culture as the Alienation of Natural Being
+G: Gut und Schlecht
+Gloss: The two great goods of the social world, the power of the state and wealth, and the judgment of them as good or bad.
+HGloss: The good and the bad as state power and wealth, each judged good and then bad.
+
+N:
+  good and bad; state-power and wealth; state power, sovereign power, authority, dominion, the crown, the throne; wealth, riches, affluence, opulence, money, capital, treasure, fortune, Mammon
+  independence, competence &c H0759
+  finance, funds, assets &c H0684, ways and means
+  assets, belongings, means, resources, wealth &c H0763, estate and effects
+  command, empire, sway, domination, sovereignty, supremacy, suzerainty, lordship
+  the commonweal, the universal work, the good, the bad, judgment, valuation
+  plutocracy
+
+V:
+  rule, govern, possess, enrich, amass, distribute, bestow
+  wield authority, reign, be sovereign
+  judge, value, esteem, deem good, deem bad
+
+Adj:
+  powerful, sovereign, wealthy, rich, affluent, opulent, moneyed
+  well to do, well off
+  good, bad, public
+
+Adv:
+  by authority, richly
+  for good or ill
+
+F:
+  German: Staatsmacht und Reichtum
+  Latin: divitiae
+  Greek: ploutos
+  Sanskrit: artha [wealth, power]
+  French: pouvoir [Foucault]
+
+Phr:
+  money makes the world go round
+  pecunia non olet [Lat.] [money does not stink]
+  power and riches
+  money talks

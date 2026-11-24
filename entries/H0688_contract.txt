@@ -1,0 +1,43 @@
+# 688 Contract
+# Spirit › 2. Objective Spirit › I. Abstract Right
+G: Vertrag
+Gloss: An agreement in which two wills unite in relation to property.
+HGloss: The union of two wills in relation to property, the mediation through which I hold property by another's will.
+
+N:
+  contract; agreement, covenant, compact, pact, treaty, bargain, deal, engagement, stipulation, indenture, bond, accord, convention
+  affidation†, paction†, bundobast†
+  settlement, compromise, cartel
+  Protocol, concordat, charter
+  pledge, word of honor, warranty, obligation
+  dealing, transaction, negotiation
+  clauses, provisions, proviso &c H0113, ultimatum, sine qua non
+  undertaking, engagement &c H0690
+  agreement of wills
+
+V:
+  contract, agree, covenant, engage, bind oneself, stipulate, bargain, strike a deal, sign, shake on it
+  treat, negotiate, make terms, bargain &c H0698
+  make a bargain, strike a bargain, come to terms, come to an understanding, compromise &c H0689, set at rest, close, close with, conclude, complete, settle, confirm, ratify, clench, subscribe, underwrite, endorse, indorse, put the seal to, seal &c H0776, indent
+  promise, undertake, pledge oneself, commit oneself
+  agree &c H0097, accede, concur, consent
+
+Adj:
+  contractual, binding, consensual, covenanted, synallagmatic, agreed
+  conventional, under hand and seal
+
+Adv:
+  contractually, by agreement, under contract
+  by contract
+
+F:
+  German: Zollverein, Sonderbund
+  Latin: contractus, pactum, consensus ad idem [meeting of minds], Magna Charta, casus foederris
+  Greek: synallagma
+  Arabic: ʿahd [covenant]
+
+Phr:
+  pacta sunt servanda [Lat.] [agreements must be kept]
+  my word is my bond
+  a gentleman's agreement
+  to shake on it

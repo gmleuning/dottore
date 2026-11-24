@@ -1,0 +1,26 @@
+# 75 Relation of the Two Sides as Qualities
+# Logic › 1. Doctrine of Being › III. Measure › α. Specific Quantity › b. Specifying Measure
+G: Verhältnis der beiden Seiten als Qualitäten
+Gloss: The two sides of a measure, such as distance and time in a law of motion, each a distinct quality with its own amount.
+HGloss: The two sides of a measure each a quality with its own quantum, bound by a determinate ratio, as space and time in fall.
+
+N:
+  relation of the two sides as qualities; law of nature, physical law, formula, equation, function, correlation, dependence, covariation; space and time in falling, distance and duration; dimensions, variables, parameters, quantities, terms; dimensional analysis
+  the two sides as qualities, the qualitative sides of measure, space and time in motion, the law of fall
+
+V:
+  relate, correlate, express as a function, formulate, equate
+  vary together
+
+Adj:
+  functional, correlative, covariant, dimensional, lawful, law-governed
+  qualitative, two-sided, correlated
+
+Adv:
+  as a function of, in terms of, in relation to
+  on both sides, qualitatively
+
+Phr:
+  s = ½gt²
+  in step
+  keep pace with

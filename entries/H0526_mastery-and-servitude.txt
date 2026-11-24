@@ -1,0 +1,46 @@
+# 526 Mastery and Servitude
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness
+G: Herrschaft und Knechtschaft
+Gloss: The unequal relation that results from the struggle for recognition: one party rules, the other works.
+HGloss: The unequal recognition of master and servant, in which the servant's fear and labour turn out to be the way to freedom.
+
+N:
+  mastery and servitude; lordship and bondage, master and slave, master and servant, lord and bondsman, dominion and subjection, domination, hierarchy, the master-slave dialectic
+  sway, dominion, sovereignty, supremacy, lordship
+  lord, lord paramount, chief, head, ruler
+  bidding, behest, hukm†, hest†
+  domination and servitude, subjection
+  master–slave dialectic
+
+V:
+  master, rule, command, dominate; serve, obey, labour, toil
+  subjugate, master &c H0207, reduce to subjection, reduce to slavery, enthrall, enslave
+  have the upper hand, rule the roost, lord it over, keep under
+  submit &c H0790, do one's bidding, serve faithfully
+  obey &c H0790, kneel to, bow to, pay homage to
+  serve &c H0528, play second fiddle
+  work
+
+Adj:
+  masterly, lordly, dominant; servile, subservient, bonded, enslaved, subordinate
+  subject, dependent, in subjection to, under control, subjected
+  paramount, supreme, predominant
+
+Adv:
+  in bondage, in servitude, at the master's bidding
+  as master and servant
+
+F:
+  German: Herr und Knecht
+  Arabic: sayyid wa-ʿabd [master and slave]
+  Korean: juingwa noye [master and slave]
+
+Phr:
+  the truth of the independent consciousness is the servile consciousness [Hegel]
+  no man can serve two masters [Bible]
+  who serves whom
+  to hear is to obey
+  as you please, if you please
+  your wish is my command
+  as you wish
+  no sooner said than done

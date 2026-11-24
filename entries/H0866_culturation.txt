@@ -1,0 +1,22 @@
+# 866 Culturation
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › c. The Beauty of Art, or the Ideal › iii. The Artist › 1. Inspiration › b. Genius
+G: Naturgabe
+Gloss: A gift that is inborn yet belongs to a people rather than to one person, like the Italian improvisers' readiness in verse.
+HGloss: Genius as Naturgabe: a natural gift which Hegel ties to the particular nationality of peoples, so that a people's art and its manner of production go together, as with the improvisers native to Italy.
+
+N:
+  culturation; national gift, national genius, the genius of a people, Volksgeist, native gift, natural endowment, inborn talent, folk talent, inherited tradition, the spirit of a people, folk art, the vernacular, improviser, improvvisatore
+
+V:
+  improvise
+  inherit, grow up in
+
+Adj:
+  native, inborn, innate, national, vernacular, folk, indigenous
+
+F:
+  German: Naturgabe, Nationalität der Völker
+  Italian: improvvisatore
+
+Phr:
+  in dieser Weise hängt die Kunst und ihre bestimmte Productionsart mit der bestimmten Nationalität der Völker zusammen [Ger.] [Hegel, Aesthetics]

@@ -1,0 +1,33 @@
+# 58 Intensive Quantum
+# Logic › 1. Doctrine of Being › II. Magnitude › β. Quantum › b. Extensive and Intensive Quantum (Degree)
+G: Intensive Größe oder Grad
+Gloss: A definite amount that is simple and undivided, a degree such as heat or brightness, which still points to a scale of others.
+HGloss: Intensive Größe, Grad: the quantum whose determinateness is simple, a single degree, which has its many outside it in the scale of other degrees.
+
+N:
+  intensive quantum
+  intensive magnitude, degree, intensity, intension, strength, force, pitch, level, grade, tenor, vehemence, potency, concentration, temperature, brightness, loudness, saturation, gradation, scale, gamut, spectrum, ladder, hierarchy, register, notch, peg, rung, step, stage, degree of perfection
+  term, remove, round of the ladder, point, mark
+
+V:
+  intensify, heighten, deepen, strengthen, concentrate, amplify, boost, graduate, calibrate, grade, rank, scale, dial up, dial down, turn up, turn down, overcolor†, broder†
+  enhance, magnify, redouble
+
+Adj:
+  intensive, intense, concentrated, strong, deep, high, vivid, acute, keen, graduated, graded, scalar, calibrated, gradual
+  deep-dyed, severe
+
+Adv:
+  by degrees, gradually, step by step, inch by inch, little by little, to a degree, to some extent, to a certain extent, in a high degree, intensely, at full strength, at full blast, intensively
+  inasmuch, however, howsoever, bit by bit, drop by drop, a little at a time, in some degree, in some measure, nathless†
+  by slow degrees, by inches, by little and little, one step at a time, seriatim, consecutively
+  very, really, so, extremely, incredibly, totally, absolutely, utterly, highly, seriously, super [Coll.], mega [Slang], uber [Slang], hella [U.S. Slang], well [Brit. Slang], dead [Brit. Slang], proper [Brit. Slang], literally [Coll.], fucking [Vulg.], bloody [Brit. Vulg.], damn [Coll.], goddamn [Vulg.], freaking [Coll.], frigging [Coll.], effing [Coll.], muckle†
+  in degree, deeply
+
+F:
+  German: Grad
+
+Phr:
+  gradatim [Lat.]
+  drop by drop
+  by inches

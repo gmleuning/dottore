@@ -1,0 +1,27 @@
+# 524 Coercion
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › i. Struggle for Recognition › 3. Coercion and Subjection
+G: Zwang
+Gloss: The force by which one self compels another to give way.
+HGloss: Zwang, the compulsion by which the victor forces the other self into submission.
+
+N:
+  coercion
+  compulsion, constraint, duress, force, intimidation
+  enforcement
+  necessity, obligation, compulsion &c H0712, subjection &c H0527
+
+V:
+  coerce, compel, force, constrain, intimidate
+  restrain, check, enthrall, coerce &c H0712
+
+Adj:
+  coercive, compulsory, forced, coerced
+  compelling, obligatory, peremptory
+
+Adv:
+  under duress, by force, perforce, at swordpoint
+  on compulsion, forcibly
+  under compulsion
+
+Phr:
+  to bring someone to heel

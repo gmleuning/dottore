@@ -1,0 +1,33 @@
+# 952 Obelisks
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › i. Symbolic Architecture › 2. Sculptural Architecture
+G: Obelisken
+Gloss: Tall, tapering stone pillars, dedicated to the sun and bearing inscriptions.
+HGloss: The obelisks, which receive the sun's rays and bear its signs.
+
+N:
+  obelisks; obelisk, monolith, needle, Cleopatra's Needle, pillar, shaft, sunbeam in stone
+  monument, slab, tablet, memorial, hatchment†
+  tower, column, spire
+  pedestal, plinth
+  stele, sun-pillar, ray, Heliopolis, hieroglyphic inscription
+
+V:
+  raise, erect, quarry
+  set up, rear, uprear, upbear†, upcast†, uphoist†
+  taper, rise, point, inscribe, dedicate
+
+Adj:
+  obeliscal, monolithic, tapering, Egyptian
+  pointed, four-sided, inscribed, solar
+
+Adv:
+  skyward
+  to the sun, upright
+
+F:
+  Greek: obeliskos
+  Egyptian: tekhen
+
+Phr:
+  a ray of the sun in stone
+  reaching for the sun

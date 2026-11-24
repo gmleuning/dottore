@@ -1,0 +1,11 @@
+# 453 Feelings with an External Content
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › β. The Feeling Soul › b. Self-Feeling › i. Particular Feelings
+G: Empfindungen mit äußerem Inhalt
+Gloss: Feelings aroused by something outside, such as joy, grief and fear.
+HGloss: Feelings whose content comes from outside, from what befalls the self (joy, grief, fear, hope), the self moved by an object or an event.
+
+N:
+  feelings with an external content; joy, grief, fear, hope
+  wonder, surprise, relief, horror, alarm, terror, rage, grief, delight, amusement, sadness, sorrow, mourning, dread, nostalgia, disgust, glee, ecstasy, melancholy, heartbreak, anguish, fright, euphoria, rapture, loathing, unhappiness, apprehension, amazement, enchantment, rejoicing, bereavement, astonishment, consternation, foreboding, trepidation, revulsion, premonition, letdown, mirth, hilarity, longing, yearning, pining, suspense, expectancy, anticipation, consolation, solace, alleviation, disappointment, frustration, annoyance, loneliness, boredom, misery, stress, anxiety, excitement, anger, fear, scare, heartache, exasperation, aggravation, contentment, gratification, fulfillment, fulfilment, dissatisfaction, displeasure, discontent, apathy, angst, nervousness
+  panic attack, stage fright, broken heart, mental anguish, high spirits, bright side, cold comfort, world-weariness
+  jucundity†, heartquake†, heartsinking†, affrightment†, batophobia†

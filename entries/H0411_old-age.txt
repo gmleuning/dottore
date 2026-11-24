@@ -1,0 +1,58 @@
+# 411 Old Age
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › b. Natural Changes › i. The Ages of Life
+G: Greisenalter
+Gloss: The last age of life, marked by detachment, habit and recollection.
+HGloss: The unity with the world, gone back into habit, which wanes into the absence of interest and death.
+
+N:
+  old age; age, eld†, senescence, seniority, elderliness, dotage, decrepitude, senility, second childhood, twilight years, evening of life, the sere and yellow leaf, wisdom, sagacity, detachment, retirement; elder, elderly person, senior, veteran, patriarch, matriarch, greybeard, crone, sage, Nestor, asthenia†, adynamy†, cachexy†
+  oldness†, advanced age, golden years, years, anility†, gray hairs, climacteric, grand climacteric, declining years, hoary age, superannuation, second childishness, vale of years, decline of life, sear and yellow leaf [Macbeth], threescore years and ten, green old age, ripe age, longevity, time of life
+  old man, seer, graybeard, grandfather, grandsire, grandam, gaffer, gammer, pantaloon, sexagenarian, octogenarian, nonagenarian, centenarian, old stager, dotard &c H0455, highflier†
+  maturity, decay
+  eldership, elders, firstling, doyen, father, primogeniture
+  preadamite†, Methuselah, old Parr, forefathers &c H0740
+  declension, decadence, caducity†, decadency†
+  oldie, oldster, old-timer, golden ager, senior citizen, pensioner, OAP [Brit.], retiree, geezer [Slang], codger, old fogey, fossil [Slang], crumbly [Brit. Slang], boomer [Slang], grandpa, granddad, granny, gran, nana, hag, biddy, old bat [Slang], old trout [Brit. Slang], senior moment [Coll.], lamia†
+  menopause
+  senectitude
+  nostology†
+
+V:
+  age, grow old, decline, wither, retire, withdraw, look back, reminisce
+  be aged, get old, wane, dodder, senesce
+
+Adj:
+  old, aged, elderly, senior, venerable, hoary, grey, grizzled, senescent, senile, decrepit, superannuated, wise, sage, detached, naevose†, stipiform†, strigose†, striolate†
+  old &c H0235, geriatric, matronly, anile†, in years, ripe, mellow, run to seed, declining, waning, past one's prime, gray-headed, hoar, time-worn, antiquated, passe, effete, advanced in life, advanced in years, stricken in years, wrinkled, marked withthe crow's foot, having one foot in the grave, doting &c H0455, like the last of pea time
+  ancient, antique, of long standing, time-honored
+  older, eldest, firstborn
+  gray, silvered, grizzly
+  over the hill, long in the tooth, past it [Coll.], getting on, no spring chicken, doddery, gaga [Slang], wrinkly
+  outdated
+
+Adv:
+  in one's old age, in one's declining years, in the evening of life
+  in old age, late in life
+
+F:
+  Latin: senectus
+  Greek: gēras
+  Arabic: shaykh [elder]
+  Sanskrit: vānaprastha [forest-dweller stage], saṃnyāsa [renunciation]
+
+Phr:
+  grow old along with me, the best is yet to be [Browning]
+  do not go gentle into that good night [Dylan Thomas]
+  senectus ipsa est morbus [Lat.] [Terence]
+  do not go gentle into that good night [Dylan Thomas]
+  give me a staff of honor for my age [Titus Andronicus]
+  bis pueri senes [Lat.]
+  peu de gens savent elre vieux [Fr.]
+  plenus annis abiit plenus honoribus [Lat.] [Pliny the Younger]
+  old age is creeping on apace [Byron]
+  slow-consuming age [Gray]
+  the hoary head is a crown of glory [Proverbs xvi, 31]
+  the silver livery of advised age [II Henry VI]
+  to grow old gracefully
+  to vanish in the chinks that Time has made [Rogers]
+  superfluous lags the veteran on the stage [Johnson]

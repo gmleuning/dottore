@@ -1,0 +1,26 @@
+# 1057 Rhythm
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 2. Particular Characteristics of Music › a. Time, Bar, Rhythm
+G: Der Rhythmus
+Gloss: Rhythm, the living play of stresses and durations within and against the bar.
+HGloss: Der Rhythmus: the animation of the bar by accents, the free movement that enlivens the abstract rule of the measure.
+
+N:
+  rhythm
+  cadence, syncopation
+  periodicity, alternation, alternity†
+  syncope
+  oscillation, vibration, pulsation
+
+V:
+  pulse, syncopate
+  pulsate
+
+Adj:
+  rhythmic, rhythmical, cadenced, syncopated, pulsing
+  periodic, recurrent
+
+Adv:
+  rhythmically
+
+Phr:
+  in the beginning was rhythm [attrib. Hans von Bülow]

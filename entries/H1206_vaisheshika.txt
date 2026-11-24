@@ -1,0 +1,24 @@
+# 1206 Vaisheshika (Kanada)
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › a. Oriental Philosophy › iii. Indian Philosophy › 2. Nyaya and Vaisheshika
+G: Vaiśeṣika (Kaṇāda)
+Gloss: The Indian school of Kaṇāda, which sorts the world into categories and explains it by eternal atoms.
+HGloss: The Vaiśeṣika of Kaṇāda, which enumerates the categories, substance, quality, action and the rest, and teaches eternal atoms.
+
+N:
+  Vaiśeṣika
+  Kaṇāda
+  atomism, the categories, substance, quality, action, universal, particularity, inherence, Vaisheshika, the Vaiśeṣikas, the Vaiśeṣika Sūtras, realism, pluralism
+  the six categories, the seven categories, non-existence, atoms, the atomic theory, the indivisibles, the eternal atoms, the unseen force
+  padartha
+
+V:
+  categorize, atomize, analyse, classify, enumerate, define, distinguish, particularize, resolve into atoms
+
+Adj:
+  atomistic, categorial, Vaiśeṣika, analytic, analytical, realist, pluralist, atomic, particularist, classificatory
+
+Adv:
+  analytically, atomistically, categorially
+
+Phr:
+  atoms and categories

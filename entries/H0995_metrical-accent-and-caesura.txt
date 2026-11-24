@@ -1,9 +1,0 @@
-# 995 Metrical Accent and Caesura
-# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse › 2. Accent
-G: Versakzent und Zäsur
-Gloss: The stress that the metre itself places, and the pause that divides the line.
-HGloss: The verse-accent on particular syllables of the foot, and the caesura, which cuts across the feet and keeps the line from falling apart into its units.
-
-N:
-  metrical accent and caesura; verse accent, metrical stress, diaeresis, pause, break, masculine caesura, feminine caesura
-  caesura, ictus, arsis, thesis

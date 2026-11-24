@@ -1,0 +1,11 @@
+# 1204 Nyaya and Vaisheshika
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › a. Oriental Philosophy › iii. Indian Philosophy
+G: Nyāya und Vaiśeṣika (Gotama und Kaṇāda)
+Gloss: The Indian schools of logic and atomism, which analyse knowledge into its sources and the world into its categories and indivisible parts.
+HGloss: The Nyaya and Vaisheshika, Indian logic and atomism.
+
+N:
+  Nyaya and Vaisheshika; Gotama and Kaṇāda
+
+F:
+  Sanskrit: Nyāya and Vaiśeṣika, pramāṇa [perception, inference, comparison, testimony], paramāṇu [atom], padārtha, pratyakṣa, anumāna, upamāna, śabda, dravya, guṇa, karman, sāmānya, viśeṣa, samavāya, abhāva, tarka, vyāpti, hetu, adṛṣṭa, ānvīkṣikī, vāda

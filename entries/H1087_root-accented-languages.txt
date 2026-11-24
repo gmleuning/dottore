@@ -1,0 +1,8 @@
+# 1087 Root-Accented Languages
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse › 3. Sound of Syllables
+G: Stammbetonte Sprachen
+Gloss: Languages like German in which stress falls on the root syllable that carries the meaning.
+HGloss: The modern languages, in which the accent falls on the root syllable of meaning, so that sense rather than natural length governs the stress.
+
+N:
+  root-accented languages; root accent, root syllable, stem stress, accentual languages, stress-timed languages, the modern languages, the Germanic languages

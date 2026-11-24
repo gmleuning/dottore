@@ -1,0 +1,14 @@
+# 891 Indian Poetry
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › ii. The Symbolism of the Sublime › 1. The Pantheism of Art
+G: Die indische Poesie
+Gloss: The pantheism of Indian poetry, which finds the One in the best of every kind of thing.
+HGloss: Die indische Poesie: Krishna declaring himself the brightest of lights and the best of each kind, the one essence in all its many shapes.
+
+N:
+  Indian poetry
+  Indian pantheism
+  the Bhagavad Gita, Krishna, the Vedas, the Upanishads, Brahman, the One in all, the best of each kind
+
+Phr:
+  aham ātmā guḍākeśa sarvabhūtāśayasthitaḥ [Skt.] [Bhagavad Gita 10.20]
+  I am the Spirit seated deep in every creature's heart [Bhagavad Gita 10.20, tr. Arnold]

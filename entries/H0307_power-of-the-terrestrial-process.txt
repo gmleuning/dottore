@@ -1,0 +1,32 @@
+# 307 Power of the Terrestrial Process
+# Nature › 3. Organics › I. Terrestrial Organism › α. History of the Earth
+G: Macht des Erdprozesses
+Gloss: The forces that formed the earth.
+HGloss: The past forces of the formative process of the earth, which, as past, have left behind their products.
+
+N:
+  power of the terrestrial process; geological forces, tectonic forces, plutonic forces, volcanism, upheaval, uplift, subsidence, orogeny, earthquake, eruption, erosion, weathering, sedimentation, deposition, glaciation, disendowment†
+  the formative forces, Neptunism, Vulcanism, Plutonism, fire and water, volcanic power
+  cataclysm
+  veins, lodes, gangue, Gangarten, veinstone, matrix, the breaking down of primitive rock, decomposition, disintegration, dissolution, weathering of granite, falling apart, alluvium in the making
+  external forming, the dying out of the moments, falling apart into indifferent being
+
+V:
+  upheave, uplift, erupt, quake, erode, weather, deposit, subside
+  elevate, raise
+  form, precipitate
+  decompose, disintegrate, dissolve, crumble, break down, fall apart
+
+Adj:
+  tectonic, volcanic, plutonic, seismic, erosive, orogenic, telluric
+  igneous, isothermal†, isothermic†, isotheral†
+  formative, Neptunian, Vulcanian
+  decomposed, disintegrated, weathered, crumbling
+
+Adv:
+  by upheaval, seismically
+  by fire and water
+
+Phr:
+  the mountains skipped like rams [Bible]
+  the forces of nature

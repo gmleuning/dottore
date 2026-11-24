@@ -1,0 +1,13 @@
+# 1219 Empedocles
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › i. From Thales to Aristotle › 1. Presocratics
+G: Empedokles
+Gloss: The Sicilian who explained the world by four roots, earth, water, air and fire, joined by love and parted by strife.
+HGloss: Empedocles, who joins the elements by love and parts them by strife, a synthesis still without the concept.
+
+N:
+  Empedocles
+  the four elements, love and strife, the roots
+  Empedocles of Acragas, the four roots, Etna, mixture and separation
+
+Adj:
+  Empedoclean

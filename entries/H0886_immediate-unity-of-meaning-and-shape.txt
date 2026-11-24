@@ -1,0 +1,29 @@
+# 886 Immediate Unity of Meaning and Shape (Zoroastrian)
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › i. Unconscious Symbolism
+G: Unmittelbare Einheit von Bedeutung und Gestalt
+Gloss: Symbolism in which the divine is directly one with a natural thing, as light.
+HGloss: The immediate unity of meaning and shape, as Zoroastrian light, which is at once the divine and natural light.
+
+N:
+  immediate unity of meaning and shape; Zoroastrian symbolism, light as god, fire symbolism, the sun, Ahura Mazda as light, Avesta
+  immediate unity, immediate identity of meaning and shape, the divine as light, the Zend religion, Ormuzd, the natural as the absolute, unseparated meaning
+
+V:
+  shine, identify, worship
+  coincide, be one, unite, fuse
+
+Adj:
+  immediate, luminous, Zoroastrian, literal
+  unseparated, undivided, identical, one, direct
+
+Adv:
+  immediately, literally
+  directly, at one, without separation
+
+F:
+  Avestan: ātar [fire]
+
+Phr:
+  light is the good
+  light is the god
+  the sacred fire

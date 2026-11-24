@@ -1,0 +1,25 @@
+# 362 The Animal's Process with Light
+# Nature › 3. Organics › III. Animal Nature › β. The Animal's Process of Assimilation › b. Practical Process
+G: Lichtprozess des Tiers
+Gloss: The animal's relation to light, as in coloration and the sensitivity of its skin.
+HGloss: The animal's relation to light, its colouring and sensitivity, the outward facing of its skin.
+
+N:
+  the animal's process with light; coloration, pigmentation, plumage, pelage, markings, camouflage, mimicry, display, bioluminescence, phosphorescence, skin colour, tanning, photosensitivity
+  the animal's relation to light, the play of colour, sensitivity to light
+
+V:
+  colour, display, camouflage, mimic, glow, tan
+  tint, respond to light
+
+Adj:
+  coloured, pigmented, iridescent, bioluminescent, photosensitive, camouflaged
+
+Adv:
+  in full plumage
+  in colour, toward the light
+
+Phr:
+  the peacock's tail
+  to come into the light
+  skin deep

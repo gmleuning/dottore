@@ -1,0 +1,33 @@
+# 322 The Plant's Process of Formation
+# Nature › 3. Organics › II. Plant Nature
+G: Gestaltungsprozess der Pflanze
+Gloss: The process by which a plant builds its own body.
+HGloss: The plant's process of self-formation, its outward going in which each member is a whole plant.
+
+N:
+  the plant's process of formation; morphogenesis, growth, development, metamorphosis of plants, primal plant, organogenesis, differentiation
+  expansion, enlargement, pullulation
+  increase, increment, accretion
+  evolution
+  the formative process, self-building, vegetative growth, the unfolding of the plant
+
+V:
+  grow, develop, form, differentiate, metamorphose, shoot, ramify
+  expand, enlarge, swell, spring up, bud
+  build, unfold, articulate
+
+Adj:
+  formative, morphogenetic, developmental, metamorphic
+  vegetative
+
+Adv:
+  in formation, as it grows
+  by formation, from within
+
+F:
+  German: Metamorphose der Pflanzen [Goethe], Urpflanze [Goethe]
+
+Phr:
+  everything is leaf [Goethe]
+  to grow on
+  shoot up

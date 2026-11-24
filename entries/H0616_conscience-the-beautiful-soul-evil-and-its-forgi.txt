@@ -1,0 +1,35 @@
+# 616 Conscience, the Beautiful Soul, Evil and Its Forgiveness
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › iii. Spirit Certain of Itself: Morality
+G: Gewissen, die schöne Seele, das Böse und seine Verzeihung
+Gloss: The self-certain moral will, its refusal to act, its wrongdoing, and the forgiveness that reconciles.
+HGloss: Conscience, the beautiful soul, and evil and its forgiveness, in which the moral self comes to reconciliation.
+
+N:
+  conscience, the beautiful soul, evil and its forgiveness; conscience, inner voice, moral sense, scruple, synderesis
+  the conscientious self, the certainty of conscience, the acting conscience, the judging conscience, the hard heart, confession, pardon, absolute spirit appearing
+  synteresis
+
+V:
+  answer to one's conscience, scruple, judge, confess, forgive
+  act on conscience, reconcile
+
+Adj:
+  conscientious, scrupulous, principled, upright, conscience-stricken
+  self-certain, judging, forgiving
+
+Adv:
+  conscientiously, in good conscience, in all conscience, perdy†
+  in conscience, in forgiveness
+
+F:
+  German: Gewissen
+  Latin: conscientia
+  Greek: syneidēsis
+  Sanskrit: antaḥkaraṇa [inner faculty]
+  Chinese: liangxin [conscience]
+  Korean: yangsim [conscience]
+
+Phr:
+  conscience does make cowards of us all [Hamlet]
+  to let one's conscience be one's guide
+  a clear conscience

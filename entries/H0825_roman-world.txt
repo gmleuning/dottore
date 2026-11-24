@@ -1,0 +1,33 @@
+# 825 Roman World (Abstract Legal Personhood)
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History
+G: Die römische Welt
+Gloss: The world of Rome, in which, as in Greece, only some are free, and the individual counts as an abstract legal person under an impersonal state.
+HGloss: The Roman world of abstract universality, where the person counts as a holder of rights and the state is a hard, alien power.
+
+N:
+  the Roman world; abstract legal personhood, Rome, the Roman Republic, the Roman Empire, SPQR, Roman law, abstract universality, the manhood of history
+  the Roman realm, the manhood of spirit, legal personality, the person, the republic, dominion
+  Romanitas, civitas
+  fasces†
+
+V:
+  conquer, rule, legislate, administer, Romanize
+  dominate, subject
+
+Adj:
+  Roman, imperial, republican, legalistic, austere, prosaic
+  Latin, legal, juridical, abstract
+
+Adv:
+  in the Roman manner
+  in the Roman world, legally, as persons
+
+F:
+  Latin: Imperium Romanum, Senatus Populusque Romanus, gravitas, virtus, pietas, Rōma, more Romano
+  Arabic: al-Rūm [Romans, Byzantines]
+
+Phr:
+  tu regere imperio populos, Romane, memento [Lat.] [Virgil]
+  Roma aeterna [Lat.]
+  all roads lead to Rome
+  Rome wasn't built in a day

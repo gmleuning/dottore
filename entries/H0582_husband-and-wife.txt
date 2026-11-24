@@ -1,0 +1,26 @@
+# 582 Husband and Wife
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › i. True Spirit: The Ethical Order › 1. The Ethical World › b. The Movement of the Two Laws
+G: Mann und Frau
+Gloss: The bond of husband and wife, in which each knows itself in the other through natural feeling.
+HGloss: Mann und Frau: the immediate self-recognition of one consciousness in another, mixed with natural feeling, which has its actuality not in itself but in the child.
+
+N:
+  husband and wife
+  marriage, matrimony, wedlock, conjugal bond, conjugality, spouse, husband, wife, consort, partner, helpmeet, the conjugal relation
+
+V:
+  marry, wed, espouse, cleave unto, take to wife
+
+Adj:
+  conjugal, marital, matrimonial, spousal, wedded, nuptial
+
+Adv:
+  in wedlock, as man and wife
+
+F:
+  German: Ehe
+  Latin: conubium
+
+Phr:
+  and they twain shall be one flesh [Bible]
+  till death us do part

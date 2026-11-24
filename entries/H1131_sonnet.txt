@@ -1,0 +1,18 @@
+# 1131 Sonnet
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › c. Song › ii. Sonnet, Sestina, Elegy, Epistle
+G: Das Sonett
+Gloss: The fourteen-line poem, in which a feeling is turned over in reflection within a strict form.
+HGloss: Das Sonett: a form in which reflection enters the song, the feeling worked out with art and turned toward a thought, as in Petrarch.
+
+N:
+  sonnet
+  Petrarchan sonnet, Shakespearean sonnet, octave and sestet, quatorzain, sonnet sequence, Petrarch
+
+V:
+  sonnetize
+
+F:
+  Italian: sonetto
+
+Phr:
+  scorn not the sonnet [Wordsworth]

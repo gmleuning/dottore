@@ -1,0 +1,22 @@
+# 1065 The Virtuosic
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music › 3. Relation Between Expression and Content › c. The Execution of Musical Works of Art
+G: Virtuosität
+Gloss: Performance in which the player's own brilliance becomes the matter: virtuosity, improvisation, display.
+HGloss: The second kind of execution, in which the performer is no longer a mere reproducer but co-creator, and virtuosity shows the mastery of the living artist.
+
+N:
+  the virtuosic; showpiece, tour de force, display, pyrotechnics, flourish, brilliance
+  virtuosity, bravura, virtuoso, cadenza, improvisation
+
+V:
+  improvise, extemporize
+
+Adj:
+  virtuosic, improvisatory, masterly
+
+Adv:
+  with virtuosity, masterfully
+
+Phr:
+  the virtuoso
+  the performer as co-creator

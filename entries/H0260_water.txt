@@ -1,0 +1,45 @@
+# 260 Water
+# Nature › 2. Physics › I. Physics of Universal Individuality › β. Elements › b. Elements of Opposition
+G: Wasser
+Gloss: The neutral element; the fluid that takes any shape.
+HGloss: The element of neutrality, without shape of its own, taking any shape, the possibility of the chemical process.
+
+N:
+  water; fluid, liquid, the liquid element, flood, sea, ocean, river, stream, rain, wave, current, spring, fountain, the deep; neutrality, formlessness, adaptability; the waters, the briny, H₂O
+  artesian well, fount, rill, rivulet, gill, gullet, rillet†, streamlet, brooklet, branch [U.S.], runnel, sike†, burn, beck, creek, brook, bayou, reach, tributary
+  main, deep, brine, salt water, waves, billows, high seas, offing, great waters, watery waste, vasty deep
+  course, flux, profluence†, effluence &c H0238, defluxion†, flowing, tide, race, coulee
+  liquor, lymph, humor, juice, sap, serum, serosity†, sanies†
+  the watery element, the neutral, fluidity
+  thinner, splashing
+  aqueousness
+
+V:
+  water, wet, moisten, dampen, irrigate, flood, flow, stream, pour, trickle, drip, splash, wash, rinse, dissolve, quench, distain†
+  add water, dilute, dip, immerse, merge, immerge, submerge, plunge, souse, duck, drown, steep, macerate, pickle, sprinkle, lave, bathe, affuse†, swash, douse, dabble, slop, slobber, syringe, inject, gargle, begrease†, drabble†, beslime†, drabble in the mud†, pudder†, faddle fribble†
+  run, meander, gush, spout, roll, jet, well, issue, drop, dribble, plash, spirtle†, trill, distill, percolate, overflow, inundate, deluge, flow over, guggle†, murmur, babble, bubble, purl, gurgle, sputter, spurt, spray, regurgitate, ooze, flow out &c H0238, slabber†, susurrate†
+  humect†, humectate†, sponge, bedew, imbue, imbrue, infiltrate, saturate, soak
+  pour out &c H0238, shower down, drench, spill
+
+Adj:
+  watery, aqueous, aquatic, fluid, liquid, wet, moist, humid, dank, damp, sodden, fluvial, marine, liquescent, colliquative†
+  madid†, roric†, undried†, sultry, luggy†, dewy, roral†, rorid†, roscid†
+  hydrous, lymphatic, balneal†, diluent, drenching, diluted, weak
+  serous, juicy, succulent, sappy, ichorous†, fluent &c H0262
+
+Adv:
+  by water, afloat, under water, in the swim
+  fluidly
+
+F:
+  Latin: aqua
+  Greek: hydōr
+
+Phr:
+  water is the archē of all things [Thales, via Aristotle]
+  the highest good is like water [Laozi]
+  you cannot step twice into the same river [Heraclitus]
+  water, water, everywhere, nor any drop to drink [Coleridge]
+  water finds its own level
+  like water off a duck's back
+  the waters are out

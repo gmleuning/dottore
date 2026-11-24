@@ -1,0 +1,13 @@
+# 1250 The Syrian School
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › iii. Neoplatonism
+G: Die syrische Schule
+Gloss: The school of Iamblichus in Syria, which joined Neoplatonism to theurgy and the rites of the old gods.
+HGloss: The Syrian school of Iamblichus, in which Neoplatonism turns to theurgy and multiplies the orders of the divine.
+
+N:
+  the Syrian school
+  Iamblichus, theurgy
+  Apamea, On the Mysteries, ritual, the emperor Julian
+
+Adj:
+  Iamblichean

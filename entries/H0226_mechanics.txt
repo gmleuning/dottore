@@ -1,0 +1,31 @@
+# 226 Mechanics
+# Nature
+G: Mechanik
+Gloss: The study of matter and motion at their most abstract and external.
+HGloss: Nature's first sphere, of asunderness without inwardness: space, time, matter and motion, and the free motion of the heavens.
+
+N:
+  mechanics; mechanical philosophy, physics of motion, dynamics, kinematics, statics, kinetics; matter in motion
+  the mechanical sphere, the science of motion, abstract externality
+
+V:
+  move, set in motion, impel, propel
+  be in motion
+  put in motion, set agoing†
+  force, impel &c H0242, propel &c H0238
+  mechanize, push, weigh
+
+Adj:
+  mechanical, kinematic, kinetic, dynamic, static
+  abstract, external
+
+Adv:
+  mechanically, kinetically
+  externally
+
+F:
+  Arabic: ʿilm al-ḥiyal [science of mechanical devices]
+
+Phr:
+  give me a place to stand and I will move the earth [Archimedes]
+  the nuts and bolts

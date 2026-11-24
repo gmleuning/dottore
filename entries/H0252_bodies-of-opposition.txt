@@ -1,0 +1,26 @@
+# 252 Bodies of Opposition
+# Nature › 2. Physics › I. Physics of Universal Individuality › α. Free Physical Bodies
+G: Körper des Gegensatzes
+Gloss: The heavenly bodies in which contrasting physical tendencies take shape.
+HGloss: The physical bodies of difference, rigidity and dissolution, set in opposition as the moon and the comet.
+
+N:
+  bodies of opposition; polar bodies, contrasting bodies, opposite tendencies, rigidity and dissolution, contraction and expansion; satellites and comets
+  the bodies of contrast, moon and comet, the lunar and the cometary, the dependent bodies
+  polarity
+
+V:
+  oppose, contrast, polarize
+  orbit
+
+Adj:
+  polar, opposed, contrasting
+  lunar, cometary, dependent
+
+Adv:
+  in opposition, at opposite poles
+
+Phr:
+  as different as the moon and a comet
+  the two lights
+  opposites in the heavens

@@ -1,0 +1,48 @@
+# 552 Truth
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › a. The Certainty and Truth of Reason › i. Reason's Certainty of Being All Reality › 3. Spirit and Truth (Conceptual Reason)
+G: Wahrheit
+Gloss: The unity of thought and what is, in which the object answers to its concept; more than the mere correctness of an idea.
+HGloss: The concept that is in agreement with its reality.
+
+N:
+  truth; the true, verity, fact, reality, correctness, accuracy, rightness, validity, veracity, truthfulness, correspondence, coherence, agreement with the object
+  reality &c H0004, plain fact, plain matter of fact, nature &c H0091, gospel, gospel truth, God's honest truth, orthodoxy &c H1160, authenticity, veracity &c H0731, correctitude†
+  actuality, matter of fact, truth &c H0214
+  sincerity, honesty, love of truth
+  adequation
+  veridicality
+
+V:
+  be true, hold true, ring true, correspond, agree, accord; verify
+  tally
+  be the case, have the true ring, hold good, hold water
+
+Adj:
+  true, veritable, veracious, real, actual, factual, correct, accurate, right, valid, sound, authentic, genuine
+  actual &c H0004, certain &c H0667, substantially true, categorically true, definitively true, true to the letter, true as gospel, unimpeachable, veracious &c H0731, unreconfuted†, unconfuted†, unideal†, unimagined, realistic, unrefuted†
+  true &c H0214
+  legitimate
+  veridical, adequate
+
+Adv:
+  truly, verily, in truth, in very truth, in fact, indeed
+  really, with truth &c H0731, certainly &c H0667, actually &c H0004, in effect &c H0091
+  actually, in point of fact, in reality
+
+F:
+  Latin: veritas, de facto, adaequatio rei et intellectus, aequalitas, concordia, convenientia
+  Greek: alētheia [unconcealment], orthotēs
+  Arabic: ḥaqq [truth, reality], ṣidq [truthfulness]
+  Sanskrit: satya, ṛta
+  Japanese: makoto [sincerity, truth]
+  Russian: istina [truth as what is], pravda [truth as justice]
+  French: vérité
+  Hebrew: emet, emunah
+
+Phr:
+  veritas liberabit vos [Lat.] [Bible]
+  the truth is the whole [Hegel]
+  satyam eva jayate [Skt.] [truth alone triumphs] [Mundaka Upanishad]
+  what is truth? quid est veritas? [Lat.] [Bible]
+  the naked truth
+  truth will out

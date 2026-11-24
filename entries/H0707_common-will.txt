@@ -1,0 +1,34 @@
+# 707 Common Will
+# Spirit › 2. Objective Spirit › I. Abstract Right › β. Contract › c. Kinds of Contract › iii. Contract Completed by Pledge
+G: Gemeinsamer Wille
+Gloss: The will that the parties share in an agreement.
+HGloss: The common will of the contract, the identity of wills which is the essence of right.
+
+N:
+  common will; shared will, consensus, mutual agreement, joint intention, meeting of minds, convergence of wills
+  joint will, agreement, unity of wills
+  concord
+
+V:
+  agree, concur, consent, converge
+  assent, agree &c H0097, accede, accord, coincide
+  conspire, unite, make common cause
+  cooperate, coact†, synergize
+  will in common
+
+Adj:
+  common, shared, joint, consensual, concurrent
+  mutual
+
+Adv:
+  jointly, by common consent, with one accord
+  with one consent, with one voice, unanimously, una voce
+  in common, by mutual consent
+
+F:
+  Latin: consensus ad idem
+  Arabic: ijmāʿ [consensus]
+
+Phr:
+  with one voice
+  of one mind

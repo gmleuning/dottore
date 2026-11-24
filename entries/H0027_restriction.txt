@@ -1,0 +1,27 @@
+# 27 Restriction
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › iii. Finitude as Such › 2. Restriction and the Ought
+G: Die Schranke
+Gloss: A limit felt from within as a barrier that one already reaches beyond.
+HGloss: Schranke, the limit as something's own negation, posited as a restriction that its in-itself already transcends.
+
+N:
+  restriction
+  limitation, barrier, bar, obstacle, check, hindrance, impediment, constraint, restraint, confinement, fetter, shackle, trammel, ceiling, glass ceiling, cap
+  let, knot, knag†, hitch, contretemps, screw loose, grit in the oil
+  prevention, preclusion, obstruction, stricture, restraint &c H0712, interclusion†, impedition†, retardment†, oppilation†
+  deterrent, hamper, roadblock, blockage
+
+V:
+  limit, restrict, confine, bar, check, hinder, constrain, restrain, hem in, cramp, curb, fetter, trammel
+  retard, preclude, inhibit &c H0778, shackle &c H0712, antevert†, countercheck†
+  hold back, hold in check, keep within bounds
+  impede, obstruct, impedite†
+
+Adj:
+  limited, restricted, confined, hemmed in, cramped, constrained
+
+Adv:
+  within limits
+
+F:
+  German: Schranke

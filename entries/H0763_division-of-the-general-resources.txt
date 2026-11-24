@@ -1,0 +1,89 @@
+# 763 Division of the General Resources
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs
+G: Teilung des allgemeinen Vermögens
+Gloss: The wealth of society and the classes into which it is divided.
+HGloss: The universal permanent resources and their division into estates, systems of need, means and work.
+
+N:
+  division of the general resources; social classes, estates, orders, ranks, stations, conditions, callings, social strata, occupations, the general resources
+  provision, livelihood, maintenance, alimony, dowry, means, resources, substance, property &c H0684, command of money
+  rich man, moneyed man, warm man, man of substance, capitalist, millionaire, tippybob [Slang], Nabob, Croesus, idas, Plutus, Dives, Timon of Athens†, Timocracy, Plutocracy, Danae
+  pelf, Mammon, lucre, filthy lucre, loaves and fishes†
+  treasurer, bursar, bursary, purser, purse bearer, cash keeper, banker, depositary, questor†, receiver, steward, trustee, accountant, Accountant General, almoner, liquidator, paymaster, cashier, teller, cambist†, money changer &c H0768
+  financier
+  Secretary of the Treasury, Chancellor of the Exchequer, minister of finance
+  treasury, bank, exchequer, fisc, hanaper†, cash register, kutcherry†, strong box, strong hold, strong room, coffer, chest &c H0237, safe, bank vault, depository, till, tiller, purse, money bag, money box
+  purse strings, pocket, breeches pocket
+  sinking fund, stocks, public stocks, public funds, public securities, parliamentary stocks, parliamentary funds, parliamentary securities, Consols, bonds
+  economy, frugality, thrift, thriftiness, care, husbandry, good housewifery, savingness†, retrenchment
+  savings, prevention of waste, save-all, cheese parings and candle ends, parsimony &c H0677
+  cost-cutting, cost control
+  prodigality, prodigence†, unthriftiness†, waste, profusion, profuseness, extravagance, squandering, malversation
+  prodigal, spendthrift, waste thrift, losel†, squanderer†, locust, high roller [U.S.]
+  parsimony, parcity†, parsimoniousness†, stinginess, illiberality, tenacity
+  avarice, greed &c H0759
+  miser, niggard, churl, screw, skinflint, crib, codger, muckworm†, scrimp, lickpenny†, hunks, curmudgeon, Harpagon, harpy, extortioner, usurer, Hessian [U.S.], pinch fist, pinch penny
+  the universal resources, the general wealth, class-division
+
+V:
+  belong, rank, occupy a station
+  reserve, keep back, hold back, husband, husband one's resources
+  worship the golden calf, worship Mammon
+  enrich, imburse
+  become rich, strike it rich, come into a sum of money, receive a windfall, receive an inheritance, hit the jackpot, win the lottery, fill one's pocket &c H0796, feather one's nest, make a fortune, make money &c H0685
+  afford, well afford, command money, command a sum, make both ends meet, hold one's head above water
+  be rich, roll in wealth, roll in riches, wallow in wealth, wallow in riches
+  be economical, practice economy, economize, save, retrench, cut back expenses, cut expenses, cut one's coat according to one's cloth, keep within compass, meet one's expenses, pay one's way, pay as you go
+  save money, invest money, put out to interest, provide for a rainy day, save for a rainy day, provide against a rainy day, save against a rainy day, look after the main chance
+  cut costs
+  be prodigal, squander, lavish, sow broadcast, pour forth like water, blow, blow in [Slang], pay through the nose &c H0699, spill, dissipate, exhaust, drain, eat out of house and home, overdraw, outrun the constable, run out, run through, misspend, throw good money after bad, throw the helve after the hatchet†, burn the candle at both ends, make ducks and drakes of one's money, fool away one's money, potter away one's money, muddle away one's money, fritter away one's money, throw away one's money, run through one's money, pour water into a sieve, kill the goose that lays the golden eggs
+  be parsimonious, grudge, begrudge, stint, pinch, gripe, dole out, withhold, starve, famish, live upon nothing, skin a flint
+  drive a bargain, drive a hard bargain, cheapen, beat down, stop one hole in a sieve, have an itching palm, grasp, grab
+  divide, share, stratify
+
+Adj:
+  social, class-based, estate-based, occupational, stratified
+  flush, flush of cash, flush of money, flush of tin [Slang], in funds, in cash, in full feather, solvent, pecunious†, out of debt, in the black, all straight, unowed†
+  made of money, rich as Croesus, filthy rich, rolling in riches, rolling in wealth, rich as a Jew†
+  wealthy, rich, affluent, opulent, moneyed, monied, worth much, well to do, well off, warm, comfortable, well, well provided for
+  economical, frugal, careful, thrifty, saving, chary, spare, sparing, parsimonious &c H0677
+  underpaid
+  profuse, thriftless, unthrifty, improvident, wasteful, extravagant, dissipated, overliberal, full-handed &c H0677
+  penny wise and pound foolish
+  parsimonious, penurious, stingy, miserly, mean, shabby, peddling, scrubby, penny wise, near, niggardly, close, fast handed, close handed, strait handed, close fisted, hard fisted, tight fisted, tight, grudging, griping, illiberal, ungenerous, churlish, hidebound, sordid, mercenary, venal, covetous, usurious, avaricious, greedy, extortionate, rapacious, scrannel†, putid†
+  class
+  cautious, scarce
+
+Adv:
+  according to one's station
+  sparingly
+  with an unsparing hand, money burning a hole in one's pocket
+  with a sparing hand
+  by estate, by class
+
+F:
+  German: Stände, das allgemeine Vermögen, Bildungsbürgertum [the educated middle class]
+  Latin: ne quid nimis
+  French: porte-monnaie, credit mobilier, manger son ble en herbe, Tiers État
+  Sanskrit: varṇa [estate, class]
+  Korean: sinbun [estate, status]
+
+Phr:
+  my station and its duties [F. H. Bradley]
+  the station in life
+  to know one's place
+  adde parvum parvo magnus acervus erit [Lat.]
+  one's ship coming in
+  amour fait beaucoup mais argent fait tout [Fr.], love does much but money does everything
+  aurea rumpunt tecta quietem [Lat.] [Seneca]
+  magna servitus ist magna fortuna [Lat.]
+  mammon, the least erected spirit that fell from Heaven [Paradise Lost]
+  opum furiata cupido [Lat.] [Ovid]
+  vera prosperita e non aver necessita [It.]
+  wie gewonnen so zerronnen [Ger.]
+  magnum est vectigal parsimonia [Lat.] [Cicero]
+  amor nummi [Lat.]
+  facile largiri de alieno [Lat.]
+  les fous font les festins et les sages les mangent [Fr.]
+  spendthrift alike of money and of wit [Cowper]
+  squandering wealth was his peculiar art [Dryden]

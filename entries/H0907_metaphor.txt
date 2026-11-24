@@ -1,0 +1,28 @@
+# 907 Metaphor
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 2. Comparisons Starting from the Meaning › c. Metaphor, Image, Simile
+G: Die Metapher
+Gloss: A comparison compressed into a single word or phrase, the image put in place of the thing itself.
+HGloss: Die Metapher: an abbreviated comparison, in which image and meaning are not set apart but only the image is given and the meaning is read from it.
+
+N:
+  metaphor
+  trope, figure, kenning, conceit, transference
+  phrase &c H0662, enallage†, catachresis†, metonymy [Gramm.], synecdoche [Sem.], autonomasia†, irony, figurativeness, metalepsis†, anagoge†, personification, prosopopoeia†, allegory, apologue†, parable, fable, allusion, adumbration, application
+  figure of speech, way of speaking, colloquialism
+  exaggeration, hyperbole &c H0662
+
+V:
+  metaphorize, figure
+  transfer
+
+Adj:
+  metaphorical, figurative, tropical [in the rhetorical sense]
+  catachrestical†, typical, tralatitious†, parabolic, allegorical, allusive, anagogical†, ironical, colloquial
+
+Adv:
+  metaphorically, figuratively, so to speak
+  so to say, so to express oneself, as it were
+
+Phr:
+  all the world's a stage [As You Like It]
+  a figure of speech

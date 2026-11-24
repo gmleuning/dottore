@@ -1,0 +1,27 @@
+# 758 Immediate Seizure
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › a. The System of Needs
+G: Unmittelbare Besitznahme
+Gloss: Taking what nature offers without working it: gathering, foraging, hunting, scavenging.
+HGloss: The satisfaction of need by direct seizure of what nature gives; Hegel notes how little such material there is, since even air must be warmed and only water is drunk as found (§196 Zusatz).
+
+N:
+  immediate seizure; foraging, gathering, hunting and gathering, hunting, fishing, scavenging, scrounging, gleaning, salvage, scrap, salvaged goods, found food, wild food, forage, windfall, fruits of the earth, the bounty of nature, living off the land, the state of nature, simple natural needs
+  trouvaille†
+
+V:
+  forage, gather, glean, scavenge, scrounge, salvage, hunt, fish, pick, pluck, live off the land
+  live from hand to mouth
+
+Adj:
+  wild, uncultivated, foraged, found, unworked, raw
+
+Adv:
+  from hand to mouth, as nature gives it
+
+F:
+  German: Naturzustand
+
+Phr:
+  das unmittelbare Material, das nicht verarbeitet zu werden braucht, ist nur gering [Ger.] [Hegel, Philosophy of Right §196 Zusatz]
+  nur etwa das Wasser kann man so trinken, wie man es vorfindet [Ger.] [Hegel, Philosophy of Right §196 Zusatz]
+  they toil not, neither do they spin [Bible]

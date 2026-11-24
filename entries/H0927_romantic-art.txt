@@ -1,0 +1,33 @@
+# 927 Romantic Art
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art
+G: Die romantische Kunstform
+Gloss: Art in which the mind withdraws into its own inwardness, beyond what any outward form can hold.
+HGloss: Art in which spirit withdraws into its own inwardness and the outward shape becomes inadequate: romantic art.
+
+N:
+  romantic art; romanticism, Christian art, inwardness, subjectivity, spiritual depth, the infinite within, longing, the medieval and modern, the soul's inner life
+  aspiration
+  the romantic form of art, the art of inwardness, subjective inwardness, absolute inwardness, the infinite subjectivity, spiritual beauty, the beauty of soul, the art of the heart
+
+V:
+  interiorize, spiritualize, yearn, transcend
+  turn inward, withdraw, internalize, overflow
+
+Adj:
+  romantic, inward, spiritual, Christian, yearning, subjective, soulful
+  intrinsic, inherent
+  mental
+  infinite, medieval
+
+Adv:
+  romantically, inwardly
+  spiritually, beyond form
+
+F:
+  German: Romantik, Innerlichkeit, Sehnsucht, romantisch
+  French: romantique
+
+Phr:
+  [der Geist geht] zur Versöhnung seiner in sich selber zurück [Ger.] [Hegel, Aesthetics, on romantic art]
+  the inward life
+  heart's longing

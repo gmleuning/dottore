@@ -1,0 +1,54 @@
+# 173 Problematic Judgment
+# Logic › 3. Doctrine of the Concept › I. Subjectivity › β. Judgment › d. Judgment of the Concept
+G: Problematisches Urteil
+Gloss: A judgment of value stated as uncertain: "this house may be good."
+HGloss: The subject judged according to whether it corresponds to its concept, so the judgment is only possibly true.
+
+N:
+  problematic judgment; possible judgment, tentative judgment, conjecture, surmise, guess, speculation, supposition, hypothesis, maybe, perhaps; uncertainty, doubt, hedging, qualification, conjecturality†
+  guesswork, suspicion, estimate
+  incertitude, doubtfulness, dubiety
+  assumption
+  probability, likelihood, credibleness†, likeliness, verisimilitude, plausibility, color, semblance, show of, presumption, presumptive evidence, circumstantial evidence, credibility
+  reasonable chance, fair chance, good chance, favorable chance, reasonable prospect, fair prospect, good prospect, favorable prospect, prospect, wellgrounded hope, chance &c H0142
+  improbability, unlikelihood, unfavorable chance, bad chance, ghost of a chance, little chance, small chance, poor chance, scarcely any chance, no chance, bare possibility, long odds, incredibility &c H0532
+  the uncertain judgment, the doubtful verdict, the may-be, possibility
+  guessing
+
+V:
+  conjecture, surmise, guess, speculate, suppose, suspect, wonder, hazard, venture, hedge, presurmise†, wis†
+  divine, presume
+  be probable, give color to, lend color to, point to, imply &c H0776, bid fair &c H1164, stand fair for, stand a good chance, run a good chance
+  think likely, dare say, flatter oneself, expect &c H0646, count upon &c H0667
+  be improbable, have a small chance
+  question
+
+Adj:
+  problematic, problematical, tentative, conjectural, speculative, uncertain, doubtful, dubious, open, moot, possible, hypothetical
+  supposable, presumptive, putative
+  undecided, undetermined, open to discussion, in question &c H0667
+  probable, likely, hopeful, to be expected, in a fair way
+  plausible, specious, ostensible, colorable, well-founded, reasonable, credible, easy of belief, presumable, apparent
+  improbable, unlikely, contrary to all reasonable expectation, wild [Coll.], far out [Coll.], out of sight [Coll.], outtasight [Coll.], heavy [Coll.]
+  rare &c H0232, unheard of, inconceivable, unimaginable, inimaginable†, incredible &c H0532, more than doubtful, strange, bizarre &c H0073
+  debatable, baffling
+
+Adv:
+  perhaps, maybe, possibly, perchance, conceivably, for all one knows, it may be, it might be
+  by possibility, peradventure, may be, haply, mayhap
+  probably, belike†, in all probability, in all likelihood, very likely, most likely, like enough, odds on, odds in favor, ten to one, apparently, seemingly, according to every reasonable expectation, to all appearance
+  problematically
+
+F:
+  Latin: primâ facie
+  French: vraisemblance
+  Italian: ben trovato
+  Arabic: ẓann [conjecture, opinion]
+
+Phr:
+  it may be good, it may not be
+  who knows?
+  as may be
+  it remains to be seen
+  Heaven knows
+  who can tell? who shall decide when doctors disagree? ambiguas in vulgum spargere voces [Lat.]

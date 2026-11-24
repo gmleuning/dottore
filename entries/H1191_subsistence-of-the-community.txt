@@ -1,0 +1,64 @@
+# 1191 Subsistence of the Community
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › c. Community and Spirit (the Kingdom of the Spirit)
+G: Bestehen der Gemeinde
+Gloss: The continuing life of the community, in teaching, sacrament and worship.
+HGloss: The subsistence of the community in teaching, church and sacraments.
+
+N:
+  subsistence of the community; the Church, doctrine, creed, sacraments, the Eucharist, communion, baptism, tradition, teaching, preaching
+  Catholic Church, Universal Church, Apostolic Church, Established Church, temple of the Holy Ghost, Church of Christ, body of Christ, members of Christ, disciples of Christ, followers of Christ, Christian, Christian community, true believer, canonist &c H1160, Christendom, collective body of Christians
+  articles, canons, article of faith, profession of faith, tenets, credenda†, catechism
+  Eucharist, Lord's supper, the sacrament, the holy sacrament, celebration, high celebration, asperges†, offertory, introit, consecration, consubstantiation, transubstantiation, real presence, elements, mass, high mass, low mass, dry mass
+  ministration, preachment, predication, sermon, homily, discourse, prolection†
+  christening, chrism, baptismal regeneration, font
+  thirty nine articles, Apostles' Creed, Nicene Creed, Athanasian Creed†, Church Catechism, textuary†
+  council &c H0797, conclave, convocation, synod, consistory, chapter, vestry, ecclesiastical courts, consistorial court, court of Arches
+  clergy, clericals, ministry, priesthood, presbytery, the cloth, the desk, apostleship†
+  clergyman, divine, ecclesiastic, churchman, presbyter, hierophant†, pastor, shepherd, father, father in Christ, padre, abbe, cure, patriarch, reverend, black coat
+  dignitaries of the church, ecclesiarch†, hierarch†, eminence, reverence, elder, primate, metropolitan, archbishop, bishop, prelate, diocesan, suffragan†, dean, subdean†, archdeacon, prebendary, canon, rural dean, rector, parson, vicar, perpetual curate, residentiary†, beneficiary, incumbent, chaplain, curate, deacon, deaconess, preacher, reader, lecturer, missionary, propagandist, Jesuit, revivalist, field preacher, archbishopric†, archiepiscopacy†, bishopdom†, canonicate†, prebendaryship†, rectorship†, deaconry†, deaconship†, cardinalship†
+  churchwarden, sidesman†, clerk, precentor†, choir, almoner, verger, beadle, sexton, sacristan, acolyth†, acolothyst†, acolyte, altar boy, chorister
+  Pope, Papa, pontiff, cardinal, ancient flamen†, flamen†, confessor, penitentiary, spiritual director
+  cenobite, conventual, abbot, prior, monk, friar, lay brother, beadsman†, mendicant, pilgrim, palmer, canon regular, canon secular, Franciscan, Friars minor, Minorites, Observant, Capuchin, Dominican, Carmelite, Augustinian†, Gilbertine, Austin Friars†, Black Friars, White Friars, Gray Friars, Crossed Friars, Crutched Friars, Carthusian, Benedictine†, Cistercian, Trappist, Cluniac, Premonstatensian, Maturine, Templar, Hospitaler, Bernardine†, Lorettine, pillarist†, stylite†
+  abbess, prioress, canoness†, nun, novice, postulant
+  prophet, priest, high priest, Levite, Rabbi, Rabbin, Rebbe, scribe, babu†
+  mullah, muezzin, ayatollah, ulema, imaum†, imam, sheik, sufi, kahin†, kassis†, mufti, hadji, dervish, fakir, faquir†, brahmin†, guru, kaziaskier†, poonghie†, sanyasi†, druid, bonze†, santon†, abdal†, Lama, talapoin†, caloyer†, schnorrer†, ruralist†, podesta†, mollah†, cadi†, kadi†, Rhadamanthus†
+  continuance, continuation, preservation, maintenance, persistence, perpetuation, upkeep, permanence, duration, the existing community, the standing church, the visible church, the Church militant, the institution, the establishment, perennity†
+  the ministry, the clergy, the teaching office, the magisterium, instruction, catechesis, edification, cure of souls, pastoral care, the deposit of faith, the faith handed down, apostolic succession
+  cultus, worship, liturgy, rite, ritual, devotion, prayer, confession, penance, absolution, confirmation, repentance, rebirth, the means of grace, the mystical union, partaking, the Host, the Lord's table
+  the fellowship of believers, congregation, flock, fold, parish, the faithful, the communion of saints, the indwelling Spirit
+  cleric
+  sheikh
+  celibacy, clerical celibacy, vow of celibacy, monasticism, the cloister, monachism†, monachy†, monkhood†
+  ecclesiology, sacerdotalism†, ultramontanism†, ecclesiologist†
+  antichrist†, painim†, paynim†, giaour†, Rabbist†, Babist†, popedom†
+
+V:
+  teach, preach, baptize, commune, sustain
+  perform service, do duty, minister, officiate, dip, sprinkle, anoint, confirm, lay hands on, give the sacrament, administer the sacrament, administer extreme unction, hear confession, administer holy penance, shrive, excommunicate, ban with bell book and candle
+  sermonize, predicate, lecture
+  take orders
+  subsist, continue, persist, endure, abide, last, maintain, preserve, perpetuate, uphold, keep up, hand down, transmit, instruct, catechize, edify, nurture, bring up in the faith, celebrate, communicate, partake, receive the sacrament, consecrate, confess, absolve, christen, pray, feed the flock
+
+Adj:
+  sacramental, doctrinal, ecclesiastical, eucharistic
+  ecclesiological†, clerical, sacerdotal, priestly, prelatical, pastoral, ministerial, capitular†, theocratic, hierarchical, archiepiscopal, episcopal, episcopalian, canonical, monastic, monachal†, monkish, abbatial†, abbatical†, Anglican†, pontifical, papal, apostolic, Roman, Popish, ultramontane, panharmonic†
+  didactic
+  the Reverend, the very Reverend, the Right Reverend, ordained, in orders, called to the ministry
+  subsisting, continuing, abiding, enduring, standing, established, existing, institutional, traditional, liturgical, catechetical, baptismal, confessional, creedal, dogmatic, devotional, churchly, ecclesial, communicant, orthodox, cultic, homiletic
+  celibate, cloistered
+
+Adv:
+  sacramentally
+  doctrinally, liturgically, ecclesiastically, traditionally, canonically, continually, abidingly, by tradition, in communion, in the Church, by word and sacrament, from generation to generation
+
+F:
+  German: Bestehen, Gemeinde, Kirche, Lehre, Abendmahl, Taufe
+  Latin: missa cantata, ebdomarius, ecclesia, traditio, depositum fidei, unio mystica, extra ecclesiam nulla salus
+  Greek: ekklēsia, koinōnia, eucharistia
+  French: conge d'elire, suisse, Bonhomme, religieuse
+
+Phr:
+  this do in remembrance of me [Bible]
+  the body of Christ
+  bread and wine
+  of the true faith

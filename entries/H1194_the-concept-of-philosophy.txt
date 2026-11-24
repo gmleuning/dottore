@@ -1,0 +1,28 @@
+# 1194 The Concept of Philosophy (the Three Syllogisms)
+# Spirit › 3. Absolute Spirit › III. Philosophy
+G: Der Begriff der Philosophie
+Gloss: Philosophy as the unity of its parts, each of which can serve as the link joining the other two.
+HGloss: The three syllogisms by which philosophy grasps itself, logic, nature and spirit each taking the middle in turn.
+
+N:
+  the concept of philosophy; the three syllogisms, the circle of the system, the self-mediation of the whole, logic, nature, and spirit in mutual mediation
+  the idea of philosophy, the three conclusions, the triple syllogism, the syllogism of syllogisms, the triad of syllogisms, the closed circle, the ring, the self-thinking idea, the self-knowing truth, the system as a whole, the unity of the parts, the totality, the organic whole, the whole, each part as middle term, the middle term, the mean, the link, the bond, mutual mediation, reciprocal mediation, the return to the beginning, the result as beginning, science, the science of sciences, the truth aware of itself
+
+V:
+  mediate, circle, close
+  syllogize, conclude, link, join, unite, connect, bind together, interlink, intermediate, come full circle, return upon itself, round off, complete, encircle, comprehend, think itself
+
+Adj:
+  syllogistic, circular, self-mediating
+  triadic, threefold, triple, cyclical, self-enclosed, self-contained, closed, rounded, total, organic, systematic, reciprocal, interlinked, self-returning, self-thinking
+
+Adv:
+  in a circle
+  circularly, syllogistically, triadically, reciprocally, systematically, in a ring, full circle, as a whole, by mutual mediation
+
+F:
+  German: die drei Schlüsse
+
+Phr:
+  a circle of circles [Hegel]
+  the circle of circles

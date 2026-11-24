@@ -1,0 +1,23 @@
+# 1026 Greek Sculpture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › b. Sculpture › iii. Different Kinds of Sculpture › 3. Historical Stages in the Development of Sculpture › b. Greek and Roman Sculpture
+G: Die Skulptur der Griechen
+Gloss: The sculpture of Greece, the realization of the ideal in the human form.
+HGloss: Die Skulptur der Griechen, in which the classical ideal is perfectly achieved, from the Aeginetan marbles to Phidias.
+
+N:
+  Greek sculpture
+  classical sculpture, Phidias, Polyclitus, Praxiteles, Lysippus, Myron, the archaic smile, Hellenistic sculpture, Attic sculpture, Scopas, the Elgin marbles, the Aeginetan marbles, the Apollo Belvedere, the Laocoön, the canon
+
+V:
+  idealize, perfect
+
+Adj:
+  Greek, Phidian, idealized, Attic, Praxitelean, ideal
+
+Adv:
+  in the antique manner, ideally
+
+Phr:
+  the glory of the Parthenon marbles
+  the glory that was Greece
+  Phidias and Praxiteles

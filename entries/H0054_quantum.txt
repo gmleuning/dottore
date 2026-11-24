@@ -1,0 +1,46 @@
+# 54 Quantum
+# Logic › 1. Doctrine of Being › II. Magnitude
+G: Quantum
+Gloss: A definite amount; a particular "how much."
+HGloss: Quantity with a determinate limit: a how-much, whose limit is indifferent to it and drives beyond it.
+
+N:
+  quantum; definite amount, determinate magnitude, given quantity, specific quantity, fixed amount, measured amount, quota, portion, share, dose, dosage, ration, allowance, measure, amount, sum, total; how much, so much, this much, so many; number &c H0055, degree &c H0056; unit, unit of measure, increment, quantity, suerte†
+  allotment, modicum
+  magnitude, size &c H0228, amplitude, mass, substance, strength, force
+  degree, extent, ratio, range, compass
+  part, fraction, fragment
+  the how-much
+
+V:
+  quantify, measure out, mete out, dole out, portion, ration, dose, allot, apportion; amount to, total, come to, add up to
+  come up to
+
+Adj:
+  definite, determinate, specific, given, fixed, set, measured, quantified, metered, finite, exact, precise
+  well-defined
+  quantitative
+
+Adv:
+  so much, thus much, to the amount of, to the tune of; exactly, precisely, to a T. all of, a full, the sum of, fully
+
+F:
+  Latin: quantum
+  Korean: jeongnyang [quantum]
+
+Phr:
+  so much and no more
+  a pound of flesh [Merchant of Venice]
+  a set amount
+  it comes to the same thing, it amounts to the same thing
+  what is sauce for the goose is sauce for the gander
+  a maximis ad minima [Lat.]
+  greatness knows itself [Henry IV]
+  mightiest powers by deepest calms are fed [B. Cornwall]
+  minimum decet libere cui multum licet [Lat.] [Seneca]
+  some are born great, some achieve greatness, and some have greatness thrust upon them [Twelfth Night]
+  dare pondus idonea fumo [Lat.] [Persius]
+  magno conatu magnas nugas [Lat.] [Terence]
+  small sands the mountain, moments make the year [Young]
+  I shall not look upon his like again [Hamlet]
+  deos fortioribus addesse [Lat.] [Tacitus]

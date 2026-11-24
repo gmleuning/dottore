@@ -1,0 +1,24 @@
+# 1249 Plotinus and the Roman School
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › iii. Neoplatonism
+G: Plotin und die römische Schule
+Gloss: Plotinus and his circle at Rome: Ammonius Saccas his teacher and Porphyry his editor.
+HGloss: Plotinus, the chief of the Neoplatonists, with Ammonius Saccas before him and Porphyry, who edited the Enneads; the One, Nous and Soul as the concrete idea.
+
+N:
+  Plotinus and the Roman school; the Neoplatonic philosophers; Ammonius Saccas, Plotinus, Porphyry, Hypatia
+  Neoplatonists, the Alexandrians, the Platonic successors, Numenius, Amelius, Longinus, the Enneads
+
+V:
+  teach, comment
+  expound, interpret, systematize, lecture, succeed, hand down, Platonize
+
+Adj:
+  Alexandrian, late antique
+  Neoplatonic, Plotinian, Porphyrian, Platonic, pagan, Hellenic
+
+Adv:
+  in late antiquity
+  in the Platonic succession, after Plotinus, at Alexandria and Athens
+
+F:
+  Greek: diadochoi, scholarchēs

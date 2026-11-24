@@ -1,0 +1,47 @@
+# 38 The One
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › γ. Being-for-Self › a. Being-for-Self as Such
+G: Das Eins
+Gloss: A self-contained unit; the simplest notion of an individual that excludes everything else from itself.
+HGloss: Being-for-self as immediate self-relation, excluding all other: the one, the principle of atomism.
+
+N:
+  the one, the One, unit, monad, unity, oneness, singleness, single unit, individual; atom, indivisible; point; integer, digit; self, ego, I; the One of Plotinus; exclusion, exclusiveness, repulsion &c H0044
+  singularity, uniqueness, solitude, isolation
+  individuality, solitude &c H0537, isolation &c H0303, unification &c H0298, delitescence†
+  ace, none else, no other
+  the exclusive one
+  henad
+
+V:
+  unify, unite, make one; be one, stand alone; exclude, shut out, repel
+  be alone
+
+Adj:
+  one, single, sole, only, lone, unique, singular, solitary, individual, unitary, monadic, atomic, indivisible, simple, uncompounded, undivided; exclusive
+  kithless†
+  unaccompanied, unattended, single-handed, odd, unrepeated†, azygous, first and last, isolated &c H0303, insular
+  insecable†, inseverable†, indiscerptible†, compact, irresolvable†
+  lonely, lonesome
+  monospermous†, unific†, uniflorous†, unifoliate†, unigenital†, uniliteral†, unijocular†, unimodular†
+
+Adv:
+  alone, singly, solely, only, uniquely; in unity, as one
+  by itself, per se, apart, in the singular number, in the abstract, one by one, one at a time, simply, sesqui-†
+
+F:
+  Latin: unum, punctum, per se, solus
+  Greek: to hen, monas, atomos
+  Arabic: tawḥīd [oneness], aḥad
+  Sanskrit: ekam [one]
+  Chinese: taiyi [Great One]
+  Korean: ilja [the One]
+
+Phr:
+  e pluribus unum [Lat.]
+  hen kai pan [Gr.] [one and all]
+  ekam sat viprā bahudhā vadanti [Skt.] [Rigveda]
+  the One remains, the many change and pass [Shelley]
+  one and only
+  natura il fece [It.], e poi roppe la stampa [It.]
+  du fort au faible [Fr.]
+  two souls with but a single thought, two hearts that beat as one

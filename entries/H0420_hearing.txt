@@ -1,0 +1,28 @@
+# 420 Hearing
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses › 1. Sight and Hearing
+G: Gehör
+Gloss: The sense of sound, which perceives the inner trembling of bodies.
+HGloss: Gehör, the sense of the body's inward ideality: it perceives the tremor in which the body gives up its material subsistence as sound.
+
+N:
+  hearing
+  deafness, hardness of hearing, surdity†, inaudibility, inaudibleness†, audition, ear, earlobe, lobe, lughole [Brit. Slang], lugs [Slang], earhole, eardrum, tympanum, cochlea, ear canal, inner ear, auricle, pinna
+
+V:
+  hear, listen, heed, attend, eavesdrop, earwig [Brit. Coll.]
+  overhear, hark, lend an ear, prick up one's ears
+  be deaf, have no ear, shut one's ears, stop one's ears, close one's ears, turn a deaf ear to
+  render deaf, stun, deafen
+
+Adj:
+  aural, auditory, acoustic
+  auricular, phonic
+  deaf, earless†, surd, hard of hearing, dull of hearing, deaf-mute, stunned, deafened, stone deaf, deaf as a post, deaf as an adder, deaf as a beetle, deaf as a trunkmaker†
+  inaudible, out of hearing
+
+Adv:
+  by ear
+
+Phr:
+  he that hath ears to hear, let him hear [Bible]
+  hear no evil

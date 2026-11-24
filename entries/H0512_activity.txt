@@ -1,0 +1,20 @@
+# 512 Activity
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › a. Immediate Self-Consciousness (Desire) › i. Drive and Activity
+G: Tätigkeit
+Gloss: The deed by which the self acts on the object to satisfy its drive.
+HGloss: Tätigkeit, the activity that negates the object's independence and so gives the drive its satisfaction.
+
+N:
+  activity
+  action, deed, doing, agency
+  performance, exercise, operation, praxis, execution, interworking†
+  proceeding, step, move
+
+V:
+  act, do, pursue
+
+Adj:
+  active
+
+Adv:
+  actively

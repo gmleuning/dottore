@@ -1,0 +1,42 @@
+# 343 Nervous System
+# Nature › 3. Organics › III. Animal Nature › α. The Animal's Formation (Shape) › b. Systems of Shape
+G: Nervensystem
+Gloss: The system of feeling: the nerves and the structures that support them.
+HGloss: The system of sensibility, the nerves and brain, and the bone which is the dead mode of sensibility.
+
+N:
+  nervous system; nerves, neurons, nerve cells, brain, spinal cord, ganglia, synapses, neural network, sensorium; sensibility; nervous tissue
+  cerebrum
+  the cerebrospinal system
+  encephalon, cerebellum, brainstem, medulla, medulla oblongata, pons, midbrain, forebrain, hindbrain, cortex, cerebral cortex, neocortex, grey matter, white matter, frontal lobe, prefrontal cortex, temporal lobe, parietal lobe, occipital lobe, hemispheres, corpus callosum, limbic system, hippocampus, amygdala, thalamus, hypothalamus, pineal gland, pituitary gland, meninges, dura mater, pia mater, cerebrospinal fluid, glume†
+  neuron, nerve fibre, axon, dendrite, myelin, myelin sheath, nerve ending, receptor, neurotransmitter, dopamine, serotonin, nerve impulse, action potential, cranial nerves, optic nerve, vagus nerve, sciatic nerve, spinal nerves, nerve trunk, plexus
+  noggin [Coll.], noodle [Slang], bean [Slang], brainbox [Brit. Coll.], brainpan, headpiece, upper storey [Coll.], loaf [Brit. Slang], melon [Slang], gourd [U.S. Slang], nut [Slang], conk [Slang], think-tank [Slang], grey cells, the old grey matter, wetware [Slang], hardwiring, sensorium commune†, noddle†
+  nerves of steel, frayed nerves, jangled nerves, nerve storm, neuralgia, neuritis, pins and needles, brain fog, brain fart [Slang]
+  neurology, ganglion
+
+V:
+  innervate, feel, sense, transmit, signal
+  fire, wire, rewire, hardwire, think, tingle
+
+Adj:
+  nervous, neural, neuronal, cerebral, spinal, synaptic, sensory
+  sensitive
+  brainy, cerebellar, cortical, neurological, myelinated, neurotypical, neurodivergent, nervy [Brit.], highly strung, high-strung, twitchy, wired [Slang]
+  cheeky
+
+Adv:
+  neurally, nervously
+  by the nerves
+
+F:
+  German: Gehirn, Hirn, Nerv
+  Latin: cerebrum, cerebellum, medulla
+  Greek: enkephalos, neuron
+  Sanskrit: nāḍī [channel, nerve]
+
+Phr:
+  a bundle of nerves
+  the little grey cells [Christie]
+  the brain secretes thought as the liver secretes bile [Cabanis]
+  use your noggin
+  to get on one's nerves

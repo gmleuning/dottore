@@ -1,0 +1,55 @@
+# 96 Determining Reflection
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › α. Shine › c. Reflection
+G: Bestimmende Reflexion
+Gloss: Reflection that fixes definite, stable concepts which hold good in their own right.
+HGloss: The unity of positing and external reflection, which fixes determinations of reflection that hold in and for themselves.
+
+N:
+  determining reflection; determination of reflection; essentiality
+  determination, definition, delimitation, specification, stipulation; fixation, fixing, settling; circumscription, demarcation &c (limit) H0020
+  category, predicament† [Logic], predicable, rubric, head, heading; concept &c H0154; term; form of thought, thought-determination; pure concept of the understanding
+  fixed point, fulcrum, firm footing; stable distinction, hard-and-fast distinction, bright line; dichotomy, binary, antithesis &c (opposition) H0102
+  reification, hypostasis, hypostatization, concretization; fixity, rigidity, ossification, petrifaction, lapidification†, lapidescence†
+  understanding; abstract understanding, the analytic mind
+  law of thought
+  denomination, designation, particularization
+  induration, crystallization
+  the determining of reflection, fixed determination, the positing of determinateness
+
+V:
+  determine, define, delimit, specify, stipulate; fix, settle, pin down, nail down, tie down; demarcate, delineate, circumscribe; draw the line, draw a hard and fast line; mark off, set apart; categorize, classify &c (division) H0218; label, pigeonhole
+  posit, set up, lay down; reflect, reflect upon &c H0093
+  reify, hypostatize, hypostasize; harden, crystallize, ossify, petrify, congeal, freeze
+  define one's terms; call things by their right names
+  establish
+  characterize
+  solidify, consolidate
+  finalize
+
+Adj:
+  determining, determinative; determinate, determined, definite, defined, well-defined, sharply defined, clear-cut, hard-edged; fixed, settled, stable, firm, set, rigid, hard-and-fast, cut-and-dried
+  categorical, categorial; reflexive, reflective, reflectional; posited; essential; self-identical &c H0098; abstract; reified, hypostatic; univocal, unequivocal
+  exact, precise, strict
+  clear, decided
+  steadfast, established
+  outlined
+
+Adv:
+  determinately, definitely &c adj.; by definition; categorically; as such; in so many words; strictly speaking
+
+F:
+  German: Reflexionsbestimmung, Wesenheit, Denkbestimmung, Gedankenbestimmung, Verstandesbegriff, Verstand &c H0668, wesentlich
+  Latin: terminus, principium identitatis, principium contradictionis, principium exclusi tertii, ex definitione, per se, stricto sensu, praedicabile
+  French: point d'appui, prédicable
+  Sanskrit: vikalpa [conceptual construction]
+  Chinese: zhengming [rectification of names]
+  Greek: katēgoroumenon
+
+Phr:
+  determinatio negatio est [Lat.] [Spinoza]
+  definitio fit per genus proximum et differentiam specificam [Lat.]
+  distinguo [Lat.]
+  if names be not correct, language is not in accordance with the truth of things [Confucius]
+  a rose is a rose is a rose [Gertrude Stein]
+  to settle the matter
+  to call it what it is

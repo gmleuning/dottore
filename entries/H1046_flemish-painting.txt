@@ -1,0 +1,20 @@
+# 1046 Flemish Painting
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › i. Painting › 3. Historical Development of Painting › c. Flemish and German Painting
+G: Die niederländische Malerei
+Gloss: The painting of the Low Countries, from van Eyck to the Dutch scenes of everyday life.
+HGloss: Die niederländische Malerei: from the van Eycks' religious painting to the Dutch genre painting of burgher life, the Sunday of life.
+
+N:
+  Flemish painting
+  van Eyck, Memling, Rogier van der Weyden, Dutch genre painting, Rembrandt, Vermeer, still life, interior, landscape, the Dutch Golden Age, the Netherlandish school, the Flemish school, the Dutch school, the Flemish primitives, Hubert van Eyck, Rubens, van Dyck, Teniers, Ostade, Steen, Terborch, Ruisdael, tavern scene, kermis, burgher life, domestic scene, cabinet picture
+
+Adj:
+  Flemish, Netherlandish, Dutch, burgherly, bourgeois, domestic, everyday, Rembrandtesque
+
+Adv:
+  in the Dutch manner
+
+Phr:
+  the Sunday of life [Hegel on Dutch painting]
+  Dutch interiors
+  the Ghent altarpiece

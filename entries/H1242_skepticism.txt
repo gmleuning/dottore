@@ -1,0 +1,33 @@
+# 1242 Skepticism
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism
+G: Der Skeptizismus
+Gloss: The philosophy that finds an equal argument against every claim and so suspends judgment, seeking peace in holding no opinion.
+HGloss: The skeptics, the New Academy and Pyrrhonism, who suspend judgment by setting argument against argument.
+
+N:
+  skepticism; skeptical philosophy; Pyrrhonism
+  skepticism, unbelief, disbelief, agnosticism
+  incredulousness†, incredulity
+  doubt &c H0667, scepticism, misgiving, distrust
+  Sceptic, skeptic, the Sceptics, doubter, ephectic, aporetic
+  acatalepsy, incomprehensibility, nescience, dubiety, dubitation†, imperspicuity†
+  ataraxy, imperturbability, unperturbedness, quietude, tranquillity
+  epoche
+
+V:
+  doubt
+  be skeptical as to
+  withhold assent, suspend, refrain from asserting, hold no opinion, determine nothing, pyrrhonize, question, call in question, demur, inquire, keep searching
+
+Adj:
+  sceptical, zetetic
+  unbelieving, skeptical
+  incredulous, hard of belief, disposed to doubt, distrustful
+  non-committal, undogmatic, suspensive, acataleptic, undecided, dubitative, doubting, unconvinced, inquiring, ataractic, unperturbed
+
+Adv:
+  sceptically
+  skeptically, doubtingly, undogmatically, non-committally, with suspended judgment
+
+F:
+  Greek: epochē, ataraxia, isostheneia, to pithanon [the persuasive], ou mallon, aphasia, skepsis, akatalēpsia, tropoi

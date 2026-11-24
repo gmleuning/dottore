@@ -1,0 +1,23 @@
+# 784 Provision of Education
+# Spirit › 2. Objective Spirit › III. Ethical Life › β. Civil Society › c. Public Authority and Corporation › i. Public Authority (Police) › 2. Common Utility › c. Instantiation of Citizenship
+G: Erziehung
+Gloss: Society's right to oversee the education of children, through schools, school attendance and vaccination.
+HGloss: As universal family, civil society has the duty and right to oversee education, even against the parents' will: to make them send their children to school and have them vaccinated (§239).
+
+N:
+  provision of education; public education, state education, compulsory education, compulsory schooling, school attendance, public schools, school inspection, vaccination, guardianship
+  schooling, phonics
+  guardian, governess &c H0752
+  school bus
+
+V:
+  educate, school, vaccinate, inoculate
+
+Adj:
+  compulsory, educational
+
+F:
+  German: Schulpflicht, Impfpflicht
+
+Phr:
+  die Eltern zu zwingen, ihre Kinder in die Schule zu schicken, ihnen die Pocken impfen zu lassen [Ger.] [Hegel, Philosophy of Right §239 Zusatz]

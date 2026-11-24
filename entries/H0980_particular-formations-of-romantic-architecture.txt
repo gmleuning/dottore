@@ -1,0 +1,30 @@
+# 980 Particular Formations of Romantic Architecture
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › iii. Romantic Architecture
+G: Die besonderen architektonischen Gestaltungen
+Gloss: The particular forms of romantic building.
+HGloss: The particular forms of romantic building: the enclosed house, its exterior and interior.
+
+N:
+  particular formations of romantic architecture; nave, aisle, choir, transept, apse, crossing, tower, spire, buttress, pointed arch, rose window, ambo†, prothesis†, baldacchino†, jube†
+  chancel, vestry, crypt
+  steeple, campanile, turret
+  particular forms, specific formations, details of romantic building, the enclosed house, exterior and interior, pier, decoration
+  narthex
+
+V:
+  build, articulate, vault
+  soar
+  particularize, detail, specify, form, shape
+
+Adj:
+  cruciform, ecclesiastical, vaulted, retiform†, areolar†, cancellated†
+  particular, special, specific, formal, detailed
+
+Adv:
+  in the nave
+  in particular, in detail, specifically
+
+Phr:
+  the cruciform plan
+  nave and choir
+  the house of prayer

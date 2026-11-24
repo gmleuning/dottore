@@ -1,0 +1,12 @@
+# 1132 Sestina
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 3. Different Genres › b. Lyric Poetry › ii. Particular Aspects of Lyric › xxx. Kinds of Lyric Proper › c. Song › ii. Sonnet, Sestina, Elegy, Epistle
+G: Die Sestine
+Gloss: The poem of six stanzas whose six end-words return in shifting order.
+HGloss: Die Sestine: an artful form of the troubadours and Petrarch, in which the same end-words come back in changing order.
+
+N:
+  sestina
+  end-word repetition, six stanzas, envoi, tornada, Arnaut Daniel
+
+F:
+  Italian: sestina

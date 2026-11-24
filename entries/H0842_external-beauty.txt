@@ -1,0 +1,29 @@
+# 842 External Beauty
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › b. Natural Beauty
+G: Die äußere Schönheit
+Gloss: Beauty in the outward shape of a natural thing.
+HGloss: The outward beauty of natural shapes, their abstract form and the unity of their sensuous material.
+
+N:
+  external beauty; outward beauty, surface beauty, formal beauty, external form, appearance, shape, outline
+  figure, conformation, configuration, formation, contour &c H0230
+  beauty of shape, the beauty of appearance
+  comeliness, prettiness
+
+V:
+  shape, form, outline
+  fashion, model, mold, sculpture
+  appear, show
+
+Adj:
+  external, outward, formal, superficial
+  exterior, outside
+  visible, shapely
+
+Adv:
+  outwardly, on the surface
+  externally, in outward shape
+
+Phr:
+  beauty is only skin deep
+  pretty as a picture

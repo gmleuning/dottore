@@ -1,0 +1,29 @@
+# 612 Terror
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › ii. Self-Alienated Spirit: Culture › 3. Absolute Freedom and Terror
+G: Der Schrecken
+Gloss: The destruction into which absolute freedom turns, when it can do nothing positive and suspicion takes the place of guilt.
+HGloss: Der Schrecken: the fury of destruction, whose sole work is death, the coldest and meanest, in which being suspected takes the place of being guilty.
+
+N:
+  terror
+  the Terror, Reign of Terror, revolutionary terror, the guillotine, Committee of Public Safety, the fury of destruction, suspicion, purge, show trial, revolutionary tribunal, the revolution devouring its children, the coldest death, Robespierre
+  arbitrary power, absolutism, despotism, dictatorship, autocracy, tyranny, oppression, usurpation, iron rule
+  insurgent, rebel, red republican, bonnet rouge, carbonaro†
+  guerrilla
+
+V:
+  purge, guillotine, liquidate, suspect, denounce
+  destroy, level, terrorize
+
+Adj:
+  Jacobin, destructive, terroristic, suspicious, fanatical
+  severe, strict, rigorous, uncompromising, inexorable, relentless
+
+Adv:
+  by terror, ruthlessly, destructively
+
+Phr:
+  the coldest and meanest of all deaths, with no more significance than cutting off a head of cabbage [Hegel]
+  la Révolution dévore ses enfants [Fr.] [the revolution devours its children]
+  the Reign of Terror
+  verdächtig zu sein tritt an die Stelle oder hat die Bedeutung und Wirkung, schuldig zu sein [Ger.] [Hegel, Phenomenology]

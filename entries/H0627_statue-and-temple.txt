@@ -1,0 +1,36 @@
+# 627 Statue and Temple
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › c. Religion as Spirit's Self-Consciousness › ii. Art-Religion › 1. The Abstract Work of Art
+G: Statue und Tempel
+Gloss: The image of the god and the house in which it stands.
+HGloss: The god's image and dwelling, the motionless statue and its temple.
+
+N:
+  statue and temple; statue, image, idol, effigy, cult statue, colossus; temple, fane, sanctuary, shrine, cella; Pheidias, Parthenon
+  church, chapel, tabernacle, basilica, holy place, chantry†
+  altar, Holy of Holies, sacrarium†, aumbry†, sedile†
+  likeness, icon
+  the image of the god, the god's dwelling
+
+V:
+  carve, sculpt, erect, house, enshrine, consecrate
+  dedicate to
+  sanctify
+
+Adj:
+  statuesque, sculptural, monumental, templar, sacred, marmoreal
+  statuary, sculptured, enshrined
+
+Adv:
+  in marble, in stone
+  in the shrine
+
+F:
+  Latin: templum, sanctum sanctorum
+  Greek: agalma, kouros, naos, adyton
+  Sanskrit: mūrti [sacred image]
+  Korean: sindang [shaman's shrine]
+
+Phr:
+  the god in his temple
+  the house of the god
+  a graven image

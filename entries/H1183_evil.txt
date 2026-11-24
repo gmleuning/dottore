@@ -1,0 +1,36 @@
+# 1183 Evil
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › b. Representation and Appearance (the Kingdom of the Son) › ii. Evil and Estrangement
+G: Das Böse
+Gloss: Evil, the will that sets itself apart in its own particularity, told in the story of the Fall.
+HGloss: Das Böse: the being-for-self of the natural will set against the universal, the knowledge of good and evil in which man is fallen and yet raised above the animal.
+
+N:
+  evil
+  the Fall, original sin, sin, the tree of knowledge, Eden, the serpent
+  the tempter, the evil one, the evil spirit, the Adversary, the archenemy, the author of evil, the wicked one, the old Serpent, the Prince of darkness, the Prince of this world, the Prince of the power of the air, the foul fiend, the arch fiend, the devil incarnate, the common enemy, the angel of the bottomless pit, Apollyon†
+  vice, evil-doing, evil courses, wrongdoing, wickedness, viciousness, iniquity, peccability†, demerit, Adam†, old Adam†, offending Adam†
+  hell, bottomless pit, place of torment, habitation of fallen angels, Pandemonium, Abaddon†, jahannan†, sheol†, botttomless pit†
+  fallen angels, unclean spirits, devils, the rulers, the powers of darkness, inhabitants of Pandemonium, demon &c H1164
+  impiety, sin &c H0732, irreverence, profaneness, blasphemy, desecration, sacrilege, misdevotion†, sabbatism†, sacerdotalism†
+  Tophet, Rhadamanthus†
+  infernal regions, inferno, shades below, pit of Acheron†
+  gehenna, abyss
+  devilism†, devilship†, diabolology†
+
+V:
+  fall, sin, transgress
+  err, lapse, trespass
+
+Adj:
+  fallen, sinful, lapsarian, postlapsarian
+  sinning, wicked, iniquitous
+  hellish, infernal, fiendlike†, hellborn†
+
+Adv:
+  after the Fall
+
+Phr:
+  ye shall be as gods, knowing good and evil [Bible]
+  the Fall is therefore the eternal Mythus of Man [Hegel, Philosophy of History, tr. Sibree]
+  dies irae dies illa [Lat.]
+  the hue of dungeons and the scowl of night [Love's Labor's Lost]

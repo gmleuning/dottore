@@ -1,0 +1,43 @@
+# 278 Shapelessness
+# Nature › 2. Physics › III. Physics of Total Individuality › α. Shape
+G: Gestaltlosigkeit
+Gloss: Matter without definite form, such as a brittle grain or a fluid drop.
+HGloss: The extremes of shapelessness: the point-like brittleness and the spherical fluidity of the drop.
+
+N:
+  shapelessness; formlessness, amorphousness, amorphism, chaos, disorder, irregularity, indefiniteness, vagueness, fluidity, liquidity, sphericity; point and sphere; brittle grain, drop, globule, bead, blob, ecrhythmus†, pelote†, airbubble†
+  informity†, unlicked cub†, disorder &c H0196, deformity &c H0277, rough diamond†
+  liquidness†, gaseity &c H0257 [Obs.]
+  derangement &c H0196, anomaly &c H0073, evection†
+  particle, molecule, corpuscle, mote
+  spherule
+  pulpiness, pulp, taste, dough, curd, pap, rob, jam, pudding, poultice, grume†
+  mush, oatmeal, baby food
+  the sphere, the brittle point
+
+V:
+  deform, dissolve, melt, blur, spread, run
+  deface, disfigure, mutilate, truncate, derange &c H0196, blemish, mar, labefy†, shend†, scath†, surbate†, hough†, defigure†
+  lack form, flow, crumble
+
+Adj:
+  shapeless, formless, amorphous, unformed, unshaped, chaotic, irregular, nebulous, vague, fluid, globular, spherical, cylindroid†, lumbriciform†, globated†, globous†, rixiform†, campaniform†, campanulate†, campaniliform†, fungiform†, moniliform†, pyriform†
+  unhewn†, unfashioned†, unshapen, rough, rude, Gothic, barbarous, rugged, unlabored†, unlicked†, barbaresque†
+  disorderly, disorganized, unsystematic, acephalous†, immethodical†, unsymmetric†
+  pulpy, pultaceous†, grumous†, baccate†
+
+Adv:
+  shapelessly, any which way
+  formlessly
+
+F:
+  Latin: rudis indigestaque moles
+
+Phr:
+  without form, and void [Bible]
+  formless and void
+  all over the place
+  the cart before the horse
+  hysteron proteron [Gr.]
+  chaos is come again
+  the wreck of matter and the crush of worlds [Addison]

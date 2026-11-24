@@ -1,8 +1,0 @@
-# 1001 Eclipse of Rhythm
-# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › iii. Poetry › 2. Poetic Expression › c. Versification › i. Rhythmic Verse › 3. Sound of Syllables
-G: Das Zurücktreten des Rhythmus
-Gloss: The fading of quantitative rhythm in the modern languages, whose place rhyme takes.
-HGloss: Das Zurücktreten des Rhythmus: where the accent of meaning overrides quantity, rhythm recedes and the sound of the syllables, in rhyme, takes its place.
-
-N:
-  eclipse of rhythm; the receding of rhythm, the loss of quantity, the passing of metre, the turn to sound, accentual verse

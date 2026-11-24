@@ -1,0 +1,24 @@
+# 898 Parable, Proverb, Apologue
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 1. Comparisons Starting from the External Object
+G: Parabel, Sprichwort, Apolog
+Gloss: A short story or saying that conveys a general truth.
+HGloss: The parable, proverb and apologue, a common occurrence given a higher meaning.
+
+N:
+  parable, proverb, apologue
+  trope, metaphor, simile, personification
+  reflection &c H0651, conclusion &c H0669, golden rule &c H0775, principle, profession of faith &c H0667, settled principle, accepted principle, formula
+  first principles, a priori fact, assumption &c H0667
+  axiom, theorem, scholium†, truism, postulate
+
+Adj:
+  phylacteric†, axiomatic
+
+F:
+  Latin: ipse dixit, principia, locus communis, indignatio
+  Greek: parabolē, topos, topēgoria, deinōsis
+  French: mot, lieu commun
+  Hebrew: mashal
+  Sanskrit: subhāṣita [well-said verse]
+  Chinese: chengyu [set idiom]
+  Korean: sokdam [proverb]

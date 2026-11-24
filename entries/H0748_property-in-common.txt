@@ -1,0 +1,36 @@
+# 748 Property in Common
+# Spirit › 2. Objective Spirit › III. Ethical Life › α. Family › b. Family Resources
+G: Gemeinsames Eigentum
+Gloss: Property belonging jointly to the family.
+HGloss: Property as the common possession of the family.
+
+N:
+  property in common; common property, community of goods, joint ownership, communal ownership, coparcenary, marital property, community property
+  participation, cotenancy†, joint tenancy, occupancy in common, possession in common, tenancy in common, joint stock, common stock, co-partnership, partnership, communion, community of possessions, communism, socialism, cooperation &c H0788, endaemonism†, Fourierism†, phalansterianism†, Saint Simonianism†
+  participator, sharer, co-partner, partner, shareholder, co-tenant, joint tenant, tenants in common, co-heir, co-parcener†
+  communist, socialist, endaemonist†
+  snacks, coportion†, picnic, hotchpot†, co-heirship, co-parceny†, co- parcenary, gavelkind†
+  joint property, co-ownership
+  stockholder
+
+V:
+  share, hold in common, pool
+  participate, partake, share in, come in for a share, go shares, go snacks, go halves, share and share alike
+  have in common, possess in common, be seized in common, have as joint tenants, possess as joint tenants, be seized as joint tenants
+  join in, have a hand in &c H0788
+  combine, club together
+  own jointly
+
+Adj:
+  common, joint, communal, shared, undivided
+  partaking, communistic
+
+Adv:
+  in common, jointly
+
+F:
+  Arabic: mushāʿ [undivided common property]
+
+Phr:
+  what's mine is yours
+  held in common

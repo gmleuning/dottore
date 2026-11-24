@@ -1,0 +1,40 @@
+# 112 The Complete Ground
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground › b. Determinate Ground
+G: Der vollständige Grund
+Gloss: A full account, in which a basis both differs from and corresponds to what it explains.
+HGloss: Ground in its completeness, a real ground grounded in turn, which leads to the condition.
+
+N:
+  the complete ground; complete explanation, full account, sufficient reason, full justification, total cause, whole story, the full picture, all things considered, comprehensive account; closure, completeness, sufficiency
+  complement, supplement, bellyful†, brimmer†
+  completion &c H0207, integration, allness†
+  totality, integrity, entirety, completeness &c H0130
+  sufficient ground, full explanation, complete account
+
+V:
+  explain fully, account fully, give a complete account, leave nothing unexplained
+  render complete, complete &c H0207, make good, supply deficiencies
+  ground fully, explain completely, account for
+
+Adj:
+  complete, full, sufficient, exhaustive, comprehensive, thoroughgoing, conclusive, satisfying
+  entire, whole &c H0130, perfect &c H0207, good, absolute, thorough, plenary, solid, undivided, with all its parts
+  completing
+  radical, sweeping, thorough-going, dead
+  whole, total, integral
+  adequate, satisfactory, valid
+  comforting
+
+Adv:
+  fully, completely, exhaustively, comprehensively, in full
+  altogether, outright, wholly, totally, in toto, quite, all out, over head and ears, effectually, for good and all, nicely, through thick and thin, head and shoulders, neck and heel, neck and crop, in all respects, in every respect, at all points, out and out, to all intents and purposes, utterly, clean, clean as a whistle, to the full, to the utmost, to the backbone, hollow, stark, heart and soul, root and branch, down to the ground
+  completely &c H0130, to crown all, out of hand
+  sufficiently
+  thoroughly
+
+F:
+  Latin: ratio sufficiens, in extenso, toto coelo
+
+Phr:
+  the whole truth and nothing but the truth
+  the whole story

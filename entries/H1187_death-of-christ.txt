@@ -1,0 +1,22 @@
+# 1187 Death of Christ
+# Spirit › 3. Absolute Spirit › II. Religion › γ. The Consummate Religion › b. Representation and Appearance (the Kingdom of the Son) › iii. Reconciliation
+G: Der Tod Christi
+Gloss: The death of Christ on the Cross, in which God himself dies, the highest love.
+HGloss: Der Tod Christi: God himself is dead; the death of the God-man is the highest finitude and at the same time its sublation, the infinite love.
+
+N:
+  death of Christ
+  the Cross, the Passion, death of God, the infinite love, the Crucifixion, Calvary, Golgotha, the sacrifice
+
+V:
+  die, suffer, be crucified, lay down one's life
+
+Adj:
+  crucified, sacrificial, kenotic
+
+Adv:
+  by the Cross
+
+Phr:
+  God himself is dead [Johann Rist's hymn, cited by Hegel]
+  it is finished

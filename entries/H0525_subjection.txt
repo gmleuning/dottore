@@ -1,0 +1,26 @@
+# 525 Subjection
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › b. Recognitive Self-Consciousness › i. Struggle for Recognition › 3. Coercion and Subjection
+G: Unterwerfung
+Gloss: The yielding of the defeated self, who prefers life to freedom and becomes subject.
+HGloss: Unterwerfung, the subjection of the self that, fearing death, gives up its claim to recognition and becomes the servant.
+
+N:
+  subjection
+  subjugation, submission, surrender, capitulation, yielding, defeat, conquest, yoke
+  nonresistance, cession, resignation, backdown†
+  dependence, subordination, thrall, thralldom, bondage, serfdom, vassalage
+  service, servitude, oppression &c H0790, yoke &c H0717, submission &c H0790
+  subdual
+
+V:
+  subjugate, subdue, subject, submit, yield, surrender, capitulate, knuckle under, bow, give in
+  cede, give way
+  master &c H0207, tread down, reduce to subjection, reduce to slavery
+  subjugate &c H0527
+
+Adj:
+  subjugated, subject, submissive, servile, defeated, vanquished, disquiparant†, subjected
+
+Phr:
+  vae victis [Lat.] [woe to the vanquished]
+  under the yoke

@@ -1,0 +1,23 @@
+# 900 Proverb
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › a. Symbolic Art › iii. Conscious Symbolism of the Comparative Art-Form › 1. Comparisons Starting from the External Object › b. Parable, Proverb, Apologue
+G: Das Sprichwort
+Gloss: A short common saying, drawn from a single case, that holds good generally.
+HGloss: Das Sprichwort: a single case taken from ordinary life and so stated that it carries a general meaning.
+
+N:
+  proverb
+  adage, saw, maxim, aphorism, gnome, apophthegm, saying, dictum, byword
+  apothegm, sentence, motto, word, moral, phylactery, protasis†, periapt†, telesm†
+  received truth, wise maxim, sage maxim, received maxim, admitted maxim, recognized maxim, true saying, common saying, hackneyed saying, trite saying, commonplace saying
+
+V:
+  proverbialize, coin
+
+Adj:
+  proverbial, gnomic, aphoristic, sententious, apophthegmatic
+
+Adv:
+  proverbially, as the saying goes, as the saying is, as they say, sententiously
+
+Phr:
+  a word to the wise

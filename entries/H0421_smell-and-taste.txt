@@ -1,0 +1,17 @@
+# 421 Smell and Taste
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › c. Sensation › i. The Senses
+G: Geruch und Geschmack
+Gloss: The senses that perceive through chemical contact and dissolution.
+HGloss: The senses of real difference, smell and taste, which perceive the body's dissolving into air and water.
+
+N:
+  smell and taste; the chemical senses, nose and palate
+
+Adj:
+  chemical
+
+Adv:
+  by nose and tongue
+
+F:
+  Sanskrit: gandha and rasa

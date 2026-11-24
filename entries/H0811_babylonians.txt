@@ -1,0 +1,21 @@
+# 811 Babylonians
+# Spirit › 2. Objective Spirit › III. Ethical Life › γ. The State › c. World History › i. Oriental World › 3. Persia (Theocratic Monarchy) › b. Assyrians, Babylonians, Medes, and Persians
+G: Die Babylonier
+Gloss: The people of Babylon, city of trade, temple towers and the study of the stars.
+HGloss: Die Babylonier, with their city on the Euphrates, its temple of Bel and the Chaldean study of the stars, gathered into the Persian empire.
+
+N:
+  the Babylonians
+  Babylon, the ziggurat, Ishtar, Marduk, Hammurabi, Nebuchadnezzar, Babylonia, the Chaldeans
+  the tower of Babel, the hanging gardens, the Babylonian captivity, astrology
+
+Adj:
+  Babylonian, Mesopotamian, Chaldean
+
+Adv:
+  by the rivers of Babylon
+
+Phr:
+  by the rivers of Babylon [Bible]
+  the writing on the wall
+  by the waters of Babylon

@@ -1,0 +1,29 @@
+# 67 Inverse Ratio
+# Logic › 1. Doctrine of Being › II. Magnitude › γ. Quantitative Ratio
+G: Umgekehrtes Verhältnis
+Gloss: A relation in which one amount rises as the other falls, keeping a constant product; inverse proportion.
+HGloss: Ratio in which the product stays constant as one side grows and the other shrinks.
+
+N:
+  inverse ratio; inverse proportion, inverse variation, reciprocal relation, reciprocity, constant product, trade-off, tradeoff, compensation, counterbalance, seesaw, zero-sum, negative correlation; hyperbola; the more the less
+  counterpoise, equivalent
+  reciprocal ratio, inverse relation
+  reciprocality
+
+V:
+  vary inversely, offset, counterbalance, trade off, compensate; seesaw
+  countervail, balance
+  reciprocate
+
+Adj:
+  inversely proportional, inverse, reciprocal, compensatory, negatively correlated, zero-sum
+
+Adv:
+  inversely, conversely, contrariwise, in inverse proportion, the more the less, hirdy-girdy†
+
+F:
+  Latin: vice versa
+
+Phr:
+  what one gains the other loses
+  robbing Peter to pay Paul

@@ -1,0 +1,26 @@
+# 1049 General Character of Music
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › c. Romantic Arts › ii. Music
+G: Allgemeiner Charakter der Musik
+Gloss: The general nature of music.
+HGloss: Music as the art of the inward, which cancels spatial objectivity and has its element in the vibrating, vanishing tone.
+
+N:
+  general character of music; inwardness, temporality, sound, the abolition of space, pure feeling
+  the nature of music, subjective inwardness, interiority, the inner life, feeling, tone, the note, vibration, the vanishing of the tone, transience, evanescence, objectless inwardness
+
+V:
+  sound, resonate
+  vibrate, ring, die away, fade, vanish, express, echo, move
+
+Adj:
+  temporal, inward, sonorous
+  inner, subjective, tonal, evanescent, transient, fleeting, objectless, non-spatial, audible
+  ineffable
+
+Adv:
+  in time
+  inwardly, in sound, in tones, fleetingly, successively
+
+Phr:
+  sound vanishes as it arises
+  sound that vanishes as it sounds

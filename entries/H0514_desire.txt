@@ -1,0 +1,23 @@
+# 514 Desire
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › β. Self-Consciousness › a. Immediate Self-Consciousness (Desire) › ii. Desire and Destruction
+G: Begierde
+Gloss: Self-consciousness turned toward an object it wants, certain that the object is nothing in itself.
+HGloss: Begierde, self-consciousness as desire, certain of the nothingness of the other and setting out to prove it.
+
+N:
+  desire
+  appetite, craving
+  Begierde, longing, wanting, hunger, the desiring self
+
+V:
+  desire, crave
+
+Adj:
+  desirous, appetitive
+  insatiate, unquenchable, omnivorous
+
+Adv:
+  desirously
+
+Phr:
+  das Selbstbewußtsein ist Begierde überhaupt [Ger.] [Hegel, Phenomenology]

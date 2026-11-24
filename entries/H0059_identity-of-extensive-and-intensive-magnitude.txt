@@ -1,0 +1,31 @@
+# 59 Identity of Extensive and Intensive Magnitude
+# Logic › 1. Doctrine of Being › II. Magnitude › β. Quantum › b. Extensive and Intensive Quantum (Degree)
+G: Identität
+Gloss: The interchangeability of size and degree: an intensity can be read off as a length on a scale, and a size felt as an intensity.
+HGloss: Each kind of magnitude passes into the other: degree is expressed in an outside many, and an extent is felt as one intensity.
+
+N:
+  identity of extensive and intensive magnitude; equivalence, interchangeability, convertibility, correspondence, translation, transduction; scale, gauge, meter, dial, index, reading, register, thermometer, barometer; measurement of intensity by extent; calibration, graduation; expression, representation, index number, ombrometer†, pantometer†, pluviometer†, pneumatometer†, pneumometer†, spirometer†, udometer†, vacuometer†, variometer†, viameter†
+  graduated scale, nonius†, vernier &c H0228
+  measure, standard, rule
+  the unity of size and degree, the interchangeability of extensive and intensive, the identity of quantum
+  commensurability
+
+V:
+  convert, translate, transduce, express as, read off, register, calibrate, correlate, map onto
+  graduate, grade
+  interchange
+
+Adj:
+  equivalent, interchangeable, convertible, correspondent, corresponding, commensurate, proportional; calibrated, graduated
+  tantamount
+  identical
+
+Adv:
+  equivalently, correspondingly; in proportion, proportionally
+  interchangeably, as one
+
+Phr:
+  the higher the column, the hotter the day
+  as much as the other
+  the same difference

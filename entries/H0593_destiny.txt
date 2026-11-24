@@ -1,0 +1,28 @@
+# 593 Destiny
+# Spirit › 1. Subjective Spirit › II. Phenomenology of Spirit (Consciousness) › γ. Reason › b. Spirit as a World › i. True Spirit: The Ethical Order › 2. Ethical Action
+G: Das Schicksal
+Gloss: The fate that overtakes the deed, in which both laws and both characters go down together.
+HGloss: Das Schicksal: the movement in which both powers and both self-conscious characters perish, and their equal right appears in their common downfall.
+
+N:
+  destiny
+  fate, doom, retribution
+  fatality, foredoom, predestination, preordination, inevitableness
+  denouement, pathos, downfall
+
+V:
+  suffer, atone, expiate, be doomed
+  atone for, propitiate, make amends, redeem, absolve
+  perish
+
+Adj:
+  tragic, fated, doomed, fateful, retributive, ill-starred
+
+Adv:
+  tragically, fatally, inexorably, fatefully
+
+Phr:
+  whom the gods would destroy they first make mad
+  call no man happy until he is dead [Solon]
+  fate takes a hand
+  to pay the price

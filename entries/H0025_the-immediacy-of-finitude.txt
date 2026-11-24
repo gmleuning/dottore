@@ -1,0 +1,30 @@
+# 25 The Immediacy of Finitude
+# Logic › 1. Doctrine of Being › I. Determinateness (Quality) › β. Determinate Being › b. Finitude › iii. Finitude as Such
+G: Unmittelbarkeit der Endlichkeit
+Gloss: The limited thing as simply given: something whose very being is to perish.
+HGloss: The finite in its immediacy, determined only to perish, its passing away fixed as its unalterable being.
+
+N:
+  immediacy of finitude; the merely finite, sheer finitude, bare mortality; fixed finitude, hardened finitude, the finite as absolute; despair of the finite, melancholy, sadness, mourning; perishing as essence; fatalism, resignation, acceptance of mortality; nothingness of the finite, nullity, vanity &c H0024
+  immediate finitude, the perishable, perishing, the hour of birth as the hour of death, the given finite
+  perishability, transience, caducity
+
+V:
+  be merely finite, be nothing but mortal; perish, waste away; insist on finitude, hold fast to the finite, cling to the finite
+  pass away, cease
+
+Adj:
+  merely finite, purely mortal, irredeemably finite; ephemeral, fleeting; melancholy, mournful, elegiac, resigned, fatalistic, epicedial†
+  transient, transitory, passing
+  perishable, immediate
+
+Adv:
+  merely, only, no more than; in the end; irrevocably, without remedy
+  transiently, perishably
+
+Phr:
+  all is vanity and vexation of spirit [Bible]
+  out, out, brief candle [Macbeth]
+  sunt lacrimae rerum et mentem mortalia tangunt [Lat.] [Virgil]
+  born to die
+  the end of the line

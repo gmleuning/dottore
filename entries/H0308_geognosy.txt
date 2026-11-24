@@ -1,0 +1,30 @@
+# 308 Geognosy
+# Nature › 3. Organics › I. Terrestrial Organism › α. History of the Earth
+G: Geognosie
+Gloss: The study of the composition of the earth's crust.
+HGloss: The knowledge of the earth's formations as a structure: primitive, stratified and alluvial rock.
+
+N:
+  geognosy; geology, study of rocks, stratigraphy, petrology, petrography, lithology, mineralogy, crust, earth's crust, strata, formations, outcrops, deposits; Werner's geognosy
+  geoscopy†, metallurgy, metallography†, oryctology†, oryctography†
+  mineral world, mineral kingdom, unorganized matter, inorganic matter, brute matter, inanimate matter
+  the knowledge of the earth's crust, mineral geography, the Wernerian school
+
+V:
+  survey, prospect, map, core, sample
+  turn to dust, mineralize, fossilize
+  analyse, classify rocks
+
+Adj:
+  geognostic, geological, stratigraphic, petrological, lithological, mineralogical
+  inorganic, inanimate, inorganized†, lithoidal†, azoic, mineral
+  petrographic, Wernerian
+
+Adv:
+  geologically, stratigraphically
+  geognostically
+
+Phr:
+  written in the rocks
+  to dig deep
+  lay of the land

@@ -1,0 +1,38 @@
+# 209 Life
+# Logic › 3. Doctrine of the Concept › III. Idea
+G: Leben
+Gloss: Thought present as a living being, in which an organizing principle is at work in every part of a body.
+HGloss: The idea in its immediacy: the soul in its body, the living concept present in every member.
+
+N:
+  life; vitality, liveliness, animation, vigour, vivacity, spirit, vital force, life-force, life principle, entelechy; organism, organization, living being, creature; self-organization, autopoiesis, self-maintenance
+  viability, vital spark, vital flame, soul
+  protoplasm, proplasm†
+  activity, energy
+  the immediate idea
+  zoē
+
+V:
+  live, be alive, breathe, exist, subsist, survive, thrive, flourish, animate, enliven, vivify, quicken, invigorate, vivificate†
+  respire, subsist &c H0004, walk the earth, strut and fret one's hour upon the stage [Macbeth], be spared
+
+Adj:
+  living, alive, live, animate, vital, vivacious, lively, organic, biological, animated, quick, sentient, breathing, self-organizing
+  in life, in the land of the living, on this side of the grave, above ground, animative†, lively &c H0404, all alive and kicking, tenacious of life, full of life, yeasty
+  active
+
+Adv:
+  alive and well, alive and kicking, vitally, organically, in the flesh
+
+F:
+  Latin: vita, vis vitalis, anima
+  Greek: bios, zōē, psychē [principle of life]
+  French: élan vital [Bergson]
+  Sanskrit: prāṇa [breath, life force], jīva [living being]
+  Chinese: qi
+
+Phr:
+  life is the idea in its immediacy [Hegel]
+  grey is all theory, and green the golden tree of life [Goethe]
+  while there's life, there's hope, dum spiro spero [Lat.]
+  life and soul

@@ -1,0 +1,44 @@
+# 113 Condition
+# Logic › 2. Doctrine of Essence › I. Essence as Reflection Within Itself › γ. Ground
+G: Bedingung
+Gloss: That which must be present for something to come about; a prerequisite.
+HGloss: The immediate existence that is presupposed by ground and that the thing requires to be.
+
+N:
+  condition; precondition, prerequisite, requisite, requirement, necessary condition, sufficient condition, enabling condition, presupposition, premise, proviso, provision, stipulation, qualification, reservation, term, terms, clause, contingency, circumstance, factor; antecedent
+  dependent origination
+  specification, exemption, exception, escape clause, salvo, saving clause, discount &c H0699, restriction
+
+V:
+  condition, make conditional, stipulate, require, presuppose, qualify, limit, depend on, hinge on, turn on, rest on, be contingent on, be subject to
+  modify, leaven, give a color to, introduce new conditions, narrow, temper
+  depend, be contingent on &c H0147
+
+Adj:
+  conditional, conditioned, provisional, provisory, contingent, dependent, subject to, qualified, limited, restricted, hypothetical, prerequisite, requisite, necessary, sufficient, enabling
+  qualifying, hedged, exceptional &c H0073
+  circumstantial, given, critical, modal, incidental, adventitious &c H0091, limitative†
+  contingent on, dependent on, dependent on circumstances, occasional, unexempt from†
+  needful, indispensable
+
+Adv:
+  conditionally, on condition that, provided that, providing, given that, if, if and only if, iff, as long as, so long as, in the event that, in case, subject to, with the proviso that
+  if so, if so be, if it be so, depending on circumstances, in certain circumstances, under certain conditions, if it so happen, if it so turn out, in the event of, in such a contingency, in such a case, in such an event, provisionally, without
+  provided, unless, supposing, on the supposition of &c H0667
+  conditioned upon, with this proviso
+  on condition
+
+F:
+  Latin: conditio, conditio sine qua non, sine qua non
+  Greek: protasis [the "if"-clause]
+  Sanskrit: pratyaya [condition], upādhi [limiting condition], pratītyasamutpāda
+  Chinese: yuan [conditioning circumstance]
+
+Phr:
+  sine qua non [Lat.]
+  if and only if
+  this being, that comes to be [Buddha] [imasmiṃ sati idaṃ hoti, Pali]
+  no strings attached
+  yet are my sins not those of circumstance [Lytton]
+  if the good lord is willing and the creeks don't rise
+  catch- 22

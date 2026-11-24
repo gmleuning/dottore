@@ -1,0 +1,13 @@
+# 1244 The New Academy
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › ii. Dogmatism and Skepticism › 2. Skepticism
+G: Die neuere Akademie
+Gloss: The Platonic Academy under Arcesilaus and Carneades, which denied certain knowledge and lived by the probable.
+HGloss: Die neuere Akademie: Arcesilaus and Carneades, who oppose the Stoic criterion and allow only the probable, a subjective conviction.
+
+N:
+  the New Academy
+  Arcesilaus, Carneades, probabilism, the Academics, the Middle Academy
+  the persuasive, the probable, the plausible impression, Philo of Larissa, Cicero's Academica
+
+Adj:
+  Academic

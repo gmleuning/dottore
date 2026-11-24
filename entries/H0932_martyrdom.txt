@@ -1,0 +1,24 @@
+# 932 Martyrdom
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › i. The Religious Domain of Romantic Art › 3. The Spirit of the Community
+G: Die Martyrien
+Gloss: Suffering endured for the faith, in which the body is given up to prove the spirit.
+HGloss: Die Martyrien: the endurance of pain and torment for faith, the negation of the natural self carried out in the flesh, which in art can turn to the cruel and merely horrible.
+
+N:
+  martyrdom
+  passion, witness, the martyrs
+  mortification, maceration, flagellation, penance &c H0714, lustration†
+
+V:
+  martyr, suffer, testify
+
+Adj:
+  martyred
+
+Adv:
+  in martyrdom
+
+Phr:
+  the blood of the martyrs is the seed of the Church [proverbial]
+  semen est sanguis Christianorum [Lat.] [Tertullian, Apologeticus 50]
+  the noble army of martyrs

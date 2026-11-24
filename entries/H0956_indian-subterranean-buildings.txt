@@ -1,0 +1,19 @@
+# 956 Indian Subterranean Buildings
+# Spirit › 3. Absolute Spirit › I. Art › γ. The System of the Individual Arts › a. Architecture › i. Symbolic Architecture › 3. Transition to Classical Architecture › a. Indian and Egyptian Subterranean Buildings
+G: Indische unterirdische Bauten
+Gloss: The temples cut into living rock in India, at Ellora, Elephanta and Ajanta.
+HGloss: The Indian cave temples, huge halls hewn out of the rock with columns and sculptured walls, the earth hollowed out rather than built upon.
+
+N:
+  Indian subterranean buildings
+  cave temples, rock-cut temples, Ellora, Elephanta, Ajanta, rock-cut building, cave temple, rock temple, grotto, cavern, the Mithras caves
+  chaitya hall, vihara, rock-cut sanctuary
+
+V:
+  hew, carve out, hew out, scoop out
+
+Adj:
+  rock-cut, cavernous, rock-hewn, troglodytic
+
+Adv:
+  in the rock

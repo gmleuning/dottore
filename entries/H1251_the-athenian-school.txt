@@ -1,0 +1,17 @@
+# 1251 The Athenian School
+# Spirit › 3. Absolute Spirit › III. Philosophy › β. History of Philosophy › b. Greek Philosophy › iii. Neoplatonism
+G: Die athenische Schule
+Gloss: The last school of Athens, Syrianus, Proclus and Damascius, which built Neoplatonism into a vast system of triads.
+HGloss: The Athenian school, Proclus above all, in whom the Neoplatonic triad is most fully developed; it ends with the closing of the schools in 529.
+
+N:
+  the Athenian school
+  Proclus, Damascius, Syrianus, Plutarch of Athens, Marinus, Simplicius, Olympiodorus, the Elements of Theology, the last pagans, the closing of the Academy
+  the Platonic Theology, the triads, the henads, Justinian's edict
+
+Adj:
+  Athenian, Proclean
+
+Phr:
+  the last of the pagans
+  remaining, procession, return, monē, proodos, epistrophē [Gr.] [Proclus]

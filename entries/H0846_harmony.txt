@@ -1,0 +1,50 @@
+# 846 Harmony
+# Spirit › 3. Absolute Spirit › I. Art › α. The Idea of Artistic Beauty › b. Natural Beauty › ii. External Beauty › 1. Beauty of Abstract Form
+G: Harmonie
+Gloss: The agreement of different parts in a whole.
+HGloss: The unity of qualitatively different elements that belong together, as of colours and tones.
+
+N:
+  harmony; concord, accord, consonance, euphony, attunement, agreement, unity in variety, balance, coherence, proportion
+  emmeleia†, unison, unisonance†, homophony, euphonism†, tonality, consent, part
+  concord &c H0535, concert, understanding, mutual understanding
+  symphony, unity
+  consistency, accordance, conformity &c H0073, connaturality†, connaturalness†
+  harmony &c H0535, accord &c H0802
+  concordance, agreement &c H0097
+  congruity, concinnity, consentaneousness†
+
+V:
+  harmonize, attune, accord, blend, reconcile, chime
+  adjust &c H0054
+  symphonize†, tune
+  agree, correspond, tally, chime in with
+  consort
+
+Adj:
+  harmonious, concordant, consonant, euphonious, balanced, attuned
+  harmonical†, in concord, unisonant†, concentual†, symphonizing†, isotonic, homophonous†, assonant, ariose†
+  agreeing, accordant, congruous, correspondent, coherent, consentaneous†
+  in accord, united
+  proportionate
+
+Adv:
+  harmoniously, in harmony, in concert, in tune
+  in keeping
+
+F:
+  Latin: concordia discors [discordant concord]
+  Greek: harmonia
+  Japanese: wa [harmony]
+  Chinese: he er bu tong [harmony without uniformity] [Analects]
+
+Phr:
+  the hidden harmony is better than the obvious [Heraclitus]
+  concordia discors [Lat.] [Horace]
+  in harmony with
+  all of a piece
+  rem acu tetigisti [Lat.]
+  if the shoe fits, wear it
+  the cap fits
+  auxilia humilia firma consensus facit [Lat.] [Syrus]
+  discers concordia [Lat.] [Ovid]

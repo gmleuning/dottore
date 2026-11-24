@@ -1,0 +1,15 @@
+# 945 Objective Humour
+# Spirit › 3. Absolute Spirit › I. Art › β. The Forms of Art › c. Romantic Art › iii. The Formal Independence of Individual Characteristics › 3. The Dissolution of Romantic Art
+G: Der objektive Humor
+Gloss: Humour that stays with its object, joining the artist's feeling to the thing with warmth and depth.
+HGloss: Der objektive Humor: an inward humour of feeling that does not destroy the object but dwells in it intimately, as in Goethe's West-Eastern Divan, the close of romantic art.
+
+N:
+  objective humour
+  Goethe's West-Eastern Divan, humour of the heart, the deep wit of feeling, intimate humour
+
+Adj:
+  genial, heartfelt, warm-hearted
+
+Adv:
+  with heartfelt humour

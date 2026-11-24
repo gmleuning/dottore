@@ -1,0 +1,52 @@
+# 661 Sign-Making Phantasy
+# Spirit › 1. Subjective Spirit › III. Mind (Psychology) › α. Theoretical Mind › b. Representation › ii. Imagination › 3. Phantasy
+G: Zeichenmachende Phantasie
+Gloss: Imagination that makes signs, in which a sensory thing stands for a meaning that has nothing to do with it.
+HGloss: Phantasy that makes signs, in which the intuition stands for something other than itself, as the pyramid holds a soul.
+
+N:
+  sign-making phantasy; sign, semiosis, signification, the arbitrary sign, signifier and signified, token, mark, symbol, cipher, code, the sign as pyramid [Hegel's image]
+  index, indice†, indicator, point, pointer, exponent, symptom, dollar sign, dollar mark
+  type, figure, emblem, device, representation &c H0834, epigraph, motto, posy
+  sign-making imagination, sign-creation
+  interpretant [Peirce], representamen [Peirce], icon [Peirce]
+
+V:
+  signify, mean, denote, indicate, betoken, encode, mark
+  be the sign
+  of, argue, testify &c H0776, bear the impress
+  of, connote, connotate†
+  express, import, purport, convey, imply, breathe, bear a sense, tell of, speak of, touch on, point to, allude to, drive at, involve &c H0662, declare &c H0662, pretypify†, ominate†
+  designate
+  typify
+  bespeak
+  seal, attest &c H0776, underline &c H0091, call attention to &c H0649, give notice &c H0662, indigitate†, premonish†
+  put an indication, put a mark, note, stamp, earmark, blaze, label, ticket, docket, dot, spot, score, dash, trace, chalk, print, imprint, impress, engrave, stereotype
+
+Adj:
+  semiotic, significant, arbitrary, conventional, denotative, symbolic
+  indicating, indicative, indicatory, connotative, diacritical, representative, typical, pantomimic, pathognomonic†, symptomatic, characteristic, demonstrative, diagnostic, exponential, emblematic, armorial, individual &c H0156
+  signifying
+
+Adv:
+  semiotically, by convention
+  by sign, arbitrarily
+
+F:
+  German: Zeichen, Semiotik, Zeigen, Sinnbild, Bezeichnendes, Bezeichnung, Bezeichnetes
+  Latin: signum, nota, symbolum, signans, signatum, effatum, enuntiatum, dictum
+  Greek: sēmeion, sēmeiōsis, sēma, semeion, symbolon, sēmainon, sēmainomenon, lekton
+  French: signifiant and signifié [Saussure], signifiant flottant [floating signifier] [Lévi-Strauss], signe [Saussure], système de différences [Saussure], sémiotique, sémiologie, symbole
+  Arabic: āya [sign, verse]
+  Italian: significante, significato
+  Spanish: significado
+  Swedish: uttryck, innehåll
+
+Phr:
+  the sign is a pyramid into which a foreign soul has been conveyed [Hegel]
+  a sign of the times
+  to stand for
+  ecce signum [Lat.]
+  ex ungue leonem [Lat.], ex pede Herculem [Lat.]
+  vide ut supra
+  vultus ariete fortior [Lat.]

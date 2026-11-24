@@ -1,0 +1,62 @@
+# 405 Character
+# Spirit › 1. Subjective Spirit › I. Soul (Anthropology) › α. Natural Soul › a. Natural Qualities › iii. The Individual Subject
+G: Charakter
+Gloss: The steadiness with which a person holds to their aims.
+HGloss: The formal energy by which the individual pursues aims and holds firm to them, and the substance of those aims; what makes a person.
+
+N:
+  character; firmness, strength of character, backbone, moral fibre, resolve, resolution, steadfastness, constancy, determination, integrity, consistency, persistence, tenacity, perseverance, grit, mettle, spine, will, willpower, lastingness†
+  iron will, unconquerable will, will of one's own, clear grit, true grit, sand, strength of mind, strength of will, resolve &c H0724, energy, vigor, resoluteness &c H0801, zeal &c H0404, aplomb, desperation, devotion, devotedness
+  steadiness, singleness of purpose, tenacity of purpose, plodding, patience, sedulity &c H0404, pertinacy†, pertinacity, pertinaciousness, iteration &c H0055, bottom, stamina, indefatigability, indefatigableness, bulldog courage, indefatigation†
+  manliness, manhood, nerve, pluck, game, heart, heart of grace, spunk, guts, face, virtue, hardihood, fortitude, intestinal fortitude, heart of oak
+  inflexibility &c H0270, dogged resolution, obduration†
+  mastery over self, self control, self command, self possession, self reliance, self government, self restraint, self conquest, self denial, moral courage, moral strength, obstinacy &c H0679, bulldog, British lion
+  continuance &c H0012, permanence &c H0012, firmness &c H0012, survivance†
+  decision, settled purpose
+
+V:
+  stand firm, persevere, persist, hold fast, hold one's ground, stick to one's guns, keep faith, standfire†
+  hold on, hold out, die in the last ditch, be in at the death, stick to, cling to, adhere to, stick to one's text, keep on, keep to one's course, keep to one's ground, maintain one's course, maintain one's ground, go all lengths, go through fire and water, bear up, keep up, hold up, plod, stick to work &c H0760, continue &c H0012, follow up, die in harness, die at one's post
+  have determination, know one's own mind, be resolved, make up one's mind, determine, decide &c H0669, form a determination, come to a determination, come to a resolution, come to a resolve, conclude, fix, seal, determine once for all, bring to a crisis, drive matters to an extremity, take a decisive step &c H0679, take upon oneself &c H0676
+
+Adj:
+  firm, resolute, steadfast, constant, determined, strong-willed, unwavering, staunch, stalwart, principled, consistent, tenacious, dogged
+  resolved, resolute &c H0801, self-possessed, decided, definitive, peremptory, tranchant†, unhesitating, unshrinking†, iron, gritty [U.S.], game to the backbone, inexorable, relentless, not to be shaken, not to be put down, inflexible &c H0270, obstinate &c H0679, unblanching†
+  persevering, steady, undeviating, unfaltering, unswerving, unflinching, unsleeping†, unflagging, undrooping†, steady as time, unrelenting, unintermitting†, unremitting, industrious &c H0404, strenuous &c H0760, pertinacious, persisting, persistent, intransmutable†
+  strong-minded, hardy, doughty, firm &c H0012, indomitable
+  tireless
+
+Adv:
+  resolutely, steadfastly, firmly, through thick and thin
+  a tort et a travers†
+
+F:
+  Latin: tenax propositi
+  Greek: charaktēr [stamp, impress], ethos
+  Arabic: akhlāq [morals]
+  Sanskrit: śīla [character, conduct]
+
+Phr:
+  character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]
+  nothing great in the world has been accomplished without passion [Hegel]
+  true to character
+  a person of character
+  esto perpetua [Lat.]
+  nolumus leges Angliae mutari [Lat.]
+  j'y suis et j'y ereste [Fr.]
+  vestigia nulla retrorsum [Lat.] [Horace]
+  labitur et albetur [Horace]
+  spes sibi quisque [Lat.]
+  celui qui veut celui-la peut [Fr.]
+  chi non s'arrischia non guadagna [Fr.]
+  frangas non flectes [Lat.]
+  manu forti [Lat.]
+  tentanda via est [Lat.]
+  never say die
+  give it the old college try
+  aut vincer aut mori [Lat.]
+  la garde meurt et ne se rend pas [Fr.]
+  tout vient a temps pour qui sait attendre [Fr.]
+  non possumus [Lat.]
+  no surrender
+  ils n'ont rien appris ne rien oublie [Fr.]
