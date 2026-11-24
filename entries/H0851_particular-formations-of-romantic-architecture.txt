@@ -9,6 +9,7 @@ N:
   chancel, vestry, crypt
   steeple, campanile, turret
   particular forms, specific formations, details of romantic building, the enclosed house, exterior and interior, pier, window, decoration
+  narthex
 
 V:
   build, articulate, vault
@@ -23,8 +24,7 @@ Adv:
   in the nave
   in particular, in detail, specifically
 
-F:
-  Korean: gyohoe geonchuk [church architecture]
-
 Phr:
   the cruciform plan
+  nave and choir
+  the house of prayer

@@ -26,11 +26,7 @@ F:
   Latin: creatio ex nihilo, ex nihilo, fiat, ens creatum, natura naturata, creatura
   Greek: ktisis, kosmos, genesis
   Hebrew: bara, bereshit
-  Arabic: khalq [creation]
-  Sanskrit: sṛṣṭi
-  Chinese: chuangzao [creation]
-  Japanese: sōzō
-  Korean: changjo [creation], yuhanseong [finitude]
 
 Phr:
   in the beginning God created the heaven and the earth [Bible]
+  let there be light

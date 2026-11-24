@@ -32,10 +32,9 @@ F:
   German: das edelmütige Bewußtsein, das niederträchtige Bewußtsein
   Greek: megalopsychia
   French: noblesse oblige
-  Arabic: nabāla [nobility], karam [generosity], khissa [baseness]
   Chinese: junzi [noble person] and xiaoren [petty person]
-  Korean: gogwihan uisikgwa bicheonhan uisik
 
 Phr:
   noblesse oblige [Fr.]
   the gentleman understands what is right, the petty man what is profitable [Confucius]
+  to bite the hand that feeds you

@@ -10,6 +10,7 @@ N:
   extinction
   destroyer &c H0114, cankerworm &c H0367, assassin &c H0650, executioner &c H0654, biblioclast†, eidoloclast†, iconoclast, idoloclast†, nihilist
   appetite, craving
+  devourment
 
 V:
   consume, devour, annihilate, negate, destroy, use up, eat up, swallow
@@ -34,7 +35,8 @@ Adv:
 
 F:
   German: Begierde
-  Korean: yongmanggwa pagoe
 
 Phr:
   I came, I saw, I consumed
+  to eat one's fill
+  to devour

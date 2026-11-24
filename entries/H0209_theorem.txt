@@ -29,12 +29,11 @@ Adv:
 F:
   Latin: more geometrico, quod erat demonstrandum
   Greek: theorema [also Latin]
-  Arabic: burhān [proof], mubarhana
+  Arabic: burhān [proof]
   Sanskrit: siddhānta [established conclusion]
-  Chinese: dingli [theorem]
-  Japanese: teiri
-  Korean: jeongni [theorem]
 
 Phr:
   quod erat demonstrandum [Lat.]
   there is no royal road to geometry [attrib. Euclid]
+  Q.E.D.
+  it can be shown that

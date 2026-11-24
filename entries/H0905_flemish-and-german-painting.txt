@@ -8,6 +8,7 @@ N:
   Flemish and German painting; van Eyck, Memling, Rogier van der Weyden, Dürer, Holbein, Cranach, Dutch genre painting, Rembrandt, Vermeer, still life, interior, landscape, the Dutch Golden Age
   seapiece†, view, scene, prospect
   the Netherlandish school, the Flemish school, the Dutch school, the old German masters, the Flemish primitives, Hubert van Eyck, Schongauer, Grünewald, Rubens, van Dyck, Teniers, Ostade, Steen, Terborch, Ruisdael, oil painting, tavern scene, kermis, burgher life, domestic scene, cabinet picture
+  oil glaze, vanitas
 
 V:
   depict, render minutely
@@ -21,8 +22,7 @@ Adv:
   in the Dutch manner
   minutely, faithfully, to the life, in detail, realistically
 
-F:
-  Korean: Peullangdeureu hoehwa [Flemish painting]
-
 Phr:
   the Sunday of life [Hegel on Dutch painting]
+  Dutch interiors
+  the Ghent altarpiece

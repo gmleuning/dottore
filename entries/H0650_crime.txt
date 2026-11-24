@@ -54,12 +54,10 @@ F:
   Latin: crimen, in flagrante delicto, delictum, homo triumliterarum, spolia opima
   French: faux pas, chevalier d'industrie
   Italian: la cosa nostra
-  Arabic: jarīma [crime], jināya [felony]
-  Sanskrit: aparādha [offence], pāpa [sin]
-  Chinese: fanzui [crime]
-  Japanese: hanzai
-  Korean: beomjoe [crime]
+  Sanskrit: pāpa [sin]
 
 Phr:
   crime is the negation of right [Hegel]
   nullum crimen sine lege [Lat.]
+  crime doesn't pay
+  caught red-handed

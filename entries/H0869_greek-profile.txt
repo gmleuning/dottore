@@ -15,14 +15,12 @@ V:
 Adj:
   Grecian, classical, straight, noble
   straight-nosed, rectilinear, ideal, facial
+  orthognathous
 
 Adv:
   in profile
   in a straight line, sidewise
   sideways
-
-F:
-  Korean: Geuriseu ko [Greek nose], yeobeolgul [profile]
 
 Phr:
   the Grecian nose

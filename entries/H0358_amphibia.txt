@@ -26,9 +26,7 @@ Adv:
 
 F:
   Latin: amphibia [double-lived]
-  Arabic: barmāʾiyyāt [amphibians]
-  Chinese: liangqi [two-lived, amphibian]
-  Korean: yangseoryu [amphibia]
 
 Phr:
   the frog in the well [Zhuangzi]
+  neither fish nor fowl

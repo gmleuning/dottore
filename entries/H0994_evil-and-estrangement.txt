@@ -35,9 +35,8 @@ F:
   German: das Böse, Entfremdung, Entzweiung, Sündenfall, Erbsünde, Trennung, Schmerz
   Latin: peccatum originale, Erebus, Avernus, lapsus, felix culpa, non posse non peccare
   Greek: hamartia
-  Arabic: khaṭīʾa [sin]
   Sanskrit: avidyā [ignorance]
-  Korean: ak [evil], wonjoe [original sin], tarak [the Fall]
+  Korean: wonjoe [original sin]
 
 Phr:
   ye shall be as gods, knowing good and evil [Bible]

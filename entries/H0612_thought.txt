@@ -7,6 +7,7 @@ HGloss: Feelings whose content comes from thought: shame, remorse, the feelings 
 N:
   thought in practical feeling; reflective feeling, considered sentiment, rational emotion, the feeling-content made thought, justified feeling, moral judgment
   shame, remorse, repentance, contrition, hope, fear, pride, feeling with a thought-content, moral feeling
+  compunction
 
 V:
   reflect on, justify, rationalize, consider
@@ -20,8 +21,7 @@ Adv:
   on reflection, upon consideration
   with shame, remorsefully, hopefully
 
-F:
-  Korean: sayujeok gamjeong, suchisim [shame], huhoe [remorse]
-
 Phr:
   the heart has its reasons [Pascal]
+  hang one's head
+  pangs of conscience

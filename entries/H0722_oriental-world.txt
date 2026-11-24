@@ -24,10 +24,7 @@ Adv:
 
 F:
   Latin: ex oriente lux
-  Arabic: al-sharq [the East], al-mashriq
-  Chinese: dongfang [the East]
-  Japanese: tōyō
-  Korean: dongyang segye [Oriental world]
+  Arabic: al-mashriq
 
 Phr:
   the East knew only that one is free [Hegel]

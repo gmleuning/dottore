@@ -32,7 +32,8 @@ Adv:
 
 F:
   French: bijouterie
-  Korean: jimul [attribute], jangsingu [ornament]
 
 Phr:
   Zeus with his thunderbolt
+  the thunderbolt of Zeus
+  known by their tokens

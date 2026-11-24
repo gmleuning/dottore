@@ -7,6 +7,7 @@ HGloss: The historical course of lyric, from the oriental to the classical and t
 N:
   historical development of lyric; Oriental lyric, classical lyric, romantic lyric, Persian ghazal, Chinese shi, Greek monody, the troubadours, the Romantic lyric
   Hebrew psalmody, the Psalms, Horace, Klopstock, Schiller, minnesong, folk song, the Lied, epochs of song
+  sonneteering
 
 V:
   develop
@@ -20,8 +21,7 @@ Adv:
   historically
   by stages, successively, in the course of time
 
-F:
-  Korean: seojeongsiui yeoksa [history of lyric]
-
 Phr:
   from Sappho to Goethe
+  from the Psalms to Goethe
+  the course of the lyric

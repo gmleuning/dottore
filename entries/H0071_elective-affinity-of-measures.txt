@@ -28,14 +28,14 @@ Adv:
   electively
 
 F:
-  German: Wahlverwandtschaft
   Latin: affinitas electiva
   Arabic: ʿishq [passionate attraction]
   Chinese: yuan [predestined affinity]
   Japanese: en [karmic affinity]
-  Korean: seontaekjeok chinhwaryeok [elective affinity]
 
 Phr:
   Die Wahlverwandtschaften [Ger.] [Goethe]
   birds of a feather flock together
   like attracts like, similis simili gaudet [Lat.]
+  elective affinities
+  kindred spirits

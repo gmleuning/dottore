@@ -31,8 +31,7 @@ Adv:
   deficiently, imperfectly
   inadequately
 
-F:
-  Korean: jayeonmiui gyeolham
-
 Phr:
   die Kunstschönheit ist die aus dem Geiste geborene und wiedergeborene Schönheit [Ger.] [Hegel, Aesthetics, Introduction]
+  nature is not enough
+  flawed beauty

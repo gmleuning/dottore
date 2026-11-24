@@ -22,7 +22,7 @@ Adv:
 
 F:
   Latin: in situ
-  Korean: sanghwang [situation]
 
 Phr:
   the situation calls for action
+  to set the scene

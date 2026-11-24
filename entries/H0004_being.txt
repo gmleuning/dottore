@@ -10,6 +10,7 @@ N:
   the copula, "is"
   existence, entity, subsistence
   the is, bare existence, the fact of being
+  inchoation, incipience
 
 V:
   be, exist, subsist, obtain, be there, be the case; begin, start, commence &c (beginning) H0212; set out, take one's departure
@@ -23,17 +24,15 @@ Adv:
   simply, barely, merely; at first, in the beginning, at the outset
 
 F:
-  German: Sein
   Latin: esse, ens, quod est, terminus a quo, principium, ab initio, ab ovo, in principio
   Greek: to on, einai, archē
   Arabic: wujūd [existence, being]
-  Sanskrit: sat [being, the real], bhava
+  Sanskrit: sat [being, the real]
   Chinese: you [being, having]
-  Japanese: u
-  Korean: jonjae [being], sijak [beginning]
 
 Phr:
   esti gar einai [Gr.] [Parmenides]
   in the beginning was the Word [Bible]
   to be or not to be, that is the question [Hamlet]
   ex nihilo nihil fit [Lat.]
+  from the ground up

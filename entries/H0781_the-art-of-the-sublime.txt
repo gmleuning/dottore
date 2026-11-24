@@ -7,6 +7,7 @@ HGloss: The negative sublime of Hebrew poetry, where God's power is praised and 
 N:
   the art of the sublime; Hebrew poetry, the Psalms, the prophets, Job, the creator God, praise, nothingness of creatures, divine majesty
   sublime art, sacred poetry, the nullity of the creature, the glory of God, the praise of the Lord, creation as accident, the one Lord
+  psalmody
 
 V:
   praise, exalt, glorify, magnify, humble
@@ -27,8 +28,8 @@ Adv:
 
 F:
   Hebrew: Tehillim [Psalms], kavod [glory]
-  Korean: sunggoui yesul [art of the sublime]
 
 Phr:
   let there be light: and there was light [Bible]
   what is man, that thou art mindful of him? [Bible]
+  vanity of vanities

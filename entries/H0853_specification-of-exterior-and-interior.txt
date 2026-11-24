@@ -7,6 +7,7 @@ HGloss: The relation of interior and exterior, the outside reflecting in its tow
 N:
   specification of exterior and interior; façade, portal, tympanum, tower, pinnacle, interior, nave, pillars, clustered piers, stained glass, rib vault
   outside and inside, front, aisle, choir, transept, the interior as determining, the outside as shell
+  westwork
 
 V:
   articulate, decorate, glaze
@@ -20,8 +21,7 @@ Adv:
   inside and out
   without, within, outside, inside, from within outward
 
-F:
-  Korean: naebu [interior], oebu [exterior]
-
 Phr:
   the portal and the nave
+  the outside shows the inside
+  towers and portals

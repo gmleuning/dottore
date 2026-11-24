@@ -20,10 +20,9 @@ Adv:
   categorically, by kind
   through the genus
 
-F:
-  Korean: jeongeon churon [categorical syllogism]
-
 Phr:
   all metals conduct
   gold is a metal
   gold conducts
+  as a matter of kind
+  true to type

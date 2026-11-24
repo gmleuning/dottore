@@ -10,6 +10,7 @@ N:
   figment, chimera
   illusion, mirage
   dream-life, the play of images, sleeping fancy
+  oneirism
 
 V:
   dream, daydream, muse, fantasize, imagine, envision, hallucinate
@@ -28,11 +29,7 @@ F:
   German: Traumdeutung [Freud]
   Latin: somnium
   Greek: oneiros
-  Arabic: ruʾyā [vision, dream], ḥulm [dream]
-  Sanskrit: svapna [dream]
-  Chinese: meng [dream]
-  Japanese: yume
-  Korean: kkum [dream]
+  Arabic: ruʾyā [vision, dream]
   Aboriginal Australian: the Dreamtime
 
 Phr:
@@ -40,3 +37,5 @@ Phr:
   life is a dream, la vida es sueño [Sp.] [Calderón]
   the butterfly dream [Zhuangzi]
   the interpretation of dreams is the royal road to a knowledge of the unconscious [Freud]
+  in your dreams
+  a pipe dream

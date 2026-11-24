@@ -13,6 +13,7 @@ N:
   mimicry, simulation, impersonation, representation &c H0745, semblance
   the end of romantic art, decay, decline, disintegration, imitation of the given, prosaic naturalness, the novel
   fax
+  Witz
 
 V:
   imitate, copy, joke, play, dissolve
@@ -38,10 +39,8 @@ F:
   Latin: facetiae, canorae nugae
   French: plaisanterie, mot, mot pour rire, jeu d'esprit
   Italian: ben trovato
-  Arabic: fukāha [humour]
-  Chinese: youmo [humour]
-  Japanese: yūmoa
-  Korean: nangmanjeok yesurui haeche, yumeo
+  Korean: haehak [folk humour]
 
 Phr:
   art, considered in its highest vocation, is and remains for us a thing of the past [Hegel]
+  tongue in cheek

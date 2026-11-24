@@ -22,7 +22,8 @@ Adv:
 
 F:
   Latin: ancilla theologiae, philosophia ancilla theologiae, fides quaerens intellectum, medium aevum
-  Korean: jungse cheolhak [medieval philosophy]
 
 Phr:
   philosophia ancilla theologiae [Lat.]
+  philosophy the handmaid of theology
+  the Dark Ages

@@ -7,6 +7,7 @@ HGloss: Being with non-being taken up into its simple unity, so that its determi
 N:
   determinate being in general; existence with a limit, being with negation; being and nonbeing united; finite existence; something rather than nothing; definite being, specific being; negation within being; inner limit, inherent bound; the being of a thing as distinct from other things; this rather than that
   being-there in general, determinacy
+  quale
 
 V:
   be something, be this rather than that; exclude, rule out, not be other; bear a limit within oneself
@@ -21,11 +22,12 @@ Adv:
   definitely, there
 
 F:
-  German: überhaupt, Dasein überhaupt
+  German: überhaupt
   Latin: determinatio negatio est [Spinoza, Letter 50], omnis determinatio est negatio [Hegel's form of it]
-  Korean: jil [quality]
 
 Phr:
   determinatio negatio est [Lat.] [Spinoza]
   something rather than nothing
   why is there something rather than nothing? [Leibniz]
+  of that ilk
+  to a degree

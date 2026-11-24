@@ -25,12 +25,6 @@ Adv:
   in grain, dyed in the wool
   in pigment
 
-F:
-  Arabic: ṣibgh [dye]
-  Sanskrit: rañjana [dye]
-  Chinese: yanliao [pigment]
-  Japanese: ganryō
-  Korean: hwahakjeok saek [chemical colour], allyo [pigment]
-
 Phr:
   dyed in the wool
+  to colour in

@@ -22,10 +22,10 @@ Adv:
 
 F:
   Latin: attributum, cogitatio et extensio [Spinoza], sub specie
-  Arabic: ṣifa [divine attribute], asmāʾ wa-ṣifāt [names and attributes]
-  Sanskrit: guṇa
-  Korean: jeoldaejeok sokseong [attribute]
+  Arabic: asmāʾ wa-ṣifāt [names and attributes]
 
 Phr:
   Deus sive natura [Lat.] [Spinoza]
   one substance, two attributes
+  sub specie aeternitatis
+  under one aspect

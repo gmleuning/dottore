@@ -56,15 +56,14 @@ Adv:
   in colour, colourfully, in technicolour
 
 F:
-  German: das Trübe, Farbenlehre, Farbe
+  German: das Trübe, Farbenlehre
   Latin: color
   Greek: chrōma
-  Arabic: lawn [colour]
   Sanskrit: varṇa [colour, class], rāga [colour, passion]
   Chinese: se [colour, form]
-  Japanese: iro
-  Korean: saek [color], saekchae
 
 Phr:
   colours are the deeds and sufferings of light [Goethe]
   all theory is grey [Goethe]
+  to show one's true colours
+  with flying colours

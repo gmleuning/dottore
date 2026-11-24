@@ -33,8 +33,7 @@ F:
   German: Schein [appearance, shine]
   Latin: splendor veritatis [the splendour of truth]
   Greek: to kalon
-  Arabic: ḥusn
-  Korean: miui inyeom [idea of the beautiful]
 
 Phr:
   beauty is the splendour of truth [attrib. Plato, scholastic]
+  the beautiful and the true

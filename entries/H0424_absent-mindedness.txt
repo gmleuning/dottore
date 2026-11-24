@@ -28,13 +28,10 @@ Adv:
   inattentively, inadvertently
 
 F:
-  German: Zerstreutheit
   Latin: per incuriam, sub silentio
   French: distrait
-  Arabic: ghafla [heedlessness]
-  Sanskrit: pramāda [heedlessness]
-  Korean: bangsim [absent-mindedness]
 
 Phr:
   lost in thought
   away with the fairies
+  head in the clouds

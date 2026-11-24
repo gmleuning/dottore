@@ -16,6 +16,7 @@ N:
   computer network, memory board, computer memory, software system, software program, computer software, computer storage, electronic computer, software package, information processing system, computing machine, computing device, data processor, peripheral device, computer peripheral, internet site, local area network, home computer, computer program, wide area network, digital computer, bus network, read-only memory, local memory, operating system, web site, real storage, read-only storage, fixed storage, computer programme, raw data, output device, input device, data input device, virtual storage, virtual memory, database management system, accounting data, alpha software, beta software, quantum computer, tablet computer, compatible software, software documentation, computer-aided design, shrink-wrapped software, analog computer, volatile storage, non-volatile storage, supervisory software, analogue computer, authoring language, job control, system program, service program, source program, systems program, personal information manager, personal computer, executive program
   trojan
   app, apps, application, browser, database, hardware, desktop, tablet, smartphone, keyboard, touchscreen, interface, processor, chip, pixel, backup, patch, setup, template, tutorial, beta, demo, cloud, server, wifi, broadband, bandwidth, algorithm, artificial intelligence, AI, chatbot, bot, coding, programming, programmer, coder, developer, hacker, geek, techie [Coll.], cybersecurity, password, login, username, spam, virus, firewall, bug, cursor, icon, folder, file, screenshot, emoji
+  mnemonics
 
 V:
   memorize, recite, repeat, parrot, drill, rattle off
@@ -35,13 +36,11 @@ Adj:
 Adv:
   by rote, by heart, mechanically, parrot-fashion
   without book, memoriter†
+  verbatim
 
 F:
-  Arabic: tilāwa [recitation], ḥāfiẓ [one who has memorized the Qur'an]
-  Sanskrit: pāṭha [recitation]
-  Chinese: beisong [recite by heart]
-  Japanese: anki [rote memorization]
-  Korean: gigyejeok gieok [mechanical memory], amgi
+  Arabic: ḥāfiẓ [one who has memorized the Qur'an]
 
 Phr:
   the transition from memory to thought
+  parrot fashion

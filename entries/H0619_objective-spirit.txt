@@ -22,14 +22,12 @@ Adv:
   objectively, in institutions, in the shared world
 
 F:
-  German: Recht, objektiver Geist
+  German: Recht
   Latin: ius
-  Arabic: al-rūḥ al-mawḍūʿī [objective spirit], niẓām [order]
-  Sanskrit: dharma [social order]
-  Chinese: keguan jingshen [objective spirit]
-  Japanese: kyakkanteki seishin
   Korean: gaekgwanjeok jeongsin [objective spirit]
 
 Phr:
   the system of right is the realm of freedom made actual [Hegel]
   a second nature
+  the spirit of the laws
+  the social fabric

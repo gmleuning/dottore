@@ -18,8 +18,8 @@ Adv:
 
 F:
   German: das Ich, Wissenschaftslehre [science of knowledge], Tathandlung [deed-act], Anstoß [check], intellektuelle Anschauung [intellectual intuition], Produktive Einbildungskraft [productive imagination]
-  Korean: Pihite [Fichte], jaa [the I]
 
 Phr:
   the I posits itself [Fichte]
   what sort of philosophy one chooses depends on what sort of person one is [Fichte]
+  I = I

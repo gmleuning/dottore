@@ -7,6 +7,7 @@ HGloss: The common will of the contract, the identity of wills which is the esse
 N:
   common will; shared will, consensus, mutual agreement, joint intention, meeting of minds, convergence of wills
   joint will, agreement, unity of wills
+  concord
 
 V:
   agree, concur, consent, converge
@@ -27,7 +28,7 @@ Adv:
 F:
   Latin: consensus ad idem
   Arabic: ijmāʿ [consensus]
-  Korean: gongdong uiji [common will]
 
 Phr:
   with one voice
+  of one mind

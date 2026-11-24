@@ -20,6 +20,7 @@ N:
   channel, gutter, trench, ditch, dike, dyke, moat, fosse†, trough, kennel, ravine &c H0218, tajo [U.S.], thank-ye-ma'am [U.S.]
   two-dimensional extension
   finishing, upside, slicing, saucer
+  facies
 
 V:
   surface, face, coat, cover, veneer, plane, flatten, level
@@ -48,14 +49,10 @@ Adv:
   on the surface, superficially, flat, flatwise
 
 F:
-  German: Fläche
   Latin: superficies, parietes
   Greek: epiphaneia
-  Arabic: saṭḥ [surface]
-  Sanskrit: tala [surface, plane]
-  Chinese: mian [surface, face]
-  Japanese: men
-  Korean: myeon [surface]
 
 Phr:
   a surface is that which has length and breadth only [Euclid]
+  on the face of it
+  to scratch the surface

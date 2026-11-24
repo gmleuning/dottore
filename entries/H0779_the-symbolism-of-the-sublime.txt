@@ -34,9 +34,7 @@ F:
   Greek: hypsos [Longinus]
   Arabic: jalāl [majesty, sublimity]
   Sanskrit: adbhuta [wonder]
-  Chinese: chonggao [sublime]
-  Japanese: sūkō
-  Korean: sunggoui sangjing [symbolism of the sublime]
 
 Phr:
   the sublime is the echo of a great soul [Longinus]
+  the heavens declare the glory of God

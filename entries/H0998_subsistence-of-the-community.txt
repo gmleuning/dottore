@@ -29,6 +29,7 @@ N:
   cleric
   sheikh
   celibacy, clerical celibacy, vow of celibacy, monasticism, the cloister
+  ecclesiology
 
 V:
   teach, preach, baptize, commune, sustain
@@ -54,7 +55,8 @@ F:
   Latin: missa cantata, ebdomarius, ecclesia, traditio, depositum fidei, unio mystica, extra ecclesiam nulla salus
   Greek: ekklēsia, koinōnia, eucharistia
   French: conge d'elire, suisse, Bonhomme, religieuse
-  Korean: gyohoe [church], seongsa [sacrament]
 
 Phr:
   this do in remembrance of me [Bible]
+  the body of Christ
+  bread and wine

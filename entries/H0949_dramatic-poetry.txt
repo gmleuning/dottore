@@ -14,6 +14,7 @@ N:
   performance, representation, stagery†, acting, gesture &c H0598, impersonation &c H0745, stage business, gag, buffoonery
   playwriting, the dramatic art, dialogue, action, dramatist, playwright, dramaturge, closet drama, verse drama
   backstage
+  theatricality
 
 V:
   dramatize, stage, perform, enact, act
@@ -34,12 +35,11 @@ Adv:
 F:
   Greek: drama [action], theatron
   French: piece, lever de rideau, opera bouffe, drame comedie drame, comidie larmoyante, mise en scene, jeu de theatre
-  Arabic: masraḥ [theatre]
-  Sanskrit: nāṭya [drama], Nāṭyaśāstra
-  Chinese: xiju [drama], xiqu [Chinese opera]
-  Japanese: engeki, nō, kabuki
-  Korean: geuk [drama], huigok [play]
+  Sanskrit: Nāṭyaśāstra
+  Chinese: xiqu [Chinese opera]
+  Japanese: nō, kabuki
 
 Phr:
   the play's the thing [Hamlet]
   das Drama muß … als die höchste Stufe der Poesie und der Kunst überhaupt angesehen werden [Ger.] [Hegel, Aesthetics, on dramatic poetry]
+  all the world's a stage

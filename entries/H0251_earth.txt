@@ -20,6 +20,7 @@ Adj:
   earthy, earthen, terrene, terrestrial, telluric, chthonic, chthonian, soil-bound, solid, terrigenous
   earthly
   continental, terrene &c H0234
+  tellurian
 
 Adv:
   on earth, under the earth, to earth, down to earth, on solid ground
@@ -28,12 +29,9 @@ Adv:
 F:
   Latin: terra, terra firma
   Greek: gē, gaia
-  Arabic: turāb [dust], arḍ [earth]
-  Sanskrit: pṛthivī [earth], bhūmi
-  Chinese: tu [earth, soil], di [ground]
-  Japanese: tsuchi
-  Korean: heuk [earth], ttang
+  Sanskrit: pṛthivī [earth]
 
 Phr:
   dust thou art, and unto dust shalt thou return [Bible]
   the meek shall inherit the earth [Bible]
+  salt of the earth

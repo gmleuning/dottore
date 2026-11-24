@@ -9,6 +9,7 @@ N:
   positiveness, actual existence
   reality &c H0004, truth
   actualness
+  entelechy
 
 V:
   actualize, realize, effectuate, effect, accomplish, bring about, make real, make good, come true, materialize; be actual, be real, be in effect, take effect, work
@@ -29,17 +30,17 @@ Adv:
   actually &c H0004, in effect &c H0081
 
 F:
-  German: Wirken [working, effecting], Wirklichkeit
+  German: Wirken [working, effecting]
   Latin: actualitas, de facto, in actu
   Greek: energeia, entelecheia
   French: fait accompli
   Arabic: ḥaqīqa [reality, truth], fiʿl [act, actuality]
   Sanskrit: satya [the real, truth], tattva
-  Chinese: xianshi [actuality, reality]
-  Japanese: genjitsu
   Korean: hyeonsilseong [actuality]
 
 Phr:
   what is rational is actual, and what is actual is rational [Hegel]
   facts are stubborn things
   it is what it is
+  the real thing
+  in actual fact

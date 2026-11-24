@@ -7,6 +7,7 @@ HGloss: The styles of romantic building, from the Romanesque to the Gothic and t
 N:
   different styles; architectural styles, Romanesque, Gothic, Renaissance, Baroque, secular styles
   the various styles, manners, modes, kinds of building, the secular style, varieties, periods
+  stylistics, periodization
 
 V:
   style, design
@@ -20,8 +21,7 @@ Adv:
   in style
   variously, severally, in different styles, by style
 
-F:
-  Korean: yangsiksa [history of styles]
-
 Phr:
   in every style
+  the march of styles
+  from round arch to pointed

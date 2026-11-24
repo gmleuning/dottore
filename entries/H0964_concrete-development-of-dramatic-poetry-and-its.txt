@@ -24,8 +24,9 @@ F:
   German: konkrete Entwicklung, die dramatische Poesie, Auflösung der Kunst
   French: tragédie classique
   Spanish: Siglo de Oro, comedia, auto sacramental
-  Sanskrit: nāṭaka, Nāṭyaśāstra
-  Korean: yeongeuksa [history of drama]
+  Sanskrit: Nāṭyaśāstra
 
 Phr:
   art has said its last word
+  from Aeschylus to Schiller
+  the course of the stage

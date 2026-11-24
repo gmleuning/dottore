@@ -10,6 +10,7 @@ N:
   luxury, intemperance &c H0613, extravagance &c H0614, lavishment†
   overdistension†, tympany†
   surplus
+  immoderacy
 
 V:
   exceed, go too far, overdo, overstep, overshoot, overreach, overflow, overload, overburden, break bounds, run riot, know no bounds, go overboard, carry to excess, gild the lily; destroy, ruin, burst
@@ -33,10 +34,8 @@ Adv:
   extraordinarily
 
 F:
-  German: das Maßlose
   Latin: ad nauseam, ultra vires, satis superque
   Greek: hybris, pleonexia, ametria, ametron
-  Arabic: isrāf [prodigality, excess]
   Korean: molcheokdo [the measureless]
 
 Phr:
@@ -44,3 +43,5 @@ Phr:
   enough is enough
   too much of a good thing
   whom the gods would destroy they first make mad
+  beyond all measure
+  out of all bounds

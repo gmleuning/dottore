@@ -38,12 +38,13 @@ Adv:
 F:
   German: Andacht, das unglückliche Bewußtsein
   Spanish: noche oscura del alma [John of the Cross]
-  Arabic: ḥuzn [sorrow], shawq [longing]
+  Arabic: shawq [longing]
   Sanskrit: viraha [longing of separation]
-  Chinese: buxing yishi [unhappy consciousness]
   Korean: bulhaenghan uisik [unhappy consciousness]
 
 Phr:
   the dark night of the soul [John of the Cross]
   wretched man that I am! [Bible]
   our heart is restless until it rests in thee [Augustine]
+  torn in two
+  a house divided

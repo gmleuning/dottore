@@ -13,6 +13,7 @@ N:
   flexure, flexion, bending, inflection
   dioptrics
   glasses, specs
+  refrangibility
 
 V:
   refract, bend, deflect, diffract, disperse, distort, angle
@@ -29,10 +30,8 @@ Adv:
 
 F:
   Latin: refractio
-  Arabic: inʿikās [refraction]
-  Chinese: zheshe [refraction]
-  Japanese: kussetsu
-  Korean: gullyeol [refraction]
 
 Phr:
   the bent oar in the water
+  bent out of shape
+  a broken stick in water

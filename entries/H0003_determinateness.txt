@@ -12,6 +12,7 @@ N:
   speciality, particularity
   determinacy, definite character, qualitative determinateness
   trademark
+  quale, talis
 
 V:
   qualify, characterize, specify, determine, define, distinguish, differentiate, mark, stamp, brand, tinge, colour; be of a kind, partake of; have the character of; be such as, be such that
@@ -28,12 +29,11 @@ F:
   German: Bestimmtheit, Sosein
   Latin: qualitas, quidditas, per se
   Greek: poiotēs
-  Arabic: ṣifa [attribute]
   Sanskrit: guṇa [quality, strand of nature], tathatā
   Chinese: xing [nature, inborn character]
-  Korean: jil [quality], seongjil
 
 Phr:
   qualis artifex pereo [Lat.] [Nero]
   a leopard cannot change his spots
   naturam expellas furca, tamen usque recurret [Lat.] [Horace]
+  such as it is

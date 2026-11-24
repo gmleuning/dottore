@@ -32,8 +32,7 @@ F:
   Greek: to mē on, ouk on, mē on
   Spanish: nada
   Hebrew: ayin [nothingness]
-  Arabic: ʿadam [nonexistence]
-  Sanskrit: śūnyatā [emptiness], śūnya
+  Sanskrit: śūnyatā [emptiness]
   Chinese: wu [nonbeing, nothing]
   Japanese: mu
   Korean: mu [nothing], heomu [nothingness]
@@ -45,3 +44,4 @@ Phr:
   vanity of vanities, all is vanity [Bible]
   das Nichts selbst nichtet [Ger.] [Heidegger]
   nada y pues nada [Sp.]
+  out of nothing, nothing comes

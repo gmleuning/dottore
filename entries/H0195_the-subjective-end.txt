@@ -12,6 +12,7 @@ N:
   premeditation, predetermination, intention &c H0660
   final cause, object, end, the be all and the end all, drift &c H0599, tendency &c H0378, destination, mark, point, target
   program, curriculum
+  telos
 
 V:
   intend, plan, design, propose, purpose, resolve, aim, mean, contemplate, envisage, have in mind, set one's sights on
@@ -34,12 +35,10 @@ F:
   German: Zweck
   Latin: quo animo, cui bono
   French: arriere pensee, raison d'etre
-  Arabic: niyya [intention], qaṣd [aim]
+  Arabic: niyya [intention]
   Sanskrit: saṅkalpa [resolve, intention]
-  Chinese: yitu [intention]
-  Japanese: ito
-  Korean: jugwanjeok mokjeok [subjective end]
 
 Phr:
   the best laid schemes o' mice an' men gang aft agley [Burns]
   the road to hell is paved with good intentions
+  to have in mind

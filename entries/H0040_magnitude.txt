@@ -12,6 +12,7 @@ N:
   degree, grade, ratio, range, scope, caliber, gradation
   size &c H0218
   math, measuring, maths
+  quantitativeness
 
 V:
   quantify, measure, count, number, tally, reckon, calculate, compute, gauge, size, size up, weigh, mete; increase, augment, enlarge, magnify; decrease, diminish, reduce, lessen; amount to, come to, total
@@ -27,15 +28,12 @@ Adv:
   in magnitude
 
 F:
-  German: Quantität, Größe
+  German: Quantität
   Latin: quantitas, mathesis universalis, circa
   Greek: poson, posotēs
-  Arabic: kamm [quantity], miqdār [magnitude]
-  Sanskrit: parimāṇa [size, measure]
-  Chinese: liang [quantity]
-  Korean: yang [quantity]
 
 Phr:
   omnia in mensura et numero et pondere disposuisti [Lat.] [Bible, Wisdom 11:20]
   numero, pondere et mensura Deus omnia condidit [Lat.]
   what gets measured gets managed
+  in round numbers

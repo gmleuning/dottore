@@ -10,6 +10,7 @@ N:
   actuality, matter of fact, truth &c H0204
   sincerity, honesty, love of truth
   adequation
+  veridicality
 
 V:
   be true, hold true, ring true, correspond, agree, accord; verify
@@ -31,14 +32,14 @@ Adv:
 F:
   Latin: veritas, de facto, adaequatio rei et intellectus
   Greek: alētheia [unconcealment]
-  Arabic: ḥaqq [truth, reality], ḥaqīqa, ṣidq [truthfulness]
+  Arabic: ḥaqq [truth, reality], ṣidq [truthfulness]
   Sanskrit: satya, ṛta
-  Chinese: zhenli [truth]
-  Japanese: shinri, makoto [sincerity, truth]
-  Korean: jilli [truth]
+  Japanese: makoto [sincerity, truth]
 
 Phr:
   veritas liberabit vos [Lat.] [Bible]
   the truth is the whole [Hegel]
   satyam eva jayate [Skt.] [truth alone triumphs] [Mundaka Upanishad]
   what is truth? quid est veritas? [Lat.] [Bible]
+  the naked truth
+  truth will out

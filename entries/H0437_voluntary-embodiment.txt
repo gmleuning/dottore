@@ -23,8 +23,7 @@ Adv:
   designedly, purposely, deliberately &c H0656
   voluntarily, at will
 
-F:
-  Korean: jayujeok sinchehwa
-
 Phr:
   suit the action to the word, the word to the action [Hamlet]
+  to compose one's features
+  body language

@@ -19,10 +19,7 @@ Adv:
   prescriptively, by command
   by law, as lawgiver, immediately
 
-F:
-  Arabic: tashrīʿ [legislation]
-  Korean: ipbeop iseong [lawgiving reason]
-
 Phr:
   everyone ought to speak the truth [Hegel's example]
   love thy neighbour as thyself [Bible]
+  one ought always to tell the truth

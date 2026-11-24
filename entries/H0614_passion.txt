@@ -41,10 +41,10 @@ F:
   Italian: con amore, con fuoco
   Arabic: hawā [passion, whim], ʿishq [passionate love]
   Sanskrit: rāga [passion, attachment]
-  Chinese: reqing [passion]
-  Japanese: jōnetsu
   Korean: jeongnyeol [passion]
 
 Phr:
   nothing great in the world has been accomplished without passion [Hegel]
   reason is, and ought only to be, the slave of the passions [Hume]
+  nothing great is done without passion
+  heart and soul

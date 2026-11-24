@@ -18,7 +18,8 @@ Adv:
 
 F:
   Latin: tabula rasa, a posteriori
-  Korean: gyeongheomnon [empiricism]
 
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]
+  nothing in the intellect that was not first in the senses
+  experience is the teacher

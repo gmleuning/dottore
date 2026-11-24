@@ -29,12 +29,9 @@ F:
   German: Baukunst
   Latin: architectura
   Greek: architektonikē
-  Arabic: ʿimāra [architecture], miʿmār [architect]
-  Sanskrit: vāstu-śāstra [science of building], sthāpatya
-  Chinese: jianzhu [architecture]
-  Japanese: kenchiku
-  Korean: geonchuk [architecture]
+  Sanskrit: vāstu-śāstra [science of building]
 
 Phr:
   architecture is frozen music [Schelling, attrib.]
   firmitas, utilitas, venustas [Lat.] [firmness, commodity, delight] [Vitruvius]
+  built to last

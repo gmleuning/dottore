@@ -13,6 +13,7 @@ N:
   the skin process
   birthday suit, pore, zit [Slang], pimple, spot, blackhead, whitehead, acne, freckle, mole, wart, wrinkle, crease, goosebumps, goose pimples, BO, body odour, pit stains, armpit, pits [Slang]
   hair, mop, mane, locks, tresses, barnet [Cockney], thatch, beard, stubble, five o'clock shadow, body hair, pubes, fuzz, bald patch, baldness
+  dipsesis
 
 V:
   breathe, inhale, exhale, respire, pant, gasp, sweat, perspire, thirst, drink
@@ -38,11 +39,9 @@ Adv:
 F:
   Latin: cutis
   Greek: derma
-  Arabic: nafas [breath], ʿaṭash [thirst]
   Sanskrit: prāṇa [breath], tṛṣṇā [thirst, craving]
-  Chinese: huxi [breathing]
-  Japanese: kokyū
-  Korean: hoheup [breathing], galjeung [thirst]
 
 Phr:
   as the hart panteth after the water brooks [Bible]
+  to catch one's breath
+  dying of thirst

@@ -8,6 +8,7 @@ N:
   form: fully enclosed house; enclosure, interior, sanctuary, cloister, the closed space of worship, interiority
   the enclosed house, the house of God, enclosed space, the closed interior, the shutting-out of the world, church, cathedral, seclusion, shelter for the soul
   privacy
+  sanctum
 
 V:
   enclose, shut in, cloister, seclude
@@ -23,8 +24,6 @@ Adv:
   within, inside
   indoors, within walls
 
-F:
-  Korean: haneunimui jip [house of God]
-
 Phr:
   shut off from the world
+  a sanctuary within

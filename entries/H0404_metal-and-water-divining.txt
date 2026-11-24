@@ -20,9 +20,9 @@ Adv:
   by divination
 
 F:
-  German: Metall- und Wasserfühlen
   Latin: virgula divina
-  Korean: sumaek tamsa [dowsing]
 
 Phr:
   water-witching
+  to divine for water
+  a nose for it

@@ -42,14 +42,11 @@ F:
   Latin: mare, oceanus
   Greek: thalassa, pontos, pelagos
   French: chasse-maree
-  Arabic: baḥr [sea], muḥīṭ [ocean]
-  Sanskrit: samudra [ocean], sāgara
-  Chinese: hai [sea], yang [ocean]
-  Japanese: umi
-  Korean: bada [sea], haeyang
 
 Phr:
   thalatta! thalatta! [Gr.] [the sea! the sea!] [Xenophon]
   the wine-dark sea [Homer]
   mare nostrum [Lat.]
   the sea is everything [Jules Verne]
+  all at sea
+  plenty more fish in the sea

@@ -32,11 +32,6 @@ F:
   Latin: terra, terra firma
   Greek: gē
   French: chersonese
-  Arabic: barr [land], yābisa [dry land]
-  Sanskrit: bhūmi, sthala [dry land]
-  Chinese: lu [land]
-  Japanese: riku
-  Korean: yukji [land], ttang
 
 Phr:
   land ho!

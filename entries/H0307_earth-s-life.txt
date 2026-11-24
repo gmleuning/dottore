@@ -22,10 +22,7 @@ Adv:
   on the face of the earth
   in atmosphere sea and land
 
-F:
-  Arabic: ḥayāt al-arḍ
-  Chinese: diqiu shengming
-  Korean: jiguui saengmyeong [earth's life]
-
 Phr:
   the earth breathes
+  teeming with life
+  the breath of the earth

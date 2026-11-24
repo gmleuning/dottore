@@ -10,6 +10,7 @@ N:
   art of memory, artificial memory, mnemotechnics†, phrenotypics†, Mnemosyne
   suggestion &c H0599, prompting, hint, reminder, remembrancer†, flapper, commemoration &c H0973
   retentive memory, tenacious memory, photographic memory, green memory†, trustworthy memory, capacious memory, faithful memory, correct memory, exact memory, ready memory, prompt memory, accurate recollection, perfect memory, total recall
+  mneme
 
 V:
   memorize, commit to memory, learn by heart, retain, recall, remember, con
@@ -32,12 +33,9 @@ F:
   Latin: memoria, ars memoriae, veteris vestigia flammae, memoria technica
   Greek: mnēmē
   French: par cœur
-  Arabic: ḥifẓ [memorization], dhākira [memory]
   Sanskrit: smṛti [memory]
-  Chinese: jiyi [memory]
-  Japanese: kioku
-  Korean: gieok [memory]
 
 Phr:
   memory is the treasury and guardian of all things [Cicero]
   Mnemosyne, mother of the Muses
+  in living memory

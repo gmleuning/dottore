@@ -9,6 +9,7 @@ N:
   sight, spectacle, scene, view, prospect, vista
   beauty unadorned
   nature's beauty, the naturally beautiful, the first beauty, natural form, the beauty of the living
+  sublime
 
 V:
   admire, behold, delight in, contemplate
@@ -27,11 +28,9 @@ Adv:
 
 F:
   French: fait a peindre
-  Arabic: jamāl al-ṭabīʿa
-  Sanskrit: prakṛti-saundarya
-  Chinese: ziran mei [natural beauty]
-  Japanese: shizen-bi, fūkei [scenery], kachō fūgetsu [flower, bird, wind, moon]
+  Japanese: kachō fūgetsu [flower, bird, wind, moon]
   Korean: jayeonmi [natural beauty]
 
 Phr:
   the heavens declare the glory of God [Bible]
+  as nature made it

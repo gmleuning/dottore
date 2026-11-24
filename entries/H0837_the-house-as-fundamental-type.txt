@@ -25,6 +25,7 @@ N:
   fireplace, gas fireplace, coal fire, wood fire, fire-dog, fire- irons, grate, range, kitchener, caboose, camboose†, poker, tongs, shovel, ashpan, hob, trivet, andiron, gridiron, ashdrop, frying-pan, stew-pan, backlog
   inglenook
   oil burner, gas burner, Franklin stove, pot-bellied stove, wood-burning stove, central heating, steam heat, hot water heat, gas heat, forced hot air, electric heat, heat pump, solar heat, convective heat
+  megaron, domus
 
 V:
   house, shelter, dwell, enclose, roof
@@ -43,12 +44,6 @@ Adv:
   at home, under one roof
   under a roof, originally, basically
 
-F:
-  Arabic: bayt [house]
-  Sanskrit: gṛha [house]
-  Chinese: fangwu [house]
-  Japanese: ie
-  Korean: jip [house], wonhyeong [archetype]
-
 Phr:
   the primitive hut [Laugier]
+  four walls and a roof

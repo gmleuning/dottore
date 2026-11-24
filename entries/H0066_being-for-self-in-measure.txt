@@ -11,6 +11,7 @@ N:
   steadiness
   golden mean &c H0059
   the self-maintaining measure, the fixed relation, the exponent of measure
+  equipoise
 
 V:
   maintain itself, persist, endure, regulate itself, self-regulate, stay constant, hold steady, keep its balance
@@ -25,8 +26,6 @@ Adv:
   constantly, invariably, steadily, through thick and thin, come what may
   for itself
 
-F:
-  Korean: daejajeok cheokdo
-
 Phr:
   plus ça change, plus c'est la même chose [Fr.] [Alphonse Karr]
+  by its own lights

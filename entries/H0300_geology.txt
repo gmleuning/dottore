@@ -27,11 +27,9 @@ Adv:
 
 F:
   German: Oryktognosie
-  Arabic: maʿādin [minerals], ʿilm al-maʿādin [mineralogy]
   Sanskrit: dhātu [mineral, element]
-  Chinese: dizhixue [geology]
-  Japanese: chishitsugaku
-  Korean: jijilhak [geology], gwangmulhak
 
 Phr:
   sermons in stones [As You Like It]
+  set in stone
+  rock bottom

@@ -22,10 +22,10 @@ Adv:
 
 F:
   Greek: ekklēsia, isonomia [equality before the law], politēs
-  Korean: jeongchijeok yesul jakpum
 
 Phr:
   Pericles' funeral oration [Thucydides]
   we do not say that a man who takes no interest in politics minds his own business
   μόνοι γὰρ τόν τε μηδὲν τῶνδε μετέχοντα οὐκ ἀπράγμονα, ἀλλ᾽ ἀχρεῖον νομίζομεν [Gk.] [Thucydides II.40]
   we regard the citizen who takes no part in these duties not as unambitious but as useless [Thucydides II.40, tr. Crawley]
+  the Athenian democracy

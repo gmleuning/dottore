@@ -29,7 +29,6 @@ Adv:
 
 F:
   German: Tugend, Weltlauf
-  Korean: deokgwa sesang [virtue and the way of the world]
 
 Phr:
   the way of the world is victorious over virtue [Hegel]

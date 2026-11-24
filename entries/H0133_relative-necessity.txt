@@ -31,8 +31,9 @@ F:
   German: reale Möglichkeit
   Latin: necessitas consequentiae
   Arabic: wujūb bi-l-ghayr [necessity through another]
-  Korean: sangdaejeok pillyeonseong
 
 Phr:
   necessity knows no law
   needs must when the devil drives
+  given the circumstances
+  it stands to reason

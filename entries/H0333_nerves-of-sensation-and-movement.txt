@@ -8,6 +8,7 @@ N:
   nerves of sensation and movement; sensory nerves, afferent nerves, motor nerves, efferent nerves, reflex arc, sensorimotor system
   the spinal cord
   motor neuron, sensory neuron, interneuron, spinal reflex, knee jerk, patellar reflex, proprioception, kinaesthesia, kinesthesia, numbness, tingling, pins and needles, paralysis, palsy, tic, spasm
+  synapse
 
 V:
   sense, feel, move, react, transmit
@@ -23,8 +24,7 @@ Adv:
   reflexively
   to and from the brain
 
-F:
-  Korean: gamgak singyeong, undong singyeong
-
 Phr:
   the knee-jerk reflex
+  a raw nerve
+  to touch a nerve

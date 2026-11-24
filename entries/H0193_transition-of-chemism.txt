@@ -7,6 +7,7 @@ HGloss: The neutral product separated again into differents; chemism thereby fre
 N:
   transition of chemism; exhaustion of reaction, spent reaction, end of tension, neutrality; passage to purpose, emergence of purposiveness
   the passage out of chemism, the sublation of the neutral product, the transition to teleology, the freed concept, the emergence of purpose
+  decomposition
 
 V:
   exhaust, spend, neutralize, settle, pass beyond
@@ -22,7 +23,8 @@ Adv:
 
 F:
   German: Zweckmäßigkeit
-  Korean: hwahangnonui ihaeng
 
 Phr:
   the fire burns out
+  to break apart again
+  to take a new turn

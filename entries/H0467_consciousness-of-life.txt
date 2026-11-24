@@ -7,6 +7,7 @@ HGloss: Consciousness that has life as its object, which is the threshold of sel
 N:
   consciousness of life; awareness of life, sense of the living, feeling of vitality, life-feeling, recognition of the living other
   the consciousness of the living, life as object, the living thing before consciousness, the genus
+  vitalism, biophilia
 
 V:
   recognize life, sense the living
@@ -22,7 +23,8 @@ Adv:
 
 F:
   German: Lebensgefühl
-  Korean: saengmyeong uisik [consciousness of life]
 
 Phr:
   reverence for life, Ehrfurcht vor dem Leben [Ger.] [Albert Schweitzer]
+  the spark of life
+  a living thing

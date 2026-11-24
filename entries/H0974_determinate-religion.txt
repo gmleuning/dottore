@@ -29,10 +29,10 @@ Adv:
   determinately, in particular, in its particular forms, in history, by stages, successively, severally, variously, among the nations
 
 F:
-  German: Religionsgeschichte, die bestimmte Religion, Volksreligion, die Stufen der Religion, Bestimmtheit
+  German: Religionsgeschichte, Volksreligion, die Stufen der Religion, Bestimmtheit
   Latin: religiones gentium, religio positiva
   Greek: ethnē
-  Korean: gyujeongjeok jonggyo [determinate religion]
 
 Phr:
   the religions of the world
+  stages on the way

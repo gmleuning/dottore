@@ -21,8 +21,6 @@ Adv:
   descriptively, observationally, at first sight
   immediately, qualitatively
 
-F:
-  Korean: jeongjae pandan, jiljeok pandan
-
 Phr:
   the grass is green
+  as it strikes the eye

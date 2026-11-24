@@ -7,6 +7,7 @@ HGloss: The union of accentual rhythm and rhyme in modern verse.
 N:
   unification of verse and rhyme; rhymed metrical verse, modern prosody
   rhymed verse, the union of metre and rhyme, combination, blending, fusion, rhymed iambics, the alexandrine, ottava rima, terza rima, the stanza
+  iamb, trochee
 
 V:
   combine, unite
@@ -20,8 +21,7 @@ Adv:
   in rhymed verse
   jointly, together
 
-F:
-  Korean: gangse [stress]
-
 Phr:
   the marriage of metre and rhyme
+  accent and rhyme
+  the stressed syllable

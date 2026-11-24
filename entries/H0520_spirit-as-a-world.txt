@@ -25,11 +25,8 @@ F:
   Latin: mores
   Greek: ethos
   Arabic: ʿumrān [civilization] [Ibn Khaldun], ʿaṣabiyya [group solidarity]
-  Sanskrit: saṃskṛti [culture]
-  Chinese: wenming [civilization]
-  Japanese: bunmei
-  Korean: segyeroseoui jeongsin
 
 Phr:
   the spirit of the age
   O tempora, o mores! [Lat.] [Cicero]
+  a world of one's own making

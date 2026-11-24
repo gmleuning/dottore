@@ -7,6 +7,7 @@ HGloss: The elements of the Greek spirit: a divided land of coast and islands, a
 N:
   the elements of the Greek spirit; geography of Greece, sea and mountains, colonies, borrowings from the East, freedom of the individual, the gods made human, Greek individuality
   the conditions of the Greek spirit, the Greek land, the sea, the islands, the mixture of peoples, foreign origins, the natural basis, heterogeneity, the youthful spirit
+  archipelago
 
 V:
   borrow, transform, humanize, colonize
@@ -20,8 +21,7 @@ Adv:
   among the islands
   by land and sea, from foreign origins, natively
 
-F:
-  Korean: geuriseu jeongsinui yoso
-
 Phr:
   Hellas as the meeting of East and West
+  a land of islands
+  wine-dark sea

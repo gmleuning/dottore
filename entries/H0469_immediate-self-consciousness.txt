@@ -14,6 +14,7 @@ N:
   greediness, rapacity
   appetitive self-consciousness, the desiring self, immediate self-certainty
   the munchies [Slang], jones [U.S. Slang], itch, yen, FOMO [Slang], the hots [Slang]
+  conation
 
 V:
   desire, want, crave, covet, hunger for, thirst for, lust after, long for, yearn for, hanker after
@@ -39,10 +40,9 @@ F:
   Greek: orexis, epithymia
   Arabic: shahwa [appetite, desire]
   Sanskrit: tṛṣṇā [thirst, craving], kāma [desire]
-  Chinese: yuwang [desire]
-  Japanese: yokubō
-  Korean: yongmang [desire], yokgu
 
 Phr:
   self-consciousness is desire in general [Hegel]
   desire is the very essence of man [Spinoza]
+  hungry for
+  to have one's heart set on

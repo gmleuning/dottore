@@ -7,6 +7,7 @@ HGloss: Colour produced within a transparent body by its own inner structure and
 N:
   entoptic colour; colour within a transparent body, interference colours, polarization colours, stress patterns, photoelasticity; inner coloration
   internal colour, polarization colour, the colours of double refraction, entoptic figures, Seebeck, Goethe's entoptic colours
+  birefringence
 
 V:
   show colour within
@@ -20,8 +21,7 @@ Adv:
   within
   within the body, internally
 
-F:
-  Korean: naebu saek [entoptic colour]
-
 Phr:
   colour in the heart of glass
+  colours within
+  a play of light

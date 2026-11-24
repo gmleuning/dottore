@@ -25,11 +25,10 @@ F:
   Greek: sympatheia
   French: en rapport
   Italian: simpatico [Spanish simpático]
-  Arabic: tawāṣul
   Sanskrit: sahṛdaya [like-hearted]
-  Chinese: ganying, tongqing [sympathy]
-  Japanese: kyōkan
-  Korean: jikjeopjeok gongam [immediate sympathy]
+  Chinese: ganying
+  Korean: nunchi [tact, sensing others' moods]
 
 Phr:
   two hearts that beat as one
+  to feel for

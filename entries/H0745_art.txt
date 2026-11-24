@@ -11,6 +11,7 @@ N:
   the beautiful arts, the sensuous shining of the idea
   graphics
   museum, gallery, art gallery, exhibition, exhibit, show, installation, masterpiece, artist, curator
+  techne
 
 V:
   create, compose, depict, portray, render, represent, express, shape, fashion
@@ -36,13 +37,10 @@ F:
   Greek: technē
   French: beaux-arts, fait a peindre
   Italian: belle arti
-  Arabic: fann [art], funūn jamīla [fine arts]
-  Sanskrit: kalā [art], śilpa [craft, art]
-  Chinese: yishu [art]
-  Japanese: geijutsu
-  Korean: yesul [art]
+  Korean: pungnyu [refined taste, elegance]
 
 Phr:
   ars longa, vita brevis [Lat.] [Hippocrates]
   art is the sensuous shining of the idea [Hegel]
   art for art's sake, l'art pour l'art [Fr.]
+  life is short, art is long

@@ -7,6 +7,7 @@ HGloss: The musical treatment of content, which takes it in the form of feeling.
 N:
   musical treatment of subject-matter; expression, word-painting, programme music, affect
   musical conception, musical expression, the setting, tone-painting, characterization, the expression of feeling, sentiment, mood, the passions, imitation
+  Stimmung
 
 V:
   express, set, paint in sound
@@ -22,7 +23,8 @@ Adv:
 
 F:
   German: Affektenlehre [doctrine of affections]
-  Korean: jeongjo [mood]
 
 Phr:
   music as the language of feeling
+  the feeling without the object
+  a mood in sound

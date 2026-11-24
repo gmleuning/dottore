@@ -27,10 +27,8 @@ F:
   Latin: terra, Tellus
   Greek: planētēs [wanderer], Gaia
   Arabic: kawkab sayyār [wandering star]
-  Sanskrit: graha
-  Chinese: xingxing [moving star, planet]
-  Japanese: wakusei
-  Korean: hokseong, haengseong [planet]
 
 Phr:
   the earth is the Lord's, and the fulness thereof [Bible]
+  on this planet
+  spaceship earth

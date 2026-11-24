@@ -7,6 +7,7 @@ HGloss: The middle is the genus as the totality of its exclusive species, the me
 N:
   disjunctive syllogism; process of elimination, elimination, exclusion of alternatives, argument by elimination, exhaustive division; dilemma, trilemma
   the disjunctive inference, inference by elimination, exhaustive alternatives, the either-or as middle
+  exhaustion
 
 V:
   eliminate, exclude, rule out, narrow down, whittle down
@@ -21,7 +22,7 @@ Adv:
 
 F:
   Latin: modus tollendo ponens
-  Korean: seoneon churon [disjunctive syllogism]
 
 Phr:
   when you have eliminated the impossible, whatever remains, however improbable, must be the truth [Arthur Conan Doyle]
+  if not this, then that

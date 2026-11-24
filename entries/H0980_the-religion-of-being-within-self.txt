@@ -22,14 +22,15 @@ Adv:
   inwardly, within, in stillness, in silence, in emptiness, in withdrawal, quietly, calmly, tranquilly, peacefully, detachedly, contemplatively, desirelessly
 
 F:
-  German: nichts, Insichsein, die Religion des Insichseins, das Nichts, Stille
+  German: nichts, Insichsein, Stille
   Sanskrit: nirvāṇa, śūnyatā [emptiness], dhyāna, samādhi, bodhi, dharma, saṅgha, duḥkha, tṛṣṇā, anātman, tathāgata
   Pali: nibbāna, dukkha [suffering], anattā [non-self], jhāna
   Tibetan: tulku, bla-ma
   Chinese: chan, wu
   Japanese: zen, satori, mu
-  Korean: Bulgyo [Buddhism], Ramagyo [Lamaism], gong [emptiness]
+  Korean: gong [emptiness], Seon [Korean Zen]
 
 Phr:
   the Nothing which the Buddhists make the universal principle, as well as the final aim and goal of everything, is the same abstraction [Hegel, Encyclopaedia §87, tr. Wallace]
   form is emptiness, emptiness is form, rūpaṃ śūnyatā śūnyataiva rūpam [Skt.] [Heart Sutra]
+  all is suffering

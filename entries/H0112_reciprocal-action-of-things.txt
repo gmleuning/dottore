@@ -31,8 +31,9 @@ F:
   Latin: nexus, influxus physicus, mutatis mutandis
   Sanskrit: indrajāla
   Chinese: ganying [mutual resonance]
-  Korean: sanghojagyong [interaction]
 
 Phr:
   all things are connected
   the butterfly effect
+  each to each
+  rub off on

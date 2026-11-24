@@ -47,11 +47,10 @@ F:
   Greek: eudaimonia
   French: sans souci, tant mieux
   Arabic: saʿāda [happiness, felicity]
-  Sanskrit: sukha [happiness], ānanda [bliss]
-  Chinese: xingfu [happiness]
-  Japanese: shiawase, kōfuku
-  Korean: haengbok [happiness]
+  Sanskrit: ānanda [bliss]
 
 Phr:
   happiness is an ideal not of reason but of imagination [Kant]
   the periods of happiness are blank pages in history [Hegel]
+  happily ever after
+  the pursuit of happiness

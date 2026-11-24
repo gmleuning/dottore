@@ -9,6 +9,7 @@ N:
   reiteration, recurrence, succession, run, monotony
   infinity, infinitude, infiniteness, perpetuity &c H0222, boundlessness
   the endless progress, the bad infinite of quantity, the progress to infinity
+  indefinitude, regress
 
 V:
   progress endlessly, go on and on, go on forever, never end, iterate, recur, recurse; approach but never reach
@@ -33,8 +34,9 @@ F:
   Latin: progressus in infinitum, regressus in infinitum, ad infinitum, et cetera
   Greek: pleonexia [grasping for more]
   French: mise en abyme
-  Korean: muhan jinhaeng
 
 Phr:
   Achilles and the tortoise [Zeno]
   great fleas have little fleas upon their backs to bite 'em, and little fleas have lesser fleas, and so ad infinitum [Augustus De Morgan]
+  ever more
+  there's always more where that came from

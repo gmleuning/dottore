@@ -23,8 +23,7 @@ Adv:
   inextricably, hand in hand
   mutually, reciprocally, through one another
 
-F:
-  Korean: du beobui sangho chimtu
-
 Phr:
   each law lives through the other
+  the twain shall meet
+  woven together

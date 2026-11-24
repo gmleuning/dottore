@@ -7,6 +7,7 @@ HGloss: The particular characteristics of painting, its content, material and cr
 N:
   particular characteristics of painting; subject-matter, colour, craft
   specific features, particulars, special determinations, details, the romantic content, the sensuous material, artistic execution
+  facture, impasto
 
 V:
   specify
@@ -20,8 +21,7 @@ Adv:
   in particular
   specifically, in detail, severally
 
-F:
-  Korean: hwabeop [painting technique]
-
 Phr:
   subject, colour, and craft
+  the painter's eye
+  brush and palette

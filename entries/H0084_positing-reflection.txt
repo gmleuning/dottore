@@ -22,13 +22,14 @@ Adv:
   by positing
 
 F:
-  German: Setzen, Voraussetzung, Nachträglichkeit [deferred action, retroactive determination], das Gesetzte, Gesetztsein, setzende Reflexion
+  German: Setzen, Voraussetzung, Nachträglichkeit [deferred action, retroactive determination], das Gesetzte, Gesetztsein
   Latin: positio, ex hypothesi, ex post facto
   Greek: thesis [a setting down]
   Sanskrit: kalpanā [construction, imagination]
-  Korean: jeongnip banseong [positing reflection]
 
 Phr:
   fiat lux [Lat.] [Bible]
   the self posits itself [Fichte]
   by pulling oneself up by one's own bootstraps
+  to take for granted
+  to lay down

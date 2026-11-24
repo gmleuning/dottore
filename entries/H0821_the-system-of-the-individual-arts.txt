@@ -10,6 +10,7 @@ N:
   drawing
   carving, statuary
   the system of the arts, the individual arts, the particular arts, the division of the arts, architecture sculpture painting music and poetry
+  beaux-arts
 
 V:
   classify, rank, order
@@ -24,11 +25,9 @@ Adv:
   systematically, severally, art by art
 
 F:
-  Arabic: al-funūn [the arts]
   Sanskrit: catuḥṣaṣṭi kalāḥ [the sixty-four arts]
   Chinese: liuyi [the six arts]
   Japanese: geidō [the way of art]
-  Korean: gaebyeol yesurui chegye [system of the individual arts]
 
 Phr:
   the nine Muses

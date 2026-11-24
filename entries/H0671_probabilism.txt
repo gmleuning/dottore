@@ -23,8 +23,7 @@ Adv:
   casuistically, on some authority or other
   on some authority, on probable grounds
 
-F:
-  Korean: gaeyeonnon [probabilism]
-
 Phr:
   there's always someone who says it's fine
+  there's always a reason
+  to find a loophole

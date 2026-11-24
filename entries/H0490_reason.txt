@@ -25,15 +25,12 @@ Adv:
   rationally, reasonably, in reason
 
 F:
-  German: Vernunft
   Latin: ratio
   Greek: logos, nous
-  Arabic: ʿaql [reason]
-  Sanskrit: buddhi, viveka [discernment]
-  Chinese: lixing [reason]
-  Japanese: risei
-  Korean: iseong [reason]
+  Sanskrit: viveka [discernment]
 
 Phr:
   reason is the certainty of consciousness that it is all reality [Hegel]
   the real is rational
+  it stands to reason
+  within reason

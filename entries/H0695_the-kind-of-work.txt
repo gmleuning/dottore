@@ -54,12 +54,9 @@ Adv:
 F:
   Latin: limae labor
   French: métier
-  Arabic: ʿamal [work], ṣināʿa [craft, industry]
   Sanskrit: karman [work, action]
-  Chinese: laodong [labour], fengong [division of labour]
-  Japanese: bungyō
-  Korean: nodong [work], bungeop [division of labour]
 
 Phr:
   the pin factory [Adam Smith]
   so daß dann der Mensch davontreten und an seine Stelle die Maschine eintreten lassen kann [Ger.] [Hegel, Philosophy of Right §198]
+  all in a day's work

@@ -25,8 +25,9 @@ F:
   Latin: soli Deo gloria, timor Domini initium sapientiae
   Hebrew: Adonai, Elohim, berit, Torah, El Shaddai, Shema Yisrael, qadosh, yirat Adonai, ruach, hokhmah
   Arabic: tawḥīd [divine unity]
-  Korean: sunggo [the sublime], Yudaegyo [Judaism]
+  Korean: sunggo [the sublime]
 
 Phr:
   Shema Yisrael, Adonai Eloheinu, Adonai Echad [Heb.] [Bible]
   the fear of the Lord is the beginning of wisdom [Bible]
+  I am that I am

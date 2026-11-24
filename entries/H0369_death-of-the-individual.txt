@@ -12,6 +12,7 @@ N:
   euthanasia, break up of the system, natural decay, sudden death, violent death, untimely end, watery grave, debt of nature, suffocation, asphyxia, fatal disease &c H0367, death blow &c H0650
   King of terrors, King Death, doom &c H0134, Hell's grim Tyrant [Pope]
   stiff [Slang], body, goner, dead meat, worm food
+  obsequies
 
 V:
   die, decease, expire, perish, pass away, pass on, depart, succumb, give up the ghost, breathe one's last, go the way of all flesh, shuffle off this mortal coil
@@ -35,14 +36,11 @@ F:
   Latin: Mors, in extremis, in articulo mortis, reliquiae
   Greek: Thanatos
   French: aux abois
-  Arabic: mawt [death], wafāt
-  Sanskrit: mṛtyu [death], maraṇa, nirvāṇa [extinction]
-  Chinese: si [death]
-  Japanese: shi
-  Korean: gaecheui jugeum [death]
+  Sanskrit: nirvāṇa [extinction]
 
 Phr:
   death is the debt we all must pay
   mors certa, hora incerta [Lat.]
   the undiscovered country from whose bourn no traveller returns [Hamlet]
   above this death of nature, from this dead husk, proceeds a more beautiful nature, spirit [Hegel]
+  to kick the bucket

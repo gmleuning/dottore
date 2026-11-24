@@ -32,11 +32,8 @@ Adv:
 F:
   Latin: mixtio, tertium quid, omnium gatherum
   Greek: mixis
-  Arabic: khalṭ [mixture]
-  Sanskrit: miśraṇa [mixing]
-  Chinese: hunhe [mixture]
-  Japanese: kongō
-  Korean: honhap [mixture]
 
 Phr:
   oil and water do not mix
+  a mixed bag
+  mix and match

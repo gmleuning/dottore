@@ -22,6 +22,7 @@ N:
   appropriation, kale, quid, cryptocurrency, lev, clams, franc, medallion, subunit, coinage, baht, hao, taka, sou, fen, lolly, schilling, agora, fiver, sixpence, naira, kobo, farthing
   guinea, rand, yuan, tanner, lettuce, heller, som, shilling, housework, rupee, peso, lira, ruble
   income, earnings, profit, profits, revenue, turnover, costs, cost, expense, expenses, pricing, price, finances, funding, financing, investment, investing, banking, accounting, audit, payroll, pension, subsidy, tax, taxes, taxpayer, inflation, recession, the economy, capitalism, socialism, monopoly, billionaire, millionaire, the one percent, nonprofit, charity, fundraiser, crowdfunding, crypto, bitcoin, credit card, debit card, ATM, cash machine, cashback, mortgage, rent, loan, debt, overdraft
+  oeconomy
 
 V:
   produce, consume, trade, supply, demand, exchange, specialize
@@ -40,11 +41,8 @@ F:
   German: Staatsökonomie
   Latin: argent comptant
   French: bureau de change, piece
-  Arabic: iqtiṣād [economy]
   Sanskrit: vārtā [economics, livelihood], arthaśāstra [science of wealth]
-  Chinese: jingji [economy]
-  Japanese: keizai
-  Korean: yokgu chegye [system of needs], gyeongje
+  Korean: yokgu chegye [system of needs]
 
 Phr:
   it is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner [Adam Smith]

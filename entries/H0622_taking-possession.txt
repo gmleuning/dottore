@@ -33,11 +33,10 @@ Adv:
   by seizure
 
 F:
-  German: Besitznahme
   Latin: occupatio, res nullius [ownerless thing]
-  Arabic: ḥiyāza [taking possession], iḥyāʾ al-mawāt [reviving dead land]
-  Korean: jeomyu [taking possession]
+  Arabic: iḥyāʾ al-mawāt [reviving dead land]
 
 Phr:
   finders keepers
   qui prior est tempore, potior est iure [Lat.] [first in time, stronger in right]
+  to stake a claim

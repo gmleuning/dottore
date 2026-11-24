@@ -7,6 +7,7 @@ HGloss: Romanesque building, with its round arches, before the full development 
 N:
   Romanesque pre-Gothic; Romanesque, Norman architecture, rounded arch, thick walls, barrel vault, basilica, Byzantine architecture, Hagia Sophia, Carolingian architecture
   the round-arched style, the Byzantine style, the Norman style, groin vault, massive pier, thick wall, crypt, apse
+  tympanum
 
 V:
   build massively, round, vault
@@ -20,8 +21,6 @@ Adv:
   massively
   in round arches, heavily
 
-F:
-  Korean: Romaneseukeu [Romanesque]
-
 Phr:
   the round arch
+  thick walls and small windows

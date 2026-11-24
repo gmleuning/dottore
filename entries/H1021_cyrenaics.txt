@@ -8,6 +8,7 @@ N:
   Cyrenaics; Aristippus, hedonism, pleasure of the moment, sensation as criterion
   the Cyrenaic school, Cyrenaicism, Aristippus of Cyrene, Arete, Aristippus the Younger, Theodorus the Atheist, Hegesias, Anniceris, the death-persuader
   present enjoyment, bodily pleasure, kinetic pleasure, the smooth motion, pleasure as the end, gratification, egoistic hedonism, feeling as the criterion, subjectivism, sensualism, voluptuousness, voluptuary, mastery of pleasure
+  eudaemonism
 
 V:
   enjoy, seize the moment
@@ -24,7 +25,6 @@ Adv:
 F:
   Latin: carpe diem
   Greek: monochronos hēdonē, pathos, telos, echō ouk echomai
-  Korean: Kirene hakpa [Cyrenaics], kwaerakjuui [hedonism]
 
 Phr:
   I possess, I am not possessed, echō ouk echomai [Gr.] [Aristippus]

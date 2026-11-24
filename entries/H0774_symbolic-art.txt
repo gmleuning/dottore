@@ -7,6 +7,7 @@ HGloss: Art in which the idea is still seeking its true expression, so that shap
 N:
   symbolic art; symbolism, the symbol, the inadequacy of shape to meaning, mystery, enigma, striving, the colossal, the monstrous, Oriental art
   the symbolic form of art, the pre-art, intimation, suggestion, the striving after form
+  hieroglyph
 
 V:
   symbolize, signify, suggest, hint, strive
@@ -23,11 +24,8 @@ Adv:
 F:
   German: Symbol
   Greek: symbolon
-  Arabic: ramz [symbol]
-  Sanskrit: pratīka [symbol]
-  Chinese: xiangzheng
-  Japanese: shōchō
-  Korean: sangjingjeok yesul [symbolic art]
 
 Phr:
   the symbol is a riddle
+  the riddle of the sphinx
+  seeking its form

@@ -32,7 +32,6 @@ F:
   Latin: circulus in probando, petitio principii, idem per idem, virtus dormitiva [sleep-inducing power, Molière, Le Malade imaginaire, third interlude], qualitas occulta
   Arabic: dawr [circularity]
   Sanskrit: ātmāśraya [self-dependence fallacy], cakraka [circular reasoning]
-  Korean: hyeongsikjeok geungeo
 
 Phr:
   quia est in eo virtus dormitiva [Lat.] [Molière]

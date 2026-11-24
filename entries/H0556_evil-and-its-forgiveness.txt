@@ -32,13 +32,12 @@ Adv:
 
 F:
   German: Versöhnung, das versöhnende Ja
-  Arabic: maghfira [forgiveness], ʿafw [pardon], tawba [repentance]
+  Arabic: tawba [repentance]
   Sanskrit: kṣamā [forgiveness]
-  Chinese: kuanshu [forgiveness]
-  Japanese: yurushi
-  Korean: akgwa yongseo [evil and its forgiveness]
 
 Phr:
   the wounds of the spirit heal, and leave no scars behind [Hegel]
   to err is human, to forgive divine [Pope]
   judge not, that ye be not judged [Bible]
+  to forgive and forget
+  to bury the hatchet

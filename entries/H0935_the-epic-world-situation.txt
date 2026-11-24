@@ -15,13 +15,12 @@ V:
 Adj:
   heroic, national, primeval
   epic, patriarchal, pre-political, mythic, legendary, ancestral, archaic
+  chivalric
 
 Adv:
   in heroic times
   in the age of heroes, of old, in olden times
 
-F:
-  Korean: yeongung sidae [heroic age]
-
 Phr:
   once upon a time
+  when gods walked among men

@@ -26,6 +26,7 @@ N:
   circuit, roundabout way, digression, detour, circumbendibus, ambages†, loop, winding [Obs.]
   kinesis
   escape, getaway, outing, haste, juggernaut
+  motility
 
 V:
   move, go, pass, proceed, travel, journey, advance, progress, shift, stir, budge, drift, flow, run, glide, slide, roll, wander, roam, traverse, cross
@@ -84,13 +85,10 @@ F:
   French: en route, caleche, desobligeant, dormeuse, char-a-bancs, au revoir, au plaisir de vous revoir, vive valeque
   Italian: gran turismo
   Spanish: hasta la vista
-  Arabic: ḥaraka [motion]
-  Sanskrit: gati [motion, going]
-  Chinese: yundong [motion]
-  Japanese: undō, shinkansen
-  Korean: undong [motion]
 
 Phr:
   eppur si muove [It.] [attrib. Galileo]
   das Vergehen und Sichwiedererzeugen des Raums in Zeit und der Zeit in Raum … ist die Bewegung [Ger.] [Hegel, Encyclopaedia §261]
   a rolling stone gathers no moss
+  on the go
+  in full swing

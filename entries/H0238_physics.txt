@@ -22,14 +22,10 @@ Adv:
   physically, in nature, experimentally
 
 F:
-  German: Physik
   Latin: physica, philosophia naturalis
   Greek: ta physika
-  Arabic: ʿilm al-ṭabīʿa [natural science], ṭabīʿiyyāt
-  Sanskrit: bhautika [physical]
-  Chinese: wuli [physics, lit. principle of things]
-  Japanese: butsuri
-  Korean: mullihak [physics]
 
 Phr:
   Philosophiae Naturalis Principia Mathematica [Lat.] [Newton]
+  the laws of physics
+  matter and its qualities

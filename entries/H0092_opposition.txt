@@ -11,6 +11,7 @@ N:
   counteraction, clashing, collision, resistance, reaction
   oppugnancy†, oppugnation†, impugnation†, contravention, counteraction &c H0140, counterplot
   the positive and the negative
+  antinomy
 
 V:
   oppose, contrast, counter, contradict, contravene, contrapose, counterpose, antagonize, confront, face off, stand against, set against, pit against; polarize; invert, reverse
@@ -27,18 +28,16 @@ Adv:
   oppositely, contrariwise, conversely, inversely, on the contrary, diametrically, poles apart, at opposite ends
 
 F:
-  German: Gegensatz
   Latin: oppositio, vice versa, per contra
   Greek: antithesis, antikeimenon
   French: au contraire
-  Arabic: diḍḍ [opposite], taḍādd [contrariety]
   Sanskrit: dvandva [pair of opposites]
-  Chinese: yin-yang, duili [opposition]
-  Japanese: tairitsu
-  Korean: daerip [opposition]
+  Chinese: yin-yang
 
 Phr:
   opposites attract
   contraria contrariis curantur [Lat.]
   omnis determinatio est negatio [Lat.]
   war is the father of all things [Heraclitus]
+  at odds
+  on the other hand

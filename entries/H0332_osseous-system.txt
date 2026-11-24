@@ -39,11 +39,6 @@ F:
   German: Knochen, Gebein, Gerippe [skeleton]
   Latin: os, ossa, costa, vertebra, femur, tibia, patella
   Greek: osteon, skeletos [dried up], kranion
-  Arabic: ʿiẓām [bones], haykal ʿaẓmī [skeleton]
-  Sanskrit: asthi [bone]
-  Chinese: gu [bone]
-  Japanese: hone
-  Korean: gogyeok [skeleton], ppyeo
 
 Phr:
   bone of my bones, and flesh of my flesh [Bible]
@@ -54,3 +49,5 @@ Phr:
   alas poor Yorick [Hamlet]
   can these bones live? [Bible]
   spirit is a bone [Hegel]
+  a skeleton in the closet
+  bare bones

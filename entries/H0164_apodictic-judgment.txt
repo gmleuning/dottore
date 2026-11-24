@@ -29,8 +29,9 @@ F:
   Latin: quod erat demonstrandum
   Greek: apodeixis
   Arabic: burhān [demonstration], yaqīn
-  Korean: pillyeon pandan [apodictic judgment]
 
 Phr:
   quod erat demonstrandum [Lat.]
   the house, being so built, is good
+  it goes without saying
+  by its very nature

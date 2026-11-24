@@ -9,6 +9,7 @@ N:
   chant, psalm, psalmody, hymn, song &c H0919, canticle, lay, ballad, ditty, carol
   music, strain, tune, air, melody &c H0911, arietta†
   accompaniment, vocal setting, word-setting, the art song, libretto, text, the voice, church music, anthem, motet
+  obbligato
 
 V:
   accompany, set, sing
@@ -26,7 +27,9 @@ Adv:
 
 F:
   German: Lied
-  Korean: banju [accompaniment], gagok [art song]
+  Korean: gagok [art song]
 
 Phr:
   the Passion according to St Matthew [Bach]
+  setting words to music
+  song and recitative

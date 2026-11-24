@@ -24,7 +24,9 @@ F:
   German: Lichtreligion, das Gute, Lichtwesen, Parsen
   Latin: lux, ex oriente lux
   Avestan: Angra Mainyu, aša [truth, order], druj [the lie], Ahura Mazdā, Spenta Mainyu, asha, Amesha Spenta, fravashi, ātar, Zurvan akarana
-  Korean: Joroaseuteogyo [Zoroastrianism], Baehwagyo [fire-worship]
+  Korean: Baehwagyo [fire-worship, Zoroastrianism]
 
 Phr:
   the good as light [Hegel]
+  light against darkness
+  good thoughts, good words, good deeds

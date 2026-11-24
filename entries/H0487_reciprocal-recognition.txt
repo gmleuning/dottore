@@ -23,6 +23,7 @@ N:
   mutual acknowledgment, reciprocal acknowledgment, being-recognized
   camaraderie
   hello, hi, hey, greetings, goodbye, bye, see you, cheers, thanks, thank you, congratulations, congrats [Coll.], apology, sorry, please, excuse me, handshake, hug, high five, small talk, manners, etiquette, courtesy
+  mutuality
 
 V:
   recognize each other, respect each other, acknowledge one another, honour one another
@@ -60,10 +61,8 @@ F:
   Latin: mutatis mutandis
   French: savoir vivre, bon enfant, partie carrée, en famille, sans fa
   Italian: conversazione
-  Arabic: iʿtirāf mutabādal
-  Chinese: xianghu chengren
-  Japanese: bonenkai
-  Korean: sangho seungin [reciprocal recognition]
 
 Phr:
   they recognize themselves as mutually recognizing one another [Hegel]
+  to meet as equals
+  live and let live

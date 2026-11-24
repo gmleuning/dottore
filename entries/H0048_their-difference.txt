@@ -7,6 +7,7 @@ HGloss: Extensive magnitude has its determinateness in a plurality, intensive ma
 N:
   difference of extensive and intensive magnitude; size and strength, extent and intensity, breadth and depth, quantity and degree; manyness and muchness; extensity and intensity, spread and pitch; sum versus grade, aggregate versus level; volume versus concentration
   the difference of extensive and intensive, size and degree, amount and intensity, the many and the simple
+  gradation
 
 V:
   distinguish, contrast; spread versus intensify, broaden versus deepen
@@ -20,8 +21,7 @@ Adv:
   in extent, in degree; widely, deeply
   in size
 
-F:
-  Korean: oeyeollyang
-
 Phr:
   a mile wide and an inch deep
+  by degrees
+  through and through

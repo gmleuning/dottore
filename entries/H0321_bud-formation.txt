@@ -22,12 +22,8 @@ Adv:
 
 F:
   Latin: gemma
-  Arabic: buraʿum [bud]
-  Sanskrit: kalikā [bud], mukula
-  Chinese: ya [bud, sprout]
-  Japanese: me
-  Korean: ssak [bud], nun
 
 Phr:
   nip it in the bud
   the bud disappears in the bursting-forth of the blossom [Hegel]
+  nip in the bud

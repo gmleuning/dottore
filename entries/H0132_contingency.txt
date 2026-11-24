@@ -9,6 +9,7 @@ N:
   indetermination, hap, chance medley, contingence, adventure, hit, equal chance, turn of the table, turn of the cards, hazard of the die, chapter of accidents, fickle finger of fate, cast of the dice, throw of the dice, heads or tails, flip of a coin, wheel of Fortune, sortes†, sortes Virgilianae†
   lot, fate &c H0134, good luck &c H0661
   opportunity
+  adventitiousness
 
 V:
   happen, chance, befall, betide, occur by chance, turn up, fall out, come about; might be, could be, may be, might have been otherwise
@@ -33,14 +34,11 @@ Adv:
   fortunately, luckily, indiscriminately
 
 F:
-  German: Möglichkeit, Zufälligkeit
+  German: Möglichkeit
   Latin: contingentia, Fortuna, quamdiu se bene gesserit
   Greek: to endechomenon, tychē
-  Arabic: ittifāq [chance], mumkin [contingent, possible], imkān [possibility]
+  Arabic: mumkin [contingent, possible], imkān [possibility]
   Sanskrit: yadṛcchā [chance]
-  Chinese: ouran [chance]
-  Japanese: gūzen
-  Korean: uyeonseong [contingency], ganeungseong [possibility]
 
 Phr:
   alea iacta est [Lat.]

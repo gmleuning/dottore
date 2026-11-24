@@ -21,10 +21,11 @@ Adv:
   seriously, earnestly, conciliatorily, peacefully, happily, bloodlessly, midway between tragedy and comedy, without catastrophe, to a happy issue
 
 F:
-  German: Drama, bürgerliches Trauerspiel, Schauspiel, das Drama, Rührstück, Versöhnung
+  German: Drama, bürgerliches Trauerspiel, Rührstück, Versöhnung
   Latin: tragicomoedia
   French: drame, drame bourgeois, comédie larmoyante, tragi-comédie
-  Korean: jeonggeuk [serious drama]
 
 Phr:
   Iphigenia in Tauris [Goethe]
+  tears and laughter
+  the middle kind

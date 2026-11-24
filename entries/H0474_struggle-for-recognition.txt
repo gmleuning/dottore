@@ -16,6 +16,7 @@ N:
   public enemy, enemy to society
   the struggle to the death, the fight for recognition, mortal combat, the trial by death
   arguing
+  agon
 
 V:
   struggle, fight, contend, clash, duel, risk one's life, stake one's life, challenge, defy
@@ -35,14 +36,14 @@ Adv:
   in mortal struggle
 
 F:
-  German: Kampf auf Leben und Tod, Kampf um Anerkennung
+  German: Kampf auf Leben und Tod
   Greek: agōn, thymos [spiritedness]
   French: à outrance, passage d'armes
   Italian: duello
-  Arabic: ṣirāʿ [struggle]
-  Chinese: douzheng [struggle]
   Korean: injeong tujaeng [struggle for recognition]
 
 Phr:
   it is only through staking one's life that freedom is won [Hegel]
   give me liberty, or give me death [Patrick Henry]
+  a fight to the death
+  to stake one's life

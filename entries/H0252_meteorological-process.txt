@@ -19,6 +19,7 @@ N:
   weather condition, violent storm, atmospheric phenomenon, atmospheric condition, air current, good weather, fair weather, cold weather, bad weather, silver storm, ice storm, electric storm, air hole, air pocket, electrical storm, midnight sun, atmospheric state, atmospheric electricity, greenhouse warming, greenhouse effect, meteor stream, meteor shower, cold front, air mass, west wind, south wind, north wind, high wind, east wind, warm front, line storm, southern lights, northern lights, cold wave, calm air, raw weather, storm cloud, rain cloud, cloud cover, cloud bank, dust storm, blue jet, reverse lightning, fine spray, gentle wind, northwest wind, polar front, solar halo, prevailing wind, snow eater, condensation trail, chinook wind, red sprites, aurora borealis, cirrus cloud, aurora australis, nimbus cloud, light air
   icing, twister, westerly
   raining, humidity, heatwave, heat wave, cold snap, smog, weather forecast, forecast
+  atmospherics
 
 V:
   rain, pour, drizzle, snow, hail, storm, blow, thunder, lighten, cloud over, clear up, evaporate, condense, precipitate
@@ -36,11 +37,8 @@ Adv:
 F:
   Greek: meteōra [things in the air]
   Arabic: al-āthār al-ʿulwiyya [upper phenomena, meteorology]
-  Sanskrit: ṛtu [season]
-  Chinese: tianqi [weather]
-  Japanese: tenki
-  Korean: gisang [weather], gisang gwajeong
 
 Phr:
   it never rains but it pours
   the wind bloweth where it listeth [Bible]
+  under the weather

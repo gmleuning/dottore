@@ -7,6 +7,7 @@ HGloss: Time as given to sense, the now which is many nows.
 N:
   sensuous time; perceived time, lived time, the specious present, now and then, before and after, flow of experience
   sensible time, felt time, the sensuous now, succession, lived duration
+  momentariness
 
 V:
   last, pass, succeed, endure
@@ -24,7 +25,7 @@ Adv:
 
 F:
   French: durée [Bergson]
-  Korean: gamgakjeok sigan
 
 Phr:
   now is night
+  just now

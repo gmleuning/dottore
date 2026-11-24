@@ -35,11 +35,9 @@ F:
   German: Zum ewigen Frieden [Kant]
   Latin: ius gentium, magnas componere lites, jus gentium, pacta sunt servanda
   French: droit des gens
-  Arabic: siyar [Islamic law of nations], al-qānūn al-dawlī
-  Chinese: guoji fa [international law]
-  Japanese: kokusaihō
-  Korean: gukjebeop [international law]
+  Arabic: siyar [Islamic law of nations]
 
 Phr:
   pacta sunt servanda [Lat.]
   perpetual peace [Kant]
+  the comity of nations

@@ -23,6 +23,7 @@ N:
   discovery &c H0606, measurement &c H0059, evidence &c H0703
   deduction, induction, abduction
   description, classification, the search for laws, the distinguishing marks, the organic and the inorganic
+  taxonomy, systematics
 
 V:
   observe, describe, classify, collect, catalogue, name, sort
@@ -46,9 +47,8 @@ Adv:
 F:
   Latin: experimentum crucis
   French: aller â tâtons
-  Arabic: ʿilm al-ṭabīʿa
-  Chinese: ziran guancha
-  Korean: jayeon gwanchal [observation of nature]
 
 Phr:
   God created, Linnaeus arranged, Deus creavit, Linnaeus disposuit [Lat.]
+  the book of nature
+  to classify and describe

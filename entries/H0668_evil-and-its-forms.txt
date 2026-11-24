@@ -28,6 +28,7 @@ N:
   moral evil, the evil will, subjectivity turned against the universal
   fiend
   bastard [Vulg.], son of a bitch [Vulg.], arsehole [Brit. Vulg.], asshole [U.S. Vulg.], prick [Vulg.], scumbag [Slang], lowlife, creep, sleazebag, sleaze, douchebag [Slang], douche [Slang], dirtbag, bitch [Vulg.], cow [Brit. Vulg.], villain, psycho
+  maleficence
 
 V:
   do evil, sin, corrupt, pervert
@@ -51,12 +52,7 @@ Adv:
   wickedly, malevolently
   perversely
 
-F:
-  Arabic: sharr [evil]
-  Sanskrit: pāpa
-  Chinese: e [evil]
-  Japanese: aku
-  Korean: akgwa geu hyeongtae [evil and its forms]
-
 Phr:
   der Ursprung des Bösen überhaupt liegt in dem Mysterium, d. i. in dem Spekulativen der Freiheit [Ger.] [Hegel, Philosophy of Right §139 Remark]
+  the root of all evil
+  deliver us from evil

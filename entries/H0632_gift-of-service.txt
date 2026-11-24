@@ -27,8 +27,7 @@ Adv:
 
 F:
   Latin: depositum, mandatum
-  Arabic: wadīʿa [deposit], amāna [trust]
-  Korean: imchi [deposit]
+  Arabic: amāna [trust]
 
 Phr:
   a sacred trust

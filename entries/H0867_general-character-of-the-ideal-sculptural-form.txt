@@ -7,6 +7,7 @@ HGloss: The ideal sculptural form in general, the human figure purified to the e
 N:
   general character of the ideal sculptural form; serenity, repose, balance, proportion, harmony of parts
   the nature of the ideal figure, the plastic ideal, self-containedness, universality, the human form, objectivity, the free beautiful body
+  sublimation
 
 V:
   balance, compose
@@ -20,8 +21,7 @@ Adv:
   serenely
   ideally, in general, in repose
 
-F:
-  Korean: isangmi [ideal beauty]
-
 Phr:
   calm and noble
+  calm and self-contained
+  beyond time and change

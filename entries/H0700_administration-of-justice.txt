@@ -33,11 +33,8 @@ Adv:
 F:
   Latin: posse comitatus
   French: gendarmerie, court-leet, court of pie poudre
-  Arabic: qaḍāʾ [judiciary]
-  Sanskrit: vyavahāra [legal procedure]
-  Chinese: sifa [judiciary]
-  Japanese: shihō
-  Korean: sabeop [administration of justice]
 
 Phr:
   justice must not only be done, but must be seen to be done [Lord Hewart]
+  to have one's day in court
+  justice is blind

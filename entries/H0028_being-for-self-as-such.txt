@@ -7,6 +7,7 @@ HGloss: Being-for-self taken simply, as the self-relation that has otherness onl
 N:
   being-for-self as such; pure self-relation, simple self-reference; returned-into-self, closure, self-enclosure, insularity; ideality of the finite; independence &c H0027; infinite self-relation; sufficiency, completeness
   being-for-self in general, self-relation, the infinite return into self, the for-itself
+  ipseity
 
 V:
   return into oneself, close upon oneself, be complete in oneself, need nothing else
@@ -21,10 +22,11 @@ Adv:
   for itself, in itself complete
 
 F:
-  German: an und für sich, Fürsichsein als solches
+  German: an und für sich
   Latin: in se, per se
-  Korean: daejajonjae
 
 Phr:
   omnia mea mecum porto [Lat.] [Bias, via Cicero]
   no man is an island [Donne] [Opposed]
+  by itself
+  on one's own account

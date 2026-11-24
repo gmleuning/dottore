@@ -27,11 +27,11 @@ Adv:
 
 F:
   German: Beamter
-  Arabic: kuttāb [scribes], dīwān [chancery]
+  Arabic: dīwān [chancery]
   Sanskrit: kāyastha [scribe caste]
-  Chinese: guanliao [bureaucracy], shidaifu [scholar-officials]
-  Japanese: kanryō
-  Korean: gwalli sinbun [universal estate], gongmuwon
+  Chinese: shidaifu [scholar-officials]
 
 Phr:
   the universal interests of the community [Hegel]
+  public servant
+  red tape

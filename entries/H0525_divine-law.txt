@@ -26,10 +26,9 @@ Adv:
 F:
   Latin: pietas
   Greek: agraphoi nomoi, themis, eusebeia
-  Arabic: sharīʿa [divine law], fiṭra
+  Arabic: sharīʿa [divine law]
   Sanskrit: ṛta, sanātana dharma [eternal law]
   Chinese: xiao [filial piety], tianli [heavenly principle]
-  Korean: sinui beop [divine law]
 
 Phr:
   the unwritten and unfailing statutes of the gods, not of today or yesterday [Sophocles, Antigone]

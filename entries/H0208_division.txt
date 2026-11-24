@@ -11,6 +11,7 @@ N:
   category, categorema†, head, section, department, subdepartment, province, domain
   bifurcation, forking, divarication
   bunch
+  diaeresis
 
 V:
   divide, classify, categorize, sort, arrange, group, class, rank, grade, order, partition, subdivide, ramify, branch, dichotomize, pigeonhole, taxonomize
@@ -30,12 +31,9 @@ Adv:
 F:
   Latin: divisio, arbor porphyriana
   Greek: diairesis
-  Arabic: taqsīm [division]
-  Sanskrit: vibhāga [division]
-  Chinese: fenlei [classification]
-  Japanese: bunrui
-  Korean: bullyu [division]
 
 Phr:
   carve nature at its joints [Plato]
   divide et impera [Lat.]
+  to sort out
+  to carve nature at its joints

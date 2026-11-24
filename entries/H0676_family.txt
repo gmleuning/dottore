@@ -36,12 +36,10 @@ F:
   Latin: familia, domus, lares et penates, dulce domum
   Greek: oikos
   French: en famille
-  Arabic: ʿāʾila, usra
-  Sanskrit: kuṭumba [family]
-  Chinese: jiating [family]
-  Japanese: kazoku
-  Korean: gajok [family]
+  Korean: hyo [filial piety]
 
 Phr:
   home is where the heart is
   die Familie hat als die unmittelbare Substantialität des Geistes seine sich empfindende Einheit, die Liebe, zu ihrer Bestimmung [Ger.] [Hegel, Philosophy of Right §158]
+  blood is thicker than water
+  one big happy family

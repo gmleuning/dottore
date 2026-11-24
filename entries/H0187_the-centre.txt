@@ -29,17 +29,16 @@ Adv:
   at the centre
 
 F:
-  German: Zentrum
   Latin: umbilicus, centrum, in medias res
   Greek: omphalos
   French: juste milieu &c H0059
   Italian: mezzo termine
-  Arabic: miḥwar [axis], quṭb [pole, axis]
-  Sanskrit: madhya [middle], nābhi [navel, hub]
-  Chinese: zhongxin [centre], zhongguo [middle kingdom]
-  Japanese: chūshin
-  Korean: jungsim [centre]
+  Arabic: quṭb [pole, axis]
+  Sanskrit: nābhi [navel, hub]
+  Chinese: zhongguo [middle kingdom]
 
 Phr:
   the centre cannot hold [Yeats]
   all roads lead to Rome
+  the centre of gravity
+  the hub of the universe

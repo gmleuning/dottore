@@ -7,6 +7,7 @@ HGloss: Modern philosophy, which begins from the thinking self and the oppositio
 N:
   modern philosophy; modern thought, rationalism, empiricism, critical philosophy, the subject, method, the new philosophy, philosophy of consciousness
   the moderns, modernity, the principle of subjectivity, the standpoint of thought, the cogito, self-consciousness, the thinking understanding, the Enlightenment, the age of reason, the opposition of thought and being, epistemology, post-Cartesian philosophy, Bacon, Descartes
+  subjectivism
 
 V:
   doubt, ground, critique, begin anew
@@ -20,11 +21,6 @@ Adv:
   in modern times
   in the modern age, since Descartes, from the subject, self-consciously, critically
 
-F:
-  Arabic: al-falsafa al-ḥadītha
-  Chinese: jindai zhexue
-  Japanese: kindai tetsugaku
-  Korean: geundae cheolhak [modern philosophy]
-
 Phr:
   hier, können wir sagen, sind wir zu Hause [Ger.] [Hegel, Lectures on the History of Philosophy, on Descartes]
+  thought and being opposed

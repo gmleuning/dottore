@@ -7,6 +7,7 @@ HGloss: The Corinthian, the richest and most ornate, with its acanthus capital.
 N:
   Corinthian; the Corinthian order, acanthus capital, foliage, ornate column, Callimachus, luxury, opulence
   the Corinthian column, the Corinthian capital, acanthus, acanthus leaf, the bell, helix, caulicolus, richness, ornateness
+  abacus, fleuron
 
 V:
   ornament, adorn, embellish
@@ -22,8 +23,7 @@ Adv:
   ornately
   richly, luxuriantly
 
-F:
-  Korean: Korinteu yangsik [Corinthian order]
-
 Phr:
   the acanthus capital
+  the maidenly order
+  leaves of acanthus

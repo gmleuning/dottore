@@ -7,6 +7,7 @@ HGloss: The particular aspects of the lyric: the poet, the poem, its kinds.
 N:
   particular aspects of lyric; poet, poem, kinds of lyric
   specific features, special sides, particulars, details, the poet's subjectivity, the lyric work, lyric species, mood, occasion
+  lyricality
 
 V:
   specify
@@ -20,8 +21,7 @@ Adv:
   in particular
   specifically, in detail, severally
 
-F:
-  Korean: seojeong [lyricism]
-
 Phr:
   singer, song, and kind
+  poet, poem, kind
+  the lyric moment

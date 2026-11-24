@@ -36,11 +36,8 @@ F:
   Latin: sculptura
   French: bas relief
   Spanish: terra cotta
-  Arabic: naḥt [sculpture]
-  Sanskrit: mūrtikalā [sculpture]
-  Chinese: diaosu [sculpture]
-  Japanese: chōkoku
-  Korean: jogak [sculpture], joso [plastic art]
 
 Phr:
   I saw the angel in the marble and carved until I set him free [attrib. Michelangelo]
+  carved in stone
+  the art of the body

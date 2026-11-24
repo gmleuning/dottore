@@ -56,15 +56,14 @@ Adv:
   by public authority
 
 F:
-  German: Polizeiwissenschaft [science of police], Pöbel, Polizei
+  German: Polizeiwissenschaft [science of police], Pöbel
   Latin: profanum vulgus, ignobile vulgus, cavendo tutus, custos
   French: bonne
   Spanish: guarda costa, duenna
   Arabic: ḥisba [market inspection], muḥtasib [market inspector]
-  Chinese: gongan [public security]
-  Japanese: gyōsei [administration]
-  Korean: gyeongchal [police], gongan
 
 Phr:
   the rabble, der Pöbel [Ger.] [Hegel]
   die Frage, wie der Armut abzuhelfen sei, ist eine vorzüglich die modernen Gesellschaften bewegende und quälende [Ger.] [Hegel, Philosophy of Right §244 Zusatz]
+  the long arm of the law
+  to keep the peace

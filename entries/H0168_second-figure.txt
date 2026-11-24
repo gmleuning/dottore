@@ -22,10 +22,9 @@ Adv:
 
 F:
   Latin: Cesare, Camestres, Festino, Baroco, figura secunda
-  Arabic: al-shakl al-thānī
-  Korean: jeigyeok [second figure]
 
 Phr:
   no fish is a mammal
   every whale is a mammal
   therefore no whale is a fish
+  by example

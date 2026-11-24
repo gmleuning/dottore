@@ -31,9 +31,10 @@ F:
   German: Grad
   Latin: gradus, gradus perfectionis, di grado in grado, gradatim
   Italian: pro tanto
-  Korean: oeyeollyang [extensive], naepoyang [intensive]
 
 Phr:
   gradatim [Lat.]
   drop by drop
   by inches
+  far and wide
+  deep down

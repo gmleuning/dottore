@@ -31,9 +31,9 @@ F:
   Latin: res
   Greek: pragma, kairos
   French: fait accompli
-  Korean: sataeui siljonhwa
 
 Phr:
   ripeness is all [King Lear]
   the readiness is all [Hamlet]
   when all conditions are present, the thing is there
+  it comes to pass

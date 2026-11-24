@@ -9,6 +9,7 @@ N:
   family, fraternity
   fellowship, solidarity, confraternity
   the sibling bond, the sister, the brother, sisterly duty, the pure ethical relation, desireless recognition, Antigone and Polyneices
+  sorority
 
 V:
   cherish, mourn, bury, keep faith
@@ -25,11 +26,7 @@ Adv:
 F:
   Latin: fratres et sorores
   Greek: adelphoi
-  Arabic: ukhuwwa [brotherhood]
-  Sanskrit: bhrātṛ and svasṛ
-  Chinese: xiongmei [brother and sister]
-  Japanese: kyōdai [siblings]
-  Korean: orabeoniwa nui [brother and sister]
 
 Phr:
   a husband lost, another might have been found, and child from another, to replace the first-born: but, father and mother hidden with Hades, no brother's life could ever bloom for me again [Sophocles, Antigone 909–12, tr. Jebb]
+  blood is thicker than water

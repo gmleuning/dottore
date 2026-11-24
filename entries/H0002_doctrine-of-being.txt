@@ -10,6 +10,7 @@ N:
   categories of being, immediate categories; what simply is, what there is; brute fact, plain fact, bare fact
   beginning, commencement, inception
   the sphere of immediacy, quality quantity and measure
+  esse, ens
 
 V:
   be, exist, obtain, be given, lie to hand; pass over, pass into, go over into, turn into, give way to, change into; follow upon; lie on the surface
@@ -27,8 +28,10 @@ F:
   German: Seinslogik, Unmittelbarkeit, Übergehen, Übergang, das Ansich, Ansichsein, an sich
   Latin: prima facie
   Greek: metabasis
-  Korean: jonjae [being], jonjaeron [doctrine of being]
+  Korean: jonjaeron [ontology]
 
 Phr:
   panta rhei [Gr.] [attrib. Heraclitus]
   what is, is
+  in the nature of things
+  the way of all flesh

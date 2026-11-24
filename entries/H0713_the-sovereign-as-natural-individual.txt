@@ -20,12 +20,5 @@ Adv:
   by birth, by succession
   by birthright, by heredity, by descent
 
-F:
-  Arabic: wirātha [hereditary succession]
-  Sanskrit: vaṃśa [lineage, dynasty]
-  Chinese: wangchao [dynasty]
-  Japanese: kōtō [imperial line]
-  Korean: jayeonjeok gaeineuroseoui gunju
-
 Phr:
   the king is dead, long live the king! le roi est mort, vive le roi! [Fr.]

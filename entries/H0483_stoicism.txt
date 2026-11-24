@@ -38,9 +38,10 @@ F:
   Greek: apatheia, ataraxia
   Arabic: ṣabr [patience, endurance]
   Sanskrit: vairāgya [detachment], titikṣā [forbearance]
-  Korean: seutoa juui [stoicism]
 
 Phr:
   whether on the throne or in chains [Hegel on Stoicism]
   aequam memento rebus in arduis servare mentem [Lat.] [Horace]
   some things are within our power, some are not [Epictetus]
+  to keep a stiff upper lip
+  grin and bear it

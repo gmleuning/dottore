@@ -24,7 +24,7 @@ F:
   Latin: trinitas, Deus in se, a se, ante saecula, tres personae una substantia, generatio aeterna
   Greek: trias, homoousios, perichōrēsis, hypostasis, ousia
   Aramaic: Abba
-  Korean: Samwiilche [Trinity], Seongbu [God the Father]
+  Korean: Samwiilche [Trinity]
 
 Phr:
   God is love [Bible]

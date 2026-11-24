@@ -21,6 +21,7 @@ N:
   business leader, top executive, account executive, account representative, registered representative, oil operator, wine merchant, salt merchant, retail merchant, grain merchant, market keeper, book seller, rug merchant, stationery seller, customer's broker, oil woman, travel agent, selling agent, real estate agent, land agent, insurance agent, house agent, general agent, estate agent, cheap-jack, ticket agent, art dealer, newspaper publisher, stamp dealer, seed seller, bean counter, small businessman, big businessman, dry cleaner, ship broker, real estate broker, insurance broker, booking clerk, investment banker, stock trader, horse trader, cost accountant, certified public accountant, pork butcher, chartered accountant, saloon keeper, brothel keeper, lease giver, oil tycoon, customer's woman, customer's man, big businesswoman, slop-seller, press lord, hardware woman, killer bee, print seller, talent scout, ship chandler, ship's chandler
   baker, recruiter, trafficker
   city, town, downtown, uptown, city centre, suburb, suburbs, the burbs [Coll.], hometown, neighbourhood, neighborhood, mall, shopping centre, plaza, supermarket, grocery store, shop, store, boutique, outlet, chain store, restaurant, cafe, coffee shop, bar, pub, nightclub, club, hotel, motel, office, headquarters, warehouse, factory, startup, company, firm, corporation, brand, branding, marketing, sales, customer, client, buyer, consumer, shopper, investor, CEO, boss, manager, executive, employer, employee, staff, colleague, coworker, intern, freelancer, contractor, consultant
+  burgher
 
 V:
   trade, manufacture, deal, traffic, craft
@@ -36,11 +37,10 @@ Adv:
   by trade, by industry
 
 F:
-  Arabic: tujjār [merchants]
   Sanskrit: vaiśya [merchant estate]
-  Chinese: shangren [merchant]
-  Japanese: shōnin, chōnin [townspeople]
-  Korean: sangin sinbun [business estate], sangeop
+  Japanese: chōnin [townspeople]
 
 Phr:
   the bourgeoisie, historically, has played a most revolutionary part [Marx]
+  open for business
+  to drive a hard bargain

@@ -22,7 +22,6 @@ Adv:
 
 F:
   German: Selbstgewißheit
-  Korean: jagi hwaksilseong
 
 Phr:
   trust thyself [Emerson]

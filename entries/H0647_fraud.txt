@@ -23,6 +23,7 @@ N:
   semblance of right
   grift, hustle, racket, rip-off, sting, catfishing, phishing, Ponzi scheme, pyramid scheme, identity theft, bait and switch, three-card monte, long con, scammer, grifter, hustler, con man, con artist, fraudster, shyster, crook, chancer [Brit.], wide boy [Brit.], snake-oil salesman, bullshit artist [Vulg.], bullshitter [Vulg.]
   clone, phony, cheater, patsy
+  mala fides
 
 V:
   defraud, swindle, cheat, deceive, con, dupe, hoodwink, bilk, fleece, gull, misrepresent
@@ -47,11 +48,8 @@ Adv:
 F:
   Latin: dolus, dolus malus [bad faith], suppressio veri, suggestio falsi, ad captandum vulgus
   French: menteur a triple etage, soi-disant
-  Arabic: ghishsh [fraud], khidāʿ [deceit]
-  Sanskrit: vañcanā [fraud]
-  Chinese: qizha [fraud]
-  Japanese: sagi
-  Korean: sagi [fraud]
 
 Phr:
   mundus vult decipi [Lat.] [the world wants to be deceived]
+  a wolf in sheep's clothing
+  to pull a fast one

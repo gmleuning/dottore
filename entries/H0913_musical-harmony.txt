@@ -30,11 +30,7 @@ Adv:
   harmoniously, as one
   in accord, concordantly, in unison
 
-F:
-  Arabic: tanāghum [harmony]
-  Chinese: hesheng [harmony]
-  Japanese: waon [chord]
-  Korean: hwaseong [harmony], hwaeum [chord]
-
 Phr:
   the music of the spheres
+  the harmony of the spheres
+  consonance and dissonance

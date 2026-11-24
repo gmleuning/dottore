@@ -21,8 +21,6 @@ Adv:
   after its own fashion, after its kind, in its own way
   specifically, according to its own nature
 
-F:
-  Korean: teukjeonghwa
-
 Phr:
   quidquid recipitur, ad modum recipientis recipitur [Lat.] [Aquinas]
+  according to its capacity

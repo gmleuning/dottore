@@ -28,11 +28,10 @@ Adv:
 
 F:
   Latin: emancipatio
-  Arabic: bulūgh [maturity]
   Sanskrit: samāvartana [return home after studies]
-  Chinese: chengnian [adulthood]
-  Japanese: seijin, seijinshiki [coming-of-age ceremony]
-  Korean: janyeoui dongnip [emancipation]
+  Japanese: seijinshiki [coming-of-age ceremony]
 
 Phr:
   to leave the nest
+  to come of age
+  to leave home

@@ -34,11 +34,8 @@ F:
   German: Aberglaube
   Latin: superstitio
   Greek: deisidaimonia
-  Arabic: khurāfa [superstition]
-  Sanskrit: andhaviśvāsa [blind belief]
-  Chinese: mixin [superstition]
-  Japanese: meishin
-  Korean: misingwaui tujaeng
 
 Phr:
   one fine morning it gives its comrade a shove with the elbow, and bang! crash! the idol lies on the floor [Hegel, Phenomenology ¶545, quoting Diderot, Rameau's Nephew]
+  to dispel superstition
+  old wives' tales

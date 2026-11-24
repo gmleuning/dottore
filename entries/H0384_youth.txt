@@ -34,13 +34,11 @@ F:
   German: Sturm und Drang
   Latin: iuventus, adulescentia, in statu pupillari
   Greek: neotēs, ephēbos
-  Arabic: shabāb [youth]
-  Sanskrit: yauvana [youth]
   Chinese: qingchun [green spring, youth]
-  Japanese: seishun
-  Korean: cheongnyeon [youth], cheongchun
 
 Phr:
   bliss was it in that dawn to be alive, but to be young was very heaven [Wordsworth]
   youth is wasted on the young [attrib. Shaw]
   si jeunesse savait, si vieillesse pouvait [Fr.]
+  sow one's wild oats
+  young at heart

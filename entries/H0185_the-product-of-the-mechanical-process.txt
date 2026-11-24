@@ -26,8 +26,6 @@ Adv:
   at rest, at a standstill, at last
   in equilibrium
 
-F:
-  Korean: gigyejeok gwajeongui sanmul
-
 Phr:
   the dust settles
+  to come to a standstill

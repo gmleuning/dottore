@@ -9,6 +9,7 @@ N:
   glance, regard
   blindness, cecity†, excecation†, amaurosis†, cataract, ablepsy†, ablepsia†, prestriction†, dim-sightedness &c H0391, Braille, Braille-type, guttaserena (drop serene), noctograph†, teichopsia†
   the visual sense, optics
+  visuality
 
 V:
   see, look, behold, view, perceive, discern, notice, observe, glimpse, gaze
@@ -36,12 +37,9 @@ F:
   Latin: visio, prima facie
   Greek: opsis
   French: coup d'oeil, jeter de la poudre aux yeux
-  Arabic: baṣar [sight]
-  Sanskrit: dṛṣṭi [sight, view], cakṣus [eye]
-  Chinese: shijue [vision]
-  Japanese: shikaku
-  Korean: sigak [vision], bogi
+  Sanskrit: dṛṣṭi [sight, view]
 
 Phr:
   were the eye not sunlike, it could never see the sun [Goethe]
   seeing is believing
+  in the eye of the beholder

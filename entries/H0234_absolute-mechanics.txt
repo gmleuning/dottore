@@ -30,12 +30,12 @@ Adv:
 
 F:
   Latin: astronomia, via lactea
-  Arabic: ʿilm al-hayʾa [science of the configuration of heaven], ʿilm al-falak
-  Sanskrit: jyotiṣa [astronomy]
+  Arabic: ʿilm al-hayʾa [science of the configuration of heaven]
   Chinese: tianwen [heavenly patterns, astronomy]
-  Japanese: tenmon, ame no kawa
-  Korean: cheonche yeokhak [celestial mechanics]
+  Japanese: ame no kawa
 
 Phr:
   the heavens declare the glory of God [Bible]
   the starry heavens above me and the moral law within me [Kant]
+  the music of the spheres
+  the heavenly bodies

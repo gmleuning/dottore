@@ -7,6 +7,7 @@ HGloss: The individuality of the ideal figure, its particular character among th
 N:
   individuality of the ideal sculptured figure; distinguishing features, attributes, character types, individual gods
   individual character, individuation, particularity, the particular god, the determinate figure, distinguishing marks, type, personality within the ideal
+  iconography, xoanon
 
 V:
   distinguish, characterize
@@ -23,8 +24,7 @@ Adv:
   distinctively
   individually, characteristically
 
-F:
-  Korean: sinsang [image of a god]
-
 Phr:
   known by their attributes
+  each god his own
+  the character of a deity

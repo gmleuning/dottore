@@ -23,6 +23,7 @@ N:
   vibes, pianist, alto, diva, vocalist, soprano, cello, bassist, chime, violinist, ukulele, soloist, baritone, organist, bongo, tuba, fiddler, hummer, warbler, saxophonist, bombard, cellist, trumpeter, mezzo
   musical instrument, music box, band player, guitar player, piano player, mouth bow, wind instrument, electronic musical instrument, electronic instrument, steam organ, keyboard instrument, jazz musician, grind organ, recorder player, flute player, wheel fiddle, jews' harp, percussion instrument, bell ringer, trombone player, stringed instrument, percussive instrument, rock star, rain stick, string bass, double bass, bass guitar, opera star, pipe major, folk singer, poet-singer, post horn, pipe organ, organ pipe, electronic organ, electric organ, bass horn, steel drum, electronic drum set, electronic drum kit, free-reed instrument, brass instrument, squeeze box, torch singer, bull fiddle, bass fiddle, orchestral bells, forte-piano, operatic star, finger cymbals, tenor saxophonist, alto saxophonist, bowed stringed instrument, steel guitar, electric guitar
   piper, buzzer, rattling, doorbell
+  cadenza
 
 V:
   perform, play, interpret, render, execute
@@ -44,8 +45,8 @@ Adv:
 F:
   French: viola d'amore, cor Anglais
   Italian: con brio, viola di gamba, corno di bassetto
-  Arabic: adāʾ [performance]
-  Korean: yeonju [performance], yeonjuja [performer]
 
 Phr:
   the performer as co-creator
+  the virtuoso
+  faithful to the score

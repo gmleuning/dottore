@@ -15,6 +15,7 @@ V:
 Adj:
   Greek, Hellenic, Attic, columnar
   Grecian, trabeated, classical, harmonious
+  canonical
 
 Adv:
   in the Greek manner
@@ -22,7 +23,8 @@ Adv:
 
 F:
   Greek: entasis [swelling of the column]
-  Korean: Geuriseu yangsik [Greek style]
 
 Phr:
   the Acropolis
+  the three Greek orders
+  the measure of bearing

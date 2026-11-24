@@ -7,6 +7,7 @@ HGloss: Building that serves a purpose and is beautiful in serving it, the house
 N:
   classical architecture; Greek architecture, Roman architecture, the orders, classicism, the temple, the colonnade, Palladianism, neoclassicism
   architecture proper, the classical style, the columnar style, beauty in service, purposive beauty, the house of the god
+  peristyle, entablature, pediment
 
 V:
   classicize, proportion, colonnade
@@ -20,8 +21,6 @@ Adv:
   classically
   purposively, beautifully, for the god
 
-F:
-  Korean: gojeon geonchuk [classical architecture]
-
 Phr:
   the glory that was Greece, and the grandeur that was Rome [Poe]
+  beauty in use

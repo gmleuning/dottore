@@ -21,13 +21,12 @@ Adv:
   in civil society, as private persons
 
 F:
-  German: bürgerliche Gesellschaft, Not- und Verstandesstaat
+  German: Not- und Verstandesstaat
   Latin: societas civilis
-  Arabic: al-mujtamaʿ al-madanī [civil society]
-  Chinese: shimin shehui [civil society]
-  Japanese: shimin shakai
   Korean: simin sahoe [civil society]
 
 Phr:
   die bürgerliche Gesellschaft [ist] der Kampfplatz des individuellen Privatinteresses Aller gegen Alle [Ger.] [Hegel, Philosophy of Right §289 Remark]
   the invisible hand [Adam Smith]
+  every man for himself
+  the rat race

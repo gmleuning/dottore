@@ -12,6 +12,7 @@ N:
   valuation, appraisal, assessment, appraisement
   secured value, pledge-value, security, surety, collateral, worth realized
   monetary unit, metal money, paper currency, hard currency, monetary fund, token money, folding money, fractional monetary unit, small change, bank bill, government note, trust fund, spending money, war chest, pocket money, pin money, mutual fund, bank deposit, pension fund, pound sterling, petty cash, nest egg, pork barrel, sinking fund, fiat money, revolving fund, fractional currency, superannuation fund, slush fund, chump change, c-note, louis d'or, operating budget, two dollar bill, twenty dollar bill, ten dollar bill, hundred dollar bill, half dollar, five dollar bill, dollar bill, index fund, half crown, silver certificate, fifty-cent piece, fifty dollar bill, exchange traded fund, half eagle, double eagle, new penny, nickel note
+  equivalence
 
 V:
   realize, secure, retain value, cash out
@@ -30,8 +31,8 @@ Adv:
 
 F:
   German: Tauschwert
-  Arabic: qīma [value]
-  Korean: silhyeondoen gachi [realized value]
 
 Phr:
   as good as gold
+  cash on the nail
+  good for it

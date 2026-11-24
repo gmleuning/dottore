@@ -22,7 +22,8 @@ Adv:
 
 F:
   Latin: locatio rei
-  Korean: imdae [letting]
 
 Phr:
   the tenant's due
+  to rent out
+  room to let

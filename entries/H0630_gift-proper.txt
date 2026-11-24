@@ -33,12 +33,11 @@ F:
   Latin: donum, gratis, pater patriae
   Greek: dōron
   French: douceur
-  Arabic: hadiyya [gift], ʿaṭiyya
   Sanskrit: dāna, dakṣiṇā [ritual gift]
-  Chinese: liwu [gift]
-  Japanese: okurimono, omiyage [souvenir gift]
-  Korean: jeungyeo [gift]
+  Japanese: omiyage [souvenir gift]
 
 Phr:
   never look a gift horse in the mouth
   timeo Danaos et dona ferentes [Lat.] [Virgil]
+  don't look a gift horse in the mouth
+  it's on the house

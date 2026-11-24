@@ -10,6 +10,7 @@ N:
   necessitation, obligation, compulsion &c H0649, subjection &c H0479, stern necessity, hard necessity, dire necessity, imperious necessity, inexorable necessity, iron necessity, adverse necessity, what must be
   predestination, preordination, predetermination, foregone conclusion
   unconditioned necessity, the simply necessary
+  ananke, necessitarianism
 
 V:
   be necessary, must be, cannot be otherwise; necessitate, ordain, decree, destine, predestine, foreordain, doom
@@ -37,8 +38,6 @@ F:
   Turkish: kismet
   Sanskrit: ṛta, niyati [destiny, necessity]
   Chinese: ming [fate, mandate], tianming [mandate of heaven]
-  Japanese: unmei
-  Korean: jeoldaejeok pillyeonseong
 
 Phr:
   anankē [Gr.]
@@ -47,3 +46,5 @@ Phr:
   che sarà sarà [It.]
   Freiheit ist die Einsicht in die Notwendigkeit [Ger.] [Engels, Anti-Dühring I.11, on Hegel]
   blind ist die Notwendigkeit nur, insofern dieselbe nicht begriffen wird [Ger.] [Hegel, Encyclopaedia §147 Zusatz]
+  it is what it is
+  it had to be

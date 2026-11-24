@@ -9,6 +9,7 @@ N:
   belief, credence, credit, assurance, troth, dependence on, reliance on
   trust, confidence, reliance, faith &c H0604
   immediate knowing, immediate consciousness of God, immediate awareness, immediate certainty of God, direct knowledge, unmediated knowledge, unreasoned belief, simple faith, childlike faith, implicit faith, blind faith, bare faith, conviction, inner conviction, the inner witness, the witness of the spirit, inner revelation, the fact of consciousness, intuition, immediate intuition, the standpoint of Jacobi, the philosophy of faith, the philosophy of feeling, the leap of faith, the salto mortale, the common consent of mankind, innate knowledge of God, the inborn idea of God, the sense of the divine, the heart's certainty, self-evidence, undemonstrated certainty, assent, acceptance, credulity, fiducial trust, fiducia
+  immediacy
 
 V:
   intuit, believe immediately, feel the divine
@@ -24,14 +25,14 @@ Adv:
   intuitively, unmediatedly, without proof, without argument, without mediation, by faith, on faith, on trust, in faith, by intuition, by inner conviction, at once, straightway, implicitly, undoubtingly
 
 F:
-  German: Glaube, unmittelbares Wissen, Gewißheit, Tatsache des Bewußtseins, unmittelbare Gewißheit
+  German: Glaube, Gewißheit, Tatsache des Bewußtseins, unmittelbare Gewißheit
   Latin: fides, sola fide, consensus gentium, sensus divinitatis, credo, salto mortale [It.]
   Greek: pistis
   Arabic: dhawq [taste, direct experience], ʿirfān [gnosis]
-  Sanskrit: anubhava [experience], sākṣātkāra [direct realization]
-  Korean: jikjeopji [immediate knowledge], mideum [faith]
+  Sanskrit: sākṣātkāra [direct realization]
 
 Phr:
   the heart has its reasons which reason knows not [Pascal]
   it goes without saying
   it stands to reason
+  faith without proof

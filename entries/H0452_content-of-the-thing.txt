@@ -21,8 +21,6 @@ Adv:
   in content
   within, internally
 
-F:
-  Korean: samurui naeyong
-
 Phr:
   what is in it
+  what it is made of

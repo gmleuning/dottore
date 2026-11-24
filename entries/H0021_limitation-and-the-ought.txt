@@ -27,14 +27,16 @@ Adv:
   within limits, as it ought
 
 F:
-  German: das Sollen, Streben, Sehnsucht, Schranke
+  German: das Sollen, Streben, Sehnsucht
   Latin: nisus, de jure
   Sanskrit: dharma [duty]
   Chinese: dao [the way one ought to go]
-  Korean: jeyak [restriction], dangwi [ought]
+  Korean: dangwi [the ought]
 
 Phr:
   du kannst, denn du sollst [Ger.] [Schiller, on Kant]
   a man's reach should exceed his grasp, or what's a heaven for? [Browning]
   ad astra per aspera [Lat.]
   ultra posse nemo obligatur [Lat.]
+  thus far and no further
+  ought implies can

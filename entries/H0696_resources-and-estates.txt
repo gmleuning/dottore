@@ -66,11 +66,10 @@ F:
   German: Stände, das allgemeine Vermögen
   Latin: ne quid nimis
   French: porte-monnaie, credit mobilier, manger son ble en herbe
-  Arabic: ṭabaqāt [classes]
   Sanskrit: varṇa [estate, class]
-  Chinese: jieji [class]
-  Japanese: mibun [status, estate]
-  Korean: jaesan [resources], sinbun [estates]
+  Korean: sinbun [estate, status]
 
 Phr:
   my station and its duties [F. H. Bradley]
+  the station in life
+  to know one's place

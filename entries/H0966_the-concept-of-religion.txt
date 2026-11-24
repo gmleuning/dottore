@@ -24,12 +24,10 @@ Adv:
   in general, in its concept, in its essence, as such, essentially, in the abstract, universally, philosophically, theologically, religiously
 
 F:
-  German: Religionsphilosophie, Begriff der Religion, das religiöse Verhältnis, das religiöse Bewußtsein, Wesen der Religion
+  German: Religionsphilosophie, das religiöse Verhältnis, das religiöse Bewußtsein, Wesen der Religion
   Latin: religio, religare, relegere, vera religio
   Greek: thrēskeia, eusebeia
-  Arabic: dīn
-  Sanskrit: dharma
-  Korean: jonggyo gaenyeom [concept of religion]
 
 Phr:
   the philosophy of religion
+  God, faith and worship

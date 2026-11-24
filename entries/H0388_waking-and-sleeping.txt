@@ -12,6 +12,7 @@ N:
   the sleeping state
   shut-eye [Coll.], kip [Brit. Slang], zizz [Brit. Slang], beauty sleep, catnap, power nap, lie-in, sleep-in, all-nighter, night owl, early bird, insomniac, sleep debt, REM sleep
   yawning
+  somnolence, hypnagogia
 
 V:
   wake, awake, waken, rouse, stir; sleep, slumber, doze, nap, drowse, nod off, drop off, retire, rest
@@ -36,12 +37,10 @@ Adv:
 F:
   Latin: somnus
   Greek: hypnos
-  Arabic: yaqaẓa wa-nawm [waking and sleep]
   Sanskrit: jāgrat, suṣupti
-  Chinese: jingxing he shuimian
-  Korean: kkaeeonam [waking], jam [sleep]
 
 Phr:
   to sleep, perchance to dream [Hamlet]
   sleep that knits up the ravell'd sleave of care [Macbeth]
   once Zhuang Zhou dreamed he was a butterfly [Zhuangzi]
+  to sleep on it

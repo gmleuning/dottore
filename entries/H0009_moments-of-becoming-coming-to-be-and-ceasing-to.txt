@@ -11,6 +11,7 @@ N:
   origin &c H0137, source, bud, germ &c H0137, egg, rudiment, genesis, primogenesis†, cradle, infancy, start, starting point &c H0228, dawn &c H0253, evolution
   expiration, end of all things
   passing-away
+  desinence
 
 V:
   come to be, come into being, come into existence, arise, originate, emerge, appear, dawn, spring up, be born, take rise; generate, produce, beget
@@ -29,13 +30,11 @@ Adv:
   into being, out of being
 
 F:
-  German: Vergehen, Entstehen
+  German: Vergehen
   Latin: generatio, corruptio, generatio et corruptio, in ovo, in articulo mortis
   Greek: genesis, phthora, genesis kai phthora
-  Sanskrit: utpāda [arising], nirodha [cessation], vyaya, bhavacakra
+  Sanskrit: utpāda [arising], nirodha [cessation], bhavacakra
   Chinese: shengmie [arising and extinction]
-  Japanese: shōmetsu
-  Korean: saenggim [arising], somyeol [ceasing]
 
 Phr:
   sic transit gloria mundi [Lat.]
@@ -43,3 +42,5 @@ Phr:
   dust thou art, and unto dust shalt thou return [Bible]
   mors janua vitae [Lat.]
   what's past is prologue [Tempest]
+  coming and going
+  here today, gone tomorrow

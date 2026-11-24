@@ -35,8 +35,7 @@ Adv:
 F:
   Latin: corpus juris, lex scripta
   Italian: pronunziamento
-  Arabic: nashr [promulgation]
-  Korean: beobui hyeonjon
 
 Phr:
   to hang the laws so high that no citizen could read them [Hegel on Dionysius]
+  on the books

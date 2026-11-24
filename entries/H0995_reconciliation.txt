@@ -33,14 +33,13 @@ Adv:
   reconcilingly, vicariously, sacrificially, savingly, at one, at peace, through Christ, by grace, by the Cross
 
 F:
-  German: Gottmensch, Versöhnung, Erlösung, Menschwerdung, Tod Gottes, Auferstehung, Gott selbst ist tot
+  German: Gottmensch, Erlösung, Menschwerdung, Tod Gottes, Auferstehung, Gott selbst ist tot
   Latin: reconciliatio, redemptio, felix culpa, agnus Dei, consummatum est
   Greek: katallagē, kenōsis, sōtēria, apolytrōsis, hilasmos
   French: tirer d'affaire
-  Arabic: muṣālaḥa [reconciliation]
-  Chinese: jiushu [redemption]
-  Korean: hwahae [reconciliation], sipjaga [the Cross], buhwal [resurrection]
+  Korean: hwahae [reconciliation]
 
 Phr:
   God himself is dead [Johann Rist's hymn, cited by Hegel]
   the death of death
+  it is finished

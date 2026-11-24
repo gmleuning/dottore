@@ -22,8 +22,7 @@ Adv:
   in hexameters
   metrically, rhythmically, by quantity, in measure
 
-F:
-  Korean: eumbo [metrical foot], jangdan [long and short]
-
 Phr:
   arma virumque cano [Lat.] [dactylic hexameter]
+  long and short
+  the dactylic hexameter

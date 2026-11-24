@@ -30,10 +30,7 @@ Adv:
   on compulsion, forcibly
   under compulsion
 
-F:
-  Arabic: ikrāh [coercion]
-  Chinese: qiangpo [coercion]
-  Korean: gangjewa bokjong [coercion and subjection]
-
 Phr:
   vae victis [Lat.] [woe to the vanquished]
+  to bring someone to heel
+  under the yoke

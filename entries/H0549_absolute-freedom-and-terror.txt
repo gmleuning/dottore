@@ -26,13 +26,11 @@ Adv:
   destructively, without limit
 
 F:
-  German: Furie des Verschwindens, die Furie des Verschwindens
+  German: Furie des Verschwindens
   French: la Terreur, volonté générale, à la lanterne, sansculottes
-  Arabic: irhāb [terror]
-  Chinese: kongbu [terror]
-  Korean: jeoldaejeok jayuwa gongpo [absolute freedom and terror]
 
 Phr:
   the coldest and meanest of all deaths, with no more significance than cutting off a head of cabbage [Hegel]
   la Révolution dévore ses enfants [Fr.] [the revolution devours its children]
   liberté, égalité, fraternité [Fr.]
+  the Reign of Terror

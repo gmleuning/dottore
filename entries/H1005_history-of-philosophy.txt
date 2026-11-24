@@ -23,13 +23,10 @@ Adv:
   in time, in succession, successively, chronologically, in sequence, developmentally, progressively, through the ages, down the ages, from age to age, epoch by epoch, system by system
 
 F:
-  German: Geschichte der Philosophie, Philosophiegeschichte, Galerie der Heroen der denkenden Vernunft
+  German: Philosophiegeschichte, Galerie der Heroen der denkenden Vernunft
   Latin: philosophia perennis, placita philosophorum, historia philosophica
-  Arabic: tārīkh al-falsafa
-  Chinese: zhexue shi
-  Japanese: tetsugakushi
-  Korean: cheolhaksa [history of philosophy]
 
 Phr:
   the study of the history of Philosophy is the study of Philosophy itself [Hegel, Lectures on the History of Philosophy, tr. Haldane]
   a gallery of heroes of thought [Hegel]
+  the one philosophy in many

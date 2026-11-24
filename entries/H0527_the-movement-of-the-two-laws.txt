@@ -26,8 +26,7 @@ Adv:
   at odds, at cross purposes, between two loyalties
   in movement, in conflict, into one another
 
-F:
-  Korean: du beobui undong
-
 Phr:
   caught between two duties
+  between two fires
+  caught in the middle

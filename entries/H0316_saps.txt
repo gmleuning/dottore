@@ -23,10 +23,8 @@ Adv:
   in sap
 
 F:
-  Arabic: ʿuṣāra [juice], nusgh [sap]
   Sanskrit: rasa [juice, sap]
-  Chinese: zhiye [sap]
-  Korean: susaek [sap]
 
 Phr:
   the sap is rising
+  the sap rises

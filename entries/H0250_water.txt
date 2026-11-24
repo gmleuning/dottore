@@ -12,6 +12,7 @@ N:
   liquor, lymph, humor, juice, sap, serum
   the watery element, the neutral, fluidity
   thinner, splashing
+  aqueousness
 
 V:
   water, wet, moisten, dampen, irrigate, flood, flow, stream, pour, trickle, drip, splash, wash, rinse, dissolve, quench
@@ -33,14 +34,11 @@ Adv:
 F:
   Latin: aqua
   Greek: hydōr
-  Arabic: māʾ [water]
-  Sanskrit: āpas [waters], jala
-  Chinese: shui [water]
-  Japanese: mizu
-  Korean: mul [water], su
 
 Phr:
   water is the archē of all things [Thales, via Aristotle]
   the highest good is like water [Laozi]
   you cannot step twice into the same river [Heraclitus]
   water, water, everywhere, nor any drop to drink [Coleridge]
+  water finds its own level
+  like water off a duck's back

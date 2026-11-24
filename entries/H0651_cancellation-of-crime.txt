@@ -36,7 +36,8 @@ Adv:
 
 F:
   French: peine forte et dure, fair l'amende honorable
-  Korean: beomjoeui jiyang
 
 Phr:
   the negation of the negation of right [Hegel]
+  to make amends
+  to set right

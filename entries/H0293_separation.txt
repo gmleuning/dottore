@@ -30,11 +30,8 @@ Adv:
 
 F:
   Latin: separatio
-  Arabic: tafrīq [separation], taḥlīl [analysis]
-  Sanskrit: viyoga [separation]
-  Chinese: fenli [separation]
-  Japanese: bunri
-  Korean: bulli [separation], bunhae
 
 Phr:
   separate the wheat from the chaff
+  to break down
+  to separate out

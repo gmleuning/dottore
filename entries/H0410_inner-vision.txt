@@ -7,6 +7,7 @@ HGloss: The somnambulist's seeing of the interior of their own body.
 N:
   inner vision; inner sight, seeing within, self-diagnosis, autoscopy, introspective vision, inward eye
   inward seeing, self-inspection, vision of one's own body, internal sight
+  introspection
 
 V:
   look within, see inwardly, introspect
@@ -22,8 +23,8 @@ Adv:
 
 F:
   Arabic: baṣīra [inner sight, insight]
-  Sanskrit: antardṛṣṭi [inner vision]
-  Korean: naejeok sigak [inner vision]
 
 Phr:
   that inward eye which is the bliss of solitude [Wordsworth]
+  the mind's eye
+  to look within

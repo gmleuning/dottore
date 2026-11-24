@@ -7,6 +7,7 @@ HGloss: Determinate being taken simply as it is, prior to the relations of somet
 N:
   determinate being as such; existence considered in itself, bare existence, being-there as such; simple presence; isolation, abstraction from relation; immediacy &c H0002
   determinate being on its own, simple existence, definite existence, immediate determinacy
+  thereness, givenness
 
 V:
   simply be there, be present, stand alone, stand by itself
@@ -21,8 +22,9 @@ Adv:
 
 F:
   Latin: per se, simpliciter
-  Korean: hyeonjonjae
 
 Phr:
   just as it is
   tel quel [Fr.]
+  as it stands
+  as things are

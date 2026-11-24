@@ -7,6 +7,7 @@ HGloss: Greek philosophy from Thales to Aristotle, from the natural principle to
 N:
   from Thales to Aristotle; the first period of Greek philosophy, the classical age of thought
   the first period, early Greek philosophy, the Hellenic period, the rise of Greek thought, the formation of science, the course from nature to mind, the Presocratics, the Sophists, Socrates, the Socratics, Plato, the abstract beginnings, the natural principle, the Idea, the progress from abstract to concrete, ascent, flowering, bloom, heyday, zenith
+  hylozoism
 
 V:
   develop, culminate
@@ -19,9 +20,6 @@ Adj:
 Adv:
   from the beginning
   from Thales onward, from nature to mind, from first principles, progressively, ascendingly, by stages, at the outset
-
-F:
-  Korean: Talleseu [Thales], Aristotelleseu [Aristotle]
 
 Phr:
   all is water [Thales]

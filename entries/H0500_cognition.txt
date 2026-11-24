@@ -26,11 +26,9 @@ Adv:
 F:
   German: Erkennen
   Latin: cognitio
-  Arabic: idrāk, maʿrifa
   Sanskrit: bodha [understanding, awakening]
-  Chinese: renzhi [cognition]
-  Japanese: ninchi
-  Korean: insik [cognition]
 
 Phr:
   Erkenntnis ist Macht
+  to come to know
+  to recognize

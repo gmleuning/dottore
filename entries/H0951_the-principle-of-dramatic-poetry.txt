@@ -8,6 +8,7 @@ N:
   the principle of dramatic poetry; collision, conflict, action and character, unity of epic and lyric, the deed unfolding
   encounter, action
   clash, strife, struggle, contest, opposition, antagonism, agon, the will, aim, purpose, pathos, deed, reaction, resolution
+  peripeteia
 
 V:
   collide, conflict, act
@@ -21,8 +22,7 @@ Adv:
   in conflict
   in collision, in action, at odds, through action
 
-F:
-  Korean: haengwi [action], galdeung [conflict]
-
 Phr:
   action is character
+  will against will
+  the collision of characters

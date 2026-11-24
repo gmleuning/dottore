@@ -26,13 +26,11 @@ Adv:
 F:
   German: Begriffslogik, Begriff, Begreifen [grasping], Entwicklung
   Latin: conceptus
-  Arabic: mafhūm [concept]
-  Sanskrit: vikalpa, pratyaya
-  Chinese: gainian [concept]
-  Japanese: gainen
-  Korean: gaenyeomnon [doctrine of the concept]
+  Sanskrit: vikalpa
 
 Phr:
   the acorn contains the oak
   the truth is the whole [Hegel]
   the concept is the free [Hegel]
+  to have a grasp of
+  to get the idea

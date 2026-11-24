@@ -19,6 +19,7 @@ Adj:
   Oriental, Eastern, Asian
   orient
   Asiatic, Indian, Chinese, Persian, Hindu, Buddhist, Brahmanic, pantheistic, substantial, contemplative, meditative, mystical, quietist, selfless, absorbed, all-encompassing, ancient, immemorial
+  gnomic
 
 Adv:
   in the East
@@ -27,10 +28,7 @@ Adv:
 F:
   German: Morgenland, morgenländisch
   Latin: ex oriente lux
-  Arabic: al-falsafa al-sharqiyya
-  Chinese: dongfang zhexue
-  Japanese: tōyō tetsugaku
-  Korean: Dongyang cheolhak [Eastern philosophy]
 
 Phr:
   ex oriente lux [Lat.]
+  the wisdom of the East

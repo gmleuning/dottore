@@ -38,7 +38,8 @@ Adv:
 F:
   Latin: telum imbelle, brutum fulmen, vox et proeterea nihil, deliquium, sine ictu
   French: vouloir rompre l'anguille au genou, vouloir prendre la lune avec les dents, put hors de combat, hors de combat
-  Korean: himui jeyakseong
 
 Phr:
   it takes two to tango
+  to be called forth
+  under constraint

@@ -7,6 +7,7 @@ HGloss: The plant's abstract inner structure, its cells and the vessels through 
 N:
   cellular tissue and vessels; cells, tissue, parenchyma, xylem, phloem, vessels, tracheids, sieve tubes, vascular bundles, ducts, fibres, pith, medulla
   cell-tissue, vascular tissue, spiral vessels, tubes
+  bast
 
 V:
   conduct, transport, channel
@@ -20,11 +21,7 @@ Adj:
 Adv:
   through the vessels
 
-F:
-  Arabic: khalāyā [cells]
-  Chinese: xibao [cell]
-  Japanese: saibō
-  Korean: sepo jojik [cellular tissue], gwan [vessels]
-
 Phr:
   omnis cellula e cellula [Lat.] [Virchow]
+  the tissue of
+  cell by cell

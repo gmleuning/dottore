@@ -25,7 +25,8 @@ F:
   German: Prinzip, das Tragische, das Komische, das Substantielle, Subjektivität
   Latin: genera dramatica, principium
   Greek: spoudaion, geloion, archē
-  Korean: jangneu [genre]
 
 Phr:
   the tragic and the comic mask
+  the laws of the kinds
+  what makes tragedy tragic

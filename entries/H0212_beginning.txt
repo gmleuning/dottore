@@ -12,6 +12,7 @@ N:
   prelude, preamble, preface, prologue, foreword, protasis†, proemium†, prolusion†, proem, prolepsis [Gramm.], prolegomena, prefix, introduction, heading, frontispiece, groundwork, preparation &c H0196, overture, symphony, premises
   prefigurement &c H0976, omen &c H0976
   showtime
+  incipit
 
 V:
   begin, start, commence, initiate, inaugurate, set out, set off, launch, open, embark, institute, found, originate, kick off, get under way
@@ -29,17 +30,14 @@ Adv:
   first and foremost, in the first place, in the bud, in embryo, in its infancy, from the beginning, from its birth
 
 F:
-  German: Anfang
   Latin: initium, principium, terminus a quo, ab initio, ab ovo, imprimis, in limine, in ovo, ab origine, ab incunabulis, exordium
   Greek: archē
   French: le premier pas, avant-coureur, avant-propos
-  Arabic: bidāya [beginning], mabdaʾ [principle]
-  Sanskrit: ādi [beginning]
-  Chinese: shi [beginning], yuan [origin]
-  Japanese: hajime
-  Korean: sijak [beginning]
+  Arabic: mabdaʾ [principle]
+  Chinese: yuan [origin]
 
 Phr:
   in the beginning was the Word [Bible]
   well begun is half done, dimidium facti qui coepit habet [Lat.] [Horace]
   a journey of a thousand li begins with a single step [Laozi]
+  to start from nothing

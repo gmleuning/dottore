@@ -7,6 +7,7 @@ HGloss: The philosophy of spirit, the science of the idea that returns into itse
 N:
   spirit; the third part, philosophy of spirit, the idea returned to itself, mind, soul, culture
   philosophy of mind, realm of spirit, self-knowing reason, the idea in and for itself, subjective spirit, objective spirit, absolute spirit, self-consciousness, freedom, return into self, the closing of the circle
+  pneumatology
 
 V:
   return, know, free oneself
@@ -21,12 +22,8 @@ Adv:
   mentally, self-consciously, for itself, freely
 
 F:
-  German: Geist, Philosophie des Geistes
-  Arabic: rūḥ
-  Sanskrit: ātman
-  Chinese: jingshen
-  Japanese: seishin
-  Korean: jeongsin [spirit], jeongsincheolhak [philosophy of spirit]
+  German: Philosophie des Geistes
 
 Phr:
   the idea that has returned to itself out of its otherness [Hegel]
+  spirit knows itself

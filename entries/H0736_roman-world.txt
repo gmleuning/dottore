@@ -7,6 +7,7 @@ HGloss: The Roman world of abstract universality, where the person counts as a h
 N:
   the Roman world; abstract legal personhood, Rome, the Roman Republic, the Roman Empire, SPQR, Roman law, abstract universality, the manhood of history
   the Roman realm, the manhood of spirit, legal personality, the person, the republic, dominion
+  Romanitas, civitas
 
 V:
   conquer, rule, legislate, administer, Romanize
@@ -23,8 +24,9 @@ Adv:
 F:
   Latin: Imperium Romanum, Senatus Populusque Romanus, gravitas, virtus, pietas, Rōma, more Romano
   Arabic: al-Rūm [Romans, Byzantines]
-  Korean: roma segye [Roman world]
 
 Phr:
   tu regere imperio populos, Romane, memento [Lat.] [Virgil]
   Roma aeterna [Lat.]
+  all roads lead to Rome
+  Rome wasn't built in a day

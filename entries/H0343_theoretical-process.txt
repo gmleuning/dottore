@@ -9,6 +9,7 @@ N:
   apprehension, impression
   attention
   the theoretical relation, sense-relation, perception of the world
+  sensorium
 
 V:
   sense, perceive, feel, see, hear, smell, taste, touch, notice, observe
@@ -24,11 +25,9 @@ Adv:
   theoretically, through the senses
 
 F:
-  Arabic: iḥsās [sensation]
   Sanskrit: indriya [sense faculty]
-  Chinese: ganjue [sensation]
-  Japanese: kankaku
-  Korean: iron gwajeong [theoretical process], gamgak
 
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]
+  the five senses
+  to sense danger

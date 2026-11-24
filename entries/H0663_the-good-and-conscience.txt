@@ -20,8 +20,6 @@ Adv:
   in good conscience
   for the good, in conscience
 
-F:
-  Korean: seongwa yangsim [good and conscience]
-
 Phr:
   the good and conscience
+  to do the right thing

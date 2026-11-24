@@ -24,9 +24,8 @@ Adv:
 
 F:
   German: Sensibilität, Irritabilität, Reproduktion
-  Arabic: waẓāʾif al-aʿḍāʾ [functions of organs]
-  Chinese: shengli jineng [physiological functions]
-  Korean: yugicheui gineung [functions]
 
 Phr:
   life is the sum of the functions that resist death [Bichat]
+  feeling, moving and feeding
+  in working order

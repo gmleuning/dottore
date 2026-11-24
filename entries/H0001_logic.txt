@@ -9,6 +9,7 @@ N:
   metaphysics, first philosophy, ontology, theory of categories; table of categories
   thought thinking itself; reason; realm of shadows; the system of pure reason; categories, predicaments†, forms of thought
   the system of categories
+  logomachy, noesis
 
 V:
   think, reason, ratiocinate, cogitate, excogitate†; think through, think out, follow out, carry through; reason a priori; categorize; deduce, derive, develop, unfold; logicize, syllogize &c H0165
@@ -27,7 +28,7 @@ F:
   German: Wissenschaft der Logik, das reine Denken, Vernunft, Reich der Schatten, Denkformen, voraussetzungslos, das Logische
   Latin: prima philosophia, ratio, a priori, in abstracto, sub specie aeternitatis
   Greek: organon, logos, noēsis noēseōs, nous
-  Arabic: manṭiq, ʿilm al-manṭiq
+  Arabic: manṭiq
   Sanskrit: nyāya, hetuvidyā, pramāṇa [means of valid knowledge]
   Chinese: mingjia [School of Names]
   Korean: nollihak [logic], sabyeon [speculation]
@@ -37,3 +38,5 @@ Phr:
   noēsis noēseōs [Gr.] [Aristotle]
   the exposition of God as he is in his eternal essence before the creation of nature and a finite mind [Hegel]
   what is rational is actual, and what is actual is rational [Hegel]
+  the logic of things
+  the long and the short of it

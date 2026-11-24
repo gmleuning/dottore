@@ -9,6 +9,7 @@ N:
   presentiment
   medium, mesmerist
   clear-seeing, lucidity
+  cryptaesthesia
 
 V:
   foresee, foretell, divine, prophesy, see beyond
@@ -23,12 +24,11 @@ Adv:
   by second sight, prophetically, clairvoyantly
 
 F:
-  German: Hellsehen
   Arabic: kashf [unveiling], firāsa [intuitive discernment]
   Sanskrit: divya-cakṣus [divine eye], abhijñā [supernormal knowledge]
   Chinese: tianyan [heavenly eye]
-  Japanese: senrigan [thousand-league eye]
-  Korean: tusi [clairvoyance], cheollian
+  Korean: cheollian [thousand-league eye, clairvoyance]
 
 Phr:
   the gift of second sight
+  to see through walls

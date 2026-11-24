@@ -10,6 +10,7 @@ N:
   part, portion, item, particular, division, subdivision, section, fraction
   perfection &c H0197, solidity, solidarity, ideal, limit
   part-whole relation, composition, the sum of parts
+  integrality
 
 V:
   compose, comprise, constitute, make up, consist of, combine, integrate; divide, partition, fragment, segment, break up, break down
@@ -32,12 +33,11 @@ Adv:
 F:
   German: Gestalt
   Latin: in toto, in extenso, ne plus ultra
-  Arabic: kull wa-juzʾ [whole and part]
   Sanskrit: avayavin and avayava [whole and part]
-  Chinese: zhengti and bufen [whole and part]
-  Korean: jeonchewa bubun [whole and parts]
 
 Phr:
   the whole is something besides the parts [Aristotle, Metaphysics VIII.6, 1045a10, tr. Ross]
   e pluribus unum [Lat.]
   totum est maius sua parte [Lat.]
+  the whole is greater than the sum of its parts
+  part and parcel

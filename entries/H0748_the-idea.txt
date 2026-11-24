@@ -25,8 +25,8 @@ F:
   Latin: idea
   Greek: eidos
   Arabic: mithāl [ideal form]
-  Sanskrit: rūpa [form]
-  Korean: inyeom [the Idea]
 
 Phr:
   the idea is the true
+  true to the idea
+  as it should be

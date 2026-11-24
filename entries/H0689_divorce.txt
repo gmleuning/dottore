@@ -35,10 +35,8 @@ Adv:
 F:
   Latin: divortium, repudium, separatio a mensa et thoro, separatio a vinculo matrimonii
   Arabic: ṭalāq [divorce], khulʿ [divorce at wife's initiative]
-  Sanskrit: vicheda [separation]
-  Chinese: lihun [divorce]
-  Japanese: rikon
-  Korean: ihon [divorce]
 
 Phr:
   let not man put asunder [Bible]
+  to go separate ways
+  irreconcilable differences

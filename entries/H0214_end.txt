@@ -33,14 +33,11 @@ F:
   Latin: finis, terminus ad quem
   Greek: telos, nostos
   French: tail piece, arriere pensee
-  Arabic: nihāya [end], ghāya [goal]
-  Sanskrit: anta [end]
-  Chinese: zhong [end]
-  Japanese: owari
-  Korean: jongmal [end], gyeolmal
 
 Phr:
   in my end is my beginning [T. S. Eliot]
   I am Alpha and Omega, the beginning and the end [Bible]
   finis coronat opus [Lat.]
   the end is where we start from [T. S. Eliot]
+  the end is in the beginning
+  to come full circle

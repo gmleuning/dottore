@@ -18,7 +18,6 @@ Adv:
 
 F:
   Latin: affectus, scientia intuitiva, natura naturans, natura naturata, beatitudo, imaginatio
-  Korean: Seupinoja [Spinoza], silche [substance]
 
 Phr:
   Deus sive Natura, sub specie aeternitatis, amor dei intellectualis, determinatio negatio est, conatus sese conservandi [Lat]. Worship likeness and images, that is paper and ink [Spinoza], entweder Spinozismus oder keine Philosophie [Ger.] [Hegel, Lectures on the History of Philosophy]

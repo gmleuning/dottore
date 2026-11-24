@@ -26,9 +26,8 @@ F:
   Latin: intuitus, prima facie
   Arabic: ḥads [intuition], kashf [unveiling]
   Sanskrit: pratibhā [intuitive flash], aparokṣa [direct knowledge]
-  Chinese: zhijue [intuition]
-  Japanese: chokkan
   Korean: jikgwan [intuition]
 
 Phr:
   intuitions without concepts are blind [Kant]
+  by intuition

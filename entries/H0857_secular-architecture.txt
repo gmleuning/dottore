@@ -11,6 +11,7 @@ N:
   civil architecture, civic building, domestic building, profane architecture, burgher house, city wall, bridge, garden architecture
   marquee
   fortification, fortifications, bulwark, rampart, ramparts, bastion, battlement, redoubt, sconce, earthwork, fortified town
+  crenellation, machicolation
 
 V:
   fortify, house, govern
@@ -30,10 +31,7 @@ F:
   German: Rathaus, Burg
   French: château
   Italian: palazzo
-  Arabic: qaṣr [palace], qalʿa [citadel]
-  Chinese: gongdian [palace]
-  Japanese: shiro [castle]
-  Korean: sesok geonchuk [secular architecture], seongchae [castle, fortress]
 
 Phr:
   an Englishman's home is his castle
+  town and gown

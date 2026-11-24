@@ -26,7 +26,8 @@ Adv:
 
 F:
   Spanish: terra cotta
-  Korean: jaeryo [material]
 
 Phr:
   truth to materials
+  the stuff of statues
+  true to the material

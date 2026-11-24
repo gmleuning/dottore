@@ -21,12 +21,9 @@ Adv:
   comprehendingly, in retrospect
 
 F:
-  German: die Schädelstätte des absoluten Geistes, begriffene Geschichte
-  Arabic: tārīkh [history]
-  Chinese: lishi [history]
-  Japanese: rekishi
-  Korean: gaenyeomjeogeuro padakdoen yeoksa
+  German: die Schädelstätte des absoluten Geistes
 
 Phr:
   from the chalice of this realm of spirits foams forth for Him his own infinitude [Hegel, Phenomenology ¶808, adapting Schiller, 'Die Freundschaft']
   aus dem Kelche dieses Geisterreiches schäumt ihm seine Unendlichkeit [Ger.] [Hegel, Phenomenology ¶808]
+  the Golgotha of spirit

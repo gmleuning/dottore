@@ -23,8 +23,8 @@ Adv:
 F:
   Latin: figurae
   Greek: schēmata
-  Arabic: aṣkāl [figures]
-  Korean: jeongjae churon [syllogism of existence]
 
 Phr:
   barbara celarent darii ferioque prioris [Lat.]
+  from the particular to the general
+  by the book

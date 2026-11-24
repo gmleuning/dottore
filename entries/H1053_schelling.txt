@@ -18,7 +18,6 @@ Adv:
 
 F:
   German: Naturphilosophie, Identitätsphilosophie, Indifferenz [nondifference], Potenzen [potencies]
-  Korean: Syelling [Schelling], dongil cheolhak [philosophy of identity]
 
 Phr:
   nature is visible spirit, spirit invisible nature [Schelling]

@@ -33,12 +33,9 @@ Adv:
 F:
   German: Krankheit und Tod
   French: aux abois
-  Arabic: maraḍ [disease], mawt [death]
-  Sanskrit: vyādhi [disease], maraṇa [death]
-  Chinese: bing [illness], si [death]
-  Japanese: byōki
-  Korean: jongjokgwa gaeche, byeonggwa jugeum
 
 Phr:
   the wages of sin is death [Bible]
   all flesh is grass [Bible]
+  the way of all flesh
+  sickness unto death

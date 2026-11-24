@@ -7,6 +7,7 @@ HGloss: The sublation of measure into the indifferent substrate that persists th
 N:
   the becoming of essence; inwardization, internalization; going within, introversion, deepening, profundity, depth; penetration, getting to the bottom, finding the core; disclosure of the substrate; the depth beneath the surface, the essential behind the given; transition to essence &c H0077
   the genesis of essence, the emergence of essence, the passage of measure into essence, the underlying revealed
+  hypokeimenon
 
 V:
   go within, deepen, penetrate, probe, get to the bottom, go to the root, dig deeper, look beneath the surface
@@ -24,8 +25,8 @@ Adv:
 F:
   German: Erinnerung [inwardizing, recollection]
   French: au fond
-  Korean: bonjillo ihaeng [passage to essence]
 
 Phr:
   still waters run deep
   scratch the surface
+  under the surface

@@ -12,6 +12,7 @@ N:
   tactility
   sensing, sense-impression, affection, sentience
   detection
+  aesthesis
 
 V:
   sense, feel, perceive, experience, register, be aware of
@@ -30,13 +31,11 @@ Adv:
   by sensation
 
 F:
-  German: Empfindung
   Latin: sensatio
   Greek: aisthēsis
-  Arabic: iḥsās [sensation], ḥiss [sense]
   Sanskrit: vedanā [feeling, sensation]
-  Chinese: ganjue [sensation]
-  Korean: gamgak [sensation]
 
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]
+  to come to one's senses
+  to feel one's way

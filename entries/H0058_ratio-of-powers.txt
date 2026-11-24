@@ -22,10 +22,8 @@ Adv:
   exponentially, geometrically, by leaps and bounds
   to a power
 
-F:
-  German: Potenzenverhältnis
-  Korean: geodeupjegop [power]
-
 Phr:
   the rich get richer
   doubling every year
+  squared and cubed
+  to the nth degree

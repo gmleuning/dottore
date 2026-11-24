@@ -7,6 +7,7 @@ HGloss: Reason's certainty that it is all reality, idealism's first, abstract as
 N:
   reason's certainty of being all reality; idealism, panlogism, omnipresence of reason, the mind at home in the world
   the certainty of reason, reason as all reality, the category, the pure I as all, the mind finding itself everywhere
+  omnireality
 
 V:
   find oneself in all things, be at home in the world
@@ -22,7 +23,8 @@ Adv:
 
 F:
   German: Beisichsein [being at home with oneself]
-  Korean: modeun siljaeseong
 
 Phr:
   the world is my representation, die Welt ist meine Vorstellung [Ger.] [Schopenhauer]
+  all the world
+  the measure of all things

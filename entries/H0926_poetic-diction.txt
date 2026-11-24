@@ -35,7 +35,8 @@ F:
   Latin: elocutio
   Greek: lexis
   French: la morgue litteraire
-  Korean: eobeop [diction]
 
 Phr:
   what oft was thought, but ne'er so well expressed [Pope]
+  the best words in the best order
+  elevated speech

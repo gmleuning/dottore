@@ -29,13 +29,13 @@ F:
   Latin: cor
   Greek: kardia
   Arabic: qalb [heart, also mind and soul]
-  Sanskrit: hṛdaya [heart]
   Chinese: xin [heart-mind]
   Japanese: kokoro [heart, mind]
-  Korean: simjang [heart]
 
 Phr:
   the heart has its reasons which reason knows not of [Pascal]
   my heart in my mouth
   my heart skipped a beat
   be still my beating heart
+  the heart of the matter
+  heart and soul

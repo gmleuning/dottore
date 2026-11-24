@@ -15,13 +15,13 @@ V:
 Adj:
   aspiring, vertical, enclosed, transcendent
   romantic, Gothic, inward, devotional, solemn, mysterious
+  upward-tending
 
 Adv:
   upward, heavenward
   in general, inwardly, solemnly, devotionally
 
-F:
-  Korean: seongdang [cathedral, church]
-
 Phr:
   the house of God
+  a forest of stone
+  aspiring heavenward

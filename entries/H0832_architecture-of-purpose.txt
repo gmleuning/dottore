@@ -7,6 +7,7 @@ HGloss: Building that becomes an enclosure serving a purpose outside itself, the
 N:
   architecture of purpose; functional architecture, utilitarian building, form follows function, functionalism, purpose-built
   purposive architecture, useful building, functional building, utilitarian architecture, building as means, enclosure, dwelling, external end
+  utilitarianism
 
 V:
   serve, enclose, house, shelter
@@ -15,13 +16,12 @@ V:
 Adj:
   functional, utilitarian, purposive, practical
   purposeful, useful, instrumental, serviceable
+  telic
 
 Adv:
   functionally
   for a purpose, for use, as a means
 
-F:
-  Korean: mokjeok geonchuk [architecture of purpose]
-
 Phr:
   form follows function [Louis Sullivan]
+  built for a purpose

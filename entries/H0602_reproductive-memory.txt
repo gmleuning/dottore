@@ -20,9 +20,8 @@ Adv:
   on hearing the name
   in the name, without image, by name
 
-F:
-  Korean: jaesaengjeok gieok [reproductive memory]
-
 Phr:
   it is in names that we think [Hegel, Encyclopaedia §462 Remark, tr. Wallace]
   es ist in Namen, daß wir denken [Ger.] [Hegel, Encyclopaedia §462 Remark]
+  on the tip of one's tongue
+  it rings a bell

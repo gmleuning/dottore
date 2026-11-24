@@ -45,10 +45,9 @@ F:
   French: raison d'état, civisme
   Italian: ragion di stato
   Aramaic: dina de-malkhuta
-  Arabic: qānūn [state law as distinct from sacred law], kanun [Turkish form]
+  Arabic: qānūn [state law as distinct from sacred law]
   Chinese: fa [codified law of the Legalists]
   Japanese: ritsuryō
-  Korean: inganui beop [human law]
 
 Phr:
   salus populi suprema lex esto [Lat.] [Cicero]
@@ -57,3 +56,4 @@ Phr:
   the people must fight for their law as for their city wall [Heraclitus]
   render therefore unto Caesar the things which are Caesar's [Bible]
   man is by nature a political animal [Aristotle]
+  the law of the land

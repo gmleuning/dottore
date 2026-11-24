@@ -7,6 +7,7 @@ HGloss: The search for laws of thought and psychological laws, which reason find
 N:
   observation of self-consciousness in its purity and its relation to external actuality, logical and psychological laws; formal logic, laws of thought, psychology, faculty psychology, associationism, empirical psychology, psychological laws, character types, influence of circumstances, environment and individual
   logical laws, the faculties, the individual and its circumstances, environment
+  psychologism
 
 V:
   study the mind, classify faculties, explain behaviour
@@ -20,11 +21,7 @@ Adv:
   psychologically, logically
   by law
 
-F:
-  Arabic: ʿilm al-nafs [psychology]
-  Chinese: xinlixue [psychology]
-  Japanese: shinrigaku
-  Korean: nolli beopchikgwa simni beopchik
-
 Phr:
   the proper study of mankind is man [Pope]
+  the laws of thought
+  the workings of the mind

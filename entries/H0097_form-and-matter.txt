@@ -31,12 +31,13 @@ F:
   German: Materie
   Latin: forma et materia, materia, materia prima
   Greek: hylē kai morphē, hylē, dynamis, chōra [Plato's receptacle], eidos, morphē
-  Arabic: mādda [matter], hayūlā [primal matter, from hylē], ṣūra [form]
+  Arabic: hayūlā [primal matter, from hylē], ṣūra [form]
   Sanskrit: prakṛti [matter, nature]
   Chinese: qi [vital stuff] and li [pattern, principle]
-  Korean: hyeongsikgwa jillyo [form and matter]
 
 Phr:
   the potter and the clay
   tabula rasa [Lat.]
   li and qi [Chin.] [Zhu Xi]
+  matter in motion
+  the stuff of

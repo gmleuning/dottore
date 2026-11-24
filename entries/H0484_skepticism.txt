@@ -14,6 +14,7 @@ N:
   problem, moot point
   thoroughgoing doubt, the negativity of thought, the dialectical unrest, ataraxia
   enquiry
+  epoché
 
 V:
   doubt, question, suspend judgment, challenge, query, mistrust, disbelieve, dissolve
@@ -37,12 +38,9 @@ Adv:
 F:
   Latin: cum grano salis, onus probandi
   Greek: epochē, isostheneia [equipollence of arguments]
-  Arabic: shakk [doubt]
-  Sanskrit: saṃśaya [doubt]
-  Chinese: huaiyi [doubt]
-  Japanese: kaigi
-  Korean: hoeuijuui [skepticism]
 
 Phr:
   que sais-je? [Fr.] [Montaigne]
   de omnibus dubitandum est [Lat.]
+  to take with a pinch of salt
+  doubting Thomas

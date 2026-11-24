@@ -10,6 +10,7 @@ N:
   quadruped, the suckling animals, the land animals
   placental
   female mammal, placental mammal, egg-laying mammal, aquatic mammal, sea horse
+  therian
 
 V:
   suckle, nurse, bear live young
@@ -25,14 +26,10 @@ Adv:
 
 F:
   Latin: mammalia
-  Arabic: thadyiyyāt [mammals]
-  Sanskrit: stanapāyin [breast-suckling]
-  Chinese: buru dongwu [milk-feeding animals]
-  Japanese: honyūrui
-  Korean: poyuryu [mammals]
 
 Phr:
   the higher animals
+  to suckle the young
 
 # ---- Hegel ----
 Def: The mammals are the perfect animals: they have breasts, four articulated limbs and every organ developed. Because they suckle their young from themselves, they come to feel the unity of one individual with another, the genus, which exists in the offspring, though in nature this unity falls back into single individuals. They are classed truly not by marks we pick out but by the animal's own weapons, its teeth, feet and claws, by which it sets itself against its non-organic nature and shows itself a subject for itself. So there are four classes: animals with hands (man and the monkey), animals with claws (beasts of prey, rodents, bats, sloths), animals with fins (the Cetacea) and animals with hoofs (swine, elephants, cattle, horses), which can be tamed to work for man. Further subdivision is left to the contingency of nature, above all to climate.

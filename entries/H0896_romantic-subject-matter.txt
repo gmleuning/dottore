@@ -7,6 +7,7 @@ HGloss: The romantic content of painting, the religious love of the Madonna, and
 N:
   romantic subject-matter; religious subjects, the Madonna and Child, the Passion, saints, landscape, genre, everyday life, portrait, history painting
   the content of painting, the inner life as subject, inwardness, depth of feeling, the soul, religious love, maternal love, the Holy Family, the Nativity, the Crucifixion, the martyrs, the Magdalene, devotion, bliss, repentance, the human heart, nature, still life, particularity
+  bambocciata
 
 V:
   depict, portray, choose
@@ -22,7 +23,8 @@ Adv:
   inwardly, soulfully, lovingly, from the heart
 
 F:
-  Korean: Seongmo [the Virgin], pungsokhwa [genre painting]
+  Korean: pungsokhwa [genre painting]
 
 Phr:
   the Madonna and Child
+  scenes of everyday life

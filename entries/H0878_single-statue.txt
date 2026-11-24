@@ -8,6 +8,7 @@ N:
   single statue; statue, figure, standing figure, seated figure, cult statue, statuette, bust, torso, herm
   figurine, model
   free-standing figure, statue in the round, single figure, isolated figure, statuary, image, effigy, idol, colossus, the self-reposing figure, repose, independence
+  simulacrum
 
 V:
   stand, sit, erect
@@ -24,11 +25,7 @@ Adv:
 
 F:
   Greek: kouros, korē
-  Arabic: timthāl [statue]
-  Sanskrit: pratimā [image]
-  Chinese: diaoxiang [statue]
-  Japanese: zō
-  Korean: ipsang [standing statue], josang [statue]
 
 Phr:
   the Discobolus
+  a figure alone

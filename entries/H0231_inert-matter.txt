@@ -26,13 +26,9 @@ Adv:
   inertly, passively, at rest, motionless
 
 F:
-  German: träge Materie
   Latin: vis inertiae
-  Arabic: jumūd [inertness]
   Sanskrit: tamas [inertia, darkness]
-  Chinese: guanxing [inertia]
-  Japanese: kansei
-  Korean: gwanseong [inertia], mujil
 
 Phr:
   every body continues in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed upon it [Newton]
+  a body at rest

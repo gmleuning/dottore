@@ -28,16 +28,16 @@ Adv:
   as I
 
 F:
-  German: ich denke [Kant], das Ich
+  German: ich denke [Kant]
   Latin: ego, res cogitans, in propria persona
   Greek: egō
-  Arabic: anā [I], al-anā [the ego], dhāt
-  Sanskrit: aham [I], ātman, ahaṃkāra [ego]
-  Chinese: wo [I, self], ziwo [ego]
-  Japanese: jiga
-  Korean: na [the I], jaa [ego]
+  Arabic: al-anā [the ego]
+  Sanskrit: aham [I], ahaṃkāra [ego]
+  Korean: jaa [ego]
 
 Phr:
   cogito, ergo sum [Lat.] [Descartes]
   I is another, je est un autre [Fr.] [Rimbaud]
   the I think must be able to accompany all my representations [Kant]
+  I am I
+  me, myself and I

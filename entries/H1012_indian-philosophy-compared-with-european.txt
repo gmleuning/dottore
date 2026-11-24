@@ -7,6 +7,7 @@ HGloss: Indian thought compared with European, as substance with the free subjec
 N:
   Indian philosophy compared with European; comparative philosophy, East and West, cross-cultural philosophy
   comparison, parallel, analogy, juxtaposition, collation, confrontation, likeness and difference, resemblance, affinity, correspondence, counterpart, Orient and Occident, Indian and Greek thought, substantiality and free subjectivity, absorption and individuality, intellectual substantiality, the want of subjectivity, the European standpoint, Colebrooke
+  comparativism
 
 V:
   compare, contrast
@@ -20,8 +21,6 @@ Adv:
   comparatively
   by comparison, in comparison, by contrast, in contrast, side by side, in parallel, relatively, analogously, cross-culturally
 
-F:
-  Korean: bigyo cheolhak [comparative philosophy]
-
 Phr:
   East is East and West is West [Kipling]
+  substance and subject

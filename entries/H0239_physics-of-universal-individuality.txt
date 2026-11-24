@@ -20,8 +20,7 @@ Adv:
   universally, cosmically
   in general
 
-F:
-  Korean: bopyeonjeok gaeche mulli
-
 Phr:
   the elements of the world
+  the elements of nature
+  the world at large

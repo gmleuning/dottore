@@ -46,11 +46,8 @@ Adv:
 
 F:
   Latin: casus
-  Arabic: suqūṭ [fall]
-  Sanskrit: patana [falling]
-  Chinese: luoti [falling body]
-  Korean: nakha [fall]
 
 Phr:
   what goes up must come down
   Newton's apple
+  to come down to earth

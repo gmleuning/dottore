@@ -23,7 +23,6 @@ Adv:
 F:
   Latin: sua sponte
   Greek: autokinēsis
-  Korean: jagi undong [self-motion]
 
 Phr:
   the soul is self-moving motion [Plato]

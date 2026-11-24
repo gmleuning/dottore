@@ -57,11 +57,10 @@ F:
   Latin: senatus, comitia, plebiscitum
   French: piece of news, on dit, oui dire
   Spanish: cortes, aviso
-  Arabic: majlis [assembly], al-sulṭa al-tashrīʿiyya [legislative power]
-  Sanskrit: sabhā, samiti [assembly]
-  Chinese: lifa quan [legislative power]
-  Japanese: gikai [parliament], The Nikkei
-  Korean: ipbeopgwon [legislative power]
+  Arabic: majlis [assembly]
+  Sanskrit: samiti [assembly]
 
 Phr:
   the mother of parliaments
+  to pass a law
+  the house in session

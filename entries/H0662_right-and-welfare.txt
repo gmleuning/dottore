@@ -24,7 +24,6 @@ F:
   German: Notrecht
   Latin: ius necessitatis, beneficium competentiae, in extremis, jus necessitatis
   Arabic: ḍarūra [necessity]
-  Korean: beopgwa bokji [right and welfare]
 
 Phr:
   necessitas non habet legem [Lat.] [necessity has no law]

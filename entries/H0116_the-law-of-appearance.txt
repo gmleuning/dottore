@@ -13,6 +13,7 @@ N:
   golden rule &c H0702, settled principle
   even tenor
   the law of the phenomenon, the abiding, the tranquil image of appearance
+  lawfulness
 
 V:
   govern, regulate, determine, order, rule; obey, conform, follow, accord with
@@ -23,6 +24,7 @@ Adj:
   conformable to rule, regular &c H0222, according to rule
   regular &c H0063
   abiding
+  nomothetic
 
 Adv:
   lawfully, regularly, invariably, constantly, as a rule, by law, according to law
@@ -32,9 +34,9 @@ F:
   Greek: nomos
   Arabic: sunnat Allāh [custom of God, natural regularity]
   Sanskrit: ṛta [cosmic order], niyama [law, regularity]
-  Chinese: li [principle], faze [law]
-  Korean: hyeonsangui beopchik [law of appearance]
+  Chinese: li [principle]
 
 Phr:
   la filosofia è scritta in questo grandissimo libro … (io dico l'universo) … egli è scritto in lingua matematica [It.] [Galileo, Il Saggiatore]
   nature to be commanded must be obeyed [Bacon]
+  the order of things

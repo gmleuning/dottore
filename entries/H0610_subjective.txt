@@ -7,6 +7,7 @@ HGloss: The ought of the practical feeling, its judgment of what is pleasant or 
 N:
   subjective practical feeling; inner feeling, private sentiment, personal pleasure and pain, agreeable or disagreeable, liking and disliking, mood
   subjective feeling, inner sense, self-agreement, contentment, discontent, the ought in feeling
+  aversion
 
 V:
   like, dislike, enjoy, mind, resent
@@ -24,8 +25,6 @@ Adv:
   subjectively, to one's liking
   agreeably, contentedly, inwardly
 
-F:
-  Korean: jugwanjeok gamjeong
-
 Phr:
   de gustibus non est disputandum [Lat.]
+  against the grain

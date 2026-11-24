@@ -7,6 +7,7 @@ HGloss: The beautiful as the idea itself, the concept united with its reality, a
 N:
   the idea of artistic beauty; the ideal, the concept of beauty, aesthetic idea, the beautiful in art
   the idea of the beauty of art, the nature of artistic beauty, the province of aesthetics, where beauty dwells
+  kalon
 
 V:
   idealize, conceive beauty
@@ -20,12 +21,6 @@ Adv:
   ideally, beautifully
   aesthetically, artistically, in idea
 
-F:
-  Arabic: jamāl [beauty]
-  Sanskrit: saundarya [beauty]
-  Chinese: meixue [aesthetics]
-  Japanese: bigaku
-  Korean: yesulmiui inyeom [idea of artistic beauty]
-
 Phr:
   a thing of beauty is a joy for ever [Keats]
+  beauty is truth, truth beauty

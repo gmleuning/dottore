@@ -23,12 +23,10 @@ Adv:
 
 F:
   Greek: epos, aoidos
-  Arabic: malḥama [epic]
   Sanskrit: itihāsa [epic history]
-  Chinese: shishi [epic]
-  Japanese: jojishi
-  Korean: seosasi [epic]
 
 Phr:
   sing, O goddess, the wrath of Achilles [Homer]
   arma virumque cano [Lat.] [Virgil]
+  sing, goddess
+  an epic of

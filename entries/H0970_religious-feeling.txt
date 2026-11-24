@@ -35,9 +35,10 @@ F:
   Latin: mysterium tremendum et fascinans [Rudolf Otto], pietas, timor Dei, sensus numinis, cor inquietum
   Greek: eusebeia, deisidaimonia
   Arabic: khushūʿ [humble devotion], taqwā [God-consciousness]
-  Sanskrit: bhakti, bhāva
+  Sanskrit: bhakti
   Chinese: jingwei [reverence and awe]
-  Korean: gyeonggeon [piety], jonggyojeok gamjeong [religious feeling]
 
 Phr:
   so wäre der Hund der beste Christ [Ger.] [Hegel, Foreword to Hinrichs, Die Religion, 1822, against Schleiermacher]
+  the feeling of absolute dependence
+  the heart has its reasons

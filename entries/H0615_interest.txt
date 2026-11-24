@@ -32,10 +32,8 @@ Adv:
 F:
   Latin: interesse [to be between, to matter]
   Arabic: maṣlaḥa [interest, welfare]
-  Sanskrit: artha [aim, advantage]
-  Chinese: liyi [interest]
-  Japanese: rieki
-  Korean: gwansim [interest], ihae
 
 Phr:
   cui bono? [Lat.] [who benefits?]
+  to have a stake in
+  one's own interest

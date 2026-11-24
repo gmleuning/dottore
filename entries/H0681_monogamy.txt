@@ -11,6 +11,7 @@ N:
   vestal, Joseph, Hippolytus, Lucretia, Diana, prude
   monogamous marriage, one man and one woman, undivided love, mutual undivided surrender
   cheating, two-timing, philandering, affair, fling, a bit on the side [Brit. Coll.], side piece [Slang], open marriage, open relationship, polyamory, swinging, swinger, throuple [Slang]
+  monandry
 
 V:
   be faithful, cleave to, forsake all others
@@ -32,7 +33,8 @@ Adv:
 
 F:
   Latin: virginibus puerisque
-  Korean: ilbu ilcheoje [monogamy]
 
 Phr:
   forsaking all other [Book of Common Prayer]
+  one and only
+  forsaking all others

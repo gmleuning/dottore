@@ -7,6 +7,7 @@ HGloss: The classical epic of Homer, and its imitations in Virgil.
 N:
   classical epic of Greece and Rome; Iliad, Odyssey, Aeneid, Homer, Virgil, Hesiod, Apollonius, Lucan
   the Homeric poems, the Argonautica, the Theogony, Works and Days, the Pharsalia, the epic cycle, the rhapsodes, the Homeridae, the heroic hexameter
+  epithet
 
 V:
   sing, recite
@@ -20,8 +21,7 @@ Adv:
   in hexameters
   in the classical manner, in heroic verse
 
-F:
-  Korean: Illiaseu [Iliad], Odiseia [Odyssey], Aineiseu [Aeneid]
-
 Phr:
   arma virumque cano [Lat.] [Virgil]
+  Homer sometimes nods
+  the wine-dark sea

@@ -27,13 +27,11 @@ F:
   German: Einzelheit
   Latin: individuum, haecceitas, sui generis, in concreto
   Greek: atomon, tode ti
-  Arabic: fard [individual], shakhṣ [person]
-  Sanskrit: vyakti [individual], viśeṣa
-  Chinese: geti [individual]
-  Japanese: kotai
-  Korean: gaebyeoljeok gaenyeom [singular]
+  Sanskrit: vyakti [individual]
 
 Phr:
   individuum est ineffabile [Lat.]
   sui generis [Lat.]
   this rose, this one, here
+  this one here
+  the individual case

@@ -8,6 +8,7 @@ N:
   position and movement of the body; posture, pose, stance, attitude, gesture, movement, balance
   position, footing, standing
   bearing, carriage, gait, repose, rest, sitting, reclining, striding
+  ponderation
 
 V:
   pose, stand, lean, gesture, shift weight
@@ -23,7 +24,7 @@ Adv:
 
 F:
   Italian: contrapposto
-  Korean: jase [posture], konteuraposeuto [contrapposto]
 
 Phr:
   the weight on one leg
+  at rest yet alive

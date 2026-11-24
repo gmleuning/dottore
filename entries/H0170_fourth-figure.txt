@@ -23,7 +23,7 @@ Adv:
 F:
   German: mathematischer Schluss
   Latin: Bramantip, Camenes, Dimaris, Fesapo, Fresison
-  Korean: suhakjeok churon [mathematical syllogism]
 
 Phr:
   things equal to the same thing are equal to each other [Euclid]
+  Q.E.D

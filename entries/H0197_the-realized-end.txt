@@ -56,13 +56,10 @@ F:
   Latin: opus, ne plus ultra, brutum fulmen &c H0121, re infecta
   Greek: ergon, entelecheia
   French: fait accompli, faux pas, bévue, faute
-  Arabic: taḥqīq [realization]
   Sanskrit: siddhi [accomplishment]
-  Chinese: shixian [realization]
-  Japanese: jitsugen
-  Korean: silhyeondoen mokjeok [realized end]
 
 Phr:
   consummatum est [Lat.] [Bible]
   finis coronat opus [Lat.]
   all's well that ends well
+  to see it through

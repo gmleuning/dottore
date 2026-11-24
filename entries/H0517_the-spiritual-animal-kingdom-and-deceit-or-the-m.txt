@@ -30,8 +30,9 @@ F:
   Latin: opus
   Greek: ergon
   French: mauvaise foi [Sartre]
-  Korean: jeongsinjeok dongmul wangguk [spiritual animal kingdom]
 
 Phr:
   honesty is the best policy
   it's the thing itself that matters
+  everyone's busy with their own thing
+  mind your own business

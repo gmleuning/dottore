@@ -34,9 +34,10 @@ Adv:
 F:
   German: Attraktion
   Arabic: tawḥīd [unification]
-  Korean: gyeonin [attraction], illyeok
 
 Phr:
   e pluribus unum [Lat.]
   all roads lead to Rome
   ut omnes unum sint [Lat.] [Bible]
+  drawn together
+  birds of a feather

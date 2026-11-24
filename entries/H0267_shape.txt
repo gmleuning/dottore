@@ -27,14 +27,11 @@ Adv:
   in shape, in form, in outline
 
 F:
-  German: innere Form, Gestalt
+  German: innere Form
   Latin: figura
   Greek: schēma, morphē
-  Arabic: shakl [shape, form], hayʾa [configuration]
-  Sanskrit: ākṛti [shape, form], saṃsthāna
-  Chinese: xingzhuang [shape]
-  Japanese: katachi
-  Korean: hyeongtae [shape]
 
 Phr:
   form is emptiness, emptiness is form, rūpaṃ śūnyatā śūnyataiva rūpam [Skt.] [Heart Sutra]
+  in good shape
+  to take shape

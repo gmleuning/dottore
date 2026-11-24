@@ -13,6 +13,7 @@ N:
   learning, acquisition of knowledge &c H0583
   investigation &c H0604, study &c H0604, discussion &c H0607, exposition &c H0599
   the knowing idea, the theoretical and the practical idea, finite cognition
+  epistēmē
 
 V:
   know, cognize, understand, comprehend, apprehend, grasp, investigate, inquire, research, study; will, act
@@ -31,11 +32,10 @@ F:
   German: Erkennen
   Latin: cognitio
   Greek: gnōsis, theōria and praxis
-  Arabic: maʿrifa [cognition], ʿilm [knowledge]
+  Arabic: maʿrifa [cognition]
   Sanskrit: jñāna [knowledge]
-  Chinese: renshi [cognition]
-  Japanese: ninshiki
-  Korean: insik [cognition]
 
 Phr:
   all men by nature desire to know [Aristotle]
+  to come to know
+  to find out

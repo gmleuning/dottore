@@ -29,16 +29,17 @@ Adv:
   in idea
 
 F:
-  German: Wahrheit, Vernunft, Idee
+  German: Wahrheit, Vernunft
   Latin: adaequatio
   Greek: idea [also Latin], eidos
-  Arabic: ḥaqq [truth, the real], ḥaqīqa
+  Arabic: ḥaqq [truth, the real]
   Sanskrit: satya [truth], ṛta
-  Chinese: li [principle], zhen [truth]
-  Japanese: shinri
-  Korean: inyeom [idea], gwannyeom
+  Chinese: li [principle]
+  Korean: inyeom [idea]
 
 Phr:
   the truth is the whole [Hegel]
   veritas est adaequatio rei et intellectus [Lat.] [Aquinas]
   whatever is real is rational
+  the idea of the thing
+  true to its idea

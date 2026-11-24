@@ -8,6 +8,7 @@ N:
   external beauty; outward beauty, surface beauty, formal beauty, external form, appearance, shape, outline
   figure, conformation, configuration, formation, contour &c H0220
   beauty of shape, the beauty of appearance
+  comeliness, prettiness
 
 V:
   shape, form, outline
@@ -23,8 +24,6 @@ Adv:
   outwardly, on the surface
   externally, in outward shape
 
-F:
-  Korean: oejeok mi [external beauty]
-
 Phr:
   beauty is only skin deep
+  pretty as a picture

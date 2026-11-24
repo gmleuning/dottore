@@ -7,6 +7,7 @@ HGloss: The individuality of the particular gods, each with its own character an
 N:
   the individuality of the particular gods; divine personality, attributes, epithets, myths, local cults, the characters of the gods
   divine individuality, the character of each god, personality, the particular god, distinctive character, determinate individuality, attribute, sphere, province
+  theomorphism
 
 V:
   characterize, individualize, personify
@@ -20,9 +21,8 @@ Adv:
   individually
   each in his sphere, distinctively
 
-F:
-  Korean: teuksu sindeurui gaeseong
-
 Phr:
   grey-eyed Athena
   rosy-fingered dawn [Homer]
+  each god in his sphere
+  the attributes of the gods

@@ -51,12 +51,10 @@ F:
   Latin: intentio, per incuriam
   Greek: prosochē [attention, Stoic vigilance]
   French: on the qui vivre, loeil du maitre, laisser aller, effleurer
-  Arabic: intibāh [attention], murāqaba [vigilance, contemplation]
-  Sanskrit: avadhāna, ekāgratā [one-pointedness], smṛti / sati [mindfulness]
-  Chinese: zhuyi [attention]
-  Japanese: chūi
-  Korean: juui [attention]
+  Arabic: murāqaba [vigilance, contemplation]
+  Sanskrit: ekāgratā [one-pointedness], smṛti / sati [mindfulness]
 
 Phr:
   attention is the natural prayer of the soul [Malebranche]
   attentiveness is the rarest and purest form of generosity [Simone Weil]
+  to pay attention

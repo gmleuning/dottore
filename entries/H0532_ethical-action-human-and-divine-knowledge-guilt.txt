@@ -32,10 +32,10 @@ F:
   Arabic: qadar [destiny], maktūb [it is written]
   Sanskrit: karma
   Chinese: ming [fate]
-  Japanese: unmei [destiny]
-  Korean: yullijeok haengwi, joewa unmyeong
 
 Phr:
   weil wir leiden, anerkennen wir, daß wir gefehlt [Ger.] [Hegel, Phenomenology ¶470, rendering Antigone 926]
   whom the gods would destroy they first make mad
   call no man happy until he is dead [Solon]
+  fate takes a hand
+  to pay the price

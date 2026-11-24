@@ -24,9 +24,10 @@ Adv:
 F:
   German: das ganz Andere
   Latin: toto caelo [by the whole heaven]
-  Korean: jeoldaejeok gubyeol
 
 Phr:
   toto caelo [Lat.]
   as different as chalk and cheese
   worlds apart
+  night and day
+  poles apart

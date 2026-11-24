@@ -10,6 +10,7 @@ N:
   psalmody, chant, anthem, motet, antiphon†
   song &c H0919, canticle, lay, ditty, carol
   canzone, chanson, folk song, lullaby, dirge, threnody, epithalamium, villanelle, sestina, epistle, romance, occasional poem
+  epinicion
 
 V:
   sing, hymn, lament
@@ -28,7 +29,8 @@ F:
   French: rondeau
   Arabic: ghazal
   Japanese: haiku
-  Korean: songga [ode], changa [hymn], norae [song]
+  Korean: sijo [Korean three-line verse], hyangga [Silla songs]
 
 Phr:
   hymn, ode, and song
+  the dithyramb

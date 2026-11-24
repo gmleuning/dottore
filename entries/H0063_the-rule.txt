@@ -32,12 +32,11 @@ Adv:
   as a rule
 
 F:
-  German: Regel, Maßstab
+  German: Maßstab
   Latin: regula, norma [carpenter's square], ad instar, instar omnium, more solito
   Greek: kanōn [measuring rod]
-  Arabic: qānūn [rule, canon]
-  Korean: gyuchik [rule], gijun
 
 Phr:
   measure twice, cut once
   rule of thumb
+  by the rule

@@ -23,7 +23,8 @@ Adv:
 
 F:
   German: Lesedrama
-  Korean: nangdok [recitation]
+  Korean: pansori [sung storytelling]
 
 Phr:
   drama for the study
+  a closet drama

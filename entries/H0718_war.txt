@@ -33,6 +33,7 @@ N:
   bombing, gilbert, attacker, barrage, shelling, bloodbath
   allies, enemy, occupation, insurgency, insurgent, rebel, guerrilla, civilian, civilians, casualty, casualties, deployment, troops, tactics, strategy, ceasefire, truce, airstrike, drone, missile, nuclear war, cyberwar, veteran, vet [Coll.]
   embedded journalist, embedded reporter, embed
+  belligerence, bellicosity
 
 V:
   war, wage war, fight, battle, combat, campaign, mobilize, take up arms
@@ -76,12 +77,9 @@ F:
   Latin: bellum, horrida bella
   Greek: polemos
   French: passage d-armes, bete noir, feu d'enfer, carte and tierce, coupe de bec, eboulement
-  Arabic: ḥarb [war], jihād [striving, war]
-  Sanskrit: yuddha
-  Chinese: zhanzheng
-  Japanese: sensō
-  Korean: jeonjaeng [war]
+  Arabic: jihād [striving, war]
 
 Phr:
   war is the continuation of politics by other means [Clausewitz]
   wie die Bewegung der Winde die See vor der Fäulnis bewahrt, in welche sie eine dauernde Stille … versetzen würde [Ger.] [Hegel, Philosophy of Right §324 Remark]
+  all's fair in love and war

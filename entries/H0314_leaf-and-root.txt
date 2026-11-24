@@ -8,6 +8,7 @@ N:
   leaf and root; leaf, blade, frond, needle, leaflet, foliage, leafage; root, taproot, rootstock, rhizome, tuber, corm, bulb, rootlet, radicle; the plant's turning to light and to earth
   branch, bough
   stem, stock, tap-root
+  petiole
 
 V:
   leaf, foliate, root, take root, strike root, radicate
@@ -23,11 +24,7 @@ Adv:
 F:
   Latin: folium, radix
   Greek: phyllon, rhiza
-  Arabic: waraq [leaf], jidhr [root]
-  Sanskrit: patra [leaf], mūla [root]
-  Chinese: ye [leaf], gen [root]
-  Japanese: ha, ne
-  Korean: ipgwa ppuri [leaf and root]
 
 Phr:
   root and branch
+  to take root

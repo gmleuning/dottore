@@ -61,17 +61,15 @@ Adv:
   Int, hush, soft, whist, tush, chut!†, tut, be quiet, be still, shut up! [Slang], chup!†, chup rao!†
 
 F:
-  German: Ton, Klang
+  German: Ton
   Latin: sonus, sub silentio, pax
   Greek: phōnē
   French: corcher les oreilles
   Italian: tace, voce di testa
-  Arabic: ṣawt [sound], ṭanīn [ringing]
   Sanskrit: śabda [sound, word], nāda [sound, resonance]
-  Chinese: sheng [sound], yin [tone]
-  Japanese: oto
-  Korean: sori [sound], eum
 
 Phr:
   the sound of one hand clapping [Hakuin]
   nāda brahma [Skt.] [sound is God]
+  sound and fury
+  loud and clear

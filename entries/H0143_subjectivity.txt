@@ -8,6 +8,7 @@ N:
   subjectivity; subjective concept, formal logic, logic of the understanding; the forms of thought, laws of thought, logical forms; thought considered in itself; mind, intellect, intellection
   understanding, thinking principle
   formal thought, concept judgment and syllogism
+  selfhood
 
 V:
   think, conceive, judge, infer, reason
@@ -20,11 +21,7 @@ Adj:
 Adv:
   subjectively, formally, logically, in thought, in the mind
 
-F:
-  German: Subjektivität
-  Arabic: dhātī [subjective]
-  Chinese: zhuguan [subjective]
-  Korean: jugwanseong [subjectivity]
-
 Phr:
   cogito ergo sum [Lat.] [Descartes]
+  in one's own mind
+  from where I stand

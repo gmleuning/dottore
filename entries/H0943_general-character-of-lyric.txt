@@ -7,6 +7,7 @@ HGloss: Lyric as the self-expression of the subject, which gives voice to the se
 N:
   general character of lyric; subjectivity, self-expression, the inner world, mood, the moment of feeling
   inwardness, interiority, feeling, sentiment, emotion, the heart, self-utterance, reflection, the individual voice, particularity, the occasion
+  effusion
 
 V:
   express, confess
@@ -20,8 +21,7 @@ Adv:
   subjectively
   inwardly, personally, from within, from the heart
 
-F:
-  Korean: jagipyohyeon [self-expression]
-
 Phr:
   the heart's own speech
+  I sing myself
+  the heart laid bare

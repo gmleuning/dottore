@@ -24,10 +24,9 @@ Adv:
 
 F:
   Arabic: firāsa [physiognomic discernment], qiyāfa [reading of traces and features]
-  Chinese: xiangshu [physiognomy]
-  Japanese: ninsō
-  Korean: gwansanghakjeok gwanchal [physiognomy]
 
 Phr:
   you can't judge a book by its cover
   there's no art to find the mind's construction in the face [Macbeth]
+  don't judge a book by its cover
+  the face is the mirror of the soul

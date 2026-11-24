@@ -27,7 +27,7 @@ Adv:
 F:
   Greek: obeliskos
   Egyptian: tekhen
-  Korean: obelliseukeu [obelisk]
 
 Phr:
   a ray of the sun in stone
+  reaching for the sun

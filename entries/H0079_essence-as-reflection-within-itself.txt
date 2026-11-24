@@ -8,6 +8,7 @@ N:
   essence as reflection within itself; self-reflection, reflexivity, reflexion, turning back, recoil, return, reflux; mirror, looking glass, reflecting surface; self-mirroring, self-reference; mediation; inwardness, interiority; negativity, self-negation; depth that shows itself
   reaction, retroaction, repercussion, springing back
   essence as reflection into itself, inward reflection, the depth of things, shine reflection and its determinations
+  whatness
 
 V:
   reflect, mirror, return, recoil, bounce back, turn back upon oneself; mediate; show itself, manifest itself
@@ -25,12 +26,11 @@ Adv:
 F:
   German: Vermittlung
   Latin: speculum [mirror; origin of speculation]
-  Arabic: ʿaks [reflection]
   Sanskrit: pratibimba [reflection, reflected image]
-  Chinese: ying [reflection]
-  Korean: bonjil, banseong [reflection]
 
 Phr:
   as in a glass, darkly
   per speculum in aenigmate [Lat.] [Bible]
   the eye with which I see God is the same eye with which God sees me [Eckhart]
+  what lies beneath
+  the heart of the matter

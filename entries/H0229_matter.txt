@@ -25,15 +25,14 @@ Adv:
   materially, physically, bodily, corporeally, in the flesh
 
 F:
-  German: Materie
   Latin: materia, materia prima
   Greek: hylē
-  Arabic: mādda [matter], hayūlā
+  Arabic: hayūlā
   Sanskrit: prakṛti, bhūta [element, material]
-  Chinese: wuzhi [matter], qi [vital stuff]
-  Japanese: busshitsu
-  Korean: mujil [matter]
+  Chinese: qi [vital stuff]
 
 Phr:
   matter can be neither created nor destroyed
   what is matter? Never mind. What is mind? No matter
+  mind over matter
+  it doesn't matter

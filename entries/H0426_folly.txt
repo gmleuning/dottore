@@ -15,6 +15,7 @@ N:
   screw loose, tile loose, slate loose, rats in the upper story
   illusion, craziness
   blah
+  insipience, mania
 
 V:
   delude oneself, obsess, fixate, hallucinate, imagine, be possessed by an idea
@@ -32,15 +33,12 @@ Adv:
   foolishly, delusively
 
 F:
-  German: Narrheit
   Greek: hanemolia bazein
   French: idée fixe, parler a tort et a travess, battre la campagne
-  Arabic: wahm [delusion]
-  Sanskrit: bhrānti [delusion], moha
-  Chinese: wangxiang [delusion]
-  Japanese: mōsō
-  Korean: eorieoseogeum [folly]
+  Sanskrit: moha
 
 Phr:
   tilting at windmills [Cervantes]
   Don Quixote
+  mad as a March hare
+  off one's rocker

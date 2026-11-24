@@ -25,7 +25,6 @@ Adv:
 F:
   Latin: clinamen, intermundia
   Greek: ataraxia, aponia, lathe biōsas [live hidden], hēdonē, kanōn, prolēpsis, tetrapharmakos, kēpos
-  Korean: Epikuroseuhakpa [Epicureans]
 
 Phr:
   death is nothing to us [Epicurus]

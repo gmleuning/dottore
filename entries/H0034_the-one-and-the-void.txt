@@ -31,9 +31,9 @@ F:
   Greek: atoma kai kenon, kenon, to kenon, atomon
   Arabic: khalāʾ [void]
   Sanskrit: ākāśa [space, ether], śūnya
-  Chinese: xu [emptiness], kong
+  Chinese: xu [emptiness]
   Japanese: ma [interval, meaningful gap]
-  Korean: heogong [the void], gong
+  Korean: heogong [the void], gong [emptiness]
 
 Phr:
   nothing exists except atoms and empty space

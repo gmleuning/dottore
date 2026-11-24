@@ -9,6 +9,7 @@ N:
   Hindu philosophy, Indian thought, philosophy of the Hindus, the six systems, the six orthodox schools, the orthodox and heterodox schools, the Vedas, the Upaniṣads, the Bhagavad Gītā, the sūtras, non-dualism, Rāmānuja, Madhva, Patañjali, Kapila, Gautama, Mahāvīra, the Buddha, Vasubandhu, Dignāga, Kumārila, the guru, the sage, the seer, the ascetic
   Brahman, the Self, the Absolute, the One, abstract unity, intellectual substantiality [Hegel], release, liberation, deliverance, emancipation, extinction, absorption, union, the wheel of rebirth, transmigration, illusion, ignorance, the veil of Māyā
   meditation, contemplation, concentration, austerity, renunciation
+  moksha, darshana, Vedanta
 
 V:
   inquire, meditate, discriminate
@@ -24,7 +25,8 @@ Adv:
 
 F:
   Sanskrit: darśana [the schools], āstika and nāstika [orthodox and heterodox], Advaita [non-dualism], mokṣa, mukti, nirvāṇa, saṃsāra, karma, māyā, avidyā, jñāna, ātman, tat tvam asi, neti neti, yoga, tapas, dhyāna, samādhi
-  Korean: Indo cheolhak [Indian philosophy], haetal [liberation]
+  Korean: haetal [liberation]
 
 Phr:
   neti neti [Skt.] [not this, not this] [Brihadaranyaka Upanishad]
+  release from rebirth

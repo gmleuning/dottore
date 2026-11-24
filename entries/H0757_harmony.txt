@@ -35,12 +35,10 @@ Adv:
 F:
   Latin: concordia discors [discordant concord]
   Greek: harmonia
-  Arabic: insijām [harmony], wifāq
-  Sanskrit: saṃvāda [concord]
-  Chinese: hexie [harmony]
-  Japanese: wa [harmony], chōwa
-  Korean: johwa [harmony]
+  Japanese: wa [harmony]
 
 Phr:
   the hidden harmony is better than the obvious [Heraclitus]
   concordia discors [Lat.] [Horace]
+  in harmony with
+  all of a piece

@@ -9,6 +9,7 @@ N:
   Samkhya, Sankhya, the Sāṃkhya system, the enumerating school, the Sāṃkhya-kārikā, Īśvarakṛṣṇa, atheistic Sāṃkhya, Yoga [sister school], Patañjali
   spirit and nature, soul and nature, consciousness and matter, primal matter, primordial nature, the unmanifest, the three strands, the three qualities, goodness passion and darkness, the intellect, the ego-maker, the witness, the pure spectator, the onlooker, the evolution of nature
   reckoning, counting, numbering, tally, tabulation, discriminative knowledge, liberation, release, emancipation, aloneness
+  purusha, prakriti, guna
 
 V:
   enumerate, discriminate, isolate
@@ -24,7 +25,6 @@ Adv:
 
 F:
   Sanskrit: Sāṃkhya, puruṣa [spirit] and prakṛti [nature], the three guṇas [sattva, rajas, tamas], viveka, kaivalya, guṇa, buddhi, mahat, ahaṃkāra, manas, tattva, tanmātra, mokṣa, avyakta, sākṣin
-  Korean: Sangkiya [Samkhya]
 
 Phr:
   the twenty-five principles

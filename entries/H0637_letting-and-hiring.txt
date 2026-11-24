@@ -9,6 +9,7 @@ N:
   rent roll, rentage†, rack-rent
   occupancy, holding, tenure
   lessor, lessee
+  bailment
 
 V:
   let, lease, rent, hire, charter, sublet
@@ -25,11 +26,6 @@ Adv:
 
 F:
   Latin: locatio conductio
-  Arabic: ijāra [lease, hire]
-  Sanskrit: bhāṭaka [rent]
-  Chinese: zulin [lease]
-  Japanese: chintai [rental]
-  Korean: imdaecha [letting and hiring]
 
 Phr:
   to let

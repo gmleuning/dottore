@@ -11,6 +11,7 @@ N:
   substance, gist &c H0081
   spirit &c H0081
   the logic of essence, the sphere of mediation, the sphere of reflection, the relational categories
+  essentiality
 
 V:
   underlie, lie beneath, lie at the root of, constitute, inform; mediate; reflect, reflect upon; get to the heart of, go to the root of, penetrate, probe, plumb, fathom, see through
@@ -33,8 +34,7 @@ F:
   French: au fond
   Arabic: māhiyya [quiddity], dhāt [essence], jawhar [substance]
   Sanskrit: svabhāva [own-nature], tattva [thatness, principle]
-  Chinese: ti [substance, essence], benzhi [essential nature]
-  Japanese: honshitsu
+  Chinese: ti [substance, essence]
   Korean: bonjil [essence]
 
 Phr:

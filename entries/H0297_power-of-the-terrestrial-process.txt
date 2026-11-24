@@ -7,6 +7,7 @@ HGloss: The past forces of the formative process of the earth, which, as past, h
 N:
   power of the terrestrial process; geological forces, tectonic forces, plutonic forces, volcanism, upheaval, uplift, subsidence, orogeny, earthquake, eruption, erosion, weathering, sedimentation, deposition, glaciation
   the formative forces, Neptunism, Vulcanism, Plutonism, fire and water, volcanic power
+  cataclysm
 
 V:
   upheave, uplift, erupt, quake, erode, weather, deposit, subside
@@ -22,8 +23,6 @@ Adv:
   by upheaval, seismically
   by fire and water
 
-F:
-  Korean: jigu gwajeongui him
-
 Phr:
   the mountains skipped like rams [Bible]
+  the forces of nature

@@ -27,11 +27,10 @@ Adv:
   like bees, by craft
 
 F:
-  German: Werkmeister
   Greek: dēmiourgos
-  Arabic: ṣāniʿ [maker, artisan]
   Sanskrit: Viśvakarman [divine architect]
-  Korean: jangin [artificer]
 
 Phr:
   the riddle of the sphinx
+  built to last
+  set in stone

@@ -10,6 +10,7 @@ N:
   transientness†, fugacity [Chem], span
   limit, bounds, confine, bourn
   termination, finis, last, omega
+  aught
 
 V:
   be finite, be limited, be bounded, have limits, have an end, come to an end; perish, pass away, die &c (ceasing-to-be) H0009; be subject to time, be mortal
@@ -24,13 +25,11 @@ Adv:
   finitely, within limits, within bounds; for a time, for the time being
 
 F:
-  German: das Endliche, Endlichkeit
+  German: das Endliche
   Latin: conditio humana, pro tempore, ad interim
   French: condition humaine
   Arabic: fanāʾ [passing away]
-  Sanskrit: anitya [impermanence]
   Japanese: mujō
-  Korean: yuhanja [the finite], eotteon geot
 
 Phr:
   memento mori [Lat.]
@@ -38,3 +37,5 @@ Phr:
   vita brevis, ars longa [Lat.] [Hippocrates]
   we are such stuff as dreams are made on [Tempest]
   mono no aware [Jap.]
+  something and its other
+  for good and all

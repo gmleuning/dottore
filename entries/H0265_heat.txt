@@ -45,16 +45,14 @@ Adv:
   hotly, warmly, at white heat, at red heat
 
 F:
-  German: Anschutz thermometer, Wärme
+  German: Anschutz thermometer
   Latin: calor
   Greek: thermē
   French: extincteur
-  Arabic: ḥarāra [heat]
-  Sanskrit: tapas [heat, ascetic ardour], uṣṇa
-  Chinese: re [heat]
-  Japanese: netsu
-  Korean: yeol [heat]
+  Sanskrit: tapas [heat, ascetic ardour]
 
 Phr:
   if you can't stand the heat, get out of the kitchen
   strike while the iron is hot
+  in the heat of the moment
+  to melt down

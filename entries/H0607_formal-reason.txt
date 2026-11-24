@@ -33,11 +33,9 @@ Adv:
 
 F:
   Latin: ergo, experimentum crucis &c H0604, argumentum ad hominem
-  Arabic: istidlāl [inference], qiyās [syllogism, analogy]
-  Sanskrit: anumāna [inference]
-  Chinese: tuili [inference]
-  Japanese: suiri
-  Korean: hyeongsikjeok iseong [formal reason]
+  Arabic: istidlāl [inference]
 
 Phr:
   it stands to reason
+  it follows
+  by logic

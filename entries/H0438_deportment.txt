@@ -30,13 +30,10 @@ Adv:
   with bearing
 
 F:
-  German: Haltung
   French: aplomb, prestance
-  Arabic: hayʾa [bearing]
   Sanskrit: āsana [posture]
-  Chinese: ziti [posture]
-  Japanese: shisei
-  Korean: taedo [deportment], momgajim
 
 Phr:
   walk tall
+  to carry oneself well
+  head held high

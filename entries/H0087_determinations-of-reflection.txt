@@ -24,13 +24,13 @@ Adv:
   reflectively
 
 F:
-  German: Wesenheiten, Reflexionsbestimmungen
+  German: Wesenheiten
   Latin: principia, principium identitatis, principium contradictionis, tertium non datur, principium exclusi tertii, principium rationis sufficientis, nihil est sine ratione
   Greek: archai
-  Arabic: uṣūl [principles], badīhiyyāt [self-evident truths]
-  Korean: banseong gyujeong
+  Arabic: badīhiyyāt [self-evident truths]
 
 Phr:
   A is A
   nothing is without a reason
   tertium non datur [Lat.]
+  the first principles

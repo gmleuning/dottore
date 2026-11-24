@@ -28,10 +28,8 @@ Adv:
 F:
   German: Verfassung, Grundgesetz, das innere Staatsrecht
   Latin: jus publicum
-  Arabic: dustūr [constitution]
-  Chinese: xianfa [constitution]
-  Japanese: kenpō
-  Korean: heonbeop [constitution]
 
 Phr:
   a constitution is not made, it grows
+  the law of the land
+  the separation of powers

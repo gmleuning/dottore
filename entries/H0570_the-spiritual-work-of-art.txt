@@ -8,6 +8,7 @@ N:
   the spiritual work of art; poetry, language as the element of art, epic, tragedy, comedy, the literary work, poetic art
   play, drama
   the spiritual artwork, the linguistic work of art, the art of language, epic tragedy and comedy, the word, the pantheon in speech
+  epos
 
 V:
   compose, recite, perform, versify
@@ -23,8 +24,7 @@ Adv:
   in verse, poetically
   in language, in speech
 
-F:
-  Korean: jeongsinjeok yesul jakpum
-
 Phr:
   the word as the highest material of art
+  the word made art
+  song and story

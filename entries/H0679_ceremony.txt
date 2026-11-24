@@ -32,12 +32,10 @@ Adv:
   in public
 
 F:
-  Arabic: ʿaqd al-qirān [marriage contract ceremony], zifāf [wedding procession]
   Sanskrit: saptapadī [the seven steps]
-  Chinese: hunli [wedding]
-  Japanese: kekkonshiki
-  Korean: gyeolhonsik [ceremony], hollye
 
 Phr:
   I do
   to have and to hold, from this day forward [Book of Common Prayer]
+  to walk down the aisle
+  to say I do

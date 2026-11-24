@@ -7,6 +7,7 @@ HGloss: The calcareous moment, the earth of neutrality, limestone and chalk, whi
 N:
   calcareousness; lime, limestone, chalk, marble, travertine, tufa, calcite, dolomite, coral, shell, gypsum, alabaster
   the calcareous series
+  marl
 
 V:
   calcify, lime, whitewash
@@ -18,11 +19,6 @@ Adv:
   chalkily
   in lime
 
-F:
-  Arabic: kils [lime]
-  Sanskrit: sudhā [lime, plaster]
-  Chinese: shihui [lime]
-  Korean: seokhoejil [calcareousness]
-
 Phr:
   as white as chalk
+  chalk and cheese

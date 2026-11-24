@@ -7,6 +7,7 @@ HGloss: The exclusion of fleeting expression; the sculptural figure has no glanc
 N:
   exclusion of mien; impassivity, absence of expression, blank gaze, eyeless statues, the absence of the glance, calm features
   exclusion of expression, absence of mien, facial expression, countenance, look, glance, the fleeting look, play of features, the sightless eye, the blank eye, expressionlessness
+  physiognomy
 
 V:
   compose, still, blank
@@ -22,8 +23,7 @@ Adv:
   impassively
   without expression, without glance
 
-F:
-  Korean: pyojeong [facial expression], nunbit [glance]
-
 Phr:
   the blind eyes of the gods
+  the blind gaze of statues
+  eyes without pupils

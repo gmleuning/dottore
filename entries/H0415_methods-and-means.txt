@@ -7,6 +7,7 @@ HGloss: The touchings and passes by which the trance is induced.
 N:
   methods and means; passes, magnetic passes, manipulation, laying on of hands, baquet, magnetized water, rituals, techniques of induction, hypnotic technique, fixation of the gaze
   procedures, techniques, stroking, the magnetic rod
+  imposition of hands
 
 V:
   manipulate, stroke, pass, fix the gaze
@@ -20,8 +21,6 @@ Adv:
   by passes, by manipulation
   by stroking, methodically
 
-F:
-  Korean: bangbeopgwa sudan
-
 Phr:
   tricks of the trade
+  mesmeric passes

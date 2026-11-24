@@ -20,8 +20,6 @@ Adj:
 Adv:
   externally, out there, without
 
-F:
-  Korean: oejaeseong [externality]
-
 Phr:
   the external world
+  beyond oneself

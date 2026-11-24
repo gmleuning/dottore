@@ -8,6 +8,7 @@ N:
   existence; ex-istence, standing forth, emergence from ground; actual existence, concrete existence, real existence, being in the world, worldly existence, actuality &c H0126; the existent, existing things, entities, the furniture of the world
   reality, actuality, positiveness, fact, matter of fact, sober reality, truth &c H0204
   grounded being, the emerged
+  extancy
 
 V:
   exist, be, subsist, obtain, live, stand forth, issue, emerge, come forth
@@ -30,14 +31,11 @@ Adv:
   in existence, in being, in actuality, in fact
 
 F:
-  German: das Existierende, Existenz
+  German: das Existierende
   Latin: existentia, in esse, de facto
   Greek: hyparxis
-  Arabic: wujūd [existence], mawjūd [existent]
-  Sanskrit: astitva [existence]
-  Chinese: cunzai [existence]
-  Japanese: sonzai
-  Korean: siljon [existence]
+  Arabic: wujūd [existence]
 
 Phr:
   existence precedes essence, l'existence précède l'essence [Fr.] [Sartre]
+  as large as life

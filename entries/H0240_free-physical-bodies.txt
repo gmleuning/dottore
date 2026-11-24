@@ -9,6 +9,7 @@ N:
   asteroids, nebulae, galaxy, milky way
   planet, comet, satellite
   sun planets moons and comets, the free bodies
+  firmament
 
 V:
   shine, glow, wheel, revolve, wander
@@ -25,10 +26,8 @@ Adv:
   freely
 
 F:
-  Arabic: ajrām samāwiyya [heavenly bodies]
-  Sanskrit: graha [planet, lit. seizer], jyotis [luminary]
-  Chinese: tianti [celestial body]
-  Korean: jayuroun mulliche
+  Sanskrit: graha [planet, lit. seizer]
 
 Phr:
   the host of heaven [Bible]
+  the starry heavens

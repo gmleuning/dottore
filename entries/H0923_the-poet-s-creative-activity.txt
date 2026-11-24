@@ -28,7 +28,8 @@ Adv:
 F:
   Latin: furor poeticus
   Greek: poiēsis, enthousiasmos
-  Korean: siin [poet], yeonggam [inspiration]
 
 Phr:
   the poet's eye, in a fine frenzy rolling [A Midsummer Night's Dream]
+  the poet's eye in a fine frenzy rolling
+  poeta nascitur

@@ -31,9 +31,9 @@ Adv:
 F:
   German: der absolute Herr
   French: le chat qui dort
-  Arabic: ḥayāt wa-mawt
-  Korean: samgwa jugeum [life and death]
 
 Phr:
   the fear of the lord is the beginning of wisdom [Bible]
   death, the absolute Lord [Hegel]
+  a matter of life and death
+  to risk one's neck

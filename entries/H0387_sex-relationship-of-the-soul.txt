@@ -42,10 +42,10 @@ Adv:
 
 F:
   Latin: animus and anima [Jung]
-  Arabic: dhakar wa-unthā [male and female]
   Sanskrit: puruṣa and prakṛti, śiva and śakti
-  Chinese: yin and yang, nannü [man and woman]
-  Korean: yeonghonui seong gwangye
+  Chinese: yin and yang
 
 Phr:
   male and female created he them [Bible]
+  the battle of the sexes
+  men are from Mars, women are from Venus

@@ -7,6 +7,7 @@ HGloss: The epic as a whole, unified yet broad, episodic, governed by circumstan
 N:
   epic as a fully unified whole; epic unity, totality, organic whole, episodes
   wholeness, completeness, integrity, roundedness, unity of action, the self-contained whole, the rounded whole, digression, retardation, breadth
+  epic simile
 
 V:
   unify, encompass
@@ -20,8 +21,7 @@ Adv:
   as a whole
   wholly, entirely, as a totality, organically
 
-F:
-  Korean: saphwa [episode]
-
 Phr:
   beginning, middle, and end [Aristotle]
+  broad and leisurely
+  episode after episode

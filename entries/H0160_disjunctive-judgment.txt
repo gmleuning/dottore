@@ -28,8 +28,8 @@ F:
   German: Entweder-Oder
   Latin: vel and aut, aut ... aut, aut-aut
   Arabic: sharṭiyya munfaṣila [disjunctive conditional]
-  Korean: seoneon pandan [disjunctive judgment]
 
 Phr:
   Either/Or, Enten-Eller [Danish] [Kierkegaard]
   tertium non datur [Lat.]
+  one or the other

@@ -7,6 +7,7 @@ HGloss: The logical idea, the science of the idea in and for itself.
 N:
   logic; the first part, the science of the pure idea, Lesser Logic, the idea in and for itself
   the Encyclopaedia Logic, the Shorter Logic, science of thought, pure thought, realm of pure thought, the categories, system of thought-determinations, doctrine of being, doctrine of essence, doctrine of the concept
+  logicality
 
 V:
   think, determine, unfold
@@ -22,10 +23,6 @@ Adv:
 
 F:
   German: kleine Logik
-  Arabic: manṭiq
-  Chinese: luoji
-  Japanese: ronri
-  Korean: nolli [logic], inyeom [idea]
 
 Phr:
   the science of the idea in and for itself [Hegel]

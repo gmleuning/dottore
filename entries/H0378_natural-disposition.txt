@@ -28,14 +28,11 @@ Adv:
   natively
 
 F:
-  German: Naturell
   Latin: ingenium, conatus, nisus, curiosa felicitas
-  Arabic: mawhiba [talent], istiʿdād [aptitude]
   Sanskrit: pratibhā [innate genius]
-  Chinese: tiancai [natural talent]
-  Japanese: tensai
-  Korean: jaejil [disposition], cheonbu
 
 Phr:
   poeta nascitur, non fit [Lat.]
   born, not made
+  a natural gift
+  born for it

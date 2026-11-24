@@ -27,11 +27,10 @@ Adv:
   completely, altogether, wholly, in toto
 
 F:
-  German: das Absolute
   Latin: absolutum, natura naturans, Deus sive natura [Spinoza], sub specie aeternitatis
   Greek: plērōma, hen kai pan
   Hebrew: Ein Sof
-  Arabic: al-ḥaqq [the Real], al-muṭlaq [the absolute]
+  Arabic: al-ḥaqq [the Real]
   Sanskrit: brahman, paramātman
   Chinese: dao [the Way], taiji, tian [Heaven]
   Korean: jeoldaeja [the Absolute]
@@ -41,3 +40,5 @@ Phr:
   the Dao that can be spoken is not the eternal Dao [Laozi]
   neti neti [Skt.] [not this, not this]
   hen kai pan [Gr.]
+  the be-all and end-all
+  first and last

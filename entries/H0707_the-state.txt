@@ -14,6 +14,7 @@ N:
   national government, country, nation- state, union, democratic republic, kingdom, principality
   command, empire, dominion, domination, sovereignty, supremacy, suzerainty, lordship, headship†, chiefdom†, seigniory, seigniority†
   the march of God in the world
+  raison d'état
 
 V:
   govern, constitute, organize, rule, administer
@@ -32,13 +33,11 @@ Adv:
 F:
   Latin: respublica, civitas, posse comitatus, state government
   Greek: polis
-  Arabic: dawla [state], madīna [city-state] [al-Fārābī]
-  Sanskrit: rājya [kingdom, state]
-  Chinese: guojia [state]
-  Japanese: kokka
-  Korean: gukka [the State]
+  Arabic: madīna [city-state] [al-Fārābī]
 
 Phr:
   the state is the actuality of the ethical idea [Hegel]
   man is by nature a political animal [Aristotle]
   L'État, c'est moi [Fr.] [attrib. Louis XIV]
+  the ship of state
+  reason of state

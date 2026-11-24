@@ -8,6 +8,7 @@ N:
   comparisons starting from the external object; fable, parable, proverb, apologue, metamorphosis; external likeness
   figure, trope, metaphor, figurativeness, image, imagery
   comparison from the object, the outward object as starting point, the given case, the natural occurrence, the lesson drawn, fable parable and proverb, application, moral
+  exemplum
 
 V:
   compare, illustrate, moralize
@@ -21,8 +22,7 @@ Adv:
   by example
   from the object, by application, from without inward
 
-F:
-  Korean: oejeok daesangeseo sijakhaneun bigyo
-
 Phr:
   by way of illustration
+  to draw a lesson from
+  there's a moral in it

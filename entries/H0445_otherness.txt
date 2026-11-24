@@ -26,8 +26,8 @@ Adv:
   otherwise, as other
 
 F:
-  German: Gegen-stand, Anderssein
-  Korean: tajaseong [otherness]
+  German: Gegen-stand
 
 Phr:
   the world out there
+  other than oneself

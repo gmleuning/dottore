@@ -23,14 +23,14 @@ Adv:
   chivalrously, gallantly
 
 F:
-  German: Rittertum
   French: chevalerie, preux chevalier
   Italian: cavalleria
   Spanish: caballería
   Arabic: furūsiyya [chivalry], futuwwa
   Chinese: wuxia [martial chivalry]
   Japanese: bushidō
-  Korean: gisado [chivalry]
 
 Phr:
   sans peur et sans reproche [Fr.] [without fear and without reproach]
+  knight in shining armour
+  chivalry is not dead

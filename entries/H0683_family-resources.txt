@@ -21,12 +21,7 @@ Adv:
   in common, for the family
   as family property
 
-F:
-  German: Vermögen der Familie
-  Arabic: tirka [estate]
-  Sanskrit: kuṭumba-dhana [family wealth]
-  Chinese: jiachan [family property]
-  Korean: gajok jaesan [family resources]
-
 Phr:
   the family fortune
+  the family silver
+  to keep it in the family

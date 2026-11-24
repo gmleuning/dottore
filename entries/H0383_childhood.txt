@@ -16,6 +16,7 @@ N:
   dildo, playhouse, catapult, slingshot, trapeze
   water gun, train set, stick horse, yo-yo, sex toy, sand toy, adult toy, jumping jack, jungle gym, spinning top, water pistol, sliding board, wendy house, playground slide, rocking horse, pea shooter, squirt gun, tilting board, hula-hoop, pogo stick, doll's house, beach ball, tree house, toy soldier, cock ring, tension ring, paper doll, whip top, cork gun, stunt kite, sport kite, rag doll, box kite, erection ring, peg top, whipping top, humming top, sawdust doll, hand puppet, glove puppet, glove doll
   toys, teddy bear, puzzle, Lego, playground, babysitter, nanny, daycare, kindergarten, twins, triplets, stroller, pram [Brit.], buggy, pushchair [Brit.], nappy [Brit.], diaper [U.S.], dummy [Brit.], pacifier [U.S.], cot, crib, bib, tantrum, the terrible twos, teething
+  puerility
 
 V:
   play, grow, learn, depend; be born, be brought up
@@ -36,13 +37,10 @@ Adv:
 F:
   Latin: infantia, pueritia, puer
   Greek: pais
-  Arabic: ṭufūla [childhood]
-  Sanskrit: bālya [childhood]
-  Chinese: tongnian [childhood]
-  Japanese: kodomo
-  Korean: yunyeon [childhood], eorin sijeol
 
 Phr:
   the child is father of the man [Wordsworth]
   except ye become as little children [Bible]
   trailing clouds of glory do we come [Wordsworth]
+  out of the mouths of babes
+  child's play

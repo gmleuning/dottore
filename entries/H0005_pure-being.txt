@@ -8,6 +8,7 @@ N:
   pure being; being as such, being qua being; mere being, bare being, naked being, sheer existence; indeterminate immediacy; the empty, the void &c H0006, emptiness, vacancy, blankness, vacuity, inanity; abstraction, the abstract, highest genus; the One of Parmenides, the Eleatic One
   [Modern] being in general, Being
   sheer being, indeterminate being, the empty is
+  isness
 
 V:
   be simply, be purely, merely be; abstract from everything, prescind, strip away, empty out; be equal only to oneself
@@ -25,11 +26,11 @@ F:
   German: unbestimmte Unmittelbarkeit, Sein überhaupt, das reine Sein
   Latin: esse purum, esse simpliciter, ens qua ens, summum genus, ens generalissimum, ens commune [scholastic], simpliciter, tabula rasa
   Greek: on hē on
-  Sanskrit: sat, sanmātra [pure being], nirguṇa [without qualities]
+  Sanskrit: sanmātra [pure being], nirguṇa [without qualities]
   Chinese: wuji [the limitless]
-  Korean: sunsu jonjae [pure being]
 
 Phr:
   the same thing exists for thinking and for being [Parmenides]
   esse est percipi [Lat.] [Berkeley]
   ens et unum convertuntur [Lat.]
+  the bare fact

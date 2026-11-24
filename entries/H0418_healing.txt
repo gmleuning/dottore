@@ -8,6 +8,7 @@ N:
   healing; cure, faith healing, mind cure, mental healing, psychotherapy, suggestion therapy, the royal touch, the king's evil, miraculous cure, remission
   sanation†
   the magnetic cure, mesmeric healing, restoration, recovery, convalescence, crisis
+  thaumaturgy
 
 V:
   heal, cure, restore, make whole, lay hands on, mend
@@ -24,10 +25,9 @@ Adv:
   curatively, by magnetic treatment
 
 F:
-  Arabic: shifāʾ [healing], ruqya [healing incantation]
-  Sanskrit: āyurveda
-  Chinese: zhiyu [cure]
-  Korean: chiyu [healing]
+  Arabic: ruqya [healing incantation]
 
 Phr:
   thy faith hath made thee whole [Bible]
+  a miracle cure
+  healing hands

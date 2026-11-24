@@ -7,6 +7,7 @@ HGloss: The general character of scholasticism, reason working within the author
 N:
   general character of scholasticism; formalism, hair-splitting, subtlety, method of disputation, authority and reason
   logic-chopping, quibbling, quodlibet, distinction, casuistry, pedantry, dialectic, syllogizing, argumentation, commentary, the gloss, the principle of authority, faith seeking understanding, dogmatism, the school logic, barbarous Latin, aridity, dryness
+  fideism
 
 V:
   dispute, split hairs, distinguish
@@ -23,7 +24,7 @@ Adv:
 
 F:
   Latin: sic et non [Abelard], distinguo, videtur quod, sed contra, respondeo, ancilla theologiae
-  Korean: sinanggwa iseong [faith and reason]
 
 Phr:
   how many angels can dance on the head of a pin
+  reason under authority

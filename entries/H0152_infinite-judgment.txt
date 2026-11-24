@@ -25,9 +25,9 @@ Adv:
 
 F:
   Latin: iudicium infinitum, non sequitur, reductio ad absurdum, toto caelo
-  Korean: muhan pandan [infinite judgment]
 
 Phr:
   the mind is not an elephant
   a lion is not a table
   colourless green ideas sleep furiously [Chomsky]
+  neither here nor there

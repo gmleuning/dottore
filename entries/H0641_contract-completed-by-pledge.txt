@@ -34,11 +34,7 @@ Adv:
 F:
   Latin: pignus, arrha [earnest money]
   Greek: hypothēkē
-  Arabic: rahn [pledge, pawn], kafāla [surety]
-  Sanskrit: bandhaka [pledge]
-  Chinese: diya [pledge]
-  Japanese: tanpo [security]
-  Korean: dambo gyeyak [pledge]
 
 Phr:
   as surety
+  to put up as collateral

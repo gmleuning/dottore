@@ -28,11 +28,8 @@ Adv:
 F:
   German: Leib [lived body]
   French: corps vécu
-  Arabic: ḥayy [living being]
-  Sanskrit: jīva, prāṇin [breathing being]
-  Chinese: shengwu [living thing]
-  Japanese: seibutsu
-  Korean: sarainneun gaeche [living individual]
+  Sanskrit: prāṇin [breathing being]
 
 Phr:
   a severed hand is no longer a hand [Aristotle]
+  a living thing

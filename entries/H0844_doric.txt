@@ -21,8 +21,7 @@ Adv:
   plainly, sturdily, severely, simply
   badly
 
-F:
-  Korean: Doriseu yangsik [Doric order]
-
 Phr:
   Doric severity
+  the manly order
+  plain and stern

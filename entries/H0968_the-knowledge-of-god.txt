@@ -22,12 +22,11 @@ Adv:
   by faith, by reason, by revelation, by feeling, by proof, mystically, rationally, speculatively, contemplatively, face to face, through a glass darkly
 
 F:
-  German: Erkenntnis Gottes, Gotteserkenntnis, Wissen von Gott, Gottesbewußtsein, Erhebung zu Gott
+  German: Gotteserkenntnis, Wissen von Gott, Gottesbewußtsein, Erhebung zu Gott
   Latin: cognitio Dei, scientia Dei, visio beatifica, lumen naturale, lumen fidei, itinerarium mentis in Deum, via negativa, via eminentiae
   Greek: gnōsis theou, theognōsia, theōria
-  Arabic: maʿrifat Allāh [knowledge of God], maʿrifa
-  Sanskrit: brahmajñāna [knowledge of Brahman], brahmavidyā, jñāna
-  Korean: sin insik [knowledge of God]
+  Arabic: maʿrifat Allāh [knowledge of God]
+  Sanskrit: brahmajñāna [knowledge of Brahman]
 
 Phr:
   fides quaerens intellectum [Lat.] [faith seeking understanding] [Anselm]

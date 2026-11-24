@@ -7,6 +7,7 @@ HGloss: The historical course of sculpture, from Egypt through Greece and Rome t
 N:
   historical stages in the development of sculpture; Egyptian, archaic Greek, classical, Hellenistic, Roman, Christian sculpture
   the history of sculpture, the stages of sculpture, the course of sculpture, epochs, periods, Egyptian Greek and Christian sculpture, the severe style, the ideal style, the pleasing style
+  archaism
 
 V:
   develop, evolve
@@ -20,8 +21,7 @@ Adv:
   historically
   by stages, successively, in the course of time
 
-F:
-  Korean: jogaksa [history of sculpture]
-
 Phr:
   from the archaic smile to Laocoön
+  from Egypt to Rome
+  the rise and fall of the ideal

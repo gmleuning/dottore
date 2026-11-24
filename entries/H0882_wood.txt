@@ -7,6 +7,7 @@ HGloss: Carving in wood, the earliest material of sculpture.
 N:
   wood; woodcarving, timber, linden wood, carved wood, wooden idol
   wood-carving, woodwork, wooden image, carved figure, limewood, oak, cedar, the carver, whittling
+  xylography
 
 V:
   carve, whittle, hew
@@ -25,9 +26,8 @@ Adv:
 
 F:
   Greek: xoanon [wooden cult image]
-  Arabic: khashab [wood]
-  Japanese: mokuzō [wooden statue]
-  Korean: mokjogak [wood carving]
 
 Phr:
   the oldest images were of wood
+  carved from the tree
+  the first idols

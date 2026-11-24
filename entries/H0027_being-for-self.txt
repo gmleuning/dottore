@@ -24,7 +24,7 @@ Adv:
   independently
 
 F:
-  German: Idealität, An-und-für-sich-sein, für sich, Fürsichsein
+  German: Idealität, An-und-für-sich-sein, für sich
   Latin: aseitas, ipseitas, sui juris
   Greek: autarkeia
   French: pour-soi, pour soi
@@ -37,3 +37,4 @@ Phr:
   sui generis [Lat.]
   to thine own self be true [Hamlet]
   ipse dixit [Lat.]
+  in a world of one's own

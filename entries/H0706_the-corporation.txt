@@ -34,11 +34,11 @@ Adv:
 F:
   German: Zunft, Innung, Verein, Bund, Zollverein, Turnverein
   Latin: collegium, universitas
-  Arabic: ṭāʾifa [guild], futuwwa [chivalric brotherhood, guild], ṣinf [craft guild]
+  Arabic: futuwwa [chivalric brotherhood, guild]
   Sanskrit: śreṇī [guild]
-  Chinese: hanghui [guild]
   Japanese: za [medieval guild]
-  Korean: johap [corporation], dongeop johap [guild]
 
 Phr:
   the corporation as the second family [Hegel]
+  a closed shop
+  in good standing

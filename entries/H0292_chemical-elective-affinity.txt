@@ -7,6 +7,7 @@ HGloss: The neutral bodies entering into new combinations according to the prefe
 N:
   chemical elective affinity; affinity, chemical affinity, preference, selective combination, displacement, substitution, single displacement, double displacement, double decomposition
   elective attraction, preferential combination, selective affinity, relationship
+  valency
 
 V:
   prefer, displace, substitute, supplant, replace, pair off
@@ -22,10 +23,8 @@ Adv:
 
 F:
   German: Wahlverwandtschaften, Wahlverwandtschaft
-  Arabic: ulfa [affinity]
-  Chinese: qinhe [affinity]
-  Japanese: shinwa
-  Korean: hwahakjeok seontaek chinhwaryeok
 
 Phr:
   Die Wahlverwandtschaften [Ger.] [Goethe]
+  elective affinities
+  to prefer one to another

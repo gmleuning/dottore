@@ -27,7 +27,7 @@ Adv:
 
 F:
   Chinese: yin and yang
-  Korean: muchabyeol, yeokbirye
 
 Phr:
   what goes up must come down
+  six of one and half a dozen of the other

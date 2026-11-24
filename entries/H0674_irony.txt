@@ -28,12 +28,10 @@ Adv:
 F:
   Latin: ironia
   Greek: eirōneia
-  Arabic: tahakkum [irony, mockery]
   Sanskrit: vakrokti [oblique speech]
-  Chinese: fanfeng [irony]
-  Japanese: hiniku
-  Korean: aireoni [irony], baneo
+  Korean: baneo [irony]
 
 Phr:
   die endlich höchste Form, in der diese Subjektivität sich vollkommen erfaßt und ausspricht, ist die Gestalt, die man … Ironie genannt hat [Ger.] [Hegel, Philosophy of Right §140 Remark]
   Socratic irony
+  nothing is sacred

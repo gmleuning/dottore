@@ -29,9 +29,10 @@ Adv:
 
 F:
   Latin: ipse dixit
-  Korean: hwageon pandan [assertoric judgment]
 
 Phr:
   ipse dixit [Lat.]
   because I said so
   de gustibus non est disputandum [Lat.]
+  take my word for it
+  because I say so

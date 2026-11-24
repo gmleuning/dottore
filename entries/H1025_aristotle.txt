@@ -25,7 +25,6 @@ F:
   Latin: actus purus, ipse dixit
   Greek: energeia and dynamis, noēsis noēseōs, entelecheia, ousia, hylē, eidos, telos, to ti ēn einai, zōon politikon, eudaimonia, mesotēs
   Arabic: Arisṭūṭālīs, al-Muʿallim al-Awwal [the First Teacher]
-  Korean: Aristotelleseu [Aristotle], hyeonsiltae [actuality]
 
 Phr:
   the master of those who know [Dante]

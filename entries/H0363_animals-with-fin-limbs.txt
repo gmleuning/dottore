@@ -7,6 +7,8 @@ HGloss: Mammals with fin-like limbs, the Cetacea: without hind legs, living in w
 N:
   animals with fin-limbs
   walrus, orca, manatee, sea cow, whale, dolphin, porpoise, seal
+  cetacean, pinniped, cetology
 
-F:
-  Korean: gorae [whale], goraemok [cetacea]
+Phr:
+  a whale of a time
+  like a beached whale

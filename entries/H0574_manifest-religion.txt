@@ -24,14 +24,13 @@ Adv:
   openly
 
 F:
-  German: Gottmensch, die offenbare Religion
+  German: Gottmensch
   Latin: incarnatio
   Arabic: waḥy [revelation], tanzīl [sending down]
   Sanskrit: avatāra [descent, incarnation]
-  Chinese: qishi [revelation]
-  Japanese: keiji
-  Korean: gyesi jonggyo [manifest religion]
 
 Phr:
   the Word was made flesh [Bible]
   God so loved the world, that he gave his only begotten Son [Bible]
+  God made man
+  the word made flesh

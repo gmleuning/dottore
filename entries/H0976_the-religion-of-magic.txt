@@ -34,16 +34,14 @@ Adv:
   by magic, by sorcery, by enchantment, by spell, by incantation, by witchcraft, occultly, uncannily
 
 F:
-  German: Zauberei, die Religion der Zauberei, Zauberer, Hexerei
+  German: Zauberei, Zauberer, Hexerei
   Latin: magia, deus ex machina, maleficium, veneficium, carmen
   Greek: mageia, goēteia, magos, pharmakeia
   French: diablerie
-  Arabic: siḥr [magic]
-  Sanskrit: māyā [illusion, magic], mantra [spell], tantra
-  Chinese: wushu [sorcery]
-  Japanese: majutsu
+  Sanskrit: mantra [spell], tantra
   Korean: jusul [magic], musok [shamanism]
 
 Phr:
   abracadabra
   hocus pocus
+  mind over matter

@@ -32,15 +32,13 @@ Adv:
   imaginatively, in imagination, in fancy
 
 F:
-  German: vorstellen, Einbildungskraft
+  German: vorstellen
   Latin: imaginatio
   Greek: phantasia
-  Arabic: khayāl [imagination], mutakhayyila [imaginative faculty]
-  Sanskrit: kalpanā [imagination]
-  Chinese: xiangxiang [imagination]
-  Japanese: sōzō
-  Korean: sangsangnyeok [imagination]
+  Arabic: mutakhayyila [imaginative faculty]
 
 Phr:
   imagination is more important than knowledge [Einstein]
   the lunatic, the lover, and the poet are of imagination all compact [A Midsummer Night's Dream]
+  to let one's imagination run wild
+  in one's imagination

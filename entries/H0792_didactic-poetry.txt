@@ -23,9 +23,9 @@ Adv:
   instructively, sententiously
 
 F:
-  Arabic: urjūza [didactic verse], naẓm [versified treatise]
-  Sanskrit: śāstra-kāvya
-  Korean: gyohunsi [didactic poetry]
+  Arabic: urjūza [didactic verse]
 
 Phr:
   utile dulci [Lat.] [the useful with the sweet] [Horace]
+  to point a moral
+  teaching in verse

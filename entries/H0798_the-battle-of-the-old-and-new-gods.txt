@@ -22,7 +22,8 @@ Adv:
 
 F:
   German: Götterdämmerung [twilight of the gods]
-  Korean: gusingwa sinsinui tujaeng [old gods and new]
 
 Phr:
   Zeus overthrows Cronus
+  the war in heaven
+  Titans and Olympians

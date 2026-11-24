@@ -10,6 +10,7 @@ N:
   affections, disposition, temperament
   the sentient soul, the feeling totality, inward individuality, self-feeling whole, the life of feeling
   vibe [Slang], vibes [Slang], good vibes, bad vibes, the feels [Slang], energy [Coll.], headspace, aura, atmosphere, ambience, feeling-tone, emotional tone, vibe check [Slang], where one's head is at
+  Gemüt
 
 V:
   feel, sense, intuit, be moved, be touched, be stirred
@@ -29,14 +30,13 @@ Adv:
   in the zone, in a good place, in a bad place, in one's feels [Slang]
 
 F:
-  German: Gefühl, Stimmung, Befindlichkeit [state-of-mind] [Heidegger], die fühlende Seele
+  German: Gefühl, Stimmung, Befindlichkeit [state-of-mind] [Heidegger]
   Arabic: wijdān [feeling, inner sentiment]
   Sanskrit: bhāva [feeling, emotion]
-  Chinese: qinggan [feeling]
-  Japanese: kanjō
-  Korean: neukkineun yeonghon [feeling soul]
 
 Phr:
   the heart has its reasons which reason knows not of [Pascal]
   good vibrations
   don't kill my vibe [Slang]
+  deep down
+  in one's heart of hearts

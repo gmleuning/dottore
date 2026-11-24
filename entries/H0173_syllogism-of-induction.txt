@@ -8,6 +8,7 @@ N:
   syllogism of induction; induction, generalization, empirical generalization, enumerative induction, inference from instances, inductive reasoning, bottom-up reasoning, extrapolation, data-driven inference
   dialectics
   inductive inference, enumeration of cases, the syllogism of experience
+  epagoge
 
 V:
   induce, generalize, extrapolate, infer from instances, reason from particulars
@@ -23,10 +24,8 @@ F:
   Latin: inductio, inductio per enumerationem simplicem, a posteriori
   Greek: epagōgē
   Arabic: istiqrāʾ [induction]
-  Chinese: guina [induction]
-  Japanese: kinō
-  Korean: gwinap [induction]
 
 Phr:
   one swallow does not make a summer
   all swans are white, until one is black
+  so far as experience goes

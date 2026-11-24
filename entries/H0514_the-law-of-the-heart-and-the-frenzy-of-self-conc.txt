@@ -27,8 +27,9 @@ Adv:
 
 F:
   German: Schwärmerei [enthusiasm, fanaticism], Eigendünkel
-  Korean: maeumui beopchik [law of the heart]
 
 Phr:
   the heart has its laws
   the time is out of joint [Hamlet]
+  to follow one's heart
+  the heart wants what it wants

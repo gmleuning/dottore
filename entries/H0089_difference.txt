@@ -31,19 +31,17 @@ Adv:
   differently, otherwise, else, distinctly; on the other hand; with a difference
 
 F:
-  German: Differenz, Unterschied
+  German: Differenz
   Latin: differentia, differentia specifica [specific difference], per contra, differ toto coelo
   Greek: diaphora
   French: différance [Derrida]
   Italian: differ longo intervallo
-  Arabic: farq [difference], ikhtilāf
   Sanskrit: bheda [difference], viśeṣa [distinction, particularity]
-  Chinese: yi [difference], chabie
-  Japanese: chigai
-  Korean: gubyeol [difference], chai
 
 Phr:
   vive la différence [Fr.]
   distinguo [Lat.]
   that makes all the difference
   a difference that makes a difference [Bateson]
+  a distinction without a difference
+  worlds apart

@@ -12,6 +12,7 @@ N:
   bestowal, bestowment†, presentation, presentment, accordance, concession, delivery, consignment, dispensation, communication, endowment, investment, investiture
   donation &c H0630
   deed of gift, formal contract
+  largesse
 
 V:
   donate, bestow, endow, gift
@@ -29,9 +30,9 @@ Adv:
 
 F:
   Latin: donatio, gratis
-  Arabic: hiba [gift]
   Sanskrit: dāna
-  Korean: jeungyeo gyeyak [contract of gift]
 
 Phr:
   freely ye have received, freely give [Bible]
+  a free gift
+  no strings attached

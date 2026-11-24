@@ -32,6 +32,7 @@ Adj:
   glowing, afire, smoldering
   incombustible, nonflammable, uninflammable, unflammable†
   lighted
+  empyreal
 
 Adv:
   ablaze, on fire, in flames, like wildfire
@@ -41,14 +42,12 @@ F:
   Latin: ignis
   Greek: pyr
   French: incombustibleness. extincteur
-  Arabic: nār [fire]
-  Sanskrit: Agni, agni [fire], tejas
-  Chinese: huo [fire]
-  Japanese: hi
-  Korean: bul [fire], hwa
+  Sanskrit: Agni, tejas
 
 Phr:
   this world was ever and is and shall be ever-living fire [Heraclitus]
   fire is the test of gold
   dies irae [Lat.]
   fire and faggot
+  to play with fire
+  where there's smoke there's fire

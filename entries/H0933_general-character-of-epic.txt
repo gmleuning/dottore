@@ -7,6 +7,7 @@ HGloss: The general character of the epic: the national bible, the objective wor
 N:
   general character of epic; objectivity, breadth, totality of a world, narrative distance, the bard behind the tale
   the epic manner, epic breadth, epic calm, epic objectivity, externality, the event, the occurrence, the objective world, fullness, circumstantiality, detachment, impersonality, the self-effacing poet
+  epopee
 
 V:
   narrate, encompass
@@ -20,8 +21,7 @@ Adv:
   objectively, at length
   broadly, calmly, impersonally, in detail, in full
 
-F:
-  Korean: minjok seosasi [national epic]
-
 Phr:
   the whole world of a people
+  the bible of a people
+  a whole world in one poem

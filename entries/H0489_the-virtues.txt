@@ -49,11 +49,11 @@ F:
   Latin: virtutes, amor, amicitia, fortitudo, honor, gloria, aura popularis, nobilitate, amicus, usque ad aras, fidus Achates, Nisus and Euryalus, par nobile fratrum, virtus
   Greek: aretai, erōs, philia, andreia, timē, kleos, aretē
   French: succes d'estime
-  Arabic: faḍāʾil [virtues], muruwwa [manly virtue], karāma [honour]
-  Sanskrit: guṇa [virtue]
+  Arabic: muruwwa [manly virtue]
   Chinese: de [virtue], ren [humaneness], yi [righteousness]
-  Korean: deok [virtue], sarang, ujeong, myeongye
 
 Phr:
   greater love hath no man than this [Bible]
   kleos aphthiton [Gr.] [imperishable fame] [Homer]
+  love and honour
+  a friend in need

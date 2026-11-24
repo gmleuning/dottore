@@ -37,10 +37,10 @@ F:
   Arabic: qadar
   Turkish: qismet
   Sanskrit: niyati
-  Chinese: mingyun [fate]
-  Japanese: shukumei
-  Korean: unmyeong [fate]
+  Korean: unmyeong [fate], palja [one's lot, destiny]
 
 Phr:
   even the gods do not fight against necessity [Simonides]
   fata viam invenient [Lat.] [the fates will find a way] [Virgil]
+  it is written
+  the threads of fate

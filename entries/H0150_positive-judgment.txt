@@ -31,11 +31,9 @@ Adv:
 F:
   Latin: iudicium affirmativum
   Greek: kataphasis
-  Arabic: ījāb [affirmation]
   Sanskrit: vidhi [affirmative injunction]
-  Chinese: kending [affirmation]
-  Korean: geungjeong pandan [positive judgment]
 
 Phr:
   the rose is red
   let your yea be yea [Bible]
+  to say yes to

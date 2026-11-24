@@ -8,6 +8,7 @@ N:
   objectivity of representation; objectivity, impersonality, fidelity, truthfulness, accuracy, realism, the work's own life
   veracity, frankness, truth, sincerity, candor, honesty, plain dealing, love of truth
   truth to the subject, self-forgetfulness, absorption in the thing, the matter itself, faithfulness
+  verisimilitude
 
 V:
   depict faithfully, render, represent
@@ -25,7 +26,8 @@ Adv:
 F:
   German: Sachlichkeit [matter-of-factness]
   Latin: bona fides
-  Korean: pyohyeonui gaekgwanseong
 
 Phr:
   the work speaks for itself
+  true to life
+  warts and all

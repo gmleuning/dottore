@@ -18,7 +18,7 @@ N:
   shading, distribution of shade, chiaroscuro
   noctivagation†
   black body, hohlraum [Phys.], black hole, dark star, dark matter, cold dark matter
-  D.], eldest Night and Chaos, ancestors of Nature, the blackness of the noonday night [Longfellow], the prayer of Ajax was for light [Longfellow]. awning &c H0221, parasol, sunshade, umbrella, chick, portiere, screen, curtain, shutter, blind, gauze, chador, mantle, mask, cloud, mist, gathering. of clouds. umbrage, glade. beach umbrella, folding umbrella. pure manifestation. spotlight, daytime, nighttime, limelight. laser, radar, sensor, infrared, ultraviolet, UV, LED, bulb, light bulb, flashlight, torch [Brit.], headlights
+  D.], eldest Night and Chaos, ancestors of Nature, the blackness of the noonday night [Longfellow], the prayer of Ajax was for light [Longfellow]. awning &c H0221, parasol, sunshade, umbrella, chick, portiere, screen, curtain, shutter, blind, gauze, chador, mantle, mask, cloud, mist, gathering. of clouds. umbrage, glade. beach umbrella, folding umbrella. pure manifestation. spotlight, daytime, nighttime, limelight. laser, radar, sensor, infrared, ultraviolet, UV, LED, bulb, light bulb, flashlight, torch [Brit.], headlights. irradiance
 
 V:
   shine, beam, glow, gleam, glitter, glisten, glimmer, shimmer, sparkle, twinkle, flash, radiate, irradiate, illuminate, illumine, light up, lighten, brighten, dawn
@@ -47,14 +47,10 @@ Adv:
   in the dark, in the shade
 
 F:
-  German: Licht
   Latin: lux, lumen, lux and lumen [source light and diffused light], Erebus, dark as Erebus
   Greek: phōs
-  Arabic: nūr [light], ḍawʾ
-  Sanskrit: jyotis [light], prakāśa [light, manifestation], tejas
-  Chinese: guang [light], ming [brightness]
-  Japanese: hikari
-  Korean: bit [light], gwang
+  Arabic: nūr [light]
+  Sanskrit: prakāśa [light, manifestation], tejas
 
 Phr:
   fiat lux [Lat.] [Bible]
@@ -62,3 +58,4 @@ Phr:
   God is light, and in him is no darkness at all [Bible]
   more light! mehr Licht! [Ger.] [Goethe, attrib. last words]
   Allāhu nūr al-samāwāti wa-l-arḍ [Ar.] [God is the light of the heavens and the earth] [Qur'an]
+  in the light of day

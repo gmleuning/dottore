@@ -10,6 +10,7 @@ N:
   principle, element, occasioner†, leaven, groundwork, foundation &c H0220
   producer, originator, inventor, founder, generator, mover, architect, creator, maker &c H0698
   origination, production
+  aetiology
 
 V:
   cause, effect, produce, bring about, give rise to, occasion, generate, engender, originate, create, induce, lead to, result in; result, follow, ensue, flow from, stem from, arise from, spring from, derive from, proceed from
@@ -32,14 +33,14 @@ F:
   German: Ursache, Wirkung
   Latin: causa et effectus, causa, effectus, causa efficiens, propter hoc, primum mobile, vera causa
   Greek: aitia, aition
-  Arabic: sabab [cause], musabbab [effect], ʿilla wa-maʿlūl
-  Sanskrit: kāraṇa and kārya [cause and effect], hetu-phala, karma [action and its fruit]
+  Arabic: ʿilla wa-maʿlūl
+  Sanskrit: kāraṇa and kārya [cause and effect], karma [action and its fruit]
   Chinese: yinguo [cause and effect]
   Japanese: inga
-  Korean: ingwaseong [causality]
 
 Phr:
   nihil fit sine causa [Lat.]
   cessante causa cessat effectus [Lat.]
   whatsoever a man soweth, that shall he also reap [Bible]
   post hoc, ergo propter hoc [Lat.]
+  no smoke without fire

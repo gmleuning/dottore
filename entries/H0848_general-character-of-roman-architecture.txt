@@ -22,7 +22,7 @@ Adv:
 
 F:
   Latin: thermae
-  Korean: Roma geonchuk [Roman architecture]
 
 Phr:
   all roads lead to Rome
+  bread and circuses

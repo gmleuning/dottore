@@ -26,11 +26,7 @@ Adv:
   incoherently, at random, without rhyme or reason
   ramblingly
 
-F:
-  German: Faselei
-  Arabic: hadhayān [delirium, raving]
-  Sanskrit: pralāpa [babble]
-  Korean: heotsori [rambling]
-
 Phr:
   a tale told by an idiot, full of sound and fury, signifying nothing [Macbeth]
+  to talk nonsense
+  to wander in one's mind

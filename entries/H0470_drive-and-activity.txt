@@ -9,6 +9,7 @@ N:
   performance, exercise, operation, praxis, execution
   proceeding, step, move
   impetus, conation, striving, satisfaction
+  conatus
 
 V:
   drive, urge, impel, act, do, strive, pursue
@@ -25,9 +26,9 @@ Adv:
 
 F:
   German: Trieb
-  Arabic: dāfiʿ [drive]
   Sanskrit: pravṛtti [activity, impulse]
-  Korean: chungdonggwa hwaldong [drive and activity]
 
 Phr:
   the urge to act
+  to be driven by
+  an urge to act

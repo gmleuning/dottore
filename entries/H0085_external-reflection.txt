@@ -9,6 +9,7 @@ N:
   contrast, identification, comparative estimate, relative estimate, relativity
   comparison &c H0606
   outer reflection, reflection upon a given, the reflection of the understanding, presupposing reflection
+  externality
 
 V:
   reflect upon, consider, observe, survey, examine, inspect, compare, collate, juxtapose, abstract, generalize, subsume; look at from outside, take a detached view, stand back, stand apart
@@ -30,10 +31,8 @@ Adv:
   externally
 
 F:
-  German: reflektierende Urteilskraft [Kant], Räsonnement, äußere Reflexion
+  German: reflektierende Urteilskraft [Kant], Räsonnement
   Latin: ab extra, parva componere magnis
-  Arabic: taʾammul
-  Korean: oejeok banseong [external reflection]
 
 Phr:
   the onlooker sees most of the game

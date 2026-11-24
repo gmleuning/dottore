@@ -29,8 +29,6 @@ Adv:
   in growth, upward and outward
   by growth, vegetatively
 
-F:
-  Korean: hyeongseong [formation], seongjang
-
 Phr:
   tall oaks from little acorns grow
+  to put forth

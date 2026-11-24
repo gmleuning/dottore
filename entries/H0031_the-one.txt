@@ -10,6 +10,7 @@ N:
   individuality, solitude &c H0489, isolation &c H0293, unification &c H0288
   ace, none else, no other
   the exclusive one
+  henad
 
 V:
   unify, unite, make one; be one, stand alone; exclude, shut out, repel
@@ -27,12 +28,11 @@ Adv:
   by itself, per se, apart, in the singular number, in the abstract, one by one, one at a time, simply
 
 F:
-  German: das Eins
   Latin: unum, punctum, per se, solus
   Greek: to hen, monas, atomos
-  Arabic: tawḥīd [oneness], aḥad, wāḥid
-  Sanskrit: ekam [one], eka
-  Chinese: yi [one], taiyi [Great One]
+  Arabic: tawḥīd [oneness], aḥad
+  Sanskrit: ekam [one]
+  Chinese: taiyi [Great One]
   Korean: ilja [the One]
 
 Phr:
@@ -40,3 +40,4 @@ Phr:
   hen kai pan [Gr.] [one and all]
   ekam sat viprā bahudhā vadanti [Skt.] [Rigveda]
   the One remains, the many change and pass [Shelley]
+  one and only

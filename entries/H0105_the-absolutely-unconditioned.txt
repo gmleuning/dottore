@@ -7,6 +7,7 @@ HGloss: The totality of conditions and ground, which presupposes nothing further
 N:
   the absolutely unconditioned; the unconditioned, the unconditional, the absolute, the self-sufficient, aseity, self-existence; first cause, uncaused cause, unmoved mover, prime mover; totality of conditions; ultimate ground
   the absolute unconditioned, the fact itself, the unconditioned fact, the self-grounding
+  absoluteness
 
 V:
   be unconditioned, depend on nothing, stand alone, be self-caused
@@ -23,13 +24,12 @@ Adv:
   unconditionally, absolutely, categorically, without qualification, without reservation, no strings attached, no ifs or buts
 
 F:
-  German: das Unbedingte, das absolut Unbedingte, die Sache selbst
+  German: das Unbedingte, die Sache selbst
   Latin: causa sui, ens a se, primum movens
   Greek: to prōton kinoun akinēton
   Arabic: wājib al-wujūd [necessary existent]
   Sanskrit: asaṃskṛta [unconditioned]
   Chinese: ziran [self-so]
-  Korean: jeoldaejeok mujogeonja [unconditioned]
 
 Phr:
   causa sui [Lat.] [Spinoza]

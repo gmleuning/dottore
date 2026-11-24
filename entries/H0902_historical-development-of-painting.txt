@@ -7,6 +7,7 @@ HGloss: The historical course of painting.
 N:
   historical development of painting; Byzantine, Italian, Flemish, German, Dutch painting, schools of painting
   the history of painting, the course of painting, the stages of painting, the schools, the old masters, periods, epochs, the progress of art
+  iconography, connoisseurship
 
 V:
   develop, evolve
@@ -20,8 +21,7 @@ Adv:
   historically
   by stages, successively, by schools, in the course of time
 
-F:
-  Korean: hoehwasa [history of painting]
-
 Phr:
   from icon to genre
+  from icon to landscape
+  the schools of painting

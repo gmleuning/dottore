@@ -24,10 +24,8 @@ Adv:
   externally
 
 F:
-  German: Mechanik
   Arabic: ʿilm al-ḥiyal [science of mechanical devices]
-  Chinese: lixue [mechanics]
-  Korean: yeokhak [mechanics]
 
 Phr:
   give me a place to stand and I will move the earth [Archimedes]
+  the nuts and bolts

@@ -61,13 +61,10 @@ F:
   Greek: prohairesis
   French: embarras de choix, a contre caeur, malgre soi, legerete
   Arabic: ikhtiyār [choice]
-  Sanskrit: varaṇa [choice]
-  Chinese: xuanze [choice]
-  Japanese: sentaku
-  Korean: jauiseong [arbitrariness], seontaek
 
 Phr:
   alea iacta est [Lat.] [the die is cast] [Caesar]
   to be or not to be [Hamlet]
   anything goes
   anything you like
+  as one pleases

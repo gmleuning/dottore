@@ -34,11 +34,9 @@ Adv:
 F:
   Latin: Te Deum
   Greek: manteia, hymnos
-  Arabic: qaṣīda [ode], kahāna [soothsaying]
-  Sanskrit: stotra [hymn]
-  Chinese: shenyu [oracle]
-  Japanese: takusen [oracle]
-  Korean: chansonggwa sinyak [hymn and oracle]
+  Arabic: kahāna [soothsaying]
 
 Phr:
   know thyself [inscribed at Delphi]
+  the oracle has spoken
+  sing praises

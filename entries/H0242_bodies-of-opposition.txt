@@ -7,6 +7,7 @@ HGloss: The physical bodies of difference, rigidity and dissolution, set in oppo
 N:
   bodies of opposition; polar bodies, contrasting bodies, opposite tendencies, rigidity and dissolution, contraction and expansion; satellites and comets
   the bodies of contrast, moon and comet, the lunar and the cometary, the dependent bodies
+  polarity
 
 V:
   oppose, contrast, polarize
@@ -19,8 +20,7 @@ Adj:
 Adv:
   in opposition, at opposite poles
 
-F:
-  Korean: daeripui mulche
-
 Phr:
   as different as the moon and a comet
+  the two lights
+  opposites in the heavens

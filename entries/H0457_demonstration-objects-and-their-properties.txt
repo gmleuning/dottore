@@ -24,9 +24,7 @@ Adv:
   demonstrably, before one's eyes
   demonstratively, by showing
 
-F:
-  Arabic: ʿarḍ [display]
-  Korean: jeungmyeong [demonstration]
-
 Phr:
   see for yourself
+  to show one's hand
+  to prove the point

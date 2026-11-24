@@ -9,6 +9,7 @@ N:
   appearance, sight, spectacle, show, premonstration†, scene, species, view, lookout, outlook, prospect, vista, perspective, bird's-eye view, scenery, landscape, picture, tableau, display, exposure, rising of the curtain
   event, occurrence, incident, happening
   the flux of appearance
+  phenomenality
 
 V:
   appear, present, manifest, occur regularly, recur, follow a pattern
@@ -28,9 +29,9 @@ Adv:
   apparently
 
 F:
-  German: Erscheinung
   French: coup d'oeil, mise en sc ne
-  Korean: hyeonsang [appearance]
 
 Phr:
   saving the phenomena
+  to all appearances
+  on the surface

@@ -23,11 +23,11 @@ Adv:
   chemically, by affinity, by attraction
 
 F:
-  German: Chemismus
   Arabic: al-kīmiyāʾ
   Sanskrit: rasāyana [alchemy]
   Chinese: huaxue [chemistry, lit. study of change]
-  Korean: hwahangnon [chemism]
 
 Phr:
   Elective Affinities, Die Wahlverwandtschaften [Ger.] [Goethe]
+  chemistry between them
+  to hit it off

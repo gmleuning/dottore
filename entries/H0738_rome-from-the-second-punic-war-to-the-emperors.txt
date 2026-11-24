@@ -7,6 +7,7 @@ HGloss: Rome from the second Punic war to the emperors, the age of conquest and 
 N:
   Rome from the Second Punic War to the Emperors; Hannibal, Carthage, Scipio, world dominion, the Gracchi, civil wars, Marius and Sulla, Pompey, Caesar, the fall of the Republic, Augustus
   the later Republic, Roman expansion, conquest, the Punic Wars
+  proconsul, triumvirate
 
 V:
   conquer, destroy, contest, cross the Rubicon
@@ -22,9 +23,10 @@ Adv:
 
 F:
   Latin: Carthago delenda est
-  Korean: poeni jeonjaenggwa naejeon
 
 Phr:
   Carthago delenda est [Lat.] [Cato, attrib.]
   alea iacta est [Lat.] [Caesar]
   veni, vidi, vici [Lat.] [Caesar]
+  Carthage must be destroyed
+  to cross the Rubicon

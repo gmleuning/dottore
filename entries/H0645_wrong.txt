@@ -32,15 +32,12 @@ Adv:
   wrongly
 
 F:
-  German: Unrecht
   Latin: iniuria, delictum, contra legem, malum in se
   Greek: adikia
-  Arabic: ẓulm [injustice, wrong], jināya [offence]
+  Arabic: ẓulm [injustice, wrong]
   Sanskrit: adharma [wrong]
-  Chinese: buyi [injustice]
-  Japanese: fusei
-  Korean: bulbeop [wrong]
 
 Phr:
   two wrongs don't make a right
   summum ius, summa iniuria [Lat.] [extreme law, extreme injustice] [Cicero]
+  in the wrong

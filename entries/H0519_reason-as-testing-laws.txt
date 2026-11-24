@@ -23,8 +23,7 @@ Adv:
   formally, by test
   for consistency
 
-F:
-  Korean: beop simsa iseong [law-testing reason]
-
 Phr:
   act only according to that maxim whereby you can at the same time will that it should become a universal law [Kant]
+  what if everyone did that?
+  consistent with itself

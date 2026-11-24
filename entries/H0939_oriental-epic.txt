@@ -7,6 +7,7 @@ HGloss: The oriental epic, the Indian and Persian epics, with their measureless 
 N:
   Oriental epic; Mahābhārata, Gilgamesh, the Book of Job
   the Indian epic, the Persian epic, Shāhnāmeh, Firdausi, Vālmīki, Vyāsa, Antar, the Moallakat, the Purāṇas
+  sloka
 
 V:
   chant, recite
@@ -15,6 +16,7 @@ V:
 Adj:
   Oriental, Sanskrit, Persian, vast
   Eastern, Indian, Arabic, Hebrew, colossal, immeasurable, fantastic, sprawling
+  Puranic
 
 Adv:
   in the East
@@ -23,7 +25,6 @@ Adv:
 F:
   Persian: Shāhnāma [Ferdowsi's Book of Kings]
   Sanskrit: Rāmāyaṇa
-  Korean: Mahabarata [Mahabharata], Syaname [Shahnameh]
 
 Phr:
   the Book of Kings [Ferdowsi]

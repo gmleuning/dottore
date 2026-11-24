@@ -32,12 +32,10 @@ F:
   Latin: translatio
   Greek: metaphora
   French: facon de parler
-  Arabic: istiʿāra [metaphor], tashbīh [simile]
-  Sanskrit: rūpaka [metaphor], upamā [simile]
-  Chinese: yinyu [metaphor], biyu
-  Japanese: in'yu
-  Korean: eunyu [metaphor], jigyu [simile]
+  Arabic: istiʿāra [metaphor]
+  Sanskrit: rūpaka [metaphor]
 
 Phr:
   all the world's a stage [As You Like It]
   my love is like a red, red rose [Burns]
+  a figure of speech

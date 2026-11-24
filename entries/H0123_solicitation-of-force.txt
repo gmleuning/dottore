@@ -41,12 +41,12 @@ F:
   German: Reiz, Anstoß, Auslösung, Spiel der Kräfte &c H0461, Sollizitation
   Latin: causa occasionalis, potentia, conatus, ab extra
   Greek: hormē, aphormē [occasion, starting point], dynamis
-  Sanskrit: nimitta [occasioning cause] &c (cause) H0137
   Chinese: gan-ying [stimulus and response, resonance]
-  Korean: himui yudo [solicitation]
 
 Phr:
   nemo me impune lacessit [Lat.]
   parva saepe scintilla contempta magnum excitavit incendium [Lat.] [Curtius]
   behold, how great a matter a little fire kindleth! [Bible]
   the straw that broke the camel's back
+  a call to action
+  to set in motion

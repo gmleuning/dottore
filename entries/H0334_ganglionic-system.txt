@@ -8,6 +8,7 @@ N:
   ganglionic system; ganglia, sympathetic nervous system, autonomic nervous system, vegetative nervous system, solar plexus, plexus, gut feeling; visceral nerves
   the sympathetic system, the sympathetic nerve
   vagus nerve, enteric nervous system, the second brain, parasympathetic nervous system, fight or flight, rest and digest, adrenal rush, adrenaline, gut instinct, butterflies, butterflies in the stomach, the pit of the stomach
+  ganglion
 
 V:
   regulate, govern automatically
@@ -19,9 +20,6 @@ Adj:
 Adv:
   involuntarily, unconsciously, automatically
   in one's gut, in the pit of one's stomach
-
-F:
-  Korean: sinjeolgye [ganglionic system]
 
 Phr:
   a gut feeling

@@ -35,14 +35,12 @@ Adv:
   liturgically, ceremonially, devoutly, reverently, prayerfully, solemnly, sacramentally, in prayer, in devotion, in spirit and in truth, on bended knee, at the altar
 
 F:
-  German: Kultus, Gottesdienst, Andacht, Opfer, Genuß, Gebet
+  German: Gottesdienst, Andacht, Opfer, Genuß, Gebet
   Latin: cultus, missa cantata, paternoster, cultus Dei, opus Dei, sacrificium, unio mystica, lex orandi lex credendi, ora et labora
   Greek: latreia, leitourgia, thysia, eucharistia, thrēskeia
-  Arabic: ʿibāda, ṣalāt [prayer]
-  Sanskrit: pūjā, yajña
-  Chinese: jisi
-  Japanese: saishi [rites]
-  Korean: yebae [worship], jeui [rite]
+  Arabic: ṣalāt [prayer]
+  Sanskrit: pūjā
 
 Phr:
   lex orandi, lex credendi [Lat.] [the law of prayer is the law of belief]
+  the communion of saints

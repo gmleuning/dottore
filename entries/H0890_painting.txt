@@ -37,12 +37,11 @@ F:
   Latin: pictura
   Greek: zōgraphia
   French: tableau, piece
-  Arabic: taṣwīr [painting], rasm
-  Sanskrit: citra [painting]
-  Chinese: huihua [painting], guohua [Chinese painting]
-  Japanese: kaiga, sumi-e [ink painting]
-  Korean: hoehwa [painting], geurim [picture]
+  Chinese: guohua [Chinese painting]
+  Japanese: sumi-e [ink painting]
+  Korean: sumukhwa [ink painting]
 
 Phr:
   ut pictura poesis [Lat.] [Horace]
   a picture is worth a thousand words
+  paint the town red

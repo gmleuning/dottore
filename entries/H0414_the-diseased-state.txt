@@ -7,6 +7,7 @@ HGloss: The disease state of the soul which is the condition of magnetic phenome
 N:
   the diseased state; morbid condition, nervous disorder, hysteria, neurasthenia, susceptibility, suggestibility, vapours, nerves, frailty, debility, malaise
   morbid state, sickly condition, pathological state, illness, nervous weakness
+  morbidity
 
 V:
   languish, ail, be indisposed, be susceptible
@@ -22,8 +23,7 @@ Adv:
   morbidly, nervously
   in sickness
 
-F:
-  Korean: byeongjeok sangtae [diseased state]
-
 Phr:
   the vapours
+  out of sorts
+  not in one's right mind

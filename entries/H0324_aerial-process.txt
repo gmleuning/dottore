@@ -21,8 +21,7 @@ Adv:
   through the leaves
   with the air
 
-F:
-  Korean: gonggi gwajeong [aerial process]
-
 Phr:
   the breathing forest
+  a breath of air
+  to breathe

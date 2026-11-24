@@ -32,8 +32,9 @@ Adv:
 F:
   German: Gewalt, Schicksal
   Latin: vi et armis
-  Korean: silsangjeok gigyejeok gwajeong
 
 Phr:
   might is right
   the strong do what they can and the weak suffer what they must [Thucydides]
+  might makes right
+  to get the upper hand

@@ -7,6 +7,7 @@ HGloss: The feeling totality which distinguishes itself from its particular feel
 N:
   self-feeling; self-awareness, self-sense, sense of self, inner sense of oneself, self-esteem, self-regard; inner unity, being-with-oneself
   self-sentience, feeling of self, self-awareness in feeling, the self amid its feelings, sentient selfhood
+  coenaesthesis
 
 V:
   feel oneself, sense oneself, be self-aware
@@ -21,14 +22,10 @@ Adv:
   in self-feeling, feelingly
 
 F:
-  German: Selbstgefühl
   Latin: conatus
   French: amour-propre, amour de soi [Rousseau]
-  Arabic: wijdān al-dhāt
   Sanskrit: ahaṃkāra [I-maker, ego-sense], asmitā [I-am-ness]
-  Chinese: zizunxin [self-esteem]
-  Japanese: jiko kankaku
-  Korean: jagi gamjeong [self-feeling]
 
 Phr:
   I feel, therefore I am
+  to feel oneself

@@ -33,11 +33,8 @@ Adv:
 F:
   Latin: permutatio, mutatis mutandis
   Greek: allagē
-  Arabic: mubādala [exchange]
-  Sanskrit: vinimaya [exchange]
-  Chinese: jiaohuan [exchange]
-  Japanese: kōkan
-  Korean: gyohwan [exchange]
 
 Phr:
   a fair exchange is no robbery
+  tit for tat
+  even exchange

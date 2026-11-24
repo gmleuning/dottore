@@ -30,14 +30,12 @@ Adv:
   in kind
 
 F:
-  German: Gattungswesen [Feuerbach, Marx], Gattung
+  German: Gattungswesen [Feuerbach, Marx]
   Latin: genus
   Greek: genos
-  Arabic: jins [genus], nawʿ
   Sanskrit: jāti [birth, genus]
-  Chinese: zhong [kind, seed], shu [genus]
-  Korean: yu [genus], jongjok
 
 Phr:
   one generation passeth away, and another generation cometh [Bible]
   after their kind [Bible]
+  the circle of life

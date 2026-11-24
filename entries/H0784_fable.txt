@@ -24,13 +24,11 @@ Adv:
 F:
   Latin: fabula, fabula docet
   Greek: mythos, ainos
-  Arabic: Kalīla wa-Dimna, ḥikāya [tale]
+  Arabic: Kalīla wa-Dimna
   Sanskrit: Pañcatantra, Hitopadeśa
   Pali: Jātaka
-  Chinese: yuyan [fable]
-  Japanese: gūwa
-  Korean: uhwa [fable]
 
 Phr:
   the moral of the story
   de te fabula narratur [Lat.] [the tale is told of you] [Horace]
+  sour grapes

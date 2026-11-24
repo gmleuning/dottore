@@ -38,12 +38,11 @@ F:
   Latin: odor
   Greek: osmē
   French: eau de Cologne
-  Arabic: rāʾiḥa [smell], ʿiṭr [perfume], bukhūr [incense]
   Sanskrit: gandha [smell, fragrance]
-  Chinese: xiang [fragrance]
-  Japanese: kaori, kōdō [the way of incense]
-  Korean: naemsae [smell], hyang
+  Japanese: kōdō [the way of incense]
 
 Phr:
   a rose by any other name would smell as sweet [Romeo and Juliet]
   non olet [Lat.] [Vespasian]
+  smell a rat
+  to follow one's nose

@@ -7,6 +7,7 @@ HGloss: The religions of transition from nature to spirit: light, pain, enigma.
 N:
   the religions of transition; transitional religions, Persian, Syrian, Egyptian religion, religions of light, pain, and enigma
   the religions of passage, the religions of mediation, the middle religions, the intermediate stage, the in-between forms, the bridge, the passage, passing-over, crossing, the threshold, the turning point, the mean, the middle term, the Persian religion, the Syrian religion, the religion of the good, the struggle of subjectivity, emerging subjectivity, the dawning of spirit, nature passing into spirit, the natural not yet overcome, fermentation, the transition from substance to subject, from nature religion to spiritual religion
+  syncretism
 
 V:
   transition, pass over
@@ -22,8 +23,8 @@ Adv:
   halfway
 
 F:
-  German: Übergang, die Religionen des Übergangs, Kampf der Subjektivität, Gärung
-  Korean: gwadogi jonggyo [religion of transition]
+  German: Übergang, Kampf der Subjektivität, Gärung
 
 Phr:
   from nature to spirit
+  light, pain and riddle

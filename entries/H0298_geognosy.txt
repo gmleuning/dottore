@@ -24,9 +24,7 @@ Adv:
   geologically, stratigraphically
   geognostically
 
-F:
-  Arabic: ʿilm ṭabaqāt al-arḍ [science of earth layers]
-  Korean: jijil josa
-
 Phr:
   written in the rocks
+  to dig deep
+  lay of the land

@@ -55,11 +55,8 @@ Adv:
 
 F:
   Latin: damnosa hereditas, nux vomica, phr.. bibere venenum in auro
-  Arabic: ʿilm al-amrāḍ [science of diseases]
   Sanskrit: nidāna [diagnosis, cause]
-  Chinese: bingli [pathology]
-  Japanese: byōri
-  Korean: jilbyeonghak [nosology], byeong
 
 Phr:
   physician, heal thyself [Bible]
+  a clean bill of health

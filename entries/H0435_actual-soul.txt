@@ -7,6 +7,7 @@ HGloss: The soul which has its body as its sign and work of art, in which it is 
 N:
   actual soul; embodied soul, soul at home in its body, mind-body unity, psychophysical unity, the lived body, expressive body, incarnation; the body as sign and instrument of the soul
   the body as sign, the body as work of art of the soul, the human expression, the transition to consciousness
+  embodiment
 
 V:
   embody, incarnate, inhabit, express
@@ -21,10 +22,9 @@ Adv:
   actually, in the body, at home in its body
 
 F:
-  German: Leib, die wirkliche Seele
-  Arabic: tajassud
-  Sanskrit: śarīrin [embodied one]
-  Korean: hyeonsiljeok yeonghon [actual soul]
+  German: Leib
 
 Phr:
   the body is the temple of the soul
+  at home in one's skin
+  soul and body as one

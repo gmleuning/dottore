@@ -12,6 +12,7 @@ N:
   presentation, overture, proposal, proposition, motion, invitation, candidature, offering &c H0630
   compromise, commutation, composition, middle term, compensation &c H0634, abatement of differences, adjustment, mutual concession
   mutual obligation, the bond between parties
+  consensus ad idem
 
 V:
   offer, accept, consent, oblige, be party to
@@ -34,7 +35,7 @@ F:
   Latin: quid pro quo, casus foederris
   Italian: mezzo termine
   Arabic: ījāb wa-qabūl [offer and acceptance]
-  Korean: gyeyak gwangye
 
 Phr:
   quid pro quo [Lat.]
+  a meeting of minds

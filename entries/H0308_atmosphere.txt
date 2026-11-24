@@ -29,11 +29,8 @@ Adv:
 F:
   Latin: atmosphaera
   Greek: from atmos [vapour] and sphaira
-  Arabic: ghilāf jawwī [atmospheric envelope], jaww [atmosphere, air]
   Sanskrit: antarikṣa [atmosphere, mid-air]
-  Chinese: daqi [atmosphere]
-  Japanese: taiki
-  Korean: daegi [atmosphere]
 
 Phr:
   this most excellent canopy, the air [Hamlet]
+  under the sky

@@ -23,7 +23,7 @@ Adv:
 F:
   Persian: Pārsī
   Avestan: Vohu Manah
-  Korean: jendeu minjok [Zend people]
 
 Phr:
   good thoughts, good words, good deeds, humata, hūkhta, hvarshta [Avestan]
+  the good thought

@@ -33,11 +33,10 @@ Adv:
 F:
   Greek: rhythmos
   Italian: a tempo
-  Arabic: īqāʿ [rhythm]
-  Sanskrit: tāla [rhythmic cycle], laya [tempo]
-  Chinese: jiezou [rhythm]
-  Japanese: hyōshi, ma [interval]
-  Korean: bakja [beat], madi [bar], rideum [rhythm]
+  Sanskrit: tāla [rhythmic cycle]
+  Japanese: ma [interval]
+  Korean: jangdan [rhythmic cycle]
 
 Phr:
   in the beginning was rhythm [attrib. Hans von Bülow]
+  in three-four time

@@ -44,13 +44,10 @@ Adv:
 F:
   Latin: dominium, suum cuique, meum et tuum
   French: cestui-que-trust
-  Arabic: mulk [ownership], milkiyya [property], amlāk [possessions]
-  Sanskrit: svatva [ownership], sva [one's own]
-  Chinese: caichan [property]
-  Japanese: shoyū [ownership]
-  Korean: soyu [property], soyugwon
 
 Phr:
   property is the first embodiment of freedom [Hegel]
   possession is nine points of the law
   la propriété, c'est le vol [Fr.] [property is theft] [Proudhon]
+  possession is nine-tenths of the law
+  mine and thine

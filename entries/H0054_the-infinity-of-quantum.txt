@@ -7,6 +7,7 @@ HGloss: The quantum known as essentially self-external, so that its truth lies i
 N:
   infinity of quantum; quantitative relation, ratio &c H0055; the infinite as a moment of quantity; the quality of quantity; relational magnitude; limit concept; derivative, differential quotient, dy/dx, rate of change; ratio of infinitesimals
   the infinite quantum, the true quantitative infinite, quantity as relation, the qualitative moment of quantum, the return of quality
+  commensuration
 
 V:
   relate, proportion, take the limit, differentiate
@@ -21,8 +22,7 @@ Adv:
   in the limit, relatively, proportionally
   infinitely, relationally
 
-F:
-  Korean: yangjeok bi [quantitative ratio]
-
 Phr:
   the infinitely small is not nothing
+  in proportion
+  out of proportion

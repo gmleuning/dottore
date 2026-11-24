@@ -21,10 +21,7 @@ Adv:
   sensibly, characteristically
   by its properties
 
-F:
-  Arabic: khawāṣṣ [properties]
-  Sanskrit: guṇa [qualities]
-  Korean: mulche teuksuhwa
-
 Phr:
   by their properties ye shall know them
+  a body of its own
+  telling them apart

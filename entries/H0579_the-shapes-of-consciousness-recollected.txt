@@ -9,6 +9,7 @@ N:
   retrospection, memory &c H0600
   reminiscence
   the recollected shapes, the gathered moments, the stations of the way, the series of shapes, the gallery of forms, the stages, résumé, recapitulation
+  Erinnerung
 
 V:
   recollect, remember, review, retrace, look back, inwardize
@@ -27,7 +28,7 @@ Adv:
 F:
   German: Er-innerung [inwardizing], Galerie von Bildern
   Greek: anamnēsis
-  Korean: uisigui hyeongtaedeul hoesang
 
 Phr:
   a gallery of images, each endowed with the entire wealth of spirit [Hegel]
+  the road travelled

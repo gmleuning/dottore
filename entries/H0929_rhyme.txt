@@ -9,6 +9,7 @@ N:
   verse, crambo†
   unison, homophony, euphony
   end-sound, like ending, jingle, tag, internal rhyme, masculine rhyme, feminine rhyme, half-rhyme, eye rhyme, tercet, echo, return of sound
+  rime riche
 
 V:
   rhyme, chime, alliterate, assonate
@@ -25,10 +26,8 @@ Adv:
 F:
   German: Stabreim
   Italian: terza rima
-  Arabic: qāfiya [rhyme], sajʿ [rhymed prose]
-  Sanskrit: anuprāsa [alliteration]
-  Chinese: yayun [rhyme]
-  Korean: gagun [end rhyme], abun [rhyme]
+  Arabic: sajʿ [rhymed prose]
 
 Phr:
   neither rhyme nor reason
+  the echo at the line's end

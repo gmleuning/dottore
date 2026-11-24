@@ -16,9 +16,8 @@ Adj:
 Adv:
   in the Lockean manner
 
-F:
-  Korean: Rokeu [Locke], baekji [blank slate]
-
 Phr:
   tabula rasa [Lat.]
   white paper, void of all characters [Locke], lives, liberties and estates [Locke]
+  the mind a blank slate
+  ideas of sensation and reflection

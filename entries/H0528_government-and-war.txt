@@ -11,6 +11,7 @@ N:
   management, economy, political economy, government &c H0714
   sway, command, control, administer, govern &c H0714, preside over
   the ruling power, the shaking of the community, the negative power, the lord death
+  statecraft
 
 V:
   govern, rule, wage war, mobilize, conscript, shake, unsettle, rouse
@@ -27,12 +28,9 @@ Adv:
 
 F:
   German: Erschütterung
-  Arabic: ḥukūma [government], ḥarb [war]
-  Sanskrit: rāja [king], yuddha [war]
-  Chinese: zhengfu [government], zhanzheng [war]
-  Japanese: sensō
-  Korean: jeongbuwa jeonjaeng [government and war]
 
 Phr:
   war is the father of all things, polemos patēr pantōn [Gr.] [Heraclitus]
   si vis pacem, para bellum [Lat.]
+  the dogs of war
+  to rally round the flag

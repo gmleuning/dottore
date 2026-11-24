@@ -25,8 +25,9 @@ F:
   Latin: mundus intelligibilis
   Arabic: ʿālam al-ghayb [world of the unseen], malakūt [the invisible kingdom]
   Sanskrit: paraloka [other world]
-  Korean: chogamgakjeok segye [supersensible world]
 
 Phr:
   the calm kingdom of laws [Hegel]
   backworldsmen, Hinterweltler [Ger.] [Nietzsche]
+  the world beyond
+  behind the veil

@@ -34,13 +34,10 @@ Adv:
 
 F:
   Latin: liberum arbitrium, proprio motu, suo motu, ex meromotu
-  Arabic: ḥurriyya [freedom], ikhtiyār
-  Sanskrit: svatantra [self-dependent], mukti [liberation]
-  Chinese: ziyou yizhi [free will]
-  Japanese: jiyū ishi
-  Korean: jayuroun jeongsin [free mind]
+  Sanskrit: mukti [liberation]
 
 Phr:
   the free will which wills the free will [Hegel]
   Freiheit ist die Einsicht in die Notwendigkeit [Ger.] [Engels, Anti-Dühring I.11, on Hegel]
   blind ist die Notwendigkeit nur, insofern dieselbe nicht begriffen wird [Ger.] [Hegel, Encyclopaedia §147 Zusatz]
+  a free spirit

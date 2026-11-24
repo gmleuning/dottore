@@ -30,7 +30,7 @@ F:
   Greek: anaklasis
   Arabic: tafakkur [reflection], taʾammul [contemplation]
   Sanskrit: vimarśa [reflective awareness]
-  Chinese: xing [self-examination], fanxing [introspection]
+  Chinese: fanxing [introspection]
   Japanese: hansei [self-reflection]
   Korean: banseong [reflection]
 
@@ -39,3 +39,5 @@ Phr:
   know thyself, gnōthi seauton [Gr.]
   look before you leap
   the owl of Minerva spreads its wings only with the falling of the dusk [Hegel]
+  on second thought
+  to turn back on itself

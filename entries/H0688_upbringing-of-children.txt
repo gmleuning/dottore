@@ -28,6 +28,7 @@ N:
   educational institution, art student, head teacher, school principal, sixth-former, faculty member, eleven-plus, night school, public school, play group, college man, business college, film school, private school, training school, training college, middle school, college boy, language school, university student, college student, dance school, driving school, section teacher, science teacher, school teacher, reading teacher, music teacher, art teacher, religious school, grade school, technical school, teaching fellow, flying school, direct-grant school, graduate school, dancing school, riding school, riding master, junior college, math teacher, elementary school, nursing school, finishing school, grammar school, mathematics teacher, section instructor, private instructor, nursery school, correspondence school, veterinary school, grad student, grad school, alma mater, secretarial school
   academy, seminary, grooming, newcomer, newbie, fledgling
   university, uni [Brit. Coll.], college, campus, high school, secondary school, primary school, kindergarten, nursery, classroom, lesson, tutorial, course, module, semester, term, exam, test, quiz, homework, assignment, essay, coursework, mark, degree, diploma, bachelor's degree, master's degree, PhD, graduation, grad [Coll.], classmate, dean, headteacher, principal, literacy, studying, revision, cramming, enrollment, enrolment, scholarship, student loan, gap year
+  rearing, pedagogy
 
 V:
   raise, rear, bring up, educate, discipline, train, nurture
@@ -63,11 +64,9 @@ F:
   Greek: paideia
   French: dominie, eleve
   Spanish: duenna
-  Arabic: tarbiya [upbringing]
-  Sanskrit: saṃskāra
-  Chinese: jiaoyang [upbringing]
   Japanese: shitsuke [discipline, upbringing]
-  Korean: yangyuk [upbringing], gyoyuk
 
 Phr:
   train up a child in the way he should go [Bible]
+  spare the rod and spoil the child
+  to bring up right

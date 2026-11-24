@@ -33,11 +33,9 @@ F:
   Latin: religio [binding back], pietas, fides, cultus, sacrum, numen, religio revelata
   Greek: thrēskeia, eusebeia, pistis, latreia, to hieron
   Hebrew: emunah, dat
-  Arabic: dīn [religion], īmān [faith], islām
-  Sanskrit: dharma, mārga [path], bhakti, śraddhā
-  Chinese: zongjiao [religion], jiao [teaching]
-  Japanese: shūkyō, shinkō [faith]
-  Korean: jonggyo [religion]
+  Arabic: islām
+  Sanskrit: mārga [path], bhakti
+  Chinese: jiao [teaching]
 
 Phr:
   das Wissen des göttlichen Geistes von sich durch Vermittlung des endlichen Geistes [Ger.] [Hegel, Lectures on the Philosophy of Religion, of religion]

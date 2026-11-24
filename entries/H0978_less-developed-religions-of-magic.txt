@@ -12,6 +12,7 @@ N:
   sacrifices, hecatomb, holocaust, human sacrifices, immolation, mactation†, infanticide, self-immolation, suttee
   deification, apotheosis, hero worship
   undeveloped religions of magic, the lowest religions, primitive religion, the religion of sorcerers, the religion of the Africans, the religion of the Eskimos, the angekok, the sorcerer, the wizard, the magician, the shaman, the rainmaker, the conjurer, the fetish-priest, the obeah-man, the singhili, the fetish, the amulet, the charm, the talisman, the juju, the totem, the mana, spirits, ghosts, the dead, the shades, the power of the dead, cult of the dead, possession, ecstasy, frenzy, the drum, the dance, incantation, spell, rain-making, weather-magic, healing magic, direct magic, the magic of the singular will, natural religion in its crudity
+  angakkok, obeah
 
 V:
   divine, heal, possess, trance
@@ -38,7 +39,7 @@ F:
   Yoruba: babalawo
   Greenlandic: angakkoq
   Melanesian: mana
-  Korean: mudang [shaman]
+  Korean: mudang [shaman], gut [shamanic rite]
 
 Phr:
   the spirit of the ancestors

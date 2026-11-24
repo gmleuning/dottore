@@ -7,6 +7,7 @@ HGloss: The content proper to sculpture: the objective spiritual, the eternal di
 N:
   essential content of sculpture; the divine, the eternal, the substantial, repose, gods and heroes
   the proper content of sculpture, the substance of sculpture, spirit in bodily form, objective spirituality, the human form, the god, the unity of mind and body, embodied spirit, repose in itself
+  theophany, divinity, apotheosis
 
 V:
   embody, enshrine
@@ -20,8 +21,7 @@ Adv:
   eternally
   essentially, bodily, in the body, in bodily form
 
-F:
-  Korean: sinseong [divinity]
-
 Phr:
   the god at rest
+  the eternal in human form
+  gods made visible

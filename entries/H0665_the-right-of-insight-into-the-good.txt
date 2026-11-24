@@ -21,8 +21,7 @@ Adv:
   on one's own insight
   with insight, knowingly, on one's own conviction
 
-F:
-  Korean: tongcharui gwolli [right of insight]
-
 Phr:
   I will accept nothing I do not see to be good
+  see for oneself
+  to be convinced

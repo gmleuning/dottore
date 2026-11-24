@@ -33,12 +33,9 @@ F:
   German: Gewalt
   Latin: vis, vi et armis
   Greek: bia
-  Arabic: ikrāh [coercion], jabr [compulsion]
-  Sanskrit: bala [force]
-  Chinese: qiangpo [coercion]
-  Japanese: kyōsei
-  Korean: gangje [coercion]
+  Arabic: jabr [compulsion]
 
 Phr:
   coercion is cancelled by coercion [Hegel]
   might is not right
+  strong-arm tactics

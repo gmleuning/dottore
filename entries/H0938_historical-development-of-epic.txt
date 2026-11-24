@@ -20,8 +20,7 @@ Adv:
   historically
   by stages, successively, through the ages
 
-F:
-  Korean: seosasiui yeoksa [history of the epic]
-
 Phr:
   from Gilgamesh to Milton
+  from Valmiki to Milton
+  the course of the epic

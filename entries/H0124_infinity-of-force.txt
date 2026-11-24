@@ -23,8 +23,8 @@ Adv:
 F:
   German: Selbsttätigkeit
   Latin: sua sponte
-  Sanskrit: śakti as self-manifesting power
-  Korean: himui muhanseong
 
 Phr:
   the force is its expression
+  to show what one is made of
+  spends itself only to return

@@ -36,14 +36,9 @@ Adv:
   frantically
 
 F:
-  German: Verrücktheit
   Latin: non compos mentis
   French: aliénation mentale, avoir le diable au corps
   Arabic: junūn [madness, lit. possession by jinn]
-  Sanskrit: unmāda [madness]
-  Chinese: fengkuang [madness]
-  Japanese: kyōki
-  Korean: jeongsin chakran [derangement], gwangi
 
 Phr:
   though this be madness, yet there is method in't [Hamlet]

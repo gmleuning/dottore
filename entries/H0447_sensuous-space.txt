@@ -7,6 +7,7 @@ HGloss: Space as given to sense, the here which is many heres.
 N:
   sensuous space; perceived space, visual field, lived space, here and there, near and far, orientation, location, surroundings
   sensible space, felt space, the sensuous here, extension, side-by-sideness
+  spatiality
 
 V:
   locate, orient, situate
@@ -23,8 +24,6 @@ Adv:
   where, everywhere
   in space, side by side
 
-F:
-  Korean: gamgakjeok gonggan
-
 Phr:
   here is a tree
+  within reach

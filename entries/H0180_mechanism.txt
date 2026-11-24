@@ -9,6 +9,7 @@ N:
   instrument
   mechanical relation, external relation, machinery
   robot
+  mechanicalness
 
 V:
   mechanize, automate, push, pull, drive, propel, transmit, assemble
@@ -23,15 +24,11 @@ Adv:
   externally
 
 F:
-  German: Mechanismus
   Latin: machina mundi
-  Arabic: ālī [mechanical]
   Sanskrit: yantra [machine, device]
-  Chinese: jixie [mechanism]
-  Japanese: kikai
-  Korean: gigyeron [mechanism]
 
 Phr:
   l'homme machine [Fr.] [La Mettrie]
   the world is a great machine
   the ghost in the machine [Ryle]
+  cogs in a machine

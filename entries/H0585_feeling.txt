@@ -28,11 +28,9 @@ Adv:
 
 F:
   German: Stimmung
-  Arabic: shuʿūr, ḥiss [sense]
   Sanskrit: vedanā [feeling]
-  Chinese: ganjue [feeling, sensation]
-  Japanese: kanjō [feeling]
-  Korean: gamjeong [feeling]
 
 Phr:
   I feel, therefore I am
+  a feeling in one's bones
+  to have a hunch

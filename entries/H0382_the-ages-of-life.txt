@@ -27,14 +27,10 @@ Adv:
   in the course of life
 
 F:
-  German: Lebensalter
   Latin: aetates, assume the toga virilis
-  Arabic: sinn [age]
   Sanskrit: āśrama [four stages: student, householder, forest dweller, renunciant]
-  Chinese: nianling [age]
-  Japanese: nenrei
-  Korean: insaengui sigi [ages of life]
 
 Phr:
   all the world's a stage [As You Like It]
   at fifteen I set my heart on learning ... at seventy I could follow my heart's desire without transgressing [Confucius]
+  the seven ages of man

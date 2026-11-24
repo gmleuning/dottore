@@ -41,10 +41,8 @@ F:
   German: Reflexionsbestimmung, Wesenheit, Denkbestimmung, Gedankenbestimmung, Verstandesbegriff, Verstand &c H0605, wesentlich
   Latin: terminus, principium identitatis, principium contradictionis, principium exclusi tertii, ex definitione, per se, stricto sensu
   French: point d'appui
-  Arabic: ḥadd [defining limit, definition], taʿrīf
   Sanskrit: vikalpa [conceptual construction]
   Chinese: zhengming [rectification of names]
-  Korean: gyujeonghaneun banseong
 
 Phr:
   determinatio negatio est [Lat.] [Spinoza]
@@ -52,3 +50,5 @@ Phr:
   distinguo [Lat.]
   if names be not correct, language is not in accordance with the truth of things [Confucius]
   a rose is a rose is a rose [Gertrude Stein]
+  to settle the matter
+  to call it what it is

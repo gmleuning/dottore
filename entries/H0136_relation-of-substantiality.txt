@@ -37,3 +37,4 @@ F:
 Phr:
   substance is that which is in itself and is conceived through itself [Spinoza]
   ti-yong [Chin.] [substance and function]
+  when all is said and done

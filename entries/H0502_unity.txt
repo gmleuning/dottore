@@ -25,12 +25,6 @@ Adj:
 Adv:
   as one, in unity, at one with
 
-F:
-  Arabic: waḥda [unity]
-  Sanskrit: ekatva [oneness]
-  Chinese: tongyi [unity]
-  Japanese: tōitsu
-  Korean: tongil [unity]
-
 Phr:
   to gar auto noein estin te kai einai [Gr.] [Parmenides]
+  all of a piece

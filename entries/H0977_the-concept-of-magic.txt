@@ -23,13 +23,14 @@ Adv:
   by magic, by will alone, by sheer will, by a word, by spell, at a word, directly, immediately, without mediation, as if by magic, potently
 
 F:
-  German: Zauberei, Begriff der Zauberei, Zauber, Macht, unmittelbare Macht
+  German: Zauberei, Zauber, Macht, unmittelbare Macht
   Latin: magia, ars magica, fiat
   Greek: mageia, goēteia
   Arabic: baraka [blessing-power]
   Polynesian: mana, tapu
   Iroquoian: orenda
-  Korean: juryeok [magical power]
 
 Phr:
   like produces like
+  the will that commands nature
+  a word of power

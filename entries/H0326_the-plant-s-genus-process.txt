@@ -16,6 +16,7 @@ N:
   poppy, veronica, milo, sunflower, maize, orchid, spelt, marguerite, columbine, oat, dahlia, aster, marigold, campion, snapdragon, carnation, bloomer, goldilocks, rosita
   cereal grass, hot water plant, spring beauty, wild rice, garden pink, babies'-breath, western wall flower, rice grass, cotton rose, sweet rocket, four o'clock, brass buttons, billy buttons, peace lily, composite plant, old maid flower, old maid, coral drops, bush violet, merry bells, white daisy, painted daisy, moon daisy, blue daisy, sweet alison, hedge pink, lace-flower vine, baby's breath, prairie rocket, mist-flower, woodland star, bouncing Bet, sea poppy, horn poppy, tidy tips, bachelor's button, scarlet musk flower, blazing star, ox-eyed daisy, wild oats, scorpion weed, pebble plant, poor man's orchid, blue marguerite, bouncing Bess, devil's flax, yellow horned poppy, horned poppy, pearl millet, kingfisher daisy, white-topped aster, stokes' aster, sun marigold, fig marigold, cape marigold, wild snapdragon, meeting house, sun plant, ice plant, sweet William
   millet
+  anthesis
 
 V:
   flower, blossom, bloom, pollinate, fertilize, fruit, seed, bear fruit, ripen, propagate, sow, germinate
@@ -35,12 +36,10 @@ Adv:
   in flower, in fruit, in seed, in season
 
 F:
-  Arabic: zahr [flower], thamar [fruit], bidhr [seed]
-  Sanskrit: puṣpa [flower], phala [fruit], bīja [seed]
-  Chinese: hua [flower], guo [fruit], zhong [seed]
-  Japanese: hana
-  Korean: sikmurui jongjok gwajeong
+  Sanskrit: bīja [seed]
 
 Phr:
   except a corn of wheat fall into the ground and die, it abideth alone [Bible]
   by their fruits ye shall know them [Bible]
+  to bear fruit
+  to go to seed

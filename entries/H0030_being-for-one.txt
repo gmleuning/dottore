@@ -8,6 +8,7 @@ N:
   being-for-one; ideality; for-me-ness, mineness; perspective, point of view, standpoint, angle, aspect, vantage point, viewpoint; representation, appearance-for, phenomenality; subjectivity, the subjective; appropriation, ownership, assimilation, taking-in; mental presence, intentional inexistence; the other as ideal moment
   phase, light
   the ideal moment, the moment, what is only for another
+  ideatum
 
 V:
   be for one, be for someone, appear to, present itself to, count for, matter to; appropriate, assimilate, internalize, take in, make one's own
@@ -22,11 +23,11 @@ Adv:
   for one
 
 F:
-  German: Idealität, Jemeinigkeit, Sein-für-Eines
+  German: Idealität, Jemeinigkeit
   Latin: me judice
   Sanskrit: sākṣin [witness]
-  Korean: inyeomseong [ideality], gwannyeomseong
 
 Phr:
   man is the measure of all things [Protagoras]
   beauty is in the eye of the beholder
+  all in the mind

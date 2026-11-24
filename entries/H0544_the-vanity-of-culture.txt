@@ -14,6 +14,7 @@ N:
   fop, fine gentleman, swell, dandy, dandiprat†, exquisite, coxcomb, beau, macaroni, blade, blood, buck, man about town, fast man, fribble, milliner†, Jemmy Jessamy†, carpet knight, masher, dude
   fine lady, coquette, flirt, vamp
   nullity, futility, vacuity, the vanity of all things, self-dissolving wit
+  jadedness
 
 V:
   preen, posture, show off, affect, pretend
@@ -34,11 +35,9 @@ Adv:
 F:
   Latin: vanitas
   Arabic: ghurūr [vanity, delusion]
-  Sanskrit: ahaṃkāra [ego, conceit]
-  Chinese: xurong [vanity]
-  Japanese: kyoei
-  Korean: gyoyangui heoyeong [vanity of culture]
 
 Phr:
   vanitas vanitatum, omnia vanitas [Lat.] [Bible]
   Vanity Fair [Bunyan]
+  too clever by half
+  seen it all

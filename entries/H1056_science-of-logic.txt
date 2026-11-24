@@ -7,6 +7,7 @@ HGloss: The Science of Logic, the pure thought determinations, the idea in the e
 N:
   Science of Logic; the Greater Logic, logic as metaphysics, the exposition of God before the creation, the realm of shadows, Being, Essence, Concept, objective and subjective logic
   the Logic, the Nuremberg Logic, the Doctrine of Being, the Doctrine of Essence, the Doctrine of the Concept, system of pure reason, science of pure thought, pure science, kingdom of pure thought, the truth without veil
+  thought-determinations
 
 V:
   unfold, develop, determine
@@ -22,7 +23,6 @@ Adv:
 
 F:
   German: Reich der Schatten
-  Korean: Nollihak [Science of Logic]
 
 Phr:
   the presentation of God as he is in his eternal essence before the creation of nature and a finite spirit [Hegel]

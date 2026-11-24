@@ -30,13 +30,10 @@ F:
   German: Bauch, Magen, Darm, Gedärm
   Latin: venter, alvus, intestina, anus
   Greek: gastēr, enteron, koilia
-  Arabic: jihāz haḍmī [digestive system]
-  Sanskrit: jaṭhara [stomach, belly]
-  Chinese: xiaohua xitong [digestive system]
-  Korean: sohwagye [digestive system]
 
 Phr:
   an army marches on its stomach
   the way to a man's heart is through his stomach
   eyes bigger than one's stomach
   to have the stomach for it
+  to digest

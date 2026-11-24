@@ -23,10 +23,9 @@ Adv:
 F:
   Latin: studia humanitatis, ad fontes, sola fide, sola scriptura, philosophus teutonicus
   Italian: Rinascimento, uomo universale
-  Arabic: al-nahḍa [renaissance]
-  Chinese: wenyi fuxing [renaissance]
-  Korean: Reunesangseu [Renaissance], jonggyo gaehyeok [Reformation]
 
 Phr:
   oration on the dignity of man [Pico]
   ad fontes [Lat.] [back to the sources]
+  here I stand
+  the rebirth of learning

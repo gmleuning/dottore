@@ -12,6 +12,7 @@ N:
   dueness &c H0620, seemliness
   due measure
   easing
+  mesotes, modicum
 
 V:
   measure, mete, gauge, proportion, temper, moderate, balance, keep within bounds, observe due measure, keep in proportion
@@ -27,7 +28,6 @@ Adv:
   in measure
 
 F:
-  German: Maß
   Latin: mensura, modus, aurea mediocritas
   Greek: metron, sōphrosynē, mesotēs [the mean], kairos [right time], ariston metron, mēden agan
   French: juste milieu
@@ -35,7 +35,6 @@ F:
   Arabic: wasaṭ [middle, moderation]
   Sanskrit: madhyamā pratipad
   Chinese: zhongyong [doctrine of the mean]
-  Korean: cheokdo [measure], jeoldo
 
 Phr:
   mēden agan [Gr.] [nothing in excess]
@@ -43,3 +42,4 @@ Phr:
   est modus in rebus [Lat.] [Horace]
   in medio stat virtus [Lat.]
   man is the measure of all things [Protagoras]
+  in good measure

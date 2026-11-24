@@ -31,12 +31,7 @@ Adv:
   after its kind
   in kind
 
-F:
-  Arabic: nasl [progeny]
-  Sanskrit: prajā [offspring]
-  Chinese: fanzhi [reproduction]
-  Japanese: hanshoku
-  Korean: dongmurui jongjok gwajeong
-
 Phr:
   be fruitful, and multiply [Bible]
+  to multiply
+  the survival of the kind

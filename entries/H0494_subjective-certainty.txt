@@ -26,9 +26,9 @@ Adv:
 
 F:
   German: Gewissheit [certainty, as distinct from Wahrheit, truth]
-  Arabic: ẓann [opinion]
   Sanskrit: svasaṃvedya [self-evident to oneself]
-  Korean: jugwanjeok hwaksilseong
 
 Phr:
   certainty is not truth
+  to know in one's heart
+  gut conviction

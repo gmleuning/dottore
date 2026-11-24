@@ -26,7 +26,7 @@ Adv:
   repeatedly
 
 F:
-  German: schlechte Unendlichkeit, die schlechte Unendlichkeit, Wechselbestimmung
+  German: schlechte Unendlichkeit, Wechselbestimmung
   Latin: progressus in infinitum, regressus in infinitum, circulus vitiosus, ignis fatuus, ad infinitum, ad nauseam
   Arabic: tasalsul [infinite chain]
   Sanskrit: saṃsāra [cycle of rebirth], anavasthā [infinite regress]
@@ -37,3 +37,4 @@ Phr:
   great fleas have little fleas upon their backs to bite 'em [Augustus De Morgan]
   who will guard the guards themselves? quis custodiet ipsos custodes? [Lat.] [Juvenal]
   the more things change, the more they stay the same
+  an endless round

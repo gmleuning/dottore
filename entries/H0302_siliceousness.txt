@@ -22,10 +22,5 @@ Adv:
   flintily
   in silica
 
-F:
-  Arabic: ṣawwān [flint]
-  Chinese: shiying [quartz]
-  Korean: gyujil [siliceousness]
-
 Phr:
   hard as flint

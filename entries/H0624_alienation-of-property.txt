@@ -34,10 +34,10 @@ Adv:
 F:
   German: Entäußerung
   Latin: derelictio, res extra commercium
-  Arabic: tafwīt [transfer], waqf [inalienable endowment]
-  Sanskrit: dāna [giving away]
-  Korean: yangdo [alienation of property]
+  Arabic: waqf [inalienable endowment]
 
 Phr:
   inalienable rights
   unveräußerlich sind daher diejenigen Güter … welche meine eigenste Person und das allgemeine Wesen meines Selbstbewußtseins ausmachen [Ger.] [Hegel, Philosophy of Right §66]
+  to sign away
+  to part with

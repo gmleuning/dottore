@@ -21,10 +21,7 @@ Adj:
 Adv:
   sensuously, through the senses
 
-F:
-  German: Sinnlichkeit
-  Arabic: maḥsūsāt [sensibles]
-  Korean: gamgakseong [sensuousness]
-
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]
+  before one's very eyes
+  to the touch

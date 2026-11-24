@@ -7,6 +7,7 @@ HGloss: The sensed thing, which proves to be a universal, a this that is many.
 N:
   the sensed thing; sensible object, perceived thing, sense object, phenomenon, thing as given
   the sensible thing, the thing of sense, the object of sense, the sensum, the perceptible
+  sense-datum
 
 V:
   sense, perceive, encounter
@@ -21,9 +22,6 @@ Adv:
   in sensation
   sensibly, to the senses
 
-F:
-  Arabic: maḥsūs [the sensed]
-  Korean: gamgakdoen samul
-
 Phr:
   the thing before me
+  this very thing

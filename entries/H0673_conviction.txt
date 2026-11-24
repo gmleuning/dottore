@@ -22,7 +22,8 @@ Adv:
 
 F:
   German: Gesinnungsethik [Max Weber]
-  Korean: hwaksin [conviction]
 
 Phr:
   the sincerity of the conviction excuses nothing
+  true to one's convictions
+  to the best of my belief

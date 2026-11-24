@@ -36,11 +36,11 @@ F:
   Greek: dynamis, energeia
   Arabic: quwwa [force, potency]
   Sanskrit: śakti [power, energy]
-  Chinese: li [force, strength], qi [vital force]
-  Japanese: chikara
-  Korean: himgwa balhyeon [force and expression]
+  Chinese: qi [vital force]
 
 Phr:
   knowledge is power [Bacon]
   may the force be with you
   scientia potentia est [Lat.]
+  to come into play
+  a force to be reckoned with

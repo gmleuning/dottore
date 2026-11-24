@@ -21,12 +21,6 @@ Adv:
   in nature, as nature
   in natural form, immediately
 
-F:
-  German: die natürliche Religion
-  Arabic: dīn ṭabīʿī
-  Sanskrit: prakṛti-pūjā [nature worship]
-  Chinese: ziran zongjiao [natural religion]
-  Korean: jayeon jonggyo [natural religion]
-
 Phr:
   God in the forms of nature
+  the gods of nature

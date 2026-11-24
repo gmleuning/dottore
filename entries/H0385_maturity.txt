@@ -31,12 +31,9 @@ Adv:
 F:
   German: Reife
   Latin: assume the toga virilis
-  Arabic: rushd [maturity]
   Sanskrit: gṛhastha [householder stage]
-  Chinese: chengshu [maturity]
-  Japanese: seijuku
-  Korean: jangnyeon [maturity], seongnyeon
 
 Phr:
   when I became a man, I put away childish things [Bible]
   nel mezzo del cammin di nostra vita [It.] [Dante]
+  to come of age

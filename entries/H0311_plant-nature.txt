@@ -18,6 +18,7 @@ N:
   herbaceous plant, baby blue-eyes, forget-me-not, earth-ball, touch-me-not, rock plant, money plant, gas plant, bar-room plant, air plant, wild coffee, garden plant, love apple, mad apple, cast-iron plant, red fox, silver dollar, garden egg, dead-men's-fingers, golden thread, yellow root, stone-root, stone root, pot plant, butter-flower, tall-grass, silver grass, short-grass, rush-grass, rush grass, love grass, giant star grass, finger grass, bunch grass, blue grass, beach grass, bay grass, sword grass, earth-tongue, drop-seed, morning glory, dead-man's-fingers, white rocket, wall rocket, sea-rocket, mouse ear, garden rocket, golden seal, devil grass, blue stem, blue devil, globe flower, mad-dog weed, heart-leaf, bible leaf, tobacco plant, sheep plant, ladies' tobacco, sea cole
   woods, pumpkin, woodland, raspberry, cucumber, watermelon, kiwi, bittersweet, swede
   seaweed, kelp, wrack, algae
+  phyton
 
 V:
   grow, sprout, shoot, burgeon, bud, blossom, bloom, flower, flourish, vegetate, root, germinate
@@ -37,12 +38,10 @@ F:
   Latin: regnum vegetabile, anima vegetativa, hortus siccus
   Greek: threptikon [nutritive soul]
   Spanish: ceja
-  Arabic: nabāt [plant life]
-  Sanskrit: vanaspati [plant, lord of the forest], oṣadhi [herb]
-  Chinese: zhiwu [plant]
-  Japanese: shokubutsu
-  Korean: sikmul [plant]
+  Sanskrit: vanaspati [plant, lord of the forest]
 
 Phr:
   consider the lilies of the field, how they grow [Bible]
   the force that through the green fuse drives the flower [Dylan Thomas]
+  the green world
+  to put down roots

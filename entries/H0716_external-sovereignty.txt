@@ -20,11 +20,7 @@ Adv:
   independently
   outwardly, in relation to other states
 
-F:
-  Arabic: istiqlāl [independence], siyāda [sovereignty]
-  Chinese: zhuquan [sovereignty]
-  Japanese: shuken
-  Korean: daeoe jugwon [external sovereignty]
-
 Phr:
   the first freedom of a people
+  independence day
+  master in one's own house

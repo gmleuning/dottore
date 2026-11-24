@@ -23,12 +23,9 @@ Adv:
   individually
 
 F:
-  German: subjektiver Geist
-  Arabic: nafs
   Sanskrit: jīvātman [individual self]
-  Chinese: zhuti jingshen [subjective spirit]
-  Japanese: shukanteki seishin
-  Korean: jugwanjeok jeongsin [subjective spirit]
 
 Phr:
   know thyself, gnōthi seauton [Gr.]
+  in one's own head
+  mind and body

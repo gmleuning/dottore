@@ -15,13 +15,12 @@ V:
 Adj:
   temporal, inward, sonorous
   inner, subjective, tonal, evanescent, transient, fleeting, objectless, non-spatial, audible
+  ineffable
 
 Adv:
   in time
   inwardly, in sound, in tones, fleetingly, successively
 
-F:
-  Korean: naemyeon [inner self]
-
 Phr:
   sound vanishes as it arises
+  sound that vanishes as it sounds

@@ -36,11 +36,9 @@ Adv:
 
 F:
   Latin: imperium, maiestas, imperator
-  Arabic: sulṭān [sovereign power], mulk [kingship]
-  Sanskrit: rājan [king]
-  Chinese: junzhu [monarch]
   Japanese: tennō [emperor]
-  Korean: gunju gwollyeok [sovereign power], jugwon
 
 Phr:
   the king reigns but does not govern
+  the buck stops here
+  the last word

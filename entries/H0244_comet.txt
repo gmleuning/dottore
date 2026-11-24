@@ -10,6 +10,7 @@ N:
   presage
   coruscation
   the cometary body, the vaporous body, formal process, restlessness
+  perihelion
 
 V:
   blaze, streak, flare, flash, trail, vanish, portend
@@ -27,12 +28,11 @@ Adv:
 F:
   Latin: cometa
   Greek: komētēs [long-haired]
-  Arabic: nayzak [meteor], mudhannab [comet, tailed star]
   Sanskrit: dhūmaketu [smoke-bannered, comet]
   Chinese: huixing [broom star, comet]
-  Japanese: suisei
-  Korean: hyeseong [comet]
 
 Phr:
   when beggars die there are no comets seen
   the heavens themselves blaze forth the death of princes [Julius Caesar]
+  a comet's tail
+  here and gone

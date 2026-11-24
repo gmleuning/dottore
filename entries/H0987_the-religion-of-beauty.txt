@@ -7,6 +7,7 @@ HGloss: The Greek religion of beauty, in which the gods are spiritual individual
 N:
   the religion of beauty; Greek religion, the Olympian gods, anthropomorphism, serenity, Apollo, Athena, the mysteries, oracles, fate, necessity
   Hellenic religion, the religion of the Hellenes, the religion of art, the religion of humanity, the religion of free humanity, Hellenism, paganism, polytheism, the Olympians, the twelve gods, Olympus, the pantheon, Zeus, Hera, Poseidon, Aphrodite, Artemis, Hermes, Dionysus, Demeter, the Titans, the old and the new gods, the Titanomachy, the Muses, the Graces, the Fates, Moira, Nemesis, the Eumenides, the Erinyes, the gods in human shape, the human form divine, the beautiful individuality, the ideal, plastic beauty, the statue, the temple, the festival, the games, the hymn, the cult of beauty, cheerfulness, blitheness, gladness, joyousness, the spiritual in sensuous form, the poets as makers of the gods, Homer, Hesiod, Phidias, Delphi, Eleusis
+  Olympianism
 
 V:
   celebrate, sculpt, worship in beauty
@@ -23,7 +24,7 @@ Adv:
 F:
   German: Heiterkeit, Schönheit, die schöne Individualität, Kunstreligion
   Greek: kalokagathia, theoi, anankē, to kalon, daimōn, mystēria, sōphrosynē
-  Korean: areumdaumui jonggyo [religion of beauty]
 
 Phr:
   the gods of Greece [Schiller]
+  beauty is truth

@@ -27,11 +27,11 @@ Adv:
 F:
   Latin: caritas, amor Dei
   Greek: agapē
-  Arabic: maḥabba [love], ʿishq ilāhī [divine love]
+  Arabic: ʿishq ilāhī [divine love]
   Sanskrit: bhakti [devotion]
-  Chinese: ci'ai [compassionate love]
-  Korean: jonggyojeok sarang [religious love]
 
 Phr:
   God is love, Deus caritas est [Lat.] [Bible]
   ubi caritas et amor, Deus ibi est [Lat.]
+  the love of God
+  mother and child

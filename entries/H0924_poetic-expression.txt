@@ -7,6 +7,7 @@ HGloss: The language of poetry, which is image and representation rather than th
 N:
   poetic expression; poetic language, diction, imagery, versification
   poetic speech, the poetic word, verbal art, wording, utterance, phrasing, figures of speech, verse, metre, rhyme
+  figuration, tropology
 
 V:
   express, image
@@ -20,8 +21,7 @@ Adv:
   poetically
   in words, in verse, expressively, figuratively
 
-F:
-  Korean: sieo [poetic language]
-
 Phr:
   winged words
+  the language of the gods
+  image rather than prose

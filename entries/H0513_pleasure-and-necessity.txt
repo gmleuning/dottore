@@ -13,6 +13,7 @@ N:
   Sybarite, voluptuary, man of pleasure, epicurean, sensualist
   predestination, foredoom
   the pleasure-seeker, the plucking of life, blind necessity, the dead actuality
+  sybaritism
 
 V:
   enjoy, indulge, seize pleasure, take one's pleasure, revel; be crushed by fate
@@ -32,12 +33,11 @@ Adv:
 
 F:
   Latin: carpe diem
-  Arabic: ladhdha [pleasure]
   Sanskrit: kāma
-  Chinese: xiangle [enjoyment]
-  Korean: kwaerakgwa pillyeon
 
 Phr:
   he takes hold of life much as a ripe fruit is plucked [Hegel]
   gather ye rosebuds while ye may [Herrick]
   Verweile doch, du bist so schön [Ger.] [Goethe]
+  eat, drink and be merry
+  to live for pleasure

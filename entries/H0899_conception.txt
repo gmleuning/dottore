@@ -7,6 +7,7 @@ HGloss: The painter's grasp of the subject as one situation, a single moment tha
 N:
   conception; conception, idea, design, invention, the first idea, sketch, vision
   apprehension, grasp, view, treatment, the way of seeing, the painter's vision, imagination, motif, the cartoon, the draft, the study
+  inventio
 
 V:
   conceive, design, envisage, sketch
@@ -22,7 +23,8 @@ Adv:
 
 F:
   Italian: concetto, disegno
-  Korean: gusang [conception]
 
 Phr:
   disegno interno [It.] [inner design]
+  the pregnant moment
+  one situation that holds the whole

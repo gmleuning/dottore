@@ -25,10 +25,8 @@ F:
   Latin: electricitas
   Greek: from ēlektron [amber]
   Arabic: kahrabāʾ [electricity, from Pers. kahrubā, straw-robber, amber]
-  Sanskrit: vidyut [lightning]
-  Chinese: dian [electricity, lightning]
-  Japanese: denki
-  Korean: jeongi [electricity]
 
 Phr:
   lightning never strikes twice in the same place
+  a charged atmosphere
+  sparks fly

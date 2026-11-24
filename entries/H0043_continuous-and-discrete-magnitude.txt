@@ -29,9 +29,9 @@ F:
   German: Kontinuität, Diskretion
   Latin: gradatim
   Greek: synecheia
-  Korean: yeonsongnyang [continuous], bulliryang [discrete]
 
 Phr:
   natura non facit saltus [Lat.] [Linnaeus, Philosophia Botanica §77]
   la nature ne fait jamais des sauts [Fr.] [Leibniz, New Essays, Preface]
   drop by drop, gutta cavat lapidem [Lat.]
+  in an unbroken line

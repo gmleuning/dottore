@@ -7,6 +7,7 @@ HGloss: The calm realm of laws which the understanding sets beyond the flux of a
 N:
   laws; laws of nature, natural laws, regularities, uniformities, equations, formulae, principles, constants, the realm of laws
   the stable image of appearance
+  nomology, regularity
 
 V:
   formulate, derive, discover, explain by law
@@ -20,11 +21,7 @@ Adv:
   according to law, lawfully
   by law, regularly
 
-F:
-  Arabic: qawānīn [laws]
-  Sanskrit: niyama
-  Chinese: dinglü [laws]
-  Korean: beopchik [laws]
-
 Phr:
   nature is the realm of laws
+  the laws of nature
+  by the book

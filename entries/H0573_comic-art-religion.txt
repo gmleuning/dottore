@@ -35,12 +35,10 @@ Adv:
 
 F:
   Greek: kōmōidia
-  Arabic: malhāh [comedy]
   Sanskrit: prahasana [farce]
-  Chinese: xiju [comedy]
-  Japanese: kigeki
-  Korean: huigeuk [comedy]
 
 Phr:
   ridentem dicere verum [Lat.] [to tell the truth laughing] [Horace]
   dies unglückliche Bewußtsein [macht] die Gegenseite und Vervollständigung des in sich vollkommen glücklichen, des komischen Bewußtseins aus [Ger.] [Hegel, Phenomenology ¶752]
+  the mask slips
+  to laugh at the gods

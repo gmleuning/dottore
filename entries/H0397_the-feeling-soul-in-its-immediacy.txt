@@ -63,11 +63,8 @@ F:
   Latin: ebrietas, temulentia, crapula
   Greek: methē, pharmakon, nēpenthes
   French: participation mystique [Lévy-Bruhl], mania a potu, bouse, ivresse, gueule de bois [hangover], paradis artificiels [Baudelaire]
-  Arabic: sukr [intoxication], khamr [wine]
+  Arabic: sukr [intoxication]
   Sanskrit: mada [intoxication], soma
-  Chinese: zui [drunk]
-  Japanese: futsukayoi [hangover]
-  Korean: jikjeopjeok neukkineun yeonghon
 
 Phr:
   the oceanic feeling [Romain Rolland, via Freud]
@@ -79,3 +76,5 @@ Phr:
   the hair of the dog that bit you
   turn on tune in drop out [Leary]
   Confessions of an English Opium-Eater [De Quincey]
+  in one's bones
+  a gut feeling

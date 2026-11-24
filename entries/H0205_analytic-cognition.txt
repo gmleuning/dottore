@@ -23,11 +23,8 @@ Adv:
 
 F:
   Greek: analusis
-  Arabic: taḥlīl [analysis]
-  Sanskrit: viśleṣaṇa [analysis]
-  Chinese: fenxi [analysis]
-  Japanese: bunseki
-  Korean: bunseokjeok insik [analytic cognition]
 
 Phr:
   we murder to dissect [Wordsworth]
+  to break it down
+  to take apart

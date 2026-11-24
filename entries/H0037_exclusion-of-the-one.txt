@@ -9,6 +9,7 @@ N:
   nonadmission, noninclusion†, preclusion, exception
   separation, segregation, proscription
   the excluding one, repulsion
+  apartness
 
 V:
   exclude, shut out, keep out, rule out, bar, ban, debar, reject, repel, repudiate, ostracize, banish, expel, exile, excommunicate, blackball, boycott, blacklist, cold-shoulder, cut off, wall off, fence out; close ranks
@@ -25,9 +26,10 @@ Adv:
 
 F:
   Afrikaans: apartheid
-  Korean: baeje [exclusion]
 
 Phr:
   odi profanum vulgus et arceo [Lat.] [Horace]
   no admittance
   we do not need you, we have each other
+  keep oneself to oneself
+  to stand apart

@@ -31,7 +31,8 @@ Adv:
 F:
   Latin: menstruum, solve et coagula [dissolve and coagulate]
   Greek: hieros gamos [sacred marriage]
-  Korean: hwahakjeok gwajeong
 
 Phr:
   solve et coagula [Lat.]
+  to cancel each other out
+  neutral ground

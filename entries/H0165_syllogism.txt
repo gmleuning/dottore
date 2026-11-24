@@ -32,11 +32,10 @@ F:
   Greek: syllogismos
   Arabic: qiyās [syllogism, analogy]
   Sanskrit: anumāna [inference], pañcāvayava [five-membered syllogism]
-  Chinese: tuili [inference], sanduanlun [syllogism]
-  Japanese: sandanronpō
-  Korean: churon [syllogism], samdannonbeop
+  Korean: churon [syllogism], samdannonbeop [three-step syllogism]
 
 Phr:
   everything rational is a syllogism [Hegel]
   all men are mortal, Socrates is a man, therefore Socrates is mortal
   barbara, celarent, darii, ferio [Lat.]
+  to put two and two together

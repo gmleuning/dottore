@@ -36,12 +36,9 @@ F:
   Latin: agricola, magnifico
   Greek: geōrgos
   French: comme il faut
-  Arabic: fallāḥūn [peasants]
-  Sanskrit: kṛṣīvala [ploughman]
-  Chinese: nongmin [peasant]
-  Japanese: hyakushō [farmer], daimio, daimyo, samurai, shizoku
-  Korean: nongmin sinbun [agricultural estate]
 
 Phr:
   o fortunatos nimium, sua si bona norint, agricolas [Lat.] [Virgil]
   the family-based ethical life of the soil
+  salt of the earth
+  to till the soil

@@ -10,6 +10,7 @@ N:
   symbol, token
   the finger, the bird [U.S. Slang], the middle finger, the V-sign [Brit.], two fingers [Brit.], the forks [Brit. Slang], thumbs-up, thumbs-down, high five, fist bump, air quotes, eye roll, the OK sign, peace sign, jazz hands, devil horns, finger guns, the wanker gesture [Brit. Vulg.], the up-yours [Brit. Vulg.]
   blinking
+  kinesics
 
 V:
   gesture, gesticulate, sign, signal, motion, beckon, wave, nod, shrug, wink, point
@@ -28,11 +29,9 @@ Adv:
 
 F:
   Latin: gestus
-  Arabic: ishāra [gesture, sign]
   Sanskrit: mudrā [ritual gesture]
-  Chinese: shoushi [hand sign]
-  Japanese: miburi
-  Korean: momjit [gesture]
 
 Phr:
   actions speak louder than words
+  a nod and a wink
+  to wave goodbye

@@ -19,6 +19,7 @@ N:
   acclivity, rise, ascent, gradient, khudd†, rising ground, hill, bank, declivity, downhill, dip, fall, devexity†, gentle slope, rapid slope, easy ascent, easy descent, shelving beach, talus
   one-dimensional extension
   road
+  linearity
 
 V:
   line, draw, trace, stroke, streak, extend, rule, underline, delineate
@@ -42,12 +43,9 @@ F:
   Latin: linea, facilis descensus averni
   Greek: grammē
   French: monagne Russe
-  Arabic: khaṭṭ [line]
-  Sanskrit: rekhā [line]
-  Chinese: xian [line]
-  Japanese: sen
-  Korean: seon [line]
 
 Phr:
   a line is breadthless length [Euclid]
   the shortest distance between two points
+  as the crow flies
+  in a straight line

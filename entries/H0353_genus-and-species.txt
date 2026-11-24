@@ -21,6 +21,7 @@ N:
   bulldog, doggy, piggy, stallion, greyhound, filly, albino, starfish, doggie, larva, vertebrate, pooch, mutt, foal, corgi, piglet, cocker, centipede, maggot, foetus, critter, invertebrate, gelding, bloodhound, purebred, dachshund, basset
   animate being, work animal, sea animal, range animal, spirit animal, domestic animal, marine animal, sea creature, marine creature, fictional animal, predatory animal, domesticated animal, fertilized egg, big game, small game, house cat, male horse, domestic dog, domestic cat, young bird, draft animal, church mouse, lamp shell, sea moss, moss animal, sea mat, peanut worm, bladder worm, comb jelly, young mammal, working dog, sea star, coach dog, pack animal, baby bird, hunting dog, tiger cat, bow-wow, sea spider, basket star, basket fish, kitty-cat, alley cat, carriage dog, velvet worm, tongue worm, tomato worm, potato worm, measuring worm, army worm, wolf pup, glass sponge, wolf cub, serpent star, sea cucumber, tent caterpillar, brittle-star, brittle star, horseshoe crab
   zoo, jellyfish
+  phylum
 
 V:
   classify, class, sort, name
@@ -37,10 +38,9 @@ Adv:
 
 F:
   Latin: zoologia, Systema Naturae, ferae naturae
-  Arabic: ʿilm al-ḥayawān [zoology], Kitāb al-Ḥayawān [al-Jāḥiẓ]
-  Sanskrit: prāṇiśāstra [zoology]
-  Chinese: dongwuxue [zoology]
-  Korean: yuwa jong [genus and species], dongmulhak
+  Arabic: Kitāb al-Ḥayawān [al-Jāḥiẓ]
 
 Phr:
   two of every sort shalt thou bring into the ark [Bible]
+  of every kind
+  birds of a feather

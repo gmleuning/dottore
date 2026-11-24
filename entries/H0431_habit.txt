@@ -41,16 +41,13 @@ Adv:
   newly, freshly
 
 F:
-  German: Gewohnheit
   Latin: habitus, consuetudo, stare super antiquas vias, more solito
   Greek: hexis
-  Arabic: ʿāda [habit, custom], malaka [disposition, habitus]
+  Arabic: malaka [disposition, habitus]
   Sanskrit: saṃskāra [impression, latent habit], vāsanā [habitual tendency]
-  Chinese: xiguan [habit]
-  Japanese: shūkan
-  Korean: seupgwan [habit]
 
 Phr:
   habit is second nature, consuetudo est altera natura [Lat.]
   we are what we repeatedly do [Will Durant]
   old habits die hard
+  a creature of habit

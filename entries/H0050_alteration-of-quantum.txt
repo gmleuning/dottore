@@ -35,9 +35,9 @@ Adv:
 
 F:
   French: bourgeon
-  Korean: jeongnyangui byeonhwa
 
 Phr:
   crescit eundo [Lat.]
   vires acquirit eundo [Lat.] [Virgil]
   many a little makes a mickle
+  the thin end of the wedge

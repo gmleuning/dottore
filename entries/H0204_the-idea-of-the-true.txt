@@ -13,6 +13,7 @@ N:
   thought, intellection, reflection, cogitation
   illusion, delusion, snare, false impression, false idea, bubble, self-decit, self-deception, mists of error
   the theoretical idea, theoretical cognition, the search for truth
+  theoria
 
 V:
   inquire, investigate, research, study, explore, seek the truth, theorize, contemplate
@@ -32,11 +33,9 @@ Adv:
 F:
   German: Wissenschaft
   Greek: theōria, philosophia
-  Arabic: ḥaqīqa
-  Sanskrit: satya
-  Chinese: qiu zhen [seeking truth]
-  Korean: chamui inyeom [idea of the true]
 
 Phr:
   veritas liberabit vos [Lat.] [Bible]
   amicus Plato, sed magis amica veritas [Lat.]
+  in search of truth
+  to get at the truth

@@ -27,9 +27,7 @@ F:
   German: Abendland [the Occident]
   Latin: Germania
   Arabic: al-Ifranj [the Franks, Europeans]
-  Chinese: xifang [the West]
-  Japanese: seiyō
-  Korean: gereuman segye [Germanic world]
 
 Phr:
   the German World knows that All are free [Hegel, Philosophy of History, tr. Sibree]
+  the freedom of a Christian

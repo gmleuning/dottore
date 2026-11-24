@@ -7,6 +7,7 @@ HGloss: The consequences of magnetizing, a dependency of the patient's feeling o
 N:
   effects; outcomes, results, aftereffects, consequences, influence, crisis, convulsion, catharsis, relief
   outcome, magnetic sleep, insensibility
+  rapport, suggestibility
 
 V:
   affect, influence, relieve, convulse, purge
@@ -19,8 +20,7 @@ Adj:
 Adv:
   in effect, as a result
 
-F:
-  Korean: hyogwa [effects]
-
 Phr:
   the cure is worse than the disease
+  under someone's spell
+  at someone's beck and call

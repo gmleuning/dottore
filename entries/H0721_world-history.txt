@@ -9,6 +9,7 @@ N:
   progression, progressiveness, advancement, ongoing, flood, tide, headway, march &c H0228, rise
   improvement, amelioration, melioration, betterment, mend, amendment, emendation, mending, ascent &c H0228, promotion, preferment, elevation &c H0228, cultivation, civilization, culture, march of intellect, menticulture†, race-culture, eugenics
   the world's court of judgment, the march of the world-spirit, theodicy
+  historiography
 
 V:
   progress, unfold, advance, march, judge
@@ -30,11 +31,7 @@ Adv:
 F:
   German: Weltgericht, List der Vernunft
   Latin: historia universalis
-  Arabic: tārīkh al-ʿālam [world history], al-Muqaddima [Ibn Khaldun]
-  Sanskrit: itihāsa [history]
-  Chinese: shijie shi [world history]
-  Japanese: sekaishi
-  Korean: segyesa [world history]
+  Arabic: al-Muqaddima [Ibn Khaldun]
 
 Phr:
   world history is the world's court of judgment, die Weltgeschichte ist das Weltgericht [Ger.] [Schiller, Hegel]

@@ -25,12 +25,10 @@ Adv:
   by nature, by circumstance
 
 F:
-  German: Beschaffenheit, Grenze, Bestimmung
+  German: Beschaffenheit, Grenze
   Latin: finis, terminus
   Greek: telos, peras [limit]
   Arabic: ḥadd
-  Sanskrit: sīmā [boundary]
-  Chinese: jie [boundary]
   Korean: gyujeong [determination], hangye [limit]
 
 Phr:

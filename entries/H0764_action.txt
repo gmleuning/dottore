@@ -10,6 +10,7 @@ N:
   history, tale, adventures, fortunes
   proceeding, measure, step, move, stroke, coup
   doing, opposition, reaction, resolution, drama
+  praxis
 
 V:
   act, plot, unfold, develop, collide
@@ -27,11 +28,8 @@ Adv:
 F:
   German: Kollision
   Greek: mythos
-  Arabic: ḥabka [plot]
-  Sanskrit: kathā [story]
-  Chinese: qingjie [plot]
-  Japanese: suji
-  Korean: haengwi [action], haengdong
 
 Phr:
   plot is the soul of tragedy [Aristotle]
+  actions speak louder than words
+  the plot thickens

@@ -16,6 +16,7 @@ N:
   poet, poet laureate, laureate, bard, lyrist†, scald, skald†, troubadour, minstrel, minnesinger, improvisatore†, versifier, sonneteer, rhymer, rhymist†, rhymester, ballad monger, runer†, poetaster
   poem, epic, epic poem, epopee†, epopoea, ode, epode†, idyl, eclogue, pastoral, bucolic, dithyramb, anacreontic†, sonnet, roundelay, rondo, madrigal, cento†, elegy, amoebaeum, ghazal†, palinode
   the art of words, verbal art, the poetic art, poetic imagination, minstrelsy, balladry, versification, prosody
+  versecraft
 
 V:
   versify, poetize, compose, sing, rhyme
@@ -36,12 +37,10 @@ F:
   Latin: carmen, genus irritabile vatum
   Greek: poiēsis
   French: trouvere, rondeau
-  Arabic: shiʿr [poetry]
   Sanskrit: kāvya [poetry]
-  Chinese: shi [poetry]
-  Japanese: shiika, waka
-  Korean: si [poetry], siga [poetry and song]
+  Japanese: waka
 
 Phr:
   die allgemeine Kunst, welche jeden Inhalt … in jeder Form gestalten und aussprechen kann [Ger.] [Hegel, Aesthetics, on poetry]
   the best words in the best order [Coleridge]
+  the music of words

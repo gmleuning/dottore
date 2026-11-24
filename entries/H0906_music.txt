@@ -11,6 +11,7 @@ N:
   opera
   cadence, resonance &c H0264
   the art of sound, the art of tones, minstrelsy, musicianship, song, Euterpe, Polyhymnia, Orpheus, the music of the spheres
+  tonality, euphony, sonority
 
 V:
   compose, play, sing, perform, harmonize, orchestrate
@@ -34,12 +35,11 @@ F:
   Greek: mousikē
   French: piece of music, rondeau
   Italian: notturno, passamezzo
-  Arabic: mūsīqā [music], ṭarab [musical ecstasy], maqām [melodic mode]
-  Sanskrit: saṅgīta [music], rāga
-  Chinese: yinyue [music]
-  Japanese: ongaku
-  Korean: eumak [music], eum [tone]
+  Arabic: ṭarab [musical ecstasy], maqām [melodic mode]
+  Sanskrit: rāga
 
 Phr:
   die letzte subjektive Innerlichkeit als solche [Ger.] [Hegel, Aesthetics, on music]
   all art constantly aspires towards the condition of music [Walter Pater]
+  music hath charms
+  the food of love

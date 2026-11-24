@@ -21,11 +21,8 @@ Adv:
 
 F:
   Latin: in utero
-  Arabic: janīn [foetus]
   Sanskrit: garbha [womb, embryo]
-  Chinese: taier [foetus]
-  Japanese: taiji
-  Korean: taea [fetus], tae [womb]
 
 Phr:
   before I formed thee in the belly I knew thee [Bible]
+  flesh of my flesh

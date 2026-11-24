@@ -11,6 +11,7 @@ N:
   essay, trial, attempt
   errantry, derring-do, accident, chance encounter, wandering, aventure
   pastime
+  quixotry
 
 V:
   adventure, venture, quest, wander, rove, roam
@@ -30,10 +31,9 @@ Adv:
   at a venture, at hazard, by chance, on the quest
 
 F:
-  Arabic: mughāmara [adventure], riḥla [journey]
-  Chinese: maoxian [adventure]
-  Japanese: bōken
-  Korean: moheom [adventures]
+  Arabic: riḥla [journey]
 
 Phr:
   the knight of the woeful countenance [Cervantes]
+  to seek one's fortune
+  tilting at windmills

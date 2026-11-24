@@ -11,6 +11,7 @@ N:
   assets, belongings, means, resources, wealth &c H0696, estate and effects
   command, empire, sway, domination, sovereignty, supremacy, suzerainty, lordship
   the commonweal, the universal work, the good, the bad, judgment, valuation
+  plutocracy
 
 V:
   rule, govern, possess, enrich, amass, distribute, bestow
@@ -30,11 +31,10 @@ F:
   German: Staatsmacht und Reichtum
   Latin: divitiae
   Greek: ploutos
-  Arabic: sulṭa [authority], tharwa [wealth]
   Sanskrit: artha [wealth, power]
-  Chinese: quanli [power], caifu [wealth]
-  Korean: gukka gwollyeokgwa bu [state power and wealth]
 
 Phr:
   money makes the world go round
   pecunia non olet [Lat.] [money does not stink]
+  power and riches
+  money talks

@@ -24,7 +24,8 @@ Adv:
 
 F:
   Arabic: ʿazīma [incantation]
-  Korean: yubal [inducing], choemyeon geolgi
 
 Phr:
   look into my eyes
+  to put under
+  you are getting sleepy

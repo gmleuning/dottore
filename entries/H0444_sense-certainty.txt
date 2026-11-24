@@ -22,12 +22,11 @@ Adv:
 
 F:
   German: sinnliches Bewusstsein, die sinnliche Gewißheit, das Diese, Meinen
-  Arabic: ḥissī [sensory]
   Sanskrit: pratyakṣa [direct perception], nirvikalpa [non-conceptual perception]
-  Chinese: ganxing zhengque [sensory certainty]
   Korean: gamgakjeok hwaksilseong [sense-certainty]
 
 Phr:
   now is night [Hegel]
   the richest kind of knowledge, but in truth the most abstract and poorest [Hegel]
   this, here, now
+  seeing is believing

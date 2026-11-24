@@ -26,9 +26,10 @@ Adv:
 F:
   Latin: cui bono, summum bonum
   French: raison d'etre
-  Arabic: niyya, maṣlaḥa [welfare]
+  Arabic: maṣlaḥa [welfare]
   Sanskrit: yogakṣema [welfare]
-  Korean: uidowa bokji [intention and welfare]
 
 Phr:
   actions are judged by intentions, innamā al-aʿmālu bi-l-niyyāt [Ar.] [Hadith]
+  the road to hell is paved with good intentions
+  to mean well

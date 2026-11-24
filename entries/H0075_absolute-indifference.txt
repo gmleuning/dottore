@@ -8,6 +8,7 @@ N:
   absolute indifference; indifference, neutrality, undifferentiatedness, sameness, identity, substrate, substratum, underlying substance, prime matter; the absolute as indifference of subject and object; night in which all cows are black; equanimity, indifference to all distinction; hundun; neutral monism
   coincidence, coalescence, equality &c H0045
   the indifferent substrate, the underlying stuff, the indifference-point, the persisting substrate
+  adiaphoron
 
 V:
   underlie, persist, subsist, remain the same, be indifferent, abide
@@ -26,13 +27,12 @@ Adv:
   throughout
 
 F:
-  German: absolute Indifferenz
   Latin: materia prima
   Greek: hypokeimenon, hylē
   Sanskrit: prakṛti [primal matter]
   Chinese: hundun [primordial chaos]
-  Korean: jeoldaejeok muchabyeol [absolute indifference]
 
 Phr:
   the night in which all cows are black [Hegel]
   it is all one
+  neither here nor there

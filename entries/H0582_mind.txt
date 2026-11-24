@@ -33,12 +33,12 @@ F:
   German: Vernunft, Verstand
   Latin: mens, animus, mens sana
   Greek: psychē, nous
-  Arabic: ʿaql [mind, intellect], dhihn [mind]
   Sanskrit: manas [mind], citta [mind-stuff], antaḥkaraṇa [inner instrument]
   Chinese: xin [heart-mind]
-  Japanese: kokoro [heart-mind], seishin [spirit, mind]
-  Korean: simnihak [psychology], jeongsin [mind]
+  Japanese: kokoro [heart-mind]
 
 Phr:
   mens agitat molem [Lat.] [mind moves matter] [Virgil]
   cogito, ergo sum [Lat.] [Descartes]
+  of two minds
+  peace of mind

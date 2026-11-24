@@ -7,6 +7,7 @@ HGloss: The general character of painting, the reduction of three dimensions to 
 N:
   general character of painting; the plane surface, two dimensions, illusion of depth, inner life made visible, the reflected world
   the nature of painting, the painterly, pictorial character, semblance, appearance, visibility, inwardness, subjectivity, reduction to the plane, the art of seeming
+  planarity
 
 V:
   flatten, project, illude
@@ -20,8 +21,7 @@ Adv:
   on the flat
   pictorially, in appearance, to the eye, in general
 
-F:
-  Korean: pyeongmyeon [plane surface]
-
 Phr:
   a window onto the world [Alberti]
+  depth on a flat surface
+  the window on the world

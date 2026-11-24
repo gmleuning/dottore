@@ -26,7 +26,7 @@ Adv:
 
 F:
   French: ordonnance
-  Korean: gudo [composition], baechi [arrangement]
 
 Phr:
   the pyramid of figures
+  balance and grouping

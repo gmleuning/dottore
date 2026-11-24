@@ -30,12 +30,9 @@ Adv:
   with the seasons
 
 F:
-  Arabic: mawāsim [seasons]
-  Sanskrit: ṛtu [season]
   Chinese: jieqi [solar terms]
-  Japanese: sekki
-  Korean: gyejeol [season], taeyang gwangye
 
 Phr:
   to every thing there is a season [Bible]
   if winter comes, can spring be far behind? [Shelley]
+  summer and winter

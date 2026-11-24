@@ -28,14 +28,14 @@ Adv:
   in content
 
 F:
-  German: Inhalt, Form und Inhalt
+  German: Inhalt
   French: signifiant et signifié [Saussure]
   Arabic: maʿnā [meaning] and lafẓ [expression]
   Sanskrit: artha [meaning] and śabda [word]
-  Chinese: neirong [content] and xingshi [form]
-  Korean: hyeongsikgwa naeyong [form and content]
 
 Phr:
   the medium is the message [McLuhan]
   the letter killeth, but the spirit giveth life [Bible]
   le style est l'homme même [Fr.] [Buffon]
+  style and substance
+  the gist of it

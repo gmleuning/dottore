@@ -28,10 +28,10 @@ F:
   Greek: daimōn, daimonion [Socrates' inner voice]
   Arabic: qarīn [companion spirit]
   Sanskrit: iṣṭa-devatā [chosen deity]
-  Chinese: shouhushen [guardian deity]
-  Japanese: shugorei
-  Korean: suhoryeong [genius], cheonjae
+  Korean: suhoryeong [guardian spirit]
 
 Phr:
   the daimonion of Socrates
   character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]
+  one's guardian angel
+  a good genius

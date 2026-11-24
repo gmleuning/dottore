@@ -21,14 +21,11 @@ Adv:
   in the concept
 
 F:
-  German: der sich begreifende Begriff, Wissenschaft
+  German: der sich begreifende Begriff
   Latin: scientia
   Greek: epistēmē
-  Arabic: ʿilm
-  Sanskrit: vidyā
-  Chinese: kexue [science]
-  Japanese: gakumon [learning]
-  Korean: hangmun [science]
 
 Phr:
   the true shape in which truth exists can only be the scientific system of it [Hegel]
+  the science of it
+  to grasp the whole

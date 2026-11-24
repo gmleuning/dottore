@@ -32,14 +32,13 @@ Adv:
   perceptually, in perception
 
 F:
-  German: das Ding und die Täuschung, Wahrnehmung
+  German: das Ding und die Täuschung
   Latin: perceptio
-  Arabic: idrāk [perception]
-  Sanskrit: pratyakṣa, savikalpa [conceptual perception]
-  Chinese: zhijue [perception]
-  Japanese: chikaku
-  Korean: jigak [perception], chakgak [deception]
+  Sanskrit: savikalpa [conceptual perception]
+  Korean: jigak [perception]
 
 Phr:
   salt is white, and also tart, and also cubical [Hegel]
   things are not always what they seem
+  to see things as they are
+  an optical illusion

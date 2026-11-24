@@ -43,13 +43,11 @@ F:
   Latin: taedium vitae
   French: ennui, mal du siècle, la nausée, la maladie sans maladie, malade imaginaire, medecin tant pis
   Italian: il penseroso
-  Arabic: saʾam [weariness]
   Sanskrit: nirveda [world-weariness]
-  Chinese: yanshi [world-weariness]
-  Japanese: ensei, mono no aware [pathos of things]
-  Korean: yeomsejuui [world-weariness]
+  Japanese: mono no aware [pathos of things]
 
 Phr:
   how weary, stale, flat and unprofitable seem to me all the uses of this world! [Hamlet]
   taedium vitae [Lat.]
   not to be born is best [Sophocles]
+  tired of life

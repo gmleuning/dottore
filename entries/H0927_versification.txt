@@ -25,11 +25,10 @@ Adv:
   in metre, in measure, rhythmically, in numbers
 
 F:
-  Arabic: ʿarūḍ [prosody], baḥr [metre]
+  Arabic: ʿarūḍ [prosody]
   Sanskrit: chandas [metre]
-  Chinese: gelü [prosodic rules]
-  Japanese: inritsu
-  Korean: jaksibeop [versification], unyul [metre]
 
 Phr:
   verse is a measured speech
+  the music of verse
+  scan a line

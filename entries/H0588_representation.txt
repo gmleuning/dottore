@@ -31,14 +31,14 @@ Adv:
   in idea, in the mind
 
 F:
-  German: vorstellen, Vorstellung
+  German: vorstellen
   Latin: repraesentatio
   Greek: phantasia, eidolon
   Arabic: taṣawwur [conception, representation]
-  Sanskrit: vikalpa [mental construction], pratyaya [idea]
-  Chinese: biaoxiang [representation]
-  Japanese: hyōshō
+  Sanskrit: vikalpa [mental construction]
   Korean: pyosang [representation]
 
 Phr:
   the map is not the territory [Korzybski]
+  to picture to oneself
+  to form an idea of

@@ -7,6 +7,7 @@ HGloss: The monarch, the will's final decision, the subjectivity of the state.
 N:
   the sovereign as person and subject; the monarch as decisive will, the dotting of the i, final decision, the I will, royal assent, sign-off
   the monarch, the person of the prince, the "I will", the personal will, personality of the state, the subjectivity of the state, the royal person, the crown
+  regality
 
 V:
   decide, sign, ratify, assent, dot the i
@@ -24,8 +25,9 @@ Adv:
 
 F:
   Latin: fiat
-  Korean: ingyeokgwa jucheroseoui gunju
 
 Phr:
   to dot the i [Hegel on the monarch]
   le roi le veut [Fr.] [the king wills it]
+  l'état, c'est moi
+  to dot the i's

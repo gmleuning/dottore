@@ -28,13 +28,11 @@ F:
   German: Bewusstsein, Weg der Verzweiflung, Erfahrung, Bildungsroman [of the mind]
   Latin: conscientia
   Greek: syneidēsis
-  Arabic: shuʿūr [consciousness], wiʿy
   Sanskrit: vijñāna [consciousness], caitanya
-  Chinese: yishi [consciousness]
-  Japanese: ishiki
-  Korean: jeongsin hyeonsanghak [phenomenology of spirit], uisik
 
 Phr:
   the highway of despair [Hegel]
   experience is the best teacher
   pathei mathos [Gr.] [learning through suffering] [Aeschylus]
+  to come to one's senses
+  aware of

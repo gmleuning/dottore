@@ -11,6 +11,7 @@ N:
   native, indigene, aborigines, autochthones†, Englishman, John Bull, newcomer &c H0081
   racial difference, the spirits of peoples, local spirits
   racism, racial profiling, prejudice, bigotry, bigot, discrimination, xenophobia, xenophobe, sexism, homophobia, homophobe, segregation, apartheid, ethnicity, diversity, multiculturalism, immigration, migrant, migration, refugee, asylum seeker, expat, foreigner, citizen, citizenship
+  ethnos, Volksgeist
 
 V:
   characterize, typify, differ, vary by region
@@ -33,10 +34,9 @@ Adv:
 F:
   German: Volkscharakter
   Latin: genius loci
-  Arabic: ṭabāʾiʿ al-umam [natures of nations], ʿaṣabiyya [group feeling] [Ibn Khaldun]
-  Chinese: minzu xing [national character]
+  Arabic: ʿaṣabiyya [group feeling] [Ibn Khaldun]
   Japanese: fūdo [climate and culture] [Watsuji]
-  Korean: injong [race], minjok [nation]
 
 Phr:
   caelum non animum mutant qui trans mare currunt [Lat.] [Horace]
+  every nation under heaven

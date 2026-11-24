@@ -10,6 +10,7 @@ N:
   support, basis
   base, basement, bedrock, foundation &c H0220, substructure, substratum
   the ground-relation, the basis as such, the simple ground
+  archē
 
 V:
   ground, found, underlie, sustain, bear up, give rise to
@@ -26,7 +27,8 @@ Adv:
 F:
   German: Grund und Folge
   Latin: ratio et rationatum
-  Korean: jeoldaejeok geungeo
 
 Phr:
   the ground of being [Tillich]
+  the reason for everything
+  from first principles

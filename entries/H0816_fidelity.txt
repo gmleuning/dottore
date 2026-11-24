@@ -29,12 +29,12 @@ Adv:
 
 F:
   Latin: fides
-  Arabic: wafāʾ [fidelity], walāʾ [loyalty]
   Sanskrit: niṣṭhā [devotion]
   Chinese: zhong [loyalty]
-  Japanese: chūgi [loyalty]
-  Korean: chungseong [fidelity]
+  Korean: chung [loyalty]
 
 Phr:
   semper fidelis [Lat.]
   Treue um Treue [Ger.]
+  loyal to the last
+  to keep faith

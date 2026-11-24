@@ -16,6 +16,7 @@ N:
   semi, swimming, gym, hockey, turner, pitcher, polo, bolivia, bowler, lineman, blocker, finisher
   win, winner, winning, loser, losing, victory, championship, champion, title, trophy, medal, gold medal, Olympics, World Cup, league, season, fixture, match, final, semifinal, scoring, goal, touchdown, home run, inning, teammate, team, squad, rookie, roster, coach, manager, referee, umpire, fan, fans, supporter, stadium, workout, fitness, training, jogging, running, marathon, climbing, snowboarding, yoga, varsity, betting, odds, bookie [Coll.], gambling, casino, poker, video game, gaming, gamer, esports, console
   chess, draughts [Brit.], checkers [U.S.], dice, die, backgammon, dominoes, mah-jong
+  Olympionike, palaestra
 
 V:
   compete, train, contend, triumph, win the crown
@@ -35,8 +36,9 @@ Adv:
 F:
   Greek: kalokagathia, epinikion
   Spanish: corso
-  Korean: undongseonsu [athlete]
 
 Phr:
   citius, altius, fortius [Lat.]
   mens sana in corpore sano [Lat.] [Juvenal]
+  a living statue
+  the glory of the games

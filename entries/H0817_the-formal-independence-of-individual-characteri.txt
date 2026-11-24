@@ -7,6 +7,7 @@ HGloss: The formal independence of individual character, cut loose from substant
 N:
   the formal independence of individual characteristics; independent characters, self-contained individuals, secular heroes, the adventurer, modern character
   formal independence, formal firmness of character, particular character, individual peculiarity, self-will, the subjective character, formal freedom, the contingency of character
+  individualism
 
 V:
   stand alone, act independently
@@ -20,8 +21,7 @@ Adv:
   independently
   formally, individually, on its own account
 
-F:
-  Korean: gaebyeol teukjingui hyeongsikjeok dongnipseong
-
 Phr:
   the individual on his own
+  a law unto oneself
+  a character of one's own

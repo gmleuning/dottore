@@ -7,6 +7,7 @@ HGloss: Individuality embodying the substantial, the god or hero as the universa
 N:
   substantive individuality; self-contained individuality, essential character, enduring type
   substantial individuality, the substantial character, the enduring, the abiding, the permanent, the universal in the individual, ethos, the god as substantial individual, fixity, constancy
+  haecceity, individuation
 
 V:
   individuate, persist
@@ -20,8 +21,7 @@ Adv:
   substantively
   substantially, enduringly, abidingly, permanently
 
-F:
-  Korean: gaeseong [individuality]
-
 Phr:
   individual yet universal
+  the universal in one figure
+  a god among gods

@@ -8,6 +8,7 @@ N:
   relation of self-subsistent measures; interrelation, interaction, interdependence, interplay, mutual relation, network, system of proportions, comparative measure; correlation, correspondence, compatibility, combinability
   reciprocity, reciprocation, mutuality
   the relation of independent measures, the measure-relation, materials with their own measures, affinity
+  equivalence
 
 V:
   interrelate, interact, combine, correspond, compare
@@ -23,8 +24,7 @@ Adv:
   mutually, relative to one another, in relation
   measure to measure
 
-F:
-  Korean: jarip cheokdoui gwangye
-
 Phr:
   each after its own kind
+  weighed against each other
+  tit for tat

@@ -7,6 +7,7 @@ HGloss: Spirit's consciousness of itself as absolute being, in natural religion,
 N:
   religion as spirit's self-consciousness; religion &c H0965, religious consciousness, the absolute represented, faith, worship, the divine, God-consciousness
   the self-consciousness of spirit, spirit knowing itself as spirit, the absolute being, the consciousness of absolute being, the community's self-knowledge, picture-thinking
+  religiosity
 
 V:
   worship, revere, believe, adore, represent the divine
@@ -27,9 +28,8 @@ Adv:
 F:
   Arabic: dīn [religion]
   Sanskrit: dharma
-  Chinese: zongjiao [religion]
-  Japanese: shūkyō
-  Korean: jonggyo [religion]
 
 Phr:
   in religion spirit knows itself as spirit [Hegel]
+  to get religion
+  in good faith

@@ -7,6 +7,7 @@ HGloss: Reason seeking the mind in its immediate bodily actuality, in face and s
 N:
   observation of self-consciousness in its immediate actuality; reading mind from body, psychophysiology, body-mind correlation, outer expression of inner character, somatotype, biological determinism
   the observation of the body as expression, the outer as expression of the inner, physiognomy and phrenology, the body as sign, the organ
+  somatic reading
 
 V:
   read off, infer from the body, correlate
@@ -20,8 +21,7 @@ Adv:
   from outward signs
   from the body, outwardly, by signs
 
-F:
-  Korean: jikjeopjeok hyeonsilseong
-
 Phr:
   the body as the mirror of the soul
+  to judge by appearances
+  skin deep

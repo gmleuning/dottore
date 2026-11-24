@@ -28,14 +28,11 @@ Adv:
   inwardly
 
 F:
-  German: Erinnerung
   Latin: recordatio, veteris vestigia flammae
   Greek: anamnēsis
-  Arabic: tadhakkur [remembrance], dhikr
-  Sanskrit: smaraṇa [remembrance]
-  Chinese: huiyi [recollection]
-  Japanese: kaisō
-  Korean: hoesang [recollection]
+  Arabic: dhikr
 
 Phr:
   Erinnerung as Er-innerung [Ger.] [making inward]
+  to call to mind
+  memory lane

@@ -21,10 +21,10 @@ Adv:
   by postulate, in a beyond
 
 F:
-  German: die moralische Weltanschauung
   Latin: summum bonum, ad infinitum
-  Korean: dodeokjeok segyegwan [moral worldview]
 
 Phr:
   ought implies can
   duty for duty's sake [F. H. Bradley, on Kant]
+  virtue is its own reward
+  pie in the sky

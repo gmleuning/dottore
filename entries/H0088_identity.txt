@@ -11,6 +11,7 @@ N:
   peer, compeer, mate, fellow, brother
   equipollence†, equipoise, equilibrium, par
   iteration, reiteration
+  haecceity
 
 V:
   be identical, be the same, coincide, correspond, equal, match, equate, identify, identify with; repeat, iterate, reiterate, tautologize
@@ -29,14 +30,10 @@ Adv:
   identically, equally, likewise, alike, in the same way, ditto, ibid
 
 F:
-  German: Identität
   Latin: identitas, principium identitatis indiscernibilium, idem, ibidem, ipso facto, ipsissima verba &c H0204
   Greek: tautotēs, tautologia
-  Arabic: huwiyya [identity, ipseity], ayna [where]
+  Arabic: huwiyya [identity, ipseity]
   Sanskrit: tādātmya [identity, sameness of nature]
-  Chinese: tong [sameness], tongyi [identity]
-  Japanese: doitsu
-  Korean: dongilseong [identity]
 
 Phr:
   A is A

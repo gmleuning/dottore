@@ -17,6 +17,7 @@ N:
   muscle
   abdominal, lat, pectoral, sphincter
   eye muscle, smooth muscle, skeletal muscle, involuntary muscle, antagonistic muscle, ocular muscle, sphincter muscle, anatomical sphincter, facial muscle, temporal muscle, abdominal muscle, axial muscle, pectoral muscle, cowl muscle, sphincter ani, physiological sphincter, bladder sphincter, anal sphincter, cheek muscle, mid-calf, external oblique muscle, smaller pectoral muscle, greater pectoral muscle, femoral biceps, cardiac sphincter
+  thew
 
 V:
   contract, flex, tense, relax, strain, stretch
@@ -37,14 +38,11 @@ F:
   German: Muskel, Sehne [sinew]
   Latin: musculus [little mouse], lacertus
   Greek: mys
-  Arabic: ʿaḍalāt [muscles]
-  Sanskrit: māṃsa [flesh], snāyu [sinew]
-  Chinese: jirou [muscle]
-  Japanese: kinniku
-  Korean: geunyuk [muscle]
 
 Phr:
   sinews of war
   no pain no gain
   strong as an ox
   muscles like Popeye
+  flex one's muscles
+  muscle memory

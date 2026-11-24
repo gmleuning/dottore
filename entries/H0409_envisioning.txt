@@ -9,6 +9,7 @@ N:
   specter
   illusion, virtual image
   visualizing, seeing the absent, second sight, prevision
+  phantasm
 
 V:
   envision, envisage, behold, see, visualize
@@ -27,7 +28,8 @@ F:
   German: vorstellen
   Arabic: ruʾyā
   Sanskrit: darśana [seeing, vision]
-  Korean: hwansang [envisioning], hwanyeong
 
 Phr:
   where there is no vision, the people perish [Bible]
+  to see things
+  a vision of

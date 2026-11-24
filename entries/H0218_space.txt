@@ -35,6 +35,7 @@ N:
   sinistrality†, left, left hand, a gauche, nearside†, larboard, port
   self-externality, asunderness
   neighbourhood, overweight, neighbour
+  spatiality
 
 V:
   extend, spread, stretch, span, occupy, fill, space out, lie beside
@@ -74,16 +75,15 @@ Adv:
   almost, nearly, backwards
 
 F:
-  German: Nebeneinander, Außereinander, Raum
+  German: Nebeneinander, Außereinander
   Latin: spatium
   Greek: chōra, topos
   French: alentours, rez de chaussee
-  Arabic: makān [place, space], fadāʾ [space, void]
   Sanskrit: ākāśa [space, ether], dik [direction, space]
-  Chinese: kongjian [space]
-  Japanese: kūkan, ma [interval, spatial pause]
-  Korean: gonggan [space]
+  Japanese: ma [interval, spatial pause]
 
 Phr:
   the eternal silence of these infinite spaces terrifies me, le silence éternel de ces espaces infinis m'effraie [Fr.] [Pascal]
   I could be bounded in a nutshell and count myself a king of infinite space [Hamlet]
+  in the middle of nowhere
+  room to move

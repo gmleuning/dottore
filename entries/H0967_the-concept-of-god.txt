@@ -34,16 +34,17 @@ Adv:
   absolutely, supremely, infinitely, eternally, omnipotently, in God, of God, under God, from above, by the grace of God
 
 F:
-  German: Gott, Begriff Gottes, das höchste Wesen, das Absolute, Gottheit, das Wahre
+  German: Gott, das höchste Wesen, das Absolute, Gottheit, das Wahre
   Latin: ens realissimum, Deus, Ens Entium, jure divino, deus ex machina, ens necessarium, ens perfectissimum, ens a se, summum bonum, summum ens, causa sui, actus purus, ipsum esse subsistens
   Greek: Theos, to theion, to hen, archē, ho ōn
   Hebrew: Elohim, Adonai, ehyeh asher ehyeh
-  Arabic: Allāh, al-Ḥaqq [the Real], wājib al-wujūd
+  Arabic: Allāh, al-Ḥaqq [the Real]
   Sanskrit: Īśvara [the Lord], Brahman
   Chinese: Shangdi [the Lord on High], Tian [Heaven]
   Japanese: kami
-  Korean: Haneunim [God], sin [god]
+  Korean: Haneunim [God], Hananim [God (Protestant)]
 
 Phr:
   God is that than which nothing greater can be conceived [Anselm]
   I am that I am [Bible]
+  in Him we live and move and have our being

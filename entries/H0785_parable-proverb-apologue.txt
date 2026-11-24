@@ -34,11 +34,9 @@ F:
   Greek: parabolē
   French: mot
   Hebrew: mashal
-  Arabic: mathal [proverb, parable]
   Sanskrit: subhāṣita [well-said verse]
-  Chinese: yanyu [proverb], chengyu [set idiom]
-  Japanese: kotowaza
-  Korean: biyu [parable], sokdam [proverb]
+  Chinese: chengyu [set idiom]
+  Korean: sokdam [proverb]
 
 Phr:
   the parable of the sower [Bible]

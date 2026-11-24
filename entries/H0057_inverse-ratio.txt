@@ -8,6 +8,7 @@ N:
   inverse ratio; inverse proportion, inverse variation, reciprocal relation, reciprocity, constant product, trade-off, tradeoff, compensation, counterbalance, seesaw, zero-sum, negative correlation; hyperbola; the more the less
   counterpoise, equivalent
   reciprocal ratio, inverse relation
+  reciprocality
 
 V:
   vary inversely, offset, counterbalance, trade off, compensate; seesaw
@@ -22,7 +23,6 @@ Adv:
 
 F:
   Latin: vice versa
-  Korean: banbirye [inverse ratio]
 
 Phr:
   what one gains the other loses

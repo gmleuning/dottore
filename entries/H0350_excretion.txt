@@ -22,6 +22,7 @@ N:
   diarrhoea, the runs [Coll.], the trots [Coll.], the squits [Brit. Slang], the shits [Vulg.], Delhi belly, Montezuma's revenge, constipation, costiveness, incontinence, bedwetting, enuresis
   toilet, loo [Brit.], john [U.S. Slang], can [U.S. Slang], bog [Brit. Slang], dunny [Austral.], khazi [Brit. Slang], crapper [Vulg.], shitter [Vulg.], throne [Coll.], potty, privy, jakes†, outhouse, latrine, head, WC, lavatory, restroom, bathroom, washroom, powder room, little boys' room, little girls' room, chamber pot, po, commode, bedpan, garderobe†, necessary house†, close stool†, jordan†
   vomiting, shitting, shite, peeing
+  dejecta
 
 V:
   excrete, eliminate, evacuate, expel, discharge, void, egest
@@ -42,10 +43,7 @@ Adv:
 
 F:
   Latin: excretio
-  Arabic: ikhrāj [excretion]
   Sanskrit: mala [waste, impurity]
-  Chinese: paixie [excretion]
-  Korean: baesseol [excretion]
 
 Phr:
   inter faeces et urinam nascimur [Lat.]
@@ -54,3 +52,5 @@ Phr:
   piss like a racehorse [Vulg.]
   scared shitless [Vulg.]
   everybody poops
+  to pass water
+  to get rid of

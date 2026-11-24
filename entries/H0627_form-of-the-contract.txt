@@ -33,7 +33,6 @@ Adv:
 
 F:
   Latin: stipulatio, sine qua non, casus foederris, sigil
-  Korean: gyeyagui hyeongsik
 
 Phr:
   signed, sealed, and delivered

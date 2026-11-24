@@ -10,6 +10,7 @@ N:
   chant, song &c H0919, canzonet†, lay, ballad, ditty
   intonation, tone
   descant, songfulness, tunefulness, phrase, subject, leitmotif
+  melisma
 
 V:
   sing, hum, carol, warble, intone
@@ -29,11 +30,10 @@ Adv:
 F:
   Greek: melos
   Italian: cantilena, cantabile
-  Arabic: laḥn [melody], naghm
   Sanskrit: rāga
-  Chinese: xuanlü [melody]
-  Japanese: senritsu
-  Korean: seonyul [melody], garak [tune]
+  Korean: garak [tune]
 
 Phr:
   heard melodies are sweet, but those unheard are sweeter [Keats]
+  the soul of music
+  a tune you can hum

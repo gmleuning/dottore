@@ -9,6 +9,7 @@ N:
   actor, stage player, strolling player, performer, comedian, tragedian, tragedienne, Roscius
   representation, gesture &c H0598, impersonation &c H0745, stage business
   stagecraft, role-playing, characterization, delivery, declamation, elocution, mimicry, mimesis, pantomime, dumb-show, bearing, mien, role, part, persona
+  mummer
 
 V:
   act, perform, impersonate, play, portray, mime
@@ -29,11 +30,7 @@ F:
   Latin: histrio
   Greek: hypokritēs
   French: mise en scene
-  Arabic: mumaththil [actor]
-  Sanskrit: naṭa [actor]
-  Chinese: yanyuan [actor]
-  Japanese: haiyū
-  Korean: baeu [actor], yeongi [acting]
 
 Phr:
   all the world's a stage, and all the men and women merely players [As You Like It]
+  strut and fret his hour upon the stage

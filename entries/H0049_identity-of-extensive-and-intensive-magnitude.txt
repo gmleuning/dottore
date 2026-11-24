@@ -9,6 +9,7 @@ N:
   graduated scale, nonius†, vernier &c H0218
   measure, standard, rule
   the unity of size and degree, the interchangeability of extensive and intensive, the identity of quantum
+  commensurability
 
 V:
   convert, translate, transduce, express as, read off, register, calibrate, correlate, map onto
@@ -24,8 +25,7 @@ Adv:
   equivalently, correspondingly; in proportion, proportionally
   interchangeably, as one
 
-F:
-  Korean: dongilseong
-
 Phr:
   the higher the column, the hotter the day
+  as much as the other
+  the same difference

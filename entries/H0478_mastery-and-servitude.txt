@@ -10,6 +10,7 @@ N:
   lord, lord paramount, chief, head, ruler
   bidding, behest
   domination and servitude, subjection
+  master–slave dialectic
 
 V:
   master, rule, command, dominate; serve, obey, labour, toil
@@ -30,13 +31,11 @@ Adv:
   as master and servant
 
 F:
-  German: Herr und Knecht, Herrschaft und Knechtschaft
+  German: Herr und Knecht
   Arabic: sayyid wa-ʿabd [master and slave]
-  Sanskrit: svāmin and dāsa [master and servant]
-  Chinese: zhunu [master and slave]
-  Japanese: shujū
-  Korean: jujongui byeonjeungbeop [master and servant]
+  Korean: juingwa noye [master and slave]
 
 Phr:
   the truth of the independent consciousness is the servile consciousness [Hegel]
   no man can serve two masters [Bible]
+  who serves whom

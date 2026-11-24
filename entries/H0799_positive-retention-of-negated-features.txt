@@ -21,8 +21,6 @@ Adv:
   still honoured
   in preserved form, as a vestige, positively
 
-F:
-  Korean: bujeongdoen teukjingui geungjeongjeok bojon
-
 Phr:
   the Furies become the Kindly Ones [Aeschylus]
+  what survives

@@ -8,6 +8,7 @@ N:
   past; bygone times, former times, yesteryear, yesterday, days of yore, olden days, the old days, antiquity, ancient times, history, the record, memory, recollection, tradition, heritage, the dead past; what has been
   the past, past time, times of yore, days of old, times of old, days past, times past, days gone by, times gone by, bygone days, old times, fore time, the good old days, the olden time, good old time, auld lang syne†, eld†
   yore
+  foretime
 
 V:
   pass, elapse, go by, be over, be gone, be no more, lapse, become history; remember, recall, recollect, look back
@@ -33,11 +34,6 @@ F:
   Latin: praeteritum, quondam
   Greek: to parelēlythos
   French: ci-devant
-  Arabic: māḍī [past]
-  Sanskrit: atīta [past], bhūta [past, what has been]
-  Chinese: guoqu [past]
-  Japanese: kako
-  Korean: gwageo [past]
 
 Phr:
   the past is a foreign country
@@ -45,3 +41,4 @@ Phr:
   what's past is prologue [Tempest]
   où sont les neiges d'antan? [Fr.] [Villon]
   the past is never dead. It's not even past [Faulkner]
+  water under the bridge

@@ -23,8 +23,8 @@ Adv:
 
 F:
   Latin: harmonice mundi [harmony of the world], musica universalis
-  Korean: kepeullerui beopchik [Kepler's laws]
 
 Phr:
   harmonices mundi [Lat.] [Kepler]
   there's not the smallest orb which thou behold'st but in his motion like an angel sings [Merchant of Venice]
+  equal areas in equal times

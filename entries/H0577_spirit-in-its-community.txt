@@ -7,6 +7,7 @@ HGloss: The death of the mediator and the resurrection of the spirit in the comm
 N:
   spirit in its community; the death of the mediator, the resurrection in the community, the Church, the congregation, the communion of saints, the Holy Spirit, Pentecost, the speculative Good Friday, the death of God
   the spiritual community, the kingdom of the Spirit, the spiritual resurrection, the indwelling Spirit
+  koinonia
 
 V:
   die, rise, gather, commune, dwell in
@@ -26,8 +27,9 @@ F:
   Greek: koinōnia
   Arabic: umma [community of believers]
   Sanskrit: saṅgha [community]
-  Korean: jungbojaui jugeum, buhwal
 
 Phr:
   where two or three are gathered together in my name, there am I [Bible]
   God himself is dead [Johann Rist's hymn, cited by Hegel]
+  death, where is thy sting?
+  risen indeed

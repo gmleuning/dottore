@@ -12,6 +12,7 @@ N:
   servitorship†, tendence†, employ, tutelage, clientship†, liability &c H0132, constraint &c H0649, oppression &c H0708, yoke &c H0654, submission &c H0708, obedience &c H0708
   servile labour, bondage, the fear of the lord
   helping
+  villeinage
 
 V:
   serve, labour, work, toil, slave, drudge, form, shape, fashion, discipline
@@ -36,12 +37,9 @@ F:
   German: Arbeit, Bildung [formation]
   Latin: limae labor, adscriptus gleboe, pugnis et calcibus, totis viribus, vi et armis, manibus pedibusque, unguibus et rostro
   French: ame damnee, protege
-  Arabic: khidma [service], ʿamal [labour]
   Sanskrit: sevā [service]
-  Chinese: laodong [labour]
-  Japanese: rōdō
-  Korean: bongsa [service], nodong
 
 Phr:
   die Arbeit hingegen ist gehemmte Begierde, aufgehaltenes Verschwinden, oder sie bildet [Ger.] [Hegel, Phenomenology ¶195]
   in the sweat of thy face shalt thou eat bread [Bible]
+  to work one's way up

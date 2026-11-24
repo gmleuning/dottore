@@ -7,6 +7,7 @@ HGloss: Reason that seeks itself in things by describing, classifying and findin
 N:
   observing reason; observation, empirical science, natural history, description, classification, taxonomy, the search for laws, experimental method, inductive science, the scientist, the naturalist, the observer
   the scientific consciousness, the instinct of reason
+  empiricism
 
 V:
   observe, describe, classify, measure, experiment, record, catalogue, collect specimens
@@ -24,9 +25,8 @@ Adv:
 
 F:
   Arabic: mushāhada [observation]
-  Chinese: guancha [observation]
-  Japanese: kansatsu
-  Korean: gwanchal iseong [observing reason]
 
 Phr:
   observe and record
+  to keep an eye on
+  under observation

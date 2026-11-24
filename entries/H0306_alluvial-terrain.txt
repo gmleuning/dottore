@@ -12,6 +12,7 @@ N:
   slush, ooze
   sediment, detritus, drift
   debris, rubble
+  diluvium
 
 V:
   silt, deposit, wash down, accrete
@@ -27,10 +28,7 @@ Adv:
   downriver, at the river's mouth
   by deposition
 
-F:
-  Arabic: ṭamy [silt]
-  Chinese: chongji [alluvial deposit]
-  Korean: chungjeokji [alluvial terrain]
-
 Phr:
   the gift of the Nile [Herodotus]
+  washed down
+  silt and sand

@@ -7,6 +7,7 @@ HGloss: The portrayal of the individual gods, each with its own character.
 N:
   portrayal of individual gods; Zeus of Olympia, Athena Parthenos, Apollo Belvedere, Venus de Milo, Hermes of Praxiteles, Aphrodite of Knidos
   the gods in sculpture, divine image, cult statue, the type of each god, Zeus, Hera, Apollo, Athena, Aphrodite, Hermes, Dionysus, the Jupiter of Phidias, characteristic type
+  dodecatheon, pantheon
 
 V:
   portray, sculpt, represent
@@ -20,8 +21,7 @@ Adv:
   in marble, in ivory and gold
   individually, each in his kind, characteristically
 
-F:
-  Korean: Ollimposeu sindeul [Olympian gods]
-
 Phr:
   the Zeus of Phidias
+  the Olympians
+  the twelve gods

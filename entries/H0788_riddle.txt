@@ -27,12 +27,9 @@ Adv:
 F:
   Latin: aenigma
   Greek: ainigma, griphos
-  Arabic: lughz [riddle], uḥjiya
-  Sanskrit: prahelikā [riddle]
-  Chinese: miyu [riddle]
-  Japanese: nazo, nazonazo
   Korean: susukkekki [riddle]
 
 Phr:
   the riddle of the Sphinx
   a riddle wrapped in a mystery inside an enigma [Churchill]
+  to speak in riddles

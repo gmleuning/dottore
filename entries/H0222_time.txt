@@ -80,15 +80,13 @@ Adv:
   later, earlier, sooner, someday, awhile, afterwards, nowadays, anymore, lately, recently, at the moment, right now, ASAP [Coll.]
 
 F:
-  German: angeschautes Werden, Zeit
+  German: angeschautes Werden
   Latin: tempus, pro tempore, pendente lite, de die in diem
   Greek: chronos, aiōn, kairos [opportune moment]
   French: cinquecento, a' vue d'oeil, medecine expectante, faire antichambre, mal a propos
-  Arabic: zamān [time], dahr [time, fate, the ages], waqt [moment]
+  Arabic: dahr [time, fate, the ages], waqt [moment]
   Sanskrit: kāla [time, death]
-  Chinese: shijian [time], guangyin [light and shade, time]
-  Japanese: jikan
-  Korean: sigan [time]
+  Chinese: guangyin [light and shade, time]
 
 Phr:
   tempus fugit [Lat.]
@@ -96,3 +94,5 @@ Phr:
   time devours all things, tempus edax rerum [Lat.] [Ovid]
   to every thing there is a season [Bible]
   kālo'smi [Skt.] [I am time] [Bhagavad Gita]
+  time flies
+  in the fullness of time

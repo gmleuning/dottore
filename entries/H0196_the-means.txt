@@ -40,15 +40,11 @@ Adv:
   instrumentally
 
 F:
-  German: Mittel
   Latin: modus operandi, instrumentum, per
   Greek: organon [tool]
-  Arabic: wasīla [means]
-  Sanskrit: upāya [skilful means], sādhana [means, instrument]
-  Chinese: shouduan [means]
-  Japanese: shudan
-  Korean: sudan [means], dogu [tool]
+  Sanskrit: upāya [skilful means]
 
 Phr:
   the plough is more honourable than the enjoyments it procures [Hegel]
   give me a place to stand, and I will move the earth [Archimedes]
+  by hook or by crook

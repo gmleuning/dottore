@@ -8,6 +8,7 @@ N:
   fertile individuality; fertility, fecundity, fruitfulness, productivity, richness, lushness, luxuriance, abundance, generativity; the earth as mother, the womb of nature; the cradle of life
   productiveness, uberty†
   the fruitful earth, the teeming earth, the ground of life
+  loam
 
 V:
   bear, bring forth, produce, yield, generate, fructify, germinate, sprout, teem
@@ -26,11 +27,8 @@ Adv:
 
 F:
   Latin: alma mater
-  Arabic: khiṣb [fertility]
-  Sanskrit: urvarā [fertile soil]
-  Chinese: feiwo [fertile]
-  Korean: biokan daeji [fertile earth]
 
 Phr:
   be fruitful and multiply [Bible]
   the earth bringeth forth fruit of herself [Bible]
+  land of milk and honey

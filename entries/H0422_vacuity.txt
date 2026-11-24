@@ -11,6 +11,7 @@ N:
   torpidity, lethargy, trance, stupefaction
   dullness, stupor &c H0433
   fatuity
+  inanition
 
 V:
   go blank, stare vacantly, zone out
@@ -27,8 +28,8 @@ Adv:
 
 F:
   Latin: tabula rasa
-  Arabic: farāgh [emptiness]
-  Korean: gonheo [vacuity]
 
 Phr:
   the lights are on but nobody is home
+  nobody home
+  blank stare

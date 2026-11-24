@@ -11,6 +11,7 @@ N:
   color, hue, tint, tinge, tincture, coloration, key
   the surface, the plane, light and shade, shadow, modelling, outline, contour, line, palette, pigment, oil, tempera, fresco, colour harmony, flesh-colour, atmosphere, the play of colour, shimmer, lustre, nuance, gradation
   highlighting
+  foreshortening, disegno, colorito
 
 V:
   draw, shade, model, glaze, blend, highlight
@@ -26,7 +27,8 @@ Adv:
 
 F:
   Italian: chiaroscuro, sfumato, incarnato
-  Korean: wongeunbeop [perspective], somyo [drawing], chaesaek [colouring]
 
 Phr:
   the magic of colour
+  the vanishing point
+  drawing and colour

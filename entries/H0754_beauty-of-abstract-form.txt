@@ -7,6 +7,7 @@ HGloss: Beauty as the abstract unity of external form: regularity, conformity to
 N:
   beauty of abstract form; formal beauty, abstract form, geometric beauty, pattern, design, order, proportion, measure; geometric pattern, arabesque
   beauty of form, regularity, symmetry, conformity to law, harmony, formal unity, the abstract unity of form
+  formalism
 
 V:
   pattern, proportion, order, design
@@ -24,7 +25,8 @@ F:
   Greek: symmetria
   Arabic: tanāsub [proportion]
   Persian: girih [geometric ornament]
-  Korean: chusangjeok hyeongsigui mi
 
 Phr:
   let no one ignorant of geometry enter [attrib. Plato]
+  neat as a pin
+  in good order

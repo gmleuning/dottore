@@ -10,6 +10,7 @@ N:
   mind, reason, thinking principle, cogitative faculties, cognitive faculties, discursive faculties, reasoning faculties, intellectual faculties
   sense, good sense, common sense, rationality, judgment
   abstract thinking, the fixing of determinations, analysis, abstraction
+  intellection
 
 V:
   understand, comprehend, grasp, apprehend, classify, sort, fathom, make sense of
@@ -32,11 +33,10 @@ Adv:
 F:
   Greek: dianoia
   French: nous
-  Arabic: fahm [understanding]
   Sanskrit: buddhi
-  Chinese: lijie [understanding]
-  Japanese: rikai
   Korean: oseong [understanding]
 
 Phr:
   I see what you mean
+  to get the picture
+  to make sense of

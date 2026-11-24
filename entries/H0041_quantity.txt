@@ -31,10 +31,11 @@ Adv:
   seldom
 
 F:
-  German: aufgehobenes Fürsichsein, Gleichgültigkeit, Kontinuität und Diskretion, Quantität
+  German: aufgehobenes Fürsichsein, Gleichgültigkeit, Kontinuität und Diskretion
   Latin: rari nantes
-  Korean: sunsu yang [pure quantity]
 
 Phr:
   plus ou moins [Fr.]
   neither more nor less
+  so much
+  by the measure

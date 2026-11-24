@@ -21,12 +21,9 @@ Adv:
   perfectly, fully, completely, finally, absolutely, manifestly, in spirit and in truth, in truth and freedom
 
 F:
-  German: die vollendete Religion, die offenbare Religion, die absolute Religion, Offenbarung, Christentum
+  German: die offenbare Religion, die absolute Religion, Offenbarung, Christentum
   Latin: religio revelata, religio vera
-  Arabic: al-Masīḥiyya [Christianity]
-  Chinese: jidujiao [Christianity]
-  Japanese: kirisutokyō
-  Korean: Gidokgyo [Christianity], wanseongdoen jonggyo [consummate religion]
 
 Phr:
   die Religion der Wahrheit und der Freiheit [Ger.] [Hegel, Lectures on the Philosophy of Religion, of the consummate religion]
+  God is spirit

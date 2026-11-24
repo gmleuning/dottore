@@ -12,6 +12,7 @@ N:
   contract for wages, service for pay
   wage
   job, paycheck, paycheque, payslip, raise, pay rise, overtime, unemployment, the dole [Brit.], benefits, welfare, pension, retirement, hiring, recruitment, layoff, redundancy [Brit.], the sack [Coll.], resignation, CV, résumé, job interview, applicant, vacancy
+  indenture
 
 V:
   employ, hire, engage, contract, pay, remunerate; work for, be employed
@@ -31,12 +32,8 @@ Adv:
 
 F:
   Latin: locatio operarum, locatio operae
-  Arabic: ujra [wage]
-  Sanskrit: vetana [wage]
-  Chinese: gongzi [wage]
-  Japanese: chingin
-  Korean: goyong gyeyak [wage contract]
 
 Phr:
   the labourer is worthy of his hire [Bible]
   a fair day's wage for a fair day's work
+  hired hand

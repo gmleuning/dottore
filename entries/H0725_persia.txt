@@ -7,6 +7,7 @@ HGloss: Persia, the light religion, theocratic monarchy, the first historical pe
 N:
   Persia; theocratic monarchy, the Persian Empire, Achaemenid Empire, the King of Kings, satrapy, the religion of light, Zoroastrianism
   the Persian realm, Iran, the Great King, the Achaemenids, Cyrus, Darius, Xerxes, the first historical people, the empire of light
+  shahanshah
 
 V:
   rule, conquer, unite
@@ -22,7 +23,7 @@ Adv:
 
 F:
   Persian: shāhanshāh, Īrān, Fārs
-  Korean: pereusia [Persia]
 
 Phr:
   the beginning of history proper [Hegel on Persia]
+  the laws of the Medes and Persians

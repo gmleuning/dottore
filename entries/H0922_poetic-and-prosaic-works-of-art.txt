@@ -27,7 +27,7 @@ Adv:
 
 F:
   Latin: copia verborum, usus loquendi
-  Korean: yeoksaseo [history book], ungbyeon [oratory]
 
 Phr:
   history and oratory as prose arts
+  a whole and its parts

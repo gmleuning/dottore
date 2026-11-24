@@ -20,8 +20,7 @@ Adv:
   inwardly, reflexively, back upon oneself
   back upon itself
 
-F:
-  Korean: jugwanseong [subjectivity]
-
 Phr:
   behind the so-called curtain there is nothing to be seen unless we go behind it ourselves [Hegel]
+  to find oneself
+  it's all in the mind

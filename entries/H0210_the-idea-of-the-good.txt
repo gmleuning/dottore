@@ -10,6 +10,7 @@ N:
   melioration, amendment, advancement, cultivation, civilization, culture
   virtue, virtuousness, moral rectitude, integrity &c H0667, nobleness &c H0489
   willing, volition, the will to the good
+  beneficence
 
 V:
   do good, act, will, strive, improve, ameliorate, better, reform, perfect, realize the good
@@ -33,14 +34,12 @@ F:
   German: das Gute
   Latin: bonum, summum bonum
   Greek: to agathon, praxis
-  Arabic: khayr [good]
-  Sanskrit: śreyas [the good], dharma
-  Chinese: shan [good]
-  Japanese: zen
-  Korean: seonui inyeom [idea of the good]
+  Sanskrit: śreyas [the good]
 
 Phr:
   the Form of the Good [Plato]
   bonum est diffusivum sui [Lat.]
   the philosophers have only interpreted the world
   the point is to change it [Marx]
+  to do good
+  make the world a better place

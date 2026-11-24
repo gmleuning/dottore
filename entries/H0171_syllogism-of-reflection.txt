@@ -20,8 +20,7 @@ Adv:
   empirically, by reflection, from the cases
   reflectively, from cases
 
-F:
-  Korean: banseong churon [syllogism of reflection]
-
 Phr:
   from many, one
+  one and all
+  as far as anyone knows

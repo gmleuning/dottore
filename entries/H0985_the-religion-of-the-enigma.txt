@@ -21,12 +21,13 @@ Adv:
   mysteriously, cryptically, obscurely, darkly, symbolically, in riddles, in symbols, in hieroglyphs, under a veil, secretly, inscrutably
 
 F:
-  German: Rätsel, die Religion des Rätsels, das Rätselhafte, Werkmeister
+  German: Rätsel, das Rätselhafte, Werkmeister
   Latin: aenigma
   Greek: ainigma, sphinx, mystērion, symbolon
   Egyptian: Maat [truth, order], ka, ba, duat
-  Korean: Seupingkeuseu [sphinx], susukkekki [riddle]
 
 Phr:
   I am all that was, is, and shall be
   τὸν ἐμὸν πέπλον οὐδείς πω θνητὸς ἀπεκάλυψεν [Gk.] [inscription at Sais, Plutarch, De Iside et Osiride 9: no mortal has yet lifted my robe]
+  the riddle of the Sphinx
+  know thyself

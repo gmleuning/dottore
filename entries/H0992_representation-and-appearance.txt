@@ -31,7 +31,8 @@ F:
   German: das Reich des Sohnes, Vorstellung, Erscheinung, Offenbarung, Menschwerdung, Anderssein
   Latin: verbum caro factum est, in mundo
   Greek: epiphaneia, theophaneia, logos ensarkos, oikonomia
-  Korean: Seongja [God the Son]
 
 Phr:
   the Son of God
+  the Word became flesh
+  God appears

@@ -12,6 +12,7 @@ N:
   bond, bandage, irons, pinion, gyve, trammel, manacle, handcuff, straight jacket, strait jacket, strait-jacket, strait-waistcoat, hopples†, vice, vise
   churl, ryot†, fellah
   chattelhood
+  helotry
 
 V:
   enslave, enthral, subjugate, shackle, fetter, chain, bind; serve, toil, slave
@@ -34,11 +35,6 @@ F:
   Latin: servitus, servus, adscriptus gleboe
   Greek: douleia, doulos
   French: ame damnee, protege
-  Arabic: riqq [slavery], ʿabd [slave]
-  Sanskrit: dāsatva [slavery]
-  Chinese: nuli [slave]
-  Japanese: dorei
-  Korean: noye [slave], noyeje
 
 Phr:
   man is born free, and everywhere he is in chains [Rousseau]

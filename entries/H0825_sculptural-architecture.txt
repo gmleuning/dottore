@@ -7,6 +7,7 @@ HGloss: Building passing over into sculpture, as columns and obelisks.
 N:
   sculptural architecture; buildings between architecture and sculpture, columns, obelisks, colossi, Memnons, sphinxes, stupas, lingams
   inorganic sculpture, architectural sculpture, the colossus, the sphinx, the Memnon, building as figure, free-standing monument, symbolic figure
+  menhir, stele, monolith
 
 V:
   carve, erect, shape
@@ -20,8 +21,7 @@ Adv:
   half building, half statue
   sculpturally, monumentally, in the mass
 
-F:
-  Korean: jogakjeok geonchuk [sculptural architecture]
-
 Phr:
   the colossi of Memnon
+  standing stones
+  set in stone

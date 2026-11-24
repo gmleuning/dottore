@@ -25,11 +25,8 @@ Adv:
 
 F:
   Latin: sal
-  Arabic: milḥ [salt]
-  Sanskrit: lavaṇa [salt]
-  Chinese: yan [salt]
-  Japanese: shio
-  Korean: yeom hyeongseong [salt formation], junghwa
 
 Phr:
   the salt of the earth [Bible]
+  to cancel out
+  worth one's salt

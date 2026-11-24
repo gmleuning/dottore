@@ -28,7 +28,8 @@ Adv:
 
 F:
   German: das reale Maß
-  Korean: jarip cheokdo
 
 Phr:
   the thing itself
+  a law unto itself
+  on its own terms

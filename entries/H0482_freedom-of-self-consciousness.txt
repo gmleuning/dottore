@@ -26,12 +26,9 @@ Adv:
   inwardly
 
 F:
-  Arabic: ḥurriyya [freedom]
-  Sanskrit: mokṣa [liberation], svātantrya
-  Chinese: ziyou [freedom]
-  Japanese: jiyū
-  Korean: jagi uisigui jayu
+  Sanskrit: mokṣa [liberation]
 
 Phr:
   Gedanken sind frei [Ger.] [thoughts are free]
   stone walls do not a prison make [Lovelace]
+  master of oneself

@@ -7,6 +7,7 @@ HGloss: India, the dreaming spirit of caste, theocratic aristocracy.
 N:
   India; theocratic aristocracy, caste system, Brahmins, the Vedas, Brahman, dream-like spirit, the land of desire
   Hindustan, the Indian world, the land of the Ganges, the Kshatriyas, the castes, the land of dreams, the dreaming spirit
+  varna, Brahmanism
 
 V:
   dream, stratify, contemplate
@@ -23,7 +24,7 @@ Adv:
 F:
   Persian: Hindustān
   Sanskrit: varṇa, jāti, brāhmaṇa, kṣatriya, vaiśya, śūdra, Bhārata
-  Korean: indo [India], kaseuteu [caste]
 
 Phr:
   the land of desire [Hegel on India]
+  the land of the Vedas

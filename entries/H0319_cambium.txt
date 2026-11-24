@@ -19,8 +19,7 @@ Adv:
   ring by ring, year by year
   between wood and bark
 
-F:
-  Korean: hyeongseongcheung [cambium]
-
 Phr:
   the tree adds a ring each year
+  under the bark
+  growing ring

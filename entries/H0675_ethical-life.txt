@@ -23,15 +23,16 @@ Adv:
   by custom, in a living community
 
 F:
-  German: Sitte, Sittlichkeit
+  German: Sitte
   Latin: mores
   Greek: ethos, ēthos
   French: comme il faut
-  Arabic: adab [right conduct], akhlāq
+  Arabic: adab [right conduct]
   Sanskrit: dharma
-  Chinese: lunli [ethics], li [ritual propriety]
-  Japanese: rinri
+  Chinese: li [ritual propriety]
   Korean: illyun [ethical life]
 
 Phr:
   die Sittlichkeit ist die Idee der Freiheit als das lebendige Gute [Ger.] [Hegel, Philosophy of Right §142]
+  the done thing
+  the moral fabric

@@ -25,6 +25,7 @@ N:
   acridity, bite
   tear gas, smoke, acrid fumes
   acquired taste
+  gustation
 
 V:
   taste, savour, sample, relish, smack of, flavour, season, spice
@@ -64,12 +65,12 @@ Adv:
 F:
   Latin: sapor
   Greek: geusis, chymos
-  Arabic: dhawq [taste], ṭaʿm [flavour]
+  Arabic: dhawq [taste]
   Sanskrit: rasa [taste, juice, aesthetic flavour]
-  Chinese: wei [taste]
-  Japanese: aji, umami
-  Korean: mat [taste]
+  Japanese: umami
 
 Phr:
   de gustibus non est disputandum [Lat.]
   the proof of the pudding is in the eating
+  to leave a bad taste
+  a matter of taste

@@ -32,12 +32,11 @@ Adv:
 F:
   Latin: tenax propositi
   Greek: charaktēr [stamp, impress], ethos
-  Arabic: khuluq [character], akhlāq [morals]
+  Arabic: akhlāq [morals]
   Sanskrit: śīla [character, conduct]
-  Chinese: pinge [character]
-  Japanese: jinkaku
-  Korean: seonggyeok [character], inpum
 
 Phr:
   character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]
   nothing great in the world has been accomplished without passion [Hegel]
+  true to character
+  a person of character

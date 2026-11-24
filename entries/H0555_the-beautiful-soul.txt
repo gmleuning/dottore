@@ -22,7 +22,6 @@ Adv:
   in purity, in withdrawal, without acting
 
 F:
-  German: schöne Seele [Schiller, Goethe], die schöne Seele
   French: belle âme
   Italian: anima bella
   Korean: areumdaun yeonghon [beautiful soul]
@@ -31,3 +30,5 @@ Phr:
   it lacks the power to externalize itself [Hegel]
   Bekenntnisse einer schönen Seele [Ger.] [Goethe]
   I thank thee that I am not as other men are [Bible]
+  too good for this world
+  to keep one's hands clean

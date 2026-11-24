@@ -23,9 +23,6 @@ Adv:
   in miniature
   in gem, in glass, in intaglio
 
-F:
-  Arabic: faṣṣ [gemstone setting]
-  Korean: boseok [gem], kameo [cameo], yuri [glass]
-
 Phr:
   the art of the gem-cutter
+  a world in a stone

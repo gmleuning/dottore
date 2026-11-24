@@ -8,6 +8,7 @@ N:
   the relatively unconditioned; relative independence, partial autonomy, relative autonomy, interdependence, mutual conditioning, reciprocal dependence, circularity of conditions; condition as independent existent; circumstances, setting, environment, context, surroundings, milieu
   medium
   the relative unconditioned, condition and ground as relatively free, mutual presupposition
+  conditionality, contingency
 
 V:
   condition each other, depend on each other, interdepend, interlock, mutually condition
@@ -21,8 +22,7 @@ Adj:
 Adv:
   relatively, in part, to a degree, up to a point; mutually
 
-F:
-  Korean: sangdaejeok mujogeonja
-
 Phr:
   no man is an island [Donne]
+  it depends
+  one thing leads to another

@@ -7,6 +7,7 @@ HGloss: The beautiful form proper to sculpture, purified of everything contingen
 N:
   beautiful sculptural form; ideal form, the beautiful figure, abstraction from accident
   beautiful form, the beautiful shape, plastic beauty, the beautiful body, shapeliness, comeliness, form, figure, contour, outline, proportion, the human figure
+  idealization, purism
 
 V:
   idealize, abstract
@@ -20,8 +21,7 @@ Adv:
   ideally
   beautifully, shapelily, in beautiful form
 
-F:
-  Korean: johyeongmi [plastic beauty]
-
 Phr:
   beauty without blemish
+  purified of the accidental
+  beauty in the round

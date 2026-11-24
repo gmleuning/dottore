@@ -7,6 +7,7 @@ HGloss: Action proper: the universal ethical powers, the individuals who act, an
 N:
   action proper; universal powers, individuals, character; ethical powers, the gods as motives, character, hero, protagonist, antagonist
   the deed, the acting individuals, the agent, reaction
+  ethos
 
 V:
   act, characterize, impel, move, embody
@@ -24,11 +25,8 @@ F:
   German: Charakter
   Latin: dramatis personae
   Greek: pathos [the moving power of the soul], ēthos
-  Arabic: shakhṣiyya [character]
-  Sanskrit: pātra [character in drama]
-  Chinese: renwu [character]
-  Japanese: jinbutsu
-  Korean: bollaeui haengwi, paetoseu [pathos]
 
 Phr:
   character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]
+  a clash of powers
+  true to character

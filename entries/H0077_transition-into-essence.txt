@@ -10,6 +10,7 @@ N:
   nucleus
   substance, gist &c H0081, sum and substance
   the passage into essence, the transition from being to essence, the sublation of immediacy, the recollection of being
+  inwardization
 
 V:
   pass within, go inward, recede, withdraw, return into oneself, retire, reflect
@@ -27,7 +28,8 @@ Adv:
 
 F:
   German: Erinnerung
-  Korean: bonjillo ihaeng
 
 Phr:
   things are not what they seem
+  to get to the bottom of it
+  into the heart of things

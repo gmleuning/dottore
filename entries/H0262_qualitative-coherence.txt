@@ -57,7 +57,6 @@ Adv:
 
 F:
   French: arete, chevaux de frise
-  Korean: jiljeok gyeolsok
 
 Phr:
   hard as flint, soft as wax

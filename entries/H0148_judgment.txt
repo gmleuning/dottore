@@ -23,15 +23,13 @@ Adv:
   by judgment
 
 F:
-  German: Diremption, Urteil, Ur-teilung
+  German: Diremption, Ur-teilung
   Latin: iudicium, subiectum et praedicatum, me judice
   Greek: krisis, apophansis
   Arabic: ḥukm [judgment], qaḍiyya [proposition]
-  Sanskrit: niścaya [determination, judgment]
-  Chinese: panduan [judgment]
-  Japanese: handan
   Korean: pandan [judgment]
 
 Phr:
   judge not, that ye be not judged [Bible]
   every judgment is an Ur-teil, an original division [Hölderlin]
+  to pass judgment

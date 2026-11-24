@@ -26,7 +26,7 @@ Adv:
 F:
   Latin: commodatum
   Arabic: qarḍ ḥasan [benevolent loan]
-  Korean: muisang daeyeo [gratuitous loan]
 
 Phr:
   neither a borrower nor a lender be [Hamlet]
+  to lend a hand

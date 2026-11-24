@@ -10,6 +10,7 @@ N:
   contrast, foil, antithesis, oppositeness, antagonism &c H0474, clashing, repugnance
   disaccord†, dissidence, shock, jostling, screw loose
   self-opposition
+  antilogy
 
 V:
   contradict, gainsay, belie, negate, controvert, deny, refute, conflict, clash, be at odds, be at variance, cut both ways; contradict oneself, eat one's words, blow hot and cold; resolve, overcome, sublate &c H0010
@@ -27,14 +28,14 @@ Adv:
   contradictorily, paradoxically, inconsistently; at once, at the same time, in the same breath; on the one hand ... on the other
 
 F:
-  German: Antinomie, Triebfeder, Widerspruch
+  German: Antinomie, Triebfeder
   Latin: contradictio, contradictio in adiecto
   Greek: antiphasis, aporia, polemos
   Arabic: tanāquḍ [contradiction]
   Sanskrit: virodha [contradiction]
   Chinese: maodun [spear and shield, contradiction], gong'an
-  Japanese: mujun, kōan [paradoxical riddle]
-  Korean: mosun [contradiction]
+  Japanese: kōan [paradoxical riddle]
+  Korean: mosun [contradiction; lit. spear and shield]
 
 Phr:
   do I contradict myself? Very well then I contradict myself [Whitman]
@@ -42,3 +43,5 @@ Phr:
   all things are in themselves contradictory [Hegel]
   credo quia absurdum [Lat.]
   spear and shield, maodun [Chin.] [Han Feizi]
+  a contradiction in terms
+  to fly in the face of

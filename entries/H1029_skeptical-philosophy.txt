@@ -12,6 +12,7 @@ N:
   Sceptic, skeptic, Pyrrhonist, the Sceptics, the Academics, the Middle Academy, doubter, ephectic, aporetic, Timon of Phlius, Aenesidemus, Agrippa, the ten modes, the five modes, Outlines of Pyrrhonism
   suspension of judgment, withholding of assent, non-assertion, equipollence, the equal weight of opposed arguments, antinomy, the regress, the problem of the criterion, acatalepsy, incomprehensibility, nescience, dubiety, dubitation†
   ataraxy, imperturbability, unperturbedness, quietude, tranquillity
+  epoche
 
 V:
   doubt, suspend judgment, oppose argument to argument
@@ -30,7 +31,7 @@ Adv:
 
 F:
   Greek: epochē, ataraxia, isostheneia, to pithanon [the persuasive], ou mallon, aphasia, skepsis, akatalēpsia, tropoi
-  Korean: hoeuijuui [skepticism], pandanjungji [suspension of judgment]
 
 Phr:
   no more this than that, ou mallon [Gr.]
+  equipollence of arguments

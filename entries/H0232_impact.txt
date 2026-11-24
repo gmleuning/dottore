@@ -35,10 +35,7 @@ Adv:
 F:
   Latin: impulsus
   French: contrecoup, foin
-  Arabic: ṣadma [impact, shock]
-  Sanskrit: abhighāta [impact]
-  Chinese: chongji [impact]
-  Korean: chungdol [impact]
 
 Phr:
   the irresistible force meets the immovable object
+  to knock into

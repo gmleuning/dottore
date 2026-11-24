@@ -30,11 +30,10 @@ Adv:
   in the body
 
 F:
-  German: Verleiblichung
   Arabic: tajassud [embodiment]
-  Chinese: shentihua [somatization]
-  Korean: sinchehwa [embodiment]
 
 Phr:
   the body keeps the score
   to wear one's heart on one's sleeve
+  to blush to the roots
+  to break into a sweat

@@ -23,11 +23,8 @@ Adv:
 
 F:
   German: das Ideal
-  Arabic: mithāl [ideal]
-  Sanskrit: ādarśa [ideal]
-  Chinese: lixiang [ideal]
-  Japanese: risō
-  Korean: yesulmi [beauty of art], isang [the ideal]
 
 Phr:
   the ideal is the idea as art
+  the ideal of beauty
+  perfect in every way

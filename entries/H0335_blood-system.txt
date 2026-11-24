@@ -22,6 +22,7 @@ V:
 Adj:
   sanguine, sanguineous, haematic, vascular, circulatory, cardiovascular, arterial, venous, bloody
   gory, sanguinary, bloodshot, bloodless, anaemic, haemophiliac, ruddy, florid
+  haemal
 
 Adv:
   in the blood, through the veins
@@ -30,11 +31,6 @@ Adv:
 F:
   Latin: sanguis
   Greek: haima
-  Arabic: dam [blood]
-  Sanskrit: rakta [blood], rudhira
-  Chinese: xue [blood]
-  Japanese: chi
-  Korean: hyeorakgye [blood system]
 
 Phr:
   blood is thicker than water
@@ -43,3 +39,4 @@ Phr:
   first blood
   blood will have blood [Macbeth]
   you can't get blood from a stone
+  in cold blood

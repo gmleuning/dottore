@@ -15,13 +15,13 @@ V:
 Adj:
   abstract, typical, general, idealized
   generalized, simplified, purged, unparticularized, universal
+  inessential, adventitious
 
 Adv:
   typically
   in general, without detail, simply, abstractly
 
-F:
-  Korean: uyeonseong [contingency]
-
 Phr:
   no wart or wrinkle
+  nothing incidental
+  the clutter cut away

@@ -9,6 +9,7 @@ N:
   prose, prose writer
   prosaicism†, prosaism†, prosaist†, proser†
   verse and prose, the prose of the world, the poetry of life, the poetic mode, the prosaic mode, distinction, contrast, antithesis, demarcation
+  prosody
 
 V:
   distinguish
@@ -25,9 +26,8 @@ Adv:
   poetically, prosaically
   in verse, by contrast
 
-F:
-  Korean: sanmun [prose], unmun [verse]
-
 Phr:
   prose is words in their best order
   poetry the best words in the best order [Coleridge]
+  prose and verse
+  speaking prose without knowing it

@@ -23,10 +23,8 @@ Adv:
 
 F:
   French: tournesol
-  Arabic: ḍawʾ [light]
-  Chinese: guanghe zuoyong [photosynthesis]
-  Japanese: kōgōsei
-  Korean: biche daehan sikmurui gwajeong
 
 Phr:
   the sunflower turns to the sun
+  to turn toward the light
+  a place in the sun

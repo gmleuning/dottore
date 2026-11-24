@@ -7,6 +7,7 @@ HGloss: The group, figures brought together in an action and a situation.
 N:
   groups; sculptural group, ensemble, composition, Laocoön, pediment groups, the Niobids, the Tyrannicides
   statuary group, grouping, pediment group, the Laocoön group, the Niobe group, the Dioscuri, figures in relation
+  tableau
 
 V:
   group, compose, arrange
@@ -20,8 +21,6 @@ Adv:
   together, in a group
   in combination, in concert
 
-F:
-  Korean: gunsang [sculptural group]
-
 Phr:
   Laocoön and his sons
+  figures in action

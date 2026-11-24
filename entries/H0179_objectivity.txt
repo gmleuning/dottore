@@ -19,13 +19,10 @@ Adv:
   in the object
 
 F:
-  German: Objekt, Gegenstand, Objektivität
+  German: Objekt, Gegenstand
   Latin: objectum
-  Arabic: mawḍūʿiyya [objectivity]
   Sanskrit: viṣaya [object]
-  Chinese: keguan [objective]
-  Japanese: kyakkan
-  Korean: gaekgwanseong [objectivity]
 
 Phr:
   the world is everything that is the case [Wittgenstein]
+  the facts of the matter

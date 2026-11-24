@@ -22,8 +22,8 @@ Adv:
 
 F:
   Latin: doctor angelicus, doctor subtilis, doctor seraphicus, doctor invincibilis, magister sententiarum, summa theologiae, quaestio disputata
-  Korean: Seukolla cheolhak [scholasticism]
 
 Phr:
   entia non sunt multiplicanda praeter necessitatem [Lat.] [Ockham's razor, in a later formulation]
   Summa Theologiae [Lat.] [Aquinas]
+  how many angels can dance on the head of a pin

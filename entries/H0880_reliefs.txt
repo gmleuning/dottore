@@ -8,6 +8,7 @@ N:
   reliefs; relief, bas-relief, high relief, low relief, frieze, metope, stele, cameo, intaglio, the Parthenon frieze
   anaglyph†, medal, medallion
   relief-work, rilievo, alto-relievo, mezzo-relievo, sunk relief, plaque, embossment
+  cavo-rilievo
 
 V:
   carve in relief, emboss, chase
@@ -26,7 +27,8 @@ Adv:
 F:
   French: bas relief
   Italian: basso rilievo, alto rilievo, relievo
-  Korean: bujo [relief], dodeulsaegim [relief carving]
 
 Phr:
   the Panathenaic procession
+  half emerging from the stone
+  the frieze of the Parthenon

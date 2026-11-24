@@ -26,11 +26,11 @@ Adv:
 
 F:
   Greek: allegoria, psychomachia
-  Arabic: tamthīl, majāz [figurative speech]
+  Arabic: majāz [figurative speech]
   Sanskrit: anyokti [allegorical speech]
-  Chinese: yuyi [allegory]
-  Japanese: gūi
-  Korean: uui [allegory], pungyu
+  Korean: pungyu [allegory]
 
 Phr:
   Justice is blind
+  to read between the lines
+  in the guise of

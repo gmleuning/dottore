@@ -8,6 +8,7 @@ N:
   difference of age and sex, gods, heroes, men, and animals; age, youth, maturity, old age, male and female, divine and heroic, human, animal; the ephebe, the matron, the satyr, the centaur
   distinction of age, distinction of sex, youth and age, the youthful form, the manly form, the womanly form, the child, the hero, the athlete, the faun, animal figures, rank, degree, gradation
   workforce, manpower
+  heroization
 
 V:
   distinguish, differentiate
@@ -21,8 +22,6 @@ Adv:
   by age, by sex
   by rank, in degree
 
-F:
-  Korean: singwa yeongung [gods and heroes]
-
 Phr:
   gods, heroes, and men
+  gods, heroes and men

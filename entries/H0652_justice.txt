@@ -11,6 +11,7 @@ N:
   penalty &c H0654, requital &c H0640, retributive justice
   what ought to be, what should be, fitness
   restoration of right, righting of wrong, vindication
+  rectification
 
 V:
   do justice, render justice, requite, give one's due
@@ -35,12 +36,11 @@ Adv:
 F:
   Latin: iustitia, lex talionis, summum jus
   Greek: dikē
-  Arabic: ʿadl [justice], qiṣāṣ [retaliation in kind], inṣāf [equity]
+  Arabic: ʿadl [justice], qiṣāṣ [retaliation in kind]
   Sanskrit: nyāya [justice], daṇḍa [rod, punishment]
-  Chinese: zhengyi [justice]
-  Japanese: seigi
-  Korean: jeongui [justice]
 
 Phr:
   fiat iustitia, ruat caelum [Lat.] [let justice be done though the heavens fall]
   an eye for an eye [Bible]
+  justice is served
+  to do justice

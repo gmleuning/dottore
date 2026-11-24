@@ -20,12 +20,8 @@ Adv:
   classically, in the classical manner
   ideally, adequately, in perfect correspondence
 
-F:
-  Arabic: kilāsīkī
-  Chinese: gudian [classical]
-  Japanese: koten
-  Korean: gojeonjeok yesul [classical art]
-
 Phr:
   Schöneres kann nicht sein und werden [Ger.] [Hegel, Aesthetics, on classical art]
   noble simplicity and quiet grandeur [Winckelmann]
+  a classic
+  timeless beauty

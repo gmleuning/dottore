@@ -27,11 +27,8 @@ Adv:
   inversely
 
 F:
-  German: die verkehrte Welt
   Latin: mundus inversus, vice versa
   French: sens dessus dessous
-  Arabic: ʿālam maqlūb [inverted world]
-  Korean: jeondoen segye [inverted world]
 
 Phr:
   the world turned upside down

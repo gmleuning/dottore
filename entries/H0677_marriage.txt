@@ -39,12 +39,10 @@ F:
   Latin: coniugium, matrimonium, conubium, vinculum matrimonii
   Greek: gamos
   French: feme, feme coverte, mariage de convenance
-  Arabic: nikāḥ [marriage contract], zawāj [marriage]
-  Sanskrit: vivāha [marriage]
-  Chinese: hunyin [marriage]
-  Japanese: kekkon
-  Korean: gyeolhon [marriage], honin
+  Arabic: nikāḥ [marriage contract]
 
 Phr:
   marriage is ethical love [Hegel]
   what therefore God hath joined together, let not man put asunder [Bible]
+  to tie the knot
+  till death us do part

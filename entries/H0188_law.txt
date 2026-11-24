@@ -10,6 +10,7 @@ N:
   canon, formula
   statute, canon &c H0702, ordinance
   ordering principle, free necessity
+  lawfulness
 
 V:
   govern, order, rule, regulate, organize, determine, direct
@@ -28,12 +29,12 @@ Adv:
   methodically, systematically, by clockwork
 
 F:
-  German: Gesetz
   Greek: nomos
-  Arabic: sunna, qānūn
+  Arabic: sunna
   Sanskrit: dharma, ṛta
   Chinese: li, fa
-  Korean: beopchik [law]
 
 Phr:
   order is heaven's first law [Pope]
+  the law of the land
+  laid down in law

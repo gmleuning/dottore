@@ -27,8 +27,9 @@ F:
   Latin: sustine et abstine, secundum naturam vivere, amor fati
   Greek: apatheia, ataraxia, pronoia, logos spermatikos, hēgemonikon, katalēpsis, synkatathesis, oikeiōsis, ekpyrōsis, adiaphora, prohairesis, heimarmenē, stoa poikilē
   Arabic: al-riwāqiyyūn [the Stoics]
-  Korean: Seutoahakpa [Stoics], budongsim [imperturbability]
+  Korean: budongsim [imperturbability]
 
 Phr:
   live according to nature [Zeno]
   the impediment to action advances action [Marcus Aurelius]
+  some things are up to us

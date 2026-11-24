@@ -8,6 +8,7 @@ N:
   nature; the natural world, the physical world, the material world, creation, the cosmos, the universe, the world, the earth, Mother Nature, Dame Nature; externality, self-externality, otherness of the idea; the order of nature, course of nature, natural order; philosophy of nature, physiology [archaic sense], natural philosophy
   world, universe, cosmos, kosmos†, macrocosm
   the idea in its otherness
+  natura naturans
 
 V:
   be natural, grow, come naturally; naturalize; externalize; go forth, alienate itself
@@ -24,17 +25,15 @@ Adv:
   in nature, outwardly
 
 F:
-  German: Außersichsein, Anderssein, Naturphilosophie, Natur
+  German: Außersichsein, Anderssein, Naturphilosophie
   Latin: natura, natura naturata, in rerum natura
   Greek: physis
-  Arabic: ṭabīʿa [nature], kawn [cosmos]
   Sanskrit: prakṛti [nature, matter], svabhāva
   Chinese: ziran [nature, self-so], tiandi [heaven and earth]
-  Japanese: shizen
-  Korean: jayeon [nature], jayeon cheolhak
 
 Phr:
   natura non facit saltus [Lat.]
   naturam expellas furca, tamen usque recurret [Lat.] [Horace]
   nature loves to hide, physis kryptesthai philei [Gr.] [Heraclitus]
   the idea in the form of otherness [Hegel]
+  in the nature of things

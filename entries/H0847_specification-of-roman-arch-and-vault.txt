@@ -10,6 +10,7 @@ N:
   mainstay
   semicircular arch, cross vault, rotunda, springer, impost, archivolt, arcuation
   arched ceiling, arched roof
+  extrados
 
 V:
   arch, vault, span, dome, bridge
@@ -28,8 +29,8 @@ Adv:
 
 F:
   Latin: arcus
-  Arabic: qanṭara [arch, bridge], qubba [dome]
-  Korean: achi [arch], gungnyung [vault]
 
 Phr:
   the keystone of the arch
+  the arch never sleeps
+  a vault of heaven

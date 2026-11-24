@@ -20,9 +20,7 @@ Adv:
   vitally
   through the living tissue
 
-F:
-  German: Lebenssaft
-  Korean: saengmyeong susaek [vital sap]
-
 Phr:
   the lifeblood of the plant
+  the vital juices
+  life-blood

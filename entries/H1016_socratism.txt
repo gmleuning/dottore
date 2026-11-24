@@ -7,6 +7,7 @@ HGloss: The turn to subjectivity: the Sophists and Socrates.
 N:
   Socratism; the turn to the subject, ethical reflection, the examined life, dialectic of question and answer, the Socratic method
   the Socratic turn, the Socratic principle, the anthropological turn, the turn to man, the turn inward, the principle of subjectivity, inwardness, subjective reflection, moral consciousness, self-knowledge, self-examination, conscience, the inner oracle, the inner judge, moral philosophy, ethics, the search for definitions, the universal, the concept, conviction, insight, humanism, morality over custom, the Good as end, philosophy brought down from heaven [Cicero]
+  subjectivism
 
 V:
   question, examine, refute
@@ -22,7 +23,7 @@ Adv:
 
 F:
   Greek: elenchos
-  Korean: Sokeurateseujuui [Socratism]
 
 Phr:
   the unexamined life is not worth living [Plato, Apology]
+  man the measure

@@ -27,16 +27,13 @@ Adv:
   in all manner of ways, here there and everywhere
 
 F:
-  German: Gleichheit und Ungleichheit, Verschiedenheit
+  German: Gleichheit und Ungleichheit
   Latin: diversitas, et hoc genus omne, de omnibus rebus et quibusdam aliis
   French: pot-pourri
-  Arabic: tanawwuʿ [diversity]
-  Sanskrit: nānātva [diversity, manifoldness]
-  Chinese: duoyang [diversity]
-  Korean: dayangseong [diversity]
 
 Phr:
   variety is the spice of life
   de gustibus non est disputandum [Lat.]
   it takes all sorts to make a world
   no two leaves are alike [Leibniz]
+  apples and oranges

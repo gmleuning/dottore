@@ -17,6 +17,7 @@ N:
   retentive memory, retention of names, name and meaning
   terminology, moniker
   inscription, record, register
+  onomastics
 
 V:
   name, retain, learn words, call by name
@@ -41,10 +42,8 @@ Adv:
 F:
   Latin: gradus, delectus, lucus a non lucendo
   French: nom de guerre, soi-disant
-  Arabic: ism [name]
-  Sanskrit: nāma [name]
-  Chinese: mingcheng [name]
-  Korean: ireum gieok [name-retaining memory]
 
 Phr:
   what's in a name? [Romeo and Juliet]
+  a name to conjure with
+  to put a name to a face

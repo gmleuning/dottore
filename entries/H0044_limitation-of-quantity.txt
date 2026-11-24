@@ -29,8 +29,9 @@ Adv:
 
 F:
   Latin: limen
-  Korean: yangui hangye [limit of quantity]
 
 Phr:
   enough is as good as a feast
   est modus in rebus [Lat.] [Horace]
+  to a fault
+  up to the mark

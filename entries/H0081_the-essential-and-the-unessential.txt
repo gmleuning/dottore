@@ -34,7 +34,6 @@ F:
   Greek: adiaphora [things indifferent], kat' exochin
   French: en passant
   Arabic: ʿaraḍ [accident] vs. dhāt [essence]
-  Korean: bonjiljeogin geot, bibonjiljeok
 
 Phr:
   sine qua non [Lat.]
@@ -42,3 +41,4 @@ Phr:
   de minimis non curat lex [Lat.]
   the devil is in the details
   in necessariis unitas, in dubiis libertas, in omnibus caritas [Lat.]
+  neither here nor there

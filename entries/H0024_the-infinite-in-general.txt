@@ -7,6 +7,7 @@ HGloss: The infinite in its simple concept: the affirmation that results as the 
 N:
   the infinite in general; the beyond, beyondness, transcendence, the transcendent, the other world, otherworldliness, the hereafter, yonder, the great beyond; the unconditioned, the absolute other, the wholly other; the not-finite, the nonfinite, negation of the finite; empyrean, heaven, the heavens; ideal, the ideal; true being
   the infinite as such, the unlimited, the non-finite
+  boundlessness, endlessness, interminability
 
 V:
   lie beyond, transcend, surpass, be other than, stand beyond, tower above
@@ -25,12 +26,13 @@ Adv:
   without limit
 
 F:
-  German: das Jenseits, das ganz Andere, das Unendliche überhaupt
+  German: das Jenseits, das ganz Andere
   Arabic: al-ghayb [the unseen]
   Sanskrit: paramārtha [ultimate]
-  Korean: muhanja [the infinite]
 
 Phr:
   beyond the beyond
   my kingdom is not of this world [Bible]
   the undiscovered country from whose bourn no traveller returns [Hamlet]
+  without end
+  the sky's the limit

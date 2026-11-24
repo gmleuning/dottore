@@ -20,8 +20,7 @@ Adv:
   in stone, in song
   abstractly, as an object, apart from the maker
 
-F:
-  Korean: chusangjeok yesul jakpum
-
 Phr:
   the god in stone
+  carved in stone
+  a temple to

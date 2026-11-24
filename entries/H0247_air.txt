@@ -36,12 +36,11 @@ F:
   Latin: aer, spiritus
   Greek: aēr, aithēr, pneuma
   Italian: al fresco
-  Arabic: hawāʾ [air]
-  Sanskrit: vāyu [air, wind], prāṇa [breath]
-  Chinese: kongqi [air], qi [breath, vapour]
-  Japanese: kūki
-  Korean: gonggi [air], daegi
+  Sanskrit: prāṇa [breath]
+  Chinese: qi [breath, vapour]
 
 Phr:
   the air, a chartered libertine, is still [Henry V]
   into thin air [Tempest]
+  out of thin air
+  up in the air

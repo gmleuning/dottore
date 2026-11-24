@@ -23,6 +23,7 @@ N:
   shrimp, prawn, garlic, peanut, water, dairy, organic, calorie
   carrot, potato, onion, cabbage, lettuce, tomato
   potato, spud [Coll.], tater [Coll.], tattie [Scot.], pratie [Ire.], murphy [Slang], white potato, Irish potato, earth apple, new potato, seed potato, sweet potato, yam
+  chyle, chyme, eupepsia
 
 V:
   digest, chew, masticate, swallow, absorb, break down, metabolize
@@ -53,11 +54,8 @@ Adv:
 
 F:
   French: dejeuner, table d'hote, dejeuner a la fourchette, batterie de cuisine
-  Arabic: haḍm [digestion]
-  Sanskrit: pācana [digestion, cooking]
-  Chinese: xiaohua [digestion]
-  Japanese: shōka
-  Korean: sohwa gwajeong [digestion], gamja [potato]
 
 Phr:
   one man's meat is another man's poison
+  food for thought
+  to stomach something

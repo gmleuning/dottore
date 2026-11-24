@@ -12,6 +12,7 @@ N:
   actuality
   determinacy, reality and negation, suchness
   deficit, shortage
+  realitas
 
 V:
   qualify, characterize, mark; affirm, posit, assert; negate, deny, exclude, rule out, lack, want, fall short of
@@ -26,14 +27,12 @@ Adv:
   qualitatively
 
 F:
-  German: Realität, Negation, Qualität
+  German: Realität, Negation
   Latin: accidens, via affirmativa and via negativa
   Greek: symbebēkos, kataphasis and apophasis
-  Arabic: ʿaraḍ [accident], ṣifa
   Sanskrit: dharma [property, characteristic]
-  Chinese: xing [nature]
-  Korean: siljaeseong [reality], bujeong [negation]
 
 Phr:
   every quality is a limitation
   the defect of a quality, le défaut de ses qualités [Fr.]
+  for real

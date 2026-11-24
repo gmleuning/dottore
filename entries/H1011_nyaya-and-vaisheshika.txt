@@ -9,6 +9,7 @@ N:
   Nyaya, Vaisheshika, the Naiyāyikas, the Vaiśeṣikas, Akṣapāda, Gautama, the Nyāya Sūtras, the Vaiśeṣika Sūtras, Indian logic, the science of reasoning, the art of debate, dialectics, epistemology, realism, pluralism
   the five-membered syllogism, proposition reason example application and conclusion, perception, testimony, the sources of knowledge, the objects of knowledge, the sixteen topics, the mark, the reason, pervasion, fallacy
   the six categories, the seven categories, non-existence, atoms, the atomic theory, the indivisibles, the eternal atoms, the unseen force
+  padartha
 
 V:
   infer, categorize, debate, atomize
@@ -24,7 +25,7 @@ Adv:
 
 F:
   Sanskrit: Nyāya and Vaiśeṣika, pramāṇa [perception, inference, comparison, testimony], paramāṇu [atom], padārtha, pratyakṣa, anumāna, upamāna, śabda, dravya, guṇa, karman, sāmānya, viśeṣa, samavāya, abhāva, tarka, vyāpti, hetu, adṛṣṭa, ānvīkṣikī, vāda
-  Korean: Niyaya [Nyaya], Baisyesika [Vaisheshika]
 
 Phr:
   where there is smoke there is fire [the Nyāya example]
+  atoms and categories

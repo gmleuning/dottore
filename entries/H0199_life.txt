@@ -10,6 +10,7 @@ N:
   protoplasm
   activity, energy
   the immediate idea
+  zoē
 
 V:
   live, be alive, breathe, exist, subsist, survive, thrive, flourish, animate, enliven, vivify, quicken, invigorate
@@ -24,17 +25,14 @@ Adv:
   alive and well, alive and kicking, vitally, organically, in the flesh
 
 F:
-  German: Leben
   Latin: vita, vis vitalis, anima
   Greek: bios, zōē, psychē [principle of life]
   French: élan vital [Bergson]
-  Arabic: ḥayāt [life]
   Sanskrit: prāṇa [breath, life force], jīva [living being]
-  Chinese: sheng [life, birth], qi, shengming
-  Japanese: seimei
-  Korean: saengmyeong [life]
+  Chinese: qi
 
 Phr:
   life is the idea in its immediacy [Hegel]
   grey is all theory, and green the golden tree of life [Goethe]
   while there's life, there's hope, dum spiro spero [Lat.]
+  life and soul

@@ -7,6 +7,7 @@ HGloss: The quantum's determination to be beyond itself, the infinite as its own
 N:
   concept of quantitative infinity; self-surpassing of quantum, self-transcendence of quantity, inherent beyond, built-in incompleteness; open-endedness, indefinite extensibility, potential infinite; the next number, successor, the always-more; insatiability, unquenchability
   the beyond of quantum, the ought of quantity
+  infinitesimal, the transfinite
 
 V:
   point beyond, outrun itself, exceed itself, go beyond itself, overreach; extend indefinitely
@@ -23,8 +24,9 @@ Adv:
 F:
   Latin: infinitum potentia
   Greek: apeiron
-  Korean: yangjeok muhan
 
 Phr:
   there is always a bigger fish
   the sky's the limit
+  beyond measure
+  out of all proportion

@@ -27,11 +27,10 @@ Adv:
 
 F:
   Latin: gens, stirps
-  Arabic: qabīla [tribe], ʿashīra [clan]
-  Sanskrit: gotra [lineage], kula
+  Sanskrit: gotra [lineage]
   Chinese: zongzu [lineage]
-  Japanese: ichizoku [clan]
-  Korean: chinjok jipdan [kinship group], ssijok [clan]
 
 Phr:
   blood will tell
+  kith and kin
+  one's own flesh and blood

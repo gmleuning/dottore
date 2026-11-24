@@ -20,6 +20,7 @@ N:
   decoration, laurel, palm, wreath, garland, bays, ribbon, riband, blue ribbon, cordon, cross, coronet, star, garter, feather, feather in one's cap, epaulet, epaulette, colors, cockade, livery, order, arms, shield, scutcheon, reward &c H0640
   self-respect, pride, personal worth, inviolability, satisfaction, the duel
   accolade
+  punctilio, amour propre
 
 V:
   honour, respect, vindicate, defend one's honour, avenge an insult, demand satisfaction
@@ -44,12 +45,13 @@ F:
   French: point d'honneur
   Italian: punto d'onore
   Spanish: pundonor
-  Arabic: sharaf [honour], ʿirḍ [personal honour], karāma
-  Sanskrit: māna [honour]
-  Chinese: mianzi [face], rongyu [honour]
-  Japanese: meiyo, giri
-  Korean: myeongye [honour]
+  Arabic: sharaf [honour], ʿirḍ [personal honour]
+  Chinese: mianzi [face]
+  Japanese: giri
+  Korean: chemyeon [face, honour]
 
 Phr:
   death before dishonour
   tout est perdu fors l'honneur [Fr.] [all is lost save honour] [Francis I, attrib.]
+  on my honour
+  a point of honour

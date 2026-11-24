@@ -11,6 +11,7 @@ N:
   insensibleness†, moral insensibility, inertness, inertia, impassibility, impassibleness, inappetency†, apathy, phlegm, dullness, hebetude†, supineness, lukewarmness†
   physical insensibility, obtuseness, paralysis
   habituation
+  induration
 
 V:
   harden, toughen, inure, steel, desensitize, numb, deaden, become callous
@@ -33,9 +34,9 @@ Adv:
   by habituation, hardily
 
 F:
-  German: Abhärtung
   Latin: vis inertiae
-  Korean: gamgage daehan dallyeon
 
 Phr:
   what does not kill me makes me stronger [Nietzsche]
+  to grow a thick skin
+  inured to

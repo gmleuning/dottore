@@ -8,6 +8,7 @@ N:
   audience of the dramatic work of art; audience, spectators, public, theatregoers, the house, the pit, the gallery
   onlookers, beholders, playgoers, the stalls, the boxes, the gods, the groundlings, auditorium, spectatorship, reception, applause, public taste
   clapping
+  claque
 
 V:
   watch, applaud, hiss, attend
@@ -24,11 +25,8 @@ Adv:
   publicly, in public, to a full house
 
 F:
-  Arabic: jumhūr [public]
   Sanskrit: sahṛdaya [the sensitive spectator]
-  Chinese: guanzhong [audience]
-  Japanese: kankyaku
-  Korean: gwangaek [audience]
 
 Phr:
   plaudite [Lat.] [applaud!]
+  playing to the gallery

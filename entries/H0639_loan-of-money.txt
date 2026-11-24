@@ -49,11 +49,8 @@ F:
   Latin: mutuum, fenus
   Greek: tokos [interest, offspring]
   French: a compte
-  Arabic: qarḍ [loan], ribā [usury, interest]
-  Sanskrit: ṛṇa [debt]
-  Chinese: daikuan [loan]
-  Japanese: kashitsuke
-  Korean: geumjeon sobi daecha [loan of money], ija
+  Arabic: ribā [usury, interest]
 
 Phr:
   the borrower is servant to the lender [Bible]
+  neither a borrower nor a lender be

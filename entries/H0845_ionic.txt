@@ -7,6 +7,7 @@ HGloss: The Ionic, more slender and graceful, with its spiral volutes.
 N:
   Ionic; the Ionic order, volute, scroll capital, slender column, base, feminine grace, the Erechtheum
   the Ionic column, the Ionic capital, scroll, spiral, slenderness, grace, elegance
+  dentil, fillet
 
 V:
   build in the Ionic manner
@@ -20,8 +21,6 @@ Adv:
   gracefully
   slenderly, elegantly
 
-F:
-  Korean: Ionia yangsik [Ionic order]
-
 Phr:
   Ionic grace
+  the matronly order

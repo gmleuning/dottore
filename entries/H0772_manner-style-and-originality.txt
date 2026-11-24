@@ -43,12 +43,11 @@ F:
   Latin: stylus, sui generis uncommon
   French: la morgue litteraire
   Italian: maniera
-  Arabic: uslūb [style]
   Sanskrit: rīti [style]
-  Chinese: fengge [style]
-  Japanese: fū [style]
-  Korean: subeop [manner], yangsik [style], dokchangseong
+  Korean: meot [flair, style]
 
 Phr:
   le style est l'homme même [Fr.] [Buffon]
   nothing new under the sun [Bible]
+  the style is the man
+  one of a kind

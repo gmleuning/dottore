@@ -10,6 +10,7 @@ N:
   wrestling, pugilism, boxing
   the trained body, the Olympic games, song, bodily skill, the victor
   grappling
+  palaestra
 
 V:
   train, exercise, compete, shape oneself
@@ -24,8 +25,7 @@ Adv:
   athletically
   in the games
 
-F:
-  Korean: jugwanjeok yesul jakpum
-
 Phr:
   the body as an organ of spirit
+  a healthy mind in a healthy body
+  the body beautiful

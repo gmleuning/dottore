@@ -34,12 +34,10 @@ F:
   German: Zollverein, Sonderbund
   Latin: contractus, pactum, consensus ad idem [meeting of minds], Magna Charta, casus foederris
   Greek: synallagma
-  Arabic: ʿaqd [contract], ʿahd [covenant]
-  Sanskrit: saṃvid [agreement]
-  Chinese: hetong [contract]
-  Japanese: keiyaku
-  Korean: gyeyak [contract]
+  Arabic: ʿahd [covenant]
 
 Phr:
   pacta sunt servanda [Lat.] [agreements must be kept]
   my word is my bond
+  a gentleman's agreement
+  to shake on it

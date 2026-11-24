@@ -33,9 +33,10 @@ Adv:
 F:
   Latin: quid pro quo, vis inertiae
   French: contrecoup
-  Korean: jagyonggwa banjagyong [action and reaction]
 
 Phr:
   to every action there is always opposed an equal reaction [Newton]
   he that diggeth a pit shall fall into it [Bible]
   hoist with his own petard [Hamlet]
+  every action has an equal and opposite reaction
+  to give as good as one gets

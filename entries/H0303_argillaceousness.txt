@@ -8,6 +8,7 @@ N:
   argillaceousness; clay, argil, loam, marl, shale, slate, mudstone, kaolin, china clay, terra cotta, potter's clay
   alumina
   mica-slate, the clay series
+  argillite, pelite
 
 V:
   mould, model, throw, fire
@@ -20,12 +21,6 @@ Adv:
   like clay
   in clay
 
-F:
-  Arabic: ṭīn [clay]
-  Sanskrit: mṛttikā [clay, earth]
-  Chinese: niantu [clay]
-  Japanese: nendo
-  Korean: jeomtojil [argillaceousness]
-
 Phr:
   we are the clay, and thou our potter [Bible]
+  feet of clay

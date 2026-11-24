@@ -42,10 +42,8 @@ Adv:
 
 F:
   Latin: in flagrante delicto, mens sibi conscia recti [Vergil], nil conscire sibi nulla pallescere culpa [Horace], rectus in curia
-  Arabic: masʾūliyya
-  Chinese: zeren [responsibility]
-  Japanese: sekinin
-  Korean: chaegimgwa gwichaek [liability]
 
 Phr:
   mea culpa [Lat.]
+  to take the blame
+  the buck stops here

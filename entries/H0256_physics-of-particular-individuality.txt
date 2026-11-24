@@ -7,6 +7,7 @@ HGloss: The individuality of particular bodies in their determinate relation to 
 N:
   physics of particular individuality; properties of matter, particular properties, specific properties, material properties, physical properties, mechanical properties; weight, cohesion, sound, heat
   the physics of the particular individual, specific gravity cohesion sound and heat, the specified body, measurable properties
+  specificity
 
 V:
   weigh, cohere, sound, heat
@@ -19,8 +20,6 @@ Adv:
   specifically, particularly
   in particular, measurably
 
-F:
-  Korean: teuksu gaeche mulli
-
 Phr:
   the properties of bodies
+  to have a body

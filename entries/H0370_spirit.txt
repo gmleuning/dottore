@@ -33,9 +33,8 @@ F:
   Hebrew: ruach [breath, spirit]
   Arabic: rūḥ [spirit], ʿaql [intellect], nafs [soul, self]
   Sanskrit: ātman [self], cit [consciousness], manas [mind], puruṣa [spirit]
-  Chinese: jingshen [spirit], xin [heart-mind], shen [spirit]
-  Japanese: seishin
-  Korean: jeongsin [spirit], jeongsin cheolhak
+  Chinese: xin [heart-mind], shen [spirit]
+  Korean: jeongsin [spirit]
 
 Phr:
   the wind bloweth where it listeth ... so is every one that is born of the Spirit [Bible]
@@ -43,3 +42,5 @@ Phr:
   the essence of spirit is freedom [Hegel]
   spirit is a bone [Hegel]
   mens agitat molem [Lat.] [Virgil]
+  in the spirit of
+  the spirit is willing but the flesh is weak

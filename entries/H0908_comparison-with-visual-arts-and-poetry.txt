@@ -23,7 +23,7 @@ Adv:
 F:
   Latin: ut pictura poesis
   Italian: paragone
-  Korean: si [poetry], johyeong yesul [visual arts]
 
 Phr:
   architecture is frozen music
+  painting is silent poetry

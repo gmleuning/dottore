@@ -23,7 +23,7 @@ Adv:
 
 F:
   Greek: dromos
-  Korean: ijipteu sinjeon [Egyptian temples]
 
 Phr:
   an avenue of sphinxes
+  temple of Karnak

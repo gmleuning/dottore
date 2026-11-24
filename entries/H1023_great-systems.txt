@@ -7,6 +7,7 @@ HGloss: The great systems of Plato and Aristotle, in which Greek thought complet
 N:
   great systems; Plato and Aristotle, systematic philosophy, the Academy and the Lyceum
   the great systematizers, Attic philosophy, Athenian philosophy, the summit of Greek thought, the golden age of Greek philosophy, Platonism and Aristotelianism, the Idea, the completed science, synthesis, summa, architectonic, totality, comprehensive doctrine
+  systematization
 
 V:
   systematize
@@ -19,9 +20,6 @@ Adj:
 Adv:
   systematically
   comprehensively, architectonically, encyclopaedically, synthetically, as a whole
-
-F:
-  Korean: chegye [system]
 
 Phr:
   the School of Athens

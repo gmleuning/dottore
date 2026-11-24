@@ -26,7 +26,8 @@ Adv:
 
 F:
   Latin: vis inertiae
-  Korean: gigyejeok gaekche [mechanical object]
 
 Phr:
   a cog in the machine
+  a mere thing
+  dead weight

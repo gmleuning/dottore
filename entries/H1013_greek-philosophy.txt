@@ -7,6 +7,7 @@ HGloss: Greek philosophy, where thought first becomes free and the individual is
 N:
   Greek philosophy; ancient philosophy, Hellenic thought, classical philosophy, the Presocratics, Socrates, Plato, Aristotle, Hellenistic schools
   Grecian philosophy, philosophy of the Greeks, the Greeks, the ancients, antiquity, Greek thought, Greek wisdom, Greek science, Hellenism, the Greek mind, the Greek enlightenment, the Greek miracle, the birthplace of philosophy, the Ionians, the Eleatics, the Sophists, the Academy, the Lyceum, the Stoa, the Garden, Neoplatonism, the pagan philosophers, the love of wisdom, logos, free thought, freedom of thought, theory, contemplation, wonder, the passage from mythos to logos
+  philhellenism
 
 V:
   philosophize, dispute, inquire
@@ -22,9 +23,7 @@ Adv:
 
 F:
   Greek: philosophia, theōria, sophia, thaumazein, archē, epistēmē, alētheia, logon didonai
-  Arabic: al-falsafa al-yūnāniyya
-  Chinese: xila zhexue
-  Korean: Geuriseu cheolhak [Greek philosophy]
 
 Phr:
   philosophy begins in wonder [Plato]
+  at home in the world

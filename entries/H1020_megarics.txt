@@ -24,7 +24,7 @@ Adv:
 
 F:
   Greek: eristikē, sōritēs, pseudomenos, kyrieuōn logos, enkekalymmenos, keratinēs, phalakros
-  Korean: Megara hakpa [Megarians]
 
 Phr:
   the liar paradox [Eubulides]
+  the heap and the bald man

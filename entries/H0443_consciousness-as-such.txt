@@ -7,6 +7,7 @@ HGloss: Consciousness of an immediate object, which in its forms is sense, perce
 N:
   consciousness as such; object-consciousness, outward-directed awareness, knowledge of the given, natural consciousness, naive realism, the natural attitude; the object as other
   consciousness proper, awareness of an object, the given object, the standing-over-against, the subject-object relation
+  cognizance
 
 V:
   be aware of, apprehend, confront, face, encounter, take as given
@@ -26,3 +27,5 @@ F:
 
 Phr:
   the world as it appears to common sense
+  wide awake
+  in one's right mind

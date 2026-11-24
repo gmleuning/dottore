@@ -7,6 +7,7 @@ HGloss: The rendering of individual character in its particularity.
 N:
   characterization; characterization, portraiture, likeness, expression, physiognomy, individual traits
   character-drawing, individualization, delineation, depiction, portrayal, particularity, distinctiveness, countenance, features, mien, bearing, truth to life, lifelikeness
+  verisimilitude
 
 V:
   characterize, portray, individualize
@@ -23,8 +24,6 @@ Adv:
   characteristically
   distinctively, individually, to the life, expressively, tellingly
 
-F:
-  Korean: seonggyeok myosa [characterization]
-
 Phr:
   a speaking likeness
+  warts and all

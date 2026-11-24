@@ -33,11 +33,9 @@ Adv:
 
 F:
   German: Reformation, Aufklärung, Neuzeit
-  Arabic: al-ḥadātha [modernity]
-  Chinese: xiandai [modern age]
-  Japanese: kindai
-  Korean: geundae [modern age], jonggyo gaehyeok
 
 Phr:
   it was a glorious mental dawn [Hegel on the Revolution]
   sola fide, sola scriptura [Lat.]
+  the age of revolutions
+  liberty, equality, fraternity

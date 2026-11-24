@@ -10,6 +10,7 @@ N:
   confidence, reliance, faith &c H0604
   religion, religiousness, devotion
   the world of faith, the beyond, pure consciousness, critical insight, the flight from the actual world
+  fideism
 
 V:
   believe, have faith, trust; see through, scrutinize, examine, criticize
@@ -34,11 +35,10 @@ F:
   Latin: fides
   Greek: pistis
   French: the philosophes
-  Arabic: īmān [faith], baṣīra [insight]
+  Arabic: īmān [faith]
   Sanskrit: śraddhā [faith]
-  Chinese: xinyang [faith]
-  Japanese: shinkō
-  Korean: sinanggwa sunsu tongchal [faith and pure insight]
 
 Phr:
   credo ut intelligam [Lat.] [I believe in order to understand] [Anselm]
+  faith and reason
+  seeing is believing

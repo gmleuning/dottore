@@ -41,11 +41,7 @@ Adv:
 
 F:
   French: auto dafe
-  Arabic: iḥtirāq [combustion]
-  Sanskrit: dahana [burning]
-  Chinese: ranshao [combustion]
-  Japanese: nenshō
-  Korean: yeonso gwajeong [fire process]
 
 Phr:
   ashes to ashes
+  burn to ashes

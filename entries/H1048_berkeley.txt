@@ -18,7 +18,6 @@ Adv:
 
 F:
   Latin: esse est percipi
-  Korean: Beokeulli [Berkeley], gwannyeomnon [idealism]
 
 Phr:
   esse est percipi [Lat.]

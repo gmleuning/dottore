@@ -7,6 +7,7 @@ HGloss: The trance-seeing of what is distant in space or time.
 N:
   external vision; remote viewing, seeing at a distance, far sight, distant vision, telegnosis
   far-sight, telesthesia
+  telaesthesia
 
 V:
   see afar, view remotely
@@ -20,9 +21,6 @@ Adv:
   at a distance, afar
   from afar
 
-F:
-  Sanskrit: dūradarśana [far seeing]
-  Korean: wonsi [distant vision]
-
 Phr:
   seeing beyond the horizon
+  across the miles

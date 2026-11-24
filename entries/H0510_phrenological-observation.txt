@@ -20,9 +20,7 @@ Adv:
   phrenologically
   from the skull
 
-F:
-  German: Schädellehre
-  Korean: golsanghak [phrenology]
-
 Phr:
   to have one's bumps read
+  to have one's head examined
+  a bump on the head

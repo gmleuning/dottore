@@ -39,10 +39,7 @@ Adv:
 F:
   Latin: angina pectoris
   French: tic douloureux
-  Arabic: shuʿūr [feeling, awareness]
-  Sanskrit: vedanā
-  Chinese: minganxing [sensitivity]
-  Korean: gamgakseong [sentience]
 
 Phr:
   the heart of sensibility
+  to be touched

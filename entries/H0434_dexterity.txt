@@ -58,17 +58,13 @@ Adv:
   easily
 
 F:
-  German: Geschicklichkeit
   Latin: dexteritas, secundum artem
   French: savoir-faire, savoir faire, etourderie gaucherie, inhabile
   Spanish: prima donna
-  Arabic: mahāra [skill]
-  Sanskrit: kauśala [skill]
-  Chinese: jiqiao [skill]
   Japanese: waza [technique]
-  Korean: sungnyeon [dexterity], somssi
 
 Phr:
   practice makes perfect
   usus magister est optimus [Lat.]
   Cook Ding carving the ox [Zhuangzi]
+  second nature

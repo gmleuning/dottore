@@ -24,6 +24,7 @@ N:
   trial attorney, defense attorney, trial lawyer, defense lawyer, divorce lawyer, public defender, law agent
   minutes, blame, transactions, complainant, commendation, responder
   detective, investigator, investigation, prosecution, defence attorney, settlement, testimony, witness, evidence, alibi, acquittal, parole, probation, bail
+  judicature, assizes
 
 V:
   try, hear, adjudicate, judge, sentence, acquit, convict, rule, sue
@@ -56,12 +57,10 @@ F:
   Latin: curia, sub judice, certiorari, res judicata, tu quoque argument, argumentum ad hominem, scandalum magnatum, tu quoque &c H0653
   Greek: dikastērion
   French: gendarmerie
-  Arabic: maḥkama [court], qāḍī [judge]
-  Sanskrit: sabhā [assembly, court]
-  Chinese: fayuan [court]
-  Japanese: saibansho
-  Korean: beobwon [court of law]
+  Arabic: qāḍī [judge]
 
 Phr:
   audi alteram partem [Lat.] [hear the other side]
   trial by jury
+  to have one's day in court
+  order in court

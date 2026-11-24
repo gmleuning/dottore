@@ -33,12 +33,10 @@ F:
   German: Leib, Körper
   Latin: corpus, membrum, fabrica [Vesalius]
   Greek: sōma, anatomē
-  Arabic: tashrīḥ [anatomy]
-  Chinese: jiepou [anatomy]
-  Korean: dongmurui hyeongtae [shape]
 
 Phr:
   fearfully and wonderfully made [Bible]
   O that this too too solid flesh would melt [Hamlet]
   the thigh bone's connected to the hip bone
   the body is the temple of the Holy Ghost [Bible]
+  body and soul

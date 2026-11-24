@@ -12,6 +12,7 @@ N:
   aught
   creature, somebody, some one
   anything, anything at all, whatever
+  quiddity
 
 V:
   be something, be somebody, amount to something, count for something; stand out, take shape, crystallize, materialize; individuate, individualize, particularize
@@ -29,15 +30,12 @@ Adv:
   at all, in any way, anyhow
 
 F:
-  German: Insichsein, Negation der Negation, Etwas
+  German: Insichsein, Negation der Negation
   Latin: aliquid, haecceitas, subiectum
   Greek: ti, tode ti [a this-something], hypokeimenon
   French: je ne sais quoi
-  Arabic: shayʾ [thing]
-  Chinese: dongxi [thing]
-  Japanese: mono [thing]
-  Korean: eotteon geot [something]
 
 Phr:
   aliquid stat pro aliquo [Lat.]
   something is rotten in the state of Denmark [Hamlet]
+  a thing in itself

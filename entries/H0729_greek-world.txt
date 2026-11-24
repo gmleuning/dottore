@@ -7,6 +7,7 @@ HGloss: The Greek world, where some are free: beautiful ethical life, in which t
 N:
   the Greek world; beautiful ethical life, Hellas, ancient Greece, the Hellenes, the polis, classical antiquity, the youth of history, some are free
   Greece, the Hellenic world, the youth of spirit, the freedom of some, the beautiful freedom, the realm of beauty
+  Hellenism
 
 V:
   flourish, philosophize, sculpt, deliberate
@@ -23,10 +24,9 @@ Adv:
 F:
   German: schöne Sittlichkeit
   Greek: Hellas, Hellēnes
-  Arabic: al-Yūnān [Greece]
   Sanskrit: Yavana [Greeks]
-  Korean: geuriseu segye [Greek world]
 
 Phr:
   the Greeks knew that some are free [Hegel]
   we are all Greeks [Shelley]
+  the glory that was Greece

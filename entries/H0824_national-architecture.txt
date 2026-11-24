@@ -22,7 +22,7 @@ Adv:
 
 F:
   Arabic: Bābil [Babel]
-  Korean: minjok geonchuk [national architecture]
 
 Phr:
   the Tower of Babel
+  to make a name for ourselves

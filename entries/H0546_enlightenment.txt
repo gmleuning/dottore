@@ -10,6 +10,7 @@ N:
   atheist, skeptic, unbeliever, infidel, freethinker
   atheism
   illumination, pure insight, the spreading of insight like a perfume
+  illuminism
 
 V:
   enlighten, illuminate, demystify, secularize, disenchant, criticize, rationalize, debunk
@@ -25,14 +26,11 @@ Adv:
   enlightenedly, critically
 
 F:
-  German: Aufklärung
   Latin: sapere aude
   French: les Lumières, the Encyclopédie, philosophes
   Italian: illuminismo
-  Arabic: tanwīr [enlightenment], Nahḍa [Arab renaissance]
-  Chinese: qimeng [enlightenment]
-  Japanese: keimō
-  Korean: gyemong [Enlightenment]
+  Arabic: Nahḍa [Arab renaissance]
+  Korean: gyemong [enlightenment]
 
 Phr:
   sapere aude [Lat.] [dare to know] [Horace, Kant]

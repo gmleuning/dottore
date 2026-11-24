@@ -7,6 +7,7 @@ HGloss: The poetic grasp, which holds the whole together, and the prosaic, which
 N:
   poetic and prosaic treatment; poetic vision versus prosaic understanding, imagination versus intellect
   poetic conception, prosaic conception, the prosaic mind, the prose of life, the understanding, literalness, matter-of-factness, figurativeness, concreteness
+  prosaicism
 
 V:
   imagine, abstract, treat
@@ -25,8 +26,6 @@ Adv:
   poetically, literally, soberly, figuratively
   gravely
 
-F:
-  Korean: sijeok [poetic], sanmunjeok [prosaic]
-
 Phr:
   the prose of the world
+  poetic licence

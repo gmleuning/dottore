@@ -49,18 +49,15 @@ Adv:
   with knowledge
 
 F:
-  German: Wissen
   Latin: scientia, helluo librorum, Artium Baccalaureus, Artium Magister, homo multarum literarum
   Greek: epistēmē
   French: savoir, connaissance, litterateur, bas-bleu
   Italian: cogniscenti
-  Arabic: ʿilm [knowledge], maʿrifa [gnosis]
-  Sanskrit: jñāna, vidyā
-  Chinese: zhishi [knowledge]
-  Japanese: chishiki
-  Korean: ji [knowledge], jisik
+  Arabic: maʿrifa [gnosis]
+  Sanskrit: vidyā
 
 Phr:
   scientia potentia est [Lat.]
   knowledge is power [Bacon]
   all men by nature desire to know [Aristotle]
+  to know for a fact

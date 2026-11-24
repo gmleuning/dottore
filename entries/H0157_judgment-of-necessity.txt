@@ -20,8 +20,7 @@ Adv:
 
 F:
   Latin: per se, de re
-  Arabic: ḍarūrī [necessary proposition]
-  Korean: pillyeon pandan [judgment of necessity]
 
 Phr:
   gold is a metal
+  in the nature of things

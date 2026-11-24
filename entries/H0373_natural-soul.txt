@@ -7,6 +7,7 @@ HGloss: The soul in its immediate natural determinacy, which merely is and share
 N:
   natural soul; nature-bound soul, unreflective life, natural mind, the natural man, natural self, instinct, temperament &c H0379, disposition, natural endowment, bodily soul, vegetative and animal soul, physis of the soul
   the natural psyche, the immediate soul, the soul in nature, the sleep of spirit, the merely being soul
+  animism
 
 V:
   be natural, follow nature, live by instinct
@@ -24,12 +25,9 @@ Adv:
   immediately, in nature
 
 F:
-  German: die natürliche Seele
   Arabic: fiṭra [inborn nature]
-  Sanskrit: prakṛti
   Chinese: tianxing [heaven-given nature]
-  Japanese: sei
-  Korean: jayeonjeok yeonghon [natural soul]
 
 Phr:
   the natural man receiveth not the things of the Spirit [Bible]
+  at one with nature

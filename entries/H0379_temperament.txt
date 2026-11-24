@@ -39,10 +39,10 @@ F:
   French: la maladie sans maladie
   Italian: il penseroso
   Arabic: mizāj [temperament, mixture], akhlāṭ [humours]
-  Sanskrit: doṣa [constitutional humours: vāta, pitta, kapha], prakṛti
+  Sanskrit: doṣa [constitutional humours: vāta, pitta, kapha]
   Chinese: qizhi [temperament]
-  Japanese: kishitsu
   Korean: gijil [temperament]
 
 Phr:
   every man in his humour [Ben Jonson]
+  cool as a cucumber

@@ -7,6 +7,7 @@ HGloss: The activity of spirit which makes the object its own.
 N:
   spiritual activity; mental activity, intellectual work, thinking, mind-work, appropriation, comprehension, making intelligible, energeia of mind
   the activity of spirit, the work of mind, intellectual labour, the labour of the concept, idealization
+  noesis, mentation
 
 V:
   think, comprehend, appropriate, make one's own, digest, assimilate
@@ -24,7 +25,8 @@ Adv:
 
 F:
   German: Geistestätigkeit
-  Korean: jeongsin hwaldong
 
 Phr:
   to make it one's own
+  mental work
+  the work of the mind

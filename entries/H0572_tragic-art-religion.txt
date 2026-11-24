@@ -7,6 +7,7 @@ HGloss: Tragedy, in which actors wearing masks speak the self of the ethical pow
 N:
   tragic art-religion; tragedy, Attic tragedy, the tragic hero, the chorus, the mask, persona, pity and fear, catharsis, fate, Aeschylus, Sophocles
   the tragic consciousness, the hero, the collision of powers, necessity, Zeus and the Furies
+  hamartia
 
 V:
   perform, suffer, purge, lament, fall
@@ -25,11 +26,9 @@ Adv:
 
 F:
   Greek: tragōidia, eleos kai phobos, katharsis, anagnorisis [recognition], peripeteia [reversal]
-  Arabic: maʾsāh [tragedy]
-  Chinese: beiju [tragedy]
-  Japanese: higeki
-  Korean: bigeuk [tragedy]
 
 Phr:
   pity and fear [Aristotle]
   the chorus as the ideal spectator [A. W. Schlegel]
+  the tragic mask
+  a tragic flaw

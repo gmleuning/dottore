@@ -29,12 +29,10 @@ F:
   German: Besonderheit
   Latin: differentia, viz., videlicet, in propria persona, ad hominem, exemplia gratia, pro hac vice, pro re nata
   Greek: eidos
-  Arabic: juzʾī [particular], nawʿ [species]
+  Arabic: juzʾī [particular]
   Sanskrit: viśeṣa [particularity]
-  Chinese: tebie [particular]
-  Japanese: tokushu
-  Korean: teuksujeok gaenyeom [particular]
 
 Phr:
   the devil is in the details
   every particular is a species
+  of a kind

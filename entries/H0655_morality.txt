@@ -20,13 +20,7 @@ Adv:
   morally, subjectively
   inwardly, on one's own account
 
-F:
-  German: Moralität
-  Arabic: akhlāq
-  Sanskrit: naitikatā [morality]
-  Chinese: daode
-  Japanese: dōtoku
-  Korean: dodeok [morality]
-
 Phr:
   the right of the subjective will
+  on moral grounds
+  a matter of principle

@@ -29,12 +29,11 @@ Adv:
 
 F:
   Latin: hereditas, fideicommissum, ab intestato
-  Arabic: mīrāth [inheritance], farāʾiḍ [fixed shares]
+  Arabic: farāʾiḍ [fixed shares]
   Sanskrit: dāyabhāga [partition of inheritance]
-  Chinese: jicheng [inheritance]
-  Japanese: sōzoku
-  Korean: sangsokgwon [inheritance]
 
 Phr:
   hereditas numquam ascendit [Lat.]
   the meek shall inherit the earth [Bible]
+  to come into money
+  the family fortune

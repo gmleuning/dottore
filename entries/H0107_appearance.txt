@@ -33,16 +33,14 @@ Adv:
   obviously, evidently, manifestly, plainly
 
 F:
-  German: Erscheinung
   Latin: mundus sensibilis, prima facie
   Greek: phainomenon
   French: coup d'oeil, mise en sc ne
   Arabic: ẓuhūr [manifestation], ẓāhir [the outward]
-  Sanskrit: ābhāsa, rūpa
-  Chinese: xianxiang [phenomenon]
-  Japanese: genshō
+  Sanskrit: ābhāsa
   Korean: hyeonsang [appearance]
 
 Phr:
   save the appearances, sōzein ta phainomena [Gr.]
   things are seldom what they seem
+  to make an appearance

@@ -11,6 +11,7 @@ N:
   married couple, partner, spouse, mate, husband, consort, wife of one's bosom, helpmate
   marriage, matrimony, wedlock, union, intermarriage, the bonds of marriage, nuptial tie
   the marriage bond, the conjugal tie, conjugal love, the marital union
+  conjugality
 
 V:
   unite, bond, commit, cleave to
@@ -30,7 +31,8 @@ Adv:
 F:
   Latin: consortium vitae [partnership of life], vinculum matrimonii
   Arabic: mawadda wa-raḥma [love and mercy] [Qur'an]
-  Korean: bubu gwangye [marriage relation]
 
 Phr:
   they shall be one flesh [Bible]
+  man and wife
+  better half

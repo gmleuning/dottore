@@ -9,6 +9,7 @@ N:
   excellence, merit, virtue, value, worth, price
   good man, honest man
   the final end of the world, realized freedom, well-being with right
+  beneficence
 
 V:
   do good, pursue the good, seek the good
@@ -37,12 +38,11 @@ F:
   Latin: the summum bonum, bonum
   Greek: to agathon
   French: à bon droit, au bon droit
-  Arabic: khayr [good], ḥusn [goodness]
+  Arabic: ḥusn [goodness]
   Sanskrit: śreyas [the good], kalyāṇa
-  Chinese: shan [good]
-  Japanese: zen
-  Korean: seon [the good]
 
 Phr:
   the form of the good [Plato]
   das Gute ist die Idee … die realisierte Freiheit, der absolute Endzweck der Welt [Ger.] [Hegel, Philosophy of Right §129]
+  for the greater good
+  the common good

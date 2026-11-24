@@ -34,11 +34,7 @@ Adv:
 
 F:
   Greek: to diaphanes
-  Arabic: shaffāfiyya [transparency]
-  Sanskrit: svaccha [clear]
-  Chinese: touming [transparent]
-  Japanese: tōmei
-  Korean: tumyeongseong [transparency]
 
 Phr:
   clear as glass
+  to see through

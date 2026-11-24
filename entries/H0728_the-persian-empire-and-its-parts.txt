@@ -7,6 +7,7 @@ HGloss: The Persian empire, which let its peoples keep their own natures: Syria 
 N:
   the Persian Empire and its parts; Syria, Phoenicia, Judaea, Egypt, satrapies, provinces, the Phoenician sea-traders, the Hebrew religion of the One, the Egyptian riddle, hieroglyphs, the Sphinx, pyramids, Isis and Osiris
   the subject peoples, Persia proper, Asia Minor, the Great King, the empire of many nations
+  satrap
 
 V:
   trade, sail, worship, embalm, decipher
@@ -17,6 +18,7 @@ Adj:
   Syrian, Phoenician, Judaean, Hebrew, Egyptian, hieroglyphic
   imperial, provincial, satrapal, multinational, tributary
   transnational
+  Achaemenid
 
 Adv:
   across the empire
@@ -24,10 +26,9 @@ Adv:
 
 F:
   Hebrew: Yehuda
-  Arabic: Sūriya, Miṣr [Egypt]
-  Korean: pereusia jeguk [Persian empire]
 
 Phr:
   the riddle of the Sphinx
   a riddle for themselves and for others, the solution of which is only to be found in the Greek World [Hegel, Philosophy of History, tr. Sibree]
   Hear, O Israel: the Lord our God is one Lord, Shema Yisrael [Heb.] [Bible]
+  from India to Ethiopia

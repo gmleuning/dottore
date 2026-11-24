@@ -20,8 +20,6 @@ Adv:
   devotionally
   religiously, in the sphere of religion
 
-F:
-  Korean: nangmanjeok yesurui jonggyojeok yeongyeok
-
 Phr:
   ad maiorem Dei gloriam [Lat.]
+  the life of the spirit

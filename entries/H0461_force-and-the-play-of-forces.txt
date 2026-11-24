@@ -22,8 +22,6 @@ Adv:
 
 F:
   German: Spiel der Kräfte
-  Arabic: tadāfuʿ al-quwā [interplay of forces]
-  Korean: himui yuhui [play of forces]
 
 Phr:
   the play of forces

@@ -7,6 +7,7 @@ HGloss: The romantic epic of the Middle Ages, the Nibelungen, Dante, the epics o
 N:
   romantic epic; El Cid, Divine Comedy, Orlando Furioso, Paradise Lost
   the chivalric epic, the medieval epic, the Christian epic, chanson de geste, the Song of Roland, the Arthurian romances, Parzival, Tristan, Jerusalem Delivered, the Lusiads, Ossian, the Edda, romance of chivalry, Dante, Ariosto, Tasso, Camões, Milton
+  romaunt
 
 V:
   sing, quest
@@ -25,7 +26,8 @@ F:
   French: Chanson de Roland
   Italian: Divina Commedia, Gerusalemme Liberata
   Portuguese: Os Lusíadas
-  Korean: Singok [the Divine Comedy], gisado munhak [chivalric literature]
 
 Phr:
   nel mezzo del cammin di nostra vita [It.] [Dante]
+  knights and ladies
+  the matter of Britain

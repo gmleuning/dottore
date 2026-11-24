@@ -15,13 +15,13 @@ V:
 Adj:
   romantic, Gothic, ecclesiastical, aspiring, soaring
   Christian, medieval, devotional, inward
+  sacral, numinous
 
 Adv:
   heavenward
   for devotion, inwardly
 
-F:
-  Korean: nangmanjeok geonchuk [romantic architecture]
-
 Phr:
   a forest of stone
+  a house for the inward
+  the gathered congregation

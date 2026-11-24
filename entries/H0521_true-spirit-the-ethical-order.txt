@@ -25,11 +25,12 @@ F:
   German: die Sittlichkeit, Sitte [custom]
   Latin: mos maiorum [the ways of the ancestors]
   Greek: ethos, nomos [law, custom], ēthos
-  Arabic: ʿurf [custom], sunna [practice, tradition]
+  Arabic: ʿurf [custom]
   Sanskrit: dharma [duty, order]
   Chinese: li [ritual propriety]
-  Korean: yullijeok jilseo [ethical order], illyun
+  Korean: illyun [ethical life]
 
 Phr:
   moribus antiquis res stat Romana virisque [Lat.] [Ennius]
   nomos basileus [Gr.] [custom is king] [Pindar]
+  the good old ways

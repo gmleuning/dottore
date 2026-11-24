@@ -35,9 +35,7 @@ F:
   Greek: theōria
   French: nous, pas si bete
   Arabic: al-ʿaql al-naẓarī [theoretical intellect]
-  Sanskrit: jñāna-śakti [power of knowing]
-  Chinese: lilun xing [theoretical]
-  Korean: ironjeok jeongsin [theoretical mind], jiseong
 
 Phr:
   the life of the mind
+  to put one's mind to

@@ -11,6 +11,7 @@ N:
   oyster, slater, clam, leech, conch, abalone, krill
   seed shrimp, ribbon worm, beard worm, sea cradle, parasitic worm, segmented worm, mussel shrimp, spiny-headed worm, ear-shell, bubble shell, tooth shell, fairy shrimp, ark shell, sea hare, water flea, sea slug, wheat eel, blood clam, hermit crab, mantis shrimp, mantis crab, brine shrimp, tusk shell, tropical prawn, pearly nautilus, chambered nautilus, fish louse, blue point, sea-ear, knife-handle, moon shell, sea mouse, skeleton shrimp, pistol shrimp, red worm, fishing worm, swimming crab, stone crab, spider crab, soft-shell crab, rock crab, hard-shell crab, garden snail, true lobster, rock lobster, vinegar worm, edible snail, window oyster, seed oyster, saddle oyster, pearl oyster, pea crab, dew worm, sand hopper, snapping shrimp, sea slater, sand flea, beach flea, scorpion shell, vinegar eel
   wiggle
+  annelid, mollusc
 
 V:
   crawl, creep, burrow, wriggle
@@ -26,10 +27,8 @@ Adv:
 
 F:
   Latin: vermes
-  Arabic: dūd [worms], ḥalazūn [snail]
-  Sanskrit: kṛmi [worm]
-  Chinese: ruantidongwu [soft-bodied animals, molluscs]
-  Korean: yeonche dongmul [mollusk], beolle [worm]
 
 Phr:
   the worm turns
+  to worm one's way
+  to come out of one's shell

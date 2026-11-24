@@ -11,6 +11,7 @@ N:
   denomination, designation, particularization
   signification
   the proximate genus, specific difference
+  definiens
 
 V:
   define, explain, explicate, describe, specify, characterize, delimit, determine, denote, gloss, spell out
@@ -26,12 +27,10 @@ Adv:
 F:
   Latin: definitio, genus proximum et differentia specifica, ex definitione
   Greek: horismos, horos
-  Arabic: ḥadd [definition], taʿrīf
+  Arabic: ḥadd [definition]
   Sanskrit: lakṣaṇa [defining mark]
-  Chinese: dingyi [definition]
-  Japanese: teigi
-  Korean: jeongui [definition]
 
 Phr:
   omnis definitio in iure periculosa est [Lat.]
   definitio fit per genus proximum et differentiam specificam [Lat.]
+  genus and difference

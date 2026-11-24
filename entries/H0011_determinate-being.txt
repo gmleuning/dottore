@@ -24,14 +24,14 @@ Adv:
   definitely
 
 F:
-  German: Realität, Bestimmtheit, Dasein
+  German: Realität, Bestimmtheit
   Latin: ens, hic et nunc, in esse, de facto, esse
-  Arabic: mawjūd [existent]
-  Sanskrit: bhāva [entity, state of being]
-  Korean: hyeonjonjae [determinate being], jeongjae
+  Korean: hyeonjonjae [determinate being]
 
 Phr:
   there it is
   c'est comme ça [Fr.]
   es gibt [Ger.]
   such is life
+  being there
+  on the scene

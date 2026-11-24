@@ -9,6 +9,7 @@ N:
   eversion, subversion, reversion, contrariety &c H0092
   opposition, polarity, inversion &c H0218, inverse, counterpart, antipodes
   the phenomenal world, the noumenal world, the world in and for itself
+  mundus inversus
 
 V:
   invert, reverse, mirror, turn upside down, turn inside out
@@ -29,8 +30,10 @@ F:
   Latin: mundus sensibilis et intelligibilis
   Arabic: ẓāhir wa-bāṭin [outer and inner], ʿālam al-shahāda wa-l-ghayb [the visible and the unseen world]
   Sanskrit: saṃvṛti and paramārtha [conventional and ultimate truth]
-  Korean: hyeonsang segye, jeondoen segye [inverted world]
+  Korean: jeondoen segye [inverted world]
 
 Phr:
   the allegory of the cave [Plato]
   as above, so below
+  the world turned upside down
+  through the looking glass

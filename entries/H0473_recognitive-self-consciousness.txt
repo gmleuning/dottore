@@ -29,10 +29,9 @@ Adv:
 F:
   German: Anerkennung
   French: le regard [Sartre]
-  Arabic: iʿtirāf [recognition]
-  Chinese: chengren [recognition]
-  Japanese: shōnin
-  Korean: seungin [recognition], injeong
+  Korean: injeong [recognition]
 
 Phr:
   self-consciousness exists in and for itself when, and by the fact that, it so exists for another [Hegel]
+  to give credit where credit is due
+  to stand up and be counted

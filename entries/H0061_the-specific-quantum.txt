@@ -20,8 +20,7 @@ Adj:
 Adv:
   just right, just so, to a nicety, to a T. at its proper size, specifically
 
-F:
-  Korean: teukjeong yang [specific quantum]
-
 Phr:
   Goldilocks's porridge: not too hot, not too cold
+  just so much
+  in due measure

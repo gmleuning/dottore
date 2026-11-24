@@ -7,6 +7,7 @@ HGloss: The principle of treatment in painting: the subjective appearance, given
 N:
   principle of artistic treatment; technique, handling, treatment, execution, facture, brushwork, painterly approach
   governing principle, guiding rule, manner of treatment, conception, subjectivity of treatment, inwardness, particularization
+  illusionism, trompe-l'œil
 
 V:
   handle, treat, execute
@@ -20,8 +21,7 @@ Adv:
   skilfully
   in principle, artistically, in treatment
 
-F:
-  Korean: gasang [semblance]
-
 Phr:
   the hand of the master
+  appearance for its own sake
+  the reflection of reflection

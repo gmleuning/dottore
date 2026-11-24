@@ -7,6 +7,7 @@ HGloss: The Encyclopaedia, the whole system as a circle of circles: logic, natur
 N:
   Encyclopaedia of the Philosophical Sciences; the Encyclopaedia, the system in outline, the circle of sciences, compendium, the lectures
   epitome, conspectus, synopsis, digest, abstract, précis, abridgment, handbook, manual, textbook, syllabus, summa, the Heidelberg Encyclopaedia, the Berlin Encyclopaedia, the system as a whole
+  encyclopaedism, systematicity
 
 V:
   outline, summarize, encompass
@@ -22,7 +23,7 @@ Adv:
 
 F:
   German: the Zusätze [additions]
-  Korean: Cheolhak baekgwa [Encyclopaedia]
 
 Phr:
   a circle of circles [Hegel]
+  the whole of the system

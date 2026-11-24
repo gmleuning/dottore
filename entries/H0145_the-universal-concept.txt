@@ -30,10 +30,9 @@ F:
   Latin: universale, natura communis, post rem, semper et ubique
   Greek: katholou [on the whole, universal], to katholou, eidos, koinon
   Arabic: kullī [universal]
-  Sanskrit: sāmānya [generality], jāti [genus]
-  Chinese: gong [common], pubian [universal]
-  Korean: bopyeonjeok gaenyeom [universal]
+  Sanskrit: sāmānya [generality]
 
 Phr:
   universalia sunt realia [Lat.]
   quod semper, quod ubique, quod ab omnibus [Lat.] [Vincent of Lérins]
+  the general rule

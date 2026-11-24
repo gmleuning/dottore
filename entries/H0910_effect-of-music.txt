@@ -9,6 +9,7 @@ N:
   happiness, felicity, bliss, beatitude, ravishment
   transport of love
   the power of music, the sway of music, emotional effect, the stirring of the soul, emotion, exaltation, elevation, consolation, solace, magic, fascination, Amphion, the Sirens, David's harp
+  entrancement
 
 V:
   move, transport, enchant, enrapture, soothe
@@ -26,7 +27,9 @@ Adv:
 
 F:
   Arabic: ṭarab
-  Korean: gamdong [being moved]
+  Korean: heung [exuberant joy]
 
 Phr:
   music has charms to soothe a savage breast [Congreve]
+  music soothes the savage breast
+  to be carried away

@@ -13,6 +13,7 @@ N:
   2 oil, distillate, residual oils, kerosene, jet fuel, gasoline, naphtha, stearin
   chemical action, chemism, combination and separation, metamorphosis of bodies
   petrol
+  transmutation
 
 V:
   react, combine, transform, decompose, synthesize, analyse, transmute
@@ -31,9 +32,7 @@ F:
   Latin: magnum opus
   Arabic: al-kīmiyāʾ
   Sanskrit: rasāyana
-  Chinese: huaxue fanying [chemical reaction]
-  Japanese: kagaku hannō
-  Korean: hwahak gwajeong [chemical process]
 
 Phr:
   solve et coagula [Lat.]
+  to react with

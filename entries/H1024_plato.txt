@@ -7,6 +7,7 @@ HGloss: Plato, who held the ideas to be the true and gave philosophy its specula
 N:
   Plato; Platonism, the theory of Forms, the Good, the cave, the divided line, the dialogue, the Academy, recollection, the philosopher-king, the Republic
   Platonist, the Platonists, the divine Plato, the Old Academy, the Ideas, the theory of Ideas, the doctrine of Ideas, the Idea of the Good, the intelligible world, the world of forms, the realm of ideas, archetypes, paradigms, participation, the Demiurge, the sun, the chariot, the tripartite soul, Platonic love, eros, the dialogues, the Symposium, the Phaedo, the Parmenides, the Sophist, the Timaeus, dialectic, the guardians, the ideal state, the noble lie, the myth of Er, the two worlds, the unwritten doctrines
+  anamnesis
 
 V:
   idealize, ascend, recollect, dialogue
@@ -23,8 +24,8 @@ Adv:
 F:
   Greek: eidos, idea, anamnēsis, methexis, chōrismos, to agathon, kosmos noētos, mimēsis, dialektikē, dēmiourgos
   Arabic: Aflāṭūn
-  Korean: Peullaton [Plato], idea [Idea]
 
 Phr:
   the allegory of the cave [Plato]
   footnotes to Plato [Whitehead]
+  the Form of the Good

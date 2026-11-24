@@ -11,6 +11,7 @@ N:
   particularity, peculiarity
   aptitude, susceptibility
   potentiality, force, energy &c H0121
+  predicable
 
 V:
   have, possess, exhibit, display, manifest, affect, act on, influence
@@ -28,11 +29,10 @@ F:
   German: Eigenschaft
   Latin: proprium [property proper to a kind]
   Greek: idion
-  Arabic: khāṣṣa [proprium], ṣifa
+  Arabic: khāṣṣa [proprium]
   Sanskrit: dharma [property]
-  Chinese: xingzhi [property]
-  Japanese: seishitsu
-  Korean: sokseong [property]
 
 Phr:
   by their fruits ye shall know them [Bible]
+  true to type
+  a mark of

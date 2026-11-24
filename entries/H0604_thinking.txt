@@ -34,12 +34,11 @@ Adv:
 F:
   Latin: cogitatio
   Greek: noēsis
-  Arabic: fikr [thought], tafakkur [reflection]
-  Sanskrit: cintana [thinking], manana [reflection]
-  Chinese: siwei [thinking]
-  Japanese: shikō
-  Korean: sayu [thinking], saenggak
+  Sanskrit: manana [reflection]
+  Korean: sayu [thinking]
 
 Phr:
   thought knows only itself
   to think is to say no [Alain]
+  food for thought
+  to think it over

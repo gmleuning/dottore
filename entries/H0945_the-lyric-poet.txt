@@ -26,11 +26,8 @@ Adv:
 F:
   German: meistersinger
   French: trouvere
-  Arabic: shāʿir [poet]
-  Sanskrit: kavi [poet]
-  Chinese: shiren [poet]
-  Japanese: kajin [waka poet]
-  Korean: seojeong siin [lyric poet]
 
 Phr:
   Sappho, the tenth Muse
+  the world in one heart
+  the sweet singer

@@ -13,6 +13,7 @@ N:
   cry, bowwow, ululation, latration†, belling, reboation†, wood-note, insect cry, fritiniancy†, drone, screech owl, cuckoo
   wailing &c H0439
   the animal organism, self-feeling
+  zoē
 
 V:
   feel, sense, move, breathe, live, roam
@@ -37,12 +38,8 @@ Adv:
 F:
   Latin: regnum animale, animal, anima sensitiva
   Greek: zōon, aisthētikon [sensitive soul]
-  Arabic: ḥayawān [animal]
-  Sanskrit: paśu [animal], prāṇin
-  Chinese: dongwu [moving thing, animal]
-  Japanese: dōbutsu
-  Korean: dongmul [animal]
 
 Phr:
   all animals are equal, but some animals are more equal than others [Orwell]
   man is a political animal [Aristotle]
+  a creature of habit

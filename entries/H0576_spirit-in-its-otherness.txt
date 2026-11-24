@@ -9,6 +9,7 @@ N:
   God the Son, The Saviour, The Intercessor
   the tempter, the evil one, the evil spirit, the Adversary, the old Serpent, the Prince of darkness, the Prince of this world
   spirit in its externalization, the kingdom of the Son, good and evil, estrangement
+  kenosis
 
 V:
   create, fall, sin, mediate, redeem, empty oneself
@@ -19,6 +20,7 @@ V:
 Adj:
   created, fallen, sinful, mediating, redemptive, kenotic
   externalized, estranged, incarnate
+  lapsarian
 
 Adv:
   in the world
@@ -26,10 +28,9 @@ Adv:
 
 F:
   Greek: kenōsis [self-emptying]
-  Arabic: khalq [creation]
-  Sanskrit: sṛṣṭi [creation]
-  Korean: changjo [creation], tarak [fall], jungbo [mediator]
 
 Phr:
   felix culpa [Lat.] [O happy fault]
   he emptied himself, taking the form of a servant [Bible]
+  the fall of man
+  paradise lost

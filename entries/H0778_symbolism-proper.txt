@@ -9,6 +9,7 @@ N:
   puzzle, rebus
   sealed book
   the symbol proper, the genuine symbol, the hidden meaning, the mystery, the riddle in stone, the labyrinth, Memnon
+  hieroglyphics
 
 V:
   encode, embalm, enshrine, riddle
@@ -26,8 +27,8 @@ Adv:
 
 F:
   Greek: hieroglyphika
-  Korean: bollaeui sangjing [symbolism proper]
 
 Phr:
   sie ist das Symbol gleichsam des Symbolischen selber [Ger.] [Hegel, Aesthetics, on the Sphinx]
   the riddle of the Sphinx
+  written in hieroglyphs

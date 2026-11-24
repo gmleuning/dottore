@@ -41,11 +41,7 @@ F:
   German: Kopf, Rumpf, Glieder, Busen, Hintern
   Latin: habitus, corpus, caput, truncus, membra, nates, mammae
   Greek: sōma, kephalē, mastos, pygē
-  Arabic: jism [body], badan
-  Sanskrit: śarīra [body], deha
-  Chinese: shenti [body]
-  Japanese: karada
-  Korean: jeoncheroseoui hyeongtae
+  Sanskrit: śarīra [body]
 
 Phr:
   a sound mind in a sound body, mens sana in corpore sano [Lat.] [Juvenal]

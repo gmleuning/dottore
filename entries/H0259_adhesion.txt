@@ -36,9 +36,8 @@ Adv:
 
 F:
   Latin: adhaesio
-  Arabic: iltiṣāq [adhesion]
-  Chinese: nianfu [adhesion]
-  Korean: buchak [adhesion]
 
 Phr:
   to cleave unto [Bible]
+  to stick like glue
+  to cling to

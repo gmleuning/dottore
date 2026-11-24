@@ -50,14 +50,12 @@ F:
   Latin: therapia, vis medicatrix naturae [healing power of nature], Materia Medica, mens sana in corpore sano
   Greek: therapeia, pharmakon [remedy and poison]
   French: accoucheur, accoucheuse
-  Arabic: ṭibb [medicine], dawāʾ [remedy], shifāʾ [healing]
-  Sanskrit: āyurveda, cikitsā [treatment], bheṣaja [remedy]
-  Chinese: yixue [medicine], zhiliao [therapy]
-  Japanese: chiryō
-  Korean: chiryo [therapy], yak
+  Sanskrit: āyurveda
 
 Phr:
   vis medicatrix naturae [Lat.]
   primum non nocere [Lat.]
   similia similibus curentur [Lat.] [Hahnemann]
   the dose makes the poison [Paracelsus]
+  the cure is worse than the disease
+  an apple a day

@@ -27,14 +27,12 @@ Adv:
   pictorially
 
 F:
-  German: vorstellen, Bild
+  German: vorstellen
   Latin: imago
   Greek: eidōlon, phantasma, eidolon
-  Arabic: ṣūra [image, form], khayāl [image, phantom]
-  Sanskrit: bimba [image]
-  Chinese: yingxiang [image]
-  Japanese: imēji
-  Korean: sang [image], imiji
+  Arabic: khayāl [image, phantom]
 
 Phr:
   a picture is worth a thousand words
+  in one's mind's eye
+  a picture in one's head

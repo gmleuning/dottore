@@ -25,11 +25,9 @@ Adv:
 F:
   Latin: sensus
   Greek: aisthēseis
-  Arabic: ḥawāss [senses]
-  Sanskrit: indriya [sense faculties], pañcendriya [five senses]
-  Chinese: wuguan [five senses]
-  Japanese: gokan
-  Korean: ogam [the five senses]
+  Sanskrit: indriya [sense faculties]
 
 Phr:
   come to one's senses
+  the five senses
+  a sixth sense

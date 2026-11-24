@@ -29,15 +29,14 @@ Adv:
   vice versa, each other, one another, by turns
 
 F:
-  German: Gemeinschaft [Kant's category of community], Wechselwirkung
+  German: Gemeinschaft [Kant's category of community]
   Latin: quid pro quo, commercium, inter se, vice versa, mutatis mutandis
-  Arabic: tabāduliyya [reciprocity]
-  Sanskrit: pratītyasamutpāda, indrajāla
-  Chinese: xianghu [mutual], ganying [stimulus-response], yin-yang
-  Korean: sanghojagyong [reciprocity]
+  Sanskrit: indrajāla
+  Chinese: ganying [stimulus-response]
 
 Phr:
   do ut des [Lat.]
   one hand washes the other, manus manum lavat [Lat.]
   you scratch my back and I'll scratch yours
   this being, that becomes [Buddha]
+  a two-way street

@@ -30,7 +30,8 @@ Adv:
 
 F:
   French: déjà vu
-  Korean: bollaeui hoesang
 
 Phr:
   I know that face
+  that rings a bell
+  it comes back to me

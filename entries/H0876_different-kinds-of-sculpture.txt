@@ -7,6 +7,7 @@ HGloss: The kinds of sculpture, by mode of portrayal, by material and by histori
 N:
   different kinds of sculpture; statue, group, relief, materials, historical stages
   sorts of sculpture, species of sculpture, varieties, types, classes, branches, division of sculpture, statuary, carving, modelling, casting
+  typology
 
 V:
   classify, sculpt
@@ -22,8 +23,6 @@ Adv:
   by kind
   variously, severally, in kind
 
-F:
-  Korean: jogagui jongnyu [kinds of sculpture]
-
 Phr:
   in the round and in relief
+  statue and group

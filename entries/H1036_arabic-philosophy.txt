@@ -7,6 +7,7 @@ HGloss: The philosophy of the Arabs, which preserved Aristotle and transmitted h
 N:
   Arabic philosophy; al-Kindī, al-Fārābī [the Second Teacher], Ibn Sīnā [Avicenna], Ibn Rushd [Averroes], al-Ghazālī, the Mutakallimūn, Ashʿarites, occasionalism, the Commentator, Averroism, the House of Wisdom, Maimonides [Jewish]
   Islamic philosophy, Arabian philosophy, Arabic Aristotelianism, the Arabian Peripatetics, the Arabian commentators, the philosophers, Avicennism, Ibn Bājja [Avempace], Ibn Ṭufayl, Ibn Khaldūn, al-Rāzī, the Muʿtazilites, the Brethren of Purity, the translation movement, the active intellect, the unity of the intellect, the Incoherence of the Incoherence, the Guide for the Perplexed
+  kalam
 
 V:
   comment, translate, harmonize, transmit
@@ -22,7 +23,6 @@ Adv:
 
 F:
   Arabic: falsafa, the falāsifa, kalām [dialectical theology], Bayt al-Ḥikma, faylasūf, ʿaql, Tahāfut al-Falāsifa, Tahāfut al-Tahāfut
-  Korean: Iseullam cheolhak [Islamic philosophy], Aberoeseu [Averroes]
 
 Phr:
   Averrois, che 'l gran comento feo [It.] [Averroes, who made the great commentary] [Dante]

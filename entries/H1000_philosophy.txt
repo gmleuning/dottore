@@ -12,6 +12,7 @@ N:
   thought, intellection, reflection, cogitation, meditation
   love of wisdom, the science of the absolute, the science of truth, the thinking consideration of things, conceptual knowledge, comprehending cognition, its own time apprehended in thoughts, the owl of Minerva, grey in grey, the highest knowledge, first philosophy, world-wisdom†, lore, speculative thought, speculative science, the concept, the idea thinking itself, absolute knowing, the system, the system of science, the encyclopaedia, contemplation, ratiocination, natural philosophy, moral philosophy, dialectic, aesthetics
   philosopher, sage, thinker, metaphysician, lover of wisdom, wise man, savant, philosophe
+  philosophizing
 
 V:
   philosophize, speculate, reason, reflect, think, contemplate
@@ -33,11 +34,10 @@ F:
   Greek: philosophia [love of wisdom], sophia, theōria, epistēmē, noēsis
   Arabic: falsafa [philosophy], ḥikma [wisdom]
   Sanskrit: darśana [viewpoint, philosophy], ānvīkṣikī [inquiry]
-  Chinese: zhexue [philosophy]
-  Japanese: tetsugaku
   Korean: cheolhak [philosophy]
 
 Phr:
   the owl of Minerva spreads its wings only with the falling of the dusk [Hegel]
   philosophy is its own time comprehended in thought [Hegel]
   wonder is the beginning of philosophy [Plato]
+  the love of wisdom

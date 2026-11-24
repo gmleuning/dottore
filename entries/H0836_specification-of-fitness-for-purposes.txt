@@ -10,6 +10,7 @@ N:
   propriety, seemliness
   adaptation, function, the bearing and the borne, support and load, column and beam, wall and roof
   relevance
+  trabeation, architrave, post-and-lintel
 
 V:
   fit, suit, adapt
@@ -29,7 +30,8 @@ Adv:
 
 F:
   Latin: decor
-  Korean: jeokhapseong [fitness], gidung [column], deulbo [beam]
 
 Phr:
   fit for purpose
+  bearing and borne
+  load and support

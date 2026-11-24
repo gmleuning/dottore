@@ -7,6 +7,7 @@ HGloss: The realization of the spirituality of the community in the world, in et
 N:
   realization of the spirituality of the community; the spirit in the world, ethical life, the secular realization of religion, the Reformation, philosophy as the community's understanding
   realization, actualization, embodiment, the realized community, the kingdom of God on earth, the worldly realm, the world, worldliness, secularity, secularization, the state, the ethical state, the institutions, freedom realized, the reconciliation of religion and world, the Protestant principle, the free conscience, spirit in actuality, the worldly existence of spirit, the consecration of the worldly, the hallowing of everyday life, vocation, calling, work in the world, marriage family and state, culture, enlightenment, the thinking of faith, the laity, the priesthood of all believers
+  sanctification
 
 V:
   realize, secularize, actualize
@@ -24,7 +25,7 @@ Adv:
 F:
   German: Verwirklichung, Weltlichkeit, Sittlichkeit, Beruf
   Latin: saeculum, regnum Dei
-  Korean: sinang gongdongche [community of faith]
 
 Phr:
   the kingdom of God is within you [Bible]
+  faith working through love

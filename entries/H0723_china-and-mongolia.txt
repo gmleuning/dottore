@@ -7,6 +7,7 @@ HGloss: China, the patriarchal theocratic despotism of the substance, a state wi
 N:
   China and Mongolia; theocratic despotism, the Middle Kingdom, the Celestial Empire, the Son of Heaven, the Mandate of Heaven, patriarchal state, the mandarinate, Confucianism, ancestor worship, the Mongol khanate, Lamaism; khan, Genghis Khan
   the Chinese empire, the emperor, patriarchal despotism, the mandarins, the Mongols, Tibet, the Dalai Lama, theocratic rule
+  Cathay
 
 V:
   rule, prostrate, kowtow, govern patriarchally
@@ -22,7 +23,6 @@ Adv:
 
 F:
   Chinese: Zhongguo, Tianchao, Tianzi, Tianming
-  Korean: junggukgwa monggol
 
 Phr:
   the empire long divided must unite, long united must divide [Romance of the Three Kingdoms]

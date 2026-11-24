@@ -7,6 +7,7 @@ HGloss: The philosophies that take reason as the source of knowledge.
 N:
   rationalism; Cartesianism, innate ideas, deduction, mathematical method, clear and distinct ideas, a priori knowledge
   intellectualism, apriorism, Continental rationalism, the natural light, pure reason, the geometrical method, demonstration, dogmatic metaphysics, Wolffianism, Descartes, Spinoza, Leibniz, Malebranche, Wolff
+  innatism
 
 V:
   deduce, demonstrate, reason a priori
@@ -22,7 +23,7 @@ Adv:
 
 F:
   Latin: more geometrico, a priori, mathesis universalis, lumen naturale, ideae innatae
-  Korean: hamniron [rationalism]
 
 Phr:
   ordine geometrico demonstrata [Lat.] [Spinoza]
+  the light of reason

@@ -34,7 +34,7 @@ Adv:
 
 F:
   German: Materien
-  Korean: jillyo [matter], soje
 
 Phr:
   the sum of its parts
+  the makings of

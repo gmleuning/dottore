@@ -23,15 +23,8 @@ Adv:
   in progress
   gradually
 
-F:
-  German: Fortgang
-  Arabic: taṭawwur [development]
-  Sanskrit: krama [sequence, progression]
-  Chinese: jinzhan [advance]
-  Japanese: shinten
-  Korean: jinhaeng [advance]
-
 Phr:
   eppur si muove [It.] [attrib. Galileo]
   festina lente [Lat.]
   one step at a time
+  to move forward

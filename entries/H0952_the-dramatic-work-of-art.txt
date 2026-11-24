@@ -10,6 +10,7 @@ N:
   colloquy, duologue, trialogue
   soliloquy &c H0599
   the piece, the fable, action, intrigue, complication, development, catastrophe, resolution, peripety, unity of action, prologue, epilogue, chorus, stichomythia
+  denouement
 
 V:
   plot, structure, act
@@ -25,7 +26,8 @@ Adv:
 
 F:
   French: dénouement
-  Korean: mak [act], jang [scene]
 
 Phr:
   the unities of time, place, and action
+  in five acts
+  the curtain falls

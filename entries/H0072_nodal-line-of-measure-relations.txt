@@ -32,7 +32,6 @@ F:
   German: Sprung, Knotenlinie
   Latin: per saltum, saltus
   French: coup d'etat
-  Korean: madiui seon [nodal line], biyak [leap]
 
 Phr:
   the last drop makes the cup run over
@@ -40,3 +39,4 @@ Phr:
   alea iacta est [Lat.] [Caesar]
   natura non facit saltus [Lat.] [Linnaeus, Philosophia Botanica §77] [Opposed]
   la nature ne fait jamais des sauts [Fr.] [Leibniz, New Essays, Preface] [Opposed]
+  a sudden leap

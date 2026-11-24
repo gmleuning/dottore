@@ -12,6 +12,7 @@ N:
   aptitude, proclivity, bent, predisposition, propensity
   habit, temper, spirit, humor, grain
   inborn qualities, native characteristics, the given
+  innateness
 
 V:
   be born with, inherit, have by nature
@@ -27,11 +28,9 @@ Adv:
   natively
 
 F:
-  Arabic: fiṭra, ṭabʿ [nature, disposition]
-  Sanskrit: svabhāva [own nature], guṇa
-  Chinese: tianzhi [natural endowment]
-  Japanese: tenpu [natural gift]
-  Korean: jayeonjeok seongjil [natural qualities]
+  Arabic: fiṭra
 
 Phr:
   what's bred in the bone will come out in the flesh
+  born that way
+  second nature

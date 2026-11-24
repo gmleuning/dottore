@@ -7,6 +7,7 @@ HGloss: All men are mortal; Gaius is a man; the major premiss presupposes the co
 N:
   syllogism of allness; universal instantiation; deduction from all, application of a general rule to a case; question-begging generalization, circular deduction
   the syllogism of totality, the inference from all, universal inference, the all as middle
+  petitio principii
 
 V:
   apply, instantiate, deduce from the general, bring under the rule
@@ -23,8 +24,9 @@ Adv:
 
 F:
   Latin: dictum de omni, dictum de omni et nullo, a fortiori
-  Korean: jeoncheseong churon [allness]
 
 Phr:
   what holds of all holds of each
   dictum de omni et nullo [Lat.]
+  all the more
+  begging the question

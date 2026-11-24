@@ -34,10 +34,7 @@ F:
   German: Reinheit
   Latin: simplex munditiis [Horace]
   French: sans facon, en deshabille
-  Arabic: ṣafāʾ [purity, clarity]
-  Sanskrit: śuddhi [purity]
-  Chinese: chunjing [purity]
-  Korean: sunsuseong [purity]
 
 Phr:
   clear as crystal
+  clear as day

@@ -24,9 +24,7 @@ Adv:
   objectively, demonstrably, in fact
   on the evidence
 
-F:
-  Arabic: yaqīn mawḍūʿī
-  Korean: gaekgwanjeok hwaksilseong
-
 Phr:
   the proof of the pudding is in the eating
+  borne out by the facts
+  proven fact

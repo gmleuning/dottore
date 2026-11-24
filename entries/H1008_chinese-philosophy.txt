@@ -8,6 +8,7 @@ N:
   Chinese philosophy; Confucius, Mencius, Laozi, Zhuangzi, the Analects, Confucianism, Daoism, Mohism, Legalism, Neo-Confucianism, Zhu Xi, the five phases
   Chinese thought, the Hundred Schools, the Warring States philosophers, the Confucians, the Literati, the school of the scholars, the Daoists, the Mohists, the Legalists, the School of Names, the Yin-Yang school, Mengzi, Xunzi, Mozi, Han Feizi, Wang Yangming, Fohi, the Daodejing, the Book of Changes, the trigrams, the hexagrams, the Five Classics, the Four Books, the Doctrine of the Mean, the Great Learning, Chan Buddhism
   the Way, virtue, humaneness, benevolence, righteousness, ritual, propriety, filial piety, the gentleman, the superior man, the sage-king, the Mandate of Heaven, Heaven, yin and yang, principle and vital force, the Great Ultimate, non-action, the mean, harmony, moral cultivation, statecraft, practical morality
+  trigram, hexagram
 
 V:
   cultivate oneself, rectify names, harmonize
@@ -24,7 +25,7 @@ Adv:
 F:
   Chinese: Kongzi, the Yijing [Book of Changes], Lunyu, li and qi [principle and material force], ren [humaneness], yin-yang, wuxing, dao, de, yi, zhi, xiao, tian, tianming, junzi, taiji, wuwei, zhengming, zhongyong, rujia, daojia, mojia, fajia, bagua, ziran
   Japanese: jugaku [Confucian studies]
-  Korean: Yuga [Confucianism], Gongja [Confucius], Yeokgyeong [Book of Changes]
+  Korean: seongnihak [Neo-Confucian learning], sadanchiljeong [the Four-Seven debate]
 
 Phr:
   the rectification of names, zhengming [Chin.] [Confucius]

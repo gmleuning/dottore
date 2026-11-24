@@ -7,6 +7,7 @@ HGloss: The divine as light, the luminous essence of the dawn, without shape.
 N:
   God as light; the luminous essence, light religion, light worship, Zoroastrianism, Mazdaism, Ahura Mazda, Ormazd, Ahriman, fire temple, dualism of light and darkness, the sunrise
   the light-being, the religion of light, radiance, effulgence, the shapeless shape, Ormuzd, Parsism
+  photolatry
 
 V:
   shine, illumine, radiate, worship light
@@ -23,14 +24,12 @@ Adv:
   as light, in pure light
 
 F:
-  German: Lichtwesen
   Latin: ex oriente lux
-  Arabic: nūr [light], al-Nūr [the Light, a divine name]
-  Sanskrit: jyotis [light], prakāśa [luminosity]
-  Chinese: guangming [light]
-  Korean: bitui sin [God as light]
+  Arabic: al-Nūr [the Light, a divine name]
 
 Phr:
   ex oriente lux [Lat.]
   God is light [Bible]
   God is the light of the heavens and the earth [Qur'an]
+  the light of the world
+  the dawn of the gods

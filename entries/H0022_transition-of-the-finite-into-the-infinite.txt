@@ -29,10 +29,11 @@ F:
   Greek: anabasis, epektasis [stretching forward], theōsis
   Arabic: fanāʾ
   Sanskrit: mokṣa [release], nirvāṇa
-  Korean: yuhanjaui jiyang
 
 Phr:
   excelsior [Lat.]
   man is something that shall be overcome [Nietzsche]
   per aspera ad astra [Lat.]
   plus ultra [Lat.]
+  beyond the pale
+  to go beyond

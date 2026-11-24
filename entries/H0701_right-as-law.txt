@@ -34,11 +34,10 @@ Adv:
 F:
   Latin: lex, ius positivum, corpus juris, lex scripta, lex nonscripta, jus gentium, jus civile, lex mercatoria, fieri facias, de jure
   French: droit des gens
-  Arabic: qānūn [law], sharʿ
+  Arabic: sharʿ
   Sanskrit: dharmaśāstra [law code]
-  Chinese: falü [law]
-  Japanese: hōritsu
-  Korean: beobeuroseoui beop [right as law]
 
 Phr:
   ignorantia legis neminem excusat [Lat.] [ignorance of the law excuses no one]
+  the letter of the law
+  the rule of law

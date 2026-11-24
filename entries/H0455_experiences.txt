@@ -7,6 +7,7 @@ HGloss: The particular observations of perception, its many findings.
 N:
   experiences; observations, perceptions, impressions, findings, data, empirical evidence, cases, instances
   empirical findings, particular cases
+  empiria
 
 V:
   experience, observe, find, undergo, encounter
@@ -23,11 +24,9 @@ Adv:
   in particular cases
 
 F:
-  Arabic: tajārib [experiences]
   Sanskrit: anubhava [experience]
-  Chinese: jingyan [experience]
-  Japanese: keiken
-  Korean: gyeongheom [experiences]
 
 Phr:
   experience is the teacher of all things, experientia docet [Lat.]
+  in my experience
+  to learn the hard way

@@ -9,6 +9,7 @@ N:
   luster, reflection, gloss, tinsel, brightness, splendor
   showing
   seeming, the shining of essence, the essence's own showing, immediacy as shine
+  speciousness
 
 V:
   shine, show, appear, manifest, emanate, radiate, glow, gleam, glimmer, shimmer, irradiate; show itself, reveal itself, disclose itself
@@ -24,11 +25,11 @@ Adv:
   seemingly
 
 F:
-  German: Schein
-  Arabic: nūr [light], tajallī [self-disclosure, theophany]
+  Arabic: tajallī [self-disclosure, theophany]
   Sanskrit: ābhāsa [semblance, reflected appearance]
-  Korean: gasang
 
 Phr:
   the light shineth in darkness [Bible]
   truth will out
+  a show of
+  for show

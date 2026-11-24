@@ -13,6 +13,7 @@ N:
   premonition &c H0599, prognosis, prognostication, foreboding
   the to-come
   forecasting
+  aftertime
 
 V:
   be about to, lie ahead, impend, loom, approach, await, come; anticipate, foresee, forecast, predict, prophesy
@@ -35,13 +36,10 @@ F:
   German: das Noch-Nicht [Bloch]
   Latin: futurum, proximo, paulo post futurum
   Greek: to mellon
-  Arabic: mustaqbal [future]
-  Sanskrit: bhaviṣyat [future]
-  Chinese: weilai [future]
-  Japanese: mirai
-  Korean: mirae [future]
 
 Phr:
   tomorrow, and tomorrow, and tomorrow [Macbeth]
   the future is not what it used to be
   quid sit futurum cras, fuge quaerere [Lat.] [Horace]
+  in the offing
+  the shape of things to come

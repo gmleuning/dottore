@@ -10,6 +10,7 @@ N:
   right, title, vested interest
   immunity, license, liberty, franchise, vested right
   legal capacity, the right of personality
+  jus
 
 V:
   entitle, own, claim, assert one's right, be a person
@@ -36,12 +37,11 @@ F:
   German: Naturrecht
   Latin: ius strictum, persona, ius naturale, de jure, jure divino, Dei gratia
   French: selon les r gles
-  Arabic: ḥaqq [right], ḥuqūq [rights]
-  Sanskrit: adhikāra [entitlement]
-  Chinese: quanli [right]
-  Japanese: kenri
-  Korean: chusang beop [abstract right]
+  Arabic: ḥaqq [right]
+  Korean: chusangbeop [abstract right]
 
 Phr:
   be a person and respect others as persons [Hegel]
   suum cuique [Lat.] [to each his own]
+  within one's rights
+  a person in law

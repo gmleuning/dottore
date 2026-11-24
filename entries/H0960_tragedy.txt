@@ -8,6 +8,7 @@ N:
   tragedy; tragic drama, the tragic, the collision of ethical powers, right against right, catharsis, pity and fear, the tragic hero, Antigone, Oedipus, Hamlet
   the tragic muse, Melpomene, the buskin, tragic poetry, Attic tragedy, Greek tragedy, the tragic conflict, the tragic collision, the collision of right with right, the conflict of duties, the ethical substance, the ethical powers, family and state, divine and human law, pathos, the one-sidedness of pathos, the tragic flaw, the tragic error, tragic guilt, guilt and innocence, hubris, nemesis, fate, destiny, doom, necessity, eternal justice, the downfall, ruin, undoing, destruction, the catastrophe, the reversal, the recognition, the reconciliation, tragic reconciliation, the restoration of the ethical order, purgation, purification, terror, the chorus, the protagonist, the tragedian, the tragic poet, Aeschylus, Sophocles, Euripides, Shakespeare, Creon, Orestes, the Oresteia, Lear, Macbeth, the tragedy of fate, the tragedy of character, woe, calamity, disaster
   crossroads
+  anagnorisis
 
 V:
   suffer, fall, collide, perish, purge
@@ -22,13 +23,9 @@ Adv:
   fatefully, fatally, catastrophically, disastrously, calamitously, inexorably, by fate, by necessity, to one's ruin, to the bitter end, in buskins, with pity and fear
 
 F:
-  German: Trauerspiel, Tragödie, das Tragische, Kollision, Schuld, Schicksal, Untergang, ewige Gerechtigkeit
+  German: Trauerspiel, das Tragische, Kollision, Schuld, Schicksal, Untergang, ewige Gerechtigkeit
   Latin: tragoedia, cothurnus, fatum
   Greek: tragōidia, katharsis, hamartia, hybris, peripeteia, anagnōrisis, moira, eleos kai phobos, atē, dikē
-  Arabic: maʾsāh
-  Chinese: beiju
-  Japanese: higeki
-  Korean: bigeuk [tragedy], bigeukjeok galdeung [tragic conflict]
 
 Phr:
   the collision of two rights [Hegel on Antigone]

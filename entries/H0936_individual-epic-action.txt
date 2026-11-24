@@ -7,6 +7,7 @@ HGloss: The individual epic action, an event in which the whole of a people's li
 N:
   individual epic action; the hero's deed, quest, war, wandering, the wrath of Achilles, the return of Odysseus
   exploit, feat, enterprise, adventure, undertaking, expedition, campaign, voyage, journey, homecoming, combat, battle, the epic event, the hero
+  emprise
 
 V:
   quest, fight, wander, return
@@ -22,7 +23,7 @@ Adv:
 
 F:
   Greek: nostos [homecoming]
-  Korean: sageon [event]
 
 Phr:
   tell me, O Muse, of that ingenious hero [Homer]
+  one deed that moves a world

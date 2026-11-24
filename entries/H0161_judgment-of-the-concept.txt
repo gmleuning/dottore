@@ -27,11 +27,8 @@ Adv:
   by any standard, on the merits, in the final analysis, judged by its own concept
   evaluatively, normatively
 
-F:
-  Arabic: ḥukm qīmī [value judgment]
-  Chinese: jiazhi panduan [value judgment]
-  Korean: gaenyeom pandan [judgment of the concept]
-
 Phr:
   by their fruits ye shall know them [Bible]
   weighed in the balances and found wanting [Bible]
+  as it should be
+  up to standard

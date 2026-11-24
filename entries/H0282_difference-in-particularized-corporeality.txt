@@ -8,6 +8,7 @@ N:
   difference in particularized corporeality; smell and taste; chemical senses; specific airs and specific waters
   odor, odorament†, effluvium, emanation, exhalation, fume, essence, trail, nidor†, redolence
   particularized bodily difference, odour and savour, the sensible qualities, the specified body in relation to air and water
+  sapidity
 
 V:
   smell, taste, scent, savour
@@ -25,7 +26,8 @@ Adv:
 
 F:
   Latin: sapor and odor
-  Korean: teuksuhwadoen mulchejeok chai
 
 Phr:
   de gustibus non est disputandum [Lat.]
+  to taste and smell
+  one's sense of

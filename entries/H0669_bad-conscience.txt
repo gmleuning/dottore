@@ -36,10 +36,10 @@ F:
   German: Gewissensbiss
   Latin: sing miserere, sing de profundis, locus paenitentiae
   Middle English: agenbite of inwit
-  Arabic: nadam [remorse]
-  Sanskrit: paścāttāpa [remorse]
-  Korean: yangsimui gachaek [bad conscience]
+  Korean: yangsimui gachaek [pangs of conscience]
 
 Phr:
   agenbite of inwit [Middle English, Joyce]
   conscience does make cowards of us all [Hamlet]
+  a guilty conscience
+  to know better

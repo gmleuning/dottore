@@ -29,16 +29,13 @@ Adv:
   on condition
 
 F:
-  German: Bedingung
   Latin: conditio, conditio sine qua non, sine qua non
   Greek: protasis [the "if"-clause]
-  Arabic: sharṭ [condition]
-  Sanskrit: pratyaya [condition], hetu-pratyaya, upādhi [limiting condition], pratītyasamutpāda
-  Chinese: tiaojian [condition], yuan [conditioning circumstance]
-  Japanese: jōken
-  Korean: jogeon [condition]
+  Sanskrit: pratyaya [condition], upādhi [limiting condition], pratītyasamutpāda
+  Chinese: yuan [conditioning circumstance]
 
 Phr:
   sine qua non [Lat.]
   if and only if
   this being, that comes to be [Buddha] [imasmiṃ sati idaṃ hoti, Pali]
+  no strings attached

@@ -25,11 +25,9 @@ Adv:
 
 F:
   German: Moralität, Gesinnung [moral disposition]
-  Arabic: akhlāq [morals], ḍamīr [conscience]
-  Sanskrit: dharma
-  Chinese: daode [morality]
-  Japanese: dōtoku
   Korean: dodeok [morality]
 
 Phr:
   the starry heavens above me and the moral law within me [Kant]
+  the moral of the story
+  to know right from wrong

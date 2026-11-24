@@ -7,6 +7,7 @@ HGloss: The particular features of the ideal form: profile, posture, drapery.
 N:
   particular aspects of the ideal form; profile, posture, drapery
   particular features, particulars, details, specific aspects, the eye, the mouth, the chin, the hair
+  silhouette, contour
 
 V:
   shape, pose, drape
@@ -20,8 +21,7 @@ Adv:
   in detail
   in particular, specifically, severally
 
-F:
-  Korean: yeommoseup [profile], jase [posture]
-
 Phr:
   profile, pose, and drapery
+  the line of the brow
+  stance and drapery

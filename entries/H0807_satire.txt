@@ -32,11 +32,10 @@ Adv:
 F:
   Latin: satura
   Arabic: hijāʾ [satirical verse]
-  Sanskrit: vyaṅgya [irony, satire]
-  Chinese: fengci [satire]
-  Japanese: fūshi
   Korean: pungja [satire]
 
 Phr:
   difficile est saturam non scribere [Lat.] [it is hard not to write satire] [Juvenal]
   castigat ridendo mores [Lat.]
+  to hold up to ridicule
+  biting satire

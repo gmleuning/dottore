@@ -21,10 +21,8 @@ Adv:
   as persons, formally
 
 F:
-  German: Rechtszustand
   Latin: persona, civis, ius civile, de jure
-  Arabic: shakhṣiyya qānūniyya [legal personality]
-  Korean: beopjeok sangtae [legal status]
 
 Phr:
   civis Romanus sum [Lat.] [I am a Roman citizen]
+  equal before the law

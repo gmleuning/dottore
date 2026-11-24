@@ -36,11 +36,8 @@ F:
   German: das Schöne, das sinnliche Scheinen der Idee
   Latin: pulchritudo
   Greek: to kalon
-  Arabic: jamāl, ḥusn
-  Sanskrit: saundarya, rasa [aesthetic flavour]
-  Chinese: mei [beauty]
-  Japanese: bi, yūgen [profound grace]
-  Korean: areumdaumui gaenyeom
+  Sanskrit: rasa [aesthetic flavour]
+  Japanese: yūgen [profound grace]
 
 Phr:
   beauty is truth, truth beauty [Keats]

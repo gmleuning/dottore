@@ -53,10 +53,8 @@ Adv:
 
 F:
   French: commissionaire, corps diplomatique, charge d'affaires, commis-voyageur
-  Arabic: al-sulṭa al-tanfīdhiyya [executive power]
-  Chinese: xingzheng quan [executive power]
-  Japanese: gyōseiken
-  Korean: haengjeonggwon [executive power]
 
 Phr:
   the business of government
+  to carry out orders
+  the powers that be

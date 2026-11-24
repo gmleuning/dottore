@@ -8,6 +8,7 @@ N:
   terrestrial organism; the earth as organism, living earth, Gaia, Gaia hypothesis, the body of the earth, planetary body, geobody; geology, geognosy, geophysics; Mother Earth
   mineralogy, lithology
   the earth-organism, the geological organism, the earth as body, the universal organism, the skeleton of life, the crystal of life
+  tellus
 
 V:
   form, shape, erode, deposit, upheave
@@ -24,12 +25,9 @@ Adv:
 
 F:
   German: Erdkörper
-  Arabic: al-arḍ
-  Sanskrit: bhūmi, pṛthivī mātā [Mother Earth]
-  Chinese: diqiu [earth-ball]
-  Japanese: chikyū
-  Korean: jiguyugiche [terrestrial organism]
+  Sanskrit: pṛthivī mātā [Mother Earth]
   Quechua: Pachamama
 
 Phr:
   the earth abideth for ever [Bible]
+  the living earth

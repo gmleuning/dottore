@@ -7,6 +7,7 @@ HGloss: The divine in the shapes of plant and animal, a religion of flowers and 
 N:
   plant and animal; plant religion, flower religion, innocence of flowers, animal religion, animal worship, zoolatry, theriomorphism, totemism, tribal warfare, sacred animals, animal-headed gods; Indian religion, Egyptian religion; totem
   plant and animal religion, the innocent flower-religion, the guilt of animal religion, sacred animal, pantheism
+  phytolatry
 
 V:
   revere, deify, worship animals, totemize
@@ -21,8 +22,7 @@ Adv:
   in animal form
   in plant and animal form
 
-F:
-  Korean: sikmulgwa dongmul [plant and animal]
-
 Phr:
   die Unschuld der Blumenreligion, die nur selbstlose Vorstellung des Selbsts ist, geht in den Ernst des kämpfenden Lebens, in die Schuld der Tierreligion … über [Ger.] [Hegel, Phenomenology ¶689]
+  flower worship
+  sacred cows

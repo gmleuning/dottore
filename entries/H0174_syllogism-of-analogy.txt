@@ -13,6 +13,7 @@ N:
   conformity &c H0063, agreement &c H0087
   figure, trope
   analogical inference, reasoning from likeness
+  paralogism
 
 V:
   analogize, compare, liken, parallel, extrapolate by likeness, model on, reason by analogy
@@ -33,9 +34,8 @@ F:
   French: of a piece
   Arabic: qiyās [analogical reasoning, as in jurisprudence]
   Sanskrit: upamāna [comparison as a means of knowledge]
-  Chinese: leibi [analogy]
-  Korean: yuchu [analogy]
 
 Phr:
   as above, so below
   like causes, like effects
+  like father, like son

@@ -7,6 +7,7 @@ HGloss: The system that grasps the absolute as spirit, in which the history of p
 N:
   the Hegelian system; Hegelianism, Hegel's philosophy, absolute idealism, dialectic, speculative philosophy, the encyclopaedia, Right Hegelians, Left Hegelians, Young Hegelians, neo-Hegelianism
   Hegelism, the System, panlogism, speculative idealism, objective idealism, philosophy of the absolute, the absolute system, Old Hegelians, British idealism, dialectics, triad
+  sublation
 
 V:
   systematize, sublate, mediate, reconcile
@@ -20,12 +21,7 @@ Adv:
   dialectically, systematically
   speculatively, absolutely, triadically, in and for itself
 
-F:
-  Arabic: hīghiliyya
-  Chinese: heigeer zhexue
-  Japanese: hēgeru tetsugaku
-  Korean: Hegel cheolhak [Hegel's philosophy], chegye [system]
-
 Phr:
   what is rational is actual, and what is actual is rational [Hegel]
   the true is the whole [Hegel]
+  the rational is actual

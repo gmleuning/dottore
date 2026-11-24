@@ -7,6 +7,7 @@ HGloss: Reason's assurance that its determinations are as much the determination
 N:
   the certainty and truth of reason; rational certainty, idealism, the idealist thesis, confidence of reason, rational optimism
   reason's assertion, the first assertion of idealism, the rationality of the world, the immediate certainty of reason, the bare assurance
+  certitude
 
 V:
   assert, affirm, be certain, trust reason
@@ -20,9 +21,7 @@ Adv:
   certainly, confidently, with assurance
   through and through, rationally, by assertion
 
-F:
-  Arabic: yaqīn ʿaqlī [rational certainty]
-  Korean: iseongui hwaksilseonggwa jilli
-
 Phr:
   the world is my world
+  beyond reasonable doubt
+  to be sure

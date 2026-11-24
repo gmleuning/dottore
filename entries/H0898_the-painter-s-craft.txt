@@ -17,6 +17,7 @@ N:
   painter
   old master, abstract artist, scene painter, portrait painter, oil painter, genre painter, scenic artist, van Gogh, da Vinci
   hologram
+  atelier
 
 V:
   practise, execute, craft
@@ -34,7 +35,8 @@ Adv:
 
 F:
   French: métier, cul de lampe
-  Korean: hwaga [painter], gudo [composition]
 
 Phr:
   the tricks of the trade
+  the painter at work
+  conception, composition, character

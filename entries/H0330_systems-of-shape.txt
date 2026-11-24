@@ -25,11 +25,8 @@ Adv:
   systemically
   by system
 
-F:
-  Arabic: anẓima [systems]
-  Chinese: xitong [system]
-  Korean: hyeongtaeui chegye [systems]
-
 Phr:
   the body is a commonwealth
   Sensibilität, Irritabilität und Reproduktion [Ger.] [Hegel, Encyclopaedia §353, the triad from Kielmeyer, 1793]
+  the body's systems
+  inner workings

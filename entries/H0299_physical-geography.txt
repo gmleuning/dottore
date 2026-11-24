@@ -19,6 +19,7 @@ N:
   seaside, glacier, bluff, waterfall, cascade, ascent, ledge, gorge, hillside, landfill, iceberg, dune, laguna, waterway, ravine, incline, lakeside, burrow, upland, landfall, alp, bonanza, seaboard, lowland, cirque, seabed, seashore, wormhole, knoll, grotto, aquifer, atoll, backwater, outpouring, fjord, wallow, wadi, geyser, corrie, gulch, riverbank, sinkhole, precipice, mountainside, cay, promontory, pothole, lakeshore, headland, waterside, dingle, crag, caldera, escarpment, foreshore, massif
   geological formation, water level, high sea, water table, natural spring, ice mass, mid-water, mountain range, mountain chain, natural depression, international waters, seven seas, territorial waters, natural elevation, mineral vein, volcanic crater, groundwater level, ice field, hot spring, sea-coast, man-made lake, ice cap, artificial lake, thermal spring, ski slope, swallow hole, tidal stream, tidal river, oceanic abyss, mud puddle, sea floor, sea bottom, river bottom, lake bottom, lake bed, ocean floor, ocean bottom, water hole, swimming hole, creek bed, rabbit hole, tidal basin, rift valley, continental glacier, lunar crater, kettle hole, ripple mark, sand dune, rabbit burrow, gopher hole, littoral zone, dry wash, sand bar, fire pit, rabbit warren, borrow pit, coral reef, twilight zone
   rapid, ridge, riverside, savannah, crater, straits, berg, piedmont, butte, foothill
+  orography
 
 V:
   map, chart, survey, explore
@@ -38,11 +39,8 @@ Adv:
 F:
   French: aboiteau
   Spanish: vega
-  Arabic: jughrāfiyā [geography]
-  Sanskrit: bhūgola [geography, earth-sphere]
-  Chinese: dili [geography, lit. earth-patterns]
-  Japanese: chiri
-  Korean: jayeon jiri [physical geography]
 
 Phr:
   here be dragons, hic sunt dracones [Lat.]
+  the lay of the land
+  from sea to shining sea

@@ -7,6 +7,7 @@ HGloss: The content of painting: the inner life of the subject, feeling, love, p
 N:
   chief determinant of subject-matter; subjective inwardness, the feeling soul, the human heart, emotional content, the subject of the picture
   determining factor, governing content, subject, theme, inner life, subjectivity, feeling, the heart, inwardness, particularity
+  interiority
 
 V:
   express, depict feeling
@@ -20,8 +21,7 @@ Adv:
   inwardly
   chiefly, principally, above all, decisively
 
-F:
-  Korean: naemyeonseong [inwardness]
-
 Phr:
   the soul's depths in colour
+  the heart's own story
+  love and piety

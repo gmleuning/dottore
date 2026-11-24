@@ -50,12 +50,10 @@ Adv:
 F:
   Latin: poena, quod, lex talionis, in quod
   French: peine forte et dure, detenu, chevronne
-  Arabic: ʿuqūba [punishment], ḥadd [fixed penalty]
+  Arabic: ḥadd [fixed penalty]
   Sanskrit: daṇḍa
-  Chinese: chengfa [punishment]
-  Japanese: keibatsu
-  Korean: hyeongbeol [punishment]
 
 Phr:
   let the punishment fit the crime [Gilbert]
   so wird der Verbrecher als Vernünftiges geehrt [Ger.] [Hegel, Philosophy of Right §100 Remark]
+  to pay one's debt to society

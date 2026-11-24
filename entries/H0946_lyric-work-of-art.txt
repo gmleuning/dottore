@@ -7,6 +7,7 @@ HGloss: The lyric poem as a unity of feeling, its occasion and its musical form.
 N:
   lyric work of art; poem, song, lyric piece, the lyric's unity of mood
   lyric poem, the lyric, verse, piece, stanzaic form, unity of feeling, concentration, brevity, inner unity
+  stanza
 
 V:
   compose
@@ -20,8 +21,6 @@ Adv:
   lyrically
   in a single mood, briefly, in stanzas
 
-F:
-  Korean: sipyeon [poem]
-
 Phr:
   a short poem of feeling
+  the occasion of the poem

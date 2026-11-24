@@ -11,6 +11,7 @@ N:
   ecliptic
   astronomy
   the system of the heavens, the heavenly system, the cosmos, sun and planets
+  heliocentrism
 
 V:
   revolve around, orbit, circle
@@ -26,11 +27,8 @@ Adv:
 
 F:
   Latin: systema mundi
-  Arabic: al-majmūʿa al-shamsiyya [solar system]
-  Sanskrit: saurajagat [solar world]
-  Chinese: taiyang xi [solar system]
-  Korean: taeyanggye [solar system]
 
 Phr:
   and yet it moves
   De revolutionibus orbium coelestium [Lat.] [Copernicus]
+  the heavenly host

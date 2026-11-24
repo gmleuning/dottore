@@ -31,12 +31,10 @@ F:
   German: Volk
   Latin: populus, familia, domus, gens
   Greek: dēmos, ethnos, oikos
-  Arabic: qawm [people], ʿāʾila [family], usra
   Sanskrit: kula [family, lineage]
-  Chinese: jia [family], guo [state]
   Japanese: ie [household]
-  Korean: minjokgwa gajok [nation and family]
 
 Phr:
   blood is thicker than water
   the family is the cell of society
+  the folk

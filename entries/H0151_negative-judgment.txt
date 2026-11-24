@@ -31,12 +31,9 @@ Adv:
 F:
   Latin: iudicium negativum, dementi
   Greek: apophasis
-  Arabic: salb [negation]
   Sanskrit: niṣedha [negation, prohibition]
-  Chinese: fouding [negation]
-  Japanese: hitei
-  Korean: bujeong pandan [negative judgment]
 
 Phr:
   the rose is not red
   omnis determinatio est negatio [Lat.]
+  to say no to

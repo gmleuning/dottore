@@ -36,13 +36,10 @@ F:
   Greek: kolax
   French: ame damnee, homme de cour, flaneur, proneur, claqueur
   Italian: cavaliere servente
-  Arabic: tamalluq [flattery]
-  Sanskrit: chāṭu [flattery]
-  Chinese: chanmei [flattery]
-  Japanese: tsuishō
-  Korean: acheom [flattery]
 
 Phr:
   the heroism of flattery [Hegel]
   L'État, c'est moi [Fr.] [attrib. Louis XIV]
   every flatterer lives at the expense of him who listens [La Fontaine]
+  to butter up
+  to curry favour

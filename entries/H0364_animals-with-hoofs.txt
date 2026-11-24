@@ -10,6 +10,8 @@ N:
   beast, beast of burden, cattle, horse, nag, palfrey, blood horse, thoroughbred, galloway†, charger, courser, racer, hunter, jument†, pony, filly, colt, foal, barb, roan, jade, hack, bidet, pad, cob, tit, punch, goer†, racehorse, pack horse, draft horse, cart horse, dray horse, post horse, ketch, Shetland pony, shelty, sheltie, garran†, garron†, jennet, genet†, bayard†, mare, stallion, gelding, bronco, broncho†, cayuse [U.S.], creature, critter [U.S.], cow pony, mustang, Narraganset, waler†, stud
   Pegasus, Bucephalus, Rocinante
   ass, donkey, jackass, mule, hinny, sumpter horse, sumpter mule, burro, cuddy†, ladino [U.S.], reindeer, camel, dromedary, llama, elephant
+  ungulate, perissodactyl, artiodactyl
 
-F:
-  Korean: yujeryu [ungulates]
+Phr:
+  hold your horses
+  a dark horse

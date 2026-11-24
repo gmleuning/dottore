@@ -7,6 +7,7 @@ HGloss: The forms in which the soul's sunken life appears when it is cut loose f
 N:
   appearance of magnetic states; manifestations, phenomena, symptoms, trance phenomena, psychic phenomena, paranormal phenomena
   forms of the trance, outward signs
+  rapture
 
 V:
   manifest, appear, show symptoms
@@ -20,9 +21,7 @@ Adv:
   uncannily
   in appearance, outwardly, manifestly
 
-F:
-  Arabic: ẓawāhir
-  Korean: jagi sangtae [magnetic states]
-
 Phr:
   there are more things in heaven and earth, Horatio, than are dreamt of in your philosophy [Hamlet]
+  spellbound
+  in a daze

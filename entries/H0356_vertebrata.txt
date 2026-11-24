@@ -7,6 +7,7 @@ HGloss: Animals with the full type: the backbone, the internal skeleton, the hea
 N:
   vertebrata; vertebrates, backboned animals, craniates; fish, amphibians, reptiles, birds, mammals
   the spine, the vertebral column, the higher animals
+  chordate
 
 V:
   articulate
@@ -19,11 +20,7 @@ Adj:
 Adv:
   vertebrally
 
-F:
-  Arabic: fiqāriyyāt [vertebrates]
-  Chinese: jizhui dongwu [vertebrates]
-  Japanese: sekitsui dōbutsu
-  Korean: cheokchu dongmul [vertebrates]
-
 Phr:
   the backbone of creation
+  to have a backbone
+  spineless

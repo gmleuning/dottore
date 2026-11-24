@@ -23,11 +23,7 @@ Adv:
 F:
   Latin: luna
   Greek: selēnē
-  Arabic: qamar [moon], hilāl [crescent], badr [full moon]
-  Sanskrit: candra [moon], soma
-  Chinese: yue [moon]
-  Japanese: tsuki
-  Korean: dal [moon]
+  Sanskrit: soma
 
 Phr:
   the inconstant moon [Romeo and Juliet]

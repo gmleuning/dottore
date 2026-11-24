@@ -7,6 +7,7 @@ HGloss: Conscience, the beautiful soul, and evil and its forgiveness, in which t
 N:
   conscience, the beautiful soul, evil and its forgiveness; conscience, inner voice, moral sense, scruple, synderesis
   the conscientious self, the certainty of conscience, the acting conscience, the judging conscience, the hard heart, confession, pardon, absolute spirit appearing
+  synteresis
 
 V:
   answer to one's conscience, scruple, judge, confess, forgive
@@ -24,11 +25,11 @@ F:
   German: Gewissen
   Latin: conscientia
   Greek: syneidēsis
-  Arabic: ḍamīr, wijdān
   Sanskrit: antaḥkaraṇa [inner faculty]
   Chinese: liangxin [conscience]
-  Japanese: ryōshin
-  Korean: yangsim [conscience], areumdaun yeonghon
+  Korean: yangsim [conscience]
 
 Phr:
   conscience does make cowards of us all [Hamlet]
+  to let one's conscience be one's guide
+  a clear conscience

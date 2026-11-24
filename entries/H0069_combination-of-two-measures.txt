@@ -33,8 +33,9 @@ F:
   Latin: tertium quid, omnium gatherum
   Greek: krasis [blending], mixis
   Arabic: mizāj [mixture, temperament]
-  Korean: gyeolhap [combination]
 
 Phr:
   the whole is something besides the parts [Aristotle, Metaphysics VIII.6, 1045a10, tr. Ross]
   one and one make three
+  the whole is more than the sum of its parts
+  mix and match

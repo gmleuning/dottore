@@ -11,6 +11,7 @@ N:
   downfall, ruin &c H0114
   ruin
   imperial Rome, the Empire, Augustus, the emperor, despotism, private right, the decline and fall
+  Caesarism
 
 V:
   rule, persecute, convert, decline, fall
@@ -26,9 +27,9 @@ Adv:
 
 F:
   Latin: Pax Romana
-  Arabic: Qayṣar [Caesar], al-Qusṭanṭīniyya [Constantinople]
-  Korean: jejeong roma [imperial Rome]
 
 Phr:
   in hoc signo vinces [Lat.] [Constantine]
   panem et circenses [Lat.] [Juvenal]
+  bread and circuses
+  render unto Caesar

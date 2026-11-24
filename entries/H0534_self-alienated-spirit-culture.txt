@@ -33,11 +33,11 @@ F:
   Latin: cultura animi [Cicero]
   Greek: paideia
   French: the ancien régime, distingue, degage, monde, beau monde, savoir faire, bienséance
-  Arabic: adab [refinement, letters], thaqāfa [culture]
+  Arabic: adab [refinement, letters]
   Sanskrit: saṃskāra [refinement]
-  Chinese: jiaoyang [cultivation]
-  Japanese: kyōyō [cultivation]
-  Korean: soedoen jeongsin [self-alienated spirit], gyoyang [culture]
+  Korean: gyoyang [culture, Bildung]
 
 Phr:
   culture as the alienation of natural being [Hegel]
+  a stranger to oneself
+  to lose oneself

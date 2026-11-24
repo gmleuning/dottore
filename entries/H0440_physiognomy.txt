@@ -35,11 +35,12 @@ F:
   Arabic: ʿilm al-firāsa [science of physiognomy]
   Sanskrit: sāmudrika [body-sign reading]
   Chinese: xiangmian [face-reading]
-  Japanese: ninsō
-  Korean: gwansang [physiognomy], eolgul
+  Korean: gwansang [physiognomy, face-reading]
 
 Phr:
   the face is the index of the mind, vultus est index animi [Lat.]
   there's no art to find the mind's construction in the face [Macbeth]
   a face only a mother could love
   the face that launch'd a thousand ships [Marlowe]
+  written all over one's face
+  a poker face

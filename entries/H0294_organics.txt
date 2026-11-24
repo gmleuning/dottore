@@ -13,6 +13,7 @@ N:
   vivification, vital force, vitalization, revivification &c H0352, Prometheus, life to come &c H0224
   life, vitality, viability, animation, vital spark, vital flame, soul, spirit
   genetics, heredity, inheritance, evolution, natural selection
+  organicity
 
 V:
   live, grow, organize, self-organize, develop, evolve
@@ -29,12 +30,9 @@ Adv:
 
 F:
   Latin: historia naturalis
-  Arabic: ʿilm al-aḥyāʾ [biology]
-  Sanskrit: jīva-vidyā
-  Chinese: shengwuxue [biology]
-  Japanese: seibutsugaku
-  Korean: yugiche [organics], yugijeok jayeon
 
 Phr:
   omne vivum ex vivo [Lat.]
   life finds a way
+  the living world
+  organic growth

@@ -7,6 +7,7 @@ HGloss: Critical philosophy, which examines the faculty of knowledge itself, and
 N:
   critical philosophy; German idealism, transcendental philosophy, Kant, Fichte, Schelling, the critique of reason, the Copernican revolution
   criticism [Kantian], critical idealism, transcendental idealism, the critical turn, the tribunal of reason, the critique of knowledge, epistemology, post-Kantian idealism, classical German philosophy, the transcendental method, the limits of reason
+  transcendentalism
 
 V:
   critique, ground, deduce, posit, construct
@@ -22,9 +23,7 @@ Adv:
 
 F:
   German: Deutscher Idealismus, Naturphilosophie, Kritizismus, Kritik, Transzendentalphilosophie
-  Arabic: al-mithāliyya al-almāniyya [German idealism]
-  Chinese: deguo guannianlun
-  Korean: bipan cheolhak [critical philosophy], Dogil gwannyeomnon [German idealism]
 
 Phr:
   es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt [Ger.] [Kant, Critique of Pure Reason Bxvi]
+  the Copernican turn

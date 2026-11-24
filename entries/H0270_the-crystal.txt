@@ -28,11 +28,8 @@ Adv:
 F:
   Latin: crystallus
   Greek: krystallos [ice, rock crystal]
-  Arabic: billawr [crystal]
-  Sanskrit: sphaṭika [crystal]
-  Chinese: jingti [crystal]
-  Japanese: kesshō
-  Korean: gyeoljeong [crystal]
 
 Phr:
   as clear as crystal
+  crystal clear
+  to crystallize

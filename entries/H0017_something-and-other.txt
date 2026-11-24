@@ -7,6 +7,7 @@ HGloss: Something and its other, each equally a something and an other, so that 
 N:
   something and other; the other, otherness, alterity; difference &c H0089; the alien, the foreign, the stranger, the outsider; the not-self, non-ego; counterpart, opposite number, complement, foil; relativity, perspective, point of view, standpoint; being-for-other; being-in-itself; self and other, us and them, this and that, ego and alter
   the something
+  alius
 
 V:
   be other, differ, be distinct, stand apart; other, alienate, estrange, defamiliarize; relate to, stand in relation to; contrast, compare, set against
@@ -23,16 +24,16 @@ Adv:
   otherwise, else, differently; on the other hand, conversely; relatively, from another point of view
 
 F:
-  German: das Andere, Anderssein, Sein-für-Anderes, Ansichsein, Etwas und Anderes
+  German: das Andere, Anderssein, Sein-für-Anderes, Ansichsein
   Latin: alteritas, alter ego, per contra, vice versa
   Greek: heterotēs, to heteron
-  Arabic: ghayr [other]
   Sanskrit: anātman
-  Chinese: ta [other]
-  Korean: taja [the other], dareun geot
+  Korean: taja [the other]
 
 Phr:
   alter ego [Lat.]
   l'enfer, c'est les autres [Fr.] [Sartre]
   je est un autre [Fr.] [Rimbaud]
   one man's meat is another man's poison
+  the other side
+  one another

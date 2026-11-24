@@ -21,12 +21,7 @@ Adv:
   outwardly, externally, materially, in space and time
 
 F:
-  German: Natur, Naturphilosophie, Außersichsein
-  Arabic: ṭabīʿa
-  Sanskrit: prakṛti
-  Chinese: ziran
-  Japanese: shizen
-  Korean: jayeon [nature], jayeoncheolhak [philosophy of nature]
+  German: Naturphilosophie, Außersichsein
 
 Phr:
   the idea in the form of otherness [Hegel]

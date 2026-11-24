@@ -7,6 +7,7 @@ HGloss: The material of painting: the surface, and light and colour as its eleme
 N:
   sensuous material of painting; colour, paint, pigment, surface, light and shade, the visible as such
   plane, flat, canvas, panel, ground, chiaroscuro, hue, tint, visibility, semblance, two dimensions
+  sfumato, tonality
 
 V:
   colour, pigment, shade
@@ -20,8 +21,6 @@ Adv:
   in colour
   on the flat, on canvas, to the eye
 
-F:
-  Korean: saekchae [colour], bit [light]
-
 Phr:
   the visible made spiritual
+  the magic of colour

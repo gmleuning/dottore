@@ -25,11 +25,7 @@ Adj:
 Adv:
   associatively, by association
 
-F:
-  Arabic: tadāʿī al-maʿānī [association of ideas]
-  Chinese: lianxiang [association]
-  Japanese: rensō
-  Korean: yeonsangjeok sangsangnyeok
-
 Phr:
   one thing leads to another
+  one thing reminds one of another
+  a train of thought

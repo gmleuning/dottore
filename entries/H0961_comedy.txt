@@ -34,6 +34,7 @@ N:
   punchline, laugh line, running gag, running joke, callback, inside joke, in-joke, private joke, shtick, comic bit, comic routine, pratfall, double take
   Aristophanes, the Clouds, the Birds, the Frogs, Menander, Plautus, Terence, Shakespeare's comedies, Falstaff, Cervantes, Don Quixote, Molière
   Chaplin, the Tramp, Buster Keaton, W. C. Fields, Laurel and Hardy, the Marx Brothers, Groucho Marx, Lucille Ball, Mr. Bean
+  risibility
 
 V:
   amuse, entertain, divert, make merry, be of good cheer, rise above, laugh off, laugh at oneself, come to nothing, end happily
@@ -59,23 +60,25 @@ Adv:
   ridiculously
 
 F:
-  German: Lustspiel, Komödie, das Komische, das Lächerliche, Heiterkeit, Wohlgemutheit, Posse, Schwank, Fastnachtsspiel, Stegreifkomödie, Hanswurstiade, Kasperiade, Hanswurst, Kasper, Pickelhering
+  German: Lustspiel, das Komische, das Lächerliche, Heiterkeit, Wohlgemutheit, Posse, Schwank, Fastnachtsspiel, Stegreifkomödie, Hanswurstiade, Kasperiade, Hanswurst, Kasper, Pickelhering
   Latin: comoedia, vis comica, castigat ridendo mores, soccus, mimus, fabula Atellana, miles gloriosus, senex iratus, servus callidus
   Greek: kōmōidia, kōmos, geloion, parabasis, mimos, phlyax
   French: comédie, esprit, pour rire, bon diable, farceur, farceuse, sottie, sottise, café-théâtre
   Italian: commedia, ben trovato, opera buffa, buffo, buffone, Arlecchino, Colombina, Pantalone, Dottore, Brighella, Scapino, Tartaglia, Zanni, Pulcinella, Truffaldino, Coviello, Capitano, Scaramuccia, Pagliaccio
   Spanish: Matamoros
-  Arabic: malhāh, khayāl al-ẓill [shadow play]
+  Arabic: khayāl al-ẓill [shadow play]
   Turkish: Karagöz [shadow play]
-  Sanskrit: prahasana [farce], vidūṣaka [jester]
-  Chinese: xiju, xiangsheng [crosstalk], chou [clown role], huaji
-  Japanese: kigeki, kyōgen [comic interlude], manzai, rakugo, owarai
-  Korean: huigeuk [comedy], golgye [the comic]
+  Sanskrit: vidūṣaka [jester]
+  Chinese: xiangsheng [crosstalk], chou [clown role]
+  Japanese: kyōgen [comic interlude], manzai, rakugo
+  Korean: golgye [the comic]
 
 Phr:
   zum Komischen dagegen gehört überhaupt die unendliche Wohlgemutheit und Zuversicht [Ger.] [Hegel, Aesthetics, on comedy]
   castigat ridendo mores [Lat.]
   But doctor… I am Pagliacci [Alan Moore, Watchmen]
+  all's well that ends well
+  laughter is the best medicine
 
 # ---- Hegel ----
 Def: The laughable is any contrast between the substantial and its appearance, between an end and its means, in which the appearance cancels itself, so that realizing the end is the end's own undoing. Comedy makes this its principle. It makes the subject master of everything that counts as essential in what it wills, and lets its aims, being without substance, perish through its own willing and through outward chance alike. The subject does not perish with them: in their dissolution it enjoys itself, untroubled, as the infinite power over every finite content. In tragedy substantial ends destroy one another; in comedy what is null destroys itself, and the self survives it, cheerful, as the absolute. With this, art dissolves itself.

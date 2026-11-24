@@ -30,7 +30,7 @@ Adv:
 
 F:
   Arabic: mushāʿ [undivided common property]
-  Korean: gongdong jaesan [property in common]
 
 Phr:
   what's mine is yours
+  held in common

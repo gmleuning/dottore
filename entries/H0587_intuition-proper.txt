@@ -7,6 +7,7 @@ HGloss: The content put outside as an object in space and time and grasped as pr
 N:
   intuition proper; objective intuition, the posited object, self-external content, spatial and temporal manifold, full sensory presentation, visual image, beholding
   intuition in the strict sense, sensuous intuition, viewing, the object in space and time, immediate presence, perception
+  apprehension
 
 V:
   behold, posit, present, objectify, see
@@ -23,7 +24,8 @@ Adv:
 
 F:
   German: Gestalt, Anschauung
-  Korean: bollaeui jikgwan
 
 Phr:
   to see with one's own eyes
+  in plain sight
+  before one's eyes

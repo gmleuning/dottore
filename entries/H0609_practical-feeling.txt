@@ -24,6 +24,7 @@ N:
   pitilessness, inclemency, severity &c H0708, malevolence &c H0668
   condolence, sympathy, consolation
   the feeling will, the heart, sentiment, affect, moral sentiment
+  hedonic tone
 
 V:
   feel, approve, disapprove, rue, regret, hope, fear
@@ -86,9 +87,8 @@ Adv:
 F:
   Latin: infandum renovare dolorem, laudator temporis acti, mirabile dictu, mirabile visu, argumentum ad misericordiam, locus paenitentiae, parcere subjectis, quis talia fando temperet a lachrymiss! [Vergil]
   French: maladie, make a piece of work, tombe des nues, nous verrons
-  Arabic: wijdān [inner feeling]
-  Sanskrit: bhāva [feeling, emotion]
-  Korean: silcheonjeok gamjeong [practical feeling]
 
 Phr:
   the heart's ought
+  to feel like it
+  it feels right

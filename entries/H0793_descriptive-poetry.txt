@@ -24,7 +24,7 @@ Adv:
 F:
   Greek: ekphrasis
   Chinese: shanshui shi [mountain-and-water poetry], tianyuan shi [fields-and-gardens poetry]
-  Korean: myosasi [descriptive poetry]
 
 Phr:
   ut pictura poesis [Lat.] [as painting, so poetry] [Horace]
+  to paint a picture

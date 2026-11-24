@@ -14,6 +14,7 @@ N:
   impulsion, impetus, momentum, pulsion†, jog, jolt, brunt, booming, boost [U.S.], throw, explosion &c H0121, propulsion &c H0228
   the mechanics of finite bodies, common mechanics, externally moved bodies
   scratching
+  statics
 
 V:
   move, push, impel, accelerate, decelerate, collide
@@ -33,7 +34,8 @@ Adv:
 
 F:
   Latin: vis impressa
-  Korean: yuhan yeokhak [finite mechanics]
 
 Phr:
   a body at rest tends to stay at rest
+  what goes up must come down
+  set in motion

@@ -20,10 +20,7 @@ Adv:
   by assimilation
   from its surroundings
 
-F:
-  Arabic: tamthīl
-  Chinese: tonghua [assimilation]
-  Korean: sikmurui donghwa [assimilation]
-
 Phr:
   the plant drinks the sun
+  to draw nourishment
+  to drink in

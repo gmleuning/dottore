@@ -7,6 +7,7 @@ HGloss: The general character of classical building: purpose determines the form
 N:
   general character of classical architecture; serviceability, purposiveness, proportion, clarity, order
   the nature of classical building, regularity, eurhythmy, symmetry, rectangularity, simplicity, harmony, the intelligible form
+  modulus
 
 V:
   serve, proportion, order
@@ -20,8 +21,7 @@ Adv:
   purposefully
   in general, regularly, symmetrically, harmoniously
 
-F:
-  Korean: gojeon yangsik [classical style]
-
 Phr:
   beauty in service
+  the measure of all parts
+  nothing too much

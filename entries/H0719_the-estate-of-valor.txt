@@ -65,11 +65,11 @@ F:
   Latin: fortitudo, posse comitatus, apparatus belli
   Greek: andreia
   French: garde-royale, piece, field piece, bouche a feu, mitrailleur, mitrailleuse, fowling piece, mitraille, sauve qui peut
-  Arabic: furūsiyya [horsemanship, chivalry], shajāʿa [courage]
+  Arabic: furūsiyya [horsemanship, chivalry]
   Sanskrit: kṣatriya [warrior estate]
-  Chinese: wuren [warrior]
-  Japanese: bushi [warrior], bushidō [way of the warrior], samurai
-  Korean: yonggiui sinbun [estate of valour], gunin
+  Japanese: bushidō [way of the warrior], samurai
 
 Phr:
   courage is the first of human qualities because it guarantees all others [Churchill, attrib.]
+  to answer the call
+  to serve one's country

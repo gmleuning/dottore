@@ -36,10 +36,6 @@ F:
   German: Tollheit
   Latin: furor
   Greek: mania
-  Arabic: hawas [mania]
-  Sanskrit: unmāda
-  Chinese: kuangzao [mania]
-  Korean: jojeung [mania], gwangran
 
 Phr:
   ira furor brevis est [Lat.] [Horace]

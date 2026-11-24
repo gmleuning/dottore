@@ -26,11 +26,10 @@ Adv:
 F:
   German: Sittlichkeit &c H0675, Vaterland
   Latin: patria, pro patria
-  Arabic: waṭan [homeland], umma [community]
-  Sanskrit: deśa [country]
+  Arabic: umma [community]
   Chinese: jiaguo [family-state]
-  Japanese: kokka
-  Korean: yullijeok silche, gajok, joguk, gukka
 
 Phr:
   dulce et decorum est pro patria mori [Lat.] [Horace]
+  hearth and home
+  for king and country

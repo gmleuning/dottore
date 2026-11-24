@@ -21,11 +21,8 @@ Adv:
   in trance, mesmerically
 
 F:
-  Arabic: nawm maghnāṭīsī [magnetic sleep]
   Sanskrit: samādhi [absorption, trance]
-  Chinese: cuimian [hypnosis]
-  Japanese: saimin
-  Korean: jagijeok mongyu [magnetic somnambulism], choemyeon
 
 Phr:
   you are getting sleepy
+  under a spell

@@ -27,11 +27,9 @@ Adv:
 F:
   Greek: epos
   French: chanson de geste
-  Arabic: malḥama
   Sanskrit: mahākāvya [great poem]
-  Chinese: shishi
-  Japanese: jojishi
-  Korean: seosasi [epic]
 
 Phr:
   die vielen epischen Bibeln [Ger.] [Hegel, Aesthetics, on the epic]
+  arms and the man
+  sing, goddess

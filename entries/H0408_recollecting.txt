@@ -7,6 +7,7 @@ HGloss: The recovery, in the trance, of what was lost to waking memory.
 N:
   recollecting; recovered memory, hypermnesia, total recall, recollection of the forgotten, forgotten languages, recall under hypnosis
   recovery of the forgotten, retrieval, reminiscence
+  anamnesis
 
 V:
   recall, recollect, recover, remember, bring back
@@ -27,7 +28,8 @@ F:
   Greek: anamnēsis
   Arabic: dhikr [remembrance]
   Sanskrit: smṛti [recollection]
-  Korean: hoesang [recollecting]
 
 Phr:
   lost and found
+  it all came back
+  on the tip of one's tongue

@@ -28,8 +28,9 @@ F:
   Latin: catena, series causarum, causae secundae
   Arabic: tasalsul [infinite chain]
   Sanskrit: pratītyasamutpāda [dependent origination], nidāna [link]
-  Korean: gyujeongdoen ingwa gwangye
 
 Phr:
   for want of a nail the shoe was lost
   the domino effect
+  one thing leads to another
+  a chain of events

@@ -26,11 +26,8 @@ Adv:
 
 F:
   German: Gewißheit
-  Arabic: yaqīn [certainty], iʿtiqād [conviction]
-  Sanskrit: niścaya [certainty]
-  Chinese: queding [certainty]
-  Japanese: kakushin
-  Korean: hwaksilseong [certainty]
 
 Phr:
   I know it in my bones
+  to be certain
+  sure as eggs is eggs

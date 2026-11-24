@@ -9,6 +9,7 @@ N:
   the chemically tensed object, the biased object, the non-indifferent object, the affine, the one-sided object
   oxygen, hydrogen, nitrogen, carbon, carbon dioxide, dioxide, sodium, calcium, potassium, aluminium, aluminum, platinum, chrome, chromium, silicon, nickel, uranium, plutonium, mercury, plastic, polymer, molecule, compound
   silver, gold, copper, iron, lead, tin, zinc
+  reactivity
 
 V:
   crave, lack, need, tend toward, strive for, seek out
@@ -22,8 +23,7 @@ Adv:
   in tension, toward the other
   by affinity, toward its other
 
-F:
-  Korean: hwahakjeok gaekche [chemical object]
-
 Phr:
   one half seeking its other half [Plato]
+  drawn to its other
+  made for each other

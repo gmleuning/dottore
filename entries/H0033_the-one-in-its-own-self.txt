@@ -8,6 +8,7 @@ N:
   the one in its own self; simple unit, undivided unit, internal simplicity, inner unity, homogeneity, indivisibility, partlessness; atomicity, monadicity; the point, the simple; integrity, wholeness, intactness
   unity &c H0031
   the one by itself, the simple one, the unit in itself, the unalterable one
+  oneness, unicity
 
 V:
   be undivided, be indivisible, be simple, hold together, cohere
@@ -28,8 +29,9 @@ Adv:
 F:
   Arabic: jawhar fard [indivisible atom]
   Sanskrit: aṇu [atom]
-  Korean: ilja
 
 Phr:
   an atom is that which cannot be cut
   ou temnetai [Gr.]
+  all in one
+  at one

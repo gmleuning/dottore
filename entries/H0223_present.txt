@@ -9,6 +9,7 @@ N:
   the present, the present time, the present day, the present juncture, the present occasion, the times, the existing time, the time being, our times, modern times, the twentieth century, nonce, crisis, day
   moment, second, minute, twinkling, trice, flash, breath, crack, jiffy, coup, burst, flash of lightning, stroke of time
   epoch, time, time of day, time of night, hour, very minute, very time, very hour, present time, right time, true time, exact correct time
+  nowness, presentness
 
 V:
   be present, be current, exist now, live in the moment, seize the day
@@ -31,11 +32,7 @@ F:
   German: Jetzt
   Latin: praesens, nunc, hic et nunc, nunc stans
   Greek: nyn
-  Arabic: al-ān [the now], al-ḥāḍir
-  Sanskrit: vartamāna [present]
-  Chinese: xianzai [present]
-  Japanese: ima [now]
-  Korean: hyeonjae [present]
+  Arabic: al-ān [the now]
 
 Phr:
   carpe diem [Lat.] [Horace]

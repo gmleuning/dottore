@@ -8,6 +8,7 @@ N:
   connection; combination, unification, unity of properties, synthesis, binding, the also and the one, bundle, bundle theory
   junction &c H0259, union, incorporation, amalgamation, coalescence, fusion
   conjunction, linkage, the also, the medium, the one of the thing, togetherness of properties
+  concatenation
 
 V:
   connect, combine, unify, bind, bundle, hold together
@@ -23,9 +24,7 @@ Adv:
   simultaneously
   in connection, conjointly
 
-F:
-  Arabic: irtibāṭ [connection]
-  Korean: yeongyeol [connection]
-
 Phr:
   the thing is one and also many
+  to put two and two together
+  to join the dots

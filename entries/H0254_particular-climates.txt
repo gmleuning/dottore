@@ -23,10 +23,11 @@ Adv:
 
 F:
   Greek: klima [inclination, latitude]
-  Arabic: aqālīm [climes, the seven climes], iqlīm [clime, from Gr. klima]
-  Chinese: qihou [climate]
+  Arabic: aqālīm [climes, the seven climes]
   Japanese: fūdo [climate and culture] [Watsuji]
-  Korean: gihu [climate], pungto
+  Korean: pungto [climate and soil]
 
 Phr:
   caelum non animum mutant qui trans mare currunt [Lat.] [Horace]
+  the lie of the land
+  the climate of opinion

@@ -23,8 +23,8 @@ Adv:
 F:
   Latin: Ecce Homo, via dolorosa
   Italian: Pietà
-  Korean: geuriseudoui guwonsa [redemptive history of Christ]
 
 Phr:
   ecce homo [Lat.] [Bible]
   consummatum est [Lat.] [it is finished] [Bible]
+  the passion of Christ

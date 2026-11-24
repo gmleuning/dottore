@@ -13,6 +13,7 @@ N:
   the post-Aristotelian schools, post-Aristotelian philosophy, the Stoics, the Epicureans, the Sceptics, dogmatist, sceptic, Roman philosophy
   the criterion, the canon, the test of truth, dogma, tenet, positive doctrine, assertion, affirmation, assent, suspension of judgment
   peace of mind, imperturbability, tranquillity, ataraxy, inner freedom, self-sufficiency of the sage, the wise man, eudaemonism, the philosophy of self-consciousness
+  criteriology
 
 V:
   assert, doubt
@@ -31,7 +32,7 @@ Adv:
 F:
   Latin: onus probandi
   Greek: kritērion, epochē, ataraxia, autarkeia
-  Korean: dokdannon [dogmatism], hoeuiron [skepticism]
 
 Phr:
   the search for the criterion
+  dogma and doubt

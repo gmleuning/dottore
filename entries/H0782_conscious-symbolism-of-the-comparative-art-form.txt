@@ -7,6 +7,7 @@ HGloss: The conscious symbolism of comparison, in which the separation of meanin
 N:
   conscious symbolism of the comparative art-form; comparison, simile, likeness, conscious analogy, figurative art, deliberate symbolism
   conscious symbolism, comparative art, the comparative form, deliberate comparison, the known separation of meaning and shape, wit, ingenuity, the subordinate symbolic forms
+  figuration
 
 V:
   compare, liken, figure
@@ -20,10 +21,6 @@ Adv:
   comparatively, by comparison
   consciously, knowingly, deliberately
 
-F:
-  Arabic: tashbīh [simile]
-  Sanskrit: upamā [simile]
-  Korean: bigyo yesulhyeongsik [comparative art-form]
-
 Phr:
   as it were
+  compare and contrast

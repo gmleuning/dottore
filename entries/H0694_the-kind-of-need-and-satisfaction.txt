@@ -26,6 +26,7 @@ N:
   cooking, baking, dining, cuisine, recipe, chef, takeaway, takeout, delivery, taco, burrito, sushi, curry, noodles, toast, yogurt, ice cream, chocolate, sweets, cake, soda, pop, fizzy drink, smoothie, cappuccino, milkshake, sparkling water, gluten-free
   cigar, tequila, margarita, martini, sens, vape, gage, bootleg, downer, sedative, methamphetamine, hock, liqueur, bock, bennie, homebrew, bitters, rickey, lacing, diazepam
   street drug, alcoholic drink, alcoholic beverage, strong drink, hard drink, proof spirit, soft drug, mixed drink, rice beer, neutral spirits, hard liquor, gateway drug, home brew, pep pill, hard cider, sedative drug, ethyl alcohol, white wine, table wine, rose wine, red wine, chicken feed, pink wine, battery-acid, smoking mixture, generic wine, dessert wine, altar wine, back breaker, sparkling wine, blush wine, fortified wine, spruce beer, rowan vodka, rowan berry vodka, jug wine, ardent spirits, window pane, sedative-hypnotic drug, sedative-hypnotic, amphetamine sulfate, creme de cacao, walnut liqueur, vanilla liqueur, sweet cherry liqueur, raspberry liqueur, quince liqueur, plum liqueur, peach liqueur, orange liqueur, mulberry liqueur, cranberry liqueur, coffee liqueur, blueberry liqueur, blackberry liqueur, apricot liqueur, aqua vitae, methamphetamine hydrochloride, draft beer
+  superfluity, sufficiency
 
 V:
   need, want, require, demand, satisfy, consume, refine, multiply
@@ -50,11 +51,9 @@ Adv:
 F:
   Latin: otium cum dignitate [Cicero]
   French: de trop, un peu fort
-  Arabic: ḥājāt [needs], kamāliyyāt [luxuries]
-  Chinese: xuqiu [need, demand]
-  Japanese: juyō [demand]
-  Korean: yokguwa manjok [need and satisfaction]
 
 Phr:
   man needs not only bread
   was die Engländer comfortable nennen, ist etwas durchaus Unerschöpfliches und ins Unendliche Fortgehendes [Ger.] [Hegel, Philosophy of Right §191 Zusatz]
+  man does not live by bread alone
+  to keep up with the Joneses

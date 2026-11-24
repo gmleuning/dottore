@@ -7,6 +7,7 @@ HGloss: The poetic imagination, which makes the inner vivid as image, original r
 N:
   poetic imagination; poetic vision, imagery, figuration, the inner image, poetic idea
   fancy, phantasy, the poetic image, poetic representation, picturing, concreteness, vividness, the pictorial, metaphor, simile, personification, the mind's eye
+  ingenium
 
 V:
   imagine, envision, figure
@@ -20,8 +21,6 @@ Adv:
   imaginatively
   vividly, graphically, pictorially, in images
 
-F:
-  Korean: sijeok sangsangnyeok [poetic imagination]
-
 Phr:
   to see a world in a grain of sand [Blake]
+  bodying forth the forms of things unknown

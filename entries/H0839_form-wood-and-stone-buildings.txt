@@ -12,6 +12,7 @@ N:
   material, raw material, bricks and mortar
   tower, steeple, spire, turret, dome, cupola
   timber building, stone building, woodwork, carpentry, ashlar, the hut
+  petrification
 
 V:
   build, hew, frame, mortise, lay
@@ -21,13 +22,13 @@ V:
 Adj:
   wooden, timber, stone, trabeated, lithic
   timbered, framed, hewn
+  ligneous
 
 Adv:
   in stone, in timber
   in wood
 
-F:
-  Korean: mokjo [timber construction], seokjo [stone construction]
-
 Phr:
   the stone remembers the wood
+  the column remembers the tree
+  timber turned to stone

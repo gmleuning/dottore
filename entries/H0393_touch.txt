@@ -33,15 +33,12 @@ Adv:
   tangibly
 
 F:
-  German: Gefühl
   Latin: tactus
   Greek: haphē
-  Arabic: lams [touch]
   Sanskrit: sparśa [touch, contact]
-  Chinese: chujue [touch]
-  Japanese: shokkaku
-  Korean: chokgak [touch]
 
 Phr:
   noli me tangere [Lat.] [Bible]
   seeing's believing, but feeling's the truth
+  to keep in touch
+  a soft touch

@@ -30,11 +30,8 @@ Adv:
   pole to pole
 
 F:
-  Arabic: maghnaṭīsiyya [magnetism], ḥajar al-maghnaṭīs [lodestone]
   Sanskrit: ayaskānta [magnet, lit. lover of iron]
-  Chinese: cixing [magnetism], cishi [loving stone, magnet]
-  Japanese: jishaku
-  Korean: jaseong [magnetism]
+  Chinese: cishi [loving stone, magnet]
 
 Phr:
   like poles repel, unlike poles attract

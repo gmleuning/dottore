@@ -27,11 +27,11 @@ Adv:
 F:
   Latin: cultus
   Greek: latreia, thysia [sacrifice]
-  Arabic: ʿibāda [worship], qurbān [offering]
   Sanskrit: pūjā [worship], yajña [sacrifice]
-  Chinese: jisi [sacrifice]
   Japanese: matsuri [festival]
-  Korean: jesa [cult], yebae
+  Korean: jesa [ancestral rite, sacrifice]
 
 Phr:
   do ut des [Lat.] [I give so that you may give]
+  to make an offering
+  to pay homage

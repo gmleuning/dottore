@@ -20,13 +20,13 @@ Adj:
   useful, subservient &c H0196, conducive &c H0378, subsidiary &c H0706
   useful &c H0196, ministerial, conducive
   dependent, subordinate, purposive
+  ancillary
 
 Adv:
   in service of
   for use, for a purpose, serviceably, functionally
 
-F:
-  Korean: hammokjeokseong [purposiveness]
-
 Phr:
   architecture as servant
+  in the service of another
+  a shelter for the god

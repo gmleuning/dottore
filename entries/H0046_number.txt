@@ -24,6 +24,7 @@ N:
   division by five, quinquesection, decimation
   amount and unit
   trio, trinity, figuring, threesome
+  numerosity
 
 V:
   number, count, enumerate, numerate, reckon, tally, tell†, compute, calculate, cipher, figure, total, sum, add up, tot up; amount to, come to, run to
@@ -75,18 +76,16 @@ Adv:
   additionally, doubly
 
 F:
-  German: Zahl
   Latin: numerus, cum multis aliis
   Greek: arithmos
   French: au reste, cinque
   Hebrew: gematria
-  Arabic: ʿilm al-ḥisāb [science of reckoning], abjad, ṣifr [cipher]
-  Sanskrit: saṃkhyā [number], gaṇita [mathematics], śūnya
+  Arabic: abjad
+  Sanskrit: śūnya
   Chinese: shu [number, fate]
-  Japanese: ban, man, banzai
-  Korean: su [number]
 
 Phr:
   all things are number [Pythagoreans]
   God made the integers, all else is the work of man [Kronecker]
   numero Deus impare gaudet [Lat.] [Virgil]
+  to have someone's number

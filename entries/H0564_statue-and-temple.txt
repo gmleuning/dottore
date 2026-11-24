@@ -27,11 +27,9 @@ Adv:
 F:
   Latin: templum, sanctum sanctorum
   Greek: agalma, kouros, naos, adyton
-  Arabic: maʿbad [temple]
-  Sanskrit: mandira [temple], mūrti [sacred image]
-  Chinese: miao [temple]
-  Japanese: jinja [shrine]
-  Korean: jogakgwa sinjeon [statue and temple]
+  Sanskrit: mūrti [sacred image]
 
 Phr:
   the god in his temple
+  the house of the god
+  a graven image

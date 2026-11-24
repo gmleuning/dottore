@@ -28,10 +28,8 @@ Adv:
 
 F:
   French: contrecoup
-  Arabic: murūna [elasticity, flexibility]
-  Chinese: tanxing [elasticity]
-  Korean: tanseong [elasticity]
 
 Phr:
   ut tensio, sic vis [Lat.] [Hooke]
   bend but not break
+  to bounce back

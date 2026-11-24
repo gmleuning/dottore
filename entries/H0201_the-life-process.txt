@@ -28,11 +28,7 @@ Adv:
   by assimilation, by nourishment
   vitally
 
-F:
-  Arabic: tamthīl [assimilation]
-  Sanskrit: āhāra [nourishment]
-  Chinese: xinchen daixie [metabolism]
-  Korean: saengmyeong gwajeong [life process]
-
 Phr:
   you are what you eat, der Mensch ist, was er isst [Ger.] [Feuerbach]
+  to keep body and soul together
+  to make one's living

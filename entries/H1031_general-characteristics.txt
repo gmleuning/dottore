@@ -7,6 +7,7 @@ HGloss: The general character of Neoplatonism, the concrete idea as a trinity, t
 N:
   general characteristics of Neoplatonism; trinity of One, Intellect, Soul, the intelligible world, the return of spirit to itself
   emanation, reversion, the hypostases, the One beyond being, the hierarchy of being, the great chain of being, the ascent of the soul, ecstasy, the flight of the alone to the alone, contemplation, mysticism, the divine source, the world-soul, self-thinking thought, the intelligible triad
+  emanationism, triadism
 
 V:
   emanate, return
@@ -22,7 +23,7 @@ Adv:
 
 F:
   Greek: monē, proodos, epistrophē, henōsis, to hen, nous, psychē, ekstasis
-  Korean: yuchulseol [emanationism]
 
 Phr:
   remaining, procession, return, monē, proodos, epistrophē [Gr.] [Proclus]
+  the One, Mind and Soul

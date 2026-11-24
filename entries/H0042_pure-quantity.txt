@@ -7,6 +7,7 @@ HGloss: Quantity without determinate limit, the sublated being-for-self, as cont
 N:
   pure quantity; quantity as such, sheer magnitude, abstract magnitude, measurability, extensiveness; space and time as pure quantities; the continuum, continuous magnitude; indefinite amount, indeterminate quantity, unspecified quantity, x, unknown quantity; mass noun, uncountable
   sheer quantity, continuity, space and time as pure quantity
+  indefinite quantity
 
 V:
   be measurable, admit of more and less, be quantifiable
@@ -21,10 +22,10 @@ Adv:
   purely
 
 F:
-  German: die reine Quantität
   Latin: quantitas, in abstracto
   Greek: posotēs
-  Korean: sunsu yang
 
 Phr:
   an unknown quantity
+  as much as you like
+  no matter how much

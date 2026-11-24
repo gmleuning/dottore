@@ -7,6 +7,7 @@ HGloss: Egyptian sculpture, rigid, symmetrical and without the freedom of indivi
 N:
   Egyptian sculpture; Egyptian statuary, rigid frontality, stiff posture, symmetry, colossi, the seated pharaoh, animal-headed gods
   the Memnon statues, the sphinx, the fixed type, canon of proportion, stiffness, rigidity, immobility, frontality, lifelessness, granite, basalt
+  colossus
 
 V:
   carve, stylize
@@ -20,8 +21,7 @@ Adv:
   rigidly, frontally
   stiffly, by rule
 
-F:
-  Korean: Ijipteu jogak [Egyptian sculpture]
-
 Phr:
   the arms at the sides
+  arms at their sides
+  fixed by convention

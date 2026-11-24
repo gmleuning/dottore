@@ -32,13 +32,12 @@ F:
   Latin: finis, causa finalis, cui bono
   Greek: telos, hou heneka
   French: raison d'etre
-  Arabic: ghāya [end, goal], ʿilla ghāʾiyya [final cause]
-  Sanskrit: prayojana [purpose], artha [aim, meaning]
-  Chinese: mudi [purpose]
-  Japanese: mokuteki
+  Arabic: ʿilla ghāʾiyya [final cause]
+  Sanskrit: prayojana [purpose]
   Korean: mokjeongnon [teleology]
 
 Phr:
   nature does nothing in vain [Aristotle]
   the end justifies the means
   the cunning of reason, List der Vernunft [Ger.] [Hegel]
+  for a purpose

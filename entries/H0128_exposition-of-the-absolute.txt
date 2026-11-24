@@ -9,6 +9,7 @@ N:
   unveiling, revealment
   manifestation, demonstration
   setting-forth, exhibition, interpretation, the self-exposition of the absolute
+  monism
 
 V:
   expound, explicate, unfold, set forth, display, lay out, reveal, disclose; vanish into, be swallowed up in, be absorbed into
@@ -31,8 +32,8 @@ F:
   Latin: via negativa
   Arabic: fanāʾ [passing away in God]
   Sanskrit: neti neti
-  Korean: jeoldaejaui haemyeong [exposition]
 
 Phr:
   neti neti [Skt.] [Brihadaranyaka Upanishad]
   all is one
+  the night in which all cows are black

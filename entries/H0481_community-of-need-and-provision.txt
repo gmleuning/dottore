@@ -11,6 +11,7 @@ N:
   nourishment, sustenance, nurture, subsistence
   common need, mutual need, foresight, shared want, the common store
   assistance, supplying
+  commonalty
 
 V:
   provide, supply, furnish, care for, depend on one another
@@ -29,7 +30,8 @@ Adv:
 
 F:
   Greek: oikos
-  Korean: yokgu gongdongche
 
 Phr:
   each depends on the other
+  in the same boat
+  to look after one's own

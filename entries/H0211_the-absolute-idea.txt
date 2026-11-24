@@ -25,9 +25,9 @@ Adv:
   methodically
 
 F:
-  German: Methode, an und für sich, die absolute Idee
+  German: Methode, an und für sich
   Greek: noēsis noēseōs
-  Arabic: ʿaql [intellect], al-ʿaql al-kullī [universal intellect]
+  Arabic: al-ʿaql al-kullī [universal intellect]
   Sanskrit: brahman, cit [pure consciousness]
   Chinese: dao
   Korean: jeoldae inyeom [absolute idea]
@@ -35,3 +35,4 @@ F:
 Phr:
   the absolute idea alone is being, imperishable life, self-knowing truth, and is all truth [Hegel]
   the truth is the whole [Hegel]
+  the alpha and omega

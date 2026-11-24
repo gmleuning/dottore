@@ -10,6 +10,7 @@ N:
   anthology, lay, love song, drinking song, war song, lullaby
   song &c H0919, canzonet†, ditty
   lyricism, song-poetry, melos, the poetry of feeling, the poetry of subjectivity, verse, canzone, lied, chanson, threnody, psalm, lyricist
+  songcraft
 
 V:
   sing, express, effuse
@@ -27,10 +28,9 @@ Adv:
 F:
   French: rondeau
   Arabic: ghazal, qaṣīda
-  Sanskrit: gīti-kāvya
-  Chinese: shi, ci [lyric song]
+  Chinese: ci [lyric song]
   Japanese: tanka, haiku
-  Korean: seojeongsi [lyric poetry]
 
 Phr:
   the spontaneous overflow of powerful feelings [Wordsworth]
+  the poet's own heart

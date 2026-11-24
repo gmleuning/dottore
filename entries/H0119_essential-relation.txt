@@ -32,11 +32,9 @@ F:
   Latin: relatio, quoad hoc, pro re nata
   Greek: pros ti [relative, toward something]
   French: vis-à-vis, a propos of
-  Arabic: iḍāfa [relation, correlation]
-  Sanskrit: sambandha [relation, connection]
   Chinese: guanxi [relation, connection]
-  Japanese: kankei
-  Korean: bonjiljeok gwangye [essential relation]
 
 Phr:
   no master without servant, no servant without master
+  part and parcel
+  two sides of the same coin

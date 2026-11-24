@@ -10,6 +10,7 @@ N:
   spectroscope, spectrograph, spectrometer, colorimeter &c H0391
   scattering, diffusion
   spectral colour, Newton's spectrum, coloured fringes
+  iridescence
 
 V:
   disperse, split, spread
@@ -28,11 +29,8 @@ Adv:
 F:
   Latin: experimentum crucis
   French: arc-en-ciel
-  Arabic: qaws quzaḥ [rainbow]
   Sanskrit: indradhanus [Indra's bow]
-  Chinese: caihong [rainbow]
-  Japanese: niji
-  Korean: peurijeum saek [prismatic colour]
 
 Phr:
   my heart leaps up when I behold a rainbow in the sky [Wordsworth]
+  the spectrum

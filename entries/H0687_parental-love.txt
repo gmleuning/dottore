@@ -10,6 +10,7 @@ N:
   affection, attachment
   kindness, loving-kindness, warmth of heart
   mother-love, father-love, fondness
+  philoprogenitiveness
 
 V:
   love, cherish, nurture, protect, dote on
@@ -27,11 +28,11 @@ Adv:
 
 F:
   Greek: storgē, storge
-  Arabic: ḥanān [tenderness], raḥma [compassion, from womb]
+  Arabic: raḥma [compassion, from womb]
   Sanskrit: vātsalya [parental affection]
   Chinese: ci [parental kindness]
-  Japanese: boseiai [maternal love]
-  Korean: bumoui sarang [parental love]
 
 Phr:
   the child is father of the man [Wordsworth]
+  a mother's love
+  the apple of one's eye

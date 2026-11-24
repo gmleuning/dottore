@@ -9,6 +9,7 @@ N:
   what ought to be done, moral obligation, accountableness†, liability, onus, responsibility, bounden duty, imperative duty, call, call of duty, accountability
   ethics, ethology, aretology†, moral philosophy, ethical philosophy, casuistry, polity
   dereliction of duty, fault &c H0657, sin &c H0668, non-observance, non-performance, neglect, relaxation, infraction, violation, transgression, failure, evasion, dead letter
+  devoir
 
 V:
   ought, must, be obliged, be duty-bound, owe
@@ -34,12 +35,10 @@ F:
   German: Pflicht, Sollen
   Latin: officium, suo periculo, in foro conscientiae, quamdiu se bene gesserit
   Greek: kathēkon
-  Arabic: wājib [duty], farḍ [obligation]
-  Sanskrit: dharma, kartavya [what ought to be done], svadharma [one's own duty]
-  Chinese: yiwu [duty]
-  Japanese: gimu, giri [social obligation]
-  Korean: dodeokjeok uimu [moral duty]
+  Sanskrit: svadharma [one's own duty]
+  Japanese: giri [social obligation]
 
 Phr:
   duty for duty's sake [F. H. Bradley, on Kant]
   better one's own dharma, though imperfect, than another's well performed [Bhagavad Gita]
+  duty calls

@@ -34,12 +34,9 @@ F:
   Latin: ambiguas in vulgum spargere voces
   French: Tartufferie, faire pattes de velours
   Italian: il volto sciolto i pensieri stretti
-  Arabic: nifāq [hypocrisy], riyāʾ [ostentation in piety]
-  Sanskrit: dambha [hypocrisy]
-  Chinese: weishan [hypocrisy]
-  Japanese: gizen
-  Korean: wiseon [hypocrisy]
+  Arabic: riyāʾ [ostentation in piety]
 
 Phr:
   hypocrisy is the homage vice pays to virtue [La Rochefoucauld]
   whited sepulchres [Bible]
+  practise what you preach

@@ -23,7 +23,7 @@ Adv:
 
 F:
   Arabic: ḥamliyya [categorical proposition]
-  Korean: jeongeon pandan [categorical judgment]
 
 Phr:
   the rose is a plant
+  flat out

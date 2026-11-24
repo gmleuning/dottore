@@ -19,8 +19,5 @@ Adj:
 Adv:
   at the edge, on the fringe
 
-F:
-  Korean: gajangjari saek [paroptic colour]
-
 Phr:
   a halo round the moon

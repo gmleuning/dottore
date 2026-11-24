@@ -12,6 +12,7 @@ N:
   construction, formation, architecture
   economy, government &c H0714
   the system of centres, free mechanism, central body and satellites
+  orrery
 
 V:
   centre, organize, systematize, order, arrange, regulate, govern
@@ -33,7 +34,8 @@ Adv:
 F:
   Latin: gradatim, lucidus ordo
   French: en regle
-  Korean: jeoldaejeok gigyeron [absolute mechanism]
 
 Phr:
   a place for everything, and everything in its place
+  the music of the spheres
+  in orbit

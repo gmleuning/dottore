@@ -31,10 +31,9 @@ Adv:
   truly, completely
 
 F:
-  German: wahrhafte Unendlichkeit, Rückkehr in sich, das Ganze, die wahrhafte Unendlichkeit
+  German: wahrhafte Unendlichkeit, Rückkehr in sich, das Ganze
   Latin: infinitum actu, nunc stans, in toto
   Greek: ouroboros, plērōma
-  Arabic: dāʾira [circle]
   Sanskrit: maṇḍala
   Chinese: taiji
   Japanese: ensō [Zen circle]
@@ -44,3 +43,4 @@ Phr:
   in my end is my beginning [T. S. Eliot]
   das Wahre ist das Ganze [Ger.] [Hegel]
   God is an infinite sphere whose centre is everywhere and circumference nowhere [Liber XXIV philosophorum]
+  the circle closes

@@ -7,6 +7,7 @@ HGloss: The classical temple as a whole, open, low and spread out, serene and ch
 N:
   classical temple as a whole; the Parthenon, the Erechtheum, the Pantheon, the temple as unity, cella, stylobate, pediment
   the temple, the whole temple, the fane, the shrine, the peristyle, the entablature, the totality, harmony of parts, completeness
+  temenos
 
 V:
   crown, complete, harmonize
@@ -22,7 +23,8 @@ Adv:
 
 F:
   Greek: naos, pronaos, opisthodomos, acroterion
-  Korean: Geuriseu sinjeon [Greek temple]
 
 Phr:
   the Parthenon on the Acropolis
+  open to the light
+  serene and spread out

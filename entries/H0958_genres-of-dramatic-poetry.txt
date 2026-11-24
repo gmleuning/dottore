@@ -27,7 +27,8 @@ F:
   Latin: genera
   Greek: eidē, genos, tragōidia, kōmōidia, satyrikon
   French: drame
-  Korean: bigeuk [tragedy], huigeuk [comedy]
 
 Phr:
   tragedy, comedy, and play
+  tragedy and comedy
+  the sock and buskin
