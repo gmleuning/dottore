@@ -7,7 +7,7 @@ HGloss: War, in which the ideality of the particular is shown, and the ethical h
 N:
   war; warfare, hostilities, armed conflict, combat, battle, campaign, the ethical health of nations
   fighting, arms, the sword, Mars, Bellona, grim visaged war, bloodshed
-  conflict, skirmish, rencounter†, encounter, rencontre†, collision, affair, brush, battle royal, action, engagement, joust, tournament, tilt, tilting [Mediev.], tournay†, list, pitched battle
+  conflict, skirmish, rencounter†, encounter, rencontre†, collision, affair, brush, battle royal, action, engagement, joust, tournament, tilt, tilting [Mediev.], tournay†, list, pitched battle, ruckus
   battle array, crusade, expedition, operations, mobilization, state of siege, battlefield, theater of operations, warpath
   tug of war &c H0520, service, campaigning, active service, tented field, fire cross, trumpet, clarion, bugle, pibroch†, slogan, war-cry, war-whoop, battle cry, beat of drum, rappel, tom-tom, calumet of war, word of command, password, watchword, angelus†, sacring bell†
   combatant
@@ -37,7 +37,7 @@ N:
   tank, bomber, destroyer, corvette, warship, battleship, panzer, interceptor, dreadnought, military vehicle, military plane, army tank, combat ship, war vessel, weapons carrier, personnel carrier, troop transport, troop carrier, armored combat vehicle, landing craft, half track, scout car
 
 V:
-  war, wage war, fight, battle, combat, campaign, mobilize, take up arms
+  war, wage war, fight, battle, combat, campaign, mobilize, take up arms, scrap, tussle
   arm, raise troops, mobilize troops, raise up in arms, take up the cudgels &c H0520, fly to arms, appeal to arms, fly to the sword, draw the sword, unsheathe the sword, dig up the hatchet, dig up the tomahawk, go to war, let slip the dogs of war, cry havoc, kindle the torch of war, light the torch of war, raise one's banner, raise the fire cross, hoist the black flag, throw away, fling away the scabbard, enroll, enlist, take the field, take the law into one's own hands, do battle, give battle, join battle, engage in battle, go to battle, flesh one's sword, set to, fall to, engage, measure swords with, draw the trigger, cross swords, come to blows, come to close quarters, contend &c H0520, battle with, break a lance with
   serve, see service, be on service, be on active service, wield the sword, shoulder a musket, smell powder, be under fire, spill blood, imbrue the hands in blood, on the warpath
   carry on war, carry on hostilities, keep the field, fight the good fight, fight it out, fight like devils, fight one's way, fight hand to hand, sell one's life dearly, pay the ferryman's fee
