@@ -326,7 +326,7 @@ function makeRe(q){
   return S.partial ? new RegExp(f,'gu') : new RegExp('(?<![\\p{L}\\p{N}])'+f+'(?![\\p{L}\\p{N}])','gu');
 }
 
-let lastRe=null;
+let lastRe=null, lastQ='';
 function search(q){
   const out=$('#out');
   q=q.trim();
@@ -334,11 +334,15 @@ function search(q){
   const n=q.replace(/^#/,'');
   if(BYID.has(n)){ goWhole(n); return; }
   const re=makeRe(q); lastRe=re;
-  const headHits=[], bodyHits=[];
+  // headword matches first, then the entries with the most matching words, then the order of the system
+  const headHits=[], bodyHits=[], cnt=new Map();
   for(const e of D){
-    if(hits(re,e.fh).length){ headHits.push(e); continue; }
-    if(e.pos.some(g=>g[2].some(f=>{re.lastIndex=0;return re.test(f)}))) bodyHits.push(e);
+    let c=0; for(const g of e.pos) for(const f of g[2]) c+=hits(re,f).length;
+    if(hits(re,e.fh).length){ headHits.push(e); cnt.set(e,c); continue; }
+    if(c){ bodyHits.push(e); cnt.set(e,c); }
   }
+  const byCount=(a,b)=>cnt.get(b)-cnt.get(a);   // D is already in the order of the system, and sort is stable
+  headHits.sort(byCount); bodyHits.sort(byCount);
   const res=headHits.concat(bodyHits);
   let html=`<div class="status">${res.length} entr${res.length===1?'y contains':'ies contain'} “${esc(q)}”${headHits.length&&bodyHits.length?` · ${headHits.length} headword match${headHits.length>1?'es':''} listed first`:''}</div>`;
   if(res.length>3&&S.jump!=='hide') html+=`<div class="jump${S.jump==='open'?' open':''}"><button class="jt" type="button" title="Show all / one line">all ${res.length}</button><span class="jl">`+
@@ -347,6 +351,8 @@ function search(q){
   html+=res.map(e=>entryHTML(e,re,S.full)).join('');
   out.innerHTML=html;
   document.title=`${q} — Dottore`;
+  if(lastQ!==q) window.scrollTo(0,0);    // a new search starts at the first entry; a settings re-render keeps the place
+  lastQ=q;
 }
 
 // ---------- the whole: every entry in the order of the system, one scroll ----------
@@ -392,6 +398,7 @@ function openWhole(){
 }
 function closeWhole(){
   if(!W) return;
+  lastQ='';   // coming back from the whole book: the next search starts at the top
   W.io.disconnect(); W=null; removeEventListener('scroll',onWholeScroll);
   $('#out').classList.remove('whole'); document.documentElement.style.overflowAnchor='';
 }

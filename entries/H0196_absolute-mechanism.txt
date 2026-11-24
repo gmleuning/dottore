@@ -13,6 +13,12 @@ N:
   economy, government &c H0796
   the system of centres, free mechanism, central body and satellites
   orrery
+  disorder; irregularity; anomaly &c (unconformity) H0073; anarchy, anarchism; want of method; untidiness &c adj.; disunion; discord &c H0103
+  confusion; confusedness &c adj.; mishmash, mix; disarray, jumble, huddle, litter, lumber; cahotage†; farrago; mess, mash, muddle, muss [U.S.], hash, hodgepodge; hotch-potch†, hotch-pot†; imbroglio, chaos, omnium gatherum [Lat.], medley; mere mixture &c H0297; fortuitous concourse of atoms, disjecta membra [Lat.], rudis indigestaque moles [Lat.] [Ovid]
+  complexity &c H0130
+  turmoil &c H0612
+  [legal terms] disorderly person; disorderly persons offence; misdemeanor
+  [moral disorder] slattern, slut (libertine) H0412
 
 V:
   centre, organize, systematize, order, arrange, regulate, govern
@@ -20,17 +26,23 @@ V:
   adjust
   arrange &c H0218
   orbit, gravitate
+  be disorderly &c adj.; ferment, play at cross-purposes
+  put out of order; derange; ravel &c H0230; ruffle, rumple
 
 Adj:
   systemic, systematic, centred, central, organized, hierarchical, ordered
   orderly, regular, in trim, in its proper place, well regulated, correct, methodical, uniform, symmetrical, unconfused, arranged &c H0218
   centralized
   troublous†
+  disorderly, orderless; out of order, out of place, out of gear; irregular, desultory; anomalous &c (unconformable) H0073; acephalous†, deranged; aimless; disorganized; straggling; unmethodical, immethodical†; unsymmetric†, unsystematic; untidy, slovenly; dislocated; out of sorts; promiscuous, indiscriminate; chaotic, anarchical; unarranged &c (arrange) H0218; confused; topsy-turvy &c (inverted) H0228; shapeless &c H0278; disjointed, out of joint
+  riotous &c (violent) H0131
+  complex &c H0130
 
 Adv:
   systematically, centrally, in order
   methodically, in turn, in its turn, by steps, step by step, by regular steps, by regular gradations, by regular stages, by regular intervals, seriatim, by clockwork, at stated periods &c H0232
   around a centre
+  irregularly &c adj.; by fits, by fits and snatches, by fits and starts; pellmell; higgledy-piggledy; helter-skelter, harum-scarum; in a ferment; at sixes and sevens, at cross-purposes; upside down &c H0228
 
 F:
   Latin: gradatim, lucidus ordo
@@ -43,3 +55,7 @@ Phr:
   natura non facit saltum [Lat.]
   order from disorder sprung [Paradise Lost]
   ordo est parium dispariumque rerum sua loca tribuens dispositio [Lat.] [St. Augustine]
+  the cart before the horse
+  hysteron proteron [Gr.]
+  chaos is come again
+  the wreck of matter and the crush of worlds [Addison]

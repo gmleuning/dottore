@@ -11,6 +11,9 @@ N:
   destruction, waste, breaking up, diruption†, disruption, consumption, disorganization, deorganization†
   break-up, the falling apart of the thing
   rotting
+  devastation, perdition; eboulement [Fr.], smash, havoc, delabrement [Fr.]; prostration; desolation, bouleversement [Fr.], wrack, shipwreck, cataclysm; washout
+  extinction, annihilation; destruction of life &c H0713; knock-down blow; doom, crack of doom
+  destroying &c v.; demolition, demolishment; overthrow, subversion, suppression; abolition &c (abrogation) H0797; biblioclasm†; sacrifice; ravage, razzia†; inactivation; incendiarism; revolution &c H0082; extirpation &c (extraction) H0238; beginning of the end, commencement de la fin [Fr.], road to ruin; dilapidation &c (deterioration) H0803; sabotage
 
 V:
   dissolve, decompose, disintegrate, break down, break up, fall apart, come apart, come to pieces, crumble, unravel, dismantle, take apart, disassemble, resolve, analyse
@@ -19,14 +22,22 @@ V:
   lapse, shrivel &c H0228, fade, wither, molder, rot, fall into decay
   take to pieces, pull to pieces, dismember, dislimb†, divellicate†, disbranch†, strow†, resperse†, set abroach†, circumfuse†
   corrode, erode, wear away, sap, undermine, overthwart†
+  be destroyed &c; fall to the ground; tumble, topple; go to the dogs, go to the wall, go to smash, go to shivers, go to wreck, go to pot, go to wrack and ruin; go by the board, go all to smash; be all over, be all up, be all with; totter to its fall
+  destroy; do away with, make away with; nullify; annul &c H0797; demolish; tear up; overturn, overwhelm; upset, subvert, put an end to; seal the doom of, do in, do for, dish [Slang], undo; cut up; cut down, pull down, mow down, blow down, beat down; suppress, quash, put down, do a job on; cut short, take off, blot out; dispel, dissipate; consume
+  quell, squash, squelch, crumple up, shatter, shiver; batter to pieces, tear to pieces, crush to pieces, cut to pieces, shake to pieces, pick to pieces; laniate†; nip; tear to rags, tear to tatters; crush to atoms, knock to atoms; strike out; throw over, knock down over; fell, sink, swamp, scuttle, engulf, ingulf†, submerge; lay in ashes, lay in ruins; sweep away, erase, wipe out, expunge, raze; level with the dust, level with the ground; atomize, vaporize
+  deal destruction, desolate, devastate, lay waste, gut; disorganize; dismantle &c (render useless) H0206; devour, swallow up, mine, blast, bomb, blow to smithereens, drop the big one, confound; exterminate, extinguish, quench, annihilate; snuff out, put out, stamp out, trample out; lay in the dust, trample in the dust; prostrate; tread under foot; crush under foot, trample under foot; lay the ax to the root of; make short work of, make clean sweep of, make mincemeat of; cut up root and branch, chop into pieces, cut into ribbons; fling to the winds, scatter to the winds; throw overboard; strike at the root of, sap the foundations of, spring a mine, blow up, ravage with fire and sword; cast to the dogs; eradicate &c H0238
 
 Adj:
   dissolved, decomposed, disintegrating, crumbling, unravelling, insubstantial, porous, dissolute
   disintegrated
+  destroyed &c v.; perishing &c v.; trembling to its fall, nodding to its fall, tottering to its fall; in course of destruction &c n.; extinct
+  all-destroying, all-devouring, all-engulfing
+  destructive, subversive, ruinous, devastating; incendiary, deletory†; destroying &c n.; suicidal; deadly &c (killing) H0713
 
 Adv:
   to pieces, to bits, into its elements, asunder
   in dissolution
+  with crushing effect, with a sledge hammer
 
 Phr:
   things fall apart

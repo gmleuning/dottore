@@ -10,7 +10,7 @@ It is one web page, `editions/dottore.html` (with its logos beside it), online a
 
 ## Using it
 
-**Search.** Type a word or phrase, in English or German. Every entry that contains it is listed, with the matching lines highlighted. Entries whose headword matches come first, and the rest follow in the order of the system, so the list itself shows where the word lives: *light* turns up in Physics, in the feeling soul, in the religion of light and in the lightness of comedy. Above the results, a one-line list of entries (click ▸ to open it) jumps to each.
+**Search.** Type a word or phrase, in English or German. Every entry that contains it is listed, with the matching lines highlighted. Entries whose headword matches come first, then the entries with the most matching words, and ties follow the order of the system. The list shows where the word lives: *light* turns up in Physics, in the feeling soul, in the religion of light and in the lightness of comedy. Above the results, a one-line list of entries (click ▸ to open it) jumps to each.
 
 **Tips for good results:**
 
