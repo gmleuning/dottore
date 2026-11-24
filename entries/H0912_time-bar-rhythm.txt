@@ -6,7 +6,7 @@ HGloss: The measurement of tone in time: beat, bar, rhythm.
 
 N:
   time, bar, rhythm; tempo, measure, metre, beat, pulse, cadence, syncopation, time signature
-  periodicity, alternation
+  periodicity, alternation, alternity†
   intonation, tone
   meter, foot, numbers, accentuation &c H0599, dactyl, spondee, trochee, anapest
   syncope

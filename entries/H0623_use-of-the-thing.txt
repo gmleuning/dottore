@@ -12,7 +12,7 @@ N:
   expenditure, waste
   forbearance, abstinence, disuse, relinquishment &c H0624, desuetude &c H0431, disusage†
   misuse, misusage, misemployment†, misapplication, misappropriation
-  abuse, profanation, prostitution, desecration, waste &c H0694
+  abuse, profanation, prostitution, desecration, waste &c H0694, stupration†, cuckoldom†, advoutry†
 
 V:
   use, utilize, employ, consume, enjoy, avail oneself of, wear out
@@ -22,17 +22,17 @@ V:
   ply, work, wield, handle, manipulate, play, play off, exert, practice, profit by, resort to, have recourse to, recur to, take betake oneself to, take up with, take advantage of, lay one's hands on, try
   spend, expend, exhaust
   not use, do without, dispense with, let alone, not touch, forbear, abstain, spare, waive, neglect, keep back, reserve
-  lay up, lay by, lay on the shelf, keep on the shelf, lay up in ordinary, lay up in a napkin, shelve, set aside, put aside, lay aside, leave off, have done with, supersede, discard &c H0228, dismiss, give warning
+  lay up, lay by, lay on the shelf, keep on the shelf, lay up in ordinary, lay up in a napkin, shelve, set aside, put aside, lay aside, leave off, have done with, supersede, discard &c H0228, dismiss, give warning, dehort†
   throw aside &c H0624, make away with &c H0114, cast overboard, heave overboard, throw overboard, cast to the dogs, cast to the winds, dismantle &c H0196
   lie unemployed, remain unemployed
   misemploy, misapply, misappropriate
   desecrate, profane, prostitute: waste &c H0694, overtask, overtax, overwork: squander &c H0614
-  cut blocks with a razor, employ a steam engine to crack a nut, catch at a straw
+  cut blocks with a razor, employ a steam engine to crack a nut, catch at a straw, carry owls to Athens†
 
 Adj:
   useful, usable, used, utilitarian, consumable, serviceable
   well-worn, well-trodden
-  not used, unemployed, unapplied, undisposed of, unspent, unexercised, untouched, untrodden, unessayed†, ungathered†, unculled, uncalled for, not required
+  not used, unemployed, unapplied, undisposed of, unspent, unexercised, untouched, untrodden, unessayed†, ungathered†, unculled, uncalled for, not required, unhandseled†, unnurtured†, unlicked†
   disused, done with
   misused
   usufructuary
@@ -50,3 +50,4 @@ Phr:
   use it or lose it
   to make use of
   to wear out
+  ludere cum sacris [Lat.]

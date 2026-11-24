@@ -25,12 +25,15 @@ Adv:
 
 F:
   German: Einzelheit, Begriff
-  Greek: eidolon
+  Greek: eidolon, katalēpsis
   Arabic: maʿqūl [intelligible]
   Sanskrit: jāti [universal, genus]
   Korean: gaenyeom [concept]
+  Latin: comprehensio
 
 Phr:
   thoughts without content are empty, intuitions without concepts are blind [Kant]
   get one's head around
   to the concept
+  a maximis ad minima [Lat.], et hoc genus omne [Lat.],etc
+  et coetera [Lat.]

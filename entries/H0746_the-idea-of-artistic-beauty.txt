@@ -15,7 +15,7 @@ V:
 
 Adj:
   ideal, beautiful, aesthetic
-  in good taste, cute, tasteful, tasty, unaffected, pure, chaste, classical, attic, cultivated, refined, dainty, esthetic, artistic, elegant &c H0926, euphemistic
+  in good taste, cute, tasteful, tasty, unaffected, pure, chaste, classical, attic, cultivated, refined, dainty, esthetic, artistic, elegant &c H0926, euphemistic, unlabored†
 
 Adv:
   ideally, beautifully

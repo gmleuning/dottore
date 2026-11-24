@@ -8,15 +8,15 @@ N:
   cardiac system; heart, ventricles, atria, auricles, valves, pulse, heartbeat, systole, diastole; the seat of life
   pulsation, rhythm
   the circulatory centre, ventricle
-  ticker [Slang], heartstrings, heart muscle, myocardium, pericardium, endocardium, mitral valve, aortic valve, septum, pacemaker, sinoatrial node, coronary arteries, heart rate, resting heart rate, heart murmur, arrhythmia, tachycardia, bradycardia, fibrillation, palpitations, angina, heart attack, cardiac arrest, heart failure, electrocardiogram, ECG
+  ticker [Slang], heartstrings, heart muscle, myocardium, pericardium, endocardium, mitral valve, aortic valve, septum, pacemaker, sinoatrial node, coronary arteries, heart rate, resting heart rate, heart murmur, arrhythmia, tachycardia, bradycardia, fibrillation, palpitations, angina, heart attack, cardiac arrest, heart failure, electrocardiogram, ECG, dissepiment†
 
 V:
   beat, pulse, pump, throb, palpitate, pound
   pulsate
-  race, flutter, skip a beat, miss a beat, hammer, thump, go pit-a-pat, arrest, stop
+  race, flutter, skip a beat, miss a beat, hammer, thump, go pit-a-pat, arrest, stop, interpel†
 
 Adj:
-  cardiac, cordial, cardiovascular, pulsing, beating
+  cardiac, cordial, cardiovascular, pulsing, beating, cardiacal†
   cardial, pulsatile
   coronary, myocardial, pericardial, cordate, heart-shaped, racing, pounding, thumping
 

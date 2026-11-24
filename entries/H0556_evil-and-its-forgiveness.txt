@@ -6,8 +6,8 @@ HGloss: The acting conscience's confession of its evil and the judging conscious
 
 N:
   evil and its forgiveness; evil, wickedness, wrong, sin, transgression; confession, avowal, admission; forgiveness, pardon, absolution, remission, amnesty, reconciliation, clemency, mercy, grace, the reconciling yea; the hard heart, judgment, hypocrisy of the judge
-  condonation, oblivion, indulgence
-  acquittal, exculpation, exoneration
+  condonation, oblivion, indulgence, indulgency†, vouchsafement†
+  acquittal, exculpation, exoneration, acquitment†, compurgation†
   acknowledgment, confessional, shrift
   conciliation, reconcilement, reconciliation &c H0720, propitiation
   the breaking of the hard heart, the reconciling Yes, the word of reconciliation, the judging consciousness, the acting consciousness
@@ -19,7 +19,7 @@ V:
   forgive and forget, condone, think no more of, let bygones be bygones, shake hands, forget an injury
   acknowledge, own up to, make a clean breast
   own
-  excuse, exonerate &c H0703
+  excuse, exonerate &c H0703, assoil†
 
 Adj:
   evil, wicked, sinful; forgiving, merciful, clement, reconciled, contrite
@@ -31,9 +31,12 @@ Adv:
   forgivingly, mercifully, in reconciliation
 
 F:
-  German: Versöhnung, das versöhnende Ja
+  German: Versöhnung, das versöhnende Ja, vergeben
   Arabic: tawba [repentance]
   Sanskrit: kṣamā [forgiveness]
+  Greek: syngignōskein
+  Latin: ignoscere, remittere
+  Spanish: perdonar
 
 Phr:
   the wounds of the spirit heal, and leave no scars behind [Hegel]
@@ -41,3 +44,8 @@ Phr:
   judge not, that ye be not judged [Bible]
   to forgive and forget
   to bury the hatchet
+  veniam petimusque damusque vicissim [Lat.] [Horace]
+  more in sorrow than in anger
+  comprendre tout c'est tout pardonner [Fr.]
+  the offender never pardons [Herbert]
+  bonis nocet quisquis pepercerit malis [Lat.] [Syrus]

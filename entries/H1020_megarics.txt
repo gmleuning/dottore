@@ -7,12 +7,12 @@ HGloss: The Megarics, who held the good to be one, and practiced the dialectic o
 N:
   Megarics; Euclides of Megara, Eubulides, Diodorus Cronus, Stilpo, eristic, paradoxes, the liar paradox, the sorites, the bald man, the horned man, the Master Argument
   the Megarian school, the Megaric school, the Megarians, Megarianism, the Eristics, the Dialecticians, Euclid of Megara, Ichthyas, Alexinus, Bryson, Philo the Dialectician
-  dialectic, logic-chopping, sophism, fallacy, puzzle, aporia, catch-question, captious argument, elenchus, reductio, the heap, the veiled man, the hooded man, the Electra
+  dialectic, logic-chopping, sophism, fallacy, puzzle, aporia, catch-question, captious argument, elenchus, reductio, the heap, the veiled man, the hooded man, the Electra, elench†, quillet†
   the one Good, the unity of the good, Eleaticism, the universal, denial of potentiality, denial of becoming
 
 V:
   dispute, paradox, quibble
-  cavil, chop logic, split hairs, wrangle, confute, refute, entrap, perplex, argue captiously, reduce to absurdity, pose paradoxes, deny motion
+  cavil, chop logic, split hairs, wrangle, confute, refute, entrap, perplex, argue captiously, reduce to absurdity, pose paradoxes, deny motion, intrap†
 
 Adj:
   Megarian, eristic, paradoxical

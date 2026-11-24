@@ -12,7 +12,7 @@ N:
 
 V:
   balance, counterbalance, compensate, offset, preponderate, predominate, outweigh, tip the balance, hang in the balance
-  countervail, overbalance
+  countervail, overbalance, compense†, outbalance†
   vary inversely
 
 Adj:

@@ -5,7 +5,7 @@ Gloss: The shaping of oneself by giving up one's natural self; education as self
 HGloss: The self's formation through the alienation of its natural being, culture as the self's self-sacrifice.
 
 N:
-  culture as the alienation of natural being; self-formation, self-cultivation, self-discipline, renunciation of nature, sublimation, socialization, civilizing process, education of the natural self, taming
+  culture as the alienation of natural being; self-formation, self-cultivation, self-discipline, renunciation of nature, sublimation, socialization, civilizing process, education of the natural self, taming, circuration†, zoohygiantics†, farriery†
   self-denial
   formation, education, self-estrangement, self-renunciation, self-alienation, externalization, refinement
 

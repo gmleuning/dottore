@@ -24,7 +24,10 @@ Adv:
 
 F:
   German: Verwirklichung, Weltlichkeit, Sittlichkeit, Beruf
-  Latin: saeculum, regnum Dei
+  Latin: saeculum, regnum Dei, officium, professio, vocatio
+  French: métier
+  Greek: ergon, ponos, klēsis
+  Hebrew: tafqid
 
 Phr:
   the kingdom of God is within you [Bible]

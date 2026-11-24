@@ -21,6 +21,9 @@ Adv:
   imaginatively
   vividly, graphically, pictorially, in images
 
+F:
+  Italian: meraviglia [wonder, the poet's aim] [Marino]
+
 Phr:
   to see a world in a grain of sand [Blake]
   bodying forth the forms of things unknown

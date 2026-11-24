@@ -10,12 +10,12 @@ N:
   lip homage, lip service, hollowness, mere show, double dealing, cant, humbug, jesuitism, pharisaism
   pretense, pretext, false plea &c H0670, subterfuge, make-believe, sham &c H0647
   sophistry, casuistry, jesuitry, special pleading
-  artifice, dodge, sidestep
+  artifice, dodge, sidestep, logan†, loggan†, vibroscope†
   shiftiness, dissimulation
 
 V:
   dissemble, dissimulate, shift, equivocate, evade, prevaricate, shuffle, waffle
-  misrepresent, belie, falsify, distort, palter
+  misrepresent, belie, falsify, distort, palter, miscite†
   feign, pretend, play a double game, act a part
   pervert, quibble, elude, gloss over
   waver, vacillate
@@ -34,6 +34,7 @@ F:
   German: ein ganzes Nest gedankenloser Widersprüche [Hegel, Phenomenology ¶631, adapting Kant's 'ein ganzes Nest von dialektischen Anmaßungen', Critique of Pure Reason B637]
   Latin: dissimulatio, suppressio veri, suggestio falsi &c H0647
   Arabic: nifāq [hypocrisy]
+  Italian: furbizia [artful cunning], in petto [kept in the breast, unannounced]
 
 Phr:
   a whole nest of thoughtless contradictions [Hegel, Phenomenology ¶631, adapting Kant, Critique of Pure Reason B637]

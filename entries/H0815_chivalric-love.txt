@@ -29,7 +29,11 @@ F:
   French: amour courtois
   Occitan: fin'amor
   Arabic: ʿudhrī love [chaste, unrequited love], ghazal [love lyric]
+  Italian: cicisbeo [a married woman's escort]
+  Spanish: donjuanismo
 
 Phr:
   love conquers all, omnia vincit amor [Lat.] [Virgil]
   a damsel in distress
+  faint heart neer won fair lady
+  kisses honeyed by oblivion [G. Eliot]

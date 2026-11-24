@@ -5,7 +5,7 @@ Gloss: The supposed power of sensing hidden metals and water.
 HGloss: The soul's immediate sympathy with metals and water, a sentience of the elemental earth.
 
 N:
-  metal- and water-divining; divining, dowsing, water witching, rhabdomancy, divining rod, dowsing rod, hazel twig, pendulum; dowser, diviner, water witch
+  metal- and water-divining; divining, dowsing, water witching, rhabdomancy, divining rod, dowsing rod, hazel twig, pendulum; dowser, diviner, water witch, lamp of Aladdin†
 
 V:
   dowse, divine, witch

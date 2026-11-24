@@ -19,7 +19,7 @@ V:
 
 Adj:
   dual, dualistic, two-world, phenomenal and noumenal, sensible and supersensible, inverted, reversed, mirror-image
-  twin, double
+  twin, double, biparous†, conduplicate†, biduous†, binate†, diphyletic†, dispermic†, unijugate†
   phenomenal, noumenal
 
 Adv:
@@ -29,7 +29,7 @@ Adv:
 F:
   Latin: mundus sensibilis et intelligibilis
   Arabic: ẓāhir wa-bāṭin [outer and inner], ʿālam al-shahāda wa-l-ghayb [the visible and the unseen world]
-  Sanskrit: saṃvṛti and paramārtha [conventional and ultimate truth]
+  Sanskrit: saṃvṛti and paramārtha [conventional and ultimate truth], dve satye [the two truths] [Nāgārjuna]
   Korean: jeondoen segye [inverted world]
 
 Phr:

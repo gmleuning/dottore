@@ -6,22 +6,22 @@ HGloss: The fitness of each part to its function: bearing and being borne, colum
 
 N:
   specification of fitness for purposes; fitness, aptness, suitability, appropriateness, decorum, commodity
-  relevancy, pertinence, aptitude, applicability
+  relevancy, pertinence, aptitude, applicability, pertinencey†, sortance†, coaptation†
   propriety, seemliness
   adaptation, function, the bearing and the borne, support and load, column and beam, wall and roof
   relevance
   trabeation, architrave, post-and-lintel
 
 V:
-  fit, suit, adapt
+  fit, suit, adapt, fadge†
   accommodate, adjust &c H0045, regulate
   serve, bear, support, carry, answer
 
 Adj:
-  fit, apt, suitable, appropriate, commodious
+  fit, apt, suitable, appropriate, commodious, idoneous†
   seasonable, meet &c H0196
   expedient, convenient, fitting, proper, becoming, befitting
-  fitted, suited, functional, load-bearing, supporting
+  fitted, suited, functional, load-bearing, supporting, dorsigerous†
 
 Adv:
   fittingly, aptly

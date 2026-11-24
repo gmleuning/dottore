@@ -12,7 +12,7 @@ N:
   conciliation, reconcilement, reconciliation &c H0720
   absolution
   restitution &c H0651
-  at-one-ment, the Redeemer, the Saviour, the Mediator, the Lamb of God, the Crucifixion, Calvary, Golgotha, the sacrifice, satisfaction, justification, sanctification, grace, forgiveness, pardon, remission of sins, peace with God, reunion, restoration, reintegration, the negation of the negation, the speculative Good Friday, the Ascension, Easter
+  at-one-ment, the Redeemer, the Saviour, the Mediator, the Lamb of God, the Crucifixion, Calvary, Golgotha, the sacrifice, satisfaction, justification, sanctification, grace, forgiveness, pardon, remission of sins, peace with God, reunion, restoration, reintegration, the negation of the negation, the speculative Good Friday, the Ascension, Easter, theopathy†
 
 V:
   reconcile, atone, redeem, save, die, rise
@@ -26,7 +26,7 @@ Adj:
   reconciling, redemptive, atoning, salvific, risen
   saved
   extricable, redeemable, rescuable
-  conciliatory, propitiatory, expiatory, piacular, mediatorial, soteriological, sacrificial, vicarious, redeeming, saving, forgiving, restorative, reconciled, atoned, forgiven, justified, crucified, kenotic
+  conciliatory, propitiatory, expiatory, piacular, mediatorial, soteriological, sacrificial, vicarious, redeeming, saving, forgiving, restorative, reconciled, atoned, forgiven, justified, crucified, kenotic, subdititious†
 
 Adv:
   redemptively

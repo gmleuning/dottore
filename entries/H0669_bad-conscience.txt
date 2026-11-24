@@ -24,7 +24,7 @@ Adj:
   guilty, conscience-stricken, remorseful, uneasy, compunctious
   penitent, repenting, repentant, contrite, conscience- smitten, self-accusing, self-convicted
   unreconstructed, unregenerate, unreformed, unrepented†, unreclaimed†, unatoned
-  lost, incorrigible, irreclaimable
+  lost, incorrigible, irreclaimable, breachy†
   impenitent, uncontrite, obdurate, hard, hardened, seared, recusant, unrepentant, relentless, remorseless, graceless, shriftless†
   knowing
 
@@ -43,3 +43,8 @@ Phr:
   conscience does make cowards of us all [Hamlet]
   a guilty conscience
   to know better
+  peccavi
+  erubuit [Lat.]
+  salva res est [Lat.] [Terence]
+  Tu l'as voulu [Fr.], Georges Dandin
+  and wet his grave with my repentant tears [Richard III]

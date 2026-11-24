@@ -5,19 +5,19 @@ Gloss: Quantity taken either as continuous, an unbroken whole like a line, or as
 HGloss: Quantity posited as continuity, an unbroken self-equality, and as discreteness, a plurality of ones; each contains the other.
 
 N:
-  continuous and discrete magnitude; continuity, continuum, seamlessness, uninterruptedness, unbrokenness, connectedness; flow, stretch, extension, line; discreteness, discontinuity, separateness, distinctness, granularity, graininess, atomicity, digitality; units, ones, items, members, quanta; the digital and the analogue; the continuous and the discontinuous; grain, particle, bit, quantum
+  continuous and discrete magnitude; continuity, continuum, seamlessness, uninterruptedness, unbrokenness, connectedness; flow, stretch, extension, line; discreteness, discontinuity, separateness, distinctness, granularity, graininess, atomicity, digitality; units, ones, items, members, quanta; the digital and the analogue; the continuous and the discontinuous; grain, particle, bit, quantum, abjunction†, cataclasm†, inconnection†
   consecution, consecutiveness, succession, round, suite, progression, series, train chain, catenation, concatenation, scale, gradation, course, ceaselessness, constant flow, unbroken extent
-  disjunction &c H0293, anacoluthon†, interruption, break, fracture, flaw, fault, crack, cut, gap &c H0218, solution of continuity, caesura, broken thread, parenthesis, episode, rhapsody, patchwork, intermission, alternation &c H0222, dropping fire
+  disjunction &c H0293, anacoluthon†, interruption, break, fracture, flaw, fault, crack, cut, gap &c H0218, solution of continuity, caesura, broken thread, parenthesis, episode, rhapsody, patchwork, intermission, alternation &c H0222, dropping fire, transposal†, anastrophy†, hyperbaton†, anastrophe†, hypallage†, synchysis†, tmesis†
   disjunction, disconnection, isolation
 
 V:
   continue, extend, stretch, run on, flow; discretize, quantize, digitize, break up, divide, segment, partition, chunk; count &c H0046
 
 Adj:
-  continuous, continual, unbroken, uninterrupted, seamless, smooth, connected, analogue, analog; discrete, discontinuous, separate, distinct, granular, grainy, particulate, atomic, digital, quantized, countable, numerable
-  continued, consecutive, progressive, gradual, serial, successive, immediate, entire, linear, in a row, unintermitting†, unremitting, unrelenting &c H0380, perennial, evergreen, constant
+  continuous, continual, unbroken, uninterrupted, seamless, smooth, connected, analogue, analog; discrete, discontinuous, separate, distinct, granular, grainy, particulate, atomic, digital, quantized, countable, numerable, unsevered†, unclipped†
+  continued, consecutive, progressive, gradual, serial, successive, immediate, entire, linear, in a row, unintermitting†, unremitting, unrelenting &c H0380, perennial, evergreen, constant, aoristic†, intransient†, longeval†, diuturnal†, sempervirent†, sempervirid†, unshifting†
   disjoined, disjunctive, disparate, apart, asunder, loose
-  unsuccessive†, broken, interrupted, disconnected, unconnected, fitful &c H0222, spasmodic, desultory, intermitting, occasional, intermittent, alternate, recurrent &c H0222
+  unsuccessive†, broken, interrupted, disconnected, unconnected, fitful &c H0222, spasmodic, desultory, intermitting, occasional, intermittent, alternate, recurrent &c H0222, immethodical†
   intact, undivided
   sporadic
 
@@ -35,3 +35,4 @@ Phr:
   la nature ne fait jamais des sauts [Fr.] [Leibniz, New Essays, Preface]
   drop by drop, gutta cavat lapidem [Lat.]
   in an unbroken line
+  like 'angel visits few and far between' [Campbell]

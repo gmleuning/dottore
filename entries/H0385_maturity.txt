@@ -5,7 +5,7 @@ Gloss: The age of life in which a person accepts their place in the world and wo
 HGloss: The recognition of the objective necessity of the world, the man who works within it and finds his satisfaction there.
 
 N:
-  maturity; adulthood, manhood, womanhood, prime of life, middle age, ripeness, full growth, mature years, majority, coming of age, responsibility, realism, settledness, accommodation, worldliness, vocation, career, livelihood
+  maturity; adulthood, manhood, womanhood, prime of life, middle age, ripeness, full growth, mature years, majority, coming of age, responsibility, realism, settledness, accommodation, worldliness, vocation, career, livelihood, feminality†, muliebrity†, orthology†
   adolescence, pubescence, adultism, adultness, virility, maturity full age, ripe age, flower of age, meridian of life, spring of life
   man &c H0387, woman &c H0387, no chicken
   readiness, mellowness
@@ -29,7 +29,7 @@ Adv:
   maturely
 
 F:
-  German: Reife
+  German: Reife, Torschlusspanik [panic at the closing gate]
   Latin: assume the toga virilis
   Sanskrit: gṛhastha [householder stage]
 

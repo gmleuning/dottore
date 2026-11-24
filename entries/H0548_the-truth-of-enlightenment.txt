@@ -6,9 +6,9 @@ HGloss: The truth of the Enlightenment, the useful and an empty supreme being.
 
 N:
   the truth of enlightenment; utility, usefulness, the useful, utilitarianism, instrumental reason, deism, the supreme being, pure matter, materialism, the empty beyond
-  efficacy, efficiency, adequacy, service, stead, help &c H0706, applicability, subservience &c H0196, function &c H0695, value, worth &c H0664, money's worth, productiveness &c H0294, utilization &c H0623, step in the right direction
+  efficacy, efficiency, adequacy, service, stead, help &c H0706, applicability, subservience &c H0196, function &c H0695, value, worth &c H0664, money's worth, productiveness &c H0294, utilization &c H0623, step in the right direction, ableness†, enablement†
   atheism, hylotheism†, positivism, nihilism
-  atheist, skeptic, unbeliever, deist, infidel, freethinker, rationalist
+  atheist, skeptic, unbeliever, deist, infidel, freethinker, rationalist, limitarian†, ubiquitarian†, giaour†, somatist†, theophobist†
   natural philosophy, physical science
   usefulness &c H0196, benefit
   common weal, commonwealth public good, public interest, utilitarianism &c H0664
@@ -31,10 +31,14 @@ Adv:
   for use
 
 F:
-  German: Nützlichkeit
+  German: Nützlichkeit, Enttäuschung
   Latin: cui bono &c H0660
-  French: être suprême
+  French: être suprême, désillusion
   Arabic: maṣlaḥa [public interest, utility]
+  Spanish: desengaño [disenchantment]
+  Catalan: desengany
+  Italian: disinganno
+  Portuguese: desengano
 
 Phr:
   everything is useful [Hegel on Enlightenment]

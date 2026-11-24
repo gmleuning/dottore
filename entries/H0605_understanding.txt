@@ -31,10 +31,15 @@ Adv:
   understandably
 
 F:
-  Greek: dianoia
-  French: nous
+  Greek: dianoia, epinoia, logistikon
+  French: nous, esprit de géométrie [Pascal], sens commun, entendement, signification, pensée
   Sanskrit: buddhi
   Korean: oseong [understanding]
+  Latin: sensus communis, intellectus
+  Arabic: ʿaql
+  German: Vernunft, Intellekt, Sinn, Verstehen
+  Italian: intelletto, significato
+  Spanish: intendimiento, intelecto
 
 Phr:
   I see what you mean

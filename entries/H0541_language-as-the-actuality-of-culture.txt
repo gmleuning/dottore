@@ -8,7 +8,7 @@ N:
   language as the actuality of culture; language, discourse, speech, eloquence, rhetoric, conversation, wit, the art of conversation, polite discourse, the salon
   phraseology &c H0599, speech &c H0599, tongue, vernacular, mother tongue, native tongue
   interlocution, colloquy, dialogue
-  oratory, elocution, declamation, flow of words, command of words
+  oratory, elocution, declamation, flow of words, command of words, teratology†
   the spoken word, utterance, the existence of the I, the word that counts, the language of culture
 
 V:
@@ -27,9 +27,11 @@ Adv:
   in speech, by the word
 
 F:
-  French: esprit
+  French: esprit, salonnière, causerie, discours [discourse] [Foucault], formation discursive [Foucault]
   Arabic: balāgha [eloquence]
   Sanskrit: vāc [speech]
+  Chinese: huayuquan [the right to speak, discursive power]
+  Spanish: tertulia [salon, conversational circle]
 
 Phr:
   language is the existence of the self as self [Hegel]

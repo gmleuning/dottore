@@ -9,7 +9,7 @@ N:
   form, beauty unadorned, natural beauty, symmetry &c H0755, gloss, good effect, good looks, belle tournure†, trigness†, brilliancy, radiance, splendor, gorgeousness, magnificence, sublimity, sublimification†
   the beautiful, le beau ideal
   taste, refinement
-  gracefulness, concinnity†
+  gracefulness, concinnity†, Atticism†, classicalism†
   the beautiful as such, the nature of beauty, the essence of beauty, the notion of beauty
 
 V:
@@ -33,13 +33,21 @@ Adv:
   delicately
 
 F:
-  German: das Schöne, das sinnliche Scheinen der Idee
-  Latin: pulchritudo
-  Greek: to kalon
+  German: das Schöne, das sinnliche Scheinen der Idee, Schönheit, Geschmack
+  Latin: pulchritudo, sensus communis [the shared sense of taste] [Kant], gustus
+  Greek: to kalon, kallos
   Sanskrit: rasa [aesthetic flavour]
   Japanese: yūgen [profound grace]
+  French: beauté, sens commun
+  Italian: bellezza, gusto
 
 Phr:
   beauty is truth, truth beauty [Keats]
   the beautiful is the sensuous shining of the idea [Hegel]
   beauty is in the eye of the beholder
+  auxilium non leve vultus habet [Lat.] [Ovid]
+  beauty born of murmuring sound [Wordsworth]
+  flowers preach to us if we will hear [C.G. Rossetti]
+  gratior ac pulchro veniens in corpore virtus [Lat.] [Virgil]
+  none but the brave deserve the fair [Dryden]
+  thou who hast the fatal gift of beauty [Byron]

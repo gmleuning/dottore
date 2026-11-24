@@ -20,6 +20,7 @@ N:
   boutique, cleaners, bookstore, deli, merchandising, contraband, bookshop, drugstore, consignment, barbershop, pizzeria, commissary, bodega
   business line, second-hand store, computer store, product line, head shop, food shop, building supply store, building supply house, gift shop, software product, dress shop, fix-it shop, beauty shop, loan office, chain store, meat market, piece goods, yard goods, hat shop, clothing store, package store, pet shop, pizza shop, flower store, repair shop, hardware store, candy store, shoe-shop, shoe store, shoe shop, tobacco shop, junk shop, convenience store, liquor store, betting shop, specialty store, beauty salon, butcher shop, novelty shop, dry cleaners, mens store, pizza parlor, beauty parlor, beauty parlour, florist shop, service department, loss leader, post exchange, fashion collection, small stores, drawing card, generic drug, sales booth, tuck shop, slop chest, coffee stall
   selling, marketing, steal, beloved, dearest, hawking
+  vendibleness†, deadhead†
 
 V:
   sell, buy, purchase, vend, market, retail, deal, trade
@@ -34,7 +35,7 @@ Adj:
   commercial, mercantile, saleable, marketable, purchased
   trading, interchangeable, staple, in the market
   salable, vendible, unsalable, unpurchased†
-  dear, high, high priced, of great price, expensive, costly, precious, dear bought
+  dear, high, high priced, of great price, expensive, costly, precious, dear bought, worth a Jew's eye†
   at a premium
   not to be had, not to be had for love or money, beyond price, above price, priceless, of priceless value
   unreasonable, extravagant, exorbitant, extortionate, overpriced, more than it's woth
@@ -53,3 +54,10 @@ F:
 
 Phr:
   caveat emptor [Lat.] [let the buyer beware]
+  the customer is always right
+  chose qui plait est a demi vendue [Fr.]
+  prices looking up
+  le jeu ne vaut pas la chandelle [Fr.]
+  le cout en ote le gout [Fr.]
+  vel prece vel pretio [Lat.]
+  too high a price to pay, not worth it

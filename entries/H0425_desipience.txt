@@ -5,15 +5,15 @@ Gloss: Incoherent talk and thought; raving.
 HGloss: A rambling in which the mind cannot hold fast to anything, a self that loses its connecting thread.
 
 N:
-  desipience; rambling, raving, babbling, prattle, twaddle, drivel, gibberish, incoherence, wandering, maundering, delirium, rigmarole, word salad, logorrhoea
+  desipience; rambling, raving, babbling, prattle, twaddle, drivel, gibberish, incoherence, wandering, maundering, delirium, rigmarole, word salad, logorrhoea, evagation†
   nonsense, jargon, rant, balderdash
-  gabble
+  gabble, caquet†, bavardage†, bibble-babble†, gibble-gabble†
   frenzy
-  gibberish &c H0599
+  gibberish &c H0599, babu English†
 
 V:
-  ramble, rave, babble, prattle, drivel, maunder, wander, blather, blether, gibber, jabber
-  dote, drivel &c H0421
+  ramble, rave, babble, prattle, drivel, maunder, wander, blather, blether, gibber, jabber, maud†, mauder†, missay†
+  dote, drivel &c H0421, radoter†
   prate, chatter
   digress, meander, divagate
   mumble, mutter

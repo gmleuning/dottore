@@ -21,7 +21,7 @@ V:
 
 Adj:
   harmonic, consonant, dissonant, tonal, modal, contrapuntal, polyphonic
-  discordant, absonant†, out of tune, tuneless, unmusical, untunable†, unmelodious, immelodious†, unharmonious†, inharmonious, singsong, cacophonous, harsh &c H0264, jarring
+  discordant, absonant†, out of tune, tuneless, unmusical, untunable†, unmelodious, immelodious†, unharmonious†, inharmonious, singsong, cacophonous, harsh &c H0264, jarring, absonous†
   harmonious, harmonical†, in concord, in tune, in concert, unisonant†, concentual†, symphonizing†, isotonic, homophonous†, assonant, ariose†
   chordal, concordant, euphonious, attuned, triadic, diatonic
 

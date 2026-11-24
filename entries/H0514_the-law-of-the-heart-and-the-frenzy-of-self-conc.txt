@@ -6,12 +6,12 @@ HGloss: The heart that wants its law to be the world's, and that rages against t
 
 N:
   the law of the heart and the frenzy of self-conceit; sentimental idealism, idealism of the heart, self-righteousness, self-conceit, conceit, sanctimony, utopianism, moral fervour, rage against the world, misanthropy, paranoia, crusading zeal; Karl Moor [Schiller]
-  vanity, conceitedness, self-sufficiency, self-love, self-approbation
+  vanity, conceitedness, self-sufficiency, self-love, self-approbation, self-gratulation†
   the law of the heart, the heart's law, the madness of self-conceit, the throb of the heart for the welfare of mankind, sentimental reformism, derangement
 
 V:
   rail against the world, fulminate, crusade, rage, denounce, blame others
-  execrate, thunder against
+  execrate, thunder against, beshrew†
   demand, rave, impose
   loathe
 

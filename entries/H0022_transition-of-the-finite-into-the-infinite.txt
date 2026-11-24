@@ -10,8 +10,8 @@ N:
   jailbreak
 
 V:
-  transcend, surpass, exceed, overstep, overpass, outrun, outgrow, go beyond, get beyond, rise above, rise beyond, break through, break out, cross over; self-transcend, overcome oneself; elevate, exalt, sublimate; point beyond
-  overreach, overleap
+  transcend, surpass, exceed, overstep, overpass, outrun, outgrow, go beyond, get beyond, rise above, rise beyond, break through, break out, cross over; self-transcend, overcome oneself; elevate, exalt, sublimate; point beyond, outstep†
+  overreach, overleap, overgo†, overjump†, overskip†
   transgress
   transcend itself, pass over
 

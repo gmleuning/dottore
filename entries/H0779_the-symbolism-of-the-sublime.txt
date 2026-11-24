@@ -18,7 +18,7 @@ Adj:
   sublime, majestic, grand, awe-inspiring, awesome, exalted, lofty, overwhelming
   noble, high-minded, magnanimous
   august, dignified, majestic &c H0489
-  high, elevated, towering, soaring, elevated &c H0228
+  high, elevated, towering, soaring, elevated &c H0228, insessorial†
   imposing, solemn, transcendent, sacred
   superb, magnificent
   ineffable, exceeding, immeasurable
@@ -29,9 +29,9 @@ Adv:
   beyond all shape, beyond measure
 
 F:
-  German: das Erhabene
-  Latin: sublimitas
-  Greek: hypsos [Longinus]
+  German: das Erhabene, erhaben
+  Latin: sublimitas, sublimis
+  Greek: hypsos [Longinus], hypsēlos
   Arabic: jalāl [majesty, sublimity]
   Sanskrit: adbhuta [wonder]
 

@@ -5,8 +5,8 @@ Gloss: A judgment that affirms a quality of a thing, as "the rose is red."
 HGloss: The singular is a universal: the rose is red; the subject is not wholly its predicate, so the judgment is untrue.
 
 N:
-  positive judgment; affirmation, affirmative judgment, assertion, positive statement, yes, aye, yea, avowal, averment, declaration
-  affirmance, statement, allegation, predication, word, confirmation
+  positive judgment; affirmation, affirmative judgment, assertion, positive statement, yes, aye, yea, avowal, averment, declaration, sempiternity†, athanasia†
+  affirmance, statement, allegation, predication, word, confirmation, assentment†
   assent, admission, acknowledgment
   positive proposition, the simple assertion
 
@@ -37,3 +37,9 @@ Phr:
   the rose is red
   let your yea be yea [Bible]
   to say yes to
+  avec plaisir [Fr.]
+  chi tace accousente [It.]
+  the public mind is the creation of the Master-Writers [Disraeli]
+  you bet your sweet ass it is
+  what are we waiting for? whenever you're ready
+  anytime you're ready

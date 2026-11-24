@@ -23,6 +23,9 @@ Adv:
 
 F:
   Italian: concetto, disegno
+  French: dessein, dessin [design as intention and as drawing]
+  German: Zeichnung
+  Latin: designo
 
 Phr:
   disegno interno [It.] [inner design]

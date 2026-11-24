@@ -10,7 +10,7 @@ N:
   fusion, absorption
   loadstone
   core, concentration &c H0228
-  conflux†, congress, concurrence, convergency, appulse†, meeting, corradiation†
+  conflux†, congress, concurrence, convergency, appulse†, meeting, corradiation†, rendezvous
   point of convergence &c H0228, center &c H0218
   magnetic force
   the one One, the single One, the unity of the many
@@ -20,8 +20,8 @@ V:
   attract, draw, pull, draw together, gather, gather in, collect, concentrate, centralize, focus, converge, coalesce, unite, unify, consolidate, rally, magnetize, gravitate
   bring together
   combine, merge, fuse, melt into one
-  join, cluster, center round
-  render central, bring to a focus
+  join, cluster, center round, rendezvous
+  render central, bring to a focus, collect into a focus, bring into a focus
 
 Adj:
   attractive, centripetal, convergent, unifying, unitive, cohesive, magnetic, gravitational, focal, central, nuclear

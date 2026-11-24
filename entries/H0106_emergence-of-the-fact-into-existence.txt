@@ -19,7 +19,7 @@ V:
 
 Adj:
   emergent, emerging, nascent, issuing, actualized, realized, accomplished, ripe, ready, timely
-  going on, doing, current, in the wind, in the air, afloat, on foot, afoot, on the tapis†, at issue, in question, incidental
+  going on, doing, current, in the wind, in the air, afloat, on foot, afoot, on the tapis†, at issue, in question, incidental, agoing†
 
 Adv:
   in the event, in the fullness of time, when the time is ripe, at the right moment, in due course
@@ -27,13 +27,18 @@ Adv:
   into existence
 
 F:
-  German: die Sache, die Sache selbst, Hervorgang der Sache
-  Latin: res
+  German: die Sache, die Sache selbst, Hervorgang der Sache, Sachverhalt [state of affairs] [Wittgenstein], Ereignis [the event of appropriation] [Heidegger], Faktum
+  Latin: res, status rerum, status quaestionis, dispositio rei, complexe significabile, factum
   Greek: pragma, kairos
-  French: fait accompli
+  French: fait accompli, événement, appropriement, sidération, amêmement, réalité, état de chose, état-de-chose, contenu propositionnel
 
 Phr:
   ripeness is all [King Lear]
   the readiness is all [Hamlet]
   when all conditions are present, the thing is there
   it comes to pass
+  that's the way the ball bounces, that's the way the cookie crumbles
+  you never know what may turn up, you never know what the future will bring
+  breasts the blows of circumstance [Tennyson]
+  so runs round of life from hour to hour [Keble]
+  sprinkled along the waste of years [Tennyson]

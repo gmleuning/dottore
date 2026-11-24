@@ -7,9 +7,9 @@ HGloss: The lungs and liver, the blood's process with air and the inward digesti
 N:
   pulmonary and hepatic system; lungs, liver, respiration, bile, gall, spleen, humours, lights†
   the pulmonary organs, the hepatic organs
-  lung, bellows [Slang], windpipe, trachea, bronchus, bronchi, bronchial tubes, bronchioles, alveoli, air sacs, pleura, diaphragm, larynx, voice box, Adam's apple, epiglottis, pharynx
+  lung, bellows [Slang], windpipe, trachea, bronchus, bronchi, bronchial tubes, bronchioles, alveoli, air sacs, pleura, diaphragm, larynx, voice box, Adam's apple, epiglottis, pharynx, punkah†, airhole†, breathinghole†, weasand†, ventiduct†, jhilmil†
   gall bladder, black bile, yellow bile, choler, phlegm, pancreas, kidneys, adrenal glands, pluck, offal, liver and lights, giblets, chitterlings, sweetbreads, haslet, foie gras
-  asthma, consumption, phthisis†, tuberculosis, pneumonia, emphysema, bronchitis, jaundice, hepatitis, cirrhosis, gallstones, smoker's cough
+  asthma, consumption, phthisis†, tuberculosis, pneumonia, emphysema, bronchitis, jaundice, hepatitis, cirrhosis, gallstones, smoker's cough, London fog†, icterus†, xantho- cyanopia†
 
 V:
   breathe, respire, filter, purify, secrete
@@ -18,7 +18,7 @@ V:
 
 Adj:
   pulmonary, pulmonic, hepatic, respiratory, biliary, splenetic
-  bronchial, pleural, laryngeal, tracheal, alveolar, bilious, jaundiced, liverish, lily-livered, choleric, splenic, wheezy, short of breath, out of breath, winded, puffed [Brit. Coll.]
+  bronchial, pleural, laryngeal, tracheal, alveolar, bilious, jaundiced, liverish, lily-livered, choleric, splenic, wheezy, short of breath, out of breath, winded, puffed [Brit. Coll.], anhelose†, dyspnaeal†, dyspnaeic†
 
 Adv:
   by the lungs, by the liver

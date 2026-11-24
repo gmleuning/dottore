@@ -10,8 +10,8 @@ N:
   covetousness, ravenousness
   hankering, coveting, aspiration, eagerness
   wish, fancy, fantasy, need, exigency
-  carnality
-  greediness, rapacity
+  carnality, tragalism†, sapphism†
+  greediness, rapacity, Alsatia†
   appetitive self-consciousness, the desiring self, immediate self-certainty
   the munchies [Slang], jones [U.S. Slang], itch, yen, FOMO [Slang], the hots [Slang]
   conation
@@ -24,7 +24,7 @@ V:
 
 Adj:
   desirous, desiring, appetitive, craving, avid, covetous, greedy, hungry, lustful, concupiscent
-  ravening, thirsty, athirst, famished
+  ravening, thirsty, athirst, famished, esurient†
   wishful
   eager, keen, dying for, devoured by desire
   immediate
@@ -40,6 +40,7 @@ F:
   Greek: orexis, epithymia
   Arabic: shahwa [appetite, desire]
   Sanskrit: tṛṣṇā [thirst, craving], kāma [desire]
+  French: appétition [Leibniz]
 
 Phr:
   self-consciousness is desire in general [Hegel]

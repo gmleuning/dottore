@@ -9,8 +9,8 @@ N:
   the war of the gods, the Giants, Cronus, Uranus, Prometheus, the overthrow of the Titans, the victory of Zeus, nature-powers and spiritual gods
 
 V:
-  overthrow, war, supplant, succeed, depose
-  battle, dethrone, vanquish, subdue, hurl down
+  overthrow, war, supplant, succeed, depose, uncrown†
+  battle, dethrone, vanquish, subdue, hurl down, unthrone†, disenthrone†, disbench†
 
 Adj:
   titanic, Olympian, theogonic, primeval, chthonic

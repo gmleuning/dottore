@@ -5,7 +5,7 @@ Gloss: The animal's assimilation of food.
 HGloss: The animal's assimilation of its food: the digestive process, a conflict in which the organism masters the external.
 
 N:
-  digestive process; digestion, ingestion, mastication, chewing, swallowing, deglutition, peristalsis, chylification, absorption, coction, concoction, metabolism
+  digestive process; digestion, ingestion, mastication, chewing, swallowing, deglutition, peristalsis, chylification, absorption, coction, concoction, metabolism, estuation†, elixation†
   eating, gulp, epulation†, manducation†, rumination, gluttony &c H0613
   imbibation†, ingurgitation†, suction, sucking, drinking
   elaboration
@@ -15,19 +15,20 @@ N:
   have the stomach of an ostrich, play a good knife and fork &c H0613
   pamper
   assimilation of food, nutrition, alimentation
-  grub [Slang], chow [Slang], nosh [Brit. Slang], scran [Brit. Slang], tucker [Austral.], eats, munchies, nibbles, snacks, scoff [Brit.], vittles, victuals, chuck [U.S. Slang], slop, comfort food, elevenses, din-dins, tea [Brit.], pig-out, food coma
-  produce, apple, treat, mix, meat, eggs, honey, provisions, lemon, pork, vitamin, organs, vegetable, hay, rack, coconut, greens, seafood, blackberry
-  citrus, nutrient, cling, pear, octopus, avocado, squid, roe, herbal, catfish, potion, melon, veg, veggie, eel, carp, veal, mackerel, shank, agar, raisin, mutton, smelt, prune, windfall, venison, haddock, perishable, flounder
+  grub [Slang], chow [Slang], nosh [Brit. Slang], scran [Brit. Slang], tucker [Austral.], eats, munchies, nibbles, snacks, scoff [Brit.], vittles, victuals, chuck [U.S. Slang], slop, comfort food, elevenses, din-dins, tea [Brit.], pig-out, food coma, prog†, cerealia†, cates†
+  produce, apple, treat, mix, meat, eggs, honey, provisions, lemon, pork, vitamin, organs, vegetable, hay, rack, coconut, greens, seafood, blackberry, bouilli†
+  citrus, nutrient, cling, pear, octopus, avocado, squid, roe, herbal, catfish, potion, melon, veg, veggie, eel, carp, veal, mackerel, shank, agar, raisin, mutton, smelt, prune, windfall, venison, haddock, perishable, flounder, atole†
   solid food, edible fruit, fresh food, rose apple, drinking water, garden truck, green goods, star fruit, passion fruit, fresh foods, blade apple, dried fruit, root vegetable, raw vegetable, frog legs, coconut meat
   rice, berry, trout, strawberry, lobster, pea, barley, herring, partridge, quail, dieting, savoy, whiting, yolk, eggplant, chou, lentil
   shrimp, prawn, garlic, peanut, water, dairy, organic, calorie
   carrot, potato, onion, cabbage, lettuce, tomato
   potato, spud [Coll.], tater [Coll.], tattie [Scot.], pratie [Ire.], murphy [Slang], white potato, Irish potato, earth apple, new potato, seed potato, sweet potato, yam
   chyle, chyme, eupepsia
+  hippophagy†, ichthyophagy†
 
 V:
-  digest, chew, masticate, swallow, absorb, break down, metabolize
-  eat, feed, fare, devour, take, bolt, snap, fall to, despatch, dispatch, discuss, take down, get down, gulp down, lay in, tuck in [Slang], lick, pick, peck, gormandize &c H0613, bite, champ, munch, cranch†, craunch†, crunch, nibble, gnaw, mumble
+  digest, chew, masticate, swallow, absorb, break down, metabolize, ingurgitate†
+  eat, feed, fare, devour, take, bolt, snap, fall to, despatch, dispatch, discuss, take down, get down, gulp down, lay in, tuck in [Slang], lick, pick, peck, gormandize &c H0613, bite, champ, munch, cranch†, craunch†, crunch, nibble, gnaw, mumble, incide†, levigate†, contund†, scranch†
   ingest, imbibe, take in
   drink in, drink up, quaff, sip, sup, suck, swig
   assimilate, nourish
@@ -40,7 +41,7 @@ V:
 
 Adj:
   digestive, peptic, gastric, digestible
-  eatable, edible, esculent†, comestible, alimentary, cereal, cibarious†, dietetic, culinary, nutritive, nutritious, succulent, potable, potulent†, bibulous
+  eatable, edible, esculent†, comestible, alimentary, cereal, cibarious†, dietetic, culinary, nutritive, nutritious, succulent, potable, potulent†, bibulous, alexipharmic†, alexiteric†
   gluttonous, greedy, gormandizing, edacious†, omnivorous, crapulent†, swinish
   avaricious &c H0614, selfish &c H0556
   pampered, overfed, overgorged†
@@ -54,8 +55,14 @@ Adv:
 
 F:
   French: dejeuner, table d'hote, dejeuner a la fourchette, batterie de cuisine
+  Spanish: sobremesa [lingering at table after the meal]
 
 Phr:
   one man's meat is another man's poison
   food for thought
   to stomach something
+  across the walnuts and the wine [Tennyson]
+  blessed hour of our dinners! [O. Meredith]
+  now good digestion wait on appetite, and health on both! [Macbeth]
+  who can cloy the hungry edge of appetite? [Richard II],
+  jejunus raro stomachus vulgaria temnit [Lat.] [Horace]

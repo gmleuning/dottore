@@ -22,7 +22,7 @@ V:
 
 Adj:
   particular
-  melodious, musical, melic†, tuneful, tunable, sweet, dulcet, canorous†, mellow, mellifluous, soft, clear, clear as a bell, silvery, euphonious, euphonic, euphonical†, symphonious, enchanting &c H0609, fine-toned, full-toned, silver-toned
+  melodious, musical, melic†, tuneful, tunable, sweet, dulcet, canorous†, mellow, mellifluous, soft, clear, clear as a bell, silvery, euphonious, euphonic, euphonical†, symphonious, enchanting &c H0609, fine-toned, full-toned, silver-toned, numerose†
   measured, rhythmical, diatonic†, chromatic, enharmonic†
   harmonious, harmonical†, in concord, in tune, in concert, unisonant†, concentual†, symphonizing†, isotonic, homophonous†, assonant, ariose†, consonant
   special, specific, rhythmic, harmonic, melodic, tonal
@@ -40,3 +40,4 @@ F:
 Phr:
   rhythm, harmony, melody
   time, harmony and melody
+  the hidden soul of harmony [Milton]

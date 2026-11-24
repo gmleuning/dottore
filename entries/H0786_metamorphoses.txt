@@ -11,7 +11,7 @@ N:
 
 V:
   metamorphose, transform, change shape, transmute, turn into
-  transfigure, transmogrify
+  transfigure, transmogrify, transume†
   change, shape-shift
 
 Adj:
@@ -24,6 +24,7 @@ Adv:
 
 F:
   Arabic: maskh [transformation]
+  Chinese: wuhua [the transformation of things; the butterfly dream] [Zhuangzi]
 
 Phr:
   in nova fert animus mutatas dicere formas corpora [Lat.] [Ovid]

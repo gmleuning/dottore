@@ -11,6 +11,7 @@ N:
   statute, canon &c H0702, ordinance
   ordering principle, free necessity
   lawfulness
+  thirdness [Peirce]
 
 V:
   govern, order, rule, regulate, organize, determine, direct

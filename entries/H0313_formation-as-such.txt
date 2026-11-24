@@ -21,7 +21,7 @@ V:
   vegetate
 
 Adj:
-  growing, burgeoning, sprouting, branching, ramifying, rank, lush
+  growing, burgeoning, sprouting, branching, ramifying, rank, lush, dendriform†, dendroid†, ramous†, filiciform†, filicoid†, subarborescent†, papilionaceous†
   vegetable, vegetal
   vegetative, proliferating
 

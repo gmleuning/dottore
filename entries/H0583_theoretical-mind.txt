@@ -7,21 +7,23 @@ HGloss: Mind as intelligence, which finds itself determined and makes what it fi
 N:
   theoretical mind; intelligence, cognition, the cognitive faculty, the knowing mind, theoretical reason, contemplation, speculative intellect
   intellect, mind, understanding, reason, thinking principle, rationality, cogitative faculties, cognitive faculties, discursive faculties, reasoning faculties, intellectual faculties, faculties, senses, consciousness, observation, percipience, intellection, association of ideas, instinct, conception, judgment, wits, intellectuality, brains, cognitive powers, intellectual powers, ability &c H0434, wisdom
-  capacity, comprehension, cuteness, sabe [U.S.], savvy [U.S.], parts, sagacity, mother wit, wit, esprit, gumption, quick parts, grasp of intellect, acuteness, acumen, subtlety, penetration, perspicacy†, perspicacity, discernment, due sense of, good judgment, discrimination &c H0606, cunning &c H0647, refinementhead, headpiece, upper story, long head, eagle eye, eagle- glance, eye of a lynx, eye of a hawk
+  capacity, comprehension, cuteness, sabe [U.S.], savvy [U.S.], parts, sagacity, mother wit, wit, esprit, gumption, quick parts, grasp of intellect, acuteness, acumen, subtlety, penetration, perspicacy†, perspicacity, discernment, due sense of, good judgment, discrimination &c H0606, cunning &c H0647, refinementhead, headpiece, upper story, long head, eagle eye, eagle- glance, eye of a lynx, eye of a hawk, catopsis†, atticism†
   knowledge, cognizance, cognoscence†, acquaintance, experience, ken [Scot.], privity†, insight, familiarity, apprehension, recognition, appreciation &c H0606, intuition, conscience, perception, precognition, acroamatics†
   sage, wise man, genius, master mind, master spirit of the age, longhead†, thinker, longhair
   theoretical spirit
+  overrefinement†
 
 V:
   know, cognize, contemplate, theorize, apprehend, take in
   conceive, comprehend, take, realize, understand, appreciate, fathom, make out, recognize, discern, perceive, see, get a sight-of
   appropriate
+  paralogize†
 
 Adj:
   theoretical, cognitive, intellectual, contemplative, speculative, intelligent
   thoughtful, meditative, reflective, philosophical
   knowing, acroamatic†
-  quick of apprehension, keen, acute, alive, brainy, awake, bright, quick, sharp, quick witted, keen witted, clear witted, sharp-eyed, sharp sighted, sharp witted, wide- awake, canny, shrewd, astute, clear-headed, farsighted, discerning, perspicacious, penetrating, piercing, argute†, quick-witted, nimble-witted, needle-witted, sharp as a needle, sharp as a tack, alive to, clever &c H0434, arch &c H0647, acute &c H0379
+  quick of apprehension, keen, acute, alive, brainy, awake, bright, quick, sharp, quick witted, keen witted, clear witted, sharp-eyed, sharp sighted, sharp witted, wide- awake, canny, shrewd, astute, clear-headed, farsighted, discerning, perspicacious, penetrating, piercing, argute†, quick-witted, nimble-witted, needle-witted, sharp as a needle, sharp as a tack, alive to, clever &c H0434, arch &c H0647, acute &c H0379, pawky†
   mental, rational, subjective, metaphysical, nooscopic†, spiritual, ghostly, psychical†, psychological, cerebral, animastic†, hyperphysical†, superphysical†, subconscious, subliminal
   intellective
   calculating, scheming
@@ -31,11 +33,51 @@ Adv:
 
 F:
   German: Intelligenz, Vernunft, Verstand
-  Latin: intellectus
+  Latin: intellectus, intelligere, concipere, comprehendere
   Greek: theōria
   French: nous, pas si bete
   Arabic: al-ʿaql al-naẓarī [theoretical intellect]
+  Italian: intelletto
 
 Phr:
   the life of the mind
   to put one's mind to
+  ens rationis [Lat.]
+  frons est animi janua [Lat.] [Cicero]
+  locos y ninos dicen la verdad [Sp.]
+  mens sola loco non exulat [Lat.] [Ovid]
+  my mind is my kingdom [Campbell]
+  stern men with empires in their brains [Lowell]
+  the mind, the music breathing from her face [Byron]
+  thou living ray of intellectual Fire [Falconer]
+  what's the matter? what next? consumed with curiosity
+  curiosity killed the cat, satisfaction brought it back
+  curiouser and curiouser [Alice in Wonderland]
+  one's eyes being opened
+  ompredre tout c'est tout pardonner [Fr.], to know all is to pardon all
+  empta dolore docet experientia [Lat.]
+  gnothi seauton [Gr.]
+  half our knowledge we must snatch not take [Pope]
+  Jahre lehren mehr als Bucher [Ger.], years teach more than books [Ger.]
+  knowledge comes but wisdom lingers [Tennyson]
+  les affaires font les hommes [Fr.]
+  nec scire fas est omnia [Lat.] [Horace]
+  the amassed thought and experience of innumerable minds [Emerson]
+  was ich nicht weiss macht mich nicht heiss [Ger.]
+  ignorance never settles a question [Disraeli]
+  quantum animis erroris inest! [Lat.] [Ovid]
+  small Latin and less Greek [B. Jonson]
+  that unlettered small-knowing soul [Love's Labor's Lost]
+  there is no darkness but ignorance [Twelfth Night]
+  aut regem aut fatuum nasci oportet [Lat.]
+  but with the morning cool reflection came [Scott]
+  flosculi sententiarum [Lat.]
+  mas vale saber que haber [Sp.]
+  mas vale ser necio que profiadol nemo solus sapit [Lat.] [Plautus]
+  nosce te [Lat.]
+  nullum magnum ingenium sine mixtura dementiae fuit [Lat.] [Seneca from Aristotle]
+  victrix fortunae sapientia [Lat.] [Juvenal]
+  barba tenus sapientes [Lat.]
+  cernit omnia Deus vindex [Lat.]
+  mihi cura futuri [Lat.]
+  run it up the flagpole and see who salutes

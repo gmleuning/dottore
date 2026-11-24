@@ -7,11 +7,11 @@ HGloss: The healing that comes from the magnetic state, a return of the soul to 
 N:
   healing; cure, faith healing, mind cure, mental healing, psychotherapy, suggestion therapy, the royal touch, the king's evil, miraculous cure, remission
   sanation†
-  the magnetic cure, mesmeric healing, restoration, recovery, convalescence, crisis
+  the magnetic cure, mesmeric healing, restoration, recovery, convalescence, crisis, sanativeness†
   thaumaturgy
 
 V:
-  heal, cure, restore, make whole, lay hands on, mend
+  heal, cure, restore, make whole, lay hands on, mend, redintegrate†
   remedy, doctor, physic
   recover
 
@@ -26,6 +26,7 @@ Adv:
 
 F:
   Arabic: ruqya [healing incantation]
+  French: efficacité symbolique [symbolic efficacy] [Lévi-Strauss]
 
 Phr:
   thy faith hath made thee whole [Bible]

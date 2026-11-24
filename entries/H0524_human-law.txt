@@ -57,3 +57,6 @@ Phr:
   render therefore unto Caesar the things which are Caesar's [Bible]
   man is by nature a political animal [Aristotle]
   the law of the land
+  humani nihil a me alienum puto [Lat.] [Terence]
+  omne solum forti patria [Lat.] [Ovid]
+  un bien fait n'est jamais perdu [Fr.]

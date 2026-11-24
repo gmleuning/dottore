@@ -18,7 +18,7 @@ V:
   dispose, gravitate towards
 
 Adj:
-  gifted, talented, apt, inclined, predisposed, prone, disposed, natural, born, instinctive, innate
+  gifted, talented, apt, inclined, predisposed, prone, disposed, natural, born, instinctive, innate, propense†, attempered†
   intrinsic, implanted, inherent, inborn, inbred, ingrained
   clever, able, ingenious, endowed
   minded

@@ -12,17 +12,17 @@ N:
   repetition &c H0046
   rote learning, learning by heart, parroting, mechanical repetition
   data, website, internet, computer, software, laptop, iPad
-  malware, metadata, spreadsheet, ethernet, lynx, workstation, mainframe, cyberspace, bbs, autocorrect, keypad, supercomputer, spyware, ransomware, assembler, parser
+  malware, metadata, spreadsheet, ethernet, lynx, workstation, mainframe, cyberspace, bbs, autocorrect, keypad, supercomputer, spyware, ransomware, assembler, parser, Argus†
   computer network, memory board, computer memory, software system, software program, computer software, computer storage, electronic computer, software package, information processing system, computing machine, computing device, data processor, peripheral device, computer peripheral, internet site, local area network, home computer, computer program, wide area network, digital computer, bus network, read-only memory, local memory, operating system, web site, real storage, read-only storage, fixed storage, computer programme, raw data, output device, input device, data input device, virtual storage, virtual memory, database management system, accounting data, alpha software, beta software, quantum computer, tablet computer, compatible software, software documentation, computer-aided design, shrink-wrapped software, analog computer, volatile storage, non-volatile storage, supervisory software, analogue computer, authoring language, job control, system program, service program, source program, systems program, personal information manager, personal computer, executive program
   trojan
-  app, apps, application, browser, database, hardware, desktop, tablet, smartphone, keyboard, touchscreen, interface, processor, chip, pixel, backup, patch, setup, template, tutorial, beta, demo, cloud, server, wifi, broadband, bandwidth, algorithm, artificial intelligence, AI, chatbot, bot, coding, programming, programmer, coder, developer, hacker, geek, techie [Coll.], cybersecurity, password, login, username, spam, virus, firewall, bug, cursor, icon, folder, file, screenshot, emoji
+  app, apps, application, browser, database, hardware, desktop, tablet, smartphone, keyboard, touchscreen, interface, processor, chip, pixel, backup, patch, setup, template, tutorial, beta, demo, cloud, server, wifi, broadband, bandwidth, algorithm, artificial intelligence, AI, chatbot, bot, coding, programming, programmer, coder, developer, hacker, geek, techie [Coll.], cybersecurity, password, login, username, spam, virus, firewall, bug, cursor, icon, folder, file, screenshot, emoji, collop†, logometer†, suan- pan†, abacist†
   mnemonics
 
 V:
   memorize, recite, repeat, parrot, drill, rattle off
   get at one's fingers' ends, know one's lesson, say one's lesson, repeat by heart, repeat by rote
   iterate, reiterate, reecho, drum, harp upon, battologize†, hammer, redouble
-  recapitulate, rehearse
+  recapitulate, rehearse, conjugate in all its moods tenses and inflexions†
   get into the knack of, learn &c H0688, repeat &c H0046
   imitate, copy, reproduce
   learn by rote, con
@@ -40,7 +40,20 @@ Adv:
 
 F:
   Arabic: ḥāfiẓ [one who has memorized the Qur'an]
+  Latin: ipsissima verba [the very words]
 
 Phr:
   the transition from memory to thought
   parrot fashion
+  like master like man
+  like - but oh! how different! [Wordsworth]
+  genius borrows nobly [Emerson]
+  pursuing echoes calling 'mong the rocks [A. Coles]
+  quotation confesses inferiority [Emerson]
+  Imitation is the sincerest form of flattery
+  ecce iterum Crispinus [Lat.]
+  toujours perdrix [Fr.]
+  cut and come again [Crabbe]
+  tomorrow and tomorrow and tomorrow [Macbeth]
+  cantilenam eandem canis [Lat.] [Terence]
+  nullum est jam dictum quod non dictum sit prius [Lat.] [Terence]

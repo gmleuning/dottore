@@ -16,9 +16,9 @@ V:
   transcend, exceed all bounds
 
 Adj:
-  infinite, boundless, limitless, endless, unbounded, unlimited, illimitable, immeasurable, measureless, incalculable, innumerable, numberless, countless, inexhaustible, interminable, unending, never-ending, everlasting, eternal, perpetual; vast, immense, unfathomable, fathomless, bottomless; absolute, unconditioned
+  infinite, boundless, limitless, endless, unbounded, unlimited, illimitable, immeasurable, measureless, incalculable, innumerable, numberless, countless, inexhaustible, interminable, unending, never-ending, everlasting, eternal, perpetual; vast, immense, unfathomable, fathomless, bottomless; absolute, unconditioned, bathycolpian†, benthal†, benthopelagic†, downreaching†
   uncircumscribed, boundless &c H0053
-  inconceivable
+  inconceivable, inconceptible†, searchless†
 
 Adv:
   infinitely, endlessly &c adj.; world without end, without limit, without end
@@ -26,7 +26,7 @@ Adv:
 
 F:
   German: das Unendliche
-  Latin: infinitum, ad infinitum, in infinitum
+  Latin: infinitum, ad infinitum, in infinitum, ens infinitum [Duns Scotus]
   Greek: apeiron, plērōma
   Hebrew: Ein Sof [the Endless]
   Sanskrit: ananta [endless]

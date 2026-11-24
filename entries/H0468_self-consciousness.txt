@@ -24,6 +24,7 @@ F:
   German: Selbstbewußtsein
   Sanskrit: ātma-jñāna [self-knowledge], sva-saṃvedana [self-awareness]
   Korean: jagi uisik [self-consciousness]
+  French: aperception [Leibniz]
 
 Phr:
   know thyself, gnōthi seauton [Gr.]

@@ -8,7 +8,7 @@ N:
   insects; bugs, beetles, flies, bees, wasps, ants, butterflies, moths, grasshoppers, locusts, crickets, termites, cicadas, hexapods, arthropods; entomology
   the articulated animals
   queen, fly, cricket, spider, bug, bee, drone, butterfly, ant, insect, mosquito
-  beetle, moth, peacock, flea, clegg, cockroach, hornet, mantis, grasshopper, dragonfly, ephemeral, bumblebee, drosophila, emmet, termite, scarab, midge, weevil, ladybug, goldeneye, louse, chrysalis
+  beetle, moth, peacock, flea, clegg, cockroach, hornet, mantis, grasshopper, dragonfly, ephemeral, bumblebee, drosophila, emmet, termite, scarab, midge, weevil, ladybug, goldeneye, louse, chrysalis, entozoon†, infusoria†, phytozoaria†, chinch†, scarabaeus†
   stone fly, white ant, social insect, leaf-miner, leaf miner, two-winged insects, whip-scorpion, whip scorpion, false scorpion, web spinner, sucking louse, biting louse, bird louse, walking stick, fish-fly, fish fly, fruit fly, hanging fly, wolf spider, trap-door spider, hunting spider, garden spider, snake doctor, walking leaf, water bug, true bug, plant bug, lightning bug, leaf bug, bed bug, carpet bug, worker bee, queen bee, bee killer, black widow, barn spider, crane fly, ant lion, stick insect, leaf insect, sewing needle, assassin bug, mosquito hawk, water beetle, tiger beetle, leaf beetle, lady beetle, ground beetle, carpet beetle, bark beetle, plant hopper, snake feeder, dog flea, cat flea, robber fly, scorpion fly, book scorpion, comb-footed spider, orb-weaving spider, dobson fly
   firefly
   imago
@@ -19,7 +19,7 @@ V:
 
 Adj:
   insectile, insectan, entomological, arthropod, hexapod
-  entomic, segmented, winged
+  entomic, segmented, winged, alate†, alated†
 
 Adv:
   in swarms

@@ -12,12 +12,12 @@ N:
 V:
   like, dislike, enjoy, mind, resent
   delight in, rejoice in, relish
-  disrelish, object to
+  disrelish, object to, mislike misrelish†, disvalue†, improbate†
   agree, disagree, accord, be content, be discontent
 
 Adj:
   subjective, personal, private, agreeable, disagreeable
-  pleasing, pleasant, pleasurable, gratifying, acceptable, welcome
+  pleasing, pleasant, pleasurable, gratifying, acceptable, welcome, beatic†, laetificant†, leef†
   content, inward
   enjoyable
 

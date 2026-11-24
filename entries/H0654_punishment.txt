@@ -5,13 +5,13 @@ Gloss: Retribution imposed by right.
 HGloss: Punishment, the criminal's own right, honouring them as a rational being; justice instead of revenge.
 
 N:
-  punishment; penalty, sanction, retribution, penance, sentence, chastisement, correction, discipline, castigation, the punitive power, penal justice, the criminal honoured as rational
+  punishment; penalty, sanction, retribution, penance, sentence, chastisement, correction, discipline, castigation, the punitive power, penal justice, the criminal honoured as rational, redargution†
   punition†, chastening
   infliction, trial, thunderbolt, Nemesis, requital &c H0640, penology, retributive justice
   pain, pains and penalties, weregild†, wergild, penance &c H0651, the devil to pay
   condemnation, conviction, judgment, proscription, damnation, death warrant
-  reproof, rebuke
-  prison, prison house, jail, gaol, cage, coop, den, cell, stronghold, fortress, keep, donjon, dungeon, Bastille, oubliette, bridewell†, house of correction, hulks, tollbooth, panopticon†, penitentiary, guardroom, lockup, hold, round house, watch house, station house, sponging house, station, house of detention, black hole, pen, fold, pound, inclosure &c H0218, isolation &c H0489, penal settlement, penal colony, bilboes, stocks, limbo, calaboose, chauki†, choky†, thana†, workhouse [U.S.]
+  reproof, rebuke, increpation†, jobation†
+  prison, prison house, jail, gaol, cage, coop, den, cell, stronghold, fortress, keep, donjon, dungeon, Bastille, oubliette, bridewell†, house of correction, hulks, tollbooth, panopticon†, penitentiary, guardroom, lockup, hold, round house, watch house, station house, sponging house, station, house of detention, black hole, pen, fold, pound, inclosure &c H0218, isolation &c H0489, penal settlement, penal colony, bilboes, stocks, limbo, calaboose, chauki†, choky†, thana†, workhouse [U.S.], hencoop†, cauf†
   requital
   prisoner, prisoner of war, POW, captive, inmate, detainee, hostage, abductee†, close prisoner
   jail bird, ticket of leave man
@@ -20,12 +20,12 @@ N:
   pillory, whipping post, cucking stool†, ducking stool, brank†, trebuchet†, trebuket†
   triangle, wooden horse, iron maiden, thumbscrew, boot, rack, wheel, iron heel, chinese water torture
   treadmill, crank, galleys
-  scaffold, block, ax, guillotine, stake, cross, gallows, gibbet, tree, drop, noose, rope, halter, bowstring, death chair, electric chair, gas chamber, lethal injection, firing squad, mecate†
+  scaffold, block, ax, guillotine, stake, cross, gallows, gibbet, tree, drop, noose, rope, halter, bowstring, death chair, electric chair, gas chamber, lethal injection, firing squad, mecate†, inkle†, cestus†, legadero†, oxreim†, lassoo†, cavesson†, scarpines†, decollation†, noyade†
   goaler, jailer, executioner, electrocutioner†, lyncher, hangman, headsman†, Jack Ketch
   retribution by law, the criminal's own right, just deserts
   time, bird [Brit. Slang], porridge [Brit. Slang], stretch, hard time, life, life sentence, the chair, the needle, solitary, the hole, slammer, clink, nick [Brit. Slang], jug, can [U.S. Slang], the big house, joint, stir, inside, the pokey, hoosegow, juvie [U.S. Slang], community service, a slap on the wrist
   switching, locking
-  imprisonment, incarceration, convict, death penalty, capital punishment, execution, fine, ban, suspension, detention, curfew
+  imprisonment, incarceration, convict, death penalty, capital punishment, execution, fine, ban, suspension, detention, curfew, mancipation†
 
 V:
   punish, penalize, sentence, sanction, chastise, discipline, correct, castigate
@@ -39,7 +39,7 @@ V:
 Adj:
   punitive, penal, disciplinary, retributive, corrective
   punishing, punitory†, inflictive, castigatory
-  imprisoned &c H0649, in prison, in durance vile, in limbo, in custody, doing time, in charge, in chains, under lock and key, under hatches, on parole
+  imprisoned &c H0649, in prison, in durance vile, in limbo, in custody, doing time, in charge, in chains, under lock and key, under hatches, on parole, cohibitive†
   banged up [Brit. Slang], behind bars, up the river, grounded
   correctional
 
@@ -57,3 +57,9 @@ Phr:
   let the punishment fit the crime [Gilbert]
   so wird der Verbrecher als Vernünftiges geehrt [Ger.] [Hegel, Philosophy of Right §100 Remark]
   to pay one's debt to society
+  I stand corrected
+  culpan paena premit comes [Lat.] [Horace]
+  eating the bitter bread of banishment [Richard II]
+  gravis ira regum est semper [Lat.] [Seneca]
+  sera tamen tacitis paena venit pedibus [Lat.] [Tibullus]
+  suo sibi gladio hunc jugulo [Lat.] [Terence]

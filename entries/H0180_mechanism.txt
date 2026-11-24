@@ -26,6 +26,7 @@ Adv:
 F:
   Latin: machina mundi
   Sanskrit: yantra [machine, device]
+  German: Gestell [enframing] [Heidegger]
 
 Phr:
   l'homme machine [Fr.] [La Mettrie]

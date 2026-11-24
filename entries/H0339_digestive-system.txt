@@ -5,12 +5,12 @@ Gloss: The organs of digestion.
 HGloss: The system of reproduction, the intestines and their glands, the organism's process with what it takes in.
 
 N:
-  digestive system; digestive tract, alimentary canal, gut, guts, bowels, entrails, viscera, intestines, stomach, belly, maw, gullet, oesophagus, glands, pancreas
+  digestive system; digestive tract, alimentary canal, gut, guts, bowels, entrails, viscera, intestines, stomach, belly, maw, gullet, oesophagus, glands, pancreas, chitterings†
   abdomen
   paunch, venter, ventricle, crop, craw, gizzard
-  mouth, oral cavity, gob [Brit. Slang], cakehole [Brit. Slang], trap [Slang], piehole [U.S. Slang], kisser [Slang], chops, jaws, lips, tongue, palate, gums, salivary glands, uvula, tonsils, throat, gorge, esophagus, pharynx
+  mouth, oral cavity, gob [Brit. Slang], cakehole [Brit. Slang], trap [Slang], piehole [U.S. Slang], kisser [Slang], chops, jaws, lips, tongue, palate, gums, salivary glands, uvula, tonsils, throat, gorge, esophagus, pharynx, weasand†, mazard†
   tummy [Coll.], tum [Coll.], pot, potbelly, beer belly, beer gut, breadbasket [Slang], spare tyre [Coll.], corporation [Brit. Slang], midriff, pylorus, rumen, reticulum, omasum, abomasum
-  small intestine, large intestine, bowel, colon, duodenum, jejunum, ileum, caecum, appendix, vermiform appendix, rectum, anus, sphincter, back passage, fundament, cloaca, vent, arsehole [Brit. Vulg.], asshole [U.S. Vulg.], bunghole [Vulg.], ring [Brit. Vulg.], poop chute [Slang], ringpiece [Brit. Vulg.]
+  small intestine, large intestine, bowel, colon, duodenum, jejunum, ileum, caecum, appendix, vermiform appendix, rectum, anus, sphincter, back passage, fundament, cloaca, vent, arsehole [Brit. Vulg.], asshole [U.S. Vulg.], bunghole [Vulg.], ring [Brit. Vulg.], poop chute [Slang], ringpiece [Brit. Vulg.], keddah†, imperforation†
   kidneys, ureter, bladder, urethra, prostate, innards, insides, tripe, tripes, chitterlings, chitlins, giblets, vitals, inwards†, bowels of compassion†
 
 V:

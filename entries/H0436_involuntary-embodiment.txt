@@ -6,7 +6,7 @@ HGloss: The soul's expression in the body that occurs without its will: laughing
 
 N:
   involuntary embodiment; involuntary expression, tell, giveaway, reflex, blush, tremor, tic, twitch, body language, nonverbal cues, unconscious gesture
-  suffusion, flush, quiver, flutter, tingling, throb, palpitation, trepidation
+  suffusion, flush, quiver, flutter, tingling, throb, palpitation, trepidation, succussion†, jactitation†, quassation†
   unwilled expression, pallor, trembling, laughter, weeping, sighing
 
 V:

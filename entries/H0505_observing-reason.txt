@@ -25,6 +25,7 @@ Adv:
 
 F:
   Arabic: mushāhada [observation]
+  Chinese: shishi qiushi [seek truth from facts]
 
 Phr:
   observe and record

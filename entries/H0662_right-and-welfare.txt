@@ -21,9 +21,10 @@ Adv:
   rightly, for one's good
 
 F:
-  German: Notrecht
+  German: Notrecht, gut
   Latin: ius necessitatis, beneficium competentiae, in extremis, jus necessitatis
   Arabic: ḍarūra [necessity]
+  French: bien, juste, bon
 
 Phr:
   necessitas non habet legem [Lat.] [necessity has no law]

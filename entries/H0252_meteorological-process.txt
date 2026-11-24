@@ -9,27 +9,28 @@ N:
   gust, blast, squall, half a gale, whirlwind, tornado, samiel, anticyclone, simoon†, simoom, harmattan†, trade wind, sirocco, mistral, bise†, tramontane, levanter, capful of wind, fresh breeze, stiff breeze, keen blast, blizzard, barber [Can.], candelia†, chinook, foehn, khamsin†, norther, vendaval†, wuther†
   rainfall, serein†, shower, scud, downpour, driving rain, drenching rain, cloudburst, hyetology†, hyetography†, predominance of Aquarius†, reign of St. Swithin, stillicidum†, plash, dropping, falling weather, northeaster
   vapor, haze, steam, geyser, messenger, rack, nimbus, cumulus, woolpack†, cirrus, stratus, cirrostratus, cumulostratus, cirrocumulus, mackerel sky, mare's tale, dirty sky, curl cloud, frost smoke, thunderhead
-  ice, snowflake, snow crystal, snow drift, hailstone, rime, frost, hoar frost, white frost, hard frost, sharp frost, barf, glaze [U.S.], lolly [U.S.], icicle, thick-ribbed ice, fall of snow, heavy fall, iceberg, icefloe, floe berg, glacier, nevée, serac†, pruina†
+  ice, snowflake, snow crystal, snow drift, hailstone, rime, frost, hoar frost, white frost, hard frost, sharp frost, barf, glaze [U.S.], lolly [U.S.], icicle, thick-ribbed ice, fall of snow, heavy fall, iceberg, icefloe, floe berg, glacier, nevée, serac†, pruina†, snowdrift
   draught, flatus, afflatus, efflation†, eluvium†, air, breath, breath of air, puff, whiff, zephyr, breeze, drift, aura, stream, current, jet stream, undercurrent
   rise and fall of the barometer, isobar
-  turmoil &c H0186, ferment &c H0228, rough weather, earthquake, volcano, thunderstorm
+  turmoil &c H0186, ferment &c H0228, rough weather, earthquake, volcano, thunderstorm, barm†, ventosity†
   the atmospheric process, the tension of the elements
   elements, bolt
-  dew, torrent, sprinkle, inversion, snowfall, thunderbolt, overcast, clemency, firestorm, snowstorm, sprites, sandstorm, afterglow, rainstorm
+  dew, torrent, sprinkle, inversion, snowfall, thunderbolt, overcast, clemency, firestorm, snowstorm, sprites, sandstorm, afterglow, rainstorm, dissilience†, displosion†, madefaction†
   weather condition, violent storm, atmospheric phenomenon, atmospheric condition, air current, good weather, fair weather, cold weather, bad weather, silver storm, ice storm, electric storm, air hole, air pocket, electrical storm, midnight sun, atmospheric state, atmospheric electricity, greenhouse warming, greenhouse effect, meteor stream, meteor shower, cold front, air mass, west wind, south wind, north wind, high wind, east wind, warm front, line storm, southern lights, northern lights, cold wave, calm air, raw weather, storm cloud, rain cloud, cloud cover, cloud bank, dust storm, blue jet, reverse lightning, fine spray, gentle wind, northwest wind, polar front, solar halo, prevailing wind, snow eater, condensation trail, chinook wind, red sprites, aurora borealis, cirrus cloud, aurora australis, nimbus cloud, light air
   icing, twister, westerly
-  raining, humidity, heatwave, heat wave, cold snap, smog, weather forecast, forecast
+  raining, humidity, heatwave, heat wave, cold snap, smog, weather forecast, forecast, humectation†
   atmospherics
+  hydraulicostatics†, pegology†, anemography†, anemoscope†, nephelognosy†, nephograph†, nephology†
 
 V:
-  rain, pour, drizzle, snow, hail, storm, blow, thunder, lighten, cloud over, clear up, evaporate, condense, precipitate
+  rain, pour, drizzle, snow, hail, storm, blow, thunder, lighten, cloud over, clear up, evaporate, condense, precipitate, displode†
   rain hard, rain in torrents, rain cats and dogs, rain pitchforks, pour with rain, spit, set in, mizzle†
 
 Adj:
-  meteorological, atmospheric, climatic, climatological, stormy, tempestuous, rainy, cloudy, clear, fair, foul, inclement, clement
+  meteorological, atmospheric, climatic, climatological, stormy, tempestuous, rainy, cloudy, clear, fair, foul, inclement, clement, meandry†, meandrous†, streamy†, stillicidous†, stillatitious†
   blowing, windy, flatulent, breezy, gusty, squally, blustering, boisterous &c H0121
   airy, aerial, aeriform†, weatherwise†
-  wet, sunny, foggy, misty, snowy, icy, humid, muggy, sticky, chilly, nippy [Brit. Coll.], freezing, baltic [Brit. Slang], boiling, roasting, scorching, sweltering, mild, balmy, grey, gray
+  wet, sunny, foggy, misty, snowy, icy, humid, muggy, sticky, chilly, nippy [Brit. Coll.], freezing, baltic [Brit. Slang], boiling, roasting, scorching, sweltering, mild, balmy, grey, gray, algid†
 
 Adv:
   come rain or shine, in all weathers
@@ -42,3 +43,11 @@ Phr:
   it never rains but it pours
   the wind bloweth where it listeth [Bible]
   under the weather
+  for men may come and men may go but I go on forever [Tennyson]
+  that old man river, he just keeps rolling along [Showboat]
+  lull'd by soft zephyrs [Pope]
+  the storm is up and all is on the hazard [Julius Caesar]
+  the winds were wither'd in the stagnant air [Byron]
+  while mocking winds are piping loud [Milton]
+  winged with red lightning and tempestuous rage [Paradise Lost]
+  the lowring element scowls o'er the darkened landscip [Paradise Lost]

@@ -31,6 +31,8 @@ F:
   Latin: recordatio, veteris vestigia flammae
   Greek: anamnēsis
   Arabic: dhikr
+  German: Treppenwitz [the retort thought of on the stairs]
+  French: esprit de l'escalier
 
 Phr:
   Erinnerung as Er-innerung [Ger.] [making inward]

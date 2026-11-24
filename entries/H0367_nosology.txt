@@ -5,28 +5,28 @@ Gloss: The study and classification of diseases.
 HGloss: Disease as the disproportion of the organism's being and its self, when one system sets itself up apart from the whole.
 
 N:
-  nosology; pathology, aetiology, etiology, diagnosis, diagnostics, symptomatology, semiotics of disease, classification of diseases, epidemiology, disease, illness, sickness, malady, complaint, disorder, syndrome, condition, affliction, pestilence, plague, contagion, fever, inflammation
+  nosology; pathology, aetiology, etiology, diagnosis, diagnostics, symptomatology, semiotics of disease, classification of diseases, epidemiology, disease, illness, sickness, malady, complaint, disorder, syndrome, condition, affliction, pestilence, plague, contagion, fever, inflammation, nosology†
   all the ills that flesh is heir to [Hamlet], morbidity, morbosity†, infirmity, ailment, indisposition, distemper, distemperature†
-  taint, pollution, infection, sepsis, septicity†, infestation, pandemic, murrain, pox
+  taint, pollution, infection, sepsis, septicity†, infestation, pandemic, murrain, pox, tainture†
   temperature, calenture†
   examination, analysis, urinalysis, biopsy, radiology
   insalubrity, unhealthiness, nonnaturals†, plague spot, malaria, death in the pot, toxicity
   relapse, lapse, falling back, retrogradation &c H0228 [Obs.], deterioration &c H0721
-  backsliding, recidivation†, recidivism, recidivity†, recrudescence
-  bane, curse, evil &c H0668, hurtfulness &c H0668 [Obs.], painfulness &c H0609, scourge &c H0654, white elephant
+  backsliding, recidivation†, recidivism, recidivity†, recrudescence, vicinism†
+  bane, curse, evil &c H0668, hurtfulness &c H0668 [Obs.], painfulness &c H0609, scourge &c H0654, white elephant, peccancy†
   sting, fang, thorn, tang, bramble, brier, nettle
   poison, toxin, teratogen, leaven, virus venom, arsenic, antimony, tartar emetic, strychnine, nicotine, miasma, miasm†, mephitis†, azote†, sewer gas, pest
   Albany hemp†, arsenious oxide, arsenious acid, bichloride of mercury, carbonic acid, carbonic gas, choke damp, corrosive sublimate, fire damp, hydrocyanic acid, cyanide, Prussic acid, hydrogen cyanide, marsh gas, ratsbane†
   hemlock, hellebore, nightshade, belladonna, henbane, aconite, banewort†, bhang, ganja†, hashish, Upas tree
   Toxline (online)
-  rust, worm, helminth [Med.], moth, moth and rust, fungus, mildew, dry rot, canker, cankerworm, cancer, torpedo, viper &c H0668, demon &c H0976
+  rust, worm, helminth [Med.], moth, moth and rust, fungus, mildew, dry rot, canker, cankerworm, cancer, torpedo, viper &c H0668, demon &c H0976, rubigo†
   toxicology
   the theory of disease
   bug [Coll.], the flu, a cold, a dose, the lurgy [Brit. Slang], crud [U.S. Slang], the clap [Slang], STD, STI, sick note, sickie [Brit. Coll.]
   pain, suffering, burn, spots, collapse, diabetes, hurting, tumor, autism, cough, scar, twitch, pneumonia, asthma, swelling, rash, congestion, acne, symptom, arthritis
-  piles, tuberculosis, diarrhea, nausea, mono, hepatitis, aura, leukemia, coughing, ache, corona, tumour, creeps, torment, pip, herpes, bends, migraine, measles, gall, cholera, aching, polio, lymphoma, smallpox, rabies, malnutrition, wilt, coronavirus, tic, kink, meningitis, melanoma, vertigo, carcinoma, shivering, hives, constipation, hickey, dizziness, syphilis, shingles, stinging, eczema, gout, cramp, sneezing, diarrhoea, blackwater, glaucoma, soreness, leprosy, apnea, twitching, hardening, clubbing, cataract, atrophy, sunburn, redness, edema, typhoid, dengue, bronchitis, hiccup, dermatitis, psoriasis, numbness, colitis, cirrhosis, heartburn, indigestion, tinnitus, spasm, pimple, dystrophy, fibrillation, chlamydia, mumps, abscess, dysentery, encephalitis, angina, typhus, toothache, osteoarthritis, leukaemia, appendicitis, myeloma, mesothelioma, scurvy, sarcoma, emphysema, jaundice, gonorrhea, pancreatitis, throb, hypoglycemia, malignancy, diphtheria, dandruff, colic, rheumatism, hematoma, chafing, fistula, bloat
-  skin disease, eye disease, plant disease, animal disease, industrial disease, hot flash, upset stomach, stomach upset, genetic disease, skin disorder, genetic disorder, liver disease, cat scratch disease, wasting away, inherited disorder, inherited disease, lead poisoning, food poisoning, milk sickness, respiratory illness, respiratory disorder, respiratory disease, occupational disease, inflammatory disease, genetic defect, withdrawal symptom, deficiency disease, enlarged heart, catastrophic illness, hereditary disease, hereditary condition, ozone sickness, endemic disease, congenital disease, gastrointestinal disorder, autoimmune disorder, autoimmune disease, cystic breast disease, decompression sickness, heart murmur, cardiac murmur, genetic abnormality, muscle spasm, communicable disease, gas embolism, air embolism, periodontal disease, red water, side effect, common cold, black disease, black spot, broken wind, labor pain, yellow spot, referred pain, pink disease, chest pain, sand crack, sword-cut
-  scrutiny, contamination, filth, sinus, lupus, anthrax
+  piles, tuberculosis, diarrhea, nausea, mono, hepatitis, aura, leukemia, coughing, ache, corona, tumour, creeps, torment, pip, herpes, bends, migraine, measles, gall, cholera, aching, polio, lymphoma, smallpox, rabies, malnutrition, wilt, coronavirus, tic, kink, meningitis, melanoma, vertigo, carcinoma, shivering, hives, constipation, hickey, dizziness, syphilis, shingles, stinging, eczema, gout, cramp, sneezing, diarrhoea, blackwater, glaucoma, soreness, leprosy, apnea, twitching, hardening, clubbing, cataract, atrophy, sunburn, redness, edema, typhoid, dengue, bronchitis, hiccup, dermatitis, psoriasis, numbness, colitis, cirrhosis, heartburn, indigestion, tinnitus, spasm, pimple, dystrophy, fibrillation, chlamydia, mumps, abscess, dysentery, encephalitis, angina, typhus, toothache, osteoarthritis, leukaemia, appendicitis, myeloma, mesothelioma, scurvy, sarcoma, emphysema, jaundice, gonorrhea, pancreatitis, throb, hypoglycemia, malignancy, diphtheria, dandruff, colic, rheumatism, hematoma, chafing, fistula, bloat, knarl†, caruncle†, polypus†, fungosity†, exostosis†, blain†, errhine†, sternutatory†, horripilation†, rubescence†, rubification†, scotomy†, siriasis†, scurfiness†, cachexy†, marasmus†, imposthume†, sphacelus†, sphacelation†, Asiatic cholera†, blennorrhagia†, blennorrhoea†, bloodstroke†, breakbone fever†, cynanche†, enanthem†, enanthema†, exanthem†, psora†, pyaemia†, rachitis†, struma†, syntexis†, tetter†, tonsilitis†
+  skin disease, eye disease, plant disease, animal disease, industrial disease, hot flash, upset stomach, stomach upset, genetic disease, skin disorder, genetic disorder, liver disease, cat scratch disease, wasting away, inherited disorder, inherited disease, lead poisoning, food poisoning, milk sickness, respiratory illness, respiratory disorder, respiratory disease, occupational disease, inflammatory disease, genetic defect, withdrawal symptom, deficiency disease, enlarged heart, catastrophic illness, hereditary disease, hereditary condition, ozone sickness, endemic disease, congenital disease, gastrointestinal disorder, autoimmune disorder, autoimmune disease, cystic breast disease, decompression sickness, heart murmur, cardiac murmur, genetic abnormality, muscle spasm, communicable disease, gas embolism, air embolism, periodontal disease, red water, side effect, common cold, black disease, black spot, broken wind, labor pain, yellow spot, referred pain, pink disease, chest pain, sand crack, sword-cut, glanders†
+  scrutiny, contamination, filth, sinus, lupus, anthrax, indagation†, perquisition†, perscrutation†, pervestigation†, defoedation†, soilure†, soiliness†, venenation†
   virus, bacteria, germ, germs, flu, influenza, covid, outbreak, lockdown, quarantine, obesity, allergy, allergic reaction, fatigue, burnout, trauma, PTSD, wound, injury, concussion, fracture, bruise, sprain, headache, stomachache, sneeze, sore throat, runny nose, heart attack, stroke, depression, anxiety, eating disorder, addiction, overdose, hangover
 
 V:
@@ -40,14 +40,15 @@ Adj:
   pathological, nosological, morbid, diseased, sick, ill, ailing, infected, febrile, chronic, acute, contagious, epidemic, endemic
   ill of, taken ill, seized with, indisposed, unwell, squeamish, poorly, seedy, affected with illness, afflicted with illness, laid up, confined, bedridden, invalided, in hospital, on the sick list, out of health, out of sorts, under the weather [U.S.], valetudinary†
   infectious, catching, taking, epizootic
-  morbific [Obs.], zymotic†
-  tainted, vitiated, peccant, contaminated, poisoned, tabid†, mangy, leprous, cankered, rotten, rotten to the core, rotten at the core, withered, palsied, paralytic, dyspeptic, luetic†, pneumonic, pulmonic [Med.], phthisic†, rachitic, syntectic†, syntectical†, tabetic†, varicose
+  morbific [Obs.], zymotic†, morbiferous†
+  tainted, vitiated, peccant, contaminated, poisoned, tabid†, mangy, leprous, cankered, rotten, rotten to the core, rotten at the core, withered, palsied, paralytic, dyspeptic, luetic†, pneumonic, pulmonic [Med.], phthisic†, rachitic, syntectic†, syntectical†, tabetic†, varicose, marcid†
   unsound, unhealthy, sickly, morbose†, healthless†, infirm, chlorotic [Med.], unbraced†
-  baneful &c H0668, poisonous
+  baneful &c H0668, poisonous, scathful†
   Contingent Subservience
   peaky [Brit.], off-colour, sick as a dog, crook [Austral.], ropy [Brit.], rough, green around the gills
-  reckless, weakened, autistic, polluted, septic
-  allergic, immune, wounded, injured, hurt, sore, achy, feverish, nauseous, queasy, obese, overweight, diabetic
+  reckless, weakened, autistic, polluted, septic, azotic†
+  allergic, immune, wounded, injured, hurt, sore, achy, feverish, nauseous, queasy, obese, overweight, diabetic, squeasy†
+  innutritious†
 
 Adv:
   pathologically, morbidly
@@ -60,3 +61,6 @@ F:
 Phr:
   physician, heal thyself [Bible]
   a clean bill of health
+  out of the frying pan into the fire
+  agrescit medendo [Lat.]
+  what a falling off was there! [Hamlet]

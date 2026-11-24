@@ -5,7 +5,7 @@ Gloss: The physics of bodies in their particular, measurable properties.
 HGloss: The individuality of particular bodies in their determinate relation to gravity: specific gravity, cohesion, sound and heat.
 
 N:
-  physics of particular individuality; properties of matter, particular properties, specific properties, material properties, physical properties, mechanical properties; weight, cohesion, sound, heat
+  physics of particular individuality; properties of matter, particular properties, specific properties, material properties, physical properties, mechanical properties; weight, cohesion, sound, heat, gasmeter†, gasometer†
   the physics of the particular individual, specific gravity cohesion sound and heat, the specified body, measurable properties
   specificity
 

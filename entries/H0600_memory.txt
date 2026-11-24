@@ -22,7 +22,7 @@ V:
 
 Adj:
   mnemonic, memorial, retentive, memorized, rote
-  remembering, remembered, mindful, reminiscential†, retained in the memory, pent up in one's memory, fresh, green, green in remembrance, unforgotten, present to the mind, within one's memory, indelible, uppermost in one's thoughts, memorable
+  remembering, remembered, mindful, reminiscential†, retained in the memory, pent up in one's memory, fresh, green, green in remembrance, unforgotten, present to the mind, within one's memory, indelible, uppermost in one's thoughts, memorable, denotable†
 
 Adv:
   by heart, by rote, from memory
@@ -30,12 +30,25 @@ Adv:
   by memory
 
 F:
-  Latin: memoria, ars memoriae, veteris vestigia flammae, memoria technica
-  Greek: mnēmē
-  French: par cœur
+  Latin: memoria, ars memoriae, veteris vestigia flammae, memoria technica, subvenire, menini, obliviscor
+  Greek: mnēmē, mnēmosynē, memnēmai, lēthē, lēsmosynē
+  French: par cœur, mémoire, oubli
   Sanskrit: smṛti [memory]
+  German: Erinnerung, Vergessen
 
 Phr:
   memory is the treasury and guardian of all things [Cicero]
   Mnemosyne, mother of the Muses
   in living memory
+  manet alta mente repostum [Lat.] [Virgil]
+  forsan et haec olim meminisse juvabit [Lat.] [Virgil]
+  absens haeres non erit [Lat.]
+  beatae memoriae [Lat.]
+  briefly thyself remember [Lear]
+  mendacem memorem esse oportet [Lat.] [Quintilian]
+  memory the warder of the brain [Macbeth]
+  parsque est meminisse doloris [Lat.] [Ovid]
+  to live in hearts we leave behind is not to die [Campbell]
+  vox audita peril littera scripta manet [Lat.]
+  non mi ricordo [It.]
+  the memory failing, the memory deserting one, being at fault, being in fault

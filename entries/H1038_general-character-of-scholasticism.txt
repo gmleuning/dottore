@@ -16,14 +16,19 @@ V:
 
 Adj:
   subtle, formal, hair-splitting, dialectical
-  scholastic, disputatious, pedantic, casuistical, syllogistic, over-subtle, finespun, arid, dry, argumentative, authoritative, quodlibetical†
+  scholastic, disputatious, pedantic, casuistical, syllogistic, over-subtle, finespun, arid, dry, argumentative, authoritative, quodlibetical†, overrefined†
 
 Adv:
   subtly
   formally, scholastically, pedantically, syllogistically, pro and con, by distinction, on authority
 
 F:
-  Latin: sic et non [Abelard], distinguo, videtur quod, sed contra, respondeo, ancilla theologiae
+  Latin: sic et non [Abelard], distinguo, videtur quod, sed contra, respondeo, ancilla theologiae, suppositio
+  French: supposition
+  German: Denotierung
+  Italian: supposizione
+  Portuguese: suposição
+  Spanish: suposición
 
 Phr:
   how many angels can dance on the head of a pin

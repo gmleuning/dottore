@@ -14,11 +14,11 @@ V:
   relate to other, relate to self, contrast
 
 Adj:
-  outward, exposed, relational, heteronomous; inward, self-possessed, self-collected, autonomous
+  outward, exposed, relational, heteronomous; inward, self-possessed, self-collected, autonomous, expugnable†
   determinate, self-related, other-related
 
 Adv:
-  for others, for oneself; outwardly and inwardly; on the one hand, on the other
+  for others, for oneself; outwardly and inwardly; on the one hand, on the other, mauger†
   for itself, for another
 
 F:

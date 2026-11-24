@@ -9,12 +9,13 @@ N:
   intermarriage, miscegenation, the bonds of marriage, nuptial tie
   match, betrothment &c H0627, wedding, Hymen, bridal, espousals, spousals, leading to the altar, nuptial benediction, epithalamium†, sealing
   marriage broker, matrimonial agency, matrimonial agent, matrimonial bureau, matchmaker
-  lady, matron, matronage, matronhood†, man and wife, wedded pair, Darby and Joan, spiritual wife
+  lady, matron, matronage, matronhood†, man and wife, wedded pair, Darby and Joan, spiritual wife, frow†, begum†, inhospitality†, dissociability†
   married man, married woman, married couple, neogamist†, Benedict, partner, spouse, mate, yokemate†, husband, man, consort, baron, old man, good man, wife of one's bosom, helpmate, rib, better half, gray mare, old woman, old lady, good wife, goodwife
   unlawful marriage, left-handed marriage, morganatic marriage, ill- assorted marriage, mesalliance
   the ethical union, the one person of two
-  hubby [Coll.], the missus [Coll.], the wife, ball and chain [Slang], other half, significant other, bae [Slang], wifey [Slang], shotgun wedding, marriage of convenience, same-sex marriage, civil partnership, prenup, honeymoon, hen night, stag night, bachelor party, bachelorette party
-  celibacy, bachelorhood, spinsterhood, singleness, the single life
+  hubby [Coll.], the missus [Coll.], the wife, ball and chain [Slang], other half, significant other, bae [Slang], wifey [Slang], shotgun wedding, marriage of convenience, same-sex marriage, civil partnership, prenup, honeymoon, hen night, stag night, bachelor party, bachelorette party, Strephon and Chloe†
+  celibacy, bachelorhood, spinsterhood, singleness, the single life, bachelorship†
+  digamy†, deuterogamy†, trigamy†, levirate†, spiritual wifery†, spiritual wifeism†, polyandrism†, bluebeard†
 
 V:
   marry, wed, espouse, unite, wive, take to wife, take to husband, tie the knot
@@ -46,3 +47,8 @@ Phr:
   what therefore God hath joined together, let not man put asunder [Bible]
   to tie the knot
   till death us do part
+  the gray mare the better horse
+  a world-without-end bargain [Love's Labor's Lost]
+  marriages are made in Heaven [Tennyson]
+  render me worthy of this noble wife [Julius Caesar]
+  si qua voles apte nubere nube pari [Lat.] [Ovid]

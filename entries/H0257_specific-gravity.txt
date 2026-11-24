@@ -5,12 +5,12 @@ Gloss: The weight of a body relative to its volume; density.
 HGloss: The weight of a body related to its volume, the first individuation of matter in its relation to gravity.
 
 N:
-  specific gravity; density, specific weight, relative density, mass per volume, compactness, solidity, closeness, heaviness, ponderosity, weightiness; buoyancy, flotation, Archimedes' principle
+  specific gravity; density, specific weight, relative density, mass per volume, compactness, solidity, closeness, heaviness, ponderosity, weightiness; buoyancy, flotation, Archimedes' principle, exility†
   weight, gravity, gravitation
   lightness, levity, imponderability
   consistence, impenetrability, incompressibility
   hydrometer, areometer†
-  rarity, tenuity, absence of solidity, subtility†, subtilty†, subtlety, sponginess, compressibility
+  rarity, tenuity, absence of solidity, subtility†, subtilty†, subtlety, sponginess, compressibility, macilency†, marcor†
   rarefaction, expansion, dilatation, inflation, subtilization†
   vaporization, evaporation, diffusion, gassification†
   ether &c H0247
@@ -24,12 +24,13 @@ V:
   outweigh
 
 Adj:
-  dense, heavy, compact, solid, close, thick, ponderous, light, buoyant
+  dense, heavy, compact, solid, close, thick, ponderous, light, buoyant, rising
+  scandent†, superfluitant†
   massive, serried, impenetrable
   weighty, ponderable, heavy as lead
-  imponderable, weightless, tenuous
-  rare, subtile, thin, fine, compressible, flimsy, slight, cavernous, spongy &c H0267
-  rarefied, unsubstantial, uncompact†, incompressed†, rarefiable†
+  imponderable, weightless, tenuous, imponderous†, astatic†, suberose†, suberous†
+  rare, subtile, thin, fine, compressible, flimsy, slight, cavernous, spongy &c H0267, spongious†, cushiony†
+  rarefied, unsubstantial, uncompact†, incompressed†, rarefiable†, shattery†, craichy†
   specific
 
 Adv:

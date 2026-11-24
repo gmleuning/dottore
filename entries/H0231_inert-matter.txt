@@ -6,7 +6,7 @@ HGloss: Matter as indifferent to rest and motion, self-subsistent only by its ma
 
 N:
   inert matter; inertia, inertness, passivity, resistance, mass, inertial mass, momentum, sluggishness, torpor, deadweight, dead weight, ballast, lump, clod; indifference to motion and rest; first law of motion
-  dullness, inertion†, inactivity, languor, quiescence &c H0228, latency, inaction
+  dullness, inertion†, inactivity, languor, quiescence &c H0228, latency, inaction, atony†, for bearance†, inoccupation†, segnity†, segnitude†, oscitation†, oscitancy†, statuvolence heaviness†
   dead matter
 
 V:
@@ -16,7 +16,7 @@ V:
   remain at rest
 
 Adj:
-  inert, inactive, passive, dead, lifeless, torpid, sluggish, static, stationary, heavy, massy, ponderous, unresponsive, resistant
+  inert, inactive, passive, dead, lifeless, torpid, sluggish, static, stationary, heavy, massy, ponderous, unresponsive, resistant, tardigrade†, lusk†, drony†, dronish†, torpedinous†, torporific†
   torpid &c H0379, dull, flat, slack, tame, slow, blunt, unreactive, uninfluential†
   quiescent, still, moveless, fixed, immotile, at rest at a stand, at a standstill, at anchor, stock, standing still, sedentary, untraveled, stay-at-home, becalmed, stagnant, quiet, unmoved, undisturbed, unruffled, calm, restful, cataleptic, immovable &c H0010, sleeping &c H0379, silent &c H0264, still as a statue, still as a post, still as a mouse, still as death, vegetative, vegetating
   massive

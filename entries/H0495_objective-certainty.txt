@@ -6,7 +6,7 @@ HGloss: Certainty that has found itself confirmed in the object.
 
 N:
   objective certainty; confirmed certainty, verified belief, corroboration, confirmation, validation, proof, evidence, warrant, objectivity
-  ratification &c H0604, authentication
+  ratification &c H0604, authentication, compurgation†, doquet†
   objective certitude, verification
   documentation
 

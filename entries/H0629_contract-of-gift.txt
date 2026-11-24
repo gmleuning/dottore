@@ -22,7 +22,7 @@ V:
 Adj:
   gratuitous, donative, unilateral, liberal
   giving, given, allowed, allowable, concessional†, communicable, charitable, eleemosynary, sportulary†, tributary, gratis &c H0636
-  gratis, free, for nothing, without charge, free of cost
+  gratis, free, for nothing, without charge, free of cost, expenseless†, shotfree†
 
 Adv:
   gratuitously, free of charge

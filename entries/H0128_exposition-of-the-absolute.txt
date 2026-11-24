@@ -19,7 +19,7 @@ V:
   set out
 
 Adj:
-  expository, explicative, apophatic, negative, acosmic, acosmistic, emanative
+  expository, explicative, apophatic, negative, acosmic, acosmistic, emanative, disquisitionary†
   explanatory, explicatory
   exhibitive, interpretive
 

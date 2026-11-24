@@ -6,10 +6,10 @@ HGloss: The actor's art, which gives the poet's figures living presence.
 
 N:
   the actor's art; acting, performance, impersonation, histrionics, thespianism, the actor, player, thespian, mime, the mask
-  actor, stage player, strolling player, performer, comedian, tragedian, tragedienne, Roscius
+  actor, stage player, strolling player, performer, comedian, tragedian, tragedienne, Roscius, troupe
   representation, gesture &c H0598, impersonation &c H0745, stage business
   stagecraft, role-playing, characterization, delivery, declamation, elocution, mimicry, mimesis, pantomime, dumb-show, bearing, mien, role, part, persona
-  mummer
+  mummer, guiser†, guisard†, gysart†
 
 V:
   act, perform, impersonate, play, portray, mime
@@ -28,8 +28,10 @@ Adv:
 
 F:
   Latin: histrio
-  Greek: hypokritēs
-  French: mise en scene
+  Greek: hypokritēs, prosōpon
+  French: mise en scene, acteur, personnage, comédien
+  German: Verfremdungseffekt [estrangement effect] [Brecht], Schauplatz, Schauspieler, Akteur, Person
+  Italian: attore, comico, maschera
 
 Phr:
   all the world's a stage, and all the men and women merely players [As You Like It]

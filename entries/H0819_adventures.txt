@@ -32,6 +32,9 @@ Adv:
 
 F:
   Arabic: riḥla [journey]
+  German: Bildungsroman, Entwicklungsroman, Erziehungsroman, Zeitroman, Schlüsselroman [roman à clef], Fernweh [longing for far places]
+  Spanish: quijotismo, picarismo, picaresca
+  French: roman-fleuve
 
 Phr:
   the knight of the woeful countenance [Cervantes]

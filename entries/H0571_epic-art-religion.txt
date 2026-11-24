@@ -15,7 +15,7 @@ V:
 
 Adj:
   epic, heroic, Homeric, bardic, legendary
-  descriptive, graphic, narrative, traditional, storied
+  descriptive, graphic, narrative, traditional, storied, heliophagous†
 
 Adv:
   epically, heroically

@@ -33,8 +33,10 @@ F:
   Greek: pros ti [relative, toward something]
   French: vis-à-vis, a propos of
   Chinese: guanxi [relation, connection]
+  Sanskrit: upādāya prajñapti [dependent designation] [Nāgārjuna]
 
 Phr:
   no master without servant, no servant without master
   part and parcel
   two sides of the same coin
+  thereby hangs a tale [Taming of the Shrew]

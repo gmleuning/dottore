@@ -5,7 +5,7 @@ Gloss: A relation of two amounts, in which what matters is not either amount alo
 HGloss: Quantum related to quantum, where each is determined only through the other, so that quality returns into quantity.
 
 N:
-  quantitative ratio; ratio, proportion; relation, rate, quotient, fraction, percentage, per cent, per mille, scale, index; exponent; relative magnitude, comparative size; balance, symmetry, harmony, commensurability, commensuration; golden ratio, golden section, divine proportion
+  quantitative ratio; ratio, proportion; relation, rate, quotient, fraction, percentage, per cent, per mille, scale, index; exponent; relative magnitude, comparative size; balance, symmetry, harmony, commensurability, commensuration; golden ratio, golden section, divine proportion, agio†
   comparison &c H0606, progression, arithmetical progression, geometrical progression, harmonical progression†, permilage
   sum, difference, complement, subtrahend, product, multiplicand, multiplier, multiplicator†, coefficient, multiple, dividend, divisor, factor, submultiple [Math.], rational number, surd, irrational number, transcendental number, mixed number, complex number, complex conjugate, numerator, denominator, circulating decimal, repetend, common measure, aliquot part, prime number, relative prime, prime factor, prime pair, totient†
   power, root, logarithm, antilogarithm, modulus, base

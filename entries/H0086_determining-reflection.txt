@@ -9,7 +9,7 @@ N:
   determination, definition, delimitation, specification, stipulation; fixation, fixing, settling; circumscription, demarcation &c (limit) H0018
   category, predicament† [Logic], predicable, rubric, head, heading; concept &c H0144; term; form of thought, thought-determination; pure concept of the understanding
   fixed point, fulcrum, firm footing; stable distinction, hard-and-fast distinction, bright line; dichotomy, binary, antithesis &c (opposition) H0092
-  reification, hypostasis, hypostatization, concretization; fixity, rigidity, ossification, petrifaction
+  reification, hypostasis, hypostatization, concretization; fixity, rigidity, ossification, petrifaction, lapidification†, lapidescence†
   understanding; abstract understanding, the analytic mind
   law of thought
   denomination, designation, particularization
@@ -39,10 +39,11 @@ Adv:
 
 F:
   German: Reflexionsbestimmung, Wesenheit, Denkbestimmung, Gedankenbestimmung, Verstandesbegriff, Verstand &c H0605, wesentlich
-  Latin: terminus, principium identitatis, principium contradictionis, principium exclusi tertii, ex definitione, per se, stricto sensu
-  French: point d'appui
+  Latin: terminus, principium identitatis, principium contradictionis, principium exclusi tertii, ex definitione, per se, stricto sensu, praedicabile
+  French: point d'appui, prédicable
   Sanskrit: vikalpa [conceptual construction]
   Chinese: zhengming [rectification of names]
+  Greek: katēgoroumenon
 
 Phr:
   determinatio negatio est [Lat.] [Spinoza]

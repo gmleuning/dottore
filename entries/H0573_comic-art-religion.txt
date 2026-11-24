@@ -10,7 +10,7 @@ N:
   the comic consciousness, the mask dropped, the unmasking of the gods, the self as absolute being, the levity of self-certainty
   gag, joke, bit, schtick, stand-up, standup, comedian, bants [Brit. Slang], lulz [Slang], piss-take [Brit. Vulg.], wind-up [Brit.], trolling, shitposting [Vulg.], send-up, takedown
   kill, cleanup
-  haha, LOL, prank, practical joke, meme, sketch, sitcom, pun, punchline
+  haha, LOL, prank, practical joke, meme, sketch, sitcom, pun, punchline, macaronic†, paranomasia†, paragram†
 
 V:
   mock, laugh, ridicule, satirize, parody, unmask, deflate
@@ -18,7 +18,7 @@ V:
   deride, rally
   mimic, ape, lampoon
   smile, grin, laugh outright
-  see through, drop the mask
+  see through, drop the mask, undeceive†, unbeguile†
   take the piss [Brit. Vulg.], rip on [U.S. Slang], roast, troll, spoof, send up, crack up, crack wise, riff, rib, josh, kid
 
 Adj:

@@ -20,6 +20,12 @@ Adv:
   classically, in the classical manner
   ideally, adequately, in perfect correspondence
 
+F:
+  French: classique, classicisme, néoclassique, néoclassicisme
+  German: klassik, Klassizismus
+  Italian: classicismo, neoclassico, neoclassicismo
+  Latin: classicus
+
 Phr:
   Schöneres kann nicht sein und werden [Ger.] [Hegel, Aesthetics, on classical art]
   noble simplicity and quiet grandeur [Winckelmann]

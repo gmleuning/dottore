@@ -18,7 +18,7 @@ Adj:
   conditional, conditioned, provisional, provisory, contingent, dependent, subject to, qualified, limited, restricted, hypothetical, prerequisite, requisite, necessary, sufficient, enabling
   qualifying, hedged, exceptional &c H0063
   circumstantial, given, critical, modal, incidental, adventitious &c H0081, limitative†
-  contingent on, dependent on, dependent on circumstances, occasional
+  contingent on, dependent on, dependent on circumstances, occasional, unexempt from†
   needful, indispensable
 
 Adv:
@@ -39,3 +39,6 @@ Phr:
   if and only if
   this being, that comes to be [Buddha] [imasmiṃ sati idaṃ hoti, Pali]
   no strings attached
+  yet are my sins not those of circumstance [Lytton]
+  if the good lord is willing and the creeks don't rise
+  catch- 22

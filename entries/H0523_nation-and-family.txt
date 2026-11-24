@@ -28,11 +28,14 @@ Adv:
   as people and family, in community
 
 F:
-  German: Volk
-  Latin: populus, familia, domus, gens
-  Greek: dēmos, ethnos, oikos
+  German: Volk, Rasse
+  Latin: populus, familia, domus, gens, natio, plebs
+  Greek: dēmos, ethnos, oikos, laos [the people as host], genos, ochlos, plēthos, hoi polloi
   Sanskrit: kula [family, lineage]
   Japanese: ie [household]
+  Russian: narod, narodnost' [the people as nation] [Slavophiles]
+  French: peuple, le peuple, les gens
+  Italian: popolo
 
 Phr:
   blood is thicker than water

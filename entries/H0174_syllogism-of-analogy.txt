@@ -23,13 +23,13 @@ V:
 Adj:
   analogical, analogous, comparable, similar, parallel, homologous, isomorphic, metaphorical
   such as, so, homoiousian†
-  resembling, like, alike, twin
+  resembling, like, alike, twin, equiparant†
 
 Adv:
   analogically, by analogy, by parity of reasoning, likewise, similarly
 
 F:
-  Latin: analogia entis, mutatis mutandis
+  Latin: analogia entis, mutatis mutandis, proportio
   Greek: analogia
   French: of a piece
   Arabic: qiyās [analogical reasoning, as in jurisprudence]

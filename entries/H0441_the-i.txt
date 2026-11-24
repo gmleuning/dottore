@@ -28,12 +28,15 @@ Adv:
   as I
 
 F:
-  German: ich denke [Kant]
-  Latin: ego, res cogitans, in propria persona
-  Greek: egō
+  German: ich denke [Kant], Selbst, Selbstheit
+  Latin: ego, res cogitans, in propria persona, ipse
+  Greek: egō, ousia
   Arabic: al-anā [the ego]
   Sanskrit: aham [I], ahaṃkāra [ego]
   Korean: jaa [ego]
+  French: anti-humanisme [the subject as an effect of structure], id, ça, moi, surmoi, soi, ipséité, soi-même
+  Russian: samost' [selfhood]
+  Italian: io, se, si, si-mismo
 
 Phr:
   cogito, ergo sum [Lat.] [Descartes]

@@ -5,7 +5,7 @@ Gloss: Quantity before any particular amount has been fixed; sheer measurability
 HGloss: Quantity without determinate limit, the sublated being-for-self, as continuous and discrete at once.
 
 N:
-  pure quantity; quantity as such, sheer magnitude, abstract magnitude, measurability, extensiveness; space and time as pure quantities; the continuum, continuous magnitude; indefinite amount, indeterminate quantity, unspecified quantity, x, unknown quantity; mass noun, uncountable
+  pure quantity; quantity as such, sheer magnitude, abstract magnitude, measurability, extensiveness; space and time as pure quantities; the continuum, continuous magnitude; indefinite amount, indeterminate quantity, unspecified quantity, x, unknown quantity; mass noun, uncountable, determinability†
   sheer quantity, continuity, space and time as pure quantity
   indefinite quantity
 

@@ -22,7 +22,7 @@ Adj:
   unadorned, bare, unornamented, undecked†, ungarnished, unarranged†, untrimmed, unvarnished
   chaste, inornate†, severe
   unaffected, ingenuous, sincere &c H0667, free from affectation, free from ornament
-  simple, plain, homely, homespun, ordinary, household
+  simple, plain, homely, homespun, ordinary, household, unornamental†, unbeauteous†, beautiless†
   unalloyed, homogeneous
   uncut
 
@@ -38,3 +38,4 @@ F:
 Phr:
   clear as crystal
   clear as day
+  veritatis simplex oratio est [Lat.]

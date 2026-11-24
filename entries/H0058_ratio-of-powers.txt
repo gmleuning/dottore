@@ -15,7 +15,7 @@ V:
   involve
 
 Adj:
-  exponential, geometric, logarithmic, nonlinear, quadratic, cubic, compound, compounding
+  exponential, geometric, logarithmic, nonlinear, quadratic, cubic, compound, compounding, logometric†, totitive†, quaternal†, tetract†, tetractic†, tetractinal†
   potential, squared, cubed
 
 Adv:

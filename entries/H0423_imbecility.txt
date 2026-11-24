@@ -10,12 +10,12 @@ N:
   simplicity, puerility, babyhood, dotage, anility†, second childishness, idiotism†
   spasm, throe
   absence of intellect, imbecility &c H0421
-  heaviness, stupidity &c H0421
+  heaviness, stupidity &c H0421, infestivity†
   insensibility, inertness, apathy
   attack, stroke
   fool, idiot, tomfool, wiseacre, simpleton, witling†, dizzard†, donkey, ass, ninny, ninnyhammer†, chowderhead†, chucklehead†, dolt, booby, Tom Noddy, looby†, hoddy-doddy†, noddy, nonny, noodle, nizy†, owl, goose, goosecap†, gaby†, radoteur†, nincompoop, badaud†, zany, trifler, babbler, pretty fellow, natural, niais†
   child, baby, infant, innocent, milksop, sop
-  oaf, lout, loon, lown†, dullard, doodle, calf, colt, buzzard, block, put, stick, stock, numps†, tony
+  oaf, lout, loon, lown†, dullard, doodle, calf, colt, buzzard, block, put, stick, stock, numps†, tony, plowboy†, groundling†, Tony Lumpkin†, pot- wallopper†, slubberdegullion†
   bull head, dunderhead, addlehead†, blockhead, dullhead†, loggerhead, jolthead†, jolterhead†, beetlehead†, beetlebrain, grosshead†, muttonhead, noodlehead, giddyhead†, numbskull, thickskull†, lackbrain†, shallowbrain†, dimwit, halfwit, lackwit†, dunderpate†, lunkhead sawney [U.S.], gowk†, clod, clod-hopper, clod-poll, clot-poll, clot-pate, bull calf, gawk, Gothamite, lummox, rube [U.S.], men of Boeotia, wise men of Gotham
   sot, jobbernowl†, changeling, mooncalf, gobemouche†
   dotard, driveler, old fogey, old woman, crock, crone, grandmother, cotquean†, henhussy†
@@ -31,10 +31,10 @@ V:
 
 Adj:
   imbecilic, idiotic, cretinous, feeble-minded, simple, dull-witted, epileptic, convulsive, cataleptic
-  unendowed with reason, void of reason, thoughtless, vegetative, moronic [Sarc.], brainless [Sarc.]
-  weak-minded, dull minded, shallow minded, lack- brained, rattle-brained, rattle headed, half witted, lean witted, short witted, dull witted, blunt-witted, shallow-pated†, clod-pated†, addle- pated†, addle-brained†, dim-sighted, short-sighted, thick-skulled, weak in the upper story
+  unendowed with reason, void of reason, thoughtless, vegetative, moronic [Sarc.], brainless [Sarc.], reasoningless†
+  weak-minded, dull minded, shallow minded, lack- brained, rattle-brained, rattle headed, half witted, lean witted, short witted, dull witted, blunt-witted, shallow-pated†, clod-pated†, addle- pated†, addle-brained†, dim-sighted, short-sighted, thick-skulled, weak in the upper story, presbyopic†, monoculous†
   fatuous, imbecile, driveling, blatant, babbling, vacant, sottish, bewildered &c H0604
-  dumb, stupid, clueless, dim, thick [Brit. Coll.], dense, slow, dopey, gormless [Brit. Coll.]
+  dumb, stupid, clueless, dim, thick [Brit. Coll.], dense, slow, dopey, gormless [Brit. Coll.], aphonous†
 
 Adv:
   fitfully
@@ -48,3 +48,7 @@ Phr:
   the falling sickness [Julius Caesar]
   soft in the head
   not all there
+  fortuna favet fatuis [Lat.]
+  les fous font les festinas et les sages les mangent [Fr.]
+  nomina stultorum parietibus harrent [Lat.]
+  stultorum plena sunt omnia [Lat.] [Cicero]

@@ -7,7 +7,7 @@ HGloss: The compulsion that forces one self into subjection.
 N:
   coercion and subjection; coercion, compulsion, constraint, duress, force, intimidation, subjugation, subjection, submission, surrender, capitulation, yielding, defeat, conquest, yoke
   enforcement
-  nonresistance, cession, resignation
+  nonresistance, cession, resignation, backdown†
   dependence, subordination, thrall, thralldom, bondage, serfdom, vassalage
   service, servitude, oppression &c H0708, yoke &c H0654, submission &c H0708
   necessity, obligation, compulsion &c H0649, subjection &c H0479
@@ -21,7 +21,7 @@ V:
   subjugate &c H0479
 
 Adj:
-  coercive, compulsory, forced, subjugated, subject, submissive, servile, defeated, vanquished
+  coercive, compulsory, forced, subjugated, subject, submissive, servile, defeated, vanquished, disquiparant†
   compelling, obligatory, peremptory
   coerced, subjected
 
@@ -30,7 +30,16 @@ Adv:
   on compulsion, forcibly
   under compulsion
 
+F:
+  Spanish: encomienda, repartimiento [colonial forced labour]
+  French: assujettissement [subjection, subjectification] [Foucault]
+
 Phr:
   vae victis [Lat.] [woe to the vanquished]
   to bring someone to heel
   under the yoke
+  have it your own way
+  it can't be helped
+  amen
+  da locum melioribus [Lat.]
+  tempori parendum [Lat.]

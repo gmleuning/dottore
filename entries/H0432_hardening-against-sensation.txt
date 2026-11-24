@@ -6,25 +6,25 @@ HGloss: Habit as the blunting of external sensations, so that the soul is indiff
 
 N:
   hardening against sensation; hardening, inurement, toughening, desensitization, callousness, callosity, numbness, insensibility, stoicism, endurance, tolerance, resilience, immunity
-  cold blood, cold heart, coldness, nonchalance, unconcern, insouciance &c H0433, heart of stone
+  cold blood, cold heart, coldness, nonchalance, unconcern, insouciance &c H0433, heart of stone, anaphrodisia†
   numbness &c H0389, anaesthesia
-  insensibleness†, moral insensibility, inertness, inertia, impassibility, impassibleness, inappetency†, apathy, phlegm, dullness, hebetude†, supineness, lukewarmness†
-  physical insensibility, obtuseness, paralysis
+  insensibleness†, moral insensibility, inertness, inertia, impassibility, impassibleness, inappetency†, apathy, phlegm, dullness, hebetude†, supineness, lukewarmness†, hebetation†, anorexy†
+  physical insensibility, obtuseness, paralysis, hemiplegia†
   habituation
   induration
 
 V:
   harden, toughen, inure, steel, desensitize, numb, deaden, become callous
-  render insensible, render callous, blunt, obtund†, benumb, paralyze, hebetate†, stun, stupefy, brutify†, brutalize, anaesthetize†
+  render insensible, render callous, blunt, obtund†, benumb, paralyze, hebetate†, stun, stupefy, brutify†, brutalize, anaesthetize†, assify†
   harden the heart, caseharden, sear
   habituate, season, accustom
   fortify, case harden
   fortify oneself, steel oneself, brace oneself
 
 Adj:
-  hardened, inured, seasoned, tough, steeled, callous, thick-skinned, insensitive, numb, case-hardened, battle-hardened
-  hard-nosed, pachydermatous, impervious, casehardened, steeled against, proof against, imperturbable &c H0614 [Obs.], unfelt
-  insensible, unfeeling, senseless, impercipient†, hard, case hardened, proof, obtuse, dull, anaesthetic, comatose, paralytic, palsied, dead
+  hardened, inured, seasoned, tough, steeled, callous, thick-skinned, insensitive, numb, case-hardened, battle-hardened, ballproof†
+  hard-nosed, pachydermatous, impervious, casehardened, steeled against, proof against, imperturbable &c H0614 [Obs.], unfelt, innavigable†, inpersuasible†, Achillean†
+  insensible, unfeeling, senseless, impercipient†, hard, case hardened, proof, obtuse, dull, anaesthetic, comatose, paralytic, palsied, dead, unimpressionable†, unimpressible†
   toughened
   anesthetic
   fortified, braced

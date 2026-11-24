@@ -6,7 +6,7 @@ HGloss: Universality as the self-identical that contains particularity within it
 
 N:
   the universal concept; universal, the universal, universality, generality; genus, kind, class, category, type, sort, family, order, form, idea, ideal type; common nature, what is common; general term, common noun, general idea, abstract idea; universals, problem of universals, realism and nominalism, universalia ante rem, in re; concrete universal
-  generalization, catholicity, catholicism, common run, worldwideness†
+  generalization, catholicity, catholicism, common run, worldwideness†, miscellaneousness†
   division, categorema†, head, section, department, subdepartment, province, domain
   pattern, archetype, exemplar, paradigm
 
@@ -27,7 +27,7 @@ Adv:
 
 F:
   German: Allgemeinheit, das konkrete Allgemeine
-  Latin: universale, natura communis, post rem, semper et ubique
+  Latin: universale, natura communis, post rem, semper et ubique, participatio [Boethius]
   Greek: katholou [on the whole, universal], to katholou, eidos, koinon
   Arabic: kullī [universal]
   Sanskrit: sāmānya [generality]

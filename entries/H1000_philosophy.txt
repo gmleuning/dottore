@@ -29,7 +29,7 @@ Adv:
   wisely, sagely, profoundly, rationally, rigorously, systematically, conceptually, theoretically, reflectively, thoughtfully, metaphysically, in thought, in the concept
 
 F:
-  German: Weltweisheit [archaic, worldly wisdom], Wissenschaft, begreifendes Denken
+  German: Weltweisheit [archaic, worldly wisdom], Wissenschaft, begreifendes Denken, Weltanschauung
   Latin: sapientia, amor sapientiae, scientia, philosophia prima, sapere aude
   Greek: philosophia [love of wisdom], sophia, theōria, epistēmē, noēsis
   Arabic: falsafa [philosophy], ḥikma [wisdom]

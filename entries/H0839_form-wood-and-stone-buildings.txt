@@ -6,9 +6,9 @@ HGloss: Building in wood and in stone, the stone column keeping the memory of th
 
 N:
   form: wood and stone buildings; timber construction, masonry, stonework, post and lintel, trabeation, column, pillar, beam, architrave, frieze, cornice
-  coping stone, capital, epistyle†, pediment, entablature†, tympanum
-  framework, rafter, girder, lintel, joist, corner stone, transom
-  post, shaft, pilaster, pedestal, plinth, buttress, jamb, mullion, abutment, baluster
+  coping stone, capital, epistyle†, pediment, entablature†, tympanum, zoophorus†
+  framework, rafter, girder, lintel, joist, corner stone, transom, travis†, trave†, modillion†
+  post, shaft, pilaster, pedestal, plinth, buttress, jamb, mullion, abutment, baluster, thill†, socle†, zocle†
   material, raw material, bricks and mortar
   tower, steeple, spire, turret, dome, cupola
   timber building, stone building, woodwork, carpentry, ashlar, the hut

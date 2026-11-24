@@ -28,6 +28,7 @@ Adj:
 Adv:
   musically, melodiously
   tunefully, harmoniously, in tones, in sound
+  andantino†, maestoso†, spiritoso†, vivace†, veloce†, prestissimo†, capriccioso†, scherzando†, rallentando†, affettuoso†, desto†
 
 F:
   German: Tonkunst, Vorspiel
@@ -43,3 +44,11 @@ Phr:
   all art constantly aspires towards the condition of music [Walter Pater]
   music hath charms
   the food of love
+  in notes by distance made more sweet [Collins]
+  like the faint exquisite music of a dream [Moore]
+  music arose with its voluptuous swell [Byron]
+  music is the universal language of mankind [Longfellow]
+  music's golden tongue [Keats]
+  the speech of angels [Carlyle]
+  will sing the savageness out of a bear [Othello]
+  music hath charms to soothe the savage beast

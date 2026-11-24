@@ -6,7 +6,7 @@ HGloss: The night-like pit in which a world of images is kept without being cons
 
 N:
   the night-like pit; the unconscious, the abyss of memory, the dark mine of images, the subconscious, latent memory, store-consciousness, the depths, the well of the past, the night of the mind; the treasury of images
-  the nightlike abyss, the dark shaft, the unconscious store, the unconscious pit, the mine of images, storehouse, repository, reservoir, latency, oblivion
+  the nightlike abyss, the dark shaft, the unconscious store, the unconscious pit, the mine of images, storehouse, repository, reservoir, latency, oblivion, reservatory†
 
 V:
   store, sink, lie latent, slumber, lie dormant

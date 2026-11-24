@@ -14,7 +14,7 @@ N:
 V:
   intend, mean, aim at, have in view
   design, have to, propose to oneself, harbor a design, have in contemplation, have in one's eye, have in petto, have an eye to
-  bid for, labor for, be after, aspire after, endeavor after, be at, drive at, point at, level at, aspire at, take aim, set before oneself, study to
+  bid for, labor for, be after, aspire after, endeavor after, be at, drive at, point at, level at, aspire at, take aim, set before oneself, study to, allign one's march†, desiderate†
   project &c H0195, have a mind to &c H0613, desire &c H0613, pursue &c H0613
   take upon oneself &c H0613, take into one's head, meditate, contemplate of, think of, dream of, talk of, premeditate &c H0656, compass, calculate, destine, destinate†, propose
   impute
@@ -38,3 +38,4 @@ F:
 Phr:
   it's the thought that counts
   to mean it
+  sublimi feriam sidera vertice [Lat.] [Horace]

@@ -13,6 +13,7 @@ N:
   due measure
   easing
   mesotes, modicum
+  armillary sphere†
 
 V:
   measure, mete, gauge, proportion, temper, moderate, balance, keep within bounds, observe due measure, keep in proportion
@@ -43,3 +44,4 @@ Phr:
   in medio stat virtus [Lat.]
   man is the measure of all things [Protagoras]
   in good measure
+  medium tenuere beati [Lat.]

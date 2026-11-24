@@ -9,7 +9,7 @@ N:
   apostrophe, monology†
   colloquy, duologue, trialogue
   soliloquy &c H0599
-  the piece, the fable, action, intrigue, complication, development, catastrophe, resolution, peripety, unity of action, prologue, epilogue, chorus, stichomythia
+  the piece, the fable, action, intrigue, complication, development, catastrophe, resolution, peripety, unity of action, prologue, epilogue, chorus, stichomythia, amourette†
   denouement
 
 V:
@@ -25,7 +25,8 @@ Adv:
   scene by scene, in acts, dramatically
 
 F:
-  French: dénouement
+  French: dénouement, coup de théâtre
+  Italian: imbroglio [intrigue, entanglement]
 
 Phr:
   the unities of time, place, and action

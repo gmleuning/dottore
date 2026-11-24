@@ -9,10 +9,10 @@ N:
   will, resolve &c H0660
   discretion &c H0618, preoption†, alternative, dilemma, adoption, cooptation†, novation†, decision &c H0606
   prelation†, predilection &c H0613
-  unwillingness, indisposition, indisposedness†, disinclination, aversation†, nolleity†, nolition†, renitence†, renitency, reluctance, indifference &c H0433, backwardness, slowness &c H0228, want of alacrity, want of readiness, indocility [Obs.]
-  scrupulousness, scrupulosity, qualms of conscience, twinge of conscience, delicacy, qualm, shrinking, hesitation &c H0380, fastidiousness &c H0609
+  unwillingness, indisposition, indisposedness†, disinclination, aversation†, nolleity†, nolition†, renitence†, renitency, reluctance, indifference &c H0433, backwardness, slowness &c H0228, want of alacrity, want of readiness, indocility [Obs.], diuturnity†, displacency†
+  scrupulousness, scrupulosity, qualms of conscience, twinge of conscience, delicacy, qualm, shrinking, hesitation &c H0380, fastidiousness &c H0609, titbit†
   averseness &c H0609 [Obs.], dissent &c H0604, refusal
-  irresolution, infirmity of purpose, indecision, indetermination, undetermination†, unsettlement, uncertainty &c H0604, suspense, hesitating, hesitation, hesitancy, vacillation, changeableness &c H0007, fluctuation, alternation &c H0228, caprice
+  irresolution, infirmity of purpose, indecision, indetermination, undetermination†, unsettlement, uncertainty &c H0604, suspense, hesitating, hesitation, hesitancy, vacillation, changeableness &c H0007, fluctuation, alternation &c H0228, caprice, diaporesis†
   fickleness, levity, pliancy &c H0260, weakness, timidity &c H0609, cowardice &c H0719, half measures
   waverer, ass between two bundles of hay, shuttlecock, butterfly, wimp, doughface [U.S.]
   rejection, repudiation, exclusion, refusal &c H0626, declination
@@ -28,7 +28,7 @@ V:
   be unwilling, nill, dislike &c H0609, grudge, begrudge, not be able to find it in one's heart to, not have the stomach to
   demur, stick at, scruple, stickle, hang fire, run rusty, recoil, shrink, swerve, hesitate &c H0380, avoid &c H0613
   oppose &c H0474, refuse &c H0626
-  be irresolute, hang in suspense, keep in suspense, leave "ad referendum", think twice about, pause, dawdle &c H0379, remain neuter, dillydally, hesitate, boggle, hover, dacker†, hum and haw, not know one's own mind, debate, balance, dally with, coquet with, will and will not, chaser-balancer†, go halfway, compromise, make a compromise, be thrown off one's balance, stagger like a drunken man, be afraid &c H0609, let 'I dare not' wait upon 'I would' [Macbeth], falter, waver vacillate &c H0007, change &c H0007, retract, fluctuate, pendulate†, alternate &c H0228, keep off and on, play fast and loose, blow hot and coldshuffle, palter, blink, trim
+  be irresolute, hang in suspense, keep in suspense, leave "ad referendum", think twice about, pause, dawdle &c H0379, remain neuter, dillydally, hesitate, boggle, hover, dacker†, hum and haw, not know one's own mind, debate, balance, dally with, coquet with, will and will not, chaser-balancer†, go halfway, compromise, make a compromise, be thrown off one's balance, stagger like a drunken man, be afraid &c H0609, let 'I dare not' wait upon 'I would' [Macbeth], falter, waver vacillate &c H0007, change &c H0007, retract, fluctuate, pendulate†, alternate &c H0228, keep off and on, play fast and loose, blow hot and coldshuffle, palter, blink, trim, balbutiate†, balbucinate†
   reject, set aside, lay aside, give up, decline &c H0626, exclude, except, pluck, spin, cast
   repudiate, scout, set at naught, fling to the winds, fling to the dogs, fling overboard, fling away, cast to the winds, cast to the dogs, cast overboard, cast away, throw to the winds, throw to the dogs, throw overboard, throw away, toss to the winds, toss to the dogs, toss overboard, toss away, send to the right about, disclaim &c H0599, discard &c H0228
   pick
@@ -36,11 +36,11 @@ V:
 Adj:
   chosen, elective, optional, decisive, resolute, deliberate
   eclectic, choosing, preferential, choice &c H0664
-  unwilling, not in the vein, loth, loath, shy of, disinclined, indisposed, averse, reluctant, not content, adverse &c H0474, laggard, backward, remiss, slack, slow to, indifferent &c H0433, scrupulous, squeamish &c H0609, repugnant &c H0609, restiff†, restive, demurring, unconsenting &c H0626, involuntary &c H0134
+  unwilling, not in the vein, loth, loath, shy of, disinclined, indisposed, averse, reluctant, not content, adverse &c H0474, laggard, backward, remiss, slack, slow to, indifferent &c H0433, scrupulous, squeamish &c H0609, repugnant &c H0609, restiff†, restive, demurring, unconsenting &c H0626, involuntary &c H0134, resty†, crossgrained†, dogsick†
   irresolute, infirm of purpose, double-minded, half-hearted, undecided, unresolved, undetermined, shilly-shally, fidgety, tremulous, off one's balance, at a loss &c H0604
-  vacillating, unsteady &c H0007, unsteadfast†, fickle, without ballast, capricious, volatile, frothy, light, lightsome, light-minded, giddy, fast and loose
+  vacillating, unsteady &c H0007, unsteadfast†, fickle, without ballast, capricious, volatile, frothy, light, lightsome, light-minded, giddy, fast and loose, unstaid†
   weak, feeble-minded, frail, timid, wimpish, wimpy &c H0609, cowardly &c H0719, dough-faced [U.S.], facile, pliant &c H0260, unable to say 'no', easy-going revocable, reversible
-  rejected, rejectaneous†, rejectious†, not chosen, to be thought of, out of the question
+  rejected, rejectaneous†, rejectious†, not chosen, to be thought of, out of the question, unsurmountable†, seemless†
   arbitrary
   hesitant, itchy
 
@@ -48,7 +48,7 @@ Adv:
   by choice, deliberately, at one's discretion
   by preference, in preference, rather, before
   of one's own free will
-  unwillingly, grudgingly, with a heavy heart, with a bad, with an ill grace, against one's wishes, against one's will, against the grain, sore against one's wishes, sore against one's will, sore against one's grain, in spite of one's teeth, in spite of oneself, perforce &c H0649, under protest, not for the world, far be it from me
+  unwillingly, grudgingly, with a heavy heart, with a bad, with an ill grace, against one's wishes, against one's will, against the grain, sore against one's wishes, sore against one's will, sore against one's grain, in spite of one's teeth, in spite of oneself, perforce &c H0649, under protest, not for the world, far be it from me, overthwart†
   irresolutely, irresolved†, irresolvedly†, in faltering accents, off and on, from pillar to post, seesaw &c H0228
   Int, how happy could I be with either! [Gay]
   neither, neither the one nor the other, no &c H0599
@@ -57,9 +57,9 @@ Adv:
 
 F:
   German: Willkür
-  Latin: arbitrium, invita Minerva, nolens volens &c H0134, liberum arbitrium
+  Latin: arbitrium, invita Minerva, nolens volens &c H0134, liberum arbitrium, (liberum) arbitrium
   Greek: prohairesis
-  French: embarras de choix, a contre caeur, malgre soi, legerete
+  French: embarras de choix, a contre caeur, malgre soi, legerete, pis aller, faute de mieux, arbitre, libre arbitre
   Arabic: ikhtiyār [choice]
 
 Phr:
@@ -68,3 +68,9 @@ Phr:
   anything goes
   anything you like
   as one pleases
+  a change came o'er the spirit of my dream [Byron]
+  nil fuit unquain sic inipar sibi [Lat.]
+  the deuce is in him
+  who cares?, what difference does it make?
+  There's not a dime's worth of difference between them [George Wallace]
+  non haec in faedera [Lat.]

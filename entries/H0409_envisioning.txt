@@ -6,7 +6,7 @@ HGloss: The seeing in trance of what lies beyond the waking senses, a knowing st
 
 N:
   envisioning; vision, envisioning, beholding, visualization, seeing without eyes, inner seeing, apparition
-  specter
+  specter, boggart†, lemures†
   illusion, virtual image
   visualizing, seeing the absent, second sight, prevision
   phantasm

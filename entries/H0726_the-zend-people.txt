@@ -5,7 +5,7 @@ Gloss: The people of the Zoroastrian scriptures.
 HGloss: The people of the Zend books, whose religion of light is the first worship of a pure, universal principle.
 
 N:
-  the Zend people; the Avestan people, ancient Iranians, Zoroastrians, Parsis, Magi, the Avesta, Zend-Avesta, Zarathustra, Ahura Mazda, the good mind
+  the Zend people; the Avestan people, ancient Iranians, Zoroastrians, Parsis, Magi, the Avesta, Zend-Avesta, Zarathustra, Ahura Mazda, the good mind, Gymnosophist†
   the Zend race, the ancient Parsees, the Bactrians, Zoroaster, the people of light, the Zend books, Ormuzd-worship
 
 V:

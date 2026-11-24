@@ -16,7 +16,7 @@ V:
 
 Adj:
   Epicurean, hedonistic, atomistic, tranquil
-  Lucretian, sensationalist, eudaemonistic, materialist, ataractic, untroubled, unperturbed, serene, pleasure-seeking, retired, unpolitical
+  Lucretian, sensationalist, eudaemonistic, materialist, ataractic, untroubled, unperturbed, serene, pleasure-seeking, retired, unpolitical, delitescent†
 
 Adv:
   quietly, in the Garden

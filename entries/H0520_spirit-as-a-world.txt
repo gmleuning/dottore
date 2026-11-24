@@ -22,9 +22,13 @@ Adv:
 
 F:
   German: Geist &c H0370, Lebensform, Lebenswelt [Husserl], Zeitgeist
-  Latin: mores
-  Greek: ethos
+  Latin: mores, mundus
+  Greek: ethos, kosmos, aiōn, pan, ta panta
   Arabic: ʿumrān [civilization] [Ibn Khaldun], ʿaṣabiyya [group solidarity]
+  French: modèle inconscient [unconscious model] [Lévi-Strauss], monde
+  Danish: verden, verdensalt
+  Dutch: wereld
+  Swedish: vårld
 
 Phr:
   the spirit of the age

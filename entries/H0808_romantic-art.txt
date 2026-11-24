@@ -24,7 +24,8 @@ Adv:
   spiritually, beyond form
 
 F:
-  German: Romantik, Innerlichkeit, Sehnsucht
+  German: Romantik, Innerlichkeit, Sehnsucht, romantisch
+  French: romantique
 
 Phr:
   [der Geist geht] zur Versöhnung seiner in sich selber zurück [Ger.] [Hegel, Aesthetics, on romantic art]

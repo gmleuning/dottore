@@ -12,8 +12,8 @@ N:
   coming after, going after &c H0228, consecution
   neverness, absence of time, no time, dies non, Tib's eve, Greek Kalends, a blue moon
   chronometry, horometry†, horology, epoch, style, era
-  almanac, calendar, ephemeris, register, registry, annals, journal, diary
-  chronogram, wall clock, pendulum clock, grandfather's clock, cuckoo clock, alarm clock, clock radio, watch, wristwatch, pocket watch, stopwatch, Swiss watch, atomic clock, digital clock, analog clock, quartz watch, water clock, chronometer, chronoscope†, chronograph, repeater, timepiece, dial, sundial, gnomon, horologe, pendulum, hourglass, clepsydra†, ghurry†
+  almanac, calendar, ephemeris, register, registry, annals, journal, diary, Almanach de Gotha†, almanack†, cashbook†, petty cashbook†
+  chronogram, wall clock, pendulum clock, grandfather's clock, cuckoo clock, alarm clock, clock radio, watch, wristwatch, pocket watch, stopwatch, Swiss watch, atomic clock, digital clock, analog clock, quartz watch, water clock, chronometer, chronoscope†, chronograph, repeater, timepiece, dial, sundial, gnomon, horologe, pendulum, hourglass, clepsydra†, ghurry†, marigraph†, pneumatograph†, stethograph†
   chronographer†, chronologer, chronologist, timekeeper, annalist
   calendar year, leap year, Julian calendar, Gregorian calendar, Chinese calendar, Jewish calendar, perpetual calendar, Farmer's almanac, fiscal year
   anachronism, metachronism, parachronism, prochronism, prolepsis, antichronism
@@ -24,14 +24,15 @@ N:
   prematurity, precocity, precipitation, anticipation, a stitch in time
   promptness, immediateness
   lateness, tardiness &c H0228
-  delay, delation, cunctation, procrastination, deferring, deferral, postponement, adjournment, prorogation, retardation, respite, pause, reprieve, stay of execution, protraction, prolongation, Fabian policy, chancery suit, federal case, leeway, high time, moratorium, holdover
+  delay, delation, cunctation, procrastination, deferring, deferral, postponement, adjournment, prorogation, retardation, respite, pause, reprieve, stay of execution, protraction, prolongation, Fabian policy, chancery suit, federal case, leeway, high time, moratorium, holdover, tensure†
   untimeliness, intempestivity†, unseasonableness, inexpedience, unsuitable time, improper time, unreasonableness, evil hour, contretemps, intrusion
   bad time, wrong time, inappropriate time, not the right occasion, inopportune time, poor timing
-  March, month, summer, June, April, July, September, October, November, August, January, December, February, tomorrow, minute, Friday, none, spring, Sunday, yesterday, winter, Saturday, Monday, Tuesday, Thursday, Wednesday, Jan, Feb, Nov, Sept, Oct, Aug, Dec, dawn, autumn, Mar, sunset, Apr, Sep, Mon, twilight, sunrise, Nissan, Wed
-  bedtime, Sabbath, dusk, morrow, Fri, midday, lunchtime, summertime, Ramadan, nightfall, springtime, daybreak, Pus, sundown, workday, Midweek, Tues, dawning
+  March, month, summer, June, April, July, September, October, November, August, January, December, February, tomorrow, minute, Friday, none, spring, Sunday, yesterday, winter, Saturday, Monday, Tuesday, Thursday, Wednesday, Jan, Feb, Nov, Sept, Oct, Aug, Dec, dawn, autumn, Mar, sunset, Apr, Sep, Mon, twilight, sunrise, Nissan, Wed, decenniumm lustrum†, dayspring†, foreday†, cockcrowing†, Allhallows†, Allhallowmas†
+  bedtime, Sabbath, dusk, morrow, Fri, midday, lunchtime, summertime, Ramadan, nightfall, springtime, daybreak, Pus, sundown, workday, Midweek, Tues, dawning, candlelighting†
   time unit, calendar month, mean time, small hours, first light, rest day, late-night hour, happy hour, half-hour, early-morning hour, dry season, quarter-hour, twenty-four hours, zero hour, solar day, mean solar time, mean solar day, rush hour, closing time, Jewish calendar month, Islamic calendar month, Revolutionary calendar month, twelve noon, high noon, harvest time, Hindu calendar month, rainy season, ship's bell, terrestrial time, canonical hour, terrestrial dynamical time, Gregorian calendar month, work day, working day, person hour, man hour, snow day, lunch period, breakfast time, solar month, morning prayer, leap second, lunar month, Lord's Day, D-day, future date, due date, rain date, maturity date, natal day, Normandy landings, Whit-Tuesday
   waiting, eve, interim
-  week, weekend, weekday, morning, afternoon, evening, tonight, overnight, midnight, noon, birthday, anniversary, timeline, deadline, timetable, timing, timer, a while, the other day
+  week, weekend, weekday, morning, afternoon, evening, tonight, overnight, midnight, noon, birthday, anniversary, timeline, deadline, timetable, timing, timer, a while, the other day, bissextile†, Candlemas†, Hallowmas†
+  secondariness†, afterburden†, aorist†, isochronism†, coetanian†
 
 V:
   elapse, pass, go by, roll on, flow, run, slip by, fly, march on; last, endure, continue, persist; time, clock, schedule, measure time
@@ -43,7 +44,7 @@ V:
   be early, be beforehand, keep time, take time by the forelock, anticipate, forestall, have the start, gain the start, steal a march upon, gain time, draw on futurity, bespeak, secure, engage, preengage†
   accelerate, expedite &c H0228, make haste &c H0379
   be prompt, be on time, be in time, arrive on time, be in the nick of time
-  be late, tarry, wait, stay, bide, take time, dawdle &c H0379, linger, loiter, bide one's time, take one's time, hang fire, stand over, lie over
+  be late, tarry, wait, stay, bide, take time, dawdle &c H0379, linger, loiter, bide one's time, take one's time, hang fire, stand over, lie over, aby†, droil†, lollop†
   put off, defer, lay over, suspend, table [Parl.], shift off, stave off, waive, retard, remand, postpone, adjourn, procrastinate, dally, prolong, protract, spin out, draw out, lengthen out, stretch out, prorogue, keep back, tide over, push to the last, drive to the last, let the matter stand over, reserve &c H0696, temporize, consult one's pillow, sleep on it
   lose an opportunity &c H0132, be kept waiting, dance attendance, kick one's heels, cool one's heels, wait impatiently, await &c H0583, sit up, sit up at night
   be ill timed, mistime, intrude, come amiss, break in upon, have other fish to fry, be busy, be occupied
@@ -57,11 +58,11 @@ Adj:
   misdated, undated, overdue, past due, out of date
   Time with reference to Succession
   early, prime, forward, prompt &c H0379, summary
-  premature, precipitate, precocious, prevenient†, anticipatory
+  premature, precipitate, precocious, prevenient†, anticipatory, deckle- edged†, indigested†
   sudden &c H0223, unexpected &c H0583, near, near at hand, immediate
-  seasonable, punctual, prompt
-  late, tardy, slow, behindhand, serotine†, belated, postliminious†, posthumous, delayed, postponed, dilatory &c H0228, in abeyance
-  ill-timed, mistimed, ill-fated, ill-omened, ill-starred, untimely, unseasonable, out of season, inopportune, timeless, intrusive, untoward, unlucky, inauspicious, infelicitous, unbefitting, unpropitious, unfortunate, unfavorable, unsuited &c H0093, inexpedient &c H0196
+  seasonable, punctual, prompt, timeful†
+  late, tardy, slow, behindhand, serotine†, belated, postliminious†, posthumous, delayed, postponed, dilatory &c H0228, in abeyance, postnate†, postdiluvial†, postdiluvian†, reptatorial†
+  ill-timed, mistimed, ill-fated, ill-omened, ill-starred, untimely, unseasonable, out of season, inopportune, timeless, intrusive, untoward, unlucky, inauspicious, infelicitous, unbefitting, unpropitious, unfortunate, unfavorable, unsuited &c H0093, inexpedient &c H0196, discommodious†, unblest†, misbecoming†, indign†, unbeseeming†
   unpunctual, too late for, too soon for, wise after the event, monday morning quarterbacking, twenty-twenty hindsight
 
 Adv:
@@ -69,8 +70,8 @@ Adv:
   while, whilst, during, pending, during the time, during the interval, in the course of, at that point, at that point in time, for the time being, day by day, in the time of, when, meantime, in the interim, ad interim, from day to day, from hour to hour, hourly, always, for a time, for a season, till, until, up to, yet, as far as, by that time, so far, hereunto, heretofore, prior to this, up to this point
   never, ne'er [Contr.], at no time, at no period, on the second Tuesday of the week, when Hell freezes over, on no occasion, never in all one's born days, nevermore, in no degree
   o'clock
-  soon, anon, betimes, rath†, eft, eftsoons, ere long, before long, shortly, beforehand, prematurely, precipitately &c H0379, too soon, before its time, before one's time, in anticipation, unexpectedly &c H0583
-  suddenly &c H0223, before one can say 'Jack Robinson', at short notice, extempore, on the spur of the moment, on the spur of the occasion [Bacon], at once, on the spot, on the instant, at sight, offhand, out of hand, straight, straightway, straightforth†, forthwith, incontinently, summarily, immediately, briefly, quickly, speedily, apace, before the ink is dry, almost immediately, presently at the first opportunity, in no long time, by and by, in a while, directly
+  soon, anon, betimes, rath†, eft, eftsoons, ere long, before long, shortly, beforehand, prematurely, precipitately &c H0379, too soon, before its time, before one's time, in anticipation, unexpectedly &c H0583, hurry-skurry†
+  suddenly &c H0223, before one can say 'Jack Robinson', at short notice, extempore, on the spur of the moment, on the spur of the occasion [Bacon], at once, on the spot, on the instant, at sight, offhand, out of hand, straight, straightway, straightforth†, forthwith, incontinently, summarily, immediately, briefly, quickly, speedily, apace, before the ink is dry, almost immediately, presently at the first opportunity, in no long time, by and by, in a while, directly, improviso†, amain†
   on time, punctually, at the deadline, precisely, exactly, right on time, to the minute, in good time, in military time, in pudding time†, time enough, with no time to spare, by a hair's breadth
   lateward†, backward, late in the day, at sunset, at the eleventh hour, at length, at last, ultimately, after time, behind time, after the deadline, too late, too late for &c H0132
   slowly, leisurely, deliberately, at one's leisure, ex post facto, sine die
@@ -80,13 +81,14 @@ Adv:
   later, earlier, sooner, someday, awhile, afterwards, nowadays, anymore, lately, recently, at the moment, right now, ASAP [Coll.]
 
 F:
-  German: angeschautes Werden
-  Latin: tempus, pro tempore, pendente lite, de die in diem
-  Greek: chronos, aiōn, kairos [opportune moment]
-  French: cinquecento, a' vue d'oeil, medecine expectante, faire antichambre, mal a propos
+  German: angeschautes Werden, Ewigkeit, gegenwärtig, anwesend, Gegenwart, Anwesenheit, vergangen, gewesen, zukünftig, Wetter
+  Latin: tempus, pro tempore, pendente lite, de die in diem, aeviternitas [the time of angels, between time and eternity] [Aquinas], aevum, aeternitas, perpetuitas, sempiternitas, praesens, praeteritum, futurum, tempus The
+  Greek: chronos, aiōn, kairos [opportune moment], paron, parelthon, mellon
+  French: cinquecento, a' vue d'oeil, medecine expectante, faire antichambre, mal a propos, fluide vital, durée de vie, vie, âge, durée, génération, éternité, temps, présent, passé, futur
   Arabic: dahr [time, fate, the ages], waqt [moment]
   Sanskrit: kāla [time, death]
   Chinese: guangyin [light and shade, time]
+  Danish: præsentisk, nuværende, tilkommende
 
 Phr:
   tempus fugit [Lat.]
@@ -96,3 +98,42 @@ Phr:
   kālo'smi [Skt.] [I am time] [Bhagavad Gita]
   time flies
   in the fullness of time
+  time flies, tempus fugit [Lat.]
+  time runs out, time runs against, race against time, racing the clock, time marches on, time is of the essence, time and tide wait for no man
+  ad calendas Groecas [Lat.]
+  panting Time toileth after him in vain [Johnson]
+  'gainst the tooth of time and razure of oblivion [Contr.] [Measure for Measure]
+  rich with the spoils of time [Gray]
+  tempus edax rerum [Lat.] [Horace]
+  the long hours come and go [C.G. Rossetti]
+  Time rolls his ceaseless course [Scott]
+  Time the foe of man's dominion [Peacock]
+  time wasted is existence, used is life [Young]
+  truditur dies die [Lat.] [Horace]
+  volat hora per orbem [Lat.] [Lucretius]
+  labitur et labetur [Lat.] [Horace]
+  fugaces labuntur anni [Lat.] [Horace]
+  tomorrow and tomorrow and tomorrow creeps in this petty pace from day to day [Macbeth]
+  the time is up
+  here today and gone tomorrow
+  non semper erit aestas [Lat.]
+  eheu! fugaces labuntur anni [Lat.]
+  a schoolboy's tale, the wonder of the hour! [Byron]
+  dum loquimur fugerit invidia aetas [Lat.]
+  fugit hora [Lat.]
+  all that is transitory is but an illusion [Goethe]
+  esto perpetuum [Lat.]
+  labitur et labetur in omne volubilis oevum [Lat.] [Horace]
+  but thou shall flourish in immortal youth [Addison]
+  Eternity! thou pleasing, dreadful thought [Addison]
+  her immortal part with angels lives [Romeo and Juliet]
+  ohne Rast [Ger.], [Goethe's motto]
+  ora e sempre [It.]
+  prior tempore prior jure [Lat.]
+  no sooner said than done, immediately, if not sooner
+  tout vient a temps pour qui sait attendre [Fr.]
+  touch and go, not a minute too soon, in the nick of time, just under the wire, get on board before the train leaves the station
+  nonum prematur in annum [Lat.] [Horace]
+  against the sunbeams serotine and lucent [Longfellow]
+  ie meglio tardi che mai [It.]
+  deliberando saepe perit occasio [Lat.] [Syrus]

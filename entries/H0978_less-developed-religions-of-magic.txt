@@ -7,9 +7,9 @@ HGloss: The less developed forms of magic, among peoples of the Eskimos and Afri
 N:
   less developed religions of magic; shamanism, fetishism, animism, ancestor cults, African traditional religion, Eskimo shamanism, the medicine man, witch doctor
   sorcery, occult art, occult sciences, the black art, necromancy, theurgy, thaumaturgy†, demonology, demonomy†, demonship†, bedevilment, witchcraft, witchery, glamor, feticism†, ghost dance, hoodoo, obi, obiism†, voodooism, vampirism, conjuration, bewitchery, exorcism, enchantment, mysticism, second sight, od force, odylic force†, clairvoyance, spiritualism
-  idolatry, idolism†, demonism†, demonolatry†, idol- worship, demon-worship, devil-worship, fire-worship, zoolatry, fetichism, heliolatry
+  idolatry, idolism†, demonism†, demonolatry†, idol- worship, demon-worship, devil-worship, fire-worship, zoolatry, fetichism, heliolatry, ecclesiolatry†
   idol, golden calf, graven image, fetich, avatar, Juggernath†
-  sacrifices, hecatomb, holocaust, human sacrifices, immolation, mactation†, infanticide, self-immolation, suttee
+  sacrifices, hecatomb, holocaust, human sacrifices, immolation, mactation†, infanticide, self-immolation, suttee, felo de se†
   deification, apotheosis, hero worship
   undeveloped religions of magic, the lowest religions, primitive religion, the religion of sorcerers, the religion of the Africans, the religion of the Eskimos, the angekok, the sorcerer, the wizard, the magician, the shaman, the rainmaker, the conjurer, the fetish-priest, the obeah-man, the singhili, the fetish, the amulet, the charm, the talisman, the juju, the totem, the mana, spirits, ghosts, the dead, the shades, the power of the dead, cult of the dead, possession, ecstasy, frenzy, the drum, the dance, incantation, spell, rain-making, weather-magic, healing magic, direct magic, the magic of the singular will, natural religion in its crudity
   angakkok, obeah
@@ -39,7 +39,8 @@ F:
   Yoruba: babalawo
   Greenlandic: angakkoq
   Melanesian: mana
-  Korean: mudang [shaman], gut [shamanic rite]
+  Korean: mudang [shaman], gut [shamanic rite], sinbyeong [spirit illness, the calling], naerimgut [initiation rite], gangsin [spirit descent]
 
 Phr:
   the spirit of the ancestors
+  adorer le veau d'or [Fr.]

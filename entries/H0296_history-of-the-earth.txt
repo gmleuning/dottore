@@ -13,8 +13,8 @@ V:
   undergo, become
 
 Adj:
-  geological, geohistorical, primeval, primordial, antediluvian, diluvial, prehistoric, aeonian
-  prime, primitive, paleolithic
+  geological, geohistorical, primeval, primordial, antediluvian, diluvial, prehistoric, aeonian, primigenous†, diluvian†, protohistoric†, paleocrystic†
+  prime, primitive, paleolithic, paleoanthropic†, primordinate†
   initial, incipient, inchoate, embryonic, rudimental
   geogonic, formative, past
 

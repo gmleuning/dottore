@@ -13,7 +13,7 @@ N:
   picture gallery, exhibit, studio, atelier, pinacotheca†
   limning, brushwork, easel-picture
   graphite
-  photo, photography, photographer, camera, pic [Coll.], shot, selfie, portrait, print, slide, negative, lens, zoom, flash, photoshoot
+  photo, photography, photographer, camera, pic [Coll.], shot, selfie, portrait, print, slide, negative, lens, zoom, flash, photoshoot, ectype†
 
 V:
   paint, depict, portray, picture, limn, delineate, render, colour
@@ -33,15 +33,19 @@ Adv:
   in paint
 
 F:
-  German: Gemälde
-  Latin: pictura
-  Greek: zōgraphia
+  German: Gemälde, Bild
+  Latin: pictura, tabula
+  Greek: zōgraphia, zōgraphēma, pinax
   French: tableau, piece
   Chinese: guohua [Chinese painting]
   Japanese: sumi-e [ink painting]
   Korean: sumukhwa [ink painting]
+  Italian: quadro
 
 Phr:
   ut pictura poesis [Lat.] [Horace]
   a picture is worth a thousand words
   paint the town red
+  fecit [Lat.], delineavit [Lat.]
+  mutum est pictura poema [Lat.]
+  sculpsit [Lat.], imprimit [Lat.]

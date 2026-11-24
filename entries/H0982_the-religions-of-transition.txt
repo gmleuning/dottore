@@ -20,7 +20,7 @@ Adj:
 Adv:
   in transition
   transitionally, midway, in passage, in between, on the threshold, on the way, by degrees
-  halfway
+  halfway, midships†
 
 F:
   German: Übergang, Kampf der Subjektivität, Gärung

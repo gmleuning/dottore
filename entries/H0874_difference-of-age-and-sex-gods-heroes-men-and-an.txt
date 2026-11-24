@@ -22,6 +22,9 @@ Adv:
   by age, by sex
   by rank, in degree
 
+F:
+  Italian: putto
+
 Phr:
   gods, heroes, and men
   gods, heroes and men

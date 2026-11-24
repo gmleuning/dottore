@@ -5,7 +5,7 @@ Gloss: The particular forms of romantic building.
 HGloss: The particular forms of romantic building: the enclosed house, its exterior and interior.
 
 N:
-  particular formations of romantic architecture; nave, aisle, choir, transept, apse, crossing, tower, spire, buttress, pointed arch, rose window
+  particular formations of romantic architecture; nave, aisle, choir, transept, apse, crossing, tower, spire, buttress, pointed arch, rose window, ambo†, prothesis†, baldacchino†, jube†
   chancel, vestry, crypt
   steeple, campanile, turret
   particular forms, specific formations, details of romantic building, the enclosed house, exterior and interior, pier, window, decoration
@@ -17,7 +17,7 @@ V:
   particularize, detail, specify, form, shape
 
 Adj:
-  cruciform, ecclesiastical, vaulted
+  cruciform, ecclesiastical, vaulted, retiform†, areolar†, cancellated†
   particular, special, specific, formal, detailed
 
 Adv:

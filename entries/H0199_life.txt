@@ -7,13 +7,13 @@ HGloss: The idea in its immediacy: the soul in its body, the living concept pres
 N:
   life; vitality, liveliness, animation, vigour, vivacity, spirit, vital force, life-force, life principle, entelechy; organism, organization, living being, creature; self-organization, autopoiesis, self-maintenance
   viability, vital spark, vital flame, soul
-  protoplasm
+  protoplasm, proplasm†
   activity, energy
   the immediate idea
   zoē
 
 V:
-  live, be alive, breathe, exist, subsist, survive, thrive, flourish, animate, enliven, vivify, quicken, invigorate
+  live, be alive, breathe, exist, subsist, survive, thrive, flourish, animate, enliven, vivify, quicken, invigorate, vivificate†
   respire, subsist &c H0004, walk the earth, strut and fret one's hour upon the stage [Macbeth], be spared
 
 Adj:

@@ -7,8 +7,8 @@ HGloss: The painter's craft, conception, composition and characterization.
 N:
   the painter's craft; craft, technique, skill, method, workmanship, studio practice
   skillfulness, dexterity, adroitness, expertness, proficiency, facility, knack, mastery
-  engraving, chalcography†, line engraving, mezzotint engraving, stipple engraving, chalk engraving, dry point, bur, aquatinta†, chiseling, plate engraving, copperplate engraving, steel engraving, wood engraving, xylography, lignography†, glyptography†, cerography†, lithography, chromolithography†, photolithography, zincography†, glyphography, xylograph, lignograph†, glyptograph†, cerograph†, chromolithograph, photolithograph, zincograph†, glyphograph†, holograph
-  impression, print, plate, steelplate, copperplate, etching, mezzotint, aquatint, lithotint†, cut, woodcut, stereotype, graphotype†, autotype†, heliotype†
+  engraving, chalcography†, line engraving, mezzotint engraving, stipple engraving, chalk engraving, dry point, bur, aquatinta†, chiseling, plate engraving, copperplate engraving, steel engraving, wood engraving, xylography, lignography†, glyptography†, cerography†, lithography, chromolithography†, photolithography, zincography†, glyphography, xylograph, lignograph†, glyptograph†, cerograph†, chromolithograph, photolithograph, zincograph†, glyphograph†, holograph, stelography†, craftmanship†
+  impression, print, plate, steelplate, copperplate, etching, mezzotint, aquatint, lithotint†, cut, woodcut, stereotype, graphotype†, autotype†, heliotype†, talbotype†, calotype†
   graver, burin†, etching point, style, stone, wood block, negative, die, punch, stamp
   printing, plate printing, copperplate printing, anastatic printing†, color printing, lithographic printing, type printing &c H0599, three-color process
   illustration, illumination, half tone, photogravure, vignette, initial letter, tailpiece
@@ -35,6 +35,9 @@ Adv:
 
 F:
   French: métier, cul de lampe
+  Italian: pentimento [a painted-over change showing through]
+  Russian: faktura [the worked texture of the material] [Russian avant-garde]
+  Latin: factura
 
 Phr:
   the tricks of the trade

@@ -7,11 +7,11 @@ HGloss: Shape as the realized totality, the crystal, whose form is shaped from w
 N:
   the crystal; crystal, crystallization, lattice, crystal lattice, facet, face, cleavage, symmetry, regularity, geometric form, prism, cube, octahedron, gem, jewel; perfected shape
   Platonic bodies, rhomboid, tetrahedron, dodecahedron, icosahedron, pyramid, parallelopiped
-  solidification, consolidation, concretion
+  solidification, consolidation, concretion, caseation†, solidation†, inspissation†
   surface
   gemstone, precious stone
   crystalline form, the regular solid, the mute life of the crystal
-  curing, grille
+  curing, grille, rivulation†
 
 V:
   crystallize, facet, cleave, form, solidify, precipitate

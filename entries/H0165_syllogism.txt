@@ -18,8 +18,8 @@ V:
 
 Adj:
   syllogistic, inferential, deductive, illative, ratiocinative, argumentative, demonstrative, logical, valid, sound, mediated
-  rationalistic, dialectic, discursive
-  by implication
+  rationalistic, dialectic, discursive, discursory†, discoursive†
+  by implication, steganographic†
 
 Adv:
   syllogistically, deductively, by inference, therefore, thus, hence, consequently, it follows that
@@ -27,12 +27,13 @@ Adv:
   thence
 
 F:
-  German: Vermittlung, Schluß
-  Latin: syllogismus, ratiocinium, terminus medius, ergo, argumentum ad hominem
-  Greek: syllogismos
+  German: Vermittlung, Schluß, Begriff
+  Latin: syllogismus, ratiocinium, terminus medius, ergo, argumentum ad hominem, nomen
+  Greek: syllogismos, horos
   Arabic: qiyās [syllogism, analogy]
   Sanskrit: anumāna [inference], pañcāvayava [five-membered syllogism]
   Korean: churon [syllogism], samdannonbeop [three-step syllogism]
+  French: terme
 
 Phr:
   everything rational is a syllogism [Hegel]

@@ -27,17 +27,23 @@ Adv:
   psychically
 
 F:
-  German: Anthropologie
-  Latin: anima, penetralia mentis, divina particula aurae
-  Greek: psychē
+  German: Anthropologie, Geist, Gemüt, Witz
+  Latin: anima, penetralia mentis, divina particula aurae, spiritus, mens, animus, ingenium
+  Greek: psychē, dianoia, thymos, phrenes
   Arabic: nafs [soul], rūḥ
   Sanskrit: jīva [living soul]
   Chinese: hun and po [the two souls]
   Japanese: tamashii
   Korean: yeonghon [soul]
+  French: puissance de l’âme, esprit
+  Basque: gogo
+  Hebrew: ruach, neshamah
+  Italian: mente, ingenio
+  Spanish: alma
 
 Phr:
   anima forma corporis [Lat.] [Aristotle, Aquinas]
   the soul is in a certain way all things [Aristotle]
   body and soul
   bare one's soul
+  am I not a man and a brother? [Wedgwood]

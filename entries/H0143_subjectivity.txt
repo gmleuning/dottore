@@ -21,6 +21,14 @@ Adj:
 Adv:
   subjectively, formally, logically, in thought, in the mind
 
+F:
+  French: sujet
+  German: Subjekt, Untertan
+  Greek: hypokeimenon, hypostasis, hypokeimeno
+  Italian: soggeto
+  Latin: subjectum, suppositum, subjectus, subditus
+  Spanish: sujeto, subdito, sugeto
+
 Phr:
   cogito ergo sum [Lat.] [Descartes]
   in one's own mind

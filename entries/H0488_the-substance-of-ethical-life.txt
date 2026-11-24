@@ -24,10 +24,11 @@ Adv:
   in common, in shared life
 
 F:
-  German: Sittlichkeit &c H0675, Vaterland
+  German: Sittlichkeit &c H0675, Vaterland, Heimat [home ground]
   Latin: patria, pro patria
   Arabic: umma [community]
   Chinese: jiaguo [family-state]
+  French: terre natale
 
 Phr:
   dulce et decorum est pro patria mori [Lat.] [Horace]

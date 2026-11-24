@@ -10,7 +10,7 @@ N:
   type, cipher, device, representation &c H0745, epigraph, motto, posy
   similitude, allegory &c H0790
   implication, allusion &c H0599, suggestion &c H0599, figure of speech &c H0790
-  symbolization, semiology, semiotics
+  symbolization, semiology, semiotics, semeiology†, semeiotics†
   symbolizing imagination, allegorizing fancy, poetic fancy, symbol-making, figuration
 
 V:

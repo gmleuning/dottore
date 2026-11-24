@@ -8,7 +8,7 @@ N:
   the particular concept; particular, particularity, specificity, species, kind, sort, subclass, subcategory, subtype, variety, type, specific difference, determinateness, peculiarity, specialty, specialness; the particular and the general
   breed
   speciality, specialite†, individuality, individuity†, idiocrasy &c H0378, personality, characteristic, idiosyncrasy, specificness†, singularity &c H0063, state, trait, distinctive feature, technicality, differentia
-  anomaly, exception
+  anomaly, exception, abnormity†
   specification
 
 V:
@@ -36,3 +36,4 @@ Phr:
   the devil is in the details
   every particular is a species
   of a kind
+  le style est l'homme meme [Fr.]

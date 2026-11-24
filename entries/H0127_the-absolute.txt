@@ -34,6 +34,7 @@ F:
   Sanskrit: brahman, paramātman
   Chinese: dao [the Way], taiji, tian [Heaven]
   Korean: jeoldaeja [the Absolute]
+  French: plan d'immanence [plane of immanence] [Deleuze]
 
 Phr:
   Deus sive natura [Lat.] [Spinoza]

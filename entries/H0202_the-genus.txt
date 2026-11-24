@@ -7,7 +7,7 @@ HGloss: Life related to another life of its own kind, which reproduces itself, a
 N:
   the genus; kind, species, race, stock, strain, breed, line, lineage, family, kin, kindred, kith and kin, progeny, offspring, posterity, descendants, generations; reproduction, propagation, procreation, generation, breeding, regeneration, renewal; species-being
   sort, genus, variety, type
-  renovation, revival, palingenesis†
+  renovation, revival, palingenesis†, regeneracy†, regenerateness†
   issue, seed
   stirps
   sept &c H0676, side, clan, tribe, nation
@@ -32,8 +32,9 @@ Adv:
 F:
   German: Gattungswesen [Feuerbach, Marx]
   Latin: genus
-  Greek: genos
+  Greek: genos, eidos
   Sanskrit: jāti [birth, genus]
+  French: aspect, apparence, exemple, forme, idée, modèle
 
 Phr:
   one generation passeth away, and another generation cometh [Bible]

@@ -5,8 +5,8 @@ Gloss: A service rendered without payment, as when one keeps another's property 
 HGloss: The giving of a service gratis, as the keeping of a deposit.
 
 N:
-  gift of service; deposit, bailment, safekeeping, custody, trust, gratuitous service, mandate
-  guardianship, wardship, tutelage, preservation &c H0368, protection
+  gift of service; deposit, bailment, safekeeping, custody, trust, gratuitous service, mandate, arrestation†, restringency†
+  guardianship, wardship, tutelage, preservation &c H0368, protection, propugnation†
   retention, detention
   care, ward
   depositary

@@ -8,9 +8,9 @@ N:
   imperiousness; domineeringness, imperiousness, arrogance, high-handedness, overbearingness, lordliness, haughtiness, peremptoriness, assertiveness, will to dominate, will to power
   insolence, airs, overbearance†, tyranny &c H0708
   pride, high notions, hauteur, vainglory, crest
-  arbitrary power, absolutism, despotism, dictatorship, autocracy, tyranny, oppression, assumption, usurpation, inquisition, reign of terror, martial law, iron heel, iron rule, iron hand, iron sway, tight grasp, brute force, brute strength, coercion &c H0649, strong hand, tight hand
+  arbitrary power, absolutism, despotism, dictatorship, autocracy, tyranny, oppression, assumption, usurpation, inquisition, reign of terror, martial law, iron heel, iron rule, iron hand, iron sway, tight grasp, brute force, brute strength, coercion &c H0649, strong hand, tight hand, arguementum baculinum†
   blusterer, swaggerer, vaporer, roisterer†, brawler, fanfaron†, braggart &c H0420, terrorist, rough, bulldozer [U.S.], hoodlum, hooligan [Slang], larrikin†, roarer [Slang], Mohock, Mohawk, drawcansir†, swashbuckler, Captain Bobadil, Sir Lucius O'Trigger, Thraso, Pistol, Parolles, Bombastes Furioso†, Chrononhotonthologos†, jingo, desperado, dare-devil, fire eater, fury, rowdy, slang-whanger [Slang], tough [U.S.]
-  puppy &c H0534, prig, Sir Oracle, dogmatist, doctrinaire, jack-in-office, saucebox†, malapert, jackanapes, minx, bantam-cock
+  puppy &c H0534, prig, Sir Oracle, dogmatist, doctrinaire, jack-in-office, saucebox†, malapert, jackanapes, minx, bantam-cock, opinionist†
   masterfulness, self-assertion
 
 V:
@@ -22,9 +22,9 @@ V:
   assert oneself, overbear, lord it
 
 Adj:
-  imperious, domineering, overbearing, high-handed, peremptory, lordly, haughty, arrogant, masterful, autocratic
+  imperious, domineering, overbearing, high-handed, peremptory, lordly, haughty, arrogant, masterful, autocratic, precisian†
   insolent, dictatorial, arbitrary, contumelious, intolerant, high-flown
-  severe, strict, harsh, stern, rigorous, uncompromising, exacting
+  severe, strict, harsh, stern, rigorous, uncompromising, exacting, exigeant†
   supercilious, disdainful, bumptious, magisterial, high and mighty, overweening, consequential, unblushing, stiff, stiff-necked, starch, perked stuck-up, in buckram, strait- laced, prim &c H0670
   authoritative, imperative, absolute
   insulting, disrespectful, bossy
@@ -37,8 +37,19 @@ F:
   German: Wille zur Macht [Nietzsche]
   Latin: libido dominandi [Augustine]
   French: traiter de haut en bas, regarder de haut en bas
+  Spanish: chulería [cocky insolence]
 
 Phr:
   libido dominandi [Lat.] [Augustine]
   my way or the highway
   to lord it over
+  Delirant reges plectuntur Achivi [Lat.]
+  manu forti [Lat.]
+  ogni debole ha sempre il suo tiranno [It.]
+  a duke's revenues on her back [Henry VI]
+  disdains the shadow which he treads on at noon [Coriolanis]
+  pride in their port, defiance in their eye [Goldsmith]
+  one's bark being worse than his bite
+  beggars mounted run their horse to death [Henry VI]
+  quid times? Caesarem vehis [Lat.] [Plutarch]
+  wagahai wa [Jap.] (expressing superiority) [Jap.Tr.]

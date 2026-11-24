@@ -10,7 +10,7 @@ N:
   protoplasm, cytoplasm, protein, albumen, structure &c H0258
   organized world, organized nature, animated nature, living beings, organic remains, fossils
   physiology, animal ecology
-  vivification, vital force, vitalization, revivification &c H0352, Prometheus, life to come &c H0224
+  vivification, vital force, vitalization, revivification &c H0352, Prometheus, life to come &c H0224, reviction†
   life, vitality, viability, animation, vital spark, vital flame, soul, spirit
   genetics, heredity, inheritance, evolution, natural selection
   organicity
@@ -36,3 +36,5 @@ Phr:
   life finds a way
   the living world
   organic growth
+  atqui vivere militare est [Lat.] [Seneca]
+  non est vivere sed valere vita [Lat.] [Marial]

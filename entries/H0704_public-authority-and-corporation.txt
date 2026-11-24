@@ -21,6 +21,9 @@ Adv:
   publicly, corporately
   by provision, in association
 
+F:
+  French: dispositif [apparatus] [Foucault]
+
 Phr:
   the second family
   law and order

@@ -5,7 +5,7 @@ Gloss: Conditions and bases each taken as partly independent, each depending on 
 HGloss: Condition and ground each a relatively unconditioned, each presupposing the other.
 
 N:
-  the relatively unconditioned; relative independence, partial autonomy, relative autonomy, interdependence, mutual conditioning, reciprocal dependence, circularity of conditions; condition as independent existent; circumstances, setting, environment, context, surroundings, milieu
+  the relatively unconditioned; relative independence, partial autonomy, relative autonomy, interdependence, mutual conditioning, reciprocal dependence, circularity of conditions; condition as independent existent; circumstances, setting, environment, context, surroundings, milieu, circumjacence†, circumambience†
   medium
   the relative unconditioned, condition and ground as relatively free, mutual presupposition
   conditionality, contingency

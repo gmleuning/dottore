@@ -10,7 +10,7 @@ N:
   figure
   the beautiful arts, the sensuous shining of the idea
   graphics
-  museum, gallery, art gallery, exhibition, exhibit, show, installation, masterpiece, artist, curator
+  museum, gallery, art gallery, exhibition, exhibit, show, installation, masterpiece, artist, curator, museology†, collector
   techne
 
 V:
@@ -32,11 +32,11 @@ Adv:
   in sensuous form
 
 F:
-  German: die schönen Künste, Ästhetik
-  Latin: ars
-  Greek: technē
-  French: beaux-arts, fait a peindre
-  Italian: belle arti
+  German: die schönen Künste, Ästhetik, ästhetisch
+  Latin: ars, aesthetica
+  Greek: technē, aisthētikos
+  French: beaux-arts, fait a peindre, esthétique
+  Italian: belle arti, arte
   Korean: pungnyu [refined taste, elegance]
 
 Phr:

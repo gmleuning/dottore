@@ -27,6 +27,7 @@ Adv:
 
 F:
   Latin: copia verborum, usus loquendi
+  French: gens de lettres, homme de lettres, littérateur, belles-lettres, feuilleton, bas-bleu [bluestocking]
 
 Phr:
   history and oratory as prose arts

@@ -6,9 +6,9 @@ HGloss: The actual as only possible, which might as well not be: contingency, wh
 
 N:
   contingency; chance, accident, hazard, fortuity, fortuitousness, randomness, luck, happenstance, coincidence, serendipity, fluke, toss-up, lottery, roll of the dice, accident of history; possibility, formal possibility, logical possibility, conceivability, the possible, what might have been; formal actuality, formal necessity; fortune, fate &c
-  indetermination, hap, chance medley, contingence, adventure, hit, equal chance, turn of the table, turn of the cards, hazard of the die, chapter of accidents, fickle finger of fate, cast of the dice, throw of the dice, heads or tails, flip of a coin, wheel of Fortune, sortes†, sortes Virgilianae†
+  indetermination, hap, chance medley, contingence, adventure, hit, equal chance, turn of the table, turn of the cards, hazard of the die, chapter of accidents, fickle finger of fate, cast of the dice, throw of the dice, heads or tails, flip of a coin, wheel of Fortune, sortes†, sortes Virgilianae†, raccroc†, tombola†, sortilegy†, sortition†
   lot, fate &c H0134, good luck &c H0661
-  opportunity
+  opportunity, tempestivity†
   adventitiousness
 
 V:
@@ -16,7 +16,7 @@ V:
 
 Adj:
   contingent, accidental, fortuitous, chance, random, haphazard, aleatory, aleatoric, adventitious, casual, incidental, coincidental, serendipitous, arbitrary, unforeseen, unpredictable; possible, conceivable, thinkable, imaginable, feasible; could-have-been-otherwise
-  causeless, uncaused, undetermined, indeterminate, statistical
+  causeless, uncaused, undetermined, indeterminate, statistical, driftless†, designless†
   derived from without, objective, extrinsic, extrinsical†, extraneous &c H0081, modal, ascititious†, adscititious†, nonessential
   unintentional, unintended, not meant, undesigned, purposed, unpremeditated &c H0613, uncontemplated, never thought of
   on the cards, within range of, at the mercy of
@@ -35,13 +35,53 @@ Adv:
 
 F:
   German: Möglichkeit
-  Latin: contingentia, Fortuna, quamdiu se bene gesserit
+  Latin: contingentia, Fortuna, quamdiu se bene gesserit, contingentia synchronica [synchronic contingency] [Duns Scotus]
   Greek: to endechomenon, tychē
   Arabic: mumkin [contingent, possible], imkān [possibility]
   Sanskrit: yadṛcchā [chance]
+  French: vérités de fait [Leibniz], probabilité, avantage
 
 Phr:
   alea iacta est [Lat.]
   time and chance happeneth to them all [Bible]
   for want of a nail the kingdom was lost
   Cleopatra's nose, had it been shorter, the whole face of the earth would have changed [Pascal]
+  occasionem cognosce [Lat.]
+  one's hour is come, the time is up
+  that reminds me, now that you mention it, come to think of it
+  bien perdu bien connu [Fr.]
+  e sempre l'ora [It.]
+  ex quovis ligno non fit Mercurius [Lat.]
+  nosce tempus [Lat.]
+  nunc aut nunquam [Lat.]
+  after death the doctor, after meat mustard
+  grasps the skirts of happy chance [Tennyson]
+  the accident of an accident [Lord Thurlow]
+  There but for the grace of God go I
+  misericordia Domini inter pontem et fontent [Lat.]
+  the glories of the Possible are ours [B. Taylor]
+  anything is possible
+  in theory possible, but in practise unlikely
+  the grapes are sour
+  non possumus [Lat.]
+  non nostrum tantas componere lites [Lat.] [Virgil]
+  look for a needle in a haystack, chercher une aiguille dans une botte de foin [Fr.]
+  il a le mer à boire
+  the chances, the odds are
+  appearances are in favor of, chances are in favor of
+  there is reason to believe, there is reason to think, there is reason to expect
+  I dare say
+  all Lombard Street to a China orange
+  the chances are against
+  aquila non capit muscas [Lat.]
+  pedir peras pal olmo [Lat.]
+  acierta errando [Lat.]
+  dextro tempore [Lat.]
+  fearful concatenation of circumstances [D. Webster]
+  fortuitous combination of circumstances [Dickens]
+  le jeu est le fils d'avarice et le pere du desespoir [Fr.]
+  the happy combination of fortuitous circumstances [Scott]
+  the fortuitous or casual concourse of atoms [Bentley]
+  God does not play dice with the universe [A. Einstein]
+  incidit in Scyllam qui vult vitare Charybdim [Lat.]
+  nam tua res agitur paries dum proximus ardet [Lat.]

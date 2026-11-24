@@ -17,27 +17,28 @@ N:
   refrigerator, refrigeratory†, frigidarium†, cold storage, cold room, cold laboratory, icehouse, icepail, icebag, icebox, cooler, damper, polyurethane cooler, wine cooler
   freezer, deep freeze, dry ice freezer, liquid nitrogen freezer, refigerator-freezer
   freezing mixture, ice, ice cubes, blocks of ice, chipped ice, liquid nitrogen, dry ice, dry ice-acetone, liquid helium
-  thermometer, thermometrograph†, mercury thermometer, alcohol thermometer, clinical thermometer, dry-bulb thermometer, wet-bulb thermometer, gas thermometer, telethermometer, color-changing temperature indicator, thermopile, thermoscope†, pyrometer, calorimeter, bomb calorimeter, thermistor, thermocouple
+  thermometer, thermometrograph†, mercury thermometer, alcohol thermometer, clinical thermometer, dry-bulb thermometer, wet-bulb thermometer, gas thermometer, telethermometer, color-changing temperature indicator, thermopile, thermoscope†, pyrometer, calorimeter, bomb calorimeter, thermistor, thermocouple, pyrology†, thermology†, thermotics†
   thermostat, thermoregulator
   (3) Taste
   fervour
   warming, chilling, grilling
+  alkahest†
 
 V:
   heat, warm, melt, fuse, liquefy, soften, thaw, smelt, fire, kindle, glow, burn
   be hot, flush, sweat, bask, smoke, reek, stew, simmer, seethe, boil, blister, broil, blaze, smolder, fume, pant
-  inflame, roast, toast, fry, grill, singe, parch, bake, torrefy†, scorch, brand, cauterize, sear, burn in, corrode, char, calcine, incinerate, scorify†, reduce to ashes, burn to a cinder, commit to the flames, consign to the flames
+  inflame, roast, toast, fry, grill, singe, parch, bake, torrefy†, scorch, brand, cauterize, sear, burn in, corrode, char, calcine, incinerate, scorify†, reduce to ashes, burn to a cinder, commit to the flames, consign to the flames, exsiccate†, hob and nob†
   render liquid &c H0258, run, deliquesce, solve, dissolve, resolve, liquate†, hold in solution, condense, precipitate, rain
   recalesce†, give
   set fire to, set on fire, enkindle, light, ignite, strike a light, apply the match to, apply the torch to, rekindle, relume†, fan the flame, add fuel to the flame, poke the fire, stir the fire, blow the fire, make a bonfire of
-  chafe, stive†, foment, make hot, sun oneself, sunbathe
-  cool, fan, refrigerate, refresh, congeal, freeze, glaciate, benumb, starve, pinch, chill, petrify, chill to the marrow, regelate†, nip, cut, pierce, bite, make one's teeth chatter, damp, slack quench, put out, stamp out, extinguish, go out, burn out
+  chafe, stive†, foment, make hot, sun oneself, sunbathe, stupe†
+  cool, fan, refrigerate, refresh, congeal, freeze, glaciate, benumb, starve, pinch, chill, petrify, chill to the marrow, regelate†, nip, cut, pierce, bite, make one's teeth chatter, damp, slack quench, put out, stamp out, extinguish, go out, burn out, horripilate†, refocillate†
   expand
 
 Adj:
-  hot, warm, thermal, caloric, calorific, molten, fusible, melting, torrid, tepid, lukewarm
+  hot, warm, thermal, caloric, calorific, molten, fusible, melting, torrid, tepid, lukewarm, adust†
   mild, genial, unfrozen, thermic, fervent, fervid, ardent, aglow
-  unwarmed†, unthawed†, isocheimal†, isocheimenal†, isocheimic†
+  unwarmed†, unthawed†, isocheimal†, isocheimenal†, isocheimic†, unmelted†, unliquefied†
   cooled, frozen out, cooling, frigorific†
   frozen, melted
 
@@ -56,3 +57,6 @@ Phr:
   strike while the iron is hot
   in the heat of the moment
   to melt down
+  not a breath of air
+  whirlwinds of tempestuous fire [Paradise Lost]
+  fight fire with fire

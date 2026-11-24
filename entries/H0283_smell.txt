@@ -8,8 +8,8 @@ N:
   smell; scent, odour, aroma, fragrance, perfume, bouquet, nose, savour, redolence, whiff, waft, trace, tang, essence, attar, incense, musk; stench, stink, reek, fetor, malodour, miasma; specific air, combustion into air
   sweet smell, aromatic perfume
   bad
-  smell, bad odor, foul odor, malodor, empyreuma†, mustiness, rancidity, foulness &c H0694
-  frankincense, pastil†, pastille, myrrh, perfumes of Arabia†, otto†, ottar†, bergamot, balm, civet, potpourri, pulvil†, nosegay, scentbag†, sachet, smelling bottle, vinaigrette, toilet water, lotion, after-shave lotion, thurification†
+  smell, bad odor, foul odor, malodor, empyreuma†, mustiness, rancidity, foulness &c H0694, dedecoration†
+  frankincense, pastil†, pastille, myrrh, perfumes of Arabia†, otto†, ottar†, bergamot, balm, civet, potpourri, pulvil†, nosegay, scentbag†, sachet, smelling bottle, vinaigrette, toilet water, lotion, after-shave lotion, thurification†, aperient†, benolin†
   sense of smell, act of smelling, olfaction, olfactories†
   odor, odorament†, effluvium, emanation, exhalation, fume, trail, nidor†
   inodorousness†, absence of smell, want of smell
@@ -27,7 +27,7 @@ Adj:
   odorous, odoriferous, aromatic, fragrant, scented, perfumed, redolent, balmy, musky, pungent, olfactory; malodorous, fetid, rank, foul
   spicy, savory, sweet-smelling, sweet-scented, perfumatory†, thuriferous, fragrant as a rose, muscadine†, ambrosial
   smelling, reeking, foul-smelling, strong- scented, graveolent†, nidorous†, putrid
-  strong-smelling, high, bad, strong, fulsome, offensive, noisome, rancid, reasty†, tainted, musty, fusty, frouzy†, olid†, olidous†, stinking, putrid &c H0694, suffocating, mephitic, empyreumatic†
+  strong-smelling, high, bad, strong, fulsome, offensive, noisome, rancid, reasty†, tainted, musty, fusty, frouzy†, olid†, olidous†, stinking, putrid &c H0694, suffocating, mephitic, empyreumatic†, etercoral†, lentiginous†, saprogenous†, impetiginous†
   inodorous†, onodorate, scentless, without smell, wanting smell, deodorized, deodorizing
 
 Adv:

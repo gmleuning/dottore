@@ -11,7 +11,7 @@ N:
   conformity &c H0063, uniformity &c H0088
   equality, parity
   constancy, clock-work precision, even tenor
-  sameness
+  sameness, isogamy†
   eurhythmy
 
 V:
@@ -22,8 +22,8 @@ Adj:
   regular, uniform, even, symmetrical, symmetric, balanced, proportionate, equal
   equal &c H0045, parallel, coextensive
   orderly, methodical, systematic
-  homogeneous, homologous, consistent, connatural†, monotonous, invariable, unchanged, undeviating, unvaried, unvarying
-  coequal
+  homogeneous, homologous, consistent, connatural†, monotonous, invariable, unchanged, undeviating, unvaried, unvarying, unreversed†
+  coequal, equiparant†
   shapely, well set, finished, beautiful &c H0747, classic, chaste, severe
   conformable to rule, regular &c H0222, well regulated
   bilateral
@@ -41,3 +41,4 @@ Phr:
   Tyger Tyger, burning bright... what immortal hand or eye could frame thy fearful symmetry? [Blake]
   in perfect symmetry
   like for like
+  ab uno disce omnes [Lat.]

@@ -7,7 +7,7 @@ HGloss: The contract made complete by a pledge, which secures its performance.
 N:
   contract completed by pledge; pledge, security, guarantee, collateral, surety, bail, caution, earnest, pawn
   guaranty, gage, warranty, bond, tie, debenture, hypothecation, bill of sale, lien, pignoration†, real security, vadium†
-  sponsor, cosponsor, sponsion†, sponsorship, mainpernor†, hostage, godchild, godfather, godmother
+  sponsor, cosponsor, sponsion†, sponsorship, mainpernor†, hostage, godchild, godfather, godmother, cojuror†
   stake, deposit, handsel
   troth, plight, word of honor
   promissory note, bill, bill of exchange, I.O.U, personal security, covenant, specialty, parole &c H0627
@@ -38,3 +38,5 @@ F:
 Phr:
   as surety
   to put up as collateral
+  bonis avibus [Lat.]
+  gone where the woodbine twineth

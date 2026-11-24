@@ -15,7 +15,7 @@ N:
 
 V:
   change, alter, pass, vary, shift
-  wax and wane, modulate, turn, veer
+  wax and wane, modulate, turn, veer, intervert†
   fluctuate, waver, vacillate
   become, turn into, evolve into, develop into, pass into
   modify

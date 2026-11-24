@@ -7,7 +7,7 @@ HGloss: The subject that has a self within itself, the animal: self-movement, vo
 N:
   animal nature; animal, beast, creature, brute, living creature, fauna, wildlife, the animal kingdom; animality, animal life, sentience, self-movement, feeling, sensibility, voice; animal soul
   critter [U.S.], wight, created being, creeping thing, living thing, dumb animal, dumb creature, zoophyte
-  animation, animalization†, animalness, corporeal nature, human system, breath
+  animation, animalization†, animalness, corporeal nature, human system, breath, animality†
   animal kingdom, brute creation
   sensitiveness, physical sensibility, impressibility
   cry, bowwow, ululation, latration†, belling, reboation†, wood-note, insect cry, fritiniancy†, drone, screech owl, cuckoo
@@ -19,7 +19,7 @@ V:
   feel, sense, move, breathe, live, roam
   respire
   roar, bellow, blare, rebellow†, growl, snarl
-  bark, bow-wow, yelp [dog], bay, bay at the moon, yap, yip, yipe, yarr†, yawl, howl, grunt, gruntle†, snort, squeak, neigh, whinny [horse], bray, mew, mewl [kitten], meow [cat], purr [cat], caterwaul, pule [cats], baa†, bleat [lamb], low, moo, troat†, croak, peep [frog], coo, gobble [turkeys], quack [duck], honk, gaggle, guggle [goose], crow, caw, squawk, screech, cackle, cluck, clack, chuck, chuckle, hoot, hoo [owl], chirp, cheep, chirrup, twitter, warble, trill, tweet, pipe, whistle, hum, buzz, hiss, blatter†, ratatat [woodpecker]
+  bark, bow-wow, yelp [dog], bay, bay at the moon, yap, yip, yipe, yarr†, yawl, howl, grunt, gruntle†, snort, squeak, neigh, whinny [horse], bray, mew, mewl [kitten], meow [cat], purr [cat], caterwaul, pule [cats], baa†, bleat [lamb], low, moo, troat†, croak, peep [frog], coo, gobble [turkeys], quack [duck], honk, gaggle, guggle [goose], crow, caw, squawk, screech, cackle, cluck, clack, chuck, chuckle, hoot, hoo [owl], chirp, cheep, chirrup, twitter, warble, trill, tweet, pipe, whistle, hum, buzz, hiss, blatter†, ratatat [woodpecker], bombinate†
   move itself
 
 Adj:
@@ -37,7 +37,8 @@ Adv:
 
 F:
   Latin: regnum animale, animal, anima sensitiva
-  Greek: zōon, aisthētikon [sensitive soul]
+  Greek: zōon, aisthētikon [sensitive soul], to zōion, to thērion
+  German: Bestie, Tier, animalisches Wesen
 
 Phr:
   all animals are equal, but some animals are more equal than others [Orwell]

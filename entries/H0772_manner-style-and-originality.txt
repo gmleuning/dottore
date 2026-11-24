@@ -6,7 +6,7 @@ HGloss: The artist's subjective manner, the objective style, and originality as 
 
 N:
   manner, style, and originality; manner, mannerism, idiosyncrasy; style, diction, idiom, technique; originality, novelty, inventiveness, freshness, signature, voice, authenticity
-  phraseology, wording, strain, composition, mode of expression, choice of words, mode of speech, literary power, ready pen, pen of a ready writer, command of language &c H0599, authorship
+  phraseology, wording, strain, composition, mode of expression, choice of words, mode of speech, literary power, ready pen, pen of a ready writer, command of language &c H0599, authorship, archegenesis†, archebiosis†, abiogenesis†, digenesis†, dysmerogenesis†, eumerogenesis†, heterogenesis†, merogenesis†, metogenesis†, monogenesis†, homogenesis†, xenogenesis1†, graphoidea†, graphomania†, phrenoia†
   no imitation, creativeness
   turn of expression
   individuality, peculiarity, idiocrasy &c H0378
@@ -16,6 +16,7 @@ N:
   obscurity &c H0599, involution, hard words, ambiguity &c H0599, unintelligibleness, vagueness &c H0604, inexactness &c H0204, what d'ye call 'em &c H0599 [Obs.], darkness of meaning
   plainness, simplicity, severity, plain terms, plain English, Saxon English, household words
   hand, touch, the grand manner, the severe style, the ideal style, the pleasing style
+  kitsch [Broch, Greenberg]
 
 V:
   stylize, mannerize, originate, innovate
@@ -29,7 +30,7 @@ Adj:
   artificial, affected, euphuistic†
   lucid &c H0599, explicit &c H0599, exact
   obscure, crabbed, involved, confused
-  plain, simple, unornamented, unadorned, unvarnished, homely, homespun, neat, severe, chaste, pure, Saxon, commonplace, matter-of- fact, natural, prosaic
+  plain, simple, unornamented, unadorned, unvarnished, homely, homespun, neat, severe, chaste, pure, Saxon, commonplace, matter-of- fact, natural, prosaic, academical†, kempt†, tricksy†
   dry, unvaried, monotonous &c H0599
   individual
   incomparable
@@ -40,11 +41,14 @@ Adv:
   in his own manner, with style
 
 F:
-  Latin: stylus, sui generis uncommon
-  French: la morgue litteraire
-  Italian: maniera
+  Latin: stylus, sui generis uncommon, arbiter elegantiarum [judge of taste] [Tacitus on Petronius]
+  French: la morgue litteraire, pasticheur, baroque, manière, faire
+  Italian: maniera, pasticcio [pastiche], barocco, stile
   Sanskrit: rīti [style]
   Korean: meot [flair, style]
+  German: Barock
+  Portuguese: barroco
+  Dutch: manjer, handeling, wijze van doen
 
 Phr:
   le style est l'homme même [Fr.] [Buffon]

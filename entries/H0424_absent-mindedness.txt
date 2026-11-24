@@ -17,8 +17,8 @@ V:
 
 Adj:
   absent-minded, abstracted, preoccupied, distracted, inattentive, oblivious, faraway, distraught†, lost in thought, in a brown study, in a world of one's own
-  absent, distrait, absentminded, lost, wrapped in thought, rapt, in the clouds, bemused, dreaming on other things, musing on other things, engrossed &c H0586, in a reverie, off one's guard &c H0583 [Obs.], napping, dreamy, caught napping
-  unobservant, unmindful, heedless, unthinking, unheeding, inadvertent, listless &c H0433
+  absent, distrait, absentminded, lost, wrapped in thought, rapt, in the clouds, bemused, dreaming on other things, musing on other things, engrossed &c H0586, in a reverie, off one's guard &c H0583 [Obs.], napping, dreamy, caught napping, unsubsantial†
+  unobservant, unmindful, heedless, unthinking, unheeding, inadvertent, listless &c H0433, respectless†, percursory†, unreflecting†, brainsick†, rantipole†
   disconcerted, put out
   forgetful, mindless
   mazed
@@ -30,6 +30,7 @@ Adv:
 F:
   Latin: per incuriam, sub silentio
   French: distrait
+  Spanish: ensimismamiento [absorption in oneself] [Ortega]
 
 Phr:
   lost in thought

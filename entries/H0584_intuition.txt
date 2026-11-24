@@ -27,6 +27,8 @@ F:
   Arabic: ḥads [intuition], kashf [unveiling]
   Sanskrit: pratibhā [intuitive flash], aparokṣa [direct knowledge]
   Korean: jikgwan [intuition]
+  French: esprit de finesse [Pascal], caractère intuitif
+  German: Anschaulichkeit [visualizability] [Bohr, Heisenberg]
 
 Phr:
   intuitions without concepts are blind [Kant]

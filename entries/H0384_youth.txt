@@ -11,9 +11,9 @@ N:
   cradle, nursery, leading strings, pupilage, pucelage†
   prime of life, flower of life, springtide of life†, seedtime of life, golden season of life, heyday of youth, school days, rising generation
   pubescence, flower of age, spring of life
-  girl, lassie, wench, miss, damsel, demoiselle, maid, maiden, virgin, hoyden
+  girl, lassie, wench, miss, damsel, demoiselle, maid, maiden, virgin, hoyden, grisette†, trull†, quean†, mopsy†
   youthful idealism
-  teen, young buck, young blood, young gun, upstart, kid, youth culture, Gen Z, zoomer [Slang], millennial, raging hormones, growing pains, teen angst, rebel without a cause
+  teen, young buck, young blood, young gun, upstart, kid, youth culture, Gen Z, zoomer [Slang], millennial, raging hormones, growing pains, teen angst, rebel without a cause, skipjack†
   uprising, insurrection
 
 V:
@@ -22,7 +22,7 @@ V:
 Adj:
   youthful, young, adolescent, juvenile, green, callow, fresh, idealistic, rebellious, ardent, impetuous, starry-eyed
   budding, sappy, puisne, beardless, under age, in one's teens, younger, junior, hebetic†, unfledged
-  raw, immature
+  raw, immature, kachcha†
   pubescent
   teenage, teenaged, teeny-bopper, wet behind the ears, green as grass, young and dumb [Slang]
 
@@ -35,6 +35,7 @@ F:
   Latin: iuventus, adulescentia, in statu pupillari
   Greek: neotēs, ephēbos
   Chinese: qingchun [green spring, youth]
+  French: jeunesse dorée, enfant terrible
 
 Phr:
   bliss was it in that dawn to be alive, but to be young was very heaven [Wordsworth]
@@ -42,3 +43,5 @@ Phr:
   si jeunesse savait, si vieillesse pouvait [Fr.]
   sow one's wild oats
   young at heart
+  youth on the prow and pleasure at the helm [Gray]
+  youth a the glad season of life [Carlyle]

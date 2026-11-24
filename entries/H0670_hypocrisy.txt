@@ -6,7 +6,7 @@ HGloss: Hypocrisy, the passing off of evil as good for others.
 
 N:
   hypocrisy; dissimulation, pretence, sanctimony, cant, pharisaism, two-facedness, double standard, lip service, insincerity, sham piety, whited sepulchre; Tartuffe [Molière]
-  lip homage, mouth honor, hollowness, mere show, mere outside, duplicity, double dealing, humbug, jesuitism, jesuitry, Machiavelism, organized hypocrisy, crocodile tears, mealy-mouthedness†, quackery, charlatanism†, charlatanry, gammon, bun-kum†, bumcombe, flam, bam [Slang], flimflam, cajolery, flattery, Judas kiss, perfidy &c H0668
+  lip homage, mouth honor, hollowness, mere show, mere outside, duplicity, double dealing, humbug, jesuitism, jesuitry, Machiavelism, organized hypocrisy, crocodile tears, mealy-mouthedness†, quackery, charlatanism†, charlatanry, gammon, bun-kum†, bumcombe, flam, bam [Slang], flimflam, cajolery, flattery, Judas kiss, perfidy &c H0668, charlatism†
   hypocrisy &c H0647, pietism, pious fraud, lip devotion, lip reverence
   false coloring, prevarication, equivocation
   dissembling, Tartuffery
@@ -23,7 +23,7 @@ Adj:
   artificial, contrived, jesuitical, tartuffish, Machiavelian, double, double tongued, double faced, double handed, double minded, double hearted, Janus faced, smooth-faced, smooth spoken, smooth tongued, plausible, mealy-mouthed
   affected, full of affectation, pretentious, pedantic, stilted, stagy, theatrical, big-sounding, ad captandum
   false-hearted, disingenuous, double-tongued, insidious, perfidious
-  smug, demure, quakerish, puritanical, prudish, priggish
+  smug, demure, quakerish, puritanical, prudish, priggish, pragmatical†, overwise†
   victorian
 
 Adv:
@@ -32,7 +32,7 @@ Adv:
 
 F:
   Latin: ambiguas in vulgum spargere voces
-  French: Tartufferie, faire pattes de velours
+  French: Tartufferie, faire pattes de velours, mauvaise foi [bad faith] [Sartre]
   Italian: il volto sciolto i pensieri stretti
   Arabic: riyāʾ [ostentation in piety]
 
@@ -40,3 +40,4 @@ Phr:
   hypocrisy is the homage vice pays to virtue [La Rochefoucauld]
   whited sepulchres [Bible]
   practise what you preach
+  conceit in weakest bodies strongest works [Hamlet]

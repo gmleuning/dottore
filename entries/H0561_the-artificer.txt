@@ -6,8 +6,8 @@ HGloss: The artificer, the instinctive worker who makes pyramids and obelisks, a
 
 N:
   the artificer; the master builder, craftsman, artisan, demiurge, Egyptian builder, architect of pyramids and obelisks, instinctive labour, the bee-like builder, monumentality; pyramid, obelisk, sphinx, Memnon statue, hieroglyph
-  workman, handicraftsman, mechanic, demiurgus
-  monument, cenotaph, shrine
+  workman, handicraftsman, mechanic, demiurgus, navvy†, lumper†
+  monument, cenotaph, shrine, hatchment†
   figure, conformation, configuration, formation, construction, mold
   the master craftsman, the master-workman, the builder, the working spirit, Egyptian religion, the crystal, the Memnon
 

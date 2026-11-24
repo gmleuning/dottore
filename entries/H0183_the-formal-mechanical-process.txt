@@ -15,7 +15,7 @@ V:
   distribute
 
 Adj:
-  communicative, transmissible, contagious, infectious, diffusive
+  communicative, transmissible, contagious, infectious, diffusive, communicatory†
   formal, communicated, transmitted
 
 Adv:

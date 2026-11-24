@@ -7,7 +7,7 @@ HGloss: The interpretation of the face as the sign of the inner, which can only 
 N:
   physiognomic observation; physiognomy, physiognomics, face-reading, Lavater's physiognomy, reading of features, character from countenance, metoposcopy [forehead-reading]
   contour, countenance, visage, cast of countenance, profile
-  symptomatology [Med.], semiology, semiotics
+  symptomatology [Med.], semiology, semiotics, semeiology†, oneirology acception†
   the science of Lavater, features, expression, the hand, handwriting
 
 V:

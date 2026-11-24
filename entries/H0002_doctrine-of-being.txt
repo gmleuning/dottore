@@ -5,7 +5,7 @@ Gloss: The study of the simplest concepts, those that describe a thing directly 
 HGloss: The sphere of immediacy, where each determination simply is and passes over into another; the concept only in itself.
 
 N:
-  doctrine of being; logic of being, ontology; immediacy, directness, givenness, the given, datum, data; surface, face value; transition, passing over; change into another &c (becoming) H0007
+  doctrine of being; logic of being, ontology; immediacy, directness, givenness, the given, datum, data; surface, face value; transition, passing over; change into another &c (becoming) H0007, rectilinearity†
   the in-itself; being-in-itself; the concept in itself, latency, implicitness, potentiality; first sphere, outset, threshold
   categories of being, immediate categories; what simply is, what there is; brute fact, plain fact, bare fact
   beginning, commencement, inception

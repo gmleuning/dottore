@@ -19,7 +19,7 @@ V:
   pull, act upon, react
 
 Adj:
-  mechanical, impulsive, collisional, transmissive
+  mechanical, impulsive, collisional, transmissive, impellent†
   interactive
 
 Adv:

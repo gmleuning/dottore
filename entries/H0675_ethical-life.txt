@@ -23,10 +23,10 @@ Adv:
   by custom, in a living community
 
 F:
-  German: Sitte
-  Latin: mores
+  German: Sitte, Sitten, Moralität
+  Latin: mores, moralitas
   Greek: ethos, ēthos
-  French: comme il faut
+  French: comme il faut, morale, éthique
   Arabic: adab [right conduct]
   Sanskrit: dharma
   Chinese: li [ritual propriety]

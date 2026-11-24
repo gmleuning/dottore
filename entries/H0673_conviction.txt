@@ -22,6 +22,8 @@ Adv:
 
 F:
   German: Gesinnungsethik [Max Weber]
+  French: parti pris
+  Sanskrit: dṛṣṭi [a fixed view] [Nāgārjuna]
 
 Phr:
   the sincerity of the conviction excuses nothing

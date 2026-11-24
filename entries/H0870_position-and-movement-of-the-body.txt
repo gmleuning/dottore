@@ -16,7 +16,7 @@ V:
 
 Adj:
   poised, balanced, relaxed, dynamic
-  postural, seated, recumbent, at rest, in motion
+  postural, seated, recumbent, at rest, in motion, accumbent†
 
 Adv:
   in contrapposto

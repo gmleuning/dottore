@@ -5,7 +5,7 @@ Gloss: Virtue that sets itself against the way of the world and finds the world 
 HGloss: Virtue that would sacrifice individuality to the good and learns that the way of the world is the good's actuality.
 
 N:
-  virtue and the way of the world; virtue, moral crusade, knight of virtue, Don Quixote, sanctimonious virtue, quixotism, moralism, sermonizing; the way of the world, the world's course, worldliness, the ways of men, the real world, realpolitik, the market; ironies of virtue
+  virtue and the way of the world; virtue, moral crusade, knight of virtue, Don Quixote, sanctimonious virtue, quixotism, moralism, sermonizing; the way of the world, the world's course, worldliness, the ways of men, the real world, realpolitik, the market; ironies of virtue, foolhardihood†
   virtuousness, morality, moral rectitude, integrity &c H0667, nobleness &c H0489
   knight-errant
   knight-errantry
@@ -29,6 +29,9 @@ Adv:
 
 F:
   German: Tugend, Weltlauf
+  French: vertu
+  Greek: aretē
+  Latin: virtus, virtutes
 
 Phr:
   the way of the world is victorious over virtue [Hegel]

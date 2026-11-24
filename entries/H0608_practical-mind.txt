@@ -31,13 +31,14 @@ Adv:
   by will
 
 F:
-  German: Wille
-  Latin: voluntas, liberum arbitrium, ad arbitrium, proprio motu, suo motu, ex meromotu
-  Greek: boulēsis
-  French: a volonte
-  Italian: al piacere, a beneplacito
+  German: Wille, Sorge [care] [Heidegger], Klugheit, praktische Vernunft
+  Latin: voluntas, liberum arbitrium, ad arbitrium, proprio motu, suo motu, ex meromotu, prudentia, appetitus
+  Greek: boulēsis, phronēsis [practical wisdom] [Aristotle], thelēsis, orexis
+  French: a volonte, prudence, sagesse, sagesse pratique, intelligence pratique, sagacité, volonté
+  Italian: al piacere, a beneplacito, prudenza, ragione pratica
   Arabic: irāda [will]
   Sanskrit: saṅkalpa [resolve]
+  Spanish: prudencia
 
 Phr:
   where there's a will there's a way

@@ -13,7 +13,7 @@ N:
 
 V:
   forbid, prohibit, taboo, marry out
-  inhibit, disallow, enjoin, ban, proscribe, bar, debar &c H0021
+  inhibit, disallow, enjoin, ban, proscribe, bar, debar &c H0021, cohibit†
   inbreed, interbreed, marry within, marry in
 
 Adj:
@@ -38,3 +38,8 @@ Phr:
   keep it in the family
   'Tis Pity She's a Whore [Ford]
   too close for comfort
+  that will never do
+  don't you dare
+  forget it
+  don't even think about doing it
+  make my day [Dirty Harry] [Iron.]

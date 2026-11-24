@@ -10,7 +10,7 @@ N:
   valency
 
 V:
-  prefer, displace, substitute, supplant, replace, pair off
+  prefer, displace, substitute, supplant, replace, pair off, reestate†
   take the place of, supersede
   select, combine, attract
 

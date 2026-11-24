@@ -14,7 +14,7 @@ V:
 
 Adj:
   chryselephantine, bronze, marble, marmoreal, eburnean, gilded
-  golden, brazen, chased
+  golden, brazen, chased, flavous†, unblushlng†
 
 Adv:
   in bronze, in marble

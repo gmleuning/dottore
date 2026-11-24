@@ -6,7 +6,7 @@ HGloss: The face as the expression of the soul, the spirit visible in its featur
 
 N:
   physiognomy; face, visage, countenance, features, physiognomy, expression, look, mien, aspect, cast of countenance, lineaments; physiognomics, face-reading, Lavater
-  outline, contour, phiz, profile
+  outline, contour, phiz, profile, tournure†
   brow, forehead
   complexion, air, cast
   metoposcopy†

@@ -7,7 +7,7 @@ HGloss: The absolute freedom of the universal will, which destroys every institu
 N:
   absolute freedom and terror; the Terror, Reign of Terror, revolutionary terror, the French Revolution, Jacobinism, the guillotine, Committee of Public Safety, general will, absolute freedom, the fury of destruction, suspicion, purge, show trial, revolutionary tribunal, the revolution devouring its children
   arbitrary power, absolutism, despotism, dictatorship, autocracy, tyranny, oppression, usurpation, iron rule
-  insurgent, rebel, red republican, bonnet rouge
+  insurgent, rebel, red republican, bonnet rouge, carbonaro†
   universal freedom, the coldest death, Robespierre
   guerrilla
 
@@ -26,7 +26,7 @@ Adv:
   destructively, without limit
 
 F:
-  German: Furie des Verschwindens
+  German: Furie des Verschwindens, Gleichschaltung [forced coordination]
   French: la Terreur, volonté générale, à la lanterne, sansculottes
 
 Phr:

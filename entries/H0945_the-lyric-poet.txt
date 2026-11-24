@@ -7,7 +7,7 @@ HGloss: The lyric poet, the subject in whom the world is concentrated.
 N:
   the lyric poet; lyricist, songster, bard, singer, troubadour, minnesinger, Sappho, Pindar, Hafez, Li Bai, Petrarch, Goethe
   poet, lyrist†, scald, skald†, minstrel, versifier
-  vocalist, melodist, songstress
+  vocalist, melodist, songstress, chaunter†, chauntress†, cantatrice†
   rhapsode, songwriter, sonneteer, odist, hymnist, elegist, the singing subject, the lyrical I, Anacreon, Horace, Klopstock, Schiller, Walther von der Vogelweide
 
 V:
@@ -25,7 +25,7 @@ Adv:
 
 F:
   German: meistersinger
-  French: trouvere
+  French: trouvere, poète maudit
 
 Phr:
   Sappho, the tenth Muse

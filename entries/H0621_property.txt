@@ -14,16 +14,16 @@ N:
   landed property, land, lands, tenements, hereditaments, corporeal hereditaments, incorporeal hereditaments, acres, ground &c H0310, acquest†, messuage, toft†
   absolute interest, paramount estate, fee tail, fee simple, estate in fee, estate in tail, estate tail, estate in tail male, estate in tail female, estate in tail general
   dower, dowry, jointure†, appanage, inheritance, heritage, alimony, legacy &c H0630, Falcidian law, paternal estate, thirds
-  possessor, holder, occupant, occupier, tenant, person in possession, man in possession, renter, lodger, lessee, underlessee†, zemindar†, ryot†, tenant on sufferance, tenant at will, tenant from year to year, tenant for years, tenant for life
-  owner, proprietor, proprietress, impropriator†, master, mistress, lord
-  land holder, land owner, landlord, land lady, slumlord, lord of the manor, lord paramount, heritor, laird, vavasour†, landed gentry, mesne lord†, planter
+  possessor, holder, occupant, occupier, tenant, person in possession, man in possession, renter, lodger, lessee, underlessee†, zemindar†, ryot†, tenant on sufferance, tenant at will, tenant from year to year, tenant for years, tenant for life, indweller†, commorant†, oppidan†, cottier†, backsettler†
+  owner, proprietor, proprietress, impropriator†, master, mistress, lord, doxy†
+  land holder, land owner, landlord, land lady, slumlord, lord of the manor, lord paramount, heritor, laird, vavasour†, landed gentry, mesne lord†, planter, armiger†, signior†, ameer†, scherif†, palsgrave†, waldgrave†
   beneficiary, mortgagor
-  grantee, feoffee†, releasee [Law], relessee†, devisee, legatee, legatary†
+  grantee, feoffee†, releasee [Law], relessee†, devisee, legatee, legatary†, accipient†
   trustee, holder of the legal estate, mortgagee
   right owner, rightful owner
   heir presumptive, heir apparent, heiress, inheritor, inheritress, inheritrix, reversioner†, remainderman†
   private property
-  landed estate, real estate
+  landed estate, real estate, landsman†
   entail, immovable, glebe
   dead hand, no man's land
   heir
@@ -36,6 +36,7 @@ V:
 Adj:
   proprietary, owned, possessed, propertied, landed, private, personal, real
   proper
+  unpossessed†, unobtained†, unforfeited†
 
 Adv:
   in possession, in fee simple, by right of ownership
@@ -51,3 +52,5 @@ Phr:
   la propriété, c'est le vol [Fr.] [property is theft] [Proudhon]
   possession is nine-tenths of the law
   mine and thine
+  entbehre gern was du nicht hast [Ger.]
+  tuum est [Lat.]

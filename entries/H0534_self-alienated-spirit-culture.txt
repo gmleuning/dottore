@@ -20,7 +20,7 @@ V:
 
 Adj:
   cultured, cultivated, refined, educated, alienated, estranged, divided, courtly
-  polished, thoroughbred, unembarrassed, janty†, jaunty, dashing, fast
+  polished, thoroughbred, unembarrassed, janty†, jaunty, dashing, fast, canty†, jimp†
   courteous, polite, civil, mannerly, urbane, well-behaved, well- mannered, well-bred, well-brought up, good-mannered, civilized, refined &c H0746, gentlemanlike [Obs.], gallant, on one's good behavior
   tasteful, classical, aesthetic
 
@@ -29,15 +29,23 @@ Adv:
   culturally
 
 F:
-  German: Bildung, Entfremdung, Entäußerung [externalization]
-  Latin: cultura animi [Cicero]
-  Greek: paideia
-  French: the ancien régime, distingue, degage, monde, beau monde, savoir faire, bienséance
+  German: Bildung, Entfremdung, Entäußerung [externalization], Kultur, Zivilisation [inner culture against outer civilization] [Elias]
+  Latin: cultura animi [Cicero], civilitas, urbanitas
+  Greek: paideia, asteiosynē, politeia
+  French: the ancien régime, distingue, degage, monde, beau monde, savoir faire, bienséance, position, éducation, libération des préjugés, raffinement des moeurs, civilisation, civilité
   Arabic: adab [refinement, letters]
   Sanskrit: saṃskāra [refinement]
   Korean: gyoyang [culture, Bildung]
+  Italian: civiltà [civil life] [Vico], cortesia, urbanità, gentilezza, buona creanza
 
 Phr:
   culture as the alienation of natural being [Hegel]
   a stranger to oneself
   to lose oneself
+  nihil tetigit quod non ornavit [Lat.] [from Johnson's epitaph on Goldsmith]
+  chacun a son gout [Fr.]
+  oculi pictura tenentur aures cantibus [Lat.] [Cicero]
+  a la francaise, a la parisienne
+  a l' anglaise [Fr.], a l' americaine [Fr.]
+  autre temps autre mauers [Fr.]
+  chaque pays a sa guise [Fr.]

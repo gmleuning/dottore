@@ -8,7 +8,7 @@ N:
   pure nothing, nothing, nothingness, nil, naught, nought, nix, zero, cipher; non-being, nonbeing; nonentity, nullity, nihility†, nonexistence &c (inexistence); void, vacuum, the void, vacancy, emptiness, blank, blankness; abyss, chasm, gulf
   negation, negativity, the negative; abstraction from all content
   inexistence†, nonexistence, nonsubsistence, negativeness, nihilism, abeyance, absence &c H0227, oblivion
-  nul, goose egg, none, nixie [Slang], zilch [Slang], zip [Slang], zippo [Slang]
+  nul, goose egg, none, nixie [Slang], zilch [Slang], zip [Slang], zippo [Slang], Cluricaune†, dwerger†, ouphe†, pigwidgeon†
   no such thing, none in the world, nothing whatever, nothing at all, nothing on earth, not a particle &c H0045
   vacuity, hiatus &c H0218
   unsubstantiality†, insubstantiality, no degree, no part, no quantity, no thing
@@ -45,3 +45,6 @@ Phr:
   das Nichts selbst nichtet [Ger.] [Heidegger]
   nada y pues nada [Sp.]
   out of nothing, nothing comes
+  non ens [Lat.]
+  there's nothing in it
+  an ocean of dreams without a sound [Shelley]

@@ -6,14 +6,14 @@ HGloss: The stipulation, the outward form in which the agreement of wills exists
 
 N:
   form of the contract; stipulation, formality, formal requirements, execution, signature, seal, deed, the written instrument, the spoken word, the handshake, consideration, terms and conditions, clause, provision
-  voucher, certificate, document, warranty &c H0641, seal &c H0598
+  voucher, certificate, document, warranty &c H0641, seal &c H0598, testamur†, pi ce justificative†
   acceptance, indorsement†, stamp
   promise, word, pledge, vow, oath &c H0599, warranty
   condition, proviso, specification
   clauses, provisions, proviso &c H0103, covenant, obligation, ultimatum, sine qua non
   mark, autograph, autography, attestation, hand, hand writing, sign manual, cipher, hand and seal [Law], paraph†, brand, superscription, endorsement
   ratification, completion, signet
-  conditions, terms, articles, articles of agreement, memorandum
+  conditions, terms, articles, articles of agreement, memorandum, muniment†
   memo
 
 V:
@@ -36,3 +36,5 @@ F:
 
 Phr:
   signed, sealed, and delivered
+  in for a penny in for a pound
+  gage d'amour

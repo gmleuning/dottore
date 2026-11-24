@@ -6,7 +6,7 @@ HGloss: The mind's free activity with its images: reproduction, association and 
 
 N:
   imagination; the imaginative faculty, fancy, fantasy, invention, creativity, the image-making power, the mind's eye, vision, inventiveness, ingenuity
-  conceit, maggot, figment, myth, dream, shadow, chimera, phantasm, phantasy, whim, whimsey†, whimsy, vagary, rhapsody, romance, gest†, geste†, extravaganza, air drawn dagger, bugbear, nightmare
+  conceit, maggot, figment, myth, dream, shadow, chimera, phantasm, phantasy, whim, whimsey†, whimsy, vagary, rhapsody, romance, gest†, geste†, extravaganza, air drawn dagger, bugbear, nightmare, whimwham†
   originality, inspiration, verve
   idealist, romanticist, mopus†, romancer, dreamer, somnambulist, rhapsodist &c H0421, fanciful projector
   warm imagination, heated imagination, excited imagination, sanguine imagination, ardent imagination, fiery imagination, boiling imagination, wild imagination, bold imagination, daring imagination, playful imagination, lively imagination, fertile imagination
@@ -26,19 +26,29 @@ Adj:
   fabulous, legendary, mythical, mythic, mythological, chimerical, notional, fantastic, whimsical, fairy, fairy-like, gestic†
   imagining, fertile
   original
-  imagined
+  imagined, airbuilt†
 
 Adv:
   imaginatively, in imagination, in fancy
 
 F:
-  German: vorstellen
-  Latin: imaginatio
+  German: vorstellen, Phantasie
+  Latin: imaginatio, visum, imago
   Greek: phantasia
   Arabic: mutakhayyila [imaginative faculty]
+  French: image, présentation
 
 Phr:
   imagination is more important than knowledge [Einstein]
   the lunatic, the lover, and the poet are of imagination all compact [A Midsummer Night's Dream]
   to let one's imagination run wild
   in one's imagination
+  a change came o'er the spirit of my dream [Byron]
+  aegri somnia vana [Lat.]
+  dolphinum appingit sylvis in fluctibus aprum [Horace]
+  fancy light from fancy caught [Tennyson]
+  imagination rules the world [Napoleon]
+  l'imagination gallope [Fr.], le jugement ne va que le pas [Fr.]
+  musaeo contingens cuncta lepore [Lat.] [Lucretius]
+  tous songes sont mensonges [Fr.]
+  Wahrheil und Dichtung [Ger.]

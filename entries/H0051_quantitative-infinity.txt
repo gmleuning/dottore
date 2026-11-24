@@ -17,7 +17,7 @@ V:
 
 Adj:
   infinite, infinitesimal, transfinite, asymptotic, unbounded, indefinite, immeasurable, incalculable, limitless; convergent, divergent
-  immense, numberless, countless, sumless†, measureless, illimitable, inexhaustible, interminable, unfathomable, unapproachable, exhaustless, without number, without measure, without limit, without end, incomprehensible, endless, boundless, termless†, untold, unnumbered, unmeasured, unlimited, illimited†, perpetual
+  immense, numberless, countless, sumless†, measureless, illimitable, inexhaustible, interminable, unfathomable, unapproachable, exhaustless, without number, without measure, without limit, without end, incomprehensible, endless, boundless, termless†, untold, unnumbered, unmeasured, unlimited, illimited†, perpetual, unexhausted†, unwasted†
   converging, asymptotical
   numerical, incommensurable, innumerable
   exceedable

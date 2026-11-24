@@ -6,7 +6,7 @@ HGloss: Ground in its completeness, a real ground grounded in turn, which leads 
 
 N:
   the complete ground; complete explanation, full account, sufficient reason, full justification, total cause, whole story, the full picture, all things considered, comprehensive account; closure, completeness, sufficiency
-  complement, supplement
+  complement, supplement, bellyful†, brimmer†
   completion &c H0197, integration, allness†
   totality, integrity, entirety, completeness &c H0120
   sufficient ground, full explanation, complete account

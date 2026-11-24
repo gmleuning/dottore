@@ -11,7 +11,7 @@ N:
 V:
   interfuse, interpenetrate, intertwine, mingle, interweave
   mix, commix, intermix, commingle, intermingle
-  intersect, interlace, interlink
+  intersect, interlace, interlink, intertwist†, decussate†
   permeate, confirm one another
 
 Adj:

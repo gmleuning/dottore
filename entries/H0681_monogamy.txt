@@ -25,7 +25,7 @@ Adj:
   virgin, unsullied, cherry [Coll.]
   monogamic, undivided
   monogamish [Slang], polyamorous, open
-  meek
+  meek, unoffended†
 
 Adv:
   exclusively, faithfully
@@ -38,3 +38,7 @@ Phr:
   forsaking all other [Book of Common Prayer]
   one and only
   forsaking all others
+  as chaste as unsunn'd snow [Cymbeline]
+  a soul as white as heaven [Beaumont and Fletcher]
+  'tis Chastity, my brother, Chastity [Milton]
+  to the pure all things are pure [Shelley]

@@ -7,11 +7,11 @@ HGloss: The spirit of the community, its martyrs, repentance and conversion, mir
 N:
   the spirit of the community; martyrdom, repentance and conversion, miracles and legends; martyrdom, passion, witness, the martyrs, the saints; repentance, penance, contrition; conversion, Damascus road; miracles, legends, hagiography
   penitence, compunction, remorse, regret &c H0609
-  mortification, maceration, flagellation, penance &c H0651
+  mortification, maceration, flagellation, penance &c H0651, lustration†
   Magdalen, prodigal son
   acknowledgment, confession &c H0599, apology &c H0651, recantation &c H0616, resipiscence†
   sackcloth and ashes, shrift, purgation
-  recantation, palinode, renunciation, abjuration†
+  recantation, palinode, renunciation, abjuration†, palinody†, revokement†
   proselyte
   the life of the congregation, miracle, legend, the lives of the saints
 

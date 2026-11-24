@@ -7,7 +7,7 @@ HGloss: The power of ultimate decision, in which the moments of the state are br
 N:
   the sovereign power; the crown, monarchy, sovereignty, princely power, kingship, majesty, the throne, royal prerogative, the monarch, the sovereign
   potentate, liege, liege lord, suzerain, monarch, autocrat, despot, tyrant, oligarch
-  kinghood†, royalty, regality
+  kinghood†, royalty, regality, aristarchy†, mobocracy†, ochlocracy†, beadledom†
   crowned head, emperor, king, anointed king, protector, president, stadholder†, judge
   sway the scepter, wear the crown
   coronet, diadem, tiara, cap of maintenance, decoration, title &c H0489, portfolio
@@ -15,10 +15,10 @@ N:
   authority, influence, patronage, power, preponderance, credit, prestige, prerogative, jurisdiction, right &c H0620, direction &c H0714, government
   sway, predominance, dominance
   the ultimate decision
-  empress, tsar, czar
+  empress, tsar, czar, soldan†, padishah†, sophi†, cazique†, voivode†, landamman†, seyyid†, Abuna†, cacique†, czarowitz†, margravine†, czarevna†, czarita†, rectrix†
   prime minister, ex-president, male monarch
   backing, clientele
-  dictator, strongman
+  dictator, strongman, sirdar†
 
 V:
   reign, rule, sovereign, crown, enthrone
@@ -37,8 +37,26 @@ Adv:
 F:
   Latin: imperium, maiestas, imperator
   Japanese: tennō [emperor]
+  Spanish: caudillo, caudillaje, pronunciamiento, golpe de estado
+  French: lèse-majesté, régime d'exception, état de siège
 
 Phr:
   the king reigns but does not govern
   the buck stops here
   the last word
+  give every man thine ear but few thy voice [Hamlet]
+  I pray thee cease thy counsel [Much Ado About Nothing]
+  my guide, philosopher, and friend [Pope]
+  'twas good advice and meant, my son be good [Crabbe]
+  verbum sat sapienti [Lat.], a word to the wise is sufficient
+  vive memor leti [Lat.]
+  we, ask advice but we mean approbation [Colton]
+  the gray mare the better horse
+  every inch a king [Lear]
+  780,
+  the decree is gone forth
+  sic volo sic jubeo [Lat.]
+  boutez en avant [Fr.]
+  da locum melioribus [Lat.]
+  der Furst ist der erste Diener seines Staats [Ger.], the prince is the first servant of his state
+  lord of thy presence and no land beside [King John]

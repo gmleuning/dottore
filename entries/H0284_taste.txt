@@ -8,11 +8,11 @@ N:
   taste; savour, flavour, relish, tang, smack, zest, piquancy, sapidity, palate, sweet, sour, salt, bitter, umami, astringency; specific water, dissolution into water
   flavor, gust, gusto, gout, sapor†, aftertaste
   condiment, seasoning, sauce, appetizer
-  bitterness, acridness†, caustic, alkali, gall, wormwood, bitters, astringent bitters
+  bitterness, acridness†, caustic, alkali, gall, wormwood, bitters, astringent bitters, heartburning†, mordacity†
   Angostura, aromatic bitters
   sourness, pungency
   alkaloids, turmeric
-  unsavoriness, amaritude†, acrimony, roughness, acerbity, austerity, gall and wormwood, rue, quassia†, aloes, marah†, sickener†
+  unsavoriness, amaritude†, acrimony, roughness, acerbity, austerity, gall and wormwood, rue, quassia†, aloes, marah†, sickener†, acritude†, causiticity†
   sweetness, dulcitude†
   sugar, syrup, treacle, molasses, honey, manna, confection, confectionary, sweets, grocery, conserve, preserve, confiture†, jam, julep, sugar-candy, sugar-plum, licorice, marmalade, plum, lollipop, bonbon, jujube, comfit, sweetmeat, apple butter, caramel, damson, glucose, maple sirup†, maple syrup, maple sugar, mithai†, sorghum, taffy
   nectar, hydromel†, mead, meade†, metheglin†, honeysuckle, liqueur, sweet wine, aperitif
@@ -29,12 +29,12 @@ N:
 
 V:
   taste, savour, sample, relish, smack of, flavour, season, spice
-  render pungent, pepper, pickle, brine, devil
+  render pungent, pepper, pickle, brine, devil, kyanize†
   savor, smatch†, twang, tickle the palate
   spice up
   render palatable
   relish, like, smack the lips
-  be unpalatable, sicken, disgust, nauseate, pall, turn the stomach
+  be unpalatable, sicken, disgust, nauseate, pall, turn the stomach, appal†, wamble†
   be sweet
   render sweet, sweeten, edulcorate†, dulcorate†, dulcify†, mull
   be sour, turn sour, set the teeth on edge
@@ -42,14 +42,14 @@ V:
 
 Adj:
   sapid, savoury, flavourful, tasty, toothsome, palatable, delectable, gustatory, gustative, sweet, sour, salty, bitter, piquant, tangy, insipid
-  savory, delicious, well-tasted, to one's taste, good, nice, dainty, toothful†, appetizing, lickerish†, delicate, exquisite, rich, luscious, ambrosial, scrumptious, delightful
+  savory, delicious, well-tasted, to one's taste, good, nice, dainty, toothful†, appetizing, lickerish†, delicate, exquisite, rich, luscious, ambrosial, scrumptious, delightful, provoquant†, appetible†
   saporific†, gustable†, gustful†, gamy
   saline, brackish, briny, salty as brine, salty as a herring, salty as Lot's wife
   pungent, strong, high-, full-flavored, high-tasted, high-seasoned, sharp, stinging, rough, racy, biting, mordant, spicy, seasoned, hot, hot as pepper, peppery, vellicating†, escharotic†, meracious†, acrid, acrimonious, unsavory
-  bland, void of taste, tasteless, gustless†, savorless, ingustible†, mawkish, milk and water, weak, stale, flat, vapid, fade, wishy-washy, mild, untasted†
+  bland, void of taste, tasteless, gustless†, savorless, ingustible†, mawkish, milk and water, weak, stale, flat, vapid, fade, wishy-washy, mild, untasted†, finikin†, fingle-fangle†
   bitterish, acerb, acerbic
   unpalatable, unsweetened, unsweet†, ill-flavored, bitter as gall
-  offensive, repulsive, nasty, sickening, nauseous, loathsome, fulsome, unpleasant &c H0609
+  offensive, repulsive, nasty, sickening, nauseous, loathsome, fulsome, unpleasant &c H0609, loathful†
   saccharine, sacchariferous†, dulcet, candied, honied†, lush, nectarious†, melliferous†, sweetened
   sweet as a nut, sweet as sugar, sweet as honey
   sickly sweet
@@ -74,3 +74,10 @@ Phr:
   the proof of the pudding is in the eating
   to leave a bad taste
   a matter of taste
+  take it with a grain of salt
+  bitter pill to take
+  sugar coating on a bitter pill
+  cela se laisse manger [Fr.]
+  eau sucrée [Fr.]
+  sweets to the sweet [Hamlet]
+  sour as a lemon

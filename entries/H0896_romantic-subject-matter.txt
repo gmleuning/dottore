@@ -24,6 +24,8 @@ Adv:
 
 F:
   Korean: pungsokhwa [genre painting]
+  Italian: veduta [view painting]
+  Spanish: costumbrismo, bodegón [still life]
 
 Phr:
   the Madonna and Child

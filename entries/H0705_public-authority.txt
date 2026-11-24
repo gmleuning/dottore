@@ -9,25 +9,25 @@ N:
   indigence, penury, destitution, neediness, lack, necessity, privation, distress, difficulties, wolf at the door
   sheriff, constable, police force, constabulary
   want, need
-  mob, rabble, rabble rout, chaff, rout, horde, canaille, scum of the people, residuum of the people, dregs of the people, dregs of society, swinish multitude, foex populi†, trash, vermin, riffraff, ragtag and bobtail, small fry
-  pauper, homeless person, hobo, bum, tramp, bindle stiff, bo, knight of the road, hard core unemployed, welfare client, welfare case
-  alarm, alarum, larum†, alarm bell, tocsin, alerts, beat of drum, sound of trumpet, note of alarm, hue and cry, fire cross, signal of distress, blue lights, war-cry, war- whoop, warning &c H0599, fogsignal, foghorn, yellow flag, danger signal, red light, red flag, fire bell, police whistle
+  mob, rabble, rabble rout, chaff, rout, horde, canaille, scum of the people, residuum of the people, dregs of the people, dregs of society, swinish multitude, foex populi†, trash, vermin, riffraff, ragtag and bobtail, small fry, fatras†, attroupement†, cohue†
+  pauper, homeless person, hobo, bum, tramp, bindle stiff, bo, knight of the road, hard core unemployed, welfare client, welfare case, mumper†
+  alarm, alarum, larum†, alarm bell, tocsin, alerts, beat of drum, sound of trumpet, note of alarm, hue and cry, fire cross, signal of distress, blue lights, war-cry, war- whoop, warning &c H0599, fogsignal, foghorn, yellow flag, danger signal, red light, red flag, fire bell, police whistle, premonishment†, dehortation†, Mother Cary's chickens†
   safety, security, surety, impregnability
-  keeper, custodian, ranger, warder, jailer, gaoler, turnkey, castellan†, guard, watchdog, watchman, Charley, chokidar†, durwan†, hayward†, sentry, sentinel, watch and ward, concierge, coast guard, game keeper
+  keeper, custodian, ranger, warder, jailer, gaoler, turnkey, castellan†, guard, watchdog, watchman, Charley, chokidar†, durwan†, hayward†, sentry, sentinel, watch and ward, concierge, coast guard, game keeper, bandog†, guardship†, housedog†, vedette†, spial†
   escort, bodyguard
-  protector, governor, guardian, governess &c H0688, nurse, nanny, babysitter, catsitter, dogsitter, ayah†
+  protector, governor, guardian, governess &c H0688, nurse, nanny, babysitter, catsitter, dogsitter, ayah†, propugner†, amah†
   public oversight
   cop [Coll.], copper, the cops, the fuzz [Slang], the filth [Brit. Vulg.], the pigs [Slang], pig [Slang], the Old Bill [Brit. Slang], plod [Brit. Slang], bobby [Brit.], rozzers [Brit. Slang], five-oh [U.S. Slang], the feds [U.S.], the heat [Slang], the law, the boys in blue, flatfoot, gumshoe, dick [Slang], narc [Slang]
-  policeman
-  refuge, rubbish, ledger, deprivation
+  policeman, tithingman†
+  refuge, rubbish, ledger, deprivation, deprivement†, disherison†
   traveler, wayfarer, voyager, passenger, commuter
-  tourist, excursionist, explorer, adventurer, mountaineer, hiker, backpacker, Alpine Club, peregrinator†, wanderer, rover, straggler, rambler, bird of passage, gadabout, gadling†, scatterling†, landloper†, waifs and estrays†, wastrel, foundling, loafer, tramper, vagabond, nomad, Bohemian, Wandering Jew, Hadji, pilgrim, palmer, somnambulist, emigrant, fugitive, refugee, beach comber, booly†, globegirdler†, globetrotter, night walker, sleep walker, noctambulist, straphanger, swagman, swagsman [Austral.], trecker†, trekker, zingano†, zingaro†
+  tourist, excursionist, explorer, adventurer, mountaineer, hiker, backpacker, Alpine Club, peregrinator†, wanderer, rover, straggler, rambler, bird of passage, gadabout, gadling†, scatterling†, landloper†, waifs and estrays†, wastrel, foundling, loafer, tramper, vagabond, nomad, Bohemian, Wandering Jew, Hadji, pilgrim, palmer, somnambulist, emigrant, fugitive, refugee, beach comber, booly†, globegirdler†, globetrotter, night walker, sleep walker, noctambulist, straphanger, swagman, swagsman [Austral.], trecker†, trekker, zingano†, zingaro†, waveson†, Arab†, bummer†, trouvaille†, gaberlunzie†, mudlark†, raff†, bezonian†, sundowner†, cinderwench†, gossoon†, wilding†, polisson†, runnion†
   pedestrian, walker, foot passenger, cyclist, wheelman
-  pallet, brace, cart, dolley, support &c H0220
+  pallet, brace, cart, dolley, support &c H0220, appoggiato†, appoggiatura†, acciaccatura†
   ship
   vehicle, caravan, van, common carrier, wagon, waggon†, wain, dray, lorry
   truck, tram, cariole, carriole†, limber, tumbrel, pontoon, barrow, wheel barrow, hand barrow, perambulator, Bath chair, wheel chair, sedan chair, chaise, palankeen†, palanquin, litter, brancard†, crate, hurdle, stretcher, ambulance, black Maria, conestoga wagon, conestoga wain, jinrikisha, ricksha, brett†, dearborn [U.S.], dump cart, hackery†, jigger, kittereen†, mailstate†, manomotor†, rig, rockaway†, prairie schooner [U.S.], shay, sloven, team, tonga†, hobbyhorse, go-cart, cycle, bicycle, bike, two-wheeler, tricycle, velocipede, quadricycle†
-  equipage, turn-out, coach, chariot, phaeton, break, mail phaeton, wagonette, drag, curricle†, tilbury†, whisky, landau, barouche, victoria, brougham, clarence†, calash, britzka†, araba†, kibitka†, berlin, sulky, sociable, vis-a-vis, jaunting car, outside car, dandi†, doolie†, dooly†, munchil†, palki†, roller skates, skate, runabout, ski, tonjon†, vettura†
+  equipage, turn-out, coach, chariot, phaeton, break, mail phaeton, wagonette, drag, curricle†, tilbury†, whisky, landau, barouche, victoria, brougham, clarence†, calash, britzka†, araba†, kibitka†, berlin, sulky, sociable, vis-a-vis, jaunting car, outside car, dandi†, doolie†, dooly†, munchil†, palki†, roller skates, skate, runabout, ski, tonjon†, vettura†, tackey†
   post chaise, diligence, stage, stage coach, mail coach, hackney coach, glass coach, stage wagon, omnibus, fly, cabriolet†, cab, hansom, shofle†, four-wheeler, growler, droshki†, drosky†
   dogcart, trap, whitechapel, buggy, four-in-hand, unicorn, random, tandem, shandredhan†
   motor car, automobile, limousine, car, auto, jalopy, clunker, lemon, flivver, coupe, sedan, two-door sedan, four-door sedan, luxury sedan, wheels [Coll.], sports car, roadster, jeep, four-wheel drive vehicle, electric car, steamer, golf cart, electric wagon, taxicab, taxicoach†, checker cab, yellow cab, station wagon, family car, motorcycle, motor bike, side car, minivan, bus, minibus, microbus, pick-up wagon, pick-up, tractor- trailer, road train, articulated vehicle, racing car, hot rod, stock car, souped-up car
@@ -37,7 +37,7 @@ N:
   destroyer, trolley, spaceship, limo, corvette, airbus, starship, skateboard, transporter, motorbike, aeroplane, hackney, warship, battleship, gurney, glider, airliner, streetcar, hatchback, panzer, stagecoach, airship, forklift, tramway, rickshaw, interceptor, hearse, moped, stanhope, pram, snowmobile, luge, wheelbarrow, flatbed, dreadnought
   public transport, military vehicle, passenger vehicle, railroad train, cargo ships, ski lift, mine cage, merchant vessels, merchant marine, road roller, ski tow, bumper car, double-decker, wheeled vehicle, cable tramway, aerial tramway, half track, hospital train, car train, ground-effect machine, school bus, space vehicle, military plane, mail train, boat train, army tank, combat ship, horse-drawn vehicle, surface lift, chair lift, railway car, railroad car, house trailer, test rocket, step rocket, research rocket, landing craft, weapons carrier, personnel carrier, car carrier, war vessel, test instrument vehicle, covered couch, subway train, scout car, welcome wagon, shuttle bus, baby carriage, rope tow, troop transport, troop carrier, coaster wagon, armored combat vehicle, motor scooter, self-propelled vehicle, ballistic capsule
   rails, traveller, biker, conveyor, lander
-  street, road, avenue, lane, alley, intersection, crossroads, highway, freeway, motorway, expressway, bypass, railway, railroad, subway, underground, tube [Brit.], metro, terminal, arrival, layover, jet lag, passport, visa, ticket, fare, traffic, rush hour, traffic jam, gridlock, parking, car park, parking lot, garage, diesel, petrol, gas, brakes, steering, seatbelt, driving, lift, rideshare, Uber [Coll.], tourism, sightseeing, vacation, trip, road trip, staycation [Coll.], backpacking, hiking, camping
+  street, road, avenue, lane, alley, intersection, crossroads, highway, freeway, motorway, expressway, bypass, railway, railroad, subway, underground, tube [Brit.], metro, terminal, arrival, layover, jet lag, passport, visa, ticket, fare, traffic, rush hour, traffic jam, gridlock, parking, car park, parking lot, garage, diesel, petrol, gas, brakes, steering, seatbelt, driving, lift, rideshare, Uber [Coll.], tourism, sightseeing, vacation, trip, road trip, staycation [Coll.], backpacking, hiking, camping, alameda†, decussation†, transversion†, trottoir†, carrefour†
 
 V:
   regulate, police, inspect, oversee, administer, provide relief, supervise
@@ -49,21 +49,44 @@ V:
 Adj:
   regulatory, administrative, supervisory, welfare, public
   municipal
-  safe, secure, sure, in safety, in security, on the safe side, under the shield of, under the shade of, under the wing of, under the shadow of one's wing, under cover, under lock and key, out of danger, out of the woods, out of the meshes, out of harm's way, unharmed, unscathed, on sure ground, at anchor, high and dry, above water, unthreatened†, unmolested, protected, panoplied &c H0718 [Obs.]
+  safe, secure, sure, in safety, in security, on the safe side, under the shield of, under the shade of, under the wing of, under the shadow of one's wing, under cover, under lock and key, out of danger, out of the woods, out of the meshes, out of harm's way, unharmed, unscathed, on sure ground, at anchor, high and dry, above water, unthreatened†, unmolested, protected, panoplied &c H0718 [Obs.], unvexed†, unplagued†
 
 Adv:
   by regulation, in the public interest
   by public authority
 
 F:
-  German: Polizeiwissenschaft [science of police], Pöbel
-  Latin: profanum vulgus, ignobile vulgus, cavendo tutus, custos
-  French: bonne
+  German: Polizeiwissenschaft [science of police], Pöbel, Sicherheit, Sorglosigkeit
+  Latin: profanum vulgus, ignobile vulgus, cavendo tutus, custos, securitas [freedom from care; also carelessness]
+  French: bonne, biopouvoir [biopower] [Foucault], sécurité, sûreté, incurie
   Spanish: guarda costa, duenna
   Arabic: ḥisba [market inspection], muḥtasib [market inspector]
+  Greek: asphaleia, ataraxia, akēdeia
+  Italian: sicurezza, trascuratezza
 
 Phr:
   the rabble, der Pöbel [Ger.] [Hegel]
   die Frage, wie der Armut abzuhelfen sei, ist eine vorzüglich die modernen Gesellschaften bewegende und quälende [Ger.] [Hegel, Philosophy of Right §244 Zusatz]
   the long arm of the law
   to keep the peace
+  all's well
+  salva res est [Lat.]
+  suave mari magno [Lat.]
+  a couvert [Fr.]
+  e terra alterius spectare laborem [Lat.] [Lucretius]
+  Dieu vous garde [Fr.]
+  ne reveillez pas le chat qui dort [Fr.], don't wake a sleeping cat
+  foenum habet in cornu [Lat.]
+  caveat actor
+  le silence du people est la legon des rois [Fr.]
+  verbum sat sapienti [Lat.], a word to the wise is sufficient
+  un averti en vaut deux [Fr.]
+  zonam perdidit [Lat.]
+  a penniless lass wi' a lang pedigree [Lady Nairne]
+  a pobreza no hay verguenza [Sp.]
+  he that is down can fall no lower [Butler]
+  poca roba poco pensiero [It.]
+  steeped
+  in poverty to the very lips [Othello]
+  the short and simple annals of the poor [Gray]
+  dummodo sit dives barbarus ipse placet [Lat.] [Ovid]

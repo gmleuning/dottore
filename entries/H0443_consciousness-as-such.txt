@@ -22,8 +22,13 @@ Adv:
   consciously, over against, as given
 
 F:
-  German: natürliche Einstellung [Husserl], Gegenstand [that which stands against]
+  German: natürliche Einstellung [Husserl], Gegenstand [that which stands against], Bewusstheit, Gewissen, Gewissheit
   Korean: uisik [consciousness]
+  Dutch: innerlijke medewetingh, innerlijckste bewustheyt, meêwustigheyt
+  French: conscience
+  Greek: synaisthēsis, syneidēsis, synesis, syntērēsis
+  Italian: consapevolezza, coscienza
+  Latin: conscientia
 
 Phr:
   the world as it appears to common sense

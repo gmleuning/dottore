@@ -31,7 +31,7 @@ Adv:
 
 F:
   German: Insichsein, Negation der Negation
-  Latin: aliquid, haecceitas, subiectum
+  Latin: aliquid, haecceitas, subiectum, id quod est [that which is] [Boethius]
   Greek: ti, tode ti [a this-something], hypokeimenon
   French: je ne sais quoi
 

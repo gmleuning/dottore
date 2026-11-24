@@ -44,14 +44,14 @@ V:
 
 Adj:
   social, class-based, estate-based, occupational, stratified
-  flush, flush of cash, flush of money, flush of tin [Slang], in funds, in cash, in full feather, solvent, pecunious†, out of debt, in the black, all straight
-  made of money, rich as Croesus, filthy rich, rolling in riches, rolling in wealth
+  flush, flush of cash, flush of money, flush of tin [Slang], in funds, in cash, in full feather, solvent, pecunious†, out of debt, in the black, all straight, unowed†
+  made of money, rich as Croesus, filthy rich, rolling in riches, rolling in wealth, rich as a Jew†
   wealthy, rich, affluent, opulent, moneyed, monied, worth much, well to do, well off, warm, comfortable, well, well provided for
   economical, frugal, careful, thrifty, saving, chary, spare, sparing, parsimonious &c H0614
   underpaid
   profuse, thriftless, unthrifty, improvident, wasteful, extravagant, dissipated, overliberal, full-handed &c H0614
   penny wise and pound foolish
-  parsimonious, penurious, stingy, miserly, mean, shabby, peddling, scrubby, penny wise, near, niggardly, close, fast handed, close handed, strait handed, close fisted, hard fisted, tight fisted, tight, grudging, griping, illiberal, ungenerous, churlish, hidebound, sordid, mercenary, venal, covetous, usurious, avaricious, greedy, extortionate, rapacious
+  parsimonious, penurious, stingy, miserly, mean, shabby, peddling, scrubby, penny wise, near, niggardly, close, fast handed, close handed, strait handed, close fisted, hard fisted, tight fisted, tight, grudging, griping, illiberal, ungenerous, churlish, hidebound, sordid, mercenary, venal, covetous, usurious, avaricious, greedy, extortionate, rapacious, scrannel†, putid†
   class
   cautious, scarce
 
@@ -63,9 +63,9 @@ Adv:
   by estate, by class
 
 F:
-  German: Stände, das allgemeine Vermögen
+  German: Stände, das allgemeine Vermögen, Bildungsbürgertum [the educated middle class]
   Latin: ne quid nimis
-  French: porte-monnaie, credit mobilier, manger son ble en herbe
+  French: porte-monnaie, credit mobilier, manger son ble en herbe, Tiers État
   Sanskrit: varṇa [estate, class]
   Korean: sinbun [estate, status]
 
@@ -73,3 +73,18 @@ Phr:
   my station and its duties [F. H. Bradley]
   the station in life
   to know one's place
+  adde parvum parvo magnus acervus erit [Lat.]
+  one's ship coming in
+  amour fait beaucoup mais argent fait tout [Fr.], love does much but money does everything
+  aurea rumpunt tecta quietem [Lat.] [Seneca]
+  magna servitus ist magna fortuna [Lat.]
+  mammon, the least erected spirit that fell from Heaven [Paradise Lost]
+  opum furiata cupido [Lat.] [Ovid]
+  vera prosperita e non aver necessita [It.]
+  wie gewonnen so zerronnen [Ger.]
+  magnum est vectigal parsimonia [Lat.] [Cicero]
+  amor nummi [Lat.]
+  facile largiri de alieno [Lat.]
+  les fous font les festins et les sages les mangent [Fr.]
+  spendthrift alike of money and of wit [Cowper]
+  squandering wealth was his peculiar art [Dryden]

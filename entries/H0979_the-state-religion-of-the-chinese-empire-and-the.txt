@@ -23,7 +23,7 @@ Adv:
 
 F:
   German: Staatsreligion, Religion des Maßes, Vernunft
-  Chinese: Tian, Tianming, the Dao, wuwei [non-action], yin and yang, de [virtue, power], li [ritual], tianzi, xiao, ziran, yin-yang, taiji, shen, ru, daojiao, Daodejing
+  Chinese: Tian, Tianming, the Dao, wuwei [non-action], yin and yang, de [virtue, power], li [ritual], tianzi, xiao, ziran, yin-yang, taiji, shen, ru, daojiao, Daodejing, zuowang [sitting and forgetting] [Zhuangzi]
   Korean: cheonmyeong [mandate of heaven], do [the Way]
 
 Phr:

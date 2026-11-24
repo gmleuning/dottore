@@ -5,17 +5,17 @@ Gloss: Distinction; a thing's not being the same as another, or as itself in ano
 HGloss: The negativity of reflection, essence distinguishing itself from itself; absolute difference.
 
 N:
-  difference; distinction, distinctness, otherness, alterity, heterogeneity, dissimilarity, unlikeness, disparity, discrepancy, divergence, deviation, variance, variation, contrast, discrimination, differentiation, diversity &c H0091; nuance, shade of difference, subtlety, fine distinction, hair-splitting
+  difference; distinction, distinctness, otherness, alterity, heterogeneity, dissimilarity, unlikeness, disparity, discrepancy, divergence, deviation, variance, variation, contrast, discrimination, differentiation, diversity &c H0091; nuance, shade of difference, subtlety, fine distinction, hair-splitting, discrepance†
   variety, dissimilarity &c H0091, disagreement &c H0093, disparity &c H0045, contradistinction, alteration
-  dissimilaritude†, diversity, dissemblance†
+  dissimilaritude†, diversity, dissemblance†, oogamy†
   nice distinction, delicate distinction, subtle distinction, discrimination &c H0606, differentia
   diorism†, perception of difference
-  mismatch, disproportion, dissimilitude, inequality, disproportionateness†, repugnance
+  mismatch, disproportion, dissimilitude, inequality, disproportionateness†, repugnance, inequation†
   non-identity
   variant, variability, degenerate, deviant
 
 V:
-  differ, vary, diverge, deviate, contrast, depart from, be distinct from, be different; distinguish, discriminate, differentiate, tell apart, set apart, mark off, draw a distinction, split hairs
+  differ, vary, diverge, deviate, contrast, depart from, be distinct from, be different; distinguish, discriminate, differentiate, tell apart, set apart, mark off, draw a distinction, split hairs, gybe†
   ablude†, divaricate
   severalize†, draw the line
   vary &c H0007, deviate &c H0228, diverge &c H0228, alternate, swerve
@@ -32,9 +32,9 @@ Adv:
 
 F:
   German: Differenz
-  Latin: differentia, differentia specifica [specific difference], per contra, differ toto coelo
+  Latin: differentia, differentia specifica [specific difference], per contra, differ toto coelo, distinctio formalis [formal distinction] [Duns Scotus]
   Greek: diaphora
-  French: différance [Derrida]
+  French: différance [Derrida], répétition [Deleuze]
   Italian: differ longo intervallo
   Sanskrit: bheda [difference], viśeṣa [distinction, particularity]
 
@@ -45,3 +45,4 @@ Phr:
   a difference that makes a difference [Bateson]
   a distinction without a difference
   worlds apart
+  il y a fagots et fagots

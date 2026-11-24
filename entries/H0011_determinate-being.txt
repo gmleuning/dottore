@@ -11,7 +11,7 @@ N:
   definite being
 
 V:
-  be there, exist, be present, obtain, subsist, have being, be extant; occupy, stand, be found, be met with, show up, turn up; be determined, be definite
+  be there, exist, be present, obtain, subsist, have being, be extant; occupy, stand, be found, be met with, show up, turn up; be determined, be definite, assister†
   be
 
 Adj:
@@ -24,9 +24,14 @@ Adv:
   definitely
 
 F:
-  German: Realität, Bestimmtheit
-  Latin: ens, hic et nunc, in esse, de facto, esse
+  German: Realität, Bestimmtheit, In-der-Welt-sein [being-in-the-world] [Heidegger], Kampf ums Dasein (struggle for life)
+  Latin: ens, hic et nunc, in esse, de facto, esse, existentia
   Korean: hyeonjonjae [determinate being]
+  French: réalité humaine, être-là, temps, durée d’une existence, présence, vie, être, il y a, avoir
+  Italian: essere-ci, esserci, adessere
+  Danish: der er
+  Greek: esti
+  Spanish: hay, haber
 
 Phr:
   there it is

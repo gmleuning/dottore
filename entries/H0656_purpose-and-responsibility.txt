@@ -7,9 +7,9 @@ HGloss: The deed as the will's purpose, and its responsibility, for it recognize
 N:
   purpose and responsibility; purpose, aim, design, intent, premeditation; responsibility, accountability, culpability, imputability, authorship of a deed
   intention, intentionality, project &c H0195, undertaking &c H0613, ambition
-  predeliberation†, predetermination, foregone conclusion, resolve, intention &c H0660
+  predeliberation†, predetermination, foregone conclusion, resolve, intention &c H0660, presurmise†
   duty, what ought to be done, moral obligation, accountableness†, liability, onus, bounden duty, imperative duty, call, call of duty
-  deed, act, overt act
+  deed, act, overt act, gest transaction†
   answerability, imputation, the deed and the action
 
 V:
@@ -31,8 +31,24 @@ Adv:
 F:
   Latin: quo animo
   Arabic: niyya [intention]
+  Russian: postupok [the answerable deed] [Bakhtin]
+  French: acte libre, engagement
 
 Phr:
   the buck stops here
   to answer for
   on one's own head be it
+  action is eloquence [Coriolanus]
+  actum aiunt ne agas [Terence]
+  awake, arise, or be forever fall'n [Paradise Lost]
+  dii pia facta vident [Lat.] [Ovid]
+  faire sans dire [Fr.]
+  fare fac [It.]
+  fronte capillata post est occasio calva [Lat.]
+  our deeds are sometimes better than our thoughts [Bailey]
+  the great end of life is not knowledge but action [Huxley]
+  thought is the soul of act [R. Browning]
+  vivre-ce nest pas respirer c'est agir [Fr.]
+  we live in deeds not years [Bailey]
+  cunctando restituit rem [Lat.], If it ain't broke don't fix it [Bert Lance]
+  stare decisis [Lat.], let the decision stand

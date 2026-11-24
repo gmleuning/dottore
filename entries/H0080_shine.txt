@@ -5,9 +5,9 @@ Gloss: Mere seeming; what appears but has no standing of its own apart from the 
 HGloss: Being reduced to a semblance, which has no being of its own apart from essence and is essence's own shining.
 
 N:
-  shine, illusory being, semblance, seeming, show, appearance &c H0107, look, aspect, guise, mien, façade, front, veneer, gloss, surface, outside, exterior, shell, husk; illusion, delusion, chimera, phantasm, phantom, image, shadow, reflection, shade, ghost, spectre, mirage, will-o'-the-wisp; seeming; nonentity, nullity &c H0006; tinsel, gilding, paste, sham, pretence, pretext, front, window dressing, Potemkin village
+  shine, illusory being, semblance, seeming, show, appearance &c H0107, look, aspect, guise, mien, façade, front, veneer, gloss, surface, outside, exterior, shell, husk; illusion, delusion, chimera, phantasm, phantom, image, shadow, reflection, shade, ghost, spectre, mirage, will-o'-the-wisp; seeming; nonentity, nullity &c H0006; tinsel, gilding, paste, sham, pretence, pretext, front, window dressing, Potemkin village, mythogenesis†
   air
-  false light, virtual image
+  false light, virtual image, phasma†
   luster, sheen, brightness
 
 V:
@@ -25,7 +25,7 @@ Adj:
 
 Adv:
   seemingly, apparently, ostensibly, outwardly, superficially, on the surface, to all appearances, at first blush, in appearance
-  to all seeming, to all appearance, as it seems, on the face of it, at the first blush, at first sight, in the eyes of, to the eye
+  to all seeming, to all appearance, as it seems, on the face of it, at the first blush, at first sight, in the eyes of, to the eye, meseems†
 
 F:
   Latin: simulacrum, prima facie

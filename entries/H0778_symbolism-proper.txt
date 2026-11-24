@@ -17,7 +17,7 @@ V:
 
 Adj:
   Egyptian, hieroglyphic, enigmatic, cryptic, sphinxlike
-  hidden, secret, recondite, mystic, cabalistic, occult, dark
+  hidden, secret, recondite, mystic, cabalistic, occult, dark, acroamatical†, cryptical†
   enigmatical, indecipherable
   symbolic, mysterious, veiled
 

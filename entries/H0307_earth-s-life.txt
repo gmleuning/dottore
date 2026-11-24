@@ -16,7 +16,7 @@ V:
 Adj:
   living, vital, telluric, terrestrial, biospheric
   terraqueous†
-  green, eco-friendly, sustainable, renewable, environmental, ecological, endangered
+  green, eco-friendly, sustainable, renewable, environmental, ecological, endangered, periculous†
 
 Adv:
   on the face of the earth

@@ -30,6 +30,8 @@ F:
   Arabic: ghazal
   Japanese: haiku
   Korean: sijo [Korean three-line verse], hyangga [Silla songs]
+  Italian: stornello [Tuscan folk song]
+  Spanish: cante jondo, quejío [the flamenco lament], saeta
 
 Phr:
   hymn, ode, and song

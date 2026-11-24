@@ -8,7 +8,7 @@ N:
   mastery and servitude; lordship and bondage, master and slave, master and servant, lord and bondsman, dominion and subjection, domination, hierarchy, the master-slave dialectic
   sway, dominion, sovereignty, supremacy, lordship
   lord, lord paramount, chief, head, ruler
-  bidding, behest
+  bidding, behest, hukm†, hest†
   domination and servitude, subjection
   master–slave dialectic
 
@@ -39,3 +39,8 @@ Phr:
   the truth of the independent consciousness is the servile consciousness [Hegel]
   no man can serve two masters [Bible]
   who serves whom
+  to hear is to obey
+  as you please, if you please
+  your wish is my command
+  as you wish
+  no sooner said than done

@@ -13,7 +13,7 @@ N:
 
 V:
   found, proclaim, gather, witness
-  originate, arise, begin, be born, emerge, establish, institute, constitute, inaugurate, assemble, call together, convene, congregate, evangelize, preach, announce, testify, bear witness, convert, baptize, receive the Spirit, send forth, commission, believe
+  originate, arise, begin, be born, emerge, establish, institute, constitute, inaugurate, assemble, call together, convene, congregate, evangelize, preach, announce, testify, bear witness, convert, baptize, receive the Spirit, send forth, commission, believe, bringword†
 
 Adj:
   apostolic, pentecostal, primitive

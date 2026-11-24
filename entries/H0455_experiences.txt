@@ -25,6 +25,11 @@ Adv:
 
 F:
   Sanskrit: anubhava [experience]
+  Chinese: mozhe shitou guohe [crossing the river by feeling for the stones]
+  German: Erlebnis [lived experience] [Dilthey]
+  French: vivre, faire l’experience, faire l’épreuve, le vécu
+  Greek: biōnai, zōē, bios
+  Spanish: vivir, experimentar, vivencia
 
 Phr:
   experience is the teacher of all things, experientia docet [Lat.]

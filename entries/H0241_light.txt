@@ -6,38 +6,46 @@ HGloss: The existent universal self of matter, pure identity with itself, manife
 
 N:
   light; radiance, brightness, brilliance, luminosity, luminance, illumination, lustre, gleam, glow, glare, glitter, shine, sheen, effulgence, refulgence, splendour, lambency, incandescence, luminescence, phosphorescence; ray, beam, shaft, sunbeam, moonbeam; daylight, sunlight, sunshine, dawn, daybreak; photon; ether, luminiferous ether
-  luster, reflexion [Brit.], reflection, gloss, tinsel, spangle, brilliancy, splendor, fulgor†, fulgidity†, dazzlement†, resplendence, transplendency†, luminousness, lucidity, renitency†, nitency†, radiation, irradiation
+  luster, reflexion [Brit.], reflection, gloss, tinsel, spangle, brilliancy, splendor, fulgor†, fulgidity†, dazzlement†, resplendence, transplendency†, luminousness, lucidity, renitency†, nitency†, radiation, irradiation, clinquant†
   stream, streak, pencil
-  day, light of day, light of heaven, moonlight, starlight, sunlight &c H0275, broad daylight, noontide light, noontide, noonday, noonday sun
-  glimmering, glint, play of light, flood of light, lambent flame
+  day, light of day, light of heaven, moonlight, starlight, sunlight &c H0275, broad daylight, noontide light, noontide, noonday, noonday sun, moonglade†
+  glimmering, glint, play of light, flood of light, lambent flame, sciolism†
   aurora, dusk, twilight, shades of evening, crepuscule, cockshut time†, break of day
-  darkness, absence of light, blackness &c H0275, obscurity, gloom, murk
+  darkness, absence of light, blackness &c H0275, obscurity, gloom, murk, infestivity†
   Cimmerian darkness†, Stygian darkness, Egyptian darkness, night, midnight, dead of night, witching hour of night, witching time of night, blind man's holiday, darkness visible, darkness that can be felt, palpable obscure, the jaws of darkness, sablevested night [Milton]
   shade, shadow, umbra, penumbra, sciagraphy†
-  obscuration, occultation, adumbration, obumbration†, obtenebration†, offuscation†, caligation†, extinction, eclipse, total eclipse, gathering of the clouds
+  obscuration, occultation, adumbration, obumbration†, obtenebration†, offuscation†, caligation†, extinction, eclipse, total eclipse, gathering of the clouds, gliming†
   shading, distribution of shade, chiaroscuro
   noctivagation†
   black body, hohlraum [Phys.], black hole, dark star, dark matter, cold dark matter
-  D.], eldest Night and Chaos, ancestors of Nature, the blackness of the noonday night [Longfellow], the prayer of Ajax was for light [Longfellow]. awning &c H0221, parasol, sunshade, umbrella, chick, portiere, screen, curtain, shutter, blind, gauze, chador, mantle, mask, cloud, mist, gathering. of clouds. umbrage, glade. beach umbrella, folding umbrella. pure manifestation. spotlight, daytime, nighttime, limelight. laser, radar, sensor, infrared, ultraviolet, UV, LED, bulb, light bulb, flashlight, torch [Brit.], headlights. irradiance
+  awning &c H0221, parasol, sunshade, umbrella, chick, portiere, screen, curtain, shutter, blind, gauze, chador, mantle, mask, cloud, mist, gathering
+  of clouds
+  umbrage, glade
+  beach umbrella, folding umbrella
+  pure manifestation
+  spotlight, daytime, nighttime, limelight
+  laser, radar, sensor, infrared, ultraviolet, UV, LED, bulb, light bulb, flashlight, torch [Brit.], headlights
+  irradiance, baldachino†, baldaquin†, cullender†, cribble†
+  firedrake†
 
 V:
   shine, beam, glow, gleam, glitter, glisten, glimmer, shimmer, sparkle, twinkle, flash, radiate, irradiate, illuminate, illumine, light up, lighten, brighten, dawn
   glister, flare, flare up, scintillate, coruscate, blaze, be bright, reflect light, daze, dazzle, bedazzle, shoot out beams, fulgurate
-  enlighten, levin†, shine upon, give out a light, hang out a light, cast light upon, cast light in, throw light upon, throw light in, shed light upon, shed luster upon, illume†, relume†, strike a light, kindle &c H0265
+  enlighten, levin†, shine upon, give out a light, hang out a light, cast light upon, cast light in, throw light upon, throw light in, shed light upon, shed luster upon, illume†, relume†, strike a light, kindle &c H0265, undeceive†
   be dim, grow dim, flicker, loom, lower, fade, pale, pale its ineffectual fire [Hamlet]
   be dark
-  darken, obscure, dim, tone down, overcast, overshadow, obfuscate, offuscate†, obumbrate†, adumbrate, cast into the shade becloud, bedim†, bedarken†, cast a shade, throw a shade, spread a shade, cast a gloom, throw a shadow, spread a shadow, cast gloom, throw gloom, spread gloom
+  darken, obscure, dim, tone down, overcast, overshadow, obfuscate, offuscate†, obumbrate†, adumbrate, cast into the shade becloud, bedim†, bedarken†, cast a shade, throw a shade, spread a shade, cast a gloom, throw a shadow, spread a shadow, cast gloom, throw gloom, spread gloom, infuscate†, smutch†, nigrescent†
   extinguish, put out, blow out, snuff out, doubt
   turn out the lights, douse the lights, dim the lights, turn off the lights, switch off the lights
   draw a curtain, put up a shutter, close a shutter, veil, cast a shadow
 
 Adj:
   light, bright, brilliant, radiant, luminous, lucent, lucid, shining, beaming, glowing, gleaming, effulgent, refulgent, resplendent, lustrous, incandescent, phosphorescent, sunny, sunlit, clear
-  luminiferous†, luculent†, lucific†, luciferous, lightsome, vivid, splendent†, nitid†, shiny, beamy†, scintillant†, lambent, sheeny, glossy, burnished, glassy, orient, meridian, tide, cloudless, unclouded, unobscured†
+  luminiferous†, luculent†, lucific†, luciferous, lightsome, vivid, splendent†, nitid†, shiny, beamy†, scintillant†, lambent, sheeny, glossy, burnished, glassy, orient, meridian, tide, cloudless, unclouded, unobscured†, meridional†
   gairish†, garish, transplendent†, fulgid†, fulgent†, relucent†, splendid, blazing, in a blaze, ablaze, rutilant†, meteoric, aglow
   self-luminous, phosphoric†, fluorescent, luminescent, chemiluminescent
   dark, darksome†, darkling, tenebrious†, sombrous†, pitch dark, pitchy, pitch black, caliginous†, black &c H0275
-  sunless, lightless(light), somber, dusky, unilluminated [Obs.], nocturnal, dingy, lurid, gloomy, murky, murksome†, cloudy &c H0273, darkened, dark as pitch, dark as a pit
+  sunless, lightless(light), somber, dusky, unilluminated [Obs.], nocturnal, dingy, lurid, gloomy, murky, murksome†, cloudy &c H0273, darkened, dark as pitch, dark as a pit, stammell blood red†
   benighted, noctivagant†, noctivagous†
   shady, umbrageous
   blinding
@@ -48,9 +56,14 @@ Adv:
 
 F:
   Latin: lux, lumen, lux and lumen [source light and diffused light], Erebus, dark as Erebus
-  Greek: phōs
+  Greek: phōs, leukos
   Arabic: nūr [light]
   Sanskrit: prakāśa [light, manifestation], tejas
+  Danish: lys
+  French: lumière
+  Italian: luce
+  Russian: svet
+  Spanish: luz
 
 Phr:
   fiat lux [Lat.] [Bible]
@@ -59,3 +72,15 @@ Phr:
   more light! mehr Licht! [Ger.] [Goethe, attrib. last words]
   Allāhu nūr al-samāwāti wa-l-arḍ [Ar.] [God is the light of the heavens and the earth] [Qur'an]
   in the light of day
+  a day for gods to stoop and men to soar [Tennyson]
+  dark with excessive bright [Milton]
+  brief as the lightning in the collied night [Midsummer Night's Dream]
+  eldest Night and Chaos, ancestors of Nature [Paradise Lost]
+  the blackness of the noonday night [Longfellow]
+  the prayer of Ajax was for light [Longfellow]
+  blossomed the lovely stars, the forget-me-nots of the angels [Longfellow]
+  the sentinel stars set their watch in the sky [Campbell]
+  the planets in their station list'ning stood [Paradise Lost]
+  the Scriptures of the skies [Bailey]
+  that orbed continent, the fire that severs day from night [Twelfth Night]
+  welcome ye shades! ye bowery thickets hail [Thomson]

@@ -6,13 +6,14 @@ HGloss: The senses of ideality, sight of physical light and hearing of the body'
 
 N:
   sight and hearing; the ideal senses, the theoretical senses, the distance senses, the eye and the ear, vision and audition
-  view, glance, glimpse, gaze, ken
+  view, glance, glimpse, gaze, ken, espial†, perlustration†, conspection†, conspectuity†
   deafness, hardness of hearing, surdity†, inaudibility, inaudibleness†
   spectator, beholder, observer, looker-on, onlooker, eyewitness, bystander, passer by, sightseer, rubbernecker [U.S.]
   spy, sentinel &c H0599
   vision, audition, seeing, hearing
   eye, peepers [Slang], baby blues, orbs, iris, pupil, retina, cornea, lens, eyelid, eyelash, lash, eyebrow, ear, earlobe, lobe, lughole [Brit. Slang], lugs [Slang], earhole, eardrum, tympanum, cochlea, ear canal, inner ear, auricle, pinna
-  lid, viewer, watcher
+  lid, viewer, watcher, covercle†
+  lippitude†, presbyopia†, chromato pseudo blepsis†, nyctalopia†, strabism†, blearedness†, hemeralopia†, xanthocyanopia†, chromatrope†, thaumatrope†, pseudoscope†, polyscope†, eriometer†, actinometer†, lucimeter†, abdominoscopy†
 
 V:
   see, look, watch, behold, hear, listen, heed, attend
@@ -29,6 +30,7 @@ Adj:
   auricular, phonic
   deaf, earless†, surd, hard of hearing, dull of hearing, deaf-mute, stunned, deafened, stone deaf, deaf as a post, deaf as an adder, deaf as a beetle, deaf as a trunkmaker†
   inaudible, out of hearing
+  periscopic†
 
 Adv:
   by eye and ear, at a distance
@@ -41,3 +43,11 @@ Phr:
   he that hath ears to hear, let him hear [Bible]
   all eyes and ears
   out of sight, out of mind
+  hear no evil
+  the scales falling from one's eyes
+  an eye like Mars to threaten or command [Hamlet]
+  her eyes are homes of silent prayer [Tennyson]
+  looking before and after [Hamlet]
+  thy rapt soul sitting in thine eyes [Milton]
+  O dark, dark, dark, amid the blaze of noon [Milton]
+  full many a flower is born to blush unseen [Gray]

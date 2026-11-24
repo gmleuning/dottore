@@ -6,10 +6,10 @@ HGloss: A drive into which the whole subject has put its energy, so that nothing
 
 N:
   passion; ardour, fervour, zeal, enthusiasm, fire, vehemence, intensity, obsession, devotion, ruling passion
-  warmth, glow, unction, gusto, fervency, heartiness, cordiality, earnestness, eagerness, gush, ardor, verve, furore†, fanaticism, excitation of feeling &c H0609, fullness of the heart &c H0377, ecstasy &c H0609
-  excitement, flush, heat, fever, fume, blood boiling, tumult, effervescence, ebullition, boiling over, whiff, gust, story, tempest, scene, breaking out, burst, fit, paroxysm, explosion, outbreak, outburst, agony
+  warmth, glow, unction, gusto, fervency, heartiness, cordiality, earnestness, eagerness, gush, ardor, verve, furore†, fanaticism, excitation of feeling &c H0609, fullness of the heart &c H0377, ecstasy &c H0609, manie†
+  excitement, flush, heat, fever, fume, blood boiling, tumult, effervescence, ebullition, boiling over, whiff, gust, story, tempest, scene, breaking out, burst, fit, paroxysm, explosion, outbreak, outburst, agony, tumultuation†, cahotage†
   flame, fervor, rapture, infatuation
-  excitability, impetuosity, boisterousness, turbulence, impatience, intolerance, nonendurance†, irritability &c H0379, itching &c H0613, wincing, disquiet, disquietude, restlessness, fidgets, fidgetiness, agitation &c H0228
+  excitability, impetuosity, boisterousness, turbulence, impatience, intolerance, nonendurance†, irritability &c H0379, itching &c H0613, wincing, disquiet, disquietude, restlessness, fidgets, fidgetiness, agitation &c H0228, carphology†, floccillation†, tilmus†, stereognosis†
   single-mindedness
   crush, a thing for, fandom, fanboy, fangirl, superfan, nerd, geek, buff, nut, freak, junkie [Slang]
 
@@ -24,9 +24,9 @@ Adj:
   demonstrative, violent, hot-headed, madcap
   warm, hot
   overzealous, enthusiastic, fanatical, rabid &c H0613
-  impulsive, impetuous, uncontrolled, uncontrollable, ungovernable, irrepressible, stanchless†, inextinguishable, simmering, volcanic, ready to burst forth, volatile
+  impulsive, impetuous, uncontrolled, uncontrollable, ungovernable, irrepressible, stanchless†, inextinguishable, simmering, volcanic, ready to burst forth, volatile, intransmutable†, incommutable†, irresoluble†, reverseless†, unmitigable†, incontrollable†, unsubmissive†, unvanquished†
   eager, avid, keen, burning, agog, all agog, impatient, bent on, intent on, set on, bent upon, intent upon, set upon, mad after, enrage, dying for, devoured by desire
-  fierce, wild, rageful†, furious, mad with rage, infuriate, rabid, savage, relentless &c H0653
+  fierce, wild, rageful†, furious, mad with rage, infuriate, rabid, savage, relentless &c H0653, troublous†, tumultuary†
   single-minded
   obsessed, mad about, crazy about, nuts about, into, gung-ho, stoked [Slang], amped [Slang], psyched [Slang], fired up, pumped [Slang]
 
@@ -35,16 +35,37 @@ Adv:
   with passion
 
 F:
-  Latin: passio, affectus
-  Greek: pathos
-  French: empressement
-  Italian: con amore, con fuoco
+  Latin: passio, affectus, emotio, morbus, perturbatio
+  Greek: pathos, epithymia, orexis, pathēma, thymos
+  French: empressement, coup de foudre, émotion
+  Italian: con amore, con fuoco, emozione, passione, sentimento
   Arabic: hawā [passion, whim], ʿishq [passionate love]
   Sanskrit: rāga [passion, attachment]
   Korean: jeongnyeol [passion]
+  German: Affekt, Begierde, Hang
 
 Phr:
   nothing great in the world has been accomplished without passion [Hegel]
   reason is, and ought only to be, the slave of the passions [Hume]
   nothing great is done without passion
   heart and soul
+  furor arma ministrat [Lat.]
+  blown with restless violence round about the pendent world [Measure for Measure]
+  desunt inopioe multa avaritiae omnia [Lat.] [Syrus]
+  hoards after hoards his rising raptures fill [Goldsmith]
+  the unsunn'd heaps of miser's treasures [Milton]
+  filled with fury, rapt, inspir'd [Collins]
+  maggiore fretta minore atto [It.]
+  cool calm and collected, keep calm in the midst of a storm
+  adversity's sweet milk, philosophy [Romeo and Juliet]
+  mens aequa in arduis philosophia stemma non inspecite [Lat.] [Seneca]
+  quo me cumque rapit tempestas deferor hospes [Lat.] [Horace]
+  they also serve who only stand and wait [Milton]
+  one's blood being up, one's back being up, one's monkey being up
+  fervens difficili bile jecur [Lat.]
+  the gorge rising, eyes flashing fire
+  the blood rising, the blood boiling
+  haeret lateri lethalis arundo [Lat.] [Virgil]
+  beware the fury of a patient man [Dryden]
+  quem Jupiter vult perdere dementat prius [Lat.]
+  What, drunk with choler? [Henry IV]

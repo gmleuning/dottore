@@ -12,7 +12,7 @@ N:
   apartness
 
 V:
-  exclude, shut out, keep out, rule out, bar, ban, debar, reject, repel, repudiate, ostracize, banish, expel, exile, excommunicate, blackball, boycott, blacklist, cold-shoulder, cut off, wall off, fence out; close ranks
+  exclude, shut out, keep out, rule out, bar, ban, debar, reject, repel, repudiate, ostracize, banish, expel, exile, excommunicate, blackball, boycott, blacklist, cold-shoulder, cut off, wall off, fence out; close ranks, disbench†
   leave out, set apart, segregate, relegate
   proscribe, keep at arm's length, send to Coventry, draw a cordon round
 
@@ -20,6 +20,7 @@ Adj:
   exclusive, excluding, exclusionary, preclusive, prohibitive, restrictive; clannish, cliquish, insular, cloistered, select, elite, private, members-only; mutually exclusive, incompatible
   beyond the pale
   repellent
+  unrecounted†
 
 Adv:
   exclusively, solely, only; to the exclusion of; none but; members only
@@ -33,3 +34,10 @@ Phr:
   we do not need you, we have each other
   keep oneself to oneself
   to stand apart
+  among them but not of them [Byron]
+  and homeless near a thousand homes I stood [Wordsworth]
+  far from the madding crowd's ignoble strife [Gray]
+  makes a solitude and calls it peace [Byron]
+  magna civitas magna solitudo [Lat.]
+  never less alone than when alone [Rogers]
+  O sacred solitude! divine retreat! [Young]

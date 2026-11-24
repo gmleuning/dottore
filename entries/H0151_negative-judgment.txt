@@ -5,7 +5,7 @@ Gloss: A judgment that denies a quality of a thing, as "the rose is not red."
 HGloss: The singular is not this abstract universal but a particular: the rose is not blue, but of some other colour.
 
 N:
-  negative judgment; negation, denial, negative statement, contradiction, gainsaying, disavowal, disclaimer, refusal, no, nay
+  negative judgment; negation, denial, negative statement, contradiction, gainsaying, disavowal, disclaimer, refusal, no, nay, declinature†
   abnegation, abjuration, contravention, recusation [Law], protest, recusancy &c H0604, flat contradiction, emphatic contradiction, emphatic denial
   negative proposition
   garbage, scraps
@@ -32,6 +32,8 @@ F:
   Latin: iudicium negativum, dementi
   Greek: apophasis
   Sanskrit: niṣedha [negation, prohibition]
+  German: Verneinung [negation that admits the repressed] [Freud]
+  French: dénégation [disavowal]
 
 Phr:
   the rose is not red

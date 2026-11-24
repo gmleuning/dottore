@@ -13,7 +13,7 @@ N:
   sexual intercourse, copulation, coitus, lovemaking, marital relations, sexual union, sleeping together, carnal knowledge
   race, stock, sept &c H0676, stirps, side, strain, clan, tribe, nation
   the species process, relation to its kind
-  DNA, gene, genes, genome, genetics, chromosome, mutation, cloning, clone, heredity, inheritance, natural selection, DNA test
+  DNA, gene, genes, genome, genetics, chromosome, mutation, cloning, clone, heredity, inheritance, natural selection, DNA test, telegony†, antherozoid†, bioplasm†, biotaxy†, dysmeromorph†
 
 V:
   mate, breed, reproduce, propagate, procreate, beget, spawn, multiply
@@ -24,7 +24,7 @@ V:
 Adj:
   reproductive, generative, procreative, sexual, specific
   procreant†, life-giving, spermatic, multiparous, omnific†, propagable
-  reproduced
+  reproduced, suigenetic†
   generic
 
 Adv:
@@ -35,3 +35,6 @@ Phr:
   be fruitful, and multiply [Bible]
   to multiply
   the survival of the kind
+  ex nihilo nihil [Lat.]
+  materiam superabat opus [Lat.] [Ovid]
+  nemo dat quod non habet [Lat.]

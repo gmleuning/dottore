@@ -18,13 +18,13 @@ V:
 
 Adj:
   being, existent, existing, extant; simple, bare, sheer, mere, pure, immediate; indeterminate, undetermined, indefinite, featureless; first, initial, primordial, primal, aboriginal, original, primitive, elementary, rudimentary; abstract, empty
-  under the sun, in existence, undestroyed
+  under the sun, in existence, undestroyed, unsuppressed†
 
 Adv:
   simply, barely, merely; at first, in the beginning, at the outset
 
 F:
-  Latin: esse, ens, quod est, terminus a quo, principium, ab initio, ab ovo, in principio
+  Latin: esse, ens, quod est, terminus a quo, principium, ab initio, ab ovo, in principio, univocitas entis [univocity of being] [Duns Scotus]
   Greek: to on, einai, archē
   Arabic: wujūd [existence, being]
   Sanskrit: sat [being, the real]
@@ -36,3 +36,5 @@ Phr:
   to be or not to be, that is the question [Hamlet]
   ex nihilo nihil fit [Lat.]
   from the ground up
+  ens rationis [Lat.]
+  ergo sum cogito [Lat.], thinkest thou existence doth depend on time? [Byron]

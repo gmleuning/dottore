@@ -6,23 +6,23 @@ HGloss: The modern age: the Reformation's freedom of conscience, the Enlightenme
 
 N:
   the modern time; the Reformation, Luther, Protestantism, the Renaissance, the printing press, discovery of America, the Enlightenment, the French Revolution, the sunrise of reason, modernity, the modern age
-  nonconformity &c H0998, schism, secession &c H0616
-  dissenter, nonconformist, separatist, schismatic
-  contradiction &c H0599, noncompliance &c H0626
-  Calvinism, methodism
-  Huguenot, Presbyterian, Lutheran, Calvinist, Methodist
+  nonconformity &c H0998, schism, secession &c H0616, schismaticism†
+  dissenter, nonconformist, separatist, schismatic, sectarist†, nonjuror†
+  contradiction &c H0599, noncompliance &c H0626, incompliance†
+  Calvinism, methodism, Stundism†, Erastianism†, quakerism†, anabaptism†, tractarianism†, Socinianism†, ultramontanism†, monkery†
+  Huguenot, Presbyterian, Lutheran, Calvinist, Methodist, Ana†, Latter-day Saint†, Supralapsarian†, Antinomian†, Swedenborgian†, Adventist†, Faith Curer†, Curist†, Familist†, Libadist†, Restitutionist†, tractarian†
   the modern world, the new age, the principle of free spirit, the last stage of history
   protester
 
 V:
   reform, protest, enlighten, revolutionize, modernize
-  new model, remodel, recast, strike out something new, break with the past, change the face of
+  new model, remodel, recast, strike out something new, break with the past, change the face of, refound†
   dissent
   emancipate
 
 Adj:
   modern, Protestant, Reformed, enlightened, revolutionary
-  dissenting, dissident, dissentient
+  dissenting, dissident, dissentient, nonjuring†, antiscriptural†, antichristian†
   recent
   unorthodox
 
@@ -32,10 +32,22 @@ Adv:
   recently, lately
 
 F:
-  German: Reformation, Aufklärung, Neuzeit
+  German: Reformation, Aufklärung, Neuzeit, Kulturkampf [struggle of state and church], Säkularisation, Säkularisierung, Verweltlichung
+  French: temps modernes, âge moderne, modernité, sécularisation, profanation
+  Italian: secolarizzazione
 
 Phr:
   it was a glorious mental dawn [Hegel on the Revolution]
   sola fide, sola scriptura [Lat.]
   the age of revolutions
   liberty, equality, fraternity
+  di novello tutto par bello [It.]
+  nullum est jam dictum quod non dictum est prius [Lat.]
+  una scopa nuova spazza bene [It.]
+  many men many minds
+  quot homines tot sententiae [Lat.] [Terence]
+  tant s'en faut [Fr.]
+  il s'en faut bien [Fr.]
+  count me out
+  slave to no sect [Pope]
+  superstitione tollenda religio non tollitur [Lat.] [Cicero]

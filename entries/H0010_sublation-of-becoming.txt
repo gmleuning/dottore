@@ -20,7 +20,7 @@ V:
 
 Adj:
   sublated, superseded, transcended, surpassed, overcome; preserved, retained, conserved, incorporated, integrated; ideal, moment-like; synthetic, resultant; quiescent, settled, stable
-  merged
+  merged, embosomed†
 
 Adv:
   in sublated form, as a moment; at a higher level, on a higher plane; in principle
@@ -30,6 +30,8 @@ F:
   German: aufheben, bestimmte Negation, Negation der Negation, Moment [a sublated element], Idealität, aufgehoben
   Latin: tollere, conservare, elevare, mutatis mutandis
   Korean: jiyang [sublation]
+  Sanskrit: śūnyatāśūnyatā [the emptiness of emptiness] [Nāgārjuna]
+  French: supprimer, suppression, abolir, sursumer, sursomption, assumer, assomption, dépasser, surpasser, abroger, sur-primer, mettre en grange, enlever, enlèvement, relever, relève
 
 Phr:
   reculer pour mieux sauter [Fr.]

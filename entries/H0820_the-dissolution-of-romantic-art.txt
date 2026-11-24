@@ -24,7 +24,7 @@ V:
 
 Adj:
   realistic, naturalistic, humorous, whimsical, playful, ironic, post-romantic
-  witty, attic, quick-witted, nimble-witted, smart, jocular, jocose, facetious, waggish, kidding, joking, puckish, playful &c H0609, merry and wise, pleasant, sprightly, light, spirituel†, sparkling, epigrammatic, full of point, comic &c H0961
+  witty, attic, quick-witted, nimble-witted, smart, jocular, jocose, facetious, waggish, kidding, joking, puckish, playful &c H0609, merry and wise, pleasant, sprightly, light, spirituel†, sparkling, epigrammatic, full of point, comic &c H0961, playsome†
   derisory, derisive, mock, mocking, sarcastic, ironical, quizzical, burlesque, Hudibrastic†, scurrilous &c H0487
   ridiculous, ludicrous, comical, droll, funny, laughable, pour rire, grotesque, farcical, odd, whimsical as a dancing bear, fanciful, fantastic, queer, rum, quaint, bizarre, screaming, eccentric &c H0063, strange, outlandish, out of the way, baroque, weird, awkward &c H0759
   dissolving, decadent, late, imitative, prosaic
@@ -35,12 +35,17 @@ Adv:
   in dissolution, at the end, in decline
 
 F:
-  German: Humor
-  Latin: facetiae, canorae nugae
-  French: plaisanterie, mot, mot pour rire, jeu d'esprit
-  Italian: ben trovato
+  German: Humor, Nachahmung, nachmachen, kopieren, nachbilden
+  Latin: facetiae, canorae nugae, imitatio, similitude
+  French: plaisanterie, mot, mot pour rire, jeu d'esprit, représentation
+  Italian: ben trovato, imitazione, rassimiglianze, rittrare
   Korean: haehak [folk humour]
 
 Phr:
   art, considered in its highest vocation, is and remains for us a thing of the past [Hegel]
   tongue in cheek
+  adhibenda est in jocando moderatio [Lat.]
+  gentle dullness ever loves a joke [Pope]
+  leave this keen encounter of our wits [Richard III]
+  just joking, just kidding
+  surely you jest!

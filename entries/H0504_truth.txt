@@ -19,7 +19,7 @@ V:
 
 Adj:
   true, veritable, veracious, real, actual, factual, correct, accurate, right, valid, sound, authentic, genuine
-  actual &c H0004, certain &c H0604, substantially true, categorically true, definitively true, true to the letter, true as gospel, unimpeachable, veracious &c H0667, unreconfuted†, unconfuted†, unideal†, unimagined, realistic
+  actual &c H0004, certain &c H0604, substantially true, categorically true, definitively true, true to the letter, true as gospel, unimpeachable, veracious &c H0667, unreconfuted†, unconfuted†, unideal†, unimagined, realistic, unrefuted†
   true &c H0204
   legitimate
   veridical, adequate
@@ -30,11 +30,14 @@ Adv:
   actually, in point of fact, in reality
 
 F:
-  Latin: veritas, de facto, adaequatio rei et intellectus
-  Greek: alētheia [unconcealment]
+  Latin: veritas, de facto, adaequatio rei et intellectus, aequalitas, concordia, convenientia
+  Greek: alētheia [unconcealment], orthotēs
   Arabic: ḥaqq [truth, reality], ṣidq [truthfulness]
   Sanskrit: satya, ṛta
   Japanese: makoto [sincerity, truth]
+  Russian: istina [truth as what is], pravda [truth as justice]
+  French: vérité
+  Hebrew: emet, emunah
 
 Phr:
   veritas liberabit vos [Lat.] [Bible]

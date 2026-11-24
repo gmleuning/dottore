@@ -5,21 +5,21 @@ Gloss: The breaking up of a compound into its components; analysis, decompositio
 HGloss: The separation of the neutral product into its components; reduction, the inverse of combination.
 
 N:
-  separation; decomposition, analysis, resolution, dissociation, disintegration, breakdown, breakup, extraction, distillation, sublimation, precipitation, refinement, purification, filtration, electrolysis
+  separation; decomposition, analysis, resolution, dissociation, disintegration, breakdown, breakup, extraction, distillation, sublimation, precipitation, refinement, purification, filtration, electrolysis, sublimination†, ebullioscope†
   dissection, catalysis, dissolution, corruption &c H0694, dispersion &c H0035, disjunction
-  parting, circumcision, detachment, segregation, divorce, sejunction†, seposition†, diduction†, diremption†, discerption†, elision, caesura, break, fracture, division, subdivision, rupture, compartition†, dismemberment, dislocation, luxation†, severance, disseverance, scission, rescission, abscission, laceration, dilaceration†, disruption, abruption†, avulsion†, divulsion†, section, resection, cleavage, fission, partibility†, separability
+  parting, circumcision, detachment, segregation, divorce, sejunction†, seposition†, diduction†, diremption†, discerption†, elision, caesura, break, fracture, division, subdivision, rupture, compartition†, dismemberment, dislocation, luxation†, severance, disseverance, scission, rescission, abscission, laceration, dilaceration†, disruption, abruption†, avulsion†, divulsion†, section, resection, cleavage, fission, partibility†, separability, evulsion†
   reduction
 
 V:
   separate, decompose, analyse, dissociate, resolve, extract, distil, sublimate, refine, purify, filter, precipitate, isolate
-  disjoin, disconnect, disengage, disunite, dispair†, dispart†, detach, cut off, rescind, segregate, set apart, keep apart, insulate, throw out of gear, cut adrift, unloose, undo, unbind, unchain, unlock &c H0259, unpack, unravel, disentangle, set free &c H0618
-  elutriate [Chem], lixiviate†, clarify, filtrate
+  disjoin, disconnect, disengage, disunite, dispair†, dispart†, detach, cut off, rescind, segregate, set apart, keep apart, insulate, throw out of gear, cut adrift, unloose, undo, unbind, unchain, unlock &c H0259, unpack, unravel, disentangle, set free &c H0618, disembroil†, feaze†
+  elutriate [Chem], lixiviate†, clarify, filtrate, absterge†, deterge†
   decompound, analyze, disembody, dissolve, resolve into its elements, separate into its elements, electrolyze [Chem], dissect, decentralize, break up, disperse &c H0035, unravel &c H0228, crumble into dust
   part, part company, leave
 
 Adj:
   separated, decomposed, isolated, refined, distilled, pure
-  disjoined, discontinuous &c H0043, multipartite†, abstract, disjunctive, secant, insular, disparate, discrete, far between, loose, free, unattached, unannexed, unassociated, unconnected, distinct, straggling, rift, reft†
+  disjoined, discontinuous &c H0043, multipartite†, abstract, disjunctive, secant, insular, disparate, discrete, far between, loose, free, unattached, unannexed, unassociated, unconnected, distinct, straggling, rift, reft†, breachy†, rimose†, rimulose†, crossbarred†, palmiped†
   catalytic, analytical, resolvent, separative, solvent
   analytic
 

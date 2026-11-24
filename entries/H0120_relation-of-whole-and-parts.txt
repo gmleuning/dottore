@@ -27,13 +27,15 @@ Adj:
 
 Adv:
   as a whole, in its entirety, all together, altogether; partly, in part, partially, piecemeal, part by part
-  by by installments, by snatches, by inches, by driblets, bit by bit, inch by inch, foot by foot, drop by drop, in detail, in lots
+  by by installments, by snatches, by inches, by driblets, bit by bit, inch by inch, foot by foot, drop by drop, in detail, in lots, skippingly†
   wholly, totally, entirely, all, all in all, wholesale, in a body, collectively, all put together, in the aggregate, in the lump, in the mass, in the gross, in the main, in the long run, en masse, as a body, on the whole, bodily†, en bloc, throughout, every inch, substantially
+  a outrance†
 
 F:
-  German: Gestalt
-  Latin: in toto, in extenso, ne plus ultra
+  German: Gestalt, Struktur
+  Latin: in toto, in extenso, ne plus ultra, structura
   Sanskrit: avayavin and avayava [whole and part]
+  French: agencement [assemblage] [Deleuze and Guattari], structure
 
 Phr:
   the whole is something besides the parts [Aristotle, Metaphysics VIII.6, 1045a10, tr. Ross]
@@ -41,3 +43,8 @@ Phr:
   totum est maius sua parte [Lat.]
   the whole is greater than the sum of its parts
   part and parcel
+  tout bien ou rien [Fr.]
+  falsus in uno falsus in omnibus [Lat.], false in one thing, false in everything
+  omnem movere lapidem [Lat.]
+  una scopa nuova spazza bene [It.]
+  caetera desunt [Lat.]

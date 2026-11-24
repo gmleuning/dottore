@@ -6,28 +6,29 @@ HGloss: Magic, the power of the self over nature, the first and crudest form of 
 
 N:
   the religion of magic; magic, sorcery, witchcraft, wizardry, conjuration, incantation, thaumaturgy, theurgy; shamanism
-  occult art, occult sciences, the black art, necromancy, demonology, demonomy†, demonship†, bedevilment, witchery, glamor, fetishism, fetichism, feticism†, ghost dance, obi, obiism†, voodooism, vampirism, bewitchery, enchantment, mysticism, second sight, mesmerism, animal magnetism, od force, odylic force†, clairvoyance, spiritualism
-  spell, exorcism, cabala†, exsufflation†, cantrap†, runes, abracadabra, open sesame, countercharm†, Ephesian letters, bell book and candle, Mumbo Jumbo, evil eye
+  occult art, occult sciences, the black art, necromancy, demonology, demonomy†, demonship†, bedevilment, witchery, glamor, fetishism, fetichism, feticism†, ghost dance, obi, obiism†, voodooism, vampirism, bewitchery, enchantment, mysticism, second sight, mesmerism, animal magnetism, od force, odylic force†, clairvoyance, spiritualism, electrobiology†
+  spell, exorcism, cabala†, exsufflation†, cantrap†, runes, abracadabra, open sesame, countercharm†, Ephesian letters, bell book and candle, Mumbo Jumbo, evil eye, inexpression†
   conjuring
-  Circe, siren, weird sisters
+  Circe, siren, weird sisters, merfolk†, manito†
   warlock, charmer, exorcist, mage†, cunning man, medicine man, Shaman, figure flinger, ecstatica†, medium, clairvoyant, fortune teller, mesmerist, soothsayer &c H0565
   the first religion, the oldest religion, the rudest religion, the religion of sorcery, natural religion in its immediacy, the power of the self over nature, the dominion of the singular will, the magician, the sorcerer, the sorceress, the wizard, the witch, the enchanter, the enchantress, the conjurer, the magus, the witch doctor, the rainmaker, the necromancer, the thaumaturge, the diviner, wonder-working, rain-making, weather-magic, sympathetic magic, the amulet, the talisman, the fetish, the philtre, the potion, the wand, the magic circle, the curse, divination, augury, mana, magianism
   glamour, smoothie, smoothy
+  astrology†, horoscopy†, judicial astrology†
 
 V:
   conjure, bewitch, enchant, spellbind, invoke, hex, charm
   practice sorcery, cast a nativity, exorcise, bedevil, hoodoo, voodoo, mesmerize, magnetize, fascinate &c H0615, taboo, wave a wand, rub the ring, rub the lamp, cast a spell, call up spirits, call up spirits from the vasty deep, raise spirits from the dead
   entrance
   fascinate
-  adjure, evoke, imprecate
-  work magic, work wonders, make rain, rule the weather, command the elements, command nature, incant, divine, ensorcel, bespell, becharm, curse, put a spell on, lay a spell, weave a spell, summon, raise, lay [a ghost], ward off
+  adjure, evoke, imprecate, obtest†, impetrate†, accurse†
+  work magic, work wonders, make rain, rule the weather, command the elements, command nature, incant, divine, ensorcel, bespell, becharm, curse, put a spell on, lay a spell, weave a spell, summon, raise, lay [a ghost], ward off, imparadise†
   swear
 
 Adj:
   magical, magic, occult, shamanic, thaumaturgic, theurgic, uncanny
   mystic, weird, cabalistic, talismanic, phylacteric†, incantatory, charmed, Circean, odylic†
-  demonic, demonical, demoniacal, fiendish, fiend-like, supernatural, unearthly, spectral, ghostly, ghost-like, haunted
-  sorcerous, wizardly, witchlike, witching, bewitching, enchanting, spellbinding, spellbound, enchanted, bewitched, necromantic, divinatory, hermetic, esoteric, arcane, eldritch, eerie
+  demonic, demonical, demoniacal, fiendish, fiend-like, supernatural, unearthly, spectral, ghostly, ghost-like, haunted, fiendlike†, elvin†, elflike†
+  sorcerous, wizardly, witchlike, witching, bewitching, enchanting, spellbinding, spellbound, enchanted, bewitched, necromantic, divinatory, hermetic, esoteric, arcane, eldritch, eerie, enravished†
 
 Adv:
   magically, as if by magic

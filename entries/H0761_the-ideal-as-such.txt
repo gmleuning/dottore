@@ -6,7 +6,7 @@ HGloss: Beautiful individuality, the ideal as the spirit's free, self-enclosed s
 
 N:
   the ideal as such; ideal serenity, blissful calm, repose, tranquillity, self-sufficiency, the blessed gods, untroubled grace
-  pink, beau ideal, phenix, paragon, pink of perfection, acme of perfection, summit &c H0220
+  pink, beau ideal, phenix, paragon, pink of perfection, acme of perfection, summit &c H0220, summity†
   perfect beauty, perfection, the ideal, ideality, purification, flawlessness, the purged form, beau idéal, transfiguration
 
 V:
@@ -33,3 +33,5 @@ Phr:
   life is earnest, art is serene, ernst ist das Leben, heiter ist die Kunst [Ger.] [Schiller]
   serene and self-contained
   the picture of perfection
+  let us go on unto perfection [Hebrews vi, 1]
+  the perfection of art is to conceal art [Quintilian]

@@ -5,12 +5,12 @@ Gloss: The relation of a person to the guiding power within them; one's daemon o
 HGloss: The individual's genius, the determining inwardness that decides what they are, the selfhood that acts in and through them.
 
 N:
-  the individual and its genius; genius, guardian spirit, tutelary spirit, daemon, good angel, guardian angel, familiar, inner voice, inner oracle, conscience, intuition
+  the individual and its genius; genius, guardian spirit, tutelary spirit, daemon, good angel, guardian angel, familiar, inner voice, inner oracle, conscience, intuition, demonry†
   evil genius, insight, precognition
   the ruling self
 
 V:
-  guide, inspire, warn, prompt, counsel, whisper
+  guide, inspire, warn, prompt, counsel, whisper, prewarn†
   advise, suggest, move, induce, give the cue, breathe, whisper in the ear, hint
   govern, rule within
 
@@ -29,6 +29,7 @@ F:
   Arabic: qarīn [companion spirit]
   Sanskrit: iṣṭa-devatā [chosen deity]
   Korean: suhoryeong [guardian spirit]
+  French: démon
 
 Phr:
   the daimonion of Socrates

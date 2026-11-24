@@ -5,7 +5,7 @@ Gloss: The forces that formed the earth.
 HGloss: The past forces of the formative process of the earth, which, as past, have left behind their products.
 
 N:
-  power of the terrestrial process; geological forces, tectonic forces, plutonic forces, volcanism, upheaval, uplift, subsidence, orogeny, earthquake, eruption, erosion, weathering, sedimentation, deposition, glaciation
+  power of the terrestrial process; geological forces, tectonic forces, plutonic forces, volcanism, upheaval, uplift, subsidence, orogeny, earthquake, eruption, erosion, weathering, sedimentation, deposition, glaciation, disendowment†
   the formative forces, Neptunism, Vulcanism, Plutonism, fire and water, volcanic power
   cataclysm
 

@@ -32,6 +32,7 @@ F:
   Latin: divitiae
   Greek: ploutos
   Sanskrit: artha [wealth, power]
+  French: pouvoir [Foucault]
 
 Phr:
   money makes the world go round

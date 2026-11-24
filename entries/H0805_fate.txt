@@ -17,7 +17,7 @@ V:
   fate, destine, doom, foreordain, decree
   impend, hang over, await, preordain, have in store for
   foredoom, devote, predestine, cast a spell &c H0976, necessitate, compel &c H0649
-  be doomed, be destined, have no choice, have no alternative
+  be doomed, be destined, have no choice, have no alternative, befated†
   ordain, overrule
 
 Adj:
@@ -32,12 +32,16 @@ Adv:
   by fate, ineluctably, inevitably
 
 F:
-  Latin: fatum, Parcae
-  Greek: anankē, moira, Moirai, heimarmenē
+  Latin: fatum, Parcae, providentia [providence, as against fatum] [Boethius]
+  Greek: anankē, moira, Moirai, heimarmenē, kēr [the death-fate allotted to each]
   Arabic: qadar
   Turkish: qismet
   Sanskrit: niyati
   Korean: unmyeong [fate], palja [one's lot, destiny]
+  German: Geschick [the sending of being] [Heidegger]
+  French: destin, fatalité, sort, nécessité, fortune
+  Italian: fortuna, fato, destino
+  Dutch: schicksel
 
 Phr:
   even the gods do not fight against necessity [Simonides]

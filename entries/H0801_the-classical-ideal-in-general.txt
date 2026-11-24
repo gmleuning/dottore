@@ -21,6 +21,9 @@ Adv:
   serenely
   perfectly, in repose, in general
 
+F:
+  French: calme, serein, silencieux, immobilité, sérénité, silence
+
 Phr:
   in dieser Schmerzlichkeit des göttlichen Friedens [Ger.] [Hegel, Aesthetics, on the classical ideal]
   die seligen Götter trauern gleichsam über ihre Seligkeit oder Leiblichkeit [Ger.] [Hegel, Aesthetics, on the classical ideal]

@@ -6,9 +6,9 @@ HGloss: The ground that only restates the grounded in another form; the empty ex
 
 N:
   formal ground; tautology, tautological explanation, circular explanation, circular reasoning, begging the question, explanation by restatement, pseudo-explanation, empty explanation; occult quality; redundancy, truism, platitude, cliché, commonplace, banality
-  battology†, perissology†, pleonasm, circumlocution
+  battology†, perissology†, pleonasm, circumlocution, Polylogy†
   repetition, reiteration
-  mere words, verbiage
+  mere words, verbiage, baragouin†, niaiserie†
   the virtus dormitiva, formal reason
   cliche
 
@@ -19,7 +19,7 @@ V:
 
 Adj:
   tautological, tautologous, circular, question-begging, redundant, pleonastic, trivial, empty, vacuous, uninformative, platitudinous
-  repeated
+  repeated, repetitional†, repetitionary†
   empty &c H0227, hollow, nominal, inane
   formal
   corny
@@ -37,3 +37,5 @@ Phr:
   quia est in eo virtus dormitiva [Lat.] [Molière]
   it is what it is
   because it is
+  non constat [Lat.]
+  that goes for nothing

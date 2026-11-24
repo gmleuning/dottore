@@ -14,12 +14,15 @@ V:
 
 Adj:
   unconscious, primitive, mythic, naive
-  unknowing, unwitting, unreflective, instinctive, original
+  unknowing, unwitting, unreflective, instinctive, original, unapprized†, unweeting†, weetless†
   uninformed
 
 Adv:
   unconsciously, naively
   unknowingly, unwittingly
+
+F:
+  French: bricolage [Lévi-Strauss], pensée sauvage [wild thought] [Lévi-Strauss], science du concret [science of the concrete] [Lévi-Strauss], mythème [mytheme] [Lévi-Strauss]
 
 Phr:
   the myth-making mind

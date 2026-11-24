@@ -10,7 +10,7 @@ N:
   crasis†, combination &c H0288, inclusion, admission, comprehension, reception, embodiment, formation
   alloy, amalgam
   stuff, stock
-  total, sum, complexus†
+  total, sum, complexus†, intrication†
   the free matters, caloric matter, the porosity of matters, the thing as an also
 
 V:
@@ -24,7 +24,7 @@ V:
 
 Adj:
   composite, compound, complex, constituent, component, elemental, material, porous, permeable
-  pervious, honeycombed
+  pervious, honeycombed, foraminous†, cribriform†, infundibular†, tubulous†, tubulated†, tubate†
   constituted, composed
   complicated, leaky
 

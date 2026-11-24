@@ -20,8 +20,10 @@ Adv:
 
 F:
   German: Objekt, Gegenstand
-  Latin: objectum
+  Latin: objectum, obiici, obiectum, esse obiective
   Sanskrit: viṣaya [object]
+  French: objet, être objectif
+  Greek: antikeimenon
 
 Phr:
   the world is everything that is the case [Wittgenstein]

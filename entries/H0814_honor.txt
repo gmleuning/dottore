@@ -5,19 +5,19 @@ Gloss: The knight's sense of personal worth.
 HGloss: Honour, the infinite worth of the person in their own eyes.
 
 N:
-  honour; personal honour, point of honour, dignity, repute, reputation, good name, face, prestige, esteem, the code duello, vindication, affront, insult
+  honour; personal honour, point of honour, dignity, repute, reputation, good name, face, prestige, esteem, the code duello, vindication, affront, insult, vilipendency†
   distinction, name, good repute, high repute, fame
   glory, honor, luster &c H0241, respectability &c H0667, good report, fair name
   deference
-  estimation, good opinion, golden opinions
+  estimation, good opinion, golden opinions, approvement†
   indignity
-  stateliness, solemnity, grandeur, splendor, nobility, majesty, sublimity
+  stateliness, solemnity, grandeur, splendor, nobility, majesty, sublimity, optimacy†
   trophy, medal, prize, award, laurels, crown, chaplet, civic crown, insignia &c H0598, feather in one's cap &c H0489, decoration &c H0489, triumphal arch, Victoria Cross, Iron Cross
   triumph &c H0973, flying colors &c H0438
   monumentum aere perennius [Horace]
   title, knighthood &c H0697
   highness, excellency, grace, lordship, worship, reverence, reverend, esquire, sir, master, Mr, signor, senor, mynheer†, your honor, his honor, serene highness, handle to one's name
-  decoration, laurel, palm, wreath, garland, bays, ribbon, riband, blue ribbon, cordon, cross, coronet, star, garter, feather, feather in one's cap, epaulet, epaulette, colors, cockade, livery, order, arms, shield, scutcheon, reward &c H0640
+  decoration, laurel, palm, wreath, garland, bays, ribbon, riband, blue ribbon, cordon, cross, coronet, star, garter, feather, feather in one's cap, epaulet, epaulette, colors, cockade, livery, order, arms, shield, scutcheon, reward &c H0640, cestus†, hatchment†, calisthenics†
   self-respect, pride, personal worth, inviolability, satisfaction, the duel
   accolade
   punctilio, amour propre
@@ -34,7 +34,7 @@ Adj:
   high-principled, high-minded, scrupulous, respectable
   in good odor in, favor, in high favor, creditable
   great, proud, noble, honorable, worshipful, lordly, grand, stately, august, princely
-  inviolable
+  inviolable, irrevealable†, unbribed†
 
 Adv:
   honourably, on one's honour, upon my honour
@@ -42,16 +42,19 @@ Adv:
 
 F:
   German: Mein Herr
-  French: point d'honneur
-  Italian: punto d'onore
-  Spanish: pundonor
+  French: point d'honneur, vergogne, honte, fierté
+  Italian: punto d'onore, bella figura, brutta figura [good and bad showing], omertà [the code of silence], vergogna
+  Spanish: pundonor, vergüenza [shame as honour]
   Arabic: sharaf [honour], ʿirḍ [personal honour]
   Chinese: mianzi [face]
   Japanese: giri
   Korean: chemyeon [face, honour]
+  Greek: aidōs
+  Latin: verecundia
 
 Phr:
   death before dishonour
   tout est perdu fors l'honneur [Fr.] [all is lost save honour] [Francis I, attrib.]
   on my honour
   a point of honour
+  for valor

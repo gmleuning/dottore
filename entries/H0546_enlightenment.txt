@@ -5,8 +5,8 @@ Gloss: The campaign of critical reason against faith and superstition.
 HGloss: Pure insight become a movement, the Enlightenment, which attacks faith as superstition and is itself what it attacks.
 
 N:
-  enlightenment, the Age of Reason, the Enlightenment, rationalism, secularism, deism, materialism, utilitarianism, critique of superstition, free thought
-  infidelity
+  enlightenment, the Age of Reason, the Enlightenment, rationalism, secularism, deism, materialism, utilitarianism, critique of superstition, free thought, sectarism†, noncomformity†
+  infidelity, antichristianity†
   atheist, skeptic, unbeliever, infidel, freethinker
   atheism
   illumination, pure insight, the spreading of insight like a perfume
@@ -31,6 +31,7 @@ F:
   Italian: illuminismo
   Arabic: Nahḍa [Arab renaissance]
   Korean: gyemong [enlightenment]
+  Hebrew: haskalah [the Jewish Enlightenment]
 
 Phr:
   sapere aude [Lat.] [dare to know] [Horace, Kant]

@@ -14,13 +14,13 @@ N:
 
 V:
   hold together, resist, withstand, stand firm
-  be proof against, stand one's ground
+  be proof against, stand one's ground, repugn†, reluctate†
   be tenacious, resist fracture
   cohere
 
 Adj:
   coherent, cohesive, tough, solid, sturdy, robust, resistant, strong, integral, firm
-  dense, solidified, cohesive &c H0258, compact, close, serried, thickset, substantial, massive, lumpish†, impenetrable, impermeable, nonporous, imporous†, incompressible, concrete, knotted, knotty, gnarled, crystalline, crystallizable, thick, grumous†, stuffy
+  dense, solidified, cohesive &c H0258, compact, close, serried, thickset, substantial, massive, lumpish†, impenetrable, impermeable, nonporous, imporous†, incompressible, concrete, knotted, knotty, gnarled, crystalline, crystallizable, thick, grumous†, stuffy, pukka†
   tenacious, resisting, sequacious†, stringy, gristly cartilaginous, leathery, coriaceous†, tough as whitleather†, stubborn &c H0616
   mighty, vigorous, forcible, adamantine, stout, hardy, powerful, potent, puissant, valid
   adhesive, adhering, cohering, sticky &c H0259

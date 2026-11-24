@@ -6,7 +6,7 @@ HGloss: The noble consciousness which finds itself in state power and wealth, an
 
 N:
   noble and base consciousness; nobility, nobleness, magnanimity, generosity, high-mindedness, the noble soul; baseness, vileness, meanness, ignobility, sordidness, resentment, malcontent; aristocrat and commoner
-  elevation, loftiness of purpose, chivalry
+  elevation, loftiness of purpose, chivalry, knight errantry†
   dishonor, turpitude &c H0668 [Obs.], infamy
   peer, noblesse, nobleman, lord
   the base-minded, loyalty, contempt, rebelliousness
@@ -18,9 +18,9 @@ V:
   respect, serve, rebel
 
 Adj:
-  noble, magnanimous, high-minded, generous, loyal; base, vile, mean, ignoble, sordid, low, resentful
+  noble, magnanimous, high-minded, generous, loyal; base, vile, mean, ignoble, sordid, low, resentful, resentive†
   noble-minded, lofty, exalted, great-hearted, large-hearted, chivalrous
-  common, vulgar, low-minded
+  common, vulgar, low-minded, dedecorous†, low-thoughted†
   ignominious, abject
   untitled
 
@@ -31,10 +31,12 @@ Adv:
 F:
   German: das edelmütige Bewußtsein, das niederträchtige Bewußtsein
   Greek: megalopsychia
-  French: noblesse oblige
+  French: noblesse oblige, noblesse d'épée, noblesse de cloche, savonnette à vilain [office that ennobles], grande dame, grand seigneur, ressentiment [Nietzsche]
   Chinese: junzi [noble person] and xiaoren [petty person]
+  Spanish: hidalgo, hidalgismo, señorito, señorío
 
 Phr:
   noblesse oblige [Fr.]
   the gentleman understands what is right, the petty man what is profitable [Confucius]
   to bite the hand that feeds you
+  non vobis solum [Lat.]

@@ -14,9 +14,9 @@ V:
 
 Adj:
   fantastic, grotesque, monstrous, extravagant, boundless, profuse, many-armed
-  unusual, uncommon, rare, curious, odd, extraordinary, strange, wonderful &c H0609
+  unusual, uncommon, rare, curious, odd, extraordinary, strange, wonderful &c H0609, denaturalized†
   whimsical, fanciful, bizarre, outlandish
-  distorted, out of shape, irregular, asymmetric, deformed, misshapen
+  distorted, out of shape, irregular, asymmetric, deformed, misshapen, androgynal†, adelomorphous†, monoclinous†, unsymmetric†, crump†, misproportioned†, simous†, taliped†, talipedic†
   exuberant, inordinate, superabundant, excessive, lavish
   outre, preposterous, bombastic, inflated
   vast, immense, enormous, overgrown
@@ -24,7 +24,7 @@ Adj:
   increased, asymmetrical, magnified
 
 Adv:
-  fantastically, extravagantly
+  fantastically, extravagantly, a outrance†
   grotesquely, without measure
 
 F:

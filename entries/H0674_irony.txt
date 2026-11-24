@@ -5,7 +5,7 @@ Gloss: A stance that treats all moral content as dependent on the self's whim.
 HGloss: Irony, the supreme form of subjectivity, which knows itself as master of all ethical content.
 
 N:
-  irony; romantic irony, Romantic irony [Friedrich Schlegel], ironic detachment, the ironic self, infinite absolute negativity, mockery, self-mockery, flippancy, nihilism, the subject as master of all things, persiflage, sardonicism
+  irony; romantic irony, Romantic irony [Friedrich Schlegel], ironic detachment, the ironic self, infinite absolute negativity, mockery, self-mockery, flippancy, nihilism, the subject as master of all things, persiflage, sardonicism, dicacity†, procacity†
   ridicule, derision, banter, raillery, badinage
   absolute subjectivity, subjective vanity, the self as master of all content, self-enjoyment, frivolity
 

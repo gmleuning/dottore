@@ -7,7 +7,7 @@ HGloss: The infinite in its simple concept: the affirmation that results as the 
 N:
   the infinite in general; the beyond, beyondness, transcendence, the transcendent, the other world, otherworldliness, the hereafter, yonder, the great beyond; the unconditioned, the absolute other, the wholly other; the not-finite, the nonfinite, negation of the finite; empyrean, heaven, the heavens; ideal, the ideal; true being
   the infinite as such, the unlimited, the non-finite
-  boundlessness, endlessness, interminability
+  boundlessness, endlessness, interminability, agelessness†
 
 V:
   lie beyond, transcend, surpass, be other than, stand beyond, tower above
@@ -16,7 +16,7 @@ V:
 
 Adj:
   infinite, transcendent, transcendental, otherworldly, supramundane, supernal, celestial, ultramundane, beyond; unconditioned, absolute, ultimate; negative, apophatic
-  distant, remote, ulterior
+  distant, remote, ulterior, transmarine†, transpontine†, unapproached†, incontiguous†
   unearthly
   unlimited
 
@@ -29,6 +29,7 @@ F:
   German: das Jenseits, das ganz Andere
   Arabic: al-ghayb [the unseen]
   Sanskrit: paramārtha [ultimate]
+  Latin: aeternitas [the whole, simultaneous and perfect possession of boundless life] [Boethius]
 
 Phr:
   beyond the beyond

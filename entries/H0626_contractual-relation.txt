@@ -10,7 +10,7 @@ N:
   clauses, provisions, proviso &c H0103, covenant, stipulation, ultimatum, sine qua non
   promise, undertaking, word, troth, plight, pledge, parole, word of honor, vow, oath &c H0599, profession, assurance, warranty, guarantee, insurance, contract &c H0625
   presentation, overture, proposal, proposition, motion, invitation, candidature, offering &c H0630
-  compromise, commutation, composition, middle term, compensation &c H0634, abatement of differences, adjustment, mutual concession
+  compromise, commutation, composition, middle term, compensation &c H0634, abatement of differences, adjustment, mutual concession, adaption†
   mutual obligation, the bond between parties
   consensus ad idem
 
@@ -21,11 +21,13 @@ V:
   proffer, present, tender, bid, propose, move, make a motion, make advances, start, invite, hold out, place in one's way, put forward
   perform an obligation, fulfill an obligation, discharge an obligation, acquit oneself of an obligation, make good, make good one's word, make good one's promise, keep one's word, keep one's promise, redeem one's pledge, keep faith with, stand to one's engagement
   bind, obligate, engage
+  mendicate†, mump†
 
 Adj:
   contractual, mutual, bilateral, reciprocal, obligatory
   correlative, interdependent
   binding
+  precatory†, obsecratory†, unbesought†
 
 Adv:
   mutually, by consent
@@ -39,3 +41,12 @@ F:
 Phr:
   quid pro quo [Lat.]
   a meeting of minds
+  chi tace accousente [It.]
+  non possumus [Lat.]
+  your humble servant [Iron.]
+  bien oblige [Fr.]
+  not on your life [U.S.]
+  not even if you beg on your knees
+  ignoscito saepe alteri nunquam tibi [Lat.]
+  tempori parendum [Lat.]
+  to God, thy country, and thy friend be true [Vaughan]

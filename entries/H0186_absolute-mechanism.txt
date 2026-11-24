@@ -25,6 +25,7 @@ Adj:
   systemic, systematic, centred, central, organized, hierarchical, ordered
   orderly, regular, in trim, in its proper place, well regulated, correct, methodical, uniform, symmetrical, unconfused, arranged &c H0208
   centralized
+  troublous†
 
 Adv:
   systematically, centrally, in order
@@ -39,3 +40,6 @@ Phr:
   a place for everything, and everything in its place
   the music of the spheres
   in orbit
+  natura non facit saltum [Lat.]
+  order from disorder sprung [Paradise Lost]
+  ordo est parium dispariumque rerum sua loca tribuens dispositio [Lat.] [St. Augustine]

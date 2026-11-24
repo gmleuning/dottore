@@ -16,7 +16,7 @@ V:
 
 Adj:
   progressive, advancing, developing, developmental, evolving, unfolding, onward, forward, immanent
-  profluent†, advanced
+  profluent†, advanced, diffluent†
 
 Adv:
   forward, onward, ahead, step by step, stage by stage, by degrees, progressively

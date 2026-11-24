@@ -8,7 +8,7 @@ N:
   universal solar relation; seasons, the turning of the year, solstice, equinox, spring, summer, autumn, fall, winter, the zodiac, the ecliptic, insolation, day and night, the diurnal round, the annual round, the cycle of the year
   fall of the leaf, autumnal equinox, Indian summer, St. Luke's summer, St. Martin's summer
   vernal equinox, first point of Aries
-  dog days, canicular days†
+  dog days, canicular days†, Afric heat†, Bengal heat†
   the earth's relation to the sun, the solstices, the equinoxes
 
 V:
@@ -18,11 +18,11 @@ V:
   incline
 
 Adj:
-  seasonal, annual, solar, diurnal, equinoctial, solstitial, cyclical, vernal, aestival, autumnal, hibernal, brumal
-  hourly, daily, quotidian, tertian, weekly, hebdomadal†, hebdomadary†, biweekly, fortnightly, bimonthly, monthly, yearly, biennial, triennial, centennial, secular, paschal, lenten, regular, steady, punctual, regular as clockwork
+  seasonal, annual, solar, diurnal, equinoctial, solstitial, cyclical, vernal, aestival, autumnal, hibernal, brumal, sempervirent†, sempervirid†
+  hourly, daily, quotidian, tertian, weekly, hebdomadal†, hebdomadary†, biweekly, fortnightly, bimonthly, monthly, yearly, biennial, triennial, centennial, secular, paschal, lenten, regular, steady, punctual, regular as clockwork, horary†
   vespertine, nocturnal
   matin, matutinal†
-  wintry, hyemal†
+  wintry, hyemal†, pruinose†, hyperboreal†
   periodic, periodical, serial, recurrent, rhythmical, recurring, intermittent, remittent, alternate, every other
 
 Adv:
@@ -36,3 +36,10 @@ Phr:
   to every thing there is a season [Bible]
   if winter comes, can spring be far behind? [Shelley]
   summer and winter
+  at shut of evening flowers [Paradise Lost]
+  entre chien et loup [Fr.]
+  flames in the forehead of the morning sky [Milton]
+  the breezy call of incense-breathing morn [Gray]
+  midnight, the outpost of advancing day [Longfellow]
+  sable-vested Night [Milton]
+  this gorgeous arch with golden worlds inlay'd [Young]

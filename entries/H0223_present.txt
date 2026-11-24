@@ -29,12 +29,18 @@ Adv:
   on the nail, on the spot, on the spur of the moment, until now, to this day, to the present day
 
 F:
-  German: Jetzt
-  Latin: praesens, nunc, hic et nunc, nunc stans
-  Greek: nyn
+  German: Jetzt, Jetztzeit [now-time] [Benjamin], Kontinuität, Kontinuierlichkeit, kontinuierlich, Ewigkeit, der Moment, das Moment, Augenblick, Plötzlichkeit, desultorisch
+  Latin: praesens, nunc, hic et nunc, nunc stans, momentum
+  Greek: nyn, kairos, rhopē
   Arabic: al-ān [the now]
+  Danish: Øieblikket [the moment, the instant] [Kierkegaard], Pludselighed [suddenness] [Kierkegaard], Evighed [eternity] [Kierkegaard], Continuitet [continuity] [Kierkegaard], øjeblik
+  French: continuité, continuellement, continûment, à présent, temps actuel, soudaineté, sans suite, décousu
+  Spanish: momento
 
 Phr:
   carpe diem [Lat.] [Horace]
   the present is the only thing that has no end [attrib. Schrödinger]
   be here now
+  touch and go
+  no sooner said than done
+  the present hour alone is man's [Johnson]

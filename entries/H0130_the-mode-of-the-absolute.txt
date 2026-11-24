@@ -17,7 +17,7 @@ V:
   show itself, pass
 
 Adj:
-  modal, modified, manifest, finite, particular, dependent, derivative, transient
+  modal, modified, manifest, finite, particular, dependent, derivative, transient, paronymous†
   formal
 
 Adv:

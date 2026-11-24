@@ -6,7 +6,7 @@ HGloss: The pretence that a good intention justifies an evil means.
 
 N:
   good intention justifying the means; the end justifies the means, consequentialism, ends-means reasoning, noble cause corruption, pious fraud, Machiavellianism, Jesuitry
-  warrant, be an excuse for, lend a color, vindicate, exculpate, exonerate
+  warrant, be an excuse for, lend a color, vindicate, exculpate, exonerate, disculpate†
   extenuate, palliate, varnish, put a good face upon, gloss over
   apology, plea &c H0670, extenuating circumstances
   pretext, pretense, ostensible motive, ostensible reason, color, gloss
@@ -23,7 +23,7 @@ V:
 
 Adj:
   consequentialist, Machiavellian, expedient, unscrupulous
-  justifying, excusing, well-meant, specious
+  justifying, excusing, well-meant, specious, spleenless†
 
 Adv:
   expediently, by any means necessary

@@ -28,8 +28,11 @@ Adv:
 F:
   Latin: artifex
   Greek: poiētēs
+  German: Künstlerroman
 
 Phr:
   poeta nascitur, non fit [Lat.] [the poet is born, not made]
   an artist at heart
   the artist's touch
+  photo safari
+  with gun and camera 1

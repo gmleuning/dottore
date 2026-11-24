@@ -12,6 +12,7 @@ N:
   liberality, generosity, munificence, bounteousness, bountifulness, hospitality, charity
   benefactor, savior, good genius, tutelary saint, guardian angel, good Samaritan, salt of the earth, auxiliary &c H0706
   saviour
+  feoffer†
 
 V:
   give, present, donate, bestow, confer, grant, endow, make a present of
@@ -23,6 +24,7 @@ Adj:
   gifted, given, donated, gratuitous, bountiful, munificent, generous
   liberal, free, charitable &c H0664, hospitable, bounteous, handsome, unsparing, ungrudging, unselfish, open handed, free handed, full handed, open hearted, large hearted, free hearted, princely
   allowed, allowable, concessional†, communicable, charitable, eleemosynary, sportulary†, tributary, gratis &c H0636
+  suscipient†
 
 Adv:
   freely, as a gift
@@ -35,9 +37,14 @@ F:
   French: douceur
   Sanskrit: dāna, dakṣiṇā [ritual gift]
   Japanese: omiyage [souvenir gift]
+  Chinese: renqing [human feeling, the debt of favours]
 
 Phr:
   never look a gift horse in the mouth
   timeo Danaos et dona ferentes [Lat.] [Virgil]
   don't look a gift horse in the mouth
   it's on the house
+  auctor pretiosa facit [Lat.]
+  ex dono [Lat.]
+  res est ingeniosa dare [Lat.] [Ovid]
+  handsome is that handsome does [Goldsmith]

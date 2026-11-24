@@ -6,10 +6,10 @@ HGloss: Matter that has its centre and motion within itself: the solar system, f
 
 N:
   absolute mechanics; celestial mechanics, astronomy, the heavens, the firmament, the celestial sphere, cosmology; free motion, self-moving bodies
-  uranography, uranology†, cosmography†, cosmogony, eidouranion†, orrery, geodesy &c H0059, star gazing, star gazer†, astronomer, observatory, planetarium
+  uranography, uranology†, cosmography†, cosmogony, eidouranion†, orrery, geodesy &c H0059, star gazing, star gazer†, astronomer, observatory, planetarium, metage†, geodetics†, geodesia†
   colures†, equator, ecliptic
   heavens, sky, welkin†, empyrean, starry cope, starry heaven, starry host, firmament, supersensible regions†, vault of heaven, canopy of heaven, celestial spaces
-  heavenly bodies, stars, asteroids, nebulae, galaxy, milky way, galactic circle
+  heavenly bodies, stars, asteroids, nebulae, galaxy, milky way, galactic circle, Pleiades
   cycle, orb
   the mechanics of the heavens
 
@@ -39,3 +39,12 @@ Phr:
   the starry heavens above me and the moral law within me [Kant]
   the music of the spheres
   the heavenly bodies
+  die Weltgeschichte ist das Weltergesicht [Ger.]
+  earth is but the frozen echo of the silent voice of God [Hageman]
+  green calm below, blue quietness above [Whittier]
+  hanging in a golden chain this pendant World [Paradise Lost]
+  nothing in nature is unbeautiful [Tennyson]
+  silently as a dream the fabric rose [Cowper]
+  some touch of nature's genial glow [Scott]
+  this majestical roof fretted with golden fire [Hamlet]
+  through knowledge we behold the World's creation [Spenser]

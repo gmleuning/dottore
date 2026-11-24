@@ -29,6 +29,10 @@ F:
   Arabic: sharīʿa [divine law]
   Sanskrit: ṛta, sanātana dharma [eternal law]
   Chinese: xiao [filial piety], tianli [heavenly principle]
+  French: piété, pitié, piété filiale, règle, prescription, jugement, justice, loi
+  German: Frömmigkeit, Mitleid, Gottheit der Recht, Ordnung
+  Italian: pietà, pietà filiale
+  Spanish: piedad
 
 Phr:
   the unwritten and unfailing statutes of the gods, not of today or yesterday [Sophocles, Antigone]

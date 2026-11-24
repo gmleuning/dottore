@@ -22,6 +22,7 @@ Adv:
 
 F:
   Latin: summum bonum, ad infinitum
+  French: vision du monde, conception du monde
 
 Phr:
   ought implies can

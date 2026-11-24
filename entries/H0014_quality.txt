@@ -13,6 +13,7 @@ N:
   determinacy, reality and negation, suchness
   deficit, shortage
   realitas
+  firstness [Peirce]
 
 V:
   qualify, characterize, mark; affirm, posit, assert; negate, deny, exclude, rule out, lack, want, fall short of
@@ -27,10 +28,13 @@ Adv:
   qualitatively
 
 F:
-  German: Realität, Negation
-  Latin: accidens, via affirmativa and via negativa
+  German: Realität, Negation, Wirklichkeit, Wesenheit, Sachheit
+  Latin: accidens, via affirmativa and via negativa, actualitas, forma, formalitas, entitas, entitas quidditativa
   Greek: symbebēkos, kataphasis and apophasis
   Sanskrit: dharma [property, characteristic]
+  French: réalité
+  Italian: realtà, realtà effettiva, effettualità
+  Spanish: realidad, efectividad
 
 Phr:
   every quality is a limitation

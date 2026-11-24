@@ -11,7 +11,7 @@ N:
 V:
   move, set in motion, impel, propel
   be in motion
-  put in motion
+  put in motion, set agoing†
   force, impel &c H0232, propel &c H0228
   mechanize, push, weigh
 

@@ -5,9 +5,9 @@ Gloss: The beautiful human body as a work of art.
 HGloss: The subjective work of art: the human body formed by gymnastic and festival into a beautiful shape.
 
 N:
-  the subjective work of art; the beautiful body, athletics, gymnastics, the games, the athlete, self-formation of the body, the dance
+  the subjective work of art; the beautiful body, athletics, gymnastics, the games, the athlete, self-formation of the body, the dance, athleticism†
   feats of strength
-  wrestling, pugilism, boxing
+  wrestling, pugilism, boxing, gladiatorship†
   the trained body, the Olympic games, song, bodily skill, the victor
   grappling
   palaestra

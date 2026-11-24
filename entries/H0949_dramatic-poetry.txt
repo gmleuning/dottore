@@ -6,13 +6,13 @@ HGloss: Drama, the unity of epic objectivity and lyric subjectivity: an action t
 
 N:
   dramatic poetry; drama, theatre, play, stage, dramaturgy, tragedy, comedy
-  stage play, five-act play, opera, vaudeville, comedietta†, interlude, afterpiece†, exode†, farce, divertissement, extravaganza, burletta†, harlequinade†, pantomime, burlesque, ballet, spectacle, masque, melodrama, melodrame†, sensation drama, tragicomedy, farcical-comedy, monodrame monologue, duologue trilogy†, charade, proverbs, mystery, miracle play, musical, musical comedy
+  stage play, five-act play, opera, vaudeville, comedietta†, interlude, afterpiece†, exode†, farce, divertissement, extravaganza, burletta†, harlequinade†, pantomime, burlesque, ballet, spectacle, masque, melodrama, melodrame†, sensation drama, tragicomedy, farcical-comedy, monodrame monologue, duologue trilogy†, charade, proverbs, mystery, miracle play, musical, musical comedy, galimathias†, amphigouri†
   the drama, the stage, the theater, the play, film the film, movies, motion pictures, cinema, cinematography, theatricals, histrionic art, buskin, sock, cothurnus†, Melpomene and Thalia, Thespis
   actor, player, method actor, stage player, strolling player, stager, performer, mime, mimer†, artists, comedian, tragedian, tragedienne, Roscius, star, movie star, star of stage and screen, superstar, idol, sex symbol, supporting actor, supporting cast, ham, hamfatter [Slang], masker†
   scene, scenery, the boards, trap, mezzanine floor, flies, floats, footlights, offstage, orchestra
   tableau, induction, introduction, prologue, epilogue, libretto
   performance, representation, stagery†, acting, gesture &c H0598, impersonation &c H0745, stage business, gag, buffoonery
-  playwriting, the dramatic art, dialogue, action, dramatist, playwright, dramaturge, closet drama, verse drama
+  playwriting, the dramatic art, dialogue, action, dramatist, playwright, dramaturge, closet drama, verse drama, mimographer†
   backstage
   theatricality
 
@@ -43,3 +43,5 @@ Phr:
   the play's the thing [Hamlet]
   das Drama muß … als die höchste Stufe der Poesie und der Kunst überhaupt angesehen werden [Ger.] [Hegel, Aesthetics, on dramatic poetry]
   all the world's a stage
+  fere totus mundus exercet histrionem [Lat.] [Petronius Arbiter]
+  to wake the soul by tender strokes of art [Pope]

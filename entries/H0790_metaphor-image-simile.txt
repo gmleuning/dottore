@@ -29,13 +29,17 @@ Adv:
   by way of likeness
 
 F:
-  Latin: translatio
+  Latin: translatio, conceptus
   Greek: metaphora
-  French: facon de parler
+  French: facon de parler, subtilité ingénieuse, concept, idée, pensée, représentation
   Arabic: istiʿāra [metaphor]
   Sanskrit: rūpaka [metaphor]
+  Italian: concetto [conceit], argutezza [the wit of conceits] [Tesauro]
+  Spanish: agudeza [Gracián]
+  German: Begriff
 
 Phr:
   all the world's a stage [As You Like It]
   my love is like a red, red rose [Burns]
   a figure of speech
+  mutato nomine de te fabula narratur [Lat.] [Horace]

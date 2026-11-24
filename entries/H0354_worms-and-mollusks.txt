@@ -17,8 +17,8 @@ V:
   crawl, creep, burrow, wriggle
 
 Adj:
-  invertebrate, vermiform, vermicular, molluscan, testaceous, spineless
-  snake-like, serpentine
+  invertebrate, vermiform, vermicular, molluscan, testaceous, spineless, anguill†
+  snake-like, serpentine, tortile†, tortive†, anfractuous†, reclivate†, rivulose†, scolecoid†, spiriferous†, spiroid†, daedalian†
   soft-bodied, boneless
 
 Adv:

@@ -6,7 +6,7 @@ HGloss: Architecture, the art of the external, which shapes inorganic nature to 
 
 N:
   architecture; architectonics, building, construction, design, edifice, structure, frozen music
-  fabrication, erection, edification
+  fabrication, erection, edification, diaster†
   fabric, pile
   formation
   the builder's art, tectonics, masonry

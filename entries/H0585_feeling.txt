@@ -29,6 +29,7 @@ Adv:
 F:
   German: Stimmung
   Sanskrit: vedanā [feeling]
+  French: sentir, passion, émotion, sens
 
 Phr:
   I feel, therefore I am

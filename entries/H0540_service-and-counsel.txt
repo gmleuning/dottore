@@ -8,13 +8,13 @@ N:
   service and counsel; heroism of service, loyal service, fealty, allegiance, devotion, sacrifice for the state; counsel, advice, deliberation, the royal council, privy council, counsellor, adviser, courtier, vassal
   loyalty, homage, deference, fidelity
   counselor, monitor, mentor, Nestor, senator
-  suggestion, recommendation, advisement
+  suggestion, recommendation, advisement, adhortation†, submonition†
   the haughty vassal, self-sacrifice for the state
   consultant, advisor
 
 V:
   serve, counsel, advise, deliberate, swear fealty, pledge allegiance
-  give advice, give counsel, suggest, recommend, exhort &c H0615
+  give advice, give counsel, suggest, recommend, exhort &c H0615, submonish†
   sacrifice oneself
 
 Adj:
@@ -31,6 +31,8 @@ Adv:
 F:
   German: Heroismus des Dienstes
   Arabic: nasīḥa [sincere counsel], shūrā [consultation]
+  Spanish: camarilla [the clique around a ruler]
+  French: éminence grise, parrésia [fearless speech] [Foucault]
 
 Phr:
   ich dien [Ger.] [I serve]

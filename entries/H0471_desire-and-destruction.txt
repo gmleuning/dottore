@@ -15,19 +15,19 @@ N:
 V:
   consume, devour, annihilate, negate, destroy, use up, eat up, swallow
   desolate, devastate, lay waste, exterminate, extinguish
-  do away with, make away with, demolish
+  do away with, make away with, demolish, exenterate†
   swallow up, absorb, expend, tax, task, wear, put to task
   render null, nullify, abrogate &c H0715, destroy &c H0114, take away, remove &c H0228, obliterate, extirpate
   eat, gulp, bolt
   desire, crave
-  eradicate
+  eradicate, averruncate†, unroot†
 
 Adj:
   consuming, devouring, destructive, voracious, ravenous, insatiable
-  subversive, ruinous, devastating
+  subversive, ruinous, devastating, deletory†
   insatiate, unquenchable, omnivorous
   desirous, appetitive
-  obliterated
+  obliterated, printless†
 
 Adv:
   voraciously, ravenously

@@ -29,7 +29,8 @@ F:
   Greek: latreia, thysia [sacrifice]
   Sanskrit: pūjā [worship], yajña [sacrifice]
   Japanese: matsuri [festival]
-  Korean: jesa [ancestral rite, sacrifice]
+  Korean: jesa [ancestral rite, sacrifice], jaesugut [rite for good fortune]
+  Italian: ex voto [votive offering]
 
 Phr:
   do ut des [Lat.] [I give so that you may give]

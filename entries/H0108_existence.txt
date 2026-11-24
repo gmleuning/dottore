@@ -9,6 +9,7 @@ N:
   reality, actuality, positiveness, fact, matter of fact, sober reality, truth &c H0204
   grounded being, the emerged
   extancy
+  secondness [Peirce]
 
 V:
   exist, be, subsist, obtain, live, stand forth, issue, emerge, come forth
@@ -32,7 +33,7 @@ Adv:
 
 F:
   German: das Existierende
-  Latin: existentia, in esse, de facto
+  Latin: existentia, in esse, de facto, esse et id quod est [being and that-which-is] [Boethius]
   Greek: hyparxis
   Arabic: wujūd [existence]
 

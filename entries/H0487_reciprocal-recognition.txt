@@ -5,17 +5,17 @@ Gloss: The mutual acknowledgment of free selves.
 HGloss: The mutual recognition of free selves, which is the substance of all spirituality.
 
 N:
-  reciprocal recognition; mutual recognition, mutual respect, mutual esteem, reciprocity, equality, fellowship, solidarity, comity, fraternity, sisterhood, brotherhood, friendship
+  reciprocal recognition; mutual recognition, mutual respect, mutual esteem, reciprocity, equality, fellowship, solidarity, comity, fraternity, sisterhood, brotherhood, friendship, connaturalness†, connaturality†
   community, body, sodality, confraternity, familistere†, familistery†
   amity, friendliness, harmony, peace &c H0720
   familiarity, intimacy
   sociality, sociability, sociableness, social intercourse, consociation†, intercourse, intercommunity†, consortship†, companionship, comradeship, clubbism†, esprit de corps
-  conviviality, good fellowship, good company, joviality, jollity, festivity, festive board, merrymaking, loving cup†, hospitality, heartiness, cheer
-  welcome, welcomeness, greeting, hearty welcome, hearty reception, warm reception, urbanity &c H0438
+  conviviality, good fellowship, good company, joviality, jollity, festivity, festive board, merrymaking, loving cup†, hospitality, heartiness, cheer, jovialness†
+  welcome, welcomeness, greeting, hearty welcome, hearty reception, warm reception, urbanity &c H0438, accueil†
   good fellow, jolly fellow, bawcock†
   social circle, family circle, circle of acquaintance, coterie, society, company
   social gathering, social reunion, assembly &c H0036, barbecue [U.S.], bee, corn-husking [U.S.], corn-shucking [U.S.], house raising, barn raising, husking, husking-bee [U.S.], infare†
-  party, entertainment, reception, levee, at, home, soiree, matinée, evening party, morning party, afternoon party, bridge party, garden party, surprise party, kettle, kettle drum, dish of tea, ridotto†, rout†, housewarming, ball, festival, smoker, smoker-party, stag party, hen party, tamasha†, tea-party, tea-fight [Slang]
+  party, entertainment, reception, levee, at, home, soiree, matinée, evening party, morning party, afternoon party, bridge party, garden party, surprise party, kettle, kettle drum, dish of tea, ridotto†, rout†, housewarming, ball, festival, smoker, smoker-party, stag party, hen party, tamasha†, tea-party, tea-fight [Slang], drawing room
   the feast of reason and the flow of soul [Pope]
   birthday party, Christmas party, New Year's Eve party, Thanksgiving Day Dinner, wedding reception
   visiting, round of visits, call, morning call, interview &c H0599, assignation, tryst, trysting place, appointment
@@ -24,6 +24,7 @@ N:
   camaraderie
   hello, hi, hey, greetings, goodbye, bye, see you, cheers, thanks, thank you, congratulations, congrats [Coll.], apology, sorry, please, excuse me, handshake, hug, high five, small talk, manners, etiquette, courtesy
   mutuality
+  disestimation†
 
 V:
   recognize each other, respect each other, acknowledge one another, honour one another
@@ -35,7 +36,7 @@ V:
   entertain, give a party, be at home, see one's friends, hang out, keep open house, receive, receive with open arms, give a warm reception
   to kill the fatted calf
   recognize, acknowledge
-  greet, thank, apologize, apologise, congratulate, compliment, say hello, say goodbye, wave, shake hands
+  greet, thank, apologize, apologise, congratulate, compliment, say hello, say goodbye, wave, shake hands, gratulate†
 
 Adj:
   reciprocal, mutual, equal, fraternal, respectful, solidary
@@ -44,12 +45,13 @@ Adj:
   interchanged
   commutual†, correlative, reciprocative, interrelated, closely related, alternate, interchangeable, interdependent, international, complemental, complementary
   friendly, amicable, amical†, well-affected, unhostile†, neighborly, brotherly, sympathetic, hearty, cordial, warm- hearted
-  sociable, companionable, clubbable, conversable†, cosy, cosey†, chatty, conversational, homiletical
+  sociable, companionable, clubbable, conversable†, cosy, cosey†, chatty, conversational, homiletical, discoursive†
   convivial, festive, festal, jovial, jolly, hospitable
   welcome as the roses in May, fêted, entertained
   free and easy, hall fellow well met, familiar, on visiting terms, acquainted
   social, gregarious
   recognitive
+  benedictory†, unbewailed†, unpitied†
 
 Adv:
   mutually, reciprocally, as equals, on equal terms
@@ -57,12 +59,28 @@ Adv:
   in the family circle, arm in arm
 
 F:
-  German: Anerkennung
-  Latin: mutatis mutandis
-  French: savoir vivre, bon enfant, partie carrée, en famille, sans fa
-  Italian: conversazione
+  German: Anerkennung, Mitmensch [fellow human] [Cohen], Nächste
+  Latin: mutatis mutandis, proximum
+  French: savoir vivre, bon enfant, partie carrée, en famille, sans fa, autrui [the other person] [Levinas, Sartre], prochain
+  Italian: conversazione, prossimo
+  Russian: drugoj [the other as friend] [Bakhtin]
+  Arabic: jār
+  Greek: plēsion
+  Hebrew: re'a
+  Spanish: prójimo, vecino
 
 Phr:
   they recognize themselves as mutually recognizing one another [Hegel]
   to meet as equals
   live and let live
+  commune periculum concordiam parit [Lat.]
+  a crowd is not company [Bacon]
+  be bright and jovial among your guests tonight [Macbeth]
+  his worth is warrant for his welcome [Two Gentlemen]
+  let's be red with mirth [Winter's Tale]
+  welcome the coming speed the parting guest [Pope]
+  I wish you all the joy that you can wish [Merchant of Venice]
+  best wishes
+  and pluck up drowned honor by the locks [Henry IV]
+  his honor rooted in dishonor stood [Tennyson]
+  honor pricks me on [Henry IV]

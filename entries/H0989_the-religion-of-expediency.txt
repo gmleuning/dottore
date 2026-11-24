@@ -14,7 +14,7 @@ V:
   use, employ, serve a purpose, make vows, pay vows, take the omens, divine, inaugurate, sacrifice for gain, appease, placate, deify the emperor, dominate, subjugate
 
 Adj:
-  Roman, utilitarian, expedient, prosaic, civic, augural
+  Roman, utilitarian, expedient, prosaic, civic, augural, augurous†, auspicial†, prescious†, extispicious†
   purposive, useful, serviceable, practical, pragmatic, political, imperial, official, juridical, legalistic, contractual, votive, superstitious, unpoetic, sober, cold, mercenary, Capitoline
 
 Adv:

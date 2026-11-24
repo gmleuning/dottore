@@ -31,8 +31,9 @@ Adv:
 
 F:
   German: Eingebung [inspiration], vorstellen
-  Italian: fantasia
+  Italian: fantasia, ben trovato [aptly invented, if not true], capriccio [fanciful invention]
   Sanskrit: pratibhā [poetic genius]
+  Spanish: lo real maravilloso [the marvellous real] [Carpentier]
 
 Phr:
   the poet's eye, in a fine frenzy rolling [A Midsummer Night's Dream]

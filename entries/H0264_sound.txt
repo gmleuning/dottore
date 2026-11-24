@@ -7,33 +7,34 @@ HGloss: The body's inner ideality set free in its own vibration: the soul of a b
 N:
   sound; tone, note, ring, ringing, resonance, reverberation, vibration, oscillation, tremor, sonority, timbre, clang, peal, chime; voice of a body, inner trembling, ideality of body
   tintinabulation, reflexion [Brit.], reflection, buzz
-  loudness, power, loud noise, din, blare, clangor, clatter, bombilation†, uproar, racket, hubbub, bobbery†, fracas, charivari†, trumpet blast, flourish of trumpets, fanfare, tintamarre†, blast, larum†, bang
+  loudness, power, loud noise, din, blare, clangor, clatter, bombilation†, uproar, racket, hubbub, bobbery†, fracas, charivari†, trumpet blast, flourish of trumpets, fanfare, tintamarre†, blast, larum†, bang, pudder†, stour†, subsultus†, berloque†, bombination†, tantara†, rataplan†, rixation†, embranglement†, shindy†
   noise, strain, accent, twang, intonation, cadence, sonorousness, audibility, voice &c H0599, aspirate, ideophone†, rough breathing
   libration, motion of a pendulum, nutation, undulation, pulsation, pulse
-  faintness, faint sound, whisper, breath, undertone, underbreath†, murmur, susurration, still small voice
+  faintness, faint sound, whisper, breath, undertone, underbreath†, murmur, susurration, still small voice, goneness†
   silence, stillness &c H0228, peace, lull, muteness &c H0599, solemn silence, awful silence, dead silence, deathlike silence
   thud, thump, dead sound, nonresonance†, muffled drums, cracked bell, damper, silencer
   sibilance, sibilation, zip, sternutation
   goose, serpent, snake
   insect, bug, bee, mosquito, wasp, fly
   tea kettle, pressure cooker, air valve, pressure release valve, safety valve, tires, air escaping from tires, punctured tire, escaping steam, steam, steam radiator, steam release valve
-  creak, discord, stridor, roughness, sharpness, cacophony, cacoepy†
-  acute note, high note, soprano, treble, tenor, alto, falsetto, penny trumpet
+  creak, discord, stridor, roughness, sharpness, cacophony, cacoepy†, orthoepy†
+  acute note, high note, soprano, treble, tenor, alto, falsetto, penny trumpet, aphony†, aphonia†, obmutescence†, dysphony†, titubancy†, traulism†, tardiloquence†
   cry, bark
-  vociferation, outcry, hullabaloo, chorus, clamor, hue and cry, plaint, lungs, stentor
+  vociferation, outcry, hullabaloo, chorus, clamor, hue and cry, plaint, lungs, stentor, vocality†, ecphonesis†, vendue†
   wow, click, rolling, roaring, whispering, ting, altercation, screeching
+  raucity†
 
 V:
   sound, ring, resound, resonate, reverberate, vibrate, chime, peal, clang, tinkle, toll, echo
   reecho, jingle, gingle†, chink, clink, tink†, gurgle, plash, goggle, ring in the ear
-  be loud, swell, boom, thunder, fulminate, roar
+  be loud, swell, boom, thunder, fulminate, roar, detonize†
   hum, trill, shake, tick, beat
   produce sound, make a noise, give out sound, emit sound
   be silent, hold one's tongue &c H0599
-  render silent, stifle, muffle, stop, muzzle, put to silence &c H0599
+  render silent, stifle, muffle, stop, muzzle, put to silence &c H0599, mump†
   sound dead, stop the sound, damp the sound, deaden the sound, deaden the reverberations, dampen the reverberations
   hiss, whiz, rustle, fizz, fizzle, wheeze, whistle, snuffle, squash, sneeze, sizzle, swish
-  grate, jar, burr, pipe, jangle, clank, scream, yelp
+  grate, jar, burr, pipe, jangle, clank, scream, yelp, brangle†
   set the teeth on edge, pierce the ears, split the ears, split the head, offend the ear, grate upon the ear, jar upon the ear
   shout, bawl, brawl, halloo, halloa, hoop, whoop, yell, bellow, howl, screech, screak†, shriek, squeak, squeal, squall, whine, pule, yaup†
   cheer, hoot, grumble, moan, groan
@@ -43,15 +44,16 @@ V:
 
 Adj:
   sonorous, resonant, ringing, vibrant, reverberant, acoustic, sonic, audible, tonal
-  resounding, tinnient†, tintinnabulary, booming, deep-toned, deep-sounding, deep-mouthed, hollow, sepulchral, gruff
+  resounding, tinnient†, tintinnabulary, booming, deep-toned, deep-sounding, deep-mouthed, hollow, sepulchral, gruff, uncomplaisant†
   sounding, soniferous†, sonorific†, distinct, stertorous, phonetic, phonic, phonocamptic†
-  silent, still, stilly, noiseless, soundless, hushed, mute, solemn, awful, deathlike, silent as the grave, inaudible
+  silent, still, stilly, noiseless, soundless, hushed, mute, solemn, awful, deathlike, silent as the grave, inaudible, mute as a stockfish†, unconversable†
   nonresonant†, dead, dampened, muffled
   sibilant, hissing, wheezy, sternutative†
-  creaking, stridulous†, harsh, coarse, hoarse, horrisonous†, rough, grum†
+  creaking, stridulous†, harsh, coarse, hoarse, horrisonous†, rough, grum†, susurrant†, susurrous†, reechy†, unbeseeming†, unpresentable†
   sharp, high, acute, shrill, trumpet-toned, piercing, ear-piercing, high-pitched, high-toned, cracked, discordant &c H0913, cacophonous
   crying, clamant†, clamorous, vociferous, stentorian, open-mouthed
-  noisy, unspoken, squeaky
+  noisy, unspoken, squeaky, multisonous†
+  stentorophonic†
 
 Adv:
   aloud, audibly, resoundingly
@@ -73,3 +75,16 @@ Phr:
   nāda brahma [Skt.] [sound is God]
   sound and fury
   loud and clear
+  a thousand trills and quivering sounds [Addison]
+  forensis strepitus [Lat.]
+  one might hear a feather drop, one might hear a pin drop, so quiet you could hear a pin drop
+  grosse Seelen dulden still [Ger.]
+  le silence est la vertu de ceux qui ne sont pas sages [Fr.]
+  le silence est le parti le plus sar de celui se défie de soi-meme [Fr.]
+  silence more musical than any song [C.G. Rossetti]
+  tacent satis laudant [Lat.]
+  better to be silent and thought a fool than to speak up and remove all doubt
+  the air rings with
+  the deep dread-bolted thunder [Lear]
+  sweet bells jangled, out of time and harsh [Hamlet]
+  echoing down the mountain and through the dell

@@ -31,8 +31,12 @@ Adv:
 
 F:
   German: Gefühl, Stimmung, Befindlichkeit [state-of-mind] [Heidegger]
-  Arabic: wijdān [feeling, inner sentiment]
+  Arabic: wijdān [feeling, inner sentiment], qalb, fuʾād, lubb
   Sanskrit: bhāva [feeling, emotion]
+  French: âme, cœur, sentiments, affectivité, esprit, coeur, accord, ambiance, atmosphère, humeur, tonalité affective
+  Greek: thymos, kardia
+  Latin: mens, animus
+  Danish: stemning
 
 Phr:
   the heart has its reasons which reason knows not of [Pascal]

@@ -7,7 +7,7 @@ HGloss: The ideal moving into action, through a world-situation, a situation, an
 N:
   action; dramatic action, plot, story, narrative, deed, event, fable, conflict, collision
   encounter
-  history, tale, adventures, fortunes
+  history, tale, adventures, fortunes, historiette†, ana†
   proceeding, measure, step, move, stroke, coup
   doing, opposition, reaction, resolution, drama
   praxis
@@ -28,6 +28,8 @@ Adv:
 F:
   German: Kollision
   Greek: mythos
+  French: agent, agence, agir, pratique
+  Italian: prassi
 
 Phr:
   plot is the soul of tragedy [Aristotle]

@@ -10,18 +10,18 @@ N:
   rudiment, cradle, infancy, nucleus, radix
   precursor, antecedent, precedent, predecessor, forerunner, vancourier†, pioneer, prodrome†, prodromos†, prodromus†, outrider, leader, bellwether, herald, harbinger, foreboding, avant-courier, avant-garde, bellmare†, forelooper†, foreloper†, stalking-horse, voorlooper [Afrik.], voortrekker [Afrik.]
   prelude, preamble, preface, prologue, foreword, protasis†, proemium†, prolusion†, proem, prolepsis [Gramm.], prolegomena, prefix, introduction, heading, frontispiece, groundwork, preparation &c H0196, overture, symphony, premises
-  prefigurement &c H0976, omen &c H0976
+  prefigurement &c H0976, omen &c H0976, adytum prefiguration†
   showtime
   incipit
 
 V:
   begin, start, commence, initiate, inaugurate, set out, set off, launch, open, embark, institute, found, originate, kick off, get under way
-  conceive, set in, take its rise, enter upon, arise
+  conceive, set in, take its rise, enter upon, arise, incept†
   sow the seeds of, lay the foundation of
 
 Adj:
-  initial, incipient, inaugural, introductory, opening, first, primary, primal, primordial, original, seminal, germinal, embryonic, inchoate, nascent, elementary, rudimentary
-  initiatory, inceptive, inchoative†, primeval, radical, preliminary
+  initial, incipient, inaugural, introductory, opening, first, primary, primal, primordial, original, seminal, germinal, embryonic, inchoate, nascent, elementary, rudimentary, aperient†
+  initiatory, inceptive, inchoative†, primeval, radical, preliminary, primogenial†
   precursory, prelusive, prelusory, preludious†, proemial†, prefatory, prodromous†, precedent &c H0222
   exploratory
 
@@ -41,3 +41,4 @@ Phr:
   well begun is half done, dimidium facti qui coepit habet [Lat.] [Horace]
   a journey of a thousand li begins with a single step [Laozi]
   to start from nothing
+  a precedent embalms a principle [Disraeli]

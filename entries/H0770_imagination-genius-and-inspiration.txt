@@ -32,11 +32,14 @@ Adv:
   imaginatively, by genius, with inspiration, in a rapture
 
 F:
-  German: geist
-  Latin: ingenium, afflatus, furor poeticus
-  Greek: entheos
-  Arabic: ilhām [inspiration]
+  German: geist, Naturell, natürlich Fähigkeit, Witz
+  Latin: ingenium, afflatus, furor poeticus, genus, talentum
+  Greek: entheos, euphyia, talanton
+  Arabic: ilhām [inspiration], ḥads
   Sanskrit: pratibhā [genius, flash]
+  Spanish: duende [dark inspiration] [Lorca], ingenio, talante
+  French: bel esprit, génie
+  Italian: ingegno, talento
 
 Phr:
   sing in me, Muse [Homer]

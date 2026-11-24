@@ -19,7 +19,7 @@ V:
 
 Adj:
   natural, innate, inborn, inbred, native, inherent, congenital, hereditary, constitutional, temperamental
-  intrinsic, fundamental, implanted, essential, inwrought, coeval with birth
+  intrinsic, fundamental, implanted, essential, inwrought, coeval with birth, intrinsical†, genetous†, haematobious†, syngenic†, congenite†, ingenerate†, ingenite†
   ingrained, implanted by nature, in the grain
   embedded, deep-seated, built-in, inbuilt
 

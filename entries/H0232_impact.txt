@@ -14,8 +14,8 @@ N:
   knocking, bash, poking, jerking, smacking
 
 V:
-  hit, strike, collide, crash, bump, knock, bang, jolt, smash, slam, ram, butt, impinge, rebound, recoil, bounce
-  tap, slap, flap, dab, pat, beat, dash, punch, hit hard, strike hard, batter, baste, patter, buffet, belabor, fetch one a blow, poke at, pink, lunge, yerk†, calcitrate†, strike at &c H0718, whip &c H0654
+  hit, strike, collide, crash, bump, knock, bang, jolt, smash, slam, ram, butt, impinge, rebound, recoil, bounce, brustle†
+  tap, slap, flap, dab, pat, beat, dash, punch, hit hard, strike hard, batter, baste, patter, buffet, belabor, fetch one a blow, poke at, pink, lunge, yerk†, calcitrate†, strike at &c H0718, whip &c H0654, vellicate†, swinge†
   give an impetus, impel, push, start, give a start to, set going, drive, urge, boom, prod, cant, elbow, shoulder, jostle, justle†, hustle, hurtle, run against, bump against, butt against, knock one's head against, run one's head against, bunt, carom, clip y, fan, fan out, jab, plug [Slang]
   react, spring back, fly back, bounce back, bound back, reverberate, repercuss†, recalcitrate†, echo
   come into a collision, enter into collision, sideswipe, foul, fall foul of, run foul of, telescope
@@ -39,3 +39,5 @@ F:
 Phr:
   the irresistible force meets the immovable object
   to knock into
+  a hit, a very palpable hit [Hamlet]
+  for every action there is a reaction, equal in force and opposite in direction [Newton]

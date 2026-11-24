@@ -5,8 +5,8 @@ Gloss: A short story or saying that conveys a general truth.
 HGloss: The parable, proverb and apologue, a common occurrence given a higher meaning.
 
 N:
-  parable, proverb, apologue; parable, proverb, adage, saw, maxim, aphorism, gnome, apophthegm, saying, dictum, byword, apologue
-  apothegm, sentence, motto, word, moral, phylactery, protasis†
+  parable, proverb, apologue; parable, proverb, adage, saw, maxim, aphorism, gnome, apophthegm, saying, dictum, byword, apologue, deev†, lamia†
+  apothegm, sentence, motto, word, moral, phylactery, protasis†, periapt†, telesm†
   fairy tale, fable
   lesson
   trope, metaphor, simile, personification
@@ -30,9 +30,9 @@ Adv:
   in parables, sententiously
 
 F:
-  Latin: ipse dixit, principia
-  Greek: parabolē
-  French: mot
+  Latin: ipse dixit, principia, locus communis, indignatio
+  Greek: parabolē, topos, topēgoria, deinōsis
+  French: mot, lieu commun
   Hebrew: mashal
   Sanskrit: subhāṣita [well-said verse]
   Chinese: chengyu [set idiom]

@@ -38,3 +38,6 @@ Phr:
   love and strife [Empedocles]
   opposites attract
   birds of a feather flock together
+  like charges repel
+  opposite charges attract
+  like poles repel, opposite poles attract

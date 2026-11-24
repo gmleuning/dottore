@@ -20,6 +20,11 @@ Adv:
   independently
   outwardly, in relation to other states
 
+F:
+  Chinese: taoguang yanghui [hide one's brightness, bide one's time], ruan shili [soft power]
+  German: Machtpolitik [power politics]
+  French: raison d'État
+
 Phr:
   the first freedom of a people
   independence day

@@ -6,14 +6,14 @@ HGloss: The obelisks, which receive the sun's rays and bear its signs.
 
 N:
   obelisks; obelisk, monolith, needle, Cleopatra's Needle, pillar, shaft, sunbeam in stone
-  monument, slab, tablet, memorial
+  monument, slab, tablet, memorial, hatchment†
   tower, column, spire
   pedestal, plinth
   stele, sun-pillar, ray, Heliopolis, hieroglyphic inscription
 
 V:
   raise, erect, quarry
-  set up, rear, uprear
+  set up, rear, uprear, upbear†, upcast†, uphoist†
   taper, rise, point, inscribe, dedicate
 
 Adj:

@@ -12,7 +12,7 @@ N:
 V:
   praise, exalt, glorify, magnify, humble
   give thanks, bless, sing praises
-  laud, eulogize, extol
+  laud, eulogize, extol, belaud†
   honor, dignify, sing praises to &c H0487, aggrandize
   abase
 

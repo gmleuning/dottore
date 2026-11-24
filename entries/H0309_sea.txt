@@ -14,10 +14,10 @@ N:
   ship, vessel, craft, bottom
   navy, fleet, flotilla, shipping
   man of war &c H0719, transport, tender, storeship†, merchant ship, merchantman, packet, liner, whaler, slaver, collier, coaster, lighter, fishing boat, pilot boat, trawler, hulk, yacht, baggala†, floating hotel, floating palace, ocean greyhound
-  bark, barque, brig, snow, hermaphrodite brig, brigantine, barkantine†, schooner, topsail schooner, for and aft schooner, three masted schooner, sloop, cutter, corvette, clipper, foist, yawl, dandy, ketch, smack, lugger, barge, hoy†, cat, buss, sailer, sailing vessel, windjammer, steamer, steamboat, steamship, ocean liner, cruiseship, ship of the line, mail steamer, paddle steamer, screw steamer, tug, line of steamers
+  bark, barque, brig, snow, hermaphrodite brig, brigantine, barkantine†, schooner, topsail schooner, for and aft schooner, three masted schooner, sloop, cutter, corvette, clipper, foist, yawl, dandy, ketch, smack, lugger, barge, hoy†, cat, buss, sailer, sailing vessel, windjammer, steamer, steamboat, steamship, ocean liner, cruiseship, ship of the line, mail steamer, paddle steamer, screw steamer, tug, line of steamers, deosculation†
   destroyer, cruiser, frigate, landing ship, LST, aircraft carrier, carrier, flattop [Coll.], nuclear powered carrier, submarine, submersible, atomic submarine
   boat, pinnace, launch, life boat, long boat, jolly boat, bum boat, fly boat, cock boat, ferry boat, canal boat, swamp boat, ark, bully, battery, bateau [Can.], broadhorn†, dory, droger†, drogher, dugout, durham boat, flatboat, galiot†, shallop†, gig, funny, skiff, dingy, scow, cockleshell, wherry, coble†, punt, cog, kedge, lerret†, eight oar, four oar, pair oar, randan†, outrigger, float, raft, pontoon, prame†, iceboat, ice canoe, ice yacht
-  catamaran, hydroplane, hovercraft, coracle, gondola, carvel†, caravel, felucca, caique†, canoe, birch bark canoe, dugout canoe, galley, galleyfoist†, bilander†, dogger†, hooker, howker†, argosy, carack†, galliass†, galleon, polacca†, polacre†, tartane†, junk, lorcha†, praam†, proa†, prahu†, saick†, sampan, xebec, dhow, dahabeah†, nuggah†, kayak, keel boat [U.S.], log canoe, pirogue, quadrireme†, trireme, stern-wheeler [U.S.], wanigan†, wangan [U.S.], wharf boat
+  catamaran, hydroplane, hovercraft, coracle, gondola, carvel†, caravel, felucca, caique†, canoe, birch bark canoe, dugout canoe, galley, galleyfoist†, bilander†, dogger†, hooker, howker†, argosy, carack†, galliass†, galleon, polacca†, polacre†, tartane†, junk, lorcha†, praam†, proa†, prahu†, saick†, sampan, xebec, dhow, dahabeah†, nuggah†, kayak, keel boat [U.S.], log canoe, pirogue, quadrireme†, trireme, stern-wheeler [U.S.], wanigan†, wangan [U.S.], wharf boat, tierce†, triennium†, trigon†, trionym†, triplopia†, triseme†, triskele†, trisula†
   ferry
   lifeboat, shipwreck, freighter, sailboat, outboard, dinghy, icebreaker, houseboat
   weather ship, small boat, sea boat, river boat, police boat, mail boat, guard boat, narrow boat, fishing vessel, patrol ship, patrol boat, sailing ship, racing yacht, packet boat, fishing smack, ship's boat, training ship, small ship, sister ship, school ship, hospital ship, supply ship, transport ship, pleasure boat, racing boat, abandoned ship, passenger ship, slave ship, pleasure craft, nuclear-powered ship, cargo vessel, cargo ship, treasure ship, car-ferry, sailing boat, pirate ship, gas-turbine ship, water scooter, sea scooter, blockade-runner, cabin cruiser, three-decker, whaling ship, clipper ship, tank ship, factory ship, racing shell, cattle boat, container vessel, container ship, banana boat, racing gig
@@ -29,7 +29,7 @@ V:
   cruise, coast, circumnavigate
 
 Adj:
-  marine, maritime, oceanic, pelagic, thalassic, nautical, naval, seagoing, abyssal, briny, salt
+  marine, maritime, oceanic, pelagic, thalassic, nautical, naval, seagoing, abyssal, briny, salt, aerostatic†, grallatory†
   pelagian, hydrographic, bathybic†, cotidal†
   seafaring, navigable
   saline, brackish
@@ -50,3 +50,6 @@ Phr:
   the sea is everything [Jules Verne]
   all at sea
   plenty more fish in the sea
+  any port in a storm
+  bibere venenum in auro [Lat.]
+  valet anchora virtus

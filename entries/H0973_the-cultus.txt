@@ -10,10 +10,10 @@ N:
   Eucharist, Lord's supper, the sacrament, the holy sacrament, high celebration, asperges†, introit, consecration, consubstantiation, transubstantiation, real presence, elements, mass, high mass, low mass, dry mass
   adoration, aspiration, homage, service, humiliation, kneeling, genuflection, prostration
   invocation, supplication, rogation, intercession, orison, holy breathing, petition &c H0626, collect, litany, Lord's prayer, beadroll†, latria†, dulia†, hyperdulia†, vigils, revival, cult, camp meeting
-  solemnization, jubilee, commemoration, paean, jubilation, holiday
+  solemnization, jubilee, commemoration, paean, jubilation, holiday, zarabanda†
   oblation, incense, libation, burnt offering, heave offering, votive offering, offertory
   place of worship, house of God, house of prayer
-  divine service, divine worship, public worship, the service of God, practice, religious practice, exercise, devotions, observances, office, the divine office, ministry, the act of worship, the unity with God, the union, communion with God, participation, partaking, enjoyment, the enjoyment of God, the sacrificial meal, the feast, thanksgiving, praise, hymn, psalm, doxology, benediction, blessing, vow, pilgrimage, procession, fast, penance, repentance, contrition, self-surrender, self-renunciation, the sacrifice of the heart, the giving up of particularity, inner cultus, piety in act, the practical relation, the sublation of the cleavage, the certainty of reconciliation, the mystical union, the testimony of the spirit
+  divine service, divine worship, public worship, the service of God, practice, religious practice, exercise, devotions, observances, office, the divine office, ministry, the act of worship, the unity with God, the union, communion with God, participation, partaking, enjoyment, the enjoyment of God, the sacrificial meal, the feast, thanksgiving, praise, hymn, psalm, doxology, benediction, blessing, vow, pilgrimage, procession, fast, penance, repentance, contrition, self-surrender, self-renunciation, the sacrifice of the heart, the giving up of particularity, inner cultus, piety in act, the practical relation, the sublation of the cleavage, the certainty of reconciliation, the mystical union, the testimony of the spirit, undernsong†, tierce†
   plea
 
 V:
@@ -44,3 +44,13 @@ F:
 Phr:
   lex orandi, lex credendi [Lat.] [the law of prayer is the law of belief]
   the communion of saints
+  Dieu vous garde [Fr.]
+  dirigenos Domine [Lat.]
+  would you be so kind as to
+  gramercy!
+  allelujah!
+  making their lives a prayer [Whittier]
+  prayers ardent open heaven [Young]
+  what art thou, thou idol ceremony? [Henry V]
+  ne vile fano [It.]
+  there's nothing ill can dwell in such a temple [Tempest]

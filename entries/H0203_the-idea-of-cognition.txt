@@ -23,17 +23,18 @@ V:
 
 Adj:
   cognitive, epistemic, noetic, intellectual, theoretical, practical, inquisitive
-  inquisitive &c H0583, analytic, in search of, in quest of, zetetic†
+  inquisitive &c H0583, analytic, in search of, in quest of, zetetic†, inquisitory†, requisitive†, requisitory†
 
 Adv:
   cognitively, knowingly, theoretically, in theory and in practice
 
 F:
-  German: Erkennen
+  German: Erkennen, Erkenntnistheorie
   Latin: cognitio
   Greek: gnōsis, theōria and praxis
   Arabic: maʿrifa [cognition]
   Sanskrit: jñāna [knowledge]
+  French: épistémologie
 
 Phr:
   all men by nature desire to know [Aristotle]

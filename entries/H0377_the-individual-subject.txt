@@ -7,7 +7,7 @@ HGloss: The soul singularized into the individual subject, with its natural endo
 N:
   the individual subject; individual, person, personality, self, ego, character, idiosyncrasy, individuality, personal makeup, psychological profile
   particularity, peculiarity, idiocrasy &c H0378, singularity &c H0063
-  affections, affect, qualities, disposition, nature, spirit, tone, temper, temperament, diathesis†, cast of mind, cast of soul, habit of mind, habit of soul, frame of mind, frame of soul, predilection, turn, natural turn of mind, bent, bias, predisposition, proneness, proclivity, propensity, propenseness†, propension†, propendency†, vein, humor, mood, grain, mettle, sympathy &c H0489
+  affections, affect, qualities, disposition, nature, spirit, tone, temper, temperament, diathesis†, cast of mind, cast of soul, habit of mind, habit of soul, frame of mind, frame of soul, predilection, turn, natural turn of mind, bent, bias, predisposition, proneness, proclivity, propensity, propenseness†, propension†, propendency†, vein, humor, mood, grain, mettle, sympathy &c H0489, reclination†, decumbence†, decumbency†, discumbency†
   originality, mannerism
   personage, mortal, somebody, one
   myself
@@ -29,8 +29,10 @@ Adv:
 
 F:
   Sanskrit: pudgala [person]
+  Latin: persona [rationalis naturae individua substantia] [Boethius]
 
 Phr:
   every man in his humour
   each to his own
   one of a kind
+  affection is a coal that must be cool'd else suffer'd it will set the heart on fire [Venus and Adonis]

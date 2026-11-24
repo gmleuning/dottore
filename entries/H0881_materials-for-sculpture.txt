@@ -9,7 +9,7 @@ N:
   raw material, stuff, metal
   papier-mache, ceramic ware, porcelain, earthenware, enamel, faience
   granite, adamant, iron, steel
-  substance, wax, limestone, porphyry, basalt, alabaster
+  substance, wax, limestone, porphyry, basalt, alabaster, albata†, eburin†, ceruse†
 
 V:
   work, cast, carve, model

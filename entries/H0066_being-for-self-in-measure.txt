@@ -6,7 +6,7 @@ HGloss: The measure maintaining itself as a ratio of its two qualitative sides, 
 
 N:
   being-for-self in measure; constant proportion, stable ratio, invariant, invariance, constancy, homeostasis, self-maintenance, self-regulation, persistence, stability, identity through change, equilibrium, steady state, conservation; character, defining proportion; mean, balance
-  immutability, stable equilibrium
+  immutability, stable equilibrium, unchangeableness†, stabiliment†, ankylosis†
   permanence, endurance, maintenance, preservation
   steadiness
   golden mean &c H0059
@@ -19,7 +19,7 @@ V:
 
 Adj:
   invariant, constant, stable, steady, self-regulating, homeostatic, self-maintaining, persistent, enduring, unchanging, conserved
-  stable &c H0010, persisting, permanent
+  stable &c H0010, persisting, permanent, uncheckered†
   unchangeable, immutable, invariable, durable
 
 Adv:
@@ -29,3 +29,4 @@ Adv:
 Phr:
   plus ça change, plus c'est la même chose [Fr.] [Alphonse Karr]
   by its own lights
+  littera scripta manet [Lat.]

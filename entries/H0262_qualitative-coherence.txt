@@ -5,30 +5,30 @@ Gloss: Cohesion as a felt quality of a body: hardness, softness, brittleness, to
 HGloss: Coherence as the inner quality of a body: hard, soft, brittle, ductile, malleable.
 
 N:
-  qualitative coherence; hardness, softness, brittleness, toughness, ductility, malleability, plasticity, flexibility, pliability, elasticity, rigidity, friability, frangibility, tenacity, temper; texture, consistency
+  qualitative coherence; hardness, softness, brittleness, toughness, ductility, malleability, plasticity, flexibility, pliability, elasticity, rigidity, friability, frangibility, tenacity, temper; texture, consistency, powderiness [State of powder.]†, pulverulence†, docibleness†, persuasibleness†, persuasibility†
   pliableness, pliancy, sequacity†, tractility†, extendibility, extensibility, inelasticity, flaccidity, laxity
   fragility, fissibility†
   renitence†, renitency, inflexibility, callosity, durity†
   strength, stickiness
-  sharpness, acuity, acumination†, spinosity†
-  point, spike, spine, spicule [Biol.], spiculum†, needle, hypodermic needle, tack, nail, pin, prick, prickle, spur, rowel, spit, cusp, horn, antler, snag, tag thorn, bristle, Adam's needle†, bear grass [U.S.], tine, yucca
-  nib, tooth, tusk, spoke, cog, ratchet
+  sharpness, acuity, acumination†, spinosity†, torvity†
+  point, spike, spine, spicule [Biol.], spiculum†, needle, hypodermic needle, tack, nail, pin, prick, prickle, spur, rowel, spit, cusp, horn, antler, snag, tag thorn, bristle, Adam's needle†, bear grass [U.S.], tine, yucca, holdfast†, trennel†, angularness†, aduncity†
+  nib, tooth, tusk, spoke, cog, ratchet, larigo†, capsheaf†
   crag, crest, cone peak, sugar loaf, pike, aiguille†, spire, pyramid, steeple
   beard, porcupine, hedgehog, brier, bramble, thistle, comb, awn, beggar's lice, bur, burr, catchweed†, cleavers, clivers†, goose, grass, hairif†, hariff, flax comb, hackle, hatchel†, heckle
-  wedge, knife edge, cutting edge, blade, edge tool, cutlery, knife, penknife, whittle, razor, razor blade, safety razor, straight razor, electric razor, scalpel, bistoury†, lancet, plowshare, coulter, colter†, hatchet, ax, pickax, mattock, pick, adze, gill, billhook, cleaver, cutter, scythe, sickle, scissors, shears, pruning shears, cutters, wire cutters, nail clipper, paper cutter, sword &c H0718, bodkin &c H0267, belduque†, bowie knife†, paring knife, bushwhacker [U.S.], drawing knife, drawing shave, microtome [Micro.], chisel, screwdriver blade, flint blade, guillotine
-  sharpener, hone, strop, grindstone, whetstone, novaculite†, steel, emery
+  wedge, knife edge, cutting edge, blade, edge tool, cutlery, knife, penknife, whittle, razor, razor blade, safety razor, straight razor, electric razor, scalpel, bistoury†, lancet, plowshare, coulter, colter†, hatchet, ax, pickax, mattock, pick, adze, gill, billhook, cleaver, cutter, scythe, sickle, scissors, shears, pruning shears, cutters, wire cutters, nail clipper, paper cutter, sword &c H0718, bodkin &c H0267, belduque†, bowie knife†, paring knife, bushwhacker [U.S.], drawing knife, drawing shave, microtome [Micro.], chisel, screwdriver blade, flint blade, guillotine, trigon†, oxygon†
+  sharpener, hone, strop, grindstone, whetstone, novaculite†, steel, emery, kern†, quern†, koniology†
   bluntness
-  roughness, grain, ripple, asperity, rugosity†, salebrosity†, corrugation, nodosity†, arborescence† &c H0755, pilosity†
+  roughness, grain, ripple, asperity, rugosity†, salebrosity†, corrugation, nodosity†, arborescence† &c H0755, pilosity†, apophysis†, mamelon†
   brush, hair, shag, mane, whisker, moustache, imperial, tress, lock, curl, ringlet, fimbriae, pili, cilia, villi, lovelock, beaucatcher†, curl paper, goatee, papillote, scalp lock
   plumage, plumosity†, plume, panache, feather, tuft, fringe, toupee
-  wool, velvet, plush, nap, pile, floss, fur, down, byssus†, moss, fluff
+  wool, velvet, plush, nap, pile, floss, fur, down, byssus†, moss, fluff, furfur†
   knot &c H0267
   sticker, mustache, rigor
 
 V:
-  harden, soften, temper, anneal, toughen, embrittle, crumble
-  render soft, mollify, mellow, relax, mash, knead, squash
-  stiffen, indurate, petrify
+  harden, soften, temper, anneal, toughen, embrittle, crumble, infumate†
+  render soft, mollify, mellow, relax, mash, knead, squash, accoy†, lenify†
+  stiffen, indurate, petrify, accrust†
   be sharp, taper to a point, bristle with
   render sharp, sharpen, aculeate, whet, barb, spiculate†, set, grind, chip (flint)
   cut &c H0293
@@ -38,15 +38,15 @@ V:
   bend, break
 
 Adj:
-  hard, soft, brittle, tough, ductile, malleable, plastic, flexible, pliable, pliant, rigid, friable, frangible, crumbly, tenacious, supple
-  tender, flexile, lithe, lithesome, lissom, limber, tractile†, tractable, extensile, sequacious†, inelastic
-  breakable, fragile, frail, shivery, fissile, brittle as glass
+  hard, soft, brittle, tough, ductile, malleable, plastic, flexible, pliable, pliant, rigid, friable, frangible, crumbly, tenacious, supple, attrite†, suant†
+  tender, flexile, lithe, lithesome, lissom, limber, tractile†, tractable, extensile, sequacious†, inelastic, towardly†
+  breakable, fragile, frail, shivery, fissile, brittle as glass, gimcrack†, lacerable†
   elastic, tensile, resilient
-  sharp, keen, acute, acicular, aciform†, aculeated†, acuminated†, pointed, tapering, conical, pyramidal, mucronate†, mucronated†, spindle shaped, needle shaped, spiked, spiky, ensiform†, peaked, salient, cusped, cuspidate, cuspidated†, cornute†, cornuted†, cornicultate†, prickly, spiny, spinous†, spicular, thorny, bristling, muricated†, pectinated†, studded, thistly, briary†, craggy &c H0267, snaggy, digitated†, two-edged, fusiform [Micro.], dentiform†, denticulated, toothed, odontoid†, starlike, stellated†, stelliform†, sagittate†, sagittiform†, arrowheaded†, arrowy†, barbed, spurred
+  sharp, keen, acute, acicular, aciform†, aculeated†, acuminated†, pointed, tapering, conical, pyramidal, mucronate†, mucronated†, spindle shaped, needle shaped, spiked, spiky, ensiform†, peaked, salient, cusped, cuspidate, cuspidated†, cornute†, cornuted†, cornicultate†, prickly, spiny, spinous†, spicular, thorny, bristling, muricated†, pectinated†, studded, thistly, briary†, craggy &c H0267, snaggy, digitated†, two-edged, fusiform [Micro.], dentiform†, denticulated, toothed, odontoid†, starlike, stellated†, stelliform†, sagittate†, sagittiform†, arrowheaded†, arrowy†, barbed, spurred, dighted†, tumous†, lentiform†, selliform†, subclavate†, torose†, ventricose†, verrucose†, plaguy†
   acinaciform, apiculate†, apiculated†, aristate†, awned, awny†, bearded, calamiform†, cone-shaped, coniform†, crestate†, echinate†, gladiate†, lanceolate†, lanciform, awl, awl-shaped, lance-shaped, awl- shaped, scimitar-shaped, sword-shaped, setarious†, spinuliferous†, subulate†, tetrahedral, xiphoid†
   cutting, sharp edged, knife edged, sharp as a razor, keen as a razor, sharp as a needle, sharp as a tack, sharpened
-  blunt, obtuse, dull, bluff, edentate, toothless
-  rough, uneven, scabrous, scaly, knotted, rugged, rugose†, rugous†, knurly†, asperous†, salebrous†, gnarled, unpolished, unsmooth†, roughhewn†, craggy, cragged, crankling†, scraggy, prickly &c H0267, arborescent &c H0755 [Obs.], leafy, well-wooded, feathery, plumose, plumigerous†, laciniate†, laciniform†, laciniose†, pappose†, pileous†, pilose†, trichogenous†, trichoid [Med.], tufted, fimbriated, hairy, ciliated, filamentous, hirsute, crinose†, crinite†, bushy, hispid, villous, pappous†, pilous†, shaggy, shagged, fringed, befringed†, setous†, setose†, setaceous, like quills upon the fretful porcupine [Hamlet], rough as a nutmeg grater, rough as a bear
+  blunt, obtuse, dull, bluff, edentate, toothless, insulse†
+  rough, uneven, scabrous, scaly, knotted, rugged, rugose†, rugous†, knurly†, asperous†, salebrous†, gnarled, unpolished, unsmooth†, roughhewn†, craggy, cragged, crankling†, scraggy, prickly &c H0267, arborescent &c H0755 [Obs.], leafy, well-wooded, feathery, plumose, plumigerous†, laciniate†, laciniform†, laciniose†, pappose†, pileous†, pilose†, trichogenous†, trichoid [Med.], tufted, fimbriated, hairy, ciliated, filamentous, hirsute, crinose†, crinite†, bushy, hispid, villous, pappous†, pilous†, shaggy, shagged, fringed, befringed†, setous†, setose†, setaceous, like quills upon the fretful porcupine [Hamlet], rough as a nutmeg grater, rough as a bear, filamentiferous†, filaceous†, capilliform†, anguilliform†, flagelliform†, taeniate†, taeniform†, taenioid†, arboriform†, uncourtly†, unlicked†, unpolite†
   downy, velvety, flocculent, woolly, lanate†, lanated†, lanuginous†, lanuginose†, tomentose†, fluffy
   decorated, haired, curly, crispy, hilly, jagged
 

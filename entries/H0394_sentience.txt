@@ -12,14 +12,14 @@ N:
   pain, suffering, sufferance, suffrance†, bodily pain, physical pain, bodily suffering, physical suffering, body pain, mental suffering &c H0609, dolour, shooting, headache, stomach ache, heartburn, angina, cut, soreness, discomfort, malaise, cephalalgia [Med.], earache, gout, ischiagra†, lumbago, neuralgia, odontalgia†, otalgia†, podagra†, rheumatism, sciatica, toothache, tormina†, torticollis†
   spasm, cramp, nightmare, ephialtes†, crick, stitch, thrill, convulsion, throe, throb &c H0228, pang, colic, kink
   sharp pain, piercing pain, throbbing pain, shooting pain, sting, gnawing pain, burning pain, excruciating pain
-  anguish, agony, torment, torture, rack, cruciation†, crucifixion, martyrdom, toad under a harrow, vivisection
+  anguish, agony, torment, torture, rack, cruciation†, crucifixion, martyrdom, toad under a harrow, vivisection, ferity†, immanity†
   detriment, torturing
 
 V:
   feel, be sensitive to, be moved, be touched, be affected
   be sensible of, perceive
-  feel pain, experience pain, suffer pain, undergo pain, suffer, ache, smart, bleed, tingle, shoot, twinge, twitch, lancinate†, writhe, wince, make a wry face, sit on thorns, sit on pins and needles
-  give pain, inflict pain, lacerate, hurt, chafe, bite, gnaw, gripe, pinch, tweak, grate, gall, fret, prick, pierce, wring, convulse, agonize, crucify, cruciate†, excruciate†, break on the wheel, put to the rack, flog &c H0654, grate on the ear &c H0264
+  feel pain, experience pain, suffer pain, undergo pain, suffer, ache, smart, bleed, tingle, shoot, twinge, twitch, lancinate†, writhe, wince, make a wry face, sit on thorns, sit on pins and needles, cark†
+  give pain, inflict pain, lacerate, hurt, chafe, bite, gnaw, gripe, pinch, tweak, grate, gall, fret, prick, pierce, wring, convulse, agonize, crucify, cruciate†, excruciate†, break on the wheel, put to the rack, flog &c H0654, grate on the ear &c H0264, empale†
   sense, respond
 
 Adj:
@@ -38,7 +38,7 @@ Adv:
 
 F:
   Latin: angina pectoris
-  French: tic douloureux
+  French: tic douloureux, petites perceptions [minute perceptions] [Leibniz]
 
 Phr:
   the heart of sensibility

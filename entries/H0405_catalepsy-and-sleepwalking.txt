@@ -6,7 +6,7 @@ HGloss: The body made rigid or set walking while the waking self is absent: the 
 
 N:
   catalepsy and sleepwalking; catalepsy, catatonia, rigidity, trance, stupor, waxy flexibility; somnambulism, sleepwalking, noctambulism, night-walking; Lady Macbeth's sleepwalking
-  torpor, torpidity, lethargy, coma, suspended animation, stupefaction, paralysis
+  torpor, torpidity, lethargy, coma, suspended animation, stupefaction, paralysis, obstupefaction†
 
 V:
   sleepwalk, freeze, stiffen, go rigid

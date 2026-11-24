@@ -23,7 +23,7 @@ V:
 Adj:
   legal, juridical, formal, abstract, proprietary, rightful
   legitimate, justifiable, as it should be, as it ought to be, lawful &c H0705
-  allowable &c H0705, lawful, licit, legalized &c H0701
+  allowable &c H0705, lawful, licit, legalized &c H0701, unforbid†, unforbidden†
   square, unexceptionable, equitable, fit, fitting, correct, proper, meet, befitting, becoming, seemly, decorous, creditable, up to the mark, right as a trivet, just the thing, quite the thing
   having a right to, entitled to, claiming, deserving, meriting, worthy of
   personal
@@ -34,9 +34,9 @@ Adv:
   abstractly, formally, as a person
 
 F:
-  German: Naturrecht
+  German: Naturrecht, Anspruch
   Latin: ius strictum, persona, ius naturale, de jure, jure divino, Dei gratia
-  French: selon les r gles
+  French: selon les r gles, exigence, revendication
   Arabic: ḥaqq [right]
   Korean: chusangbeop [abstract right]
 
@@ -45,3 +45,10 @@ Phr:
   suum cuique [Lat.] [to each his own]
   within one's rights
   a person in law
+  Dieu et mon droit [Fr.]
+  in equal scale weighing delight and dole [Hamlet]
+  justitia cuum cuique distribuit [Lat.] [Cicero]
+  justitiae soror incorrupta fides [Lat.]
+  justitia virtutem regina [Lat.]
+  thrice is he armed that hath his quarrel just [Henry VI]
+  à chaque saint sa chandelle [Fr.]

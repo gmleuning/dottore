@@ -7,11 +7,11 @@ HGloss: A line of gradual quantitative alteration interrupted by qualitative lea
 N:
   nodal line of measure relations; node, nodal point, tipping point, threshold, critical point, turning point, watershed, Rubicon, point of no return, breaking point, flashpoint, inflection point, bifurcation point, singularity, phase transition, state change, freezing, boiling, condensation; leap, qualitative leap, quantum leap, saltation, jump, discontinuity, catastrophe; transformation of quantity into quality; gradualness interrupted, sudden change, crisis, revolution, upheaval, emergence; the last straw, the straw that broke the camel's back, the drop that makes the cup overflow; sorites
   bouleversement, subversion, break up, destruction &c H0114, radical change, sweeping organic change, change of state, phase change, quantum jump, clean sweep, counter revolution
-  plunge, jerk, start, transilience†, explosion, spasm, convulsion, throe, revulsion, storm, earthquake, cataclysm
-  hop, bound, vault
+  plunge, jerk, start, transilience†, explosion, spasm, convulsion, throe, revulsion, storm, earthquake, cataclysm, catadupe†
+  hop, bound, vault, rigadoon†, saraband†
   emergency, pinch
   gap &c H0218, solution of continuity, caesura
-  boundary line, landmark, line of demarcation
+  boundary line, landmark, line of demarcation, line of circumvallation†
   the nodal line, nodes, qualitative jump
   dancing, leaping
 
@@ -24,8 +24,8 @@ Adj:
   instantaneous, precipitous
 
 Adv:
-  suddenly, abruptly, all at once, at a stroke, by a leap, in a flash, in one fell swoop
-  instantaneously, in the twinkling of an eye
+  suddenly, abruptly, all at once, at a stroke, by a leap, in a flash, in one fell swoop, subito†
+  instantaneously, in the twinkling of an eye, tantivy†
   at a node
 
 F:

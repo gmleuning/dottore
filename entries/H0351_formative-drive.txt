@@ -6,7 +6,7 @@ HGloss: The animal's instinctive art, its drive to give an outward form to what 
 
 N:
   formative drive; instinct, building instinct, nest-building, web-spinning, hive-building, burrowing, dam-building, artifice; bower, nest, web, hive, comb, burrow, lodge, dam, mound; extended phenotype
-  nidus, lair, den, aerie, eyrie, rookery
+  nidus, lair, den, aerie, eyrie, rookery, snuggery†, eyry†, kala jagah†, Augean stable†
   constructive instinct, the artistic drive
   nidification
 

@@ -6,7 +6,7 @@ HGloss: The upbringing of children and the natural and ethical dissolution of th
 
 N:
   upbringing of children and dissolution of the family; upbringing, rearing, education, child-raising; dissolution, break-up, coming of age, divorce, death, inheritance
-  teaching, instruction, edification, tuition, tutorage, tutelage, direction, guidance, opsimathy†
+  teaching, instruction, edification, tuition, tutorage, tutelage, direction, guidance, opsimathy†, obtestation†
   child-rearing, the dissolution of the family, the ethical dissolution, the founding of new families
 
 V:

@@ -24,10 +24,13 @@ Adv:
   imperturbably, impassively, resignedly, dispassionately, unmovedly, with equanimity, according to nature, philosophically
 
 F:
-  Latin: sustine et abstine, secundum naturam vivere, amor fati
+  Latin: sustine et abstine, secundum naturam vivere, amor fati, conciliatio, commendatio
   Greek: apatheia, ataraxia, pronoia, logos spermatikos, hēgemonikon, katalēpsis, synkatathesis, oikeiōsis, ekpyrōsis, adiaphora, prohairesis, heimarmenē, stoa poikilē
   Arabic: al-riwāqiyyūn [the Stoics]
   Korean: budongsim [imperturbability]
+  French: appropriation
+  German: Zueignung
+  Italian: attrazione
 
 Phr:
   live according to nature [Zeno]

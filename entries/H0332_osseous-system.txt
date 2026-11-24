@@ -8,13 +8,13 @@ N:
   osseous system; skeleton, bones, frame, framework, bony framework, carcass, ossature, osteology, spine, backbone, vertebrae, skull, cranium, ribs, pelvis, limbs
   anatomy
   the bony frame, ossification
-  braincase, calvaria, crown, occiput, temple, jawbone, maxilla, cheekbone, zygoma, eye socket, orbit, hyoid bone, ossicles, hammer, anvil, stirrup, malleus, incus, stapes, fontanelle, suture
-  spinal column, vertebral column, vertebra, atlas, axis, cervical vertebrae, thoracic vertebrae, lumbar vertebrae, sacrum, coccyx, tailbone, rib, rib cage, floating ribs, breastbone, clavicle, scapula, pelvic girdle, hip bone, innominate bone, ilium, ischium, pubis, wishbone, furcula, keel
+  braincase, calvaria, crown, occiput, temple, jawbone, maxilla, cheekbone, zygoma, eye socket, orbit, hyoid bone, ossicles, hammer, anvil, stirrup, malleus, incus, stapes, fontanelle, suture, fulciment†, ratlings†
+  spinal column, vertebral column, vertebra, atlas, axis, cervical vertebrae, thoracic vertebrae, lumbar vertebrae, sacrum, coccyx, tailbone, rib, rib cage, floating ribs, breastbone, clavicle, scapula, pelvic girdle, hip bone, innominate bone, ilium, ischium, pubis, wishbone, furcula, keel, Antaeus†, Atlantes†, ichnography†, scotograph†, sciagraph†, heliogram†, madstone†, mascotte†, merrythought†, Aum†, sudarium†, fylfot†, gammadion†
   humerus, funny bone, radius, ulna, carpus, carpals, wrist bones, metacarpals, knucklebones, phalanges, thighbone, patella, kneecap, shinbone, fibula, calf bone, tarsus, tarsals, talus, astragalus, anklebone, calcaneus, heel bone, metatarsals, hock, fetlock, pastern
-  joint, articulation, knuckle, ball-and-socket joint, hinge joint, socket, hip joint, knee joint, cartilage, gristle, meniscus, intervertebral disc, ligament, synovia, synovial fluid, marrow, bone marrow, periosteum, osteoblast, osteocyte, compact bone, spongy bone, bone meal
-  tooth, teeth, dentition, incisor, eyetooth, molar, premolar, bicuspid, wisdom tooth, milk tooth, baby tooth, fang, tusk, enamel, dentine, gnashers [Brit. Slang], choppers [Slang], chompers [U.S. Slang], pearly whites [Coll.], ivories [Slang], grinders, snags†
+  joint, articulation, knuckle, ball-and-socket joint, hinge joint, socket, hip joint, knee joint, cartilage, gristle, meniscus, intervertebral disc, ligament, synovia, synovial fluid, marrow, bone marrow, periosteum, osteoblast, osteocyte, compact bone, spongy bone, bone meal, crassamentum†, legumin†, whitleather†
+  tooth, teeth, dentition, incisor, eyetooth, molar, premolar, bicuspid, wisdom tooth, milk tooth, baby tooth, fang, tusk, enamel, dentine, gnashers [Brit. Slang], choppers [Slang], chompers [U.S. Slang], pearly whites [Coll.], ivories [Slang], grinders, snags†, arrastra†
   horn, antler, hoof, claw, talon, nail, fingernail, toenail, beak, bill, carapace, shell, exoskeleton, endoskeleton, scale, chitin, whalebone, baleen
-  bag of bones, skin and bone, rattlebones, bonce [Brit. Slang], dome [Slang], nut [Slang], napper [Slang], pate, poll†, sconce†, costard†, death's-head, memento mori
+  bag of bones, skin and bone, rattlebones, bonce [Brit. Slang], dome [Slang], nut [Slang], napper [Slang], pate, poll†, sconce†, costard†, death's-head, memento mori, gaselier†, electrolier†, girandole†
   fracture, compound fracture, greenstick fracture, hairline fracture, dislocation, slipped disc, osteoporosis, brittle bones, rickets, arthritis, scoliosis, curvature of the spine, hunchback
   bone, jaw
   canine, femur, tibia, pearly, collarbone, sternum, mandible, carpal
@@ -27,8 +27,8 @@ V:
 
 Adj:
   osseous, bony, skeletal, ossified, vertebrate, cranial, spinal
-  ossific†, cartilaginous
-  boney, rawboned, big-boned, small-boned, skinny, scrawny, gaunt, angular, osteal, ossicular, vertebral, costal, sternal, clavicular, pelvic, femoral, tibial, dental, toothy, toothless, horny, clawed, hoofed, ungulate, articular, gristly, invertebrate, spineless
+  ossific†, cartilaginous, adamantean†, corneous†
+  boney, rawboned, big-boned, small-boned, skinny, scrawny, gaunt, angular, osteal, ossicular, vertebral, costal, sternal, clavicular, pelvic, femoral, tibial, dental, toothy, toothless, horny, clawed, hoofed, ungulate, articular, gristly, invertebrate, spineless, macilent†
 
 Adv:
   to the bone

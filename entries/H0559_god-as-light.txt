@@ -26,6 +26,8 @@ Adv:
 F:
   Latin: ex oriente lux
   Arabic: al-Nūr [the Light, a divine name]
+  Russian: svet [light and world]
+  French: lumière, monde
 
 Phr:
   ex oriente lux [Lat.]

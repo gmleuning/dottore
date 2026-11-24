@@ -33,6 +33,7 @@ F:
   Chinese: fanxing [introspection]
   Japanese: hansei [self-reflection]
   Korean: banseong [reflection]
+  French: mise en abyme [the image within the image]
 
 Phr:
   the unexamined life is not worth living [Socrates]

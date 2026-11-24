@@ -21,6 +21,12 @@ Adv:
   comparatively, by comparison
   consciously, knowingly, deliberately
 
+F:
+  French: comparaison
+  Greek: synkrisis, antithesis, parathesis
+  Italian: paragone
+  Latin: comparatio, contrapositum, adpositum
+
 Phr:
   as it were
   compare and contrast

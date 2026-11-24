@@ -11,17 +11,18 @@ N:
   tenacity, toughness, strength, grip, grasp, sequacity†, stubbornness, glutinousness†, sequaciousness†
   semiliquidity, viscidity, gummosity†, glutinosity†, mucosity†, spissitude†, crassitude†, lentor†, adhesiveness &c H0258
   jelly, gelatin, gluten, carlock†, fish glue, ichthyocol†, ichthycolla†, isinglass, mucus, phlegm, goo, pituite†, lava, glair†, starch, albumen, milk, cream, protein†, treacle, glue &c H0260, wax, beeswax
-  junction, joining, joinder [Law], union connection, conjunction, conjugation, annexion†, annexation, annexment†, astriction†, compagination†, vincture†, ligation, alligation†, accouplement†, infibulation†, inosculation†, symphysis [Anat.], anastomosis, confluence, communication, concatenation, meeting, reunion, assemblage &c H0036
-  nonadhesion†, immiscibility, incoherence, looseness, laxity, relaxation, loosening, freedom, disjunction &c H0293, rope of sand
+  junction, joining, joinder [Law], union connection, conjunction, conjugation, annexion†, annexation, annexment†, astriction†, compagination†, vincture†, ligation, alligation†, accouplement†, infibulation†, inosculation†, symphysis [Anat.], anastomosis, confluence, communication, concatenation, meeting, reunion, assemblage &c H0036, intertexture†, corrivation†
+  nonadhesion†, immiscibility, incoherence, looseness, laxity, relaxation, loosening, freedom, disjunction &c H0293, rope of sand, irreligion†, indevotion†
   clamp, fluttering
+  inspissation†, incrassation†
 
 V:
   adhere, stick, cling, cleave, attach, bond, glue, gum, paste, cement, agglutinate
   conglutinate†, lute, weld, cake, consolidate &c H0257, agglomerate
   cohere, hold, take hold of, hold fast, close with, clasp, hug, grow together, hang together, twine round
-  fix, affix, saddle on, fasten, bind, secure, clinch, twist, make fast, tie, pinion, string, strap, sew, lace, tat, stitch, tack, knit, button, buckle, hitch, lash, truss, bandage, braid, splice, swathe, gird, tether, moor, picket, harness, chain, fetter &c H0649, lock, latch, belay, brace, hook, grapple, leash, couple, accouple†, link, yoke, bracket, marry &c H0677, bridge over, span
-  make loose, loosen, slacken, relax, unglue &c H0258, detach &c H0293
-  tighten
+  fix, affix, saddle on, fasten, bind, secure, clinch, twist, make fast, tie, pinion, string, strap, sew, lace, tat, stitch, tack, knit, button, buckle, hitch, lash, truss, bandage, braid, splice, swathe, gird, tether, moor, picket, harness, chain, fetter &c H0649, lock, latch, belay, brace, hook, grapple, leash, couple, accouple†, link, yoke, bracket, marry &c H0677, bridge over, span, conduplicate†, inweave†, inosculate†, forelay†, inerclude†
+  make loose, loosen, slacken, relax, unglue &c H0258, detach &c H0293, misbecome†
+  tighten, enchase†, intwine†
 
 Adj:
   adhesive, adherent, sticky, tacky, gluey, gummy, viscous, viscid, clinging, tenacious
@@ -41,3 +42,4 @@ Phr:
   to cleave unto [Bible]
   to stick like glue
   to cling to
+  tria juncta in uno [Lat.]

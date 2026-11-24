@@ -12,9 +12,9 @@ N:
   amity, friendliness, brotherhood, fraternity, sodality, confraternity, harmony &c H0487, peace &c H0720
   honor, luster &c H0241, illustriousness
   account, regard, respect, reputableness†, respectability &c H0667, good name, good report, fair name
-  friend, friend of one's bosom, alter ego, best friend, bosom friend, soulmate, fast friend, persona grata
+  friend, friend of one's bosom, alter ego, best friend, bosom friend, soulmate, fast friend, persona grata, Arcades ambo†
   acquaintance, neighbor, next-door neighbor, casual acquaintance, nodding acquaintance, wellwisher
-  favorer, fautor†, patron, Mecaenas, tutelary saint, good genius, advocate, partisan, sympathizer, ally, friend in needcomrade, mate, companion, familiar, confrere, comrade, camarade†, confidante, intimate, old crony, crony, chum, pal, buddy, bosom buddy, playfellow, playmate, childhood friend, bedfellow, bedmate, chamber fellow
+  favorer, fautor†, patron, Mecaenas, tutelary saint, good genius, advocate, partisan, sympathizer, ally, friend in needcomrade, mate, companion, familiar, confrere, comrade, camarade†, confidante, intimate, old crony, crony, chum, pal, buddy, bosom buddy, playfellow, playmate, childhood friend, bedfellow, bedmate, chamber fellow, propugn†
   associate, colleague, compeer
   schoolmate, schoolfellow†, classfellow†, classman†, classmate, roommate, fellow-man, stable companion
   best man, maid of honor, matron of honor
@@ -24,12 +24,14 @@ N:
   host, Amphitryon†, Boniface, guest, visitor, protégé
   excellences, merits
   sidekick
+  champain†, point champain†
 
 V:
   love, befriend, dare, honour, glorify
   be friendly, be friends, be acquainted with, know, have the ear of, keep company with, hold communication with, have dealings with, sympathize with, have a leaning to, bear good will &c H0664, make much of, befriend &c H0706, introduce to
   give honor to, do honor to, pay honor to, render honor to, accredit, pay regard to, dignify, sing praises to &c H0487, exalt, aggrandize, elevate
   excel
+  dispeople†, unpeople†
 
 Adj:
   virtuous, loving, friendly, valiant, honourable, famous, glorious, renowned
@@ -40,20 +42,60 @@ Adj:
   amicable, amical†, well-affected, unhostile†, neighborly, brotherly, fraternal, harmonious, hearty, cordial, warm- hearted
   excellent, worthy
   noted, struck, matured
+  unmourned†, unendeared†
 
 Adv:
   virtuously, valiantly, honourably
   worthily
 
 F:
-  Latin: virtutes, amor, amicitia, fortitudo, honor, gloria, aura popularis, nobilitate, amicus, usque ad aras, fidus Achates, Nisus and Euryalus, par nobile fratrum, virtus
-  Greek: aretai, erōs, philia, andreia, timē, kleos, aretē
-  French: succes d'estime
+  Latin: virtutes, amor, amicitia, fortitudo, honor, gloria, aura popularis, nobilitate, amicus, usque ad aras, fidus Achates, Nisus and Euryalus, par nobile fratrum, virtus, diligere, caritas
+  Greek: aretai, erōs, philia, andreia, timē, kleos, aretē, eran, agapan, philein, agapē
+  French: succes d'estime, aimer, amour, amitié
   Arabic: muruwwa [manly virtue]
   Chinese: de [virtue], ren [humaneness], yi [righteousness]
+  Spanish: hombría [manliness], amar, amistad
+  Catalan: amistança
+  German: lieben, mögen, Minne
+  Hebrew: ahavah
+  Italian: amare, voler bene a, piacere a
 
 Phr:
   greater love hath no man than this [Bible]
   kleos aphthiton [Gr.] [imperishable fame] [Homer]
   love and honour
   a friend in need
+  one's name being in every mouth, one's name living for ever
+  sic itur ad astra [Lat.], fama volat [Lat.], aut Caesar aut nullus [Lat.]
+  not to know him argues oneself unknown
+  none but himself could be his parallel, palmam qui meruit ferat [Lat.] [Nelson's motto]
+  above all Greek above all Roman fame [Pope]
+  cineri gloria sera est [Lat.] [Martial]
+  great is the glory for the strife is hard [Wordsworth]
+  honor virtutis praemium [Lat.] [Cicero]
+  immensum gloria calcar habet [Ovid]
+  the glory dies not and the grief is past [Brydges]
+  vivit post funera virtus [Lat.]
+  O tempora!
+  amicitia semper prodest [Lat.] [Seneca]
+  a mystic bond of brotherhood makes all men one [Carlyle]
+  friendship is love without either flowers or veil [Hare]
+  trulgus amicitias utilitate probat [Lat.] [Ovid]
+  amici probantur rebus adversis [Lat.]
+  ohne bruder kann man leben nicht ohne Freund [Ger.]
+  best friend, my well-spring in the wilderness [G. Eliot]
+  conocidos muchos amigos pocos [Sp.]
+  friend more divine than all divinities [G. Eliot]
+  vida sin amigo muerte sin testigo [Sp.]
+  amantes amentes [Lat.] [Terence]
+  credula res amor est [Lat.] [Ovid]
+  militat omnis amasius [Lat.] [Ovid]
+  si vis amari ama [Seneca]
+  the sweetest joy, the wildest woe [Bailey]
+  no love lost between
+  act a charity sometimes [Lamb]
+  a tender heart, a will inflexible [Longfellow]
+  de mortuis nil nisi bonum [Lat.], say only good things about the dead, don't speak ill of the dead
+  kind words are more than coronets [Tennyson]
+  quando amigo pide no hay manana [Lat.]
+  the social smile, the sympathetic tear [Gray]

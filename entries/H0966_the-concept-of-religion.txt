@@ -27,6 +27,7 @@ F:
   German: Religionsphilosophie, das religiöse Verhältnis, das religiöse Bewußtsein, Wesen der Religion
   Latin: religio, religare, relegere, vera religio
   Greek: thrēskeia, eusebeia
+  French: culte, crainte
 
 Phr:
   the philosophy of religion

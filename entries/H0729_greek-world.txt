@@ -23,8 +23,9 @@ Adv:
 
 F:
   German: schöne Sittlichkeit
-  Greek: Hellas, Hellēnes
+  Greek: Hellas, Hellēnes, eleutheria [the freedom of the free man, opposed to the slave]
   Sanskrit: Yavana [Greeks]
+  French: cité, État, société, nation
 
 Phr:
   the Greeks knew that some are free [Hegel]

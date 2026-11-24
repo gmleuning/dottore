@@ -6,7 +6,7 @@ HGloss: The drive to sublate the object, and the activity that satisfies it.
 
 N:
   drive and activity; drive, urge, impulse, instinct, motivation, need, appetite; activity, action, deed, doing, agency
-  performance, exercise, operation, praxis, execution
+  performance, exercise, operation, praxis, execution, interworking†
   proceeding, step, move
   impetus, conation, striving, satisfaction
   conatus

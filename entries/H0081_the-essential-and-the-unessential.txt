@@ -7,9 +7,10 @@ HGloss: Essence and the unessential, a first distinction of what is important fr
 N:
   the essential and the unessential; the essential, essentials, the main thing, the heart of the matter, the crux, the gist, the point, the nub, the core, the bottom line, the be-all and end-all, the long and short of it, the fundamentals, basics, brass tacks, nuts and bolts; the unessential, inessentials, nonessentials, accidents, accidentals, incidentals, trimmings, frills, extras, side issues, sideshows, peripherals, minutiae, trivia, trifles, details; priority, ranking, hierarchy of importance
   minor details, small fry, dust in the balance, feather in the scale, drop in the ocean, flea-bite, molehill
-  great thing, great point, main chance, the be all and the end all [Macbeth], cardinal point, substance, gist, sum and substance, gravamen, head and front, important part, principal part, prominent part, essential part, half the battle, sine qua non, breath of one's nostrils &c H0294, cream, salt, core, kernel, heart, nucleus, keynote, keystone, corner stone, trump card &c H0195, salient points
+  great thing, great point, main chance, the be all and the end all [Macbeth], cardinal point, substance, gist, sum and substance, gravamen, head and front, important part, principal part, prominent part, essential part, half the battle, sine qua non, breath of one's nostrils &c H0294, cream, salt, core, kernel, heart, nucleus, keynote, keystone, corner stone, trump card &c H0195, salient points, compages†
   the important
   fundamentals, precedence
+  notabilia†
 
 V:
   distinguish, discriminate, sift, separate the wheat from the chaff, sort out, prioritize, rank, foreground, background; get down to essentials, cut to the chase, get to the point, boil down, strip away
@@ -42,3 +43,17 @@ Phr:
   the devil is in the details
   in necessariis unitas, in dubiis libertas, in omnibus caritas [Lat.]
   neither here nor there
+  character is higher than intellect [Emerson]
+  come give us a taste of your quality [Hamlet]
+  magnos homines virtute metimur non fortuna [Lat.] [Nepos]
+  non numero haec judicantur sed pondere [Lat.] [Cicero]
+  vital spark of heavenly flame [Pope]
+  expende Hannibalem! [Lat.] [Juvenal]
+  pshaw!
+  fiddlestick end!
+  magno conatu magnas nugas [Lat.]
+  le jeu ne vaut pas la chandelle [Fr.]
+  it matters not, it does not signify
+  it is of no consequence, it is of no importance
+  elephantus non capit murem [Lat.]
+  tempete dans un verre d'eau [Fr.]

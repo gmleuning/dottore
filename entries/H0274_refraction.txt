@@ -5,18 +5,18 @@ Gloss: The bending of light as it passes from one transparent medium into anothe
 HGloss: Light passing between two media of different density, whose relation is seen in the displacement of the image.
 
 N:
-  refraction; bending of light, deflection, diffraction, dispersion, double refraction, birefringence, refractive index, lens, prism, spectacles, magnifying glass, distortion, apparent bending
+  refraction; bending of light, deflection, diffraction, dispersion, double refraction, birefringence, refractive index, lens, prism, spectacles, magnifying glass, distortion, apparent bending, deflexion†, deflexure†, megascope†, tienoscope†
   deviation
   reflection, refractivity
   diffraction grating, beam splitter, half-wave plate, quarter-wave plate
   meniscus
-  flexure, flexion, bending, inflection
-  dioptrics
+  flexure, flexion, bending, inflection, curvity†, curvation†, incurvature†, incurvity†, incurvation†, flection†, conflexure†, concameration†, recurvity†, recurvation†
+  dioptrics, catoptrics†
   glasses, specs
   refrangibility
 
 V:
-  refract, bend, deflect, diffract, disperse, distort, angle
+  refract, bend, deflect, diffract, disperse, distort, angle, incurvate†, concamerate†, intervert†
   inflect
 
 Adj:

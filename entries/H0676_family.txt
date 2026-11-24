@@ -6,17 +6,17 @@ HGloss: Ethical spirit in its immediacy, the substantiality whose determination 
 
 N:
   family; household, kin, kindred, kinsfolk, relatives, domestic circle, hearth, home, family unit, nuclear family, extended family
-  fatherland, country, homestead, homestall†, fireside, hearth stone, chimney corner, inglenook, ingle side, harem, seraglio, zenana†, household gods, roof, housing, paternal domicile, native soil, native land
-  consanguinity, relationship, blood, parentage, filiation†, affiliation, lineage, agnation†, connection, alliance, family connection, family tie, ties of blood, nepotism
+  fatherland, country, homestead, homestall†, fireside, hearth stone, chimney corner, inglenook, ingle side, harem, seraglio, zenana†, household gods, roof, housing, paternal domicile, native soil, native land, bagnio†, bawdyhouse†, lupanar†, bordel†
+  consanguinity, relationship, blood, parentage, filiation†, affiliation, lineage, agnation†, connection, alliance, family connection, family tie, ties of blood, nepotism, sonship†
   posterity, progeny, breed, issue, offspring, brood, litter, seed, farrow, spawn, spat, grandchildren, heirs, great-grandchild
   house, stem, trunk, tree, stock, stirps, pedigree, line, tribe, sept, race, clan, genealogy, descent, extraction, birth, ancestry, forefathers, forbears, patriarchs
   fraternity, brotherhood, sisterhood, cousinhood†
   the immediate ethical substance, the natural ethical spirit, piety
-  folks [Coll.], the fam [Slang], kinfolk, nearest and dearest, flesh and blood, mum, mam, ma, mama, mommy, pa, pop, pops, papa, old man [Slang], old lady [Slang], the olds [Slang], sis, bro, sib, sibling, granny, nan, gramps, the in-laws, the outlaws [Coll.], stepfamily, blended family, single parent
-  mother, wife, mom, daughter, husband, dad, partner, parent, relative, uncle, cousin, daddy, grandfather, aunt, grandmother, grandma, babe, nephew, infant, spouse, grandson, niece, grandpa, quad, eldest, granddaughter
+  folks [Coll.], the fam [Slang], kinfolk, nearest and dearest, flesh and blood, mum, mam, ma, mama, mommy, pa, pop, pops, papa, old man [Slang], old lady [Slang], the olds [Slang], sis, bro, sib, sibling, granny, nan, gramps, the in-laws, the outlaws [Coll.], stepfamily, blended family, single parent, spahee†, spahi†
+  mother, wife, mom, daughter, husband, dad, partner, parent, relative, uncle, cousin, daddy, grandfather, aunt, grandmother, grandma, babe, nephew, infant, spouse, grandson, niece, grandpa, quad, eldest, granddaughter, cousin- german†, fathership†, mabap†, settlement heeltap†, drossiness†
   mummy, ancestor, mater, gran, momma, hubby, housewife, mamma, auntie, stepfather, consort, ux., stepmother, aunty, grandchild, dada, scion, grandad, firstborn, stepson, cuckold, progenitor, grandparent, homemaker, stepdaughter, missus, bridegroom, quin, kinsman, granddad, antecedent
   better half, married person, blood relative, second cousin, full cousin, first cousin, cousin-german, blood relation, kissing cousin, kissing kin, love child, half blood, married woman, married man, male sibling, female sibling, illegitimate child, family man, man-child, blood brother, house husband, first lady, honest woman, honest man, crown princess, great-uncle, identical twin, trophy wife, trophy husband, great-aunt, first gentleman, golf widow, great-nephew, maiden aunt, great-niece, battle-axe, male offspring, female offspring, army brat, battle-ax, prince consort, great grandchild, fraternal twin, golf widower, great grandparent, war baby, blue baby, little brother, half-brother, half brother, big brother, little sister, half-sister, half sister, big sister, test-tube baby, great grandfather, great grandmother, war bride
-  bride, popping, groom, parenthood, pascal, descendant, bloodline
+  bride, popping, groom, parenthood, pascal, descendant, bloodline, butcha†
 
 V:
   raise, nurture, kin, marry, rear
@@ -24,7 +24,7 @@ V:
   belong, love, share
 
 Adj:
-  familial, domestic, household, kindred, filial, parental, conjugal
+  familial, domestic, household, kindred, filial, parental, conjugal, diphyletic†
   paternal, maternal, ancestral, linear, patriarchal
   related, akin, consanguineous, of the blood, allied, collateral, cognate, agnate, connate, affiliated, fraternal
 
@@ -37,9 +37,15 @@ F:
   Greek: oikos
   French: en famille
   Korean: hyo [filial piety]
+  Chinese: xiaoshun [filial obedience]
 
 Phr:
   home is where the heart is
   die Familie hat als die unmittelbare Substantialität des Geistes seine sich empfindende Einheit, die Liebe, zu ihrer Bestimmung [Ger.] [Hegel, Philosophy of Right §158]
   blood is thicker than water
   one big happy family
+  avi numerantur avorum [Lat.]
+  happy he with such a mother [Tennyson]
+  hombre bueno no le busquen abolengo [Sp.]
+  philosophia stemma non inspicit [Lat.] [Seneca]
+  the fruit doesn't fall far from the tree, like father, like son

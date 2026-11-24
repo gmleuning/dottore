@@ -33,6 +33,7 @@ F:
   Latin: satura
   Arabic: hijāʾ [satirical verse]
   Korean: pungja [satire]
+  Spanish: esperpento [grotesque deformation] [Valle-Inclán]
 
 Phr:
   difficile est saturam non scribere [Lat.] [it is hard not to write satire] [Juvenal]

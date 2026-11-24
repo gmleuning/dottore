@@ -5,32 +5,32 @@ Gloss: The power that carries out the laws and decisions of the state; governmen
 HGloss: The executive, which subsumes the particular under the universal.
 
 N:
-  executive power; the executive, government, administration, ministry, cabinet, civil service, officialdom, magistracy, bureaucracy
-  ministration, stewardship, proctorship†, agency
+  executive power; the executive, government, administration, ministry, cabinet, civil service, officialdom, magistracy, bureaucracy, pashalic†, magistrature†
+  ministration, stewardship, proctorship†, agency, subministration†
   magistracy &c H0710
   direction, management, managery†, gubernation†, legislation, regulation, guidance, bossism [U.S.], legislature, steerage, pilotage, reins, reins of government, helm, rudder, needle, compass, guiding star, load star, lode star, pole star, cynosure
   regime, directorship
   director, manager, governor, rector, comptroller
-  superintendent, supervisor, straw boss, intendant, overseer, overlooker†, supercargo†, husband, inspector, visitor, ranger, surveyor, aedile†, moderator, monitor, taskmaster, master &c H0710, leader, ringleader, demagogue, corypheus, conductor, fugleman†, precentor†, bellwether, agitator, caporal†, choregus†, collector, file leader, flugelman†, linkboy†
+  superintendent, supervisor, straw boss, intendant, overseer, overlooker†, supercargo†, husband, inspector, visitor, ranger, surveyor, aedile†, moderator, monitor, taskmaster, master &c H0710, leader, ringleader, demagogue, corypheus, conductor, fugleman†, precentor†, bellwether, agitator, caporal†, choregus†, collector, file leader, flugelman†, linkboy†, lanthorn†, Argand†, querist†
   adviser &c H0710, guide &c H0599, helmsman, steersman, steermate†, wire-puller
   driver, whip, Jehu, charioteer, coachman, carman, cabman, postilion, vetturino†, muleteer, arriero†, teamster, whipper in
   head, head man, head center, principal, president, speaker, chair, chairman, chairwoman, chairperson, captain &c H0710, superior, mayor &c H0710, vice president, prime minister, grand vizier, eparch†
-  officer, minister, red-tapist†, bureaucrat, man in office, Jack in office, office bearer, person in authority, statesman, strategist, legislator, lawgiver, politician, statist†, statemonger†, Minos, Draco, arbiter &c H0703, political dictator
+  officer, minister, red-tapist†, bureaucrat, man in office, Jack in office, office bearer, person in authority, statesman, strategist, legislator, lawgiver, politician, statist†, statemonger†, Minos, Draco, arbiter &c H0703, political dictator, schemist†, schematist†, aga†, sircar†, sirkar†
   board &c H0715
-  secretary, secretary of state, Reis Effendi, vicar, steward, foreman, clerk of works, landreeve†, factotum, major-domo†, seneschal, housekeeper, shepherd, croupier, procurator
+  secretary, secretary of state, Reis Effendi, vicar, steward, foreman, clerk of works, landreeve†, factotum, major-domo†, seneschal, housekeeper, shepherd, croupier, procurator, neatherd†
   consignee, trustee, nominee, committee
-  agent, delegate, commissary, commissioner, emissary, envoy, messenger &c H0599
+  agent, delegate, commissary, commissioner, emissary, envoy, messenger &c H0599, woon†
   diplomatist, diplomat, diplomate, embassy, ambassador, embassador†, representative, resident, consul, legate, nuncio, internuncio†, attache
   vicegerent, plenipotentiary
   functionary, placeman†, curator, treasurer, factor, bailiff, clerk, attorney, advocate, solicitor, proctor, broker, underwriter, commission agent, auctioneer, one's man of business, caretaker, dalal†, dubash†, garnishee, gomashta†
-  negotiator, go-between, middleman, under agent, employe, servant &c H0480, referee, arbitrator &c H0703
+  negotiator, go-between, middleman, under agent, employe, servant &c H0480, referee, arbitrator &c H0703, makepeace†, liegeman†
   traveler, bagman, touter†, commercial traveler, drummer [U.S.], traveling man
   newspaper correspondent, own correspondent, special correspondent
   deputy, substitute, proxy, locum tenens, badli†, next friend, surrogate, secondary
-  regent, viceregent†, vizier, premier, chancellor, prefect, provost, warden, lieutenant, archon, proconsul, viceroy &c H0710, Tsung-li Yamen, Wai Wu Pu, alter ego
+  regent, viceregent†, vizier, premier, chancellor, prefect, provost, warden, lieutenant, archon, proconsul, viceroy &c H0710, Tsung-li Yamen, Wai Wu Pu, alter ego, exarch†, hospodar†, beglerbeg†, three-tailed bashaw†, bashaw†, dey†, scherif†, subahdar†, burgrave†, alcalde†, alcaid†, corregidor†, dewan†
   team, eight, eleven, champion
   the governmental power
-  super, presidency, navigation, pol, mediator, politico, lawmaker, piloting
+  super, presidency, navigation, pol, mediator, politico, lawmaker, piloting, presidentship†
 
 V:
   execute, administer, implement, carry out, govern
@@ -43,8 +43,9 @@ V:
 
 Adj:
   executive, administrative, ministerial, governmental, bureaucratic
-  gubernatorial, official, departmental, ex officio
+  gubernatorial, official, departmental, ex officio, hegemonical†
   acting, vice, vice regal, accredited to
+  abdicant†
 
 Adv:
   executively, administratively

@@ -11,7 +11,7 @@ N:
   claque
 
 V:
-  watch, applaud, hiss, attend
+  watch, applaud, hiss, attend, acclamate†
   look on
   observe &c H0586, watch &c H0586
   spectate, behold, witness, clap, cheer, boo, receive
@@ -26,6 +26,7 @@ Adv:
 
 F:
   Sanskrit: sahṛdaya [the sensitive spectator]
+  French: succès d'estime, succès de scandale
 
 Phr:
   plaudite [Lat.] [applaud!]

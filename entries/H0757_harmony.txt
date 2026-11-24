@@ -9,10 +9,10 @@ N:
   emmeleia†, unison, unisonance†, homophony, euphonism†, tonality, consent, part
   concord &c H0487, concert, understanding, mutual understanding
   symphony, unity
-  consistency, accordance, conformity &c H0063
+  consistency, accordance, conformity &c H0063, connaturality†, connaturalness†
   harmony &c H0487, accord &c H0720
   concordance, agreement &c H0087
-  congruity, concinnity
+  congruity, concinnity, consentaneousness†
 
 V:
   harmonize, attune, accord, blend, reconcile, chime
@@ -24,7 +24,7 @@ V:
 Adj:
   harmonious, concordant, consonant, euphonious, balanced, attuned
   harmonical†, in concord, unisonant†, concentual†, symphonizing†, isotonic, homophonous†, assonant, ariose†
-  agreeing, accordant, congruous, correspondent, coherent
+  agreeing, accordant, congruous, correspondent, coherent, consentaneous†
   in accord, united
   proportionate
 
@@ -36,9 +36,15 @@ F:
   Latin: concordia discors [discordant concord]
   Greek: harmonia
   Japanese: wa [harmony]
+  Chinese: he er bu tong [harmony without uniformity] [Analects]
 
 Phr:
   the hidden harmony is better than the obvious [Heraclitus]
   concordia discors [Lat.] [Horace]
   in harmony with
   all of a piece
+  rem acu tetigisti [Lat.]
+  if the shoe fits, wear it
+  the cap fits
+  auxilia humilia firma consensus facit [Lat.] [Syrus]
+  discers concordia [Lat.] [Ovid]

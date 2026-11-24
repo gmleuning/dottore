@@ -13,7 +13,7 @@ N:
 V:
   invert, reverse, turn upside down, turn inside out, flip, overturn, stand on its head
   turn the tables, turn topsy-turvy
-  subvert, turn topsy turvy, transpose, put the cart before the horse
+  subvert, turn topsy turvy, transpose, put the cart before the horse, retrovert†, culbuter†
 
 Adj:
   inverted, reversed, upside-down, topsy-turvy, inside-out, back-to-front, contrary, mirror-image, antipodal
@@ -28,7 +28,7 @@ Adv:
 
 F:
   Latin: mundus inversus, vice versa
-  French: sens dessus dessous
+  French: sens dessus dessous, à rebours [against the grain]
 
 Phr:
   the world turned upside down

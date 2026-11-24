@@ -19,9 +19,9 @@ V:
   go on, increase without end
 
 Adj:
-  endless, unending, interminable, ceaseless, infinite, iterative, recursive, regressive, asymptotic, Sisyphean
+  endless, unending, interminable, ceaseless, infinite, iterative, recursive, regressive, asymptotic, Sisyphean, retrorse†
   immense, numberless, countless, sumless†, measureless, innumerable, immeasurable, incalculable, illimitable, inexhaustible, unfathomable, unapproachable, exhaustless, indefinite, without number, without measure, without limit, incomprehensible, limitless, boundless, termless†, untold, unnumbered, unmeasured, unbounded, unlimited, illimited†
-  perpetual, eternal, everduring†, everlasting, ever-living, ever- flowing, continual, sempiternal†, coeternal, incessant, uninterrupted, indesinent†, unceasing, having no end, unfading†, evergreen, amaranthine, neverending†, never-dying, never-fading, deathless, immortal, undying, imperishable
+  perpetual, eternal, everduring†, everlasting, ever-living, ever- flowing, continual, sempiternal†, coeternal, incessant, uninterrupted, indesinent†, unceasing, having no end, unfading†, evergreen, amaranthine, neverending†, never-dying, never-fading, deathless, immortal, undying, imperishable, thickcoming†, indeciduous†
 
 Adv:
   and so on, without end, on and on, forevermore
@@ -40,3 +40,4 @@ Phr:
   great fleas have little fleas upon their backs to bite 'em, and little fleas have lesser fleas, and so ad infinitum [Augustus De Morgan]
   ever more
   there's always more where that came from
+  as boundless as the sea [Romeo and Juliet]

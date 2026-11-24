@@ -13,8 +13,8 @@ V:
   vary by zone, differ in climate
 
 Adj:
-  climatic, tropical, temperate, arctic, polar, equatorial, torrid, frigid, continental, maritime, regional, zonal
-  Northern, septentrional, Boreal, Southern, Austral
+  climatic, tropical, temperate, arctic, polar, equatorial, torrid, frigid, continental, maritime, regional, zonal, estival†, canicular†
+  Northern, septentrional, Boreal, Southern, Austral, with alligned with†
   sultry
 
 Adv:

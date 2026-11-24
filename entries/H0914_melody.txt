@@ -16,7 +16,7 @@ V:
   sing, hum, carol, warble, intone
   trill
   harmonize
-  lilt, croon, pipe, whistle
+  lilt, croon, pipe, whistle, sol-fa†
 
 Adj:
   melodic, melodious, tuneful, lyrical, songful

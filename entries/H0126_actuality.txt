@@ -30,13 +30,14 @@ Adv:
   actually &c H0004, in effect &c H0081
 
 F:
-  German: Wirken [working, effecting]
-  Latin: actualitas, de facto, in actu
-  Greek: energeia, entelecheia
-  French: fait accompli
+  German: Wirken [working, effecting], Tat, Handlung, Aktuosität
+  Latin: actualitas, de facto, in actu, actuositas, actus
+  Greek: energeia, entelecheia, ergon
+  French: fait accompli, réalité, effectivité, actualité, réalité effective
   Arabic: ḥaqīqa [reality, truth], fiʿl [act, actuality]
   Sanskrit: satya [the real, truth], tattva
   Korean: hyeonsilseong [actuality]
+  Italian: attualità, attuosità [the pure act] [Gentile]
 
 Phr:
   what is rational is actual, and what is actual is rational [Hegel]

@@ -8,7 +8,7 @@ N:
   versification; prosody, metre, metrics, scansion, verse, measure, foot, line, stanza, strophe
   canto, distich, couplet, triplet, quatrain, antistrophe†
   rhyme, assonance, meter, numbers, rhythm, accentuation &c H0599, dactyl, spondee, trochee, anapest, hexameter, pentameter
-  rhyming, making verses, orthometry†
+  rhyming, making verses, orthometry†, altimetry†
   verse-making, versifying, verse-craft, poetic form, rhythmics, cadence, caesura, enjambment, tercet, sestet, octave, refrain, envoi
 
 V:

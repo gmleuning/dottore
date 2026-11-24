@@ -10,7 +10,7 @@ N:
 
 V:
   degrade, demote, sacrifice, subordinate
-  debase, abase, lower, humble
+  debase, abase, lower, humble, embase†
 
 Adj:
   degraded, demoted, subordinate

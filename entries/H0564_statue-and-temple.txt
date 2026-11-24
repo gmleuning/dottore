@@ -6,8 +6,8 @@ HGloss: The god's image and dwelling, the motionless statue and its temple.
 
 N:
   statue and temple; statue, image, idol, effigy, cult statue, colossus; temple, fane, sanctuary, shrine, cella; Pheidias, Parthenon
-  church, chapel, tabernacle, basilica, holy place
-  altar, Holy of Holies
+  church, chapel, tabernacle, basilica, holy place, chantry†
+  altar, Holy of Holies, sacrarium†, aumbry†, sedile†
   likeness, icon
   the image of the god, the god's dwelling
 
@@ -28,6 +28,7 @@ F:
   Latin: templum, sanctum sanctorum
   Greek: agalma, kouros, naos, adyton
   Sanskrit: mūrti [sacred image]
+  Korean: sindang [shaman's shrine]
 
 Phr:
   the god in his temple

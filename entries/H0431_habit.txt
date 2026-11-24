@@ -17,11 +17,11 @@ N:
 
 V:
   habituate, accustom, inure, condition, train, drill; be wont, be in the habit of, make a habit of, get into the habit, fall into a rut
-  harden, season, caseharden, familiarize, naturalize, acclimatize, keep one's hand in, train &c H0688
+  harden, season, caseharden, familiarize, naturalize, acclimatize, keep one's hand in, train &c H0688, endenizen†
   discipline, familiarize with, break in
   be wont
   fall into a rut, fall into a custom &c H0063, tread the beaten track, follow the beaten track, tread the beaten path, follow the beaten, move in a rut, run on in a groove, go round like a horse in a mill, go on in the old jog trot way
-  be unaccustomed, leave off a habit, cast off a habit, break off a habit, wean oneself of a habit, violate a habit, break through a habit, infringe a habit, leave off a custom, cast off a custom, break off a custom, wean oneself of a custom, violate a custom, break through a custom, infringe a custom, leave off a usage, cast off a usage, break off a usage, wean oneself of a usage, violate a usage, break through a usage, infringe a usage, wear off
+  be unaccustomed, leave off a habit, cast off a habit, break off a habit, wean oneself of a habit, violate a habit, break through a habit, infringe a habit, leave off a custom, cast off a custom, break off a custom, wean oneself of a custom, violate a custom, break through a custom, infringe a custom, leave off a usage, cast off a usage, break off a usage, wean oneself of a usage, violate a usage, break through a usage, infringe a usage, wear off, abnormalize†
   ensconce oneself, settle into, entrench oneself, become embedded
 
 Adj:
@@ -29,10 +29,10 @@ Adj:
   accustomary†, prescriptive, of daily occurrence, of everyday occurrence, consuetudinary†, general, ordinary, common, frequent, household, garden variety, jog, trot, well-trodden, well-known, familiar, vernacular, trite, commonplace, set, stock, established, stereotyped, prevailing, prevalent, current, received, acknowledged, recognized, accredited, of course, admitted, understood
   hackneyed, fixed, rooted, deep-rooted, ingrafted†, permanent, besetting, naturalized, ingrained &c H0081
   conventional, everyday, workaday
-  unaccustomed, unused, unwonted, unseasoned, uninured†, unhabituated†, untrained, new, green &c H0434, unhackneyed
+  unaccustomed, unused, unwonted, unseasoned, uninured†, unhabituated†, untrained, new, green &c H0434, unhackneyed, unmellowed†
   unusual &c H0063, nonobservant†, disused &c H0623
   Causes of Volition
-  licensed
+  licensed, adespotic†
   ensconced, settled, entrenched, embedded, deep-seated, set in one's ways, acquired
 
 Adv:
@@ -51,3 +51,14 @@ Phr:
   we are what we repeatedly do [Will Durant]
   old habits die hard
   a creature of habit
+  never was seen the like, never was heard the like, never was known the like
+  I could hardly believe it
+  I saw it, but I didn't believe it
+  cela s'entend [Fr.]
+  abeunt studia in mores [Lat.]
+  adeo in teneris consuescere multum est [Lat.]
+  consuetudo quasi altera natura [Lat.] [Cicero]
+  hoc erat in more majorum [Lat.]
+  How use doth breed a habit in a man! [Two Gentlemen]
+  magna est vis consuetudinis [Lat.]
+  morent fecerat usus [Lat.] [Ovid]

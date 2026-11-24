@@ -9,7 +9,7 @@ N:
   affluence &c H0696, success &c H0197, thrift, roaring trade, good fortune, smiles of fortune, blessings, godsend
   beatitude, enchantment, transport, rapture, ravishment, ecstasy, paradise, elysium &c H0996, third heaven†, seventh heaven, cloud nine, unalloyed happiness, hedonics†, hedonism
   contentedness, complacency, satisfaction, entire satisfaction, ease, heart's ease, peace of mind, serenity &c H0614, cheerfulness &c H0379, ray of comfort, comfort &c H0609
-  rejoicing, exultation, triumph, jubilation, heyday, flush, revelling, merrymaking &c H0609, jubilee &c H0973, paean, congratulation &c H0438
+  rejoicing, exultation, triumph, jubilation, heyday, flush, revelling, merrymaking &c H0609, jubilee &c H0973, paean, congratulation &c H0438, gratulation†
   smile, simper, smirk, grin, broad grin, sardonic grin
   laughter &c H0609
   risibility, derision &c H0820
@@ -27,7 +27,7 @@ V:
 
 Adj:
   happy, felicitous, blissful, content, contented, flourishing, eudaimonic, fortunate, blessed
-  blest, beatified, happy as a clam at high water [U.S.], happy as a clam, happy as a king, happy as the day is long, thrice happy, enjoying, joyful &c H0379, hedonic†
+  blest, beatified, happy as a clam at high water [U.S.], happy as a clam, happy as a king, happy as the day is long, thrice happy, enjoying, joyful &c H0379, hedonic†, cheerly†, riant†, sprightful†
   satisfied, at ease, at one's ease, at home, with the mind at ease, easygoing, not particular, conciliatory, unrepining†, of good comfort, resigned &c H0614, cheerful &c H0379
   lucky
   jubilant, exultant, triumphant, flushed, elated, pleased, delighted, tickled pink
@@ -40,17 +40,32 @@ Adj:
 Adv:
   happily, felicitously, blissfully
   with pleasure &c H0613 [Obs.], with glee
-  contentedly
+  contentedly, contently†
 
 F:
-  Latin: beatitudo, summum bonum, ter quaterque beatus, sine cura, Te Deum &c H0973
-  Greek: eudaimonia
-  French: sans souci, tant mieux
+  Latin: beatitudo, summum bonum, ter quaterque beatus, sine cura, Te Deum &c H0973, felicitas
+  Greek: eudaimonia, eutychia, makariotēs
+  French: sans souci, tant mieux, bon vivant, douceur de vivre, bonheur, félicité, béatitude, chance, prospérité
   Arabic: saʿāda [happiness, felicity]
   Sanskrit: ānanda [bliss]
+  Italian: dolce far niente [sweet idleness]
+  German: Glück [luck and happiness at once]
 
 Phr:
   happiness is an ideal not of reason but of imagination [Kant]
   the periods of happiness are blank pages in history [Hegel]
   happily ever after
   the pursuit of happiness
+  nothing comes amiss
+  a heart with room for every joy [Bailey]
+  ich habe genossen das irdische Gluck ich habe gelebt und geliebet [Ger.] [Schiller]
+  nor cast one longing lingering look behind [Gray]
+  shut up in measureless content [Macbeth]
+  sweet are the thoughts that savor of content [R. Greene]
+  their wants but few their wishes all confined [Goldsmith]
+  might as well relax and enjoy it
+  that won't do, that will never do, it will never do
+  curtae nescio quid semper abest rei [Lat.] [Horace]
+  ne Jupiter Quidem omnibus placet [Lat.]
+  poor in abundance, famished at a feast [Young]
+  basta!

@@ -6,12 +6,12 @@ HGloss: The alienation of my productive capacity for a limited time.
 
 N:
   wage contract; contract of employment, labour contract, hire of services, employment, wage labour, wages, pay, salary, hire, stipend, emolument, remuneration
-  allowance, payment, tribute, batta†, shot, scot, bonus, premium, tip, honorarium, dasturi†, dustoori†, mileage
+  allowance, payment, tribute, batta†, shot, scot, bonus, premium, tip, honorarium, dasturi†, dustoori†, mileage, defrayment†
   reward, recompense, meed, guerdon†, reguerdon†, price
   compensation
   contract for wages, service for pay
   wage
-  job, paycheck, paycheque, payslip, raise, pay rise, overtime, unemployment, the dole [Brit.], benefits, welfare, pension, retirement, hiring, recruitment, layoff, redundancy [Brit.], the sack [Coll.], resignation, CV, résumé, job interview, applicant, vacancy
+  job, paycheck, paycheque, payslip, raise, pay rise, overtime, unemployment, the dole [Brit.], benefits, welfare, pension, retirement, hiring, recruitment, layoff, redundancy [Brit.], the sack [Coll.], resignation, CV, résumé, job interview, applicant, vacancy, remigration†
   indenture
 
 V:
@@ -37,3 +37,7 @@ Phr:
   the labourer is worthy of his hire [Bible]
   a fair day's wage for a fair day's work
   hired hand
+  vectigalia nervos esse reipublicae [Lat.] [Cicero]
+  fideli certa merces [Lat.]
+  honor virtutis praemium [Lat.] [Cicero]
+  tibi seris tibi metis [Lat.]

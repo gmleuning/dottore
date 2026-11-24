@@ -11,11 +11,11 @@ N:
   envy, enviousness, rivalry, illwill, spite
   the particular passions, specific feelings, affections
   mood swings, triggers, baggage, emotional baggage, hang-up, feels [Slang]
-  wish, feeling, hate, fit, wonder, surprise, feelings, desire, affect, pleasure, shame, relief, joy, pride, mood, horror, favour, alarm, terror, caring, emotion, rage, preference, grief, hatred, belonging, sentiment, resignation, enthusiasm, ego, dignity, harassment, liking, pity, delight, compassion, wishing, gratitude, affection, ambition, leaning, sadness, attachment, forgiveness, appetite, outrage, humour, enjoyment, stab, contempt, anticipation, amusement, sorrow, devotion, lust, empathy, wrath, mourning, optimism, dread, nostalgia, resentment, disgust
-  fetish, compatibility, admiration, seriousness, craving, consolation, suspense, longing, remorse, glee, expectancy, ecstasy, bitterness, fulfillment, melancholy, heartbreak, nirvana, discontent, anguish, sincerity, malice, grudge, disdain, relish, dissatisfaction, fright, whim, solace, disapproval, gratification, apathy, angst, aversion, yearning, euphoria, reverence, ire, misogyny, heartache, zest, repentance, rapture, animosity, propensity, loathing, alienation, unhappiness, grievance, displeasure, closeness, tantrum, scorn, penance, cynicism, shudder, pang, adoration, apprehension, indignation, penchant, libido, fervor, contentment, complacency, nervousness, emulation, rhapsody, gusto, amazement, enchantment, rejoicing, pessimism, lightness, fulfilment, bereavement, buoyancy, hopelessness, pall, friendliness, distaste, shyness, eagerness, daze, veneration, tingle, chagrin, caprice, astonishment, sensuality, coolness, conceit, consternation, togetherness, peeve, ambivalence, throes, foreboding, exuberance, benevolence, elan, irritability, aggravation, pining, hilarity, trepidation, stupor, revulsion, antipathy, animus, premonition, letdown, gloating, exasperation, alleviation, mirth, gloat, contrition, sexiness, levity
+  wish, feeling, hate, fit, wonder, surprise, feelings, desire, affect, pleasure, shame, relief, joy, pride, mood, horror, favour, alarm, terror, caring, emotion, rage, preference, grief, hatred, belonging, sentiment, resignation, enthusiasm, ego, dignity, harassment, liking, pity, delight, compassion, wishing, gratitude, affection, ambition, leaning, sadness, attachment, forgiveness, appetite, outrage, humour, enjoyment, stab, contempt, anticipation, amusement, sorrow, devotion, lust, empathy, wrath, mourning, optimism, dread, nostalgia, resentment, disgust, jucundity†
+  fetish, compatibility, admiration, seriousness, craving, consolation, suspense, longing, remorse, glee, expectancy, ecstasy, bitterness, fulfillment, melancholy, heartbreak, nirvana, discontent, anguish, sincerity, malice, grudge, disdain, relish, dissatisfaction, fright, whim, solace, disapproval, gratification, apathy, angst, aversion, yearning, euphoria, reverence, ire, misogyny, heartache, zest, repentance, rapture, animosity, propensity, loathing, alienation, unhappiness, grievance, displeasure, closeness, tantrum, scorn, penance, cynicism, shudder, pang, adoration, apprehension, indignation, penchant, libido, fervor, contentment, complacency, nervousness, emulation, rhapsody, gusto, amazement, enchantment, rejoicing, pessimism, lightness, fulfilment, bereavement, buoyancy, hopelessness, pall, friendliness, distaste, shyness, eagerness, daze, veneration, tingle, chagrin, caprice, astonishment, sensuality, coolness, conceit, consternation, togetherness, peeve, ambivalence, throes, foreboding, exuberance, benevolence, elan, irritability, aggravation, pining, hilarity, trepidation, stupor, revulsion, antipathy, animus, premonition, letdown, gloating, exasperation, alleviation, mirth, gloat, contrition, sexiness, levity, batophobia†, heartquake†, heartsinking†, affrightment†, byssa†, heartburning†, dilection†, misogamy†, despisal†, despiciency†, despisement†, despect†, improbation†, disvaluation†, displacency†
   fellow feeling, emotional state, sexual urge, conditioned emotional response, conditioned emotion, self-love, self-worth, self-respect, ill will, soft spot, sexual desire, sexual pleasure, self-importance, self-pride, self-regard, panic attack, ill humor, good humor, high spirits, physical attraction, self-hatred, puppy love, self-esteem, fond regard, sinking feeling, ill humour, good humour, ill temper, good temper, bad temper, calf love, self-disgust, self-depreciation, mental anguish, stage fright, guilt pang, inferiority complex, agape love, filial love, class feeling, bad blood, cold feet, self-doubt, broken heart, sexual love, acquired taste, hero worship, self-torture, self-consciousness, self-pity, short temper, quick temper, erotic love, ancestor worship, self-distrust, self-torment, self-reproach, world-weariness, bright side, cold comfort
   scare, embarrassment, bragging
-  anger, fear, excitement, frustration, disappointment, annoyance, loneliness, boredom, misery, regret, regrets, temptation, crush, stress, anxiety, mood swing, meltdown, breakdown, tears, laughter
+  anger, fear, excitement, frustration, disappointment, annoyance, loneliness, boredom, misery, regret, regrets, temptation, crush, stress, anxiety, mood swing, meltdown, breakdown, tears, laughter, agacerie†
 
 V:
   feel, be gripped by, be possessed by, be caught up in, dwell on
@@ -23,25 +23,26 @@ V:
   lower one's tone, lower one's note, sing small, draw in one's horns, sober down, hide one's face, hide one's diminished head, not dare to show one's face, take shame to oneself, not have a word to say for oneself, feel shame, be conscious of shame, feel disgrace, be conscious of disgrace, drink the cup of humiliation to the dregs
   keep private, keep in the background, keep one's distance, pursue the noiseless tenor of one's way, do good by stealth and blush to find it fame [Pope], hide one's light under a bushel, cast a sheep's eye
   pride oneself on, glory in, take a pride in, pique oneself, plume oneself, hug oneself, stand upon, be proud of, put a good face on, not hide one's light under a bushel, not put one's talent in a napkin, not think small beer of oneself
-  exult, crow, crow over, neigh, chuckle, triumph, throw up one's cap, talk big, take merit to oneself, make a merit of, sing Io triumphe†, holloa before one is out of the wood†
+  exult, crow, crow over, neigh, chuckle, triumph, throw up one's cap, talk big, take merit to oneself, make a merit of, sing Io triumphe†, holloa before one is out of the wood†, outbrazen†, outbrave†
   boast, make a boast of, brag, vaunt, Puff, show off, flourish, crake†, crack, trumpet, strut, swagger, vapor, blague†, blow, four-flush [Slang], bluff
   be jealous, view with jealousy, view with a jealous eye
   covet, burst with envy
   be affected
   freak out, chill, chill out, get worked up, get a grip, vent, emote
   frighten
-  worry, panic, freak, cry, smile, grin, laugh, giggle, scream, annoy, bother, upset, embarrass, frustrate, disappoint, impress, amaze, excite, thrill
+  worry, panic, freak, cry, smile, grin, laugh, giggle, scream, annoy, bother, upset, embarrass, frustrate, disappoint, impress, amaze, excite, thrill, feaze†, wherret†
+  get a setdown†
 
 Adj:
   particular, gripping, absorbing, consuming, overwhelming, preoccupying
-  elate, elated, jubilant, triumphant, exultant, in high feather, flushed, flushed with victory, cock-a-hoop, on stilts
+  elate, elated, jubilant, triumphant, exultant, in high feather, flushed, flushed with victory, cock-a-hoop, on stilts, hyperbolical†, heartsome†
   boasting, magniloquent, flaming, Thrasonic, stilted, gasconading, boastful, pretentious, vainglorious, highfalutin, highfaluting†, spread- eagle [U.S.]
   jealous, jealous as a barbary pigeon†, jaundiced, yellow-eyed, hornmad
-  envious, invidious, covetous
+  envious, invidious, covetous, inofficious†
   affective, emotional
   hangry [Slang], salty [Slang], triggered [Slang], butthurt [Slang], extra [Slang], stoked [Slang], psyched [Slang], pumped [Slang], chuffed [Brit.], gutted [Brit.], pissed off [Vulg.], pissed [U.S. Slang], peeved, miffed, cheesed off [Brit.], hacked off, browned off, stressed, stressed out, freaked out, creeped out, grossed out, bummed [Slang]
   fascinating, annoyed, irritated, stung, riveting
-  angry, mad [Coll.], afraid, scared, frightened, terrified, worried, nervous, anxious, excited, thrilled, amazed, impressed, relieved, embarrassed, ashamed, frustrated, disappointed, hurt, lonely, homesick, grateful, thankful, proud, bothered, miserable, unhappy, sad, happy, glad, cheerful, moody, stressful, frustrating, annoying, embarrassing, scary, creepy, spooky, disturbing, terrifying, disgusting, gross, confusing, inspiring, adorable, cute, amazing, awesome, terrific, wonderful, awful, terrible, horrible, hopeless, upsetting
+  angry, mad [Coll.], afraid, scared, frightened, terrified, worried, nervous, anxious, excited, thrilled, amazed, impressed, relieved, embarrassed, ashamed, frustrated, disappointed, hurt, lonely, homesick, grateful, thankful, proud, bothered, miserable, unhappy, sad, happy, glad, cheerful, moody, stressful, frustrating, annoying, embarrassing, scary, creepy, spooky, disturbing, terrifying, disgusting, gross, confusing, inspiring, adorable, cute, amazing, awesome, terrific, wonderful, awful, terrible, horrible, hopeless, upsetting, plaguy†, unenjoyed†, afeard†
 
 Adv:
   in the grip of, under the sway of
@@ -49,11 +50,30 @@ Adv:
   in particular feelings
 
 F:
-  Latin: alieni appetens
-  French: soi-disant, se faire valoir, faire claquer son fouet, Gascon, jalousie de milier
+  Latin: alieni appetens, angustia(e), dolus, desiderium
+  French: soi-disant, se faire valoir, faire claquer son fouet, Gascon, jalousie de milier, angoisse, désir, douloureux, deuil, tristesse, nostalgie
   Korean: jeong [affection, attachment], han [unresolved grief], heung [exuberant joy]
+  Portuguese: saudade [longing for what is absent or lost]
+  German: Gemütlichkeit [cosiness], Sehnsucht
+  Romanian: dor [longing for the absent]
+  Danish: Angest
+  Italian: duolo
+  Spanish: duelo, soledad
+  Catalan: anyoransa
 
 Phr:
   in the grip of passion
   mixed feelings
   hurt feelings
+  I am your obedient servant, I am your very humble servant
+  my service to you
+  da locum melioribus [Lat.] [Terence]
+  parvum parva decent [Lat.] [Horace]
+  not stepping o'er the bounds of modesty [Romeo and Juliet]
+  thy modesty's a candle to thy merit [Fielding]
+  let the galled jade wince [Hamlet]
+  facta non verba [Lat.]
+  base envy withers at another's joy [Thomson]
+  caeca invidia est [Lat.] [Livy]
+  multa petentibus desunt multa [Lat.] [Horace]
+  summa petit livor [Lat.] [Ovid]

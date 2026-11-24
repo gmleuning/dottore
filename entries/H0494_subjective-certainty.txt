@@ -17,7 +17,7 @@ Adj:
   subjective, personal, private, felt, inward, unconfirmed
   intrinsic, inherent, innate, inborn, ingrained
   persuaded, untested
-  obvious, evident, unquestionable, indubitable, beyond doubt
+  obvious, evident, unquestionable, indubitable, beyond doubt, autoptical†
 
 Adv:
   subjectively, privately, inwardly

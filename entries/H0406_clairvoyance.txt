@@ -5,7 +5,7 @@ Gloss: The supposed perception of what is beyond the reach of the senses; second
 HGloss: The seeing of the soul without the mediation of the senses, an immediate knowing confined to the sentient soul's own world.
 
 N:
-  clairvoyance; second sight, clear seeing, extrasensory perception, ESP, telepathy, precognition, prescience, prevision, divination, foreknowledge, insight, the third eye; seer, clairvoyant, sibyl, prophet, oracle, augur, haruspex, soothsayer
+  clairvoyance; second sight, clear seeing, extrasensory perception, ESP, telepathy, precognition, prescience, prevision, divination, foreknowledge, insight, the third eye; seer, clairvoyant, sibyl, prophet, oracle, augur, haruspex, soothsayer, prenotion†, antepast†, prelibation†, prophasis†
   presentiment
   medium, mesmerist
   clear-seeing, lucidity

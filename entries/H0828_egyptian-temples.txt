@@ -13,7 +13,7 @@ V:
   wall, align, range, lead on
 
 Adj:
-  Egyptian, hypostyle, colossal, monumental, labyrinthine
+  Egyptian, hypostyle, colossal, monumental, labyrinthine, labyrinthic†, labyrinthian†
   huge, immense, enormous, vast, stupendous, gigantic
   Theban, pyloned, roofless
 

@@ -6,8 +6,8 @@ HGloss: Freedom of thought which is indifferent to existence, on the throne or i
 
 N:
   stoicism; Stoic philosophy &c H1027, equanimity, impassivity, imperturbability, self-control, self-possession, fortitude, endurance, resignation, indifference to fortune, inner citadel, the inner fortress; Epictetus on the throne and in chains
-  philosophy, command of temper, self-command, self-restraint, presence of mind
-  sufferance, forbearance, longanimity†
+  philosophy, command of temper, self-command, self-restraint, presence of mind, Quakerism†
+  sufferance, forbearance, longanimity†, supportance†, longsufferance†
   self-denial, self-abnegation, self-control &c H0380
   inexcitability†, inirritability†, even temper, tranquil mind, dispassion, tolerance, patience
   abstinence
@@ -15,7 +15,7 @@ N:
 
 V:
   endure, bear, forbear, accept, resign oneself, keep calm, keep a stiff upper lip
-  suffer, abide &c H0614, bear the brunt of
+  suffer, abide &c H0614, bear the brunt of, aby†
   bear the brunt, bear well, go through, support, brave, disregard
   abstain, refrain, deny oneself
   withdraw into thought, hold oneself indifferent
@@ -24,11 +24,11 @@ V:
 
 Adj:
   stoic, stoical, impassive, imperturbable, unflappable, equanimous, self-possessed, long-suffering, resigned, philosophical
-  unexcitable, dispassionate, philosophic, staid, sober
-  patient, patient as Job, submissive &c H0708, content
+  unexcitable, dispassionate, philosophic, staid, sober, inexcitable†
+  patient, patient as Job, submissive &c H0708, content, lamblike†
   impassible, passionless
   indifferent, unmoved
-  fortified, steeled, unshaken
+  fortified, steeled, unshaken, unweakened†, unwithered†, unexhausted†
 
 Adv:
   stoically, impassively, with equanimity, philosophically
@@ -38,6 +38,7 @@ F:
   Greek: apatheia, ataraxia
   Arabic: ṣabr [patience, endurance]
   Sanskrit: vairāgya [detachment], titikṣā [forbearance]
+  German: Sitzfleisch [staying power]
 
 Phr:
   whether on the throne or in chains [Hegel on Stoicism]

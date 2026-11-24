@@ -10,7 +10,7 @@ N:
   accountableness†, responsibility
   delinquency
   liableness†
-  innocence, guiltlessness, incorruption, impeccability
+  innocence, guiltlessness, incorruption, impeccability, indefectibility†, impeccancy†
   clean hands, clear conscience
   innocent, lamb, dove
   imputation
@@ -26,10 +26,10 @@ Adj:
   responsible, liable, accountable, answerable, culpable, to blame, at fault
   guilty, peccable†, in fault, censurable, illaudable†, weighed in the balance and found wanting
   subject
-  blameworthy, reprehensible, worthy of blame, uncommendable, exceptionable, not to be thought of, bad &c H0668, vicious &c H0668
-  not guilty, unguilty†, guiltless, faultless, sinless, stainless, bloodless, spotless, clear, immaculate, unspotted, unblemished, unerring, undefiled &c H0667, unhardened†, Saturnian, Arcadian &c H0667 [Obs.]
-  inculpable, unculpable†, unblamed, unblamable†, blameless, unfallen†, inerrable†, above suspicion, irreproachable, irreprovable†, irreprehensible†, unexceptionable, unobjectionable, unimpeachable, salvable†, venial &c H0703
-  harmless, inoffensive, innoxious†, innocuous, dove-like, lamb-like, pure, harmless as doves, innocent as a lamb, innocent as the babe unborn, more sinned against than sinning [Lear]
+  blameworthy, reprehensible, worthy of blame, uncommendable, exceptionable, not to be thought of, bad &c H0668, vicious &c H0668, incogitable†
+  not guilty, unguilty†, guiltless, faultless, sinless, stainless, bloodless, spotless, clear, immaculate, unspotted, unblemished, unerring, undefiled &c H0667, unhardened†, Saturnian, Arcadian &c H0667 [Obs.], indefective†, indeficient†, scathless†
+  inculpable, unculpable†, unblamed, unblamable†, blameless, unfallen†, inerrable†, above suspicion, irreproachable, irreprovable†, irreprehensible†, unexceptionable, unobjectionable, unimpeachable, salvable†, venial &c H0703, inobjectionable†, veniable†
+  harmless, inoffensive, innoxious†, innocuous, dove-like, lamb-like, pure, harmless as doves, innocent as a lamb, innocent as the babe unborn, more sinned against than sinning [Lear], hurtless†, unobnoxious†
   virtuous &c H0664, unreproved†, unimpeached, unreproached†
   imputable
   acquitted, infallible
@@ -42,8 +42,10 @@ Adv:
 
 F:
   Latin: in flagrante delicto, mens sibi conscia recti [Vergil], nil conscire sibi nulla pallescere culpa [Horace], rectus in curia
+  German: Sippenhaft [kin liability]
 
 Phr:
   mea culpa [Lat.]
   to take the blame
   the buck stops here
+  murus aeneus conscientia sana [Horace]

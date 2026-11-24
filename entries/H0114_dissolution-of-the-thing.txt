@@ -8,7 +8,7 @@ N:
   dissolution of the thing; dissolution, decomposition, disintegration, breakdown, breakup, analysis, resolution, separation, decay, crumbling, falling apart, unravelling, deconstruction, dismantling, disassembly; porosity &c H0113; nothingness of the thing, insubstantiality
   dissection, catalysis, corruption &c H0694, dispersion &c H0035, disjunction &c H0293
   fall, downfall, ruin, crash, debacle, wreck
-  destruction, waste, breaking up, diruption†, disruption, consumption, disorganization
+  destruction, waste, breaking up, diruption†, disruption, consumption, disorganization, deorganization†
   break-up, the falling apart of the thing
   rotting
 
@@ -17,8 +17,8 @@ V:
   decompound, analyze, disembody, resolve into its elements, separate into its elements, dissect, disperse &c H0035, unravel &c H0228, crumble into dust
   be destroyed, perish, go to pieces, fall to pieces, crumble to dust
   lapse, shrivel &c H0218, fade, wither, molder, rot, fall into decay
-  take to pieces, pull to pieces, dismember
-  corrode, erode, wear away, sap, undermine
+  take to pieces, pull to pieces, dismember, dislimb†, divellicate†, disbranch†, strow†, resperse†, set abroach†, circumfuse†
+  corrode, erode, wear away, sap, undermine, overthwart†
 
 Adj:
   dissolved, decomposed, disintegrating, crumbling, unravelling, insubstantial, porous, dissolute
@@ -34,3 +34,6 @@ Phr:
   all that is solid melts into air [Marx and Engels]
   to fall to pieces
   come apart at the seams
+  delenda est Carthago [Lat.]
+  dum Roma deliberat Saguntum perit [Lat.]
+  ecrasez l'infame [Voltaire]

@@ -20,6 +20,7 @@ Adj:
   legal, legitimate
   public, political
   approved, authorised, ratified
+  unobeyed†, unresisted†
 
 Adv:
   constitutionally

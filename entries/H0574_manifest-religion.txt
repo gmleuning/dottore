@@ -7,12 +7,12 @@ HGloss: Religion in which the absolute is revealed as a self, God become man, kn
 N:
   manifest religion; revealed religion, revelation, Christianity, the Incarnation, the God-man, God become flesh, theophany, epiphany, apocalypse, self-revelation of God
   inspiration, afflatus, theopneusty†
-  disclosure, unveiling, revealment
+  disclosure, unveiling, revealment, ascertainment†, retection†, deterration†
   the absolute religion, the divine as self, God made manifest
 
 V:
   reveal, manifest, incarnate, disclose, become flesh
-  draw aside the veil, lift the veil, remove the veil, unveil
+  draw aside the veil, lift the veil, remove the veil, unveil, dismask†
   disclose &c H0599
 
 Adj:
@@ -34,3 +34,7 @@ Phr:
   God so loved the world, that he gave his only begotten Son [Bible]
   God made man
   the word made flesh
+  the murder is out
+  a light breaks in upon one
+  the scales fall from one's eyes
+  the eyes are opened

@@ -10,10 +10,10 @@ N:
   figure, conformation, configuration, formation, structure &c H0258
   flesh, flesh and blood, strength &c H0327
   zoology, comparative anatomy, animal physiology
-  stamina, muscle, sinew, thews and sinews
+  stamina, muscle, sinew, thews and sinews, lustihood†
   animal shape, bodily form
   body, bod [Slang], carcase†, corpus, soma, meat [Slang], meatsuit [Slang], bag of bones, mortal coil, earthly frame, tenement of clay†, bone-house†, the outer man, the physical
-  gross anatomy, histology, organology, splanchnology, osteology, myology, angiology, neurology, anthropometry, organ, member, part, body part, limb, appendage, extremity, tissue, membrane, fibre, cell
+  gross anatomy, histology, organology, splanchnology, osteology, myology, angiology, neurology, anthropometry, organ, member, part, body part, limb, appendage, extremity, tissue, membrane, fibre, cell, organography†, angiography†, adeology†, adenography†
 
 V:
   form, shape, organize, develop

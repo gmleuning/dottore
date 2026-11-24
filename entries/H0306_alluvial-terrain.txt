@@ -8,10 +8,10 @@ N:
   alluvial terrain; alluvium, alluvion, silt, mud, sand, gravel, loess, delta, floodplain, bottomland, river flats, sandbank, sandbar, estuary, mire, marsh, fen, bog; tertiary and quaternary deposits
   sludge, slime
   strand, bank
-  swamp, morass, quagmire, slough
+  swamp, morass, quagmire, slough, marish†, cienaga†, jhil†, vlei†
   slush, ooze
   sediment, detritus, drift
-  debris, rubble
+  debris, rubble, scobs†, magistery†, orts†, offscourings†, rudera†, deads†
   diluvium
 
 V:
@@ -19,10 +19,11 @@ V:
   settle
 
 Adj:
-  alluvial, silty, deltaic, fluvial, marshy, boggy, swampy
+  alluvial, silty, deltaic, fluvial, marshy, boggy, swampy, plashy†, poachy†, quaggy†, paludal†
   muddy, fenny
   sedimentary, detrital
-  soggy
+  soggy, saturated
+  swashy†, irriguous†
 
 Adv:
   downriver, at the river's mouth

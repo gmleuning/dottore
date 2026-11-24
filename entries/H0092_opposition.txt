@@ -5,11 +5,11 @@ Gloss: Difference in which each side is defined by the other as its opposite, as
 HGloss: Difference in which each side has its other within itself, as positive and negative.
 
 N:
-  opposition; opposite, the opposite, contrary, contrariety, converse, reverse, inverse, obverse, antipode, antipodes, counterpart, antonym, foil, complement; polarity, polarization, bipolarity, poles, pole and counterpole; positive and negative, plus and minus, north and south, light and dark, left and right; antagonism, conflict, clash, confrontation, contradiction &c H0093; dichotomy, dualism, duality, binary; diametric opposition
+  opposition; opposite, the opposite, contrary, contrariety, converse, reverse, inverse, obverse, antipode, antipodes, counterpart, antonym, foil, complement; polarity, polarization, bipolarity, poles, pole and counterpole; positive and negative, plus and minus, north and south, light and dark, left and right; antagonism, conflict, clash, confrontation, contradiction &c H0093; dichotomy, dualism, duality, binary; diametric opposition, biplicity†, biformity†, agnomen†, cognomination†, compellation†
   contraposition†, inversion &c H0218, opposite side, opposite poles
   antithesis, oppositeness, contradiction, antagonism &c H0474, repugnance
   counteraction, clashing, collision, resistance, reaction
-  oppugnancy†, oppugnation†, impugnation†, contravention, counteraction &c H0140, counterplot
+  oppugnancy†, oppugnation†, impugnation†, contravention, counteraction &c H0140, counterplot, reluctation†
   the positive and the negative
   antinomy
 
@@ -17,11 +17,12 @@ V:
   oppose, contrast, counter, contradict, contravene, contrapose, counterpose, antagonize, confront, face off, stand against, set against, pit against; polarize; invert, reverse
 
 Adj:
-  opposite, opposed, opposing, contrary, converse, reverse, inverse, obverse, antithetical, antithetic, antipodal, antipodean, diametrical, diametric, polar, bipolar, antonymous, antagonistic, adversarial, conflicting, incompatible, irreconcilable, dichotomous, binary
+  opposite, opposed, opposing, contrary, converse, reverse, inverse, obverse, antithetical, antithetic, antipodal, antipodean, diametrical, diametric, polar, bipolar, antonymous, antagonistic, adversarial, conflicting, incompatible, irreconcilable, dichotomous, binary, biconjugate†, bifurcous†, furcular†, hemi†
   contrarious†, contrariant†, dead against, contrasted, inconsistent, contradictory, at cross purposes, negative, hostile &c H0667
   subcontrary†, fronting, facing, diametrically opposite
   adverse, at variance &c H0093, at issue, at war with
-  counteracting, retroactive, renitent, reactionary
+  counteracting, retroactive, renitent, reactionary, coquetting
+  revocatory†
   repugnant
 
 Adv:
@@ -41,3 +42,5 @@ Phr:
   war is the father of all things [Heraclitus]
   at odds
   on the other hand
+  all concord's born of contraries [B. Jonson]
+  Thesis, antithesis, synthesis [Marx]

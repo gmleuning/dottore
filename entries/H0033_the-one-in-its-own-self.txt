@@ -15,10 +15,10 @@ V:
   be one, remain simple, relate to itself
 
 Adj:
-  simple, undivided, indivisible, partless, uncompounded, unmixed, homogeneous, intact, whole, integral, atomic, monadic, internally unified
+  simple, undivided, indivisible, partless, uncompounded, unmixed, homogeneous, intact, whole, integral, atomic, monadic, internally unified, unmingled†
   uniform, single, pure
-  elementary, undecomposed, unalloyed
-  unbroken
+  elementary, undecomposed, unalloyed, untinged†, incomplex†
+  unbroken, unviolated†
   insecable†, inseverable†, indiscerptible†, compact, irresolvable†
   unalterable
 

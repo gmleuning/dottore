@@ -5,13 +5,13 @@ Gloss: The central point or body around which a system is arranged.
 HGloss: The objective universality of the object, the centre, as the sun is to the planets.
 
 N:
-  the centre; centre, center, middle, core, hub, nucleus, heart, focus, focal point, axis, pivot, fulcrum, navel, centre of gravity, capital, metropolis, seat, throne
+  the centre; centre, center, middle, core, hub, nucleus, heart, focus, focal point, axis, pivot, fulcrum, navel, centre of gravity, capital, metropolis, seat, throne, rowlock†, thole pin†
   kernel, nucleolus, pole axis, bull's eye, nave, umbilicus, backbone, marrow, pith, concentration &c H0228, centralization, symmetry
   midst, mediety†, mean &c H0045, medium, middle term, mid-course &c H0059, halfway house, omphalos†
   centrality, centricalness†
   point of convergence &c H0228, center &c H0218, rallying point, headquarters
-  axis of rotation, axle
-  hinge, crux, key
+  axis of rotation, axle, columella†
+  hinge, crux, key, commissure†, latchet†
   central body, midpoint
   focusing
 

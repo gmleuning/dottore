@@ -14,7 +14,7 @@ V:
   be for itself, relate to itself
 
 Adj:
-  self-relating, self-referential, reflexive, self-contained, self-sufficient, self-subsistent, self-standing, self-reliant, independent, autonomous, autarkic, autarkical, sovereign; individual, singular; complete, whole, closed, rounded; ideal
+  self-relating, self-referential, reflexive, self-contained, self-sufficient, self-subsistent, self-standing, self-reliant, independent, autonomous, autarkic, autarkical, sovereign; individual, singular; complete, whole, closed, rounded; ideal, operculated†
   integral
   entire, undivided
   for-itself

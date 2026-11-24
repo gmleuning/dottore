@@ -6,7 +6,7 @@ HGloss: Force presupposes an existing thing in which it resides and a solicitati
 
 N:
   conditionedness of force; dependence of force, conditioned force, finite force, limited power, need of solicitation, passivity, receptivity, susceptibility, potentiality awaiting release, latency
-  impotence, inability, disability, disablement, impuissance, imbecility, incapacity, incapability, inaptitude, ineptitude, incompetence, unproductivity†, indocility†, invalidity, disqualification, inefficiency, wastefulness
+  impotence, inability, disability, disablement, impuissance, imbecility, incapacity, incapability, inaptitude, ineptitude, incompetence, unproductivity†, indocility†, invalidity, disqualification, inefficiency, wastefulness, unsubservience†
   blank, blank cartridge, flash in the pan, dead letter, bit of waste paper, dummy, paper tiger, Quaker gun
   inefficacy &c H0196 [Obs.], failure &c H0197
   helplessness, prostration, paralysis, palsy, apoplexy, syncope, sideration†, exhaustion, softening of the brain, inanition, emasculation, orchiotomy [Med.], orchotomy [Med.]
@@ -25,9 +25,9 @@ V:
 
 Adj:
   conditioned, dependent, limited, finite, passive, receptive, latent, dormant, quiescent, inert
-  powerless, impotent, unable, incapable, incompetent, inefficient, ineffective, inept, unfitted, unqualified, disqualified, unendowed, inapt, unapt, crippled, disabled, armless†
-  harmless, unarmed, weaponless, defenseless, unfortified, indefensible, vincible, pregnable, untenable
-  paralytic, paralyzed, palsied, imbecile, nerveless, sinewless†, marrowless†, pithless†, lustless†, disjointed, out of joint, out of gear, unnerved, unhinged, water-logged, on one's beam ends, rudderless, laid on one's back, done up, dead beat, exhausted, shattered, demoralized, graveled &c H0021, helpless, unfriended†, fatherless, without a leg to stand on, laid on the shelf
+  powerless, impotent, unable, incapable, incompetent, inefficient, ineffective, inept, unfitted, unqualified, disqualified, unendowed, inapt, unapt, crippled, disabled, armless†, strengthless†, unconducting to†
+  harmless, unarmed, weaponless, defenseless, unfortified, indefensible, vincible, pregnable, untenable, aidless†, guardless†
+  paralytic, paralyzed, palsied, imbecile, nerveless, sinewless†, marrowless†, pithless†, lustless†, disjointed, out of joint, out of gear, unnerved, unhinged, water-logged, on one's beam ends, rudderless, laid on one's back, done up, dead beat, exhausted, shattered, demoralized, graveled &c H0021, helpless, unfriended†, fatherless, without a leg to stand on, laid on the shelf, guideless†
   null and void, nugatory, inoperative, good for nothing, ineffectual &c H0197, inadequate &c H0694, inefficacious &c H0196
   presupposing
   incapacitated, halting
@@ -43,3 +43,6 @@ Phr:
   it takes two to tango
   to be called forth
   under constraint
+  der kranke Mann [Ger.]
+  desirous still but impotent to rise [Shenstone]
+  non sum qualis eram [Lat.]

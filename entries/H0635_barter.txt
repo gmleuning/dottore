@@ -19,7 +19,7 @@ V:
   trade with, deal with, have dealings with, transact business with, do business with, open an account with, keep an account with
   interchange
   speculate, give a sprat to catch a herring, buy in the cheapest and sell in the dearest market, buy low and sell high, corner the market, rig the market, stag the market
-  bargain, drive a bargain, make a bargain, negotiate, bid for, haggle, higgle†, dicker [U.S.], chaffer, huckster, cheapen, beat down, stickle, stickle for, out bid, under bid, ask, charge, strike a bargain &c H0625
+  bargain, drive a bargain, make a bargain, negotiate, bid for, haggle, higgle†, dicker [U.S.], chaffer, huckster, cheapen, beat down, stickle, stickle for, out bid, under bid, ask, charge, strike a bargain &c H0625, outvie†
 
 Adj:
   barter, in-kind, non-monetary
@@ -36,3 +36,4 @@ F:
 Phr:
   the propensity to truck, barter, and exchange [Adam Smith]
   to swap
+  cambio non e furto [It.]

@@ -9,20 +9,20 @@ N:
   artesian well, fount, rill, rivulet, gill, gullet, rillet†, streamlet, brooklet, branch [U.S.], runnel, sike†, burn, beck, creek, brook, bayou, reach, tributary
   main, deep, brine, salt water, waves, billows, high seas, offing, great waters, watery waste, vasty deep
   course, flux, profluence†, effluence &c H0228, defluxion†, flowing, tide, race, coulee
-  liquor, lymph, humor, juice, sap, serum
+  liquor, lymph, humor, juice, sap, serum, serosity†, sanies†
   the watery element, the neutral, fluidity
   thinner, splashing
   aqueousness
 
 V:
-  water, wet, moisten, dampen, irrigate, flood, flow, stream, pour, trickle, drip, splash, wash, rinse, dissolve, quench
-  add water, dilute, dip, immerse, merge, immerge, submerge, plunge, souse, duck, drown, steep, macerate, pickle, sprinkle, lave, bathe, affuse†, swash, douse, dabble, slop, slobber, syringe, inject, gargle
-  run, meander, gush, spout, roll, jet, well, issue, drop, dribble, plash, spirtle†, trill, distill, percolate, overflow, inundate, deluge, flow over, guggle†, murmur, babble, bubble, purl, gurgle, sputter, spurt, spray, regurgitate, ooze, flow out &c H0228
+  water, wet, moisten, dampen, irrigate, flood, flow, stream, pour, trickle, drip, splash, wash, rinse, dissolve, quench, distain†
+  add water, dilute, dip, immerse, merge, immerge, submerge, plunge, souse, duck, drown, steep, macerate, pickle, sprinkle, lave, bathe, affuse†, swash, douse, dabble, slop, slobber, syringe, inject, gargle, begrease†, drabble†, beslime†, drabble in the mud†, pudder†, faddle fribble†
+  run, meander, gush, spout, roll, jet, well, issue, drop, dribble, plash, spirtle†, trill, distill, percolate, overflow, inundate, deluge, flow over, guggle†, murmur, babble, bubble, purl, gurgle, sputter, spurt, spray, regurgitate, ooze, flow out &c H0228, slabber†, susurrate†
   humect†, humectate†, sponge, bedew, imbue, imbrue, infiltrate, saturate, soak
   pour out &c H0228, shower down, drench, spill
 
 Adj:
-  watery, aqueous, aquatic, fluid, liquid, wet, moist, humid, dank, damp, sodden, fluvial, marine, liquescent
+  watery, aqueous, aquatic, fluid, liquid, wet, moist, humid, dank, damp, sodden, fluvial, marine, liquescent, colliquative†
   madid†, roric†, undried†, sultry, luggy†, dewy, roral†, rorid†, roscid†
   hydrous, lymphatic, balneal†, diluent, drenching, diluted, weak
   serous, juicy, succulent, sappy, ichorous†, fluent &c H0252
@@ -42,3 +42,4 @@ Phr:
   water, water, everywhere, nor any drop to drink [Coleridge]
   water finds its own level
   like water off a duck's back
+  the waters are out

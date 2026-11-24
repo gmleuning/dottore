@@ -28,6 +28,7 @@ F:
   Greek: on hē on
   Sanskrit: sanmātra [pure being], nirguṇa [without qualities]
   Chinese: wuji [the limitless]
+  French: il y a [anonymous being, before any existent] [Levinas]
 
 Phr:
   the same thing exists for thinking and for being [Parmenides]

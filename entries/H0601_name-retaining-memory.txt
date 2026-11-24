@@ -6,14 +6,14 @@ HGloss: Memory that holds the name together with its meaning, so that the name i
 
 N:
   name-retaining memory; memory for names, retention of words, vocabulary, lexicon, nomenclature, word-memory, verbal memory, naming
-  nuncupation†, nomination, baptism, orismology†, onomatopoeia, antonomasia†
+  nuncupation†, nomination, baptism, orismology†, onomatopoeia, antonomasia†, pasigraphie†, betacism†, myatism†, nunnation†, pasigraphy†
   dictionary, glossary, index, concordance
   thesaurus
-  appelation†, appelative†, designation, title, heading, rubric, caption, denomination, by-name, epithet
+  appelation†, appelative†, designation, title, heading, rubric, caption, denomination, by-name, epithet, fatihah†
   word, term, vocable, name &c H0599, phrase &c H0599, root, etymon, derivative, part of speech &c H0599, ideophone†
   misnomer, Mrs
   Malaprop, what d'ye call 'em &c H0599 [Obs.], Hoosier
-  nickname, sobriquet, assumed name, assumed title, alias, nom de course, nom de theatre, nom de plume, pseudonym, pseudonymy
+  nickname, sobriquet, assumed name, assumed title, alias, nom de course, nom de theatre, nom de plume, pseudonym, pseudonymy, wha d'ye call 'em†, thingummy†
   retentive memory, retention of names, name and meaning
   terminology, moniker
   inscription, record, register
@@ -21,17 +21,17 @@ N:
 
 V:
   name, retain, learn words, call by name
-  call, style, entitle, dub, christen
+  call, style, entitle, dub, christen, clepe†
   misname, miscall, misterm†, assume a name
   hold, keep, remember names
-  inscribe, write down, enter
+  inscribe, write down, enter, enface†
 
 Adj:
   nominal, verbal, lexical, onomastic
   literal, titular
-  nuncupatory†, nuncupative, cognominal†, orismological†
+  nuncupatory†, nuncupative, cognominal†, orismological†, enunciative†
   misnamed, pseudonymous, self called, self styled, self christened, so-called
-  nameless, anonymous, without a having no name, innominate, unnamed, unacknowledged
+  nameless, anonymous, without a having no name, innominate, unnamed, unacknowledged, renownless†
   retentive, name-retaining
 
 Adv:

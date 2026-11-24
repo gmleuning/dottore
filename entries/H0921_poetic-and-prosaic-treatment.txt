@@ -15,9 +15,9 @@ V:
 
 Adj:
   poetic, prosaic, imaginative, matter-of-fact
-  unimaginative, prosy, prosing
+  unimaginative, prosy, prosing, unlively†, insulse†
   prosal†, unpoetic, unpoetical†
-  feeble, bald, tame, jejune
+  feeble, bald, tame, jejune, debile†
   prosaic &c H0820
   figurative, pictorial, literal, intellectual, sober, concrete
 
@@ -29,3 +29,5 @@ Adv:
 Phr:
   the prose of the world
   poetic licence
+  davus sum non Aedipus
+  deadly dull and boring, DDB

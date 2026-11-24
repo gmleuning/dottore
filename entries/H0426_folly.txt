@@ -9,9 +9,9 @@ N:
   mental alienation, aberration, paranoia
   dogmatism, fixed idea &c H0606, fanaticism, zealotry, infatuation
   silliness
-  frivolity, irrationality, trifling, ineptitude, nugacity†, inconsistency, lip wisdom, conceit, sophistry &c H0583, giddiness &c H0586, eccentricity &c H0421, extravagance, rashness &c H0614
-  jargon, fustian, twaddle, gibberish &c H0599, exaggeration &c H0599, moonshine, stuff, mare's nest, quibble, self- delusion
-  prejudice, foregone conclusion, preconception, prepossession, presumption
+  frivolity, irrationality, trifling, ineptitude, nugacity†, inconsistency, lip wisdom, conceit, sophistry &c H0583, giddiness &c H0586, eccentricity &c H0421, extravagance, rashness &c H0614, stultiloquy†, stultiloquence†
+  jargon, fustian, twaddle, gibberish &c H0599, exaggeration &c H0599, moonshine, stuff, mare's nest, quibble, self- delusion, sesquipedality†
+  prejudice, foregone conclusion, preconception, prepossession, presumption, preoccupancy†
   screw loose, tile loose, slate loose, rats in the upper story
   illusion, craziness
   blah
@@ -34,7 +34,7 @@ Adv:
 
 F:
   Greek: hanemolia bazein
-  French: idée fixe, parler a tort et a travess, battre la campagne
+  French: idée fixe, parler a tort et a travess, battre la campagne, bêtise [stupidity, a foolish act]
   Sanskrit: moha
 
 Phr:
@@ -42,3 +42,6 @@ Phr:
   Don Quixote
   mad as a March hare
   off one's rocker
+  pho!
+  credat Judaeus Apella [Lat.] [Horace]
+  tell it to the marines

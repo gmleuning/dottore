@@ -31,12 +31,14 @@ Adv:
   in idea, in the mind
 
 F:
-  German: vorstellen
-  Latin: repraesentatio
-  Greek: phantasia, eidolon
-  Arabic: taṣawwur [conception, representation]
+  German: vorstellen, übersinnliches Erkenntnisbild, Vorstellung der Vernunft, Begriff, Repräsentierung, Vertretung
+  Latin: repraesentatio, intentio
+  Greek: phantasia, eidolon, noēma
+  Arabic: taṣawwur [conception, representation], maʿnā
   Sanskrit: vikalpa [mental construction]
   Korean: pyosang [representation]
+  French: idée reçue [received idea] [Flaubert], intention
+  Italian: intenzione
 
 Phr:
   the map is not the territory [Korzybski]

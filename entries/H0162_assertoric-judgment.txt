@@ -20,7 +20,7 @@ V:
 
 Adj:
   assertoric, assertive, dogmatic, unsupported, ungrounded, bald, flat, bare, unargued
-  asserting, declaratory, affirmative, positive, emphatic, decided, confident
+  asserting, declaratory, affirmative, positive, emphatic, decided, confident, predicatory†, pronunciative†, unretracted†
   naked
 
 Adv:

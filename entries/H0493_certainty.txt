@@ -8,7 +8,7 @@ N:
   certainty; subjective certainty, conviction, persuasion, assurance, confidence, belief, faith, trust, intuition, gut feeling, inner sureness, firm opinion
   credence
   certainty &c H0604, opinion
-  certitude, surety, dead certainty, moral certainty
+  certitude, surety, dead certainty, moral certainty, unquestionableness†
   sureness
 
 V:

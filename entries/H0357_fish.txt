@@ -5,7 +5,7 @@ Gloss: Cold-blooded backboned animals living in water and breathing through gill
 HGloss: Backboned animals of the element of water, cold and gill-breathing, without voice.
 
 N:
-  fish; fishes, finfish, shoal, school, ichthyology, scales, fins, gills
+  fish; fishes, finfish, shoal, school, ichthyology, scales, fins, gills, branchiae†, flabellum†, vertilabrum†
   the finny tribe, the water animals
   shark, molly, dolphin, argentine
   hind, sturgeon, liza, goldfish, rudd, britt, brill, moray, marlin, lotte, mademoiselle, mako, stingray, mollie, barracuda, margate, tetra, chub, beluga, minnow

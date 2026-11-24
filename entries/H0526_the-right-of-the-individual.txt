@@ -13,12 +13,13 @@ N:
   grave, pit, sepulcher, tomb, vault, crypt, catacomb, mausoleum, Golgotha, house of death, narrow house, cemetery, necropolis, burial place, burial ground, grave yard, church yard, God's acre, tope, cromlech, barrow, tumulus, cairn, ossuary, bone house, charnel house, dead house, morgue, lich gate†, burning ghat†, crematorium, crematory, dokhma†, mastaba†, potter's field, stupa†, Tower of Silence
   the burial rite, the last duty, the honour of the dead
   graveyard, burying
+  zoothapsis†
 
 V:
   bury, inter, inhume, entomb, lay to rest, mourn, lament, keen, honour the dead, pour libations
   lay in the grave, consign to the grave, lay in the tomb, lay out, perform a funeral, embalm, mummify, toll the knell, put to bed with a shovel, inurn†
   wear mourning, go into mourning, put on mourning
-  exhume, disinter, unearth
+  exhume, disinter, unearth, embowel†, disbowel†
   honour
 
 Adj:
@@ -38,6 +39,7 @@ F:
   Latin: the Manes, in memoriam, requiescat in pace, post mortem
   Sanskrit: śrāddha [rite for ancestors]
   Chinese: jizu [ancestor rites]
+  Korean: jinogigut [rite for the dead]
 
 Phr:
   dust thou art, and unto dust shalt thou return [Bible]
@@ -45,3 +47,9 @@ Phr:
   sit tibi terra levis [Lat.] [may the earth lie light on thee]
   to lay to rest
   dust to dust
+  hic jacet [Lat.], ci-git [Fr.]
+  RIP
+  the lone couch of his everlasting sleep [Shelley]
+  without a grave- unknell'd, uncoffin'd, and unknown [Byron]
+  in the dark union of insensate dust [Byron]
+  the deep cold shadow of the tomb [Moore]

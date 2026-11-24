@@ -16,7 +16,7 @@ V:
   electrify, charge, discharge, spark, shock, galvanize, energize, polarize, ground, earth
 
 Adj:
-  electric, electrical, electrostatic, charged, polar, positive, negative, galvanic, electrifying, shocking
+  electric, electrical, electrostatic, charged, polar, positive, negative, galvanic, electrifying, shocking, aliped†
 
 Adv:
   electrically, at the flick of a switch

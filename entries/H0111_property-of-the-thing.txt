@@ -19,18 +19,19 @@ V:
 
 Adj:
   proper, characteristic, distinctive, peculiar, inherent, dispositional, active, effective, attributive
-  discriminative, distinguishing
+  discriminative, distinguishing, dioristic†
 
 Adv:
   characteristically, properly, by virtue of
   by its properties
 
 F:
-  German: Eigenschaft
-  Latin: proprium [property proper to a kind]
-  Greek: idion
+  German: Eigenschaft, Eigentum, eigen
+  Latin: proprium [property proper to a kind], proprietas, proprius
+  Greek: idion, idiotēs, to idion, idios
   Arabic: khāṣṣa [proprium]
   Sanskrit: dharma [property]
+  French: propriété, propre
 
 Phr:
   by their fruits ye shall know them [Bible]

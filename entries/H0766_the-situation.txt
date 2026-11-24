@@ -9,7 +9,7 @@ N:
   circumstances, state of affairs, posture of affairs, the situationless, the determinate situation
 
 V:
-  situate, place, complicate
+  situate, place, complicate, complexify†
   prompt, call forth, give rise to
 
 Adj:

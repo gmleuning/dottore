@@ -15,7 +15,7 @@ V:
 
 Adj:
   symbolic, enigmatic, mysterious, colossal, monstrous, suggestive
-  symbolical, allusive, inadequate, ambiguous, Oriental
+  symbolical, allusive, inadequate, ambiguous, Oriental, amphibolous†, homonymous†
 
 Adv:
   symbolically, enigmatically

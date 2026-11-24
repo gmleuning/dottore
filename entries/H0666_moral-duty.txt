@@ -9,7 +9,7 @@ N:
   what ought to be done, moral obligation, accountableness†, liability, onus, responsibility, bounden duty, imperative duty, call, call of duty, accountability
   ethics, ethology, aretology†, moral philosophy, ethical philosophy, casuistry, polity
   dereliction of duty, fault &c H0657, sin &c H0668, non-observance, non-performance, neglect, relaxation, infraction, violation, transgression, failure, evasion, dead letter
-  devoir
+  devoir, abord†
 
 V:
   ought, must, be obliged, be duty-bound, owe
@@ -32,13 +32,22 @@ Adv:
   from duty
 
 F:
-  German: Pflicht, Sollen
-  Latin: officium, suo periculo, in foro conscientiae, quamdiu se bene gesserit
+  German: Pflicht, Sollen, Schuld, schuldig sein, fallen, müssen
+  Latin: officium, suo periculo, in foro conscientiae, quamdiu se bene gesserit, debitum, debere, fallere
   Greek: kathēkon
   Sanskrit: svadharma [one's own duty]
   Japanese: giri [social obligation]
+  French: dette
+  Italian: debito, dovere
+  Spanish: deuda, deber
 
 Phr:
   duty for duty's sake [F. H. Bradley, on Kant]
   better one's own dharma, though imperfect, than another's well performed [Bhagavad Gita]
   duty calls
+  honos habet onus [Lat.]
+  leve fit quod bene fertur onus [Lat.] [Ovid]
+  loyaute m'oblige [Fr.]
+  simple duty bath no place for fear [Whittier]
+  stern daughter of the voice of God [Wordsworth]
+  there is a higher law than the Constitution [Wm. Seward]

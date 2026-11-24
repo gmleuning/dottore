@@ -25,7 +25,7 @@ Adv:
   in order, harmoniously, symmetrically, in balance, as a whole
 
 F:
-  French: ordonnance
+  French: ordonnance, montage
 
 Phr:
   the pyramid of figures

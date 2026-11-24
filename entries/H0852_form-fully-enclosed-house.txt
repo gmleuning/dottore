@@ -7,7 +7,7 @@ HGloss: The house of God fully enclosed, shut off from external nature, a space 
 N:
   form: fully enclosed house; enclosure, interior, sanctuary, cloister, the closed space of worship, interiority
   the enclosed house, the house of God, enclosed space, the closed interior, the shutting-out of the world, church, cathedral, seclusion, shelter for the soul
-  privacy
+  privacy, obreption†, slynesslatitancy†, latitation†, secretness†
   sanctum
 
 V:

@@ -9,10 +9,10 @@ N:
   conceitedness, self-conceit
   fashion, style, ton, bon ton†, society, polite society, civilization, world
   triviality, levity, vanity &c H0196
-  ostentation, pretense, pretensions
+  ostentation, pretense, pretensions, priggism†, gaudery†
   folly, trifling
-  fop, fine gentleman, swell, dandy, dandiprat†, exquisite, coxcomb, beau, macaroni, blade, blood, buck, man about town, fast man, fribble, milliner†, Jemmy Jessamy†, carpet knight, masher, dude
-  fine lady, coquette, flirt, vamp
+  fop, fine gentleman, swell, dandy, dandiprat†, exquisite, coxcomb, beau, macaroni, blade, blood, buck, man about town, fast man, fribble, milliner†, Jemmy Jessamy†, carpet knight, masher, dude, atomy†, sempstress†, attitudinarian†
+  fine lady, coquette, flirt, vamp, highflier†, amorette†, agapemone†
   nullity, futility, vacuity, the vanity of all things, self-dissolving wit
   jadedness
 
@@ -35,9 +35,14 @@ Adv:
 F:
   Latin: vanitas
   Arabic: ghurūr [vanity, delusion]
+  Russian: poshlost [smug vulgarity, self-satisfied banality]
+  French: demi-monde, demi-mondaine, parvenu, arriviste, mauvais goût, nostalgie de la boue
+  German: Verfallenheit [fallenness] [Heidegger]
 
 Phr:
   vanitas vanitatum, omnia vanitas [Lat.] [Bible]
   Vanity Fair [Bunyan]
   too clever by half
   seen it all
+  how we apples swim! [Swift]
+  prouder than rustling in unpaid-for silk [Cymbeline]

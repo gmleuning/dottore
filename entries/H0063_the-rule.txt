@@ -8,7 +8,7 @@ N:
   the rule; rule, ruler, measuring rod, yardstick, metre stick, tape measure, scale, gauge, standard, unit, plumb line, level, square, chain, foot, ell, cubit, span, palm, hand, fathom, league, mile; standard weight, standard measure, weights and measures, metrology; external standard, conventional standard
   line, nail, inch, yard, rood, pole, furlong, link, arpent†, handbreadth†, jornada [U.S.], kos†, vara†
   yard measure, foot rule, compass, calipers, gage, meter, rod, check, dividers, velo†
-  normality, normalcy, normalness†, familiarity, naturalness, commonness &c H0222, customary &c H0431
+  normality, normalcy, normalness†, familiarity, naturalness, commonness &c H0222, customary &c H0431, oftness†, oftenness†
   model, pattern
   prototype, original, precedent, ideal, reference, scantling, type, archetype, antitype†, protoplast, module, exemplar, example, ensample†, paradigm, lay-figure
   principle, law, order of things, normal state, natural state
@@ -35,8 +35,19 @@ F:
   German: Maßstab
   Latin: regula, norma [carpenter's square], ad instar, instar omnium, more solito
   Greek: kanōn [measuring rod]
+  French: règle, norme
 
 Phr:
   measure twice, cut once
   rule of thumb
   by the rule
+  a precedent embalms a principle [Lat.Tran] [Disraeli]
+  exempla sunt odiosa [Lat.]
+  cela va sans dire [Fr.]
+  ex pede Herculem [Lat.]
+  noscitur a sociis [Lat.]
+  ne e quovis ligno Mercurius fiat [Lat.] [Erasmus]
+  they are happy men whose natures sort with their vocations [Bacon]
+  The nail that sticks up hammered down [Jap.Tr.]
+  Tall poppy syndrome
+  Stick your neck out and it may get cut off

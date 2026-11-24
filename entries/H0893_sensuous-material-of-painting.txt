@@ -5,7 +5,7 @@ Gloss: The material of painting: surface, light and color.
 HGloss: The material of painting: the surface, and light and colour as its element.
 
 N:
-  sensuous material of painting; colour, paint, pigment, surface, light and shade, the visible as such
+  sensuous material of painting; colour, paint, pigment, surface, light and shade, the visible as such, clairobscur†
   plane, flat, canvas, panel, ground, chiaroscuro, hue, tint, visibility, semblance, two dimensions
   sfumato, tonality
 
@@ -20,6 +20,9 @@ Adj:
 Adv:
   in colour
   on the flat, on canvas, to the eye
+
+F:
+  Italian: morbidezza [softness of flesh tones]
 
 Phr:
   the visible made spiritual

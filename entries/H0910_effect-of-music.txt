@@ -7,14 +7,14 @@ HGloss: The power of music, which seizes the self in its simple inwardness.
 N:
   effect of music; emotional power, catharsis, enchantment, transport, rapture, ecstasy, the spell of music, Orpheus
   happiness, felicity, bliss, beatitude, ravishment
-  transport of love
+  transport of love, gyneolatry†
   the power of music, the sway of music, emotional effect, the stirring of the soul, emotion, exaltation, elevation, consolation, solace, magic, fascination, Amphion, the Sirens, David's harp
   entrancement
 
 V:
   move, transport, enchant, enrapture, soothe
-  please, charm, delight, captivate, fascinate, entrance, bewitch
-  affect, stir, touch, thrill, melt, rouse, calm, console, uplift, carry away, ravish, spellbind, sway
+  please, charm, delight, captivate, fascinate, entrance, bewitch, enravish†
+  affect, stir, touch, thrill, melt, rouse, calm, console, uplift, carry away, ravish, spellbind, sway, adeem†, reave†
 
 Adj:
   moving, enchanting, rapturous, soothing, stirring

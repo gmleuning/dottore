@@ -7,18 +7,18 @@ HGloss: The defect of natural beauty: the living thing does not show its inner s
 N:
   deficiency of natural beauty; limitation of nature, imperfection of the natural, contingency, the dependence of natural beauty, the need for art, nature's shortfall
   stain, blot, blur
-  blemish, disfigurement, deformity, adactylism†, flaw, defect &c H0016, injury &c H0721, spots on the sun†, eyesore
+  blemish, disfigurement, deformity, adactylism†, flaw, defect &c H0016, injury &c H0721, spots on the sun†, eyesore, acomia†, inconcinnity†
   imperfection, shortcoming, inadequacy, want, insufficiency, limitation, finitude, dependence
 
 V:
   fall short, lack, fail
   fall short &c H0021
-  disfigure &c H0721, speckle
+  disfigure &c H0721, speckle, bespeckle†
   be wanting
 
 Adj:
   deficient, imperfect, contingent, limited, wanting
-  incomplete, imperfect &c H0016, defective
+  incomplete, imperfect &c H0016, defective, marescent†
   insufficient, inadequate, deficient &c H0120
   faulty, crude &c H0196
   pitted, freckled, discolored, blobber-lipped, bloodshot, injured &c H0721
@@ -35,3 +35,4 @@ Phr:
   die Kunstschönheit ist die aus dem Geiste geborene und wiedergeborene Schönheit [Ger.] [Hegel, Aesthetics, Introduction]
   nature is not enough
   flawed beauty
+  surgit amari aliquid [Lat.]

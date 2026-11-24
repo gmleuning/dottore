@@ -5,11 +5,11 @@ Gloss: The passing of property to heirs.
 HGloss: Inheritance, the entry of individuals into the family's property after its natural dissolution by death.
 
 N:
-  rights of inheritance; inheritance, succession, heritage, bequest, legacy, testament, will, intestacy, primogeniture, heirship
+  rights of inheritance; inheritance, succession, heritage, bequest, legacy, testament, will, intestacy, primogeniture, heirship, dotation†
   future possession, reversion, fee, seigniority†, ultimogeniture†
   dot
   patrimony, legacy &c H0630
-  last will and testament, codicil
+  last will and testament, codicil, muniment†
   descent
 
 V:
@@ -31,6 +31,7 @@ F:
   Latin: hereditas, fideicommissum, ab intestato
   Arabic: farāʾiḍ [fixed shares]
   Sanskrit: dāyabhāga [partition of inheritance]
+  German: Nachlass [estate, literary remains]
 
 Phr:
   hereditas numquam ascendit [Lat.]

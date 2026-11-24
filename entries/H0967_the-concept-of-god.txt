@@ -7,10 +7,10 @@ HGloss: God as the absolute universal, the one substance that is absolutely all;
 N:
   the concept of God; God, the deity, the divine, Godhead, the absolute, the supreme being, the One, the infinite, the creator
   Lord, Jehovah, Jahweh, Allah†, The Almighty, The First Cause, the Prime Mover, Author of all things, Creator of all things, Author of our being, Cosmoplast†, El, The Eternal, The All-powerful, The All-wise, The All- merciful, The All-holy
-  Deity, Divinity, Godship†, Omnipotence, Providence
+  Deity, Divinity, Godship†, Omnipotence, Providence, divineness†
   God the Father, The Maker, The Preserver
-  infinite power, infinite wisdom, infinite goodness, infinite justice, infinite truth, infinite mercy, omniscience, omnipresence, unity, immutability, holiness, glory, majesty, sovereignty, infinity, eternity
-  creation, preservation, divine government, Theocracy, Thearchy†, ways of Providence, dealings of Providence, dispensations of Providence, visitations of Providence
+  infinite power, infinite wisdom, infinite goodness, infinite justice, infinite truth, infinite mercy, omniscience, omnipresence, unity, immutability, holiness, glory, majesty, sovereignty, infinity, eternity, everness†
+  creation, preservation, divine government, Theocracy, Thearchy†, ways of Providence, dealings of Providence, dispensations of Providence, visitations of Providence, dinarchy†, duarchy†, heterarchy†
   eon, aeon, special providence, avatar
   inspiration, unction, regeneration, sanctification, consolation
   God the Holy Ghost, The Holy Spirit, Paraclete [Theo.], The Comforter, The Spirit of Truth, The Dove
@@ -26,25 +26,38 @@ Adj:
   superhuman, supernatural, ghostly, spiritual, hyperphysical†, unearthly, theocratic, anointed, soterial†
   almighty, holy, hallowed, sacred, heavenly, celestial, sacrosanct, all-knowing, all-seeing, all-wise, omniscient
   by divine right
-  deific, unconditioned, necessary, self-existent, self-subsistent, uncreated, everlasting, immutable, omnipotent, omnipresent, all-embracing, all-encompassing, all-sufficient, most high, highest, ultimate, transcendent, immanent, ineffable, numinous, theological, monotheistic, deistic, pantheistic
-  ubiquitous
+  deific, unconditioned, necessary, self-existent, self-subsistent, uncreated, everlasting, immutable, omnipotent, omnipresent, all-embracing, all-encompassing, all-sufficient, most high, highest, ultimate, transcendent, immanent, ineffable, numinous, theological, monotheistic, deistic, pantheistic, strick†, schismless†
+  ubiquitous, ubiquitary†
 
 Adv:
   divinely, by God
   absolutely, supremely, infinitely, eternally, omnipotently, in God, of God, under God, from above, by the grace of God
 
 F:
-  German: Gott, das höchste Wesen, das Absolute, Gottheit, das Wahre
-  Latin: ens realissimum, Deus, Ens Entium, jure divino, deus ex machina, ens necessarium, ens perfectissimum, ens a se, summum bonum, summum ens, causa sui, actus purus, ipsum esse subsistens
+  German: Gott, das höchste Wesen, das Absolute, Gottheit, das Wahre, der Inbegriff aller Realität, die Allheit aller möglichen Pradikäte
+  Latin: ens realissimum, Deus, Ens Entium, jure divino, deus ex machina, ens necessarium, ens perfectissimum, ens a se, summum bonum, summum ens, causa sui, actus purus, ipsum esse subsistens, potentia absoluta, potentia ordinata [God's absolute and ordained power], omnitudo realitatis [the sum of all reality] [Kant]
   Greek: Theos, to theion, to hen, archē, ho ōn
-  Hebrew: Elohim, Adonai, ehyeh asher ehyeh
+  Hebrew: Elohim, Adonai, ehyeh asher ehyeh, Eloah
   Arabic: Allāh, al-Ḥaqq [the Real]
   Sanskrit: Īśvara [the Lord], Brahman
   Chinese: Shangdi [the Lord on High], Tian [Heaven]
   Japanese: kami
   Korean: Haneunim [God], Hananim [God (Protestant)]
+  Basque: jainko, jinko, Jaungoikoa
+  Finnish: jumala
+  French: dieu, le tout de la réalité, le tout inclusif de la réalité
+  Hungarian: isten
+  Italian: dio
+  Russian: bog
+  Spanish: dios
 
 Phr:
   God is that than which nothing greater can be conceived [Anselm]
   I am that I am [Bible]
   in Him we live and move and have our being
+  Domine dirige nos [Lat.]
+  en Dieu est ma fiance [Fr.]
+  et sceleratis sol oritur [Lat.] [Seneca]
+  He mounts the storm and walks upon the wind [Pope]
+  Thou great First Cause, least understood [Pope]
+  sans Dieu rien [Fr.]

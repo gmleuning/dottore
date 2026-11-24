@@ -7,7 +7,7 @@ HGloss: True infinity, which contains the finite as a moment within itself: bein
 N:
   affirmative infinity, true infinity, genuine infinite; actual infinite, completed infinite; circle, cycle, ring, orb, sphere, round, closed curve, serpent swallowing its tail; return, homecoming, self-return; wholeness, totality, completeness, entirety, fullness, plenitude, perfection, consummation; self-containment, self-sufficiency, autarky; the whole; mandala; eternity, eternal now
   integrity, unity &c H0031, completeness &c H0120, integration
-  hoop, annulus, loop, wheel, orbit
+  hoop, annulus, loop, wheel, orbit, roundlet†, annulet†, contrate wheel†
   circuit
   fullness &c H0120
   the true infinite, the affirmative infinite
@@ -20,7 +20,7 @@ V:
   return into itself
 
 Adj:
-  infinite, true, genuine, actual; circular, cyclic, cyclical, orbicular, spherical, rounded, self-returning, self-enclosed, self-contained, self-sufficient; whole, entire, complete, total, integral, perfect, consummate; all-embracing, all-encompassing, comprehensive
+  infinite, true, genuine, actual; circular, cyclic, cyclical, orbicular, spherical, rounded, self-returning, self-enclosed, self-contained, self-sufficient; whole, entire, complete, total, integral, perfect, consummate; all-embracing, all-encompassing, comprehensive, cycloidal†
   annular
   complete &c H0120
   whole &c H0120, perfect &c H0197, absolute, plenary

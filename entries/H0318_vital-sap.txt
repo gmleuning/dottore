@@ -14,7 +14,7 @@ V:
 
 Adj:
   vital, nourishing, elaborated, enlivening
-  nutritive, lacteal
+  nutritive, lacteal, lactean†, lacteous†, lactescent†, lactiferous†
 
 Adv:
   vitally

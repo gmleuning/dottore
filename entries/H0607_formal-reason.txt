@@ -26,6 +26,7 @@ V:
 Adj:
   inferential, deductive, logical, syllogistic, ratiocinative, formal
   deducible, consequential, consectary†, following
+  confutable†
 
 Adv:
   deductively, logically
@@ -39,3 +40,13 @@ Phr:
   it stands to reason
   it follows
   by logic
+  ab actu ad posse valet consecutio [Lat.]
+  per troppo dibatter la verita si perde [It.]
+  troppo disputare la verita fa errare [It.]
+  probatum est [Lat.]
+  there is nothing more to be said
+  quod est demonstrandum [Lat.], Q.E.D
+  it must follow
+  exitus acta probat [Lat.]
+  the argument falls to the ground, cadit quaestio [Lat.], it does not hold water, suo sibi gladio hunc jugulo [Terence]
+  his argument was demolished by new evidence

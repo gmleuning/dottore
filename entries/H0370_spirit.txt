@@ -26,15 +26,17 @@ Adv:
   self-consciously
 
 F:
-  German: Freiheit, Volksgeist [spirit of a people], Zeitgeist [spirit of the age], geistig
+  German: Freiheit, Volksgeist [spirit of a people], Zeitgeist [spirit of the age], geistig, Geisteswissenschaften [the human sciences] [Dilthey]
   Latin: spiritus, mens
   Greek: pneuma, nous
-  French: esprit, esprit de corps
+  French: esprit, esprit de corps, sciences humaines, sciences de l’esprit
   Hebrew: ruach [breath, spirit]
   Arabic: rūḥ [spirit], ʿaql [intellect], nafs [soul, self]
   Sanskrit: ātman [self], cit [consciousness], manas [mind], puruṣa [spirit]
   Chinese: xin [heart-mind], shen [spirit]
   Korean: jeongsin [spirit]
+  Italian: scienze umane, scienze morali, scienze dello spirito
+  Polish: nauki humanistyczne
 
 Phr:
   the wind bloweth where it listeth ... so is every one that is born of the Spirit [Bible]

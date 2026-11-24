@@ -7,7 +7,7 @@ HGloss: The point's negation of itself into otherness, the line, the first being
 N:
   line; straight line, curve, stroke, streak, stripe, strip, thread, filament, string, cord, ray, vector, axis, trajectory, path, track, trace, course, route; length, extension in one direction
   bar, spoke, radius
-  wire, packthread, cotton, sewing silk, twine, twist, whipcord, tape, ribbon, rope, yarn, hemp, oakum, jute
+  wire, packthread, cotton, sewing silk, twine, twist, whipcord, tape, ribbon, rope, yarn, hemp, oakum, jute, halser†
   hair's breadth, finger's breadth, vein
   fiber, fibril, funicle†, hair, capillament†, cilium, cilia, pilus, pili, tendril, gossamer, hair stroke, veinlet†, venula†, venule†
   orbit
@@ -15,11 +15,12 @@ N:
   rank, file, row, range, tier
   parallelism, coextension†, equidistance†, similarity &c H0091
   perpendicularity, orthogonality, verticality
-  obliquity, inclination, slope, slant, crookedness, slopeness†, leaning, bevel, tilt, bias, list, swag, cant, lurch, distortion &c H0267, bend &c H0267, tower of Pisa
+  obliquity, inclination, slope, slant, crookedness, slopeness†, leaning, bevel, tilt, bias, list, swag, cant, lurch, distortion &c H0267, bend &c H0267, tower of Pisa, detortion†, malconformation†, talipes†
   acclivity, rise, ascent, gradient, khudd†, rising ground, hill, bank, declivity, downhill, dip, fall, devexity†, gentle slope, rapid slope, easy ascent, easy descent, shelving beach, talus
   one-dimensional extension
   road
   linearity
+  batophobia†, bathometer†, tabouret†
 
 V:
   line, draw, trace, stroke, streak, extend, rule, underline, delineate
@@ -49,3 +50,8 @@ Phr:
   the shortest distance between two points
   as the crow flies
   in a straight line
+  e meglio cader dalle finistre che dal tetto [It.]
+  en flute
+  fleur deau [Fr.]
+  stick to the reservation
+  go beyond the pale

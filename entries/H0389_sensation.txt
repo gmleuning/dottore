@@ -31,11 +31,18 @@ Adv:
   by sensation
 
 F:
-  Latin: sensatio
-  Greek: aisthēsis
+  Latin: sensatio, sensus, sententia, vis, intellectus, significatio
+  Greek: aisthēsis, nous, dianoia, sēma
   Sanskrit: vedanā [feeling, sensation]
+  French: sens
+  German: Sinn, Bedeutung, Gefühl
+  Italian: senso
+  Spanish: sentido
 
 Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]
   to come to one's senses
   to feel one's way
+  the touch'd needle trembles to the pole [Pope]
+  ride si sapis [Lat.] [Martial]
+  voluptales commendat rarior usus [Lat.] [Juvenal]

@@ -15,7 +15,7 @@ V:
 
 Adj:
   theological, theognostic, mystical, rational
-  knowing, cognitive, noetic, gnostic, speculative, contemplative, intuitive, revealed, natural, demonstrative, illuminated, enlightened, God-conscious, knowable, cognizable
+  knowing, cognitive, noetic, gnostic, speculative, contemplative, intuitive, revealed, natural, demonstrative, illuminated, enlightened, God-conscious, knowable, cognizable, cognoscible†
 
 Adv:
   theologically

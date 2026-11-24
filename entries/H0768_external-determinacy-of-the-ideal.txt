@@ -14,8 +14,8 @@ N:
 V:
   set, costume, furnish, localize
   equip, dress, array
-  garnish, trim, dizen†, bedizen, prink†, prank, trick out, fig out, deck, bedeck, dight†, bedight†, begawd†, titivate†, dress up, spangle, bespangle, powder, embroider, work, chase, emboss, emblazon, illuminate, illustrate
-  smarten, furbish, polish, gild, varnish, whitewash, enamel, japan, lacquer, paint, grain
+  garnish, trim, dizen†, bedizen, prink†, prank, trick out, fig out, deck, bedeck, dight†, bedight†, begawd†, titivate†, dress up, spangle, bespangle, powder, embroider, work, chase, emboss, emblazon, illuminate, illustrate, betrim†
+  smarten, furbish, polish, gild, varnish, whitewash, enamel, japan, lacquer, paint, grain, lacker†, parget†
   ornament, embellish, enrich, decorate, adorn, bead, beautify, adonize†
   surround, environ, situate, stage
 
@@ -25,7 +25,7 @@ Adj:
   showy, flashy, gaudy &c H0746, garish, gairish†, gorgeous
   in full dress &c H0534, dressed to kill, dressed to the nines, dressed to advantage, in Sunday best, in best bib and tucker
   smart, gay, trickly†, flowery, glittering, new gilt, new spangled, fine as a Mayday queen, fine as a fivepence†, fine as a carrot fresh scraped, pranked out, well-groomed
-  ornamented, beautified, ornate, rich, gilt, begilt†, tesselated, festooned, cloisonne, topiary
+  ornamented, beautified, ornate, rich, gilt, begilt†, tesselated, festooned, cloisonne, topiary, punctated†, sesquipedal†
   environmental, circumstantial
 
 Adv:
@@ -39,3 +39,4 @@ F:
 Phr:
   local colour
   the setting of the scene
+  honores mutant mores [Lat.]

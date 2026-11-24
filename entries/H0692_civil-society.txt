@@ -21,9 +21,12 @@ Adv:
   in civil society, as private persons
 
 F:
-  German: Not- und Verstandesstaat
+  German: Not- und Verstandesstaat, das Man [the they] [Heidegger]
   Latin: societas civilis
   Korean: simin sahoe [civil society]
+  Chinese: neijuan [involution, self-defeating competition]
+  French: flâneur, flâneuse, boulevardier
+  Greek: koinonia politike
 
 Phr:
   die bürgerliche Gesellschaft [ist] der Kampfplatz des individuellen Privatinteresses Aller gegen Alle [Ger.] [Hegel, Philosophy of Right §289 Remark]

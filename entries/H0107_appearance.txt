@@ -7,10 +7,10 @@ HGloss: Essence that appears, reflected into existence: what exists as appearanc
 N:
   appearance, phenomenon, apparition, manifestation, appearing, showing, display, presentation, exhibition, epiphany; phenomenality, phenomenalism, phenomenology; the phenomenal world, world of appearance, the sensible world; outward show, surface, face, aspect, look, guise
   expression, exposition, demonstration
-  sight, spectacle, premonstration†, scene, species, view, lookout, outlook, prospect, vista, perspective, bird's-eye view, scenery, landscape, picture, tableau, exposure, rising of the curtain
+  sight, spectacle, premonstration†, scene, species, view, lookout, outlook, prospect, vista, perspective, bird's-eye view, scenery, landscape, picture, tableau, exposure, rising of the curtain, prospection†
   phase
-  extrinsicality†, objectiveness, non ego, extraneousness &c H0081, accident, phenomenon &c H0391
-  visibility, perceptibility, manifestation &c H0599
+  extrinsicality†, objectiveness, non ego, extraneousness &c H0081, accident, phenomenon &c H0391, alienage†
+  visibility, perceptibility, manifestation &c H0599, conspicuity†, bassetting†, periscopism†
   obviousness, evidentness
 
 V:
@@ -35,7 +35,7 @@ Adv:
 F:
   Latin: mundus sensibilis, prima facie
   Greek: phainomenon
-  French: coup d'oeil, mise en sc ne
+  French: coup d'oeil, mise en sc ne, phénomène, apparence, illusion, simulacra, révélation
   Arabic: ẓuhūr [manifestation], ẓāhir [the outward]
   Sanskrit: ābhāsa
   Korean: hyeonsang [appearance]
@@ -44,3 +44,4 @@ Phr:
   save the appearances, sōzein ta phainomena [Gr.]
   things are seldom what they seem
   to make an appearance
+  editio princeps [Lat.]

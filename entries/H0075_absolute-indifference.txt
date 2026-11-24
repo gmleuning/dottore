@@ -30,7 +30,7 @@ F:
   Latin: materia prima
   Greek: hypokeimenon, hylē
   Sanskrit: prakṛti [primal matter]
-  Chinese: hundun [primordial chaos]
+  Chinese: hundun [primordial chaos], qiwu [the equality of things] [Zhuangzi]
 
 Phr:
   the night in which all cows are black [Hegel]

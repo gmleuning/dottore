@@ -10,7 +10,7 @@ N:
   salification, the neutral product
 
 V:
-  neutralize, salt, balance, counteract, temper
+  neutralize, salt, balance, counteract, temper, overpoise†
   compensate, countervail, counterpoise, counterbalance
   salify, combine, saturate
 

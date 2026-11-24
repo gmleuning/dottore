@@ -8,7 +8,7 @@ N:
   vacuity; emptiness of mind, blankness, vacancy, mindlessness, idiocy, stupor, torpor, apathy, inanity, absence of thought, mental void
   incogitancy†, inunderstanding†, fatuity &c H0421, thoughtlessness &c H0586
   emptiness, void, vacuum
-  torpidity, lethargy, trance, stupefaction
+  torpidity, lethargy, trance, stupefaction, torpescence†
   dullness, stupor &c H0433
   fatuity
   inanition
@@ -18,7 +18,7 @@ V:
 
 Adj:
   vacuous, vacant, blank, empty, mindless, inane, torpid, stuporous, absent
-  unintellectual, unoccupied, unthinking, thoughtless, absent &c H0586
+  unintellectual, unoccupied, unthinking, thoughtless, absent &c H0586, unbusied†
   empty &c H0227, hollow, null
   vain
   abstracted, bemused

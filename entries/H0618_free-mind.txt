@@ -16,16 +16,16 @@ V:
   be free, will freely, determine oneself, liberate, emancipate
   set free, set clear, set at liberty, render free, release, enfranchise, affranchise†, manumit, enlarge, disband, discharge, disenthrall, disenthral, dismiss, let go, let loose, let out, let slip, cast adrift, turn adrift, deliver &c H0995, absolve &c H0703
   have scope, have the run of, have one's own way, have a will of one's own, have one's fling, do what one likes, do what one wishes, do what one pleases, do what one chooses, go at large, feel at home, paddle one's own canoe, stand on one's legs, stand on one's rights, shift for oneself
-  disencumber, disentangle, disengage, extricate
+  disencumber, disentangle, disengage, extricate, deobstruct†
   will oneself
 
 Adj:
   free, autonomous, self-determining, independent, sovereign, emancipated, unfettered
   free as air, out of harness, at large, loose, scot-free, left alone, left to oneself
-  exempt, freed, freeborn, freehold, allodial†, gratis &c H0636, eleutherian†
+  exempt, freed, freeborn, freehold, allodial†, gratis &c H0636, eleutherian†, feodal†
   unsubject†, ungoverned, unenslaved†, unenthralled†, unchained, unshackled, unreined†, unbridled, uncurbed, unmuzzled
   voluntary, volitional, willful, optional, discretional, discretionary, volitient†, volitive†
-  unchecked
+  unchecked, unprevented†
 
 Adv:
   freely, of one's own free will, autonomously
@@ -33,11 +33,21 @@ Adv:
   of one's own will
 
 F:
-  Latin: liberum arbitrium, proprio motu, suo motu, ex meromotu
+  Latin: liberum arbitrium, proprio motu, suo motu, ex meromotu, libertas
   Sanskrit: mukti [liberation]
+  Russian: volya [freedom as unbounded will], svoboda [freedom]
+  French: liberté, libre arbitre, volonté
+  German: Willkür
 
 Phr:
   the free will which wills the free will [Hegel]
   Freiheit ist die Einsicht in die Notwendigkeit [Ger.] [Engels, Anti-Dühring I.11, on Hegel]
   blind ist die Notwendigkeit nur, insofern dieselbe nicht begriffen wird [Ger.] [Hegel, Encyclopaedia §147 Zusatz]
   a free spirit
+  stet pro ratione voluntas [Lat.]
+  sic volo sic jubeo [Lat.]
+  a vostro beneplacito [It.]
+  beneficium accipere libertatem est vendere [Lat.]
+  was man nicht kann meiden muss man willig leiden [Ger.]
+  ubi libertas ibi patria [Lat.]
+  free white and twenty-one

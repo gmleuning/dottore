@@ -11,6 +11,7 @@ N:
   predestination, preordination, predetermination, foregone conclusion
   unconditioned necessity, the simply necessary
   ananke, necessitarianism
+  necessarian†, necessitarian†
 
 V:
   be necessary, must be, cannot be otherwise; necessitate, ordain, decree, destine, predestine, foreordain, doom
@@ -32,7 +33,7 @@ F:
   German: Notwendigkeit
   Latin: necessitas, Parcae, nolens volens, ex necessitate rei
   Greek: anankē, heimarmenē [fate], moira
-  French: bon gre mal gre, coute que coute
+  French: bon gre mal gre, coute que coute, force des choses [the force of circumstance]
   Old Norse: Norns
   Arabic: qadar [decree, destiny], maktūb [it is written]
   Turkish: kismet
@@ -48,3 +49,17 @@ Phr:
   blind ist die Notwendigkeit nur, insofern dieselbe nicht begriffen wird [Ger.] [Hegel, Encyclopaedia §147 Zusatz]
   it is what it is
   it had to be
+  it cannot be helped
+  there is no help for, there is no helping it
+  it will be, it must be, it needs to be, it must be so, it will have its way
+  the die is cast
+  jacta est alea [Lat.]
+  che sara sara [Fr.]
+  one's days are numbered, one's fate is sealed
+  Fata obstant [Lat.]
+  diis aliter visum [Lat.]
+  actum me invito factus [Lat.], non est meus actus [Lat.]
+  aujord'hui roi demain rien [Fr.]
+  quisque suos patimur manes [Lat.] [Virgil]
+  The moving finger writes and having writ moves on
+  Nor all thy piety nor wit shall draw it back to cancel half a [Rubayyat of Omar Khayyam]

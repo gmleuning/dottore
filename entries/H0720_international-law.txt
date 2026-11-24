@@ -8,7 +8,7 @@ N:
   international law; law of nations, public international law, treaties, comity of nations, diplomacy, recognition, alliances, the balance of power, the ought of treaties, perpetual peace
   mediation, mediatorship†, mediatization†, intervention, interposition, interference, intermeddling, intercession, arbitration, flag of truce, good offices, parley, negotiation, diplomatics†, compromise &c H0626
   negotiation &c H0635, negotiator &c H0714
-  peace, amity &c H0489, harmony &c H0487, tranquility, calm &c H0228, truce, peace treaty, accord, peace pipe, pipe of peace
+  peace, amity &c H0489, harmony &c H0487, tranquility, calm &c H0228, truce, peace treaty, accord, peace pipe, pipe of peace, indisturbance†, imperturbation†
   peace offering, olive branch, calumet of peace, preliminaries of peace
   dove of peace, white dove
   the law of peoples, treaty, comity, mutual recognition
@@ -32,12 +32,19 @@ Adv:
   internationally, between states
 
 F:
-  German: Zum ewigen Frieden [Kant]
+  German: Zum ewigen Frieden [Kant], Weltpolitik [world policy]
   Latin: ius gentium, magnas componere lites, jus gentium, pacta sunt servanda
-  French: droit des gens
+  French: droit des gens, cordon sanitaire, corps diplomatique, chargé d'affaires
   Arabic: siyar [Islamic law of nations]
+  Chinese: tianxia [all under heaven], duojihua [multipolarity]
 
 Phr:
   pacta sunt servanda [Lat.]
   perpetual peace [Kant]
   the comity of nations
+  the storm blown over
+  the lion lies down with the lamb
+  all quiet on the Potomac
+  paritur pax bello [Lat.] [Nepos]
+  peace hath her victories no less renowned than war [Milton]
+  they make a desert and they call it peace

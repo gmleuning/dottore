@@ -23,7 +23,7 @@ Adv:
 F:
   German: Drama, bürgerliches Trauerspiel, Rührstück, Versöhnung
   Latin: tragicomoedia
-  French: drame, drame bourgeois, comédie larmoyante, tragi-comédie
+  French: drame, drame bourgeois, comédie larmoyante, tragi-comédie, pièce à thèse, pièce bien faite
 
 Phr:
   Iphigenia in Tauris [Goethe]

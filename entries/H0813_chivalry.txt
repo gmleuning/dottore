@@ -6,7 +6,7 @@ HGloss: The chivalry of the secular world, the subject's own infinity as honour,
 
 N:
   chivalry; knighthood, chivalric code, courtliness, knight-errantry, gallantry, courtesy, the Round Table, the Grail quest
-  baron, thane, banneret†
+  baron, thane, banneret†, atheling†, marquisate†, baronetcy†
   good manners, good breeding, politeness, urbanity, gentility, breeding
   the knightly world, the code of chivalry, prowess, valour, the tournament, the joust, the paladin
 
@@ -27,7 +27,7 @@ F:
   Italian: cavalleria
   Spanish: caballería
   Arabic: furūsiyya [chivalry], futuwwa
-  Chinese: wuxia [martial chivalry]
+  Chinese: wuxia [martial chivalry], jianghu [rivers and lakes, the world of wandering knights]
   Japanese: bushidō
 
 Phr:

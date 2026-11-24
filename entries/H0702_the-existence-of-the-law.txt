@@ -13,7 +13,7 @@ N:
 
 V:
   promulgate, publish, proclaim, make known
-  make public, make known &c H0599, speak of, talk of, broach, utter, put forward, circulate, propagate, spread, spread abroad, rumor, diffuse, disseminate, evulugate, put forth, give forth, send forth, emit, edit, get out, issue, bring before the public, lay before the public, drag before the public, give out, give to the world, put about, bandy about, hawk about, buzz about, whisper about, bruit about, blaze about, drag into the open day, voice
+  make public, make known &c H0599, speak of, talk of, broach, utter, put forward, circulate, propagate, spread, spread abroad, rumor, diffuse, disseminate, evulugate, put forth, give forth, send forth, emit, edit, get out, issue, bring before the public, lay before the public, drag before the public, give out, give to the world, put about, bandy about, hawk about, buzz about, whisper about, bruit about, blaze about, drag into the open day, voice, averuncate†
   publish &c H0599, notify
   herald, blazon, blaze abroad, noise abroad, sound a trumpet, trumpet forth, thunder forth, give tongue, announce with beat of drum, announce with flourish of trumpets, proclaim from the housetops, proclaim at Charing Cross
   codify
@@ -39,3 +39,7 @@ F:
 Phr:
   to hang the laws so high that no citizen could read them [Hegel on Dionysius]
   on the books
+  notice is hereby given
+  this is to give, these are to give notice
+  nomina stultorum parietibus haerent [Lat.]
+  semel emissum volat irrevocabile verbum [Lat.]

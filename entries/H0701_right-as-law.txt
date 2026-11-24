@@ -33,11 +33,16 @@ Adv:
 
 F:
   Latin: lex, ius positivum, corpus juris, lex scripta, lex nonscripta, jus gentium, jus civile, lex mercatoria, fieri facias, de jure
-  French: droit des gens
+  French: droit des gens, droits civils, droits civiques, loi
   Arabic: sharʿ
   Sanskrit: dharmaśāstra [law code]
+  Spanish: ley, derecho
+  Greek: nomos
+  Italian: diritto
 
 Phr:
   ignorantia legis neminem excusat [Lat.] [ignorance of the law excuses no one]
   the letter of the law
   the rule of law
+  ignorantia legis neminem excusat [Lat.], ignorance of the law is no excuse
+  where law ends tyranny begins [Earl of Chatham]

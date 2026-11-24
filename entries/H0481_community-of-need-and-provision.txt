@@ -10,7 +10,7 @@ N:
   means, resources, wherewithal, ways and means, provision &c H0694
   nourishment, sustenance, nurture, subsistence
   common need, mutual need, foresight, shared want, the common store
-  assistance, supplying
+  assistance, supplying, opitulation†
   commonalty
 
 V:
@@ -29,9 +29,14 @@ Adv:
   in common, by mutual need, providently
 
 F:
-  Greek: oikos
+  Greek: oikos, phrontis
+  French: souci, soin, sollicitude
+  German: Fürsorge, Besorgen
+  Latin: sollicitudo
 
 Phr:
   each depends on the other
   in the same boat
   to look after one's own
+  alterum alterius auxilio eget [Lat.] [Sallust]
+  God befriend us as our cause is just [Henry IV]

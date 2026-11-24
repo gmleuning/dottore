@@ -17,7 +17,7 @@ N:
   nonpayment, default, defalcation, repudiation, application of the sponge†, whitewashing
   insolvency, bankruptcy, failure, insufficiency &c H0694, run upon a bank, overdrawn account
   waste paper bonds, dishonored bills, protested bills, bogus check, bogus cheque, rubber check
-  bankrupt, debtor, lame duck, man of straw, welsher, stag, defaulter, levanter†
+  bankrupt, debtor, lame duck, man of straw, welsher, stag, defaulter, levanter†, debitor†
   money-lending, loan at interest
   insurer, brokerage
   financial organization, financial institution, financial organisation, trust company, central bank, trust corporation, banking concern, banking company, clearing house, lending institution, issuing house, depository financial institution, state bank, member bank, lead bank, full service bank, credit union, insurance company, commercial bank, investment trust, investment company, agent bank, investment firm, insurance firm, finance company, reserve bank, securities firm, merchant bank, thrift institution, brokerage firm, insurance underwriter, national bank, unit trust, commercial credit company, unit investment trust, open-end fund, closed-end fund, private foundation, fixed investment trust, small loan company, sales finance company, commercial finance company, consumer finance company, public charity, mutual fund company, hedge fund, captive finance company, marriage mart, marriage brokerage, philanthropic foundation, building society, industrial bank, industrial loan company, federal savings bank, mutual savings bank
@@ -36,7 +36,7 @@ V:
 Adj:
   lent, borrowed, owing, indebted, interest-bearing, usurious
   liable, chargeable, answerable for
-  unpaid, unrequited, unrewarded, due, in arrear†, outstanding, past due
+  unpaid, unrequited, unrewarded, due, in arrear†, outstanding, past due, extraregarding†, exomorphic†, unthanked†
   not paying, non-paying, non-performing, in debt, behindhand, behind in payments, in arrears, beggared &c H0705, unable to make both ends meet, minus, worse than nothing, worthless
   insolvent, in the gazette, gazetted
   gratis &c H0636, unremunerated
@@ -54,3 +54,5 @@ F:
 Phr:
   the borrower is servant to the lender [Bible]
   neither a borrower nor a lender be
+  aes alienum debitorem leve gravius inimicum facit [Lat.]
+  ingratitude! thou marble-hearted fiend [Lear]

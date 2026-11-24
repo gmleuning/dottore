@@ -7,7 +7,7 @@ HGloss: Christian sculpture, which cannot fully express the inwardness of the ro
 N:
   Christian sculpture; medieval sculpture, Gothic statuary, portal figures, crucifix, Pietà, Michelangelo's David, Donatello, Bernini
   church sculpture, cathedral sculpture, the Madonna, saints' figures, tomb effigy, altarpiece carving, Michelangelo, the Nuremberg masters, Peter Vischer
-  reliquary
+  reliquary, patera†, eileton†, Sangraal†, urceus†
 
 V:
   carve, sculpt, devote

@@ -5,7 +5,7 @@ Gloss: Three ways a thing is defined: its determination, what it is essentially;
 HGloss: Determination, what something is in itself; constitution, what it is through its relation to other; limit, the non-being of each in the other.
 
 N:
-  determination, vocation, destiny, calling, purpose, end, in-itself, inner nature; constitution, make-up, condition, state, circumstance, situation, disposition, external character, accidental nature; limit, boundary, border, bound, bourn†, frontier, edge, margin, brink, verge, rim, periphery, confines, pale, march, marches; terminus, term, horizon, ceiling, threshold, line, demarcation, delimitation, circumscription
+  determination, vocation, destiny, calling, purpose, end, in-itself, inner nature; constitution, make-up, condition, state, circumstance, situation, disposition, external character, accidental nature; limit, boundary, border, bound, bourn†, frontier, edge, margin, brink, verge, rim, periphery, confines, pale, march, marches; terminus, term, horizon, ceiling, threshold, line, demarcation, delimitation, circumscription, roomage†
   habitude, diathesis†, fabric &c H0258, stamp, set, fit, mold, mould
   category, estate, lot, mood, temper, aspect &c H0391, dilemma, pass, predicament
   phase, position, posture, attitude, place, point, terms, regime, footing, standing, status
@@ -16,7 +16,7 @@ V:
   inclose, surround &c H0218, compass about, hedge in, rail in, fence round, hedge round
 
 Adj:
-  determined, destined, fated, intended; constituted, conditioned, circumstanced, situated; limited, bounded, bordered, circumscribed, confined, restricted, terminal, marginal, peripheral, liminal, borderline, frontier
+  determined, destined, fated, intended; constituted, conditioned, circumstanced, situated; limited, bounded, bordered, circumscribed, confined, restricted, terminal, marginal, peripheral, liminal, borderline, frontier, labiated†, marginated†
   definite, conterminate†, conterminable†, bordering
   qualifying, qualified, hedged, conditional, exceptional &c H0063
 

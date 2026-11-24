@@ -11,7 +11,7 @@ N:
   decision, determination, finding, decree, findings of fact, findings of law
   condemnation, conviction, penalty, proscription, damnation, death warrant
   justice, justiciar†, justiciary†, chancellor, justice of assize, judge of assize, recorder, common sergeant, puisne judge, assistant judge, county court judge, conservator of the peace, justice of the peace, J.P, magistrate, police magistrate, beak [Slang], his worship, his honor, his lordship
-  justice seat, judgment seat, mercy seat, woolsack†, bar of justice, dock, hustings, bureau, drumhead, jury box, witness box
+  justice seat, judgment seat, mercy seat, woolsack†, bar of justice, dock, hustings, bureau, drumhead, jury box, witness box, cutcherry†
   municipality, corporation, bailiwick, shrievalty [Brit.], lord lieutenant, sheriff, shire reeve, shrieve†, constable, selectman, police, police force, the fuzz [Sarc.], constabulary, bumbledom†
   accusation, charge, imputation, inculpation, exprobration†, delation, crimination, incrimination, accrimination†, recrimination, invective, denunciation, denouncement, libel, citation, arraignment, impeachment, appeachment†, indictment, bill of indictment, true bill, lawsuit
   gravamen of a charge, head and front of one's offending, scandal &c H0543
@@ -19,33 +19,35 @@ N:
   accused, defendant, prisoner, perpetrator, panel, respondent, litigant
   publicity of trials
   legal eagle, ambulance chaser, shyster, mouthpiece [Slang], brief [Brit. Slang], solicitor, DA, the defence, plea bargain, rap, beef [Slang], kangaroo court, show trial
-  attorney, lawyer, counsel
+  attorney, lawyer, counsel, tubman†
   barrister
   trial attorney, defense attorney, trial lawyer, defense lawyer, divorce lawyer, public defender, law agent
-  minutes, blame, transactions, complainant, commendation, responder
-  detective, investigator, investigation, prosecution, defence attorney, settlement, testimony, witness, evidence, alibi, acquittal, parole, probation, bail
+  minutes, blame, transactions, complainant, commendation, responder, discommendation†
+  detective, investigator, investigation, prosecution, defence attorney, settlement, testimony, witness, evidence, alibi, acquittal, parole, probation, bail, testification†
   judicature, assizes
+  attainture†, attaintment†
 
 V:
   try, hear, adjudicate, judge, sentence, acquit, convict, rule, sue
   settle, pass an opinion, give an opinion, decide, pronounce, pass judgment, pass sentence, find, give judgment, deliver judgment, adjudge, arbitrate, award, report, bring in a verdict, make absolute, set a question at rest, confirm &c H0604
   hear a cause, sit in judgment, adjudicate &c H0606
-  condemn, cast, bring home to, find guilty, damn, doom, sign the death warrant, pass sentence on, attaint, confiscate, proscribe, sequestrate, nonsuit†
+  condemn, cast, bring home to, find guilty, damn, doom, sign the death warrant, pass sentence on, attaint, confiscate, proscribe, sequestrate, nonsuit†, accroach†
   accuse, tax, impute, twit, taunt with, reproach
-  brand with reproach, stigmatize, slur, cast a stone at, cast a slur on, incriminate, criminate, inculpate, implicate, call to account &c H0487, take to blame, take to task, put in the black book
+  brand with reproach, stigmatize, slur, cast a stone at, cast a slur on, incriminate, criminate, inculpate, implicate, call to account &c H0487, take to blame, take to task, put in the black book, betongue†
   inform against, indict, denounce, arraign, impeach, appeach†, have up, show up, pull up, challenge, cite, lodge a complaint, prosecute, bring an action against, blow upon
   charge with, saddle with, lay to one's door, lay charge, lay the blame on, cast in one's teeth, throw in one's teeth, cast the first stone at
   have a rod in pickle for, keep a rod in pickle for, have a crow to pluck with
   trump up a charge
   refer
+  implead†
 
 Adj:
   judicial, forensic, curial, juridical, tribunal
   executive, administrative, municipal, inquisitorial, causidical†, judiciary
   learned in the law, at the bar, esquire, esquired
   accusing, accusatory, accusative, imputative, denunciatory, recriminatory, criminatory†
-  suspected, under suspicion, under a cloud, under surveillance, in custody, in detention, in the lockup, in the watch house, in the house of detention
-  accusable, imputable, indefensible, inexcusable, unpardonable, unjustifiable, vicious &c H0747
+  suspected, under suspicion, under a cloud, under surveillance, in custody, in detention, in the lockup, in the watch house, in the house of detention, unintroduced†
+  accusable, imputable, indefensible, inexcusable, unpardonable, unjustifiable, vicious &c H0747, irremissible†
   Int, look at home
   answering, appellate, incriminating, unforgivable
 
@@ -56,7 +58,7 @@ Adv:
 F:
   Latin: curia, sub judice, certiorari, res judicata, tu quoque argument, argumentum ad hominem, scandalum magnatum, tu quoque &c H0653
   Greek: dikastērion
-  French: gendarmerie
+  French: gendarmerie, procès-verbal, mise en demeure [formal notice], fin de non-recevoir [plea of inadmissibility]
   Arabic: qāḍī [judge]
 
 Phr:
@@ -64,3 +66,18 @@ Phr:
   trial by jury
   to have one's day in court
   order in court
+  dictum de dicto [Lat.]
+  mise en evidence [Fr.]
+  honi sot qui mal y pense
+  good wine needs no bush
+  the breath of accusation kills an innocent name [Shelley]
+  thou can'st not say I did it [Macbeth]
+  die Weltgeschichte ist das Weltgericht [Ger.]
+  a Daniel come to judgment [Merchant of Venice]
+  banco regis [Lat.]
+  adhuc sub judice lis est [Lat.]
+  accedas ad curiam [Lat.]
+  transeat in exemplum [Lat.]
+  nemo bis punitur pro codem delicto [Lat.]
+  mutato nomine de te fabula narratur [Lat.]
+  unrespited, unpitied, unreprieved [Paradise Lost]

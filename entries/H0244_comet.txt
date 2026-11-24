@@ -6,20 +6,20 @@ HGloss: The body of dissolution, a formal process, a transient body of volatilit
 
 N:
   comet; tail, coma, nucleus, hairy star, shooting star, meteor, fireball; volatility, dissolution, impermanence, fluidity; harbinger, portent, omen, prodigy
-  falling star, blazing star
+  falling star, blazing star, Aldebaran†, anthelion†, sun dog†
   presage
   coruscation
   the cometary body, the vaporous body, formal process, restlessness
   perihelion
 
 V:
-  blaze, streak, flare, flash, trail, vanish, portend
+  blaze, streak, flare, flash, trail, vanish, portend, preshow†, foreshow†
   dissolve, evaporate, wander
 
 Adj:
   cometary, cometic, meteoric, volatile, evanescent, dissolving, transient, portentous
   fleeting, ephemeral, fugacious
-  vaporous, eccentric
+  vaporous, eccentric, excentric†
 
 Adv:
   like a comet, meteorically

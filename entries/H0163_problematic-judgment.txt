@@ -5,7 +5,7 @@ Gloss: A judgment of value stated as uncertain: "this house may be good."
 HGloss: The subject judged according to whether it corresponds to its concept, so the judgment is only possibly true.
 
 N:
-  problematic judgment; possible judgment, tentative judgment, conjecture, surmise, guess, speculation, supposition, hypothesis, maybe, perhaps; uncertainty, doubt, hedging, qualification
+  problematic judgment; possible judgment, tentative judgment, conjecture, surmise, guess, speculation, supposition, hypothesis, maybe, perhaps; uncertainty, doubt, hedging, qualification, conjecturality†
   guesswork, suspicion, estimate
   incertitude, doubtfulness, dubiety
   assumption
@@ -16,7 +16,7 @@ N:
   guessing
 
 V:
-  conjecture, surmise, guess, speculate, suppose, suspect, wonder, hazard, venture, hedge
+  conjecture, surmise, guess, speculate, suppose, suspect, wonder, hazard, venture, hedge, presurmise†, wis†
   divine, presume
   be probable, give color to, lend color to, point to, imply &c H0703, bid fair &c H0976, stand fair for, stand a good chance, run a good chance
   think likely, dare say, flatter oneself, expect &c H0583, count upon &c H0604
@@ -50,3 +50,5 @@ Phr:
   who knows?
   as may be
   it remains to be seen
+  Heaven knows
+  who can tell? who shall decide when doctors disagree? ambiguas in vulgum spargere voces [Lat.]

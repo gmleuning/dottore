@@ -15,8 +15,8 @@ V:
   hew out, entomb
 
 Adj:
-  subterranean, underground, rock-cut, cavernous, sepulchral, troglodytic
-  deep, profound, buried, subterraneous
+  subterranean, underground, rock-cut, cavernous, sepulchral, troglodytic, dissocial†, inconversable†
+  deep, profound, buried, subterraneous, subterrene†
   rock-hewn, excavated, hypogeal
 
 Adv:

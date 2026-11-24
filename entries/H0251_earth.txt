@@ -5,12 +5,12 @@ Gloss: The solid element; the element of individuality, which holds the others t
 HGloss: The element of individuality, the earth, which holds the moments together and is the ground of the meteorological process.
 
 N:
-  earth; soil, ground, land, clay, loam, dust, dirt, mould, humus, sod, turf, clod, rock, stone; solid element, the solid, the individual element; Gaia, Mother Earth, Tellus, Demeter, Ceres
+  earth; soil, ground, land, clay, loam, dust, dirt, mould, humus, sod, turf, clod, rock, stone; solid element, the solid, the individual element; Gaia, Mother Earth, Tellus, Demeter, Ceres, sossle†, sozzle†
   dry land, terra firma
   glebe, marl, chalk, gravel, mold, subsoil
   bedrock
   the earthy element
-  grime, grunge
+  grime, grunge, raff†
 
 V:
   ground, earth, bury, inter, cultivate, till, plough

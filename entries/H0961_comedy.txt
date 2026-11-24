@@ -5,32 +5,32 @@ Gloss: Drama in which characters rise above every failure and contradiction in c
 HGloss: Comedy, in which the self is master of all, secure and cheerful through every failure and contradiction.
 
 N:
-  comedy; the comic, the comical, comicality, comicalness, the funny, funniness, humour, wit, laughter, mirth, the laughable, the ludicrous, ludicrousness, the ridiculous, ridiculousness, drollery, the absurd, absurdity &c H0426, nonsense, folly, incongruity, eccentricity, anticlimax, bathos
+  comedy; the comic, the comical, comicality, comicalness, the funny, funniness, humour, wit, laughter, mirth, the laughable, the ludicrous, ludicrousness, the ridiculous, ridiculousness, drollery, the absurd, absurdity &c H0426, nonsense, folly, incongruity, eccentricity, anticlimax, bathos, alogy†
   the comic spirit, comic subjectivity, the laughing subject, the contrast of end and means, the contrast of essence and appearance, the self-dissolution of folly, self-destroying aims, the nullity of the finite, the victory of subjectivity, self-assurance, self-confidence, self-security, cheerfulness, serenity, good humour, infinite light-heartedness, blessed ease, imperturbable good cheer, the comic hero, the happy ending
   black comedy, dark comedy, gallows humour, blue comedy, cringe comedy, deadpan, dry humour, observational humour, surreal humour, absurdist humour, self-deprecating humour
   repartee, banter, badinage, persiflage, raillery, irony, sarcasm, satire, mockery, derision, ridicule
-  tomfoolery, horseplay, high jinks, monkey business, clowning, clownery, foolery, buffoonery &c H0609, slapstick
+  tomfoolery, horseplay, high jinks, monkey business, clowning, clownery, foolery, buffoonery &c H0609, slapstick, jocoseness†
   the comic muse, Thalia, the sock, comic drama, comic poetry, Old Comedy, Middle Comedy, New Comedy, Attic comedy, Aristophanic comedy, Atellan farce
   comedy of manners, comedy of intrigue, comedy of character, comedy of humours, comedy of errors, high comedy, low comedy, sentimental comedy, romantic comedy, screwball comedy, tragicomedy
   farce &c H0949, burlesque &c H0820, parody, travesty, travestie†, caricature, mock epic, mock-heroic, lampoon, spoof, send-up, take-off, mockumentary
   commedia dell'arte, harlequinade, pantomime, Punch and Judy, vaudeville, music hall, revue, extravaganza, burletta†, comedietta†, comic opera, operetta, opera buffa
-  stand-up, sketch comedy, sketch, skit, sitcom, improv, roast, one-man show, comic strip, cartoon, fabliau, jestbook†, jokebook
+  stand-up, sketch comedy, sketch, skit, sitcom, improv, roast, one-man show, comic strip, cartoon, fabliau, jestbook†, jokebook, quib†
   comic relief, comic timing, laugh track, sense of humour
-  practical joke, prank, hoax, caper, escapade, lark
-  comedian, comedienne, comic, stand-up comic, comic actor, comic performer, comic poet, humorist, wag, joker, jokester, joke-teller, punster, quipster, wisecracker, banterer, epigrammatist, reparteeist†, bel esprit, wit-snapper, wit-cracker, witworm, witling†, Joe Miller†, drole de corps†, gaillard†, spark, life of the party, practical joker, prankster
-  satirist, parodist, lampooner, caricaturist, mimic, impersonator, impressionist, persifleur†, grimacier†
-  buffoon &c H0820, merry-andrew, jack-pudding, mountebank, charlatan, tumbler, acrobat, posturemaster†, mime, pantomimist &c H0949, zany, madcap
+  practical joke, prank, hoax, caper, escapade, lark, fredaine†, bayadere†, skirtdance†, galop†, galopade†, strathspey†, gavot†
+  comedian, comedienne, comic, stand-up comic, comic actor, comic performer, comic poet, humorist, wag, joker, jokester, joke-teller, punster, quipster, wisecracker, banterer, epigrammatist, reparteeist†, bel esprit, wit-snapper, wit-cracker, witworm, witling†, Joe Miller†, drole de corps†, gaillard†, spark, life of the party, practical joker, prankster, vibratiuncle†
+  satirist, parodist, lampooner, caricaturist, mimic, impersonator, impressionist, persifleur†, grimacier†, dawplucker†, Thersites†
+  buffoon &c H0820, merry-andrew, jack-pudding, mountebank, charlatan, tumbler, acrobat, posturemaster†, mime, pantomimist &c H0949, zany, madcap, scaramouch†
   fool &c H0421, jester, court jester, king's fool, licensed fool, natural fool, wise fool, motley fool, wearer of the cap and bells, wearer of the motley
-  trickster, rogue, picaro, scapegrace, wiseacre, wise guy, smartass [Coll.]
-  stock comic figure, stock character, miles gloriosus, braggart soldier, senex iratus, clever slave, parasite, flatterer, misanthrope, hypocrite, pedant, nutty professor, fop, dandy, coxcomb, jack a dandy, prude, virago, shrew, yokel, bumpkin
-  schlemiel, schlimazel, nebbish, original, oddity, queer fish, odd fish, quiz, square toes, old fogey, old monkey, fogey monkey, fogy monkey
+  trickster, rogue, picaro, scapegrace, wiseacre, wise guy, smartass [Coll.], rashling†, dynamitard†
+  stock comic figure, stock character, miles gloriosus, braggart soldier, senex iratus, clever slave, parasite, flatterer, misanthrope, hypocrite, pedant, nutty professor, fop, dandy, coxcomb, jack a dandy, prude, virago, shrew, yokel, bumpkin, brabbler†
+  schlemiel, schlimazel, nebbish, original, oddity, queer fish, odd fish, quiz, square toes, old fogey, old monkey, fogey monkey, fogy monkey, nonsuch†
   clown, bozo, circus clown, whiteface, Auguste, hobo clown, tramp clown, rodeo clown
-  harlequin, columbine, Pierrot, pantaloon, Scaramouche, Scapin, the Doctor, the Captain, Punch, Punchinello, pickle-herring, jack in the green
+  harlequin, columbine, Pierrot, pantaloon, Scaramouche, Scapin, the Doctor, the Captain, Punch, Punchinello, pickle-herring, jack in the green, pulcinello†, figurante†
   sacred clown, ritual clown, ceremonial clown, contrary, Plains contrarian, Blackfoot Contrary, Heyoka, Koshare, Kuruna, Koyemshi, Newekwe, Paiakyamu, Tsuku, Chiffoneti, Pueblo clowns, kachina clowns
   figure of fun, butt, butt of the joke, laughingstock, jestingstock†, gazingstock†, game, fair game, April fool &c H0647 [Obs.]
-  laugh, belly laugh, guffaw, roar, howl, hoot, whoop, crow, cackle, chortle, snort, chuckle, giggle, titter, snigger, snicker, grin, smile
+  laugh, belly laugh, guffaw, roar, howl, hoot, whoop, crow, cackle, chortle, snort, chuckle, giggle, titter, snigger, snicker, grin, smile, cachinnation†
   joke, jest &c H0820, gag, quip, crack, wisecrack, one-liner, witticism, bon mot, mot, sally, epigram, aphorism
-  pun, double entendre, innuendo, malapropism, hyperbole, understatement
+  pun, double entendre, innuendo, malapropism, hyperbole, understatement, paragram†, calembour†, amphiboly†, amphibology†, ambilogy†, ambiloquy†, missaying†, antiphrasis†, turlupinade†
   punchline, laugh line, running gag, running joke, callback, inside joke, in-joke, private joke, shtick, comic bit, comic routine, pratfall, double take
   Aristophanes, the Clouds, the Birds, the Frogs, Menander, Plautus, Terence, Shakespeare's comedies, Falstaff, Cervantes, Don Quixote, Molière
   Chaplin, the Tramp, Buster Keaton, W. C. Fields, Laurel and Hardy, the Marx Brothers, Groucho Marx, Lucille Ball, Mr. Bean
@@ -49,7 +49,7 @@ Adj:
   attic, quick-witted, nimble-witted, smart, jocular, jocose, facetious, waggish, kidding, joking, puckish, playful &c H0609, merry and wise, pleasant, sprightly, light, spirituel†, sparkling, epigrammatic, full of point
   derisory, derisive, mocking, sarcastic, ironic, ironical, quizzical, Hudibrastic†, scurrilous &c H0487
   extravagant, outre, monstrous, preposterous, mock heroic
-  amusing, entertaining, diverting, witty &c H0820, jovial, jolly
+  amusing, entertaining, diverting, witty &c H0820, jovial, jolly, lusory†, rompish†, ludibrious†
   deadpan, slapstick, screwball, absurdist, surreal, tragicomic
   comedic, Aristophanic, Thalian, cheerful, serene, light-hearted, good-humoured, self-assured, self-confident, self-secure, carefree, untroubled, blithe, gay, mirthful, risible, satirical, clownish, buffoonish, absurd, foolish, self-defeating, happy-ending
   interesting
@@ -63,9 +63,9 @@ F:
   German: Lustspiel, das Komische, das Lächerliche, Heiterkeit, Wohlgemutheit, Posse, Schwank, Fastnachtsspiel, Stegreifkomödie, Hanswurstiade, Kasperiade, Hanswurst, Kasper, Pickelhering
   Latin: comoedia, vis comica, castigat ridendo mores, soccus, mimus, fabula Atellana, miles gloriosus, senex iratus, servus callidus
   Greek: kōmōidia, kōmos, geloion, parabasis, mimos, phlyax
-  French: comédie, esprit, pour rire, bon diable, farceur, farceuse, sottie, sottise, café-théâtre
-  Italian: commedia, ben trovato, opera buffa, buffo, buffone, Arlecchino, Colombina, Pantalone, Dottore, Brighella, Scapino, Tartaglia, Zanni, Pulcinella, Truffaldino, Coviello, Capitano, Scaramuccia, Pagliaccio
-  Spanish: Matamoros
+  French: comédie, esprit, pour rire, bon diable, farceur, farceuse, sottie, sottise, café-théâtre, jeu d'esprit [witticism], boutade [whimsical sally]
+  Italian: commedia, ben trovato, opera buffa, buffo, buffone, Arlecchino, Colombina, Pantalone, Dottore, Brighella, Scapino, Tartaglia, Zanni, Pulcinella, Truffaldino, Coviello, Capitano, Scaramuccia, Pagliaccio, lazzi [stock comic business]
+  Spanish: Matamoros, sainete [one-act farce]
   Arabic: khayāl al-ẓill [shadow play]
   Turkish: Karagöz [shadow play]
   Sanskrit: vidūṣaka [jester]
@@ -79,6 +79,10 @@ Phr:
   But doctor… I am Pagliacci [Alan Moore, Watchmen]
   all's well that ends well
   laughter is the best medicine
+  risum teneatis amici [Lat.] [Horace]
+  rideret Heraclitus
+  du sublime au ridicule il n'y a qu'un pas [Lat.] [Napoleon]
+  dum vitant stulti vitia in contraria currunt [Lat.]
 
 # ---- Hegel ----
 Def: The laughable is any contrast between the substantial and its appearance, between an end and its means, in which the appearance cancels itself, so that realizing the end is the end's own undoing. Comedy makes this its principle. It makes the subject master of everything that counts as essential in what it wills, and lets its aims, being without substance, perish through its own willing and through outward chance alike. The subject does not perish with them: in their dissolution it enjoys itself, untroubled, as the infinite power over every finite content. In tragedy substantial ends destroy one another; in comedy what is null destroys itself, and the self survives it, cheerful, as the absolute. With this, art dissolves itself.

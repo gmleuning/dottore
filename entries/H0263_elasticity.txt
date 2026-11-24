@@ -33,3 +33,4 @@ Phr:
   ut tensio, sic vis [Lat.] [Hooke]
   bend but not break
   to bounce back
+  the stress is proportional to the strain

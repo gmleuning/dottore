@@ -13,7 +13,7 @@ N:
   greatness, fullness
 
 V:
-  extend, expand, stretch, spread, enlarge; intensify, heighten, deepen, strengthen, concentrate, amplify, boost; graduate, calibrate, grade, rank, scale; dial up, dial down, turn up, turn down
+  extend, expand, stretch, spread, enlarge; intensify, heighten, deepen, strengthen, concentrate, amplify, boost; graduate, calibrate, grade, rank, scale; dial up, dial down, turn up, turn down, overcolor†, broder†
   enhance, magnify, redouble
 
 Adj:
@@ -22,10 +22,10 @@ Adj:
 
 Adv:
   by degrees, gradually, step by step, inch by inch, little by little; to a degree, to some extent, to a certain extent; in a high degree, intensely; at full strength, at full blast
-  inasmuch, however, howsoever, bit by bit, drop by drop, a little at a time, in some degree, in some measure
+  inasmuch, however, howsoever, bit by bit, drop by drop, a little at a time, in some degree, in some measure, nathless†
   by slow degrees, by inches, by little and little, one step at a time, seriatim, consecutively
   extensively, intensively
-  very, really, so, extremely, incredibly, totally, absolutely, utterly, highly, seriously, super [Coll.], mega [Slang], uber [Slang], hella [U.S. Slang], well [Brit. Slang], dead [Brit. Slang], proper [Brit. Slang], literally [Coll.], fucking [Vulg.], bloody [Brit. Vulg.], damn [Coll.], goddamn [Vulg.], freaking [Coll.], frigging [Coll.], effing [Coll.]
+  very, really, so, extremely, incredibly, totally, absolutely, utterly, highly, seriously, super [Coll.], mega [Slang], uber [Slang], hella [U.S. Slang], well [Brit. Slang], dead [Brit. Slang], proper [Brit. Slang], literally [Coll.], fucking [Vulg.], bloody [Brit. Vulg.], damn [Coll.], goddamn [Vulg.], freaking [Coll.], frigging [Coll.], effing [Coll.], muckle†
 
 F:
   German: Grad

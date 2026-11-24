@@ -22,6 +22,11 @@ Adv:
   in the round
   in principle, plastically, in three dimensions
 
+F:
+  French: plasticité
+  German: Plastizität
+  Greek: plassein
+
 Phr:
   spirit at rest in its body
   spirit at rest in the body

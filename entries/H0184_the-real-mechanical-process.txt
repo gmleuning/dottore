@@ -6,9 +6,9 @@ HGloss: Communication that becomes the power of one object over another, the neg
 
 N:
   the real mechanical process; domination, subjugation, overpowering, overmastering, power, violence, force, might, coercion, compulsion, mastery, superiority, ascendancy, preponderance, the stronger and the weaker; fate as mechanical power
-  upper hand, whip hand, conquest, victory
+  upper hand, whip hand, conquest, victory, expugnation†
   energy &c H0121, ascendency†, sway
-  pressure, predominance, dominance
+  pressure, predominance, dominance, predominancy†
   resistance, fate
 
 V:
@@ -38,3 +38,4 @@ Phr:
   the strong do what they can and the weak suffer what they must [Thucydides]
   might makes right
   to get the upper hand
+  tel maure tel valet [Fr.]

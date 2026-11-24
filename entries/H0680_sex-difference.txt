@@ -24,6 +24,13 @@ Adv:
 
 F:
   Chinese: yin and yang
+  French: différence des sexes, identité sexuelle, genre, sexe, différence sexuelle
+  German: Geschlecht, Geschlechterdifferenz, Differenz der Geschlechter
+  Italian: genere
+  Spanish: género
+  Greek: genos
+  Latin: genus
+  Swedish: Kön
 
 Phr:
   male and female created he them [Bible]

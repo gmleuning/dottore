@@ -6,7 +6,7 @@ HGloss: The three functions of the organism: sensibility, its universal self-rel
 
 N:
   functions of the organism; vital functions, sensibility, irritability, reproduction; feeling, response, renewal; physiology, Haller's irritability
-  sensitiveness, physical sensibility, impressibility, perceptivity, aesthetics, moral sensibility &c H0609
+  sensitiveness, physical sensibility, impressibility, perceptivity, aesthetics, moral sensibility &c H0609, callaesthetics†
   regeneration
   impression, sensation
   reproduction &c H0352, renovation, revival

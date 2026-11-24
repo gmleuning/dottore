@@ -28,9 +28,11 @@ Adv:
 
 F:
   German: vorstellen
-  Latin: imago
+  Latin: imago, species, figura, effigies, forma, pictura, simulacrum
   Greek: eidōlon, phantasma, eidolon
   Arabic: khayāl [image, phantom]
+  French: tableau, visage
+  Hebrew: demut
 
 Phr:
   a picture is worth a thousand words

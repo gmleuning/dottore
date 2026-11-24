@@ -5,7 +5,7 @@ Gloss: Music that accompanies words.
 HGloss: Music accompanying words, which expresses the feeling of the text without becoming its servant.
 
 N:
-  music as accompaniment; vocal music, song, aria, recitative, opera, oratorio, mass, cantata, chorale, setting of words
+  music as accompaniment; vocal music, song, aria, recitative, opera, oratorio, mass, cantata, chorale, setting of words, vocalism†, recitativo†, solfeggio†
   chant, psalm, psalmody, hymn, song &c H0919, canticle, lay, ballad, ditty, carol
   music, strain, tune, air, melody &c H0911, arietta†
   accompaniment, vocal setting, word-setting, the art song, libretto, text, the voice, church music, anthem, motet
@@ -26,8 +26,9 @@ Adv:
   in song, to the words, vocally
 
 F:
-  German: Lied
+  German: Lied, Sprechgesang [Schoenberg]
   Korean: gagok [art song]
+  French: mélodie parlée, parler-chanter
 
 Phr:
   the Passion according to St Matthew [Bach]

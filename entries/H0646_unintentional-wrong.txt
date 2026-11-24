@@ -16,7 +16,7 @@ N:
 V:
   dispute, contest, claim in good faith, litigate
   controvert &c H0599
-  retract, go back from, be off, forfeit, go from one's word, palter, stretch a point, strain a point
+  retract, go back from, be off, forfeit, go from one's word, palter, stretch a point, strain a point, estreat†
   discard, protest, repudiate, fling to the winds, set at naught, nullify, declare null and void, cancel &c H0600
   infringe, transgress, violate, pirate, break, trample under foot, do violence to, drive a coach and six through
   fail, neglect, omit, elude, evade, give the go-by to, set aside, ignore, shut one's eyes to, close one's eyes to
@@ -34,6 +34,7 @@ Adv:
 
 F:
   Latin: bona fide, per incuriam
+  German: Verschlimmbesserung [an improvement that makes things worse]
 
 Phr:
   honest mistake

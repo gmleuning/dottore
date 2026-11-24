@@ -8,23 +8,24 @@ N:
   evil and estrangement; the Fall, original sin, estrangement from God, alienation, sin, the tree of knowledge, Eden, the serpent, exile, the unhappy consciousness
   the tempter, the evil one, the evil spirit, the Adversary, the archenemy, the author of evil, the wicked one, the old Serpent, the Prince of darkness, the Prince of this world, the Prince of the power of the air, the foul fiend, the arch fiend, the devil incarnate, the common enemy, the angel of the bottomless pit, Apollyon†
   vice, evil-doing, evil courses, wrongdoing, wickedness, viciousness, iniquity, peccability†, demerit, Adam†, old Adam†, offending Adam†
-  hell, bottomless pit, place of torment, habitation of fallen angels, Pandemonium, Abaddon†, jahannan†, sheol†
+  hell, bottomless pit, place of torment, habitation of fallen angels, Pandemonium, Abaddon†, jahannan†, sheol†, botttomless pit†
   fallen angels, unclean spirits, devils, the rulers, the powers of darkness, inhabitants of Pandemonium, demon &c H0976
-  impiety, sin &c H0668, irreverence, profaneness, blasphemy, desecration, sacrilege
-  Tophet
-  infernal regions, inferno, shades below
+  impiety, sin &c H0668, irreverence, profaneness, blasphemy, desecration, sacrilege, misdevotion†, sabbatism†, sacerdotalism†
+  Tophet, Rhadamanthus†
+  infernal regions, inferno, shades below, pit of Acheron†
   gehenna, abyss
   evil, moral evil, the fall of man, the first disobedience, the forbidden fruit, the knowledge of good and evil, the loss of innocence, the expulsion from Paradise, banishment, transgression, guilt, sinfulness, fallenness, depravity, corruption, concupiscence, self-will, selfishness, natural will, cleavage, rupture, breach, rift, division, diremption, separation, disunion, severance, self-division, disaffection, anguish, infinite grief, the contradiction of the natural man
+  devilism†, devilship†, diabolology†
 
 V:
   fall, sin, transgress, be estranged, be exiled
   err, lapse, trespass
-  disobey, eat of the tree, lose innocence, go astray, stray, wander, turn away, fall away, break with, separate, sever, divide, sunder, alienate, estrange, rebel, be cast out, be banished, know good and evil, will evil
+  disobey, eat of the tree, lose innocence, go astray, stray, wander, turn away, fall away, break with, separate, sever, divide, sunder, alienate, estrange, rebel, be cast out, be banished, know good and evil, will evil, misdemean oneself†, misdo†
 
 Adj:
   fallen, sinful, estranged, alienated, lapsarian, postlapsarian
   sinning, wicked, iniquitous
-  hellish, infernal
+  hellish, infernal, fiendlike†, hellborn†
   guilty, corrupt, depraved, disobedient, unregenerate, erring, peccant, self-willed, separated, sundered, divided, riven, disunited, banished, exiled, outcast, godforsaken, unreconciled
 
 Adv:
@@ -32,12 +33,18 @@ Adv:
   sinfully, wickedly, guiltily, in sin, in exile, apart from God, east of Eden, estrangedly
 
 F:
-  German: das Böse, Entfremdung, Entzweiung, Sündenfall, Erbsünde, Trennung, Schmerz
-  Latin: peccatum originale, Erebus, Avernus, lapsus, felix culpa, non posse non peccare
-  Greek: hamartia
+  German: das Böse, Entfremdung, Entzweiung, Sündenfall, Erbsünde, Trennung, Schmerz, Teufel
+  Latin: peccatum originale, Erebus, Avernus, lapsus, felix culpa, non posse non peccare, diabolus, daemon
+  Greek: hamartia, diabolos, daimōn
   Sanskrit: avidyā [ignorance]
   Korean: wonjoe [original sin]
+  French: diable
+  Hebrew: satan
+  Italian: diavolo, demonio, demone
+  Spanish: diablo
 
 Phr:
   ye shall be as gods, knowing good and evil [Bible]
   the Fall is therefore the eternal Mythus of Man [Hegel, Philosophy of History, tr. Sibree]
+  dies irae dies illa [Lat.]
+  the hue of dungeons and the scowl of night [Love's Labor's Lost]

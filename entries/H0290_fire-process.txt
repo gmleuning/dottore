@@ -5,17 +5,17 @@ Gloss: Combustion; the chemical process in which a body is consumed by fire.
 HGloss: Combustion, the process of fire in which a body is kindled and consumed, burning to an oxide.
 
 N:
-  fire-process; combustion, burning, oxidation, calcination, conflagration, ignition, deflagration, explosion, flame; phlogiston; incineration, cremation
+  fire-process; combustion, burning, oxidation, calcination, conflagration, ignition, deflagration, explosion, flame; phlogiston; incineration, cremation, spermary†, trophoplasm†, vertebration†, zoogloea†
   increase of temperature, heating, calefaction†, tepefaction†, torrefaction†, melting, fusion, liquefaction &c H0265, ambustion†, incension†, accension†, concremation†, scorification†, cautery, cauterization, ustulation†, cracking, refining, cineration†, carbonization, cupellation [Chem]
   inflammation, adustion†, flagration†, empyrosis†, incendiarism, arson
-  spark, scintillation, flash, bonfire, firework, pyrotechnics, pyrotechny†, wildfire, sheet of fire, lambent flame, devouring element, adiathermancy†, recalescence [Phys.]
+  spark, scintillation, flash, bonfire, firework, pyrotechnics, pyrotechny†, wildfire, sheet of fire, lambent flame, devouring element, adiathermancy†, recalescence [Phys.], fizgig†
   fuel, firing
-  furnace, stove, kiln, oven, cracker, focus, combustion chamber, athanor†, hypocaust†, reverberatory, volcano, forge, fiery furnace, limekiln, Dutch oven, tuyere, brasier†, salamander, heater, warming pan, boiler, caldron, seething caldron, pot, urn, kettle, chafing-dish, retort, crucible, alembic, still, waffle irons, muffle furnace, induction furnace, electric heater, electric furnace, electric resistance heat
+  furnace, stove, kiln, oven, cracker, focus, combustion chamber, athanor†, hypocaust†, reverberatory, volcano, forge, fiery furnace, limekiln, Dutch oven, tuyere, brasier†, salamander, heater, warming pan, boiler, caldron, seething caldron, pot, urn, kettle, chafing-dish, retort, crucible, alembic, still, waffle irons, muffle furnace, induction furnace, electric heater, electric furnace, electric resistance heat, chloride of sodium†
   open-hearth furnace
   fireplace, gas fireplace, coal fire, wood fire, fire-dog, fire- irons, grate, range, kitchener, caboose, camboose†, poker, tongs, shovel, ashpan, hob, trivet, andiron, gridiron, ashdrop, frying-pan, stew-pan, backlog
   hearth, inglenook
   oil burner, gas burner, Franklin stove, pot-bellied stove, wood-burning stove, central heating, steam heat, hot water heat, gas heat, forced hot air, electric heat, heat pump, solar heat, convective heat
-  hothouse, bakehouse†, washhouse†, laundry, conservatory, sudatory†, Turkish bath, Russian bath, vapor bath, steam bath, sauna, warm bath, vaporarium†
+  hothouse, bakehouse†, washhouse†, laundry, conservatory, sudatory†, Turkish bath, Russian bath, vapor bath, steam bath, sauna, warm bath, vaporarium†, dhobi†, washerman†
   firewood, faggot, fagot, kindling, tinder
   warmer, stockpile
 
@@ -31,7 +31,7 @@ Adj:
   combustible, flammable, inflammable, burning, oxidizing, explosive, incendiary
   carbonaceous, heat of combustion
   diathermal†, diathermanous†, burnt, volcanic, radioactive
-  fiery, incandescent, incalescent†, candent†, ebullient, glowing, smoking, live, on fire, dazzling, blazing, in a blaze, alight, afire, ablaze, unquenched, unextinguished†, smoldering, in a heat, in a glow, in a fever, in a perspiration, in a sweat, sudorific†, sweltering, sweltered, blood hot, blood warm, warm as a toast, warm as wool
+  fiery, incandescent, incalescent†, candent†, ebullient, glowing, smoking, live, on fire, dazzling, blazing, in a blaze, alight, afire, ablaze, unquenched, unextinguished†, smoldering, in a heat, in a glow, in a fever, in a perspiration, in a sweat, sudorific†, sweltering, sweltered, blood hot, blood warm, warm as a toast, warm as wool, unquelled†
   igneous
   burned
 

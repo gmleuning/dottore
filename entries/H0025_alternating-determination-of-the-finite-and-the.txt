@@ -11,19 +11,19 @@ N:
 
 V:
   alternate, oscillate, seesaw, shuttle, ping-pong, go back and forth, swing to and fro, see-saw; regress, recede; repeat, reiterate, iterate; go on forever, go round in circles, chase one's tail, run in place, tread water; never arrive
-  fluctuate, waver, vacillate, turn and turn about
+  fluctuate, waver, vacillate, turn and turn about, wamble†
   go on endlessly
 
 Adj:
-  endless, unending, interminable, never-ending, perpetual, ceaseless, incessant, sempiternal; repetitive, iterative, monotonous, tedious, Sisyphean, Tantalean; asymptotic, receding; alternating, oscillating, oscillatory, reciprocating; spurious, false, bad, vicious
+  endless, unending, interminable, never-ending, perpetual, ceaseless, incessant, sempiternal; repetitive, iterative, monotonous, tedious, Sisyphean, Tantalean; asymptotic, receding; alternating, oscillating, oscillatory, reciprocating; spurious, false, bad, vicious, pulsatory†, vibratile†
   recursive [Comp.]
   tiresome, insistent
 
 Adv:
   without end, on and on, again and again, over and over, round and round, back and forth, to and fro, hither and thither; et cetera, and so on, and so forth, and so on and so forth
-  backwards and forwards
+  backwards and forwards, wibble-wabble†
   alternately
-  repeatedly
+  repeatedly, ofttimes†, unseldom†, not unfrequently†
 
 F:
   German: schlechte Unendlichkeit, Wechselbestimmung

@@ -12,7 +12,8 @@ N:
   phrase &c H0599, figure, trope, metaphor, enallage†, catachresis†, metonymy [Gramm.], synecdoche [Sem.], autonomasia†, irony, figurativeness, image, imagery, metalepsis†, type, anagoge†, simile, personification, prosopopoeia†, allegory, apologue†, parable, fable, allusion, adumbration, application
   flourish, flowers of speech, flowers of rhetoric, frills of style, euphuism†, euphemism
   well rounded periods, well turned periods, flowing periods, the right word in the right place, antithesis
-  poeticism, epithet, periphrasis, circumlocution, inversion, word-order, period, verbal expression
+  poeticism, epithet, periphrasis, circumlocution, inversion, word-order, period, verbal expression, periphrase†
+  euphuist†
 
 V:
   phrase, word, express
@@ -23,7 +24,7 @@ Adj:
   poetic, elevated, archaic, figurative
   lofty, sublime, eloquent, vehement, impassioned
   antithetical, alliterative, figurative &c H0790, artificial &c H0599
-  neologic†, neological†, obsolete &c H0225, colloquial
+  neologic†, neological†, obsolete &c H0225, colloquial, Anglice†
   metaphorical, catachrestical†, typical, tralatitious†, parabolic, allegorical, allusive, anagogical†, ironical, tropical
   verbal, lexical, stylistic, periphrastic, ornate, choice
 
@@ -34,7 +35,8 @@ Adv:
 F:
   Latin: elocutio
   Greek: lexis
-  French: la morgue litteraire
+  French: la morgue litteraire, précieuse, mot juste
+  Spanish: conceptismo, culteranismo
 
 Phr:
   what oft was thought, but ne'er so well expressed [Pope]

@@ -25,7 +25,7 @@ V:
 Adj:
   alienable, transferable, conveyable; inalienable, imprescriptible, untransferable
   unalienable
-  relinquished
+  relinquished, unpursued†
 
 Adv:
   in perpetuity, for good
@@ -41,3 +41,7 @@ Phr:
   unveräußerlich sind daher diejenigen Güter … welche meine eigenste Person und das allgemeine Wesen meines Selbstbewußtseins ausmachen [Ger.] [Hegel, Philosophy of Right §66]
   to sign away
   to part with
+  aufgeschoben ist nicht aufgehoben [Ger.]
+  entbehre gern was du nicht hast [Ger.]
+  Othello's occupation's gone [Othello]
+  estate coming into possession

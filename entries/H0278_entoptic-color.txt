@@ -18,8 +18,8 @@ Adj:
   polarized, birefringent
 
 Adv:
-  within
-  within the body, internally
+  within, inly†
+  within the body, internally, withinside†
 
 Phr:
   colour in the heart of glass

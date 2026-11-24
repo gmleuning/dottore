@@ -6,7 +6,7 @@ HGloss: The stratified formations, laid down in layers and bearing the remains o
 
 N:
   stratified rocks; strata, stratum, layer, bed, seam, lode, flötz†, sedimentary rock, sediment, deposit, fossil-bearing rock, coal measures, limestone beds, sandstone beds; stratification, bedding, lamination; fossils, petrifactions
-  substratum, course, zone, tier, slab, flagstone, escarpment
+  substratum, course, zone, tier, slab, flagstone, escarpment, dess†
   sedimentary rocks, secondary formations, the Flötz formations, beds, layers
 
 V:
@@ -15,7 +15,7 @@ V:
 
 Adj:
   stratified, sedimentary, layered, laminated, bedded, fossiliferous, secondary
-  lamellar, laminiferous†, schistose, stratiform, foliated, micaceous†, flaky
+  lamellar, laminiferous†, schistose, stratiform, foliated, micaceous†, flaky, syncretistic†, lamellated†, lamelliform†, schistous†, foliaceous†, spathic†, spathose†
 
 Adv:
   layer upon layer, in strata

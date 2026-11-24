@@ -10,6 +10,7 @@ N:
   good &c H0661, comfort, ease
   benefit, advantage, greatest good, supreme good, behoof, behalf, weal, common weal
   the agent's good, particular interest
+  prudential
 
 V:
   intend, aim, mean, seek one's welfare
@@ -24,10 +25,12 @@ Adv:
   with intent, on purpose, for one's good
 
 F:
-  Latin: cui bono, summum bonum
-  French: raison d'etre
+  Latin: cui bono, summum bonum, prudentia
+  French: raison d'etre, prudentiel, prudence
   Arabic: maṣlaḥa [welfare]
   Sanskrit: yogakṣema [welfare]
+  German: Klugheit
+  Greek: phronēsis
 
 Phr:
   actions are judged by intentions, innamā al-aʿmālu bi-l-niyyāt [Ar.] [Hadith]

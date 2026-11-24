@@ -13,7 +13,7 @@ N:
   text, sum and substance
   turn of expression
   method, fashion
-  contents, cargo, lading, freight, shipment, load, bale, jag, cartload†, shipload, cup of, basket of, inside &c H0218, stuffing, ullage
+  contents, cargo, lading, freight, shipment, load, bale, jag, cartload†, shipload, cup of, basket of, inside &c H0218, stuffing, ullage, wafture†
 
 V:
   express, convey, embody, carry, contain, mean, signify, import; formulate, frame, couch, phrase, word, put into words, shape, package

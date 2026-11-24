@@ -10,7 +10,7 @@ N:
 
 V:
   posit, set up, lay down, put forward, postulate, assume, suppose, presuppose, stipulate, premise, hypothesize; construct, constitute, project, produce; bootstrap; retroject, read back into
-  presume
+  presume, prejudicate†
   originate
   make
 

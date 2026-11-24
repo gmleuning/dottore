@@ -14,7 +14,7 @@ V:
   silicify
 
 Adj:
-  siliceous, silicious, flinty, quartzose, sandy, arenaceous, hard, glassy
+  siliceous, silicious, flinty, quartzose, sandy, arenaceous, hard, glassy, pulverulent†, branny†, furfuraceous†, sabulous†, psammous†, arenarious†, lentiginous†, lepidote†, sabuline†, sporaceous†, sporous†
   granular, arenose†
   vitreous
 

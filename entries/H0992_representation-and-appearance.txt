@@ -20,7 +20,7 @@ V:
 
 Adj:
   filial, incarnate, temporal, created
-  scriptural, biblical, sacred, prophetic, evangelical, evangelistic, apostolic, apostolical†, inspired, theopneustic†, apocalyptic, ecclesiastical, canonical
+  scriptural, biblical, sacred, prophetic, evangelical, evangelistic, apostolic, apostolical†, inspired, theopneustic†, apocalyptic, ecclesiastical, canonical, theophneusted†
   apparent, phenomenal, revealed, revelatory, epiphanic, theophanic, historical, worldly, represented, pictorial, narrative, christological
 
 Adv:
@@ -29,8 +29,10 @@ Adv:
 
 F:
   German: das Reich des Sohnes, Vorstellung, Erscheinung, Offenbarung, Menschwerdung, Anderssein
-  Latin: verbum caro factum est, in mundo
-  Greek: epiphaneia, theophaneia, logos ensarkos, oikonomia
+  Latin: verbum caro factum est, in mundo, Deus-Homo
+  Greek: epiphaneia, theophaneia, logos ensarkos, oikonomia, to theandrikos
+  Russian: bogochelovechestvo [Godmanhood] [Solovyov]
+  French: divino-humanité, théanthropie, déihumanité, théandrie, économie
 
 Phr:
   the Son of God

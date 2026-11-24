@@ -22,6 +22,10 @@ Adv:
   intuitively, instinctively, in one's gut
   with pleasure, with joy, painfully
 
+F:
+  French: sens moral
+  German: sittliches Bewusstsein
+
 Phr:
   it just feels right
   over the moon

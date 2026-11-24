@@ -12,7 +12,7 @@ N:
   snugness, comfort, ease, cushion &c H0220, without worry, mind at ease
   selfishness, self-love, self-indulgence, self-worship, egotism, egoism, nepotism
   worldliness, world wisdom
-  illiberality, meanness
+  illiberality, meanness, insuavity†, uncourteousness†, inurbanity†, incivility displacency†
   time-pleaser, time-server, tuft- hunter, fortune-hunter, jobber, worldling, egotist, egoist, monopolist, nepotist, dog in the manger, charity that begins at home, foes to nobleness, temporizer, trimmer
   subjective satisfaction, the right of subjective freedom
 
@@ -44,3 +44,13 @@ F:
 Phr:
   the right of the subject's particularity to find satisfaction [Hegel]
   to look after number one
+  so far so good
+  magnum bonum [Lat.]
+  one's star in the ascendant, all for the best, one's course runs smooth
+  chacun est l'artisan de sa fortune [Fr.]
+  donec eris felix multos numerabis amicos [Lat.] [Ovid]
+  felicitas multos habet amicos [Lat.]
+  felix se nescit amari [Lat.] [Lucan]
+  good luck go with thee [Henry V]
+  nulli est homini perpetuum bonum [Lat.] [Plautus]
+  apres nous le deluge [Fr.]

@@ -10,7 +10,7 @@ N:
   dialectic, dialectical movement; unity of opposites
   permutation, modification, modulation, inflexion, mood, qualification, innovation, metastasis, deviation, turn, revolution, diversion, break
   transmigration, phase, conjugation, convertibility
-  transfiguration, transubstantiation, metempsychosis†, avatar, alterative
+  transfiguration, transubstantiation, metempsychosis†, avatar, alterative, mutagenesis transanimation†
   course
   conversion, reduction, resolution, assimilation, sea change, change of state, developing
   the passing-over
@@ -21,7 +21,7 @@ V:
   be converted into, get, wax, come to, turn to, evolve into, develop into, turn out, lapse, run into, fall into, pass into, slide into, glide into, ripen into, open into, resolve itself into, settle into, merge into, emerge as, melt, come round to, mature, mellow, assume the form of, assume the shape of, assume the state of, assume the nature of, assume the character of, illapse†, begin a new phase, assume a new phase, undergo a change
 
 Adj:
-  becoming, changing, mutable, mutational, protean, variable, fluid, fluent, fluxional, flowing, shifting, unstable, restless; transient, transitory, fleeting, ephemeral, evanescent, impermanent; processual, processive, developmental, evolutionary, emergent, nascent, inchoate; dialectical
+  becoming, changing, mutable, mutational, protean, variable, fluid, fluent, fluxional, flowing, shifting, unstable, restless; transient, transitory, fleeting, ephemeral, evanescent, impermanent; processual, processive, developmental, evolutionary, emergent, nascent, inchoate; dialectical, omniform†, omnigenous†, omnifarious†
   changeable, changeful, checkered, ever changing, proteiform†, versatile
   transitive, cursory, short-lived, flying, fugacious, fugitive, slippery, spasmodic, instantaneous, momentaneous†
 
@@ -37,6 +37,7 @@ F:
   Chinese: yi [change]
   Japanese: mujō [impermanence]
   Korean: saengseong [becoming]
+  French: devenir [Deleuze]
 
 Phr:
   panta rhei [Gr.] [attrib. Heraclitus]
@@ -45,3 +46,15 @@ Phr:
   tempora mutantur, nos et mutamur in illis [Lat.]
   plus ça change, plus c'est la même chose [Fr.] [Alphonse Karr]
   all things flow
+  a change came o'er the spirit of my dream [Byron]
+  nous avons change tout cela [Moliere]
+  tempora mutantur nos et mutamur in illis [Lat.]
+  non sum qualis eram [Lat.] [Horace]
+  casaque tourner [Fr.]
+  corpora lente augescent cito extinguuntur [Tacitus]
+  in statu quo ante bellum [Lat.]
+  still ending and beginning still [Cowper]
+  vox audita perit littera scripta manet [Lat.]
+  pictra mossa non fa muschis [It.]
+  honores mutant mores [Lat.]
+  varium et mutabile semper femina [Lat.] [Virgil]

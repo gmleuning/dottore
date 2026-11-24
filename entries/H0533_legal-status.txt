@@ -22,6 +22,8 @@ Adv:
 
 F:
   Latin: persona, civis, ius civile, de jure
+  French: se tenir, position, standing
+  German: stehen
 
 Phr:
   civis Romanus sum [Lat.] [I am a Roman citizen]

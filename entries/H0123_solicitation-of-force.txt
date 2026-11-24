@@ -5,10 +5,10 @@ Gloss: A force set into action by another force.
 HGloss: Force solicited by another force, which is itself solicited, so that each is the condition of the other's expression.
 
 N:
-  solicitation, solicitation of force; incitement, incitation, excitation, stimulation, stimulus; provocation, elicitation, evocation, calling forth, summons; activation, actuation, arousal, awakening
+  solicitation, solicitation of force; incitement, incitation, excitation, stimulation, stimulus; provocation, elicitation, evocation, calling forth, summons; activation, actuation, arousal, awakening, suscitation†, enravishment†
   impulse, impulsion, impetus; trigger, triggering, release; catalyst, catalysis
   occasion, occasional cause
-  spark, detonator, fuse, percussion cap, hair trigger; prod, goad, spur, prick, fillip, nudge, jog
+  spark, detonator, fuse, percussion cap, hair trigger; prod, goad, spur, prick, fillip, nudge, jog, ankus†
   latent force, potential energy; force &c H0121
   stimulus and response, action and reaction &c H0140; interplay of forces, play of forces; reciprocity &c H0141
   influence, prompting, instigation, provocation &c H0609

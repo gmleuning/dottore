@@ -5,7 +5,7 @@ Gloss: The relation in which an effect acts back upon its cause.
 HGloss: The effect reacting on the cause, so that each passive substance becomes active; the cause is effect of its own effect.
 
 N:
-  action and reaction; reaction, counteraction, counterforce, recoil, rebound, kickback, backlash, blowback, repercussion, reverberation, feedback, response, retaliation, retort, riposte, counterstroke, counterblow; reflux; Newton's third law; boomerang; reactance, resistance
+  action and reaction; reaction, counteraction, counterforce, recoil, rebound, kickback, backlash, blowback, repercussion, reverberation, feedback, response, retaliation, retort, riposte, counterstroke, counterblow; reflux; Newton's third law; boomerang; reactance, resistance, surrejoinder†, surrebutter†
   retroaction, revulsion, bounce, ricochet, recalcitration†, kick, springing back, elasticity &c H0263, reflection, reflexion [Brit.], reflex, reverberation &c H0264, rebuff, repulse
   opposition, contrariety &c H0092, antagonism, polarity, clashing, collision, interference, inhibition, renitency, friction, retroaction &c H0232, counterblast†, neutralization &c H0634, check &c H0021
   opposites, yang and yin, yang-yin &c H0092
@@ -40,3 +40,4 @@ Phr:
   hoist with his own petard [Hamlet]
   every action has an equal and opposite reaction
   to give as good as one gets
+  for every action there is a reaction, equal in force and opposite in direction [Newton]

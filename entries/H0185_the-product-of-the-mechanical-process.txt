@@ -6,10 +6,10 @@ HGloss: The fate of the mechanical process: rest, a product in which the object 
 
 N:
   the product of the mechanical process; rest, repose, equilibrium, standstill, stasis, inertia, quiescence, stillness, settlement, settling; result, outcome, residue, product
-  stagnation, fixity, immobility
+  stagnation, fixity, immobility, indisturbance†
   effect, consequence, resultant, upshot, issue
   inertness, quiescence &c H0228
-  remainder, residuum
+  remainder, residuum, ditchwater†, bilgewater†, offscourings†, outscourings†, draff†
   the neutral result, the aggregate
 
 V:

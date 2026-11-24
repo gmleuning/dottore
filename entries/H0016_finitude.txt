@@ -25,7 +25,7 @@ Adv:
   finitely, within limits, within bounds; for a time, for the time being
 
 F:
-  German: das Endliche
+  German: das Endliche, Geworfenheit [thrownness] [Heidegger]
   Latin: conditio humana, pro tempore, ad interim
   French: condition humaine
   Arabic: fanāʾ [passing away]

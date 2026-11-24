@@ -22,7 +22,7 @@ V:
 
 Adj:
   interested, concerned, engaged, invested, involved
-  impulsive, suasive, suasory†, persuasive, persuasory†, hortative, hortatory, protreptical†, inviting, tempting, seductive, attractive, fascinating &c H0609, provocative &c H0609
+  impulsive, suasive, suasory†, persuasive, persuasory†, hortative, hortatory, protreptical†, inviting, tempting, seductive, attractive, fascinating &c H0609, provocative &c H0609, enravishing†
   encouraging, enticing, alluring
 
 Adv:
@@ -37,3 +37,6 @@ Phr:
   cui bono? [Lat.] [who benefits?]
   to have a stake in
   one's own interest
+  fax mentis incendium gloriae [Lat.]
+  temptation hath a music for all ears [Willis]
+  to beguile many and be beguiled by one [Othello]

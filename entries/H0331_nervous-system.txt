@@ -8,9 +8,9 @@ N:
   nervous system; nerves, neurons, nerve cells, brain, spinal cord, ganglia, synapses, neural network, sensorium; sensibility; nervous tissue
   cerebrum
   the cerebrospinal system
-  encephalon, cerebellum, brainstem, medulla, medulla oblongata, pons, midbrain, forebrain, hindbrain, cortex, cerebral cortex, neocortex, grey matter, white matter, frontal lobe, prefrontal cortex, temporal lobe, parietal lobe, occipital lobe, hemispheres, corpus callosum, limbic system, hippocampus, amygdala, thalamus, hypothalamus, pineal gland, pituitary gland, meninges, dura mater, pia mater, cerebrospinal fluid
+  encephalon, cerebellum, brainstem, medulla, medulla oblongata, pons, midbrain, forebrain, hindbrain, cortex, cerebral cortex, neocortex, grey matter, white matter, frontal lobe, prefrontal cortex, temporal lobe, parietal lobe, occipital lobe, hemispheres, corpus callosum, limbic system, hippocampus, amygdala, thalamus, hypothalamus, pineal gland, pituitary gland, meninges, dura mater, pia mater, cerebrospinal fluid, glume†
   neuron, nerve fibre, axon, dendrite, myelin, myelin sheath, nerve ending, receptor, neurotransmitter, dopamine, serotonin, nerve impulse, action potential, cranial nerves, optic nerve, vagus nerve, sciatic nerve, spinal nerves, nerve trunk, plexus
-  noggin [Coll.], noodle [Slang], bean [Slang], brainbox [Brit. Coll.], brainpan, headpiece, upper storey [Coll.], loaf [Brit. Slang], melon [Slang], gourd [U.S. Slang], nut [Slang], conk [Slang], think-tank [Slang], grey cells, the old grey matter, wetware [Slang], hardwiring, sensorium commune†
+  noggin [Coll.], noodle [Slang], bean [Slang], brainbox [Brit. Coll.], brainpan, headpiece, upper storey [Coll.], loaf [Brit. Slang], melon [Slang], gourd [U.S. Slang], nut [Slang], conk [Slang], think-tank [Slang], grey cells, the old grey matter, wetware [Slang], hardwiring, sensorium commune†, noddle†
   nerves of steel, frayed nerves, jangled nerves, nerve storm, neuralgia, neuritis, pins and needles, brain fog, brain fart [Slang]
   neurology, ganglion
 

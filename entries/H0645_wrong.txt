@@ -10,11 +10,11 @@ N:
   usurpation, breach, presumption, assumption, seizure, stretch, exaction, imposition, lion's share
   what ought not to be, what should not be, unreasonableness, shame
   outrage, foul play, bad turn, ill turn, disservice, spoliation &c H0650, crying evil
-  transgression, encroachment
+  transgression, encroachment, transcursion†, transiliency†, extravagation†
   unright
 
 V:
-  wrong, injure, violate, infringe, trespass, offend, aggrieve, do injustice
+  wrong, injure, violate, infringe, trespass, offend, aggrieve, do injustice, enchafe†
   trench on, exact, arrogate, arrogate to oneself, give an inch and take an ell, stretch a point, strain a point, usurp, do violence to
   sin, err, transgress
   encroach, trench upon, entrench on, intrench on†, strain, cross the Rubicon
@@ -22,8 +22,8 @@ V:
 Adj:
   wrong, wrongful, unjust, unlawful, illegal, tortious, injurious, iniquitous
   bad, too bad, unfair, inequitable, unequitable†, unequal, partial, one-sided
-  objectionable, unreasonable, unallowable, unwarrantable, unjustifiable, improper, unfit, unjustified, immoral &c H0668
-  illegitimate, not allowed, prohibited &c H0705, illicit, contraband, actionable
+  objectionable, unreasonable, unallowable, unwarrantable, unjustifiable, improper, unfit, unjustified, immoral &c H0668, unallowed†, injudicial†
+  illegitimate, not allowed, prohibited &c H0705, illicit, contraband, actionable, unentitled†
   criminal
   obnoxious
 
@@ -41,3 +41,5 @@ Phr:
   two wrongs don't make a right
   summum ius, summa iniuria [Lat.] [extreme law, extreme injustice] [Cicero]
   in the wrong
+  it will not do
+  filius nullius

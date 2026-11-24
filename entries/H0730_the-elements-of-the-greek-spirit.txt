@@ -14,7 +14,7 @@ V:
   mingle, settle, inherit, receive
 
 Adj:
-  Hellenic, maritime, mountainous, insular, humanized
+  Hellenic, maritime, mountainous, insular, humanized, cloudtopt†, cloudcapt†, cloudtouching†
   elemental, geographical, heterogeneous, youthful, native
 
 Adv:

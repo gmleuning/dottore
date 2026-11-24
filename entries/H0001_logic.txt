@@ -25,13 +25,15 @@ Adv:
   logically, dialectically &c adj.; in thought, in pure thought, in the element of thought
 
 F:
-  German: Wissenschaft der Logik, das reine Denken, Vernunft, Reich der Schatten, Denkformen, voraussetzungslos, das Logische
-  Latin: prima philosophia, ratio, a priori, in abstracto, sub specie aeternitatis
+  German: Wissenschaft der Logik, das reine Denken, Vernunft, Reich der Schatten, Denkformen, voraussetzungslos, das Logische, Zahl, Erzählung, liegen, lesen
+  Latin: prima philosophia, ratio, a priori, in abstracto, sub specie aeternitatis, oratio, verbum
   Greek: organon, logos, noēsis noēseōs, nous
   Arabic: manṭiq
   Sanskrit: nyāya, hetuvidyā, pramāṇa [means of valid knowledge]
   Chinese: mingjia [School of Names]
   Korean: nollihak [logic], sabyeon [speculation]
+  French: discours, langage, langue, parole, rationalité, raison, intelligence, fondement, principe, motif, proportion, calcul, rapport, relation, récit, thèse, raisonnement, argument, explication, énoncé, proposition, phrase, définition, compte, conte
+  Hebrew: davar
 
 Phr:
   to gar auto noein estin te kai einai [Gr.] [Parmenides]

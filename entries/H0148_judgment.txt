@@ -23,11 +23,13 @@ Adv:
   by judgment
 
 F:
-  German: Diremption, Ur-teilung
-  Latin: iudicium, subiectum et praedicatum, me judice
-  Greek: krisis, apophansis
+  German: Diremption, Ur-teilung, Aussage, aussagen, Satz, Rede
+  Latin: iudicium, subiectum et praedicatum, me judice, praedicatio, praedicare, propositio, praemissa, oratio, oratio enuntiativa, sententia, elocutio, enuntiatio, sermo
+  Greek: krisis, apophansis, lekton, katēgoria, katēgorō, protasis, logos, phasis, apophasis, logos apophantikos, thesis, axiōma
   Arabic: ḥukm [judgment], qaḍiyya [proposition]
   Korean: pandan [judgment]
+  French: dictum, dit, énoncé, énonçable, exprimable, prédication, prédiquer, attribuer, phrase
+  Italian: attribuzione, attribuire
 
 Phr:
   judge not, that ye be not judged [Bible]

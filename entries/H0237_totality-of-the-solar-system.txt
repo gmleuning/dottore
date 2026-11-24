@@ -6,7 +6,7 @@ HGloss: The system of the heavens, the sun, planets, moons and comets, matter's 
 
 N:
   totality of the solar system; solar system, planetary system, heliocentric system, Copernican system, sun, planets, moons, satellites, comets, asteroids, the planetary family, orrery, armillary sphere; system of the world
-  orb of day, planet, planetoid, comet, satellite, moon, meteor
+  orb of day, planet, planetoid, comet, satellite, moon, meteor, aerolite†, uranolite†
   heavenly bodies, stars
   ecliptic
   astronomy

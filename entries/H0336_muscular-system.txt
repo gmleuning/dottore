@@ -26,9 +26,9 @@ V:
   pump iron, work out, bulk up, tone up, beef up, get ripped, bench, curl, lift, pull a muscle, twitch, seize up
 
 Adj:
-  muscular, brawny, sinewy, beefy, burly, strapping, wiry, contractile
+  muscular, brawny, sinewy, beefy, burly, strapping, wiry, contractile, Atlantean†
   athletic, well-knit
-  buff [Slang], ripped [Slang], jacked [Slang], swole [Slang], shredded [Slang], cut [Slang], yoked [Slang], built [Coll.], hench [Brit. Slang], hunky, toned, muscle-bound, herculean, thewy†, lacertous†, musculous†, stalwart, robust, flabby, flaccid, scrawny, weedy, puny
+  buff [Slang], ripped [Slang], jacked [Slang], swole [Slang], shredded [Slang], cut [Slang], yoked [Slang], built [Coll.], hench [Brit. Slang], hunky, toned, muscle-bound, herculean, thewy†, lacertous†, musculous†, stalwart, robust, flabby, flaccid, scrawny, weedy, puny, adynamic†, asthenic†
   chopped, sliced, hefty, thoracic
 
 Adv:
@@ -46,3 +46,12 @@ Phr:
   muscles like Popeye
   flex one's muscles
   muscle memory
+  our withers are unwrung [Hamlet]
+  Blut und Eisen [Ger.]
+  coelitus mihi vires [Lat.]
+  du fort au diable [Fr.]
+  en habiles gens [Lat.]
+  ex vi termini
+  flecti non frangi [Lat.]
+  he that wrestles with us strengthens our nerves and sharpens our skill [Burke]
+  inflexible in faith invincible in arms [Beattie]

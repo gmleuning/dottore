@@ -5,12 +5,12 @@ Gloss: The pursuit of personal pleasure, which ends by running into an impersona
 HGloss: Self-consciousness that plunges into life to take pleasure and is crushed by abstract necessity.
 
 N:
-  pleasure and necessity; pleasure-seeking, hedonism, voluptuousness, sensualism, libertinism, Faustian striving, enjoyment, gratification, self-indulgence, dissipation; necessity, fate, iron necessity, abstract necessity; Faust, Don Juan
+  pleasure and necessity; pleasure-seeking, hedonism, voluptuousness, sensualism, libertinism, Faustian striving, enjoyment, gratification, self-indulgence, dissipation; necessity, fate, iron necessity, abstract necessity; Faust, Don Juan, intrigant†, paillard†, Bluebeard†
   necessitation, stern necessity, hard necessity, what must be
   pleasure, physical pleasure, sensual pleasure, sensuous pleasure, sensuality
-  voluptuary &c H0613, rake, debauchee
-  fruition, delectation, satisfaction &c H0617
-  Sybarite, voluptuary, man of pleasure, epicurean, sensualist
+  voluptuary &c H0613, rake, debauchee, rakehell†
+  fruition, delectation, satisfaction &c H0617, delection†
+  Sybarite, voluptuary, man of pleasure, epicurean, sensualist, tragalist†
   predestination, foredoom
   the pleasure-seeker, the plucking of life, blind necessity, the dead actuality
   sybaritism
@@ -23,7 +23,7 @@ V:
 
 Adj:
   hedonistic, pleasure-seeking, voluptuous, sensual, libertine, self-indulgent, Faustian
-  intemperate, luxurious, licentious, dissolute
+  intemperate, luxurious, licentious, dissolute, inabstinent†
   fated
   indulgent
 
@@ -32,8 +32,13 @@ Adv:
   for pleasure, of necessity
 
 F:
-  Latin: carpe diem
+  Latin: carpe diem, suavitas, voluptas, delectatio, fruitio
   Sanskrit: kāma
+  French: plaisir, jouissance
+  German: Wohlgefallen, Vergnügen
+  Greek: hēdonē, chara, chairein, terpsis, euphrosynē
+  Italian: piacere, diletto, gusto, godimento
+  Spanish: goce, gozo, placer
 
 Phr:
   he takes hold of life much as a ripe fruit is plucked [Hegel]

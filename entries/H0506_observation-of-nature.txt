@@ -9,11 +9,11 @@ N:
   biology, physiology, zoology &c H0353, naturalist
   experiment, essay &c H0613, analysis &c H0604, screen, trial, tentative method, tâtonnement
   verification, probation, proof, criterion, diagnostic, test, probe, crucial test, acid test, litmus test
-  crucible, reagent, check, touchstone, pix†, ordeal, ring, litmus paper, curcuma paper†, turmeric paper, test tube, analytical instruments &c H0196
+  crucible, reagent, check, touchstone, pix†, ordeal, ring, litmus paper, curcuma paper†, turmeric paper, test tube, analytical instruments &c H0196, cark†, sortilege†
   empiricism, rule of thumb
   feeler, trial balloon, pilot balloon, messenger balloon, pilot engine, scout, straw to show the wind
   speculation, random shot, leap in the dark
-  analyzer, analyst, assayist†, adventurer, experimenter, experimentist†, experimentalist, scientist, engineer, technician
+  analyzer, analyst, assayist†, adventurer, experimenter, experimentist†, experimentalist, scientist, engineer, technician, scrutator scrutineer scrutinizer†, dicer†
   subject, experimentee†, guinea pig, experimental animal
   protocol, experimental method, blind experiment, double-blind experiment, controlled experiment
   poll, survey, opinion poll
@@ -52,3 +52,7 @@ Phr:
   God created, Linnaeus arranged, Deus creavit, Linnaeus disposuit [Lat.]
   the book of nature
   to classify and describe
+  check it out, give it a try, see how it goes
+  Run it up the flagpole and see who salutes
+  aut non tentaris aut perfice [Lat.] [Ovid]
+  chi non s'arrischia non guadagna [Fr.]

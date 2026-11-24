@@ -7,7 +7,7 @@ HGloss: The Middle Ages: feudal lordship and church hierarchy, the Crusades, and
 N:
   the Middle Ages; feudality and hierarchy, feudalism, vassalage, fealty, fief, manor, the Church, papacy, hierarchy, the Crusades, monasticism, scholasticism, chivalry, the transition to monarchy, the rise of towns
   subjection, dependence, subordination, thrall, thralldom, subjugation, bondage, serfdom, feudality†
-  domain, demesne, allodium &c H0618 [Obs.], feoff†, feud
+  domain, demesne, allodium &c H0618 [Obs.], feoff†, feud, plaisance†, fieff†, zemindary†, arado†, merestead†
   the medieval world, the medieval period, the Dark Ages, the feudal system, the Holy Roman Empire, Charlemagne
   celibacy of the clergy, the monastic orders
 
@@ -26,6 +26,8 @@ Adv:
 
 F:
   Latin: medium aevum
+  Italian: podestà [chief magistrate], signoria [lordship of a city]
+  French: droit du seigneur, corvée
 
 Phr:
   Deus vult [Lat.] [God wills it]

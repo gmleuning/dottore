@@ -16,7 +16,7 @@ V:
 
 Adj:
   hypothetical, conditional, suppositional, contingent, implicative, if-then
-  assumed, suppositive†, conjectural, theoretical, supposable, presumptive
+  assumed, suppositive†, conjectural, theoretical, supposable, presumptive, postulatory†
   given, provisional
 
 Adv:
@@ -26,10 +26,11 @@ Adv:
   hypothetically
 
 F:
-  Latin: ergo, ex hypothesi
-  Greek: protasis and apodosis
+  Latin: ergo, ex hypothesi, illatio, inferentia, consequentia
+  Greek: protasis and apodosis, sympeplegmenon, symperasma, synēmmenon, akolouthia, antakolouthia
   Arabic: sharṭiyya muttaṣila [conjunctive conditional]
   Sanskrit: vyāpti [invariable concomitance]
+  German: nachsichziehen, zurfolgehaben, Folge(-rung), Schluß, Konsequenz, Implikation, Implikatur
 
 Phr:
   if A, then B

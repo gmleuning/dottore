@@ -6,7 +6,7 @@ HGloss: Shape as the linear tension of opposed poles united in a neutral middle,
 
 N:
   magnetism; magnet, lodestone, loadstone, magnetic needle, compass, polarity, poles, north pole, south pole, magnetic field, lines of force, attraction and repulsion; neutral point, point of indifference; animal magnetism &c H0402
-  lodestar, loadstar†, permanent magnet, siderite, magnetite, electromagnet, magnetic coil, voice coil, magnetic dipole, motor coil, rotor, stator
+  lodestar, loadstar†, permanent magnet, siderite, magnetite, electromagnet, magnetic coil, voice coil, magnetic dipole, motor coil, rotor, stator, handpost†, fingerpost†, balize†
   magnetic pole, magnetic monopole
   contraposition†, opposition, inversion &c H0218, opposite side, reverse, inverse, counterpart, antipodes, opposite poles
   electrical attraction, electricity, static electricity, static, static cling, magnetic attraction, gravity, attraction of gravitation
@@ -36,3 +36,4 @@ F:
 Phr:
   like poles repel, unlike poles attract
   true as the needle to the pole
+  ubi mel ibi apes [Lat.] [Plautus]

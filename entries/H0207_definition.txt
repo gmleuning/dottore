@@ -25,10 +25,13 @@ Adv:
   by definition, definitionally, strictly speaking
 
 F:
-  Latin: definitio, genus proximum et differentia specifica, ex definitione
+  Latin: definitio, genus proximum et differentia specifica, ex definitione, connotatio, consignificatio, nota
   Greek: horismos, horos
   Arabic: ḥadd [definition]
   Sanskrit: lakṣaṇa [defining mark]
+  German: Merkmal [characteristic mark] [Kant, Frege], Konnotation
+  French: marque distinctive, marque, note
+  Spanish: marca
 
 Phr:
   omnis definitio in iure periculosa est [Lat.]

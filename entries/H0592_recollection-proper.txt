@@ -20,7 +20,7 @@ V:
   know again
 
 Adj:
-  recognized, familiar, recalled, recognizable
+  recognized, familiar, recalled, recognizable, autoptical†
   known, well-known
   recognitive, recollective, reminiscent
 

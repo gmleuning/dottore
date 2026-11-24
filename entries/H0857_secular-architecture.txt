@@ -7,21 +7,21 @@ HGloss: The secular building of the Middle Ages: castles, city walls, town halls
 N:
   secular architecture; civic architecture, town hall, palace, castle, fortress, mansion, villa, guildhall
   cottage, lodge, chateau, pavilion, court, manor-house
-  stronghold, fastness, keep, donjon, citadel
+  stronghold, fastness, keep, donjon, citadel, barracoon†, pah†, martello tower†, peelhouse†
   civil architecture, civic building, domestic building, profane architecture, burgher house, city wall, bridge, garden architecture
   marquee
-  fortification, fortifications, bulwark, rampart, ramparts, bastion, battlement, redoubt, sconce, earthwork, fortified town
+  fortification, fortifications, bulwark, rampart, ramparts, bastion, battlement, redoubt, sconce, earthwork, fortified town, mantlet†, redan†, ravelin†, vauntmure†, barbacan†
   crenellation, machicolation
 
 V:
   fortify, house, govern
   build, dwell, garden
-  entrench, wall in, ensconce
+  entrench, wall in, ensconce, intrench†
 
 Adj:
   secular, civic, palatial, fortified, baronial
   civil, domestic, profane, municipal, residential, utilitarian
-  walled, embattled, battlemented, castellated, impregnable
+  walled, embattled, battlemented, castellated, impregnable, machicolated†, casemated†
 
 Adv:
   civically

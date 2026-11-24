@@ -23,6 +23,9 @@ Adv:
 F:
   Korean: uri [we, us]
   Nguni: ubuntu [I am because we are]
+  German: Mitsein [being-with] [Heidegger], Menschheit, Menschlichkeit [humanity as species and as virtue]
+  French: humanité, sentiment d’humanité
+  Latin: humanitas
 
 Phr:
   I that is We and We that is I [Hegel]

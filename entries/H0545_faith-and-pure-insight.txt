@@ -34,7 +34,7 @@ F:
   German: Glaube, reine Einsicht
   Latin: fides
   Greek: pistis
-  French: the philosophes
+  French: the philosophes, croyance [belief, as against faith], foi
   Arabic: īmān [faith]
   Sanskrit: śraddhā [faith]
 

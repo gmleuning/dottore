@@ -5,19 +5,19 @@ Gloss: The expression of feeling in the body, as in blushing, trembling or weepi
 HGloss: The inner sensations given bodily form, as anger in the breast, shame in a blush, grief in tears.
 
 N:
-  embodiment; bodily expression of feeling, somatization, physical symptom, blush, flush, pallor, tears, weeping, laughter, trembling, shudder, shiver, goose flesh, sigh, sob, gasp, cold sweat, lump in the throat; psychosomatics
+  embodiment; bodily expression of feeling, somatization, physical symptom, blush, flush, pallor, tears, weeping, laughter, trembling, shudder, shiver, goose flesh, sigh, sob, gasp, cold sweat, lump in the throat; psychosomatics, achromatism†, decoloration†, pallidity†, erubescence†
   groan, moan
-  suffusion, tingling, thrill, throb, throbbing
-  flutter, trepidation, tremor
+  suffusion, tingling, thrill, throb, throbbing, verecundity†
+  flutter, trepidation, tremor, hurry-skurry†
   corporealization, bodily expression, incarnation of feeling, blushing
 
 V:
-  blush, flush, pale, blanch, weep, cry, laugh, tremble, shudder, shiver, sigh, sob, gasp, sweat
+  blush, flush, pale, blanch, weep, cry, laugh, tremble, shudder, shiver, sigh, sob, gasp, sweat, didder†
   shake
   glow, change color, turn pale, tingle, palpitate
   shed tears, melt into tears
-  quiver, quaver, quake
-  color up, mantle, redden
+  quiver, quaver, quake, twire†
+  color up, mantle, redden, rubify†
   embody, corporealize, express bodily
 
 Adj:
@@ -31,6 +31,12 @@ Adv:
 
 F:
   Arabic: tajassud [embodiment]
+  French: corps sans organes [body without organs] [Deleuze and Guattari], chair
+  Greek: sōma, sarx
+  Hebrew: basar
+  Italian: carne, corpo
+  Latin: corpus, caro
+  Spanish: cuerpo
 
 Phr:
   the body keeps the score

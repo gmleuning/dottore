@@ -5,8 +5,8 @@ Gloss: The soul's activity in sleep, when it feels without sorting its feelings.
 HGloss: The soul in sleep, feeling its whole world without the waking connection of the understanding.
 
 N:
-  dreaming; dream, dreams, dream life, dreamland, dreamworld, reverie, daydream, fantasy, vision, nightmare, incubus, succubus, phantasm, oneiromancy, dream interpretation; alcheringa, the Dreaming
-  ecstasy, trance, day dream, golden dream, somnambulism
+  dreaming; dream, dreams, dream life, dreamland, dreamworld, reverie, daydream, fantasy, vision, nightmare, incubus, succubus, phantasm, oneiromancy, dream interpretation; alcheringa, the Dreaming, cacodemon†, shaitan†
+  ecstasy, trance, day dream, golden dream, somnambulism, extasy†, dream of Alnaschar†
   figment, chimera
   illusion, mirage
   dream-life, the play of images, sleeping fancy
@@ -26,11 +26,12 @@ Adv:
   in dreams
 
 F:
-  German: Traumdeutung [Freud]
+  German: Traumdeutung [Freud], Entstellung [dream distortion] [Freud], Wunsch, Wunscherfüllung [wish-fulfilment] [Freud]
   Latin: somnium
   Greek: oneiros
   Arabic: ruʾyā [vision, dream]
   Aboriginal Australian: the Dreamtime
+  French: désir, souhait
 
 Phr:
   we are such stuff as dreams are made on [Tempest]
