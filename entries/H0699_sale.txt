@@ -21,6 +21,7 @@ N:
   business line, second-hand store, computer store, product line, head shop, food shop, building supply store, building supply house, gift shop, software product, dress shop, fix-it shop, beauty shop, loan office, chain store, meat market, piece goods, yard goods, hat shop, clothing store, package store, pet shop, pizza shop, flower store, repair shop, hardware store, candy store, shoe-shop, shoe store, shoe shop, tobacco shop, junk shop, convenience store, liquor store, betting shop, specialty store, beauty salon, butcher shop, novelty shop, dry cleaners, mens store, pizza parlor, beauty parlor, beauty parlour, florist shop, service department, loss leader, post exchange, fashion collection, small stores, drawing card, generic drug, sales booth, tuck shop, slop chest, coffee stall
   selling, marketing, steal, beloved, dearest, hawking
   vendibleness†, deadhead†
+  commodity fetishism
 
 V:
   sell, buy, purchase, vend, market, retail, deal, trade
@@ -49,6 +50,7 @@ Adv:
   affectionately
 
 F:
+  German: Ware, Warenfetischismus
   Latin: emptio venditio
   French: a grands frais
 

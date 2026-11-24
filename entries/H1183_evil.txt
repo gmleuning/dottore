@@ -9,12 +9,9 @@ N:
   the Fall, original sin, sin, the tree of knowledge, Eden, the serpent
   the tempter, the evil one, the evil spirit, the Adversary, the archenemy, the author of evil, the wicked one, the old Serpent, the Prince of darkness, the Prince of this world, the Prince of the power of the air, the foul fiend, the arch fiend, the devil incarnate, the common enemy, the angel of the bottomless pit, Apollyon†
   vice, evil-doing, evil courses, wrongdoing, wickedness, viciousness, iniquity, peccability†, demerit, Adam†, old Adam†, offending Adam†
-  hell, bottomless pit, place of torment, habitation of fallen angels, Pandemonium, Abaddon†, jahannan†, sheol†, botttomless pit†
+  hell &c H1184
   fallen angels, unclean spirits, devils, the rulers, the powers of darkness, inhabitants of Pandemonium, demon &c H1164
   impiety, sin &c H0732, irreverence, profaneness, blasphemy, desecration, sacrilege, misdevotion†, sabbatism†, sacerdotalism†
-  Tophet, Rhadamanthus†
-  infernal regions, inferno, shades below, pit of Acheron†
-  gehenna, abyss
   devilism†, devilship†, diabolology†
 
 V:
@@ -24,7 +21,7 @@ V:
 Adj:
   fallen, sinful, lapsarian, postlapsarian
   sinning, wicked, iniquitous
-  hellish, infernal, fiendlike†, hellborn†
+  fiendlike†, hellborn†, diabolical, fiendish
 
 Adv:
   after the Fall
@@ -32,5 +29,3 @@ Adv:
 Phr:
   ye shall be as gods, knowing good and evil [Bible]
   the Fall is therefore the eternal Mythus of Man [Hegel, Philosophy of History, tr. Sibree]
-  dies irae dies illa [Lat.]
-  the hue of dungeons and the scowl of night [Love's Labor's Lost]

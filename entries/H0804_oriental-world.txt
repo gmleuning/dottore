@@ -8,6 +8,7 @@ N:
   the Oriental world; the East, the Orient, Asia, ancient Asia, the childhood of history, Oriental despotism, one is free
   origin &c H0147, source, genesis, birth, nativity, cradle, infancy, dawn &c H0263
   the Oriental realm, the childhood of spirit, despotism, the freedom of one, substantial unity, theocracy
+  Asiatic mode of production
 
 V:
   rise, dawn
@@ -23,6 +24,7 @@ Adv:
   under one, despotically
 
 F:
+  German: asiatische Produktionsweise
   Latin: ex oriente lux
   Arabic: al-mashriq
 

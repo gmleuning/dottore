@@ -13,6 +13,7 @@ N:
   wage
   job, paycheck, paycheque, payslip, raise, pay rise, overtime, unemployment, the dole [Brit.], benefits, welfare, pension, retirement, hiring, recruitment, layoff, redundancy [Brit.], the sack [Coll.], resignation, CV, résumé, job interview, applicant, vacancy, remigration†
   indenture
+  labour power, working day, necessary labour time, surplus labour time, surplus value, absolute surplus value, relative surplus value, rate of surplus value, rate of exploitation, formal subsumption, real subsumption
 
 V:
   employ, hire, engage, contract, pay, remunerate; work for, be employed
@@ -31,6 +32,7 @@ Adv:
   on hire
 
 F:
+  German: Arbeitskraft, Mehrwert, absoluter Mehrwert, relativer Mehrwert, Mehrarbeitszeit, notwendige Arbeitszeit, formelle Subsumtion, reelle Subsumtion
   Latin: locatio operarum, locatio operae
 
 Phr:

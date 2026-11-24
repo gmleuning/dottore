@@ -12,6 +12,7 @@ N:
   scorse†, truck system
   transfer, exchange &c H0151, barter &c H0698
   quid pro quo
+  exchange-value, equivalent form of value, relative form of value
 
 V:
   exchange, trade, swap, interchange, barter, sell
@@ -31,6 +32,7 @@ Adv:
   in return
 
 F:
+  German: Tauschwert, Äquivalentform, relative Wertform
   Latin: permutatio, mutatis mutandis
   Greek: allagē
 

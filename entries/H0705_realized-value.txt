@@ -14,6 +14,7 @@ N:
   monetary unit, metal money, paper currency, hard currency, monetary fund, token money, folding money, fractional monetary unit, small change, bank bill, government note, trust fund, spending money, war chest, pocket money, pin money, mutual fund, bank deposit, pension fund, pound sterling, petty cash, nest egg, pork barrel, sinking fund, fiat money, revolving fund, fractional currency, superannuation fund, slush fund, chump change, c-note, louis d'or, operating budget, two dollar bill, twenty dollar bill, ten dollar bill, hundred dollar bill, half dollar, five dollar bill, dollar bill, index fund, half crown, silver certificate, fifty-cent piece, fifty dollar bill, exchange traded fund, half eagle, double eagle, new penny, nickel note, gold certificate†, roanoke†, seawan†, seawant†
   equivalence
   valuelessness†
+  value-form, value-form theory, labour theory of value, law of value, socially necessary labour time, real abstraction, abstract labour, concrete labour, double character of labour
 
 V:
   realize, secure, retain value, cash out
@@ -31,9 +32,9 @@ Adv:
   as security
 
 F:
-  German: Tauschwert
-  French: valeur, validité
+  German: Tauschwert, Wert, Werte, Wertform, Wertformtheorie, Wertgesetz, gesellschaftlich notwendige Arbeitszeit, Realabstraktion, abstrakte Arbeit, konkrete Arbeit, Doppelcharakter der Arbeit
   Latin: valere
+  French: valeur, validité
 
 Phr:
   as good as gold

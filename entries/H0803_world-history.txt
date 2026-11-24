@@ -12,6 +12,7 @@ N:
   historiography
   perfectibility [Rousseau]
   puceron†, vinefretter†, vinegrub†
+  historical materialism, materialist conception of history, base and superstructure, mode of production, forces of production, relations of production
 
 V:
   progress, unfold, advance, march, judge
@@ -32,14 +33,14 @@ Adv:
   world-historically, through the ages
 
 F:
-  German: Weltgericht, List der Vernunft, Geschichte, Historie [history lived and history written] [Heidegger], Universalhistorie, Welthistorie, allgemeine (Welt)Geschichte, Historik, Geschichten, Perfektibilität, Vervollkommenheit
+  German: Weltgericht, List der Vernunft, Geschichte, Historie [history lived and history written] [Heidegger], Universalhistorie, Welthistorie, allgemeine (Welt)Geschichte, Historik, Geschichten, Perfektibilität, Vervollkommenheit, materialistische Geschichtsauffassung, Basis und Überbau, Produktionsweise, Produktivkräfte, Produktionsverhältnisse
   Latin: historia universalis, gesta, res gestae, perfectibilitas
-  Arabic: al-Muqaddima [Ibn Khaldun]
-  Spanish: intrahistoria [the silent history beneath events] [Unamuno]
-  Italian: corso e ricorso [Vico's cycles of history], storia, storiografia
-  French: grand récit [Lyotard], cours, retour, récurrence, historique, historial, historicité, historialité, histoire universelle, histoire générale, histoire mondiale, perfectibilité
-  Dutch: Geschiedenis
   Greek: historiē
+  French: grand récit [Lyotard], cours, retour, récurrence, historique, historial, historicité, historialité, histoire universelle, histoire générale, histoire mondiale, perfectibilité
+  Italian: corso e ricorso [Vico's cycles of history], storia, storiografia
+  Spanish: intrahistoria [the silent history beneath events] [Unamuno]
+  Arabic: al-Muqaddima [Ibn Khaldun]
+  Dutch: Geschiedenis
 
 Phr:
   world history is the world's court of judgment, die Weltgeschichte ist das Weltgericht [Ger.] [Schiller, Hegel]

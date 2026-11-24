@@ -24,6 +24,7 @@ N:
   avarice, greed &c H0759
   miser, niggard, churl, screw, skinflint, crib, codger, muckworm†, scrimp, lickpenny†, hunks, curmudgeon, Harpagon, harpy, extortioner, usurer, Hessian [U.S.], pinch fist, pinch penny
   the universal resources, the general wealth, class-division
+  bourgeoisie, petty bourgeoisie, proletariat, working class, class in itself, class for itself, class consciousness
 
 V:
   belong, rank, occupy a station
@@ -62,7 +63,7 @@ Adv:
   by estate, by class
 
 F:
-  German: Stände, das allgemeine Vermögen, Bildungsbürgertum [the educated middle class]
+  German: Stände, das allgemeine Vermögen, Bildungsbürgertum [the educated middle class], Bourgeoisie, Proletariat, Klasse an sich, Klasse für sich, Klassenbewusstsein
   Latin: ne quid nimis
   French: porte-monnaie, credit mobilier, manger son ble en herbe, Tiers État
   Sanskrit: varṇa [estate, class]

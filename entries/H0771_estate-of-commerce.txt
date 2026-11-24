@@ -14,6 +14,7 @@ N:
   exporter, importer, auctioneer, wholesaler, stockbroker, shipper, grocer, bookseller, arb
   wine merchant, salt merchant, retail merchant, grain merchant, market keeper, book seller, rug merchant, stationery seller, ship broker, stock trader, horse trader, art dealer, stamp dealer, seed seller, cheap-jack, slop-seller, print seller, ship chandler, ship's chandler, investment banker
   warehouse, promptuary†, wareroom†, interposit†, arbitrager†, arbitrageur†, bale, fardel†, seron†, seroon†
+  circuit of capital, general formula for capital, fictitious capital, cost price, prices of production, general rate of profit, tendency of the rate of profit to fall, transformation problem, socially necessary turnover time
 
 V:
   trade, deal, traffic, keep a shop, deal in
@@ -25,7 +26,7 @@ Adv:
   commercially
 
 F:
-  German: Handelsstand, Handel, Kaufmann
+  German: Handelsstand, Handel, Kaufmann, Kreislauf des Kapitals, fiktives Kapital, Produktionspreise, Umschlagszeit, Zirkulationszeit
 
 Phr:
   open for business

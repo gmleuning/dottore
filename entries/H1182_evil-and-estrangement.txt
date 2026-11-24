@@ -19,7 +19,7 @@ Adv:
 
 F:
   German: das Böse, Entfremdung, Entzweiung, Sündenfall, Erbsünde, Trennung, Schmerz, Teufel
-  Latin: peccatum originale, Erebus, Avernus, lapsus, felix culpa, non posse non peccare, diabolus, daemon
+  Latin: peccatum originale, lapsus, felix culpa, non posse non peccare, diabolus, daemon
   Greek: hamartia, diabolos, daimōn
   Sanskrit: avidyā [ignorance]
   Korean: wonjoe [original sin]

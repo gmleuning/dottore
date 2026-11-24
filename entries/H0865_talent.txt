@@ -10,3 +10,6 @@ N:
 
 Adj:
   talented, endowed
+
+Phr:
+  a good horse is hard to mount, but it carries you far, liang ma nan cheng, ran ke yi ren zhong zhi yuan [Chin.] [Mozi]

@@ -10,6 +10,7 @@ N:
   pantisocracy†, monocracy†
   the immediate estate, husbandry
   boulevard, forester
+  ground-rent, absolute rent, differential rent
 
 V:
   farm, till, cultivate, plough, harvest, husband
@@ -22,10 +23,10 @@ Adj:
   countrified, incondite†, unclassical†
 
 F:
+  German: Junkertum [the landed Prussian nobility], Grundrente
   Latin: agricola, magnifico
   Greek: geōrgos
   French: comme il faut, commune paysanne
-  German: Junkertum [the landed Prussian nobility]
   Spanish: latifundio [great estate], minifundio [smallholding]
   Russian: mir [the peasant commune; also world, peace]
 

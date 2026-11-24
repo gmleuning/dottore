@@ -26,3 +26,4 @@ Adv:
 Phr:
   the time is out of joint [Hamlet]
   das Herzklopfen für das Wohl der Menschheit geht in das Toben des verrückten Eigendünkels über [Ger.] [Hegel, Phenomenology]
+  defeat is not as dangerous as the fear of admitting it, ne tak opasno porazhenie, kak opasna boyazn' priznat' svoyo porazhenie [Rus.] [Lenin]

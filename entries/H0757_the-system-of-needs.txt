@@ -24,6 +24,7 @@ N:
   income, earnings, profit, profits, revenue, turnover, costs, cost, expense, expenses, pricing, price, finances, funding, financing, investment, investing, banking, accounting, audit, payroll, pension, subsidy, tax, taxes, taxpayer, inflation, recession, the economy, capitalism, socialism, monopoly, billionaire, millionaire, the one percent, nonprofit, charity, fundraiser, crowdfunding, crypto, bitcoin, credit card, debit card, ATM, cash machine, cashback, mortgage, rent, loan, debt, overdraft, impropriation†, usucaption†, accepta†
   oeconomy
   chrysology†
+  critique of political economy, capitalist mode of production, primitive accumulation, so-called primitive accumulation, simple reproduction, expanded reproduction, trinity formula
 
 V:
   produce, consume, trade, supply, demand, exchange, specialize
@@ -39,7 +40,7 @@ Adv:
   through others' work
 
 F:
-  German: Staatsökonomie, Wirtschaft
+  German: Staatsökonomie, Wirtschaft, Kapital, Kapitalismus, kapitalistische Produktionsweise, Kritik der politischen Ökonomie, einfache Reproduktion, erweiterte Reproduktion, sogenannte ursprüngliche Akkumulation, trinitarische Formel, Sozialismus
   Latin: argent comptant
   French: bureau de change, piece, économie
   Sanskrit: vārtā [economics, livelihood], arthaśāstra [science of wealth]

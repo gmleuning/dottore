@@ -12,6 +12,7 @@ N:
   mob, rabble, rabble rout, chaff, rout, horde, canaille, scum of the people, residuum of the people, dregs of the people, dregs of society, swinish multitude, foex populi†, trash, vermin, riffraff, ragtag and bobtail, small fry, fatras†, attroupement†, cohue†
   pauper, homeless person, hobo, bum, tramp, bindle stiff, bo, knight of the road, hard core unemployed, welfare client, welfare case, mumper†
   wastrel, foundling, loafer, tramper, vagabond, waifs and estrays†, beach comber, swagman, swagsman [Austral.], sundowner†, mudlark†, raff†, bezonian†, gaberlunzie†, cinderwench†, gossoon†, runnion†, polisson†, bummer†, gadling†, scatterling†, landloper†
+  industrial reserve army, reserve army of labour, lumpenproletariat
 
 V:
   provide relief
@@ -21,7 +22,7 @@ Adj:
   poor, indigent, destitute, penniless, impoverished, pauperized, down and out, on the dole, on welfare
 
 F:
-  German: Armut, Armenpflege, Pöbel
+  German: Armut, Armenpflege, Pöbel, industrielle Reservearmee, Lumpenproletariat
 
 Phr:
   the rabble, der Pöbel [Ger.] [Hegel]
@@ -34,3 +35,4 @@ Phr:
   the short and simple annals of the poor [Gray]
   dummodo sit dives barbarus ipse placet [Lat.] [Ovid]
   steeped in poverty to the very lips [Othello]
+  the strong do not coerce the weak, the rich do not insult the poor, qiang bu zhi ruo, fu bu wu pin [Chin.] [Mozi]

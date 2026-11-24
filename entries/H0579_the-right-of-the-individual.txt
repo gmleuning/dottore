@@ -21,6 +21,8 @@ V:
   wear mourning, go into mourning, put on mourning
   exhume, disinter, unearth, embowel†, disbowel†
   honour
+  the underworld, the nether world, Hades, realm of the dead, realms of Pluto, Pluto, Erebus, infernal regions, inferno, shades below
+  Styx, Stygian creek, Acheron†, pit of Acheron†, Cocytus, Avernus, Rhadamanthus†
 
 Adj:
   funeral, funereal, sepulchral, mortuary, obsequial, elegiac, mournful
@@ -28,6 +30,7 @@ Adj:
   lamenting, sorrowing, threnetic†
   lugubrious
   funerary
+  stygian, infernal, chthonic
 
 Adv:
   in mourning
@@ -36,7 +39,7 @@ Adv:
 
 F:
   German: Bestattung der Toten
-  Latin: the Manes, in memoriam, requiescat in pace, post mortem
+  Latin: the Manes, Avernus, Erebus, inferi, in memoriam, requiescat in pace, post mortem
   Sanskrit: śrāddha [rite for ancestors]
   Chinese: jizu [ancestor rites]
   Korean: jinogigut [rite for the dead]

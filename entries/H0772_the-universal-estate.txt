@@ -10,6 +10,7 @@ N:
   notary, assessor, appointee, bureaucrat, rapporteur, commissar, vizier, marland†, sheik nizam†
   vote counter, returning officer, administrative official, civil servant, record-keeper, town clerk, census taker, postmaster general, notary public, political commissar, federal official, internal revenue agent, tax collector, office-bearer, paper-pusher, tax assessor, cursitor†
   lister
+  general intellect
 
 V:
   administer, serve the state, govern, officiate
@@ -25,11 +26,11 @@ Adv:
   for the general interest
 
 F:
-  German: Beamter, Beamtenstaat [state of officials]
+  German: Beamter, Beamtenstaat [state of officials], General intellect
+  French: haut fonctionnaire
   Arabic: dīwān [chancery]
   Sanskrit: kāyastha [scribe caste]
   Chinese: shidaifu [scholar-officials]
-  French: haut fonctionnaire
 
 Phr:
   the universal interests of the community [Hegel]

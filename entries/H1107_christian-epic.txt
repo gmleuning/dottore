@@ -6,6 +6,7 @@ HGloss: The Christian epic, whose world is the eternal action of divine justice 
 
 N:
   Christian epic; sacred epic, the Messiah, the Messiade, Klopstock
+  Inferno, Purgatorio, Paradiso, the Commedia; hell, purgatory, paradise &c H1184
   Divine Comedy, Paradise Lost, the Christian epic, Dante, Milton, Jerusalem Delivered, Tasso
 
 Adj:

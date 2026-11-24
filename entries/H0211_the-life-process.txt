@@ -28,6 +28,9 @@ Adv:
   by assimilation, by nourishment
   vitally
 
+F:
+  German: Stoffwechsel
+
 Phr:
   you are what you eat, der Mensch ist, was er isst [Ger.] [Feuerbach]
   to keep body and soul together

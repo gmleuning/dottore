@@ -13,6 +13,7 @@ N:
   Huguenot, Presbyterian, Lutheran, Calvinist, Methodist, Ana†, Latter-day Saint†, Supralapsarian†, Antinomian†, Swedenborgian†, Adventist†, Faith Curer†, Curist†, Familist†, Libadist†, Restitutionist†, tractarian†
   the modern world, the new age, the principle of free spirit, the last stage of history
   protester
+  revolution, Bonapartism, dictatorship of the proletariat, political emancipation, human emancipation
 
 V:
   reform, protest, enlighten, revolutionize, modernize
@@ -32,7 +33,7 @@ Adv:
   recently, lately
 
 F:
-  German: Reformation, Aufklärung, Neuzeit, Kulturkampf [struggle of state and church], Säkularisation, Säkularisierung, Verweltlichung
+  German: Reformation, Aufklärung, Neuzeit, Kulturkampf [struggle of state and church], Säkularisation, Säkularisierung, Verweltlichung, Bonapartismus, Diktatur des Proletariats, politische Emanzipation, menschliche Emanzipation
   French: temps modernes, âge moderne, modernité, sécularisation, profanation
   Italian: secolarizzazione
 
@@ -51,3 +52,4 @@ Phr:
   count me out
   slave to no sect [Pope]
   superstitione tollenda religio non tollitur [Lat.] [Cicero]
+  there is such a party!, yest' takaya partiya! [Rus.] [Lenin, 1917]

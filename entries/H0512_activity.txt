@@ -9,6 +9,7 @@ N:
   action, deed, doing, agency
   performance, exercise, operation, praxis, execution, interworking†
   proceeding, step, move
+  revolutionary practice, sensuous human activity
 
 V:
   act, do, pursue
@@ -18,3 +19,6 @@ Adj:
 
 Adv:
   actively
+
+F:
+  German: Praxis, revolutionäre Praxis, sinnlich menschliche Tätigkeit

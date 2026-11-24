@@ -309,7 +309,7 @@ function entryHTML(e,re,full){
     let rows='';
     senses.forEach((s,k)=>{
       const r=hits(re,fs[k]);
-      const L=tag==='F.'?(s.match(/^\[([^\]]+)\]/)||[])[1]:null;
+      const L=tag==='F.'?(s.match(/^\[([^\]]+)\]/)||[])[1]:(tag==='Phr.'&&s.includes('')?({Gr:'Greek',Chin:'Chinese',Rus:'Russian'})[(s.match(/\[(Gr|Chin|Rus)\.\]/)||[])[1]]||null:null);
       if(full||r.length||!re) rows+=`<div class="sense${L?' L-'+slug(L):''}">${renderSense(s,r)}</div>`; else hidden++;
     });
     if(rows) body+=`<div class="pos" data-t="${tag}"><span class="pt">${tag}</span>${rows}</div>`;

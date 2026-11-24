@@ -33,10 +33,10 @@ F:
   Latin: cultura animi [Cicero], civilitas, urbanitas
   Greek: paideia, asteiosynē, politeia
   French: the ancien régime, distingue, degage, monde, beau monde, savoir faire, bienséance, position, éducation, libération des préjugés, raffinement des moeurs, civilisation, civilité
+  Italian: civiltà [civil life] [Vico], cortesia, urbanità, gentilezza, buona creanza
   Arabic: adab [refinement, letters]
   Sanskrit: saṃskāra [refinement]
   Korean: gyoyang [culture, Bildung]
-  Italian: civiltà [civil life] [Vico], cortesia, urbanità, gentilezza, buona creanza
 
 Phr:
   culture as the alienation of natural being [Hegel]

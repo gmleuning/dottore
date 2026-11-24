@@ -8,6 +8,7 @@ N:
   estate of manufacturers; manufacturing, mass production, the factory system, manufacturer, mill owner, factory owner, factory hand, mill hand, operative, factory worker, the workforce
   manufacture, manufactory, mill, plant, works, factory, cannery, refinery, foundry, foundery†, usine†, bindery
   industrialist
+  constant capital, variable capital, fixed capital, circulating capital, organic composition of capital, concentration of capital, centralization of capital
 
 V:
   manufacture
@@ -17,7 +18,7 @@ Adj:
   manufactured, mass-produced, factory-made, ready-made, off the peg
 
 F:
-  German: Fabrikantenstand, Fabrik
+  German: Fabrikantenstand, Fabrik, konstantes Kapital, variables Kapital, fixes Kapital, zirkulierendes Kapital, organische Zusammensetzung des Kapitals
 
 Phr:
   abstraktere Gesamtmasse der Arbeit für einzelne Bedürfnisse, aber eines allgemeineren Bedarfs [Ger.] [Hegel, Philosophy of Right §204]

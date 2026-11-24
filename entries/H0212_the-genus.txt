@@ -33,8 +33,8 @@ F:
   German: Gattungswesen [Feuerbach, Marx]
   Latin: genus
   Greek: genos, eidos
-  Sanskrit: jāti [birth, genus]
   French: aspect, apparence, exemple, forme, idée, modèle
+  Sanskrit: jāti [birth, genus]
 
 Phr:
   one generation passeth away, and another generation cometh [Bible]

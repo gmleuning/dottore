@@ -25,3 +25,6 @@ Adv:
 
 F:
   German: Schranke
+
+Phr:
+  the frog at the bottom of the well, jing di zhi wa [Chin.] [Zhuangzi]

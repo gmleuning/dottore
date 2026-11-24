@@ -26,6 +26,9 @@ Adv:
   internally, organically
   constitutionally, within itself
 
+F:
+  German: Ideologie
+
 Phr:
   the state as organism
   the body politic

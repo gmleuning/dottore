@@ -13,6 +13,7 @@ import csv, json, os, re, sys
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))  # run from the project root
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from convert import split_paragraphs
+from entries import split_depth0
 import native_script
 
 ROOT = os.getcwd()
@@ -72,6 +73,27 @@ def foreign(text):
     return out
 
 
+PHRASE_LANG = {'Gr.': 'Greek', 'Chin.': 'Chinese', 'Rus.': 'Russian'}
+
+
+def phrases(text):
+    """One line per phrase. A phrase tagged [Gr.], [Chin.] or [Rus.] gets its romanized words in the original script
+    (from data/native_scripts/<Language>*.tsv), clause by clause."""
+    out = []
+    for ph in split_depth0(text.strip(), '; '):
+        ph = ph.rstrip('.') if ph.endswith('.') and not ph.endswith('..') else ph
+        m = re.match(r'^(.*?)\s*(\[(Gr|Chin|Rus)\.\].*)$', ph) if EDITION != '1ed' else None
+        if m:
+            lang = PHRASE_LANG[m.group(3) + '.']
+            items = [x.strip() for x in m.group(1).split(', ')]
+            for i in range(len(items)):
+                if all(native_script.native(lang, t) for t in items[i:]):
+                    ph = ', '.join(items[:i] + [native_script.mark(lang, ', '.join(items[i:]))]) + ' ' + m.group(2)
+                    break
+        out.append(ph)
+    return out
+
+
 def trim(s):
     s = s.split(';')[0]                                   # German heads sometimes carry a second clause after ';'
     s = re.sub(r'\s*[(\[][^)\]]*[)\]]', '', s).replace('"', '')
@@ -107,7 +129,7 @@ def main():
             t = r[col].strip()
             if not t: continue
             if col == 'Foreign': ss = foreign(t)
-            elif col == 'Phrases': ss = [t if t.endswith('.') else t + '.']
+            elif col == 'Phrases': ss = phrases(t)
             else: ss = senses(t)
             ss = [xrefs(s) for s in ss]
             if ss: pos.append([tag, ss])

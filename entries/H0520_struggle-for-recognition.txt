@@ -18,6 +18,7 @@ N:
   arguing
   agon
   Armageddon†, naumachia†
+  class struggle
 
 V:
   struggle, fight, contend, clash, duel, risk one's life, stake one's life, challenge, defy
@@ -37,7 +38,7 @@ Adv:
   in mortal struggle
 
 F:
-  German: Kampf auf Leben und Tod
+  German: Kampf auf Leben und Tod, Klassenkampf
   Greek: agōn, thymos [spiritedness]
   French: à outrance, passage d'armes
   Italian: duello

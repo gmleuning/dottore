@@ -7,6 +7,7 @@ HGloss: The soil, the substantial estate's resource, a gift of nature it trusts;
 N:
   soil; land, the land, earth, ground, the soil, arable land, acreage, tilth, loam, clod, sod, turf, pasture, glebe land, the native soil, the fatherland
   field, meadow, farmland, countryside, the country, village, hamlet, thorp†, dorp†
+  metabolic rift
 
 Adj:
   arable, predial†, rural, rustic

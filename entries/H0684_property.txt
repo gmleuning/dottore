@@ -26,6 +26,7 @@ N:
   immovable
   dead hand, no man's land
   heir
+  means of production, instruments of labour, subjects of labour
 
 V:
   own, possess, hold, have, have title to, appropriate, acquire
@@ -42,6 +43,7 @@ Adv:
   as one's own
 
 F:
+  German: Produktionsmittel, Arbeitsmittel, Arbeitsgegenstände
   Latin: dominium, suum cuique, meum et tuum
   French: cestui-que-trust
 

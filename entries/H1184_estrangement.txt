@@ -8,12 +8,27 @@ N:
   estrangement
   estrangement from God, alienation, exile, the unhappy consciousness
   division, diremption, inner rupture, infinite pain, separation from God
+  hell, bottomless pit, place of torment, habitation of fallen angels, Pandemonium, Abaddon†, Domdaniel, jahannan†, sheol†
+  hell fire, everlasting fire, everlasting torment, eternal damnation, lake of fire and brimstone, fire that is never quenched, worm that never dies
+  purgatory, limbo, gehenna, abyss, Tophet
 
 V:
   be estranged, be exiled
+  be damned, be lost, go to hell
 
 Adj:
   estranged, alienated
+  hellish, infernal
+  damned, lost, accursed
 
 Adv:
   in exile, apart from God, east of Eden, estrangedly
+
+F:
+  German: Hölle, Fegefeuer, Verdammnis
+  Latin: gehenna, inferno
+
+Phr:
+  dies irae dies illa [Lat.]
+  the hue of dungeons and the scowl of night [Love's Labor's Lost]
+  lasciate ogni speranza, voi ch'entrate [It.] [Dante]
