@@ -24,3 +24,10 @@ F:
 Phr:
   and they twain shall be one flesh [Bible]
   till death us do part
+
+# ---- Hegel ----
+Def: Mann und Frau: the immediate self-recognition of one consciousness in another, mixed with natural feeling, which has its actuality not in itself but in the child.
+Texts:
+  The Phenomenology of Spirit
+    ¶456
+Citations:

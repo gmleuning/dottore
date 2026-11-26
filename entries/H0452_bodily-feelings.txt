@@ -11,3 +11,10 @@ N:
 
 Adj:
   pleasant, unpleasant, comfortable, uncomfortable, sensual, voluptuous, painful
+
+# ---- Hegel ----
+Def: Feelings whose content is the body's own state, pleasure and pain, the pleasant and the unpleasant, felt where they arise.
+Texts:
+  The Philosophy of Mind
+    §407
+Citations:

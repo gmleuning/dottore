@@ -17,3 +17,10 @@ Adj:
 
 Phr:
   equipollence of arguments
+
+# ---- Hegel ----
+Def: Der spätere Skeptizismus: the ten tropes of Aenesidemus and the five of Agrippa, collected by Sextus, which turn dialectic against every determinate claim.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Skepticism and the New Academy › Skepticism Proper
+Citations:

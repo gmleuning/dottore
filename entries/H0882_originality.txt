@@ -27,3 +27,10 @@ F:
 Phr:
   one of a kind
   nothing new under the sun [Bible]
+
+# ---- Hegel ----
+Def: Originalität, the identity of the subjectivity of the artist and the true objectivity of the presentation, free of both manner and mere convention.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
+Citations:

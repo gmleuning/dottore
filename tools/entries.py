@@ -22,15 +22,17 @@ thesaurus was built from (kept unchanged, so the word lists don't drift); HGloss
 sense-group (a group's closing period is optional); F one line per language; Phr one phrase per line. Blank lines are
 ignored, so groups can be spaced out freely.
 
-The Hegel slide comes last: Def (Hegel's definition of the concept, one paragraph), Q (quotations, one per line, each
-followed by a deeper-indented line '— source'), Loc (where Hegel treats it, one place per line):
+The Hegel slide comes last: Def (Hegel's definition of the concept, one paragraph), Texts (where Hegel treats it: a
+work's title, then its locations indented deeper, one per line), Citations (quotations, one per line, each followed by a
+deeper-indented line '— source'). The Citations header is written even when there are none yet:
 
     Def: The feeling soul is ...
-    Q:
+    Texts:
+      The Philosophy of Mind
+        §§403–410
+    Citations:
       The soul is ...
         — Encyclopedia §403
-    Loc:
-      Encyclopedia §§403–410
 
 Inside the tools an entry is a dict of field strings in the old one-line form ({'N': 'a, b. c, d.', 'F': 'German: x;
 Latin: y.', ...}), so the merge code (raid_merge, apply_review) works on it unchanged.
@@ -44,10 +46,11 @@ sys.path.insert(0, HERE)
 from convert import split_paragraphs
 
 DIR = os.path.join(ROOT, 'entries')
-FIELDS = ['G', 'Gloss', 'HGloss', 'N', 'V', 'Adj', 'Adv', 'F', 'Phr', 'Def', 'Q', 'Loc']
+FIELDS = ['G', 'Gloss', 'HGloss', 'N', 'V', 'Adj', 'Adv', 'F', 'Phr', 'Def', 'Texts', 'Citations']
 SINGLE = {'G', 'Gloss', 'HGloss', 'Def'}
-LINES = {'Q', 'Loc'}      # kept line by line (joined with newlines inside the tools)
-CITE = '— '               # in Q, a line starting with this is the source of the quote above it
+LINES = {'Texts', 'Citations'}   # kept line by line (joined with newlines inside the tools)
+CITE = '— '    # in Citations, a line starting with this is the source of the quote above it
+SUB = '· '     # inside the tools, marks a location in Texts (in the file: a line indented deeper than its work's title)
 GROUPED = {'N', 'V', 'Adj', 'Adv'}
 END = ('.', '!', '?')
 
@@ -107,7 +110,11 @@ def parse(text, where='?'):
         if not line.strip() or line.lstrip().startswith('#'): continue
         if line[0] in ' \t':
             if cur is None: raise ValueError(f'{where}:{n}: indented line before any field')
-            raw[cur].append(line.strip()); continue
+            item = line.strip()
+            if cur == 'Texts' and len(line) - len(line.lstrip()) >= 4:
+                if not raw[cur]: raise ValueError(f'{where}:{n}: a location before any work title')
+                item = SUB + item
+            raw[cur].append(item); continue
         m = re.match(r'(' + '|'.join(FIELDS) + r'):\s*(.*)$', line)
         if not m: raise ValueError(f'{where}:{n}: not a field: {line[:60]!r}')
         cur = m.group(1)
@@ -137,14 +144,16 @@ def render(nid, entry, N):
             out.append('')
             out.append(f'{k}:')
             out += ['  ' + l for l in to_lines(k, entry[k])]
-    if any(entry.get(k) for k in ('Def', 'Q', 'Loc')):
+    if any(entry.get(k) for k in ('Def', 'Texts', 'Citations')):
         out += ['', '# ---- Hegel ----']
-    if entry.get('Def'):
-        out.append('Def: ' + entry['Def'])
-    for k in ('Q', 'Loc'):
-        if entry.get(k):
-            out.append(f'{k}:')
-            out += [('    ' if l.startswith(CITE) else '  ') + l for l in to_lines(k, entry[k])]
+        if entry.get('Def'):
+            out.append('Def: ' + entry['Def'])
+        if entry.get('Texts'):
+            out.append('Texts:')
+            out += ['    ' + l[len(SUB):] if l.startswith(SUB) else '  ' + l for l in to_lines('Texts', entry['Texts'])]
+        out.append('Citations:')
+        if entry.get('Citations'):
+            out += [('    ' if l.startswith(CITE) else '  ') + l for l in to_lines('Citations', entry['Citations'])]
     return '\n'.join(out) + '\n'
 
 

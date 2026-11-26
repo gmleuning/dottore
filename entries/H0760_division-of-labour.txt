@@ -70,3 +70,10 @@ Phr:
   labor, wide as the earth, has its summit in Heaven [Carlyle]
   le travail du corps delivre des peines de l'esprit [Fr.]
   manu forti [Lat.]
+
+# ---- Hegel ----
+Def: The mediation that prepares and acquires means for the particularized needs: labour, which becomes divided and mechanical.
+Texts:
+  The Philosophy of Right
+    §198
+Citations:

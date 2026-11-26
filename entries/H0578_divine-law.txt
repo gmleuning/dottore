@@ -37,3 +37,10 @@ F:
 Phr:
   the unwritten and unfailing statutes of the gods, not of today or yesterday [Sophocles, Antigone]
   honour thy father and thy mother [Bible]
+
+# ---- Hegel ----
+Def: The law of the family, the unwritten law of the gods below and of the dead, the law of the woman.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶449–452
+Citations:

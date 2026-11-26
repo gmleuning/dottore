@@ -40,3 +40,10 @@ Phr:
   a body at rest tends to stay at rest
   what goes up must come down
   set in motion
+
+# ---- Hegel ----
+Def: Matter whose motion comes to it from outside: inertia, impact, and fall, mechanics as relation of external bodies.
+Texts:
+  The Philosophy of Nature
+    §§262–268
+Citations:

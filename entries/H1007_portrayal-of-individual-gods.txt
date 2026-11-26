@@ -25,3 +25,10 @@ Phr:
   the Zeus of Phidias
   the Olympians
   the twelve gods
+
+# ---- Hegel ----
+Def: The portrayal of the individual gods, each with its own character.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Portrayal of the Individual Gods
+Citations:

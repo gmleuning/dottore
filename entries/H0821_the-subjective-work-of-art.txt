@@ -29,3 +29,10 @@ Phr:
   the body as an organ of spirit
   a healthy mind in a healthy body
   the body beautiful
+
+# ---- Hegel ----
+Def: The subjective work of art: the human body formed by gymnastic and festival into a beautiful shape.
+Texts:
+  The Philosophy of History
+    The Greek World › Phases of Individuality Aesthetically Conditioned › The Subjective Work of Art
+Citations:

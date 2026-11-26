@@ -188,3 +188,10 @@ Phr:
   haud ignara mali miseris succurrere disco [Lat.] [Virgil]
   a fellow feeling makes one wondrous kind
   onor di bocca assai giova e poco costa [It.] [Garrick]
+
+# ---- Hegel ----
+Def: The will in its immediate form, which finds itself determined as a feeling of agreeable and disagreeable.
+Texts:
+  The Philosophy of Mind
+    §§471–472
+Citations:

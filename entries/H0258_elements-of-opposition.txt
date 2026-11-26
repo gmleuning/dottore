@@ -30,3 +30,10 @@ F:
 Phr:
   oil and water do not mix
   at odds as fire and water
+
+# ---- Hegel ----
+Def: The elements of opposition: fire, the being-for-self that consumes, and water, the neutral and passive.
+Texts:
+  The Philosophy of Nature
+    §§283–284
+Citations:

@@ -34,3 +34,10 @@ Phr:
   the real is rational
   it stands to reason
   within reason
+
+# ---- Hegel ----
+Def: The certainty of consciousness that it is all reality; the identity of the concept with its object, the unity of consciousness and self-consciousness.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶231–437
+Citations:

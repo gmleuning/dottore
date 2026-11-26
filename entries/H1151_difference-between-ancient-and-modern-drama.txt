@@ -29,3 +29,10 @@ Phr:
   the quarrel of the ancients and the moderns
   ancients and moderns
   fate and character
+
+# ---- Hegel ----
+Def: The difference of ancient and modern drama: substantial ethical powers against individual character.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › Difference between Ancient and Modern Dramatic Poetry
+Citations:

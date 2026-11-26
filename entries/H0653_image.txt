@@ -38,3 +38,10 @@ Phr:
   a picture is worth a thousand words
   in one's mind's eye
   a picture in one's head
+
+# ---- Hegel ----
+Def: The intuition freed from its immediacy and placed in the mind's own space and time.
+Texts:
+  The Philosophy of Mind
+    §452
+Citations:

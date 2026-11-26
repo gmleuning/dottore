@@ -37,3 +37,10 @@ Phr:
   neti neti [Skt.] [Brihadaranyaka Upanishad]
   all is one
   the night in which all cows are black
+
+# ---- Hegel ----
+Def: The exposition that shows each finite determination to vanish into the absolute, a negative exposition, Spinoza's method.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute › The exposition of the absolute
+Citations:

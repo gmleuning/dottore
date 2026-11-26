@@ -51,3 +51,10 @@ Phr:
   to make use of
   to wear out
   ludere cum sacris [Lat.]
+
+# ---- Hegel ----
+Def: The use of a thing, which realizes my will in it by changing, consuming or destroying it.
+Texts:
+  The Philosophy of Right
+    §§59–64
+Citations:

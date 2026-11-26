@@ -22,3 +22,10 @@ F:
 Phr:
   esse est percipi [Lat.]
   language of nature [Berkeley], I refute it thus [Johnson, kicking a stone]
+
+# ---- Hegel ----
+Def: Berkeley, who held that to be is to be perceived.
+Texts:
+  Vorlesungen über die Geschichte der Philosophie III
+    Idealismus und Skeptizismus › Berkeley
+Citations:

@@ -24,3 +24,10 @@ Phr:
   Zeus with his thunderbolt
   the thunderbolt of Zeus
   known by their tokens
+
+# ---- Hegel ----
+Def: Die Attribute: the signs, eagle, owl, trident or thyrsus, by which the individual gods are told apart, marks whose meaning is often only conventional.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment
+Citations:

@@ -17,3 +17,10 @@ Adj:
 
 Phr:
   Hear, O Israel: the Lord our God is one Lord, Shema Yisrael [Heb.] [Bible]
+
+# ---- Hegel ----
+Def: Judäa, where nature is reduced to the created and the One is grasped as pure spirit, though bound to one people.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Persian Empire and its Constituent Parts › Judæa
+Citations:

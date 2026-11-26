@@ -34,3 +34,10 @@ Phr:
   moribus antiquis res stat Romana virisque [Lat.] [Ennius]
   nomos basileus [Gr.] [custom is king] [Pindar]
   the good old ways
+
+# ---- Hegel ----
+Def: The immediate ethical life of a people, the beautiful ethical world of the Greek polis.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶444–483
+Citations:

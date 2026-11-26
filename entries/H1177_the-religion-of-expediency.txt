@@ -29,3 +29,10 @@ Phr:
   do ut des [Lat.]
   gods of the hearth
   religio as binding
+
+# ---- Hegel ----
+Def: The Roman religion of expediency, gods in the service of the state's ends.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › The Religion of Expediency
+Citations:

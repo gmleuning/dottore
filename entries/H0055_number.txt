@@ -101,3 +101,10 @@ Phr:
   many- headed multitude [Sidney]
   numerous as glittering gems of morning dew [Young]
   vel prece vel pretio [Lat.]
+
+# ---- Hegel ----
+Def: Quantum completely determined as amount and unit; the thought of quantity in its most external form.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Number
+Citations:

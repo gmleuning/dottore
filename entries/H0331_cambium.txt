@@ -23,3 +23,10 @@ Phr:
   the tree adds a ring each year
   under the bark
   growing ring
+
+# ---- Hegel ----
+Def: The living layer between wood and bark, from which new wood and bark are formed.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

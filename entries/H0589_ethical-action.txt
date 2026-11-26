@@ -14,3 +14,10 @@ F:
   Arabic: qadar [destiny], maktūb [it is written]
   Sanskrit: karma
   Chinese: ming [fate]
+
+# ---- Hegel ----
+Def: The deed that breaks the balance, the guilt of acting on one law against the other, and the destiny that follows.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶464–476
+Citations:

@@ -28,3 +28,10 @@ F:
 Phr:
   gods, heroes, and men
   gods, heroes and men
+
+# ---- Hegel ----
+Def: The differences of age and sex, of gods, heroes, men and animals, as sculpture shapes them.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Differences of Age and Sex, and of Gods, Heroes, Men, and Animals
+Citations:

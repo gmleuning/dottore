@@ -42,3 +42,10 @@ Phr:
   the best laid schemes o' mice an' men gang aft agley [Burns]
   the road to hell is paved with good intentions
   to have in mind
+
+# ---- Hegel ----
+Def: The concept as end in itself, with a content that it opposes to the objective world and strives to realize.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Teleology › The subjective purpose
+Citations:

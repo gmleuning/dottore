@@ -30,3 +30,10 @@ Phr:
   arma virumque cano [Lat.] [Virgil]
   sing, goddess
   an epic of
+
+# ---- Hegel ----
+Def: The epic, in which the minstrel sings of gods and heroes, and the gods are a pale world beside the deeds of men.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶729–732
+Citations:

@@ -31,3 +31,10 @@ Phr:
   in the beginning was the Word [Bible]
   Father, Son and Holy Spirit
   three in one
+
+# ---- Hegel ----
+Def: The content of manifest religion in pure thought: the Father, the Son, the Spirit.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶769–773
+Citations:

@@ -68,3 +68,10 @@ Phr:
   ancora imparo! [Lat.]
   hold high converse with the mighty dead [Thomson]
   lash'd into Latin by the tingling rod [Gay]
+
+# ---- Hegel ----
+Def: Certainty become truth, knowing confirmed in what is known.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

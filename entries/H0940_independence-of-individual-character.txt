@@ -26,3 +26,10 @@ Phr:
   I am in blood stepp'd in so far [Macbeth]
   to stand on one's own two feet
   firm of purpose
+
+# ---- Hegel ----
+Def: The independence of individual character, formally firm, as in Shakespeare's figures.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Formal Independence of Individual Characters › The Independence of the Individual Character
+Citations:

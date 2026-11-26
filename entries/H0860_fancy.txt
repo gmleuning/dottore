@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   aus der Leichtfertigkeit der Phantasie geht kein gediegenes Werk hervor [Ger.] [Hegel, Aesthetics]
+
+# ---- Hegel ----
+Def: Phantasie, productive imagination as opposed to passive fancy: it grasps reality and gives its rational content a consciousness of itself not in general thoughts but in concrete, individual shape.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

@@ -31,3 +31,10 @@ F:
 Phr:
   plaudite [Lat.] [applaud!]
   playing to the gallery
+
+# ---- Hegel ----
+Def: The public, whose understanding and approval the drama must win.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Drama as a Poetical Work of Art › Relation of the Dramatic Work of Art to the Public
+Citations:

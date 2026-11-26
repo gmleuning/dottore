@@ -27,3 +27,10 @@ Phr:
   entia non sunt multiplicanda praeter necessitatem [Lat.] [Ockham's razor, in a later formulation]
   Summa Theologiae [Lat.] [Aquinas]
   how many angels can dance on the head of a pin
+
+# ---- Hegel ----
+Def: The scholastics, who brought logic to the faith.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Scholastics
+Citations:

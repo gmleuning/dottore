@@ -23,3 +23,10 @@ Adv:
 Phr:
   when the sap rises in spring
   the sap of spring
+
+# ---- Hegel ----
+Def: The sap that rises through the wood.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

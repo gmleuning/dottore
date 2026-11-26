@@ -28,3 +28,10 @@ Phr:
   the law of the upper world and the law of the nether world
   render unto Caesar
   the law of the land and the law of heaven
+
+# ---- Hegel ----
+Def: Ethical life divided into the human law of the community and the divine law of the family, assigned to man and woman.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶446–463
+Citations:

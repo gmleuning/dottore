@@ -43,3 +43,10 @@ Phr:
   to stick like glue
   to cling to
   tria juncta in uno [Lat.]
+
+# ---- Hegel ----
+Def: Cohesion with another body, the adhering of a body to the surface of another.
+Texts:
+  The Philosophy of Nature
+    §295
+Citations:

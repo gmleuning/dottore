@@ -24,3 +24,10 @@ F:
 
 Phr:
   für die Industrie das nach außen sie belebende natürliche Element das Meer [Ger.] [Hegel, Philosophy of Right §247]
+
+# ---- Hegel ----
+Def: As the earth is the condition of family life, so the sea is the element of industry: it links distant lands in trade and contract, and drives an overcrowded society to found colonies (§246-248).
+Texts:
+  The Philosophy of Right
+    §§246–248
+Citations:

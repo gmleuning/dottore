@@ -84,3 +84,10 @@ Phr:
   and pluck up drowned honor by the locks [Henry IV]
   his honor rooted in dishonor stood [Tennyson]
   honor pricks me on [Henry IV]
+
+# ---- Hegel ----
+Def: The mutual recognition of free selves, which is the substance of all spirituality.
+Texts:
+  The Philosophy of Mind
+    §436
+Citations:

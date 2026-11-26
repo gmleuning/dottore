@@ -31,3 +31,10 @@ F:
 
 Phr:
   a sacred trust
+
+# ---- Hegel ----
+Def: The giving of a service gratis, as the keeping of a deposit.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

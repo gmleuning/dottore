@@ -27,3 +27,10 @@ F:
 Phr:
   es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt [Ger.] [Kant, Critique of Pure Reason Bxvi]
   the Copernican turn
+
+# ---- Hegel ----
+Def: Critical philosophy, which examines the faculty of knowledge itself, and German idealism.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › Recent Philosophy: Kant, Fichte, Jacobi, Schelling
+Citations:

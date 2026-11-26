@@ -58,3 +58,10 @@ Phr:
   operae pretium est [Lat.]
   it will never do
   throw an egg at a stone, yi luan tou shi [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: The middle term of the end's syllogism, the object subdued to the end; the cunning of reason works through it.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Teleology › The means
+Citations:

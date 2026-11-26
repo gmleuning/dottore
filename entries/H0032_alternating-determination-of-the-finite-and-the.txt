@@ -38,3 +38,10 @@ Phr:
   who will guard the guards themselves? quis custodiet ipsos custodes? [Lat.] [Juvenal]
   the more things change, the more they stay the same
   an endless round
+
+# ---- Hegel ----
+Def: The spurious (bad) infinite, fixed beyond the finite and so itself finite: the endless alternation of finite and infinite, the infinite progress.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Infinity › Alternating determination of finite and infinite
+Citations:

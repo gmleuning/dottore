@@ -30,3 +30,10 @@ Phr:
   epic, lyric, drama
   epic, lyric and drama
   the three kinds
+
+# ---- Hegel ----
+Def: The kinds of poetry: epic, the objective; lyric, the subjective; drama, their unity.
+Texts:
+  Aesthetics
+    Poetry › The Different Genres of Poetry
+Citations:

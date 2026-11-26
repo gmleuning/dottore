@@ -27,3 +27,10 @@ Phr:
   the inward man is renewed day by day [Bible]
   to heal over
   making oneself
+
+# ---- Hegel ----
+Def: The organism's self-formation, its production of itself as a living process, the immediate reproduction of its members.
+Texts:
+  The Philosophy of Nature
+    §356
+Citations:

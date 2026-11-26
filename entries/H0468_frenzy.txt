@@ -13,3 +13,10 @@ V:
 
 Adj:
   frenzied, frantic, frenetic, raving, delirious, lightheaded, incoherent
+
+# ---- Hegel ----
+Def: The raving of the deranged, a rage of reason against unreason and of unreason against reason, the self in open war with its own contradiction.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

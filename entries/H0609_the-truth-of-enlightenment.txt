@@ -45,3 +45,10 @@ Phr:
   the greatest happiness of the greatest number [Bentham]
   the greatest good
   what's in it for me?
+
+# ---- Hegel ----
+Def: The truth of the Enlightenment, the useful and an empty supreme being.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶574–581
+Citations:

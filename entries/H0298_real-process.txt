@@ -34,3 +34,10 @@ Phr:
   the whole is other than its parts
   to combine with
   to unite into
+
+# ---- Hegel ----
+Def: The chemical process proper, the union of differents into a new totality through a middle.
+Texts:
+  The Philosophy of Nature
+    §§330–333
+Citations:

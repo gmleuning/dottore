@@ -34,3 +34,10 @@ Phr:
   im rastlos raschen Überspringen von einem Extrem ins andere [Ger.] [Hegel, Aesthetics, on Indian art]
   a thousand arms
   out of all measure
+
+# ---- Hegel ----
+Def: The Indian fantastic, which drives natural shapes into the measureless to reach the divine.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Unconscious Symbolism › Fantastic Symbolism
+Citations:

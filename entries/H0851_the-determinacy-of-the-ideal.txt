@@ -27,3 +27,10 @@ Adv:
 Phr:
   the ideal in particular form
   given form
+
+# ---- Hegel ----
+Def: The ideal drawn into particular determinacy, entering into difference, situation and action.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Determinacy of the Ideal
+Citations:

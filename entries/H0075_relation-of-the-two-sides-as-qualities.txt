@@ -24,3 +24,10 @@ Phr:
   s = ½gt²
   in step
   keep pace with
+
+# ---- Hegel ----
+Def: The two sides of a measure each a quality with its own quantum, bound by a determinate ratio, as space and time in fall.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Specific quantity › Specifying measure › Relation of the two sides as qualities
+Citations:

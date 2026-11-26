@@ -29,3 +29,10 @@ F:
 Phr:
   alone or in groups
   statue, group and relief
+
+# ---- Hegel ----
+Def: The modes of portrayal: the single statue, the group, the relief.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Modes of Portrayal
+Citations:

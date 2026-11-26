@@ -17,3 +17,10 @@ Adj:
 
 Phr:
   the curfew tolls the knell of parting day [Gray]
+
+# ---- Hegel ----
+Def: Die Elegie: the reflective lyric of mourning and longing, in which feeling is mixed with general reflection.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

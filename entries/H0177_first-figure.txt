@@ -29,3 +29,10 @@ Phr:
   Socrates is a man
   therefore Socrates is mortal
   all men are mortal, Socrates is a man
+
+# ---- Hegel ----
+Def: Singular joined to universal through the particular: S–P–U, the scheme of the understanding's reasoning.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of existence › First figure of the syllogism
+Citations:

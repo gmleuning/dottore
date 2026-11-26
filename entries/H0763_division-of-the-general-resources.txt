@@ -88,3 +88,10 @@ Phr:
   les fous font les festins et les sages les mangent [Fr.]
   spendthrift alike of money and of wit [Cowper]
   squandering wealth was his peculiar art [Dryden]
+
+# ---- Hegel ----
+Def: The universal permanent resources and their division into estates, systems of need, means and work.
+Texts:
+  The Philosophy of Right
+    §§199–208
+Citations:

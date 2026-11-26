@@ -28,3 +28,10 @@ Phr:
   the meaning comes first
   to put it figuratively
   in a manner of speaking
+
+# ---- Hegel ----
+Def: Comparisons that begin from a meaning and find an image to clothe it.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning
+Citations:

@@ -41,3 +41,10 @@ Phr:
   the timely dew of sleep [Milton]
   thou driftest gently down the tides of sleep [Longfellow]
   tired Nature's sweet restorer, balmy sleep [Young]
+
+# ---- Hegel ----
+Def: Sleep, the soul's return into its undivided substance, a strengthening of its activity, not as mere rest but as a return from the world of determinations.
+Texts:
+  The Philosophy of Mind
+    §398
+Citations:

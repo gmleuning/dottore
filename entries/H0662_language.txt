@@ -180,3 +180,10 @@ Phr:
   it lies in a nutshell
   avec permissin [Fr.]
   brevet d'invention [Fr.]
+
+# ---- Hegel ----
+Def: The sign made audible and visible: speech, the element of the name, and writing, preferably alphabetic.
+Texts:
+  The Philosophy of Mind
+    §459
+Citations:

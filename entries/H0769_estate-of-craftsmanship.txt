@@ -21,3 +21,10 @@ F:
 
 Phr:
   Arbeit für einzelne Bedürfnisse in konkreterer Weise und auf Verlangen Einzelner [Ger.] [Hegel, Philosophy of Right §204]
+
+# ---- Hegel ----
+Def: The craft estate, whose work meets single needs in a concrete way and at the request of individuals (§204).
+Texts:
+  The Philosophy of Right
+    §204
+Citations:

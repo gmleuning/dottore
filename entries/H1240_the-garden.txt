@@ -19,3 +19,10 @@ Adv:
 
 Phr:
   death is nothing to us [Epicurus]
+
+# ---- Hegel ----
+Def: The school of Epicurus at Athens, whose canon makes sensation the criterion and whose ethics seeks tranquillity in friendship and withdrawal.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Epicurean Philosophy › Epicurus and his Followers
+Citations:

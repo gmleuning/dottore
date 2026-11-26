@@ -34,3 +34,10 @@ Phr:
   sans peur et sans reproche [Fr.] [without fear and without reproach]
   knight in shining armour
   chivalry is not dead
+
+# ---- Hegel ----
+Def: The chivalry of the secular world, the subject's own infinity as honour, love and fidelity.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › Chivalry
+Citations:

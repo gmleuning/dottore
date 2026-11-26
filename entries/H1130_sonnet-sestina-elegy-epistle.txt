@@ -9,3 +9,10 @@ N:
 
 Adj:
   epigrammatic
+
+# ---- Hegel ----
+Def: Forms in which reflection enters the song: the sonnet, sestina, elegy and verse epistle.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

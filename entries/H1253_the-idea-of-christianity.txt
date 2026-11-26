@@ -24,3 +24,10 @@ F:
 Phr:
   the infinite worth of the individual
   God has become man
+
+# ---- Hegel ----
+Def: The idea of Christianity, that God is spirit and has become man.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity
+Citations:

@@ -32,3 +32,10 @@ Phr:
   the magic of colour
   the vanishing point
   drawing and colour
+
+# ---- Hegel ----
+Def: Painting's material in its particularity: linear perspective, drawing, and colour, chiaroscuro and its magic.
+Texts:
+  Aesthetics
+    Painting › Particular Characteristics of Painting › More Detailed Characterization of the Sensuous Material of Painting
+Citations:

@@ -48,3 +48,10 @@ Phr:
   omnem movere lapidem [Lat.]
   una scopa nuova spazza bene [It.]
   caetera desunt [Lat.]
+
+# ---- Hegel ----
+Def: The immediate relation: the whole consists of parts and is nothing without them, the parts are parts only of the whole.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The essential relation › The relation of whole and parts
+Citations:

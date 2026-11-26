@@ -34,3 +34,10 @@ Phr:
   Justice is blind
   to read between the lines
   in the guise of
+
+# ---- Hegel ----
+Def: Allegory, an abstract meaning personified, the cold allegorical figure.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Allegory
+Citations:

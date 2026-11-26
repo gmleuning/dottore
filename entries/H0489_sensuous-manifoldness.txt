@@ -29,3 +29,10 @@ Phr:
   one great blooming, buzzing confusion [William James]
   a feast for the senses
   all sorts
+
+# ---- Hegel ----
+Def: The variety of what is given to sense, a manifold without unity.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶91–92
+Citations:

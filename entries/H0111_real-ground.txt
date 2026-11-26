@@ -25,3 +25,10 @@ Adv:
 Phr:
   the reason of the thing
   at the root of
+
+# ---- Hegel ----
+Def: Ground and grounded with different contents, so that the ground becomes an external determination.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Determinate ground › Real ground
+Citations:

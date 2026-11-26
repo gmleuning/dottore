@@ -44,3 +44,10 @@ Phr:
   like water off a duck's back
   the waters are out
   highest good is like water, shang shan ruo shui [Chin.] [Laozi]
+
+# ---- Hegel ----
+Def: The element of neutrality, without shape of its own, taking any shape, the possibility of the chemical process.
+Texts:
+  The Philosophy of Nature
+    §284
+Citations:

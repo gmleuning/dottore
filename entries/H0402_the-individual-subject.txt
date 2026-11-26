@@ -36,3 +36,10 @@ Phr:
   each to his own
   one of a kind
   affection is a coal that must be cool'd else suffer'd it will set the heart on fire [Venus and Adonis]
+
+# ---- Hegel ----
+Def: The soul singularized into the individual subject, with its natural endowment of talent, temperament and character.
+Texts:
+  The Philosophy of Mind
+    §395
+Citations:

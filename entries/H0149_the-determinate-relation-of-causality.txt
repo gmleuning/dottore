@@ -34,3 +34,10 @@ Phr:
   the domino effect
   one thing leads to another
   a chain of events
+
+# ---- Hegel ----
+Def: Causality between finite substances: the cause is itself an effect of another, the spurious infinite of causes.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute relation › The relation of causality › The determinate relation of causality
+Citations:

@@ -26,3 +26,10 @@ F:
 Phr:
   the heroic age
   in those days
+
+# ---- Hegel ----
+Def: The general state of the world, the heroic age in which the individual is the bearer of right and custom.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Determinacy of the Ideal › Action › The General State of the World
+Citations:

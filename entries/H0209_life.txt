@@ -36,3 +36,10 @@ Phr:
   grey is all theory, and green the golden tree of life [Goethe]
   while there's life, there's hope, dum spiro spero [Lat.]
   life and soul
+
+# ---- Hegel ----
+Def: The idea in its immediacy: the soul in its body, the living concept present in every member.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Life
+Citations:

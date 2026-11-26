@@ -37,3 +37,10 @@ Phr:
   one man's meat is another man's poison
   the other side
   one another
+
+# ---- Hegel ----
+Def: Something and its other, each equally a something and an other, so that otherness falls within something itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Something and an other
+Citations:

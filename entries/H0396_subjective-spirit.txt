@@ -29,3 +29,10 @@ Phr:
   know thyself, gnōthi seauton [Gr.]
   in one's own head
   mind and body
+
+# ---- Hegel ----
+Def: Spirit in relation to itself, ideal within itself: the soul, consciousness and mind of the individual, whose development is liberation from nature.
+Texts:
+  The Philosophy of Mind
+    §§387–482
+Citations:

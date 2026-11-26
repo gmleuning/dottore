@@ -56,3 +56,10 @@ Phr:
   the true poem is the poet's mind [Emerson]
   Volk der Dichter und Denker [Ger.]
   wisdom married to immortal verse [Wordsworth]
+
+# ---- Hegel ----
+Def: Poetry, the universal art of the spirit which has become free in itself, whose material is the word and representation.
+Texts:
+  Aesthetics
+    Poetry
+Citations:

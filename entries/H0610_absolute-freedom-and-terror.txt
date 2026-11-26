@@ -10,3 +10,10 @@ N:
 F:
   German: Furie des Verschwindens, Gleichschaltung [forced coordination]
   French: la Terreur, volonté générale, à la lanterne, sansculottes
+
+# ---- Hegel ----
+Def: The absolute freedom of the universal will, which destroys every institution and, having nothing else to negate, ends in the terror.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶582–595
+Citations:

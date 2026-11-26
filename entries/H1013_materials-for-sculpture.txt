@@ -31,3 +31,10 @@ Phr:
   truth to materials
   the stuff of statues
   true to the material
+
+# ---- Hegel ----
+Def: The materials of sculpture, from wood to marble and precious stone.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture
+Citations:

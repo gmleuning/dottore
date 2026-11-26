@@ -34,3 +34,10 @@ F:
 Phr:
   this most excellent canopy, the air [Hamlet]
   under the sky
+
+# ---- Hegel ----
+Def: The air of the earth in its living process, its atmosphere, which is the medium of meteorological life.
+Texts:
+  The Philosophy of Nature
+    §341
+Citations:

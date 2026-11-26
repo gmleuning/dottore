@@ -7,3 +7,10 @@ HGloss: Der Rhythmus proper, the animation of the time-measure by accent and cae
 N:
   accent; stress, emphasis, rhythmic animation
   rhythm, accentuation &c H0662
+
+# ---- Hegel ----
+Def: Der Rhythmus proper, the animation of the time-measure by accent and caesura.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

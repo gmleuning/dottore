@@ -17,3 +17,10 @@ Phr:
   tolle, lege [Lat.] [take up and read] [Augustine]
   the City of God
   I believe in order to understand
+
+# ---- Hegel ----
+Def: The Latin Fathers, above all Augustine, in whom the doctrine of grace, sin and the City of God is worked out for the West.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity › The Church Fathers
+Citations:

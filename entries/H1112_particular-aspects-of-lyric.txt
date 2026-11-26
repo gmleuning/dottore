@@ -25,3 +25,10 @@ Phr:
   singer, song, and kind
   poet, poem, kind
   the lyric moment
+
+# ---- Hegel ----
+Def: The particular aspects of the lyric: the poet, the poem, its kinds.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry
+Citations:

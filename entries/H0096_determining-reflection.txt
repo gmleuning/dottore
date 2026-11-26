@@ -53,3 +53,10 @@ Phr:
   a rose is a rose is a rose [Gertrude Stein]
   to settle the matter
   to call it what it is
+
+# ---- Hegel ----
+Def: The unity of positing and external reflection, which fixes determinations of reflection that hold in and for themselves.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Shine › Reflection › Determining reflection
+Citations:

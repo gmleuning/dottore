@@ -41,3 +41,10 @@ Phr:
   every action has an equal and opposite reaction
   to give as good as one gets
   for every action there is a reaction, equal in force and opposite in direction [Newton]
+
+# ---- Hegel ----
+Def: The effect reacting on the cause, so that each passive substance becomes active; the cause is effect of its own effect.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute relation › The relation of causality › Action and reaction
+Citations:

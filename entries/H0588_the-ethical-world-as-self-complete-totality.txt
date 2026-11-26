@@ -27,3 +27,10 @@ Phr:
   et in Arcadia ego [Lat.]
   in perfect balance
   all in order
+
+# ---- Hegel ----
+Def: The ethical world as a balanced totality, at rest before action disturbs it.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶461–463
+Citations:

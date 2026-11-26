@@ -7,3 +7,10 @@ HGloss: Madness with an individualized content, where the fixed idea is drawn ei
 N:
   fixations; fixed ideas, idées fixes, individualized delusions, delusional content
   fixed idea, monomania, obsession, fixation
+
+# ---- Hegel ----
+Def: Madness with an individualized content, where the fixed idea is drawn either from a particular passion (to be God or king) or from something contingent (to be a barleycorn or a dog).
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

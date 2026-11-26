@@ -30,3 +30,10 @@ F:
 Phr:
   the spirit sunk in nature
   sun, moon and stars
+
+# ---- Hegel ----
+Def: Nature religion, in which the divine is known in a natural shape, immediate unity of spirit and nature.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion
+Citations:

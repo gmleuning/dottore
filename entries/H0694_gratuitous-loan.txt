@@ -30,3 +30,10 @@ F:
 Phr:
   neither a borrower nor a lender be [Hamlet]
   to lend a hand
+
+# ---- Hegel ----
+Def: The giving of a thing for use, without charge.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

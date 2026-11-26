@@ -31,3 +31,10 @@ Adv:
 Phr:
   hypotheses non fingo [Lat.] [Newton]
   everything that rises must converge
+
+# ---- Hegel ----
+Def: Gravity as the true concept of matter, its striving toward a centre outside each body, which forms the system of the heavens.
+Texts:
+  The Philosophy of Nature
+    §269
+Citations:

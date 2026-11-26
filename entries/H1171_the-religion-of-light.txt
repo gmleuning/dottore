@@ -30,3 +30,10 @@ Phr:
   the good as light [Hegel]
   light against darkness
   good thoughts, good words, good deeds
+
+# ---- Hegel ----
+Def: The Persian religion of light, the good as light and its struggle with darkness.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religions of Transition › The Religion of Light
+Citations:

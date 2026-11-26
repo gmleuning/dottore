@@ -9,3 +9,10 @@ N:
   end-rhyme, rhyme scheme, couplet, sonnet, internal rhyme, masculine rhyme, feminine rhyme, eye rhyme, tercet, rime riche, like ending, end-sound
   quatrain, sestet, octave, refrain, envoi, triplet, distich
   ottava rima, terza rima
+
+# ---- Hegel ----
+Def: Rhyme proper, the full echo of like sounds at the line's end, in which the modern inward self hears itself; with it the rhymed stanza forms.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhyme
+Citations:

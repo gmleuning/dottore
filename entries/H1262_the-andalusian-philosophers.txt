@@ -14,3 +14,10 @@ Adj:
 
 Phr:
   Averrois, che 'l gran comento feo [It.] [Averroes, who made the great commentary] [Dante]
+
+# ---- Hegel ----
+Def: The Andalusian philosophers, Averroes above all, the Commentator, through whom Aristotle passed to the Latin scholastics.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity › Arabic Philosophy
+Citations:

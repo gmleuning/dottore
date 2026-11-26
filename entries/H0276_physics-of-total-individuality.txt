@@ -25,3 +25,10 @@ Adv:
 Phr:
   each after its kind
   to take shape
+
+# ---- Hegel ----
+Def: Bodies as total individuals, matter that forms itself from within: shape, specification and the chemical process.
+Texts:
+  The Philosophy of Nature
+    §§308–336
+Citations:

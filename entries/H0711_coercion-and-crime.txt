@@ -33,3 +33,10 @@ F:
 Phr:
   force is the midwife of every old society pregnant with a new one [Marx]
   against one's will
+
+# ---- Hegel ----
+Def: Wrong which violates the existence of freedom by force: coercion and crime.
+Texts:
+  The Philosophy of Right
+    §§90–103
+Citations:

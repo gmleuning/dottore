@@ -14,3 +14,10 @@ V:
 
 Adj:
   Roman, veristic
+
+# ---- Hegel ----
+Def: Die Skulptur der Römer, which keeps the Greek forms but turns to portrait and likeness, where the ideal begins to dissolve.
+Texts:
+  Aesthetics
+    Sculpture › Historical Stages in the Development of Sculpture › Greek and Roman Sculpture
+Citations:

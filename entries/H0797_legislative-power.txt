@@ -72,3 +72,10 @@ Phr:
   what's new?
   what's the latest poop?
   Money is the mother's milk of politics [Tip O'Neill]
+
+# ---- Hegel ----
+Def: The legislative power, the power to determine the universal.
+Texts:
+  The Philosophy of Right
+    §§298–320
+Citations:

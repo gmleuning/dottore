@@ -52,3 +52,10 @@ Phr:
   we live in deeds not years [Bailey]
   cunctando restituit rem [Lat.], If it ain't broke don't fix it [Bert Lance]
   stare decisis [Lat.], let the decision stand
+
+# ---- Hegel ----
+Def: The deed as the will's purpose, and its responsibility, for it recognizes as its own only what it knew.
+Texts:
+  The Philosophy of Right
+    §§115–118
+Citations:

@@ -52,3 +52,10 @@ Phr:
   I couldn't care less, I could care less
   anything will do
   es macht nichts [Ger.]
+
+# ---- Hegel ----
+Def: Habit as indifference to satisfaction, in which the desire is dulled by its regular fulfilment.
+Texts:
+  The Philosophy of Mind
+    §410
+Citations:

@@ -35,3 +35,10 @@ Phr:
   God is the light of the heavens and the earth [Qur'an]
   the light of the world
   the dawn of the gods
+
+# ---- Hegel ----
+Def: The divine as light, the luminous essence of the dawn, without shape.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶685–688
+Citations:

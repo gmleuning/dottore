@@ -19,3 +19,10 @@ Adj:
 
 Adv:
   realistically
+
+# ---- Hegel ----
+Def: Die subjektive Kunstnachahmung des Vorhandenen: faithful portrayal of everyday reality, as in Dutch painting, whose interest lies in the artist's skill and the life of the passing moment.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art › The Subjective Artistic Imitation of the Existent Present
+Citations:

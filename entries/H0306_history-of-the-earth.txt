@@ -29,3 +29,10 @@ Phr:
   no vestige of a beginning, no prospect of an end [James Hutton]
   in the mists of time
   time out of mind
+
+# ---- Hegel ----
+Def: The earth as the result of a past process of formation, whose stages are now only lying side by side.
+Texts:
+  The Philosophy of Nature
+    §339
+Citations:

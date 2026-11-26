@@ -25,3 +25,10 @@ F:
 
 Phr:
   the idea in the form of otherness [Hegel]
+
+# ---- Hegel ----
+Def: The philosophy of nature, the science of the idea in its otherness.
+Texts:
+  The Philosophy of Nature
+    §§245–376
+Citations:

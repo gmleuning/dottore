@@ -32,3 +32,10 @@ F:
 
 Phr:
   women weeping for Tammuz [Bible]
+
+# ---- Hegel ----
+Def: The Syrian religion of pain, the dying and reviving god Adonis.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religions of Transition › Transition to the Next Stage
+Citations:

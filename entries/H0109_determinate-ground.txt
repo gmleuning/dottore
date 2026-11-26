@@ -25,3 +25,10 @@ Phr:
   a reason of the hope that is in you [Bible]
   for a reason
   with good reason
+
+# ---- Hegel ----
+Def: Ground with a determinate content, which relates to the grounded.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Determinate ground
+Citations:

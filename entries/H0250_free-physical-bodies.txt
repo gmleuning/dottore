@@ -31,3 +31,10 @@ F:
 Phr:
   the host of heaven [Bible]
   the starry heavens
+
+# ---- Hegel ----
+Def: The heavenly bodies as physical qualities: light, its opposition in moon and comet, and the planet that unites them.
+Texts:
+  The Philosophy of Nature
+    §§275–280
+Citations:

@@ -25,3 +25,10 @@ Phr:
   the breath of life
   at the top of one's lungs
   der erste Atemzug ist das eigene individuelle Leben des Kindes [Ger.] [Hegel, Encyclopedia §354 Zusatz]
+
+# ---- Hegel ----
+Def: The blood in the pulmonary circulation, the purely negative immaterial life for which nature is air; the first breath is the child's own individual life.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

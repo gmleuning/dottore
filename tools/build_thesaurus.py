@@ -8,9 +8,9 @@ import entries
 
 KEYS = {'G': 'Head (German)', 'Gloss': 'Gloss', 'HGloss': 'Hegelian gloss', 'F': 'Foreign', 'N': 'Nouns', 'V': 'Verbs', 'Adj': 'Adjective',
         'Adv': 'Adverbs', 'Phr': 'Phrases',
-        'Def': 'Hegel definition', 'Q': 'Hegel quotes', 'Loc': 'Hegel locations'}
+        'Def': 'Hegel definition', 'Texts': 'Hegel texts', 'Citations': 'Hegel citations'}
 FIELDS = ['node_id', 'Head', 'Head (German)', 'Path', 'Gloss', 'Hegelian gloss', 'Nouns', 'Verbs', 'Adjective', 'Adverbs', 'Foreign', 'Phrases',
-          'Hegel definition', 'Hegel quotes', 'Hegel locations']
+          'Hegel definition', 'Hegel texts', 'Hegel citations']
 
 nodes = entries.nodes()
 E = entries.load()

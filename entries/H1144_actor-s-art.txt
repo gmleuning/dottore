@@ -36,3 +36,10 @@ F:
 Phr:
   all the world's a stage, and all the men and women merely players [As You Like It]
   strut and fret his hour upon the stage
+
+# ---- Hegel ----
+Def: The actor's art, which gives the poet's figures living presence.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The External Execution of a Dramatic Work of Art › The Actor's Art
+Citations:

@@ -27,3 +27,10 @@ F:
 Phr:
   an avenue of sphinxes
   temple of Karnak
+
+# ---- Hegel ----
+Def: The Egyptian temples, avenues of sphinxes, a labyrinth of courts and halls.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture › Egyptian Temples
+Citations:

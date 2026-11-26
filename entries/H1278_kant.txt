@@ -26,3 +26,10 @@ Phr:
   sapere aude [Lat.]
   the starry heavens above and the moral law within
   dare to know
+
+# ---- Hegel ----
+Def: Kant, who found the categories in the self and declared the thing in itself unknowable.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › Immanuel Kant
+Citations:

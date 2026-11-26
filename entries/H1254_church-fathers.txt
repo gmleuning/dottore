@@ -15,3 +15,10 @@ Adj:
 
 Adv:
   patristically, dogmatically, doctrinally, orthodoxly, by the creed, in council
+
+# ---- Hegel ----
+Def: The Church Fathers, who worked out the faith into doctrine.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity › The Church Fathers
+Citations:

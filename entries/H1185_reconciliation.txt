@@ -38,3 +38,10 @@ F:
   Greek: katallagē, kenōsis, sōtēria, apolytrōsis, hilasmos
   French: tirer d'affaire
   Korean: hwahae [reconciliation]
+
+# ---- Hegel ----
+Def: Reconciliation through Christ's presence, death and passage into spirit, the death of God as the death of death.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Representation, Appearance › Reconciliation
+Citations:

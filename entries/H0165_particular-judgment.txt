@@ -26,3 +26,10 @@ Adv:
 Phr:
   some swans are white
   some but not all
+
+# ---- Hegel ----
+Def: Some singulars are universal; positive and negative at once, pointing toward totality.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of reflection › The particular judgment
+Citations:

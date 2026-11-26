@@ -16,3 +16,10 @@ N:
 
 Adj:
   epidemic, endemic, climatic, miasmatic, malarial, contagious, infectious, catching, pestilential, rheumatic, scrofulous, cutaneous
+
+# ---- Hegel ----
+Def: The first kind of disease, set going by the elemental powers outside the organism (climate, weather, miasma, contagion), which lodges in the organism's most general and least animate parts, the skin, the lymph and the bones.
+Texts:
+  The Philosophy of Nature
+    §371
+Citations:

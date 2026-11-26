@@ -38,3 +38,10 @@ Phr:
   the meek shall inherit the earth [Bible]
   to come into money
   the family fortune
+
+# ---- Hegel ----
+Def: Inheritance, the entry of individuals into the family's property after its natural dissolution by death.
+Texts:
+  The Philosophy of Right
+    §§178–180
+Citations:

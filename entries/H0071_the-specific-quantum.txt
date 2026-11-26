@@ -24,3 +24,10 @@ Phr:
   Goldilocks's porridge: not too hot, not too cold
   just so much
   in due measure
+
+# ---- Hegel ----
+Def: A quantum that is the existence of a quality, so that the thing is what it is only within this amount.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Specific quantity › The specific quantum
+Citations:

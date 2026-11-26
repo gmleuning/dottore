@@ -47,3 +47,10 @@ Phr:
   what's in a name? [Romeo and Juliet]
   a name to conjure with
   to put a name to a face
+
+# ---- Hegel ----
+Def: Memory that holds the name together with its meaning, so that the name is the thing as it exists in the realm of representation.
+Texts:
+  The Philosophy of Mind
+    §461
+Citations:

@@ -24,3 +24,10 @@ Phr:
   e pluribus unum [Lat.]
   one nation, indivisible
   the crown
+
+# ---- Hegel ----
+Def: The sovereignty of the state, the one in which it has its actuality.
+Texts:
+  The Philosophy of Right
+    §278
+Citations:

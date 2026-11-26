@@ -20,3 +20,10 @@ Adv:
 Phr:
   the virtuoso
   the performer as co-creator
+
+# ---- Hegel ----
+Def: The second kind of execution, in which the performer is no longer a mere reproducer but co-creator, and virtuosity shows the mastery of the living artist.
+Texts:
+  Aesthetics
+    Music › Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art
+Citations:

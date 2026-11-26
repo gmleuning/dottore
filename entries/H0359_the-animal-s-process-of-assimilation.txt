@@ -34,3 +34,10 @@ Phr:
   nature, red in tooth and claw [Tennyson]
   to take in
   to make one's own
+
+# ---- Hegel ----
+Def: The organism's relation to an inorganic nature that it takes into itself and makes its own.
+Texts:
+  The Philosophy of Nature
+    §§357–366
+Citations:

@@ -45,3 +45,10 @@ Phr:
   ekam sat viprā bahudhā vadanti [Skt.] [Rigveda]
   the One remains, the many change and pass [Shelley]
   acervatim [Lat.]
+
+# ---- Hegel ----
+Def: The one in its self-relation, which repels itself into many ones like itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › The one and the many
+Citations:

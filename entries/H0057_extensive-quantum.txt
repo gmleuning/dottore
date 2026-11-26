@@ -24,3 +24,10 @@ Adv:
 Phr:
   by degrees
   through and through
+
+# ---- Hegel ----
+Def: Extensive Größe, the quantum whose determinateness lies in a plurality of units outside one another, an amount.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Extensive and intensive quantum › Their difference
+Citations:

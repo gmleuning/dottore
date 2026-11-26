@@ -26,3 +26,10 @@ F:
 
 Phr:
   the soul is self-moving motion [Plato]
+
+# ---- Hegel ----
+Def: Motion that is the self's own, the movement of what returns into itself.
+Texts:
+  The Philosophy of Mind
+    §423
+Citations:

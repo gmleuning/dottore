@@ -34,3 +34,10 @@ Phr:
   the Nothing which the Buddhists make the universal principle, as well as the final aim and goal of everything, is the same abstraction [Hegel, Encyclopaedia §87, tr. Wallace]
   form is emptiness, emptiness is form, rūpaṃ śūnyatā śūnyataiva rūpam [Skt.] [Heart Sutra]
   all is suffering
+
+# ---- Hegel ----
+Def: The religion of being-within-self, Buddhism and Lamaism, where the divine is the stillness of nothing.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religion of Being-Within-Self
+Citations:

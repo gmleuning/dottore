@@ -29,3 +29,10 @@ Phr:
   the true shape in which truth exists can only be the scientific system of it [Hegel]
   the science of it
   to grasp the whole
+
+# ---- Hegel ----
+Def: The concept grasping itself, science as spirit's knowledge of itself in its pure element.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶798–805
+Citations:

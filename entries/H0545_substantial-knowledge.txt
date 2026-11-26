@@ -29,3 +29,10 @@ F:
 Phr:
   wisdom is the principal thing [Bible]
   to know the substance
+
+# ---- Hegel ----
+Def: Reason's knowledge of the object as its own, substantial rather than merely subjective.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

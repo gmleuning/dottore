@@ -32,3 +32,10 @@ Phr:
   weighed in the balances and found wanting [Bible]
   as it should be
   up to standard
+
+# ---- Hegel ----
+Def: The judgment of the concept, in which the subject is measured against its concept, its ought.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of the concept
+Citations:

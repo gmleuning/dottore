@@ -15,3 +15,10 @@ Adj:
 Phr:
   De rerum natura [Lat.] [Lucretius]
   tantum religio potuit suadere malorum [Lat.] [Lucretius]
+
+# ---- Hegel ----
+Def: The Roman Epicureans, Lucretius above all, who set out the atomic physics and the freedom from fear of the gods in verse.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Epicurean Philosophy › Epicurus and his Followers
+Citations:

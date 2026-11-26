@@ -52,3 +52,10 @@ Phr:
   it remains to be seen
   Heaven knows
   who can tell? who shall decide when doctors disagree? ambiguas in vulgum spargere voces [Lat.]
+
+# ---- Hegel ----
+Def: The subject judged according to whether it corresponds to its concept, so the judgment is only possibly true.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of the concept › The problematic judgment
+Citations:

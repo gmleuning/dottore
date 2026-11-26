@@ -36,3 +36,10 @@ Phr:
   if A, then B
   if wishes were horses, beggars would ride
   what if
+
+# ---- Hegel ----
+Def: The connection of two contents as necessary, though their being is not posited: if A is, then B is.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of necessity › The hypothetical judgment
+Citations:

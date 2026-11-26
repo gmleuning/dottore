@@ -31,3 +31,10 @@ Phr:
   a cog in the machine
   a mere thing
   dead weight
+
+# ---- Hegel ----
+Def: An object complete in itself, indifferent to its determinateness and combined with others only as an aggregate.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Mechanism › The mechanical object
+Citations:

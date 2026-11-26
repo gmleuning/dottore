@@ -35,3 +35,10 @@ Phr:
   fit for purpose
   bearing and borne
   load and support
+
+# ---- Hegel ----
+Def: The fitness of each part to its function: bearing and being borne, column and beam, made visible.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › General Character of Classical Architecture › The Building's Fitness for its Purpose
+Citations:

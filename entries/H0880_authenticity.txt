@@ -13,3 +13,10 @@ Adj:
 
 Phr:
   die ächtere Manier [Ger.] [Hegel, Aesthetics]
+
+# ---- Hegel ----
+Def: Die ächtere Manier: a manner that lifts itself out of narrow particularity and holds to the nature of the matter in a more general way, as Goethe and Horace end serious beginnings with a cheerful turn.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
+Citations:

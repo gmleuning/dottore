@@ -31,3 +31,10 @@ Phr:
   we murder to dissect [Wordsworth]
   to break it down
   to take apart
+
+# ---- Hegel ----
+Def: Cognition that resolves the given concrete into abstract determinations and the form of universality.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea of cognition › The idea of the true › Analytic cognition
+Citations:

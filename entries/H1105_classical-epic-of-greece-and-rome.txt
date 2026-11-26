@@ -25,3 +25,10 @@ Phr:
   arma virumque cano [Lat.] [Virgil]
   Homer sometimes nods
   the wine-dark sea
+
+# ---- Hegel ----
+Def: The classical epic of Homer, and its imitations in Virgil.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Classical Epic of Greece and Rome
+Citations:

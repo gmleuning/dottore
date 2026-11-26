@@ -24,3 +24,10 @@ Phr:
   the elements of the world
   the elements of nature
   the world at large
+
+# ---- Hegel ----
+Def: Matter as qualified in its universal physical forms, the free physical bodies, the elements and their process.
+Texts:
+  The Philosophy of Nature
+    §§274–289
+Citations:

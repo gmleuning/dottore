@@ -25,3 +25,10 @@ Phr:
   from Sappho to Goethe
   from the Psalms to Goethe
   the course of the lyric
+
+# ---- Hegel ----
+Def: The historical course of lyric, from the oriental to the classical and the romantic.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Historical Development of Lyric
+Citations:

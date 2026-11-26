@@ -23,3 +23,10 @@ Phr:
   galvanized into action
   to galvanize into action
   a current runs
+
+# ---- Hegel ----
+Def: The process of metals: different metals in contact through a neutral medium, which is the first form of chemical process.
+Texts:
+  The Philosophy of Nature
+    §330
+Citations:

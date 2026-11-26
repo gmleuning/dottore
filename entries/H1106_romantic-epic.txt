@@ -25,3 +25,10 @@ F:
   French: Chanson de Roland
   Italian: Divina Commedia, Gerusalemme Liberata
   Portuguese: Os Lusíadas
+
+# ---- Hegel ----
+Def: The romantic epic of the Middle Ages, the Nibelungen, Dante, the epics of chivalry.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Romantic Epic
+Citations:

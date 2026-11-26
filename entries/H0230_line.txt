@@ -55,3 +55,10 @@ Phr:
   fleur deau [Fr.]
   stick to the reservation
   go beyond the pale
+
+# ---- Hegel ----
+Def: The point's negation of itself into otherness, the line, the first being-other of the point.
+Texts:
+  The Philosophy of Nature
+    §256
+Citations:

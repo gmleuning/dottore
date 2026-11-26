@@ -20,3 +20,10 @@ Adv:
 Phr:
   sing in me, Muse [Homer]
   divine inspiration
+
+# ---- Hegel ----
+Def: Begeisterung, the activity of Phantasie and of technical execution considered as a state in the artist.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

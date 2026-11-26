@@ -6,3 +6,10 @@ HGloss: The convivial song, which expresses the shared pleasure of company.
 
 N:
   convivial song; drinking song, table song, glee, catch, round, skolion, carousal song
+
+# ---- Hegel ----
+Def: The convivial song, which expresses the shared pleasure of company.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

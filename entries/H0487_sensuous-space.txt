@@ -27,3 +27,10 @@ Adv:
 Phr:
   here is a tree
   within reach
+
+# ---- Hegel ----
+Def: Space as given to sense, the here which is many heres.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶98–108
+Citations:

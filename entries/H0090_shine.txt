@@ -44,3 +44,10 @@ Phr:
   life is a dream, la vida es sueño [Sp.] [Calderón]
   all that glitters is not gold
   appearances can be deceiving
+
+# ---- Hegel ----
+Def: Being reduced to a semblance, which has no being of its own apart from essence and is essence's own shining.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Shine
+Citations:

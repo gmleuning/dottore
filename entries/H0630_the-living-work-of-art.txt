@@ -24,3 +24,10 @@ Phr:
   man himself becomes the work of art
   a body beautiful
   flesh made art
+
+# ---- Hegel ----
+Def: The living work of art, the human body as the shape of the god, in mysteries and festivals.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶720–726
+Citations:

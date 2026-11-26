@@ -26,3 +26,10 @@ Phr:
   no man is an island [Donne]
   it depends
   one thing leads to another
+
+# ---- Hegel ----
+Def: Condition and ground each a relatively unconditioned, each presupposing the other.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Condition › The relatively unconditioned
+Citations:

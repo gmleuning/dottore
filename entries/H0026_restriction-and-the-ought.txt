@@ -23,3 +23,10 @@ Phr:
   ad astra per aspera [Lat.]
   thus far and no further
   occurrent nubes [Lat.]
+
+# ---- Hegel ----
+Def: The limit as a restriction (Schranke) within something, and the ought (Sollen) that is to go beyond it; each implies the other.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Finitude › Restriction and the ought
+Citations:

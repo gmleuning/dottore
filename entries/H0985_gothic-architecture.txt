@@ -29,3 +29,10 @@ Phr:
   the stone forest
   frozen music
   stone that rises to heaven
+
+# ---- Hegel ----
+Def: Gothic building, pointed arches and ribbed vaults soaring upward, the stone that rises above itself toward the infinite.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture › Different Styles in Romantic Architecture › Gothic Architecture Proper
+Citations:

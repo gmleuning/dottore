@@ -31,3 +31,10 @@ Phr:
   τὸν ἐμὸν πέπλον οὐδείς πω θνητὸς ἀπεκάλυψεν [Gk.] [inscription at Sais, Plutarch, De Iside et Osiride 9: no mortal has yet lifted my robe]
   the riddle of the Sphinx
   know thyself
+
+# ---- Hegel ----
+Def: The Egyptian religion of the enigma, the sphinx, Osiris, where spirit struggles out of nature.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religions of Transition › Egyptian Religion
+Citations:

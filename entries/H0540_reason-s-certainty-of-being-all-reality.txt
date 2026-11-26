@@ -28,3 +28,10 @@ Phr:
   the world is my representation, die Welt ist meine Vorstellung [Ger.] [Schopenhauer]
   all the world
   the measure of all things
+
+# ---- Hegel ----
+Def: Reason's certainty that it is all reality, idealism's first, abstract assertion.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶231–239
+Citations:

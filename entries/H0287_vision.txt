@@ -43,3 +43,10 @@ Phr:
   were the eye not sunlike, it could never see the sun [Goethe]
   seeing is believing
   in the eye of the beholder
+
+# ---- Hegel ----
+Def: The eye's activity in the production of colour, the subjective colours of seeing.
+Texts:
+  The Philosophy of Nature
+    §320
+Citations:

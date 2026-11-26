@@ -48,3 +48,10 @@ Phr:
   non ens [Lat.]
   there's nothing in it
   an ocean of dreams without a sound [Shelley]
+
+# ---- Hegel ----
+Def: Nothing, pure nothing: simple equality with itself, complete emptiness, absence of all determination; the same as pure being.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being › Nothing
+Citations:

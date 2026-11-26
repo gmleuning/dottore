@@ -24,3 +24,10 @@ Phr:
   nature mediates logic and spirit
   nature in the middle
   the idea goes out of itself
+
+# ---- Hegel ----
+Def: The first syllogism, logic–nature–spirit, which has nature as the middle.
+Texts:
+  The Philosophy of Mind
+    §575
+Citations:

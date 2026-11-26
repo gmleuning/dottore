@@ -26,3 +26,10 @@ Phr:
   the best of all possible worlds [Leibniz, mocked by Voltaire]
   monads have no windows [Leibniz]
   two great principles [Leibniz]
+
+# ---- Hegel ----
+Def: Leibniz, the monads, individuality against Spinoza's substance.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › Gottfried Wilhelm Leibniz
+Citations:

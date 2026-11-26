@@ -22,3 +22,10 @@ Adv:
 
 Phr:
   the king is dead, long live the king! le roi est mort, vive le roi! [Fr.]
+
+# ---- Hegel ----
+Def: The monarch determined by birth, a natural individual in whom the state's will becomes immediate.
+Texts:
+  The Philosophy of Right
+    §§280–281
+Citations:

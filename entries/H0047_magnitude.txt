@@ -37,3 +37,10 @@ Phr:
   numero, pondere et mensura Deus omnia condidit [Lat.]
   what gets measured gets managed
   in round numbers
+
+# ---- Hegel ----
+Def: Quantity: determinateness become indifferent to being, a limit that is no limit, the truth of quality.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Magnitude (Quantity)
+Citations:

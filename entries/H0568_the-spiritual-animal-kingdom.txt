@@ -18,3 +18,10 @@ Adj:
 Phr:
   everyone's busy with their own thing
   mind your own business
+
+# ---- Hegel ----
+Def: Das geistige Tierreich: individuality that takes itself as real in and for itself, whose original determinate nature is its element, expressed in its work.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶397–408
+Citations:

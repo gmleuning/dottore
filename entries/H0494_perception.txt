@@ -49,3 +49,10 @@ Phr:
   mentis gratissimus error [Lat.] [Horace]
   on the dubious waves of error tost [Cowper]
   you lie — under a mistake [Shelley]
+
+# ---- Hegel ----
+Def: Consciousness that takes the object as a thing with many properties, and, failing to hold them together, deceives itself.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶111–131
+Citations:

@@ -53,3 +53,10 @@ Phr:
   even cities have their graves [Longfellow]
   ubi libertas ibi patria [Lat.]
   home sweet home
+
+# ---- Hegel ----
+Def: The house, the simple enclosure of wall, column and roof, as the type from which the temple is developed.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › General Character of Classical Architecture › The House as the Fundamental Type
+Citations:

@@ -24,3 +24,10 @@ Phr:
   ne plus ultra [Lat.]
   hitherto shalt thou come, but no further [Bible]
   good fences make good neighbours [Frost]
+
+# ---- Hegel ----
+Def: Grenze, the non-being of the other in something and of something in the other, through which something is what it is and also is not.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Determination, constitution, and limit
+Citations:

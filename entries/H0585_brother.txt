@@ -18,3 +18,10 @@ Adv:
 F:
   Latin: frater
   Greek: adelphos
+
+# ---- Hegel ----
+Def: Der Bruder: the member of the family in whom its spirit becomes individuality turned outward, passing from the divine law to the human law of the community.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶458–459
+Citations:

@@ -30,3 +30,10 @@ F:
 Phr:
   the frog in the well [Zhuangzi]
   neither fish nor fowl
+
+# ---- Hegel ----
+Def: Backboned animals in the transition between water and land, cold-blooded.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

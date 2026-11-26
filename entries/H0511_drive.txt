@@ -23,3 +23,10 @@ Adv:
 
 Phr:
   to be driven by
+
+# ---- Hegel ----
+Def: Trieb, self-consciousness's drive to sublate the contradiction between its certainty of itself and the object that stands over against it.
+Texts:
+  The Philosophy of Mind
+    §426
+Citations:

@@ -31,3 +31,10 @@ Phr:
   I know it in my bones
   to be certain
   sure as eggs is eggs
+
+# ---- Hegel ----
+Def: Reason in the form of subjective conviction, before it has proved itself in the object.
+Texts:
+  The Philosophy of Mind
+    §§438–439
+Citations:

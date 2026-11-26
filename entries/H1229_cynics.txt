@@ -31,3 +31,10 @@ Phr:
   stand out of my sunlight [Diogenes to Alexander]
   I am a citizen of the world, kosmopolitēs [Gr.] [Diogenes]
   living like a dog
+
+# ---- Hegel ----
+Def: The Cynics, who held the good to be freedom from needs.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Socratic Schools › The Cynics
+Citations:

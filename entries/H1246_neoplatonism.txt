@@ -28,3 +28,10 @@ F:
 
 Phr:
   the flight of the alone to the alone [Plotinus]
+
+# ---- Hegel ----
+Def: Neoplatonism, in which thought becomes the intellectual world and all things flow from the one.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Neoplatonic Philosophy
+Citations:

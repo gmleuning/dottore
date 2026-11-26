@@ -41,3 +41,10 @@ Phr:
   li and qi [Chin.] [Zhu Xi]
   matter in motion
   the stuff of
+
+# ---- Hegel ----
+Def: Matter as the formless substrate presupposed by form, and form as what determines it.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Absolute ground › Form and matter
+Citations:

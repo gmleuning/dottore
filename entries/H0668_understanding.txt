@@ -45,3 +45,10 @@ Phr:
   I see what you mean
   to get the picture
   to make sense of
+
+# ---- Hegel ----
+Def: Thinking as the formal identity that works its recollected representations into genera, species, laws and forces.
+Texts:
+  The Philosophy of Mind
+    §467
+Citations:

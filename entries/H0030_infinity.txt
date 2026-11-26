@@ -37,3 +37,10 @@ Phr:
   the eternal silence of these infinite spaces terrifies me [Pascal]
   in my end is my beginning [T. S. Eliot]
   to infinity and beyond
+
+# ---- Hegel ----
+Def: The negation of the negation: the finite's own going-beyond itself, which first appears as the infinite set over against it.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Infinity
+Citations:

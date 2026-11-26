@@ -24,3 +24,10 @@ Adv:
 Phr:
   a thing of beauty is a joy for ever [Keats]
   beauty is truth, truth beauty
+
+# ---- Hegel ----
+Def: The beautiful as the idea itself, the concept united with its reality, appearing sensuously.
+Texts:
+  Aesthetics
+    The Idea of Artistic Beauty, or the Ideal
+Citations:

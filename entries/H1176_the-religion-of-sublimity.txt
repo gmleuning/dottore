@@ -34,3 +34,10 @@ Phr:
   Shema Yisrael, Adonai Eloheinu, Adonai Echad [Heb.] [Bible]
   the fear of the Lord is the beginning of wisdom [Bible]
   I am that I am
+
+# ---- Hegel ----
+Def: The Jewish religion of sublimity, the one God, the Lord, before whom all creation is nothing.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › The Religion of the Greeks and the Jews › The Religion of Sublimity
+Citations:

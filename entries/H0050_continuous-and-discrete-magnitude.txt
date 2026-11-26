@@ -11,3 +11,10 @@ F:
   German: Kontinuität, Diskretion
   Latin: gradatim
   Greek: synecheia
+
+# ---- Hegel ----
+Def: Quantity posited as continuity, an unbroken self-equality, and as discreteness, a plurality of ones; each contains the other.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantity › Continuous and discrete magnitude
+Citations:

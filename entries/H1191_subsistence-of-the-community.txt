@@ -62,3 +62,10 @@ Phr:
   the body of Christ
   bread and wine
   of the true faith
+
+# ---- Hegel ----
+Def: The subsistence of the community in teaching, church and sacraments.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Community, Spirit › The Subsistence of the Community
+Citations:

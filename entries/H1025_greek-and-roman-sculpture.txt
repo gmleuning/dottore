@@ -17,3 +17,10 @@ Adj:
 
 Adv:
   classically
+
+# ---- Hegel ----
+Def: Greek and Roman sculpture, the realized ideal and its decline.
+Texts:
+  Aesthetics
+    Sculpture › Historical Stages in the Development of Sculpture › Greek and Roman Sculpture
+Citations:

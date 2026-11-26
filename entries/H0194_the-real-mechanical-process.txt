@@ -39,3 +39,10 @@ Phr:
   might makes right
   to get the upper hand
   tel maure tel valet [Fr.]
+
+# ---- Hegel ----
+Def: Communication that becomes the power of one object over another, the negativity of the object's self-subsistence.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Mechanism › The mechanical process › The real mechanical process
+Citations:

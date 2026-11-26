@@ -24,3 +24,10 @@ Adv:
 Phr:
   weil wir leiden, anerkennen wir, daß wir gefehlt [Ger.] [Hegel, Phenomenology ¶470, rendering Antigone 926]
   unschuldig ist daher nur das Nichttun [Ger.] [Hegel, Phenomenology]
+
+# ---- Hegel ----
+Def: Die Schuld: the deed is itself guilt, for in acting on one side of the ethical substance it injures the other; only non-action is innocent.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶468–471
+Citations:

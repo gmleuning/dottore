@@ -45,3 +45,10 @@ Phr:
   an eye for an eye [Bible]
   justice is served
   to do justice
+
+# ---- Hegel ----
+Def: The restoration of right, the negation of the crime's negation.
+Texts:
+  The Philosophy of Right
+    §§99–103
+Citations:

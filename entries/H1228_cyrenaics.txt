@@ -28,3 +28,10 @@ F:
 
 Phr:
   I possess, I am not possessed, echō ouk echomai [Gr.] [Aristippus]
+
+# ---- Hegel ----
+Def: The Cyrenaics, who held pleasure to be the good of the individual.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Socratic Schools › The Cyrenaics
+Citations:

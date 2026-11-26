@@ -28,3 +28,10 @@ Phr:
   spirit knowing itself as absolute [Hegel]
   the true is the whole [Hegel]
   the highest things
+
+# ---- Hegel ----
+Def: Spirit knowing itself as absolute: art, religion and philosophy.
+Texts:
+  The Philosophy of Mind
+    §§553–577
+Citations:

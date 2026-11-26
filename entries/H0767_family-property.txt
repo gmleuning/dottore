@@ -26,3 +26,10 @@ Phr:
   Adel sitzt im Gemuthe nicht im Gebluete [Ger.]
   adelig und edel sind zweierlei [Ger.]
   das Vermögen wird so ein unveräußerliches, mit dem Majorate belastetes Erbgut [Ger.] [Hegel, Philosophy of Right §306]
+
+# ---- Hegel ----
+Def: The estate that cannot be sold or divided, bound to the family by entail (Majorat); it frees the landed nobility for political life and sends it to the upper house (§306-307).
+Texts:
+  The Philosophy of Right
+    §203
+Citations:

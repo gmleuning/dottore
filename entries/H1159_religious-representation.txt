@@ -38,3 +38,10 @@ Phr:
   die Philosophie hat zwar ihre Gegenstände zunächst mit der Religion gemeinschaftlich [Ger.] [Hegel, Encyclopaedia §1]
   the picture-language of faith
   si sic omnes! [Lat.]
+
+# ---- Hegel ----
+Def: God in the form of representation, image and story, the form in which religion is for everyone.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827) › The Knowledge of God › Representation
+Citations:

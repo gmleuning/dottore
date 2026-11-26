@@ -28,3 +28,10 @@ F:
 Phr:
   drama for the study
   a closet drama
+
+# ---- Hegel ----
+Def: Drama read or recited, which needs the stage for its full reality.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The External Execution of a Dramatic Work of Art › Reading Dramas and Reciting them
+Citations:

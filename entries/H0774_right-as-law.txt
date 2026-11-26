@@ -46,3 +46,10 @@ Phr:
   the rule of law
   ignorantia legis neminem excusat [Lat.], ignorance of the law is no excuse
   where law ends tyranny begins [Earl of Chatham]
+
+# ---- Hegel ----
+Def: Right posited as law, a known universal.
+Texts:
+  The Philosophy of Right
+    §§211–214
+Citations:

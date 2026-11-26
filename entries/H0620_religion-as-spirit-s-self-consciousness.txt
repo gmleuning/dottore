@@ -33,3 +33,10 @@ Phr:
   in religion spirit knows itself as spirit [Hegel]
   to get religion
   in good faith
+
+# ---- Hegel ----
+Def: Spirit's consciousness of itself as absolute being, in natural religion, art-religion and manifest religion.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶672–787
+Citations:

@@ -20,3 +20,10 @@ F:
 Phr:
   Champagner giebt noch keine Poesie [Ger.] [Hegel, Aesthetics]
   die Wärme des Bluts macht's nicht allein [Ger.] [Hegel, Aesthetics]
+
+# ---- Hegel ----
+Def: The belief that Begeisterung comes from sensuous stimulation: but champagne yields no poetry, and the best genius may lie morning and evening in the green grass gazing at the sky and feel no breath of inspiration.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

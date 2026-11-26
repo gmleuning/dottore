@@ -19,3 +19,10 @@ Adv:
 
 Phr:
   saints and miracles
+
+# ---- Hegel ----
+Def: Die Wunder und Legenden: the divine shown as breaking the natural connection of things, which for art easily becomes the merely fanciful and adventurous.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Religious Domain of Romantic Art › The Spirit of the Community › Miracles and Legends
+Citations:

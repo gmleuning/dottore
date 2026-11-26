@@ -42,3 +42,10 @@ Phr:
   breasts the blows of circumstance [Tennyson]
   so runs round of life from hour to hour [Keble]
   sprinkled along the waste of years [Tennyson]
+
+# ---- Hegel ----
+Def: When all its conditions are present the fact enters into existence; the unconditioned become immediacy.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Condition › Procession of the fact into concrete existence
+Citations:

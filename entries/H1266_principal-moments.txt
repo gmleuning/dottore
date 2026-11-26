@@ -28,3 +28,10 @@ Phr:
   universalia ante rem, in re, post rem [Lat.]
   that than which nothing greater can be thought
   Occam's razor
+
+# ---- Hegel ----
+Def: The chief moments of scholasticism, Anselm's proof, the realists and nominalists, Aquinas.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Scholastics › Principal Moments of Scholastic Philosophy
+Citations:

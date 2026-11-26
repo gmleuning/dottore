@@ -6,3 +6,10 @@ HGloss: The dithyramb and the psalm, in which the soul is carried away beyond it
 
 N:
   dithyramb and psalm
+
+# ---- Hegel ----
+Def: The dithyramb and the psalm, in which the soul is carried away beyond itself toward the god in ecstasy or longing.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

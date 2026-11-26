@@ -29,3 +29,10 @@ Phr:
   the symbol is a riddle
   the riddle of the sphinx
   seeking its form
+
+# ---- Hegel ----
+Def: Art in which the idea is still seeking its true expression, so that shape and meaning do not correspond; the symbol.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art
+Citations:

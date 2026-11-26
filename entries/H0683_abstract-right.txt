@@ -52,3 +52,10 @@ Phr:
   justitia virtutem regina [Lat.]
   thrice is he armed that hath his quarrel just [Henry VI]
   à chaque saint sa chandelle [Fr.]
+
+# ---- Hegel ----
+Def: The will's immediate existence in the person, the capacity for rights, whose command is: be a person and respect others as persons.
+Texts:
+  The Philosophy of Right
+    §§34–104
+Citations:

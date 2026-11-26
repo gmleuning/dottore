@@ -82,3 +82,10 @@ Phr:
   nemo bis punitur pro codem delicto [Lat.]
   mutato nomine de te fabula narratur [Lat.]
   unrespited, unpitied, unreprieved [Paradise Lost]
+
+# ---- Hegel ----
+Def: The courts, where the law is applied to the particular case.
+Texts:
+  The Philosophy of Right
+    §§219–229
+Citations:

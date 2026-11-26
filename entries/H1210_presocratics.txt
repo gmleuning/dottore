@@ -25,3 +25,10 @@ Adv:
 F:
   Greek: physiologoi, the archē [first principle], apeiron, physis, logos, nous, to on, kosmos, stoicheia, rhizōmata, homoiomereiai, philia kai neikos, peri physeōs
   Arabic: al-ṭabīʿiyyūn [the naturalists]
+
+# ---- Hegel ----
+Def: The Presocratics, who found the principle in water, the infinite, number, being, becoming, atoms and nous.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Presocratics
+Citations:

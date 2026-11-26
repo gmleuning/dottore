@@ -62,3 +62,10 @@ Phr:
   loyaute m'oblige [Fr.]
   loyaute n'a honte [Fr.]
   what stronger breastplate than a heart untainted? [Henry VI]
+
+# ---- Hegel ----
+Def: True conscience, the disposition to will what is good in and for itself, which has fixed principles.
+Texts:
+  The Philosophy of Right
+    §§136–138
+Citations:

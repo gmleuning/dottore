@@ -139,3 +139,10 @@ Phr:
   deliberando saepe perit occasio [Lat.] [Syrus]
   like a team of horses glimpsed through a crack, si zhi guo xi [Chin.] [Mozi]
   a white horse galloping past a crack, bai ju guo xi [Chin.] [Zhuangzi]
+
+# ---- Hegel ----
+Def: The negativity of space posited for itself: being that, in being, is not, and in not being, is; intuited becoming. All things are in time, not time in them.
+Texts:
+  The Philosophy of Nature
+    §§257–259
+Citations:

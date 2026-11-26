@@ -29,3 +29,10 @@ F:
 Phr:
   the master of those who know [Dante]
   all men by nature desire to know [Aristotle]
+
+# ---- Hegel ----
+Def: Aristotle, who brought the idea into the actual, the energeia, thought thinking itself.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Aristotle
+Citations:

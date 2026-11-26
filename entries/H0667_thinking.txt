@@ -92,3 +92,10 @@ Phr:
   stands not within the prospect of belief [Macbeth]
   tarde quae credita laedunt credimus [Lat.] [Ovid]
   vide et crede [Lat.]
+
+# ---- Hegel ----
+Def: Intelligence that recognizes itself in its content: the thought is the thing, simple identity of the subjective and objective.
+Texts:
+  The Philosophy of Mind
+    §§465–468
+Citations:

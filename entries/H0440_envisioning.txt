@@ -33,3 +33,10 @@ Phr:
   where there is no vision, the people perish [Bible]
   to see things
   a vision of
+
+# ---- Hegel ----
+Def: The seeing in trance of what lies beyond the waking senses, a knowing still bound to feeling.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

@@ -16,3 +16,10 @@ Phr:
   panta rhei [Gr.] [all flows] [attrib. Heraclitus]
   you cannot step twice into the same river
   es ist kein Satz des Heraklit, den ich nicht in meine Logik aufgenommen [Ger.] [Hegel, Lectures on the History of Philosophy]
+
+# ---- Hegel ----
+Def: Heraclitus, the first concrete thinker: becoming as principle, the unity of being and nothing, the idea in its speculative form.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Heraclitus
+Citations:

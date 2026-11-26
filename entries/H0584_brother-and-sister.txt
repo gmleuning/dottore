@@ -27,3 +27,10 @@ F:
 
 Phr:
   blood is thicker than water
+
+# ---- Hegel ----
+Def: The ethical relation of brother and sister, free of desire, the highest bond of the family.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶457–459
+Citations:

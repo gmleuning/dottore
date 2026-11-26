@@ -52,3 +52,10 @@ Phr:
   the demigod Authority [Lat.Tran] [Measure for Measure]
   the right divine of kings to govern wrong [Pope]
   uneasy lies the head that wears a crown [Henry IV]
+
+# ---- Hegel ----
+Def: The actuality of the ethical idea: the state, the march of God in the world, in which freedom attains its highest right.
+Texts:
+  The Philosophy of Right
+    §§257–360
+Citations:

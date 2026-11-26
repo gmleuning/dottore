@@ -28,3 +28,10 @@ F:
 Phr:
   the weight on one leg
   at rest yet alive
+
+# ---- Hegel ----
+Def: The stance and movement of the body, the upright free posture, at rest yet animated.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture › Position and Movement of the Body
+Citations:

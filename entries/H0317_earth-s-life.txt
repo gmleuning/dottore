@@ -26,3 +26,10 @@ Phr:
   the earth breathes
   teeming with life
   the breath of the earth
+
+# ---- Hegel ----
+Def: The earth's vitality as an immediate subject, the life of the sea and land and atmosphere, which brings forth generatio aequivoca.
+Texts:
+  The Philosophy of Nature
+    §341
+Citations:

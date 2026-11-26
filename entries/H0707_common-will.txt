@@ -32,3 +32,10 @@ F:
 Phr:
   with one voice
   of one mind
+
+# ---- Hegel ----
+Def: The common will of the contract, the identity of wills which is the essence of right.
+Texts:
+  The Philosophy of Right
+    §81
+Citations:

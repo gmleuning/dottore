@@ -16,3 +16,10 @@ V:
 Adj:
   passerine, aquiline, aduncous†, uncinated†
   altricial, nidicolous, raptorial, columbine, scansorial
+
+# ---- Hegel ----
+Def: Lamarck's last four orders, whose young are fed in the nest: pigeons, perching and singing birds, birds of prey and climbers; the birds of the air proper, of song and of the hunt.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

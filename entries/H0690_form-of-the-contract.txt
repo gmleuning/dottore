@@ -38,3 +38,10 @@ Phr:
   signed, sealed, and delivered
   in for a penny in for a pound
   gage d'amour
+
+# ---- Hegel ----
+Def: The stipulation, the outward form in which the agreement of wills exists.
+Texts:
+  The Philosophy of Right
+    §§76–79
+Citations:

@@ -43,3 +43,10 @@ Phr:
   in the wrong
   it will not do
   filius nullius
+
+# ---- Hegel ----
+Def: The will's existence posited as a semblance, the particular will set against the universal: wrong.
+Texts:
+  The Philosophy of Right
+    §§82–104
+Citations:

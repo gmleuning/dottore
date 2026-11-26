@@ -28,3 +28,10 @@ F:
 Phr:
   the world is everything that is the case [Wittgenstein]
   the facts of the matter
+
+# ---- Hegel ----
+Def: The concept realized as immediacy: a totality of self-subsistent objects, the concept sunk in externality.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Objectivity
+Citations:

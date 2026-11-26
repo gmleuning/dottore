@@ -25,3 +25,10 @@ Adv:
 Phr:
   let us build us a city and a tower, whose top may reach unto heaven [Bible]
   a monument to
+
+# ---- Hegel ----
+Def: Symbolic architecture, building that is meaningful in itself without a further purpose.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture
+Citations:

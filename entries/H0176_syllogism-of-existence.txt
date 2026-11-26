@@ -28,3 +28,10 @@ Phr:
   barbara celarent darii ferioque prioris [Lat.]
   from the particular to the general
   by the book
+
+# ---- Hegel ----
+Def: Inference through an immediate determinateness, contingent and external: S–P–U.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of existence
+Citations:

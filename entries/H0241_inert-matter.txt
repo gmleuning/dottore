@@ -32,3 +32,10 @@ F:
 Phr:
   every body continues in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed upon it [Newton]
   a body at rest
+
+# ---- Hegel ----
+Def: Matter as indifferent to rest and motion, self-subsistent only by its mass and moved only by another.
+Texts:
+  The Philosophy of Nature
+    §§263–264
+Citations:

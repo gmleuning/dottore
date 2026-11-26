@@ -34,3 +34,10 @@ Phr:
   what's bred in the bone will come out in the flesh
   born that way
   second nature
+
+# ---- Hegel ----
+Def: Natural determinations of the soul that it has as nature's qualities, not as its own doing.
+Texts:
+  The Philosophy of Mind
+    §§392–395
+Citations:

@@ -27,3 +27,10 @@ Adv:
 Phr:
   the individual lost in the One
   the measureless substance
+
+# ---- Hegel ----
+Def: The general character of Eastern thought, the substantial and the measureless.
+Texts:
+  Lectures on the History of Philosophy
+    Oriental Philosophy › Introduction
+Citations:

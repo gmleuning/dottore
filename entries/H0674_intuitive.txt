@@ -30,3 +30,10 @@ Phr:
   it just feels right
   over the moon
   down in the dumps
+
+# ---- Hegel ----
+Def: Feeling as the immediate response to what is present: joy, contentment, grief.
+Texts:
+  The Philosophy of Mind
+    §§471–472
+Citations:

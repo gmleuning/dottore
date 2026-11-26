@@ -35,3 +35,10 @@ Phr:
   fair is foul, and foul is fair [Macbeth]
   the last shall be first, and the first last [Bible]
   Through the Looking-Glass [Lewis Carroll]
+
+# ---- Hegel ----
+Def: The inverted world, in which the supersensible is the inversion of appearance, and the inner proves to be the self.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶157–160
+Citations:

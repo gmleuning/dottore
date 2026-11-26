@@ -18,3 +18,10 @@ F:
 
 Phr:
   die moderne bürgerliche Epopöe [Ger.] [Hegel, Aesthetics]
+
+# ---- Hegel ----
+Def: The novel, the modern bourgeois epic, whose usual conflict is between the poetry of the heart and the prose of circumstances that opposes it.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › Particular Characteristics of Epic Proper › The Epic as a Fully Unified Whole
+Citations:

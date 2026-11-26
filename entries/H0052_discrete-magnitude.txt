@@ -28,3 +28,10 @@ F:
 Phr:
   drop by drop, gutta cavat lapidem [Lat.]
   like 'angel visits few and far between' [Campbell]
+
+# ---- Hegel ----
+Def: Diskrete Größe, quantity as a plurality of ones outside one another, which still contains continuity as their unit.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantity › Continuous and discrete magnitude
+Citations:

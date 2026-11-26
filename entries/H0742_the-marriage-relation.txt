@@ -36,3 +36,10 @@ Phr:
   they shall be one flesh [Bible]
   man and wife
   better half
+
+# ---- Hegel ----
+Def: The bond of husband and wife, a unity of natural life transformed into a spiritual unity.
+Texts:
+  The Philosophy of Right
+    §§161–163
+Citations:

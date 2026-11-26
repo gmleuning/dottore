@@ -39,3 +39,10 @@ Phr:
   le style est l'homme même [Fr.] [Buffon]
   style and substance
   the gist of it
+
+# ---- Hegel ----
+Def: Content as the unity of form and matter, indifferent to form yet only in it.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Absolute ground › Form and content
+Citations:

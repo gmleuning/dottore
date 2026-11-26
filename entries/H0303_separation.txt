@@ -35,3 +35,10 @@ Phr:
   separate the wheat from the chaff
   to break down
   to separate out
+
+# ---- Hegel ----
+Def: The separation of the neutral product into its components; reduction, the inverse of combination.
+Texts:
+  The Philosophy of Nature
+    §334
+Citations:

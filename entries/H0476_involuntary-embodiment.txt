@@ -27,3 +27,10 @@ Phr:
   the face betrays the heart
   laughing and crying
   to give oneself away
+
+# ---- Hegel ----
+Def: The soul's expression in the body that occurs without its will: laughing, weeping, the voice.
+Texts:
+  The Philosophy of Mind
+    §411
+Citations:

@@ -29,3 +29,10 @@ Adv:
 Phr:
   ye shall be as gods, knowing good and evil [Bible]
   the Fall is therefore the eternal Mythus of Man [Hegel, Philosophy of History, tr. Sibree]
+
+# ---- Hegel ----
+Def: Das Böse: the being-for-self of the natural will set against the universal, the knowledge of good and evil in which man is fallen and yet raised above the animal.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Representation, Appearance › Knowledge, Estrangement, and Evil
+Citations:

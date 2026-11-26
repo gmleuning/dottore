@@ -83,3 +83,10 @@ Phr:
   qui doet discet [Lat.]
   practise makes perfect
   dyed blue, you turn blue, dyed yellow, you turn yellow, ran yu cang ze cang, ran yu huang ze huang [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: The education of children, which raises them out of their natural immediacy to independence.
+Texts:
+  The Philosophy of Right
+    §§174–175
+Citations:

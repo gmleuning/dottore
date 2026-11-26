@@ -38,3 +38,10 @@ Phr:
   organic growth
   atqui vivere militare est [Lat.] [Seneca]
   non est vivere sed valere vita [Lat.] [Marial]
+
+# ---- Hegel ----
+Def: Nature as living: the idea in its existence as organism, the individual that produces itself from within.
+Texts:
+  The Philosophy of Nature
+    §§337–376
+Citations:

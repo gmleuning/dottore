@@ -28,3 +28,10 @@ V:
 F:
   French: viola d'amore, cor Anglais
   Italian: viola di gamba, corno di bassetto
+
+# ---- Hegel ----
+Def: Mastery of the instrument, through which the virtuoso makes a foreign tool into a perfect organ of his own soul.
+Texts:
+  Aesthetics
+    Music › Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art
+Citations:

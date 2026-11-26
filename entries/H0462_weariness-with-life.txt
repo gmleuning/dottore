@@ -57,3 +57,10 @@ Phr:
   time hanging heavily on one's hands
   toujours perdrix [Fr.]
   crambe repetita [Lat.]
+
+# ---- Hegel ----
+Def: The most indeterminate madness: a groundless disgust with life, the inability to endure it, which the English know as melancholy.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

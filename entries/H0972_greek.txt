@@ -28,3 +28,10 @@ Phr:
   the Acropolis
   the three Greek orders
   the measure of bearing
+
+# ---- Hegel ----
+Def: The Greek orders, each a different measure of the relation of bearing and borne.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders
+Citations:

@@ -30,3 +30,10 @@ F:
 Phr:
   henceforth space by itself, and time by itself, are doomed to fade away into mere shadows [Minkowski]
   the coordinates
+
+# ---- Hegel ----
+Def: The abstract universality of nature's self-externality, space and time, prior to any matter that fills them.
+Texts:
+  The Philosophy of Nature
+    §§254–261
+Citations:

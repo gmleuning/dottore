@@ -28,3 +28,10 @@ Phr:
   spirit rising above nature
   spirit above nature
   the gods become persons
+
+# ---- Hegel ----
+Def: The religions in which spirit is raised above nature: beauty, sublimity, expediency.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › The Religion of the Greeks and the Jews
+Citations:

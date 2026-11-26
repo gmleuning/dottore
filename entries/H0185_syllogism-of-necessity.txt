@@ -22,3 +22,10 @@ Adv:
 Phr:
   it cannot be otherwise
   by definition
+
+# ---- Hegel ----
+Def: Inference whose middle is the universal as essential nature, the genus, so the mediation is substantial.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of necessity
+Citations:

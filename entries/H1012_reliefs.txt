@@ -32,3 +32,10 @@ Phr:
   the Panathenaic procession
   half emerging from the stone
   the frieze of the Parthenon
+
+# ---- Hegel ----
+Def: The relief, figures emerging from a flat ground, the passage toward painting.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Modes of Portrayal › Reliefs
+Citations:

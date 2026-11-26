@@ -21,3 +21,10 @@ Adv:
 
 Phr:
   a halo round the moon
+
+# ---- Hegel ----
+Def: Colour formed at the edges of opaque bodies, the fringes of diffraction.
+Texts:
+  The Philosophy of Nature
+    §320
+Citations:

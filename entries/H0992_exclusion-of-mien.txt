@@ -27,3 +27,10 @@ Phr:
   the blind eyes of the gods
   the blind gaze of statues
   eyes without pupils
+
+# ---- Hegel ----
+Def: The exclusion of fleeting expression; the sculptural figure has no glance, no momentary mien.
+Texts:
+  Aesthetics
+    Sculpture › The Principle of Sculpture Proper › The Beautiful Sculptural Form › Exclusion of Mien
+Citations:

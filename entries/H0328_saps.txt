@@ -28,3 +28,10 @@ F:
 Phr:
   the sap is rising
   the sap rises
+
+# ---- Hegel ----
+Def: The saps, the plant's internal fluidity, the vehicle of its self-formation.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

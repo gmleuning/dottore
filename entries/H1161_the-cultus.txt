@@ -54,3 +54,10 @@ Phr:
   what art thou, thou idol ceremony? [Henry V]
   ne vile fano [It.]
   there's nothing ill can dwell in such a temple [Tempest]
+
+# ---- Hegel ----
+Def: The cultus, the practice by which the subject reunites itself with God and enjoys the reconciliation.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827) › The Cultus
+Citations:

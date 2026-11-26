@@ -28,3 +28,10 @@ Phr:
   from the chalice of this realm of spirits foams forth for Him his own infinitude [Hegel, Phenomenology ¶808, adapting Schiller, 'Die Freundschaft']
   aus dem Kelche dieses Geisterreiches schäumt ihm seine Unendlichkeit [Ger.] [Hegel, Phenomenology ¶808]
   the Golgotha of spirit
+
+# ---- Hegel ----
+Def: History comprehended, the recollection and the Golgotha of absolute spirit, the actuality and truth of its throne.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶806–808
+Citations:

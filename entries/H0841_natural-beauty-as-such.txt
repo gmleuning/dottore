@@ -25,3 +25,10 @@ Phr:
   life as the first beauty
   full of life
   a living picture
+
+# ---- Hegel ----
+Def: Natural beauty as the idea in its immediate existence as life, the organism whose members are animated by one soul.
+Texts:
+  Aesthetics
+    The Beauty of Nature › Natural Beauty as Such
+Citations:

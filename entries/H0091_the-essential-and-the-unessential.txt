@@ -57,3 +57,10 @@ Phr:
   it is of no consequence, it is of no importance
   elephantus non capit murem [Lat.]
   tempete dans un verre d'eau [Fr.]
+
+# ---- Hegel ----
+Def: Essence and the unessential, a first distinction of what is important from what is not, still external.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Shine › The essential and the unessential
+Citations:

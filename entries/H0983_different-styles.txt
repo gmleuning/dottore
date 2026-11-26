@@ -25,3 +25,10 @@ Phr:
   in every style
   the march of styles
   from round arch to pointed
+
+# ---- Hegel ----
+Def: The styles of romantic building, from the Romanesque to the Gothic and the secular.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture › Different Styles in Romantic Architecture
+Citations:

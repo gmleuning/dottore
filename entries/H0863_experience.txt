@@ -15,3 +15,10 @@ Adj:
 
 Adv:
   feelingly, from the heart
+
+# ---- Hegel ----
+Def: The depth of heart (Gemüt) and of animating feeling (Empfindung), which pervades and quickens the whole and holds the content in subjective unity with the artist's inmost self.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

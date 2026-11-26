@@ -34,3 +34,10 @@ F:
 Phr:
   the heavens declare the glory of God [Bible]
   as nature made it
+
+# ---- Hegel ----
+Def: The beauty found in nature, the idea as life, beautiful only for the beholding spirit.
+Texts:
+  Aesthetics
+    The Beauty of Nature
+Citations:

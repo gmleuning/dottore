@@ -15,3 +15,10 @@ Adj:
 Adv:
   in the manner of the school
   in the manner of
+
+# ---- Hegel ----
+Def: Manier as a mode of presentation (Darstellungsweise) proper to the artist, his followers and pupils, formed into habit by frequent repetition; it finds most room in painting and music.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
+Citations:

@@ -32,3 +32,10 @@ Phr:
   dies irae dies illa [Lat.]
   the hue of dungeons and the scowl of night [Love's Labor's Lost]
   lasciate ogni speranza, voi ch'entrate [It.] [Dante]
+
+# ---- Hegel ----
+Def: Die Entzweiung: the division of consciousness from God, the infinite pain of separation, which is also the source of the need for reconciliation.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Representation, Appearance › Knowledge, Estrangement, and Evil
+Citations:

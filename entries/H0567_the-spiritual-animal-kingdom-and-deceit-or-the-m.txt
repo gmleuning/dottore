@@ -15,3 +15,10 @@ F:
   Latin: opus
   Greek: ergon
   French: mauvaise foi [Sartre]
+
+# ---- Hegel ----
+Def: Individuals each busy with their own work, the matter in hand, and the deceit of claiming it as a universal concern.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶397–418
+Citations:

@@ -40,3 +40,10 @@ Phr:
   a whole nest of thoughtless contradictions [Hegel, Phenomenology ¶631, adapting Kant, Critique of Pure Reason B637]
   to shift one's ground
   to move the goalposts
+
+# ---- Hegel ----
+Def: The dissemblance of the moral consciousness, which shifts its ground at every postulate.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶616–631
+Citations:

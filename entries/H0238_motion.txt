@@ -136,3 +136,10 @@ Phr:
   ohne Hast aber ohne Rast [Ger.], [Goethe's motto]
   stand not upon the order of your going but go at once [Macbeth]
   swift, swift, you dragons of the night [Cymbeline]
+
+# ---- Hegel ----
+Def: Place's passing over into another place, and time positing itself spatially: the unity of space and time as a process.
+Texts:
+  The Philosophy of Nature
+    §261
+Citations:

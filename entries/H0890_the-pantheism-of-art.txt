@@ -29,3 +29,10 @@ F:
 Phr:
   God in all things
   a world in a grain of sand
+
+# ---- Hegel ----
+Def: The affirmative sublime, the pantheism of Indian and Persian poetry and of Christian mysticism.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Symbolism of the Sublime › The Pantheism of Art
+Citations:

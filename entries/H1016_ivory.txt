@@ -19,3 +19,10 @@ Adv:
 
 Phr:
   gold and ivory
+
+# ---- Hegel ----
+Def: Elfenbein: with gold, the material of the colossal chryselephantine statues, Phidias' Zeus and Athena.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
+Citations:

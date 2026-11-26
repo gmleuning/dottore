@@ -24,3 +24,10 @@ Adv:
 Phr:
   sound vanishes as it arises
   sound that vanishes as it sounds
+
+# ---- Hegel ----
+Def: Music as the art of the inward, which cancels spatial objectivity and has its element in the vibrating, vanishing tone.
+Texts:
+  Aesthetics
+    Music › General Character of Music
+Citations:

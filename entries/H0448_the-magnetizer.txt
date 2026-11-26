@@ -25,3 +25,10 @@ Adv:
 Phr:
   a Svengali
   to have a hold over
+
+# ---- Hegel ----
+Def: The magnetizer, who stands as the genius of the patient, whose feeling becomes the patient's.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

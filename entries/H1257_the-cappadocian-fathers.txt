@@ -14,3 +14,10 @@ Adj:
 
 F:
   Greek: homoousios, hypostasis, ousia
+
+# ---- Hegel ----
+Def: The Cappadocian Fathers, who fixed the trinitarian dogma of one essence in three hypostases against the Arians.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity › The Church Fathers
+Citations:

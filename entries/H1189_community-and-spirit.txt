@@ -43,3 +43,10 @@ Phr:
   the great world's altarstairs, that slope through darkness up to God [Tennyson]
   the treasury of everlasting joy [Henry VI]
   vigeur de dessus [Fr.]
+
+# ---- Hegel ----
+Def: God as spirit present in the community of believers.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Community, Spirit
+Citations:

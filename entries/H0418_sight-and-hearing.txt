@@ -24,3 +24,10 @@ Phr:
   looking before and after [Hamlet]
   thy rapt soul sitting in thine eyes [Milton]
   full many a flower is born to blush unseen [Gray]
+
+# ---- Hegel ----
+Def: The senses of ideality, sight of physical light and hearing of the body's inner tremor.
+Texts:
+  The Philosophy of Mind
+    §401
+Citations:

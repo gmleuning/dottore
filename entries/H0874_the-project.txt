@@ -15,3 +15,10 @@ Adj:
 
 F:
   German: Aufgehen in der Sache
+
+# ---- Hegel ----
+Def: Begeisterung proper: the artist wholly filled by the matter and absorbed in it, letting no merely subjective particularity in, until the work is complete.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

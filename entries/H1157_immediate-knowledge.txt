@@ -36,3 +36,10 @@ Phr:
   it goes without saying
   it stands to reason
   faith without proof
+
+# ---- Hegel ----
+Def: The immediate certainty of God, faith that is certain without proof.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827) › The Knowledge of God › Immediate Knowledge
+Citations:

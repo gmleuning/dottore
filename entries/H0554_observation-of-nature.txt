@@ -56,3 +56,10 @@ Phr:
   Run it up the flagpole and see who salutes
   aut non tentaris aut perfice [Lat.] [Ovid]
   chi non s'arrischia non guadagna [Fr.]
+
+# ---- Hegel ----
+Def: Observing reason in nature: description, marks, laws, the organic and its expression.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶244–297
+Citations:

@@ -16,3 +16,10 @@ Adj:
 
 Phr:
   long and short
+
+# ---- Hegel ----
+Def: The natural length and brevity of syllables, given by the sounds themselves or by position, on which ancient rhythm rests.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

@@ -23,3 +23,10 @@ Adv:
 Phr:
   the external world
   beyond oneself
+
+# ---- Hegel ----
+Def: The object as external to consciousness and to itself.
+Texts:
+  The Philosophy of Mind
+    §418
+Citations:

@@ -28,3 +28,10 @@ Phr:
   the Sistine Madonna [Raphael]
   Raphael's Madonnas
   the Renaissance masters
+
+# ---- Hegel ----
+Def: Italian painting, which unites religious feeling and beauty of form.
+Texts:
+  Aesthetics
+    Painting › Historical Development of Painting › Italian Painting
+Citations:

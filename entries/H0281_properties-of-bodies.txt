@@ -25,3 +25,10 @@ Phr:
   by their properties ye shall know them
   a body of its own
   telling them apart
+
+# ---- Hegel ----
+Def: The individual body specified in its relation to the elements: to light, to air and water, and to fire as electricity.
+Texts:
+  The Philosophy of Nature
+    §§316–325
+Citations:

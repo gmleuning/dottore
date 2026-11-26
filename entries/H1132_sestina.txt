@@ -10,3 +10,10 @@ N:
 
 F:
   Italian: sestina
+
+# ---- Hegel ----
+Def: Die Sestine: an artful form of the troubadours and Petrarch, in which the same end-words come back in changing order.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

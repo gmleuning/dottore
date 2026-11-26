@@ -35,3 +35,10 @@ Phr:
   saving the phenomena
   to all appearances
   on the surface
+
+# ---- Hegel ----
+Def: Existence as appearance: a world of things having their subsistence in an other, yet with a stable content, the law.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Appearance › Appearance
+Citations:

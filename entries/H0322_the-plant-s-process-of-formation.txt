@@ -31,3 +31,10 @@ Phr:
   everything is leaf [Goethe]
   to grow on
   shoot up
+
+# ---- Hegel ----
+Def: The plant's process of self-formation, its outward going in which each member is a whole plant.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

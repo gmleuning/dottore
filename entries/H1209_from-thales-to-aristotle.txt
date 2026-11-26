@@ -23,3 +23,10 @@ Adv:
 
 Phr:
   all is water [Thales]
+
+# ---- Hegel ----
+Def: Greek philosophy from Thales to Aristotle, from the natural principle to thought thinking itself.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › From Thales to Aristotle
+Citations:

@@ -39,3 +39,10 @@ Phr:
   caveat actor
   verbum sat sapienti [Lat.], a word to the wise is sufficient
   un averti en vaut deux [Fr.]
+
+# ---- Hegel ----
+Def: Public authority's oversight of the contingent harm that free action may do to others, the prevention of wrong and the pursuit of crime (§232-234).
+Texts:
+  The Philosophy of Right
+    §§232–233
+Citations:

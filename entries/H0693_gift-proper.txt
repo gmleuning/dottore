@@ -48,3 +48,10 @@ Phr:
   ex dono [Lat.]
   res est ingeniosa dare [Lat.] [Ovid]
   handsome is that handsome does [Goldsmith]
+
+# ---- Hegel ----
+Def: The giving of a thing outright.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

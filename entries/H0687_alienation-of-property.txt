@@ -45,3 +45,10 @@ Phr:
   entbehre gern was du nicht hast [Ger.]
   Othello's occupation's gone [Othello]
   estate coming into possession
+
+# ---- Hegel ----
+Def: The giving up of my property, possible because the thing is mine only by my will.
+Texts:
+  The Philosophy of Right
+    §§65–70
+Citations:

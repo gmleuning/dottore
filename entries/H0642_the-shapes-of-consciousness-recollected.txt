@@ -32,3 +32,10 @@ F:
 Phr:
   a gallery of images, each endowed with the entire wealth of spirit [Hegel]
   the road travelled
+
+# ---- Hegel ----
+Def: The recollection of all the shapes of consciousness as moments of spirit's self-knowledge.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶789–797
+Citations:

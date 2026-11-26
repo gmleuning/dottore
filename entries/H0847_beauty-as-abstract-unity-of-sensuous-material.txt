@@ -39,3 +39,10 @@ Phr:
   clear as crystal
   clear as day
   veritatis simplex oratio est [Lat.]
+
+# ---- Hegel ----
+Def: The beauty of a pure and simple material, a clear sky, a pure tone or colour, abstract sensuous unity.
+Texts:
+  Aesthetics
+    The Beauty of Nature › The External Beauty of the Abstract Form › Beauty as Abstract Unity of the Sensuous Material
+Citations:

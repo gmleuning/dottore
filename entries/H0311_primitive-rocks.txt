@@ -27,3 +27,10 @@ F:
 Phr:
   solid as granite
   solid as a rock
+
+# ---- Hegel ----
+Def: The primitive rocks as the kernel of the earth's formation, granite with its moments.
+Texts:
+  The Philosophy of Nature
+    §340
+Citations:

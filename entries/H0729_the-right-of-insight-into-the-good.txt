@@ -25,3 +25,10 @@ Phr:
   I will accept nothing I do not see to be good
   see for oneself
   to be convinced
+
+# ---- Hegel ----
+Def: The subjective will's right that what it recognizes as valid be seen by it as good.
+Texts:
+  The Philosophy of Right
+    §132
+Citations:

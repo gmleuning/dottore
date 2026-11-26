@@ -57,6 +57,32 @@ the Hegelian gloss, grounded in the texts, and is the one the page shows. One se
 `python tools/entries.py check` parses every file and reports mistakes; `python tools/entries.py tidy` rewrites them
 all in canonical form.
 
+An entry may end with its Hegel side entry (the panel the page opens beside it): `Def`, one paragraph (a copy of
+`HGloss` until a fuller definition is written); `Texts`, each work's title with its locations indented under it; and
+`Citations`, each quotation with its source on a deeper line starting `— `. The page shows them in that order.
+
+```text
+# ---- Hegel ----
+Def: The unequal recognition of master and servant, in which the servant's fear and labour turn out to be the way to freedom.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶178–196
+Citations:
+```
+
+Skeletons give one location each, from the first of these translations that treats the concept: di Giovanni (*Science of
+Logic*), Pinkard (*Phenomenology*), Inwood, Miller, then Petry. A location is a § or ¶ number where the work has them
+(the *Phenomenology* in Pinkard's numbering, the *Philosophy of Nature* in Miller's); otherwise it is the path of section
+headings, with no page numbers. Begriff is "Concept", never "notion". The locations live in the sheets in
+`work/review/hegel/`:
+
+```bash
+python work/tools/check_hegel.py    # every heading and number must occur in the PDFs in work/Hegel
+python work/tools/apply_hegel.py    # write them into entries/ (side entries with citations or their own Def are left alone)
+```
+
+Once an entry has citations or its own definition, edit it in `entries/`; its sheet line no longer applies.
+
 The system's structure (names, numbering, which entry sits under which) stays in `data/hegel_nodes.csv`.
 
 ## Build

@@ -32,3 +32,10 @@ Phr:
   open for business
   to drive a hard bargain
   das Geschäft des Tausches der vereinzelten Mittel gegeneinander vornehmlich durch das allgemeine Tauschmittel, das Geld [Ger.] [Hegel, Philosophy of Right §204]
+
+# ---- Hegel ----
+Def: The estate of commerce, whose business is the exchange of single means for one another, chiefly through money, the universal medium of exchange (§204).
+Texts:
+  The Philosophy of Right
+    §204
+Citations:

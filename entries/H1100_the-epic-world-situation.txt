@@ -24,3 +24,10 @@ Adv:
 Phr:
   once upon a time
   when gods walked among men
+
+# ---- Hegel ----
+Def: The epic world-situation, the heroic age in which the individual and the community are one.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › Particular Characteristics of Epic Proper › The General World-Situation of Epic
+Citations:

@@ -60,3 +60,10 @@ Phr:
   humani nihil a me alienum puto [Lat.] [Terence]
   omne solum forti patria [Lat.] [Ovid]
   un bien fait n'est jamais perdu [Fr.]
+
+# ---- Hegel ----
+Def: The law of the community, known and public, the law of government and the man.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶447–448
+Citations:

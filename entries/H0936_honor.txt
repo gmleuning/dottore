@@ -58,3 +58,10 @@ Phr:
   on my honour
   a point of honour
   for valor
+
+# ---- Hegel ----
+Def: Honour, the infinite worth of the person in their own eyes.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › Chivalry › Honour
+Citations:

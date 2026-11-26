@@ -9,3 +9,10 @@ N:
 
 Phr:
   the sound must seem an echo to the sense [Pope]
+
+# ---- Hegel ----
+Def: The correspondence of the rhythmic movement with the content and its feeling, in which the verse's tempo and accent express the matter.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

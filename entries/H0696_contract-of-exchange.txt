@@ -29,3 +29,10 @@ F:
 Phr:
   tit for tat
   a fair exchange
+
+# ---- Hegel ----
+Def: The real contract, in which each party gives and receives.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

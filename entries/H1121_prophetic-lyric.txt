@@ -9,3 +9,10 @@ N:
 
 Adj:
   prophetic, vatic
+
+# ---- Hegel ----
+Def: The prophetic lyric of the Hebrew prophets, which laments and warns the people from its relation to God.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

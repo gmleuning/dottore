@@ -25,3 +25,10 @@ Phr:
   beauty in service
   the measure of all parts
   nothing too much
+
+# ---- Hegel ----
+Def: The general character of classical building: purpose determines the form, and beauty lies in the clarity of its fitness.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › General Character of Classical Architecture
+Citations:

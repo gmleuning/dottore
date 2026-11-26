@@ -30,3 +30,10 @@ Phr:
   still waters run deep
   scratch the surface
   under the surface
+
+# ---- Hegel ----
+Def: The sublation of measure into the indifferent substrate that persists through its alterations: essence in becoming.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › The becoming of essence
+Citations:

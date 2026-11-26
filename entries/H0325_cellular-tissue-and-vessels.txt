@@ -23,3 +23,10 @@ F:
 Phr:
   the tissue of
   cell by cell
+
+# ---- Hegel ----
+Def: The plant's abstract inner structure, its cells and the vessels through which its fluids move.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

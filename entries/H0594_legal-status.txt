@@ -28,3 +28,10 @@ F:
 Phr:
   civis Romanus sum [Lat.] [I am a Roman citizen]
   equal before the law
+
+# ---- Hegel ----
+Def: The condition of right in which the ethical substance has broken into atomic persons, equal and empty.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶477–483
+Citations:

@@ -41,3 +41,10 @@ Phr:
   blood is thicker than water
   the family is the cell of society
   the folk
+
+# ---- Hegel ----
+Def: The people and the family as the two ethical powers.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶446–452
+Citations:

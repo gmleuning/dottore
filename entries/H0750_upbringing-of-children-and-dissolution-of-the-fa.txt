@@ -28,3 +28,10 @@ Phr:
   the family dissolves into families
   to fly the nest
   to bring up
+
+# ---- Hegel ----
+Def: The upbringing of children and the natural and ethical dissolution of the family.
+Texts:
+  The Philosophy of Right
+    §§173–180
+Citations:

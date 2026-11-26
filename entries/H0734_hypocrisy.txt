@@ -41,3 +41,10 @@ Phr:
   whited sepulchres [Bible]
   practise what you preach
   conceit in weakest bodies strongest works [Hamlet]
+
+# ---- Hegel ----
+Def: Hypocrisy, the passing off of evil as good for others.
+Texts:
+  The Philosophy of Right
+    §140
+Citations:

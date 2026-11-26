@@ -24,3 +24,10 @@ Phr:
   the backbone of creation
   to have a backbone
   spineless
+
+# ---- Hegel ----
+Def: Animals with the full type: the backbone, the internal skeleton, the head and heart.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

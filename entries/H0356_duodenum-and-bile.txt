@@ -15,3 +15,10 @@ Adj:
 F:
   Latin: bilis, fel
   Greek: cholē
+
+# ---- Hegel ----
+Def: The third moment of the circuit: the duodenum, where the bile, the animal's fire, masters and transforms the food.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

@@ -26,3 +26,10 @@ F:
 Phr:
   actus non facit reum nisi mens sit rea [Lat.] [the act is not guilty unless the mind is guilty]
   weak resolve stunts wisdom, bad faith fails in action, zhi bu qiang zhe zhi bu da, yan bu xin zhe xing bu guo [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: Vorsatz: the deed as the will purposed it, what lay in its knowledge and aim, as distinct from consequences that fall outside it (§118).
+Texts:
+  The Philosophy of Right
+    §118
+Citations:

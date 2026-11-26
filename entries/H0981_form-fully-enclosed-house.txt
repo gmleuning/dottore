@@ -27,3 +27,10 @@ Adv:
 Phr:
   shut off from the world
   a sanctuary within
+
+# ---- Hegel ----
+Def: The house of God fully enclosed, shut off from external nature, a space for inward devotion.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture › Particular Architectural Formations › The Fully Enclosed House as the Fundamental Form
+Citations:

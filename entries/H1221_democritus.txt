@@ -14,3 +14,10 @@ Adj:
 
 Phr:
   by convention sweet, by convention bitter, in reality atoms and void [Democritus]
+
+# ---- Hegel ----
+Def: Democritus, who carries on the atomism of Leucippus, telling what is by convention, sweet and bitter, from what truly is, atoms and void.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Leucippus and Democritus
+Citations:

@@ -24,3 +24,10 @@ Phr:
   inwardly digest [Book of Common Prayer]
   to break down
   to work through
+
+# ---- Hegel ----
+Def: The mediated process of the digestive organs, a fluid process and a fiery one, as of the bile and the pancreas.
+Texts:
+  The Philosophy of Nature
+    §365
+Citations:

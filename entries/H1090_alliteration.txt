@@ -13,3 +13,10 @@ V:
 
 Adj:
   alliterative
+
+# ---- Hegel ----
+Def: Alliteration (Stabreim), the earliest and most abstract echo, the binding of words by their initial sounds.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhyme
+Citations:

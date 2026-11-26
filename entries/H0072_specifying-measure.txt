@@ -31,3 +31,10 @@ Phr:
   the measure of a man
   to take the measure of
   set the standard
+
+# ---- Hegel ----
+Def: Measure as a standard that determines another quantum by itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Specific quantity › Specifying measure
+Citations:

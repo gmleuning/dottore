@@ -36,3 +36,10 @@ Phr:
   the night in which all cows are black [Hegel]
   it is all one
   neither here nor there
+
+# ---- Hegel ----
+Def: The substrate become indifferent to all determinations of quality and quantity, which are now only states of it.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › The becoming of essence › Absolute indifference
+Citations:

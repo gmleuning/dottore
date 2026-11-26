@@ -35,3 +35,10 @@ Phr:
   ou temnetai [Gr.]
   all in one
   at one
+
+# ---- Hegel ----
+Def: The one as simple relation to itself, without any distinction within it.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › The one and the many › The one within
+Citations:

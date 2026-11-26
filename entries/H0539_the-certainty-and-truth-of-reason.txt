@@ -25,3 +25,10 @@ Phr:
   the world is my world
   beyond reasonable doubt
   to be sure
+
+# ---- Hegel ----
+Def: Reason's assurance that its determinations are as much the determinations of things as of its own thought.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶231–239
+Citations:

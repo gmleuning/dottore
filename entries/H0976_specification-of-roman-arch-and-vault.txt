@@ -34,3 +34,10 @@ Phr:
   the keystone of the arch
   the arch never sleeps
   a vault of heaven
+
+# ---- Hegel ----
+Def: The round arch and the vault, Roman forms that make the support self-enclosing.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Different Styles in Classical Architecture › The Roman Construction of Arch and Vault
+Citations:

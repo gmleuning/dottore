@@ -33,3 +33,10 @@ Phr:
   the means, then, whereby an individual gets objective validity and concrete actuality here is the formative process of Culture [Hegel, Phenomenology, tr. Baillie]
   to give up one's old self
   to make something of oneself
+
+# ---- Hegel ----
+Def: The self's formation through the alienation of its natural being, culture as the self's self-sacrifice.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶488–491
+Citations:

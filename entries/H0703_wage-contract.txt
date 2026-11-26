@@ -43,3 +43,10 @@ Phr:
   fideli certa merces [Lat.]
   honor virtutis praemium [Lat.] [Cicero]
   tibi seris tibi metis [Lat.]
+
+# ---- Hegel ----
+Def: The alienation of my productive capacity for a limited time.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

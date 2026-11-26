@@ -63,3 +63,10 @@ Phr:
   le cout en ote le gout [Fr.]
   vel prece vel pretio [Lat.]
   too high a price to pay, not worth it
+
+# ---- Hegel ----
+Def: The exchange of goods for money, the universal value.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

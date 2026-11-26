@@ -25,3 +25,10 @@ Phr:
   profile, pose, and drapery
   the line of the brow
   stance and drapery
+
+# ---- Hegel ----
+Def: The particular features of the ideal form: profile, posture, drapery.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture
+Citations:

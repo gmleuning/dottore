@@ -24,3 +24,10 @@ Phr:
   the right of the subjective will
   on moral grounds
   a matter of principle
+
+# ---- Hegel ----
+Def: The will reflected into itself, which is infinite within itself: subjectivity, which recognizes only what is its own.
+Texts:
+  The Philosophy of Right
+    §§105–141
+Citations:

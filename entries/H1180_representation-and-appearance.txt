@@ -38,3 +38,10 @@ Phr:
   the Son of God
   the Word became flesh
   God appears
+
+# ---- Hegel ----
+Def: God in the element of representation and appearance, the world and the Son.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Representation, Appearance
+Citations:

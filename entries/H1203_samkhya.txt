@@ -28,3 +28,10 @@ F:
 
 Phr:
   the twenty-five principles
+
+# ---- Hegel ----
+Def: The Samkhya, which distinguishes nature and the soul, and seeks release through knowledge.
+Texts:
+  Lectures on the History of Philosophy
+    Oriental Philosophy › Indian Philosophy › The Samkhya Philosophy of Kapila
+Citations:

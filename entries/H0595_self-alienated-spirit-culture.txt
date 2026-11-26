@@ -49,3 +49,10 @@ Phr:
   a l' anglaise [Fr.], a l' americaine [Fr.]
   autre temps autre mauers [Fr.]
   chaque pays a sa guise [Fr.]
+
+# ---- Hegel ----
+Def: Spirit estranged from itself, the world of culture, where the self must give up its natural being to count as anything.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶484–595
+Citations:

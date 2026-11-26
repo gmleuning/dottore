@@ -28,3 +28,10 @@ Phr:
   the myth-making mind
   without knowing it
   half-known
+
+# ---- Hegel ----
+Def: Unconscious symbolism, in which meaning and shape are joined without knowing their difference.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Unconscious Symbolism
+Citations:

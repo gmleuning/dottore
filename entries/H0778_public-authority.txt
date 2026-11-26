@@ -31,3 +31,10 @@ F:
 
 Phr:
   le silence du people est la legon des rois [Fr.]
+
+# ---- Hegel ----
+Def: The public authority that oversees the universal in the contingency of civil society, its welfare and order.
+Texts:
+  The Philosophy of Right
+    §§231–249
+Citations:

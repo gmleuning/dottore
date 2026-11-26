@@ -35,3 +35,10 @@ F:
 Phr:
   an Englishman's home is his castle
   town and gown
+
+# ---- Hegel ----
+Def: The secular building of the Middle Ages: castles, city walls, town halls, fortifications.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture › Different Styles in Romantic Architecture › Secular Architecture in the Middle Ages
+Citations:

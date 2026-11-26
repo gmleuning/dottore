@@ -72,3 +72,10 @@ Phr:
   diamond cut diamond
   a' bis ou a blanc [Fr.]
   fin contre fin [Fr.]
+
+# ---- Hegel ----
+Def: Wrong in which the semblance of right is preserved for the other and the substance of right is violated.
+Texts:
+  The Philosophy of Right
+    §§87–89
+Citations:

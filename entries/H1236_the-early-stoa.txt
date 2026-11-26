@@ -15,3 +15,10 @@ Adj:
 
 Phr:
   live according to nature [Zeno]
+
+# ---- Hegel ----
+Def: The older Stoa of Zeno, Cleanthes and Chrysippus, whose criterion is the grasping representation and whose physics is the rational world-fire.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Stoicism › The Principal Stoics
+Citations:

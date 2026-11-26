@@ -28,3 +28,10 @@ F:
 Phr:
   the gods of Greece [Schiller]
   beauty is truth
+
+# ---- Hegel ----
+Def: The Greek religion of beauty, in which the gods are spiritual individuals in human shape.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › The Religion of the Greeks and the Jews › The Religion of Beauty
+Citations:

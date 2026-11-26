@@ -36,3 +36,10 @@ Phr:
   born, not made
   a natural gift
   born for it
+
+# ---- Hegel ----
+Def: The natural bent of the individual, talent and genius as an inborn gift, which needs cultivation to become actual.
+Texts:
+  The Philosophy of Mind
+    §395
+Citations:

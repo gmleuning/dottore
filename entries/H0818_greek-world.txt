@@ -31,3 +31,10 @@ Phr:
   the Greeks knew that some are free [Hegel]
   we are all Greeks [Shelley]
   the glory that was Greece
+
+# ---- Hegel ----
+Def: The Greek world, where some are free: beautiful ethical life, in which the individual lives the universal as custom without reflection.
+Texts:
+  The Philosophy of History
+    The Greek World
+Citations:

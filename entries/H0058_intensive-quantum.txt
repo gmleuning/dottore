@@ -31,3 +31,10 @@ Phr:
   gradatim [Lat.]
   drop by drop
   by inches
+
+# ---- Hegel ----
+Def: Intensive Größe, Grad: the quantum whose determinateness is simple, a single degree, which has its many outside it in the scale of other degrees.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Extensive and intensive quantum
+Citations:

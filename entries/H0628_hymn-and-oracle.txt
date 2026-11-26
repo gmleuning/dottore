@@ -100,3 +100,10 @@ Phr:
   auspicium melioris aevi [Lat.]
   a prophet is without honor in his own country
   you don't need a weatherman to know which way the wind blows [Bob Dylan]
+
+# ---- Hegel ----
+Def: The hymn, the god's speech in the self, and the oracle, the god's answer.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶710–713
+Citations:

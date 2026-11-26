@@ -56,3 +56,10 @@ Phr:
   to grow old gracefully
   to vanish in the chinks that Time has made [Rogers]
   superfluous lags the veteran on the stage [Johnson]
+
+# ---- Hegel ----
+Def: The unity with the world, gone back into habit, which wanes into the absence of interest and death.
+Texts:
+  The Philosophy of Mind
+    §396
+Citations:

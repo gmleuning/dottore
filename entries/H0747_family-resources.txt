@@ -25,3 +25,10 @@ Phr:
   the family fortune
   the family silver
   to keep it in the family
+
+# ---- Hegel ----
+Def: The family's external existence, its property, a common possession.
+Texts:
+  The Philosophy of Right
+    §§170–172
+Citations:

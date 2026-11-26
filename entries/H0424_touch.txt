@@ -42,3 +42,10 @@ Phr:
   seeing's believing, but feeling's the truth
   to keep in touch
   a soft touch
+
+# ---- Hegel ----
+Def: The sense of solid reality, feeling or touch, which encounters the weight and shape of things.
+Texts:
+  The Philosophy of Mind
+    §401
+Citations:

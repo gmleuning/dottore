@@ -28,3 +28,10 @@ Phr:
   tel quel [Fr.]
   as it stands
   as things are
+
+# ---- Hegel ----
+Def: Determinate being taken simply as it is, prior to the relations of something and other.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Existence as such
+Citations:

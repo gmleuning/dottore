@@ -91,3 +91,10 @@ Phr:
   virtus ariete fortier [Lat.]
   ante tubam trepidat [Lat.], one's courage oozing out
   degeneres animos timor arguit [Lat.] [Virgil]
+
+# ---- Hegel ----
+Def: The military estate, the estate of valour, whose virtue is courage.
+Texts:
+  The Philosophy of Right
+    §§325–328
+Citations:

@@ -29,3 +29,10 @@ Phr:
   the Canon of Polyclitus
   the measure of man
   the perfect body
+
+# ---- Hegel ----
+Def: The ideal human figure as sculpture shapes it.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture
+Citations:

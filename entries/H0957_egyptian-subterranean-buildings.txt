@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   the house of the dead
+
+# ---- Hegel ----
+Def: The Egyptian subterranean buildings, rock-tombs and the labyrinth, dwellings for the dead in which the invisible is first given a house.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture › Transition from Independent to Classical Architecture › Indian and Egyptian Subterranean Buildings
+Citations:

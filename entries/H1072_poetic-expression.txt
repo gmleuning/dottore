@@ -25,3 +25,10 @@ Phr:
   winged words
   the language of the gods
   image rather than prose
+
+# ---- Hegel ----
+Def: The language of poetry, which is image and representation rather than the prose of the understanding.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression
+Citations:

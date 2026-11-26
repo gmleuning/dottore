@@ -36,3 +36,10 @@ Phr:
   pathei mathos [Gr.] [learning through suffering] [Aeschylus]
   to come to one's senses
   aware of
+
+# ---- Hegel ----
+Def: Spirit as appearing, consciousness, the I related to an object that it finds outside it, whose truth it learns to be itself.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶73–808
+Citations:

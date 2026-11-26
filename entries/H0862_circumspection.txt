@@ -19,3 +19,10 @@ Adv:
 Phr:
   es ist thöricht zu glauben, der ächte Künstler wisse nicht was er thut [Ger.] [Hegel, Aesthetics]
   Gedichte wie die homerischen seyen dem Dichter im Schlafe gekommen [Ger.] [Hegel, Aesthetics, as an absurd belief]
+
+# ---- Hegel ----
+Def: The waking Besonnenheit of the understanding: without it, without sorting and distinguishing, the artist cannot master the content, and it is foolish to think the true artist does not know what he does.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

@@ -30,3 +30,10 @@ Phr:
   plus ça change, plus c'est la même chose [Fr.] [Alphonse Karr]
   by its own lights
   littera scripta manet [Lat.]
+
+# ---- Hegel ----
+Def: The measure maintaining itself as a ratio of its two qualitative sides, a being-for-self in measure.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Specific quantity › The being-for-itself in measure
+Citations:

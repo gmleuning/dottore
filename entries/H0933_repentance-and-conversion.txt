@@ -24,3 +24,10 @@ Adj:
 
 Adv:
   penitently, in penance
+
+# ---- Hegel ----
+Def: Die Buße und Bekehrung: the inward conversion of the heart, which achieves in the spirit what martyrdom sought through the body.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Religious Domain of Romantic Art › The Spirit of the Community › Repentance and Conversion
+Citations:

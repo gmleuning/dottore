@@ -39,3 +39,10 @@ Phr:
   as above, so below
   like causes, like effects
   like father, like son
+
+# ---- Hegel ----
+Def: The middle is a singular taken in its essential universality, so that like things are inferred to be alike.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of reflection › The syllogism of analogy
+Citations:

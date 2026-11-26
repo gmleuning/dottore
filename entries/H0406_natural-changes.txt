@@ -24,3 +24,10 @@ Adv:
 Phr:
   all the world's a stage ... one man in his time plays many parts [As You Like It]
   to come of age
+
+# ---- Hegel ----
+Def: The natural changes of the soul as an individual: the course of its ages, the sex-relation, and the alternation of waking and sleep.
+Texts:
+  The Philosophy of Mind
+    §§396–398
+Citations:

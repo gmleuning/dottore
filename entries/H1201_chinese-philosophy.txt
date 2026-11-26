@@ -30,3 +30,10 @@ F:
 Phr:
   the rectification of names, zhengming [Chin.] [Confucius]
   the journey of a thousand li begins with a single step [Laozi]
+
+# ---- Hegel ----
+Def: Chinese thought, the moral precepts of Confucius and the abstract categories of the Yi Jing.
+Texts:
+  Lectures on the History of Philosophy
+    Oriental Philosophy › Chinese Philosophy
+Citations:

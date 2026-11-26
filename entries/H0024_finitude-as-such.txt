@@ -41,3 +41,10 @@ Phr:
   et in Arcadia ego [Lat.]
   all good things must come to an end
   one's days are numbered
+
+# ---- Hegel ----
+Def: The finite as such, whose being consists in having its limit within itself as its own end, so that its hour of birth is the hour of its death.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Finitude
+Citations:

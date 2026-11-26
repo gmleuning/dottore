@@ -37,3 +37,10 @@ Phr:
   like charges repel
   opposite charges attract
   like poles repel, opposite poles attract
+
+# ---- Hegel ----
+Def: Repulsion, through which the one posits the many, and attraction, through which the many are one; each presupposes the other.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › Repulsion and attraction
+Citations:

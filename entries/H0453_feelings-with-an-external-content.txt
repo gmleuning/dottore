@@ -9,3 +9,10 @@ N:
   wonder, surprise, relief, horror, alarm, terror, rage, grief, delight, amusement, sadness, sorrow, mourning, dread, nostalgia, disgust, glee, ecstasy, melancholy, heartbreak, anguish, fright, euphoria, rapture, loathing, unhappiness, apprehension, amazement, enchantment, rejoicing, bereavement, astonishment, consternation, foreboding, trepidation, revulsion, premonition, letdown, mirth, hilarity, longing, yearning, pining, suspense, expectancy, anticipation, consolation, solace, alleviation, disappointment, frustration, annoyance, loneliness, boredom, misery, stress, anxiety, excitement, anger, fear, scare, heartache, exasperation, aggravation, contentment, gratification, fulfillment, fulfilment, dissatisfaction, displeasure, discontent, apathy, angst, nervousness
   panic attack, stage fright, broken heart, mental anguish, high spirits, bright side, cold comfort, world-weariness
   jucundity†, heartquake†, heartsinking†, affrightment†, batophobia†
+
+# ---- Hegel ----
+Def: Feelings whose content comes from outside, from what befalls the self (joy, grief, fear, hope), the self moved by an object or an event.
+Texts:
+  The Philosophy of Mind
+    §407
+Citations:

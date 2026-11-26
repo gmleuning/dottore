@@ -51,3 +51,10 @@ Phr:
   spirit is a bone [Hegel]
   a skeleton in the closet
   bare bones
+
+# ---- Hegel ----
+Def: The bone, sensibility's moment of inertness, a fixed and unprocessual framework.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

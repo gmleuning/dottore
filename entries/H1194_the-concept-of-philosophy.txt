@@ -26,3 +26,10 @@ F:
 Phr:
   a circle of circles [Hegel]
   the circle of circles
+
+# ---- Hegel ----
+Def: The three syllogisms by which philosophy grasps itself, logic, nature and spirit each taking the middle in turn.
+Texts:
+  The Philosophy of Mind
+    §§572–577
+Citations:

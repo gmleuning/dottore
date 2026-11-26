@@ -101,3 +101,10 @@ Phr:
   thereby hangs a tale [As You Like It]
   tacitum vivit sub pectore vulnus [Lat.] [Virgil]
   where there's smoke, there's fire
+
+# ---- Hegel ----
+Def: The first determination of nature: the abstract universality of its self-externality, a mediationless indifference, continuous and without distinction.
+Texts:
+  The Philosophy of Nature
+    §§254–256
+Citations:

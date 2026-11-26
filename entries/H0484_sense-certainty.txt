@@ -30,3 +30,10 @@ Phr:
   the richest kind of knowledge, but in truth the most abstract and poorest [Hegel]
   this, here, now
   seeing is believing
+
+# ---- Hegel ----
+Def: The immediate certainty of a this, here and now, the richest knowledge in appearance and in truth the poorest.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶90–110
+Citations:

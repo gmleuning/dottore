@@ -22,3 +22,10 @@ Phr:
   the heart has its laws
   to follow one's heart
   the heart wants what it wants
+
+# ---- Hegel ----
+Def: Das Gesetz des Herzens: the heart that holds its law immediately within itself and sets out to realize it against a world that oppresses it.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶367–372
+Citations:

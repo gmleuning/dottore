@@ -28,3 +28,10 @@ Adv:
 Phr:
   to conjure up the past
   to call up
+
+# ---- Hegel ----
+Def: The imagination that calls images forth from the pit by its own will.
+Texts:
+  The Philosophy of Mind
+    §455
+Citations:

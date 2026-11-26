@@ -74,3 +74,10 @@ Phr:
   who cares?, what difference does it make?
   There's not a dime's worth of difference between them [George Wallace]
   non haec in faedera [Lat.]
+
+# ---- Hegel ----
+Def: The will reflecting on its drives and deciding among them, free and yet dependent on a given content.
+Texts:
+  The Philosophy of Mind
+    §§476–478
+Citations:

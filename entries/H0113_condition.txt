@@ -43,3 +43,10 @@ Phr:
   if the good lord is willing and the creeks don't rise
   catch- 22
   the great river is not fed by one spring alone, jiang he zhi shui, fei yi shui zhi yuan ye [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: The immediate existence that is presupposed by ground and that the thing requires to be.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Condition
+Citations:

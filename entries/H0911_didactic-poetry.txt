@@ -29,3 +29,10 @@ Phr:
   utile dulci [Lat.] [the useful with the sweet] [Horace]
   to point a moral
   teaching in verse
+
+# ---- Hegel ----
+Def: Didactic poetry, in which the meaning is given in prose and the art is only external ornament.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art › Didactic Poetry
+Citations:

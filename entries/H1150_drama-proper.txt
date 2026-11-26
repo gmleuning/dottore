@@ -29,3 +29,10 @@ Phr:
   Iphigenia in Tauris [Goethe]
   tears and laughter
   the middle kind
+
+# ---- Hegel ----
+Def: Drama proper, which reconciles the tragic and the comic.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama
+Citations:

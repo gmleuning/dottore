@@ -113,3 +113,10 @@ Phr:
   si vis pacem para bellum [Lat.]
   en flute
   nervos belli pecuniam infinitam [Lat.]
+
+# ---- Hegel ----
+Def: War, in which the ideality of the particular is shown, and the ethical health of nations is preserved.
+Texts:
+  The Philosophy of Right
+    §324
+Citations:

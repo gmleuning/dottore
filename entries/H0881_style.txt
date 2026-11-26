@@ -35,3 +35,10 @@ F:
 Phr:
   le style est l'homme même [Fr.] [Buffon]
   the style is the man
+
+# ---- Hegel ----
+Def: Stil, the manner of presentation that follows the conditions of the material and the demands of the art and its kinds, as in the severe, the ideal and the pleasing style.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
+Citations:

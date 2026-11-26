@@ -25,3 +25,10 @@ Phr:
   subject, colour, and craft
   the painter's eye
   brush and palette
+
+# ---- Hegel ----
+Def: The particular characteristics of painting, its content, material and craft.
+Texts:
+  Aesthetics
+    Painting › Particular Characteristics of Painting
+Citations:

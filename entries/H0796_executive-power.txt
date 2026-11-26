@@ -60,3 +60,10 @@ Phr:
   the business of government
   to carry out orders
   the powers that be
+
+# ---- Hegel ----
+Def: The executive, which subsumes the particular under the universal.
+Texts:
+  The Philosophy of Right
+    §§287–297
+Citations:

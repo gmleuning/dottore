@@ -40,3 +40,10 @@ Phr:
   what does not kill me makes me stronger [Nietzsche]
   to grow a thick skin
   inured to
+
+# ---- Hegel ----
+Def: Habit as the blunting of external sensations, so that the soul is indifferent to them; hardening.
+Texts:
+  The Philosophy of Mind
+    §410
+Citations:

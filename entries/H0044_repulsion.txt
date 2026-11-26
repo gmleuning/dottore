@@ -50,3 +50,10 @@ Phr:
   magna civitas magna solitudo [Lat.]
   never less alone than when alone [Rogers]
   O sacred solitude! divine retreat! [Young]
+
+# ---- Hegel ----
+Def: Repulsion: the one's excluding of itself from itself into many ones, which as mutual exclusion proves their sameness (Ausschließen des Eins).
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › Repulsion and attraction › Exclusion of the one
+Citations:

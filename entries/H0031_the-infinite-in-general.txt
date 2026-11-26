@@ -37,3 +37,10 @@ Phr:
   the undiscovered country from whose bourn no traveller returns [Hamlet]
   without end
   the sky's the limit
+
+# ---- Hegel ----
+Def: The infinite in its simple concept: the affirmation that results as the negation of the finite.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Infinity › The infinite in general
+Citations:

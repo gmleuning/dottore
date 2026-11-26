@@ -33,3 +33,10 @@ Phr:
   the thing itself
   a law unto itself
   on its own terms
+
+# ---- Hegel ----
+Def: Measure become a self-subsistent something, which is itself a unity of measures in ratio to others.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Real measure
+Citations:

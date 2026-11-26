@@ -30,3 +30,10 @@ Phr:
   concordia discors [Lat.] [Horace]
   they hold the balance of power
   tug of war
+
+# ---- Hegel ----
+Def: Repulsion and attraction each the presupposition of the other, so that being-for-self passes over into quantity.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › Repulsion and attraction › The connection of repulsion and attraction
+Citations:

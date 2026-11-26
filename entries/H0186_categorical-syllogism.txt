@@ -26,3 +26,10 @@ Phr:
   gold conducts
   as a matter of kind
   true to type
+
+# ---- Hegel ----
+Def: The middle is the genus, the substantial nature of the extremes.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of necessity › The categorical syllogism
+Citations:

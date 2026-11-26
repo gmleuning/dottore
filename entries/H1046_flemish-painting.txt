@@ -18,3 +18,10 @@ Phr:
   the Sunday of life [Hegel on Dutch painting]
   Dutch interiors
   the Ghent altarpiece
+
+# ---- Hegel ----
+Def: Die niederländische Malerei: from the van Eycks' religious painting to the Dutch genre painting of burgher life, the Sunday of life.
+Texts:
+  Aesthetics
+    Painting › Historical Development of Painting › Flemish and German Painting
+Citations:

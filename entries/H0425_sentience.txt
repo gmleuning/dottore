@@ -43,3 +43,10 @@ F:
 Phr:
   the heart of sensibility
   to be touched
+
+# ---- Hegel ----
+Def: The inner sensation, the soul's being determined in itself, which embodies itself in the corporeal.
+Texts:
+  The Philosophy of Mind
+    §402
+Citations:

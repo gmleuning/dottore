@@ -37,3 +37,10 @@ Phr:
   a damsel in distress
   faint heart neer won fair lady
   kisses honeyed by oblivion [G. Eliot]
+
+# ---- Hegel ----
+Def: Love, the self's surrender to another self, the beauty of feeling.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › Chivalry › Love
+Citations:

@@ -26,3 +26,10 @@ F:
 Phr:
   the situation calls for action
   to set the scene
+
+# ---- Hegel ----
+Def: The situation which, by a collision, provokes the action.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Determinacy of the Ideal › Action › The Situation
+Citations:

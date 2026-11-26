@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   aere perennius [Lat.] [more lasting than bronze] [Horace]
+
+# ---- Hegel ----
+Def: Erz, the cast metal the Greeks favoured for its dark warm tone and its fitness for many figures and bold movement.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
+Citations:

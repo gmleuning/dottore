@@ -37,3 +37,10 @@ F:
 Phr:
   beauty is the splendour of truth [attrib. Plato, scholastic]
   the beautiful and the true
+
+# ---- Hegel ----
+Def: The idea's sensuous shining: beauty, the true as it is immediately for sense and imagination.
+Texts:
+  Aesthetics
+    Concept of the Beautiful as Such › The Idea of the Beautiful
+Citations:

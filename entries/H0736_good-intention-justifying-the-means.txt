@@ -36,3 +36,10 @@ Phr:
   the end justifies the means
   the road to hell is paved with good intentions
   for a good cause
+
+# ---- Hegel ----
+Def: The pretence that a good intention justifies an evil means.
+Texts:
+  The Philosophy of Right
+    §140
+Citations:

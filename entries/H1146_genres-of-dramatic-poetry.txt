@@ -32,3 +32,10 @@ Phr:
   tragedy, comedy, and play
   tragedy and comedy
   the sock and buskin
+
+# ---- Hegel ----
+Def: The kinds of drama: tragedy, comedy, and the drama proper.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Genres of Dramatic Poetry
+Citations:

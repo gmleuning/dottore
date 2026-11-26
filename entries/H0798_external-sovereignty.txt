@@ -29,3 +29,10 @@ Phr:
   the first freedom of a people
   independence day
   master in one's own house
+
+# ---- Hegel ----
+Def: The state's individuality in relation to other states, its independence.
+Texts:
+  The Philosophy of Right
+    §§321–329
+Citations:

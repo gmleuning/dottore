@@ -14,3 +14,10 @@ Adj:
 
 Phr:
   the Assyrian came down like the wolf on the fold [Byron]
+
+# ---- Hegel ----
+Def: Die Assyrer, whose empire with Nineveh is among the peoples the Persian empire gathered into one.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Assyrians, Babylonians, Medes, and Persians
+Citations:

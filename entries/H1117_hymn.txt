@@ -13,3 +13,10 @@ V:
 
 Adj:
   hymnic, hymnal, paeanic
+
+# ---- Hegel ----
+Def: The hymn, in which the self, raised to the divine, sings its praise with self-forgetting objectivity.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

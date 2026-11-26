@@ -28,3 +28,10 @@ Phr:
   Die Wahlverwandtschaften [Ger.] [Goethe]
   elective affinities
   to prefer one to another
+
+# ---- Hegel ----
+Def: The neutral bodies entering into new combinations according to the preference of their affinities.
+Texts:
+  The Philosophy of Nature
+    §333
+Citations:

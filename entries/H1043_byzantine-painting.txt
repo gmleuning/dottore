@@ -26,3 +26,10 @@ F:
 Phr:
   the Christ Pantocrator
   fixed by tradition
+
+# ---- Hegel ----
+Def: Byzantine painting, traditional, rigid, without life.
+Texts:
+  Aesthetics
+    Painting › Historical Development of Painting › Byzantine Painting
+Citations:

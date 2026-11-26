@@ -24,3 +24,10 @@ Phr:
   the plant drinks the sun
   to draw nourishment
   to drink in
+
+# ---- Hegel ----
+Def: The plant's process with the elements, its turning outward toward light, air and water.
+Texts:
+  The Philosophy of Nature
+    §347
+Citations:

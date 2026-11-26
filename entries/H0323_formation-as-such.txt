@@ -32,3 +32,10 @@ Adv:
 Phr:
   tall oaks from little acorns grow
   to put forth
+
+# ---- Hegel ----
+Def: The plant's formation as the immediate self-production, a growth that is an endless putting out of new individuals.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

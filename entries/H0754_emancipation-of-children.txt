@@ -35,3 +35,10 @@ Phr:
   to leave the nest
   to come of age
   to leave home
+
+# ---- Hegel ----
+Def: The children's coming of age to free personality, to found new families.
+Texts:
+  The Philosophy of Right
+    §177
+Citations:

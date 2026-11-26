@@ -34,3 +34,10 @@ Phr:
   leave this keen encounter of our wits [Richard III]
   just joking, just kidding
   surely you jest!
+
+# ---- Hegel ----
+Def: Der subjektive Humor: the artist's subjectivity making itself the content, breaking up every objective shape by wit and the play of fancies, as in Jean Paul; Sterne and Hippel show its truer form.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art › Subjective Humour
+Citations:

@@ -33,3 +33,10 @@ Phr:
   the riddle of the Sphinx
   a riddle wrapped in a mystery inside an enigma [Churchill]
   to speak in riddles
+
+# ---- Hegel ----
+Def: The riddle, a meaning concealed in features whose solution is outside them.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Riddle
+Citations:

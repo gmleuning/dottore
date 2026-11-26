@@ -38,3 +38,10 @@ Phr:
   heard melodies are sweet, but those unheard are sweeter [Keats]
   the soul of music
   a tune you can hum
+
+# ---- Hegel ----
+Def: Melody, the free soul of music, which moves within harmony.
+Texts:
+  Aesthetics
+    Music › Particular Characteristics of Music's Means of Expression › Melody
+Citations:

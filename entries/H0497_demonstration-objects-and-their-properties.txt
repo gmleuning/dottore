@@ -28,3 +28,10 @@ Phr:
   see for yourself
   to show one's hand
   to prove the point
+
+# ---- Hegel ----
+Def: Perception's showing of objects and properties to consciousness, by which it finds its contradictions.
+Texts:
+  The Philosophy of Mind
+    §§420–421
+Citations:

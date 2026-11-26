@@ -40,3 +40,10 @@ Phr:
   all men by nature desire to know [Aristotle]
   to come to know
   to find out
+
+# ---- Hegel ----
+Def: The idea that has itself as its object, divided into the theoretical idea of truth and the practical idea of the good.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea of cognition
+Citations:

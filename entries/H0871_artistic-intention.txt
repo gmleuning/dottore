@@ -15,3 +15,10 @@ Adj:
 
 Phr:
   weder jene nur sinnliche Anregung noch der bloße Wille und Entschluß [Ger.] [Hegel, Aesthetics]
+
+# ---- Hegel ----
+Def: Begeisterung cannot be called up by the bare spiritual intention to produce: whoever merely resolves to be inspired in order to make a poem, with no content already alive in him, will make no fine work.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

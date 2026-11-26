@@ -24,3 +24,10 @@ Phr:
   idly busy rolls their world away [Goldsmith]
   The best of men have ever loved repose [Thompson]
   to repair our nature with comforting repose [Henry VIII]
+
+# ---- Hegel ----
+Def: The soul's dividing itself from its natural immediacy: waking, its being-for-self, against sleep, its retreat into undivided substance.
+Texts:
+  The Philosophy of Mind
+    §398
+Citations:

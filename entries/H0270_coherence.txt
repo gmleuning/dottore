@@ -38,3 +38,10 @@ Phr:
   a chain is no stronger than its weakest link
   to hold fast
   to stand firm
+
+# ---- Hegel ----
+Def: The body's coherence with itself against the force of another body, by which it maintains its shape.
+Texts:
+  The Philosophy of Nature
+    §§295–296
+Citations:

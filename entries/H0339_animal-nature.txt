@@ -44,3 +44,10 @@ Phr:
   all animals are equal, but some animals are more equal than others [Orwell]
   man is a political animal [Aristotle]
   a creature of habit
+
+# ---- Hegel ----
+Def: The subject that has a self within itself, the animal: self-movement, voice, animal heat, feeling; it is the self for itself.
+Texts:
+  The Philosophy of Nature
+    §§350–376
+Citations:

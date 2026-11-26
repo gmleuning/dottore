@@ -10,3 +10,10 @@ N:
 
 Phr:
   if oxen and horses had hands, they would draw the gods like oxen and horses [Xenophanes]
+
+# ---- Hegel ----
+Def: Xenophanes, the beginner of the Eleatic school, who denies coming-to-be and makes the One the principle, against the gods made in man's image.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Eleatics
+Citations:

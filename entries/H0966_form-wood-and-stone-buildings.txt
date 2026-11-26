@@ -15,3 +15,10 @@ V:
 
 Adj:
   trabeated
+
+# ---- Hegel ----
+Def: Building in wood and in stone, the stone column keeping the memory of the tree trunk and timber beam.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › Building in Wood and Stone
+Citations:

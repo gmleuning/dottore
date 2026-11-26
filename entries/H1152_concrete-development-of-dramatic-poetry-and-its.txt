@@ -30,3 +30,10 @@ Phr:
   art has said its last word
   from Aeschylus to Schiller
   the course of the stage
+
+# ---- Hegel ----
+Def: The concrete course of dramatic poetry and its genres in history.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › The Concrete Development of Dramatic Poetry and its Genres
+Citations:

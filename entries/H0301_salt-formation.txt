@@ -30,3 +30,10 @@ Phr:
   the salt of the earth [Bible]
   to cancel out
   worth one's salt
+
+# ---- Hegel ----
+Def: The neutralization of acid and base, opposed chemical substances, into a salt.
+Texts:
+  The Philosophy of Nature
+    §332
+Citations:

@@ -32,3 +32,10 @@ F:
 Phr:
   there are plenty more fish in the sea
   a cold fish
+
+# ---- Hegel ----
+Def: Backboned animals of the element of water, cold and gill-breathing, without voice.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

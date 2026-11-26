@@ -31,3 +31,10 @@ Phr:
   I know that I know nothing
   know thyself [Delphic, taken up by Socrates]
   the unexamined life is not worth living
+
+# ---- Hegel ----
+Def: Socrates, whose principle is that the self must find truth by its own thinking; the good as the end.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Socrates
+Citations:

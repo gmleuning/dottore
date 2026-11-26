@@ -34,3 +34,10 @@ Phr:
   the eye with which I see God is the same eye with which God sees me [Eckhart]
   what lies beneath
   the heart of the matter
+
+# ---- Hegel ----
+Def: Essence as the reflection in itself of being: an inward movement that posits its own appearing.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Essence as reflection within
+Citations:

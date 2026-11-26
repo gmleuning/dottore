@@ -27,3 +27,10 @@ Phr:
   there's always someone who says it's fine
   there's always a reason
   to find a loophole
+
+# ---- Hegel ----
+Def: Probabilism, the doctrine that a deed is permissible if any good reason or authority can be found for it.
+Texts:
+  The Philosophy of Right
+    §140
+Citations:

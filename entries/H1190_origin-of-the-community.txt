@@ -32,3 +32,10 @@ F:
 
 Phr:
   they were all filled with the Holy Ghost [Bible]
+
+# ---- Hegel ----
+Def: The origin of the community in the outpouring of the spirit.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Community, Spirit › The Origin of the Community
+Citations:

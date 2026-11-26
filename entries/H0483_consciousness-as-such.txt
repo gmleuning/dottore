@@ -34,3 +34,10 @@ Phr:
   the world as it appears to common sense
   wide awake
   in one's right mind
+
+# ---- Hegel ----
+Def: Consciousness of an immediate object, which in its forms is sense, perception and understanding.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶90–165
+Citations:

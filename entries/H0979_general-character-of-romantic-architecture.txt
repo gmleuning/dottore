@@ -25,3 +25,10 @@ Phr:
   the house of God
   a forest of stone
   aspiring heavenward
+
+# ---- Hegel ----
+Def: The general character of romantic building: a fully enclosed space, rising upward, for an inwardness turned to the beyond.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture › General Character of Romantic Architecture
+Citations:

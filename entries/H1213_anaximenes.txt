@@ -11,3 +11,10 @@ N:
 
 F:
   Greek: pneuma, aēr
+
+# ---- Hegel ----
+Def: Anaximenes, for whom the principle is air, the infinite in sensuous form and soul-like, from which things arise by rarefaction and condensation.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Seven Sages and the Milesians
+Citations:

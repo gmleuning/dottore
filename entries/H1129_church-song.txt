@@ -7,3 +7,10 @@ HGloss: The church song, the congregation's common voice before God.
 N:
   church song; chorale, church hymn, Lutheran chorale, hymn tune, Kirchenlied
   carol, motet
+
+# ---- Hegel ----
+Def: The church song, the congregation's common voice before God.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

@@ -30,3 +30,10 @@ Phr:
   the sky's the limit
   beyond measure
   out of all proportion
+
+# ---- Hegel ----
+Def: The quantum's determination to be beyond itself, the infinite as its own other.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Quantitative infinity › Its concept
+Citations:

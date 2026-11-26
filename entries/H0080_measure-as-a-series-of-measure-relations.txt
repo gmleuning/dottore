@@ -30,3 +30,10 @@ Phr:
   a place for everything and everything in its place
   on a sliding scale
   up and down the scale
+
+# ---- Hegel ----
+Def: A measure determined by its series of ratios to other measures, which form its specific scale.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Real measure › The relation of independent measures › Measure as a series of measure-relations
+Citations:

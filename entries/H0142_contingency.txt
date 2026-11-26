@@ -85,3 +85,10 @@ Phr:
   God does not play dice with the universe [A. Einstein]
   incidit in Scyllam qui vult vitare Charybdim [Lat.]
   nam tua res agitur paries dum proximus ardet [Lat.]
+
+# ---- Hegel ----
+Def: The actual as only possible, which might as well not be: contingency, where possibility and actuality are indifferent to each other.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › Actuality › Contingency
+Citations:

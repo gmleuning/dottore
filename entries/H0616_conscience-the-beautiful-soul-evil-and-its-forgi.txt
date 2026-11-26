@@ -33,3 +33,10 @@ Phr:
   conscience does make cowards of us all [Hamlet]
   to let one's conscience be one's guide
   a clear conscience
+
+# ---- Hegel ----
+Def: Conscience, the beautiful soul, and evil and its forgiveness, in which the moral self comes to reconciliation.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶632–671
+Citations:

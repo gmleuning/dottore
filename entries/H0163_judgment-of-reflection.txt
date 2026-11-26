@@ -29,3 +29,10 @@ Phr:
   one man's meat is another man's poison
   good for what ails you
   for what it's worth
+
+# ---- Hegel ----
+Def: The predicate is an essential universality of relation, by which the subject is related to other things.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of reflection
+Citations:

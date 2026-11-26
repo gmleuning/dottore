@@ -28,3 +28,10 @@ Phr:
   the proof of the pudding is in the eating
   borne out by the facts
   proven fact
+
+# ---- Hegel ----
+Def: Certainty that has found itself confirmed in the object.
+Texts:
+  The Philosophy of Mind
+    §§438–439
+Citations:

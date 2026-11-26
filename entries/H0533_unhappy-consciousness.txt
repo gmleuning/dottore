@@ -52,3 +52,10 @@ Phr:
   our heart is restless until it rests in thee [Augustine]
   torn in two
   a house divided
+
+# ---- Hegel ----
+Def: Consciousness of itself as doubled, the changeable against the unchangeable beyond, which it cannot reach.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶207–230
+Citations:

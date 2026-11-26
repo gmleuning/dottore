@@ -33,3 +33,10 @@ Phr:
   cogito ergo sum [Lat.] [Descartes]
   in one's own mind
   from where I stand
+
+# ---- Hegel ----
+Def: The concept in its own element, as concept, judgment and syllogism: thought's forms as forms of the actual.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Subjectivity
+Citations:

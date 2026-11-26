@@ -44,3 +44,10 @@ Phr:
   trailing clouds of glory do we come [Wordsworth]
   out of the mouths of babes
   child's play
+
+# ---- Hegel ----
+Def: Spirit wrapped up in itself, living in unity with its world in trust, the time of natural harmony and of play.
+Texts:
+  The Philosophy of Mind
+    §396
+Citations:

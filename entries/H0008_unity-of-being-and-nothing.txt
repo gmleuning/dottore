@@ -36,3 +36,10 @@ Phr:
   les extrêmes se touchent [Fr.]
   the same and not the same
   neither one thing nor the other
+
+# ---- Hegel ----
+Def: Being and nothing are the same, and yet absolutely distinct; their unity is not a resting identity but becoming.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being › Becoming › Unity of being and nothing
+Citations:

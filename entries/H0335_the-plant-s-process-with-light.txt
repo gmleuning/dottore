@@ -28,3 +28,10 @@ Phr:
   the sunflower turns to the sun
   to turn toward the light
   a place in the sun
+
+# ---- Hegel ----
+Def: The plant's relation to light, its selfhood outside itself; it turns toward the sun and takes colour and odour.
+Texts:
+  The Philosophy of Nature
+    §347
+Citations:

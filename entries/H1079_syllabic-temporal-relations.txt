@@ -10,3 +10,10 @@ N:
 
 Adj:
   dactylic, iambic, trochaic, spondaic, anapaestic, anapestic†
+
+# ---- Hegel ----
+Def: The syllabic time-relations, the feet, which bind long and short syllables into definite proportions.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

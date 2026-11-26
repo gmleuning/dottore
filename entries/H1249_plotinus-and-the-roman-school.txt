@@ -22,3 +22,10 @@ Adv:
 
 F:
   Greek: diadochoi, scholarchēs
+
+# ---- Hegel ----
+Def: Plotinus, the chief of the Neoplatonists, with Ammonius Saccas before him and Porphyry, who edited the Enneads; the One, Nous and Soul as the concrete idea.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Neoplatonic Philosophy › Ammonius Saccas and Plotinus
+Citations:

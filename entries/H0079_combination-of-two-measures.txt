@@ -39,3 +39,10 @@ Phr:
   one and one make three
   the whole is more than the sum of its parts
   mix and match
+
+# ---- Hegel ----
+Def: Two self-subsistent measures combined into a third, whose measure is not the sum of theirs.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Real measure › The relation of independent measures › Combination of two measures
+Citations:

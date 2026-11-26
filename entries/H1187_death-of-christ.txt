@@ -20,3 +20,10 @@ Adv:
 Phr:
   God himself is dead [Johann Rist's hymn, cited by Hegel]
   it is finished
+
+# ---- Hegel ----
+Def: Der Tod Christi: God himself is dead; the death of the God-man is the highest finitude and at the same time its sublation, the infinite love.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Representation, Appearance › Reconciliation › The Death of Christ and the Transition to Spiritual Presence
+Citations:

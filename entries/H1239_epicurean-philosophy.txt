@@ -24,3 +24,10 @@ Adv:
 F:
   Latin: clinamen, intermundia
   Greek: ataraxia, aponia, lathe biōsas [live hidden], hēdonē, kanōn, prolēpsis, tetrapharmakos, kēpos
+
+# ---- Hegel ----
+Def: The Epicureans, for whom the criterion is sensation.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Epicurean Philosophy
+Citations:

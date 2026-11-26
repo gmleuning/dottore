@@ -17,3 +17,10 @@ Adj:
 
 Phr:
   credo quia absurdum [Lat.] [attrib. Tertullian]
+
+# ---- Hegel ----
+Def: The Apologists, who defended the faith before the pagan world and against the Gnostics, giving it its first doctrinal statement.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity › The Church Fathers
+Citations:

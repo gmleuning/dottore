@@ -10,3 +10,10 @@ V:
 
 Adv:
   in miniature
+
+# ---- Hegel ----
+Def: Gems and glass, sculpture on the smallest scale, cut stones and cameos.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Precious Stones and Glass
+Citations:

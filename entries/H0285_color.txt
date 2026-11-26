@@ -73,3 +73,10 @@ Phr:
   green with envy
   the green grass of Ireland
   the wearing of the green
+
+# ---- Hegel ----
+Def: The union of light and darkness, the darkening of light by a turbid medium, as Goethe taught against Newton.
+Texts:
+  The Philosophy of Nature
+    §320
+Citations:

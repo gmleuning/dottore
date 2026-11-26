@@ -31,3 +31,10 @@ Phr:
   Elective Affinities, Die Wahlverwandtschaften [Ger.] [Goethe]
   chemistry between them
   to hit it off
+
+# ---- Hegel ----
+Def: Objects whose determinateness is their relation to their other, which they strive to complete.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Chemism
+Citations:

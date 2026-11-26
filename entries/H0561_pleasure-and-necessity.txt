@@ -46,3 +46,10 @@ Phr:
   Verweile doch, du bist so schön [Ger.] [Goethe]
   eat, drink and be merry
   to live for pleasure
+
+# ---- Hegel ----
+Def: Self-consciousness that plunges into life to take pleasure and is crushed by abstract necessity.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶360–366
+Citations:

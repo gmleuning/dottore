@@ -28,3 +28,10 @@ Phr:
   la Révolution dévore ses enfants [Fr.] [the revolution devours its children]
   the Reign of Terror
   verdächtig zu sein tritt an die Stelle oder hat die Bedeutung und Wirkung, schuldig zu sein [Ger.] [Hegel, Phenomenology]
+
+# ---- Hegel ----
+Def: Der Schrecken: the fury of destruction, whose sole work is death, the coldest and meanest, in which being suspected takes the place of being guilty.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶589–595
+Citations:

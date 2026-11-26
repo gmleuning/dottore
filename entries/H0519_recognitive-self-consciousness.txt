@@ -36,3 +36,10 @@ Phr:
   to give credit where credit is due
   to stand up and be counted
   use others as a mirror, yi ren wei jing [Chin.] [Tang Taizong]
+
+# ---- Hegel ----
+Def: Self-consciousness that exists only in being recognized by another self-consciousness; a self for a self.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶178–196
+Citations:

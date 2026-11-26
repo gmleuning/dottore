@@ -25,3 +25,10 @@ Phr:
   the hand of the master
   appearance for its own sake
   the reflection of reflection
+
+# ---- Hegel ----
+Def: The principle of treatment in painting: the subjective appearance, given back to the viewer.
+Texts:
+  Aesthetics
+    Painting › General Character of Painting › Principle of the Artistic Treatment
+Citations:

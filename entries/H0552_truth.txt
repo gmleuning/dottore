@@ -47,3 +47,10 @@ Phr:
   the naked truth
   truth will out
   there is no abstract truth, truth is always concrete, abstraktnoy istiny net, istina vsegda konkretna [Rus.] [Lenin]
+
+# ---- Hegel ----
+Def: The concept that is in agreement with its reality.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

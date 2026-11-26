@@ -48,3 +48,10 @@ Phr:
   built like a brick shithouse [Vulg.]
   the human form divine [Blake]
   head and shoulders above
+
+# ---- Hegel ----
+Def: The organism in its complete shape: the three systems as the head and thorax and abdomen, with the limbs.
+Texts:
+  The Philosophy of Nature
+    §355
+Citations:

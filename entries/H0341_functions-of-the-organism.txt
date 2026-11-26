@@ -29,3 +29,10 @@ Phr:
   life is the sum of the functions that resist death [Bichat]
   feeling, moving and feeding
   in working order
+
+# ---- Hegel ----
+Def: The three functions of the organism: sensibility, its universal self-relation; irritability, its being related to another; reproduction, their unity.
+Texts:
+  The Philosophy of Nature
+    §353
+Citations:

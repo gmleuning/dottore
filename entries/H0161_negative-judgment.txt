@@ -40,3 +40,10 @@ Phr:
   omnis determinatio est negatio [Lat.]
   to say no to
   a white horse is not a horse, bai ma fei ma [Chin.] [Gongsun Long]
+
+# ---- Hegel ----
+Def: The singular is not this abstract universal but a particular: the rose is not blue, but of some other colour.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of existence › The negative judgment
+Citations:

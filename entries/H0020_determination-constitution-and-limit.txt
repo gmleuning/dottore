@@ -19,3 +19,10 @@ F:
 
 Phr:
   est modus in rebus, sunt certi denique fines [Lat.] [Horace]
+
+# ---- Hegel ----
+Def: Determination, what something is in itself; constitution, what it is through its relation to other; limit, the non-being of each in the other.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Determination, constitution, and limit
+Citations:

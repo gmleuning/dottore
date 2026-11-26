@@ -25,3 +25,10 @@ Phr:
   the heart's own speech
   I sing myself
   the heart laid bare
+
+# ---- Hegel ----
+Def: Lyric as the self-expression of the subject, which gives voice to the self in a particular situation.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › General Character of Lyric
+Citations:

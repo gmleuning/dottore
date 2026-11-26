@@ -24,3 +24,10 @@ Adv:
 Phr:
   the Pietà
   stone cannot weep enough
+
+# ---- Hegel ----
+Def: Christian sculpture, which cannot fully express the inwardness of the romantic content.
+Texts:
+  Aesthetics
+    Sculpture › Historical Stages in the Development of Sculpture › Christian Sculpture
+Citations:

@@ -44,3 +44,10 @@ Phr:
   cessante ratione legis cessat ipsa lex [Lat.]
   on what grounds?
   the reason why
+
+# ---- Hegel ----
+Def: Contradiction resolved: essence posited as the totality, the unity of identity and difference, from which existence comes forth.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground
+Citations:

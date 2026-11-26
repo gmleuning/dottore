@@ -40,3 +40,10 @@ F:
 Phr:
   das Wissen des göttlichen Geistes von sich durch Vermittlung des endlichen Geistes [Ger.] [Hegel, Lectures on the Philosophy of Religion, of religion]
   the opium of the people [Marx]
+
+# ---- Hegel ----
+Def: Absolute spirit in the form of representation: the truth for everyone, known in feeling, image and devotion.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827)
+Citations:

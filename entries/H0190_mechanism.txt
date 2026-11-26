@@ -33,3 +33,10 @@ Phr:
   the world is a great machine
   the ghost in the machine [Ryle]
   cogs in a machine
+
+# ---- Hegel ----
+Def: The object whose determinations are external to it, so that its combinations are indifferent to it.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Mechanism
+Citations:

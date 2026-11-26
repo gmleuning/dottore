@@ -37,3 +37,10 @@ Phr:
   sapere aude [Lat.] [dare to know] [Horace, Kant]
   écrasez l'infâme [Fr.] [Voltaire]
   enlightenment is man's emergence from his self-incurred immaturity [Kant]
+
+# ---- Hegel ----
+Def: Pure insight become a movement, the Enlightenment, which attacks faith as superstition and is itself what it attacks.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶538–581
+Citations:

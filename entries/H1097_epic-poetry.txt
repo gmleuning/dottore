@@ -33,3 +33,10 @@ Phr:
   die vielen epischen Bibeln [Ger.] [Hegel, Aesthetics, on the epic]
   arms and the man
   sing, goddess
+
+# ---- Hegel ----
+Def: Epic, which presents an action as a world, in the totality of a people's life and ethos; the poetry of an objective whole.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry
+Citations:

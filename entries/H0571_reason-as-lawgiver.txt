@@ -23,3 +23,10 @@ Phr:
   everyone ought to speak the truth [Hegel's example]
   love thy neighbour as thyself [Bible]
   one ought always to tell the truth
+
+# ---- Hegel ----
+Def: Healthy reason that gives laws immediately, such as that everyone ought to speak the truth, which prove contingent.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶419–428
+Citations:

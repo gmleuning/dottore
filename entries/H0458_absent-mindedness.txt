@@ -36,3 +36,10 @@ Phr:
   lost in thought
   away with the fairies
   head in the clouds
+
+# ---- Hegel ----
+Def: The self's withdrawal from its present into a merely subjective self-involvement, oblivious to the objective.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

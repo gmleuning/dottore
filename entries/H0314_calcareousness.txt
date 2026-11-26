@@ -22,3 +22,10 @@ Adv:
 Phr:
   as white as chalk
   chalk and cheese
+
+# ---- Hegel ----
+Def: The calcareous moment, the earth of neutrality, limestone and chalk, which links to the organic.
+Texts:
+  The Philosophy of Nature
+    §340
+Citations:

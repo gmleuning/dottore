@@ -29,3 +29,10 @@ F:
 Phr:
   I feel, therefore I am
   to feel oneself
+
+# ---- Hegel ----
+Def: The feeling totality which distinguishes itself from its particular feelings and finds itself in them as subject.
+Texts:
+  The Philosophy of Mind
+    §§407–408
+Citations:

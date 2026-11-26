@@ -17,3 +17,10 @@ Adj:
 
 Phr:
   the Word was made flesh, and dwelt among us [Bible]
+
+# ---- Hegel ----
+Def: Die Gegenwart Christi: the unity of divine and human nature appearing for immediate certainty as one individual man, whose life and teaching proclaim the kingdom of God.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Representation, Appearance › Reconciliation › The Historical, Sensible Presence of Christ
+Citations:

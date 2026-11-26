@@ -60,3 +60,10 @@ Phr:
   a vieux comptes nouvelles disputes [Fr.]
   quamvis tegatur proditur vultu furor [Lat.] [Seneca]
   vino tortus et ira [Lat.] [Horace]
+
+# ---- Hegel ----
+Def: The individual's natural manner of activity, the way they go about their aims: sanguine, choleric, phlegmatic, melancholic.
+Texts:
+  The Philosophy of Mind
+    §395
+Citations:

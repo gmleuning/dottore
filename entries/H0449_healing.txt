@@ -32,3 +32,10 @@ Phr:
   thy faith hath made thee whole [Bible]
   a miracle cure
   healing hands
+
+# ---- Hegel ----
+Def: The healing that comes from the magnetic state, a return of the soul to its unity through another's power.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

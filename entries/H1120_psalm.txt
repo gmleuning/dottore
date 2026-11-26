@@ -18,3 +18,10 @@ Adj:
 Phr:
   out of the depths have I cried unto thee, O Lord [Bible]
   the Lord is my shepherd [Bible]
+
+# ---- Hegel ----
+Def: Der Psalm: the Hebrew lyric that exalts the Lord's power and glory and cries out of the depths, the soul raised in longing toward God.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

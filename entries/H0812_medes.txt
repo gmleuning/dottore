@@ -11,3 +11,10 @@ N:
 
 Adj:
   Median
+
+# ---- Hegel ----
+Def: Die Meder, the warlike people whose Magi kept the Zend religion, from whom rule passed to the Persians.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Assyrians, Babylonians, Medes, and Persians
+Citations:

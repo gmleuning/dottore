@@ -34,3 +34,10 @@ Phr:
   all the world's a stage [As You Like It]
   at fifteen I set my heart on learning ... at seventy I could follow my heart's desire without transgressing [Confucius]
   the seven ages of man
+
+# ---- Hegel ----
+Def: The natural course of the ages of life, in which the individual passes from immediate unity with the genus to habit and death.
+Texts:
+  The Philosophy of Mind
+    §396
+Citations:

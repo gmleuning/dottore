@@ -20,3 +20,10 @@ F:
 
 Phr:
   in dieser Weise hängt die Kunst und ihre bestimmte Productionsart mit der bestimmten Nationalität der Völker zusammen [Ger.] [Hegel, Aesthetics]
+
+# ---- Hegel ----
+Def: Genius as Naturgabe: a natural gift which Hegel ties to the particular nationality of peoples, so that a people's art and its manner of production go together, as with the improvisers native to Italy.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

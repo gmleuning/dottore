@@ -35,3 +35,10 @@ Phr:
   the artist's touch
   photo safari
   with gun and camera 1
+
+# ---- Hegel ----
+Def: The artist, whose productive activity gives the content its shape.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist
+Citations:

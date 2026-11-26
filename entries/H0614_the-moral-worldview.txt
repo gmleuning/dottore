@@ -29,3 +29,10 @@ Phr:
   duty for duty's sake [F. H. Bradley, on Kant]
   virtue is its own reward
   pie in the sky
+
+# ---- Hegel ----
+Def: The moral worldview, which postulates the harmony of duty and nature in a beyond that is never reached.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶599–615
+Citations:

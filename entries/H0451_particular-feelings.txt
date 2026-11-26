@@ -77,3 +77,10 @@ Phr:
   caeca invidia est [Lat.] [Livy]
   multa petentibus desunt multa [Lat.] [Horace]
   summa petit livor [Lat.] [Ovid]
+
+# ---- Hegel ----
+Def: The particular feelings in which the self finds itself, its self-feeling caught in a particular sensation. Hegel sorts them by their content: feelings of the body, feelings with an outside content, and feelings whose content is a thought.
+Texts:
+  The Philosophy of Mind
+    §407
+Citations:

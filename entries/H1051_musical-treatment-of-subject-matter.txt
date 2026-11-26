@@ -28,3 +28,10 @@ Phr:
   music as the language of feeling
   the feeling without the object
   a mood in sound
+
+# ---- Hegel ----
+Def: The musical treatment of content, which takes it in the form of feeling.
+Texts:
+  Aesthetics
+    Music › General Character of Music › Musical Treatment of the Subject-matter
+Citations:

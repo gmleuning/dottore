@@ -30,3 +30,10 @@ Phr:
   to make it one's own
   mental work
   the work of the mind
+
+# ---- Hegel ----
+Def: The activity of spirit which makes the object its own.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

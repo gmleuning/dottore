@@ -41,3 +41,10 @@ Phr:
   in your dreams
   a pipe dream
   Zhou dreams he is a butterfly, zhuang zhou meng die [Chin.] [Zhuangzi]
+
+# ---- Hegel ----
+Def: The soul in sleep, feeling its whole world without the waking connection of the understanding.
+Texts:
+  The Philosophy of Mind
+    §405
+Citations:

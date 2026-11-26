@@ -43,3 +43,10 @@ Phr:
   a closed shop
   in good standing
   due teste valgono piu che una sola [It.]
+
+# ---- Hegel ----
+Def: The corporation, the second family, ethical root of the state in civil society.
+Texts:
+  The Philosophy of Right
+    §§250–256
+Citations:

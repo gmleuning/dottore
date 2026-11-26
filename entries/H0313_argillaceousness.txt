@@ -24,3 +24,10 @@ Adv:
 Phr:
   we are the clay, and thou our potter [Bible]
   feet of clay
+
+# ---- Hegel ----
+Def: The argillaceous moment, clay and mica, the earth of plasticity.
+Texts:
+  The Philosophy of Nature
+    §340
+Citations:

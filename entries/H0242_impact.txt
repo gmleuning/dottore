@@ -41,3 +41,10 @@ Phr:
   to knock into
   a hit, a very palpable hit [Hamlet]
   for every action there is a reaction, equal in force and opposite in direction [Newton]
+
+# ---- Hegel ----
+Def: Bodies setting themselves in contact by motion, communicating their motion; weight shows itself as momentum.
+Texts:
+  The Philosophy of Nature
+    §§265–266
+Citations:

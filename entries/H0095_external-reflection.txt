@@ -37,3 +37,10 @@ F:
 Phr:
   the onlooker sees most of the game
   the view from nowhere [Nagel]
+
+# ---- Hegel ----
+Def: Reflection that finds the immediate given and goes from it to its essence, external reflection.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Shine › Reflection › External reflection
+Citations:

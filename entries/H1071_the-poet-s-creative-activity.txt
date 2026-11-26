@@ -33,3 +33,10 @@ Phr:
   the poet's eye, in a fine frenzy rolling [A Midsummer Night's Dream]
   the poet's eye in a fine frenzy rolling
   poeta nascitur
+
+# ---- Hegel ----
+Def: The poet's activity, which must have both inspiration and the clarity of the shaping understanding.
+Texts:
+  Aesthetics
+    Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art › The Poet's Creative Activity
+Citations:

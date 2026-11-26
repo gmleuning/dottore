@@ -18,3 +18,10 @@ Adj:
 
 Adv:
   in tempo, in time
+
+# ---- Hegel ----
+Def: Das Zeitmaß: the uniform measure of time, which the self lays on the indeterminate flow of time to find itself again in it.
+Texts:
+  Aesthetics
+    Music › Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm
+Citations:

@@ -40,3 +40,10 @@ Phr:
   to put up as collateral
   bonis avibus [Lat.]
   gone where the woodbine twineth
+
+# ---- Hegel ----
+Def: The contract made complete by a pledge, which secures its performance.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

@@ -25,3 +25,10 @@ Phr:
   es ist in Namen, daß wir denken [Ger.] [Hegel, Encyclopaedia §462 Remark]
   on the tip of one's tongue
   it rings a bell
+
+# ---- Hegel ----
+Def: Memory that has the thing in the name and recognizes the meaning in the name without image or intuition.
+Texts:
+  The Philosophy of Mind
+    §462
+Citations:

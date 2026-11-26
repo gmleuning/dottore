@@ -56,3 +56,10 @@ Phr:
   neither a borrower nor a lender be
   aes alienum debitorem leve gravius inimicum facit [Lat.]
   ingratitude! thou marble-hearted fiend [Lear]
+
+# ---- Hegel ----
+Def: The loan of money at interest.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

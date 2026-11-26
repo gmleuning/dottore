@@ -9,3 +9,10 @@ N:
 
 Adj:
   thematic
+
+# ---- Hegel ----
+Def: The determinate content, taken up by Phantasie, which is the true source of Begeisterung.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

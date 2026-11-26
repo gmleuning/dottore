@@ -38,3 +38,10 @@ F:
 Phr:
   the whole truth and nothing but the truth
   the whole story
+
+# ---- Hegel ----
+Def: Ground in its completeness, a real ground grounded in turn, which leads to the condition.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Determinate ground › Complete ground
+Citations:

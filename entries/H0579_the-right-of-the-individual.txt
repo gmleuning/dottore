@@ -56,3 +56,10 @@ Phr:
   without a grave- unknell'd, uncoffin'd, and unknown [Byron]
   in the dark union of insensate dust [Byron]
   the deep cold shadow of the tomb [Moore]
+
+# ---- Hegel ----
+Def: The family's duty to the dead, which raises the singular individual out of nature into the universal.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶451–452
+Citations:

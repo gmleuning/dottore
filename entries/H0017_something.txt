@@ -39,3 +39,10 @@ Phr:
   aliquid stat pro aliquo [Lat.]
   something is rotten in the state of Denmark [Hamlet]
   a thing in itself
+
+# ---- Hegel ----
+Def: The first negation of the negation: determinate being turned back into itself, the beginning of the subject.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Existence as such › Something
+Citations:

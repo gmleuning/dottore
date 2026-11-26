@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   liberté, égalité, fraternité [Fr.]
+
+# ---- Hegel ----
+Def: Die absolute Freiheit: self-consciousness that knows itself as the universal will, for which the world is simply its will, and which tolerates no particular sphere of work.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶582–588
+Citations:

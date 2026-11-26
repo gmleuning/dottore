@@ -20,3 +20,10 @@ Adj:
 
 Adv:
   minutely, faithfully, to the life, in detail, realistically
+
+# ---- Hegel ----
+Def: Flemish and German painting, with its fidelity to the everyday and its inwardness.
+Texts:
+  Aesthetics
+    Painting › Historical Development of Painting › Flemish and German Painting
+Citations:

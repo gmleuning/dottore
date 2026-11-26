@@ -24,3 +24,10 @@ Phr:
   the god in stone
   carved in stone
   a temple to
+
+# ---- Hegel ----
+Def: The abstract work of art, the statue and temple, hymn and oracle, and the cult.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶705–719
+Citations:

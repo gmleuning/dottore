@@ -33,3 +33,10 @@ Phr:
   let there be light: and there was light [Bible]
   what is man, that thou art mindful of him? [Bible]
   vanity of vanities
+
+# ---- Hegel ----
+Def: The negative sublime of Hebrew poetry, where God's power is praised and the creature is nothing before him.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Symbolism of the Sublime › The Art of the Sublime
+Citations:

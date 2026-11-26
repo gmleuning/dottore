@@ -17,3 +17,10 @@ F:
 
 Phr:
   so ist das Individuum Sohn der bürgerlichen Gesellschaft geworden [Ger.] [Hegel, Philosophy of Right §238]
+
+# ---- Hegel ----
+Def: Civil society tears the individual out of the family and becomes a universal family to them, with claims on them as they have rights against it (§238-239).
+Texts:
+  The Philosophy of Right
+    §§238–245
+Citations:

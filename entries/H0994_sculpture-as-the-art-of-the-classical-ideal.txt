@@ -25,3 +25,10 @@ Phr:
   the classical art par excellence
   noble simplicity and quiet grandeur
   the ideal made flesh
+
+# ---- Hegel ----
+Def: Sculpture as the art which reaches the classical ideal, the adequate unity of spirit and body.
+Texts:
+  Aesthetics
+    Sculpture › The Principle of Sculpture Proper › Sculpture as the Art of the Classical Ideal
+Citations:

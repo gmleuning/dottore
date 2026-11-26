@@ -24,3 +24,10 @@ Adv:
 Phr:
   quidquid recipitur, ad modum recipientis recipitur [Lat.] [Aquinas]
   according to its capacity
+
+# ---- Hegel ----
+Def: Measure that takes up an external quantum and alters it according to its own nature, as a body takes up heat by its specific capacity.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Specific quantity › Specifying measure › Specifying measure
+Citations:

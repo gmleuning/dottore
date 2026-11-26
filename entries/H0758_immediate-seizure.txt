@@ -25,3 +25,10 @@ Phr:
   das unmittelbare Material, das nicht verarbeitet zu werden braucht, ist nur gering [Ger.] [Hegel, Philosophy of Right §196 Zusatz]
   nur etwa das Wasser kann man so trinken, wie man es vorfindet [Ger.] [Hegel, Philosophy of Right §196 Zusatz]
   they toil not, neither do they spin [Bible]
+
+# ---- Hegel ----
+Def: The satisfaction of need by direct seizure of what nature gives; Hegel notes how little such material there is, since even air must be warmed and only water is drunk as found (§196 Zusatz).
+Texts:
+  The Philosophy of Right
+    §196
+Citations:

@@ -25,3 +25,10 @@ Phr:
   world, deed, and whole
   tell it from the beginning
   in medias res
+
+# ---- Hegel ----
+Def: The particular characteristics of the epic.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › Particular Characteristics of Epic Proper
+Citations:

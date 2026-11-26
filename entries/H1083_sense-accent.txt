@@ -9,3 +9,10 @@ N:
 
 Adj:
   emphatic
+
+# ---- Hegel ----
+Def: The sense-accent, which the meaning lays on the significant word and which may agree or contend with the metrical accent.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

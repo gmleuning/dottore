@@ -25,3 +25,10 @@ Adv:
 Phr:
   as the hart panteth after the water brooks [Bible]
   dying of thirst
+
+# ---- Hegel ----
+Def: Thirst, the animal's process with water, the felt lack that turns it toward the element.
+Texts:
+  The Philosophy of Nature
+    §362
+Citations:

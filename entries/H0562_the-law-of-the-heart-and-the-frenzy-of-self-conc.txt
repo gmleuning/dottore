@@ -10,3 +10,10 @@ N:
 
 F:
   German: Schwärmerei [enthusiasm, fanaticism], Eigendünkel
+
+# ---- Hegel ----
+Def: The heart that wants its law to be the world's, and that rages against the world as a perversion of its law.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶367–380
+Citations:

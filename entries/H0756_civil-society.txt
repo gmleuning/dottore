@@ -33,3 +33,10 @@ Phr:
   the invisible hand [Adam Smith]
   every man for himself
   the rat race
+
+# ---- Hegel ----
+Def: The ethical substance lost in its extremes: the concrete person as an end, related to others as means, the system of all-round dependence.
+Texts:
+  The Philosophy of Right
+    §§182–256
+Citations:

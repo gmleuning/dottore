@@ -32,3 +32,10 @@ Phr:
   the moral of the story
   de te fabula narratur [Lat.] [the tale is told of you] [Horace]
   sour grapes
+
+# ---- Hegel ----
+Def: The fable, a natural event used to illustrate a universal moral truth.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Fable
+Citations:

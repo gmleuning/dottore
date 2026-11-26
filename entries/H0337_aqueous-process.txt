@@ -26,3 +26,10 @@ Phr:
   like a tree planted by the rivers of water [Bible]
   to soak up
   drink deep
+
+# ---- Hegel ----
+Def: The plant's process with water, its taking up of moisture through the root.
+Texts:
+  The Philosophy of Nature
+    §347
+Citations:

@@ -28,3 +28,10 @@ Phr:
   a temple in antis
   a ring of columns
   the house of the image
+
+# ---- Hegel ----
+Def: The kinds of temple, distinguished by how the columns surround the cella.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › The Specific Forms of the Temple
+Citations:

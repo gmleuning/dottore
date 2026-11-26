@@ -44,3 +44,10 @@ Phr:
   the map is not the territory [Korzybski]
   to picture to oneself
   to form an idea of
+
+# ---- Hegel ----
+Def: The intuition recollected and made the mind's own: recollection, imagination and memory.
+Texts:
+  The Philosophy of Mind
+    §§451–464
+Citations:

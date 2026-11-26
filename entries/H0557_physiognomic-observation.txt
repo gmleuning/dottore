@@ -30,3 +30,10 @@ Phr:
   there's no art to find the mind's construction in the face [Macbeth]
   don't judge a book by its cover
   the face is the mirror of the soul
+
+# ---- Hegel ----
+Def: The interpretation of the face as the sign of the inner, which can only ever be an opinion.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶309–322
+Citations:

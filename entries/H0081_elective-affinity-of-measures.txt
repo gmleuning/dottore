@@ -39,3 +39,10 @@ Phr:
   like attracts like, similis simili gaudet [Lat.]
   elective affinities
   kindred spirits
+
+# ---- Hegel ----
+Def: The exclusive preference of one measure for another among the series, an affinity that elects its partner.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Real measure › The relation of independent measures › Elective affinity
+Citations:

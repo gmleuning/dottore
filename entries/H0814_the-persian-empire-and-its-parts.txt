@@ -26,3 +26,10 @@ F:
 
 Phr:
   from India to Ethiopia
+
+# ---- Hegel ----
+Def: The Persian empire, which let its peoples keep their own natures: Syria with its trade, Judaea with its one God, Egypt with its riddle.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Persian Empire and its Constituent Parts
+Citations:

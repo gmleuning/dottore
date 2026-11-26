@@ -31,3 +31,10 @@ Phr:
   de gustibus non est disputandum [Lat.]
   to taste and smell
   one's sense of
+
+# ---- Hegel ----
+Def: The body's specific difference in relation to air and water: smell and taste.
+Texts:
+  The Philosophy of Nature
+    §§321–322
+Citations:

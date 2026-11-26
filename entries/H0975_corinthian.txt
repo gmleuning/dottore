@@ -27,3 +27,10 @@ Phr:
   the acanthus capital
   the maidenly order
   leaves of acanthus
+
+# ---- Hegel ----
+Def: The Corinthian, the richest and most ornate, with its acanthus capital.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders
+Citations:

@@ -30,3 +30,10 @@ Phr:
   character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]
   a clash of powers
   true to character
+
+# ---- Hegel ----
+Def: Action proper: the universal ethical powers, the individuals who act, and their character, pathos.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Determinacy of the Ideal › Action › Action
+Citations:

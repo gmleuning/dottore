@@ -28,3 +28,10 @@ F:
 Phr:
   from nature to spirit
   light, pain and riddle
+
+# ---- Hegel ----
+Def: The religions of transition from nature to spirit: light, pain, enigma.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religions of Transition
+Citations:

@@ -69,3 +69,10 @@ Phr:
   ne Jupiter Quidem omnibus placet [Lat.]
   poor in abundance, famished at a feast [Young]
   basta!
+
+# ---- Hegel ----
+Def: The will's indeterminate universality of satisfaction, a contradictory aim that freedom must rise above.
+Texts:
+  The Philosophy of Mind
+    §§479–480
+Citations:

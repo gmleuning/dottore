@@ -46,3 +46,10 @@ Phr:
   der kranke Mann [Ger.]
   desirous still but impotent to rise [Shenstone]
   non sum qualis eram [Lat.]
+
+# ---- Hegel ----
+Def: Force presupposes an existing thing in which it resides and a solicitation from outside to express itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The essential relation › The relation of force and its expression › The conditionedness of force
+Citations:

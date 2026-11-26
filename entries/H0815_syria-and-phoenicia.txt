@@ -14,3 +14,10 @@ V:
 
 Adj:
   Syrian, Phoenician
+
+# ---- Hegel ----
+Def: Syrien und das semitische Vorderasien: Phoenician industry and navigation, the cult of Adonis and its lament for the dead god, under Persian rule.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Persian Empire and its Constituent Parts › Syria and the Semitic Western Asia
+Citations:

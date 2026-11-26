@@ -31,3 +31,10 @@ Phr:
   from the crooked timber of humanity no straight thing was ever made [Kant]
   heart of oak
   knock on wood
+
+# ---- Hegel ----
+Def: The plant's self-relation becoming rigid, wood, the plant's skeleton.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

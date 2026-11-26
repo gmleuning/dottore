@@ -29,3 +29,10 @@ Phr:
   the true is the bacchanalian revel [Hegel]
   the highway of despair
   the substance as subject
+
+# ---- Hegel ----
+Def: The Phenomenology of Spirit, the science of the experience of consciousness, the ladder to the standpoint of science.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶1–808
+Citations:

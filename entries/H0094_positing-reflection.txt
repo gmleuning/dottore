@@ -33,3 +33,10 @@ Phr:
   by pulling oneself up by one's own bootstraps
   to take for granted
   to lay down
+
+# ---- Hegel ----
+Def: Reflection that posits what it presupposes, the immediate as only a returning.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Shine › Reflection › Positing reflection
+Citations:

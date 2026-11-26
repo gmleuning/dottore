@@ -19,3 +19,10 @@ Adj:
 
 Adv:
   by circumstance
+
+# ---- Hegel ----
+Def: Beschaffenheit, the determinateness something has through its being-for-other: its outward make-up, open to influence and alteration.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Determination, constitution, and limit
+Citations:

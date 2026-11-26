@@ -24,3 +24,10 @@ Adv:
 
 Phr:
   the Grecian nose
+
+# ---- Hegel ----
+Def: The Greek profile, brow and nose in one line, the spiritual brow dominating the animal mouth.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture › The Greek Profile
+Citations:

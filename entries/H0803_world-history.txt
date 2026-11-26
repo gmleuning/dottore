@@ -46,3 +46,10 @@ Phr:
   world history is the world's court of judgment, die Weltgeschichte ist das Weltgericht [Ger.] [Schiller, Hegel]
   the history of the world is none other than the progress of the consciousness of freedom [Hegel]
   urbent latericiam invenit marmoream reliquit [Lat.]
+
+# ---- Hegel ----
+Def: The world court, the development of the consciousness of freedom, in which the spirits of peoples rise and pass.
+Texts:
+  The Philosophy of Right
+    §§341–360
+Citations:

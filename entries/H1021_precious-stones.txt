@@ -22,3 +22,10 @@ Adv:
 Phr:
   the art of the gem-cutter
   a world in a stone
+
+# ---- Hegel ----
+Def: Edelsteine: the cut stones and cameos of glyptic art, in which the whole wealth of sculpture is repeated in miniature.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Precious Stones and Glass
+Citations:

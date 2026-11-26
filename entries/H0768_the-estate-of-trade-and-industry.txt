@@ -40,3 +40,10 @@ Phr:
   the bourgeoisie, historically, has played a most revolutionary part [Marx]
   quorum pars magna fui [Lat.] [Virgil]
   faber est quisque fortunae suae [Lat.]
+
+# ---- Hegel ----
+Def: The estate of trade and industry, which lives by its own work and reflection.
+Texts:
+  The Philosophy of Right
+    §204
+Citations:

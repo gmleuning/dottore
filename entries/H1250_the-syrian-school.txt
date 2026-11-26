@@ -11,3 +11,10 @@ N:
 
 Adj:
   Iamblichean
+
+# ---- Hegel ----
+Def: The Syrian school of Iamblichus, in which Neoplatonism turns to theurgy and multiplies the orders of the divine.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Neoplatonic Philosophy › The Alexandrian School
+Citations:

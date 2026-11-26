@@ -32,3 +32,10 @@ Phr:
   the chorus as the ideal spectator [A. W. Schlegel]
   the tragic mask
   a tragic flaw
+
+# ---- Hegel ----
+Def: Tragedy, in which actors wearing masks speak the self of the ethical powers that collide, and destiny reigns.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶733–743
+Citations:

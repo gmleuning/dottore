@@ -26,3 +26,10 @@ Adv:
 Phr:
   all the world's a stage [As You Like It]
   a figure of speech
+
+# ---- Hegel ----
+Def: Die Metapher: an abbreviated comparison, in which image and meaning are not set apart but only the image is given and the meaning is read from it.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Metaphor, Image, Simile › Metaphor
+Citations:

@@ -29,3 +29,10 @@ Phr:
   an unknown quantity
   as much as you like
   no matter how much
+
+# ---- Hegel ----
+Def: Quantity without determinate limit, the sublated being-for-self, as continuous and discrete at once.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantity › Pure quantity
+Citations:

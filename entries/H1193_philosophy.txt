@@ -41,3 +41,10 @@ Phr:
   philosophy is its own time comprehended in thought [Hegel]
   wonder is the beginning of philosophy [Plato]
   the love of wisdom
+
+# ---- Hegel ----
+Def: Absolute spirit in the form of the concept, the thinking cognition of the content of art and religion; the unity of both.
+Texts:
+  The Philosophy of Mind
+    §§572–577
+Citations:

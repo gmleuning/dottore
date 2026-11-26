@@ -31,3 +31,10 @@ F:
 
 Phr:
   the nine Muses
+
+# ---- Hegel ----
+Def: The system of the particular arts, from architecture through sculpture to painting, music and poetry.
+Texts:
+  Aesthetics
+    The System of the Individual Arts
+Citations:

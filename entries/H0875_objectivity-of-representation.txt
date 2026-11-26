@@ -31,3 +31,10 @@ Phr:
   the work speaks for itself
   true to life
   warts and all
+
+# ---- Hegel ----
+Def: The objectivity of representation, the artist's being entirely in the matter.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Objectivity of the Representation
+Citations:

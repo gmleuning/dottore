@@ -11,3 +11,10 @@ N:
 
 Adj:
   epistolary
+
+# ---- Hegel ----
+Def: Die Epistel: the verse letter, a lyric form in which reflection and instruction mingle with personal address.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

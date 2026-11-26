@@ -28,3 +28,10 @@ Phr:
   each after its own kind
   weighed against each other
   tit for tat
+
+# ---- Hegel ----
+Def: Self-subsistent measures related to one another, each maintaining itself through its own measure.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Real measure › The relation of independent measures
+Citations:

@@ -52,3 +52,10 @@ Phr:
   that is why
   hinc illae lachrymae [Lat.] [Horace]
   I myself must mix with action lest I wither by despair [Tennyson]
+
+# ---- Hegel ----
+Def: Substance as originative, a cause that passes over into its effect, in which it has its actuality.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute relation › The relation of causality
+Citations:

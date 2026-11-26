@@ -18,3 +18,10 @@ Adj:
 Phr:
   the riddle of the Sphinx
   a riddle for themselves and for others, the solution of which is only to be found in the Greek World [Hegel, Philosophy of History, tr. Sibree]
+
+# ---- Hegel ----
+Def: Ägypten, the land of the riddle, whose spirit labours toward self-knowledge and whose problem is solved only in Greece.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › Egypt
+Citations:

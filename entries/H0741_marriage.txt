@@ -52,3 +52,10 @@ Phr:
   marriages are made in Heaven [Tennyson]
   render me worthy of this noble wife [Julius Caesar]
   si qua voles apte nubere nube pari [Lat.] [Ovid]
+
+# ---- Hegel ----
+Def: The immediate ethical relation, a free consent of persons to make themselves one person.
+Texts:
+  The Philosophy of Right
+    §§161–169
+Citations:

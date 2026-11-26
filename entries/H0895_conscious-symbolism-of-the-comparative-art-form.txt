@@ -30,3 +30,10 @@ F:
 Phr:
   as it were
   compare and contrast
+
+# ---- Hegel ----
+Def: The conscious symbolism of comparison, in which the separation of meaning and shape is known and their joining is the poet's act.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form
+Citations:

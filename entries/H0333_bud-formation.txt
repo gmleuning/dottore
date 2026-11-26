@@ -27,3 +27,10 @@ Phr:
   nip it in the bud
   the bud disappears in the bursting-forth of the blossom [Hegel]
   nip in the bud
+
+# ---- Hegel ----
+Def: The plant putting forth a new individual, the bud, the plant's self-multiplication.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

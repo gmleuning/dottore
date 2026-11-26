@@ -23,3 +23,10 @@ Adv:
 
 Phr:
   the children of Socrates
+
+# ---- Hegel ----
+Def: The Socratic schools, each taking up one side of Socrates.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Socratic Schools
+Citations:

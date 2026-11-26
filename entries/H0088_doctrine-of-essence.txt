@@ -41,3 +41,10 @@ Phr:
   das Wesen ist das vergangene, aber zeitlos vergangene Sein [Ger.] [Hegel, Science of Logic II, Introduction]
   ex nihilo nihil fit [Lat.]
   to ti ēn einai [Gr.] [Aristotle]
+
+# ---- Hegel ----
+Def: The truth of being: being gone into itself, a reflection in which each determination is only in relation to its other.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence
+Citations:

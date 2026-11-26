@@ -19,3 +19,10 @@ Adj:
 
 Adv:
   by way of a moral
+
+# ---- Hegel ----
+Def: Der Apolog: a parable in which a single case is presented as an example of a general meaning that it does not merely signify but contains.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Parable, Proverb, Apologue › Apologue
+Citations:

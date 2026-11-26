@@ -26,3 +26,10 @@ Phr:
   the self in embryo
   half awake
   not yet oneself
+
+# ---- Hegel ----
+Def: The soul as a self not yet distinguished from its feeling content, a subjectivity that is only formal.
+Texts:
+  The Philosophy of Mind
+    §405
+Citations:

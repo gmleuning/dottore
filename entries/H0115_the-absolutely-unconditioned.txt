@@ -34,3 +34,10 @@ F:
 Phr:
   causa sui [Lat.] [Spinoza]
   I am that I am [Bible]
+
+# ---- Hegel ----
+Def: The totality of conditions and ground, which presupposes nothing further and from which the fact comes forth.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Condition › The absolutely unconditioned
+Citations:

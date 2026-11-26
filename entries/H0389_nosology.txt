@@ -64,3 +64,10 @@ Phr:
   out of the frying pan into the fire
   agrescit medendo [Lat.]
   what a falling off was there! [Hamlet]
+
+# ---- Hegel ----
+Def: Disease as the disproportion of the organism's being and its self, when one system sets itself up apart from the whole. Hegel sorts diseases by where they start: in the elements, in a particular system, or in the mind; fever is the stage where the whole organism takes up the struggle.
+Texts:
+  The Philosophy of Nature
+    §§371–372
+Citations:

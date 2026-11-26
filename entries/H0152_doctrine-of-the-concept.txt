@@ -34,3 +34,10 @@ Phr:
   the concept is the free [Hegel]
   to have a grasp of
   to get the idea
+
+# ---- Hegel ----
+Def: The concept: the free, the self-subsistent power that is its own self-determination; the truth of being and essence.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept
+Citations:

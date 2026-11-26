@@ -31,3 +31,10 @@ F:
   French: appropriation
   German: Zueignung
   Italian: attrazione
+
+# ---- Hegel ----
+Def: The Stoics, for whom the criterion is the thought that grasps, the logos.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Stoicism
+Citations:

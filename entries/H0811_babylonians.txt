@@ -19,3 +19,10 @@ Phr:
   by the rivers of Babylon [Bible]
   the writing on the wall
   by the waters of Babylon
+
+# ---- Hegel ----
+Def: Die Babylonier, with their city on the Euphrates, its temple of Bel and the Chaldean study of the stars, gathered into the Persian empire.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Assyrians, Babylonians, Medes, and Persians
+Citations:

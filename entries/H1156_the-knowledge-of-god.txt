@@ -30,3 +30,10 @@ F:
 
 Phr:
   fides quaerens intellectum [Lat.] [faith seeking understanding] [Anselm]
+
+# ---- Hegel ----
+Def: The ways in which the finite spirit knows God, from feeling to thought.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827) › The Knowledge of God
+Citations:

@@ -14,3 +14,10 @@ Adj:
 F:
   Latin: lien, splen
   Greek: splēn, melancholia
+
+# ---- Hegel ----
+Def: The first moment of the blood's digestive circuit: the spleen and venous blood, a state Hegel calls hypochondriacal and melancholic, the blood turned inward and sluggish.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

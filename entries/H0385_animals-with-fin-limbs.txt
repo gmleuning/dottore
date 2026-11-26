@@ -12,3 +12,10 @@ N:
 Phr:
   a whale of a time
   like a beached whale
+
+# ---- Hegel ----
+Def: Mammals with fin-like limbs, the Cetacea: without hind legs, living in water but rising to breathe air.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

@@ -29,3 +29,10 @@ F:
 Phr:
   the generative power worshipped
   to stand tall
+
+# ---- Hegel ----
+Def: The phallic columns of India, symbols of the generative power of nature.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture › Phallic Columns
+Citations:

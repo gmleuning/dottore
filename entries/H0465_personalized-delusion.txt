@@ -29,3 +29,10 @@ Phr:
   I am the King of Spain
   to think oneself Napoleon
   delusions of grandeur
+
+# ---- Hegel ----
+Def: Madness whose content comes from a particular passion, ambition or pride: those who take themselves to be God, Christ or a king.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

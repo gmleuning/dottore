@@ -62,3 +62,10 @@ Phr:
   the beauty of a lovely woman is like music [G. Eliot]
   varium et mutabile semper femina [Lat.] [Virgil]
   woman is the lesser man [Tennyson]
+
+# ---- Hegel ----
+Def: The natural difference of the sexes which becomes a spiritual difference, and their union in the family.
+Texts:
+  The Philosophy of Mind
+    §397
+Citations:

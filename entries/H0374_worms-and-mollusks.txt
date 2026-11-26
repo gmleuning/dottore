@@ -32,3 +32,10 @@ Phr:
   the worm turns
   to worm one's way
   to come out of one's shell
+
+# ---- Hegel ----
+Def: The lower animals, in which the systems are not yet developed: worms, mollusks, the shelled animals.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

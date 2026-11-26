@@ -27,3 +27,10 @@ Phr:
   the tenant's due
   to rent out
   room to let
+
+# ---- Hegel ----
+Def: The letting of a thing for rent.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

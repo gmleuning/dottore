@@ -25,3 +25,10 @@ Adv:
 
 Phr:
   to bring someone to heel
+
+# ---- Hegel ----
+Def: Zwang, the compulsion by which the victor forces the other self into submission.
+Texts:
+  The Philosophy of Mind
+    §432
+Citations:

@@ -28,3 +28,10 @@ Phr:
   the thing is one and also many
   to put two and two together
   to join the dots
+
+# ---- Hegel ----
+Def: Perception's effort to connect the properties into one thing, an also and a one.
+Texts:
+  The Philosophy of Mind
+    §420
+Citations:

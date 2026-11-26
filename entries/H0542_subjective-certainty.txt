@@ -32,3 +32,10 @@ Phr:
   certainty is not truth
   to know in one's heart
   gut conviction
+
+# ---- Hegel ----
+Def: Certainty within the self, not yet confirmed by its object.
+Texts:
+  The Philosophy of Mind
+    §§438–439
+Citations:

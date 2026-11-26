@@ -33,7 +33,12 @@ Phr:
 
 # ---- Hegel ----
 Def: The mammals are the perfect animals: they have breasts, four articulated limbs and every organ developed. Because they suckle their young from themselves, they come to feel the unity of one individual with another, the genus, which exists in the offspring, though in nature this unity falls back into single individuals. They are classed truly not by marks we pick out but by the animal's own weapons, its teeth, feet and claws, by which it sets itself against its non-organic nature and shows itself a subject for itself. So there are four classes: animals with hands (man and the monkey), animals with claws (beasts of prey, rodents, bats, sloths), animals with fins (the Cetacea) and animals with hoofs (swine, elephants, cattle, horses), which can be tamed to work for man. Further subdivision is left to the contingency of nature, above all to climate.
-Q:
+Texts:
+  The Philosophy of Nature
+    §370 and Addition: The classes of mammals by their weapons, after Lamarck
+    §368 Addition: The classification of animals in general
+    §362 Addition: The skin and its formations
+Citations:
   Mammals have breasts, four articulated extremities, and all their organs are developed. Because they have breasts, they suckle and feed their young from themselves. These animals thus attain to the feeling of the unity of the one individual with the other, to the feeling of the genus, which achieves an existence in the progeny in which the two individuals are precisely the genus, even though, in Nature, this unity of the individual with the genus falls back again into singularity.
     — Encyclopedia §370, Addition (tr. Petry)
   Of all animals, monkeys are the most docile (bildsamsten) and have most affection for their young; the satisfied sexual instinct persists for them in objective form, for they have passed over into an other, and in caring for the needs of their young, they have the higher, disinterested intuition of this unity.
@@ -50,7 +55,3 @@ Q:
     — Encyclopedia §370, Addition (tr. Petry)
   As regards the further subdivisions, these must be left to the chance and contingency proper to Nature, that is, to be determined by external factors. Climate, however, still constitutes the great determining factor. In southern latitudes, the animal kingdom is particularized more according to differences of climate and country than it is in northern latitudes: thus the Asiatic and African elephants are essentially distinct from each other, while in America there are none; lions and tigers, etc., are similarly distinguished.
     — Encyclopedia §370, Addition (tr. Petry)
-Loc:
-  Encyclopedia §370 and Addition: the classes of mammals by their weapons, after Lamarck
-  Encyclopedia §368 Addition: the classification of animals in general
-  Encyclopedia §362 Addition: the skin and its formations

@@ -13,3 +13,10 @@ Adj:
 
 Phr:
   omnis cellula e cellula [Lat.] [Virchow]
+
+# ---- Hegel ----
+Def: The regular cellular tissue, the plant's undifferentiated substance from which its other formations arise.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

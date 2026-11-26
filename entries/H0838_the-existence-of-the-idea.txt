@@ -24,3 +24,10 @@ Adv:
 Phr:
   the idea in the flesh
   made real
+
+# ---- Hegel ----
+Def: The idea in existence, as nature and spirit, its reality in which it shows itself.
+Texts:
+  Aesthetics
+    Concept of the Beautiful as Such › The Idea in Existence
+Citations:

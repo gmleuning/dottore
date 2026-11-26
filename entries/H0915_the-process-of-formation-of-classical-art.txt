@@ -23,3 +23,10 @@ Adv:
 Phr:
   from beast to god
   the old order passes
+
+# ---- Hegel ----
+Def: The process by which classical art arises, from the degradation of animal forms to the victory of the new gods.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Process of Shaping the Classical Art-Form
+Citations:

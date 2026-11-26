@@ -22,3 +22,10 @@ Phr:
   the blood of the martyrs is the seed of the Church [proverbial]
   semen est sanguis Christianorum [Lat.] [Tertullian, Apologeticus 50]
   the noble army of martyrs
+
+# ---- Hegel ----
+Def: Die Martyrien: the endurance of pain and torment for faith, the negation of the natural self carried out in the flesh, which in art can turn to the cruel and merely horrible.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Religious Domain of Romantic Art › The Spirit of the Community › Martyrs
+Citations:

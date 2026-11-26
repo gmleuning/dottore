@@ -31,3 +31,10 @@ Phr:
   spirit at rest in its body
   spirit at rest in the body
   the god in stone
+
+# ---- Hegel ----
+Def: The principle of sculpture: spirit wholly present in a bodily shape, at rest in itself.
+Texts:
+  Aesthetics
+    Sculpture › The Principle of Sculpture Proper
+Citations:

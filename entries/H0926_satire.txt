@@ -40,3 +40,10 @@ Phr:
   castigat ridendo mores [Lat.]
   to hold up to ridicule
   biting satire
+
+# ---- Hegel ----
+Def: Satire, the prose of the disappointed spirit at odds with a corrupt world, the Roman form.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Dissolution of the Classical Form of Art › Satire
+Citations:

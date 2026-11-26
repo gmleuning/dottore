@@ -21,3 +21,10 @@ Phr:
   commit it then to the flames [Hume], relations of ideas and matters of fact [Hume]
   custom is the great guide of human life
   a bundle of perceptions
+
+# ---- Hegel ----
+Def: Hume, whose skepticism showed that experience cannot ground universality and necessity.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › David Hume
+Citations:

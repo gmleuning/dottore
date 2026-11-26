@@ -33,3 +33,10 @@ F:
 Phr:
   intuitions without concepts are blind [Kant]
   by intuition
+
+# ---- Hegel ----
+Def: The mind's immediate knowing of an object it finds: feeling, attention, intuition.
+Texts:
+  The Philosophy of Mind
+    §§446–450
+Citations:

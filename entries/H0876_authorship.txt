@@ -17,3 +17,10 @@ F:
   German: Barock
   Portuguese: barroco
   Dutch: manjer, handeling, wijze van doen
+
+# ---- Hegel ----
+Def: The artist's subjective manner, the objective style, and originality as their identity.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
+Citations:

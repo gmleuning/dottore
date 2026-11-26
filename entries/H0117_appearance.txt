@@ -45,3 +45,10 @@ Phr:
   things are seldom what they seem
   to make an appearance
   editio princeps [Lat.]
+
+# ---- Hegel ----
+Def: Essence that appears, reflected into existence: what exists as appearance has its ground in an other.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Appearance
+Citations:

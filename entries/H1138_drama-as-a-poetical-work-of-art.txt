@@ -26,3 +26,10 @@ Phr:
   the poem as play
   the unity of action
   beginning, middle and end
+
+# ---- Hegel ----
+Def: Drama as a poetic work, governed by the unity of its action.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Drama as a Poetical Work of Art
+Citations:

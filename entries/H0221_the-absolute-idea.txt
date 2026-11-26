@@ -36,3 +36,10 @@ Phr:
   the absolute idea alone is being, imperishable life, self-knowing truth, and is all truth [Hegel]
   the truth is the whole [Hegel]
   the alpha and omega
+
+# ---- Hegel ----
+Def: The idea that knows itself, the concept of the idea as its own object: pure form, which is the method.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The absolute idea
+Citations:

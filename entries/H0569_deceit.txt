@@ -17,3 +17,10 @@ Adj:
 
 Adv:
   in bad faith, disingenuously
+
+# ---- Hegel ----
+Def: Der Betrug: each claims the matter in hand as a universal concern while the others find they are dealing with someone's private affair; all deceive one another and themselves.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶415–418
+Citations:

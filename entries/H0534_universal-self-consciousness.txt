@@ -32,3 +32,10 @@ Phr:
   umuntu ngumuntu ngabantu [Zulu] [a person is a person through other persons]
   one for all and all for one
   to see oneself in others
+
+# ---- Hegel ----
+Def: The affirmative knowledge of self in the other self, in which each is free and knows the other as free.
+Texts:
+  The Philosophy of Mind
+    §§436–437
+Citations:

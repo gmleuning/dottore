@@ -36,3 +36,10 @@ F:
 Phr:
   the way of the world is victorious over virtue [Hegel]
   tilting at windmills [Cervantes]
+
+# ---- Hegel ----
+Def: Virtue that would sacrifice individuality to the good and learns that the way of the world is the good's actuality.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶381–393
+Citations:

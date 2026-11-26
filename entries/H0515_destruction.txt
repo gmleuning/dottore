@@ -32,3 +32,10 @@ Adv:
 Phr:
   I came, I saw, I consumed
   to devour
+
+# ---- Hegel ----
+Def: Vernichtung, desire's negation of the independent object, through which it is certain of itself, yet which reproduces both the object and the desire.
+Texts:
+  The Philosophy of Mind
+    §428
+Citations:

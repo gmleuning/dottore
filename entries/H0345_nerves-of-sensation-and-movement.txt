@@ -28,3 +28,10 @@ Phr:
   the knee-jerk reflex
   a raw nerve
   to touch a nerve
+
+# ---- Hegel ----
+Def: The nerves of sensation and of movement, sensibility as related to the outer world.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

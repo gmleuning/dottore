@@ -28,3 +28,10 @@ Phr:
   the fire burns out
   to break apart again
   to take a new turn
+
+# ---- Hegel ----
+Def: The neutral product separated again into differents; chemism thereby frees the concept and passes into purpose.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Chemism › Transition of chemism
+Citations:

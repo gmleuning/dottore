@@ -24,3 +24,10 @@ Phr:
   more than a machine
   beyond mere mechanism
   to break the mould
+
+# ---- Hegel ----
+Def: Mechanism whose self-determination is law, and which passes beyond indifferent externality into chemism.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Mechanism › Absolute mechanism › Transition of mechanism
+Citations:

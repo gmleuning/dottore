@@ -8,3 +8,10 @@ N:
   Jewish philosophers
   Maimonides [Jewish], the Guide for the Perplexed
   Moses Maimonides, Rambam, Saadia Gaon, Judah Halevi, Ibn Gabirol, Avicebron
+
+# ---- Hegel ----
+Def: Jewish philosophy within Arabic culture, Moses Maimonides above all, whose Guide reconciles the Law with Aristotle and reports the doctrines of the Kalam.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity › Arabic Philosophy
+Citations:

@@ -6,3 +6,10 @@ HGloss: The self finding its own self-identity in the satisfaction of its desire
 
 N:
   satisfaction and identification; satisfaction
+
+# ---- Hegel ----
+Def: The self finding its own self-identity in the satisfaction of its desire, and with it the need of another self.
+Texts:
+  The Philosophy of Mind
+    §§428–429
+Citations:

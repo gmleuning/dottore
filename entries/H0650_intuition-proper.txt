@@ -29,3 +29,10 @@ Phr:
   to see with one's own eyes
   in plain sight
   before one's eyes
+
+# ---- Hegel ----
+Def: The content put outside as an object in space and time and grasped as present.
+Texts:
+  The Philosophy of Mind
+    §§449–450
+Citations:

@@ -27,3 +27,10 @@ F:
 Phr:
   die Religion der Wahrheit und der Freiheit [Ger.] [Hegel, Lectures on the Philosophy of Religion, of the consummate religion]
   God is spirit
+
+# ---- Hegel ----
+Def: The consummate religion, Christianity, in which God is revealed as spirit: Trinity, incarnation, community.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827)
+Citations:

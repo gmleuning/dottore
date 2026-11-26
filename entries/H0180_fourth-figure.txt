@@ -27,3 +27,10 @@ F:
 Phr:
   things equal to the same thing are equal to each other [Euclid]
   Q.E.D
+
+# ---- Hegel ----
+Def: U–U–U: the abstract, relationless syllogism in which the terms are equal and the mediation is equality, as in mathematics.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of existence › The fourth figure
+Citations:

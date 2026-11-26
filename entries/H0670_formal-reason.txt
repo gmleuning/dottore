@@ -50,3 +50,10 @@ Phr:
   exitus acta probat [Lat.]
   the argument falls to the ground, cadit quaestio [Lat.], it does not hold water, suo sibi gladio hunc jugulo [Terence]
   his argument was demolished by new evidence
+
+# ---- Hegel ----
+Def: Thinking as inference, which knows its content as the concept's own determining.
+Texts:
+  The Philosophy of Mind
+    §467
+Citations:

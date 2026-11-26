@@ -33,3 +33,10 @@ Phr:
   music has charms to soothe a savage breast [Congreve]
   music soothes the savage breast
   to be carried away
+
+# ---- Hegel ----
+Def: The power of music, which seizes the self in its simple inwardness.
+Texts:
+  Aesthetics
+    Music › General Character of Music › Effect of Music
+Citations:

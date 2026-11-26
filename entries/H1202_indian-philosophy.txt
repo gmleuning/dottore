@@ -30,3 +30,10 @@ F:
 Phr:
   neti neti [Skt.] [not this, not this] [Brihadaranyaka Upanishad]
   release from rebirth
+
+# ---- Hegel ----
+Def: Indian thought, which seeks the liberation of the soul from the world of change.
+Texts:
+  Lectures on the History of Philosophy
+    Oriental Philosophy › Indian Philosophy
+Citations:

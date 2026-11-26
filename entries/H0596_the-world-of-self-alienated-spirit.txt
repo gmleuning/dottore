@@ -24,3 +24,10 @@ Phr:
   render unto Caesar the things which are Caesar's, and unto God the things that are God's [Bible]
   a world apart
   out of one's element
+
+# ---- Hegel ----
+Def: The world of self-alienated spirit, a world which spirit has made and which confronts it as alien.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶488–537
+Citations:

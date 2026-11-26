@@ -29,3 +29,10 @@ F:
 Phr:
   the world of fashion
   to cultivate oneself
+
+# ---- Hegel ----
+Def: Culture and its realm of actuality, in which the self is what it makes itself through renunciation.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶488–526
+Citations:

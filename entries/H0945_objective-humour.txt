@@ -13,3 +13,10 @@ Adj:
 
 Adv:
   with heartfelt humour
+
+# ---- Hegel ----
+Def: Der objektive Humor: an inward humour of feeling that does not destroy the object but dwells in it intimately, as in Goethe's West-Eastern Divan, the close of romantic art.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art › The End of the Romantic Form of Art
+Citations:

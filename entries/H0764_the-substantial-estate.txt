@@ -34,3 +34,10 @@ Phr:
   the family-based ethical life of the soil
   salt of the earth
   to till the soil
+
+# ---- Hegel ----
+Def: The estate that has its resources in the soil, its substantiality and trust in nature.
+Texts:
+  The Philosophy of Right
+    §203
+Citations:

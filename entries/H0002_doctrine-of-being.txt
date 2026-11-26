@@ -35,3 +35,10 @@ Phr:
   what is, is
   in the nature of things
   the way of all flesh
+
+# ---- Hegel ----
+Def: The sphere of immediacy, where each determination simply is and passes over into another; the concept only in itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Being
+Citations:

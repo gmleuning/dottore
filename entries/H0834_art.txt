@@ -44,3 +44,10 @@ Phr:
   art is the sensuous shining of the idea [Hegel]
   art for art's sake, l'art pour l'art [Fr.]
   life is short, art is long
+
+# ---- Hegel ----
+Def: Absolute spirit in the shape of sensuous intuition: the idea present to sense as beauty, the first and immediate form of spirit's self-knowledge.
+Texts:
+  Aesthetics
+    Introduction
+Citations:

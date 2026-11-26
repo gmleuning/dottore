@@ -29,3 +29,10 @@ Phr:
   one substance, two attributes
   sub specie aeternitatis
   under one aspect
+
+# ---- Hegel ----
+Def: The absolute as it is for reflection, the whole absolute under one determination, as Spinoza's thought and extension.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute › The absolute attribute
+Citations:

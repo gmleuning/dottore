@@ -20,3 +20,10 @@ Adv:
 Phr:
   arma virumque cano [Lat.] [dactylic hexameter]
   the dactylic hexameter
+
+# ---- Hegel ----
+Def: Takt and Versmaß: the regular return of the same time-measure, built from feet into lines and metres.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

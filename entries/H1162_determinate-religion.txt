@@ -37,3 +37,10 @@ Phr:
   the religions of the world
   stages on the way
   you moonshine revelers and shades of night [Merry Wives]
+
+# ---- Hegel ----
+Def: Religion in its particular historical shapes, as the concept of God develops through the peoples.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827)
+Citations:

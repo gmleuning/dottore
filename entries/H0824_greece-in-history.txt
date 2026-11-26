@@ -28,3 +28,10 @@ Phr:
   go tell the Spartans [Simonides]
   molōn labe [Gr.] [come and take them] [Leonidas, attrib.]
   at Marathon
+
+# ---- Hegel ----
+Def: Greece in history: the Persian wars, the rivalry of Athens and Sparta, and the Macedonian empire.
+Texts:
+  The Philosophy of History
+    The Greek World › The Wars with the Persians
+Citations:

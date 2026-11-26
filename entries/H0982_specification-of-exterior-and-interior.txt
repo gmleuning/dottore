@@ -25,3 +25,10 @@ Phr:
   the portal and the nave
   the outside shows the inside
   towers and portals
+
+# ---- Hegel ----
+Def: The relation of interior and exterior, the outside reflecting in its towers and pointed arches the inner striving upward.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture › Particular Architectural Formations › The Form of the Exterior and the Interior
+Citations:

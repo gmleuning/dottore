@@ -36,3 +36,10 @@ F:
 Phr:
   solve et coagula [Lat.]
   to react with
+
+# ---- Hegel ----
+Def: The process in which the total individualities of bodies are negated and reconstituted, as galvanism, fire, neutralization and elective affinity.
+Texts:
+  The Philosophy of Nature
+    §§326–336
+Citations:

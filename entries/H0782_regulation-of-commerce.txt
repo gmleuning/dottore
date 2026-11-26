@@ -21,3 +21,10 @@ Adv:
 F:
   French: laissez faire laissez passer
   German: Kameralwissenschaft, Gewerbefreiheit
+
+# ---- Hegel ----
+Def: The conscious regulation that stands above producers and consumers when their interests collide, and that brings the great branches of industry back to the general interest (§236).
+Texts:
+  The Philosophy of Right
+    §236
+Citations:

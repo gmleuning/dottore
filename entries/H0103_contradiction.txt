@@ -48,3 +48,10 @@ Phr:
   to fly in the face of
   asinus ad lyram [Lat.]
   misfortune is what fortune leans on, fortune is where misfortune hides, huo xi fu suo yi, fu xi huo suo fu [Chin.] [Laozi]
+
+# ---- Hegel ----
+Def: The positive and negative each containing and excluding the other; the root of all movement and life, not an error to be avoided.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The determinations of reflection › Contradiction
+Citations:

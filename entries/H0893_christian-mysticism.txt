@@ -13,3 +13,10 @@ Phr:
   the rose is without why [Angelus Silesius]
   die Ros' ist ohn warum [Ger.] [Angelus Silesius]
   ich weiß, daß ohne mich Gott nicht ein Nu kann leben [Ger.] [Angelus Silesius]
+
+# ---- Hegel ----
+Def: Die christliche Mystik: in Angelus Silesius and Eckhart the identity of God and the soul is expressed with boldness and depth of intuition.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Symbolism of the Sublime › The Pantheism of Art › Christian Mysticism
+Citations:

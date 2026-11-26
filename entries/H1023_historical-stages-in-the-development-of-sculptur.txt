@@ -25,3 +25,10 @@ Phr:
   from the archaic smile to Laocoön
   from Egypt to Rome
   the rise and fall of the ideal
+
+# ---- Hegel ----
+Def: The historical course of sculpture, from Egypt through Greece and Rome to Christian art.
+Texts:
+  Aesthetics
+    Sculpture › Historical Stages in the Development of Sculpture
+Citations:

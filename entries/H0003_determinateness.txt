@@ -37,3 +37,10 @@ Phr:
   a leopard cannot change his spots
   naturam expellas furca, tamen usque recurret [Lat.] [Horace]
   such as it is
+
+# ---- Hegel ----
+Def: Determinateness immediately one with being, so that a thing ceases to be what it is when its quality changes.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Determinateness (Quality)
+Citations:

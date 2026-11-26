@@ -26,3 +26,10 @@ F:
 Phr:
   they that worship him must worship him in spirit and in truth [Bible]
   mind and world as one
+
+# ---- Hegel ----
+Def: Reason which grasps knower and known as one, concept and objectivity.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

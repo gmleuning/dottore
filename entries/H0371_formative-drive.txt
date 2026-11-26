@@ -30,3 +30,10 @@ Phr:
   consider her ways, and be wise [Bible]
   to feather one's nest
   a bird in its nest
+
+# ---- Hegel ----
+Def: The animal's instinctive art, its drive to give an outward form to what it needs: nests, lairs, webs, hives.
+Texts:
+  The Philosophy of Nature
+    §366
+Citations:

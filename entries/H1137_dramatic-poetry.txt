@@ -45,3 +45,10 @@ Phr:
   all the world's a stage
   fere totus mundus exercet histrionem [Lat.] [Petronius Arbiter]
   to wake the soul by tender strokes of art [Pope]
+
+# ---- Hegel ----
+Def: Drama, the unity of epic objectivity and lyric subjectivity: an action that issues from the inner will of the characters.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry
+Citations:

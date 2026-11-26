@@ -33,3 +33,10 @@ F:
 Phr:
   the line of beauty [Hogarth]
   as regular as clockwork
+
+# ---- Hegel ----
+Def: A unity of differences that is no longer mere equality, as the curves of the egg and the ellipse.
+Texts:
+  Aesthetics
+    The Beauty of Nature › The External Beauty of the Abstract Form › Beauty of Abstract Form › Conformity to Law
+Citations:

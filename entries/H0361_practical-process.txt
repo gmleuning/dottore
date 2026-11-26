@@ -24,3 +24,10 @@ Phr:
   the early bird catches the worm
   to go for it
   in want of
+
+# ---- Hegel ----
+Def: The practical relation: need, which the animal satisfies by seizing and consuming its object.
+Texts:
+  The Philosophy of Nature
+    §§359–366
+Citations:

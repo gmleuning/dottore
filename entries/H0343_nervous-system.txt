@@ -40,3 +40,10 @@ Phr:
   the brain secretes thought as the liver secretes bile [Cabanis]
   use your noggin
   to get on one's nerves
+
+# ---- Hegel ----
+Def: The system of sensibility, the nerves and brain, and the bone which is the dead mode of sensibility.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

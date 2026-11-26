@@ -48,3 +48,10 @@ Phr:
   the cap fits
   auxilia humilia firma consensus facit [Lat.] [Syrus]
   discers concordia [Lat.] [Ovid]
+
+# ---- Hegel ----
+Def: The unity of qualitatively different elements that belong together, as of colours and tones.
+Texts:
+  Aesthetics
+    The Beauty of Nature › The External Beauty of the Abstract Form › Beauty of Abstract Form › Harmony
+Citations:

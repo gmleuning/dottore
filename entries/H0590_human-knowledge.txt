@@ -17,3 +17,10 @@ Adj:
 
 Adv:
   by the law of the land
+
+# ---- Hegel ----
+Def: Das menschliche Wissen: the self-conscious knowledge of the human law, manifest in the light of day, which in acting knows only one side of the ethical substance.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶465–467
+Citations:

@@ -23,3 +23,10 @@ Phr:
   the I posits itself [Fichte]
   what sort of philosophy one chooses depends on what sort of person one is [Fichte]
   I = I
+
+# ---- Hegel ----
+Def: Fichte, who made the I the principle and removed the thing in itself.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › Johann Gottlieb Fichte
+Citations:

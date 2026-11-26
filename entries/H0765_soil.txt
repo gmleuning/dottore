@@ -21,3 +21,10 @@ F:
 
 Phr:
   wie für das Prinzip des Familienlebens die Erde, fester Grund und Boden, Bedingung ist [Ger.] [Hegel, Philosophy of Right §247]
+
+# ---- Hegel ----
+Def: The soil, the substantial estate's resource, a gift of nature it trusts; as the earth is the condition of family life, so the sea is that of industry (§247).
+Texts:
+  The Philosophy of Right
+    §203
+Citations:

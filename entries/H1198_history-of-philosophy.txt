@@ -30,3 +30,10 @@ Phr:
   the study of the history of Philosophy is the study of Philosophy itself [Hegel, Lectures on the History of Philosophy, tr. Haldane]
   a gallery of heroes of thought [Hegel]
   the one philosophy in many
+
+# ---- Hegel ----
+Def: The history of philosophy as the development of the one philosophy, each system a stage of the idea.
+Texts:
+  Lectures on the History of Philosophy
+    Introduction
+Citations:

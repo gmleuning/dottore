@@ -24,3 +24,10 @@ Adv:
 Phr:
   what is in it
   what it is made of
+
+# ---- Hegel ----
+Def: The content that sense ascribes to its thing.
+Texts:
+  The Philosophy of Mind
+    §418
+Citations:

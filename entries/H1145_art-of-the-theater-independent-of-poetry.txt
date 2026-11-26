@@ -43,3 +43,10 @@ Phr:
   commedia dell'arte [It.]
   spectacle and song
   the total work of art
+
+# ---- Hegel ----
+Def: The art of the theatre independent of poetry: spectacle, opera, ballet.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The External Execution of a Dramatic Work of Art › The Art of the Theatre more Independently of Poetry
+Citations:

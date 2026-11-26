@@ -42,3 +42,10 @@ Phr:
   credo ut intelligam [Lat.] [I believe in order to understand] [Anselm]
   faith and reason
   seeing is believing
+
+# ---- Hegel ----
+Def: The two forms of pure consciousness that escape the world of culture: faith in a beyond and the pure insight that negates it.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶527–537
+Citations:

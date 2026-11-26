@@ -13,3 +13,10 @@ V:
 
 Adj:
   assonant
+
+# ---- Hegel ----
+Def: Assonance, the echo of vowels, especially in Spanish verse, between alliteration and full rhyme.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhyme
+Citations:

@@ -44,3 +44,10 @@ Phr:
   touch and go
   no sooner said than done
   the present hour alone is man's [Johnson]
+
+# ---- Hegel ----
+Def: The now, which is only as the vanishing of its being into nothing; the present excludes past and future, yet contains them.
+Texts:
+  The Philosophy of Nature
+    §259
+Citations:

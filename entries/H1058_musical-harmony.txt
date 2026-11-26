@@ -34,3 +34,10 @@ Phr:
   the music of the spheres
   the harmony of the spheres
   consonance and dissonance
+
+# ---- Hegel ----
+Def: Harmony, the tones in their essential relation according to law.
+Texts:
+  Aesthetics
+    Music › Particular Characteristics of Music's Means of Expression › Harmony
+Citations:

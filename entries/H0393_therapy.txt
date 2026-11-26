@@ -63,3 +63,10 @@ Phr:
   est modue in rebus
   pour oil on troubled waters
   nolumus leges Angliae mutari [Lat.]
+
+# ---- Hegel ----
+Def: The remedy as an external stimulus that the organism must assimilate, provoking its return to universal activity.
+Texts:
+  The Philosophy of Nature
+    §§373–374
+Citations:

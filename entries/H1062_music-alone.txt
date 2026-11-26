@@ -31,3 +31,10 @@ F:
 
 Phr:
   songs without words, Lieder ohne Worte [Ger.] [Mendelssohn]
+
+# ---- Hegel ----
+Def: Music freed from a text, which lives in its own harmonic and melodic development, the province of the connoisseur.
+Texts:
+  Aesthetics
+    Music › Relation between Music's Means of Expression and their Content › Independent Music
+Citations:

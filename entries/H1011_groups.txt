@@ -24,3 +24,10 @@ Adv:
 Phr:
   Laocoön and his sons
   figures in action
+
+# ---- Hegel ----
+Def: The group, figures brought together in an action and a situation.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Modes of Portrayal › Groups
+Citations:

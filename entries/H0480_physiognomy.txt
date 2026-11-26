@@ -44,3 +44,10 @@ Phr:
   the face that launch'd a thousand ships [Marlowe]
   written all over one's face
   a poker face
+
+# ---- Hegel ----
+Def: The face as the expression of the soul, the spirit visible in its features.
+Texts:
+  The Philosophy of Mind
+    §411
+Citations:

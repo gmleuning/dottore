@@ -44,3 +44,10 @@ Phr:
   the I think must be able to accompany all my representations [Kant]
   I am I
   me, myself and I
+
+# ---- Hegel ----
+Def: The soul that has excluded its corporeality from itself as its other: the I, consciousness, which is the leap from soul to spirit.
+Texts:
+  The Philosophy of Mind
+    §412
+Citations:

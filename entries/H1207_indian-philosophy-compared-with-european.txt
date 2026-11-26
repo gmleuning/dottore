@@ -24,3 +24,10 @@ Adv:
 Phr:
   East is East and West is West [Kipling]
   substance and subject
+
+# ---- Hegel ----
+Def: Indian thought compared with European, as substance with the free subject.
+Texts:
+  Lectures on the History of Philosophy
+    Oriental Philosophy › Indian Philosophy › Summary of Indian Philosophy and Comparison with European Philosophy
+Citations:

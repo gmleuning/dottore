@@ -26,3 +26,10 @@ F:
 Phr:
   pari passu [Lat.]
   the more, the more
+
+# ---- Hegel ----
+Def: Ratio in which the exponent is a fixed quotient of two quanta that vary together.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Ratio or the quantitative relation › The direct ratio
+Citations:

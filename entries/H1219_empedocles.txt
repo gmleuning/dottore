@@ -11,3 +11,10 @@ N:
 
 Adj:
   Empedoclean
+
+# ---- Hegel ----
+Def: Empedocles, who joins the elements by love and parts them by strife, a synthesis still without the concept.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Empedocles
+Citations:

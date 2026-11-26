@@ -28,3 +28,10 @@ Phr:
   neither a borrower nor a lender be [Hamlet]
   for one
   in another's eyes
+
+# ---- Hegel ----
+Def: Determinate being preserved in being-for-self only as an ideal moment: being-for-other become being-for-one.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › Being-for-itself as such › Existence and being-for-itself
+Citations:

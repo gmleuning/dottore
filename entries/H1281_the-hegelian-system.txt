@@ -25,3 +25,10 @@ Phr:
   what is rational is actual, and what is actual is rational [Hegel]
   the true is the whole [Hegel]
   the rational is actual
+
+# ---- Hegel ----
+Def: The system that grasps the absolute as spirit, in which the history of philosophy is completed.
+Texts:
+  The Encyclopaedia Logic
+    §§14–18
+Citations:

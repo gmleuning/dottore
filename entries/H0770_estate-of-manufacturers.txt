@@ -22,3 +22,10 @@ F:
 
 Phr:
   abstraktere Gesamtmasse der Arbeit für einzelne Bedürfnisse, aber eines allgemeineren Bedarfs [Ger.] [Hegel, Philosophy of Right §204]
+
+# ---- Hegel ----
+Def: The estate of manufacturers, which works as a more abstract mass of labour for single needs but for a more general demand (§204).
+Texts:
+  The Philosophy of Right
+    §204
+Citations:

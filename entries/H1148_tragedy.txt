@@ -30,3 +30,10 @@ F:
 Phr:
   the collision of two rights [Hegel on Antigone]
   the rest is silence [Hamlet]
+
+# ---- Hegel ----
+Def: Tragedy, the collision of ethical powers each justified but one-sided, resolved through the downfall of those who embody them.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama
+Citations:

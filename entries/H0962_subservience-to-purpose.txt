@@ -30,3 +30,10 @@ Phr:
   architecture as servant
   in the service of another
   a shelter for the god
+
+# ---- Hegel ----
+Def: The building's subordination to an end not its own, the image of the god it shelters.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › General Character of Classical Architecture › Subservience to a Specific End
+Citations:

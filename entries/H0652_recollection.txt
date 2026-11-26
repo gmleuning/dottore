@@ -38,3 +38,10 @@ Phr:
   Erinnerung as Er-innerung [Ger.] [making inward]
   to call to mind
   memory lane
+
+# ---- Hegel ----
+Def: The intuition made inward as an image, preserved without the presence of the object.
+Texts:
+  The Philosophy of Mind
+    §§452–454
+Citations:

@@ -26,3 +26,10 @@ Adv:
 
 F:
   German: Wachen
+
+# ---- Hegel ----
+Def: Waking, the soul's being-for-self against its sleep: it divides itself from its natural immediacy and finds the world as an objective whole.
+Texts:
+  The Philosophy of Mind
+    §398
+Citations:

@@ -45,3 +45,10 @@ Phr:
   into thin air [Tempest]
   out of thin air
   up in the air
+
+# ---- Hegel ----
+Def: The element of undifferentiated simplicity, a universality that is passive yet devours everything individual.
+Texts:
+  The Philosophy of Nature
+    §282
+Citations:

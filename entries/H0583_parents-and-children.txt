@@ -24,3 +24,10 @@ F:
 Phr:
   honour thy father and thy mother [Bible]
   the child is father of the man [Wordsworth]
+
+# ---- Hegel ----
+Def: Eltern und Kinder: the parents' piety, moved by seeing their own actuality in another that grows as they fade, and the children's, who owe their being to a source that vanishes.
+Texts:
+  The Phenomenology of Spirit
+    ¶456
+Citations:

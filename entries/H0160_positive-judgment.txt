@@ -43,3 +43,10 @@ Phr:
   you bet your sweet ass it is
   what are we waiting for? whenever you're ready
   anytime you're ready
+
+# ---- Hegel ----
+Def: The singular is a universal: the rose is red; the subject is not wholly its predicate, so the judgment is untrue.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of existence › The positive judgment
+Citations:

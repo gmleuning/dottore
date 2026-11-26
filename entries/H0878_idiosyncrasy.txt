@@ -16,3 +16,10 @@ Adj:
 
 Adv:
   in his own manner
+
+# ---- Hegel ----
+Def: Manier as the artist's contingent peculiarity (zufällige Eigentümlichkeit), concerning not the general nature of the subject but only the particular artist.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
+Citations:

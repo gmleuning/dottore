@@ -31,3 +31,10 @@ F:
 Phr:
   the East knew only that one is free [Hegel]
   light rises in the East
+
+# ---- Hegel ----
+Def: The Oriental world, where one is free; the substance and the despot.
+Texts:
+  The Philosophy of History
+    The Oriental World
+Citations:

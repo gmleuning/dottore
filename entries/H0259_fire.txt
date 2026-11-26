@@ -51,3 +51,10 @@ Phr:
   fire and faggot
   to play with fire
   where there's smoke there's fire
+
+# ---- Hegel ----
+Def: Air posited as unrest, the materialized time, a consuming of another that is also its own consuming.
+Texts:
+  The Philosophy of Nature
+    §283
+Citations:

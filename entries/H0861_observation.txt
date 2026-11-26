@@ -15,3 +15,10 @@ Adj:
 
 Adv:
   observantly, from life
+
+# ---- Hegel ----
+Def: The first side of Phantasie: the gift and sense for grasping actuality, which sees much, attends closely and holds the many images of the world in a retentive memory.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

@@ -10,3 +10,10 @@ N:
 
 Adv:
   by lung and liver
+
+# ---- Hegel ----
+Def: The lungs and liver, the blood's process with air and the inward digestive fire.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

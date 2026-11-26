@@ -47,3 +47,10 @@ Phr:
   body and soul
   bare one's soul
   am I not a man and a brother? [Wedgwood]
+
+# ---- Hegel ----
+Def: Spirit still immersed in nature, the soul, the sleep of spirit, which is the immaterial substance of the body and its sentient self.
+Texts:
+  The Philosophy of Mind
+    §§388–412
+Citations:

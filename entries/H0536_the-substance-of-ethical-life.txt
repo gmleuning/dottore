@@ -34,3 +34,10 @@ Phr:
   dulce et decorum est pro patria mori [Lat.] [Horace]
   hearth and home
   for king and country
+
+# ---- Hegel ----
+Def: The ethical substance in which universal self-consciousness is actual: family, fatherland, state.
+Texts:
+  The Philosophy of Mind
+    §436
+Citations:

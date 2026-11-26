@@ -47,3 +47,10 @@ Phr:
   desire is the very essence of man [Spinoza]
   hungry for
   to have one's heart set on
+
+# ---- Hegel ----
+Def: Self-consciousness as desire, which certain of itself negates its object and so proves the object's nothingness.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶166–177
+Citations:

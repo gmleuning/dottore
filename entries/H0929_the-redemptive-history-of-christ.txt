@@ -28,3 +28,10 @@ Phr:
   ecce homo [Lat.] [Bible]
   consummatum est [Lat.] [it is finished] [Bible]
   the passion of Christ
+
+# ---- Hegel ----
+Def: The history of redemption, Christ's life, passion, death and resurrection, the human appearance of the absolute.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Religious Domain of Romantic Art › The Redemptive History of Christ
+Citations:

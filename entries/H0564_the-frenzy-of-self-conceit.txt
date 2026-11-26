@@ -27,3 +27,10 @@ Phr:
   the time is out of joint [Hamlet]
   das Herzklopfen für das Wohl der Menschheit geht in das Toben des verrückten Eigendünkels über [Ger.] [Hegel, Phenomenology]
   defeat is not as dangerous as the fear of admitting it, ne tak opasno porazhenie, kak opasna boyazn' priznat' svoyo porazhenie [Rus.] [Lenin]
+
+# ---- Hegel ----
+Def: Der Wahnsinn des Eigendünkels: the heart, seeing its law turned into a universal order alien to it, declares that order a perversion devised by fanatical priests and despots.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶373–380
+Citations:

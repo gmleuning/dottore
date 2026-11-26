@@ -24,3 +24,10 @@ F:
 Phr:
   gold is a metal
   in the nature of things
+
+# ---- Hegel ----
+Def: The judgment in which the universal is the subject's substantial nature, its genus.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of necessity
+Citations:

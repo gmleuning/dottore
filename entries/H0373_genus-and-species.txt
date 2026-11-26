@@ -44,3 +44,10 @@ Phr:
   two of every sort shalt thou bring into the ark [Bible]
   of every kind
   birds of a feather
+
+# ---- Hegel ----
+Def: The universal of the genus dividing into species according to the animal type, which is fully developed only in the mammal.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

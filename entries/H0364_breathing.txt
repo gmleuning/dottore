@@ -23,3 +23,10 @@ Adv:
 Phr:
   to catch one's breath
   der Atmungsprozeß ist die als unterbrochen sich darstellende Kontinuität [Ger.] [Hegel, Encyclopedia §357 Zusatz]
+
+# ---- Hegel ----
+Def: The process with air, breathing, continuity presenting itself as interrupted, an evaporation of the blood.
+Texts:
+  The Philosophy of Nature
+    §362
+Citations:

@@ -27,3 +27,10 @@ Phr:
   the last straw
   made to measure
   the measure of all things
+
+# ---- Hegel ----
+Def: Measure as immediate: a quantum to which a quality is bound.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Specific quantity
+Citations:

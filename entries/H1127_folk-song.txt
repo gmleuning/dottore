@@ -10,3 +10,10 @@ N:
 
 Adj:
   balladic
+
+# ---- Hegel ----
+Def: The folk song, in which a people's feeling finds its voice anonymously.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

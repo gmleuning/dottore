@@ -32,3 +32,10 @@ Phr:
   Erkenntnis ist Macht
   to come to know
   to recognize
+
+# ---- Hegel ----
+Def: Cognition, in which reason finds its own determinations in the world.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

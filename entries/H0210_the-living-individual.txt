@@ -33,3 +33,10 @@ F:
 Phr:
   a severed hand is no longer a hand [Aristotle]
   a living thing
+
+# ---- Hegel ----
+Def: The organism, a subject which is its own end and means, whose members are only moments of the whole.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Life › The living individual
+Citations:

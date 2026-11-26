@@ -42,3 +42,10 @@ Phr:
   a two-way street
   happy in our mutual help [Milton]
   fish wetting each other with moisture, xiang ru yi mo [Chin.] [Zhuangzi]
+
+# ---- Hegel ----
+Def: The infinite reciprocal causality of substances, in which necessity unveils itself as freedom and passes into the concept.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute relation › Reciprocity of action
+Citations:

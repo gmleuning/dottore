@@ -45,3 +45,10 @@ Phr:
   head held high
   Tien de plus estimable que la ceremonie [Fr.]
   the very pink of courtesy [Romeo and Juliet]
+
+# ---- Hegel ----
+Def: The upright posture and bearing which the will gives to the body.
+Texts:
+  The Philosophy of Mind
+    §411
+Citations:

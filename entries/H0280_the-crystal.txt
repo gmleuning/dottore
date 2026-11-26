@@ -33,3 +33,10 @@ Phr:
   as clear as crystal
   crystal clear
   to crystallize
+
+# ---- Hegel ----
+Def: Shape as the realized totality, the crystal, whose form is shaped from within in three dimensions.
+Texts:
+  The Philosophy of Nature
+    §315
+Citations:

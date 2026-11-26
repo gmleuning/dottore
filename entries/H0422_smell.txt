@@ -29,3 +29,10 @@ Adv:
 
 Phr:
   to smell a rat
+
+# ---- Hegel ----
+Def: Geruch, the sense of the body's invisible volatilization into air, its process of dissolution.
+Texts:
+  The Philosophy of Mind
+    §401
+Citations:

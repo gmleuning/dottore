@@ -31,3 +31,10 @@ F:
 Phr:
   the earth abideth for ever [Bible]
   the living earth
+
+# ---- Hegel ----
+Def: The earth as the organism that is only the presupposed framework of life, life in itself, a crystal of life.
+Texts:
+  The Philosophy of Nature
+    §§338–342
+Citations:

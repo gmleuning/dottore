@@ -24,3 +24,10 @@ Adv:
 Phr:
   Ionic grace
   the matronly order
+
+# ---- Hegel ----
+Def: The Ionic, more slender and graceful, with its spiral volutes.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders
+Citations:

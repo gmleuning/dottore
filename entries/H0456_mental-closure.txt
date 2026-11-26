@@ -33,3 +33,10 @@ Phr:
   the lights are on but nobody is home
   nobody home
   blank stare
+
+# ---- Hegel ----
+Def: The first form of derangement: the soul shut up within itself, no longer in immediate connection with actuality, in imbecility, absent-mindedness and rambling.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

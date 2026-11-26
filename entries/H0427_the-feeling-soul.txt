@@ -44,3 +44,10 @@ Phr:
   don't kill my vibe [Slang]
   deep down
   in one's heart of hearts
+
+# ---- Hegel ----
+Def: The soul that feels itself as an individual totality, the sentient individual which is only the formal self, still in its nature.
+Texts:
+  The Philosophy of Mind
+    §§403–410
+Citations:

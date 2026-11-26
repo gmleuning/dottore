@@ -31,3 +31,10 @@ Phr:
   disegno interno [It.] [inner design]
   the pregnant moment
   one situation that holds the whole
+
+# ---- Hegel ----
+Def: The painter's grasp of the subject as one situation, a single moment that holds the whole.
+Texts:
+  Aesthetics
+    Painting › Particular Characteristics of Painting › Conception, Composition, and Characterization
+Citations:

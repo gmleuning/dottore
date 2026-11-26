@@ -45,3 +45,10 @@ Phr:
   ut omnes unum sint [Lat.] [Bible]
   drawn together
   birds of a feather
+
+# ---- Hegel ----
+Def: Attraction: the many ones posited as one, the ideal unity that contains them (das eine Eins der Attraktion).
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › Repulsion and attraction › The one one of attraction
+Citations:

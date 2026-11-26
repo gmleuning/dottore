@@ -38,3 +38,10 @@ Phr:
   cela va sans dire [Fr.]
   there is no question, no question, not a shadow of doubt, there is not a shadow of doubt
   the die is cast
+
+# ---- Hegel ----
+Def: The subject's constitution named as the ground of its agreement with its concept: the house, so constituted, is good.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of the concept › The apodictic judgment
+Citations:

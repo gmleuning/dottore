@@ -51,3 +51,10 @@ Phr:
   fortis cadere cedere non potest [Lat.]
   the steam is up
   the race by vigor not by vaunts is won [Pope]
+
+# ---- Hegel ----
+Def: The whole as the force that expresses itself, the unity which posits its own outward manifold.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The essential relation › The relation of force and its expression
+Citations:

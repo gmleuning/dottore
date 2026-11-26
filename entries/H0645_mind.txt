@@ -42,3 +42,10 @@ Phr:
   cogito, ergo sum [Lat.] [Descartes]
   of two minds
   peace of mind
+
+# ---- Hegel ----
+Def: Spirit determined in and for itself, the subject which is its own object: theoretical, practical and free mind.
+Texts:
+  The Philosophy of Mind
+    §§440–482
+Citations:

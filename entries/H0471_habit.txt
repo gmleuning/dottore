@@ -62,3 +62,10 @@ Phr:
   How use doth breed a habit in a man! [Two Gentlemen]
   magna est vis consuetudinis [Lat.]
   morent fecerat usus [Lat.] [Ovid]
+
+# ---- Hegel ----
+Def: The soul's making its feelings and activities its own, a mechanism of self-feeling, so that it is free of them; second nature.
+Texts:
+  The Philosophy of Mind
+    §§409–410
+Citations:

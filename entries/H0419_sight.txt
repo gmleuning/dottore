@@ -31,3 +31,10 @@ Phr:
   an eye like Mars to threaten or command [Hamlet]
   her eyes are homes of silent prayer [Tennyson]
   O dark, dark, dark, amid the blaze of noon [Milton]
+
+# ---- Hegel ----
+Def: Gesicht, the sense of physical ideality, related to light, the ideal physical element; it lets its object be.
+Texts:
+  The Philosophy of Mind
+    §401
+Citations:

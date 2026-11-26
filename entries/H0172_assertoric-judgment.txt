@@ -36,3 +36,10 @@ Phr:
   de gustibus non est disputandum [Lat.]
   take my word for it
   because I say so
+
+# ---- Hegel ----
+Def: The singular is judged good or true by bare assurance, which stands against the equal assurance of its opposite.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of the concept › The assertoric judgment
+Citations:

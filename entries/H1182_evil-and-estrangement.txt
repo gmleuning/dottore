@@ -27,3 +27,10 @@ F:
   Hebrew: satan
   Italian: diavolo, demonio, demone
   Spanish: diablo
+
+# ---- Hegel ----
+Def: Evil, the estrangement of the finite spirit from God, the fall.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Representation, Appearance › Knowledge, Estrangement, and Evil
+Citations:

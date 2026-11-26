@@ -41,3 +41,10 @@ Phr:
   rhythm, harmony, melody
   time, harmony and melody
   the hidden soul of harmony [Milton]
+
+# ---- Hegel ----
+Def: The particular means by which music shapes tones: measure, harmony, melody.
+Texts:
+  Aesthetics
+    Music › Particular Characteristics of Music's Means of Expression
+Citations:

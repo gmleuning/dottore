@@ -31,3 +31,10 @@ Phr:
   no effect without a cause
   the nature of the case
   all bound up together
+
+# ---- Hegel ----
+Def: Necessity as relation: substance, causality, and reciprocity, in which actuality returns into itself as concept.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute relation
+Citations:

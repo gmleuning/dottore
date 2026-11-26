@@ -29,3 +29,10 @@ Adv:
 
 Phr:
   to have one's fill
+
+# ---- Hegel ----
+Def: Befriedigung, the satisfaction in which the drive is fulfilled and the object's independence negated.
+Texts:
+  The Phenomenology of Spirit
+    ¶175
+Citations:

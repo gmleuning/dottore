@@ -28,3 +28,10 @@ Phr:
   harmonices mundi [Lat.] [Kepler]
   there's not the smallest orb which thou behold'st but in his motion like an angel sings [Merchant of Venice]
   equal areas in equal times
+
+# ---- Hegel ----
+Def: The laws of absolutely free motion, which Hegel claims as the concept of matter itself rather than Newton's derivation from forces.
+Texts:
+  The Philosophy of Nature
+    §270
+Citations:

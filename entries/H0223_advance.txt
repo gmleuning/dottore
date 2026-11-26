@@ -29,3 +29,10 @@ Phr:
   one step at a time
   to move forward
   advancing in the Way can look like retreat, jin dao ruo quan [Chin.] [Laozi]
+
+# ---- Hegel ----
+Def: The progress in which the immediate shows itself as the determinate, the negative, its own other.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The absolute idea
+Citations:

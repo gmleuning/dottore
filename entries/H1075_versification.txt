@@ -32,3 +32,10 @@ Phr:
   verse is a measured speech
   the music of verse
   scan a line
+
+# ---- Hegel ----
+Def: Versification, the musical element of poetry, which raises language above prose.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification
+Citations:

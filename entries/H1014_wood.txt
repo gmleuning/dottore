@@ -31,3 +31,10 @@ Phr:
   the oldest images were of wood
   carved from the tree
   the first idols
+
+# ---- Hegel ----
+Def: Carving in wood, the earliest material of sculpture.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Wood
+Citations:

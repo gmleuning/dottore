@@ -34,3 +34,10 @@ Phr:
   si vis pacem, para bellum [Lat.]
   the dogs of war
   to rally round the flag
+
+# ---- Hegel ----
+Def: Government, which holds the community together and shakes it by war against the isolation of its members.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶454–455
+Citations:

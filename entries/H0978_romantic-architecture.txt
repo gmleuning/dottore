@@ -25,3 +25,10 @@ Phr:
   a forest of stone
   a house for the inward
   the gathered congregation
+
+# ---- Hegel ----
+Def: Building whose purpose is to enclose a space for the inward gathering of the congregation: the house of God shut off from nature.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture
+Citations:

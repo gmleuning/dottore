@@ -92,3 +92,10 @@ Phr:
   safe bind safe find
   if it ain't broke, don't fix it [Bert Lance]
   finish one thing before taking on many, shi wu zhong shi, wu wu duo ye [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: The mind fixing its content and separating it from itself, the first act of intelligence.
+Texts:
+  The Philosophy of Mind
+    §448
+Citations:

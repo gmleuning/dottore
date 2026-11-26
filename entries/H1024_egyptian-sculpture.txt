@@ -25,3 +25,10 @@ Phr:
   the arms at the sides
   arms at their sides
   fixed by convention
+
+# ---- Hegel ----
+Def: Egyptian sculpture, rigid, symmetrical and without the freedom of individual life.
+Texts:
+  Aesthetics
+    Sculpture › Historical Stages in the Development of Sculpture › Egyptian Sculpture
+Citations:

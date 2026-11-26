@@ -27,3 +27,10 @@ F:
 Phr:
   architecture is frozen music
   painting is silent poetry
+
+# ---- Hegel ----
+Def: Music compared with the visual arts and poetry.
+Texts:
+  Aesthetics
+    Music › General Character of Music › Comparison with the Visual Arts and Poetry
+Citations:

@@ -54,3 +54,10 @@ Phr:
   good luck go with thee [Henry V]
   nulli est homini perpetuum bonum [Lat.] [Plautus]
   apres nous le deluge [Fr.]
+
+# ---- Hegel ----
+Def: The subject's right to find its satisfaction in its deed, its welfare.
+Texts:
+  The Philosophy of Right
+    §§121–124
+Citations:

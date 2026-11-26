@@ -25,3 +25,10 @@ Phr:
   the soul's depths in colour
   the heart's own story
   love and piety
+
+# ---- Hegel ----
+Def: The content of painting: the inner life of the subject, feeling, love, piety.
+Texts:
+  Aesthetics
+    Painting › General Character of Painting › The Chief Determinant of the Subject-matter
+Citations:

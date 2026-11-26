@@ -28,3 +28,10 @@ Phr:
   the cruciform plan
   nave and choir
   the house of prayer
+
+# ---- Hegel ----
+Def: The particular forms of romantic building: the enclosed house, its exterior and interior.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture › Particular Architectural Formations
+Citations:

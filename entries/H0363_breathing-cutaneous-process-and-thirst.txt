@@ -18,3 +18,10 @@ F:
   Greek: derma
   Sanskrit: prāṇa [breath], tṛṣṇā [thirst, craving]
   Chinese: huxi [breathing; the sage breathes from his heels] [Zhuangzi]
+
+# ---- Hegel ----
+Def: The animal's relation to air and water: breathing, the skin's process, and the feeling of thirst.
+Texts:
+  The Philosophy of Nature
+    §362
+Citations:

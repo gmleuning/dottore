@@ -35,3 +35,10 @@ Phr:
   the picture of perfection
   let us go on unto perfection [Hebrews vi, 1]
   the perfection of art is to conceal art [Quintilian]
+
+# ---- Hegel ----
+Def: Beautiful individuality, the ideal as the spirit's free, self-enclosed shape, serene in its blessedness.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Ideal as Such
+Citations:

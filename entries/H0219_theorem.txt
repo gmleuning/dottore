@@ -37,3 +37,10 @@ Phr:
   there is no royal road to geometry [attrib. Euclid]
   Q.E.D.
   it can be shown that
+
+# ---- Hegel ----
+Def: The singular as the concrete identity of the universal and particular, with a demonstration of its necessity.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea of cognition › The idea of the true › Synthetic cognition › The theorem
+Citations:

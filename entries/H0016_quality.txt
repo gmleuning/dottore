@@ -40,3 +40,10 @@ Phr:
   every quality is a limitation
   the defect of a quality, le défaut de ses qualités [Fr.]
   for real
+
+# ---- Hegel ----
+Def: Determinateness as immediately existing, one with being; as reality and as negation, since every determination is a negation.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Existence as such › Quality
+Citations:

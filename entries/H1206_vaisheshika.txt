@@ -22,3 +22,10 @@ Adv:
 
 Phr:
   atoms and categories
+
+# ---- Hegel ----
+Def: The Vaiśeṣika of Kaṇāda, which enumerates the categories, substance, quality, action and the rest, and teaches eternal atoms.
+Texts:
+  Lectures on the History of Philosophy
+    Oriental Philosophy › Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika)
+Citations:

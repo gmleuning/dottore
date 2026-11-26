@@ -28,3 +28,10 @@ Phr:
   in dieser Schmerzlichkeit des göttlichen Friedens [Ger.] [Hegel, Aesthetics, on the classical ideal]
   die seligen Götter trauern gleichsam über ihre Seligkeit oder Leiblichkeit [Ger.] [Hegel, Aesthetics, on the classical ideal]
   blessed and serene
+
+# ---- Hegel ----
+Def: The classical ideal in general: serene, blessed and yet with a breath of mourning.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Ideal of the Classical Form of Art › The Ideal of Classical Art in General
+Citations:

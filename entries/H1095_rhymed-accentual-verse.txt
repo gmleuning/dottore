@@ -10,3 +10,10 @@ N:
 
 Adj:
   accentual-syllabic
+
+# ---- Hegel ----
+Def: The rhymed accentual verse of the modern languages, which joins the rhythm of stressed syllables with the echo of rhyme.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Unification of Rhythmical Versification and Rhyme
+Citations:

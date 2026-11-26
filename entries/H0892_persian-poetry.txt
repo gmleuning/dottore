@@ -14,3 +14,10 @@ V:
 
 Adj:
   Sufi, Sufic, ecstatic
+
+# ---- Hegel ----
+Def: Die mohammedanische Poesie: in Jalāl al-Dīn Rūmī and Hafez the subject gives itself to the One in blissful, intoxicated love, the rose and the nightingale.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Symbolism of the Sublime › The Pantheism of Art › Mohammedan Poetry
+Citations:

@@ -27,3 +27,10 @@ F:
   Spanish: duende [dark inspiration] [Lorca], ingenio, talante
   French: bel esprit, génie
   Italian: ingegno, talento
+
+# ---- Hegel ----
+Def: Imagination, the artist's power to grasp and shape; genius, the natural gift; inspiration, absorption in the subject.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

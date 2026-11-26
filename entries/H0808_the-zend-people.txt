@@ -27,3 +27,10 @@ F:
 Phr:
   good thoughts, good words, good deeds, humata, hūkhta, hvarshta [Avestan]
   the good thought
+
+# ---- Hegel ----
+Def: The people of the Zend books, whose religion of light is the first worship of a pure, universal principle.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Zend People
+Citations:

@@ -50,3 +50,10 @@ Phr:
   veritatem dies aperit [Lat.] [Seneca]
   the truth, the whole truth, and nothing but the truth
   just the facts, ma'am, just the facts [Dragnet]
+
+# ---- Hegel ----
+Def: The drive of cognition to make the given world its own by finding itself in it.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea of cognition › The idea of the true
+Citations:

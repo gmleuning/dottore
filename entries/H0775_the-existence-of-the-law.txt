@@ -43,3 +43,10 @@ Phr:
   this is to give, these are to give notice
   nomina stultorum parietibus haerent [Lat.]
   semel emissum volat irrevocabile verbum [Lat.]
+
+# ---- Hegel ----
+Def: Law as existing, public and known, binding on all.
+Texts:
+  The Philosophy of Right
+    §§215–218
+Citations:

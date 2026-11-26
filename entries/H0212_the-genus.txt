@@ -40,3 +40,10 @@ Phr:
   one generation passeth away, and another generation cometh [Bible]
   after their kind [Bible]
   the circle of life
+
+# ---- Hegel ----
+Def: Life related to another life of its own kind, which reproduces itself, and in whose death the universal comes forth as spirit.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Life › The genus
+Citations:

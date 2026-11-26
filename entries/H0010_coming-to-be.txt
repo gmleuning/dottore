@@ -26,3 +26,10 @@ F:
 
 Phr:
   omnium rerum principia parva sunt [Lat.] [Cicero]
+
+# ---- Hegel ----
+Def: Entstehen, the direction of becoming in which nothing goes over into being.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being › Becoming › The moments of becoming
+Citations:

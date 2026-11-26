@@ -55,3 +55,10 @@ Phr:
   mine and thine
   entbehre gern was du nicht hast [Ger.]
   tuum est [Lat.]
+
+# ---- Hegel ----
+Def: The person's sphere of freedom in an external thing, which becomes mine by my will put into it.
+Texts:
+  The Philosophy of Right
+    §§41–71
+Citations:

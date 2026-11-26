@@ -30,3 +30,10 @@ Phr:
   dictum de omni et nullo [Lat.]
   all the more
   begging the question
+
+# ---- Hegel ----
+Def: All men are mortal; Gaius is a man; the major premiss presupposes the conclusion.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of reflection › The syllogism of allness
+Citations:

@@ -25,3 +25,10 @@ Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]
   before one's very eyes
   to the touch
+
+# ---- Hegel ----
+Def: The object as given through the senses, in its here and now.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶90–94
+Citations:

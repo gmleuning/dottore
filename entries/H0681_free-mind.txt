@@ -51,3 +51,10 @@ Phr:
   was man nicht kann meiden muss man willig leiden [Ger.]
   ubi libertas ibi patria [Lat.]
   free white and twenty-one
+
+# ---- Hegel ----
+Def: The will that has freedom as its content and end: free spirit, which must become objective.
+Texts:
+  The Philosophy of Mind
+    §§481–482
+Citations:

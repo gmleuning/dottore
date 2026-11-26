@@ -14,3 +14,10 @@ Adj:
 
 Phr:
   all things are numbers [the Pythagoreans]
+
+# ---- Hegel ----
+Def: Pythagoras, who makes number the principle, midway between the sensuous and the concept, the first thought-determinations.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Pythagoras and the Pythagoreans
+Citations:

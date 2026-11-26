@@ -32,3 +32,10 @@ Phr:
   I thank thee that I am not as other men are [Bible]
   too good for this world
   to keep one's hands clean
+
+# ---- Hegel ----
+Def: The beautiful soul, which, lest it soil its purity by action, wastes away in yearning.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶655–658
+Citations:

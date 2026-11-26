@@ -10,3 +10,10 @@ N:
 
 Adj:
   lycanthropic
+
+# ---- Hegel ----
+Def: Madness whose content is something contingent, an object rather than a person: those who think they are a barleycorn or a dog, or that they have a carriage in their body.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

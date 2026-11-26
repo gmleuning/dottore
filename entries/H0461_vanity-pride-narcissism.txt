@@ -14,3 +14,10 @@ Adj:
 F:
   Greek: hybris
   French: amour-propre
+
+# ---- Hegel ----
+Def: Vanity and pride, which Hegel names as the chief cause of the soul's cocooning itself within itself: the eremitic consciousness shut in a narrow circle of its own interests.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

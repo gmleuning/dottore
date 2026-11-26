@@ -101,3 +101,10 @@ Phr:
   the social smile, the sympathetic tear [Gray]
   virtue is the fount whence honour springs [Marlowe]
   mutual love brings order, mutual hate brings chaos, tian xia jian xiang ai ze zhi, jiao xiang wu ze luan [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: The virtues in which universal self-consciousness appears: love, friendship, valour, honour and fame.
+Texts:
+  The Philosophy of Mind
+    §436
+Citations:

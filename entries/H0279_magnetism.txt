@@ -37,3 +37,10 @@ Phr:
   like poles repel, unlike poles attract
   true as the needle to the pole
   ubi mel ibi apes [Lat.] [Plautus]
+
+# ---- Hegel ----
+Def: Shape as the linear tension of opposed poles united in a neutral middle, the concept as the north and south of a magnet.
+Texts:
+  The Philosophy of Nature
+    §§312–314
+Citations:

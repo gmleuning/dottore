@@ -32,3 +32,10 @@ F:
 Phr:
   the philosophy of religion
   God, faith and worship
+
+# ---- Hegel ----
+Def: Religion in its concept: God, the knowledge of God, and the cultus.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827)
+Citations:

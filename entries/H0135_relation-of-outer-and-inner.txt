@@ -39,3 +39,10 @@ Phr:
   what you see is what you get
   nature has neither kernel nor shell, she is everything at once [Goethe]
   wear one's heart on one's sleeve
+
+# ---- Hegel ----
+Def: The inner and outer as one content, so that what something is inwardly it is outwardly, and nothing more.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The essential relation › Relation of outer and inner
+Citations:

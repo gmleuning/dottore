@@ -39,3 +39,10 @@ Phr:
   all that is transitory is but a likeness, alles Vergängliche ist nur ein Gleichnis [Ger.] [Goethe]
   the language of flowers
   a parable for
+
+# ---- Hegel ----
+Def: Phantasy that symbolizes and allegorizes, and poetic phantasy, which is the source of art.
+Texts:
+  The Philosophy of Mind
+    §457
+Citations:

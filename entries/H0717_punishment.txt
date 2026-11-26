@@ -63,3 +63,10 @@ Phr:
   gravis ira regum est semper [Lat.] [Seneca]
   sera tamen tacitis paena venit pedibus [Lat.] [Tibullus]
   suo sibi gladio hunc jugulo [Lat.] [Terence]
+
+# ---- Hegel ----
+Def: Punishment, the criminal's own right, honouring them as a rational being; justice instead of revenge.
+Texts:
+  The Philosophy of Right
+    §§99–101
+Citations:

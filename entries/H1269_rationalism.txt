@@ -27,3 +27,10 @@ F:
 Phr:
   ordine geometrico demonstrata [Lat.] [Spinoza]
   the light of reason
+
+# ---- Hegel ----
+Def: The philosophies that take reason as the source of knowledge.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › First Period of Metaphysics: Descartes, Spinoza, Malebranche
+Citations:

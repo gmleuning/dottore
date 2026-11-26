@@ -6,3 +6,10 @@ HGloss: Das Zurücktreten des Rhythmus: where the accent of meaning overrides qu
 
 N:
   eclipse of rhythm; the receding of rhythm, the loss of quantity, the passing of metre, the turn to sound, accentual verse
+
+# ---- Hegel ----
+Def: Das Zurücktreten des Rhythmus: where the accent of meaning overrides quantity, rhythm recedes and the sound of the syllables, in rhyme, takes its place.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

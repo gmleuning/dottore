@@ -50,3 +50,10 @@ Phr:
   the straw that broke the camel's back
   a call to action
   to set in motion
+
+# ---- Hegel ----
+Def: Force solicited by another force, which is itself solicited, so that each is the condition of the other's expression.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The essential relation › The relation of force and its expression › The solicitation of force
+Citations:

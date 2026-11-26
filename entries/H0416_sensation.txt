@@ -46,3 +46,10 @@ Phr:
   the touch'd needle trembles to the pole [Pope]
   ride si sapis [Lat.] [Martial]
   voluptales commendat rarior usus [Lat.] [Juvenal]
+
+# ---- Hegel ----
+Def: The soul's feeling of the determinacy it finds in itself, the dull stirring of spirit in its unconscious individuality.
+Texts:
+  The Philosophy of Mind
+    §§399–402
+Citations:

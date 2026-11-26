@@ -11,3 +11,10 @@ N:
 
 Adj:
   German, Düreresque
+
+# ---- Hegel ----
+Def: Die oberdeutsche Malerei: the old painting of upper Germany, close to the Netherlandish school, intense in piety and expression.
+Texts:
+  Aesthetics
+    Painting › Historical Development of Painting › Flemish and German Painting
+Citations:

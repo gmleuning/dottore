@@ -25,3 +25,10 @@ Adv:
 Phr:
   o fortunatos nimium, sua si bona norint, agricolas [Lat.] [Virgil]
   tibi seris tibi metis [Lat.]
+
+# ---- Hegel ----
+Def: The work of the substantial estate, bound to the seasons and to nature, in which trust in nature counts for more than one's own reflection (§203).
+Texts:
+  The Philosophy of Right
+    §203
+Citations:

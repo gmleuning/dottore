@@ -24,3 +24,10 @@ Phr:
   out, damned spot! [Macbeth]
   frozen stiff
   walking in one's sleep
+
+# ---- Hegel ----
+Def: The body made rigid or set walking while the waking self is absent: the soul's life of feeling acting without understanding.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

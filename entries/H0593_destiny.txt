@@ -26,3 +26,10 @@ Phr:
   call no man happy until he is dead [Solon]
   fate takes a hand
   to pay the price
+
+# ---- Hegel ----
+Def: Das Schicksal: the movement in which both powers and both self-conscious characters perish, and their equal right appears in their common downfall.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶472–476
+Citations:

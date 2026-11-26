@@ -32,3 +32,10 @@ Phr:
   be fruitful and multiply [Bible]
   the earth bringeth forth fruit of herself [Bible]
   land of milk and honey
+
+# ---- Hegel ----
+Def: The earth made fertile by the meteorological process, its individuality as the universal ground of life.
+Texts:
+  The Philosophy of Nature
+    §288
+Citations:

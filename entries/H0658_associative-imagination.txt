@@ -29,3 +29,10 @@ Phr:
   one thing leads to another
   one thing reminds one of another
   a train of thought
+
+# ---- Hegel ----
+Def: Imagination that connects images according to their common features and forms general representations.
+Texts:
+  The Philosophy of Mind
+    §456
+Citations:

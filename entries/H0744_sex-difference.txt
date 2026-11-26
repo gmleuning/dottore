@@ -36,3 +36,10 @@ Phr:
   male and female created he them [Bible]
   the opposite sex
   vive la différence
+
+# ---- Hegel ----
+Def: The natural difference of the sexes given its ethical significance.
+Texts:
+  The Philosophy of Right
+    §§165–166
+Citations:

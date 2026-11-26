@@ -52,3 +52,10 @@ Phr:
   the speech of angels [Carlyle]
   will sing the savageness out of a bear [Othello]
   music hath charms to soothe the savage beast
+
+# ---- Hegel ----
+Def: Music, the art of inner feeling, whose material is tone, sound vibrating in time, which seizes the inmost self.
+Texts:
+  Aesthetics
+    Music
+Citations:

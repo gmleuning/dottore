@@ -34,3 +34,10 @@ Phr:
   now it is no longer now
   here today, gone tomorrow
   things change
+
+# ---- Hegel ----
+Def: Change in the sensed thing, which undoes the certainty of the this.
+Texts:
+  The Philosophy of Mind
+    §418
+Citations:

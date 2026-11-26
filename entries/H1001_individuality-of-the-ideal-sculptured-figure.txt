@@ -28,3 +28,10 @@ Phr:
   known by their attributes
   each god his own
   the character of a deity
+
+# ---- Hegel ----
+Def: The individuality of the ideal figure, its particular character among the gods and heroes.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures
+Citations:

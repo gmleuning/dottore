@@ -26,3 +26,10 @@ Phr:
   action is character
   will against will
   the collision of characters
+
+# ---- Hegel ----
+Def: The principle of drama: the action arising from the will of individuals and colliding with other ends.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Drama as a Poetical Work of Art › The Principle of Dramatic Poetry
+Citations:

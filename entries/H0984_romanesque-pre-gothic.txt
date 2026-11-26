@@ -24,3 +24,10 @@ Adv:
 Phr:
   the round arch
   thick walls and small windows
+
+# ---- Hegel ----
+Def: Romanesque building, with its round arches, before the full development of the Gothic.
+Texts:
+  Aesthetics
+    Architecture › Romantic Architecture › Different Styles in Romantic Architecture › Romanesque (pre-Gothic) Architecture
+Citations:

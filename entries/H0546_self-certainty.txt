@@ -25,3 +25,10 @@ F:
 
 Phr:
   trust thyself [Emerson]
+
+# ---- Hegel ----
+Def: The self's assurance of itself as the knower.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

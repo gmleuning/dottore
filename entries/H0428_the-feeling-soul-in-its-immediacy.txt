@@ -84,3 +84,10 @@ Phr:
   being full of supper and distempering draughts [Othello]
   Bacchus ever fair and young [Dryden]
   drink down all unkindness [Merry Wives]
+
+# ---- Hegel ----
+Def: The feeling totality as a passive relation to another individual, as the child is with its mother's genius.
+Texts:
+  The Philosophy of Mind
+    §§405–406
+Citations:

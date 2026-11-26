@@ -21,3 +21,10 @@ Phr:
   white paper, void of all characters [Locke], lives, liberties and estates [Locke]
   the mind a blank slate
   ideas of sensation and reflection
+
+# ---- Hegel ----
+Def: Locke, who derived ideas from sensation and reflection.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › John Locke
+Citations:

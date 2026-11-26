@@ -25,3 +25,10 @@ Phr:
   a window onto the world [Alberti]
   depth on a flat surface
   the window on the world
+
+# ---- Hegel ----
+Def: The general character of painting, the reduction of three dimensions to the surface, the inner made visible.
+Texts:
+  Aesthetics
+    Painting › General Character of Painting
+Citations:

@@ -40,3 +40,10 @@ F:
 Phr:
   the folds of the chiton
   the folds fall freely
+
+# ---- Hegel ----
+Def: The drapery, which lets the body show through, falling freely as determined by the figure.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture › Draping [or Clothing]
+Citations:

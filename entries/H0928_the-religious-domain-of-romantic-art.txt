@@ -23,3 +23,10 @@ Adv:
 Phr:
   ad maiorem Dei gloriam [Lat.]
   the life of the spirit
+
+# ---- Hegel ----
+Def: The religious domain of romantic art: the infinite subject reconciled with God.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Religious Domain of Romantic Art
+Citations:

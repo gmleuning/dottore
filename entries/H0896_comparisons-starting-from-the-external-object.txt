@@ -26,3 +26,10 @@ Phr:
   by way of illustration
   to draw a lesson from
   there's a moral in it
+
+# ---- Hegel ----
+Def: Comparisons that begin from an outer object and draw a meaning from it.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object
+Citations:

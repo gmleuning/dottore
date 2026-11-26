@@ -24,3 +24,10 @@ Adv:
 Phr:
   seeing beyond the horizon
   across the miles
+
+# ---- Hegel ----
+Def: The trance-seeing of what is distant in space or time.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

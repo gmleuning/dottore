@@ -18,3 +18,10 @@ F:
 Phr:
   being is, non-being is not [Parmenides]
   to gar auto noein estin te kai einai [Gr.] [Parmenides]
+
+# ---- Hegel ----
+Def: Parmenides, with whom philosophy proper begins: pure being, the One, thought for which non-being simply is not.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Eleatics
+Citations:

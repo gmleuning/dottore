@@ -25,3 +25,10 @@ Phr:
   beauty without blemish
   purified of the accidental
   beauty in the round
+
+# ---- Hegel ----
+Def: The beautiful form proper to sculpture, purified of everything contingent.
+Texts:
+  Aesthetics
+    Sculpture › The Principle of Sculpture Proper › The Beautiful Sculptural Form
+Citations:

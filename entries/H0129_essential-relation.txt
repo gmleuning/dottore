@@ -40,3 +40,10 @@ Phr:
   part and parcel
   two sides of the same coin
   thereby hangs a tale [Taming of the Shrew]
+
+# ---- Hegel ----
+Def: Appearance as relation: two sides that are self-subsistent only in their reference to each other.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The essential relation
+Citations:

@@ -17,3 +17,10 @@ Adv:
 Phr:
   a stroke of genius
   poeta nascitur, non fit [Lat.] [the poet is born, not made]
+
+# ---- Hegel ----
+Def: Genie, the general capacity for true production of art together with the energy to develop and work it out; it has, unlike thought, a side of natural gift.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

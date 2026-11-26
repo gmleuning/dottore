@@ -22,3 +22,10 @@ F:
   Sanskrit: subhāṣita [well-said verse]
   Chinese: chengyu [set idiom]
   Korean: sokdam [proverb]
+
+# ---- Hegel ----
+Def: The parable, proverb and apologue, a common occurrence given a higher meaning.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Parable, Proverb, Apologue
+Citations:

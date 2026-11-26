@@ -61,3 +61,10 @@ Phr:
   He mounts the storm and walks upon the wind [Pope]
   Thou great First Cause, least understood [Pope]
   sans Dieu rien [Fr.]
+
+# ---- Hegel ----
+Def: God as the absolute universal, the one substance that is absolutely all; in the end God as spirit.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827) › The Concept of God
+Citations:

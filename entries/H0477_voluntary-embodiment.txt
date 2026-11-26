@@ -27,3 +27,10 @@ Phr:
   suit the action to the word, the word to the action [Hamlet]
   to compose one's features
   body language
+
+# ---- Hegel ----
+Def: The soul's deliberate shaping of the body as its sign and instrument.
+Texts:
+  The Philosophy of Mind
+    §411
+Citations:

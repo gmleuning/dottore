@@ -25,3 +25,10 @@ Phr:
   spirit mediates nature and the idea
   spirit in the middle
   the way of reflection
+
+# ---- Hegel ----
+Def: The second syllogism, nature–spirit–logic, which has spirit as the middle, the standpoint of spirit's reflection.
+Texts:
+  The Philosophy of Mind
+    §576
+Citations:

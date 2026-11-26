@@ -29,3 +29,10 @@ Phr:
   the higher the column, the hotter the day
   as much as the other
   the same difference
+
+# ---- Hegel ----
+Def: Each kind of magnitude passes into the other: degree is expressed in an outside many, and an extent is felt as one intensity.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Extensive and intensive quantum › Identity of extensive and intensive magnitude
+Citations:

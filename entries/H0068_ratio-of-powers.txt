@@ -27,3 +27,10 @@ Phr:
   doubling every year
   squared and cubed
   to the nth degree
+
+# ---- Hegel ----
+Def: Ratio in which a quantum relates to itself as its own exponent, the power; quantity returned into quality.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Ratio or the quantitative relation › The ratio of powers
+Citations:

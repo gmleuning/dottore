@@ -24,3 +24,10 @@ Adv:
 
 Phr:
   in the beginning was rhythm [attrib. Hans von Bülow]
+
+# ---- Hegel ----
+Def: Der Rhythmus: the animation of the bar by accents, the free movement that enlivens the abstract rule of the measure.
+Texts:
+  Aesthetics
+    Music › Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm
+Citations:

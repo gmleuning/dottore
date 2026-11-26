@@ -25,3 +25,10 @@ Adv:
 Phr:
   o taste and see that the Lord is good [Bible]
   a matter of taste
+
+# ---- Hegel ----
+Def: Geschmack, the sense of the body's dissolution into the neutral element of water, the real process of its being consumed.
+Texts:
+  The Philosophy of Mind
+    §401
+Citations:

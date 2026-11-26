@@ -30,3 +30,10 @@ F:
 Phr:
   ut pictura poesis [Lat.] [as painting, so poetry] [Horace]
   to paint a picture
+
+# ---- Hegel ----
+Def: Descriptive poetry, which describes external things without a meaning.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art › Descriptive Poetry
+Citations:

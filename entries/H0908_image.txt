@@ -15,3 +15,10 @@ V:
 
 Adj:
   imagistic
+
+# ---- Hegel ----
+Def: Das Bild: a developed metaphor, in which a whole situation from another sphere is portrayed to express a meaning that is not itself named.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Metaphor, Image, Simile › Image
+Citations:

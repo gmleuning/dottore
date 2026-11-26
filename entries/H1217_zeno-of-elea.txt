@@ -16,3 +16,10 @@ Adj:
 
 Phr:
   the flying arrow is at rest [Zeno]
+
+# ---- Hegel ----
+Def: Zeno, the originator of dialectic, who shows the contradiction in motion, Achilles and the tortoise, the arrow, by thinking it through.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Eleatics
+Citations:

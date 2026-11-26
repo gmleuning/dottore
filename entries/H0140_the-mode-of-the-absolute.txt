@@ -32,3 +32,10 @@ F:
 Phr:
   natura naturans et natura naturata [Lat.] [Spinoza]
   after a fashion
+
+# ---- Hegel ----
+Def: The absolute's own externality, its loss of itself in mutability, yet the mode is the absolute's own self-showing.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute › The mode of the absolute
+Citations:

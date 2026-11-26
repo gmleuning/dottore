@@ -24,3 +24,10 @@ Phr:
   to make one's way in the world
   to make one's mark
   to put into practice
+
+# ---- Hegel ----
+Def: Reason realizing itself through its own action, finding its other in the world it acts upon.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶347–393
+Citations:

@@ -39,3 +39,10 @@ Phr:
   mono no aware [Jap.]
   something and its other
   for good and all
+
+# ---- Hegel ----
+Def: The determinate being of something, which has its end in itself; to be finite is to carry the seed of one's passing away.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude
+Citations:

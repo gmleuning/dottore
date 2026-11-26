@@ -39,3 +39,10 @@ F:
 Phr:
   man is born free, and everywhere he is in chains [Rousseau]
   slaves - in a land of light and law [Whittier]
+
+# ---- Hegel ----
+Def: The servant as a thing for the master, a consciousness owned by another.
+Texts:
+  The Philosophy of Mind
+    §433
+Citations:

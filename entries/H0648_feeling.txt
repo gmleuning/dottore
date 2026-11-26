@@ -35,3 +35,10 @@ Phr:
   I feel, therefore I am
   a feeling in one's bones
   to have a hunch
+
+# ---- Hegel ----
+Def: The mind's first finding of a content within itself, the dull form of all that is spiritual.
+Texts:
+  The Philosophy of Mind
+    §§446–447
+Citations:

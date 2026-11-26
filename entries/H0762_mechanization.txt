@@ -22,3 +22,10 @@ F:
 
 Phr:
   so daß dann der Mensch davontreten und an seine Stelle die Maschine eintreten lassen kann [Ger.] [Hegel, Philosophy of Right §198]
+
+# ---- Hegel ----
+Def: Divided labour grows ever more mechanical, until the human being can step away and let the machine take their place (§198).
+Texts:
+  The Philosophy of Right
+    §198
+Citations:

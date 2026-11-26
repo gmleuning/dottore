@@ -24,3 +24,10 @@ Adv:
 Phr:
   the glory that was Greece, and the grandeur that was Rome [Poe]
   beauty in use
+
+# ---- Hegel ----
+Def: Building that serves a purpose and is beautiful in serving it, the house of the god, with function and form in harmony.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture
+Citations:

@@ -31,3 +31,10 @@ Phr:
   the starry heavens above me and the moral law within me [Kant]
   the moral of the story
   to know right from wrong
+
+# ---- Hegel ----
+Def: Spirit certain of itself, the moral self, which knows duty as its own essence.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶596–671
+Citations:

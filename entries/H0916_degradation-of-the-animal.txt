@@ -24,3 +24,10 @@ Phr:
   the beast made servant
   dethroned
   cast down
+
+# ---- Hegel ----
+Def: The animal degraded from the divine: animal sacrifice, hunts, metamorphoses.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Process of Shaping the Classical Art-Form › The Degradation of the Animal
+Citations:

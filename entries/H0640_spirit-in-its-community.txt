@@ -33,3 +33,10 @@ Phr:
   God himself is dead [Johann Rist's hymn, cited by Hegel]
   death, where is thy sting?
   risen indeed
+
+# ---- Hegel ----
+Def: The death of the mediator and the resurrection of the spirit in the community, where God is present as spirit.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶779–787
+Citations:

@@ -31,3 +31,10 @@ F:
 Phr:
   the world out there
   other than oneself
+
+# ---- Hegel ----
+Def: The object of sense as simply other to consciousness.
+Texts:
+  The Philosophy of Mind
+    §418
+Citations:

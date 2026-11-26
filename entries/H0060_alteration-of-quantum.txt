@@ -45,3 +45,10 @@ Phr:
   a gilded halo hovering round decay [Byron]
   fine by degrees and beautifully less [Prior]
   adde parvum parvo magnus acervus erit [Lat.]
+
+# ---- Hegel ----
+Def: The quantum's continual going beyond itself, since its limit is indifferent to it.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Extensive and intensive quantum › Alteration of quantum
+Citations:

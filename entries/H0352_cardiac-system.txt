@@ -39,3 +39,10 @@ Phr:
   be still my beating heart
   the heart of the matter
   heart and soul
+
+# ---- Hegel ----
+Def: The heart, the living pulsation, the centre of irritability as self-moving.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

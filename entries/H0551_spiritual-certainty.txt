@@ -30,3 +30,10 @@ Phr:
   the Spirit itself beareth witness with our spirit [Bible]
   to feel at home in the world
   kindred spirit
+
+# ---- Hegel ----
+Def: Spirit's certainty that it is at one with its object.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

@@ -58,3 +58,10 @@ Phr:
   pictra mossa non fa muschis [It.]
   honores mutant mores [Lat.]
   varium et mutabile semper femina [Lat.] [Virgil]
+
+# ---- Hegel ----
+Def: The truth of being and nothing: the movement in which each has already passed over into the other, their immediate vanishing in one another.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being › Becoming
+Citations:

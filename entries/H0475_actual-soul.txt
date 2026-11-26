@@ -28,3 +28,10 @@ Phr:
   the body is the temple of the soul
   at home in one's skin
   soul and body as one
+
+# ---- Hegel ----
+Def: The soul which has its body as its sign and work of art, in which it is at home and known as itself.
+Texts:
+  The Philosophy of Mind
+    §§411–412
+Citations:

@@ -33,3 +33,10 @@ Phr:
   lost and found
   it all came back
   on the tip of one's tongue
+
+# ---- Hegel ----
+Def: The recovery, in the trance, of what was lost to waking memory.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

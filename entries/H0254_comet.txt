@@ -36,3 +36,10 @@ Phr:
   the heavens themselves blaze forth the death of princes [Julius Caesar]
   a comet's tail
   here and gone
+
+# ---- Hegel ----
+Def: The body of dissolution, a formal process, a transient body of volatility.
+Texts:
+  The Philosophy of Nature
+    §279
+Citations:

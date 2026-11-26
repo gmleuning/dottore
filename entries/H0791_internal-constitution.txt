@@ -33,3 +33,10 @@ Phr:
   the state as organism
   the body politic
   checks and balances
+
+# ---- Hegel ----
+Def: The inner constitution, the state as an organism whose powers are distinguished.
+Texts:
+  The Philosophy of Right
+    §§272–320
+Citations:

@@ -37,3 +37,10 @@ Phr:
   oil and water do not mix
   a mixed bag
   mix and match
+
+# ---- Hegel ----
+Def: The external mixture of bodies, not yet a process that alters their nature.
+Texts:
+  The Philosophy of Nature
+    §327
+Citations:

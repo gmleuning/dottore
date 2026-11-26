@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   the parable of the sower [Bible]
+
+# ---- Hegel ----
+Def: Die Parabel: an occurrence from ordinary life given a higher significance, so that the meaning is grasped through the familiar happening, as in the Gospel parables.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Parable, Proverb, Apologue › Parable
+Citations:

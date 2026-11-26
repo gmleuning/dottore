@@ -25,3 +25,10 @@ Phr:
   no wart or wrinkle
   nothing incidental
   the clutter cut away
+
+# ---- Hegel ----
+Def: The exclusion of the particular, the contingent and the merely natural from the sculptural figure.
+Texts:
+  Aesthetics
+    Sculpture › The Principle of Sculpture Proper › The Beautiful Sculptural Form › Exclusion of Particulars
+Citations:

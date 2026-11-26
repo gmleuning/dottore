@@ -50,3 +50,10 @@ Phr:
   ignoscito saepe alteri nunquam tibi [Lat.]
   tempori parendum [Lat.]
   to God, thy country, and thy friend be true [Vaughan]
+
+# ---- Hegel ----
+Def: The relation of the contracting wills, a common will which is not yet universal.
+Texts:
+  The Philosophy of Right
+    §§72–75
+Citations:

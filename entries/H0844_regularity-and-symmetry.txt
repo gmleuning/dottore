@@ -42,3 +42,10 @@ Phr:
   in perfect symmetry
   like for like
   ab uno disce omnes [Lat.]
+
+# ---- Hegel ----
+Def: The repetition of an identical form, and symmetry, the like joined to the unlike; the lowest unity of form.
+Texts:
+  Aesthetics
+    The Beauty of Nature › The External Beauty of the Abstract Form › Beauty of Abstract Form › Regularity and Symmetry
+Citations:

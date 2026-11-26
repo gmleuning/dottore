@@ -45,3 +45,10 @@ Phr:
   as you wish
   no sooner said than done
   kto? kogo? [Rus.] [who? whom?] [Lenin, 1921]
+
+# ---- Hegel ----
+Def: The unequal recognition of master and servant, in which the servant's fear and labour turn out to be the way to freedom.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶178–196
+Citations:

@@ -36,3 +36,10 @@ Phr:
   the universal interests of the community [Hegel]
   public servant
   red tape
+
+# ---- Hegel ----
+Def: The estate that has the universal interests of society as its business, the civil service.
+Texts:
+  The Philosophy of Right
+    §205
+Citations:

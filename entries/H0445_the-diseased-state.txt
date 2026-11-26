@@ -27,3 +27,10 @@ Phr:
   the vapours
   out of sorts
   not in one's right mind
+
+# ---- Hegel ----
+Def: The disease state of the soul which is the condition of magnetic phenomena, the separation of feeling from waking unity.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

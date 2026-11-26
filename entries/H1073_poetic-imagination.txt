@@ -27,3 +27,10 @@ F:
 Phr:
   to see a world in a grain of sand [Blake]
   bodying forth the forms of things unknown
+
+# ---- Hegel ----
+Def: The poetic imagination, which makes the inner vivid as image, original rather than abstract.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › The Poetic Way of Imagining Things
+Citations:

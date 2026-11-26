@@ -28,3 +28,10 @@ Phr:
   the second family
   law and order
   to band together
+
+# ---- Hegel ----
+Def: The public authority and the corporation, the protection of welfare, a return of the ethical into civil society.
+Texts:
+  The Philosophy of Right
+    §§230–256
+Citations:

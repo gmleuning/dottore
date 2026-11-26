@@ -36,3 +36,10 @@ Phr:
   united we stand, divided we fall
   to hold together
   to stick together
+
+# ---- Hegel ----
+Def: The spatial mode of the body's inner coherence, its manner of holding together against outer force.
+Texts:
+  The Philosophy of Nature
+    §§295–299
+Citations:

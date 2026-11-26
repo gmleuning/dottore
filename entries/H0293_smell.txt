@@ -46,3 +46,10 @@ Phr:
   non olet [Lat.] [Vespasian]
   smell a rat
   to follow one's nose
+
+# ---- Hegel ----
+Def: The body's specific individuality as a volatile process with air, its silent consuming of itself into odour.
+Texts:
+  The Philosophy of Nature
+    §321
+Citations:

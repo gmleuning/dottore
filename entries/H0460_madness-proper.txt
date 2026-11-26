@@ -46,3 +46,10 @@ Phr:
   pho!
   credat Judaeus Apella [Lat.] [Horace]
   tell it to the marines
+
+# ---- Hegel ----
+Def: Closure within itself that acquires the determinate content of a fixed idea: the mind sticks fast in a merely subjective presentation and holds it to be objective.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

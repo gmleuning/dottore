@@ -27,3 +27,10 @@ F:
 Phr:
   what one gains the other loses
   robbing Peter to pay Paul
+
+# ---- Hegel ----
+Def: Ratio in which the product stays constant as one side grows and the other shrinks.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Ratio or the quantitative relation › The inverse ratio
+Citations:

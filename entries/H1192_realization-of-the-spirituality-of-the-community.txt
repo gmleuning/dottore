@@ -32,3 +32,10 @@ F:
 Phr:
   the kingdom of God is within you [Bible]
   faith working through love
+
+# ---- Hegel ----
+Def: The realization of the spirituality of the community in the world, in ethical life and in thought.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Community, Spirit › The Realization of the Spirituality of the Community
+Citations:

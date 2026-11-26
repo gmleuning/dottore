@@ -16,3 +16,10 @@ Adj:
 
 Adv:
   dogmatically, assertively, positively
+
+# ---- Hegel ----
+Def: Der Dogmatismus: the Stoics and the Epicureans, who each assert a principle and criterion, thought or sensation, as the ground of the individual's freedom.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Dogmatic Philosophy
+Citations:

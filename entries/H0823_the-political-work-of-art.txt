@@ -29,3 +29,10 @@ Phr:
   μόνοι γὰρ τόν τε μηδὲν τῶνδε μετέχοντα οὐκ ἀπράγμονα, ἀλλ᾽ ἀχρεῖον νομίζομεν [Gk.] [Thucydides II.40]
   we regard the citizen who takes no part in these duties not as unambitious but as useless [Thucydides II.40, tr. Crawley]
   the Athenian democracy
+
+# ---- Hegel ----
+Def: The political work of art: the democratic city-state, where the citizen's will is one with the custom of the people.
+Texts:
+  The Philosophy of History
+    The Greek World › Phases of Individuality Aesthetically Conditioned › The Political Work of Art
+Citations:

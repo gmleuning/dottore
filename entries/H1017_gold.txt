@@ -17,3 +17,10 @@ Adj:
 
 Adv:
   in gold
+
+# ---- Hegel ----
+Def: Gold, laid over the ivory figure as robe and ornament, its splendour serving the god's majesty.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
+Citations:

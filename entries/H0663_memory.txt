@@ -52,3 +52,10 @@ Phr:
   vox audita peril littera scripta manet [Lat.]
   non mi ricordo [It.]
   the memory failing, the memory deserting one, being at fault, being in fault
+
+# ---- Hegel ----
+Def: The mind's retention of names, its reproduction of them, and its mechanical memory, which passes into thought.
+Texts:
+  The Philosophy of Mind
+    §§461–464
+Citations:

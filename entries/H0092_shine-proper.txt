@@ -33,3 +33,10 @@ Phr:
   truth will out
   a show of
   for show
+
+# ---- Hegel ----
+Def: Semblance recognized as essence's own shining within itself, not a being alien to it.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Shine › Shine
+Citations:

@@ -24,3 +24,10 @@ Adv:
 Phr:
   the five orders
   a canon of proportion
+
+# ---- Hegel ----
+Def: The orders and manners of classical building, Greek and Roman.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Different Styles in Classical Architecture
+Citations:

@@ -58,3 +58,10 @@ Phr:
   the reason under a cloud
   tet exaltee [Fr.], tet montee [Fr.]
   omnes stultos insanire [Lat.] [Horace]
+
+# ---- Hegel ----
+Def: The self fixed in a particular feeling it cannot integrate into its world, the contradiction of a rational being held by an idea.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

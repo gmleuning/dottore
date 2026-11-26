@@ -6,3 +6,10 @@ HGloss: The attempt to carry the classical metres into the modern languages, as 
 
 N:
   classical metres in modern languages; accentual hexameter, German hexameter, English hexameter, English Sapphics, imitation of classical metres, Klopstock's odes, Voss's Homer
+
+# ---- Hegel ----
+Def: The attempt to carry the classical metres into the modern languages, as in Klopstock's odes and Voss's Homer, where the accent of meaning resists quantity.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Unification of Rhythmical Versification and Rhyme
+Citations:

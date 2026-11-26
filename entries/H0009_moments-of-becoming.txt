@@ -35,3 +35,10 @@ Phr:
   finem respice [Lat.]
   ultimus Romanorum [Lat.]
   I pause for a reply [Julius Caesar]
+
+# ---- Hegel ----
+Def: The moments of becoming: coming-to-be, where nothing passes into being, and ceasing-to-be, where being passes into nothing; each sublates itself in itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being › Becoming › The moments of becoming
+Citations:

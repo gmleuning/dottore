@@ -57,3 +57,10 @@ Phr:
   tomorrow and tomorrow and tomorrow [Macbeth]
   cantilenam eandem canis [Lat.] [Terence]
   nullum est jam dictum quod non dictum sit prius [Lat.] [Terence]
+
+# ---- Hegel ----
+Def: Memory that holds words in a series without their meaning, the mind making itself into a being, the passage to thought.
+Texts:
+  The Philosophy of Mind
+    §§463–464
+Citations:

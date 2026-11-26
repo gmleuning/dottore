@@ -29,3 +29,10 @@ Phr:
   the allegory of the cave [Plato]
   footnotes to Plato [Whitehead]
   the Form of the Good
+
+# ---- Hegel ----
+Def: Plato, who held the ideas to be the true and gave philosophy its speculative form.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Plato
+Citations:

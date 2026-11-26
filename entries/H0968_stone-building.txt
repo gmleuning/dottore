@@ -22,3 +22,10 @@ Adv:
 Phr:
   the stone remembers the wood
   timber turned to stone
+
+# ---- Hegel ----
+Def: Der Steinbau: building in stone, the temple column recalling the tree trunk, freed from wood into the solidity of stone.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › Building in Wood and Stone
+Citations:

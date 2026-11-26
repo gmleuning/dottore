@@ -60,3 +60,10 @@ F:
 
 Phr:
   hard as flint, soft as wax
+
+# ---- Hegel ----
+Def: Coherence as the inner quality of a body: hard, soft, brittle, ductile, malleable.
+Texts:
+  The Philosophy of Nature
+    §296
+Citations:

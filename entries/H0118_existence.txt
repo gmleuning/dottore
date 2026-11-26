@@ -40,3 +40,10 @@ F:
 Phr:
   existence precedes essence, l'existence précède l'essence [Fr.] [Sartre]
   as large as life
+
+# ---- Hegel ----
+Def: The immediacy of being restored by the sublation of mediation: being that has come forth from ground.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Concrete existence
+Citations:

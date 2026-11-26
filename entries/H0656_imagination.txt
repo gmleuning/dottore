@@ -52,3 +52,10 @@ Phr:
   musaeo contingens cuncta lepore [Lat.] [Lucretius]
   tous songes sont mensonges [Fr.]
   Wahrheil und Dichtung [Ger.]
+
+# ---- Hegel ----
+Def: The mind's free activity with its images: reproduction, association and phantasy.
+Texts:
+  The Philosophy of Mind
+    §§455–460
+Citations:

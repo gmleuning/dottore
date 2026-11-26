@@ -36,3 +36,10 @@ F:
 Phr:
   the search for the criterion
   dogma and doubt
+
+# ---- Hegel ----
+Def: Dogmatism and skepticism, the schools that sought a criterion of truth.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Dogmatic and Skeptical Philosophy
+Citations:

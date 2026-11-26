@@ -21,3 +21,10 @@ Adv:
 
 Phr:
   a word to the wise
+
+# ---- Hegel ----
+Def: Das Sprichwort: a single case taken from ordinary life and so stated that it carries a general meaning.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Parable, Proverb, Apologue › Proverbs
+Citations:

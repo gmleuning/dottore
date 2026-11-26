@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   die Bestimmung des Menschen [Ger.] [Fichte]
+
+# ---- Hegel ----
+Def: Bestimmung, the in-itself of something filled with content and maintained against its relation to other.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Determination, constitution, and limit
+Citations:

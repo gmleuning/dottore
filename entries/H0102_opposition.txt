@@ -44,3 +44,10 @@ Phr:
   on the other hand
   all concord's born of contraries [B. Jonson]
   Thesis, antithesis, synthesis [Marx]
+
+# ---- Hegel ----
+Def: Difference in which each side has its other within itself, as positive and negative.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The determinations of reflection › Difference › Opposition
+Citations:

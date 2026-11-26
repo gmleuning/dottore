@@ -26,3 +26,10 @@ Phr:
   the infinitely small is not nothing
   in proportion
   out of proportion
+
+# ---- Hegel ----
+Def: The quantum known as essentially self-external, so that its truth lies in its relation to another quantum: the ratio.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Quantitative infinity › The infinity of quantum
+Citations:

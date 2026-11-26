@@ -24,3 +24,10 @@ Phr:
   the divine in definite form
   calm and composed
   at rest in itself
+
+# ---- Hegel ----
+Def: The ideal in its determinacy, as the divine shown at rest, eternal power in individual shape.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Determinacy of the Ideal › Ideal Determinacy as Such
+Citations:

@@ -15,3 +15,10 @@ Adj:
 Phr:
   nous orders all things [Anaxagoras]
   like a sober man among random talkers [Aristotle, on Anaxagoras]
+
+# ---- Hegel ----
+Def: Anaxagoras, with whom the understanding, Nous, is first recognized as the principle, the self-determining universal.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Anaxagoras
+Citations:

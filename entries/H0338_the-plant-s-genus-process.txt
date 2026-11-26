@@ -43,3 +43,10 @@ Phr:
   by their fruits ye shall know them [Bible]
   to bear fruit
   to go to seed
+
+# ---- Hegel ----
+Def: The plant's genus process, the flower and fruit, in which the plant reproduces itself and dies as an individual.
+Texts:
+  The Philosophy of Nature
+    §§348–349
+Citations:

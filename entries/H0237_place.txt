@@ -56,3 +56,10 @@ Phr:
   briller par son absence [Fr.]
   conspicuous by his absence [Russell]
   in the hope to meet shortly again and make our absence sweet [B. Jonson]
+
+# ---- Hegel ----
+Def: The posited identity of space and time, the here that is a now; place is indifferent to itself and so becomes another place.
+Texts:
+  The Philosophy of Nature
+    §260
+Citations:

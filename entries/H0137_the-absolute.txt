@@ -43,3 +43,10 @@ Phr:
   hen kai pan [Gr.]
   the be-all and end-all
   first and last
+
+# ---- Hegel ----
+Def: The absolute identity of form and content, in which all determinations have vanished, positive only as their abyss.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute
+Citations:

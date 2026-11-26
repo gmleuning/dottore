@@ -11,3 +11,10 @@ N:
 
 Adj:
   atomist
+
+# ---- Hegel ----
+Def: Leucippus, with whom the One becomes principle as the atom, being-for-self, and the void as the negative.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Leucippus and Democritus
+Citations:

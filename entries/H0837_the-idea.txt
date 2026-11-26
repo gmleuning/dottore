@@ -30,3 +30,10 @@ Phr:
   the idea is the true
   true to the idea
   as it should be
+
+# ---- Hegel ----
+Def: The concept that has given itself reality and is one with it: the true, which is the idea.
+Texts:
+  Aesthetics
+    Concept of the Beautiful as Such › The Idea
+Citations:

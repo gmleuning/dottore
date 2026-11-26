@@ -46,3 +46,10 @@ Phr:
   mens agitat molem [Lat.] [Virgil]
   in the spirit of
   the spirit is willing but the flesh is weak
+
+# ---- Hegel ----
+Def: The idea returned to itself out of nature's externality: spirit, whose essence is freedom, the concept knowing itself; nature's truth and its absolute prius.
+Texts:
+  The Philosophy of Mind
+    §§377–577
+Citations:

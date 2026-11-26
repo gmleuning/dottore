@@ -32,3 +32,10 @@ Phr:
   spirit knowing itself as spirit [Hegel]
   to know it all
   the whole truth
+
+# ---- Hegel ----
+Def: Spirit that knows itself as spirit, in the form of the concept rather than representation: science.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶788–808
+Citations:

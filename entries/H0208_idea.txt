@@ -43,3 +43,10 @@ Phr:
   whatever is real is rational
   the idea of the thing
   true to its idea
+
+# ---- Hegel ----
+Def: The concept and its objectivity in absolute unity: the idea, which is the true, and its process.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea
+Citations:

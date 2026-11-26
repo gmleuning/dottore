@@ -49,3 +49,10 @@ Phr:
   credat Judaeus Apella [Lat.] [Horace]
   let those believe who may
   ad tristem partem stenua est suspicio [Lat.] [Syrus]
+
+# ---- Hegel ----
+Def: The negativity of free thought realized, which dissolves every given, yet is itself a confused self-contradiction.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶202–206
+Citations:

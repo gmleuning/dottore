@@ -39,3 +39,10 @@ Phr:
   the poet's eye, in a fine frenzy rolling [A Midsummer Night's Dream]
   flights of fancy
   castles in the air
+
+# ---- Hegel ----
+Def: Imagination that gives its own content to the images, making symbols and signs.
+Texts:
+  The Philosophy of Mind
+    §§456–459
+Citations:

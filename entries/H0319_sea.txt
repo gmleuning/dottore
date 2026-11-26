@@ -53,3 +53,10 @@ Phr:
   any port in a storm
   bibere venenum in auro [Lat.]
   valet anchora virtus
+
+# ---- Hegel ----
+Def: The sea as a living process, ceaselessly bringing forth a teeming, luminous life.
+Texts:
+  The Philosophy of Nature
+    §341
+Citations:

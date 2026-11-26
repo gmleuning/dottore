@@ -24,3 +24,10 @@ Adv:
 
 Phr:
   hard as flint
+
+# ---- Hegel ----
+Def: The siliceous moment, quartz and flint, the abstract earth of the primitive rock.
+Texts:
+  The Philosophy of Nature
+    §340
+Citations:

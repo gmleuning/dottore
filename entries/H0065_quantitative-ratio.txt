@@ -37,3 +37,10 @@ Phr:
   man is the measure of all things [Protagoras]
   in medio stat virtus [Lat.]
   in the ratio of
+
+# ---- Hegel ----
+Def: Quantum related to quantum, where each is determined only through the other, so that quality returns into quantity.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Ratio or the quantitative relation
+Citations:

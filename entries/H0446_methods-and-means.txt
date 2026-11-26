@@ -24,3 +24,10 @@ Adv:
 Phr:
   tricks of the trade
   mesmeric passes
+
+# ---- Hegel ----
+Def: The touchings and passes by which the trance is induced.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

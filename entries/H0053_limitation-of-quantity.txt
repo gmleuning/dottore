@@ -35,3 +35,10 @@ Phr:
   est modus in rebus [Lat.] [Horace]
   to a fault
   up to the mark
+
+# ---- Hegel ----
+Def: Quantity given a limit within itself, which yields a definite quantity, the quantum.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantity › The limiting of quantity
+Citations:

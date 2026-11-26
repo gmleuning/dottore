@@ -27,3 +27,10 @@ Phr:
   philosophia ancilla theologiae [Lat.]
   philosophy the handmaid of theology
   the Dark Ages
+
+# ---- Hegel ----
+Def: Medieval philosophy, Christian and Arabic, the content of the faith reflected in thought.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy
+Citations:

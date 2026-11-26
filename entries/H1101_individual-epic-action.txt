@@ -27,3 +27,10 @@ F:
 Phr:
   tell me, O Muse, of that ingenious hero [Homer]
   one deed that moves a world
+
+# ---- Hegel ----
+Def: The individual epic action, an event in which the whole of a people's life is engaged.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › Particular Characteristics of Epic Proper › The Individual Epic Action
+Citations:

@@ -29,3 +29,10 @@ Phr:
   it rains
   the ground is wet
   if so, then so
+
+# ---- Hegel ----
+Def: The middle is the being of the condition, which is the being of the conditioned.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of necessity › The hypothetical syllogism
+Citations:

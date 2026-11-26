@@ -48,3 +48,10 @@ Phr:
   some touch of nature's genial glow [Scott]
   this majestical roof fretted with golden fire [Hamlet]
   through knowledge we behold the World's creation [Spenser]
+
+# ---- Hegel ----
+Def: Matter that has its centre and motion within itself: the solar system, freely moving masses whose laws are the concept of matter itself.
+Texts:
+  The Philosophy of Nature
+    §§269–271
+Citations:

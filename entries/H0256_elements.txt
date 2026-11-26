@@ -31,3 +31,10 @@ Phr:
   the four winds
   the elements be kind to thee [Antony and Cleopatra]
   in one's element
+
+# ---- Hegel ----
+Def: The physical elements as moments of the planet's individuality: air, fire and water, and earth.
+Texts:
+  The Philosophy of Nature
+    §§281–285
+Citations:

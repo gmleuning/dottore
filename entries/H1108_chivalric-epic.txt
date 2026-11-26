@@ -20,3 +20,10 @@ Adv:
 Phr:
   knights and ladies
   the matter of Britain
+
+# ---- Hegel ----
+Def: The chivalric epic, whose matter is the knight's honour, love and loyalty, and its adventures, down to Ariosto's comic play with them.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Romantic Epic
+Citations:

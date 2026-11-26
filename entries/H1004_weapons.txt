@@ -18,3 +18,10 @@ Adj:
 
 Adv:
   under arms
+
+# ---- Hegel ----
+Def: Die Waffen: the weapons of gods and heroes, Apollo's bow, Athena's spear and helmet, Heracles' club, which mark the individual's activity.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment
+Citations:

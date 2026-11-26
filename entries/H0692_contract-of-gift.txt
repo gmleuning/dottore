@@ -36,3 +36,10 @@ Phr:
   freely ye have received, freely give [Bible]
   a free gift
   no strings attached
+
+# ---- Hegel ----
+Def: The formal contract, in which only one party gives.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

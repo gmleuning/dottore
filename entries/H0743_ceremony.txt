@@ -39,3 +39,10 @@ Phr:
   to have and to hold, from this day forward [Book of Common Prayer]
   to walk down the aisle
   to say I do
+
+# ---- Hegel ----
+Def: The ceremony by which the bond is made, the declaration of consent before the community.
+Texts:
+  The Philosophy of Right
+    §164
+Citations:

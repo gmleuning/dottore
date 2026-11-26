@@ -40,3 +40,10 @@ Phr:
   let not man put asunder [Bible]
   to go separate ways
   irreconcilable differences
+
+# ---- Hegel ----
+Def: The dissolution of marriage, possible since marriage rests on feeling, but to be made difficult.
+Texts:
+  The Philosophy of Right
+    §176
+Citations:

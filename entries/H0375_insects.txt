@@ -33,3 +33,10 @@ Phr:
   go to the ant, thou sluggard [Bible]
   busy as a bee
   ants in one's pants
+
+# ---- Hegel ----
+Def: Animals of the outward differentiation, with the systems separated into sections and metamorphoses.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

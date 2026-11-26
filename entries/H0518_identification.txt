@@ -20,3 +20,10 @@ Adj:
 Phr:
   desire reborn from satisfaction
   at peace with oneself
+
+# ---- Hegel ----
+Def: The product of the process: the I closes together with itself and is for itself; its satisfaction shows that it needs another self-consciousness.
+Texts:
+  The Philosophy of Mind
+    §429
+Citations:

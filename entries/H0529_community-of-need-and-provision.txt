@@ -40,3 +40,10 @@ Phr:
   to look after one's own
   alterum alterius auxilio eget [Lat.] [Sallust]
   God befriend us as our cause is just [Henry IV]
+
+# ---- Hegel ----
+Def: The shared care for need and provision, the common interest which unites master and servant.
+Texts:
+  The Philosophy of Mind
+    §434
+Citations:

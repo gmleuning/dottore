@@ -66,3 +66,10 @@ Phr:
   now good digestion wait on appetite, and health on both! [Macbeth]
   who can cloy the hungry edge of appetite? [Richard II],
   jejunus raro stomachus vulgaria temnit [Lat.] [Horace]
+
+# ---- Hegel ----
+Def: The animal's assimilation of its food: the digestive process, a conflict in which the organism masters the external.
+Texts:
+  The Philosophy of Nature
+    §§363–365
+Citations:

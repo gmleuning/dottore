@@ -30,3 +30,10 @@ Phr:
   let no one ignorant of geometry enter [attrib. Plato]
   neat as a pin
   in good order
+
+# ---- Hegel ----
+Def: Beauty as the abstract unity of external form: regularity, conformity to law, harmony.
+Texts:
+  Aesthetics
+    The Beauty of Nature › The External Beauty of the Abstract Form › Beauty of Abstract Form
+Citations:

@@ -72,3 +72,10 @@ Phr:
   my mind is made up - don't bother me with the facts
   all his geese are swans
   parturiunt montes [Lat.]
+
+# ---- Hegel ----
+Def: Thinking that distinguishes and relates its determinations, the universal and the singular.
+Texts:
+  The Philosophy of Mind
+    §467
+Citations:

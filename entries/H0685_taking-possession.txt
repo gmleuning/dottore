@@ -42,3 +42,10 @@ Phr:
   to stake a claim
   lucri causa [Lat.]
   uti possidetis [Lat.]
+
+# ---- Hegel ----
+Def: The appropriation of a thing, by bodily seizure, by giving it form, or by marking it as mine.
+Texts:
+  The Philosophy of Right
+    §§54–58
+Citations:

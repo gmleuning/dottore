@@ -34,3 +34,10 @@ Phr:
   he emptied himself, taking the form of a servant [Bible]
   the fall of man
   paradise lost
+
+# ---- Hegel ----
+Def: Spirit in its otherness: the creation of the world, the fall into evil, and the mediator.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶774–778
+Citations:

@@ -42,3 +42,10 @@ Phr:
   a soul as white as heaven [Beaumont and Fletcher]
   'tis Chastity, my brother, Chastity [Milton]
   to the pure all things are pure [Shelley]
+
+# ---- Hegel ----
+Def: Monogamy, which rests on the immediate surrender of personality to one another.
+Texts:
+  The Philosophy of Right
+    §167
+Citations:

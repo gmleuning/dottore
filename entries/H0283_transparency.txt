@@ -38,3 +38,10 @@ F:
 Phr:
   clear as glass
   to see through
+
+# ---- Hegel ----
+Def: The body as the abstract identity of individuality with itself, transparent to light, like the crystal.
+Texts:
+  The Philosophy of Nature
+    §317
+Citations:

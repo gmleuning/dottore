@@ -38,3 +38,10 @@ Phr:
   to thine own self be true [Hamlet]
   ipse dixit [Lat.]
   in a world of one's own
+
+# ---- Hegel ----
+Def: Being that has sublated all relation to other into relation to itself; infinite being turned back into itself; the truth of quality.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself
+Citations:

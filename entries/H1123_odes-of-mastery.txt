@@ -10,3 +10,10 @@ N:
 
 Adj:
   Pindaric
+
+# ---- Hegel ----
+Def: The Pindaric ode, where the poet's inspiration masters the subject, celebrating victors while ranging freely through myth.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

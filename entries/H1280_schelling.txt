@@ -22,3 +22,10 @@ F:
 Phr:
   nature is visible spirit, spirit invisible nature [Schelling]
   the night in which all cows are black [Hegel]
+
+# ---- Hegel ----
+Def: Schelling, the philosophy of identity, nature and spirit as one absolute.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › Friedrich Wilhelm Joseph Schelling
+Citations:

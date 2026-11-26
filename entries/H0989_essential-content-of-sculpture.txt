@@ -25,3 +25,10 @@ Phr:
   the god at rest
   the eternal in human form
   gods made visible
+
+# ---- Hegel ----
+Def: The content proper to sculpture: the objective spiritual, the eternal divine in human form, without the particularity of feeling.
+Texts:
+  Aesthetics
+    Sculpture › The Principle of Sculpture Proper › The Essential Content of Sculpture
+Citations:

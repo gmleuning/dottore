@@ -89,3 +89,10 @@ Phr:
   parturiunt montes [Lat.]
   dies infaustus [Lat.]
   tout est perdu hors l'honneur [Fr.]
+
+# ---- Hegel ----
+Def: The end realized in the object, which is itself only a means, so that the end becomes the idea.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Teleology › The realized purpose
+Citations:

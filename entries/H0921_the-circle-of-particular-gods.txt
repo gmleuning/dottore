@@ -26,3 +26,10 @@ F:
 Phr:
   the twelve Olympians
   a pantheon
+
+# ---- Hegel ----
+Def: The circle of particular gods, a plurality of spiritual powers.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Ideal of the Classical Form of Art › The Group of Particular Gods
+Citations:

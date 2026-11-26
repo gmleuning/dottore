@@ -45,3 +45,10 @@ Phr:
   young at heart
   youth on the prow and pleasure at the helm [Gray]
   youth a the glad season of life [Carlyle]
+
+# ---- Hegel ----
+Def: Spirit in opposition: the ideal confronts a world felt as hostile, and the youth seeks to change it.
+Texts:
+  The Philosophy of Mind
+    §396
+Citations:

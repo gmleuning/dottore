@@ -29,3 +29,10 @@ F:
 Phr:
   know thyself, gnōthi seauton [Gr.]
   I that is We, and We that is I [Hegel]
+
+# ---- Hegel ----
+Def: The truth of consciousness: the I that is its own object, I = I, whose first form is desire.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶166–230
+Citations:

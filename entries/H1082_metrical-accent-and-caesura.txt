@@ -7,3 +7,10 @@ HGloss: The verse-accent on particular syllables of the foot, and the caesura, w
 N:
   metrical accent and caesura; verse accent, metrical stress, diaeresis, pause, break, masculine caesura, feminine caesura
   caesura, ictus, arsis, thesis
+
+# ---- Hegel ----
+Def: The verse-accent on particular syllables of the foot, and the caesura, which cuts across the feet and keeps the line from falling apart into its units.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

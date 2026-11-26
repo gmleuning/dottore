@@ -50,3 +50,10 @@ Phr:
   ex ungue leonem [Lat.], ex pede Herculem [Lat.]
   vide ut supra
   vultus ariete fortior [Lat.]
+
+# ---- Hegel ----
+Def: Phantasy that makes signs, in which the intuition stands for something other than itself, as the pyramid holds a soul.
+Texts:
+  The Philosophy of Mind
+    §§457–458
+Citations:

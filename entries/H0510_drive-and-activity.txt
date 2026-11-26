@@ -15,3 +15,10 @@ F:
 Phr:
   the urge to act
   an urge to act
+
+# ---- Hegel ----
+Def: The drive to sublate the object, and the activity that satisfies it.
+Texts:
+  The Philosophy of Mind
+    §§426–427
+Citations:

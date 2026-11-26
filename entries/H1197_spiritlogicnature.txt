@@ -24,3 +24,10 @@ Phr:
   die ewige an und für sich seiende Idee sich ewig als absoluter Geist betätigt, erzeugt und genießt [Ger.] [Hegel, Encyclopaedia §577]
   reason knowing itself
   the idea in and for itself
+
+# ---- Hegel ----
+Def: The third syllogism, spirit–logic–nature, which has the self-knowing reason, the logical idea, as the middle.
+Texts:
+  The Philosophy of Mind
+    §577
+Citations:

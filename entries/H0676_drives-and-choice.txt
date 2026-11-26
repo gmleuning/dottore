@@ -55,3 +55,10 @@ Phr:
   such joy ambition finds [Paradise Lost]
   the sea hath bounds but deep desire hath none [Venus and Adonis]
   ubi mel ibi apes [Lat.]
+
+# ---- Hegel ----
+Def: The will's drives, and its choosing among them, the reflective will which weighs and decides.
+Texts:
+  The Philosophy of Mind
+    §§473–478
+Citations:

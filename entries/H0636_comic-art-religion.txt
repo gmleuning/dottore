@@ -42,3 +42,10 @@ Phr:
   dies unglückliche Bewußtsein [macht] die Gegenseite und Vervollständigung des in sich vollkommen glücklichen, des komischen Bewußtseins aus [Ger.] [Hegel, Phenomenology ¶752]
   the mask slips
   to laugh at the gods
+
+# ---- Hegel ----
+Def: Comedy, in which the self takes off the mask and sees through the gods, the self as absolute being.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶744–747
+Citations:

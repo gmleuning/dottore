@@ -28,3 +28,10 @@ Phr:
   sunt lacrimae rerum et mentem mortalia tangunt [Lat.] [Virgil]
   born to die
   the end of the line
+
+# ---- Hegel ----
+Def: The finite in its immediacy, determined only to perish, its passing away fixed as its unalterable being.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Finitude › The immediacy of finitude
+Citations:

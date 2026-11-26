@@ -31,3 +31,10 @@ Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]
   the five senses
   to sense danger
+
+# ---- Hegel ----
+Def: The theoretical process: the senses, through which the animal relates to its object without consuming it.
+Texts:
+  The Philosophy of Nature
+    §§357–358
+Citations:

@@ -42,3 +42,10 @@ Phr:
   what oft was thought, but ne'er so well expressed [Pope]
   the best words in the best order
   elevated speech
+
+# ---- Hegel ----
+Def: Poetic diction, the choice and order of words, elevated beyond ordinary speech.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Poetic Diction
+Citations:

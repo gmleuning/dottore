@@ -30,3 +30,10 @@ F:
 Phr:
   the pyramid of figures
   balance and grouping
+
+# ---- Hegel ----
+Def: The arrangement of the figures in the painting into a unified situation.
+Texts:
+  Aesthetics
+    Painting › Particular Characteristics of Painting › Conception, Composition, and Characterization
+Citations:

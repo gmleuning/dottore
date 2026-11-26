@@ -51,3 +51,10 @@ Phr:
   while mocking winds are piping loud [Milton]
   winged with red lightning and tempestuous rage [Paradise Lost]
   the lowring element scowls o'er the darkened landscip [Paradise Lost]
+
+# ---- Hegel ----
+Def: The elements in their living process with one another, the life of the earth: weather, storms, and the alternation of the seasons.
+Texts:
+  The Philosophy of Nature
+    §§286–289
+Citations:

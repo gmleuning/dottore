@@ -24,3 +24,10 @@ Phr:
   to have one's bumps read
   to have one's head examined
   a bump on the head
+
+# ---- Hegel ----
+Def: The reading of mind from the shape of the skull, the lowest form of observing reason.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶323–346
+Citations:

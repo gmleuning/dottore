@@ -26,3 +26,10 @@ F:
 Phr:
   the Tower of Babel
   to make a name for ourselves
+
+# ---- Hegel ----
+Def: Building that unites a people, the tower of Babel and the Bel temple.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture › Architectural Works Built for National Unification
+Citations:

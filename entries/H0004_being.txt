@@ -38,3 +38,10 @@ Phr:
   from the ground up
   ens rationis [Lat.]
   ergo sum cogito [Lat.], thinkest thou existence doth depend on time? [Byron]
+
+# ---- Hegel ----
+Def: The first beginning of the logic: indeterminate immediacy, which proves to be the same as nothing and passes into becoming.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being
+Citations:

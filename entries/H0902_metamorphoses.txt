@@ -30,3 +30,10 @@ Phr:
   in nova fert animus mutatas dicere formas corpora [Lat.] [Ovid]
   changed into a tree
   to change one's shape
+
+# ---- Hegel ----
+Def: The metamorphoses, transformations of human beings into natural things.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Metamorphoses
+Citations:

@@ -34,3 +34,10 @@ F:
 Phr:
   credo ut intelligam [Lat.]
   faith seeking understanding
+
+# ---- Hegel ----
+Def: God in the form of thought, which raises the content of religion to the concept, as in the proofs of God's existence.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827) › The Knowledge of God › Thought
+Citations:

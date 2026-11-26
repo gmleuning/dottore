@@ -24,3 +24,10 @@ Adv:
 Phr:
   the record of the rocks
   the fossil record
+
+# ---- Hegel ----
+Def: The stratified formations, laid down in layers and bearing the remains of former life.
+Texts:
+  The Philosophy of Nature
+    §340
+Citations:

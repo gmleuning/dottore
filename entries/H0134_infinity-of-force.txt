@@ -28,3 +28,10 @@ Phr:
   the force is its expression
   to show what one is made of
   spends itself only to return
+
+# ---- Hegel ----
+Def: Force expressing itself only to return into itself: its expression is the expression of the force itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The essential relation › The relation of force and its expression › The infinity of force
+Citations:

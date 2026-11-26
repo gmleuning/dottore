@@ -31,3 +31,10 @@ Phr:
   a second nature
   the spirit of the laws
   the social fabric
+
+# ---- Hegel ----
+Def: Freedom realized in an external world of right, morality and ethical life: spirit in the form of reality as a world that it has produced.
+Texts:
+  The Philosophy of Right
+    §§34–360
+Citations:

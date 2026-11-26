@@ -25,3 +25,10 @@ F:
 
 Phr:
   the play of forces
+
+# ---- Hegel ----
+Def: Force which expresses itself and is driven back into itself, the play of forces.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶136–143
+Citations:

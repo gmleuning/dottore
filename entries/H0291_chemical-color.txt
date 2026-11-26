@@ -28,3 +28,10 @@ Adv:
 Phr:
   dyed in the wool
   to colour in
+
+# ---- Hegel ----
+Def: Colour become the fixed darkness of the body itself, its own quality as pigment.
+Texts:
+  The Philosophy of Nature
+    §320
+Citations:

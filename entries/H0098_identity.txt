@@ -41,3 +41,10 @@ Phr:
   I am that I am [Bible]
   tat tvam asi [Skt.] [thou art that] [Chandogya Upanishad]
   c'est la même chose [Fr.]
+
+# ---- Hegel ----
+Def: Essence's simple self-relation, which is not abstract A = A but an identity that contains difference within itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The determinations of reflection › Identity
+Citations:

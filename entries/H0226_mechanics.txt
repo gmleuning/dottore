@@ -29,3 +29,10 @@ F:
 Phr:
   give me a place to stand and I will move the earth [Archimedes]
   the nuts and bolts
+
+# ---- Hegel ----
+Def: Nature's first sphere, of asunderness without inwardness: space, time, matter and motion, and the free motion of the heavens.
+Texts:
+  The Philosophy of Nature
+    §§253–271
+Citations:

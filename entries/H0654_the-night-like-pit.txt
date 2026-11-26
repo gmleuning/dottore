@@ -30,3 +30,10 @@ Phr:
   very deep is the well of the past [Thomas Mann]
   the back of one's mind
   buried deep
+
+# ---- Hegel ----
+Def: The night-like pit in which a world of images is kept without being conscious.
+Texts:
+  The Philosophy of Mind
+    §453
+Citations:

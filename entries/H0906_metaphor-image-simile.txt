@@ -25,3 +25,10 @@ F:
 
 Phr:
   mutato nomine de te fabula narratur [Lat.] [Horace]
+
+# ---- Hegel ----
+Def: The metaphor, image and simile, in which a meaning and its image are joined by the poet.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Metaphor, Image, Simile
+Citations:

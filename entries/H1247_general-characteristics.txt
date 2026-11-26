@@ -26,3 +26,10 @@ F:
 
 Phr:
   the One, Mind and Soul
+
+# ---- Hegel ----
+Def: The general character of Neoplatonism, the concrete idea as a trinity, the totality of the intelligible world.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Neoplatonic Philosophy › General Characteristics
+Citations:

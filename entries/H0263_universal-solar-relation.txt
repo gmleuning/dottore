@@ -43,3 +43,10 @@ Phr:
   midnight, the outpost of advancing day [Longfellow]
   sable-vested Night [Milton]
   this gorgeous arch with golden worlds inlay'd [Young]
+
+# ---- Hegel ----
+Def: The earth's relation to the sun, its sphere of light and warmth, as day and night and the seasons.
+Texts:
+  The Philosophy of Nature
+    §287
+Citations:

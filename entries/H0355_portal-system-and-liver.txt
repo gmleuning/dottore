@@ -14,3 +14,10 @@ Adj:
 F:
   Latin: vena portae, hepar, iecur
   Greek: hēpar
+
+# ---- Hegel ----
+Def: The second moment of the circuit: the portal system and the liver, where the blood, with the gastric and pancreatic juices, turns against the food it has to master.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

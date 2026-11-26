@@ -43,3 +43,10 @@ Phr:
   the tricks of the trade
   the painter at work
   conception, composition, character
+
+# ---- Hegel ----
+Def: The painter's craft, conception, composition and characterization.
+Texts:
+  Aesthetics
+    Painting › Particular Characteristics of Painting › Conception, Composition, and Characterization
+Citations:

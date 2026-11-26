@@ -40,3 +40,10 @@ Phr:
   local colour
   the setting of the scene
   honores mutant mores [Lat.]
+
+# ---- Hegel ----
+Def: The ideal's external determinacy, its outer setting in nature and the human world.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Determinacy of the Ideal › The External Determinacy of the Ideal
+Citations:

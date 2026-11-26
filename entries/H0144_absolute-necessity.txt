@@ -63,3 +63,10 @@ Phr:
   quisque suos patimur manes [Lat.] [Virgil]
   The moving finger writes and having writ moves on
   Nor all thy piety nor wit shall draw it back to cancel half a [Rubayyat of Omar Khayyam]
+
+# ---- Hegel ----
+Def: Necessity that is because it is: being that has its ground only in itself, at once blind and the self-relation of freedom.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › Actuality › Absolute necessity
+Citations:

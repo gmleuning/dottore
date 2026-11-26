@@ -25,3 +25,10 @@ Phr:
   from icon to genre
   from icon to landscape
   the schools of painting
+
+# ---- Hegel ----
+Def: The historical course of painting.
+Texts:
+  Aesthetics
+    Painting › Historical Development of Painting
+Citations:

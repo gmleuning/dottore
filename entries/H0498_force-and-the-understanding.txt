@@ -34,3 +34,10 @@ F:
 Phr:
   to understand is to see the hidden force
   the powers that be
+
+# ---- Hegel ----
+Def: The understanding, which takes the thing as appearance and finds its truth in force and law behind it.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶132–165
+Citations:

@@ -37,3 +37,10 @@ Phr:
   nothing but a collection of simple ideas, that are united by the imagination, and have a particular name assigned them [Hume, Treatise 1.1.6]
   a thing among things
   the thing itself
+
+# ---- Hegel ----
+Def: The existent as a thing with many properties, the unity of reflection-into-self and reflection-into-other.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Concrete existence › The thing and its properties
+Citations:

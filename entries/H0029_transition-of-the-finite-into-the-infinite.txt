@@ -37,3 +37,10 @@ Phr:
   plus ultra [Lat.]
   beyond the pale
   to go beyond
+
+# ---- Hegel ----
+Def: The finite, by sublating its own restriction, goes beyond itself and in this going-beyond is the infinite.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Finitude › Transition of the finite into the infinite
+Citations:

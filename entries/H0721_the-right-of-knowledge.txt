@@ -23,3 +23,10 @@ F:
 Phr:
   ignorance is no excuse
   to know what one is doing
+
+# ---- Hegel ----
+Def: Das Recht des Wissens: the will has the right to recognize as its action only what it knew of the presupposed circumstances; Oedipus, who killed his father unknowing, cannot be charged with parricide (§117).
+Texts:
+  The Philosophy of Right
+    §117
+Citations:

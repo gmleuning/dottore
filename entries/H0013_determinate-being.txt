@@ -40,3 +40,10 @@ Phr:
   such is life
   being there
   on the scene
+
+# ---- Hegel ----
+Def: Being with a determinateness, the result of becoming: being that is there, existing as quality.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence
+Citations:

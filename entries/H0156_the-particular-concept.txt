@@ -37,3 +37,10 @@ Phr:
   every particular is a species
   of a kind
   le style est l'homme meme [Fr.]
+
+# ---- Hegel ----
+Def: The universal in its determinateness, which is the universal distinguishing itself; the species as the universal's own self-differentiation.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The concept › The particular concept
+Citations:

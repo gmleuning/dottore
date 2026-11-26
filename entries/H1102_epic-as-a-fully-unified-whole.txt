@@ -25,3 +25,10 @@ Phr:
   beginning, middle, and end [Aristotle]
   broad and leisurely
   episode after episode
+
+# ---- Hegel ----
+Def: The epic as a whole, unified yet broad, episodic, governed by circumstance.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › Particular Characteristics of Epic Proper › The Epic as a Fully Unified Whole
+Citations:

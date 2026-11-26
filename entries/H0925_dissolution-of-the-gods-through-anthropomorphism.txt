@@ -24,3 +24,10 @@ Phr:
   if oxen and horses or lions had hands, and could paint with their hands … horses would paint the forms of the gods like horses, and oxen like oxen [Xenophanes, fr. 15, tr. Burnet]
   the gods made human
   all too human
+
+# ---- Hegel ----
+Def: The decay of the gods through anthropomorphism, their becoming merely human.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Dissolution of the Classical Form of Art › Dissolution of the Gods through their Anthropomorphism
+Citations:

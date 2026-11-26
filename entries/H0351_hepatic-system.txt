@@ -24,3 +24,10 @@ Phr:
   vent one's spleen
   to have the gall
   zum verzehrenden Vulkan [Ger.] [Hegel, Encyclopedia §354 Zusatz, on the portal system]
+
+# ---- Hegel ----
+Def: The liver and the portal system, where the blood's subjectivity becomes activity, a consuming volcano, the inward fire of digestion.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

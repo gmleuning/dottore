@@ -34,3 +34,10 @@ Phr:
   the spirit of the age
   O tempora, o mores! [Lat.] [Cicero]
   a world of one's own making
+
+# ---- Hegel ----
+Def: Spirit as ethical actuality, a world of self-consciousnesses, a people whose substance is its custom and law.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶438–671
+Citations:

@@ -33,3 +33,10 @@ Phr:
   Either/Or, Enten-Eller [Danish] [Kierkegaard]
   tertium non datur [Lat.]
   one or the other
+
+# ---- Hegel ----
+Def: The genus as the totality of its species, each excluding the others: A is either B or C.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of necessity › The disjunctive judgment
+Citations:

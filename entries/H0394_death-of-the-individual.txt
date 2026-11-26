@@ -57,3 +57,10 @@ Phr:
   Spake the grisly Terror [Paradise Lost]
   the lone couch of this everlasting sleep [Shelley]
   nothing is certain but death and taxes
+
+# ---- Hegel ----
+Def: The individual's inadequacy to universality, its original disease; it dies from habit, and from its death spirit comes forth.
+Texts:
+  The Philosophy of Nature
+    §§375–376
+Citations:

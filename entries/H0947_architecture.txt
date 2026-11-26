@@ -35,3 +35,10 @@ Phr:
   architecture is frozen music [Schelling, attrib.]
   firmitas, utilitas, venustas [Lat.] [firmness, commodity, delight] [Vitruvius]
   built to last
+
+# ---- Hegel ----
+Def: Architecture, the art of the external, which shapes inorganic nature to an enclosure for spirit.
+Texts:
+  Aesthetics
+    Architecture
+Citations:

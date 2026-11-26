@@ -14,3 +14,10 @@ Adj:
 
 Phr:
   all things are full of gods
+
+# ---- Hegel ----
+Def: Thales, with whom philosophy begins: water as the principle, the one universal essence grasped as a sensuous element.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Seven Sages and the Milesians
+Citations:

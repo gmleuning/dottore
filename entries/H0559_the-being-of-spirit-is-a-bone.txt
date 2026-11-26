@@ -27,3 +27,10 @@ Phr:
   the being of spirit is a bone [Hegel]
   you are nothing but a pack of neurons [Francis Crick]
   the highest and the lowest
+
+# ---- Hegel ----
+Def: The infinite judgment that spirit is a bone, in which the highest and lowest are crudely identified.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶343–346
+Citations:

@@ -23,3 +23,10 @@ Phr:
   nihil est in intellectu quod non prius fuerit in sensu [Lat.]
   nothing in the intellect that was not first in the senses
   experience is the teacher
+
+# ---- Hegel ----
+Def: Empiricism, which takes experience as the source of knowledge.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › Critique and Second Period of Metaphysics: Locke, Leibniz, and Others
+Citations:

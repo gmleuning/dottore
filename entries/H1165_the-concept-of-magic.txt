@@ -34,3 +34,10 @@ Phr:
   like produces like
   the will that commands nature
   a word of power
+
+# ---- Hegel ----
+Def: The concept of magic, the immediate power of the individual will over nature.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religion of Magic › The Concept of Magic
+Citations:

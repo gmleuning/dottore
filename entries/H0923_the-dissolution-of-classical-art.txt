@@ -23,3 +23,10 @@ Adv:
 Phr:
   the twilight of the gods
   the gods are dead
+
+# ---- Hegel ----
+Def: The dissolution of classical art.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Dissolution of the Classical Form of Art
+Citations:

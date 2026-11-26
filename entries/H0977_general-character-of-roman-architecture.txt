@@ -26,3 +26,10 @@ F:
 Phr:
   all roads lead to Rome
   bread and circuses
+
+# ---- Hegel ----
+Def: Roman building, grand, practical and magnificent, serving the purposes of the state and of luxury.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Different Styles in Classical Architecture › General Character of Roman Architecture
+Citations:

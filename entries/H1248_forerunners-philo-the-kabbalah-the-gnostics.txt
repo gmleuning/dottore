@@ -17,3 +17,10 @@ Adj:
 F:
   Hebrew: Kabbalah, Ein Sof, Sefirot
   Greek: gnōsis, plērōma, aiōn, dēmiourgos
+
+# ---- Hegel ----
+Def: Philo, the Kabbalah and the Gnostics, in whom the oriental and the Greek meet: God as the abyss and the Logos as his first-born, the beginning of the Alexandrian concrete idea.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Neoplatonic Philosophy › The Philosophers
+Citations:

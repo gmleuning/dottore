@@ -41,3 +41,10 @@ Phr:
   ever more
   there's always more where that came from
   as boundless as the sea [Romeo and Juliet]
+
+# ---- Hegel ----
+Def: The spurious infinite in quantity: the endless more and less, the ought of quantity never fulfilled.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Quantitative infinity › The quantitative infinite process
+Citations:

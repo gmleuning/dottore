@@ -85,3 +85,10 @@ Phr:
   that orbed continent, the fire that severs day from night [Twelfth Night]
   welcome ye shades! ye bowery thickets hail [Thomson]
   soften the glare, merge with the dust, he guang tong chen [Chin.] [Laozi]
+
+# ---- Hegel ----
+Def: The existent universal self of matter, pure identity with itself, manifestation that is its own showing; light makes visible.
+Texts:
+  The Philosophy of Nature
+    §§275–278
+Citations:

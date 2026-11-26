@@ -36,3 +36,10 @@ Phr:
   what is matter? Never mind. What is mind? No matter
   mind over matter
   it doesn't matter
+
+# ---- Hegel ----
+Def: The identity of space and time, of place and motion, as an immediate existent unity: matter, which has the concept outside it, in gravity.
+Texts:
+  The Philosophy of Nature
+    §261
+Citations:

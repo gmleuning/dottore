@@ -28,3 +28,10 @@ Phr:
   tat tvam asi [Skt.] [thou art that] [Chandogya Upanishad]
   aham brahmāsmi [Skt.] [I am Brahman] [Brihadaranyaka Upanishad]
   the dance of Shiva
+
+# ---- Hegel ----
+Def: The Hindu religion of fantasy, Brahman as the one substance and the countless gods as its scattered shapes.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Hindu Religion
+Citations:

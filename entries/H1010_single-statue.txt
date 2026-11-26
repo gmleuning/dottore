@@ -29,3 +29,10 @@ F:
 Phr:
   the Discobolus
   a figure alone
+
+# ---- Hegel ----
+Def: The single statue, the god in repose, the purest sculptural form.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Modes of Portrayal › The Single Statue
+Citations:

@@ -46,3 +46,10 @@ Phr:
   pure-eyed Faith
   thou hovering angel girt with golden wings [Milton]
   giovane santo diavolo vecchio [It.]
+
+# ---- Hegel ----
+Def: God in the form of feeling, the subjective certainty of the heart, which is formal and can contain anything.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Concept of Religion (1827) › The Knowledge of God › Feeling
+Citations:

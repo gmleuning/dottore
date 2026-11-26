@@ -49,3 +49,10 @@ Phr:
   fecit [Lat.], delineavit [Lat.]
   mutum est pictura poema [Lat.]
   sculpsit [Lat.], imprimit [Lat.]
+
+# ---- Hegel ----
+Def: Painting, the first romantic art, which shows inwardness as appearance on a surface through light and colour.
+Texts:
+  Aesthetics
+    Painting
+Citations:

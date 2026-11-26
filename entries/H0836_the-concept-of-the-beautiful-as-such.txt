@@ -51,3 +51,10 @@ Phr:
   gratior ac pulchro veniens in corpore virtus [Lat.] [Virgil]
   none but the brave deserve the fair [Dryden]
   thou who hast the fatal gift of beauty [Byron]
+
+# ---- Hegel ----
+Def: The beautiful in its concept: the sensuous shining of the idea, free and infinite, which is not to be grasped by the understanding.
+Texts:
+  Aesthetics
+    Concept of the Beautiful as Such
+Citations:

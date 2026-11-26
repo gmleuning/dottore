@@ -23,3 +23,10 @@ F:
 
 Phr:
   a husband lost, another might have been found, and child from another, to replace the first-born: but, father and mother hidden with Hades, no brother's life could ever bloom for me again [Sophocles, Antigone 909–12, tr. Jebb]
+
+# ---- Hegel ----
+Def: Die Schwester: the woman who, as sister, has the highest presentiment of the ethical; the loss of the brother is for her irreplaceable, and her duty to him is the highest.
+Texts:
+  The Phenomenology of Spirit
+    ¶457
+Citations:

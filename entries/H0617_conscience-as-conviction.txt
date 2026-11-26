@@ -29,3 +29,10 @@ F:
 Phr:
   here I stand, I can do no other, hier stehe ich, ich kann nicht anders [Ger.] [attrib. Luther]
   to follow one's conscience
+
+# ---- Hegel ----
+Def: Conscience as the certainty of its own conviction, which is immediately duty.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶632–654
+Citations:

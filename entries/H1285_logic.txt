@@ -26,3 +26,10 @@ F:
 
 Phr:
   the science of the idea in and for itself [Hegel]
+
+# ---- Hegel ----
+Def: The logical idea, the science of the idea in and for itself.
+Texts:
+  The Encyclopaedia Logic
+    §§19–244
+Citations:

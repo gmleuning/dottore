@@ -26,3 +26,10 @@ Phr:
   rosy-fingered dawn [Homer]
   each god in his sphere
   the attributes of the gods
+
+# ---- Hegel ----
+Def: The individuality of the particular gods, each with its own character and attributes.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Ideal of the Classical Form of Art › The Individuality of the Gods
+Citations:

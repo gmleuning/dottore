@@ -31,3 +31,10 @@ F:
 Phr:
   everything flows and nothing stays
   here, there and everywhere
+
+# ---- Hegel ----
+Def: Space and time posited in their unity: the here that is equally a now, and the vanishing and self-renewing of place, which is motion.
+Texts:
+  The Philosophy of Nature
+    §§260–261
+Citations:

@@ -12,3 +12,10 @@ N:
 Phr:
   aham ātmā guḍākeśa sarvabhūtāśayasthitaḥ [Skt.] [Bhagavad Gita 10.20]
   I am the Spirit seated deep in every creature's heart [Bhagavad Gita 10.20, tr. Arnold]
+
+# ---- Hegel ----
+Def: Die indische Poesie: Krishna declaring himself the brightest of lights and the best of each kind, the one essence in all its many shapes.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Symbolism of the Sublime › The Pantheism of Art › Indian Poetry
+Citations:

@@ -28,3 +28,10 @@ Adv:
 Phr:
   to gar auto noein estin te kai einai [Gr.] [Parmenides]
   all of a piece
+
+# ---- Hegel ----
+Def: The unity of thought and being as reason grasps it.
+Texts:
+  The Philosophy of Mind
+    §439
+Citations:

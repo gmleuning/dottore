@@ -55,3 +55,10 @@ Phr:
   flecti non frangi [Lat.]
   he that wrestles with us strengthens our nerves and sharpens our skill [Burke]
   inflexible in faith invincible in arms [Beattie]
+
+# ---- Hegel ----
+Def: The muscles, the irritability as contraction and expansion, the movement of the organism.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

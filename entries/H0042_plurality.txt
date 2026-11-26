@@ -34,3 +34,10 @@ Phr:
   the more the merrier
   one after another
   one and all
+
+# ---- Hegel ----
+Def: The one's self-repulsion, its exclusion of itself from itself, which posits the many ones.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › The one and the many › Many ones
+Citations:

@@ -10,3 +10,10 @@ N:
 
 Adj:
   odic
+
+# ---- Hegel ----
+Def: The ode, in which the poet's inwardness takes up a lofty object and both struggle for mastery.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

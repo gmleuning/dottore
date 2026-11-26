@@ -38,3 +38,10 @@ Phr:
   ex nihilo nihil [Lat.]
   materiam superabat opus [Lat.] [Ovid]
   nemo dat quod non habet [Lat.]
+
+# ---- Hegel ----
+Def: The animal's relation to its genus: the division into species, the sex-relation, and disease and death.
+Texts:
+  The Philosophy of Nature
+    §§367–376
+Citations:

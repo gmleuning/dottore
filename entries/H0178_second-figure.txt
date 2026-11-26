@@ -28,3 +28,10 @@ Phr:
   every whale is a mammal
   therefore no whale is a fish
   by example
+
+# ---- Hegel ----
+Def: The universal joined to the particular through the singular: P–S–U.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of existence › The second figure
+Citations:

@@ -31,3 +31,10 @@ Phr:
   caelum non animum mutant qui trans mare currunt [Lat.] [Horace]
   the lie of the land
   the climate of opinion
+
+# ---- Hegel ----
+Def: The particular meteorological processes of different regions: zones and climates.
+Texts:
+  The Philosophy of Nature
+    §287
+Citations:

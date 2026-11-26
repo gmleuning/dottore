@@ -24,3 +24,10 @@ Adv:
 Phr:
   God in the forms of nature
   the gods of nature
+
+# ---- Hegel ----
+Def: Spirit knowing itself in natural shapes: light, plant and animal, and the artificer's work.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶684–698
+Citations:

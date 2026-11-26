@@ -24,3 +24,10 @@ Phr:
   a state among states
   a nation among nations
   the family of nations
+
+# ---- Hegel ----
+Def: The state as an individual, exclusive, a being-for-self.
+Texts:
+  The Philosophy of Right
+    §§321–324
+Citations:

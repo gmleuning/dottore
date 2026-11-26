@@ -45,3 +45,10 @@ F:
 Phr:
   ashes to ashes
   burn to ashes
+
+# ---- Hegel ----
+Def: Combustion, the process of fire in which a body is kindled and consumed, burning to an oxide.
+Texts:
+  The Philosophy of Nature
+    §331
+Citations:

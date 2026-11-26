@@ -41,3 +41,10 @@ F:
 Phr:
   caelum non animum mutant qui trans mare currunt [Lat.] [Horace]
   every nation under heaven
+
+# ---- Hegel ----
+Def: The natural differences of spirit among peoples and races, the local spirits of the earth's divisions.
+Texts:
+  The Philosophy of Mind
+    §§393–394
+Citations:

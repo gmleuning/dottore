@@ -22,3 +22,10 @@ Adv:
 Phr:
   das Selbstbewußtsein ist Begierde überhaupt [Ger.] [Hegel, Phenomenology]
   seeking a horse in an empty market, qiu ma tang si [Chin.] [Zhuangzi]
+
+# ---- Hegel ----
+Def: Begierde, self-consciousness as desire, certain of the nothingness of the other and setting out to prove it.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶174–175
+Citations:

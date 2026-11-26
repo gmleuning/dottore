@@ -52,3 +52,10 @@ Phr:
   the beast with two backs [Othello]
   the birds and the bees
   post coitum omne animal triste est [Lat.]
+
+# ---- Hegel ----
+Def: The genus present in the individual as a feeling of its own deficiency, the drive to find itself in another of its kind.
+Texts:
+  The Philosophy of Nature
+    §§368–369
+Citations:

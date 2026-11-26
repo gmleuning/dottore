@@ -43,3 +43,10 @@ Phr:
   to wear one's heart on one's sleeve
   to blush to the roots
   to break into a sweat
+
+# ---- Hegel ----
+Def: The inner sensations given bodily form, as anger in the breast, shame in a blush, grief in tears.
+Texts:
+  The Philosophy of Mind
+    §401
+Citations:

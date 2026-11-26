@@ -28,3 +28,10 @@ F:
 
 Phr:
   the frog at the bottom of the well, jing di zhi wa [Chin.] [Zhuangzi]
+
+# ---- Hegel ----
+Def: Schranke, the limit as something's own negation, posited as a restriction that its in-itself already transcends.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Finitude › Restriction and the ought
+Citations:

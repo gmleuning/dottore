@@ -15,3 +15,10 @@ N:
 Phr:
   hold your horses
   a dark horse
+
+# ---- Hegel ----
+Def: Mammals whose toes end in hoofs, strong in the upper body and tamed to work for man: swine, elephants, cattle, horses.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

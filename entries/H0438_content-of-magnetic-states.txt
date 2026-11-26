@@ -26,3 +26,10 @@ F:
 Phr:
   what the trance reveals
   visions and voices
+
+# ---- Hegel ----
+Def: The content of the trance states, which is the soul's own feeling world, not an objective knowledge.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

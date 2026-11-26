@@ -29,3 +29,10 @@ F:
 
 Phr:
   to let
+
+# ---- Hegel ----
+Def: The alienation of use for a price, while the ownership remains.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

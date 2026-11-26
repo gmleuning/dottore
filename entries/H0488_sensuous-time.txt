@@ -29,3 +29,10 @@ F:
 Phr:
   now is night
   just now
+
+# ---- Hegel ----
+Def: Time as given to sense, the now which is many nows.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶95–107
+Citations:

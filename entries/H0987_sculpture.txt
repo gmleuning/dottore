@@ -42,3 +42,10 @@ Phr:
   I saw the angel in the marble and carved until I set him free [attrib. Michelangelo]
   carved in stone
   the art of the body
+
+# ---- Hegel ----
+Def: The art that shapes spirit in its own bodily form, in three dimensions; the art of the classical ideal.
+Texts:
+  Aesthetics
+    Sculpture
+Citations:

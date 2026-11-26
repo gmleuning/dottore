@@ -24,3 +24,10 @@ Adv:
 Phr:
   the grass is green
   as it strikes the eye
+
+# ---- Hegel ----
+Def: Judgment in which the predicate is an immediate quality of the immediate singular.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of existence
+Citations:

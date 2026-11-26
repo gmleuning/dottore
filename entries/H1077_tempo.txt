@@ -7,3 +7,10 @@ HGloss: Das Zeitmaß, the first element of rhythmic verse: the fixed measure of 
 N:
   tempo; time-measure, quantity, duration, length, pace, movement
   quantity
+
+# ---- Hegel ----
+Def: Das Zeitmaß, the first element of rhythmic verse: the fixed measure of long and short syllables in time.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

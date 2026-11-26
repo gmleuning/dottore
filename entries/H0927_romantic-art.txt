@@ -31,3 +31,10 @@ Phr:
   [der Geist geht] zur Versöhnung seiner in sich selber zurück [Ger.] [Hegel, Aesthetics, on romantic art]
   the inward life
   heart's longing
+
+# ---- Hegel ----
+Def: Art in which spirit withdraws into its own inwardness and the outward shape becomes inadequate: romantic art.
+Texts:
+  Aesthetics
+    The Romantic Form of Art
+Citations:

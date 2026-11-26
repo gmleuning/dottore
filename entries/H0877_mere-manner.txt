@@ -19,3 +19,10 @@ F:
 
 Phr:
   die Manier das Schlechteste, dem sich der Künstler hingeben kann [Ger.] [Hegel, Aesthetics]
+
+# ---- Hegel ----
+Def: Bloße Manier, the particular and contingent peculiarity of the artist, which Hegel calls the worst an artist can give himself up to.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
+Citations:

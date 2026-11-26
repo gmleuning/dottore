@@ -26,3 +26,10 @@ Adv:
 Phr:
   he that hath ears to hear, let him hear [Bible]
   hear no evil
+
+# ---- Hegel ----
+Def: Gehör, the sense of the body's inward ideality: it perceives the tremor in which the body gives up its material subsistence as sound.
+Texts:
+  The Philosophy of Mind
+    §401
+Citations:

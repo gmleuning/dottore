@@ -44,3 +44,10 @@ Phr:
   tollendum est Octavium [Lat.] [Cicero's quip on Octavian, cited by Hegel, Science of Logic]
   das Werden ist eine haltungslose Unruhe, die in ein ruhiges Resultat zusammensinkt [Ger.] [Hegel, Science of Logic]
   dies Resultat ist das Verschwundensein, aber nicht als Nichts [Ger.] [Hegel, Science of Logic]
+
+# ---- Hegel ----
+Def: The vanishing of the vanishing itself: becoming collapses into a quiescent unity, a vanishedness that is not nothing but the unity of being and nothing become quiescent simplicity; to sublate (aufheben) is at once to negate and to preserve.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being › Becoming › Sublation of becoming
+Citations:

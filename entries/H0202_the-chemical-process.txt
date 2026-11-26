@@ -36,3 +36,10 @@ Phr:
   solve et coagula [Lat.]
   to cancel each other out
   neutral ground
+
+# ---- Hegel ----
+Def: Two objects, tense against each other, combining through a middle into the neutral product.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Chemism › The process
+Citations:

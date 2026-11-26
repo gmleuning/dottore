@@ -56,3 +56,10 @@ Phr:
   ultimus Romanorum [Lat.]
   whose yesterdays look backward with a smile [Young]
   vetera extollimus recentium incuriosi [Lat.] [Tacitus]
+
+# ---- Hegel ----
+Def: The no-longer, the now that has been, the being of time as already gone over.
+Texts:
+  The Philosophy of Nature
+    §259
+Citations:

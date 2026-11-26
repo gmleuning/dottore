@@ -24,3 +24,10 @@ Phr:
   the cure is worse than the disease
   under someone's spell
   at someone's beck and call
+
+# ---- Hegel ----
+Def: The consequences of magnetizing, a dependency of the patient's feeling on the magnetizer.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

@@ -162,7 +162,7 @@ body.wk #wk, body.set #set, body.hg #hg{display:flex}
 .side a:hover{text-decoration:underline}
 #wk .wkf{display:flex;gap:16px;flex-wrap:wrap;margin:18px 0 0;padding-top:10px;border-top:1px solid var(--rule);font-size:13px}
 #wk .wkm{color:var(--muted);margin:16px 0}
-/* the Hegel slide: definition, quotations, where Hegel treats it */
+/* the Hegel slide: definition, texts, citations */
 .hgb{font:12px var(--ui);background:none;border:1px solid var(--rule);border-radius:10px;color:var(--muted);padding:0 8px;cursor:pointer;align-self:center}
 .hgb:hover,.hgb.on{color:var(--accent);border-color:var(--accent)}
 #hg .sb{font:16px/1.6 var(--body)}
@@ -174,9 +174,9 @@ body.wk #wk, body.set #set, body.hg #hg{display:flex}
 #hg .qt.long{display:-webkit-box;-webkit-line-clamp:7;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
 #hg .qm{font:12px var(--ui);color:var(--link);background:none;border:0;padding:2px 0 0;cursor:pointer}
 #hg cite{display:block;font:12.5px/1.5 var(--ui);font-style:normal;color:var(--muted);margin-top:4px}
-#hg ul{margin:0;padding-left:1.1em;font:14px/1.55 var(--ui)}
-#hg li{margin:0 0 6px}
-#hg li::marker{color:var(--muted)}
+#hg .tx{margin:0 0 12px;font:14px/1.55 var(--ui)}
+#hg .tx b{display:block;color:var(--ink)}
+#hg .tx div{color:var(--soft)}
 #set h3{font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:20px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--rule)}
 #set .row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:7px 0;font-size:14px}
 #set .row>span{color:var(--ink)}
@@ -665,8 +665,8 @@ function hegel(id){
   $('#hgt').textContent=e.h.split(' • ').pop();
   let h=`<div class="hgn">${e.id} · ${esc(e.h)}</div>`;
   if(H.d) h+=`<p class="hgd">${esc(H.d)}</p>`;
-  if(H.q.length) h+='<h3>From the texts</h3>'+H.q.map(([q,c])=>`<blockquote><div class="qt${q.length>600?' long':''}">${esc(q)}</div>${q.length>600?'<button class="qm" type="button">show all</button>':''}${c?`<cite>${esc(c)}</cite>`:''}</blockquote>`).join('');
-  if(H.l.length) h+='<h3>Where Hegel treats it</h3><ul>'+H.l.map(l=>`<li>${esc(l)}</li>`).join('')+'</ul>';
+  if(H.t.length) h+='<h3>Texts</h3>'+H.t.map(([w,ls])=>`<div class="tx"><b>${esc(w)}</b>${ls.map(l=>`<div>${esc(l)}</div>`).join('')}</div>`).join('');
+  h+='<h3>Citations</h3>'+H.q.map(([q,c])=>`<blockquote><div class="qt${q.length>600?' long':''}">${esc(q)}</div>${q.length>600?'<button class="qm" type="button">show all</button>':''}${c?`<cite>${esc(c)}</cite>`:''}</blockquote>`).join('');
   $('#hgb').innerHTML=h; $('#hgb').scrollTop=0;
 }
 $('#hgx').addEventListener('click',closeSides);

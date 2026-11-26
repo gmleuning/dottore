@@ -31,3 +31,10 @@ Phr:
   Sappho, the tenth Muse
   the world in one heart
   the sweet singer
+
+# ---- Hegel ----
+Def: The lyric poet, the subject in whom the world is concentrated.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Lyric Poet
+Citations:

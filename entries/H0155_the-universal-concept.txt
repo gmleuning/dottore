@@ -36,3 +36,10 @@ Phr:
   universalia sunt realia [Lat.]
   quod semper, quod ubique, quod ab omnibus [Lat.] [Vincent of Lérins]
   the general rule
+
+# ---- Hegel ----
+Def: Universality as the self-identical that contains particularity within itself and is the substance of its kinds, the creative power.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The concept › The universal concept
+Citations:

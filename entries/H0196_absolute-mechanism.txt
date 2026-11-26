@@ -59,3 +59,10 @@ Phr:
   hysteron proteron [Gr.]
   chaos is come again
   the wreck of matter and the crush of worlds [Addison]
+
+# ---- Hegel ----
+Def: Mechanism organized as a syllogism: a central body and dependent objects in relations that form a system.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Mechanism › Absolute mechanism
+Citations:

@@ -40,3 +40,10 @@ Phr:
   a fair exchange is no robbery
   tit for tat
   even exchange
+
+# ---- Hegel ----
+Def: The exchange of one thing for another.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

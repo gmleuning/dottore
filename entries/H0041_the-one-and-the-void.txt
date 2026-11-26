@@ -40,3 +40,10 @@ Phr:
   everything else is opinion [Democritus]
   natura abhorret vacuum [Lat.]
   nature abhors a vacuum
+
+# ---- Hegel ----
+Def: The one and its non-being outside it, the void, as the atomists set atom and void side by side.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › The one and the many › The one and the void
+Citations:

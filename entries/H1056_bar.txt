@@ -21,3 +21,10 @@ Adv:
 
 Phr:
   in three-four time
+
+# ---- Hegel ----
+Def: Der Takt: the regular repetition of equal units of time, given a definite unity by stress, which orders the uniformity of time-measure into a rule.
+Texts:
+  Aesthetics
+    Music › Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm
+Citations:

@@ -40,3 +40,10 @@ Phr:
   fax mentis incendium gloriae [Lat.]
   temptation hath a music for all ears [Willis]
   to beguile many and be beguiled by one [Othello]
+
+# ---- Hegel ----
+Def: The subject's own satisfaction in the activity of realizing its aims, its interest.
+Texts:
+  The Philosophy of Mind
+    §475
+Citations:

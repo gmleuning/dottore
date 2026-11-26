@@ -13,7 +13,7 @@ import csv, json, os, re, sys
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))  # run from the project root
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from convert import split_paragraphs
-from entries import split_depth0
+from entries import split_depth0, CITE, SUB
 import native_script
 
 ROOT = os.getcwd()
@@ -138,14 +138,17 @@ def main():
         e = {'id': num(nid), 'h': head, 'g': '', 'o': None, 'p': path, 'pos': pos}
         e['l'], e['k'] = label(nodes[nid]), int(nodes[nid]['depth'])   # label and depth, for the map
         if EDITION != '1ed': e['d'] = d      # the gloss, revealed by clicking the headword
-        hd, hq, hl = (r.get(k, '').strip() for k in ('Hegel definition', 'Hegel quotes', 'Hegel locations'))
-        quotes = []
-        for line in hq.split('\n') if hq else []:
-            if line.startswith('— ') and quotes: quotes[-1][1] = line[2:].strip()
+        hd, ht, hc = (r.get(k, '').strip() for k in ('Hegel definition', 'Hegel texts', 'Hegel citations'))
+        texts = []                                        # [work, [locations]]
+        for line in ht.split('\n') if ht else []:
+            if line.startswith(SUB) and texts: texts[-1][1].append(line[len(SUB):].strip())
+            else: texts.append([line.strip(), []])
+        quotes = []                                       # [quotation, source]
+        for line in hc.split('\n') if hc else []:
+            if line.startswith(CITE) and quotes: quotes[-1][1] = line[len(CITE):].strip()
             else: quotes.append([line.strip(), ''])
-        locs = [x.strip() for x in hl.split('\n') if x.strip()]
-        if EDITION != '1ed' and (hd or quotes or locs):
-            e['H'] = {'d': hd, 'q': quotes, 'l': locs}    # the Hegel slide
+        if EDITION != '1ed' and (hd or texts or quotes):
+            e['H'] = {'d': hd, 't': texts, 'q': quotes}   # the Hegel slide
         entries.append(e)
         md += [f"## {num(nid)} {head}", '']
         if path: md += ['*' + ' › '.join(path) + '*', '']
@@ -155,8 +158,8 @@ def main():
             md += [f'**{tag}** ' + line, '']
         if 'H' in e:
             md += ['**Hegel.** ' + e['H']['d'], ''] if e['H']['d'] else []
+            for w, ls in e['H']['t']: md += [f'**{w}** ' + '; '.join(ls), '']
             for q, c in e['H']['q']: md += [f'> {q}' + (f' — {c}' if c else ''), '']
-            md += ['*Where Hegel treats it:* ' + '; '.join(e['H']['l']), ''] if e['H']['l'] else []
 
     html = open(TEMPLATE, encoding='utf-8').read()
     data = json.dumps(entries, ensure_ascii=False, separators=(',', ':'))

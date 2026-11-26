@@ -28,3 +28,10 @@ Phr:
   the ideal is the idea as art
   the ideal of beauty
   perfect in every way
+
+# ---- Hegel ----
+Def: The beauty of art, the ideal: the idea brought into a shape that fits it, freed from the contingencies of nature.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal
+Citations:

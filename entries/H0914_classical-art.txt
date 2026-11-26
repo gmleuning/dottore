@@ -31,3 +31,10 @@ Phr:
   noble simplicity and quiet grandeur [Winckelmann]
   a classic
   timeless beauty
+
+# ---- Hegel ----
+Def: Art in which meaning and shape are adequate, the free spiritual individuality in human form: classical art.
+Texts:
+  Aesthetics
+    The Classical Form of Art
+Citations:

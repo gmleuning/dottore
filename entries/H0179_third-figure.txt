@@ -28,3 +28,10 @@ Phr:
   all men are rational
   therefore some rational beings are mortal
   as a rule
+
+# ---- Hegel ----
+Def: Singular and particular joined through the universal: S–U–P, the transition to the mathematical figure.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of existence › The third figure
+Citations:

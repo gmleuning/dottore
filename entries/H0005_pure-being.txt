@@ -35,3 +35,10 @@ Phr:
   esse est percipi [Lat.] [Berkeley]
   ens et unum convertuntur [Lat.]
   the bare fact
+
+# ---- Hegel ----
+Def: Being, pure being, without any further determination: indeterminate immediacy, equal only to itself, with nothing to be intuited or thought in it.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being › Being
+Citations:

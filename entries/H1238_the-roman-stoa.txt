@@ -15,3 +15,10 @@ V:
 Phr:
   the impediment to action advances action [Marcus Aurelius]
   some things are up to us
+
+# ---- Hegel ----
+Def: The Roman Stoics, Seneca, Epictetus and Marcus Aurelius, in whom the abstract freedom of self-consciousness becomes moral exhortation in a world of despotism.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Stoicism › The Principal Stoics
+Citations:

@@ -29,3 +29,10 @@ Adv:
 Phr:
   the dust settles
   to come to a standstill
+
+# ---- Hegel ----
+Def: The fate of the mechanical process: rest, a product in which the object has the determination externally posited.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Mechanism › The mechanical process › The product of the mechanical process
+Citations:

@@ -33,3 +33,10 @@ Phr:
   things are not what they seem
   to get to the bottom of it
   into the heart of things
+
+# ---- Hegel ----
+Def: Being's going into itself, which reveals that its truth is essence.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › The becoming of essence › Transition into essence
+Citations:

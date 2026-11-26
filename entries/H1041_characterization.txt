@@ -27,3 +27,10 @@ Adv:
 Phr:
   a speaking likeness
   warts and all
+
+# ---- Hegel ----
+Def: The rendering of individual character in its particularity.
+Texts:
+  Aesthetics
+    Painting › Particular Characteristics of Painting › Conception, Composition, and Characterization
+Citations:

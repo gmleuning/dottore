@@ -31,3 +31,10 @@ Phr:
   backworldsmen, Hinterweltler [Ger.] [Nietzsche]
   the world beyond
   behind the veil
+
+# ---- Hegel ----
+Def: The supersensible world, the beyond of appearance, which is first empty and then the realm of laws.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶144–149
+Citations:

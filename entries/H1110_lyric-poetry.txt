@@ -34,3 +34,10 @@ F:
 Phr:
   the spontaneous overflow of powerful feelings [Wordsworth]
   the poet's own heart
+
+# ---- Hegel ----
+Def: Lyric, which expresses the poet's inwardness, the self's own feeling and reflection.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry
+Citations:

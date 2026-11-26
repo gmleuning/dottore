@@ -55,3 +55,10 @@ Phr:
   virtus laudatur et alget [Juvenal]
   virtus vincit invidiam [Lat.]
   nothing is more valuable than what is right, wan shi mo gui yu yi [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: The good, realized freedom, the absolute end of the world.
+Texts:
+  The Philosophy of Right
+    §§129–131
+Citations:

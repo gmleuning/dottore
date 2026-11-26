@@ -29,3 +29,10 @@ Phr:
   man fears time, yet time fears the pyramids [Arab proverb]
   the riddle of the pyramids
   a mountain of stone over a dead king
+
+# ---- Hegel ----
+Def: The pyramids, crystal shells that conceal a dead spirit: the invisible enclosed in the visible, the beginning of architecture's service to an end.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture › Transition from Independent to Classical Architecture › Housing for the Dead, Pyramids, etc.
+Citations:

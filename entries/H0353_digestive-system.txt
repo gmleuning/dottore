@@ -37,3 +37,10 @@ Phr:
   eyes bigger than one's stomach
   to have the stomach for it
   to digest
+
+# ---- Hegel ----
+Def: The system of reproduction, the intestines and their glands, the organism's process with what it takes in.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

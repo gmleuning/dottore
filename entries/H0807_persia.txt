@@ -27,3 +27,10 @@ F:
 Phr:
   the beginning of history proper [Hegel on Persia]
   the laws of the Medes and Persians
+
+# ---- Hegel ----
+Def: Persia, the light religion, theocratic monarchy, the first historical people.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia
+Citations:

@@ -31,3 +31,10 @@ Phr:
   as above, so below
   as the seasons turn
   under the influence of the moon
+
+# ---- Hegel ----
+Def: The soul's sympathy with the life of the planet: climate, the seasons, the times of day, which in man are only faint moods.
+Texts:
+  The Philosophy of Mind
+    §392
+Citations:

@@ -27,3 +27,10 @@ F:
 Phr:
   the visible made spiritual
   the magic of colour
+
+# ---- Hegel ----
+Def: The material of painting: the surface, and light and colour as its element.
+Texts:
+  Aesthetics
+    Painting › General Character of Painting › The Sensuous Material of Painting
+Citations:

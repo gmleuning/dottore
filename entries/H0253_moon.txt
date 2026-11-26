@@ -28,3 +28,10 @@ F:
 Phr:
   the inconstant moon [Romeo and Juliet]
   tsuki ni murakumo, hana ni kaze [Jap.] [clouds over the moon, wind upon the flowers]
+
+# ---- Hegel ----
+Def: The body of rigidity, crystal-like and without process, a waterless, airless satellite.
+Texts:
+  The Philosophy of Nature
+    §279
+Citations:

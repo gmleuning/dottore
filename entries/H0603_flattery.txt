@@ -51,3 +51,10 @@ Phr:
   servant of God, well done! [Paradise Lost]
   pessimum genus inimicorum laudantes [Lat.] [Tacitus]
   the angler bows to the fish, not out of respect, diao zhe zhi gong, fei wei yu ci ye [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: The language of flattery, which raises the monarch to absolute power while making that power the property of the flatterer.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶511–512
+Citations:

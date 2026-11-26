@@ -32,3 +32,10 @@ F:
 Phr:
   two hearts that beat as one
   to feel for
+
+# ---- Hegel ----
+Def: The feeling life of one soul shared directly with another, without the mediation of signs.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

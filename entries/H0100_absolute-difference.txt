@@ -31,3 +31,10 @@ Phr:
   worlds apart
   night and day
   poles apart
+
+# ---- Hegel ----
+Def: Difference in and for itself, the difference of essence, which is only as related to identity.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The determinations of reflection › Difference › Absolute difference
+Citations:

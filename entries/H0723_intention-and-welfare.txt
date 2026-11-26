@@ -36,3 +36,10 @@ Phr:
   actions are judged by intentions, innamā al-aʿmālu bi-l-niyyāt [Ar.] [Hadith]
   the road to hell is paved with good intentions
   to mean well
+
+# ---- Hegel ----
+Def: The universal side of the deed, the intention, and the particular content that is the subject's welfare.
+Texts:
+  The Philosophy of Right
+    §§119–128
+Citations:

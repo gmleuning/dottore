@@ -25,3 +25,10 @@ Phr:
   Doric severity
   the manly order
   plain and stern
+
+# ---- Hegel ----
+Def: The Doric, the oldest and most serious order, closest to wooden construction, sturdy and plain.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders
+Citations:

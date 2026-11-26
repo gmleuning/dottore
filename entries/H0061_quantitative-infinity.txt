@@ -32,3 +32,10 @@ Phr:
   the ghosts of departed quantities [Berkeley]
   to infinity and beyond
   on and on
+
+# ---- Hegel ----
+Def: The quantum's self-contradiction: being a definite amount, it is always to be surpassed; the infinite progress.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Quantitative infinity
+Citations:

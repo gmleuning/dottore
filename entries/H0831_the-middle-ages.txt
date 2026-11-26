@@ -33,3 +33,10 @@ Phr:
   Deus vult [Lat.] [God wills it]
   the empty tomb [Hegel on the Crusades]
   sword and cross
+
+# ---- Hegel ----
+Def: The Middle Ages: feudal lordship and church hierarchy, the Crusades, and the transition to monarchy.
+Texts:
+  The Philosophy of History
+    The German World › The Middle Ages
+Citations:

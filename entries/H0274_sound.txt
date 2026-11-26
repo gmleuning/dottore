@@ -88,3 +88,10 @@ Phr:
   the deep dread-bolted thunder [Lear]
   sweet bells jangled, out of time and harsh [Hamlet]
   echoing down the mountain and through the dell
+
+# ---- Hegel ----
+Def: The body's inner ideality set free in its own vibration: the soul of a body, the voice of its inner nature.
+Texts:
+  The Philosophy of Nature
+    §§300–302
+Citations:

@@ -14,3 +14,10 @@ F:
 
 Phr:
   they pay penalty to one another for their injustice [Anaximander]
+
+# ---- Hegel ----
+Def: Anaximander, whose principle is the infinite (to apeiron), an indeterminate matter from which the opposites separate out.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Seven Sages and the Milesians
+Citations:

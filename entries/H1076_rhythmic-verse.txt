@@ -19,3 +19,10 @@ Adj:
 
 Adv:
   metrically, rhythmically, by quantity, in measure
+
+# ---- Hegel ----
+Def: The measure of syllables by quantity, the rhythm of ancient verse.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

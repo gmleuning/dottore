@@ -36,3 +36,10 @@ F:
 Phr:
   land ho!
   let the dry land appear [Bible]
+
+# ---- Hegel ----
+Def: The land as productive, covered with vegetation, the terrestrial ground of life.
+Texts:
+  The Philosophy of Nature
+    §341
+Citations:

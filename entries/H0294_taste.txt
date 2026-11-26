@@ -81,3 +81,10 @@ Phr:
   eau sucrée [Fr.]
   sweets to the sweet [Hamlet]
   sour as a lemon
+
+# ---- Hegel ----
+Def: The body's specific individuality as a dissolving into water, its neutral relation to it, as salt in taste.
+Texts:
+  The Philosophy of Nature
+    §322
+Citations:

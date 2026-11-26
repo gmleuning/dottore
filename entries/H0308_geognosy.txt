@@ -28,3 +28,10 @@ Phr:
   written in the rocks
   to dig deep
   lay of the land
+
+# ---- Hegel ----
+Def: The knowledge of the earth's formations as a structure: primitive, stratified and alluvial rock.
+Texts:
+  The Philosophy of Nature
+    §339
+Citations:

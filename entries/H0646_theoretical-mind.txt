@@ -81,3 +81,10 @@ Phr:
   cernit omnia Deus vindex [Lat.]
   mihi cura futuri [Lat.]
   run it up the flagpole and see who salutes
+
+# ---- Hegel ----
+Def: Mind as intelligence, which finds itself determined and makes what it finds its own: intuition, representation, thinking.
+Texts:
+  The Philosophy of Mind
+    §§445–468
+Citations:

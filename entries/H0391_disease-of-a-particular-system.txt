@@ -16,3 +16,10 @@ N:
 Adj:
   organic, local, systemic, cardiac, pulmonary, hepatic, renal, gastric, nervous
   pneumonic, pulmonic [Med.], phthisic†, dyspeptic, diabetic, varicose, paralytic, palsied
+
+# ---- Hegel ----
+Def: The second kind of disease, where a particular system (the lungs, the liver, the heart, the gut) isolates itself and asserts its own activity against the whole; the disease is the organism divided against itself.
+Texts:
+  The Philosophy of Nature
+    §371
+Citations:

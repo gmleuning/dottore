@@ -22,3 +22,10 @@ F:
 Phr:
   Deus sive Natura, sub specie aeternitatis, amor dei intellectualis, determinatio negatio est, conatus sese conservandi [Lat]. Worship likeness and images, that is paper and ink [Spinoza], entweder Spinozismus oder keine Philosophie [Ger.] [Hegel, Lectures on the History of Philosophy]
   omnis determinatio est negatio [Hegel, Lat.], der gottbetrunkene Mensch [Novalis, Ger.], le prince des philosophes [Deleuze, Fr.]
+
+# ---- Hegel ----
+Def: Spinoza, the one substance, the necessary beginning of all philosophy.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › Benedict Spinoza
+Citations:

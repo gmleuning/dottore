@@ -89,3 +89,10 @@ Phr:
   acierta errando [Lat.]
   aliquis in omnibus nullus in singulis [Lat.]
   touch and go
+
+# ---- Hegel ----
+Def: Habit as skill, the body made the soul's instrument, so that the will passes into act without reflection.
+Texts:
+  The Philosophy of Mind
+    §410
+Citations:

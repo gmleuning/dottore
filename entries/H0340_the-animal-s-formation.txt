@@ -40,3 +40,10 @@ Phr:
   the thigh bone's connected to the hip bone
   the body is the temple of the Holy Ghost [Bible]
   body and soul
+
+# ---- Hegel ----
+Def: The animal organism as shape, the subject's self-formation into its systems: sensibility, irritability and reproduction.
+Texts:
+  The Philosophy of Nature
+    §§353–356
+Citations:

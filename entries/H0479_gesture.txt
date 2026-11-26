@@ -46,3 +46,10 @@ Phr:
   interdum lacrymae pondera vocis habent [Lat.] [Ovid]
   strangled his language in his tears [Henry VIII]
   tears such as angels weep [Paradise Lost]
+
+# ---- Hegel ----
+Def: The movements of the hand and body that express a meaning.
+Texts:
+  The Philosophy of Mind
+    §411
+Citations:

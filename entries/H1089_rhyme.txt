@@ -30,3 +30,10 @@ F:
 Phr:
   neither rhyme nor reason
   the echo at the line's end
+
+# ---- Hegel ----
+Def: Rhyme, the echo of like sounds at the ends of lines, the inward self hearing itself in modern verse.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhyme
+Citations:

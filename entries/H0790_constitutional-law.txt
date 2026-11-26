@@ -34,3 +34,10 @@ Phr:
   a constitution is not made, it grows
   the law of the land
   the separation of powers
+
+# ---- Hegel ----
+Def: The state's inner constitution as an organism, the separation and unity of powers.
+Texts:
+  The Philosophy of Right
+    §§260–329
+Citations:

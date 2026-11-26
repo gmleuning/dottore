@@ -21,3 +21,10 @@ V:
 Adj:
   adorned, ornamental
   bejeweled
+
+# ---- Hegel ----
+Def: Der Schmuck: ornament and adornment, which ideal sculpture keeps sparing so that the figure's own form is not overlaid.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment
+Citations:

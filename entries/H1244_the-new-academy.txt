@@ -11,3 +11,10 @@ N:
 
 Adj:
   Academic
+
+# ---- Hegel ----
+Def: Die neuere Akademie: Arcesilaus and Carneades, who oppose the Stoic criterion and allow only the probable, a subjective conviction.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Skepticism and the New Academy › Carneades and the New Academy
+Citations:

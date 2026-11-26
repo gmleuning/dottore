@@ -27,3 +27,10 @@ Phr:
   light is the good
   light is the god
   the sacred fire
+
+# ---- Hegel ----
+Def: The immediate unity of meaning and shape, as Zoroastrian light, which is at once the divine and natural light.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Unconscious Symbolism › Immediate Unity of Meaning and Shape
+Citations:

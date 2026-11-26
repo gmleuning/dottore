@@ -41,3 +41,10 @@ Phr:
   so much
   by the measure
   ein mal kein mal [Ger.]
+
+# ---- Hegel ----
+Def: Being-for-self become self-identical, indifferent to its limit; the unity of continuity and discreteness.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantity
+Citations:

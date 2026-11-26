@@ -41,3 +41,10 @@ Phr:
   eureka! [Gr.] [Archimedes]
   weight for weight
   heavier than water
+
+# ---- Hegel ----
+Def: The weight of a body related to its volume, the first individuation of matter in its relation to gravity.
+Texts:
+  The Philosophy of Nature
+    §§293–294
+Citations:

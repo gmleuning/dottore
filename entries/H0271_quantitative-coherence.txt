@@ -27,3 +27,10 @@ Adv:
 Phr:
   the breaking point
   to bear the strain
+
+# ---- Hegel ----
+Def: Coherence as resistance in a determinate direction, as tensile, breaking or crushing strength.
+Texts:
+  The Philosophy of Nature
+    §296
+Citations:

@@ -13,3 +13,10 @@ V:
 
 Adj:
   vascular, fibrous, fibrillous†, fasciculated, tubular, cannular†
+
+# ---- Hegel ----
+Def: The vessels into which the cellular tissue draws itself out: the fibrous bast and the spiral vessels, the plant's lines of inner motion.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

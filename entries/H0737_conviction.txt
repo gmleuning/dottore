@@ -29,3 +29,10 @@ Phr:
   the sincerity of the conviction excuses nothing
   true to one's convictions
   to the best of my belief
+
+# ---- Hegel ----
+Def: The conviction that holds whatever I believe right to be right, abolishing all objective truth.
+Texts:
+  The Philosophy of Right
+    §140
+Citations:

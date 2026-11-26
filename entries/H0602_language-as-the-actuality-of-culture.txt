@@ -36,3 +36,10 @@ F:
 Phr:
   language is the existence of the self as self [Hegel]
   the power of speech
+
+# ---- Hegel ----
+Def: Language as the existence of the pure self, the medium in which culture is actual.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶508–510
+Citations:

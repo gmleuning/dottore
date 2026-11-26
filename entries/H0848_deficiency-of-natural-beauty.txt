@@ -36,3 +36,10 @@ Phr:
   nature is not enough
   flawed beauty
   surgit amari aliquid [Lat.]
+
+# ---- Hegel ----
+Def: The defect of natural beauty: the living thing does not show its inner soul as free individuality; this deficiency requires art.
+Texts:
+  Aesthetics
+    The Beauty of Nature › Deficiency of Natural Beauty
+Citations:

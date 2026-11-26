@@ -28,3 +28,10 @@ Phr:
   the Parthenon on the Acropolis
   open to the light
   serene and spread out
+
+# ---- Hegel ----
+Def: The classical temple as a whole, open, low and spread out, serene and cheerful, the house of a god who dwells among men.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › The Classical Temple as a Whole
+Citations:

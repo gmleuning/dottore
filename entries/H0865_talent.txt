@@ -13,3 +13,10 @@ Adj:
 
 Phr:
   a good horse is hard to mount, but it carries you far, liang ma nan cheng, ran ke yi ren zhong zhi yuan [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: Talent, the specific capacity for a particular art, which reaches full life only with genius; one may have talent and not genius.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

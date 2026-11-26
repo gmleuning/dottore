@@ -42,3 +42,10 @@ Phr:
   what is rational is actual, and what is actual is rational [Hegel]
   the logic of things
   the long and the short of it
+
+# ---- Hegel ----
+Def: The science of the pure idea, of thought as the self-movement of the concept, in which the determinations of thought are at once the determinations of things.
+Texts:
+  The Science of Logic
+    Introduction
+Citations:

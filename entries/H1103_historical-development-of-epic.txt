@@ -24,3 +24,10 @@ Phr:
   from Gilgamesh to Milton
   from Valmiki to Milton
   the course of the epic
+
+# ---- Hegel ----
+Def: The historical course of the epic from the East through Greece to the romantic world.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › The Historical Development of Epic Poetry
+Citations:

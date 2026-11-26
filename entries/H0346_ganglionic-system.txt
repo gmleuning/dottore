@@ -24,3 +24,10 @@ Adv:
 Phr:
   a gut feeling
   trust your gut
+
+# ---- Hegel ----
+Def: The ganglia, the nerve-centres of the internal organs, sensibility turned inward.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

@@ -41,3 +41,10 @@ Phr:
   hysteron proteron [Gr.]
   chaos is come again
   the wreck of matter and the crush of worlds [Addison]
+
+# ---- Hegel ----
+Def: The extremes of shapelessness: the point-like brittleness and the spherical fluidity of the drop.
+Texts:
+  The Philosophy of Nature
+    §311
+Citations:

@@ -25,3 +25,10 @@ Phr:
   colour in the heart of glass
   colours within
   a play of light
+
+# ---- Hegel ----
+Def: Colour produced within a transparent body by its own inner structure and tension.
+Texts:
+  The Philosophy of Nature
+    §320
+Citations:

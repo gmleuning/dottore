@@ -26,3 +26,10 @@ F:
 
 Phr:
   the empire long divided must unite, long united must divide [Romance of the Three Kingdoms]
+
+# ---- Hegel ----
+Def: China, the patriarchal theocratic despotism of the substance, a state without inwardness.
+Texts:
+  The Philosophy of History
+    The Oriental World › China
+Citations:

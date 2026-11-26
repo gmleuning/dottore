@@ -11,3 +11,10 @@ N:
 
 F:
   Latin: De officiis
+
+# ---- Hegel ----
+Def: The middle Stoa of Panaetius and Posidonius, which moderated Stoic rigour and taught Cicero and the Roman nobility.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Stoicism › The Principal Stoics
+Citations:

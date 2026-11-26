@@ -23,3 +23,10 @@ Adv:
 Phr:
   symbolic, classical, romantic
   in its proper form
+
+# ---- Hegel ----
+Def: The forms of art: the relations of idea and shape in symbolic, classical and romantic art.
+Texts:
+  Aesthetics
+    Development of the Ideal into the Particular Forms of Art
+Citations:

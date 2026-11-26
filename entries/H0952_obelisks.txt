@@ -31,3 +31,10 @@ F:
 Phr:
   a ray of the sun in stone
   reaching for the sun
+
+# ---- Hegel ----
+Def: The obelisks, which receive the sun's rays and bear its signs.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture › Obelisks
+Citations:

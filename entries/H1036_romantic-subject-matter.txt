@@ -30,3 +30,10 @@ F:
 Phr:
   the Madonna and Child
   scenes of everyday life
+
+# ---- Hegel ----
+Def: The romantic content of painting, the religious love of the Madonna, and the everyday life of the world.
+Texts:
+  Aesthetics
+    Painting › Particular Characteristics of Painting › The Romantic Subject-matter
+Citations:

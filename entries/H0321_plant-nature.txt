@@ -49,3 +49,10 @@ Phr:
   to put down roots
   green-robed senators of mighty woods [Keats]
   this is the forest primeval [Longfellow]
+
+# ---- Hegel ----
+Def: The first subjective life: the plant, which is not yet a self but is outside itself in its members, each an individual.
+Texts:
+  The Philosophy of Nature
+    §§343–349
+Citations:

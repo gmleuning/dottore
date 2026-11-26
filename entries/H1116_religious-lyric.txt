@@ -6,3 +6,10 @@ HGloss: The religious lyric, in which the self raises itself to the divine and l
 
 N:
   religious lyric; sacred poetry, devotional verse, religious poetry
+
+# ---- Hegel ----
+Def: The religious lyric, in which the self raises itself to the divine and loses itself in it.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

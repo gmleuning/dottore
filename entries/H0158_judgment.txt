@@ -35,3 +35,10 @@ Phr:
   judge not, that ye be not judged [Bible]
   every judgment is an Ur-teil, an original division [Hölderlin]
   to pass judgment
+
+# ---- Hegel ----
+Def: The concept's own self-division into its moments, an original division (Ur-teil): the singular is the universal.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment
+Citations:

@@ -69,3 +69,10 @@ Phr:
   beware the fury of a patient man [Dryden]
   quem Jupiter vult perdere dementat prius [Lat.]
   What, drunk with choler? [Henry IV]
+
+# ---- Hegel ----
+Def: A drive into which the whole subject has put its energy, so that nothing great has been accomplished without passion.
+Texts:
+  The Philosophy of Mind
+    §§473–475
+Citations:

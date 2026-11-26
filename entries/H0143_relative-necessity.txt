@@ -37,3 +37,10 @@ Phr:
   needs must when the devil drives
   given the circumstances
   it stands to reason
+
+# ---- Hegel ----
+Def: Real possibility is the totality of conditions present; when they are all there the fact must follow, but only relative to them.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › Actuality › Relative necessity
+Citations:

@@ -46,3 +46,10 @@ Phr:
   a distinction without a difference
   worlds apart
   il y a fagots et fagots
+
+# ---- Hegel ----
+Def: The negativity of reflection, essence distinguishing itself from itself; absolute difference.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The determinations of reflection › Difference
+Citations:

@@ -31,3 +31,10 @@ Phr:
   le roi le veut [Fr.] [the king wills it]
   l'état, c'est moi
   to dot the i's
+
+# ---- Hegel ----
+Def: The monarch, the will's final decision, the subjectivity of the state.
+Texts:
+  The Philosophy of Right
+    §279
+Citations:

@@ -37,3 +37,10 @@ Phr:
   to the concept
   a maximis ad minima [Lat.], et hoc genus omne [Lat.],etc
   et coetera [Lat.]
+
+# ---- Hegel ----
+Def: The concept in its three moments, universality, particularity and singularity, each the whole concept.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The concept
+Citations:

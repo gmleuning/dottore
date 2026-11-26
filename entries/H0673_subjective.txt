@@ -28,3 +28,10 @@ Adv:
 Phr:
   de gustibus non est disputandum [Lat.]
   against the grain
+
+# ---- Hegel ----
+Def: The ought of the practical feeling, its judgment of what is pleasant or unpleasant to it.
+Texts:
+  The Philosophy of Mind
+    §§471–472
+Citations:

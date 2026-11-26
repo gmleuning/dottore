@@ -25,3 +25,10 @@ Phr:
   the proper study of mankind is man [Pope]
   the laws of thought
   the workings of the mind
+
+# ---- Hegel ----
+Def: The search for laws of thought and psychological laws, which reason finds empty of real content.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶298–308
+Citations:

@@ -28,3 +28,10 @@ Phr:
   the breath of life
   full of life
   alive and kicking
+
+# ---- Hegel ----
+Def: The quality of life as self-moving unity.
+Texts:
+  The Philosophy of Mind
+    §423
+Citations:

@@ -31,3 +31,10 @@ Phr:
   all that is born must die
   dust thou art, and unto dust shalt thou return [Bible]
   deficit omne quod nascitur [Lat.] [Quintilian]
+
+# ---- Hegel ----
+Def: Vergehen, the direction of becoming in which being goes over into nothing.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being › Becoming › The moments of becoming
+Citations:

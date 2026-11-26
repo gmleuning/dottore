@@ -31,3 +31,10 @@ Phr:
   man is the measure of all things [Protagoras]
   beauty is in the eye of the beholder
   all in the mind
+
+# ---- Hegel ----
+Def: The ideality of the finite: what is in being-for-self has no being of its own, but is only for the one.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › Being-for-itself as such › Being-for-one
+Citations:

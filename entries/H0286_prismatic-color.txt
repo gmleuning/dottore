@@ -34,3 +34,10 @@ F:
 Phr:
   my heart leaps up when I behold a rainbow in the sky [Wordsworth]
   the spectrum
+
+# ---- Hegel ----
+Def: Colour arising when light passes through the prism, the turbidity and displacement of the image.
+Texts:
+  The Philosophy of Nature
+    §320
+Citations:

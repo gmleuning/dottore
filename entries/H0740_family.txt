@@ -49,3 +49,10 @@ Phr:
   hombre bueno no le busquen abolengo [Sp.]
   philosophia stemma non inspicit [Lat.] [Seneca]
   the fruit doesn't fall far from the tree, like father, like son
+
+# ---- Hegel ----
+Def: Ethical spirit in its immediacy, the substantiality whose determination is love, the feeling of unity.
+Texts:
+  The Philosophy of Right
+    §§158–181
+Citations:

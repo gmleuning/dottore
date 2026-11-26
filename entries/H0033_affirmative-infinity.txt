@@ -44,3 +44,10 @@ Phr:
   das Wahre ist das Ganze [Ger.] [Hegel]
   God is an infinite sphere whose centre is everywhere and circumference nowhere [Liber XXIV philosophorum]
   the circle closes
+
+# ---- Hegel ----
+Def: True infinity, which contains the finite as a moment within itself: being returned to itself, imaged by the circle rather than the endless line.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Infinity › Affirmative infinity
+Citations:

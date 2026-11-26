@@ -34,3 +34,10 @@ Phr:
   the god in his temple
   the house of the god
   a graven image
+
+# ---- Hegel ----
+Def: The god's image and dwelling, the motionless statue and its temple.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶705–709
+Citations:

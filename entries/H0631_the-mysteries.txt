@@ -30,3 +30,10 @@ Phr:
   the Bacchanalian revel in which no member is not drunken [Hegel]
   in vino veritas [Lat.]
   Bacchic frenzy
+
+# ---- Hegel ----
+Def: The mysteries of Ceres and Bacchus, in which the god is eaten in bread and wine.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶720–724
+Citations:

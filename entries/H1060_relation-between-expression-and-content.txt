@@ -22,3 +22,10 @@ Adv:
 
 Phr:
   prima la musica, poi le parole [It.] [first the music, then the words]
+
+# ---- Hegel ----
+Def: The relation of music to a definite content, either following a text or freely by itself.
+Texts:
+  Aesthetics
+    Music › Relation between Music's Means of Expression and their Content
+Citations:

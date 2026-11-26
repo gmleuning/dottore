@@ -30,3 +30,10 @@ Phr:
   Sensibilität, Irritabilität und Reproduktion [Ger.] [Hegel, Encyclopaedia §353, the triad from Kielmeyer, 1793]
   the body's systems
   inner workings
+
+# ---- Hegel ----
+Def: The systems of shape in which the functions exist: the nervous, blood and digestive systems.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

@@ -17,3 +17,10 @@ Adj:
 
 Adv:
   in marble
+
+# ---- Hegel ----
+Def: Marmor, the material best suited to ideal sculpture, whose gentle translucence and softness answer to the human form.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
+Citations:

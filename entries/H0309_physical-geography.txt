@@ -44,3 +44,10 @@ Phr:
   here be dragons, hic sunt dracones [Lat.]
   the lay of the land
   from sea to shining sea
+
+# ---- Hegel ----
+Def: The configuration of the earth's surface, the division of land and sea, of continents and mountains.
+Texts:
+  The Philosophy of Nature
+    §339
+Citations:

@@ -37,3 +37,10 @@ Phr:
   the butterfly effect
   each to each
   rub off on
+
+# ---- Hegel ----
+Def: Things related through their properties, so that their distinction lies in the properties, and the properties become self-subsistent.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Concrete existence › The thing and its properties › The reciprocal action of things
+Citations:

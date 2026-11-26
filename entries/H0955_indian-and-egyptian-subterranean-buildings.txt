@@ -20,3 +20,10 @@ F:
 
 Phr:
   underground chambers
+
+# ---- Hegel ----
+Def: Subterranean buildings of India and Egypt, the houses of the dead.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture › Transition from Independent to Classical Architecture › Indian and Egyptian Subterranean Buildings
+Citations:

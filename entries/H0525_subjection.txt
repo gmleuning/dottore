@@ -24,3 +24,10 @@ Adj:
 Phr:
   vae victis [Lat.] [woe to the vanquished]
   under the yoke
+
+# ---- Hegel ----
+Def: Unterwerfung, the subjection of the self that, fearing death, gives up its claim to recognition and becomes the servant.
+Texts:
+  The Philosophy of Mind
+    §433
+Citations:

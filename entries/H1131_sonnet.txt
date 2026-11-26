@@ -16,3 +16,10 @@ F:
 
 Phr:
   scorn not the sonnet [Wordsworth]
+
+# ---- Hegel ----
+Def: Das Sonett: a form in which reflection enters the song, the feeling worked out with art and turned toward a thought, as in Petrarch.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

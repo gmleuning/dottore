@@ -24,3 +24,10 @@ Adv:
 Phr:
   a short poem of feeling
   the occasion of the poem
+
+# ---- Hegel ----
+Def: The lyric poem as a unity of feeling, its occasion and its musical form.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Lyrical Work of Art
+Citations:

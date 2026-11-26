@@ -35,3 +35,10 @@ Phr:
   the bent oar in the water
   bent out of shape
   a broken stick in water
+
+# ---- Hegel ----
+Def: Light passing between two media of different density, whose relation is seen in the displacement of the image.
+Texts:
+  The Philosophy of Nature
+    §§318–319
+Citations:

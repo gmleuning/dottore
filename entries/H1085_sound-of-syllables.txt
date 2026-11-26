@@ -7,3 +7,10 @@ HGloss: The sound of the syllables, which gains weight as the rhythmic element r
 N:
   sound of syllables; sound, euphony, tone, verbal music, vowel music, word music
   cadence
+
+# ---- Hegel ----
+Def: The sound of the syllables, which gains weight as the rhythmic element recedes.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

@@ -40,3 +40,10 @@ Phr:
   la filosofia è scritta in questo grandissimo libro … (io dico l'universo) … egli è scritto in lingua matematica [It.] [Galileo, Il Saggiatore]
   nature to be commanded must be obeyed [Bacon]
   the order of things
+
+# ---- Hegel ----
+Def: The quiet image of appearance: what remains identical in the flux, the realm of laws.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Appearance › Appearance › The law of appearance
+Citations:

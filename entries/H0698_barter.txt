@@ -37,3 +37,10 @@ Phr:
   the propensity to truck, barter, and exchange [Adam Smith]
   to swap
   cambio non e furto [It.]
+
+# ---- Hegel ----
+Def: The exchange of goods for goods.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

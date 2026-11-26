@@ -40,3 +40,10 @@ Phr:
   the gentleman understands what is right, the petty man what is profitable [Confucius]
   to bite the hand that feeds you
   non vobis solum [Lat.]
+
+# ---- Hegel ----
+Def: The noble consciousness which finds itself in state power and wealth, and the base which sees in them only oppression.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶500–503
+Citations:

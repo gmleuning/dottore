@@ -38,3 +38,10 @@ F:
 Phr:
   the sublime is the echo of a great soul [Longinus]
   the heavens declare the glory of God
+
+# ---- Hegel ----
+Def: The symbolism of the sublime, in which the meaning is the one substance that exceeds every shape.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Symbolism of the Sublime
+Citations:

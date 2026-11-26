@@ -32,3 +32,10 @@ Phr:
   the unities of time, place, and action
   in five acts
   the curtain falls
+
+# ---- Hegel ----
+Def: The dramatic work, its unity of action, its division into acts, its diction.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Drama as a Poetical Work of Art › The Dramatic Work of Art
+Citations:

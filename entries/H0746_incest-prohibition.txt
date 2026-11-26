@@ -43,3 +43,10 @@ Phr:
   forget it
   don't even think about doing it
   make my day [Dirty Harry] [Iron.]
+
+# ---- Hegel ----
+Def: The prohibition of marriage between blood relatives, since marriage is a free act of independent persons.
+Texts:
+  The Philosophy of Right
+    §168
+Citations:

@@ -43,3 +43,10 @@ F:
 Phr:
   where there's a will there's a way
   learning matters, but conduct is the root, shi sui you xue, er xing wei ben yan [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: Intelligence that knows itself as the determiner of its content: the will, which gives its purposes existence.
+Texts:
+  The Philosophy of Mind
+    §§469–480
+Citations:

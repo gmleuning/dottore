@@ -36,3 +36,10 @@ Phr:
   do ut des [Lat.] [I give so that you may give]
   to make an offering
   to pay homage
+
+# ---- Hegel ----
+Def: The cult, in which the god descends to the worshipper and the worshipper rises to the god.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶714–719
+Citations:

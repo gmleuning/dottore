@@ -34,3 +34,10 @@ Phr:
   blood will tell
   kith and kin
   one's own flesh and blood
+
+# ---- Hegel ----
+Def: The tribe or clan, the family's wider natural relations.
+Texts:
+  The Philosophy of Right
+    §172
+Citations:

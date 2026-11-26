@@ -26,3 +26,10 @@ F:
 Phr:
   you are getting sleepy
   under a spell
+
+# ---- Hegel ----
+Def: The soul's feeling life set free from waking consciousness, its immediate knowing in a trance, a diseased state of the separated soul.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

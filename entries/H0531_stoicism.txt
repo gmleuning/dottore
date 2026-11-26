@@ -46,3 +46,10 @@ Phr:
   some things are within our power, some are not [Epictetus]
   to keep a stiff upper lip
   grin and bear it
+
+# ---- Hegel ----
+Def: Freedom of thought which is indifferent to existence, on the throne or in chains; free only abstractly.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶197–201
+Citations:

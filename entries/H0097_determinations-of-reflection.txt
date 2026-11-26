@@ -34,3 +34,10 @@ Phr:
   nothing is without a reason
   tertium non datur [Lat.]
   the first principles
+
+# ---- Hegel ----
+Def: The essentialities of reflection: identity, difference and contradiction, each existing only in relation to its other.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › The determinations of reflection
+Citations:

@@ -40,3 +40,10 @@ Phr:
   natura non facit saltus [Lat.] [Linnaeus, Philosophia Botanica §77] [Opposed]
   la nature ne fait jamais des sauts [Fr.] [Leibniz, New Essays, Preface] [Opposed]
   a sudden leap
+
+# ---- Hegel ----
+Def: A line of gradual quantitative alteration interrupted by qualitative leaps, as at the freezing and boiling of water.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Real measure › Nodal lines of measure-relations
+Citations:

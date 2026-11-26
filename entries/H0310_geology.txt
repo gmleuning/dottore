@@ -33,3 +33,10 @@ Phr:
   sermons in stones [As You Like It]
   set in stone
   rock bottom
+
+# ---- Hegel ----
+Def: The science of the earth's mineral formations, the dead body of the earth's former life.
+Texts:
+  The Philosophy of Nature
+    §340
+Citations:

@@ -14,3 +14,10 @@ V:
 
 Adj:
   Origenist, Athanasian
+
+# ---- Hegel ----
+Def: The Alexandrian Fathers, Clement and Origen, who drew on Platonic philosophy to develop the doctrine of the Trinity speculatively.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity › The Church Fathers
+Citations:

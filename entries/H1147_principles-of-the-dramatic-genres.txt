@@ -30,3 +30,10 @@ Phr:
   the tragic and the comic mask
   the laws of the kinds
   what makes tragedy tragic
+
+# ---- Hegel ----
+Def: The principles that distinguish tragedy, comedy and the drama proper.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama
+Citations:

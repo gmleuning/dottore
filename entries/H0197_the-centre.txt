@@ -42,3 +42,10 @@ Phr:
   all roads lead to Rome
   the centre of gravity
   the hub of the universe
+
+# ---- Hegel ----
+Def: The objective universality of the object, the centre, as the sun is to the planets.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Mechanism › Absolute mechanism › The center
+Citations:

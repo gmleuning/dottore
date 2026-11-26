@@ -40,3 +40,10 @@ Phr:
   the knight of the woeful countenance [Cervantes]
   to seek one's fortune
   tilting at windmills
+
+# ---- Hegel ----
+Def: Adventures, the contingency of the external world, which the knight-errant meets.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Formal Independence of Individual Characters › Adventures
+Citations:

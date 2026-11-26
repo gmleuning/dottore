@@ -53,3 +53,10 @@ Phr:
   slave to no sect [Pope]
   superstitione tollenda religio non tollitur [Lat.] [Cicero]
   there is such a party!, yest' takaya partiya! [Rus.] [Lenin, 1917]
+
+# ---- Hegel ----
+Def: The modern age: the Reformation's freedom of conscience, the Enlightenment, and the French Revolution.
+Texts:
+  The Philosophy of History
+    The German World › The Modern Time
+Citations:

@@ -29,3 +29,10 @@ F:
 Phr:
   the veil is lifted
   the curtain falls
+
+# ---- Hegel ----
+Def: The two worlds each proving to be the essence of the other, so that appearance passes into essential relation.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Appearance › Appearance › The dissolution of appearance
+Citations:

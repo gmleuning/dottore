@@ -38,3 +38,10 @@ Phr:
   a light breaks in upon one
   the scales fall from one's eyes
   the eyes are opened
+
+# ---- Hegel ----
+Def: Religion in which the absolute is revealed as a self, God become man, known as spirit.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶748–787
+Citations:

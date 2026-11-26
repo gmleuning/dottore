@@ -73,3 +73,10 @@ Phr:
   sirrah!
   Acherontis pabulum
   gibier de potence [Fr.]
+
+# ---- Hegel ----
+Def: The negative infinite judgment, the deliberate negation of right as right, which annuls itself.
+Texts:
+  The Philosophy of Right
+    §§95–96
+Citations:

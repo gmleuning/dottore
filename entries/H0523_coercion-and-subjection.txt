@@ -17,3 +17,10 @@ Phr:
   amen
   da locum melioribus [Lat.]
   tempori parendum [Lat.]
+
+# ---- Hegel ----
+Def: The compulsion that forces one self into subjection.
+Texts:
+  The Philosophy of Mind
+    §§432–433
+Citations:

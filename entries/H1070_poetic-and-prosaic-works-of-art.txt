@@ -32,3 +32,10 @@ F:
 Phr:
   history and oratory as prose arts
   a whole and its parts
+
+# ---- Hegel ----
+Def: The poetic work, an organic whole, against the prosaic works of history and oratory.
+Texts:
+  Aesthetics
+    Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art › The Poetic and the Prose Work of Art
+Citations:

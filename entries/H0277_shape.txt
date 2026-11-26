@@ -44,3 +44,10 @@ Phr:
   slippery as coonshit on a pump handle
   slippery as a greased pig
   cabello luengo y corto el seso [Sp.]
+
+# ---- Hegel ----
+Def: Individuality as the immanent form of matter, which gives itself its spatial determination, as magnetism and crystal.
+Texts:
+  The Philosophy of Nature
+    §§310–315
+Citations:

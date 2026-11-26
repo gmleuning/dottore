@@ -52,3 +52,10 @@ Phr:
   Newton's apple
   to come down to earth
   the bottom fell out
+
+# ---- Hegel ----
+Def: Matter's relative free motion toward its centre, in which the body's own gravity is the moving cause.
+Texts:
+  The Philosophy of Nature
+    §§267–268
+Citations:

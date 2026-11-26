@@ -48,3 +48,10 @@ Phr:
   dulce est desipere in loco [Lat.] [Horace]
   (every room) hath blazed with lights and brayed with minstrelsy [Timon of Athens]
   misce stullitiam consiliis brevem [Lat.] [Horace]
+
+# ---- Hegel ----
+Def: The athlete in festival, the beautiful body as the living statue.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶725–726
+Citations:

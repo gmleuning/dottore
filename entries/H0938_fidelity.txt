@@ -38,3 +38,10 @@ Phr:
   Treue um Treue [Ger.]
   loyal to the last
   to keep faith
+
+# ---- Hegel ----
+Def: Fidelity to a lord, personal loyalty.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › Chivalry › Fidelity
+Citations:

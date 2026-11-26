@@ -38,3 +38,10 @@ Phr:
   to sort out
   to carve nature at its joints
   In vast cumbrous array [Churchill]
+
+# ---- Hegel ----
+Def: The universal particularized, the genus divided according to a principle drawn from the object.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea of cognition › The idea of the true › Synthetic cognition › Division
+Citations:

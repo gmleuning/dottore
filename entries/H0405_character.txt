@@ -60,3 +60,10 @@ Phr:
   non possumus [Lat.]
   no surrender
   ils n'ont rien appris ne rien oublie [Fr.]
+
+# ---- Hegel ----
+Def: The formal energy by which the individual pursues aims and holds firm to them, and the substance of those aims; what makes a person.
+Texts:
+  The Philosophy of Mind
+    §395
+Citations:

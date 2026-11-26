@@ -29,3 +29,10 @@ Phr:
   γένοι᾽ οἷος ἐσσὶ μαθών [Gk.] [Pindar, Pythian 2.72: become such as you are, having learned what that is]
   one's own person
   to be oneself
+
+# ---- Hegel ----
+Def: Individuality that knows its action to be the real, the interpenetration of self and being.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶394–437
+Citations:

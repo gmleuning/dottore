@@ -30,3 +30,10 @@ Phr:
   action and reaction
   push comes to shove
   knock-on effect
+
+# ---- Hegel ----
+Def: Objects acting upon one another through the identity of their nature, which they show only as indifferent to it.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Mechanism › The mechanical process
+Citations:

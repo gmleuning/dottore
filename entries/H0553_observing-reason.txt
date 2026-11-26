@@ -31,3 +31,10 @@ Phr:
   observe and record
   to keep an eye on
   under observation
+
+# ---- Hegel ----
+Def: Reason that seeks itself in things by describing, classifying and finding laws, finding at last only itself.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶240–346
+Citations:

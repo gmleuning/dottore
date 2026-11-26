@@ -30,3 +30,10 @@ Phr:
   the effect is contained in the cause
   what goes up must come down
   as cause, so effect
+
+# ---- Hegel ----
+Def: Cause and effect as the same content in different form: the cause is a cause only in its effect.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute relation › The relation of causality › Formal causality
+Citations:

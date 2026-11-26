@@ -40,3 +40,10 @@ Phr:
   blood will have blood [Macbeth]
   you can't get blood from a stone
   in cold blood
+
+# ---- Hegel ----
+Def: The system of irritability, the blood, the living individual's universal, its circulation.
+Texts:
+  The Philosophy of Nature
+    §354
+Citations:

@@ -33,3 +33,10 @@ Phr:
   what can be, may be
   what must be, will be
   as it may be
+
+# ---- Hegel ----
+Def: Actuality as the unity of the actual and the possible, unfolding through contingency to necessity.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › Actuality
+Citations:

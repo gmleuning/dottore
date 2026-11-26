@@ -15,3 +15,10 @@ Adj:
 
 F:
   German: Gelegenheitsgedicht
+
+# ---- Hegel ----
+Def: An external occasion, a commission or an event, which the genuine artist takes up and fills with his own life.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

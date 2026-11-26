@@ -35,3 +35,10 @@ Phr:
   experience is the teacher of all things, experientia docet [Lat.]
   in my experience
   to learn the hard way
+
+# ---- Hegel ----
+Def: The particular observations of perception, its many findings.
+Texts:
+  The Philosophy of Mind
+    §420
+Citations:

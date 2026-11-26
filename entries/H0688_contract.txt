@@ -41,3 +41,10 @@ Phr:
   my word is my bond
   a gentleman's agreement
   to shake on it
+
+# ---- Hegel ----
+Def: The union of two wills in relation to property, the mediation through which I hold property by another's will.
+Texts:
+  The Philosophy of Right
+    §§72–81
+Citations:

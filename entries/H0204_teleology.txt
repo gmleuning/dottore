@@ -41,3 +41,10 @@ Phr:
   the end justifies the means
   the cunning of reason, List der Vernunft [Ger.] [Hegel]
   for a purpose
+
+# ---- Hegel ----
+Def: The concept existing for itself, the end, which realizes itself in the object through means.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Teleology
+Citations:

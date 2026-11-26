@@ -26,3 +26,10 @@ N:
 
 F:
   German: gemeinsame Nutzen, Straßenbau
+
+# ---- Hegel ----
+Def: The public authority's provision for the common interest in the means that serve all, such as street lighting, bridge building and public health (§235-236).
+Texts:
+  The Philosophy of Right
+    §§235–248
+Citations:

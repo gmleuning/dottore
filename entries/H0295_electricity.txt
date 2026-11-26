@@ -30,3 +30,10 @@ Phr:
   lightning never strikes twice in the same place
   a charged atmosphere
   sparks fly
+
+# ---- Hegel ----
+Def: The body's self of individuality appearing in tension with another body, as positive and negative electricity.
+Texts:
+  The Philosophy of Nature
+    §§323–325
+Citations:

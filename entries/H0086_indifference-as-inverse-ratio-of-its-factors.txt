@@ -31,3 +31,10 @@ F:
 Phr:
   what goes up must come down
   six of one and half a dozen of the other
+
+# ---- Hegel ----
+Def: Indifference determined as the inverse ratio of two factors, which are only through one another.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › The becoming of essence › Indifference as inverse ratio of its factors
+Citations:

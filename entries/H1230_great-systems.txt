@@ -23,3 +23,10 @@ Adv:
 
 Phr:
   the School of Athens
+
+# ---- Hegel ----
+Def: The great systems of Plato and Aristotle, in which Greek thought completes itself.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Great Systems: Plato and Aristotle
+Citations:

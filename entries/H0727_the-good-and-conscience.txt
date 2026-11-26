@@ -23,3 +23,10 @@ Adv:
 Phr:
   the good and conscience
   to do the right thing
+
+# ---- Hegel ----
+Def: The good, the idea as the unity of the will's concept and the particular will, and conscience, the subjectivity which determines it.
+Texts:
+  The Philosophy of Right
+    §§129–141
+Citations:

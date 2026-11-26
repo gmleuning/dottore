@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   nicht etwa jetzt und gestern, sondern immerdar lebt es, und keiner weiß, von wannen es erschien [Ger.] [Sophocles, quoted by Hegel, Phenomenology]
+
+# ---- Hegel ----
+Def: Das göttliche Wissen: the knowledge of the divine law, unwritten and eternal, of which no one knows whence it came; kept by woman and the family.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶465–467
+Citations:

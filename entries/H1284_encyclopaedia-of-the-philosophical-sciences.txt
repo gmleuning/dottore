@@ -27,3 +27,10 @@ F:
 Phr:
   a circle of circles [Hegel]
   the whole of the system
+
+# ---- Hegel ----
+Def: The Encyclopaedia, the whole system as a circle of circles: logic, nature and spirit.
+Texts:
+  The Encyclopaedia Logic
+    §§1–18
+Citations:

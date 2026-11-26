@@ -28,3 +28,10 @@ F:
 Phr:
   the boards
   the show must go on
+
+# ---- Hegel ----
+Def: The external execution of the drama, its performance.
+Texts:
+  Aesthetics
+    Poetry › Dramatic Poetry › The External Execution of a Dramatic Work of Art
+Citations:

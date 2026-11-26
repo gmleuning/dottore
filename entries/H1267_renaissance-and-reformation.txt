@@ -29,3 +29,10 @@ Phr:
   ad fontes [Lat.] [back to the sources]
   here I stand
   the rebirth of learning
+
+# ---- Hegel ----
+Def: The revival of learning and the Reformation, in which the subject finds its freedom within itself.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › Renaissance and Reformation
+Citations:

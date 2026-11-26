@@ -48,3 +48,10 @@ Phr:
   fata viam invenient [Lat.] [the fates will find a way] [Virgil]
   it is written
   the threads of fate
+
+# ---- Hegel ----
+Def: Fate, the necessity above the gods, the cold unity they cannot reach.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Dissolution of the Classical Form of Art › Fate
+Citations:

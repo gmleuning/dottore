@@ -25,3 +25,10 @@ Phr:
   the colossi of Memnon
   standing stones
   set in stone
+
+# ---- Hegel ----
+Def: Building passing over into sculpture, as columns and obelisks.
+Texts:
+  Aesthetics
+    Architecture › Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture
+Citations:

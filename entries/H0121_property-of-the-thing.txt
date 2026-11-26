@@ -37,3 +37,10 @@ Phr:
   by their fruits ye shall know them [Bible]
   true to type
   a mark of
+
+# ---- Hegel ----
+Def: The thing's determinateness as its relation to other things: a property is the way a thing has effects on others and shows itself in them.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Concrete existence › The thing and its properties › Property
+Citations:

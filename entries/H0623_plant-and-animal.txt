@@ -26,3 +26,10 @@ Phr:
   die Unschuld der Blumenreligion, die nur selbstlose Vorstellung des Selbsts ist, geht in den Ernst des kämpfenden Lebens, in die Schuld der Tierreligion … über [Ger.] [Hegel, Phenomenology ¶689]
   flower worship
   sacred cows
+
+# ---- Hegel ----
+Def: The divine in the shapes of plant and animal, a religion of flowers and then of hostile animal spirits.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶689–690
+Citations:

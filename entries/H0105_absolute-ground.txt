@@ -32,3 +32,10 @@ Phr:
   the ground of being [Tillich]
   the reason for everything
   from first principles
+
+# ---- Hegel ----
+Def: Ground as the relation of ground and grounded, form and essence.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Absolute ground
+Citations:

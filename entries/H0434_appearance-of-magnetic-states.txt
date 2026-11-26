@@ -25,3 +25,10 @@ Phr:
   there are more things in heaven and earth, Horatio, than are dreamt of in your philosophy [Hamlet]
   spellbound
   in a daze
+
+# ---- Hegel ----
+Def: The forms in which the soul's sunken life appears when it is cut loose from mediated consciousness.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

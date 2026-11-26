@@ -32,3 +32,10 @@ Phr:
   we can have no cognition of an object, as a thing in itself, but only as an object of sensible intuition, that is, as phenomenon [Kant, Critique of Pure Reason Bxxvi, tr. Meiklejohn]
   the thing-in-itself is a caput mortuum [Hegel]
   behind the scenes
+
+# ---- Hegel ----
+Def: The thing-in-itself as the empty abstraction of the thing without its relations, set over against its existence.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Concrete existence › The thing and its properties › The thing in itself and concrete existence
+Citations:

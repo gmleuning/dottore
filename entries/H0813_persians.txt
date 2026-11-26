@@ -15,3 +15,10 @@ Adj:
 
 Phr:
   the law of the Medes and Persians, which altereth not [Bible]
+
+# ---- Hegel ----
+Def: Die Perser, the free mountain people under Cyrus that united Medes, Babylonians and Assyrians into one empire under a principle of light.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Assyrians, Babylonians, Medes, and Persians
+Citations:

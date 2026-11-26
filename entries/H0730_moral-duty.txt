@@ -51,3 +51,10 @@ Phr:
   simple duty bath no place for fear [Whittier]
   stern daughter of the voice of God [Wordsworth]
   there is a higher law than the Constitution [Wm. Seward]
+
+# ---- Hegel ----
+Def: Duty, the universal, abstract demand: do your duty for duty's sake, empty formalism if held alone.
+Texts:
+  The Philosophy of Right
+    §§133–135
+Citations:

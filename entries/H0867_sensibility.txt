@@ -18,3 +18,10 @@ F:
 
 Phr:
   was in seiner Phantasie lebt, kommt ihm dadurch gleichsam in die Finger [Ger.] [Hegel, Aesthetics]
+
+# ---- Hegel ----
+Def: Leichtigkeit, the ease of inner production and of outer technical skill: what lives in the artist's Phantasie comes as it were into his fingers, as our thoughts come into our mouths.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
+Citations:

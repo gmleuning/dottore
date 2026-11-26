@@ -35,3 +35,10 @@ Phr:
   form follows function
   forma dat esse rei [Lat.]
   in form and in fact
+
+# ---- Hegel ----
+Def: Essence as the substrate of form, and form as the movement of essence's own determinations.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Absolute ground › Form and essence
+Citations:

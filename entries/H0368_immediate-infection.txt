@@ -25,3 +25,10 @@ Phr:
   life infects what it touches
   at first bite
   to take in
+
+# ---- Hegel ----
+Def: The immediate infection of the food by the organism's own living power, which transforms it simply by taking it in.
+Texts:
+  The Philosophy of Nature
+    §364
+Citations:

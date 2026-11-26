@@ -34,3 +34,10 @@ Phr:
   the Passion according to St Matthew [Bach]
   setting words to music
   song and recitative
+
+# ---- Hegel ----
+Def: Music accompanying words, which expresses the feeling of the text without becoming its servant.
+Texts:
+  Aesthetics
+    Music › Relation between Music's Means of Expression and their Content › Music as an Accompaniment
+Citations:

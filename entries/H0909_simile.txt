@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   my love is like a red, red rose [Burns]
+
+# ---- Hegel ----
+Def: Das Gleichnis: image and meaning both expressly set out side by side, the poet lingering on the likeness, as in Homer's similes.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Metaphor, Image, Simile › Simile
+Citations:

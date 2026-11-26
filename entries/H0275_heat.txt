@@ -60,3 +60,10 @@ Phr:
   not a breath of air
   whirlwinds of tempestuous fire [Paradise Lost]
   fight fire with fire
+
+# ---- Hegel ----
+Def: The dissolution of cohesion, the body's self-restoration as the real negation of its specific determinateness, passing into shape.
+Texts:
+  The Philosophy of Nature
+    §§303–307
+Citations:

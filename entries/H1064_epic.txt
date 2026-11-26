@@ -16,3 +16,10 @@ F:
 
 Phr:
   faithful to the score
+
+# ---- Hegel ----
+Def: The first kind of execution, which gives itself wholly to the work and reproduces only what is there, like the epic reciter who disappears behind his matter.
+Texts:
+  Aesthetics
+    Music › Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art
+Citations:

@@ -48,3 +48,10 @@ Phr:
   delenda est Carthago [Lat.]
   dum Roma deliberat Saguntum perit [Lat.]
   ecrasez l'infame [Voltaire]
+
+# ---- Hegel ----
+Def: The thing as the mere also of its matters, porous to them, its unity a contradiction that dissolves it into appearance.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Concrete existence › Dissolution of the thing
+Citations:

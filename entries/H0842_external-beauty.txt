@@ -27,3 +27,10 @@ Adv:
 Phr:
   beauty is only skin deep
   pretty as a picture
+
+# ---- Hegel ----
+Def: The outward beauty of natural shapes, their abstract form and the unity of their sensuous material.
+Texts:
+  Aesthetics
+    The Beauty of Nature › The External Beauty of the Abstract Form
+Citations:

@@ -24,3 +24,10 @@ Phr:
   the gods in human form
   noble simplicity and quiet grandeur
   serene beauty
+
+# ---- Hegel ----
+Def: The ideal of classical art: spirit and human body in perfect union.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Ideal of the Classical Form of Art
+Citations:

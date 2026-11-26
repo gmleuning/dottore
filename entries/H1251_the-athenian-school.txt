@@ -15,3 +15,10 @@ Adj:
 Phr:
   the last of the pagans
   remaining, procession, return, monē, proodos, epistrophē [Gr.] [Proclus]
+
+# ---- Hegel ----
+Def: The Athenian school, Proclus above all, in whom the Neoplatonic triad is most fully developed; it ends with the closing of the schools in 529.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Neoplatonic Philosophy › Proclus
+Citations:

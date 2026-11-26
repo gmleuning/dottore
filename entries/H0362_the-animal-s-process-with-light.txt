@@ -23,3 +23,10 @@ Phr:
   the peacock's tail
   to come into the light
   skin deep
+
+# ---- Hegel ----
+Def: The animal's relation to light, its colouring and sensitivity, the outward facing of its skin.
+Texts:
+  The Philosophy of Nature
+    §362
+Citations:

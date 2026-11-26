@@ -78,3 +78,10 @@ Phr:
   nemo repente fuit turpissimus [Lat.]
   the trail of the serpent is over them all [Moore]
   to sanction vice and hunt decorum down [Bryon]
+
+# ---- Hegel ----
+Def: The forms in which subjectivity, certain of itself, sets its own particularity above the universal: evil.
+Texts:
+  The Philosophy of Right
+    §§139–140
+Citations:

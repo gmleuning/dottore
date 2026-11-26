@@ -28,3 +28,10 @@ F:
 Phr:
   the land of desire [Hegel on India]
   the land of the Vedas
+
+# ---- Hegel ----
+Def: India, the dreaming spirit of caste, theocratic aristocracy.
+Texts:
+  The Philosophy of History
+    The Oriental World › India
+Citations:

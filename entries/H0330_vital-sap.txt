@@ -24,3 +24,10 @@ Phr:
   the lifeblood of the plant
   the vital juices
   life-blood
+
+# ---- Hegel ----
+Def: The sap that nourishes the living tissue.
+Texts:
+  The Philosophy of Nature
+    §346
+Citations:

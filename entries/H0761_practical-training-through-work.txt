@@ -21,3 +21,10 @@ F:
 Phr:
   die praktische Bildung besteht eben in der Gewohnheit und in dem Bedürfen der Beschäftigung [Ger.] [Hegel, Philosophy of Right §197 Zusatz]
   der Barbar ist faul [Ger.] [Hegel, Philosophy of Right §197 Zusatz]
+
+# ---- Hegel ----
+Def: Practical Bildung through labour: the need for and habit of occupation, the restriction of one's activity by the material and by the will of others, and the general skills won by this discipline (§197).
+Texts:
+  The Philosophy of Right
+    §197
+Citations:

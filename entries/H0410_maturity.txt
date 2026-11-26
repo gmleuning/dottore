@@ -37,3 +37,10 @@ Phr:
   when I became a man, I put away childish things [Bible]
   nel mezzo del cammin di nostra vita [It.] [Dante]
   to come of age
+
+# ---- Hegel ----
+Def: The recognition of the objective necessity of the world, the man who works within it and finds his satisfaction there.
+Texts:
+  The Philosophy of Mind
+    §396
+Citations:

@@ -28,3 +28,10 @@ Phr:
   reverence for life, Ehrfurcht vor dem Leben [Ger.] [Albert Schweitzer]
   the spark of life
   a living thing
+
+# ---- Hegel ----
+Def: Consciousness that has life as its object, which is the threshold of self-consciousness.
+Texts:
+  The Philosophy of Mind
+    §423
+Citations:

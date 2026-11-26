@@ -42,3 +42,10 @@ Phr:
   the owl of Minerva spreads its wings only with the falling of the dusk [Hegel]
   on second thought
   to turn back on itself
+
+# ---- Hegel ----
+Def: The shining of essence within itself: the movement from nothing to nothing and thereby back to itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Shine › Reflection
+Citations:

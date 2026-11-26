@@ -31,3 +31,10 @@ F:
 Phr:
   the German World knows that All are free [Hegel, Philosophy of History, tr. Sibree]
   the freedom of a Christian
+
+# ---- Hegel ----
+Def: The Germanic world, where all are free: the principle of Christian freedom, worked out through the history of the Germanic peoples.
+Texts:
+  The Philosophy of History
+    The German World
+Citations:

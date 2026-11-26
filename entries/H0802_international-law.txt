@@ -48,3 +48,10 @@ Phr:
   paritur pax bello [Lat.] [Nepos]
   peace hath her victories no less renowned than war [Milton]
   they make a desert and they call it peace
+
+# ---- Hegel ----
+Def: External state law between independent states, binding only through their particular wills, an ought.
+Texts:
+  The Philosophy of Right
+    §§330–340
+Citations:

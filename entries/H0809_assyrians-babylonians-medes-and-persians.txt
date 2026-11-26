@@ -17,3 +17,10 @@ Adj:
 
 Adv:
   in succession, in the Near East
+
+# ---- Hegel ----
+Def: The Assyrians, Babylonians, Medes and Persians, the peoples that the Persian empire gathered into one.
+Texts:
+  The Philosophy of History
+    The Oriental World › Persia › The Assyrians, Babylonians, Medes, and Persians
+Citations:

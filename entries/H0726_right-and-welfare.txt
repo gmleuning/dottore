@@ -28,3 +28,10 @@ F:
 
 Phr:
   necessitas non habet legem [Lat.] [necessity has no law]
+
+# ---- Hegel ----
+Def: Welfare is no justification for wrong, yet in extremity the right of necessity.
+Texts:
+  The Philosophy of Right
+    §§125–128
+Citations:

@@ -27,3 +27,10 @@ Phr:
   each law lives through the other
   the twain shall meet
   woven together
+
+# ---- Hegel ----
+Def: The interpenetration of human and divine law.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶460–461
+Citations:

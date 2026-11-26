@@ -45,3 +45,10 @@ Phr:
   natura il fece [It.], e poi roppe la stampa [It.]
   du fort au faible [Fr.]
   two souls with but a single thought, two hearts that beat as one
+
+# ---- Hegel ----
+Def: Being-for-self as immediate self-relation, excluding all other: the one, the principle of atomism.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › Being-for-itself as such › The one
+Citations:

@@ -25,3 +25,10 @@ Phr:
   calm and noble
   calm and self-contained
   beyond time and change
+
+# ---- Hegel ----
+Def: The ideal sculptural form in general, the human figure purified to the expression of the divine.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › General Character of the Ideal Sculptural Form
+Citations:

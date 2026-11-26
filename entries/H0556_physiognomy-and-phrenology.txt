@@ -25,3 +25,10 @@ Phr:
   the body as the mirror of the soul
   to judge by appearances
   skin deep
+
+# ---- Hegel ----
+Def: Reason seeking the mind in its immediate bodily actuality, in face and skull.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶309–346
+Citations:

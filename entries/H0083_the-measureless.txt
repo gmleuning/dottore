@@ -47,3 +47,10 @@ Phr:
   beyond all measure
   out of all bounds
   fortuna multis dat nimium nulli satis [Lat.]
+
+# ---- Hegel ----
+Def: The measureless, where quantitative alteration overthrows the measure, and in which the measure returns to itself.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Real measure › The measureless
+Citations:

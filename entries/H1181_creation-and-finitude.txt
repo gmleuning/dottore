@@ -30,3 +30,10 @@ F:
 Phr:
   in the beginning God created the heaven and the earth [Bible]
   let there be light
+
+# ---- Hegel ----
+Def: The creation of the world, finitude and nature, the other of God.
+Texts:
+  Lectures on the Philosophy of Religion
+    The Consummate Religion (1827) › Representation, Appearance › Differentiation within the Divine Life and in the World
+Citations:

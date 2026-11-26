@@ -25,3 +25,10 @@ Phr:
   the breathing forest
   a breath of air
   to breathe
+
+# ---- Hegel ----
+Def: The plant's process with the air, its breathing out and in.
+Texts:
+  The Philosophy of Nature
+    §347
+Citations:

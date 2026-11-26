@@ -31,3 +31,10 @@ Phr:
   brevity is the soul of wit [Hamlet]
   go tell the Spartans, stranger passing by [Simonides]
   short and sweet
+
+# ---- Hegel ----
+Def: The old epigram, an inscription on a thing, its explanation.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art › The Ancient Epigram
+Citations:

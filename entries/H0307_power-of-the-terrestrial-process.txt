@@ -30,3 +30,10 @@ Adv:
 Phr:
   the mountains skipped like rams [Bible]
   the forces of nature
+
+# ---- Hegel ----
+Def: The past forces of the formative process of the earth, which, as past, have left behind their products.
+Texts:
+  The Philosophy of Nature
+    §339
+Citations:

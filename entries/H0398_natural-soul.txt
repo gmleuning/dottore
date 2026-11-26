@@ -31,3 +31,10 @@ F:
 Phr:
   the natural man receiveth not the things of the Spirit [Bible]
   at one with nature
+
+# ---- Hegel ----
+Def: The soul in its immediate natural determinacy, which merely is and shares the life of nature.
+Texts:
+  The Philosophy of Mind
+    §§391–402
+Citations:

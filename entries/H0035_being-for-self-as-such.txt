@@ -30,3 +30,10 @@ Phr:
   no man is an island [Donne] [Opposed]
   by itself
   on one's own account
+
+# ---- Hegel ----
+Def: Being-for-self taken simply, as the self-relation that has otherness only as sublated within it.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Being-for-itself › Being-for-itself as such
+Citations:

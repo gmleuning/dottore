@@ -39,3 +39,10 @@ Phr:
   because it is
   non constat [Lat.]
   that goes for nothing
+
+# ---- Hegel ----
+Def: The ground that only restates the grounded in another form; the empty explanation by a virtus dormitiva.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Ground › Determinate ground › Formal ground
+Citations:

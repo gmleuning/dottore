@@ -19,3 +19,10 @@ Adv:
 Phr:
   honesty is the best policy
   it's the thing itself that matters
+
+# ---- Hegel ----
+Def: Die Sache selbst: the true work, the unity of doing and being, of individuality and objectivity, which becomes the concern of all and passes over into ethical substance.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶409–417
+Citations:

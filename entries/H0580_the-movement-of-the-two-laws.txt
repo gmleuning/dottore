@@ -30,3 +30,10 @@ Phr:
   caught between two duties
   between two fires
   caught in the middle
+
+# ---- Hegel ----
+Def: The movement in which the two laws pass into each other and come into conflict.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶453–459
+Citations:

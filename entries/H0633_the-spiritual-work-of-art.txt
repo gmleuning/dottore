@@ -28,3 +28,10 @@ Phr:
   the word as the highest material of art
   the word made art
   song and story
+
+# ---- Hegel ----
+Def: The spiritual work of art in language: epic, tragedy and comedy.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶727–747
+Citations:

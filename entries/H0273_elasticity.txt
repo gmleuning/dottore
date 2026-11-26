@@ -34,3 +34,10 @@ Phr:
   bend but not break
   to bounce back
   the stress is proportional to the strain
+
+# ---- Hegel ----
+Def: Coherence as yielding and recovering, the body's self-negation and self-restoration, which gives way to sound.
+Texts:
+  The Philosophy of Nature
+    §§297–299
+Citations:

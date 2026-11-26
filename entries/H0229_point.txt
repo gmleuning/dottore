@@ -34,3 +34,10 @@ Phr:
   a point is that which has no part [Euclid]
   on the dot
   to a point
+
+# ---- Hegel ----
+Def: Space's first negation, the point, which is spatial yet not extended; its own negation of space within space.
+Texts:
+  The Philosophy of Nature
+    §256
+Citations:

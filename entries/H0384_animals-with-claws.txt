@@ -15,3 +15,10 @@ Adj:
 Phr:
   tooth and claw
   to show one's claws
+
+# ---- Hegel ----
+Def: Mammals whose extremities are claws, fitted for seizing and holding: beasts of prey, rodents, bats and sloths.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

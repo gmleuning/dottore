@@ -34,3 +34,10 @@ Phr:
   the riddle of the sphinx
   built to last
   set in stone
+
+# ---- Hegel ----
+Def: The artificer, the instinctive worker who makes pyramids and obelisks, and then statues half beast, half man.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶691–698
+Citations:

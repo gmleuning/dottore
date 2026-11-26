@@ -48,3 +48,10 @@ Phr:
   salva res est [Lat.] [Terence]
   Tu l'as voulu [Fr.], Georges Dandin
   and wet his grave with my repentant tears [Richard III]
+
+# ---- Hegel ----
+Def: The knowing of the true universal while the subject wills its particular against it.
+Texts:
+  The Philosophy of Right
+    §140
+Citations:

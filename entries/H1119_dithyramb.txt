@@ -17,3 +17,10 @@ Adj:
 
 Phr:
   the dithyramb
+
+# ---- Hegel ----
+Def: Die Dithyrambe: subjective elevation in worship, the poet shaken by the power of the god and borne beyond himself in rapture.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

@@ -47,3 +47,10 @@ Phr:
   hic labor hoc opus [Lat.] [Virgil]
   things are come to a pretty pass, ab inconvenienti [Lat.]
   acun chemin de fleurs ne conduit a la gloire [Fr.]
+
+# ---- Hegel ----
+Def: The servant's labour, the discipline of service, through which the servant shapes the thing and finds a self in it.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶194–196
+Citations:

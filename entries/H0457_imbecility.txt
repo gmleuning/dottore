@@ -52,3 +52,10 @@ Phr:
   les fous font les festinas et les sages les mangent [Fr.]
   nomina stultorum parietibus harrent [Lat.]
   stultorum plena sunt omnia [Lat.] [Cicero]
+
+# ---- Hegel ----
+Def: The dullness of mind from birth or from disease, a natural deficiency of the soul's life.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

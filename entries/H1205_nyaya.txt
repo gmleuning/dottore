@@ -21,3 +21,10 @@ Adv:
 
 Phr:
   where there is smoke there is fire [the Nyāya example]
+
+# ---- Hegel ----
+Def: The Nyāya of Gotama, Indian dialectic, which treats the syllogism and the means and objects of knowledge.
+Texts:
+  Lectures on the History of Philosophy
+    Oriental Philosophy › Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika)
+Citations:

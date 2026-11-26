@@ -32,3 +32,10 @@ F:
 Phr:
   ex oriente lux [Lat.]
   the wisdom of the East
+
+# ---- Hegel ----
+Def: The thought of the East, where the individual is lost in the substance, religion rather than philosophy proper.
+Texts:
+  Lectures on the History of Philosophy
+    Oriental Philosophy
+Citations:

@@ -27,3 +27,10 @@ F:
 Phr:
   the rose is a plant
   flat out
+
+# ---- Hegel ----
+Def: The genus or species predicated of the subject as its substantial nature: gold is a metal.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of necessity › The categorical judgment
+Citations:

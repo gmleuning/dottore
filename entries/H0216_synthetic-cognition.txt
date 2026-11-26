@@ -34,3 +34,10 @@ Phr:
   putting two and two together
   to put it all together
   to join the dots
+
+# ---- Hegel ----
+Def: Cognition which grasps what is in its necessity, moving through definition, division and theorem.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea of cognition › The idea of the true › Synthetic cognition
+Citations:

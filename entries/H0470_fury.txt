@@ -14,3 +14,10 @@ V:
 Adj:
   berserk, amok, furious, mad with rage, savage, foaming at the mouth, raging
   homicidal, murderous, bloodthirsty
+
+# ---- Hegel ----
+Def: A positive mania for injuring others, even a suddenly awakening desire to kill, which drives its victims against their own horror of murder to kill even those they love.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

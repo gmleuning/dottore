@@ -32,3 +32,10 @@ Phr:
   the earth is the Lord's, and the fulness thereof [Bible]
   on this planet
   spaceship earth
+
+# ---- Hegel ----
+Def: The planet, the body of individuality, the concrete unity of the opposition and the true universal, which bears life.
+Texts:
+  The Philosophy of Nature
+    §280
+Citations:

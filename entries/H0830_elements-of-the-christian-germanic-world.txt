@@ -28,3 +28,10 @@ F:
 Phr:
   the revolution of the East [Hegel on Islam]
   the Holy Roman Empire
+
+# ---- Hegel ----
+Def: The elements of the Christian-Germanic world: the migrations, Islam, and the empire of Charlemagne.
+Texts:
+  The Philosophy of History
+    The German World › The Elements of the Christian German World
+Citations:

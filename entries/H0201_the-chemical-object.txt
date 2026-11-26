@@ -27,3 +27,10 @@ Phr:
   one half seeking its other half [Plato]
   drawn to its other
   made for each other
+
+# ---- Hegel ----
+Def: An object which is, in its own being, the contradiction of its one-sidedness with its whole nature, and strives to sublate it.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Chemism › The chemical object
+Citations:

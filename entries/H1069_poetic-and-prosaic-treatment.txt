@@ -31,3 +31,10 @@ Phr:
   poetic licence
   davus sum non Aedipus
   deadly dull and boring, DDB
+
+# ---- Hegel ----
+Def: The poetic grasp, which holds the whole together, and the prosaic, which follows the understanding.
+Texts:
+  Aesthetics
+    Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art › Poetic and Prosaic Treatment
+Citations:

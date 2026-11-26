@@ -27,3 +27,10 @@ F:
 Phr:
   the idea that has returned to itself out of its otherness [Hegel]
   spirit knows itself
+
+# ---- Hegel ----
+Def: The philosophy of spirit, the science of the idea that returns into itself from its otherness.
+Texts:
+  The Philosophy of Mind
+    §§377–577
+Citations:

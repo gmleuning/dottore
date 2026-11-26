@@ -28,3 +28,10 @@ Adv:
 F:
   Italian: con brio, bel canto
   German: Urtext [the original text of a score]
+
+# ---- Hegel ----
+Def: Performance, in which the musical work exists, either reproducing it faithfully or carrying it as a virtuoso.
+Texts:
+  Aesthetics
+    Music › Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art
+Citations:

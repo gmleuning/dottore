@@ -23,3 +23,10 @@ Adv:
 Phr:
   this plant is medicinal
   this one and no other
+
+# ---- Hegel ----
+Def: This singular is essentially universal: this plant is curative.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Judgment › The judgment of reflection › The singular judgment
+Citations:

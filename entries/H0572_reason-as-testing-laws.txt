@@ -27,3 +27,10 @@ Phr:
   act only according to that maxim whereby you can at the same time will that it should become a universal law [Kant]
   what if everyone did that?
   consistent with itself
+
+# ---- Hegel ----
+Def: Reason that tests laws only by their formal consistency, a measure that can sanction any content.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶429–437
+Citations:

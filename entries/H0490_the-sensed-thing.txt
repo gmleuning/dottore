@@ -25,3 +25,10 @@ Adv:
 Phr:
   the thing before me
   this very thing
+
+# ---- Hegel ----
+Def: The sensed thing, which proves to be a universal, a this that is many.
+Texts:
+  The Philosophy of Mind
+    §418
+Citations:

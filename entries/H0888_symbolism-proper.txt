@@ -32,3 +32,10 @@ Phr:
   sie ist das Symbol gleichsam des Symbolischen selber [Ger.] [Hegel, Aesthetics, on the Sphinx]
   the riddle of the Sphinx
   written in hieroglyphs
+
+# ---- Hegel ----
+Def: Symbolism proper, Egyptian, the riddle of the sphinx, where the meaning is sought in an obscure shape.
+Texts:
+  Aesthetics
+    The Symbolic Form of Art › Unconscious Symbolism › Symbolism Proper
+Citations:

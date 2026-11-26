@@ -26,3 +26,10 @@ F:
 Phr:
   when you have eliminated the impossible, whatever remains, however improbable, must be the truth [Arthur Conan Doyle]
   if not this, then that
+
+# ---- Hegel ----
+Def: The middle is the genus as the totality of its exclusive species, the mediating and the mediated in one: the syllogism completed.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of necessity › The disjunctive syllogism
+Citations:

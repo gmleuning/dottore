@@ -42,3 +42,10 @@ Phr:
   a journey of a thousand li begins with a single step [Laozi]
   to start from nothing
   a precedent embalms a principle [Disraeli]
+
+# ---- Hegel ----
+Def: The beginning, which is immediate and abstract, yet as the start of the method already its own self-movement.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The absolute idea
+Citations:

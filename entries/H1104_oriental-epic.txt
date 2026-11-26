@@ -28,3 +28,10 @@ F:
 
 Phr:
   the Book of Kings [Ferdowsi]
+
+# ---- Hegel ----
+Def: The oriental epic, the Indian and Persian epics, with their measureless fantasy.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Oriental Epic
+Citations:

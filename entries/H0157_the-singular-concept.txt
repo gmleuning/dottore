@@ -35,3 +35,10 @@ Phr:
   this rose, this one, here
   this one here
   the individual case
+
+# ---- Hegel ----
+Def: The concept returned into itself from its difference: the determinate universal, the subject.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The concept › The singular
+Citations:

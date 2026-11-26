@@ -23,3 +23,10 @@ Adv:
 Phr:
   the properties of bodies
   to have a body
+
+# ---- Hegel ----
+Def: The individuality of particular bodies in their determinate relation to gravity: specific gravity, cohesion, sound and heat.
+Texts:
+  The Philosophy of Nature
+    §§290–307
+Citations:

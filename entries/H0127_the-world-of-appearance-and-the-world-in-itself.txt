@@ -37,3 +37,10 @@ Phr:
   as above, so below
   the world turned upside down
   through the looking glass
+
+# ---- Hegel ----
+Def: The supersensible world, which is the inverted world of appearance: what is positive in one is negative in the other.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Appearance › Appearance › The world of appearance and the world-in-itself
+Citations:

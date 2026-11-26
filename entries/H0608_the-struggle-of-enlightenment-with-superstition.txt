@@ -44,3 +44,10 @@ Phr:
   all is not gold that glitters
   no es oro todo lo que reluce [Sp.]
   omne ignotum pro magnifico [Lat.]
+
+# ---- Hegel ----
+Def: The struggle of pure insight against faith, in which insight misunderstands faith and itself.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶541–573
+Citations:

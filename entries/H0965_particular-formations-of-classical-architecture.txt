@@ -25,3 +25,10 @@ Phr:
   column, beam, and roof
   the grammar of building
   stone by stone
+
+# ---- Hegel ----
+Def: The particular formations of classical architecture: its materials, its kinds of temple, the temple as a whole.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms
+Citations:

@@ -31,3 +31,10 @@ Phr:
   poetry the best words in the best order [Coleridge]
   prose and verse
   speaking prose without knowing it
+
+# ---- Hegel ----
+Def: Poetry in its difference from prose.
+Texts:
+  Aesthetics
+    Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art
+Citations:

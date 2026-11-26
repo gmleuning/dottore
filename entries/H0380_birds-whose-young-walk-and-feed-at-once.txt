@@ -12,3 +12,10 @@ N:
 
 Adj:
   precocial, nidifugous, web-footed, palmiped, gallinaceous
+
+# ---- Hegel ----
+Def: Lamarck's first three orders of birds, whose young walk and feed at once: palmipeds, waders and gallinaceous birds, the birds closest to the earth and the water.
+Texts:
+  The Philosophy of Nature
+    §370
+Citations:

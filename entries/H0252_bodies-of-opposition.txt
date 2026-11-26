@@ -24,3 +24,10 @@ Phr:
   as different as the moon and a comet
   the two lights
   opposites in the heavens
+
+# ---- Hegel ----
+Def: The physical bodies of difference, rigidity and dissolution, set in opposition as the moon and the comet.
+Texts:
+  The Philosophy of Nature
+    §279
+Citations:

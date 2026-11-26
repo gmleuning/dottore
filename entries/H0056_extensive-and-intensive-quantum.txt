@@ -26,3 +26,10 @@ Phr:
   far and wide
   deep down
   a mile wide and an inch deep
+
+# ---- Hegel ----
+Def: Quantum as extensive magnitude, a sum of units outside one another, and as intensive magnitude, degree, a simple determinateness.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum › Extensive and intensive quantum
+Citations:

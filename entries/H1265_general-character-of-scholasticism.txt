@@ -33,3 +33,10 @@ F:
 Phr:
   how many angels can dance on the head of a pin
   reason under authority
+
+# ---- Hegel ----
+Def: The general character of scholasticism, reason working within the authority of the church.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Scholastics › General Character of Scholastic Philosophy
+Citations:

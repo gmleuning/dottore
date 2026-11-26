@@ -29,3 +29,10 @@ Phr:
   look into my eyes
   to put under
   you are getting sleepy
+
+# ---- Hegel ----
+Def: The producing of the trance in another, through the magnetizer's power over a weaker soul.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

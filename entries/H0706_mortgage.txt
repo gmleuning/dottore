@@ -30,3 +30,10 @@ F:
 Phr:
   mortgaged to the hilt
   under water
+
+# ---- Hegel ----
+Def: A pledge of land or property, a lien which secures the contract.
+Texts:
+  The Philosophy of Right
+    §80
+Citations:

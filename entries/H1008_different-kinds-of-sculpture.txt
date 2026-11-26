@@ -26,3 +26,10 @@ Adv:
 Phr:
   in the round and in relief
   statue and group
+
+# ---- Hegel ----
+Def: The kinds of sculpture, by mode of portrayal, by material and by historical stage.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material
+Citations:

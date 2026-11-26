@@ -26,3 +26,10 @@ F:
 
 Phr:
   noble simplicity and quiet grandeur, edle Einfalt und stille Größe [Ger.] [Winckelmann]
+
+# ---- Hegel ----
+Def: Greek individuality shaped by beauty, spirit expressed in sensuous shape.
+Texts:
+  The Philosophy of History
+    The Greek World › Phases of Individuality Aesthetically Conditioned
+Citations:

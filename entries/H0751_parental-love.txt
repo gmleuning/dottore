@@ -36,3 +36,10 @@ Phr:
   the child is father of the man [Wordsworth]
   a mother's love
   the apple of one's eye
+
+# ---- Hegel ----
+Def: Love, the feeling of the unity, which in children is objective.
+Texts:
+  The Philosophy of Right
+    §173
+Citations:

@@ -25,3 +25,10 @@ Phr:
   Hellas as the meeting of East and West
   a land of islands
   wine-dark sea
+
+# ---- Hegel ----
+Def: The elements of the Greek spirit: a divided land of coast and islands, and the foreign inheritance recast as their own.
+Texts:
+  The Philosophy of History
+    The Greek World › The Elements of the Greek Spirit
+Citations:

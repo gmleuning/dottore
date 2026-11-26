@@ -28,3 +28,10 @@ Phr:
   that inward eye which is the bliss of solitude [Wordsworth]
   the mind's eye
   to look within
+
+# ---- Hegel ----
+Def: The somnambulist's seeing of the interior of their own body.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

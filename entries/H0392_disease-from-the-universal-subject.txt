@@ -10,3 +10,10 @@ N:
 
 Adj:
   psychosomatic, nervous, hypochondriac, neurasthenic, heartsick, careworn
+
+# ---- Hegel ----
+Def: The third kind of disease, which starts in the universal subject, the mind, as when terror or grief strikes the body or a passion wears it down; here disease reaches the soul, and leads over into derangement (&c H0455).
+Texts:
+  The Philosophy of Nature
+    §371
+Citations:

@@ -35,3 +35,10 @@ Phr:
   dust thou art, and unto dust shalt thou return [Bible]
   the meek shall inherit the earth [Bible]
   salt of the earth
+
+# ---- Hegel ----
+Def: The element of individuality, the earth, which holds the moments together and is the ground of the meteorological process.
+Texts:
+  The Philosophy of Nature
+    §285
+Citations:

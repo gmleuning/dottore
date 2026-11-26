@@ -25,3 +25,10 @@ Phr:
   individual yet universal
   the universal in one figure
   a god among gods
+
+# ---- Hegel ----
+Def: Individuality embodying the substantial, the god or hero as the universal in an individual shape.
+Texts:
+  Aesthetics
+    Sculpture › The Principle of Sculpture Proper › The Beautiful Sculptural Form › Substantive Individuality
+Citations:

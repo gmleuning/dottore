@@ -44,3 +44,10 @@ Phr:
   small sands the mountain, moments make the year [Young]
   I shall not look upon his like again [Hamlet]
   deos fortioribus addesse [Lat.] [Tacitus]
+
+# ---- Hegel ----
+Def: Quantity with a determinate limit: a how-much, whose limit is indifferent to it and drives beyond it.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Quantum
+Citations:

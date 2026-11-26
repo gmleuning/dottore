@@ -38,3 +38,10 @@ Phr:
   substance is that which is in itself and is conceived through itself [Spinoza]
   ti-yong [Chin.] [substance and function]
   when all is said and done
+
+# ---- Hegel ----
+Def: Substance as the power over its accidents, which are only its shining; the totality that posits and negates them.
+Texts:
+  The Science of Logic
+    The Doctrine of Essence › Actuality › The absolute relation › The relation of substantiality
+Citations:

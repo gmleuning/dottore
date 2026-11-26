@@ -26,3 +26,10 @@ Phr:
   inutile et incertain [Pascal, Fr.]
   the tree of philosophy — metaphysics the roots, physics the trunk, ethics the branches [Descartes, Fr. arbre de la philosophie]
   methodical doubt
+
+# ---- Hegel ----
+Def: Descartes, who began from thought: I think, therefore I am, the beginning of modern philosophy.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy › René Descartes
+Citations:

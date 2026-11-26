@@ -25,3 +25,10 @@ Phr:
   the marriage of metre and rhyme
   accent and rhyme
   the stressed syllable
+
+# ---- Hegel ----
+Def: The union of accentual rhythm and rhyme in modern verse.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Unification of Rhythmical Versification and Rhyme
+Citations:

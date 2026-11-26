@@ -29,3 +29,10 @@ Phr:
   one swallow does not make a summer
   all swans are white, until one is black
   so far as experience goes
+
+# ---- Hegel ----
+Def: The middle is the complete series of singulars, an incomplete and unending task.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of reflection › The syllogism of induction
+Citations:

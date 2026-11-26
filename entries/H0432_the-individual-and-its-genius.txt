@@ -36,3 +36,10 @@ Phr:
   character is destiny, ēthos anthrōpōi daimōn [Gr.] [Heraclitus]
   one's guardian angel
   a good genius
+
+# ---- Hegel ----
+Def: The individual's genius, the determining inwardness that decides what they are, the selfhood that acts in and through them.
+Texts:
+  The Philosophy of Mind
+    §405
+Citations:

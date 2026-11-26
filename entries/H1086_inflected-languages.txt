@@ -6,3 +6,10 @@ HGloss: The ancient languages, in which inflectional endings and natural length 
 
 N:
   inflected languages; inflection, endings, terminations, case endings, quantitative languages, the classical languages, Greek and Latin
+
+# ---- Hegel ----
+Def: The ancient languages, in which inflectional endings and natural length give the syllables a quantity independent of meaning.
+Texts:
+  Aesthetics
+    Poetry › Poetic Expression › Versification › Rhythmic Versification
+Citations:

@@ -11,3 +11,10 @@ N:
 
 Adj:
   Avicennian, Farabian
+
+# ---- Hegel ----
+Def: The eastern falāsifa, al-Kindī, al-Fārābī and Avicenna, who received Aristotle through translation and commented on him in a Neoplatonic spirit.
+Texts:
+  Lectures on the History of Philosophy
+    Medieval Philosophy › The Idea of Christianity › Arabic Philosophy
+Citations:

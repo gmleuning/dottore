@@ -35,3 +35,10 @@ F:
 Phr:
   what's mine is yours
   held in common
+
+# ---- Hegel ----
+Def: Property as the common possession of the family.
+Texts:
+  The Philosophy of Right
+    §171
+Citations:

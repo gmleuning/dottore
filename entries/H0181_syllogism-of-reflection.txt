@@ -24,3 +24,10 @@ Phr:
   from many, one
   one and all
   as far as anyone knows
+
+# ---- Hegel ----
+Def: Inference whose middle is the subject's reflected totality: all, then many, then one like another.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The syllogism › The syllogism of reflection
+Citations:

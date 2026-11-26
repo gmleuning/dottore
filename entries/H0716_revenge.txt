@@ -52,3 +52,10 @@ Phr:
   inhumanum verbum est ultio [Lat.] [Seneca]
   malevolus animus abditos dentes habet [Syrus]
   now infidel I have thee on the hip [Merchant of Venice]
+
+# ---- Hegel ----
+Def: Revenge, which is justice in content but in form an act of a particular will, a new injury.
+Texts:
+  The Philosophy of Right
+    §102
+Citations:

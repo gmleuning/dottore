@@ -31,3 +31,10 @@ Phr:
   it had to happen
   as a matter of course
   it stands to reason
+
+# ---- Hegel ----
+Def: The necessity which the understanding finds in its laws.
+Texts:
+  The Philosophy of Mind
+    §422
+Citations:

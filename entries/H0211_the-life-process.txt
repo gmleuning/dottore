@@ -35,3 +35,10 @@ Phr:
   you are what you eat, der Mensch ist, was er isst [Ger.] [Feuerbach]
   to keep body and soul together
   to make one's living
+
+# ---- Hegel ----
+Def: The living individual against an inorganic nature that it assimilates, so that it sets itself up as itself.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › Life › The life-process
+Citations:

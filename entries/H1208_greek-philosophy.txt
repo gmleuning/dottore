@@ -27,3 +27,10 @@ F:
 Phr:
   philosophy begins in wonder [Plato]
   at home in the world
+
+# ---- Hegel ----
+Def: Greek philosophy, where thought first becomes free and the individual is at home in the universal.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy
+Citations:

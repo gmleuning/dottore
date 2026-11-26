@@ -35,3 +35,10 @@ Phr:
   ubi caritas et amor, Deus ibi est [Lat.]
   the love of God
   mother and child
+
+# ---- Hegel ----
+Def: Religious love, the spirit's reconciliation felt in the heart, as in the Madonna.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Religious Domain of Romantic Art › Religious Love
+Citations:

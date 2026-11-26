@@ -36,3 +36,10 @@ Phr:
   dummodo sit dives barbarus ipse placet [Lat.] [Ovid]
   steeped in poverty to the very lips [Othello]
   the strong do not coerce the weak, the rich do not insult the poor, qiang bu zhi ruo, fu bu wu pin [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: Wealth piles up at one pole while a mass sinks into poverty and loses its sense of right, honour and self-respect: the rabble, which Hegel names a problem that torments modern society (§241-245).
+Texts:
+  The Philosophy of Right
+    §241
+Citations:

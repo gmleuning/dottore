@@ -31,3 +31,10 @@ Phr:
   come to one's senses
   the five senses
   a sixth sense
+
+# ---- Hegel ----
+Def: The system of the bodily senses, through which the soul is determined from outside: the ideal, the real difference, and earthly totality.
+Texts:
+  The Philosophy of Mind
+    §401
+Citations:

@@ -17,3 +17,10 @@ Adj:
 
 Adv:
   in glass
+
+# ---- Hegel ----
+Def: Glas, the pastes and cast glass that copy engraved stones and carry the glyptic art into a cheaper material.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Precious Stones and Glass
+Citations:

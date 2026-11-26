@@ -35,3 +35,10 @@ Phr:
   I know that face
   that rings a bell
   it comes back to me
+
+# ---- Hegel ----
+Def: The image called up by a present intuition, recognized as one's own.
+Texts:
+  The Philosophy of Mind
+    §454
+Citations:

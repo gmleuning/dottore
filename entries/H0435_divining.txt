@@ -27,3 +27,10 @@ Phr:
   water-witching
   to divine for water
   a nose for it
+
+# ---- Hegel ----
+Def: The soul's immediate sympathy with metals and water, a sentience of the elemental earth.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

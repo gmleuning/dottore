@@ -23,3 +23,10 @@ Phr:
   a man's reach should exceed his grasp, or what's a heaven for? [Browning]
   ought implies can
   ultra posse nemo obligatur [Lat.]
+
+# ---- Hegel ----
+Def: Das Sollen, the in-itself of something set against its restriction, which it is to transcend and yet keeps as its limit.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Finitude › Finitude › Restriction and the ought
+Citations:

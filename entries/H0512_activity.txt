@@ -22,3 +22,10 @@ Adv:
 
 F:
   German: Praxis, revolutionäre Praxis, sinnlich menschliche Tätigkeit
+
+# ---- Hegel ----
+Def: Tätigkeit, the activity that negates the object's independence and so gives the drive its satisfaction.
+Texts:
+  The Philosophy of Mind
+    §427
+Citations:

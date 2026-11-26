@@ -68,3 +68,10 @@ Phr:
   with friends like that, who needs enemies?
   Lord protect me from my friends
   I can protect myself from my enemies
+
+# ---- Hegel ----
+Def: The struggle of two self-consciousnesses, each risking its life to be recognized as free.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶185–189
+Citations:

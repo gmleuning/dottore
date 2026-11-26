@@ -20,3 +20,10 @@ Adv:
 
 Phr:
   the column remembers the tree
+
+# ---- Hegel ----
+Def: Der Holzbau: building in wood, the hut, whose posts and beams supply the original forms that stone architecture keeps.
+Texts:
+  Aesthetics
+    Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › Building in Wood and Stone
+Citations:

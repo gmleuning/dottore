@@ -41,3 +41,10 @@ Phr:
   sickness unto death
   health that snuffs the morning air [Grainger]
   non est vivere sed valere vita [Lat.] [Martial]
+
+# ---- Hegel ----
+Def: The individual's inadequacy to its genus: the disease in which a system isolates itself, and the death in which the genus prevails.
+Texts:
+  The Philosophy of Nature
+    §§371–376
+Citations:

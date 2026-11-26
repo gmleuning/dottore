@@ -28,3 +28,10 @@ F:
 Phr:
   the liar paradox [Eubulides]
   the heap and the bald man
+
+# ---- Hegel ----
+Def: The Megarics, who held the good to be one, and practiced the dialectic of argument.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Socratic Schools › The Megarics
+Citations:

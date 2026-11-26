@@ -49,3 +49,10 @@ Phr:
   foul whisperings are abroad [Macbeth]
   soft-buzzing slander [Thomson]
   virtue itself 'scapes not calumnious strokes [Hamlet]
+
+# ---- Hegel ----
+Def: The language of disruption, the witty, torn consciousness that inverts all values and is the truth of culture.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶519–523
+Citations:

@@ -51,3 +51,10 @@ Phr:
   The nail that sticks up hammered down [Jap.Tr.]
   Tall poppy syndrome
   Stick your neck out and it may get cut off
+
+# ---- Hegel ----
+Def: An external standard, an arbitrary unit applied to things as their measure.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Measure › Specific quantity › Specifying measure › The rule
+Citations:

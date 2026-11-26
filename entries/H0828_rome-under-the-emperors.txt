@@ -33,3 +33,10 @@ Phr:
   panem et circenses [Lat.] [Juvenal]
   bread and circuses
   render unto Caesar
+
+# ---- Hegel ----
+Def: Rome under the emperors, where the person is a private right-holder, Christianity arises, and the Byzantine empire continues.
+Texts:
+  The Philosophy of History
+    The Roman World › Rome under the Emperors
+Citations:

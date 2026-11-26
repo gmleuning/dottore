@@ -25,3 +25,10 @@ Phr:
   the whole world of a people
   the bible of a people
   a whole world in one poem
+
+# ---- Hegel ----
+Def: The general character of the epic: the national bible, the objective world of a people.
+Texts:
+  Aesthetics
+    Poetry › Epic Poetry › General Character of Epic
+Citations:

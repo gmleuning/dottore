@@ -55,3 +55,10 @@ Phr:
   to pass water
   to get rid of
   they that touch pitch will be defiled [Much Ado About Nothing]
+
+# ---- Hegel ----
+Def: The organism's repulsion of what it does not need, its separation from itself of the inorganic.
+Texts:
+  The Philosophy of Nature
+    §365
+Citations:

@@ -30,3 +30,10 @@ Phr:
   a tale told by an idiot, full of sound and fury, signifying nothing [Macbeth]
   to talk nonsense
   to wander in one's mind
+
+# ---- Hegel ----
+Def: A rambling in which the mind cannot hold fast to anything, a self that loses its connecting thread.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

@@ -35,3 +35,10 @@ Phr:
   stone walls do not a prison make [Lovelace]
   master of oneself
   dragging one's tail in the mud, yao wei tu zhong [Chin.] [Zhuangzi]
+
+# ---- Hegel ----
+Def: Self-consciousness free in thought, withdrawn from the world into itself: stoicism, skepticism, the unhappy consciousness.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶197–230
+Citations:

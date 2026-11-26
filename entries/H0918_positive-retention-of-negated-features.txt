@@ -24,3 +24,10 @@ Adv:
 Phr:
   the Furies become the Kindly Ones [Aeschylus]
   what survives
+
+# ---- Hegel ----
+Def: The positive retention of the negated features, the mysteries, the old gods' place in the new.
+Texts:
+  Aesthetics
+    The Classical Form of Art › The Process of Shaping the Classical Art-Form › Affirmative Retention of the Negatived Features
+Citations:

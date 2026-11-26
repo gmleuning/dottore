@@ -22,3 +22,10 @@ F:
 Phr:
   Taxation der Artikel der gemeinsten Lebensbedürfnisse [Ger.] [Hegel, Philosophy of Right §236]
   caveat emptor [Lat.]
+
+# ---- Hegel ----
+Def: Because goods of everyday use are offered to the public as a whole, the public authority may inspect them and fix the price of the commonest necessities (§236).
+Texts:
+  The Philosophy of Right
+    §236
+Citations:

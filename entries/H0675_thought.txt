@@ -25,3 +25,10 @@ Phr:
   the heart has its reasons [Pascal]
   hang one's head
   pangs of conscience
+
+# ---- Hegel ----
+Def: Feelings whose content comes from thought: shame, remorse, the feelings of right and religion.
+Texts:
+  The Philosophy of Mind
+    §§471–472
+Citations:

@@ -13,3 +13,10 @@ F:
   Greek: martyrion, metanoia
   Arabic: shahāda [martyrdom, witness], karāmāt [saints' miracles]
   Sanskrit: prāyaścitta [penance]
+
+# ---- Hegel ----
+Def: The spirit of the community, its martyrs, repentance and conversion, miracles and legends.
+Texts:
+  Aesthetics
+    The Romantic Form of Art › The Religious Domain of Romantic Art › The Spirit of the Community
+Citations:

@@ -36,3 +36,10 @@ F:
 Phr:
   ira furor brevis est [Lat.] [Horace]
   whom the gods would destroy, they first make mad
+
+# ---- Hegel ----
+Def: The third form of derangement: the subject knows itself torn into two contradictory modes of consciousness, feels the contradiction between its subjective presentation and the objective world, and yet cannot give it up, but insists on making it actual or on annihilating what is actual.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

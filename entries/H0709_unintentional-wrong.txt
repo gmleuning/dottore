@@ -39,3 +39,10 @@ F:
 Phr:
   honest mistake
   an honest mistake
+
+# ---- Hegel ----
+Def: Wrong without the intent to wrong, a collision of rights claims, as in civil disputes.
+Texts:
+  The Philosophy of Right
+    §§84–86
+Citations:

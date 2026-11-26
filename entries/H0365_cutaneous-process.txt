@@ -26,3 +26,10 @@ Adj:
 
 Adv:
   through the skin
+
+# ---- Hegel ----
+Def: The cutaneous process, the skin's absorbing and exhaling, the organism's general relation to its non-organic nature at its surface.
+Texts:
+  The Philosophy of Nature
+    §362
+Citations:

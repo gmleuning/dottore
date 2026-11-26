@@ -26,3 +26,10 @@ F:
 
 Phr:
   the presentation of God as he is in his eternal essence before the creation of nature and a finite spirit [Hegel]
+
+# ---- Hegel ----
+Def: The Science of Logic, the pure thought determinations, the idea in the element of thinking.
+Texts:
+  The Science of Logic
+    Introduction
+Citations:

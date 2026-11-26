@@ -31,3 +31,10 @@ Phr:
   why is there something rather than nothing? [Leibniz]
   of that ilk
   to a degree
+
+# ---- Hegel ----
+Def: Being with non-being taken up into its simple unity, so that its determinateness has the form of being.
+Texts:
+  The Science of Logic
+    The Doctrine of Being › Existence › Existence as such › Existence in general
+Citations:

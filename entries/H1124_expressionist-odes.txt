@@ -9,3 +9,10 @@ N:
 
 Adj:
   Horatian
+
+# ---- Hegel ----
+Def: The Horatian ode, where the subject is mastered less than the poet's own mood and reflection is expressed.
+Texts:
+  Aesthetics
+    Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
+Citations:

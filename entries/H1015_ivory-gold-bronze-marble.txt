@@ -6,3 +6,10 @@ HGloss: Ivory, gold, bronze and marble, the materials of the classical ideal.
 
 F:
   French: cire perdue
+
+# ---- Hegel ----
+Def: Ivory, gold, bronze and marble, the materials of the classical ideal.
+Texts:
+  Aesthetics
+    Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
+Citations:

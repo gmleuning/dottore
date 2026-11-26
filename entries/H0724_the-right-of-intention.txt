@@ -39,3 +39,10 @@ Phr:
   it's the thought that counts
   to mean it
   sublimi feriam sidera vertice [Lat.] [Horace]
+
+# ---- Hegel ----
+Def: The right of intention, that the universal quality of the deed be known and willed.
+Texts:
+  The Philosophy of Right
+    §120
+Citations:

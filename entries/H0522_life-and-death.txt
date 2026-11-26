@@ -39,3 +39,10 @@ Phr:
   to risk one's neck
   latet anquis in herba [Lat.] [Virgil]
   proximus ardet Ucalegon [Lat.] [Virgil]
+
+# ---- Hegel ----
+Def: Life put at stake, since only by risking life is freedom proven; but death abolishes recognition.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶187–189
+Citations:

@@ -39,3 +39,10 @@ Phr:
   pecunia non olet [Lat.] [money does not stink]
   power and riches
   money talks
+
+# ---- Hegel ----
+Def: The good and the bad as state power and wealth, each judged good and then bad.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶492–499
+Citations:

@@ -12,3 +12,10 @@ F:
 
 Phr:
   to eat one's fill
+
+# ---- Hegel ----
+Def: Desire that destroys its object, and so must always reproduce it as other.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶174–175
+Citations:

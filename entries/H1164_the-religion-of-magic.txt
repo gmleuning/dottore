@@ -46,3 +46,10 @@ Phr:
   abracadabra
   hocus pocus
   mind over matter
+
+# ---- Hegel ----
+Def: Magic, the power of the self over nature, the first and crudest form of religion.
+Texts:
+  Lectures on the Philosophy of Religion
+    Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religion of Magic
+Citations:

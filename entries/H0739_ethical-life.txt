@@ -36,3 +36,10 @@ Phr:
   die Sittlichkeit ist die Idee der Freiheit als das lebendige Gute [Ger.] [Hegel, Philosophy of Right §142]
   the done thing
   the moral fabric
+
+# ---- Hegel ----
+Def: The idea of freedom as the living good, which has its knowledge and will in self-consciousness and its actuality in the ethical world.
+Texts:
+  The Philosophy of Right
+    §§142–360
+Citations:

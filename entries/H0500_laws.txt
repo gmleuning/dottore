@@ -25,3 +25,10 @@ Phr:
   nature is the realm of laws
   the laws of nature
   by the book
+
+# ---- Hegel ----
+Def: The calm realm of laws which the understanding sets beyond the flux of appearance.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶148–156
+Citations:

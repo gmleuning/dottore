@@ -26,3 +26,10 @@ F:
 Phr:
   before I formed thee in the belly I knew thee [Bible]
   flesh of my flesh
+
+# ---- Hegel ----
+Def: The fetus whose soul is the mother's, who lives as a self only through another self.
+Texts:
+  The Philosophy of Mind
+    §405
+Citations:

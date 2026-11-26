@@ -32,3 +32,10 @@ F:
 Phr:
   the gift of second sight
   to see through walls
+
+# ---- Hegel ----
+Def: The seeing of the soul without the mediation of the senses, an immediate knowing confined to the sentient soul's own world.
+Texts:
+  The Philosophy of Mind
+    §406
+Citations:

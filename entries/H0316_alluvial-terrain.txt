@@ -33,3 +33,10 @@ Phr:
   the gift of the Nile [Herodotus]
   washed down
   silt and sand
+
+# ---- Hegel ----
+Def: The alluvial terrain, the deposits of water, the soil in which the earth's vitality becomes fertile.
+Texts:
+  The Philosophy of Nature
+    §340
+Citations:

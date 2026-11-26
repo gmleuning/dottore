@@ -17,3 +17,10 @@ Adj:
 
 Phr:
   no more this than that, ou mallon [Gr.]
+
+# ---- Hegel ----
+Def: Pyrrho and Timon, the older skepticism, which withholds assent and seeks imperturbability in indifference to all things.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › Skepticism and the New Academy › Skepticism Proper
+Citations:

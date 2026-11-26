@@ -49,3 +49,10 @@ Phr:
   comprendre tout c'est tout pardonner [Fr.]
   the offender never pardons [Herbert]
   bonis nocet quisquis pepercerit malis [Lat.] [Syrus]
+
+# ---- Hegel ----
+Def: The acting conscience's confession of its evil and the judging consciousness's forgiveness, the reconciling yes.
+Texts:
+  The Phenomenology of Spirit
+    ¶¶659–671
+Citations:

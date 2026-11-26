@@ -37,3 +37,10 @@ Phr:
   omnis definitio in iure periculosa est [Lat.]
   definitio fit per genus proximum et differentiam specificam [Lat.]
   genus and difference
+
+# ---- Hegel ----
+Def: The given object brought into the form of the concept: genus and specific difference.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea of cognition › The idea of the true › Synthetic cognition › Definition
+Citations:

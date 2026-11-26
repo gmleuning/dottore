@@ -43,3 +43,10 @@ Phr:
   the point is to change it [Marx]
   to do good
   make the world a better place
+
+# ---- Hegel ----
+Def: The idea of the good, the will that seeks to determine the world according to its own end.
+Texts:
+  The Science of Logic
+    The Doctrine of the Concept › The idea of cognition › The idea of the good
+Citations:

@@ -73,3 +73,10 @@ Phr:
   time hanging heavy on one's hands
   eile mit Weile [Ger.]
   thrift prospers, excess perishes, jian jie ze chang, yin yi ze wang [Chin.] [Mozi]
+
+# ---- Hegel ----
+Def: Human needs multiplied and refined beyond the animal's, and their means divided and particularized.
+Texts:
+  The Philosophy of Right
+    §§190–198
+Citations:

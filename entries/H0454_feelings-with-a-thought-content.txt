@@ -10,3 +10,10 @@ N:
   fellow feeling, guilt pang, self-respect, self-esteem, self-worth, self-reproach, self-hatred, self-disgust, self-depreciation, self-doubt, self-pity, self-distrust, class feeling, hero worship, ancestor worship, agape love, filial love
   improbation†, disvaluation†, despisal†, despiciency†, despisement†, despect†, displacency†, dilection†
   practical feeling &c H0672, the ought &c H0673
+
+# ---- Hegel ----
+Def: Feelings with a spiritual content, a thought of right, duty or the divine held in the form of feeling: shame, remorse, reverence, the moral and religious feelings. They are taken up again as practical feeling (&c H0672).
+Texts:
+  The Philosophy of Mind
+    §407
+Citations:

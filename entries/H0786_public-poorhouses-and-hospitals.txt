@@ -18,3 +18,10 @@ Adj:
 
 F:
   German: Armenhaus, Krankenhaus, Waisenhaus
+
+# ---- Hegel ----
+Def: The public authority's institutions of care, which take the place of the family for the poor, the sick and the helpless (§241-242).
+Texts:
+  The Philosophy of Right
+    §242
+Citations:

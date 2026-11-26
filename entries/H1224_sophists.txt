@@ -30,3 +30,10 @@ F:
 Phr:
   man is the measure of all things [Protagoras]
   making the worse appear the better cause
+
+# ---- Hegel ----
+Def: The Sophists, who made thought a power of argument, dissolving everything fixed.
+Texts:
+  Lectures on the History of Philosophy
+    Greek Philosophy › The Sophists
+Citations:

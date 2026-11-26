@@ -6,3 +6,10 @@ HGloss: The attributes, weapons and adornments by which the individual gods are 
 
 F:
   French: bijouterie
+
+# ---- Hegel ----
+Def: The attributes, weapons and adornments by which the individual gods are known.
+Texts:
+  Aesthetics
+    Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment
+Citations:

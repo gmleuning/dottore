@@ -24,3 +24,10 @@ Adv:
 Phr:
   hier, können wir sagen, sind wir zu Hause [Ger.] [Hegel, Lectures on the History of Philosophy, on Descartes]
   thought and being opposed
+
+# ---- Hegel ----
+Def: Modern philosophy, which begins from the thinking self and the opposition of thought and being.
+Texts:
+  Lectures on the History of Philosophy
+    Modern Philosophy
+Citations:

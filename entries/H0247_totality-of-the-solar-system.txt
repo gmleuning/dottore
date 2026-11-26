@@ -32,3 +32,10 @@ Phr:
   and yet it moves
   De revolutionibus orbium coelestium [Lat.] [Copernicus]
   the heavenly host
+
+# ---- Hegel ----
+Def: The system of the heavens, the sun, planets, moons and comets, matter's realized concept, the centre and its dependants.
+Texts:
+  The Philosophy of Nature
+    §271
+Citations:

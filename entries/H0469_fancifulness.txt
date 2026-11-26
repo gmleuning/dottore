@@ -10,3 +10,10 @@ N:
 
 Adj:
   fanciful, whimsical, hypochondriac, suspicious, mischievous, malicious, spiteful, splenetic
+
+# ---- Hegel ----
+Def: The hypochondriacal mood tormented by fancies and whims, and the suspicious, false, jealous, mischievous and malicious disposition, the dark subterranean powers of the heart.
+Texts:
+  The Philosophy of Mind
+    §408
+Citations:

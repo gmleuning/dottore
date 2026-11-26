@@ -35,3 +35,10 @@ Phr:
   plot is the soul of tragedy [Aristotle]
   actions speak louder than words
   the plot thickens
+
+# ---- Hegel ----
+Def: The ideal moving into action, through a world-situation, a situation, and the collision of powers.
+Texts:
+  Aesthetics
+    The Beauty of Art or the Ideal › The Determinacy of the Ideal › Action
+Citations:

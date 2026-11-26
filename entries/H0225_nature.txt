@@ -39,3 +39,10 @@ Phr:
   nature loves to hide, physis kryptesthai philei [Gr.] [Heraclitus]
   the idea in the form of otherness [Hegel]
   in the nature of things
+
+# ---- Hegel ----
+Def: The idea in the form of otherness: externality is the determination in which nature is nature, a system of stages in which the concept is hidden and seeks itself.
+Texts:
+  The Philosophy of Nature
+    §§245–376
+Citations:
