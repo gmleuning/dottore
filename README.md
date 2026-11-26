@@ -6,7 +6,7 @@
 
 Dottore is a thesaurus of English, with German and some thirty other languages, built on an expanded model of Hegel's philosophical system. The idea comes from Roget, whose *Thesaurus* (1852) arranged words by the order of ideas rather than the alphabet. Roget's frame was a six-class map of everything that could be thought, inherited from Aristotle, Leibniz and Wilkins. Dottore keeps his method and his words and gives them a larger and stranger frame: the whole architecture of Hegel's Logic, Philosophy of Nature and Philosophy of Spirit. That frame is 1,056 entries deep, from Pure Being to the Hegelian System itself.
 
-It is one web page, `editions/dottore.html` (with its logos beside it), online at **<https://gmleuning.github.io/dottore/editions/dottore.html>**. It needs no server and works offline, except for the dictionary panel.
+It is one web page, `editions/dottore.html` (with its logos beside it), online at **<https://gmleuning.github.io/dottore.html>**. It needs no server and works offline, except for the dictionary panel.
 
 ## Using it
 

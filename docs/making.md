@@ -99,7 +99,9 @@ in white). By default light mode shows il Dottore and dark mode Dialectica; sett
 character for either mode, and the name beside the logo follows. The logo is a bookplate in the left margin when the
 window (less any open side pane) is wide enough, and sits in the search bar when it is not. `dottore_logo.svg` is also
 the tab icon. The two PNGs are made by `work/design/make_logo_cutouts.py` from the original scan. The page is published
-with GitHub Pages at <https://gmleuning.github.io/dottore/editions/dottore.html>.
+on the personal site at <https://gmleuning.github.io/dottore.html>: after a build,
+`python work/tools/publish_site.py --push` copies the page, the play page and the logos into the site's source
+repository, which rebuilds the public site.
 The page's interface is `tools/dottore_page.html`: gloss reveal on headword click,
 settings panel (stored per browser), double-click Wiktionary panel with etymology, IPA and audio (Wiktionary's public
 REST API, so any static host works).
