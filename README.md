@@ -24,6 +24,8 @@ It is one web page, `editions/dottore.html` (with its logos beside it), online a
 
 **Reading an entry.** Each entry has its number, its German and English heads, and its place in the system (the path line). Below come the words, grouped by part of speech (N., V., Adj., Adv.), then foreign words (F., one line per language, in their own scripts as well as in romanization), then phrases (Phr.). Each line is a group of near-synonyms, and the groups run gradually from the general to the particular. Tags in brackets mark register: [Coll.], [Slang], [Vulg.], [Brit.], [U.S.] and so on. A dagger (†) marks a word that is obsolete.
 
+**The map.** The **map** button opens the whole system as a tree on a page of its own (`dottore.html#map`), with every branch open. Click ▾ to fold a branch, or use **fold all** and **open all**. Click an entry to read it in its place; the browser's back button returns you to the map.
+
 **The gloss.** Click a headword to reveal a short plain definition of the concept, in the style of the path line.
 
 **The dictionary.** Double-click any word on the page to open it in a side panel from Wiktionary: its senses with examples, its pronunciation (IPA, and recordings you can play), and its etymology, drawn as a timeline from language to language. Links in the panel look up further words, or search the book for the one you are reading about.

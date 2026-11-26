@@ -58,6 +58,7 @@ h1 .lg.dia{height:68px;margin:-8px 0}
 .opts input{accent-color:var(--accent)}
 .btn{font:13px var(--ui);background:none;border:1px solid var(--rule);border-radius:4px;color:var(--muted);padding:2px 8px;cursor:pointer}
 .btn:hover{color:var(--ink)}
+a.btn{text-decoration:none}
 main{max-width:var(--width);margin:0 auto;padding:14px 16px 80px}
 .status{color:var(--muted);font-size:15px;margin:2px 0 6px}
 .jump{display:flex;gap:10px;align-items:baseline;font-size:14.5px;margin:0 0 16px;color:var(--muted)}
@@ -99,22 +100,24 @@ a.x:hover{border-bottom-style:solid}
 .slot{scroll-margin-top:var(--headh,110px)}
 .slot>article{scroll-margin-top:var(--headh,110px)}
 .slot.here>article{border-color:var(--accent)}
-/* the map: the whole system as a tree; a node's children fold under it */
-#map .mtools{display:flex;gap:8px;padding:8px 0 4px}
-#mapb{position:relative}
-#map .mn{display:flex;align-items:baseline;gap:4px;line-height:1.45;padding:1px 0}
-#map .tg{flex:0 0 1.1em;font:11px var(--ui);color:var(--muted);background:none;border:0;padding:0;cursor:pointer;text-align:center}
-#map .tg:before{content:"▾"}
-#map .shut>.mn>.tg:before{content:"▸"}
-#map .tg.leaf{visibility:hidden}
-#map .mc{padding-left:1.05em;border-left:1px solid var(--rule);margin-left:.5em}
-#map .shut>.mc{display:none}
-#map .mn a{color:var(--ink)}
-#map .ml{color:var(--muted);margin-right:.3em}
-#map .mi{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums;margin-left:.4em}
-#map .mn.cur{background:var(--mark);border-radius:3px}
-#map .k1>.mn{font-weight:600;font-size:16px;margin-top:6px}
-@media (max-width:600px){ #map .mc{padding-left:.45em;margin-left:.3em} #map .tg{flex-basis:.9em} }   /* the tree runs ten levels deep */
+/* the map page: the whole system as a tree; a node's children fold under it */
+.mtools{display:flex;gap:8px;align-items:baseline;margin:0 0 10px}
+.mtools b{flex:1;font-size:1.24em}
+#tree .mn{display:flex;align-items:baseline;gap:4px;line-height:1.45;padding:1px 0}
+#tree .tg{flex:0 0 1.1em;font:11px var(--ui);color:var(--muted);background:none;border:0;padding:0;cursor:pointer;text-align:center}
+#tree .tg:before{content:"▾"}
+#tree .shut>.mn>.tg:before{content:"▸"}
+#tree .tg.leaf{visibility:hidden}
+#tree .mc{padding-left:1.05em;border-left:1px solid var(--rule);margin-left:.5em}
+#tree .shut>.mc{display:none}
+#tree .mn a{color:var(--ink);text-decoration:none}
+#tree .mn a:hover{color:var(--link);text-decoration:underline}
+#tree .ml{color:var(--muted);margin-right:.3em}
+#tree .mi{color:var(--muted);font:12px var(--ui);font-variant-numeric:tabular-nums;margin-left:.4em}
+#tree .mn.cur{background:var(--mark);border-radius:3px}
+#tree .k0>.mn{font-weight:600;font-size:1.3em;margin-top:14px}
+#tree .k1>.mn{font-weight:600;font-size:1.1em;margin-top:6px}
+@media (max-width:600px){ #tree .mc{padding-left:.45em;margin-left:.3em} #tree .tg{flex-basis:.9em} }   /* the tree runs ten levels deep */
 .help{color:var(--muted);font-size:15px;max-width:640px}
 .help kbd{font:13px var(--ui);border:1px solid var(--rule);border-radius:3px;padding:0 4px}
 @media (max-width:600px){ body{font-size:calc(var(--size) - 1px)} .pos{padding-left:0} .pt{position:static;display:block} }
@@ -122,8 +125,8 @@ a.x:hover{border-bottom-style:solid}
 /* side panels: Wiktionary (double-click a word) and settings */
 .side{position:fixed;top:0;right:0;bottom:0;width:min(420px,100vw);z-index:20;background:var(--paper);border-left:1px solid var(--rule);
   display:none;flex-direction:column;font:15px/1.6 var(--ui)}
-body.wk #wk, body.set #set, body.hg #hg, body.map #map{display:flex}
-@media (min-width:1000px){ body.wk, body.set, body.hg, body.map{padding-right:420px} }
+body.wk #wk, body.set #set, body.hg #hg{display:flex}
+@media (min-width:1000px){ body.wk, body.set, body.hg{padding-right:420px} }
 @media (max-width:600px){   /* phones: Wiktionary rises from the bottom, leaving the word in view */
   #wk{top:auto;left:0;width:100%;height:58vh;height:58dvh;border-left:0;border-top:1px solid var(--rule);border-radius:12px 12px 0 0;box-shadow:0 -6px 24px rgba(0,0,0,.18)} }
 .sh{display:flex;align-items:center;gap:8px;padding:12px 14px;border-bottom:1px solid var(--rule)}
@@ -201,14 +204,13 @@ body.wk #wk, body.set #set, body.hg #hg, body.map #map{display:flex}
     <label><input type="checkbox" id="full"> show full entries</label>
     <label><input type="checkbox" id="hideobs"> hide obsolete (†)</label>
     <button id="theme" class="btn" type="button" title="Switch light/dark">light / dark</button>
-    <button id="mapbtn" class="btn" type="button" title="The whole system as a tree; click an entry to scroll to it">map</button>
+    <a id="mapbtn" class="btn" href="#map" title="The whole system as a tree; click an entry to read it">map</a>
     <button id="gear" class="btn" type="button" title="Settings">settings</button>
   </div>
 </div></header>
 <main id="out"></main>
 <aside id="wk" class="side" aria-label="Wiktionary"><div class="sh"><b id="wkt"></b><button id="wkx" class="btn" type="button" title="Close (Esc)">close</button></div><div class="sb" id="wkb"></div></aside>
 <aside id="hg" class="side" aria-label="Hegel"><div class="sh"><b id="hgt"></b><button id="hgx" class="btn" type="button" title="Close (Esc)">close</button></div><div class="sb" id="hgb"></div></aside>
-<aside id="map" class="side" aria-label="Map"><div class="sh"><b>Map</b><button id="mapx" class="btn" type="button" title="Close (Esc)">close</button></div><div class="sb" id="mapb"></div></aside>
 <aside id="set" class="side" aria-label="Settings"><div class="sh"><b>Settings</b><button id="setx" class="btn" type="button" title="Close (Esc)">close</button></div><div class="sb" id="setb"></div></aside>
 <script>
 const D=/*__DATA__*/[];
@@ -373,7 +375,7 @@ function draw(i){
   sl.style.height=''; sl.innerHTML=entryHTML(D[i],null,true); HT.set(i,sl.offsetHeight);
 }
 function topSlot(){
-  const el=document.elementFromPoint(innerWidth/2-(document.body.classList.contains('map')&&innerWidth>=1000?210:0),headH()+12);
+  const el=document.elementFromPoint(innerWidth/2,headH()+12);
   return (el&&el.closest('.slot'))||(W.cur>=0?W.slots[W.cur]:null);
 }
 function blank(i){
@@ -410,74 +412,70 @@ function goWhole(id){
   document.documentElement.style.setProperty('--headh',headH()+'px');
   for(let k=Math.max(0,i-2);k<=Math.min(D.length-1,i+4);k++) draw(k);   // draw the target and its neighbours before jumping
   W.slots[i].scrollIntoView({block:'start'});
-  setCur(i,true);
+  setCur(i);
 }
 let wsTick=false;
 function onWholeScroll(){
   if(wsTick) return; wsTick=true;
   requestAnimationFrame(()=>{ wsTick=false; if(!W) return;
-    const sl=topSlot(); if(sl) setCur(+sl.dataset.i,false); });
+    const sl=topSlot(); if(sl) setCur(+sl.dataset.i); });
 }
-function setCur(i,jumped){
+function setCur(i){
   if(!W||W.cur===i) return;
   if(W.cur>=0) W.slots[W.cur].classList.remove('here');
   W.cur=i; W.slots[i].classList.add('here');
   const e=D[i];
   history.replaceState(null,'','#e='+e.id);
   document.title=`${e.id}. ${e.h} — Dottore`;
-  mapCur(i,jumped);
 }
 
-// ---------- the map ----------
+// ---------- the map: a page of its own (#map), the whole system as a tree, opened out in full ----------
+let MAP=null, mapY=0;   // the tree is built once, so its folds are kept; mapY is where the reader left the page
 function nameOf(e){ return e.h.split(' • ').pop(); }
 function buildMap(){
-  const b=$('#mapb'); if(b.dataset.built) return;
-  let html='<div class="mtools"><button class="btn" data-m="open" type="button">open all</button><button class="btn" data-m="shut" type="button">fold all</button></div>';
+  let html='<div class="mtools"><b>Map</b><button class="btn" data-m="open" type="button">open all</button><button class="btn" data-m="shut" type="button">fold all</button></div>';
   const stack=[];
   D.forEach((e,i)=>{
     while(stack.length&&stack[stack.length-1]>=e.k){ html+='</div></div>'; stack.pop(); }
     const kids=i+1<D.length&&D[i+1].k>e.k;
-    html+=`<div class="mt k${e.k}${e.k>=3?' shut':''}" data-i="${i}"><div class="mn"><button class="tg${kids?'':' leaf'}" type="button" tabindex="-1"></button><a href="#e=${e.id}">${e.l?`<span class="ml">${esc(e.l)}</span>`:''}${esc(nameOf(e))}</a><span class="mi">${e.id}</span></div><div class="mc">`;
+    html+=`<div class="mt k${e.k}" data-i="${i}"><div class="mn"><button class="tg${kids?'':' leaf'}" type="button" title="Fold or open"></button><a href="#e=${e.id}">${e.l?`<span class="ml">${esc(e.l)}</span>`:''}${esc(nameOf(e))}</a><span class="mi">${e.id}</span></div><div class="mc">`;
     stack.push(e.k);
   });
   html+='</div></div>'.repeat(stack.length);
-  b.innerHTML=html; b.dataset.built='1';
+  MAP=document.createElement('div'); MAP.id='tree'; MAP.innerHTML=html;
+  MAP.addEventListener('click',ev=>{
+    const m=ev.target.closest('[data-m]');
+    if(m){ MAP.querySelectorAll('.mt').forEach(t=>{ if(t.querySelector('.mt')) t.classList.toggle('shut',m.dataset.m==='shut'&&+t.className.match(/k(\d+)/)[1]>=2); }); return; }
+    const tg=ev.target.closest('.tg'); if(tg) tg.closest('.mt').classList.toggle('shut');
+  });
 }
-function mapCur(i,center){
-  if(!$('#mapb').dataset.built) return;
-  const b=$('#mapb'), old=b.querySelector('.mn.cur'); if(old) old.classList.remove('cur');
-  const t=b.querySelector(`.mt[data-i="${i}"]`); if(!t) return;
+// from: the index of the entry being read when the map was opened, or -1
+function openMap(from){
+  if(!MAP) buildMap();
+  $('#out').replaceChildren(MAP); lastQ='';
+  document.title='Map — Dottore';
+  window.scrollTo(0,mapY);
+  const t=MAP.querySelector(`.mt[data-i="${from}"]`); if(!t) return;
   for(let p=t.parentElement.closest('.mt');p;p=p.parentElement.closest('.mt')) p.classList.remove('shut');
-  t.classList.remove('shut'); const mn=t.firstElementChild; mn.classList.add('cur');
-  if(!document.body.classList.contains('map')) return;
-  const top=mn.offsetTop, vis=top>b.scrollTop+20&&top<b.scrollTop+b.clientHeight-40;
-  if(center||!vis) b.scrollTop=top-b.clientHeight/3;
+  MAP.querySelector('.mn.cur')?.classList.remove('cur');
+  const mn=t.firstElementChild; mn.classList.add('cur');
+  const r=mn.getBoundingClientRect();   // stay where the reader left the map if the entry is in view there
+  if(r.top<headH()||r.bottom>innerHeight) window.scrollBy(0,r.top-innerHeight/3);
 }
-$('#mapbtn').addEventListener('click',()=>{
-  if(document.body.classList.contains('map')){ closeSides(); return; }
-  closeSides(); buildMap(); document.body.classList.add('map'); placePlate();
-  mapCur(W&&W.cur>=0?W.cur:0,true);
-});
-$('#mapx').addEventListener('click',closeSides);
-$('#mapb').addEventListener('click',ev=>{
-  const m=ev.target.closest('[data-m]');
-  if(m){ $('#mapb').querySelectorAll('.mt').forEach(t=>{ if(t.querySelector('.mt')) t.classList.toggle('shut',m.dataset.m==='shut'&&+t.className.match(/k(\d+)/)[1]>=2); }); return; }
-  const tg=ev.target.closest('.tg'); if(tg){ tg.closest('.mt').classList.toggle('shut'); return; }
-  const a=ev.target.closest('a');
-  if(a&&!matchMedia('(min-width:1000px)').matches) setTimeout(closeSides,0);   // on a narrow screen the map covers the page
-});
 
 function helpHTML(){
   document.title="Dottore";
   return `<div class="help"><p>Type a word or phrase to list every entry that contains it, with the matching lines shown and highlighted. Entries whose headword matches come first; the rest follow in the order of the Hegelian system.</p>
-<p>Type an entry number (e.g. <kbd>6</kbd>), or click one, to open that entry in its place in the whole system, and scroll on through its neighbours. <em>map</em> shows the whole system as a tree; click any part of it to go there. Click a headword to reveal its gloss. Double-click any word to look it up in Wiktionary. Underlined numbers are cross-references (<em>&amp;c</em>) and can be clicked. <kbd>Alt</kbd>+click any word or phrase in an entry to search for it. <kbd>/</kbd> jumps back to the search box; <kbd>Esc</kbd> clears it. Accents are ignored (<em>naive</em> finds <em>naïve</em>). Words marked † are obsolete. Fonts, colours, scripts and the Wiktionary panel can be set under <em>settings</em>.</p>
+<p>Type an entry number (e.g. <kbd>6</kbd>), or click one, to open that entry in its place in the whole system, and scroll on through its neighbours. <a class="x" href="#map">map</a> opens the whole system as a tree on a page of its own; click any entry to read it there in its place. Click a headword to reveal its gloss. Double-click any word to look it up in Wiktionary. Underlined numbers are cross-references (<em>&amp;c</em>) and can be clicked. <kbd>Alt</kbd>+click any word or phrase in an entry to search for it. <kbd>/</kbd> jumps back to the search box; <kbd>Esc</kbd> clears it. Accents are ignored (<em>naive</em> finds <em>naïve</em>). Words marked † are obsolete. Fonts, colours, scripts and the Wiktionary panel can be set under <em>settings</em>.</p>
 <p>${D.length} entries loaded.</p></div>`;
 }
 
-// ---------- routing: #q=word or #e=123 ----------
+// ---------- routing: #q=word, #e=123 or #map ----------
 let typing=false;
 function route(){
   const h=decodeURIComponent(location.hash.slice(1));
+  if(MAP&&MAP.isConnected) mapY=scrollY;
+  if(h==='map'){ const from=W?W.cur:-1; if(!typing) $('#q').value=''; closeWhole(); openMap(from); return; }
   if(h.startsWith('e=')){ const id=h.slice(2); if(BYID.has(id)){ if(!typing) $('#q').value=''; goWhole(id); return; } }
   closeWhole();
   if(h.startsWith('a')&&BYID.has(h.slice(1))) return;   // in-page jump anchor
@@ -528,7 +526,7 @@ $('#out').addEventListener('click',ev=>{
 // The bookplate logo goes in the left margin when the margin is wide enough for it; otherwise the logo stays in the bar.
 function placePlate(){
   const r=document.documentElement, b=document.body;
-  const side=matchMedia('(min-width:1000px)').matches&&['wk','set','hg','map'].some(c=>b.classList.contains(c))?420:0;   // an open side pane narrows the page
+  const side=matchMedia('(min-width:1000px)').matches&&['wk','set','hg'].some(c=>b.classList.contains(c))?420:0;   // an open side pane narrows the page
   const avail=r.clientWidth-side, margin=(avail-Math.min(S.width,avail))/2;
   r.classList.toggle('wide',margin>=190);
   r.style.setProperty('--plate-x',Math.max(12,margin-174)+'px');
@@ -655,14 +653,14 @@ $('#setb').addEventListener('click',ev=>{
     if(S.font==='custom') setS('font','palatino'); applyS(); renderSettings(); return; }
   if(ev.target.id==='reset'){ S=structuredClone(DEF); saveS(); applyS(); renderSettings(); route(); }
 });
-function closeSides(){ document.body.classList.remove('wk','set','hg','map'); wkSeq++; hgOn(null); }
+function closeSides(){ document.body.classList.remove('wk','set','hg'); wkSeq++; hgOn(null); }
 // ---------- the Hegel slide ----------
 let hgId=null;
 function hgOn(id){ hgId=id; document.querySelectorAll('.hgb').forEach(b=>b.classList.toggle('on',b.dataset.id===id)); }
 function hegel(id){
   const e=D[BYID.get(id)]; if(!e||!e.H) return;
   if(document.body.classList.contains('hg')&&hgId===id){ closeSides(); return; }
-  document.body.classList.remove('wk','set','map'); document.body.classList.add('hg'); hgOn(id);
+  document.body.classList.remove('wk','set'); document.body.classList.add('hg'); hgOn(id);
   const H=e.H;
   $('#hgt').textContent=e.h.split(' • ').pop();
   let h=`<div class="hgn">${e.id} · ${esc(e.h)}</div>`;
@@ -774,7 +772,7 @@ async function getHTML(u){ try{ const r=await fetch(u); return r.ok?new DOMParse
 async function wiki(word){
   word=word.trim(); if(!word) return;
   const seq=++wkSeq;
-  document.body.classList.remove('set','hg','map'); hgOn(null); document.body.classList.add('wk');
+  document.body.classList.remove('set','hg'); hgOn(null); document.body.classList.add('wk');
   $('#wkt').textContent=word;
   const body=$('#wkb');
   body.innerHTML='<div class="wkm">Looking up Wiktionary…</div>';
