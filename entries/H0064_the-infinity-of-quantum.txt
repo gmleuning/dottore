@@ -28,8 +28,14 @@ Phr:
   out of proportion
 
 # ---- Hegel ----
-Def: The quantum known as essentially self-external, so that its truth lies in its relation to another quantum: the ratio.
+Def: The infinity of quantum is what the infinite progress contains when its moments are taken together. The infinitely great and infinitely small are insubstantial images, each at once a quantum and its non-being. In the progress quantum is sublated, and so is its beyond, and the truth is the unity of these two negations. Quantum is precisely through its externality itself, with itself in its negation, so that the progress posits the concept of quantum and restores magnitude as a limit that is indifferent or external, now with a qualitative character.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Quantitative infinity › The infinity of quantum
 Citations:
+  The infinitely great and the infinitely small are, therefore, figurative representations which on closer inspection prove to be but unsubstantial nebulous shadows.
+    — The Science of Logic, Quantitative infinity › The infinity of quantum (tr. di Giovanni)
+  But this is what quantum as such is in itself. For through its externality it is precisely itself; the externality constitutes that in virtue of which quantum is quantum, where it is with itself. In the infinite progress, therefore, the concept of quantum is posited.
+    — The Science of Logic, Quantitative infinity › The infinity of quantum (tr. di Giovanni)
+  Its truth is the unity of these two negations in which the negations are, but as moments.
+    — The Science of Logic, Quantitative infinity › The infinity of quantum (tr. di Giovanni)

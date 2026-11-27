@@ -11,8 +11,12 @@ Adj:
   emphatic
 
 # ---- Hegel ----
-Def: The sense-accent, which the meaning lays on the significant word and which may agree or contend with the metrical accent.
+Def: Sense accent is the emphasis syllables and words receive from the poetic idea they signify, which hovers over their metrical value, stressing some and setting back others as insignificant, so that spiritual life is breathed into the verse. Poetry must not yield to it so far as directly to oppose the rules of metre.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  Besides, however, in the second place, there hovers over all the validity that syllables and words have in their metrical position, the value that they have of signifying a poetical idea.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  Owing to this immanent sense of theirs they likewise become relatively emphasized or must be put in the background as insignificant, and in this way alone is the ultimate extreme of spiritual life breathed into the verse. But poetry must not yield to this to the extent of directly opposing the rhythmic rules of metre.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

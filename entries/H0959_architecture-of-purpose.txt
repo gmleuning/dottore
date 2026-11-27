@@ -27,8 +27,12 @@ Phr:
   built for a purpose
 
 # ---- Hegel ----
-Def: Building that becomes an enclosure serving a purpose outside itself, the passage from symbolic to classical architecture.
+Def: Architecture of purpose is building that serves an end outside itself, the form proper to classical art. It may start from symbolic works or from need: need supplies purely purposeful forms of straight line, right angle and level surface, and above all demands an enclosure for the image of a god, whose surroundings must likewise be produced by art. These useful forms must then rise to beauty.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Transition from Independent to Classical Architecture › Transition to Architecture in the Service of some Purpose
 Citations:
+  From this point we can make the transition from independent architecture to architecture proper, the kind that is subservient to some purpose.
+    — Aesthetics, Transition from Independent to Classical Architecture › Transition to Architecture in the Service of some Purpose (tr. Knox)
+  In particular, the primary need is to frame an enclosure for the image or statue of the gods, or generally for something sacred which is presented on its own account and actually available.
+    — Aesthetics, Transition from Independent to Classical Architecture › Transition to Architecture in the Service of some Purpose (tr. Knox)

@@ -26,8 +26,12 @@ Phr:
   thick walls and small windows
 
 # ---- Hegel ----
-Def: Romanesque building, with its round arches, before the full development of the Gothic.
+Def: Romanesque architecture, distinct from the Gothic, developed from the Roman. The oldest Christian churches are basilicas, taken from huge oblong imperial halls with timber roofs, whose tribune may have given rise to the chancel. From Rome, especially in the west, came columns with round arches, domes and decoration, which Ostrogothic and Lombard buildings largely retained.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture › Different Styles in Romantic Architecture › Romanesque (pre-Gothic) Architecture
 Citations:
+  The oldest form of Christian churches is that of the basilica, so-called because they originated from public imperial buildings, huge oblong halls with wooden roof framework, such as Constantine made available to Christians.
+    — Aesthetics, Different Styles in Romantic Architecture › Romanesque (pre-Gothic) Architecture (tr. Knox)
+  Similarly, Christian architecture took from Roman, especially in the Western Empire, its other forms such as the use of columns with round arches, domes, and the whole manner of decoration
+    — Aesthetics, Different Styles in Romantic Architecture › Romanesque (pre-Gothic) Architecture (tr. Knox)

@@ -38,8 +38,12 @@ Phr:
   to stick together
 
 # ---- Hegel ----
-Def: The spatial mode of the body's inner coherence, its manner of holding together against outer force.
+Def: In cohesion the immanent form posits a mode of spatial juxtaposition of material parts distinct from that determined by gravity. Bodies now react to pressure and thrust not merely as masses but in their own way of maintaining themselves in unity. Cohesion still conflicts with gravity and belongs to the becoming of individuality as totality, not yet to completed shape.
 Texts:
   The Philosophy of Nature
     §§295–299
 Citations:
+  In Cohesion, the immanent form posits a mode of the spatial juxtaposition of the material parts distinct from that determined by gravity.
+    — Encyclopedia §295 (tr. Miller)
+  Consequently, cohesion is still in conflict with gravity, is still only a moment of the determination opposed to gravity
+    — Encyclopedia §295, Addition (tr. Miller)

@@ -29,8 +29,12 @@ Phr:
   warts and all
 
 # ---- Hegel ----
-Def: The rendering of individual character in its particularity.
+Def: Characterization distinguishes painting from sculpture's ideal plasticity: the mental and physical particularity of personality has free scope and need not be raised to ideal beauty. Painting develops the whole variety of accidental particulars, so that we see not plastic ideals of gods and men but particular persons, since what is central is the soul's deep feeling and living subjective character.
 Texts:
   Aesthetics
     Painting › Particular Characteristics of Painting › Conception, Composition, and Characterization
 Citations:
+  Painting, on the other hand, does not confine particularity of character to that ideal but develops precisely the whole variety of even accidental particulars, so that now we see confronting us not those plastic ideals of gods and men but particular persons in all the accidents of their particular character.
+    — Aesthetics, Particular Characteristics of Painting › Conception, Composition, and Characterization (tr. Knox)
+  [B]ecause what is central now is the deep feeling of the soul and its living subjective character.
+    — Aesthetics, Particular Characteristics of Painting › Conception, Composition, and Characterization (tr. Knox)

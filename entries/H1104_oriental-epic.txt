@@ -30,8 +30,12 @@ Phr:
   the Book of Kings [Ferdowsi]
 
 # ---- Hegel ----
-Def: The oriental epic, the Indian and Persian epics, with their measureless fantasy.
+Def: Oriental epic stays close to the substantial whole in which individual consciousness is absorbed, so that characters never reach the independence drama demands. Epics proper occur only in India and Persia, in colossal proportions; China, prosaic in outlook, has none; and the Indian Ramayana and Mahabharata show splendour and fantastic confusion, loosely unified and measurelessly enlarged.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Oriental Epic
 Citations:
+  Nevertheless epics proper are to be found only in India and Persia, but then in colossal proportions.
+    — Aesthetics, The Historical Development of Epic Poetry › The Oriental Epic (tr. Knox)
+  The unity of the particular parts [of these Indian epics] is very loose, and extremely extensive episodes
+    — Aesthetics, The Historical Development of Epic Poetry › The Oriental Epic (tr. Knox)

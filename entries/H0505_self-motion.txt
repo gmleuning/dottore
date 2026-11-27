@@ -28,8 +28,12 @@ Phr:
   the soul is self-moving motion [Plato]
 
 # ---- Hegel ----
-Def: Motion that is the self's own, the movement of what returns into itself.
+Def: Self-motion here belongs to the law grasped as inner difference and to the living thing that displays it. Each determination of a law lies immediately in the other, so that the difference is one which is no difference. In the living creature consciousness beholds the very process of positing and sublating distinct determinations: life is an interior that does not stay abstract but passes wholly into its expression and takes it back, a movement in which each moment is both end and means.
 Texts:
   The Philosophy of Mind
     §423
 Citations:
+  But in this way the inner distinction is what it is in truth, the distinction within itself, or the distinction which is no distinction.
+    — Encyclopedia §423 (tr. Wallace and Miller, rev. Inwood)
+  In the living creature, by contrast, consciousness beholds the very process of positing and sublating the distinct determinations, perceives that the difference is no difference, i.e., no absolutely fixed difference.
+    — Encyclopedia §423, Addition (tr. Wallace and Miller, rev. Inwood)

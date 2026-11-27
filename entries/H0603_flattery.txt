@@ -53,8 +53,12 @@ Phr:
   the angler bows to the fish, not out of respect, diao zhe zhi gong, fei wei yu ci ye [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: The language of flattery, which raises the monarch to absolute power while making that power the property of the flatterer.
+Def: Flattery is the language of praise in which service passes from silent heroism into speech. It gives abstract state power the moment of a willing and deciding self, raising one actual individual to the certainty of being power. The noble consciousness thereby receives actual universality: state power lives on the sacrifices of thought and deed made to it, but it is a self-alienated independence which, in giving itself away through service and reverence, passes over into wealth and is left with the empty name.
 Texts:
   The Phenomenology of Spirit
     ¶¶511–512
 Citations:
+  In this way, the language of their praise is the spirit which merges together both extremes within state-power itself. This language reflects the abstract power into itself and gives that power the moment of the other extreme, that of the willing and deciding being-for-itself, and it thereby gives it a self-conscious existence.
+    — The Phenomenology of Spirit ¶511 (tr. Pinkard)
+  All that remains to it of universally recognized and non-mediated self-sufficiency is the empty name.
+    — The Phenomenology of Spirit ¶511 (tr. Pinkard)

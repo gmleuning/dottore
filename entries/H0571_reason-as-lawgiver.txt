@@ -25,8 +25,12 @@ Phr:
   one ought always to tell the truth
 
 # ---- Hegel ----
-Def: Healthy reason that gives laws immediately, such as that everyone ought to speak the truth, which prove contingent.
+Def: Reason as lawgiver is the consciousness for which the matter in hand has become ethical substance, valid in and for itself, and which supposes that it knows immediately what is right and good and can state it in commands, such as that one should love one's neighbour as oneself. On examination such laws have no universal content: whether intelligent beneficence can happen or does good is contingent. They remain at the ought without actuality; they are not laws but only commands.
 Texts:
   The Phenomenology of Spirit
     ¶¶419–428
 Citations:
+  This fact is thus the ethical substance, and the consciousness of it is ethical consciousness.
+    — The Phenomenology of Spirit ¶419 (tr. Pinkard)
+  This law thereby has no more universal content than did the first law which was considered, and it does not express something that is in and for itself, which, as an absolute ethical law, it is supposed to do; or, such laws stay fixed at the ought but have no actuality. They are not laws; they are only commands.
+    — The Phenomenology of Spirit ¶424 (tr. Pinkard)

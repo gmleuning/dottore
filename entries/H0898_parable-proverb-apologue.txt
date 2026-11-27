@@ -24,8 +24,12 @@ F:
   Korean: sokdam [proverb]
 
 # ---- Hegel ----
-Def: The parable, proverb and apologue, a common occurrence given a higher meaning.
+Def: Parable, proverb and apologue take up events from ordinary life and give them a deeper, more general meaning. Unlike the fable they look not to nature and animals but to familiar human doings. The parable enlarges a seemingly trivial case to suggest a deeper meaning; the proverb states the universal immediately in a particular case; the apologue brings out in the example itself the maxim it contains.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Parable, Proverb, Apologue
 Citations:
+  But at the same time parable is distinct from fable by reason of the fact that it looks for such occurrences not in nature and the animal world, but in human action and doings as everyone has them familiarly before his eyes
+    — Aesthetics, Comparisons Originating from the External Object › Parable, Proverb, Apologue (tr. Knox)
+  These are not comparisons where the universal meaning and the concrete phenomenon appear outside one another and contrasted with one another. The former is immediately expressed with the latter.
+    — Aesthetics, Comparisons Originating from the External Object › Parable, Proverb, Apologue (tr. Knox)

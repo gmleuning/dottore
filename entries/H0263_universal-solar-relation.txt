@@ -45,8 +45,12 @@ Phr:
   this gorgeous arch with golden worlds inlay'd [Young]
 
 # ---- Hegel ----
-Def: The earth's relation to the sun, its sphere of light and warmth, as day and night and the seasons.
+Def: The universal solar relation is the earth's primary relationship to light, its universal self, which perpetually kindles and stimulates the terrestrial process and particularizes it according to the earth's position toward the sun, in climates and seasons. This real active relation produces day and night; without its connection with the sun the earth would be devoid of process.
 Texts:
   The Philosophy of Nature
     §287
 Citations:
+  The process of the earth is perpetually kindled and stimulated by its universal self, the activity of light, its primary relationship to the sun; and it is then further particularized according to the position of the earth in relation to the sun (climates, seasons, etc.).
+    — Encyclopedia §287 (tr. Miller)
+  This real, active, relationship of the solar light to the earth produces the difference of day and night, and so on.
+    — Encyclopedia §287, Addition (tr. Miller)

@@ -22,8 +22,12 @@ Phr:
   aus der Leichtfertigkeit der Phantasie geht kein gediegenes Werk hervor [Ger.] [Hegel, Aesthetics]
 
 # ---- Hegel ----
-Def: Phantasie, productive imagination as opposed to passive fancy: it grasps reality and gives its rational content a consciousness of itself not in general thoughts but in concrete, individual shape.
+Def: Fancy, in Knox's rendering of Phantasie, is the most prominent artistic ability and must not be confused with the merely passive imagination, for it is creative. It does not stop at assimilating outer and inner reality but brings to outward appearance the truth and rationality of the actual world, not in general propositions and ideas but in concrete configuration and individual reality.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  Yet in that case we must immediately take care not to confuse fancy with the purely passive imagination (Einbildungskraft). Fancy is creative.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  But secondly imagination does not stop at this mere assimilation of external and internal reality, because what the ideal work of art properly provides is not only the appearance of the inner spirit in the reality of external forms; on the contrary, it is the absolute truth and rationality of the actual world which should attain external appearance.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

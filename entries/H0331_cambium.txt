@@ -25,8 +25,10 @@ Phr:
   growing ring
 
 # ---- Hegel ----
-Def: The living layer between wood and bark, from which new wood and bark are formed.
+Def: Cambium is the third sap, the neutral substance in which the plant's vital sap becomes a product. Following Schultz, it is a delicate soft substance between bark and wood that appears with the leaf, does not circulate, and is the embryonic shape of the whole plant, from which wood, bark and cellular tissue develop.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  This third sap is the neutral substance
+    — Encyclopedia §346, Addition (tr. Miller)

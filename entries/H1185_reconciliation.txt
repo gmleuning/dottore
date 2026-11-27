@@ -40,8 +40,12 @@ F:
   Korean: hwahae [reconciliation]
 
 # ---- Hegel ----
-Def: Reconciliation through Christ's presence, death and passage into spirit, the death of God as the death of death.
+Def: Reconciliation is the consciousness that the antithesis between the finite subject and God is nullified, and that unity is attained through its negation. The subject cannot bring this about by its own activity alone: the antithesis must already be implicitly sublated in the eternal divine life. For this to become certain to humanity, the unity of divine and human nature must appear in sensible, external existence, as something seen and experienced.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Representation, Appearance › Reconciliation
 Citations:
+  Rather, the truth is the attainment of unity through the negation of the antithesis; this is the peace, the reconciliation, that the need demands.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Reconciliation (tr. Brown, Hodgson and Stewart)
+  [T]his content—the unity of divine and human nature—achieves certainty, obtaining the form of immediate sensible intuition and external existence for humankind
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Reconciliation (tr. Brown, Hodgson and Stewart)

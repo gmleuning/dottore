@@ -20,8 +20,12 @@ Adv:
   in tempo, in time
 
 # ---- Hegel ----
-Def: Das Zeitmaß: the uniform measure of time, which the self lays on the indeterminate flow of time to find itself again in it.
+Def: Time-measure is the rule music must give to time, which of itself is a uniform stream and undifferentiated duration. Because time shares the principle active in the self, whose inner life music objectifies, the self needs time determined: by gathering its experiences it interrupts the empty succession, and the beginning and ending of notes gives that flow definite divisions.
 Texts:
   Aesthetics
     Music › Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm
 Citations:
+  Yet music cannot leave time in this indeterminacy; it must on the contrary determine it more closely, give it a measure, and order its flow by the rule of such a measure.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm (tr. Knox)
+  Contrasted with this empty progress, the self is what persists in and by itself, and its self-concentration interrupts the indefinite series of points of time and makes gaps in their abstract continuity
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm (tr. Knox)

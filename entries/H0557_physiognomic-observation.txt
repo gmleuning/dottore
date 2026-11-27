@@ -32,8 +32,12 @@ Phr:
   the face is the mirror of the soul
 
 # ---- Hegel ----
-Def: The interpretation of the face as the sign of the inner, which can only ever be an opinion.
+Def: Physiognomic observation takes the individual's body, with the traits that activity has formed in it, as the expression of the inner. The body is at once an original being, which the individual has not made, and a sign in which the individual makes known what they are by putting their original nature into practice. The inner is no longer empty but a determinate original character whose form is activity, and what physiognomy examines is how this inner is related to its outer and how that expression is to be understood.
 Texts:
   The Phenomenology of Spirit
     ¶¶309–322
 Citations:
+  This being, the body of the determinate individuality, is its primordiality, its own “what-it-has-not-done.”
+    — The Phenomenology of Spirit ¶310 (tr. Pinkard)
+  The body is the unity of uncultured and cultured being and is the actuality permeated by the being-for-itself of the individual.
+    — The Phenomenology of Spirit ¶311 (tr. Pinkard)

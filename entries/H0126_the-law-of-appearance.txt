@@ -42,8 +42,12 @@ Phr:
   the order of things
 
 # ---- Hegel ----
-Def: The quiet image of appearance: what remains identical in the flux, the realm of laws.
+Def: The law of appearance is the positive side of the mediation of what appears. Each concrete existent subsists only through another's non-subsistence, and in this passing and shining something persists: law, the self-identical positedness in which each side is only so far as the other is. It stands over against the immediacy of what exists, yet appearance and law have one and the same content: law is the reflection of appearance into self-identity.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Appearance › Appearance › The law of appearance
 Citations:
+  The law is thus the positive element of the mediation of what appears.
+    — The Science of Logic, Appearance › The law of appearance (tr. di Giovanni)
+  Third, appearance and law have one and the same content. The law is the reflection of appearance into self-identity
+    — The Science of Logic, Appearance › The law of appearance (tr. di Giovanni)

@@ -18,8 +18,12 @@ Phr:
   long and short
 
 # ---- Hegel ----
-Def: The natural length and brevity of syllables, given by the sounds themselves or by position, on which ancient rhythm rests.
+Def: Natural syllables have their length and shortness grounded in the speech sounds themselves, vowels and consonants. Diphthongs and long vowels are long by nature, and in ancient languages position, two or more consonants between vowels, lengthens a short syllable through the longer time needed to articulate it; modern languages use other criteria.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  The basis of their simple difference is provided by the speech-sounds themselves, by the letters to be pronounced, i.e. by consonants and vowels.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  [I]n order to get over the consonants the tongue requires a longer time for articulation, and a delay is produced which, despite the shortness of the vowel preceding the consonants, makes the syllable rhythmically long even if it is not naturally so.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

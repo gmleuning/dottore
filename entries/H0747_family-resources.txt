@@ -27,8 +27,10 @@ Phr:
   to keep it in the family
 
 # ---- Hegel ----
-Def: The family's external existence, its property, a common possession.
+Def: Family resources are the family's external existence as a universal and enduring person: possessions determined as permanent and secure, not mere property. In them the arbitrariness of an individual's needs and the selfishness of desire are transformed into care and gain for a common purpose, something ethical.
 Texts:
   The Philosophy of Right
     §§170–172
 Citations:
+  It is not merely property which a family possesses; as a universal and enduring person, the family requires possessions specifically determined as permanent and secure, i.e. it requires resources.
+    — The Philosophy of Right §170 (tr. Knox, rev. Houlgate)

@@ -27,8 +27,12 @@ Phr:
   a whole world in one poem
 
 # ---- Hegel ----
-Def: The general character of the epic: the national bible, the objective world of a people.
+Def: The general character of epic shows first in its simplest, imperfect forms, epigraph, maxim and gnomic collections, where the necessary and self-grounded is expressed without personal feeling, then is rounded into a totality whose centre is a specific sphere of life. Perfect epic presents a whole world of a people through a concrete event, so that epic works become a nation's bibles.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › General Character of Epic
 Citations:
+  The epic character in this mode of treatment consists in this, that maxims like these are not expressions of personal feeling or purely individual reflection
+    — Aesthetics, Epic Poetry › General Character of Epic (tr. Knox)
+  Thirdly, as I have already indicated, such apophthegms may be lifted from their fragmentary character and independent separation, ranged together into a greater whole, and rounded off into a totality which is entirely of an epic sort.
+    — Aesthetics, Epic Poetry › General Character of Epic (tr. Knox)

@@ -87,8 +87,12 @@ Phr:
   nam tua res agitur paries dum proximus ardet [Lat.]
 
 # ---- Hegel ----
-Def: The actual as only possible, which might as well not be: contingency, where possibility and actuality are indifferent to each other.
+Def: Contingency belongs to formal actuality, actuality that is only immediate and unreflected. What is actual is possible, and possibility is actuality reflected into itself, the empty form of self-identity: everything is possible that does not contradict itself, yet every manifold content also contains opposition and so is equally impossible. An actuality that is only possible, that is but could just as well not be, is contingent; it both has a ground and has none.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › Actuality › Contingency
 Citations:
+  Actuality is formal inasmuch as, as a first actuality, it is only immediate, unreflected actuality, and hence is only in this form determination but not as the totality of form. And so it is nothing more than a being, or concrete existence in general. But because by essence it is not mere concrete existence but is the form-unity of the in-itselfness or inwardness and externality, it immediately contains in-itselfness or possibility. What is actual is possible.
+    — The Science of Logic, Actuality › Contingency (tr. di Giovanni)
+  In this formal sense of possibility, everything is possible that does not contract itself; the realm of possibility is therefore limitless manifoldness.
+    — The Science of Logic, Actuality › Contingency (tr. di Giovanni)

@@ -33,8 +33,12 @@ Phr:
   a sixth sense
 
 # ---- Hegel ----
-Def: The system of the bodily senses, through which the soul is determined from outside: the ideal, the real difference, and earthly totality.
+Def: The senses form the simple system of the specific bodily functions through which the sentient soul is determined from outside. Each is not tied to some single item but is a universal possibility of being determined, a whole circle of sensations. The five reduce to three classes answering to the moments of the concept: sight and hearing, the senses of physical ideality; smell and taste, the senses of real difference; and feeling, the sense of earthly totality. Around the centre of the sentient individual they arrange the distinctions of natural corporeality more simply.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  The senses form the simple system of specific corporeal functions
+    — Encyclopedia §401, Remark (tr. Wallace and Miller, rev. Inwood)
+  But the quintet of senses reduces quite naturally to three classes of senses. The first is formed by the senses of physical ideality, the second by those of real difference; in the third class falls the sense of earthly totality.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

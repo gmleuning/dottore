@@ -38,8 +38,10 @@ Phr:
   the apple of one's eye
 
 # ---- Hegel ----
-Def: Love, the feeling of the unity, which in children is objective.
+Def: Parental love is the love of parents for their children as their own love made objective. The unity of marriage is only inward in the partners and sundered in their outward existence; in the children it exists for itself as a unity, and the parents love them as the existence of their own substance.
 Texts:
   The Philosophy of Right
     §173
 Citations:
+  In substance marriage is a unity, though only a unity of inwardness or disposition; in outward existence, however, the unity is sundered in the two parties. It is only in the children that the unity itself exists for itself, objectively, and as a unity, because the parents love the children as their love, as the existence of their own substance.
+    — The Philosophy of Right §173 (tr. Knox, rev. Houlgate)

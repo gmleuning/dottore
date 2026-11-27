@@ -33,8 +33,12 @@ Phr:
   other than oneself
 
 # ---- Hegel ----
-Def: The object of sense as simply other to consciousness.
+Def: Otherness is the one determination under which sensory consciousness has its object besides bare being: that of an independent other confronting me, something reflected into itself, an individual facing me as an individual. Whether the object is inner or outer makes no difference. It is not yet determined as external within itself, spread out in space and time, which belongs to intuition, but only according to its relation to consciousness, as something external to it.
 Texts:
   The Philosophy of Mind
     §418
 Citations:
+  Here the object is initially to be taken only in accordance with the relationship which it has to consciousness, namely something external to consciousness, and is not yet to be determined as external within itself, or as being outside itself.
+    — Encyclopedia §418, Remark (tr. Wallace and Miller, rev. Inwood)
+  [B]ut rather by the fact that at the standpoint of sensory consciousness the object, whether it be an interior or an outer object, has no other thought-determination than firstly, that of being in general, and secondly, of being an independent Other confronting me, something reflected into itself, an individual confronting me as an individual, an immediate individual.
+    — Encyclopedia §418, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -24,8 +24,12 @@ Phr:
   timber turned to stone
 
 # ---- Hegel ----
-Def: Der Steinbau: building in stone, the temple column recalling the tree trunk, freed from wood into the solidity of stone.
+Def: Building in stone starts from a shapeless mass that must be split and worked before pieces can be piled and joined, and huge blocks invite excavation, serving symbolic and romantic architecture. Classical architecture nonetheless builds in stone when it becomes beautiful, preserving the original principle of timber in its forms while introducing characteristics that wood does not contain.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › Building in Wood and Stone
 Citations:
+  On the other hand, stone does not have from the start such a firmly specific shape, but, compared with a tree, is a formless mass which, for some purpose, must be split and worked on before the separate stones can be brought together and piled on one another, and before they can be built together into a unity again.
+    — Aesthetics, The Particular Determinants of the Architectural Forms › Building in Wood and Stone (tr. Knox)
+  From this point of view, building in stone is especially predominant in independent architecture
+    — Aesthetics, The Particular Determinants of the Architectural Forms › Building in Wood and Stone (tr. Knox)

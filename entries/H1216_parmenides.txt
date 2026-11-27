@@ -20,8 +20,12 @@ Phr:
   to gar auto noein estin te kai einai [Gr.] [Parmenides]
 
 # ---- Hegel ----
-Def: Parmenides, with whom philosophy proper begins: pure being, the One, thought for which non-being simply is not.
+Def: For Parmenides the One, grasped in its immediacy, is being. Only being is, and what is nothing is not at all; non-being cannot be known or expressed, and so change has no truth. With this, consciousness raised itself into the domain of free thought, and pure thought made itself its own object.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Eleatics
 Citations:
+  Only being is, and what is nothing is not at all. With this, consciousness raised itself up into the domain of free thought, and pure thought made itself the object and maintained itself therein.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Eleatics (tr. Brown)
+  For one path, only being is, and non-being is not. This is the path of conviction, of truth.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Eleatics (tr. Brown)

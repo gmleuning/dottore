@@ -17,8 +17,12 @@ Phr:
   weder jene nur sinnliche Anregung noch der bloße Wille und Entschluß [Ger.] [Hegel, Aesthetics]
 
 # ---- Hegel ----
-Def: Begeisterung cannot be called up by the bare spiritual intention to produce: whoever merely resolves to be inspired in order to make a poem, with no content already alive in him, will make no fine work.
+Def: Artistic intention alone cannot summon inspiration. Whoever merely resolves to be inspired in order to write a poem, paint a picture or compose a tune, without already carrying a living theme, and must hunt around for material, can on the strength of that intention neither form a beautiful conception nor produce a solid work, whatever their talent. Mere will shows the heart has not yet seized any true interest.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  On the other hand, neither can inspiration be summoned by a spiritual intention to produce.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  A man who simply resolves to be inspired in order to write a poem, paint a picture, or compose a tune, without already carrying in himself some theme as a living stimulus and must just hunt around here and there for some material, then, no matter what his talent, cannot, on the strength of this mere intention, form a beautiful conception or produce a solid work of art.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

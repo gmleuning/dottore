@@ -12,8 +12,10 @@ F:
   Italian: sestina
 
 # ---- Hegel ----
-Def: Die Sestine: an artful form of the troubadours and Petrarch, in which the same end-words come back in changing order.
+Def: The sestina belongs with the sonnet to cultivated reflective poetry, brilliantly practised by the Italians. Since neither song's simplicity nor the ode's elevation is permitted in it, singability disappears, and in compensation the language itself, in its sounds and ingenious rhymes, becomes the notes of a spoken melody.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  Since neither the simplicity of the song nor the elevation of the ode is permissible in this kind of cultured poetry, singability disappears but, in compensation, as the opposite of a musical accompaniment, the language itself in its sounds and ingenious rhymes becomes the notes of a spoken melody.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

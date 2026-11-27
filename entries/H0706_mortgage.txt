@@ -32,8 +32,12 @@ Phr:
   under water
 
 # ---- Hegel ----
-Def: A pledge of land or property, a lien which secures the contract.
+Def: Mortgage, like surety, is a particular form of pledge. The pledge is a specific thing that is my property only to the extent of the value I have handed over or am owed; its specific character and any excess value remain the property of the one who gave it. A pledge is not itself a contract, only a stipulation completing one.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  The pledge is a specific thing but one which is my property only to the extent of the value of the property which I have handed over into another’s possession or which is due to me
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)
+  Mortgage and surety are particular forms of pledge.
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

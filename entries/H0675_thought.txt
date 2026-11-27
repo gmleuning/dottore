@@ -27,8 +27,12 @@ Phr:
   pangs of conscience
 
 # ---- Hegel ----
-Def: Feelings whose content comes from thought: shame, remorse, the feelings of right and religion.
+Def: Feelings whose content derives from thinking are those in which the substance of right, morality, ethical life and religion is taken up into the feeling will, such as shame and remorse. They are distinguished and justified by that content. But the content is not inseparably bound to feeling: remorse may be felt even over a good deed, and one can weigh an action against duty calmly in representation.
 Texts:
   The Philosophy of Mind
     §§471–472
 Citations:
+  Remorse is the feeling of the discordance between my activity and my duty, or even only my advantage, in each case, therefore, between my activity and something determined-in-and-for-itself.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)
+  That this content is not inseparably conjoined with the feeling can be seen in an empirical way from the fact that remorse can be sensed even over a good deed.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)

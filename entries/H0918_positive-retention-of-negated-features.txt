@@ -26,8 +26,12 @@ Phr:
   what survives
 
 # ---- Hegel ----
-Def: The positive retention of the negated features, the mysteries, the old gods' place in the new.
+Def: Positive retention of negated features means that despite the victory of the new gods the old ones remain in classical art, partly as before and partly transformed and still venerated. Unlike the jealous national God of the Jews, the Greek gods are particular divinities amid a group of others. The Mysteries were the first form in which the Greeks preserved the old gods, though no deep wisdom seems hidden in them.
 Texts:
   Aesthetics
     The Classical Form of Art › The Process of Shaping the Classical Art-Form › Affirmative Retention of the Negatived Features
 Citations:
+  Despite the victory of the new gods, however, the old ones now still remain in the classical art-form partly in their original form as considered up to this point, partly retained and venerated in a transformed shape.
+    — Aesthetics, The Process of Shaping the Classical Art-Form › Affirmative Retention of the Negatived Features (tr. Knox)
+  Now the first form in which we find the Greeks preserving the old gods is the Mysteries.
+    — Aesthetics, The Process of Shaping the Classical Art-Form › Affirmative Retention of the Negatived Features (tr. Knox)

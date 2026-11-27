@@ -29,8 +29,12 @@ Phr:
   nip in the bud
 
 # ---- Hegel ----
-Def: The plant putting forth a new individual, the bud, the plant's self-multiplication.
+Def: With growth is bound up the individuality's return into itself, the production of the bud: a fresh plant upon the old one, or the old plant's simple return into the tendency to become a new one. Here the process closes, the plant preserving itself by reproducing itself, which is at once the production of another plant.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  With this production is also bound up the taking back of the individuality into itself; and this is the production of the bud.
+    — Encyclopedia §346, Addition (tr. Miller)
+  With this, the process of the plant is closed; the plant preserves itself by the reproduction of itself, which is at the same time the production of another plant.
+    — Encyclopedia §346, Addition (tr. Miller)

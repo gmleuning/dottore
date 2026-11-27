@@ -20,8 +20,12 @@ F:
   Chinese: huxi [breathing; the sage breathes from his heels] [Zhuangzi]
 
 # ---- Hegel ----
-Def: The animal's relation to air and water: breathing, the skin's process, and the feeling of thirst.
+Def: Instinct as a real process individualizes inorganic things and consumes them: the process with air in breathing and through the skin, with water in thirst, and with individualized earth in hunger. It is first a process with the elements, since the outer world is at first universal; the plant stops there, while the animal goes further.
 Texts:
   The Philosophy of Nature
     §362
 Citations:
+  But it is a real process in so far as it individualizes inorganic things or relates itself to those already individualized and assimilates them, consuming them, and destroying their specific qualities—the process with air (breathing and skin process), with water (thirst), and with individualized earth, i.e. particular formations of it (hunger).
+    — Encyclopedia §362 (tr. Miller)
+  The real process is at first a process with the Elements, for the outer world itself is, in the first instance, universal.
+    — Encyclopedia §362, Addition (tr. Miller)

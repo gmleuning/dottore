@@ -26,8 +26,12 @@ Phr:
   to drink in
 
 # ---- Hegel ----
-Def: The plant's process with the elements, its turning outward toward light, air and water.
+Def: The plant's assimilation is its self-specifying process outward, directly bound up with formation: the seed germinates only when stimulated from outside, and root and leaf are turned toward earth and water, light and air. Its outer nature is not individualized things but the elements, and its return into itself yields no self-feeling.
 Texts:
   The Philosophy of Nature
     §347
 Citations:
+  The seed germinates only when stimulated from outside; and, in the process of formation, the diremption into root and leaf is itself a diremption into the direction of earth and water and that of light and air
+    — Encyclopedia §347 (tr. Miller)
+  External Nature with which the plant stands in relationship is not Nature as individualized, but the Elements.
+    — Encyclopedia §347, Addition (tr. Miller)

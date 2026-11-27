@@ -30,8 +30,14 @@ Phr:
   beauty is truth
 
 # ---- Hegel ----
-Def: The Greek religion of beauty, in which the gods are spiritual individuals in human shape.
+Def: The Greek religion, the religion of beauty, is a religion of humanity, in which what the human being concretely is gets portrayed as divine. Its substantial content is rationality, the freedom of spirit, which is ethical life. Many gods represent spiritual and ethical powers; above them stands fate, a blind and empty necessity. In the manner in which the gods appear, beauty is everywhere dominant.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › The Religion of the Greeks and the Jews › The Religion of Beauty
 Citations:
+  The content that especially interests us is that this religion is a religion of humanity. Humanity comes to its right, to its affirmation, in which what the human being concretely is, is portrayed as the divine.
+    — Lectures on the Philosophy of Religion, The Religion of the Greeks and the Jews › The Religion of Beauty (tr. Brown, Hodgson and Stewart)
+  This power is what is called destiny, fate, or simple necessity. It is without content, is empty necessity, an empty, unintelligible power that is devoid of the concept.
+    — Lectures on the Philosophy of Religion, The Religion of the Greeks and the Jews › The Religion of Beauty (tr. Brown, Hodgson and Stewart)
+  At this stage beauty is everywhere the dominant factor. The god appears.
+    — Lectures on the Philosophy of Religion, The Religion of the Greeks and the Jews › The Religion of Beauty (tr. Brown, Hodgson and Stewart)

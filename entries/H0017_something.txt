@@ -41,8 +41,12 @@ Phr:
   a thing in itself
 
 # ---- Hegel ----
-Def: The first negation of the negation: determinate being turned back into itself, the beginning of the subject.
+Def: Something is existence that has sublated the distinction of reality and negation and so is again equal to itself, no longer immediately but through that sublating. It is the first negation of the negation, simple existent self-reference. It therefore mediates itself with itself, though only abstractly, and is the beginning of the subject, which determines itself further as being-for-itself and finally as concept. As becoming that has become concrete, something is a transition between somethings, and so it alters.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Existence as such › Something
 Citations:
+  Something is the first negation of negation, as simple existent self-reference.
+    — The Science of Logic, Existence as such › Something (tr. di Giovanni)
+  As something, the negative of the negative is only the beginning of the subject – its in-itselfness is still quite indeterminate. It determines itself further on, at first as existent-for-itself and so on, until it finally obtains in the concept the intensity of the subject.
+    — The Science of Logic, Existence as such › Something (tr. di Giovanni)

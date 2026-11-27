@@ -36,8 +36,12 @@ Phr:
   out of all measure
 
 # ---- Hegel ----
-Def: The Indian fantastic, which drives natural shapes into the measureless to reach the divine.
+Def: Fantastic symbolism, characteristic of India, arises when consciousness leaves the immediate identity of the absolute with existence and meaning and shape come into conflict, which it tries to heal by joining them fancifully. A fermenting imagination leaps without rest from sensuous particulars to the most general meanings and back, taking the contradiction itself for unification, so that true beauty cannot be sought in this murky confusion.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Unconscious Symbolism › Fantastic Symbolism
 Citations:
+  It is with this attempt alone that there arises the proper need for art.
+    — Aesthetics, Unconscious Symbolism › Fantastic Symbolism (tr. Knox)
+  True beauty, therefore, we may not seek in this field of murky confusion.
+    — Aesthetics, Unconscious Symbolism › Fantastic Symbolism (tr. Knox)

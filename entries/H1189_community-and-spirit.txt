@@ -45,8 +45,12 @@ Phr:
   vigeur de dessus [Fr.]
 
 # ---- Hegel ----
-Def: God as spirit present in the community of believers.
+Def: The third element is that of the community, in which spirit comprehends the history that was enacted in appearance and recognizes in it the idea of God, his life and movement. The community is made up of single subjects who are in the Spirit of God. Each must traverse in itself the process of reconciliation, and so becomes spirit and a citizen of the kingdom of God, on the presupposition that reconciliation has already been accomplished.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Community, Spirit
 Citations:
+  [It is] spirit that comprehends this history spiritually as it is enacted in [ the sphere of] appearance, and recognizes the idea of God in it, his life, his movement.
+    — Lectures on the Philosophy of Religion, The Consummate Religion (1827) › Community, Spirit (tr. Brown, Hodgson and Stewart)
+  The community is made up of those single, empirical subjects who are in the Spirit of God.
+    — Lectures on the Philosophy of Religion, The Consummate Religion (1827) › Community, Spirit (tr. Brown, Hodgson and Stewart)

@@ -34,8 +34,12 @@ Phr:
   to see oneself in others
 
 # ---- Hegel ----
-Def: The affirmative knowledge of self in the other self, in which each is free and knows the other as free.
+Def: Universal self-consciousness is the affirmative awareness of oneself in another self. Each, as free individuality, is wholly independent, yet by negating its immediacy does not distinguish itself from the other; it has real universality as reciprocity, knowing itself recognized in the free other in so far as it recognizes that other and knows it to be free. It is the result of the struggle for recognition, and its truth, the unity of consciousness and self-consciousness, is reason.
 Texts:
   The Philosophy of Mind
     §§436–437
 Citations:
+  Universal self-consciousness is the affirmative awareness of oneself in the other self.
+    — Encyclopedia §436 (tr. Wallace and Miller, rev. Inwood)
+  Consequently, it is only by the liberation of the bondsman that the master, too, becomes completely free.
+    — Encyclopedia §436, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -32,8 +32,12 @@ Phr:
   the echo at the line's end
 
 # ---- Hegel ----
-Def: Rhyme, the echo of like sounds at the ends of lines, the inward self hearing itself in modern verse.
+Def: Rhyme belongs to romantic poetry, which, growing more inward, withdraws from the natural length of syllables and plays with the sounds of words for their own sake. It is no accidental invention but necessary: the soul's need to apprehend itself is satisfied by returning like sounds, indifferent to regulated time, which bring us back to ourselves and bring verse near to music.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhyme
 Citations:
+  Thus viewed, rhyme is not something accidentally elaborated in romantic poetry alone, but has become necessary in it.
+    — Aesthetics, Versification › Rhyme (tr. Knox)
+  The need of the soul to apprehend itself is emphasized more fully, and it is satisfied by the assonance of rhyme which is indifferent to the firmly regulated time-measure and has the sole function of bringing us back to ourselves through the return of the same sounds.
+    — Aesthetics, Versification › Rhyme (tr. Knox)

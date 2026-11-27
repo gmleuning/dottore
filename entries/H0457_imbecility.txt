@@ -54,8 +54,12 @@ Phr:
   stultorum plena sunt omnia [Lat.] [Cicero]
 
 # ---- Hegel ----
-Def: The dullness of mind from birth or from disease, a natural deficiency of the soul's life.
+Def: Imbecility is the first appearance of the soul's indeterminate submergence in itself. It takes various forms: a natural and incurable imbecility, to which cretinism belongs, and an imbecility into which someone sinks through undeserved misfortune or their own fault, often as the sequel of frenzy, of epilepsy or of excess. It may show itself as catalepsy, a complete paralysis of bodily and mental activity, and it can be a passing as well as a permanent state.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  There is natural imbecility. This is incurable. Particularly what is called cretinism belongs here
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  With regard to the appearance of imbecility we can also mention that it occasionally reveals itself as catalepsy, as a complete paralysis of both corporeal and mental activity.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

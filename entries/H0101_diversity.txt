@@ -50,8 +50,12 @@ Phr:
   variety's the very spice of life [Cowper]
 
 # ---- Hegel ----
-Def: Difference falling apart into indifferent differents, compared by a third through likeness and unlikeness.
+Def: Diversity is identity broken apart: its moments, identity and difference, are each reflected into itself and so subsist indifferent to one another, the diverse remaining what it is. Since neither is referred to the other, the difference is external to them, and they are merely different in general. Reflection here becomes external, comparing them for likeness and unlikeness from a third standpoint, until these indifferent determinations collapse into opposition.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The determinations of reflection › Difference › Diversity
 Citations:
+  Diversity constitutes the otherness as such of reflection.
+    — The Science of Logic, Difference › Diversity (tr. di Giovanni)
+  The diverse moments, therefore, conduct themselves with respect to each other, not as identity and difference, but only as moments different in general, indifferent to each other and to their determinateness.
+    — The Science of Logic, Difference › Diversity (tr. di Giovanni)

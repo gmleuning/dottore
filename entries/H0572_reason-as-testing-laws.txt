@@ -29,8 +29,14 @@ Phr:
   consistent with itself
 
 # ---- Hegel ----
-Def: Reason that tests laws only by their formal consistency, a measure that can sanction any content.
+Def: Reason as testing laws no longer gives laws but compares a given content only with itself, to see whether it is a tautology and free of contradiction. Such a formal standard takes in a content as readily as its opposite, so that property and community of goods can each pass or fail. To test what is right is already to have started down an unethical path: the ethical disposition holds unwaveringly to what is right because it is right, and so reason passes into spirit.
 Texts:
   The Phenomenology of Spirit
     ¶¶429–437
 Citations:
+  Just because the criterion is a tautology and is indifferent with regard to the content, it incorporates one content into itself with the same ease that it does its opposite.
+    — The Phenomenology of Spirit ¶429 (tr. Pinkard)
+  It is not therefore because I find something’s not being self-contradictory that it is right; rather, it is right because it is the right.
+    — The Phenomenology of Spirit ¶436 (tr. Pinkard)
+  For myself, if I wanted, I could have just as easily made none of them into law, and, when I start putting myself in the position of testing them, I have already started down an unethical path.
+    — The Phenomenology of Spirit ¶436 (tr. Pinkard)

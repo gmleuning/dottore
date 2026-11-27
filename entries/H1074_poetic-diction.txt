@@ -44,8 +44,12 @@ Phr:
   elevated speech
 
 # ---- Hegel ----
-Def: Poetic diction, the choice and order of words, elevated beyond ordinary speech.
+Def: Poetic diction follows from poetry's need to embody its conceptions in language. Art ought to place us on ground different from everyday life, religion and philosophy, so poetry must avoid prosaic triviality and the tone of edification or speculation, above all the categories of the understanding, using special words, old or boldly new, and fitting sentence construction without sinking into rhetoric.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Poetic Diction
 Citations:
+  In general, a poetic conception only becomes poetry in the narrower sense when it is actually embodied and cast in words.
+    — Aesthetics, Poetic Expression › Poetic Diction (tr. Knox)
+  Poetry can do this, so far as its diction is concerned, only if it uses a language different from the one we are already accustomed to in these other spheres.
+    — Aesthetics, Poetic Expression › Poetic Diction (tr. Knox)

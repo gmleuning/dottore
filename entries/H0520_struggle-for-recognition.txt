@@ -70,8 +70,14 @@ Phr:
   I can protect myself from my enemies
 
 # ---- Hegel ----
-Def: The struggle of two self-consciousnesses, each risking its life to be recognized as free.
+Def: The struggle for recognition is the life and death struggle in which two individuals, each certain of itself but not yet of the other, must raise their certainty of being for themselves to truth. To show itself as pure being-for-itself, bound to no determinate existence and not shackled to life, each stakes its own life and aims at the death of the other. Only by this staking is freedom proven. One who has not risked their life may be recognized as a person but has not reached the truth of recognition as self-sufficient self-consciousness.
 Texts:
   The Phenomenology of Spirit
     ¶¶185–189
 Citations:
+  The relation of both self-consciousnesses is thus determined in such a way that it is through a life and death struggle that each proves its worth to itself, and that both prove their worth to each other.
+    — The Phenomenology of Spirit ¶187 (tr. Pinkard)
+  And it is solely by staking one’s life that freedom is proven to be the essence
+    — The Phenomenology of Spirit ¶187 (tr. Pinkard)
+  The individual who has not risked his life may admittedly be recognized as a person, but he has not achieved the truth of being recognized as a self-sufficient self-consciousness.
+    — The Phenomenology of Spirit ¶187 (tr. Pinkard)

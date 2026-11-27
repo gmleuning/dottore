@@ -35,8 +35,12 @@ Phr:
   rock bottom
 
 # ---- Hegel ----
-Def: The science of the earth's mineral formations, the dead body of the earth's former life.
+Def: Geology and oryctognosy concern the earth's mineral formations: the former the rock species, the latter lodes and veins. The earth's physical organization begins not with a simple germ but divided into a granitic and a calcareous principle, whose moments develop through a series of formations into metals, fossils and finally mechanical stratifications lacking formative process.
 Texts:
   The Philosophy of Nature
     §340
 Citations:
+  Werner's mineralogy distinguished between rock species and lodes or veins: geology treats of the former and oryctognosy of the latter.
+    — Encyclopedia §340, Addition (tr. Miller)
+  The physical organization of the earth, as immediate, does not begin with the simple, enveloped form of the germ, but with a beginning (Ausgang) which has fallen apart into a duality, into the concrete granitic principle and the calcareous principle
+    — Encyclopedia §340 (tr. Miller)

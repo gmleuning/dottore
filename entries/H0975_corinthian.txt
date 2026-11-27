@@ -29,8 +29,12 @@ Phr:
   leaves of acanthus
 
 # ---- Hegel ----
-Def: The Corinthian, the richest and most ornate, with its acanthus capital.
+Def: The Corinthian style keeps basically to the Ionic and its slenderness but develops it into tasteful brilliance with the final wealth of ornament, no longer letting the origin in wood glint through. Its column is no loftier but appears more slender and richer through a higher capital adorned with acanthus leaves, of which the Greeks told a charming story of a girl's grave.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders
 Citations:
+  Finally, the Corinthian style abides fundamentally by the Ionian but, keeping the same slenderness, it develops it into a tasteful brilliance and reveals the final wealth of decoration and ornament.
+    — Aesthetics, The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders (tr. Knox)
+  The Corinthian column is not loftier than the Ionic, because usually, with similar fluting, its height is only eight or eight-and-a-half times the diameter of its lower part, yet owing to a higher capital it appears more slender and, above all, richer.
+    — Aesthetics, The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders (tr. Knox)

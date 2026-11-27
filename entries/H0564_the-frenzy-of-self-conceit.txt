@@ -29,8 +29,12 @@ Phr:
   defeat is not as dangerous as the fear of admitting it, ne tak opasno porazhenie, kak opasna boyazn' priznat' svoyo porazhenie [Rus.] [Lenin]
 
 # ---- Hegel ----
-Def: Der Wahnsinn des Eigendünkels: the heart, seeing its law turned into a universal order alien to it, declares that order a perversion devised by fanatical priests and despots.
+Def: The frenzy of self-conceit is what the concern for the welfare of mankind becomes when the realized law of the heart turns against the one who authored it. Others do not find their own hearts' law in it and resist it. To save itself from destruction, consciousness casts out of itself the inversion that it is, and rages against the universal order as a fabrication of fanatical priests and gluttonous despots. In truth it is the singular heart, wanting to be immediately universal, that is mad and inverted.
 Texts:
   The Phenomenology of Spirit
     ¶¶373–380
 Citations:
+  Hence, others do not find the law of their hearts in this content; rather, they find instead that it is the law of another’s heart which has been accomplished.
+    — The Phenomenology of Spirit ¶373 (tr. Pinkard)
+  But it is the heart, or the singularity of consciousness immediately willing to be universal, which drives one mad and which is inverted
+    — The Phenomenology of Spirit ¶377 (tr. Pinkard)

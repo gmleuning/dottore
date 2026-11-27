@@ -30,8 +30,12 @@ Phr:
   a living thing
 
 # ---- Hegel ----
-Def: Consciousness that has life as its object, which is the threshold of self-consciousness.
+Def: Consciousness of life is the threshold of self-consciousness. While it knows only laws, the intellect finds in its object a counterpart of the I but one still dead and unlike the I's activity. In beholding the living unity of what is distinct, where the differences are posited and sublated in the object itself, self-consciousness is kindled: the awareness of the simple ideal being that is its own object and is differentiated within itself, the I as the truth of what is natural.
 Texts:
   The Philosophy of Mind
     §423
 Citations:
+  It is, therefore, in the consciousness of this dialectical, this living unity of what is distinct that self-consciousness is kindled
+    — Encyclopedia §423, Addition (tr. Wallace and Miller, rev. Inwood)
+  The I in its judgement has an object which is not distinct from it
+    — Encyclopedia §423 (tr. Wallace and Miller, rev. Inwood)

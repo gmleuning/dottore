@@ -31,8 +31,12 @@ Phr:
   if so, then so
 
 # ---- Hegel ----
-Def: The middle is the being of the condition, which is the being of the conditioned.
+Def: The hypothetical syllogism adds to the hypothetical judgement, "if A is, so is B", the immediacy of being: but A is, therefore B is. A is then no mere immediacy but essentially the middle term, an immediate being that is also contingent and sublates itself. The two sides are not independent beings but beings held in necessity, such as condition and conditioned, and what is posited is their necessary connection as an accomplished mediating unity.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of necessity › The hypothetical syllogism
 Citations:
+  The hypothetical judgment contains only the necessary connection without the immediacy of the connected terms. “If A is, so is B”; or, the being of A is also just as much the being of an other, of the B; with this, it is not as yet said either that A is, or that B is.
+    — The Science of Logic, The syllogism of necessity › The hypothetical syllogism (tr. di Giovanni)
+  The conclusion contains the connection of subject and predicate, not as the abstract copula, but as the accomplished mediating unity.
+    — The Science of Logic, The syllogism of necessity › The hypothetical syllogism (tr. di Giovanni)

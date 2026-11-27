@@ -102,8 +102,12 @@ Phr:
   you don't need a weatherman to know which way the wind blows [Bob Dylan]
 
 # ---- Hegel ----
-Def: The hymn, the god's speech in the self, and the oracle, the god's answer.
+Def: Hymn and oracle belong to the higher element which the work of art demands beyond the statue: language, an existence that is immediately self-conscious. The god whose shape has language for its element is a work of art ensouled in itself. In the hymn self-consciousness stays with itself in its essence as devotion, which, kindled in each individual, is the spiritual stream conscious of itself as the same doing in all.
 Texts:
   The Phenomenology of Spirit
     ¶¶710–713
 Citations:
+  This higher element is language – an existence which is immediately self-conscious existence.
+    — The Phenomenology of Spirit ¶710 (tr. Pinkard)
+  Devotion, kindled in every individual, is the spiritual stream which in the multiplicity of self-consciousnesses is conscious of itself as the same doing in each and all, and as simple being.
+    — The Phenomenology of Spirit ¶710 (tr. Pinkard)

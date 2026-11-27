@@ -141,8 +141,12 @@ Phr:
   a white horse galloping past a crack, bai ju guo xi [Chin.] [Zhuangzi]
 
 # ---- Hegel ----
-Def: The negativity of space posited for itself: being that, in being, is not, and in not being, is; intuited becoming. All things are in time, not time in them.
+Def: Time is negativity posited for itself and indifferent to the inert side-by-side of space. As the negative unity of self-externality it is an abstract ideal being which, in being, is not, and in not being, is: becoming directly intuited, in which differences immediately sublate themselves. It is the truth of space and, like space, a pure form of intuition.
 Texts:
   The Philosophy of Nature
     §§257–259
 Citations:
+  Negativity, thus posited for itself, is Time.
+    — Encyclopedia §257 (tr. Miller)
+  It is that being which, inasmuch as it is, is not, and inasmuch as it is not, is: it is Becoming directly intuited
+    — Encyclopedia §258 (tr. Miller)

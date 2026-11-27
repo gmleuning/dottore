@@ -37,8 +37,12 @@ Phr:
   to have a hunch
 
 # ---- Hegel ----
-Def: The mind's first finding of a content within itself, the dull form of all that is spiritual.
+Def: Feeling is the form in which intelligence first occurs, finding itself determined and weaving dimly within itself, with the whole material of its knowledge in the simple shape of individual, subjective mind. A feeling is a determinate affection whose determinacy is simple, so that however pure and true its content may be it has the form of contingent particularity, and its content may equally be meagre and untrue. All rational content enters into it, but this is the lowest form.
 Texts:
   The Philosophy of Mind
     §§446–447
 Citations:
+  The form of feeling is this: a feeling is indeed a determinate affection, but this determinacy is simple. Hence a feeling, however pure and true its content may be, has the form of contingent particularity
+    — Encyclopedia §447 (tr. Wallace and Miller, rev. Inwood)
+  But the form of selfish individuality, which the mind has in feeling, is the lowest and worst form
+    — Encyclopedia §447, Remark (tr. Wallace and Miller, rev. Inwood)

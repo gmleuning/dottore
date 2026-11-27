@@ -34,8 +34,14 @@ Phr:
   to see through walls
 
 # ---- Hegel ----
-Def: The seeing of the soul without the mediation of the senses, an immediate knowing confined to the sentient soul's own world.
+Def: Clairvoyance is the immediate awareness in which, without any specific sense or any part of the body taking its place, an indeterminate sensation gives rise to a vision of something not sensibly near but distant in space or time. The soul in it is aware of its own world without having yet set that world outside itself as an object. Its phenomena all relate to the individual world of the feeling soul, and because its content is not set out in an intelligible connection, it is at the mercy of every contingency of feeling and imagining.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  Without the involvement of any specific sense and without the common sense becoming active in an individual part of the body, an indeterminate sensation gives rise to an intimation or clairvoyance, a vision of something not sensibly near but distant in space or in time, of something future or past.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  The five phenomena discussed above are the principal moments of clairvoyant awareness. They all have in common the determination of always relating to the individual world of the feeling soul.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  But such clairvoyance, because, in its hazy obscurity, the content is not set out in an intelligible interconnection, is at the mercy of all its own contingency of feeling, of imagining, etc., not to mention that ideas of others (see below) intrude into its vision. It is thus impossible to make out whether clairvoyants see correctly more than they get wrong
+    — Encyclopedia §406, Remark (tr. Wallace and Miller, rev. Inwood)

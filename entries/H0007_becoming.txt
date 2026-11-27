@@ -60,8 +60,12 @@ Phr:
   varium et mutabile semper femina [Lat.] [Virgil]
 
 # ---- Hegel ----
-Def: The truth of being and nothing: the movement in which each has already passed over into the other, their immediate vanishing in one another.
+Def: Becoming is the truth of pure being and pure nothing. They are the same, and yet absolutely distinct; neither stays what it is, for being has already passed over into nothing and nothing into being. Their truth is the movement in which each immediately vanishes into its opposite: a movement in which the two are distinguished, but by a distinction that dissolves itself as soon as it is made. Becoming is the first concrete thought of the Logic, in which being and nothing have their being only as vanishing.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Becoming
 Citations:
+  The truth is neither being nor nothing, but rather that being has passed over into nothing and nothing into being – “has passed over,” not passes over. But the truth is just as much that they are not without distinction; it is rather that they are not the same, that they are absolutely distinct yet equally unseparated and inseparable, and that each immediately vanishes in its opposite.
+    — The Science of Logic, Being › Becoming (tr. di Giovanni)
+  Their truth is therefore this movement of the immediate vanishing of the one into the other: becoming, a movement in which the two are distinguished, but by a distinction which has just as immediately dissolved itself.
+    — The Science of Logic, Being › Becoming (tr. di Giovanni)

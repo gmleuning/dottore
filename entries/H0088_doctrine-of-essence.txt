@@ -43,8 +43,12 @@ Phr:
   to ti ēn einai [Gr.] [Aristotle]
 
 # ---- Hegel ----
-Def: The truth of being: being gone into itself, a reflection in which each determination is only in relation to its other.
+Def: Essence is the truth of being. Knowledge does not stop at what is immediate but penetrates behind it, and this is no activity of cognition external to being: it is the movement of being itself, which recollects itself and by this inwardness becomes essence, being that is past, but timelessly past. Essence is not what abstraction leaves over when it has removed all determinacy. It first shines within itself as reflection, then determines itself in the essentialities, and as ground passes into concrete existence and appearance.
 Texts:
   The Science of Logic
     The Doctrine of Essence
 Citations:
+  The truth of being is essence. Being is the immediate.
+    — The Science of Logic, The Doctrine of Essence (tr. di Giovanni)
+  But this course is the movement of being itself. That it is being’s nature to recollect itself, and that it becomes essence by virtue of this interiorizing, this has been displayed in being itself.
+    — The Science of Logic, The Doctrine of Essence (tr. di Giovanni)

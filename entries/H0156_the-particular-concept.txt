@@ -39,8 +39,12 @@ Phr:
   le style est l'homme meme [Fr.]
 
 # ---- Hegel ----
-Def: The universal in its determinateness, which is the universal distinguishing itself; the species as the universal's own self-differentiation.
+Def: The particular concept is determinateness as it belongs to the concept: not a limit toward something beyond, but the universal's own moment, in which it is only with itself. The particular contains the universality that is its substance, and the genus is unaltered in its species, which differ from each other and not from it. The species of the universal are only the universal itself and the particular, so that the universal is both itself and its opposite.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The concept › The particular concept
 Citations:
+  The particular contains the universality that constitutes its substance; the genus is unaltered in its species; these do not differ from the universal but only from each other.
+    — The Science of Logic, The concept › The particular concept (tr. di Giovanni)
+  The particular is the universal itself, but it is its difference or reference to an other
+    — The Science of Logic, The concept › The particular concept (tr. di Giovanni)

@@ -26,8 +26,12 @@ Phr:
   in want of
 
 # ---- Hegel ----
-Def: The practical relation: need, which the animal satisfies by seizing and consuming its object.
+Def: The practical process begins with a division within the organism, the feeling of externality as negation of the subject, which is also its self-certainty against that negation: a feeling of lack and the urge to remove it. Only the living feels lack, since only a subject can contain and endure its own contradiction.
 Texts:
   The Philosophy of Nature
     §§359–366
 Citations:
+  The real process or practical relationship with non-organic nature begins with the diremption of the organism within itself, with the feeling of externality as negation of the subject, which is at the same time positive self-relation and the certainty thereof in face of this its negation: in other words, the feeling of lack and the urge to get rid of it.
+    — Encyclopedia §359 (tr. Miller)
+  A being which is capable of containing and enduring its own contradiction is a subject; this constitutes its infinitude.
+    — Encyclopedia §359, Remark (tr. Miller)

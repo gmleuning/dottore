@@ -71,8 +71,12 @@ Phr:
   basta!
 
 # ---- Hegel ----
-Def: The will's indeterminate universality of satisfaction, a contradictory aim that freedom must rise above.
+Def: Happiness is the represented universal satisfaction, produced by reflective thinking, to which particular urges are to be sacrificed, one to another or directly. Since its affirmative content lies only in the urges, subjective feeling and taste decide where it lies. It is only an abstract universality that merely ought to be, and its truth is the self-determination of the will, freedom.
 Texts:
   The Philosophy of Mind
     §§479–480
 Citations:
+  Happiness is only the represented, abstract universality of the content, a universality which only ought to be.
+    — Encyclopedia §480 (tr. Wallace and Miller, rev. Inwood)
+  Their limitation by each other is, on the one hand, a mixture of qualitative and quantitative determination; on the other hand, as happiness has affirmative content in the urges alone, the decision lies with them, and it is subjective feeling and taste which must have the final say in deciding where its happiness lies.
+    — Encyclopedia §479 (tr. Wallace and Miller, rev. Inwood)

@@ -12,8 +12,14 @@ F:
   German: Schwärmerei [enthusiasm, fanaticism], Eigendünkel
 
 # ---- Hegel ----
-Def: The heart that wants its law to be the world's, and that rages against the world as a perversion of its law.
+Def: The law of the heart and the frenzy of self-conceit is the shape in which self-consciousness knows that it has the universal, the law, immediately within itself, and wills to realize it for the welfare of all. Once realized, the law ceases to be the law of its heart and becomes an alien order, and other hearts reject it as merely another's. The concern for humanity then turns into a mad self-conceit that denounces the universal order as a perversion made by others, though the inversion lies in the heart itself.
 Texts:
   The Phenomenology of Spirit
     ¶¶367–380
 Citations:
+  It immediately knows that it has the universal, or the law, within itself, which on account of this determination, that it is immediately in the being-for-itself of consciousness, is called the law of the heart.
+    — The Phenomenology of Spirit ¶367 (tr. Pinkard)
+  The heart-throb for the welfare of mankind therefore passes over into the bluster of a mad self-conceit.
+    — The Phenomenology of Spirit ¶377 (tr. Pinkard)
+  It is thus not a contingent and alien individuality but rather just this very heart, which, according to all of its aspects, is in itself the inverted and inverting.
+    — The Phenomenology of Spirit ¶377 (tr. Pinkard)

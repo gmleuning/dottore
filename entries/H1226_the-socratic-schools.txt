@@ -25,8 +25,12 @@ Phr:
   the children of Socrates
 
 # ---- Hegel ----
-Def: The Socratic schools, each taking up one side of Socrates.
+Def: The Socratics are those disciples who remained relatively close to Socrates in their way of philosophizing. Leaving Plato aside, they offer only a more abstract grasp of the Socratic mode, more definite and therefore more one-sided, in a diversity of types. That conflicting philosophies issued from his teaching follows from the abstractness and indefiniteness of his principle.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Socratic Schools
 Citations:
+  [W]e find in them only a more abstract grasp of the Socratic mode, one more definite but therefore more one-sided, and appearing in a diversity of types.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Socratic Schools (tr. Brown)
+  [I]t is inherent in the abstractness and indefiniteness of his principle itself.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Socratic Schools (tr. Brown)

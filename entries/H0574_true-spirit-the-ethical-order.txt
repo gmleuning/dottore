@@ -36,8 +36,14 @@ Phr:
   the good old ways
 
 # ---- Hegel ----
-Def: The immediate ethical life of a people, the beautiful ethical world of the Greek polis.
+Def: True spirit, ethical life, is spirit in its immediacy, in which the simple ethical substance divides into a differentiated essence, a human and a divine law. Self-consciousness, facing it, assigns itself to one of these powers, knowing it and ignoring the other, and so is a deceived knowing. In acting it experiences the contradiction of the two powers, their mutual destruction and its own downfall. Through this movement the substance becomes actual self-consciousness, and just therein ethical life perishes.
 Texts:
   The Phenomenology of Spirit
     ¶¶444–483
 Citations:
+  The substance thus fissures into a differentiated ethical essence, into a human and a divine law.
+    — The Phenomenology of Spirit ¶444 (tr. Pinkard)
+  In its deed, it thus experiences the contradiction of those powers into which substance estranged itself, and it experiences their mutual destruction and the contradiction in its knowing of the ethical life of its actions – the contradiction of what ethical life is in and for itself – and it meets its own downfall.
+    — The Phenomenology of Spirit ¶444 (tr. Pinkard)
+  However, through this movement, ethical substance has in fact become actual self-consciousness, or this self has come to be in-and-for-itself-existing, but it was just therein that ethical life perished.
+    — The Phenomenology of Spirit ¶444 (tr. Pinkard)

@@ -55,8 +55,12 @@ Phr:
   valet anchora virtus
 
 # ---- Hegel ----
-Def: The sea as a living process, ceaselessly bringing forth a teeming, luminous life.
+Def: The sea is the neutral earth, whose composite movement of ebb and flow follows the positions of sun and moon and the earth's shape. It holds the principle of life more immanently than the land and brings forth mainly animal life, luminous and slight, but its fluidity draws incipient subjectivity back and remains at elemental life.
 Texts:
   The Philosophy of Nature
     §341
 Citations:
+  But the neutral earth, the sea, is equally the movement of ebb and flow, a composite movement resulting from the changing positions of sun and moon and from the shape of the earth.
+    — Encyclopedia §341, Addition (tr. Miller)
+  The sea contains within it the principle of life (Lebendigkeit) in a more immanent manner than does the land
+    — Encyclopedia §341, Addition (tr. Miller)

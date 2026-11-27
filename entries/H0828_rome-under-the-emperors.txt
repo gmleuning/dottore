@@ -35,8 +35,12 @@ Phr:
   render unto Caesar
 
 # ---- Hegel ----
-Def: Rome under the emperors, where the person is a private right-holder, Christianity arises, and the Byzantine empire continues.
+Def: The period in which the emperor holds all effective power behind an empty constitution, and individuals become persons whose standing lies in private right and property, while the living political body dissolves. In this world without satisfaction Christianity arises as the principle of reconciliation; the Byzantine empire shows how that religion can stay abstract where state and laws are not reshaped to accord with it.
 Texts:
   The Philosophy of History
     The Roman World › Rome under the Emperors
 Citations:
+  Private Right, viz., is this, that the social unit as such enjoys consideration in the state, in the reality which he gives to himself—viz., in property.
+    — The Philosophy of History, The Roman World › Rome under the Emperors (tr. Sibree)
+  The Byzantine Empire is a grand example of how the Christian religion may maintain an abstract character among a cultivated people, if the whole organization of the State and of the Laws is not reconstructed in harmony with its principle.
+    — The Philosophy of History, The Roman World › Rome under the Emperors (tr. Sibree)

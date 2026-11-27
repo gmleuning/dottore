@@ -30,8 +30,12 @@ Phr:
   spends itself only to return
 
 # ---- Hegel ----
-Def: Force expressing itself only to return into itself: its expression is the expression of the force itself.
+Def: The infinity of force overcomes the finitude it has so long as its presupposing and its self-relation fall apart, so that one force appears as external and the other as passive. What force expresses is that its relation to another is its relation to itself, that its passivity consists in its activity: the stimulus that solicits it is its own soliciting. In short, its externality is identical with its inwardness, and so the relation passes into that of outer and inner.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The essential relation › The relation of force and its expression › The infinity of force
 Citations:
+  What force truly expresses, therefore, is that its reference to an other is its reference to itself; that its passivity consists in its activity.
+    — The Science of Logic, The relation of force and its expression › The infinity of force (tr. di Giovanni)
+  In brief, force expresses this, that its externality is identical with its inwardness.
+    — The Science of Logic, The relation of force and its expression › The infinity of force (tr. di Giovanni)

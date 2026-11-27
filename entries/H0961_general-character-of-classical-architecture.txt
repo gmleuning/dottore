@@ -27,8 +27,12 @@ Phr:
   nothing too much
 
 # ---- Hegel ----
-Def: The general character of classical building: purpose determines the form, and beauty lies in the clarity of its fitness.
+Def: The general character of classical architecture is that spiritual meaning does not reside in the building itself but has attained free existence outside it, in sculpture or in living human activity, which architecture serves. The purpose then dominates the whole work and fixes its basic shape, so that neither materials nor the architect's caprice go their own way, and the architect's genius lies in fulfilling the purpose.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › General Character of Classical Architecture
 Citations:
+  In this way this purpose now becomes what rules, what dominates the entire work, and determines its fundamental shape
+    — Aesthetics, Classical Architecture › General Character of Classical Architecture (tr. Knox)
+  [N]either physical materials nor the fancy and caprice of the architect are allowed to go their own way independently, as happens in symbolic architecture, or to develop, beyond utility, a superfluity of various parts and forms, as in romantic architecture.
+    — Aesthetics, Classical Architecture › General Character of Classical Architecture (tr. Knox)

@@ -29,8 +29,14 @@ Phr:
   the whole of the system
 
 # ---- Hegel ----
-Def: The Encyclopaedia, the whole system as a circle of circles: logic, nature and spirit.
+Def: The Encyclopaedia presents philosophy in outline, restricted to the beginnings and fundamental concepts of the particular sciences. Unlike an ordinary encyclopaedia, which is an aggregate of sciences taken up contingently and brought into an external order, it treats the whole of philosophy as one science that may also be considered as made up of several. Each part is a whole that leads beyond itself, so that the whole is a circle of circles.
 Texts:
   The Encyclopaedia Logic
     §§1–18
 Citations:
+  Each of the parts of philosophy is a philosophical whole, a circle that closes upon itself; but in each of them the philosophical Idea is in a particular determinacy or element. Every single circle also breaks through the restriction of its element as well, precisely because it is inwardly [the] totality, and it grounds a further sphere.
+    — Encyclopedia §15 (tr. Geraets, Suchting and Harris)
+  The whole presents itself therefore as a circle of circles, each of which is a necessary moment, so that the system of its peculiar elements constitutes the whole Idea—which equally appears in each single one of them.
+    — Encyclopedia §15 (tr. Geraets, Suchting and Harris)
+  As an Encyclopaedia, science is not presented in the detailed development of its particularisation; instead, it has to be restricted to the beginnings and the fundamental concepts of the particular sciences.
+    — Encyclopedia §16 (tr. Geraets, Suchting and Harris)

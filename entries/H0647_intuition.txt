@@ -35,8 +35,12 @@ Phr:
   by intuition
 
 # ---- Hegel ----
-Def: The mind's immediate knowing of an object it finds: feeling, attention, intuition.
+Def: Intuition is the first stage of intelligence, in which mind finds its material immediately within itself, attends to it and puts it outside itself in space and time. It runs from feeling through attention to intuition proper. Unlike sensory consciousness, which clings to the immediate single object broken into many aspects, intuition is a consciousness filled with the certainty of reason, whose object is a totality, a coherent fullness of determinations.
 Texts:
   The Philosophy of Mind
     §§446–450
 Citations:
+  [I]ntuition is a consciousness filled by the certainty of reason, whose object has the determination of being something rational, consequently not an individual torn asunder into various aspects but a totality, a cohesive fullness of determinations.
+    — Encyclopedia §449, Addition (tr. Wallace and Miller, rev. Inwood)
+  At the standpoint of mere intuition we are outside ourselves, in spatiality and temporality, these two forms of asunderness.
+    — Encyclopedia §450, Addition (tr. Wallace and Miller, rev. Inwood)

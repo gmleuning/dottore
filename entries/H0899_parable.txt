@@ -22,8 +22,12 @@ Phr:
   the parable of the sower [Bible]
 
 # ---- Hegel ----
-Def: Die Parabel: an occurrence from ordinary life given a higher significance, so that the meaning is grasped through the familiar happening, as in the Gospel parables.
+Def: A parable takes events from everyday human life and gives them a deeper and more general meaning, so as to make that meaning intelligible and perceptible through the occurrence. Unlike the fable it draws on human action, enlarging a case that seems trivial into something of general interest. Cyrus' two days of labour and feasting and the Gospel parable of the sower are examples.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Parable, Proverb, Apologue › Parable
 Citations:
+  Parable has with fable the general affinity that it takes up events drawn from the sphere of ordinary life but attributes to them a deeper and more general meaning with the aim of making this meaning intelligible and perceptible through this occurrence
+    — Aesthetics, Parable, Proverb, Apologue › Parable (tr. Knox)
+  The parable of the sower [in all the Synoptics], for example, is a story in itself trivial in content, and it is important only because of the comparison with the doctrine of the Kingdom of Heaven.
+    — Aesthetics, Parable, Proverb, Apologue › Parable (tr. Knox)

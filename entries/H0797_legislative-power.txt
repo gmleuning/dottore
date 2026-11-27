@@ -74,8 +74,12 @@ Phr:
   Money is the mother's milk of politics [Tip O'Neill]
 
 # ---- Hegel ----
-Def: The legislative power, the power to determine the universal.
+Def: The legislative power is concerned with the laws as such, so far as they need further determination, and with internal affairs whose content is wholly universal. It is itself part of the constitution, which it presupposes. Through the Estates it brings the universal interest into existence for itself, as public consciousness.
 Texts:
   The Philosophy of Right
     §§298–320
 Citations:
+  The legislative power is concerned (a) with the laws as such in so far as they require fresh and extended determination; and (b) with those internal affairs whose content is wholly universal.
+    — The Philosophy of Right §298 (tr. Knox, rev. Houlgate)
+  The Estates have the function of bringing the universal interest into existence not only in itself [an sich], but also for itself [für sich], i.e. of bringing into existence the moment of subjective formal freedom, public consciousness as the empirical universality of the thoughts and opinions of the many.
+    — The Philosophy of Right §301 (tr. Knox, rev. Houlgate)

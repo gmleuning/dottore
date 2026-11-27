@@ -8,8 +8,12 @@ N:
   satisfaction and identification; satisfaction
 
 # ---- Hegel ----
-Def: The self finding its own self-identity in the satisfaction of its desire, and with it the need of another self.
+Def: Satisfaction and identification complete the process of desire. Its product is that the I closes with itself and is satisfied for itself, though outwardly still single and prey to the endless alternation of desire and satisfaction. Inwardly, in negating immediacy, the result has the character of universality and of the identity of self-consciousness with its object: it posits otherness within itself and changes the selfless object into a free one, another I.
 Texts:
   The Philosophy of Mind
     §§428–429
 Citations:
+  The product of this process is that I joins together with itself, and is thereby satisfied for itself, actualized.
+    — Encyclopedia §428 (tr. Wallace and Miller, rev. Inwood)
+  But the self-feeling which the I gets in the satisfaction does not, on the inner side or in itself, remain in abstract being-for-self or in its individuality; as the negation of immediacy and of individuality the result involves the determination of universality and of the identity of self-consciousness with its object.
+    — Encyclopedia §429 (tr. Wallace and Miller, rev. Inwood)

@@ -12,8 +12,12 @@ Adj:
   dactylic, iambic, trochaic, spondaic, anapaestic, anapestic†
 
 # ---- Hegel ----
-Def: The syllabic time-relations, the feet, which bind long and short syllables into definite proportions.
+Def: Feet are the time relations of syllables into which poetry binds long and short. The simplest are relations of equals, such as the dactyl and anapaest, where two shorts may be gathered into a long as a spondee; a long beside a short makes a more marked difference, as in iambus and trochee; more complex are the cretic and bacchius.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  The simplest of these is the relation of equals to one another, e.g. the dactyl and the anapaest, in which the short syllables may be brought together again, on specific rules, into a long one, so as to produce a spondee.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  Secondly, a long syllable may be placed beside a short one, so that a more profound difference in duration is produced, even if in the simplest form, as in an iambus or a trochee.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

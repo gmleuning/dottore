@@ -33,8 +33,12 @@ Phr:
   here, there and everywhere
 
 # ---- Hegel ----
-Def: Space and time posited in their unity: the here that is equally a now, and the vanishing and self-renewing of place, which is motion.
+Def: Place and motion are the unity of space and time. Each collapses into the other, for space is a contradiction of indifferent asunderness and continuity and passes into time, and time falls back into space. The point made concrete through time is place, the here that is also a now; and place passing into another place, with time positing itself spatially, is motion.
 Texts:
   The Philosophy of Nature
     §§260–261
 Citations:
+  Space is within itself the contradiction of indifferent asunderness and differenceless continuity, the pure negativity of itself, and the transition, first of all, into time.
+    — Encyclopedia §260 (tr. Miller)
+  This vanishing and self-regeneration of space in time and of time in space, a process in which time posits itself spatially as place, but in which place, too, as indifferent spatiality, is immediately posited as temporal: this is Motion.
+    — Encyclopedia §261 (tr. Miller)

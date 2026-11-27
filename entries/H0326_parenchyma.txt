@@ -15,8 +15,10 @@ Phr:
   omnis cellula e cellula [Lat.] [Virchow]
 
 # ---- Hegel ----
-Def: The regular cellular tissue, the plant's undifferentiated substance from which its other formations arise.
+Def: The general texture of the plant is cellular tissue, made up, as in the animal organism, of small cells, a universal product of animal and vegetable life. In the botanical account Hegel quotes, its regular, loose, spongy form with broad cells is the parenchyma, found especially in bark and pith, unlike the tight, fibrous bast with its narrow cells.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  The general texture of the plant is formed by cellular tissue which, as in the animal organism, consists of small cells; it is the universal animal and vegetable product—the fibrous constituent (Moment).
+    — Encyclopedia §346, Addition (tr. Miller)

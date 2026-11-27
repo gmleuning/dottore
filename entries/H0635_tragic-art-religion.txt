@@ -34,8 +34,12 @@ Phr:
   a tragic flaw
 
 # ---- Hegel ----
-Def: Tragedy, in which actors wearing masks speak the self of the ethical powers that collide, and destiny reigns.
+Def: Tragedy is the higher language that draws together the scattered moments of the divine world and the world of action. Its speech is no longer narrative: the hero speaks in person, showing the audience self-conscious people who know their rights and purposes and can state them. They are artists who express the inner essence and the pathos to which they belong, and are actual people who put on the masks of the heroes, so that the actor is essential to the mask.
 Texts:
   The Phenomenology of Spirit
     ¶¶733–743
 Citations:
+  The hero is himself the speaker, and the performance shows the listener, who is at the same time also an onlooker, self-conscious people who know their own rights and purposes, the power and the will of their determinateness, and who know how to state those things.
+    — The Phenomenology of Spirit ¶733 (tr. Pinkard)
+  Just as it is essential for a statuary column to be made by human hands, the actor is likewise essential to his mask
+    — The Phenomenology of Spirit ¶733 (tr. Pinkard)

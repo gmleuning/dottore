@@ -60,8 +60,12 @@ Phr:
   omnes stultos insanire [Lat.] [Horace]
 
 # ---- Hegel ----
-Def: The self fixed in a particular feeling it cannot integrate into its world, the contradiction of a rational being held by an idea.
+Def: Derangement arises when a subject, though educated to intellectual consciousness, remains fast in a particularity of its self-feeling that it cannot refine into ideality and overcome. It fails to give that content its intelligible, subordinate place in its world, and so stands in contradiction between the totality systematized in its consciousness and this one rigid determinacy. It is no abstract loss of reason but a contradiction within reason still present, and humane treatment therefore presupposes the patient's rationality.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  In this way the subject finds itself in the contradiction between its totality systematized in its consciousness, and the particular determinacy in that consciousness, which is not pliable and integrated into an overarching order. This is derangement.
+    — Encyclopedia §408 (tr. Wallace and Miller, rev. Inwood)
+  The genuine psychical treatment therefore keeps firmly in view the fact that derangement is not an abstract loss of reason, whether in respect of intelligence or of the will and its responsibility, but only derangement, only a contradiction within the reason that is still present
+    — Encyclopedia §408, Remark (tr. Wallace and Miller, rev. Inwood)

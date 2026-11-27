@@ -56,8 +56,10 @@ Phr:
   apres nous le deluge [Fr.]
 
 # ---- Hegel ----
-Def: The subject's right to find its satisfaction in its deed, its welfare.
+Def: Self-satisfaction and welfare are the subject's right to find its own particular satisfaction in its deed. Satisfaction, including honour and fame, belongs to the achievement of ends valid in themselves, so the view that objective and subjective ends exclude each other is a dogma of the abstract understanding.
 Texts:
   The Philosophy of Right
     §§121–124
 Citations:
+  Since the subjective satisfaction of the individual himself (including the recognition which he receives by way of honour and fame) is also part and parcel of the achievement of ends that are valid in and for themselves
+    — The Philosophy of Right §124 (tr. Knox, rev. Houlgate)

@@ -85,8 +85,12 @@ Phr:
   dyed blue, you turn blue, dyed yellow, you turn yellow, ran yu cang ze cang, ran yu huang ze huang [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: The education of children, which raises them out of their natural immediacy to independence.
+Def: The upbringing of children is the education that raises them from natural immediacy to independent personality. Children have the right to maintenance and education from the family's common resources, and the parents' right over their will is limited to discipline and education. Education aims to instill ethical principles and to lead children out of childishness.
 Texts:
   The Philosophy of Right
     §§174–175
 Citations:
+  Children have the right to maintenance and education at the expense of the family’s common resources. The right of the parents to their children’s services, as services, is based upon and is restricted to the common task of looking after the family generally. Similarly, the right of the parents over the arbitrary will of their children is determined by the object in view—discipline and education.
+    — The Philosophy of Right §174 (tr. Knox, rev. Houlgate)
+  The play theory of education assumes that what is childish is itself already something of inherent worth and presents it as such to the children; in their eyes it lowers serious pursuits, and education itself, to a form of childishness for which the children themselves have scant respect.
+    — The Philosophy of Right §175, Remark (tr. Knox, rev. Houlgate)

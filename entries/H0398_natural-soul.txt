@@ -33,8 +33,12 @@ Phr:
   at one with nature
 
 # ---- Hegel ----
-Def: The soul in its immediate natural determinacy, which merely is and shares the life of nature.
+Def: The natural soul is the soul that simply is, with natural determinacies in it. The universal soul is no world-soul standing as a subject apart: it is only universal substance, which has its actual truth as individuality. So it exists as an individual soul, but at first one whose determinations are natural qualities that it has in itself, not objects it confronts. These qualities, the alterations the individual undergoes, and sensation make up the stages by which the soul moves from universal naturalness toward individuality that is for itself.
 Texts:
   The Philosophy of Mind
     §§391–402
 Citations:
+  The universal soul must not be fixed, in the form of a world-soul, as a sort of subject; for the universal soul is only the universal substance, which has its actual truth only as individuality, subjectivity. Thus it presents itself as an individual soul, but immediately only as a soul which just is, with natural determinacies in it.
+    — Encyclopedia §391 (tr. Wallace and Miller, rev. Inwood)
+  Rather, these determinations are natural qualities which it has in itself.
+    — Encyclopedia §391 (tr. Wallace and Miller, rev. Inwood)

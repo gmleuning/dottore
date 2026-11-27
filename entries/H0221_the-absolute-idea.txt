@@ -38,8 +38,12 @@ Phr:
   the alpha and omega
 
 # ---- Hegel ----
-Def: The idea that knows itself, the concept of the idea as its own object: pure form, which is the method.
+Def: The absolute idea is the identity of the theoretical and the practical idea: the rational concept that in its reality rejoins only itself, free subjective concept with personality that is at the same time universality and cognition, with its other as its object. It alone is being, imperishable life and self-knowing truth. It is the sole content of philosophy, which shares that content with art and religion but apprehends it in the highest way, through the concept.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The absolute idea
 Citations:
+  All the rest is error, confusion, opinion, striving, arbitrariness, and transitoriness; the absolute idea alone is being, imperishable life, self-knowing truth, and is all truth.
+    — The Science of Logic, The absolute idea (tr. di Giovanni)
+  Philosophy has the same content and the same purpose as art and religion, but it is the highest
+    — The Science of Logic, The absolute idea (tr. di Giovanni)

@@ -26,8 +26,12 @@ Phr:
   known by their tokens
 
 # ---- Hegel ----
-Def: Die Attribute: the signs, eagle, owl, trident or thyrsus, by which the individual gods are told apart, marks whose meaning is often only conventional.
+Def: Attributes proper in sculpture lose their independent and symbolic character and appear only beside the figure as external signs related to some aspect of a particular god, often animals, as Zeus's eagle or Juno's peacock, or tools such as the thyrsus of Bacchus. Antiquaries have pursued them pedantically, and since several gods share some, they do not always identify one alone.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment
 Citations:
+  In sculpture these lose their independent and symbolic character still more, and they only retain the right of appearing on or beside the figure, which represents itself alone, as an external indication closely related to one or other aspect of the specific gods.
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment (tr. Knox)
+  Yet even so here again the difficulty arises that the attributes, like the figure, do not every time serve to identify one god only, because they are common to several.
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment (tr. Knox)

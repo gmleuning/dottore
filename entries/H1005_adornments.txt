@@ -23,8 +23,12 @@ Adj:
   bejeweled
 
 # ---- Hegel ----
-Def: Der Schmuck: ornament and adornment, which ideal sculpture keeps sparing so that the figure's own form is not overlaid.
+Def: Adornment is among the external accessories that great sculpture keeps simple and sparing, since the figure itself and its expression, not outward ornament, must give the spiritual meaning. Ornaments and hairdress still help distinguish gods, as Winckelmann observed of the rising locks of Zeus or Ceres' diadem; a viper bracelet misled scholars into seeing Cleopatra.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment
 Citations:
+  For it is the figure in itself, its expression, and not the external accessory, which is to provide the spiritual meaning and our sight of it.
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment (tr. Knox)
+  But it was the general practice of Greek women to wear bracelets like the coils of a snake, and the bracelets themselves are called ‘snakes’.
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment (tr. Knox)

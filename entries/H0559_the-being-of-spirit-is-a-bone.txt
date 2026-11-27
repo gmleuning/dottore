@@ -29,8 +29,12 @@ Phr:
   the highest and the lowest
 
 # ---- Hegel ----
-Def: The infinite judgment that spirit is a bone, in which the highest and lowest are crudely identified.
+Def: The proposition that the being of spirit is a bone is where observing reason ends: the certainty of reason seeking itself as an objective actuality says that spirit is, that it is a thing. Its true meaning is the infinite judgement that the self is a thing, a judgement which cancels itself, since the thing is thereby shown to be the unity of the I and being. Held fast as an enduring proposition by representational thought, which fixes self and thing apart, it is reason grasped irrationally.
 Texts:
   The Phenomenology of Spirit
     ¶¶343–346
 Citations:
+  Of spirit it is simply to be said, “it is.” However much it is otherwise said of spirit that it is, it has a being, it is a thing, a singular actuality, still it is not thereby meant that it is something we can see, or take in our hands, or push around and so forth, but that is what is said of it, and what in truth the foregoing has been saying may be expressed in this way: The being of spirit is a bone.
+    — The Phenomenology of Spirit ¶343 (tr. Pinkard)
+  This proposition is the infinite judgment that the self is a thing – a judgment which sublates itself.
+    — The Phenomenology of Spirit ¶344 (tr. Pinkard)

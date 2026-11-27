@@ -26,8 +26,12 @@ Phr:
   unschuldig ist daher nur das Nichttun [Ger.] [Hegel, Phenomenology]
 
 # ---- Hegel ----
-Def: Die Schuld: the deed is itself guilt, for in acting on one side of the ethical substance it injures the other; only non-action is innocent.
+Def: Guilt arises because the ethical essence is the unity of both laws while the deed carries out only one. In fulfilling one law, action calls up the other as a violated and hostile essence demanding revenge. Only one side of the decision lies in the light; actuality keeps hidden the other, which comes forth after the deed has been done. The agent can deny neither the crime nor the guilt, for the deed joins the conscious to the unconscious and one's own to what is alien.
 Texts:
   The Phenomenology of Spirit
     ¶¶468–471
 Citations:
+  The essence is the unity of both, but the deed has only carried out the terms of one law in opposition to the other.
+    — The Phenomenology of Spirit ¶468 (tr. Pinkard)
+  The agent can neither deny the crime nor deny his guilt.
+    — The Phenomenology of Spirit ¶468 (tr. Pinkard)

@@ -31,8 +31,14 @@ Phr:
   to grasp the whole
 
 # ---- Hegel ----
-Def: The concept grasping itself, science as spirit's knowledge of itself in its pure element.
+Def: Science, the concept grasping itself, is spirit that has won the pure element of its existence. The differences of consciousness that burdened its shapes are closed: the moments no longer appear as shapes of consciousness but as determinate concepts and their organic, self-grounded movement, in each of which truth and self-knowing are immediately one. Time, the concept merely intuited, is erased when the concept grasps itself. To each abstract moment of science there corresponds a shape of appearing spirit.
 Texts:
   The Phenomenology of Spirit
     ¶¶798–805
 Citations:
+  Spirit has won the pure element of its existence, the concept.
+    — The Phenomenology of Spirit ¶805 (tr. Pinkard)
+  The moments of its movement no longer exhibit themselves in that movement as determinate shapes of consciousness; rather, as the difference in consciousness has returned into the self, the moments exhibit themselves as determinate concepts and as the organic self-grounded movement of these concepts.
+    — The Phenomenology of Spirit ¶805 (tr. Pinkard)
+  As this concept grasps itself, it sublates its temporal form, conceptually comprehends the intuiting, and is conceptually comprehended and conceptually comprehending intuiting.
+    — The Phenomenology of Spirit ¶801 (tr. Pinkard)

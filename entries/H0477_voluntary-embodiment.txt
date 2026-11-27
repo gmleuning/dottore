@@ -29,8 +29,12 @@ Phr:
   body language
 
 # ---- Hegel ----
-Def: The soul's deliberate shaping of the body as its sign and instrument.
+Def: Voluntary embodiment is the bodily expression the soul produces with freedom, when it is no longer confined to the involuntary expression of its sensations but appears in the body with all the freedom it has won. It gives the human body a mental stamp that sets human beings apart from animals far more than any natural trait. It is concentrated chiefly in the face, and shows itself in posture, in the play of features and in gesture. Through habit such expressions become mechanical, needing no special effort of will.
 Texts:
   The Philosophy of Mind
     §411
 Citations:
+  By contrast, the embodiments occurring with freedom and now to be discussed, impart to the human body a peculiar mental stamp, by which man is distinguished from animals far more than by any mere natural determinacy.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)
+  But the mental expression is concentrated mainly in the face, because the head is the real seat of the mental.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)

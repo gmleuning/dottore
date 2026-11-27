@@ -32,8 +32,12 @@ Phr:
   to wander in one's mind
 
 # ---- Hegel ----
-Def: A rambling in which the mind cannot hold fast to anything, a self that loses its connecting thread.
+Def: Rambling, or desipience, is the counterpart of absent-mindedness: an interest taken in everything that springs from the inability to fix attention on anything determinate, so that the sufferer stumbles from one object to another. It is mostly incurable. It always comes from a weakness in the power of intellectual consciousness to hold together the whole of its representations, and it often passes into delirium, an unconscious reversal of what is immediately present.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  Rambling springs from inability to fix attention on anything determinate, and consists in the illness of stumbling from one object to another.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  Rambling always stems from a weakness of the power of intellectual consciousness to hold together the entirety of its representations.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

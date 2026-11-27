@@ -28,8 +28,12 @@ Phr:
   some but not all
 
 # ---- Hegel ----
-Def: Some singulars are universal; positive and negative at once, pointing toward totality.
+Def: The particular judgement takes as subject not this one but some: the singular extended by external reflection. Its form is that some singulars are a universal of reflection. It looks positive but is just as much negative, since some is both comprehensive and short of universality, so that "some humans are happy" at once implies that some are not. Positive and negative here no longer fall apart, but the judgement remains indeterminate.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of reflection › The particular judgment
 Citations:
+  The non-singularity of the subject that must be posited in the first judgment of reflection instead of the subject’s singularity is particularity.
+    — The Science of Logic, The judgment of reflection › The particular judgment (tr. di Giovanni)
+  The positive and the negative judgment no longer fall outside one another, but the particular immediately contains both at the same time, precisely because it is a judgment of reflection.
+    — The Science of Logic, The judgment of reflection › The particular judgment (tr. di Giovanni)

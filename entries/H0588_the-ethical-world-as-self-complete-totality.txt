@@ -29,8 +29,12 @@ Phr:
   all in order
 
 # ---- Hegel ----
-Def: The ethical world as a balanced totality, at rest before action disturbs it.
+Def: The ethical world as a self-complete totality is a peaceful equilibrium of all its parts, each a local spirit that seeks no satisfaction beyond itself because it is in balance with the whole. The balance is living: inequality arises and is brought back to equality by justice, the government of the people and the avenging spirit of the family. Undivided and unpolluted, the ethical realm moves by one of its powers peacefully becoming the other, and the union of man and woman is the middle that joins them.
 Texts:
   The Phenomenology of Spirit
     ¶¶461–463
 Citations:
+  The whole is a peaceful equilibrium of all the parts, and each part is a local spirit that does not seek its satisfaction beyond itself.
+    — The Phenomenology of Spirit ¶461 (tr. Pinkard)
+  The ethical realm is in this way an undefiled world in its stable existence, a world unpolluted by any division. Likewise, its movement consists in one of its powers peacefully coming to be the other so that each preserves and brings forth the other.
+    — The Phenomenology of Spirit ¶462 (tr. Pinkard)

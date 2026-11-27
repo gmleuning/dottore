@@ -25,8 +25,12 @@ Phr:
   the old order passes
 
 # ---- Hegel ----
-Def: The process by which classical art arises, from the degradation of animal forms to the victory of the new gods.
+Def: The shaping of classical art is the process by which spirit withdraws into itself from nature, lifts itself above it and overcomes it, so that it can make nature a positive existence of its freedom. What it transcends is not bare nature but the symbolic form, with its gods seen in animals; invalidating and transforming this false link produces the ideal. Greek formation of foreign material is essentially negative transformation.
 Texts:
   Aesthetics
     The Classical Form of Art › The Process of Shaping the Classical Art-Form
 Citations:
+  The spirit must first withdraw into itself from nature, lift itself above it, and overcome it, before it can prevail in it without hindrance as in an element which cannot withstand it, and transform it into a positive existence of its own freedom.
+    — Aesthetics, The Classical Form of Art › The Process of Shaping the Classical Art-Form (tr. Knox)
+  It is by invalidating and transforming this false linkage that the Ideal first produces itself as the Ideal, and therefore has to develop within itself, as a factor belonging to itself, what is to be overcome.
+    — Aesthetics, The Classical Form of Art › The Process of Shaping the Classical Art-Form (tr. Knox)

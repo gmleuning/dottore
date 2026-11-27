@@ -30,8 +30,14 @@ Phr:
   the measure of all things
 
 # ---- Hegel ----
-Def: Reason's certainty that it is all reality, idealism's first, abstract assertion.
+Def: Reason's certainty of being all reality is idealism as consciousness first expresses it: I am I, an object with the consciousness that nothing other has being. Self-consciousness, whose singular individuality has proved to be in itself the absolute essence, now discovers the world as its own and takes an interest in its continuing existence. It must be this reality not only for itself but in itself, by proving it. At first the certainty has forgotten the path that justifies it, and its reality is only a pure abstraction, the simple category.
 Texts:
   The Phenomenology of Spirit
     ¶¶231–239
 Citations:
+  This middle expresses this unity to consciousness and thereby expresses itself to itself, the certainty of being all truth.
+    — The Phenomenology of Spirit ¶231 (tr. Pinkard)
+  It is a singular object; it is all reality and presence. However, not only is self-consciousness for itself all reality; it is also in itself all reality, as a result of its becoming this reality, or, instead by proving itself to be this reality.
+    — The Phenomenology of Spirit ¶233 (tr. Pinkard)
+  It therefore conducts itself as idealism in relation to actuality.
+    — The Phenomenology of Spirit ¶232 (tr. Pinkard)

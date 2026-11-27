@@ -33,8 +33,12 @@ Phr:
   living like a dog
 
 # ---- Hegel ----
-Def: The Cynics, who held the good to be freedom from needs.
+Def: The Cynics made freedom and indifference, in thought and in actual living, the principle of the human vocation, over against all particular ends, needs, and enjoyments. Culture was to lead not only to inward independence from such things but expressly to dispensing with them, confining one's needs to what nature immediately requires: a flight from enjoyment.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Socratic Schools › The Cynics
 Citations:
+  At least initially the principle erected by the Cynics for governing the human vocation was one of freedom and indifference on the part of thought and of actual living, over against all particular ends, needs, and types of enjoyment.
+    — Lectures on the History of Philosophy 1825–6, The Socratic Schools › The Cynics (tr. Brown)
+  [B]ut also expressly to dispense with them, to confine one's needs to what was necessary, to the immediate requirements of nature.
+    — Lectures on the History of Philosophy 1825–6, The Socratic Schools › The Cynics (tr. Brown)

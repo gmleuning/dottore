@@ -37,8 +37,12 @@ Phr:
   the perfection of art is to conceal art [Quintilian]
 
 # ---- Hegel ----
-Def: Beautiful individuality, the ideal as the spirit's free, self-enclosed shape, serene in its blessedness.
+Def: The ideal as such is beautiful individuality, gathered into itself as total subjective unity and independence out of the divisions of finite life. Among its basic characteristics are serene peace and bliss, self-enjoyment in its own achievement: the ideal work confronts us like a blessed god. This serenity is no easy contentment but the triumph of concrete freedom, kept even in the seriousness of grief.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Ideal as Such
 Citations:
+  In this respect, amongst the fundamental characteristics of the Ideal we may put at the top this serene peace and bliss, this self-enjoyment in its own achievedness and satisfaction. The ideal work of art confronts us like a blessed god.
+    — Aesthetics, The Beauty of Art or the Ideal › The Ideal as Such (tr. Knox)
+  This force of individuality, this triumph of concrete freedom concentrated in itself, is what we recognize especially in the works of art of antiquity in the cheerful and serene peace of their shapes.
+    — Aesthetics, The Beauty of Art or the Ideal › The Ideal as Such (tr. Knox)

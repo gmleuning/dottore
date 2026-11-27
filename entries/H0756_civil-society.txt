@@ -35,8 +35,12 @@ Phr:
   the rat race
 
 # ---- Hegel ----
-Def: The ethical substance lost in its extremes: the concrete person as an end, related to others as means, the system of all-round dependence.
+Def: Civil society is the sphere of difference between family and state, in which the ethical unity is lost in its extremes. The concrete person, a totality of needs, is its own end, yet attains satisfaction only through others, so that a system of all-round interdependence arises. It comprises the system of needs, the administration of justice, and the public authority and corporation.
 Texts:
   The Philosophy of Right
     §§182–256
 Citations:
+  The concrete person, who as a particular person is his own end, is, as a totality of needs and a mixture of caprice and natural necessity, one principle of civil society. But the particular person is essentially so related to other particular persons that each asserts himself and finds satisfaction by means of the others
+    — The Philosophy of Right §182 (tr. Knox, rev. Houlgate)
+  [T]here is formed a system of complete interdependence, wherein the livelihood, welfare, and rightful existence [rechtliches Dasein] of one individual are interwoven with the livelihood, welfare, and rights of all.
+    — The Philosophy of Right §183 (tr. Knox, rev. Houlgate)

@@ -45,8 +45,12 @@ Phr:
   anytime you're ready
 
 # ---- Hegel ----
-Def: The singular is a universal: the rose is red; the subject is not wholly its predicate, so the judgment is untrue.
+Def: The positive judgement connects an immediate singular subject with an abstract universal predicate by a copula that means only immediate being, without mediation or negation. Its first expression is the proposition that the singular is universal. What it says is correct, but it is not true: the singular is not merely universal, nor is the universal this single quality, so that it contradicts itself and has its truth in the negative judgement.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of existence › The positive judgment
 Citations:
+  The first pure expression of the positive judgment is, therefore, the proposition: the singular is universal.
+    — The Science of Logic, The judgment of existence › The positive judgment (tr. di Giovanni)
+  It is because of this connection, which still does not contain any mediation or negation, that this judgment is called “positive.”
+    — The Science of Logic, The judgment of existence › The positive judgment (tr. di Giovanni)

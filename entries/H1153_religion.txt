@@ -42,8 +42,12 @@ Phr:
   the opium of the people [Marx]
 
 # ---- Hegel ----
-Def: Absolute spirit in the form of representation: the truth for everyone, known in feeling, image and devotion.
+Def: Religion is the consciousness of absolute truth in the way that it occurs for all human beings, and therefore primarily in the form of representation. Philosophy has the same content and only transforms representation into concepts. Within religion God is felt, pictured and thought, and in worship the subject joins itself with God. God can be known, for it is God's nature to be revealed.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827)
 Citations:
+  [R]eligion is the consciousness of absolute truth in the way that it occurs for all human beings. Thus it is found primarily in the form of representation.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) (tr. Brown, Hodgson and Stewart)
+  Philosophy does nothing but transform our representation into concepts. The content remains always the same.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) (tr. Brown, Hodgson and Stewart)

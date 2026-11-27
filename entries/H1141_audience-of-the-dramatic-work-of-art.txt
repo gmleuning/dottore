@@ -33,8 +33,12 @@ Phr:
   playing to the gallery
 
 # ---- Hegel ----
-Def: The public, whose understanding and approval the drama must win.
+Def: The relation of drama to its public is unlike that of epic or lyric, whose readers may simply lay a work aside: a drama faces an assembled audience for which it is written and to which the author is beholden, and which may praise or blame. The audience is mixed in taste, but contempt for it, fashionable since Tieck, misses drama's proper effect.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Drama as a Poetical Work of Art › Relation of the Dramatic Work of Art to the Public
 Citations:
+  It is quite otherwise with dramatic productions. They are confronted by a specific public for which they are supposedly written, and the author is beholden to it.
+    — Aesthetics, The Drama as a Poetical Work of Art › Relation of the Dramatic Work of Art to the Public (tr. Knox)
+  Of course the dramatist is always left with the expedient of despising the public, but, if he does, he misses his aim precisely in relation to his most proper mode of operation.
+    — Aesthetics, The Drama as a Poetical Work of Art › Relation of the Dramatic Work of Art to the Public (tr. Knox)

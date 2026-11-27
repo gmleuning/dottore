@@ -53,8 +53,12 @@ Phr:
   free white and twenty-one
 
 # ---- Hegel ----
-Def: The will that has freedom as its content and end: free spirit, which must become objective.
+Def: Free mind is the unity of theoretical and practical mind: the actual free will that has shed the formalism and contingency of its former content and, thinking itself, has freedom itself as its object and purpose. It is rational will, the idea but at first only the concept of absolute mind, and must develop into objectivity, into legal, ethical and religious actuality. The idea of this freedom came into the world through Christianity.
 Texts:
   The Philosophy of Mind
     §§481–482
 Citations:
+  The will has this universal determination as its object and purpose, in that it thinks itself, is aware of this concept of itself, is will as free intelligence.
+    — Encyclopedia §481 (tr. Wallace and Miller, rev. Inwood)
+  If knowledge of the Idea, i.e. of men's knowledge that their essence, purpose, and object is freedom, is speculative, then this Idea itself as such is the actuality of men, not an Idea that they have about it, but an Idea that they are.
+    — Encyclopedia §482, Remark (tr. Wallace and Miller, rev. Inwood)

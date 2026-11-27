@@ -22,8 +22,12 @@ Phr:
   nicht etwa jetzt und gestern, sondern immerdar lebt es, und keiner weiß, von wannen es erschien [Ger.] [Sophocles, quoted by Hegel, Phenomenology]
 
 # ---- Hegel ----
-Def: Das göttliche Wissen: the knowledge of the divine law, unwritten and eternal, of which no one knows whence it came; kept by woman and the family.
+Def: Divine knowledge is the knowing of the consciousness that belongs to the divine law, which sees in the law of the state merely human, contingent violence, while its own law has the meaning of the netherworld, sealed up in inwardness. With ethical knowing there arises the opposition of the known and the not known, as in substance there was one of the conscious and the unconscious, so that the absolute right of ethical self-consciousness comes into conflict with the divine right of essence.
 Texts:
   The Phenomenology of Spirit
     ¶¶465–467
 Citations:
+  While it sees right only on its own side and sees only wrong on the other, the consciousness that belongs to divine law beholds on the other side human, contingent violence
+    — The Phenomenology of Spirit ¶465 (tr. Pinkard)
+  There thereby arises in consciousness the opposition between the known and the not known, just as in substance, there was an opposition between the conscious and the unconscious, and the absolute right of ethical self-consciousness comes into conflict with the divine right of essence.
+    — The Phenomenology of Spirit ¶466 (tr. Pinkard)

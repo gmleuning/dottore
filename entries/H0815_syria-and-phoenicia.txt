@@ -16,8 +16,12 @@ Adj:
   Syrian, Phoenician
 
 # ---- Hegel ----
-Def: Syrien und das semitische Vorderasien: Phoenician industry and navigation, the cult of Adonis and its lament for the dead god, under Persian rule.
+Def: The coastal part of the empire, with rich trading cities such as Tyre and Sidon, whose Phoenician seafarers introduce a new principle: industry, in which human will, courage and intelligence work upon nature in place of dependence on its bounty. Beside the worship of Hercules stands that of Adonis, a funeral festival lamenting the departed god.
 Texts:
   The Philosophy of History
     The Oriental World › Persia › The Persian Empire and its Constituent Parts › Syria and the Semitic Western Asia
 Citations:
+  This opens to us an entirely new principle. Inactivity ceases, as also mere rude valour; in their place appears the activity of Industry, and that considerate courage which, while it dares the perils of the deep, rationally bethinks itself of the means of safety.
+    — The Philosophy of History, The Persian Empire and its Constituent Parts › Syria and the Semitic Western Asia (tr. Sibree)
+  The feast of Adonis was very similar to the worship of Osiris—the commemoration of his death;—a funeral festival, at which the women broke out into the most extravagant lamentations over the departed god.
+    — The Philosophy of History, The Persian Empire and its Constituent Parts › Syria and the Semitic Western Asia (tr. Sibree)

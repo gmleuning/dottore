@@ -45,8 +45,10 @@ Phr:
   tria juncta in uno [Lat.]
 
 # ---- Hegel ----
-Def: Cohesion with another body, the adhering of a body to the surface of another.
+Def: At first the specific mode in which cohesion holds material parts together is posited in them as merely different, not yet withdrawn into a self-enclosed shape. It therefore shows itself only in the relationship between masses that differ in cohesion, as a peculiar mode of resistance in their mechanical response to other masses, an immanent way of holding together.
 Texts:
   The Philosophy of Nature
     §295
 Citations:
+  This, consequently specific, mode of the holding together of the material parts is at first posited in these parts as merely different, as not yet withdrawn into a self-enclosed totality (Shape); it is therefore manifest only in the relationship between masses which are similarly different and different in respect of cohesion, and it thus shows itself to be a peculiar mode of resistance in the mechanical response to other masses.
+    — Encyclopedia §295 (tr. Miller)

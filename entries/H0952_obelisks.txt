@@ -33,8 +33,12 @@ Phr:
   reaching for the sun
 
 # ---- Hegel ----
-Def: The obelisks, which receive the sun's rays and bear its signs.
+Def: Obelisks are Egyptian works between architecture and sculpture whose form is not taken from living nature but is purely regular, without yet serving as house or temple. They stand freely as symbols meaning the sun's rays, dedicated to the sun god, whose rays they were to catch. Hegel sets beside them the colossal seated Memnon figures and the sphinxes.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture › Obelisks
 Citations:
+  Amongst these are obelisks which do not derive their form from the living organic life of nature, from plants and animals or the human form
+    — Aesthetics, Architectural Works wavering between Architecture and Sculpture › Obelisks (tr. Knox)
+  [T]hey stand freely on their own account and independently and are symbols meaning the rays of the sun.
+    — Aesthetics, Architectural Works wavering between Architecture and Sculpture › Obelisks (tr. Knox)

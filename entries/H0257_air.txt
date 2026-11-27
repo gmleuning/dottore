@@ -47,8 +47,12 @@ Phr:
   up in the air
 
 # ---- Hegel ----
-Def: The element of undifferentiated simplicity, a universality that is passive yet devours everything individual.
+Def: Air is the element of undifferentiated simplicity, no longer light's positive self-identity but a negative universality, reduced to a moment and therefore heavy. Harmless in appearance, it is an insidious power consuming what is individual and organic; toward light it is passive and transparent, outwardly an elastic fluid pervading everything. It is the universal posited as passive, indeterminate but absolutely determinable.
 Texts:
   The Philosophy of Nature
     §282
 Citations:
+  As negative universality, this identity is the harmless-seeming but insidious and consuming power over what is individual and organic.
+    — Encyclopedia §282 (tr. Miller)
+  Air is indeterminate but absolutely determinable: it is not yet immanently determined, but is only capable of being determined by its other
+    — Encyclopedia §282, Addition (tr. Miller)

@@ -24,8 +24,10 @@ Phr:
   abstraktere Gesamtmasse der Arbeit für einzelne Bedürfnisse, aber eines allgemeineren Bedarfs [Ger.] [Hegel, Philosophy of Right §204]
 
 # ---- Hegel ----
-Def: The estate of manufacturers, which works as a more abstract mass of labour for single needs but for a more general demand (§204).
+Def: The estate of manufacturers is the second branch of the business estate, whose work is more abstract: mass-production that still satisfies individual needs, but needs in more universal demand. It stands between craftsmanship, which works to order for the single customer, and trade, which deals only in exchange.
 Texts:
   The Philosophy of Right
     §204
 Citations:
+  [W]ork of a more abstract kind, mass-production to satisfy individual needs, but needs in more universal demand—manufacture
+    — The Philosophy of Right §204 (tr. Knox, rev. Houlgate)

@@ -35,8 +35,12 @@ Phr:
   on its own terms
 
 # ---- Hegel ----
-Def: Measure become a self-subsistent something, which is itself a unity of measures in ratio to others.
+Def: Real measure is measure determined as a connection of the measures that make up the quality of distinct self-subsisting somethings, or things: no longer abstract qualities such as space and time, but specific gravity and chemical properties. Such an independent measure relates to others and specifies them, forming a series of measures. Some of these relations are exclusive elective affinities, which form a nodal line of self-subsisting things, and out of the progression there emerges the measureless, in which anything self-subsisting stands in negative relation to itself.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Real measure
 Citations:
+  Measure is now determined as a connection of measures that make up the quality of distinct self-subsisting somethings
+    — The Science of Logic, Measure › Real measure (tr. di Giovanni)
+  Third, what emerges in this progression for measure, however, is the measureless: the measureless in general and more specifically the infinitude of measure in which the mutually exclusive forms of self-subsistence are one with each other, and anything self-subsistent comes to stand in negative reference to itself.
+    — The Science of Logic, Measure › Real measure (tr. di Giovanni)

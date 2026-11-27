@@ -27,8 +27,12 @@ Phr:
   from round arch to pointed
 
 # ---- Hegel ----
-Def: The styles of romantic building, from the Romanesque to the Gothic and the secular.
+Def: The different styles of romantic building are the Romanesque, developed from Roman architecture, the Gothic proper that arose in the thirteenth century, and the secular building of the Middle Ages. Hegel offers remarks on their chief forms, not a history, tracing the Christian basilica to public imperial halls and keeping the older name Gothic.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture › Different Styles in Romantic Architecture
 Citations:
+  The last matter on which I will add a few remarks concerns the chief forms into which romantic architecture has developed in different periods, although here there cannot be any question at all of providing a history of this branch of art.
+    — Aesthetics, Romantic Architecture › Different Styles in Romantic Architecture (tr. Knox)
+  From Gothic architecture, as sketched above, the Romanesque is of course to be distinguished; it was developed from the Roman.
+    — Aesthetics, Romantic Architecture › Different Styles in Romantic Architecture (tr. Knox)

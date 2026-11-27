@@ -39,8 +39,14 @@ Phr:
   to come of age
 
 # ---- Hegel ----
-Def: The recognition of the objective necessity of the world, the man who works within it and finds his satisfaction there.
+Def: Maturity is the recognition of the objective necessity and rationality of the world as one finds it. The adult views the ethical order as essentially complete, not as something that first needs to be produced, and works for it rather than against it. Giving up the plan of transforming everything is no mere resignation: the world is the actualization of divine reason, yet it is not dead but perpetually produces itself anew. The adult's work lies in this preserving production, which both brings forth what is already there and advances it, and what was true in the ideals survives in practical activity.
 Texts:
   The Philosophy of Mind
     §396
 Citations:
+  Complete within himself, the man views the ethical world-order too as an order that does not first need to be produced by him, but as essentially complete.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)
+  It is in this preserving production and continuance of the world that the man's work consists.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)
+  What is true in these ideals is preserved in the practical activity; what the man must work out of his system is only what is untrue, the empty abstractions.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)

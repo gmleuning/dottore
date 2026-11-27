@@ -64,8 +64,10 @@ Phr:
   to be a king is half to be a god [Marlowe]
 
 # ---- Hegel ----
-Def: The power of ultimate decision, in which the moments of the state are brought together.
+Def: The sovereign power, the power of the crown, contains the three moments of the totality: the universality of the constitution and laws, counsel relating the particular to the universal, and the moment of ultimate decision, the self-determination to which everything returns and from which all actuality begins.
 Texts:
   The Philosophy of Right
     §§275–286
 Citations:
+  The power of the crown contains in itself the three moments of the totality (see § 272), viz. (α) the universality of the constitution and the laws; (β) counsel, which refers the particular to the universal; and (γ) the moment of ultimate decision
+    — The Philosophy of Right §275 (tr. Knox, rev. Houlgate)

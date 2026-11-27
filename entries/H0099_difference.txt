@@ -48,8 +48,12 @@ Phr:
   il y a fagots et fagots
 
 # ---- Hegel ----
-Def: The negativity of reflection, essence distinguishing itself from itself; absolute difference.
+Def: Difference is the negativity that reflection has in itself, the essential moment of identity, which as its negativity determines itself and is distinguished. As self-referring it is difference of itself from itself, and so it is both itself and identity: difference is the whole and its own moment, just as identity is. This is the essential nature of reflection and the origin of all activity and self-movement. It unfolds as absolute difference, as diversity and as opposition.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The determinations of reflection › Difference
 Citations:
+  Difference is, therefore, itself and identity. The two together constitute difference; difference is the whole and its moment.
+    — The Science of Logic, The determinations of reflection › Difference (tr. di Giovanni)
+  This is to be regarded as the essential nature of reflection and as the determined primordial origin of all activity and self-movement.
+    — The Science of Logic, The determinations of reflection › Difference (tr. di Giovanni)

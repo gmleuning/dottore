@@ -49,8 +49,12 @@ Phr:
   to have one's heart set on
 
 # ---- Hegel ----
-Def: Self-consciousness as desire, which certain of itself negates its object and so proves the object's nothingness.
+Def: Immediate self-consciousness is desire. The simple I is at first its own pure object and can be certain of itself only by sublating the other, which presents itself as self-sufficient life. Certain that this other is nothing, it makes this nullity its truth and destroys the object. But its satisfaction is conditioned by the object, which must be there to be sublated, so that desire reproduces both the object and itself. It can reach satisfaction only if the object negates itself, and so only in another self-consciousness.
 Texts:
   The Phenomenology of Spirit
     ¶¶166–177
 Citations:
+  Self-consciousness is therefore only certain of itself through the sublating of this other, which, to itself, exhibits itself as self-sufficient life. Self-consciousness is desire.
+    — The Phenomenology of Spirit ¶174 (tr. Pinkard)
+  Self-consciousness attains its satisfaction only in another self-consciousness.
+    — The Phenomenology of Spirit ¶175 (tr. Pinkard)

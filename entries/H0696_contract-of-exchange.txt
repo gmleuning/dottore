@@ -31,8 +31,10 @@ Phr:
   a fair exchange
 
 # ---- Hegel ----
-Def: The real contract, in which each party gives and receives.
+Def: The contract of exchange is the real contract, in which each party both alienates and acquires, and so remains an owner of the same value throughout. Its species are exchange as such (barter and sale), letting and hiring (of a thing or of money), and the contract for wages, the alienation of one's services for a limited time.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  B. Exchange. (1) Exchange as such: (α) exchange of a thing pure and simple, i.e. exchange of one specific thing for another of the same kind
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

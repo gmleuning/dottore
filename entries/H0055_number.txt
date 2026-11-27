@@ -103,8 +103,14 @@ Phr:
   vel prece vel pretio [Lat.]
 
 # ---- Hegel ----
-Def: Quantum completely determined as amount and unit; the thought of quantity in its most external form.
+Def: Number is quantum completely posited, in its full determinateness: the limit is a determinate plurality having the one for its principle. Its moments are amount, the how many times, which is discreteness, and unit, the continuity of that amount. All the ones in a number belong equally to the limit that makes it that number. Number is indifferent to other numbers, which is at once what determines it in itself and its externality, and this contradiction within it is the quality of quantum that drives further development.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Number
 Citations:
+  Amount and unit constitute the moments of number.
+    — The Science of Logic, Quantum › Number (tr. di Giovanni)
+  This indifference of number to others is its essential determination; it constitutes its being-determined-in-itself, but at the same time also its own exteriority.
+    — The Science of Logic, Quantum › Number (tr. di Giovanni)
+  This intrinsic contradiction of number or of quantum in general is the quality of quantum, and the contradiction will develop in the further determinations of this quality.
+    — The Science of Logic, Quantum › Number (tr. di Giovanni)

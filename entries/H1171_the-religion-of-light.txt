@@ -32,8 +32,12 @@ Phr:
   good thoughts, good words, good deeds
 
 # ---- Hegel ----
-Def: The Persian religion of light, the good as light and its struggle with darkness.
+Def: In the Persian religion of light God is known as what has being in and for itself, the good, a unity that determines itself. The good still exists in a natural way, as light. Because this idea of God is abstract, it cannot take the antithesis into itself and overcome it, and so light has darkness over against it, personified superficially as Ormazd and Ahriman.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religions of Transition › The Religion of Light
 Citations:
+  [T]he good in its universality has at the same time a natural mode, a pure manifestation, a natural being, the simple manifestation—light.
+    — Lectures on the Philosophy of Religion, The Religions of Transition › The Religion of Light (tr. Brown, Hodgson and Stewart)
+  Because of its abstraction, it is unable to embrace the antithesis or contradiction within itself and to endure it, so it has evil alongside it instead.
+    — Lectures on the Philosophy of Religion, The Religions of Transition › The Religion of Light (tr. Brown, Hodgson and Stewart)

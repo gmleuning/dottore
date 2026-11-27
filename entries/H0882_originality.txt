@@ -29,8 +29,12 @@ Phr:
   nothing new under the sun [Bible]
 
 # ---- Hegel ----
-Def: Originalität, the identity of the subjectivity of the artist and the true objectivity of the presentation, free of both manner and mere convention.
+Def: Originality is not merely following rules of style but inspiration that grasps a rational material and shapes it from within, in keeping with its kind of art and the ideal. It is identical with true objectivity, at once the artist's most personal inner life and the nature of the object, and must be distinguished from caprice, witty humour and irony. Having no manner has always been the one grand manner.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
 Citations:
+  Thus originality is identical with true objectivity and links together the subjective and factual sides of the representation in such a way that the two sides are no longer opposed or strangers to one another.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)
+  To have no manner has from time immemorial been the one grand manner, and in this sense alone are Homer, Sophocles, Raphael, Shakespeare, to be called 'original'.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)

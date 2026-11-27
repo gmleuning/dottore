@@ -30,8 +30,12 @@ Phr:
   serene and spread out
 
 # ---- Hegel ----
-Def: The classical temple as a whole, open, low and spread out, serene and cheerful, the house of a god who dwells among men.
+Def: The classical temple as a whole unites its parts by juxtaposition and thorough eurhythmy, and is more than satisfying to behold. It does not strive upward but spreads in breadth, so that the eye is drawn across it, unlike Gothic building that struggles toward the sky; its ornament never impairs simplicity, and the Greeks kept a beautiful mean with well-proportioned variety.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › The Classical Temple as a Whole
 Citations:
+  In general the Greek temples present us with an aspect which is satisfying, and, so to say, more than satisfying.
+    — Aesthetics, The Particular Determinants of the Architectural Forms › The Classical Temple as a Whole (tr. Knox)
+  Confronted by it the eye scarcely needs to direct its glance upwards; on the contrary it is allured by the breadth, while the medieval German [i.e. Gothic] architecture almost struggles upwards immeasurably and lifts itself to the sky.
+    — Aesthetics, The Particular Determinants of the Architectural Forms › The Classical Temple as a Whole (tr. Knox)

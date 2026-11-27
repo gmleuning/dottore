@@ -17,8 +17,12 @@ Phr:
   like a sober man among random talkers [Aristotle, on Anaxagoras]
 
 # ---- Hegel ----
-Def: Anaxagoras, with whom the understanding, Nous, is first recognized as the principle, the self-determining universal.
+Def: With Anaxagoras the universal, objective element is for the first time said to be thought in and for itself: understanding, or Nous, is the orderer and cause of the world. Being, becoming, and the one are thoughts, nothing sensuous. The universal is defined as self-determining activity, which still has to develop itself purely on its own account.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Anaxagoras
 Citations:
+  He says that what is universal in and for itself, what is objective, is thought in and for itself.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Anaxagoras (tr. Brown)
+  In Anaxagoras the universal is defined as the self-determining activity.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Anaxagoras (tr. Brown)

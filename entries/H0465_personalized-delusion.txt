@@ -31,8 +31,12 @@ Phr:
   delusions of grandeur
 
 # ---- Hegel ----
-Def: Madness whose content comes from a particular passion, ambition or pride: those who take themselves to be God, Christ or a king.
+Def: Personalized delusion is madness whose fixed content comes from a particular passion, such as vanity or pride, and concerns who the sufferer takes themself to be: God, Christ or a king. The soul that has shut itself up in its subjectivity creates this content out of itself and holds it to be objective. The one so afflicted feels no contradiction between the idea and actuality, since only others perceive it.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  The first case will have to be assumed with those madmen who, for example, have taken themselves to be God, or Christ, or a king.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  The passion of vanity and pride is the chief cause of this self-cocooning of the soul within itself.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

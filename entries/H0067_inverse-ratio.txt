@@ -29,8 +29,14 @@ Phr:
   robbing Peter to pay Paul
 
 # ---- Hegel ----
-Def: Ratio in which the product stays constant as one side grows and the other shrinks.
+Def: Inverse ratio is the direct ratio sublated: the exponent now has the value of a product, the unity of unit and amount, and the ratio itself has become alterable. As one side increases the other decreases, so that each is what it is by relating negatively to the other, while the exponent, a fixed quantum, is the limit of their reciprocal limiting, a beyond each approaches endlessly. Since the exponent preserves itself in the negation of every particular value of its moments, the ratio becomes the ratio of powers.
 Texts:
   The Science of Logic
     The Doctrine of Being › Ratio or the quantitative relation › The inverse ratio
 Citations:
+  The ratio as now before us is the sublated direct ratio.
+    — The Science of Logic, Ratio or the quantitative relation › The inverse ratio (tr. di Giovanni)
+  This consisted in the fact that the quantum is immediate but at the same time so connected to an other that the greater it is, the smaller is the other, that it is what it is by virtue of negatively relating to the other
+    — The Science of Logic, Ratio or the quantitative relation › The inverse ratio (tr. di Giovanni)
+  In the ratio now before us, the exponent as the determining quantum is thus posited as negative towards itself as a quantum of the ratio, and hence as qualitative, as limit
+    — The Science of Logic, Ratio or the quantitative relation › The inverse ratio (tr. di Giovanni)

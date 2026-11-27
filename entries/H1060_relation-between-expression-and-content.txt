@@ -24,8 +24,12 @@ Phr:
   prima la musica, poi le parole [It.] [first the music, then the words]
 
 # ---- Hegel ----
-Def: The relation of music to a definite content, either following a text or freely by itself.
+Def: The relation of music's means of expression to content arises with melody, the sphere of free invention. Music may accompany a content already put into words, or tear itself free to be independent, a difference marked broadly by vocal and instrumental music. As accompaniment it must make its expression adequate to the text, yet it is no servant: the text serves the music.
 Texts:
   Aesthetics
     Music › Relation between Music's Means of Expression and their Content
 Citations:
+  But with melody we have entered the sphere of free artistic invention and actual musical creation and so the question arises at once of a subject-matter which is to gain an artistically adequate expression in rhythm, harmony, and melody.
+    — Aesthetics, Music › Relation between Music's Means of Expression and their Content (tr. Knox)
+  On the other hand, neither must we take the nature of such accompaniment in the sense of its being the servant of a purpose, for the truth is precisely the reverse: the text is the servant of the music and it has no worth other than creating for our minds a better idea of what the artist has chosen as the subject of his work.
+    — Aesthetics, Music › Relation between Music's Means of Expression and their Content (tr. Knox)

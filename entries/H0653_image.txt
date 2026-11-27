@@ -40,8 +40,12 @@ Phr:
   a picture in one's head
 
 # ---- Hegel ----
-Def: The intuition freed from its immediacy and placed in the mind's own space and time.
+Def: The image is the content of intuition placed in the inwardness of intelligence, in its own space and time, freed from its immediacy and abstract individuality and taken into the universality of the I. It lacks the full determinacy of the intuition, is wilful or contingent, and cut off from its original place and time. What is represented gains lasting existence only at the cost of the clarity and freshness of what is intuited.
 Texts:
   The Philosophy of Mind
     §452
 Citations:
+  The image no longer has the complete determinacy that the intuition has, and is wilful or contingent, in general isolated from the external place, the time, and the immediate context in which the intuition stood.
+    — Encyclopedia §452 (tr. Wallace and Miller, rev. Inwood)
+  However, what is represented gains this immortality only at the cost of the clarity and freshness of the immediate individuality, the all round determinacy, of what is intuited; the intuition is obscured and blurred, when it becomes an image.
+    — Encyclopedia §452, Addition (tr. Wallace and Miller, rev. Inwood)

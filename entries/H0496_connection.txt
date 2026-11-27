@@ -30,8 +30,12 @@ Phr:
   to join the dots
 
 # ---- Hegel ----
-Def: Perception's effort to connect the properties into one thing, an also and a one.
+Def: Connection is what perception establishes: it takes the object not as merely immediate but as mediated, reflected into itself and universal, a combination of sensory determinations with extended thought determinations of concrete relations and connections. It seeks to know each individual as an internally coherent whole and the mediations between individual things, showing that when certain circumstances are present certain consequences follow. Consciousness is thereby no longer abstract certainty but a determinate awareness.
 Texts:
   The Philosophy of Mind
     §420
 Citations:
+  The object is thus a combination of sensory determinations and extended thought-determinations of concrete relationships and connections.
+    — Encyclopedia §420 (tr. Wallace and Miller, rev. Inwood)
+  While therefore merely sensory consciousness only shows things, i.e., merely exhibits them in their immediacy, perception by contrast apprehends the interconnection of things, demonstrates that when such and such circumstances are present such and such follows from them, and thus begins to demonstrate things as true.
+    — Encyclopedia §420, Addition (tr. Wallace and Miller, rev. Inwood)

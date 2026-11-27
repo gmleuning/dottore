@@ -44,8 +44,12 @@ Phr:
   the long and the short of it
 
 # ---- Hegel ----
-Def: The science of the pure idea, of thought as the self-movement of the concept, in which the determinations of thought are at once the determinations of things.
+Def: Logic is the science of pure thought, the system of pure reason, truth as it is in and for itself. It cannot presuppose its forms, its rules, its method or even the concept of itself, since all these belong to its content and must be established within it, so that it can say what it is only as the result of its whole treatment. Its determinations are not empty forms set over against a content given from elsewhere: the necessary forms of thinking are the content and the truth itself.
 Texts:
   The Science of Logic
     Introduction
 Citations:
+  Logic, on the contrary, cannot presuppose any of these forms of reflection, these rules and laws of thinking, for they are part of its content and they first have to be established within it.
+    — The Science of Logic, Introduction (tr. di Giovanni)
+  Accordingly, logic is to be understood as the system of pure reason, as the realm of pure thought. This realm is truth unveiled, truth as it is in and for itself.
+    — The Science of Logic, Introduction (tr. di Giovanni)

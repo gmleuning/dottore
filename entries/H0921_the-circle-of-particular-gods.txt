@@ -28,8 +28,12 @@ Phr:
   a pantheon
 
 # ---- Hegel ----
-Def: The circle of particular gods, a plurality of spiritual powers.
+Def: The circle of particular gods follows because divinity made visible in immediate existence necessarily becomes many shapes: polytheism is essential to classical art. Each god is an independent individual, no mere allegory of a universal quality but a comprehensive totality bearing attributes of others, so that their blessedness is universal self-repose with power to act in many ways. They form no systematic whole.
 Texts:
   Aesthetics
     The Classical Form of Art › The Ideal of the Classical Form of Art › The Group of Particular Gods
 Citations:
+  Polytheism is absolutely essential to the principle of classical art
+    — Aesthetics, The Ideal of the Classical Form of Art › The Group of Particular Gods (tr. Knox)
+  The group of Greek gods is a plurality of individuals in which each single god, even if endowed with the specific character of a particular person, is still a comprehensive totality, containing also in itself the attribute of another god.
+    — Aesthetics, The Ideal of the Classical Form of Art › The Group of Particular Gods (tr. Knox)

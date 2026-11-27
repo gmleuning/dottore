@@ -41,8 +41,12 @@ Phr:
   castles in the air
 
 # ---- Hegel ----
-Def: Imagination that gives its own content to the images, making symbols and signs.
+Def: Phantasy is intelligence freely combining and subsuming its store of images under a content of its own, impressing that content upon them. In it universal and being, one's own and the found, inner and outer, are welded into one, and intelligence appears as concrete individuality. As this activity it is reason, though only formal reason, since the content is indifferent. It is symbolizing, then sign-making.
 Texts:
   The Philosophy of Mind
     §§456–459
 Citations:
+  Fantasy is the midpoint in which the universal and being, one's own and being-found, the inner and outer, are completely welded into one.
+    — Encyclopedia §457, Remark (tr. Wallace and Miller, rev. Inwood)
+  As the activity of this unification, fantasy is reason, but only formal reason, in so far as the content of fantasy as such is a matter of indifference; whereas reason as such also determines the content to truth.
+    — Encyclopedia §457, Remark (tr. Wallace and Miller, rev. Inwood)

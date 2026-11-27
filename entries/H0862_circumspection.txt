@@ -21,8 +21,12 @@ Phr:
   Gedichte wie die homerischen seyen dem Dichter im Schlafe gekommen [Ger.] [Hegel, Aesthetics, as an absurd belief]
 
 # ---- Hegel ----
-Def: The waking Besonnenheit of the understanding: without it, without sorting and distinguishing, the artist cannot master the content, and it is foolish to think the true artist does not know what he does.
+Def: Circumspection is the watchful discrimination of the understanding which, with depth of heart, the artist needs in order to fuse rational content with outward shape. It is absurd to suppose that poems like Homer's came to the poet in sleep: without circumspection, sorting and criticism no artist can master the material, and it is silly to believe that the genuine artist does not know what is being done.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  It is therefore an absurdity to suppose that poems like the Homeric came to the poet in sleep. Without circumspection, discrimination, and criticism the artist cannot master any subject-matter which he is to configurate, and it is silly to believe that the genuine artist does not know what he is doing.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  In order to achieve the interpenetration of the rational content and the external shape, the artist has to call in aid (i) the watchful circumspection of the intellect, and (ii) the depth of the heart and its animating feelings.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

@@ -26,8 +26,12 @@ Phr:
   finding a purpose
 
 # ---- Hegel ----
-Def: The transition of symbolic building to building for a purpose.
+Def: The transition from independent to classical architecture appears first in the subterranean building of Indians and Egyptians, more prodigious than their surface works. Excavating removes rather than builds and may precede construction above ground; though symbolic, such caves are no longer independently symbolic, since their purpose is to enclose, with walls and roofs, the more symbolic works set up within.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Transition from Independent to Classical Architecture
 Citations:
+  In comparison with the buildings on the surface such excavations seem to be earlier, so that the enormous erections above ground may be regarded as imitations and above-ground blossomings of the subterranean.
+    — Aesthetics, Symbolic Architecture › Transition from Independent to Classical Architecture (tr. Knox)
+  For in excavations there is no question of positive building but rather of the removal of a negative.
+    — Aesthetics, Symbolic Architecture › Transition from Independent to Classical Architecture (tr. Knox)

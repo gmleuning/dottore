@@ -20,8 +20,12 @@ Phr:
   was in seiner Phantasie lebt, kommt ihm dadurch gleichsam in die Finger [Ger.] [Hegel, Aesthetics]
 
 # ---- Hegel ----
-Def: Leichtigkeit, the ease of inner production and of outer technical skill: what lives in the artist's Phantasie comes as it were into his fingers, as our thoughts come into our mouths.
+Def: Facility is the third mark of genius: ease in producing ideas from within and in the technical dexterity the arts require. The greater the genius, the less laborious the acquisition of skill, since the genuine artist has a natural impulse to give form at once to all that they feel and imagine, as a composer to melody or a painter to colour, though study must still perfect the gift.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  For the genuine artist has a natural impulse and an immediate need to give form at once to everything that he feels and imagines.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  What lives in his imagination comes to him, therefore, as it were to his finger-tips, just as it comes to our lips to speak out our thoughts
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

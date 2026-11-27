@@ -31,8 +31,12 @@ Phr:
   in working order
 
 # ---- Hegel ----
-Def: The three functions of the organism: sensibility, its universal self-relation; irritability, its being related to another; reproduction, their unity.
+Def: The functions of the organism are three: sensibility, the subject's simple, universal being within itself, in which any particular is immediately taken up; irritability, its capacity to be stimulated from outside and to react; and reproduction, their unity, the return from outward relation by which it produces itself as individual, the basis of the other two.
 Texts:
   The Philosophy of Nature
     §353
 Citations:
+  The particularity, which in sensibility is at first only ideally posited, receives its due in irritability, where the activity of the subject consists in repelling the other with which it is in relation.
+    — Encyclopedia §353, Addition (tr. Miller)
+  The animal organism is reproductive; this it is essentially, or this is its actuality.
+    — Encyclopedia §353, Addition (tr. Miller)

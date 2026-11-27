@@ -39,8 +39,12 @@ Phr:
   the beautiful and the true
 
 # ---- Hegel ----
-Def: The idea's sensuous shining: beauty, the true as it is immediately for sense and imagination.
+Def: The idea of the beautiful is the idea so far as it is the true present immediately to consciousness in its external existence, the concept remaining in unity with its outward appearance. Beauty and truth are in one way the same, yet the true as grasped in thought is the universal idea, whereas beauty is the pure appearance of the idea to sense, in which the sensuous and objective keep no independence of their own.
 Texts:
   Aesthetics
     Concept of the Beautiful as Such › The Idea of the Beautiful
 Citations:
+  Now when truth in this its external existence is present to consciousness immediately, and when the Concept remains immediately in unity with its external appearance, the Idea is not only true but beautiful.
+    — Aesthetics, Concept of the Beautiful as Such › The Idea of the Beautiful (tr. Knox)
+  Now we said that beauty is Idea, so beauty and truth are in one way the same. Beauty, namely, must be true in itself. But, looked at more closely, the true is nevertheless distinct from the beautiful.
+    — Aesthetics, Concept of the Beautiful as Such › The Idea of the Beautiful (tr. Knox)

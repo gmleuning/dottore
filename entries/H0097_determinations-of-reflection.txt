@@ -36,8 +36,12 @@ Phr:
   the first principles
 
 # ---- Hegel ----
-Def: The essentialities of reflection: identity, difference and contradiction, each existing only in relation to its other.
+Def: The determinations of reflection, or essentialities, are essence as determined, the distinct moments across which it moves and in which it shines, each reflected into itself. First essence is simple self-reference, identity; second, difference, which is diversity and opposition; third, as contradiction, opposition reflected into itself, returning to its foundation. They have customarily been set up as universal laws of thought, such as that everything is equal to itself, but they are no qualitative determinacies that could simply stand side by side.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The determinations of reflection
 Citations:
+  Reflection is the shining of essence within itself.
+    — The Science of Logic, The determinations of reflection (tr. di Giovanni)
+  First, essence is simple self-reference, pure identity. This is its determination, one by which it is rather the absence of determination. Second, the specifying determination is difference – difference which is either external or indefinite, diversity in general, or opposed diversity or opposition. Third, as contradiction this opposition is reflected into itself and returns to its foundation.
+    — The Science of Logic, The determinations of reflection (tr. di Giovanni)

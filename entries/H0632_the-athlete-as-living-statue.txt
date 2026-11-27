@@ -50,8 +50,12 @@ Phr:
   misce stullitiam consiliis brevem [Lat.] [Horace]
 
 # ---- Hegel ----
-Def: The athlete in festival, the beautiful body as the living statue.
+Def: The athlete as living statue is the work in which the unsteady revel of the mysteries comes to rest in an object, a festival that human beings give in their own honour. In place of the stone column the human being sets itself as a shape trained and wrought for free movement. This is an ensouled living work of art that joins strength to beauty and is accorded, instead of the honour due the god in stone, the honour of being the highest bodily presentation of the people's essence.
 Texts:
   The Phenomenology of Spirit
     ¶¶725–726
 Citations:
+  One such cult is the festival which man gives in his own honor
+    — The Phenomenology of Spirit ¶725 (tr. Pinkard)
+  He is an ensouled, living work of art, who pairs his beauty with strength, and to whom, as the prize for his power, is accorded the adornment with which the statuary column was honored; moreover, instead of the honor due to the god set in stone, he is accorded the honor of being among his people the highest bodily representation of their essence.
+    — The Phenomenology of Spirit ¶725 (tr. Pinkard)

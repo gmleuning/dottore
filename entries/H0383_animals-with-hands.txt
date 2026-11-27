@@ -17,8 +17,12 @@ Phr:
   to go ape
 
 # ---- Hegel ----
-Def: Mammals whose feet are hands: man and the monkey, which is a satire on man.
+Def: Mammals are classed by how, as individuals, they oppose other animals, through teeth, feet, claws and beaks. The first class are animals whose feet are hands, the human being and the monkey, which Hegel calls a satire on the human, one it must amuse us to see if we can laugh at ourselves.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  [I]nto animals whose feet are hands—man and the monkey (the monkey is a satire on man, a satire which it must amuse him to see if he does not take himself too seriously but is willing to laugh at himself)
+    — Encyclopedia §370, Addition (tr. Miller)
+  Of all animals, monkeys are the most docile (bildsamsten) and have most affection for their young
+    — Encyclopedia §370, Addition (tr. Miller)

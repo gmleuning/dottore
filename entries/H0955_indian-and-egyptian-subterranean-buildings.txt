@@ -22,8 +22,12 @@ Phr:
   underground chambers
 
 # ---- Hegel ----
-Def: Subterranean buildings of India and Egypt, the houses of the dead.
+Def: The subterranean buildings of India and Egypt differ from mere cave dwellings: they served as places of assembly, subterranean cathedrals for religious wonder, with symbolic arrangements, colonnades, sphinxes, Memnons, elephants and colossal idols hewn from the rock and left growing out of the unworked stone. Within them something like a temple or house appears in its most natural form; the Mithras caves belong here too.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Transition from Independent to Classical Architecture › Indian and Egyptian Subterranean Buildings
 Citations:
+  They served as places of assembly, as subterranean cathedrals, and are constructions built for religious wonder and spiritual assembly
+    — Aesthetics, Transition from Independent to Classical Architecture › Indian and Egyptian Subterranean Buildings (tr. Knox)
+  Something like a temple or a house, in the Greek and more modern sense, is visible here in its most natural form.
+    — Aesthetics, Transition from Independent to Classical Architecture › Indian and Egyptian Subterranean Buildings (tr. Knox)

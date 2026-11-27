@@ -16,8 +16,12 @@ Phr:
   all things are full of gods
 
 # ---- Hegel ----
-Def: Thales, with whom philosophy begins: water as the principle, the one universal essence grasped as a sensuous element.
+Def: With Thales the history of philosophy proper begins. His proposition that water is the absolute, the principle, is philosophical because it brings to consciousness that the One is the essence of everything, what alone has being in and for itself, and so steps back from immediate sense perception. Its defect is that the universal is expressed in a particular shape and lacks activity.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Seven Sages and the Milesians
 Citations:
+  It is with him that the history of philosophy proper begins for us.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Seven Sages and the Milesians (tr. Brown)
+  [B]ecause they usher in the consciousness that the One is the essence of everything; it is what is true, or what alone has being in and for itself.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Seven Sages and the Milesians (tr. Brown)

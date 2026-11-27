@@ -50,8 +50,12 @@ Phr:
   an ocean of dreams without a sound [Shelley]
 
 # ---- Hegel ----
-Def: Nothing, pure nothing: simple equality with itself, complete emptiness, absence of all determination; the same as pure being.
+Def: Pure nothing is simple equality with itself, complete emptiness, the complete absence of determination and content, without any distinction within it. It is not mere absence in the loose sense: it makes a difference whether something or nothing is intuited or thought, so nothing is in our intuiting and thinking, as the empty intuiting and thinking itself. It thus has the same determination, or rather lack of determination, as pure being, and is altogether the same as what pure being is.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Nothing
 Citations:
+  Nothing, pure nothingness; it is simple equality with itself, complete emptiness, complete absence of determination and content; lack of all distinction within.
+    — The Science of Logic, Being › Nothing (tr. di Giovanni)
+  To intuit or to think nothing has therefore a meaning; the two are distinguished and so nothing is (concretely exists) in our intuiting or thinking; or rather it is the empty intuiting and thinking itself, like pure being. – Nothing is therefore the same determination or rather absence of determination, and thus altogether the same as what pure being is.
+    — The Science of Logic, Being › Nothing (tr. di Giovanni)

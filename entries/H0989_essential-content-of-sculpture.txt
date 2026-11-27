@@ -27,8 +27,12 @@ Phr:
   gods made visible
 
 # ---- Hegel ----
-Def: The content proper to sculpture: the objective spiritual, the eternal divine in human form, without the particularity of feeling.
+Def: The essential content of sculpture is the objectivity of spirit in self-repose, the stage at which spirit has not distinguished itself from its universal substance or from its bodily existence and so has not withdrawn into subjective self-awareness. It excludes the self that holds to its own particular, accidental character, as in self-satisfaction, in favour of the universal and eternal content of spirit.
 Texts:
   Aesthetics
     Sculpture › The Principle of Sculpture Proper › The Essential Content of Sculpture
 Citations:
+  To this more abstract aspect of the visible material there peculiarly corresponds, as content, the objectivity of spirit in its self-repose, i.e. the stage at which spirit has not distinguished itself either from its universal substance or its existence in body and therefore has not withdrawn into the self-awareness of its own subjectivity.
+    — Aesthetics, The Principle of Sculpture Proper › The Essential Content of Sculpture (tr. Knox)
+  But this self can detach itself from what in knowing, willing, imagining, feeling, acting, and accomplishing constitutes the universal and eternal content of the spirit, and retain a hold on its own particular and fortuitous character.
+    — Aesthetics, The Principle of Sculpture Proper › The Essential Content of Sculpture (tr. Knox)

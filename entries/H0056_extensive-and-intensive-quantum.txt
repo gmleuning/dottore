@@ -28,8 +28,12 @@ Phr:
   a mile wide and an inch deep
 
 # ---- Hegel ----
-Def: Quantum as extensive magnitude, a sum of units outside one another, and as intensive magnitude, degree, a simple determinateness.
+Def: Extensive and intensive quantum are the two determinations of the quantitative limit itself. A quantum whose limit is a plurality is extensive magnitude; when that self-external plurality collapses into simple determinateness, it is intensive magnitude, or degree. Extensive magnitude has its amount within it, and degree has the amount outside it, but they are one and the same determinateness of quantum, each passing into the other. With this identity something qualitative comes on the scene, indifferent to the quantum it has.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Extensive and intensive quantum
 Citations:
+  Extensive and intensive magnitudes are determinacies of the quantitative limit itself, whereas quantum is identical with its limit
+    — The Science of Logic, Quantum › Extensive and intensive quantum (tr. di Giovanni)
+  Extensive and intensive magnitude are, therefore, one and the same determinateness of quantum; they are distinguished only inasmuch as the one has the amount within and the other has the same without.
+    — The Science of Logic, Quantum › Extensive and intensive quantum (tr. di Giovanni)

@@ -31,8 +31,12 @@ Phr:
   the nuts and bolts
 
 # ---- Hegel ----
-Def: Nature's first sphere, of asunderness without inwardness: space, time, matter and motion, and the free motion of the heavens.
+Def: Mechanics, the first sphere of the philosophy of nature, treats self-externality: first in complete abstraction as space and time, then as individualized and related, as matter and motion in finite mechanics, and finally matter in free motion in absolute mechanics. When the relation of matter and motion ceases to be external, there is their absolute unity, matter that moves itself.
 Texts:
   The Philosophy of Nature
     §§253–271
 Citations:
+  Self-externality splits at once into two forms, positively as Space, and negatively as Time.
+    — Encyclopedia §253, Addition (tr. Miller)
+  When this relation is not external, we have the absolute unity of Matter and Motion, self-moving Matter.
+    — Encyclopedia §253, Addition (tr. Miller)

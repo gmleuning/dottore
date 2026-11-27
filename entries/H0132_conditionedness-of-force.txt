@@ -48,8 +48,12 @@ Phr:
   non sum qualis eram [Lat.]
 
 # ---- Hegel ----
-Def: Force presupposes an existing thing in which it resides and a solicitation from outside to express itself.
+Def: The conditionedness of force is that force, being a reflected unity that contains immediate existence as a moment, appears as something posited that presupposes a thing, though there is no ground in the thing for having it. So it seems to be impressed from outside and is imagined as a matter, magnetic or electric. In truth the immediacy it needs is transient and self-sublating, and it is force itself that posits the externality appearing as existence.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The essential relation › The relation of force and its expression › The conditionedness of force
 Citations:
+  As so determined, there is no ground in the thing for having a force; force, on the other hand, since it is the side of positedness, presupposes the thing essentially.
+    — The Science of Logic, The relation of force and its expression › The conditionedness of force (tr. di Giovanni)
+  Consequently, the thing where the force was supposed to be no longer has any significance here; the force itself is rather the positing of the externality that appears as concrete existence.
+    — The Science of Logic, The relation of force and its expression › The conditionedness of force (tr. di Giovanni)

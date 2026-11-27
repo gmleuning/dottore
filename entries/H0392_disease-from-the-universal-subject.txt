@@ -12,8 +12,10 @@ Adj:
   psychosomatic, nervous, hypochondriac, neurasthenic, heartsick, careworn
 
 # ---- Hegel ----
-Def: The third kind of disease, which starts in the universal subject, the mind, as when terror or grief strikes the body or a passion wears it down; here disease reaches the soul, and leads over into derangement (&c H0455).
+Def: A third form of disease originates in the universal subject, especially in the human being: diseases of the soul, caused by terror, grief and the like, which can even end in death. They stand beside diseases of elemental origin and those of a particular system as the ways in which subjectivity can be deranged.
 Texts:
   The Philosophy of Nature
     §371
 Citations:
+  A third form of disease is that which originates in the universal subject, especially in man. These are diseases of the soul (Seele), which are caused by terror, grief, etc., and which can even result in death.
+    — Encyclopedia §371, Addition (tr. Miller)

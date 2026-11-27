@@ -26,8 +26,12 @@ Phr:
   mesmeric passes
 
 # ---- Hegel ----
-Def: The touchings and passes by which the trance is induced.
+Def: The methods of magnetizing vary. The magnetizer usually works by contact, and must have an uncompromising will to communicate this power and to join the two spheres of animal life into one. Most often the operation is by stroking, with or without actual touch, from the head toward the pit of the stomach and the extremities, but laying on the hand, a pressure, even a glance and the invitation to sleep may suffice. Vessels with iron rods and other material means are also used.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  As regards, secondly, the mode and manner of magnetising, this varies. Usually the magnetizer works by contact.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  More exactly, the magnetizer operates mainly by stroking, though this need not involve actual contact
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

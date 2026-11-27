@@ -34,8 +34,14 @@ Phr:
   lasciate ogni speranza, voi ch'entrate [It.] [Dante]
 
 # ---- Hegel ----
-Def: Die Entzweiung: the division of consciousness from God, the infinite pain of separation, which is also the source of the need for reconciliation.
+Def: The estrangement is a cleavage that runs to the innermost being, in which human beings know themselves to be a contradiction and suffer infinite anguish. Toward God it appears as humiliation and remorse at not being what one should be; toward the world as unhappiness, which drives people back into themselves, as with the Stoic and the Skeptic. Both forms are one-sided and call for a transition to reconciliation.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Representation, Appearance › Knowledge, Estrangement, and Evil
 Citations:
+  Anguish is precisely the element of negativity in the affirmative, meaning that within itself the affirmative is self-contradictory and wounded.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Knowledge, Estrangement, and Evil (tr. Brown, Hodgson and Stewart)
+  This is the relation to the one extreme, and the result, the more determinate mode of this anguish, is my humiliation, my remorse
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Knowledge, Estrangement, and Evil (tr. Brown, Hodgson and Stewart)
+  It is this unhappiness that drives and presses human beings back into themselves
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Knowledge, Estrangement, and Evil (tr. Brown, Hodgson and Stewart)

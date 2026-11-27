@@ -35,8 +35,12 @@ Phr:
   free as a bird
 
 # ---- Hegel ----
-Def: The animals of the air, warm-blooded and egg-laying, with the voice of song.
+Def: Birds belong to the air: plumage is the vegetative principle developing on their skin, their chest system is specially developed, and bones and lungs are connected with air-pockets. They feel for their young and build nests, and many sing, continuing their cry as an ideal enjoyment of themselves in their element.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  Because this form of animal is cast into the air, and the abstract Element thus lives in birds, the vegetative principle fluctuates and develops on their skin in the form of plumage.
+    — Encyclopedia §370, Addition (tr. Miller)
+  Whereas the horse neighs and the ox bellows, the bird continues this cry as an ideal enjoyment of itself.
+    — Encyclopedia §370, Addition (tr. Miller)

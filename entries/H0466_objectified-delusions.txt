@@ -12,8 +12,12 @@ Adj:
   lycanthropic
 
 # ---- Hegel ----
-Def: Madness whose content is something contingent, an object rather than a person: those who think they are a barleycorn or a dog, or that they have a carriage in their body.
+Def: Objectified delusion is madness whose content is determined contingently, by something other than the passion that gave rise to the disease: sufferers suppose themselves to be a barleycorn or a dog, or to have a carriage inside their body. The mind sticks fast in this merely subjective representation and regards it as objective, without any determinate awareness that the one contradicts the other.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  The second case, by contrast, will occur when, for example, madmen suppose themselves to be a barleycorn, or a dog, or to have a carriage in their body.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  [M]adness proper by contrast displays this ability and by this very fact demonstrates that it is still consciousness
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

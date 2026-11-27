@@ -24,8 +24,10 @@ Phr:
   atoms and categories
 
 # ---- Hegel ----
-Def: The Vaiśeṣika of Kaṇāda, which enumerates the categories, substance, quality, action and the rest, and teaches eternal atoms.
+Def: The Vaisheshika of Kanada is a philosophy of the particular. It begins from substance, enumerating nine substances, from earth and water to soul and understanding, whose basic elements are atoms, and goes on to twenty-four kinds of quality and the further categories. Kanada's philosophy is thus atomistic.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy › Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika)
 Citations:
+  The first of them is substance, and nine substances are enumerated: earth, water, light, air, ether, time, space, soul, understanding. These are the material substances, the basic elements of which are the atoms. Kanada's philosophy is atomistic.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika) (tr. Brown)

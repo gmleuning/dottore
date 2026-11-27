@@ -28,8 +28,12 @@ Phr:
   in those days
 
 # ---- Hegel ----
-Def: The general state of the world, the heroic age in which the individual is the bearer of right and custom.
+Def: The general state of the world is the way in which the substantial element of spiritual reality, ethics, law and justice, holds together its manifestations and provides the ground on which individuals act. For the ideal it must take the form of independence, in which universal and individual are not yet torn apart, such as the heroic age, whose figures are themselves the bearers of right and custom.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Determinacy of the Ideal › Action › The General State of the World
 Citations:
+  When we speak in this connection of the 'state' of something, we understand by it the general way and manner in which the substantial element is present which, as the truly essential element within spiritual actuality, holds together all its manifestations.
+    — Aesthetics, Action › The General State of the World (tr. Knox)
+  At the stage we have now reached we will bring out this characteristic as independence, and require [for artistic representation] that the general state of the world shall appear in the form of independence so as to be able to assume the shape of the Ideal.
+    — Aesthetics, Action › The General State of the World (tr. Knox)

@@ -25,8 +25,12 @@ Phr:
   der Atmungsprozeß ist die als unterbrochen sich darstellende Kontinuität [Ger.] [Hegel, Encyclopedia §357 Zusatz]
 
 # ---- Hegel ----
-Def: The process with air, breathing, continuity presenting itself as interrupted, an evaporation of the blood.
+Def: Breathing is a spontaneously interrupted continuity: exhaling and inhaling volatilize the blood, a transition into air begun and drawn back. The blood is an absolute thirst, an unrest within and against itself that craves to be ignited; air is the fiery, negative element in which it satisfies itself and becomes for itself.
 Texts:
   The Philosophy of Nature
     §362
 Citations:
+  The respiratory process is a spontaneously interrupted continuity.
+    — Encyclopedia §362, Addition (tr. Miller)
+  The blood is this absolute thirst, its unrest within itself and against itself
+    — Encyclopedia §362, Addition (tr. Miller)

@@ -35,8 +35,14 @@ Phr:
   risen indeed
 
 # ---- Hegel ----
-Def: The death of the mediator and the resurrection of the spirit in the community, where God is present as spirit.
+Def: Spirit in its community is reached through the death of the mediator. The divine essence relinquishes itself, goes to its death and is reconciled with itself, so that this death is its resurrection as spirit. What representation holds as something that happened to a particular being is shifted into self-consciousness, whose particularity dies in its universality. The painful feeling that God himself is dead is the loss of substance as object and the certainty that substance becomes subject, universal self-consciousness.
 Texts:
   The Phenomenology of Spirit
     ¶¶779–787
 Citations:
+  As a result, the essence has in that sensuous presence come to be itself. The immediate existence of actuality has thus ceased to be alien, or external, to that essence, as it is what is sublated, or what is universal. Thus, this death is its resurrection as spirit.
+    — The Phenomenology of Spirit ¶779 (tr. Pinkard)
+  This self-consciousness thus does not therefore actually die off in the way that the particular is represented to have actually died; rather, its particularity dies off in its universality
+    — The Phenomenology of Spirit ¶785 (tr. Pinkard)
+  This knowing is therefore spiritgiving, as a result of which substance becomes subject, its abstraction and lifelessness have died, and it has become actual, simple, and universal self-consciousness.
+    — The Phenomenology of Spirit ¶785 (tr. Pinkard)

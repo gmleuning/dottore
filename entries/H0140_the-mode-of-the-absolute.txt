@@ -34,8 +34,12 @@ Phr:
   after a fashion
 
 # ---- Hegel ----
-Def: The absolute's own externality, its loss of itself in mutability, yet the mode is the absolute's own self-showing.
+Def: The mode of the absolute is the externality of the absolute, its going out of itself into the changeability and contingency of being. Yet it is not merely this: it is externality posited as externality, a mere way and manner, shine as shine, and so the reflection of form into itself. Only in the mode, therefore, is the absolute posited as absolute identity, as self-referring negativity, and the exposition, which passed from identity to attribute and mode, proves to be the absolute's own movement.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute › The mode of the absolute
 Citations:
+  But the mode, the externality of the absolute, is not just this. It is rather externality posited as externality, a mere way and manner, hence the reflective shine as reflective shine, or the reflection of form into itself
+    — The Science of Logic, The absolute › The mode of the absolute (tr. di Giovanni)
+  In actual fact, therefore, the absolute is first posited as absolute identity only in the mode
+    — The Science of Logic, The absolute › The mode of the absolute (tr. di Giovanni)

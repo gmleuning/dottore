@@ -18,8 +18,12 @@ Adv:
   dogmatically, assertively, positively
 
 # ---- Hegel ----
-Def: Der Dogmatismus: the Stoics and the Epicureans, who each assert a principle and criterion, thought or sensation, as the ground of the individual's freedom.
+Def: Dogmatic philosophy sets up a single determinate principle or criterion. One school makes the principle of universality, thinking, the determinant: Stoicism. The other makes that of singularity, sensation: Epicureanism. Stoicism is Cynicism more clearly elaborated by thought, as Epicureanism shares the Cyrenaic principle of sensation. Skepticism, in contrast, negates every criterion.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Dogmatic Philosophy
 Citations:
+  Dogmatic philosophy sets up a determinate principle or criterion, and indeed only a single principle of this sort.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Dogmatic Philosophy (tr. Brown)
+  [I]n one case, the principle that thinking is the determinant, and, in the second, sensation
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Dogmatic Philosophy (tr. Brown)

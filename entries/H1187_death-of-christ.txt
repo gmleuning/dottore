@@ -22,8 +22,14 @@ Phr:
   it is finished
 
 # ---- Hegel ----
-Def: Der Tod Christi: God himself is dead; the death of the God-man is the highest finitude and at the same time its sublation, the infinite love.
+Def: The death of Christ is the point where one passes into the religious sphere. It is the violent death of a human being, but comprehended spiritually it becomes the means of salvation. Natural death is the utmost fragility of humanity, and that God himself is dead means that the finite and negative are a moment of the divine nature and do not hinder unity with God. Christ's death belongs to the eternal divine history.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Representation, Appearance › Reconciliation › The Death of Christ and the Transition to Spiritual Presence
 Citations:
+  [B]ut when it is comprehended spiritually, this very death becomes the means of salvation, the focal point of reconciliation.
+    — Lectures on the Philosophy of Religion, Reconciliation › The Death of Christ and the Transition to Spiritual Presence (tr. Brown, Hodgson and Stewart)
+  "God himself is dead," it says in a Lutheran hymn, expressing an awareness that the human, the finite, the fragile, the weak, the negative are themselves a moment of the divine, that they are within God himself
+    — Lectures on the Philosophy of Religion, Reconciliation › The Death of Christ and the Transition to Spiritual Presence (tr. Brown, Hodgson and Stewart)
+  This is not a single act but the eternal divine history: it is a moment in the nature of God himself; it has taken place in God himself.
+    — Lectures on the Philosophy of Religion, Reconciliation › The Death of Christ and the Transition to Spiritual Presence (tr. Brown, Hodgson and Stewart)

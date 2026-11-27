@@ -26,8 +26,12 @@ Phr:
   cast down
 
 # ---- Hegel ----
-Def: The animal degraded from the divine: animal sacrifice, hunts, metamorphoses.
+Def: The degradation of the animal marks the passage to classical art: whereas Indians and Egyptians revered animals as visible presences of the divine, spirit's self-consciousness dispels respect for the dull inwardness of animal life, and this lowering of the animal world itself becomes the content of religious ideas and art, in animal sacrifice, hunts and metamorphoses.
 Texts:
   Aesthetics
     The Classical Form of Art › The Process of Shaping the Classical Art-Form › The Degradation of the Animal
 Citations:
+  The self-consciousness of spirit is what alone makes respect for the dark and dull inwardness of animal life disappear.
+    — Aesthetics, The Process of Shaping the Classical Art-Form › The Degradation of the Animal (tr. Knox)
+  Now the next step that we have to mention in connection with the transition to classical art consists in debasing the high dignity and position of the animal world and making this degradation itself into the content of religious ideas and artistic productions.
+    — Aesthetics, The Process of Shaping the Classical Art-Form › The Degradation of the Animal (tr. Knox)

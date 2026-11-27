@@ -18,8 +18,14 @@ Phr:
   the flying arrow is at rest [Zeno]
 
 # ---- Hegel ----
-Def: Zeno, the originator of dialectic, who shows the contradiction in motion, Achilles and the tortoise, the arrow, by thinking it through.
+Def: Zeno says the same as Parmenides but proceeds more dialectically: he confronts the many and shows that the manifold is not, that it annihilates itself, since whatever involves change is self-contradictory. It was primarily he who elaborated the dialectic, as in the arguments against motion, among them the Achilles, in which the faster body cannot overtake the slower.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Eleatics
 Citations:
+  Plato says that Parmenides established being, whereas Zeno proceeded more dialectically yet said the same thing, except that he confronted the 'many' and showed that this 'many', this manifold, this limited domain, is not, that instead it annihilates itself.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Eleatics (tr. Brown)
+  Thus it was primarily Zeno who elaborated the dialectic.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Eleatics (tr. Brown)
+  Zeno says the contrary, that the second cannot overtake the first
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Eleatics (tr. Brown)

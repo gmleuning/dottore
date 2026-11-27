@@ -8,8 +8,12 @@ N:
   classical metres in modern languages; accentual hexameter, German hexameter, English hexameter, English Sapphics, imitation of classical metres, Klopstock's odes, Voss's Homer
 
 # ---- Hegel ----
-Def: The attempt to carry the classical metres into the modern languages, as in Klopstock's odes and Voss's Homer, where the accent of meaning resists quantity.
+Def: Classical metres in modern languages were attempted by Klopstock, who largely forsook rhyme to imitate the ancients, and by Voss, while Goethe doubted whether their wide folds suit us. Modern languages lack natural quantity, since verbal accent given by meaning makes lengths uncertain, so that ancient plasticity cannot be achieved and imitation succeeds only in the more strongly marked rhythms.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Unification of Rhythmical Versification and Rhyme
 Citations:
+  If we keep to German, for example, I need only refer, in connection with the first of these, to Klopstock who wanted little to do with rhyme and instead imitated the classics in both epic and lyric with deep seriousness and untiring industry.
+    — Aesthetics, Versification › Unification of Rhythmical Versification and Rhyme (tr. Knox)
+  Modern languages, on the other hand, lack a natural measure like this because in them the verbal accent, given by the meaning, may itself make a syllable long in contrast to others which are without this significance.
+    — Aesthetics, Versification › Unification of Rhythmical Versification and Rhyme (tr. Knox)

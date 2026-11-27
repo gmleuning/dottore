@@ -29,8 +29,10 @@ Phr:
   to find a loophole
 
 # ---- Hegel ----
-Def: Probabilism, the doctrine that a deed is permissible if any good reason or authority can be found for it.
+Def: Probabilism is the doctrine that an action is permissible, and may be done with an easy conscience, if any good reason for it can be found, even only the authority of one theologian against many others. It makes the subject's choice among reasons and authorities the deciding factor, so that the good becomes a matter of opinion.
 Texts:
   The Philosophy of Right
     §140
 Citations:
+  In this perversion of evil into good we must first of all include the shape known as probabilism. Its guiding principle is that an action is permissible, and may be done with an easy conscience, if the agent can come up with any good reason for it, be it only the authority of one theologian, and even if other theologians are known by the agent to dissent ever so widely from that authority.
+    — The Philosophy of Right §140, Remark (tr. Knox, rev. Houlgate)

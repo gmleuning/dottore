@@ -16,8 +16,12 @@ Phr:
   they pay penalty to one another for their injustice [Anaximander]
 
 # ---- Hegel ----
-Def: Anaximander, whose principle is the infinite (to apeiron), an indeterminate matter from which the opposites separate out.
+Def: For Anaximander, the pupil of Thales, the principle is the infinite, what is undefined or lacks determination, matter as such. Like the other early principles it takes a natural form. He is also reported to have had the infinite plurality of worlds come forth from the One, a procession that Hegel counts a sensuous representation without necessity or concept.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Seven Sages and the Milesians
 Citations:
+  [W]hat is undefined or lacks determination, matter as such.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Seven Sages and the Milesians (tr. Brown)
+  This procession is indeed a succession; it is no concept but a sensuous representation
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Seven Sages and the Milesians (tr. Brown)

@@ -54,8 +54,12 @@ Phr:
   Wahrheil und Dichtung [Ger.]
 
 # ---- Hegel ----
-Def: The mind's free activity with its images: reproduction, association and phantasy.
+Def: Imagination is the second stage of representation, where intelligence works freely on the images it possesses and the opposition arises between the represented and the intuited content. It first reproduces images from its inwardness, then associates them and raises them to universal representations, and finally, as phantasy, gives its universals a pictorial reality in symbol and sign, so forming the transition to memory.
 Texts:
   The Philosophy of Mind
     §§455–460
 Citations:
+  But, secondly, imagination does not merely summon up again the images present in it but relates them to each other and in this way raises them to universal representations.
+    — Encyclopedia §455, Addition (tr. Wallace and Miller, rev. Inwood)
+  The third stage in this sphere is the stage at which intelligence identifies its universal representations with the particularity of the image and so gives them a pictorial reality.
+    — Encyclopedia §455, Addition (tr. Wallace and Miller, rev. Inwood)

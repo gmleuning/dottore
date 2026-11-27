@@ -57,8 +57,12 @@ Phr:
   inflexible in faith invincible in arms [Beattie]
 
 # ---- Hegel ----
-Def: The muscles, the irritability as contraction and expansion, the movement of the organism.
+Def: The muscular system arises as the sensibility of the outer organism passes into irritability and opposition. The muscle's activity is the real, material, mechanical relation to inorganic nature: organic elasticity, which when stimulated withdraws into itself, then negates this yielding and restores itself, pushing against itself in linear movement, in contraction and extension.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  The sensibility of the outer organism having passed over into irritability, into difference, its unitary nature now overcome, passes over into the opposition of the muscular system.
+    — Encyclopedia §354, Addition (tr. Miller)
+  The muscle is the unity of this dual activity, and both moments also exist as kinds of movement.
+    — Encyclopedia §354, Addition (tr. Miller)

@@ -31,8 +31,14 @@ Phr:
   all sorts
 
 # ---- Hegel ----
-Def: The variety of what is given to sense, a manifold without unity.
+Def: Sensuous manifoldness is the boundless variety in which sensuous certainty seems to have its object: an infinite wealth found by going out into space and time or by dividing a piece of that plenitude. Certainty itself does not unfold it, since the item has for it no meaning of a rich relation of conditions or a manifold composition; it only is. Yet countless differences crop up, and the chief among them is that between the I and the object, two thises that fall apart out of pure being.
 Texts:
   The Phenomenology of Spirit
     ¶¶91–92
 Citations:
+  The concrete content of sensuous-certainty permits itself to appear immediately as the richest cognition, indeed, as a knowing of an infinite wealth for which no limit is to be found, whether we venture out into the reaches of space and time as the place where that wealth extends itself, or when we take a piece out of this plenitude, divide it, and thereby delve into it.
+    — The Phenomenology of Spirit ¶91 (tr. Pinkard)
+  In that certainty, neither I nor the item have the meaning of a multifaceted mediation, nor does I have the meaning of a multifaceted representing or thinking, nor does the item have the meaning of a multifaceted composition.
+    — The Phenomenology of Spirit ¶91 (tr. Pinkard)
+  Among all the countless differences thereby popping up, we find in every case the chief difference, namely, that in that certainty both of the already noted “this’s,” namely, a this as an I and a this as an object, precipitates all at once out of pure being.
+    — The Phenomenology of Spirit ¶92 (tr. Pinkard)

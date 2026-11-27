@@ -9,8 +9,12 @@ N:
   caesura, ictus, arsis, thesis
 
 # ---- Hegel ----
-Def: The verse-accent on particular syllables of the foot, and the caesura, which cuts across the feet and keeps the line from falling apart into its units.
+Def: Metrical accent and caesura enliven verse where feet must not coincide with words: a word running past the end of a foot links rhythms, and the pause at its end with the verse accent becomes a deliberate interval. The caesura, required in every line, breaks the cold monotony and brings connection and life into the flow.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  Above all, however, as I have mentioned before, the start and finish of the single feet must not rigidly correspond with the beginning and end of single words
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  The caesura breaks this cold monotony and introduces a connection and more of a life into the flow of the verse, a flow that a line’s undifferentiated regularity would make spiritless.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

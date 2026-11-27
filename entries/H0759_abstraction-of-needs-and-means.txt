@@ -75,8 +75,10 @@ Phr:
   thrift prospers, excess perishes, jian jie ze chang, yin yi ze wang [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: Human needs multiplied and refined beyond the animal's, and their means divided and particularized.
+Def: The abstraction of needs and means is the multiplication, differentiation and refinement of human needs, by which the human being transcends the restriction of the animal's needs. Concrete need is divided into parts which become different needs, and the means are divided and multiplied in turn; needs thus become abstract and social.
 Texts:
   The Philosophy of Right
     §§190–198
 Citations:
+  An animal’s needs and its ways and means of satisfying them are both alike restricted in scope. Though the human being is subject to this restriction too, yet at the same time he evinces his transcendence of it and his universality, first by the multiplication of needs and means of satisfying them, and secondly by the differentiation and division of concrete need into individual parts
+    — The Philosophy of Right §190 (tr. Knox, rev. Houlgate)

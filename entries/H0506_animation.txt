@@ -30,8 +30,12 @@ Phr:
   alive and kicking
 
 # ---- Hegel ----
-Def: The quality of life as self-moving unity.
+Def: Animation is life as consciousness meets it in the living creature: an interior that does not remain abstract but enters entirely into its expression, something mediated by the negation of what is external which turns that mediation back into immediacy. It is an external, sensory existence that is at the same time simply internal, a material being whose parts have lost their separateness, so that each individual is a member of the whole. Life must be conceived as an end in itself.
 Texts:
   The Philosophy of Mind
     §423
 Citations:
+  For life is that interior which does not remain an abstract interior but enters wholly into its expression
+    — Encyclopedia §423, Addition (tr. Wallace and Miller, rev. Inwood)
+  [I]n short, life must be conceived as an end in itself, as an end which has its means within itself, as a totality in which each distinct moment is alike end and means.
+    — Encyclopedia §423, Addition (tr. Wallace and Miller, rev. Inwood)

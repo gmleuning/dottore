@@ -19,8 +19,12 @@ F:
   Greek: gnōsis, plērōma, aiōn, dēmiourgos
 
 # ---- Hegel ----
-Def: Philo, the Kabbalah and the Gnostics, in whom the oriental and the Greek meet: God as the abyss and the Logos as his first-born, the beginning of the Alexandrian concrete idea.
+Def: Philo of Alexandria confines the idea of God to pure being, of which one can know only that it is. But God is concrete and living, and differentiates and determines himself in the Logos, the first-born Son, who rules the world and contains all the ideas. The Cabalists and the Gnostics are treated after Philo.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Neoplatonic Philosophy › The Philosophers
 Citations:
+  Thus Philo confines the idea of God to pure being.
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › The Philosophers (tr. Brown)
+  So God is first of all the One; but the One is indeterminate, whereas God is concrete, God is living.
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › The Philosophers (tr. Brown)

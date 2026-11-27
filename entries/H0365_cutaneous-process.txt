@@ -28,8 +28,12 @@ Adv:
   through the skin
 
 # ---- Hegel ----
-Def: The cutaneous process, the skin's absorbing and exhaling, the organism's general relation to its non-organic nature at its surface.
+Def: The cutaneous process is an advancing vegetative process that breaks out into hair and feathers. The human skin is less hairy than the animal's, while the plumage of birds especially takes vegetable life up into animal life: feathers branch and subdivide in a way that everywhere recalls the plant.
 Texts:
   The Philosophy of Nature
     §362
 Citations:
+  The skin-process is the advancing vegetative process which erupts into hair and feathers.
+    — Encyclopedia §362, Addition (tr. Miller)
+  The human skin is less hirsute than that of the animal; but bird-plumage especially is a taking-up of vegetable life into animal life.
+    — Encyclopedia §362, Addition (tr. Miller)

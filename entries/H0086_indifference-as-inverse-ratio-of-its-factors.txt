@@ -33,8 +33,12 @@ Phr:
   six of one and half a dozen of the other
 
 # ---- Hegel ----
-Def: Indifference determined as the inverse ratio of two factors, which are only through one another.
+Def: Indifference as inverse ratio of its factors is absolute indifference with its determinations posited in it. The substrate is one and indivisible, wholly present in its differences, which at first are only quantitative: two sides that make up a fixed sum, so that one grows as the other diminishes, each side containing both qualities with a more of one and a less of the other. But as qualitatively bound, each quality is only in so far as the other is, and reaches as far as it; every supposed excess of one factor vanishes, and the relation becomes a contradiction.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › The becoming of essence › Indifference as inverse ratio of its factors
 Citations:
+  Accordingly, they stand in inverse ratio to each other.
+    — The Science of Logic, The becoming of essence › Indifference as inverse ratio of its factors (tr. di Giovanni)
+  As qualitatively connected, however, each is only in so far as the other is.
+    — The Science of Logic, The becoming of essence › Indifference as inverse ratio of its factors (tr. di Giovanni)

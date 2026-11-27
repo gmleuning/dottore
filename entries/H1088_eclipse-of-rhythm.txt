@@ -8,8 +8,12 @@ N:
   eclipse of rhythm; the receding of rhythm, the loss of quantity, the passing of metre, the turn to sound, accentual verse
 
 # ---- Hegel ----
-Def: Das Zurücktreten des Rhythmus: where the accent of meaning overrides quantity, rhythm recedes and the sound of the syllables, in rhyme, takes its place.
+Def: The eclipse of rhythm follows in modern languages, where time and the sound of syllables are surpassed by something more ideal, the sense of words, so that independent rhythmic shaping is damped. If the sensuous element is still to counterbalance intellect, nothing remains but the express and isolated sound of syllables as such, which leads to rhyme.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  In such [modern] languages there is little room for rhythm, or the soul has little freedom any longer to spread itself in it
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  [N]o other material can be adopted except the express, firmly isolated, figured sound of the linguistic] syllables as such.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

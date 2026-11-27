@@ -26,8 +26,12 @@ F:
   Greek: ataraxia, aponia, lathe biōsas [live hidden], hēdonē, kanōn, prolēpsis, tetrapharmakos, kēpos
 
 # ---- Hegel ----
-Def: The Epicureans, for whom the criterion is sensation.
+Def: Epicurus treats first the criterion of truth, then nature, then morals. His logic, the canon, makes sensation the first moment of the criterion, with anticipation and opinion; sensation by itself cannot be refuted. In morals the aim of all we do is to avoid pain and disturbance and to attain peace and equanimity, so that not every pleasure is chosen.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Epicurean Philosophy
 Citations:
+  Sensation taken by itself is alogical, devoid of reason [Grund]; it [simply] is and nothing else affects it, adds to it, or detracts from it.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Epicurean Philosophy (tr. Brown)
+  For this reason all that we do is done to avoid pain and disturbance.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Epicurean Philosophy (tr. Brown)

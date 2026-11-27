@@ -36,8 +36,14 @@ Phr:
   within reason
 
 # ---- Hegel ----
-Def: The certainty of consciousness that it is all reality; the identity of the concept with its object, the unity of consciousness and self-consciousness.
+Def: Reason is the certainty of consciousness that it is all reality. Self-consciousness, which had saved its freedom at the cost of the world, now turns its negative relation to otherness into a positive one: certain that all actuality is nothing but itself, it behaves toward the world as idealism and for the first time takes an interest in its continuing existence. This certainty is at first only an assertion that has forgotten the path leading to it, and reason must make it true by finding itself in what is.
 Texts:
   The Phenomenology of Spirit
     ¶¶231–437
 Citations:
+  Since self-consciousness is reason, what had so far been its negative relation to otherness is now converted into a positive relation.
+    — The Phenomenology of Spirit ¶232 (tr. Pinkard)
+  Reason is the certainty which consciousness has of being all reality; or so it is in that way that idealism expresses its concept of itself.
+    — The Phenomenology of Spirit ¶233 (tr. Pinkard)
+  In its continuing existence, this world interests it in the way it previously was only interested in the world’s disappearance, for, to self-consciousness, that world’s stable existence comes to be its own truth and present moment, and it is certain that it experiences only itself within it.
+    — The Phenomenology of Spirit ¶232 (tr. Pinkard)

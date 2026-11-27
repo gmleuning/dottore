@@ -9,8 +9,12 @@ N:
   cadence
 
 # ---- Hegel ----
-Def: The sound of the syllables, which gains weight as the rhythmic element recedes.
+Def: The sound of syllables is the third element of rhythmic verse, which is not exhausted by the shaping of time but extends to the sound of words. Here there is an essential difference between classical languages, which keep rhythm as the chief thing, and modern ones, which are chiefly suited to rhyme.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  But thirdly this first sphere of rhythmical versification is not exhausted by the mere figuration and enlivenment of temporal duration but is extended to the actual sound of syllables and words.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  But in this matter of sound there is clearly an essential difference between the classical languages, where rhythm is firmly retained as the chief thing, in the way described, and the modem languages which are chiefly apt for rhyme.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

@@ -42,8 +42,12 @@ Phr:
   as large as life
 
 # ---- Hegel ----
-Def: The immediacy of being restored by the sublation of mediation: being that has come forth from ground.
+Def: Concrete existence is essence that has come forth into immediacy. The truth of being is not to be an immediate something but this: whatever is, exists concretely. It proceeds from ground and condition by sublating the mediation between them, so that it may be said both to have a ground and to have none. It is the second kind of being, after immediate being, and it is not the product of a proof or a derivation from outside but the movement of the fact itself. As negative unity it is a thing.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Concrete existence
 Citations:
+  The truth of being is to be, not an immediate something, but essence that has come forth into immediacy.
+    — The Science of Logic, Concrete existence (tr. di Giovanni)
+  For concrete existence is the immediacy that has come forth from the sublating of the mediation that results from the connection of ground and condition, and which, in coming forth, sublates this very coming forth.
+    — The Science of Logic, Concrete existence (tr. di Giovanni)

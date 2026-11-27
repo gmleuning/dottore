@@ -33,8 +33,12 @@ Phr:
   to sense danger
 
 # ---- Hegel ----
-Def: The theoretical process: the senses, through which the animal relates to its object without consuming it.
+Def: The theoretical process is sensibility as outward process, a determinate feeling differentiated into manifold senses toward non-organic nature, free and disinterested, leaving the external object's existence untouched. The senses are feeling, for the mechanical sphere; smell and taste; and sight and hearing, in which the physical self is manifested in space and in time.
 Texts:
   The Philosophy of Nature
     §§357–358
 Citations:
+  The theoretical process is the free, disinterested one of sensation which also leaves the existence of the external object unaffected.
+    — Encyclopedia §357, Addition (tr. Miller)
+  In sight, the physical self manifests itself spatially, and in hearing, temporally.
+    — Encyclopedia §358, Addition (tr. Miller)

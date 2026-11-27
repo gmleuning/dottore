@@ -65,8 +65,10 @@ Phr:
   suo sibi gladio hunc jugulo [Lat.] [Terence]
 
 # ---- Hegel ----
-Def: Punishment, the criminal's own right, honouring them as a rational being; justice instead of revenge.
+Def: Punishment is the annulment of crime that is right not only in itself but also the criminal's own right. Because the crime is the act of a rational being, it sets up a universal law which the criminal has recognized in acting, and under which they are to be subsumed as under their right: punishment honours them as rational.
 Texts:
   The Philosophy of Right
     §§99–101
 Citations:
+  For his action is the action of a rational being and this implies that it is something universal and that by doing it the criminal has set up a law which he has explicitly recognized in his action and under which in consequence he should be subsumed as under his right.
+    — The Philosophy of Right §100 (tr. Knox, rev. Houlgate)

@@ -25,8 +25,12 @@ Phr:
   occurrent nubes [Lat.]
 
 # ---- Hegel ----
-Def: The limit as a restriction (Schranke) within something, and the ought (Sollen) that is to go beyond it; each implies the other.
+Def: Restriction and the ought are the two moments of the finite. Something's own limit, posited by it as a negative that is at the same time essential, is a restriction; and its being-in-itself, as negative reference to that limit as to its restriction, is the ought. For a limit to be a restriction, something must at the same time transcend it. Each is only with the other: something is raised above its restriction as ought, yet has its restriction only as ought. What ought to be both is and is not.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Finitude › Restriction and the ought
 Citations:
+  Something’s own limit, thus posited by it as a negative which is at the same time essential, is not only limit as such, but restriction.
+    — The Science of Logic, Finitude › Restriction and the ought (tr. di Giovanni)
+  As ought something is thus elevated above its restriction, but conversely it has its restriction only as ought. The two are indivisible. Something has a restriction in so far as it has negation in its determination, and the determination is also the being sublated of the restriction.
+    — The Science of Logic, Finitude › Restriction and the ought (tr. di Giovanni)

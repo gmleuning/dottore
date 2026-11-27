@@ -47,8 +47,14 @@ Phr:
   kto? kogo? [Rus.] [who? whom?] [Lenin, 1921]
 
 # ---- Hegel ----
-Def: The unequal recognition of master and servant, in which the servant's fear and labour turn out to be the way to freedom.
+Def: Mastery and servitude is the unequal recognition that results from the struggle: one consciousness, the master, is for itself and only recognized; the other, the servant, has life or being for another as its essence and only recognizes. The master relates to the thing through the servant and merely enjoys it. But because the recognition is one-sided, the master's truth turns out to be the servile consciousness, and servitude, forced back into itself, becomes through fear, service and work the opposite of what it immediately is.
 Texts:
   The Phenomenology of Spirit
     ¶¶178–196
 Citations:
+  One is self-sufficient; for it, its essence is being-for-itself. The other is non-self-sufficient; for it, life, or being for an other, is the essence. The former is the master, the latter is the servant.
+    — The Phenomenology of Spirit ¶189 (tr. Pinkard)
+  As a result, a form of recognition has arisen that is one-sided and unequal.
+    — The Phenomenology of Spirit ¶191 (tr. Pinkard)
+  The truth of the self-sufficient consciousness is thus the servile consciousness.
+    — The Phenomenology of Spirit ¶193 (tr. Pinkard)

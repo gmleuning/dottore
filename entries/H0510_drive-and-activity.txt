@@ -17,8 +17,12 @@ Phr:
   an urge to act
 
 # ---- Hegel ----
-Def: The drive to sublate the object, and the activity that satisfies it.
+Def: Drive and activity make up the process of desire. Self-consciousness, immediate and single, is the contradiction between its certainty of itself and an external object, and a being that bears a contradiction and feels it necessarily has the urge to sublate it. It is aware of itself implicitly in the object, which answers to the urge, and by its activity negates both one-sided moments, so that the subject is made objective and the object subjective.
 Texts:
   The Philosophy of Mind
     §§426–427
 Citations:
+  Self-consciousness, therefore, is aware of itself implicitly in the object, which in this relation is conformable to the urge.
+    — Encyclopedia §427 (tr. Wallace and Miller, rev. Inwood)
+  In this process the given object is posited subjectively, just as subjectivity divests itself of its one-sidedness and becomes objective to itself.
+    — Encyclopedia §427 (tr. Wallace and Miller, rev. Inwood)

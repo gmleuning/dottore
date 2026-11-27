@@ -26,8 +26,12 @@ Phr:
   feet of clay
 
 # ---- Hegel ----
-Def: The argillaceous moment, clay and mica, the earth of plasticity.
+Def: The argillaceous moment and its cognate forms stand between the siliceous and the calcareous. In granite its place is taken by mica, the surface developed to the stage of opposition and the moment of combustibility containing the germ of every abstract form. Argillaceous earth and coal formations finally pass into peat, where mineral and vegetable are indistinguishable.
 Texts:
   The Philosophy of Nature
     §340
 Citations:
+  [M]ica, the surface which has developed to the stage of opposition, the punctiform principle which has unfolded itself, the moment of combustibility which contains the germ of every abstract form
+    — Encyclopedia §340, Addition (tr. Miller)
+  Argillaceous earth and coal formations become transformed unmistakably into peat, where mineral and vegetable are no longer distinguishable
+    — Encyclopedia §340, Addition (tr. Miller)

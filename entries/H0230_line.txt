@@ -57,8 +57,12 @@ Phr:
   go beyond the pale
 
 # ---- Hegel ----
-Def: The point's negation of itself into otherness, the line, the first being-other of the point.
+Def: The line is the point's first other-being, its spatial being, arising because the negation of space is itself spatial and the point sublates itself. It does not consist of points but is the point existing outside itself and relating to space. Taken from space as positive element, it is the second negation, which in its truth returns to the point.
 Texts:
   The Philosophy of Nature
     §256
 Citations:
+  The point, as essentially this relation, i.e. as sublating itself, is the line, the first other-being, i.e. spatial being, of the point.
+    — Encyclopedia §256 (tr. Miller)
+  [B]ut as the second negation of space the line is, in its truth, the negation which relates self to self, the point.
+    — Encyclopedia §256, Remark (tr. Miller)

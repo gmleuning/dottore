@@ -28,8 +28,12 @@ Phr:
   the presentation of God as he is in his eternal essence before the creation of nature and a finite spirit [Hegel]
 
 # ---- Hegel ----
-Def: The Science of Logic, the pure thought determinations, the idea in the element of thinking.
+Def: The Science of Logic is Hegel's exposition of pure thought, whose introduction declares that no science needs more to begin with the matter itself, without preliminary reflections. Its subject matter and method are not given in advance but generated in the course of the work, and what precedes it can only make its standpoint more intuitable. To study it, to dwell and labour in this realm of shadows, the world of simple essentialities freed from all sensuous concretion, is the absolute discipline of consciousness.
 Texts:
   The Science of Logic
     Introduction
 Citations:
+  In no science is the need to begin with the fact [Sache] itself, without preliminary reflections, felt more strongly than in the science of logic.
+    — The Science of Logic, Introduction (tr. di Giovanni)
+  To study this science, to dwell and to labor in this realm of shadows, is the absolute culture and discipline of consciousness.
+    — The Science of Logic, Introduction (tr. di Giovanni)

@@ -31,8 +31,12 @@ Phr:
   fate and character
 
 # ---- Hegel ----
-Def: The difference of ancient and modern drama: substantial ethical powers against individual character.
+Def: Ancient and modern drama differ by the same principle that divides tragedy from comedy. Greek drama brings forward the universal and essential element of the aims, the battle of ethical powers and gods, with characters as their representatives; modern or romantic drama takes an individual's passion and fate, greatness of character, wealth of figures and intrigue as its chief interest.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › Difference between Ancient and Modern Dramatic Poetry
 Citations:
+  Therefore what principally counts in Greek drama, whether tragedy or comedy, is the universal and essential element in the aim which the characters are realizing
+    — Aesthetics, The Genres of Dramatic Poetry › Difference between Ancient and Modern Dramatic Poetry (tr. Knox)
+  In modem, or romantic, poetry, on the other hand, the principal topic is provided by an individual’s passion, which is satisfied in the pursuit of a purely subjective end, and, in general, by the fate of a single individual and his character in special circumstances.
+    — Aesthetics, The Genres of Dramatic Poetry › Difference between Ancient and Modern Dramatic Poetry (tr. Knox)

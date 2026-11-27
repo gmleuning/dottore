@@ -26,8 +26,12 @@ Phr:
   to break the mould
 
 # ---- Hegel ----
-Def: Mechanism whose self-determination is law, and which passes beyond indifferent externality into chemism.
+Def: In the transition of mechanism the law, soul of the objective totality, is still immersed in its body: free necessity that has not yet stepped over against its object. The objects have their self-standing only in the central unity and its laws, so that their dependence becomes a striving toward the object determinately opposed to them, and the centre itself falls apart into opposition. Centrality is now the reciprocally negative, tense relation of objects: free mechanism determines itself as chemism.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism › Absolute mechanism › Transition of mechanism
 Citations:
+  This soul is however still immersed in its body.
+    — The Science of Logic, Absolute mechanism › Transition of mechanism (tr. di Giovanni)
+  Centrality, therefore, is now the reciprocally negative and tense connection of these objectivities. Thus free mechanism determines itself to chemism.
+    — The Science of Logic, Absolute mechanism › Transition of mechanism (tr. di Giovanni)

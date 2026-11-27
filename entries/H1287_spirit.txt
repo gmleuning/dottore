@@ -29,8 +29,12 @@ Phr:
   spirit knows itself
 
 # ---- Hegel ----
-Def: The philosophy of spirit, the science of the idea that returns into itself from its otherness.
+Def: The philosophy of spirit is the third part of the Encyclopaedia, the science of the idea that returns into itself from its otherness in nature. It treats spirit as subjective, objective and absolute. Its knowledge is the most concrete and therefore the highest and most difficult, answering the command to know oneself, understood as knowledge of what is genuinely human, since all activity of spirit is an apprehension of itself.
 Texts:
   The Philosophy of Mind
     §§377–577
 Citations:
+  The knowledge of mind is the most concrete knowledge, and thus the highest and most difficult.
+    — Encyclopedia §377 (tr. Wallace and Miller, rev. Inwood)
+  All activity of the mind is, therefore, only an apprehension of itself, and the aim of all genuine science is just this, that mind shall recognize itself in everything in heaven and on earth.
+    — Encyclopedia §377, Addition (tr. Wallace and Miller, rev. Inwood)

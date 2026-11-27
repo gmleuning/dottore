@@ -57,8 +57,12 @@ Phr:
   nothing is more valuable than what is right, wan shi mo gui yu yi [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: The good, realized freedom, the absolute end of the world.
+Def: The good is freedom realized, the absolute final end of the world. In it welfare has validity only as universal welfare according with freedom, and right only together with welfare: welfare without right is not good, and right without welfare is not the good.
 Texts:
   The Philosophy of Right
     §§129–131
 Citations:
+  The good is thus freedom realized, the absolute end and aim of the world.
+    — The Philosophy of Right §129 (tr. Knox, rev. Houlgate)
+  Welfare without right is not a good. Similarly, right without welfare is not the good; fiat justitia should not be followed by pereat mundus.
+    — The Philosophy of Right §130 (tr. Knox, rev. Houlgate)

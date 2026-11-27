@@ -45,8 +45,12 @@ Phr:
   make the world a better place
 
 # ---- Hegel ----
-Def: The idea of the good, the will that seeks to determine the world according to its own end.
+Def: The idea of the good is the practical idea, the concept as determinate subject, certain of its own actuality and of the nullity of the given world, and impelled to realize itself in it. The good is the determinateness in the concept, equal to it, that demands individual external actuality. It ranks above the idea of cognition, having the worth not only of the universal but of the absolutely actual.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The idea of cognition › The idea of the good
 Citations:
+  This determinateness which is in the concept, is equal to the concept, and entails a demand for singular external actuality, is the good.
+    — The Science of Logic, The idea of cognition › The idea of the good (tr. di Giovanni)
+  This idea is superior to the idea of cognition just considered, for it has not only the value of the universal but also of the absolutely actual.
+    — The Science of Logic, The idea of cognition › The idea of the good (tr. di Giovanni)

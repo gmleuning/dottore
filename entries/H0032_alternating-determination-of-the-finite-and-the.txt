@@ -40,8 +40,12 @@ Phr:
   an endless round
 
 # ---- Hegel ----
-Def: The spurious (bad) infinite, fixed beyond the finite and so itself finite: the endless alternation of finite and infinite, the infinite progress.
+Def: Taken immediately, as the non-being of an other, the infinite falls back into something determinate standing over against the finite. This is the bad infinite of the understanding, a beyond, empty and unattainable, which is limited by the finite and so itself finite. Each posits the other outside itself and each emerges only in the other. Their alternating determination runs on as the infinite progress: a limit is crossed, a new one arises, and so without end. It is the perpetual ought, a contradiction never resolved but only pronounced.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Infinity › Alternating determination of finite and infinite
 Citations:
+  As thus posited over against the finite, the two connected by the qualitative mutual reference of others, the infinite is to be called the bad infinite, the infinite of the understanding, for which it counts as the highest, the absolute truth.
+    — The Science of Logic, Infinity › Alternating determination of finite and infinite (tr. di Giovanni)
+  This bad infinite is in itself the same as the perpetual ought; it is indeed the negation of the finite, but in truth it is unable to free itself from it; the finite constantly resurfaces in it as its other, since this infinite only is with reference to the finite, which is its other. The progress to infinity is therefore only repetitious monotony, the one and the same tedious alternation of this finite and infinite.
+    — The Science of Logic, Infinity › Alternating determination of finite and infinite (tr. di Giovanni)

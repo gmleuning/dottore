@@ -24,8 +24,10 @@ Phr:
   so daß dann der Mensch davontreten und an seine Stelle die Maschine eintreten lassen kann [Ger.] [Hegel, Philosophy of Right §198]
 
 # ---- Hegel ----
-Def: Divided labour grows ever more mechanical, until the human being can step away and let the machine take their place (§198).
+Def: Mechanization is the outcome of the division of labour. The abstraction of production makes work more and more mechanical, until the human being is able to step aside and let a machine take their place.
 Texts:
   The Philosophy of Right
     §198
 Citations:
+  [M]akes work more and more mechanical, until finally the human being is able to step aside and let a machine take his place.
+    — The Philosophy of Right §198 (tr. Knox, rev. Houlgate)

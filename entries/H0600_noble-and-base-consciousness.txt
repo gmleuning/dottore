@@ -42,8 +42,12 @@ Phr:
   non vobis solum [Lat.]
 
 # ---- Hegel ----
-Def: The noble consciousness which finds itself in state power and wealth, and the base which sees in them only oppression.
+Def: Noble and base consciousness are the two ways of relating to state power and wealth. The consciousness that finds itself equal to them, honouring authority and grateful for wealth, is noble; the base consciousness clings to the inequality: it sees the ruler's power as a shackle on its being-for-itself, obeys with concealed malice and stands ready to revolt, and loves wealth while despising it, since the enjoyment wealth gives is transitory.
 Texts:
   The Phenomenology of Spirit
     ¶¶500–503
 Citations:
+  The consciousness of the other relation, by comparison, is that of baseness, which clings tenaciously to the inequality between both essentialities.
+    — The Phenomenology of Spirit ¶500 (tr. Pinkard)
+  It thus sees the authority of the ruler as a shackle, as the suppression of its being-for-itself, and it thus hates the ruler and only obeys him with concealed malice, standing ever-ready to spring into revolt.
+    — The Phenomenology of Spirit ¶500 (tr. Pinkard)

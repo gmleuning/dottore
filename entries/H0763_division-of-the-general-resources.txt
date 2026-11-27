@@ -90,8 +90,12 @@ Phr:
   squandering wealth was his peculiar art [Dryden]
 
 # ---- Hegel ----
-Def: The universal permanent resources and their division into estates, systems of need, means and work.
+Def: The division of the general resources is the way in which the universal permanent resources, arising from the interdependence of all, are shared out. Each draws a share by their education and skill, and in doing so maintains and increases the general resources; but shares are unequal and form particular systems of need, means and work, the estates.
 Texts:
   The Philosophy of Right
     §§199–208
 Citations:
+  [S]ubjective self-seeking turns into a contribution to the satisfaction of the needs of everyone else.
+    — The Philosophy of Right §199 (tr. Knox, rev. Houlgate)
+  [N]ow presents itself to each individual as the universal permanent resources (see § 170) which give each the opportunity, by the exercise of his education and skill, to draw a share from it and so be assured of his livelihood, while what he thus earns by means of his work maintains and increases the general resources.
+    — The Philosophy of Right §199 (tr. Knox, rev. Houlgate)

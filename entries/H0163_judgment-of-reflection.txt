@@ -31,8 +31,12 @@ Phr:
   for what it's worth
 
 # ---- Hegel ----
-Def: The predicate is an essential universality of relation, by which the subject is related to other things.
+Def: The judgement of reflection is that in which the subject is a singular as such and the predicate no longer an abstract quality but a universality gathered through the relation of different terms, as in saying that humans are mortal or that something is useful. Such predicates express an essentiality which is relational. The movement falls on the side of the subject, which is extended from this one through some to all.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of reflection
 Citations:
+  [T]he universal is no longer an abstract universality, or a singular property, but is posited as a universal that has collected itself together into a unity through the connection of different terms
+    — The Science of Logic, Judgment › The judgment of reflection (tr. di Giovanni)
+  They express an essentiality which is however a relational determination, or a comprehensive universality.
+    — The Science of Logic, Judgment › The judgment of reflection (tr. di Giovanni)

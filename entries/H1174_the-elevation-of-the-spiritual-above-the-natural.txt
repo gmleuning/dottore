@@ -30,8 +30,12 @@ Phr:
   the gods become persons
 
 # ---- Hegel ----
-Def: The religions in which spirit is raised above nature: beauty, sublimity, expediency.
+Def: At this second stage of the ethnic religions the spiritual raises itself above the natural, so that the simple blending of the two ceases. Free subjectivity attains lordship over the finite, and the natural serves only to manifest spirit. In the religion of beauty the natural is transfigured into a sign of spirit; in the religion of sublimity it is not so taken up.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › The Religion of the Greeks and the Jews
 Citations:
+  This is the stage where the spiritual elevates itself above the natural, to a freedom that is partly beyond natural life, and partly within it, so that the [simple] blending of the spiritual and the natural ceases.
+    — Lectures on the Philosophy of Religion, Determinate Religion (1827) › The Religion of the Greeks and the Jews (tr. Brown, Hodgson and Stewart)
+  [T]he natural is only instrumental; it has only the characteristic of glorifying, manifesting, and revealing the spirit
+    — Lectures on the Philosophy of Religion, Determinate Religion (1827) › The Religion of the Greeks and the Jews (tr. Brown, Hodgson and Stewart)

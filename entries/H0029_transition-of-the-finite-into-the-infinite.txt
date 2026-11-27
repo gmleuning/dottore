@@ -39,8 +39,14 @@ Phr:
   to go beyond
 
 # ---- Hegel ----
-Def: The finite, by sublating its own restriction, goes beyond itself and in this going-beyond is the infinite.
+Def: The transition of the finite into the infinite follows from the mutual connection of restriction and the ought, each of which contains the other. The finite is thus in itself the contradiction of itself: it sublates itself and ceases to be. At first it only becomes another finite, and so on to infinity. But in this ceasing to be, in the negation of itself, the finite has attained its being-in-itself: the ought, in going beyond restriction, and restriction, in pointing beyond itself, each rejoins itself. This identity with itself, negation of negation, is affirmative being, the other of the finite, which is the infinite.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Finitude › Transition of the finite into the infinite
 Citations:
+  The finite is thus in itself the contradiction of itself; it sublates itself, it goes away and ceases to be.
+    — The Science of Logic, Finitude › Transition of the finite into the infinite, Remark (tr. di Giovanni)
+  [I]n its going-away and ceasing-to-be, in this negation of itself, the finite has attained its being-in-itself; in it, it has rejoined itself.
+    — The Science of Logic, Finitude › Transition of the finite into the infinite, Remark (tr. di Giovanni)
+  This identity with itself, the negation of negation, is affirmative being, is thus the other of the finite which is supposed to have the first negation for its determinateness; this other is the infinite.
+    — The Science of Logic, Finitude › Transition of the finite into the infinite, Remark (tr. di Giovanni)

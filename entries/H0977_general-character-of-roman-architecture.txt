@@ -28,8 +28,12 @@ Phr:
   bread and circuses
 
 # ---- Hegel ----
-Def: Roman building, grand, practical and magnificent, serving the purposes of the state and of luxury.
+Def: Roman architecture generally differs wholly in range and character from the Greek: the Romans were skilful in the mechanics of building and made richer, more magnificent works with less nobility and grace. New purposes arose, theatres, amphitheatres and the luxurious villas and baths of private life, whereas the Greeks lavished beauty only on public buildings. It later served Italians and French as a model.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Different Styles in Classical Architecture › General Character of Roman Architecture
 Citations:
+  Whereas the Romans are skilful in the mechanics of building, and although their buildings are richer and more magnificent, they have less nobility and grace.
+    — Aesthetics, The Different Styles in Classical Architecture › General Character of Roman Architecture (tr. Knox)
+  For, as I said at the beginning, the Greeks devoted the splendour and beauty of art only to public buildings; their private houses remained insignificant.
+    — Aesthetics, The Different Styles in Classical Architecture › General Character of Roman Architecture (tr. Knox)

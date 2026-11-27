@@ -27,8 +27,12 @@ Phr:
   dying of thirst
 
 # ---- Hegel ----
-Def: Thirst, the animal's process with water, the felt lack that turns it toward the element.
+Def: Thirst is the process with water, the demand for the neutral element, on one side to counteract the abstract heat within, on the other to remove a specific taste. An urge is instinct only when related to an individualized object, and the satisfied need returns, whereas spirit finds satisfaction in knowing universal truths.
 Texts:
   The Philosophy of Nature
     §362
 Citations:
+  The process with water is the demand for the neutral Element: on the one side, to counteract the abstract heat within itself, and on the other, to counteract the specific taste of which one wants to get rid; for that is why one drinks.
+    — Encyclopedia §362, Addition (tr. Miller)
+  But whereas in such relationship the momentarily satisfied need always recurs, spirit finds its satisfaction in the cognition of universal truths, in a universal manner.
+    — Encyclopedia §362, Addition (tr. Miller)

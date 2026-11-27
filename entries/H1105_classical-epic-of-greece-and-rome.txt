@@ -27,8 +27,12 @@ Phr:
   the wine-dark sea
 
 # ---- Hegel ----
-Def: The classical epic of Homer, and its imitations in Virgil.
+Def: Classical epic takes us first into the truly epic world of art, above all in Homer, whose poems hover beautifully between the universal ethical order and individual character, spirit and nature, intention and outcome. Later Greek epic lost its naive freshness, and Rome, lacking an epic bible, produced the artistic epic, finest in the Aeneid, with historical and didactic poetry.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Classical Epic of Greece and Rome
 Citations:
+  [W]e find in the Homeric poems for the first time a world hovering beautifully between the universal foundations of life in the ethical order of family, state, and religious belief, and the individual personal character
+    — Aesthetics, The Historical Development of Epic Poetry › The Classical Epic of Greece and Rome (tr. Knox)
+  On the contrary, alongside the artistic epic proper, of which the Aeneid remains the finest example, the historical epic and the didactic poem were there from early times
+    — Aesthetics, The Historical Development of Epic Poetry › The Classical Epic of Greece and Rome (tr. Knox)

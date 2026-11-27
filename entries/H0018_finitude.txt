@@ -41,8 +41,12 @@ Phr:
   for good and all
 
 # ---- Hegel ----
-Def: The determinate being of something, which has its end in itself; to be finite is to carry the seed of one's passing away.
+Def: Finitude is the section of existence in which the negation present in something is developed. Something stands over against an other; it has a determination, a constitution and a limit; and as it carries that limit within itself as its own contradiction it is finite. Finite things are not merely limited: non-being constitutes their nature. Referring to themselves, they refer to themselves negatively and are driven beyond their own being. Their truth is their end, and their perishing is no mere possibility.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude
 Citations:
+  Finite things are, but in their reference to themselves they refer to themselves negatively – in this very self-reference they propel themselves beyond themselves, beyond their being. They are, but the truth of this being is (as in Latin) their finis, their end.
+    — The Science of Logic, Existence › Finitude (tr. di Giovanni)
+  The finite does not just alter, as the something in general does, but perishes, and its perishing is not just a mere possibility, as if it might be without perishing. Rather, the being as such of finite things is to have the germ of this transgression in their in-itselfness: the hour of their birth is the hour of their death.
+    — The Science of Logic, Existence › Finitude (tr. di Giovanni)

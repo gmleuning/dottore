@@ -58,8 +58,12 @@ Phr:
   chi non s'arrischia non guadagna [Fr.]
 
 # ---- Hegel ----
-Def: Observing reason in nature: description, marks, laws, the organic and its expression.
+Def: The observation of nature is reason's search for itself among natural things. It is not mere tasting, smelling and seeing, for what it observes must at least have the meaning of a universal. It begins by describing, passes to marks, genera and laws, and in organic life looks for the law relating inner and outer. Where organic universality descends at once into singularity without genuine mediation, observation gets no further than suppositions, interesting connections and a great influence of environment, which are no knowledge of necessity.
 Texts:
   The Phenomenology of Spirit
     ¶¶244–297
 Citations:
+  The meaning of what is perceived should at least be that of a universal, not a sensuous this.
+    — The Phenomenology of Spirit ¶244 (tr. Pinkard)
+  However, charming remarks are no knowing of necessity. Interesting connections are just that: interesting. However, the interest is still nothing but suppositional fancy about reason.
+    — The Phenomenology of Spirit ¶297 (tr. Pinkard)

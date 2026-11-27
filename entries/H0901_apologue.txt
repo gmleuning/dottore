@@ -21,8 +21,12 @@ Adv:
   by way of a moral
 
 # ---- Hegel ----
-Def: Der Apolog: a parable in which a single case is presented as an example of a general meaning that it does not merely signify but contains.
+Def: An apologue, or moral fable, may be seen as a parable that does not use the individual case merely as a simile to illustrate a universal meaning but expresses the maxim within that cloak, the maxim being contained in the case told as an example. Goethe's God and the Bayadere is one, and the narrative may end by giving its lesson without comparison.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Parable, Proverb, Apologue › Apologue
 Citations:
+  The apologue, thirdly, may be regarded as a parable which does not use the individual case merely as a simile to illustrate a universal meaning but in this cloak itself brings out and expresses the universal maxim—since the maxim is actually contained in the individual case which yet is recounted as only an individual example.
+    — Aesthetics, Parable, Proverb, Apologue › Apologue (tr. Knox)
+  In the apologue the narrative may be so conducted that its conclusion provides the lesson itself without any mere comparison
+    — Aesthetics, Parable, Proverb, Apologue › Apologue (tr. Knox)

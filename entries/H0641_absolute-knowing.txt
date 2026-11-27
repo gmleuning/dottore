@@ -34,8 +34,12 @@ Phr:
   the whole truth
 
 # ---- Hegel ----
-Def: Spirit that knows itself as spirit, in the form of the concept rather than representation: science.
+Def: Absolute knowing is spirit knowing itself in the shape of spirit, comprehending knowing, in which what religion held as content in the form of representation receives the form of the self. Truth is here not only the same as certainty but has the shape of self-certainty. The form of objectivity that remained is overcome, since consciousness has related to its object according to all its determinations and found in each a determination of the self. Spirit appearing in this element is science.
 Texts:
   The Phenomenology of Spirit
     ¶¶788–808
 Citations:
+  It is spirit knowing itself in the shape of spirit, or it is comprehending conceptual knowing.
+    — The Phenomenology of Spirit ¶798 (tr. Pinkard)
+  Spirit, appearing to consciousness in this element, or, what amounts to the same thing here, what is therein engendered by it, is science.
+    — The Phenomenology of Spirit ¶798 (tr. Pinkard)

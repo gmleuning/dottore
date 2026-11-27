@@ -27,8 +27,12 @@ Phr:
   stance and drapery
 
 # ---- Hegel ----
-Def: The particular features of the ideal form: profile, posture, drapery.
+Def: The particular aspects of the ideal form, treated chiefly after Winckelmann, concern how Greek artists made the human form express spirit. That expression must spread over the whole body but is concentrated in the face, the other members reflecting spirit only in their position. So Hegel considers the head, then the position and movement of the body, and then the principle of drapery.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture
 Citations:
+  Although the expression of spirit must be diffused over the appearance of the entire body, it is most concentrated in the face, whereas the other members can reflect the spirit only in their position, provided that that has been the work of the inherently free spirit.
+    — Aesthetics, The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture (tr. Knox)
+  Our consideration of the ideal forms will begin with the head; then, secondly, we will go on to discuss the position of the body, and then we end with the principle for the drapery.
+    — Aesthetics, The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture (tr. Knox)

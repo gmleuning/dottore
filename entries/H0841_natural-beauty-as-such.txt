@@ -27,8 +27,12 @@ Phr:
   a living picture
 
 # ---- Hegel ----
-Def: Natural beauty as the idea in its immediate existence as life, the organism whose members are animated by one soul.
+Def: Natural beauty as such is the idea in its immediate existence as life. Where the concept sinks wholly into matter, as in a metal, no ideal unity appears; in a system such as the solar system the bodies hang together yet the unity stays implicit; only in the living organism do the distinct members exist as moments of one animating subjective unity. Beauty in nature is this life as it appears to a beholder.
 Texts:
   Aesthetics
     The Beauty of Nature › Natural Beauty as Such
 Citations:
+  Such a body lacks the complete articulation which it would have if each of its different parts had a particular material existence of its own, nor can it have the negative ideal unity of these parts which would declare itself as their animation.
+    — Aesthetics, The Beauty of Nature › Natural Beauty as Such (tr. Knox)
+  This is the Concept's first mode of existence. Its distinctions have no independent existence, and its ideal unity does not emerge as ideal; on this account, then, such separated bodies are in themselves defective and abstract existents.
+    — Aesthetics, The Beauty of Nature › Natural Beauty as Such (tr. Knox)

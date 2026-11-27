@@ -30,8 +30,12 @@ Phr:
   equal areas in equal times
 
 # ---- Hegel ----
-Def: The laws of absolutely free motion, which Hegel claims as the concept of matter itself rather than Newton's derivation from forces.
+Def: Kepler's laws are the laws of absolutely free motion, discovered by Kepler with immortal fame and proved in the sense that Kepler gave the data their general expression. Hegel denies that Newton first proved them: the Newtonian formulae can be deduced from them, the idea of the planets' immanent connection with the sun was already Kepler's, and Newton did not prove the ellipse.
 Texts:
   The Philosophy of Nature
     §270
 Citations:
+  The laws of absolutely free motion were discovered, as is well known, by Kepler—a discovery of immortal fame.
+    — Encyclopedia §270, Remark (tr. Miller)
+  At first, the thought that the planets stood in an immanent connection with the sun was not present in Newton's mind, although Kepler already had it.
+    — Encyclopedia §270, Addition (tr. Miller)

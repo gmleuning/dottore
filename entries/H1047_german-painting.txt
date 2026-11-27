@@ -13,8 +13,12 @@ Adj:
   German, Düreresque
 
 # ---- Hegel ----
-Def: Die oberdeutsche Malerei: the old painting of upper Germany, close to the Netherlandish school, intense in piety and expression.
+Def: German painting, which Hegel joins to that of the Low Countries, expresses depth of feeling in faith together with the stubborn individuality of characters. North German masters excelled in torments and ugliness, showing in the Passion the crudity and hatred of soldiers, with confused crowds and little harmony, though painters such as Dürer kept inner nobility and rose above mere barbarity.
 Texts:
   Aesthetics
     Painting › Historical Development of Painting › Flemish and German Painting
 Citations:
+  As for German painting we may affiliate what is strictly German to that of the Low Countries.
+    — Aesthetics, Historical Development of Painting › Flemish and German Painting (tr. Knox)
+  This is the sphere in which especially the masters of North Germany excel when, in scenes from the Passion story, it is the crudity of the soldiers, the malignity of the mockery, the barbarity of their hatred of Christ in his suffering and death, that they reveal with great energy in characterizing the greatest uglinesses and deformities which are external forms corresponding to an inner corruption of heart.
+    — Aesthetics, Historical Development of Painting › Flemish and German Painting (tr. Knox)

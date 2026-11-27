@@ -26,8 +26,10 @@ Phr:
   the crown
 
 # ---- Hegel ----
-Def: The sovereignty of the state, the one in which it has its actuality.
+Def: The unity of the sovereign is the sovereignty of the state: its particular functions and powers are not self-subsistent, either on their own or in the particular will of individuals, but are rooted ultimately in the unity of the state as its simple self.
 Texts:
   The Philosophy of Right
     §278
 Citations:
+  [S]overeignty depends on the fact that the particular functions and powers of the state are not self-subsistent or firmly grounded either on their own account or in the particular will of individuals, but have their roots ultimately in the unity of the state as their simple self.
+    — The Philosophy of Right §278 (tr. Knox, rev. Houlgate)

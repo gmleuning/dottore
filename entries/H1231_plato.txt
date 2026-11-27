@@ -31,8 +31,12 @@ Phr:
   the Form of the Good
 
 # ---- Hegel ----
-Def: Plato, who held the ideas to be the true and gave philosophy its speculative form.
+Def: Plato is one of the world-historical individuals, and his philosophy turns consciousness toward the supersensible, spiritual realm. His speculative dialectic, which originates with him, does not culminate in a negative result but exhibits the unification of the opposites that have nullified themselves; it is the most interesting and most difficult element in his work.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Plato
 Citations:
+  Plato is one of the 'world-historical' [ welthistorisch] individuals, and his philosophy is one of the 'world-historical' phenomena
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Plato (tr. Brown)
+  [I]t is speculative dialectic because it does not culminate in a negative result but exhibits the unification of the opposites that have nullified themselves.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Plato (tr. Brown)

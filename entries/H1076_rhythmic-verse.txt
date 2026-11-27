@@ -21,8 +21,12 @@ Adv:
   metrically, rhythmically, by quantity, in measure
 
 # ---- Hegel ----
-Def: The measure of syllables by quantity, the rhythm of ancient verse.
+Def: Rhythmic versification is the system without rhyme, whose chief thing is not isolated sound but temporal duration and movement. It rests on the fixed measure of long and short syllables fitted into relations and metres, the enlivening of rhythm by accent and caesura against word accent, and the euphony of sounds, which classical languages possess in full.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  The chief thing in rhythm is not sound picked out and isolated as such but temporal duration and movement.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  Secondly, the enlivenment of rhythm by accent, caesura, and the opposition between verbal and verse-accentuation.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

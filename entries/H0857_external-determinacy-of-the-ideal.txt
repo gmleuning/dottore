@@ -42,8 +42,12 @@ Phr:
   honores mutant mores [Lat.]
 
 # ---- Hegel ----
-Def: The ideal's external determinacy, its outer setting in nature and the human world.
+Def: The external determinacy of the ideal is the outer reality into which it passes through action. A human being has a surrounding world, as a god's statue has a temple: nature, with its place, time and climate; the use made of it in tools, housing and comforts; and the concrete world of family, possession, worship, war and political life. Art must configure this prose of life in a way fit for it, not cut itself off from it.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Determinacy of the Ideal › The External Determinacy of the Ideal
 Citations:
+  To man's actual existence there belongs a surrounding world, just as the statues of a god have a temple.
+    — Aesthetics, The Determinacy of the Ideal › The External Determinacy of the Ideal (tr. Knox)
+  In all these respects, the Ideal immediately encroaches on ordinary external reality, on the daily life of the actual world, and therefore on the common prose of life.
+    — Aesthetics, The Determinacy of the Ideal › The External Determinacy of the Ideal (tr. Knox)

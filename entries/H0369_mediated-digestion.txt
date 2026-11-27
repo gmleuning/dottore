@@ -26,8 +26,12 @@ Phr:
   to work through
 
 # ---- Hegel ----
-Def: The mediated process of the digestive organs, a fluid process and a fiery one, as of the bile and the pancreas.
+Def: In mediated digestion the organism, angrily opposing the outer world, is divided within itself, working on food with animal juices and bile; the end product, chyle, is the same as the lymph produced by immediate transformation. Hegel therefore counts this mediated process in higher animals a superfluity, like seed production in plants.
 Texts:
   The Philosophy of Nature
     §365
 Citations:
+  Now the whole process of digestion consists in this, that the organism in angrily opposing itself to the outer world is divided within itself.
+    — Encyclopedia §365, Addition (tr. Miller)
+  The mediated digestive process in more highly organized animals is, in respect of its characteristic product, just such a superfluity as, in the plant, the production of seeds through the so-called difference of sex.
+    — Encyclopedia §365, Remark (tr. Miller)

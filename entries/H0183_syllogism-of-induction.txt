@@ -31,8 +31,12 @@ Phr:
   so far as experience goes
 
 # ---- Hegel ----
-Def: The middle is the complete series of singulars, an incomplete and unending task.
+Def: Induction is the syllogism of reflection whose middle term is singularity completed, all the singulars, gathered into a genus and joined to a universal property on the ground that it is found in each of them. It is not the syllogism of mere perception but of experience. Yet it remains essentially subjective, since the collecting of singulars into the genus is an external reflection and the singulars persist in their immediacy.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of reflection › The syllogism of induction
 Citations:
+  Induction, therefore, is not the syllogism of mere perception or of contingent existence, like the second figure corresponding to it, but the syllogism of experience – of the subjective gathering together of singulars in the genus, and of the conjoining of the genus with a universal determinateness on the ground that the latter is found in all singulars.
+    — The Science of Logic, The syllogism of reflection › The syllogism of induction (tr. di Giovanni)
+  On the contrary, induction is essentially still a subjective syllogism.
+    — The Science of Logic, The syllogism of reflection › The syllogism of induction (tr. di Giovanni)

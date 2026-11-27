@@ -30,8 +30,12 @@ Phr:
   in another's eyes
 
 # ---- Hegel ----
-Def: Determinate being preserved in being-for-self only as an ideal moment: being-for-other become being-for-one.
+Def: Existence is preserved in being-for-itself, but only as a moment. Being-for-itself is infinity that has sunk into simple being, so that negation of negation is present in it only as infinite qualitative determinateness. Since being is still distinguished from that determinateness, existence belongs to it, for being-for-itself contains being affected by negation. The determinateness which in existence was an other, and a being-for-other, is bent back into the infinite unity of being-for-itself, and there existence is present as being-for-one.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › Being-for-itself as such › Existence and being-for-itself
 Citations:
+  [B]eing-for-itself is infinity that has sunk into simple being; it is existence in so far as in the now posited form of the immediacy of being the negative nature of infinity, which is the negation of negation, is only as negation in general, as infinite qualitative determinateness.
+    — The Science of Logic, Being-for-itself as such › Existence and being-for-itself (tr. di Giovanni)
+  So the determinateness which in existence as such is an other, and a being-for-other, is bent back into the infinite unity of being-for-itself, and the moment of existence is present in the being-for-itself as being-for-one.
+    — The Science of Logic, Being-for-itself as such › Existence and being-for-itself (tr. di Giovanni)

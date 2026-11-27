@@ -26,8 +26,12 @@ Phr:
   under the yoke
 
 # ---- Hegel ----
-Def: Unterwerfung, the subjection of the self that, fearing death, gives up its claim to recognition and becomes the servant.
+Def: Subjection is the surrender in which the one who prefers life gives up recognition and becomes the bondsman. The bondsman's self-will yields to the master's will and receives the master's purpose for its content, while the master takes up only care for the bondsman's natural life. Immediacy is thus sublated at first on one side only, so that the identity of the two self-consciousnesses comes about in a one-sided way and their contradiction is only relatively resolved.
 Texts:
   The Philosophy of Mind
     §433
 Citations:
+  The relationship of master and bondsman contains only a relative sublation of the contradiction between the particularity reflected into itself of the distinct self-conscious subjects and their mutual identity.
+    — Encyclopedia §433, Addition (tr. Wallace and Miller, rev. Inwood)
+  While the naturalness of life on both these sides persists, the self-will of the bondsman surrenders itself to the will of the master
+    — Encyclopedia §433, Addition (tr. Wallace and Miller, rev. Inwood)

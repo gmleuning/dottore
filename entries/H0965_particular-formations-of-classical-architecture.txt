@@ -27,8 +27,12 @@ Phr:
   stone by stone
 
 # ---- Hegel ----
-Def: The particular formations of classical architecture: its materials, its kinds of temple, the temple as a whole.
+Def: The particular determinants of architectural forms are the material, wood or stone, the specific forms of the temple, and the temple as a whole. Purpose dominates, and the basic form of the house is developed into beauty, so that wooden construction may be taken as earlier; the chief point in the god's house is not enclosure but beams that carry and what they carry.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms
 Citations:
+  Apart from all this the chief point in the temple, god’s house, on which everything turns is not the enclosure but the carrying beams and what they carry.
+    — Aesthetics, Classical Architecture › The Particular Determinants of the Architectural Forms (tr. Knox)
+  For this mechanical matter building in wood proves to be the first and the most appropriate to nature.
+    — Aesthetics, Classical Architecture › The Particular Determinants of the Architectural Forms (tr. Knox)

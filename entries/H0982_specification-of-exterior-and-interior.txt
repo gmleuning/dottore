@@ -27,8 +27,12 @@ Phr:
   towers and portals
 
 # ---- Hegel ----
-Def: The relation of interior and exterior, the outside reflecting in its towers and pointed arches the inner striving upward.
+Def: The form of exterior and interior in romantic building gives the inside new importance, since the whole is meant as enclosure, and the interior shows through the outer shape and determines it. Within, load and support lose their strict difference: pillars branch like trees into pointed arches, slender beyond the eye's measure, drawing it upward until it finds rest as the heart finds rest in God.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture › Particular Architectural Formations › The Form of the Exterior and the Interior
 Citations:
+  Therefore while in the temples of classical architecture the external form is the chief thing and, owing to the colonnades, remains independent of the construction of the interior, in romantic architecture the interior of the building not only acquires a more essential importance because the whole thing is meant to be an enclosure only, but the interior glints also through the shape of the exterior and determines its form and arrangement in detail.
+    — Aesthetics, Particular Architectural Formations › The Form of the Exterior and the Interior (tr. Knox)
+  Enter the interior of a medieval cathedral, and you are reminded less of the firmness and mechanical appropriateness of load-carrying pillars and a vault resting on them than of the vaultings of a forest where in lines of trees the branches incline to one another and quickly meet.
+    — Aesthetics, Particular Architectural Formations › The Form of the Exterior and the Interior (tr. Knox)

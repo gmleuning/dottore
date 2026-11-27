@@ -13,8 +13,12 @@ F:
   Greek: pneuma, aēr
 
 # ---- Hegel ----
-Def: Anaximenes, for whom the principle is air, the infinite in sensuous form and soul-like, from which things arise by rarefaction and condensation.
+Def: Anaximenes, a pupil of Anaximander, makes air the principle. With the early Ionians the principle always takes a natural form, water, air, and the like, so that the universal has a physical shape. Hegel holds the material element nonetheless to have philosophical significance, though each such principle is something particular and therefore defective.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Seven Sages and the Milesians
 Citations:
+  Anaximenes, who was a pupil of Anaximander, makes air into the principle
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Seven Sages and the Milesians (tr. Brown)
+  The principle always takes a natural form: air, water, and so forth. The universal principle has a physical shape.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Seven Sages and the Milesians (tr. Brown)

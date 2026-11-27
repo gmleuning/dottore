@@ -29,8 +29,12 @@ Phr:
   not in one's right mind
 
 # ---- Hegel ----
-Def: The disease state of the soul which is the condition of magnetic phenomena, the separation of feeling from waking unity.
+Def: The diseased state of the soul is the separation of its soul side from mental consciousness. As bodily illness consists in one organ or system fixing itself against the harmony of the whole, so the soul falls ill when its soul side, independent of the mind's power, usurps the mind's function, and the mind sinks into that form and gives up its mediated relation to the actual world. The soul side then takes on the semblance of being what the mind truly is. This illness is more or less bound up with bodily illness.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  [S]o too in the soul-life illness results if the merely soulful side of the organism, becoming independent of the power of mental consciousness, usurps the latter's function and the mind, in losing control of the soulful component belonging to it, no longer remains in command of itself but itself sinks to the form of the soulful and in this way surrenders the objective relationship to the actual world essential to the sound mind
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  But the illness of soul arising from that separation is not merely to be compared with bodily illness, but is more or less bound up with it
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

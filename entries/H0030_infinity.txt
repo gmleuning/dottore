@@ -39,8 +39,12 @@ Phr:
   to infinity and beyond
 
 # ---- Hegel ----
-Def: The negation of the negation: the finite's own going-beyond itself, which first appears as the infinite set over against it.
+Def: The infinite is the negation of negation, being that has reinstated itself out of restrictedness, and so may be taken as a new definition of the absolute. But by merely negating the finite it is not yet free of finitude. The true concept of infinity, the infinite of reason, must be distinguished from the bad infinity of the understanding, which in wanting to keep the infinite pure of the finite only makes it finite. The infinite is first simply the affirmative, then alternates with the finite, and is finally the self-sublation of both in one process.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Infinity
 Citations:
+  But, in fact, by just this negation the infinite is not already free from restrictedness and finitude. It is essential to distinguish the true concept of infinity from bad infinity, the infinite of reason from the infinite of the understanding. The latter is in fact a finitized infinite, and, as we shall now discover, in wanting to maintain the infinite pure and distant from the finite, the infinite is by that very fact only made finite.
+    — The Science of Logic, Existence › Infinity (tr. di Giovanni)
+  The infinite (a) in simple determination, is the affirmative as negation of the finite; (b) but is thereby in alternating determination with the infinite, and is abstract, one-sided infinite; (c) is the self-sublation of this infinite and of the finite in one process. This is the true infinite.
+    — The Science of Logic, Existence › Infinity (tr. di Giovanni)

@@ -30,8 +30,12 @@ Phr:
   in an unbroken line
 
 # ---- Hegel ----
-Def: Kontinuierliche Größe, quantity as the unbroken self-equality of its many ones, which still contains discreteness within it.
+Def: Continuous magnitude is quantity posited in the determination of continuity, as it first and immediately is. Continuity is the compact unity that holds together the discrete; posited as such, it is no longer only a moment but the whole of quantity. It is the outsideness of one another of parts that goes on positing itself without negation, as an internally self-same connectedness, in contrast with the broken-off outsideness of discrete magnitude.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantity › Continuous and discrete magnitude
 Citations:
+  Continuity is only the compact unity holding together as unity of the discrete; posited as such, it is no longer only moment but the whole quantity: continuous magnitude.
+    — The Science of Logic, Quantity › Continuous and discrete magnitude (tr. di Giovanni)
+  Quantity is the outsideness-of-one-another as such, and continuous magnitude is this outsideness-of-one-another onwardly positing itself without negation as an internally self-same connectedness.
+    — The Science of Logic, Quantity › Continuous and discrete magnitude (tr. di Giovanni)

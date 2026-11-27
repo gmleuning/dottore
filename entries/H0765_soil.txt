@@ -23,8 +23,12 @@ Phr:
   wie für das Prinzip des Familienlebens die Erde, fester Grund und Boden, Bedingung ist [Ger.] [Hegel, Philosophy of Right §247]
 
 # ---- Hegel ----
-Def: The soil, the substantial estate's resource, a gift of nature it trusts; as the earth is the condition of family life, so the sea is that of industry (§247).
+Def: The soil is the resource of the substantial estate: land capable of exclusively private ownership, which demands to be formed in an objective way and not merely exploited. Its cultivation brings with it fixed property and settled life, so that agriculture, with marriage, is the foundation of states.
 Texts:
   The Philosophy of Right
     §203
 Citations:
+  [S]oil which is capable of exclusively private ownership and which demands formation in an objective way and not mere haphazard exploitation.
+    — The Philosophy of Right §203 (tr. Knox, rev. Houlgate)
+  [B]ecause the principle of agriculture brings with it the formation of the land and in consequence exclusively private property
+    — The Philosophy of Right §203, Remark (tr. Knox, rev. Houlgate)

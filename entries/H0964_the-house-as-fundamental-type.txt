@@ -55,8 +55,12 @@ Phr:
   home sweet home
 
 # ---- Hegel ----
-Def: The house, the simple enclosure of wall, column and roof, as the type from which the temple is developed.
+Def: The house is the fundamental type that supplies architecture's chief proportions. Classical building devises its plan from spiritual purposes by the intellect, with no direct natural model, so that it is freer than sculpture, yet abstract and dry in its mathematical forms. The relation of load and support must be kept in due proportion, governed among the Greeks by a secret eurhythmy.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › General Character of Classical Architecture › The House as the Fundamental Type
 Citations:
+  Classical architecture, on the other hand, devises the substance of its plan and figuration in the light of spiritual purposes, while its shape is the product of the human intellect and has no direct model.
+    — Aesthetics, General Character of Classical Architecture › The House as the Fundamental Type (tr. Knox)
+  But in that case the mechanical relation between what bears and what is borne must be maintained in its genuine proportion and law
+    — Aesthetics, General Character of Classical Architecture › The House as the Fundamental Type (tr. Knox)

@@ -37,8 +37,14 @@ Phr:
   Through the Looking-Glass [Lewis Carroll]
 
 # ---- Hegel ----
-Def: The inverted world, in which the supersensible is the inversion of appearance, and the inner proves to be the self.
+Def: The inverted world is the second supersensible world, in which the calm realm of laws, the immediate likeness of the perceived world, turns into its opposite. What is like itself repels itself and what is unlike posits itself as like, so that what is sweet in the first law is sour here, and the north pole is the south. This is not a second place set beside the first. It must be thought as inner difference: the supersensible world contains the other within itself and is the inversion of itself, its own opposite in one unity, which is infinity.
 Texts:
   The Phenomenology of Spirit
     ¶¶157–160
 Citations:
+  This second supersensible world is in this way the inverted world, namely, while one aspect is already present in the first supersensible world, this is the inverted version of this first supersensible world.
+    — The Phenomenology of Spirit ¶157 (tr. Pinkard)
+  According to the laws, therefore, of this inverted world, like poles in the first world are each the unlike of itself, and the unlike in the first is just as unlike to itself, or it comes to be equal to itself. In determinate moments this will turn out to be such that what in the law of the first is sweet is, in this inverted in-itself, sour; what is black in the former is white in the latter.
+    — The Phenomenology of Spirit ¶158 (tr. Pinkard)
+  It is for itself the inverted world, which is to say, it is the inversion of itself, and it is itself and its opposed world within one unity.
+    — The Phenomenology of Spirit ¶160 (tr. Pinkard)

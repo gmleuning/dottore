@@ -24,8 +24,12 @@ F:
   German: Praxis, revolutionäre Praxis, sinnlich menschliche Tätigkeit
 
 # ---- Hegel ----
-Def: Tätigkeit, the activity that negates the object's independence and so gives the drive its satisfaction.
+Def: Activity is the process in which self-consciousness negates the two one-sided moments, its own subjectivity and the independence of the object, and thereby brings their identity to be for it. The object, selfless in itself, can offer no resistance: the dialectic of self-sublation which is its nature exists here as this activity of the I. Self-consciousness is not just being but absolute activity, and takes possession of an object whose independence is only pretence.
 Texts:
   The Philosophy of Mind
     §427
 Citations:
+  To this activity the object, which in itself and for self-consciousness is the selfless, can offer no resistance; the dialectic of self-sublation, which is the object's nature, exists here as this activity of the I.
+    — Encyclopedia §427 (tr. Wallace and Miller, rev. Inwood)
+  Self-consciousness is in a position to sublate this contradiction since it is not just being, but absolute activity; and it sublates the contradiction by taking possession of the object whose independence is, so to speak, only a pretence, satisfies itself by consuming it and, since it is an end in itself, maintains itself in this process.
+    — Encyclopedia §427, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -53,8 +53,12 @@ Phr:
   the race by vigor not by vaunts is won [Pope]
 
 # ---- Hegel ----
-Def: The whole as the force that expresses itself, the unity which posits its own outward manifold.
+Def: The relation of force and its expression is the higher turning back into itself of the whole, in which the unity ceases to be external to the manifold. Force is the negative unity into which the contradiction of whole and parts has resolved: it passes into its expression, which vanishes back into force as its ground, and in this alteration, posited through itself, it remains what it is. Its movement is less a transition than a translation of itself.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The essential relation › The relation of force and its expression
 Citations:
+  Force is the negative unity into which the contradiction of whole and parts has resolved itself
+    — The Science of Logic, The essential relation › The relation of force and its expression (tr. di Giovanni)
+  [T]he movement of force is not as much a transition as a translation, and in this alteration posited through itself it remains what it is.
+    — The Science of Logic, The essential relation › The relation of force and its expression (tr. di Giovanni)

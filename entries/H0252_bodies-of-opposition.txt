@@ -26,8 +26,12 @@ Phr:
   opposites in the heavens
 
 # ---- Hegel ----
-Def: The physical bodies of difference, rigidity and dissolution, set in opposition as the moon and the comet.
+Def: The bodies of opposition are the two forms into which darkness, the opposition to light's abstract identity, falls apart: bodily difference or rigid being-for-self, the moon, and opposition existing for itself, sunk in itself as dissolution and neutrality, the comet. Neither rotates on its axis; both are dependent bodies, moments of the dissolving earth that stand free.
 Texts:
   The Philosophy of Nature
     §279
 Citations:
+  Darkness, as immediately the negative of light, is the opposition to light's abstractly identical ideality; it is this opposition in its own self.
+    — Encyclopedia §279 (tr. Miller)
+  They constitute the self-subsistent moments of the dissolving earth: the moon is the earth's hard interior, the comet is the earth's atmosphere which has acquired independent existence, an enduring meteor
+    — Encyclopedia §279, Addition (tr. Miller)

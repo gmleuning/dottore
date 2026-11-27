@@ -26,8 +26,12 @@ Phr:
   the idea goes out of itself
 
 # ---- Hegel ----
-Def: The first syllogism, logic–nature–spirit, which has nature as the middle.
+Def: In the first syllogism the logical is the ground and starting point, and nature the middle that joins spirit with the logical: the logical becomes nature and nature becomes spirit. Nature does not separate the extremes, being essentially a point of transit within the idea; but the mediation has the external form of transition, so that science takes the form of a necessary progression, and freedom appears only in one extreme.
 Texts:
   The Philosophy of Mind
     §575
 Citations:
+  The first appearance is constituted by the syllogism that has the logical as its ground, its starting-point, and nature as the middle that joins the mind together with the logical. The logical becomes nature and nature becomes mind.
+    — Encyclopedia §575 (tr. Wallace and Miller, rev. Inwood)
+  Nature, which stands between the mind and its essence, does not in fact separate them into extremes of finite abstraction
+    — Encyclopedia §575 (tr. Wallace and Miller, rev. Inwood)

@@ -64,8 +64,12 @@ Phr:
   woman is the lesser man [Tennyson]
 
 # ---- Hegel ----
-Def: The natural difference of the sexes which becomes a spiritual difference, and their union in the family.
+Def: The sex relation is the moment of real opposition of the individual to itself, in which it seeks and finds itself in another individual. It is a natural distinction which Hegel treats as one between subjectivity that remains in harmony with itself in the sentiment of ethical life and love, without advancing to universal ends, and activity that strains toward universal and objective interests against the existing state of itself and the world, producing a unity anew. The relation receives its spiritual and ethical significance in the family.
 Texts:
   The Philosophy of Mind
     §397
 Citations:
+  The moment of real opposition of the individual to itself, so that it seeks and finds itself in another individual.
+    — Encyclopedia §397 (tr. Wallace and Miller, rev. Inwood)
+  The sexual relationship acquires its spiritual and ethical significance and determination in the family.
+    — Encyclopedia §397 (tr. Wallace and Miller, rev. Inwood)

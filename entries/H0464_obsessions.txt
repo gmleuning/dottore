@@ -34,8 +34,12 @@ Phr:
   a bee in one's bonnet
 
 # ---- Hegel ----
-Def: Madness whose fixed idea is a particular passion that rules a mind otherwise rational.
+Def: Obsessions are fixations whose content is drawn from a particular passion, so that a single representation holds a mind which otherwise keeps a coherent consciousness. The differences among the mad are mainly determined by the variety of representations that become entrenched in them. The one who is mad in this way is not tormented by any feeling of inner disruption, for only others are aware that the fixed idea contradicts what is objective, and the rest of their conduct may well be intelligent.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  The differences between the mad are mainly determined by the variety of the representations that become entrenched in them.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  This content depends in part on the particular passion from which the madness sprang
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

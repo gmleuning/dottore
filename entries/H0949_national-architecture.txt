@@ -28,8 +28,12 @@ Phr:
   to make a name for ourselves
 
 # ---- Hegel ----
-Def: Building that unites a people, the tower of Babel and the Bel temple.
+Def: National architecture is building whose content is the holy understood, with Goethe, as what links many souls together. In the story of the tower in the plains of the Euphrates, all the peoples laboured in common, and the aim of the work was the community of its builders, a new and wider union beyond family ties. Herodotus' account of the tower of Bel at Babylon, rising in eight stages, gives a historically surer instance.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Architectural Works Built for National Unification
 Citations:
+  ‘What is holy?’ Goethe asks once in a distich, and answers: ‘What links many souls together.’
+    — Aesthetics, Symbolic Architecture › Architectural Works Built for National Unification (tr. Knox)
+  The ensemble of all the peoples at that period worked at this task and since they all came together to complete an immense work like this, the product of their labour was to be a bond which was to link them together
+    — Aesthetics, Symbolic Architecture › Architectural Works Built for National Unification (tr. Knox)

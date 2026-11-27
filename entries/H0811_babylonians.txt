@@ -21,8 +21,12 @@ Phr:
   by the waters of Babylon
 
 # ---- Hegel ----
-Def: Die Babylonier, with their city on the Euphrates, its temple of Bel and the Chaldean study of the stars, gathered into the Persian empire.
+Def: The people of the great city on the Euphrates, set in a fertile plain suited to agriculture, crossed by canals and served by river trade, with the temple of Bel on one bank and royal palaces on the other. Their accumulated wealth and commerce, an organized government with its wise men and Chaldeans, and a manner of life denounced by the prophets mark them out.
 Texts:
   The Philosophy of History
     The Oriental World › Persia › The Assyrians, Babylonians, Medes, and Persians
 Citations:
+  Babylon lay to the south, on the Euphrates, in a plain of great fertility and well adapted for agriculture.
+    — The Philosophy of History, Persia › The Assyrians, Babylonians, Medes, and Persians (tr. Sibree)
+  The Prophets generally say much of the great commerce of Babylon; but they also draw a terrible picture of the prevailing depravity of manners.
+    — The Philosophy of History, Persia › The Assyrians, Babylonians, Medes, and Persians (tr. Sibree)

@@ -12,8 +12,12 @@ Adv:
   in miniature
 
 # ---- Hegel ----
-Def: Gems and glass, sculpture on the smallest scale, cut stones and cameos.
+Def: Precious stones and glass complete the materials. Greek gems, cameos and pastes are beyond price, repeating in the smallest compass the whole range of sculpture in supreme perfection. Their topics were drawn not from the artists' own invention but, apart from Bacchic scenes and dances, from myths and traditions; allegory belongs only to later art.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Precious Stones and Glass
 Citations:
+  The Greek gems, cameos, and pastes are beyond price because, although in the smallest compass, they repeat in supreme perfection the whole range of sculpture from the simple figure of a god, through the most varied kinds of grouping, to all possible conceits, cheerful and graceful.
+    — Aesthetics, Materials for Sculpture › Precious Stones and Glass (tr. Knox)
+  For productions in these varied kinds of material the Greek artists did not take as a basis situations fabricated by themselves but drew their topics every time, except for Bacchanalia and dances, from myths about the gods and traditions
+    — Aesthetics, Materials for Sculpture › Precious Stones and Glass (tr. Knox)

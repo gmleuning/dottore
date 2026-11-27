@@ -41,8 +41,14 @@ Phr:
   kindred spirits
 
 # ---- Hegel ----
-Def: The exclusive preference of one measure for another among the series, an affinity that elects its partner.
+Def: Elective affinity is the exclusive connection by which one self-subsisting measure, which has affinities with a whole series of others, prefers one of them. The term is chemical, but the same holds of a musical note, whose meaning depends on its combinations with others. Merely quantitative differences of affinity cannot by themselves yield exclusion; since the exponent is a determination of measure, however, it is also exclusive. What results is a sudden conversion of indifferent quantitative relating into qualitative, and back again.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Real measure › The relation of independent measures › Elective affinity
 Citations:
+  The expression elective affinity used here refers to a chemical relation, as also do the preceding neutrality and affinity.
+    — The Science of Logic, The relation of independent measures › Elective affinity (tr. di Giovanni)
+  In elective affinity which is an exclusive, qualitative connection, the relating escapes this quantitative difference.
+    — The Science of Logic, The relation of independent measures › Elective affinity (tr. di Giovanni)
+  What is posited here is thus the sudden conversion of an indifferent, merely quantitative relating into a qualitative one, and conversely the transition of a specifically determinate being into merely external relation
+    — The Science of Logic, The relation of independent measures › Elective affinity (tr. di Giovanni)

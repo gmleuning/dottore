@@ -31,8 +31,12 @@ Phr:
   advancing in the Way can look like retreat, jin dao ruo quan [Chin.] [Laozi]
 
 # ---- Hegel ----
-Def: The progress in which the immediate shows itself as the determinate, the negative, its own other.
+Def: The advance is the universal determining itself and becoming for itself, a singular and a subject, since only in its consummation is it the absolute. The concrete totality that begins already holds the beginning of development in it: as concrete it differentiates itself, and the method finds the determination of the universal within it. Through the negative of the negative it returns to immediacy, so that the form of the method may be counted as threefold or fourfold.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The absolute idea
 Citations:
+  The advance is not, therefore, a kind of superfluity; this is what it would be if that which is at the beginning were already the absolute; the advance consists rather in this, that the universal determines itself and is the universal for itself, that is, equally a singular and a subject.
+    — The Science of Logic, The absolute idea (tr. di Giovanni)
+  This negativity is as self-sublating contradiction the restoration of the first immediacy, of simple universality; for the other of the other, the negative of the negative, is immediately the positive, the identical, the universal.
+    — The Science of Logic, The absolute idea (tr. di Giovanni)

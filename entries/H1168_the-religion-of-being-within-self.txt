@@ -36,8 +36,12 @@ Phr:
   all is suffering
 
 # ---- Hegel ----
-Def: The religion of being-within-self, Buddhism and Lamaism, where the divine is the stillness of nothing.
+Def: In the religion of being-within-self, found in Buddhism and Lamaism, the absolute is grasped as substance, the power that creates and maintains the world, which yet exists sensibly in particular human beings. Its highest reality is nothing: all things come from nothing and return into it, and the highest state for a human being is to become immersed in this negation, a stillness within self.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religion of Being-Within-Self
 Citations:
+  The highest power or the absolute is grasped not in this immediacy of self-consciousness but as substance, as an essence which, however, at the same time still retains this immediacy, so that it exists in one or more individuals.
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Religion of Being-Within-Self (tr. Brown, Hodgson and Stewart)
+  They say that everything emerges from nothing, everything returns into nothing.
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Religion of Being-Within-Self (tr. Brown, Hodgson and Stewart)

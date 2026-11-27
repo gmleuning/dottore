@@ -30,8 +30,12 @@ Phr:
   a place in the sun
 
 # ---- Hegel ----
-Def: The plant's relation to light, its selfhood outside itself; it turns toward the sun and takes colour and odour.
+Def: In its process with light the plant is drawn out of itself by its own self, which lies outside it, and climbs toward it, branching into many individuals. All its energies develop in light, which gives it scent, flavour, colour and firmness of shape and holds it upright; here the plant appropriates light and constitutes itself independently before it.
 Texts:
   The Philosophy of Nature
     §347
 Citations:
+  Rather is the plant drawn out of itself by light, by its self which is external to it, and climbs towards it, ramifying into a plurality of individuals.
+    — Encyclopedia §347 (tr. Miller)
+  It is in light that all the plant's energies develop, and it acquires scent and colour
+    — Encyclopedia §347, Addition (tr. Miller)

@@ -51,8 +51,14 @@ Phr:
   ad tristem partem stenua est suspicio [Lat.] [Syrus]
 
 # ---- Hegel ----
-Def: The negativity of free thought realized, which dissolves every given, yet is itself a confused self-contradiction.
+Def: Skepticism is the realization of that of which stoicism is only the concept, the actual experience of what freedom of thought is. It is thought which annihilates the being of the variously determined world, so that every determinate difference proves to be vanishing. Through this self-conscious negation it produces for itself the certainty of its freedom and an unchangeable self-certainty, ataraxia. Yet it is itself an absolute dialectical unrest, a medley of sensuous and thought representations, and this contradiction, once joined in a single consciousness, is the unhappy consciousness.
 Texts:
   The Phenomenology of Spirit
     ¶¶202–206
 Citations:
+  Skepticism is the realization of that of which stoicism is only the concept – and it is the actual experience of what freedom of thought is.
+    — The Phenomenology of Spirit ¶202 (tr. Pinkard)
+  In skepticism, the whole inessentiality and non-self-sufficiency of this other comes to be for consciousness; thought becomes the thinking that annihilates the being of the manifoldly determinate world
+    — The Phenomenology of Spirit ¶202 (tr. Pinkard)
+  Rather, consciousness itself is the absolute dialectical unrest, this mixture of sensuous representations and representational thought
+    — The Phenomenology of Spirit ¶205 (tr. Pinkard)

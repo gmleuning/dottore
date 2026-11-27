@@ -33,8 +33,14 @@ Phr:
   under the influence of the moon
 
 # ---- Hegel ----
-Def: The soul's sympathy with the life of the planet: climate, the seasons, the times of day, which in man are only faint moods.
+Def: Universal planetary life is the share that mind, in its substance as natural soul, takes in the life of the planet: it feels differences of climate, the changes of the seasons and the times of day. In mind this natural life surfaces only in occasional dark moods. Animals live wholly in such sympathy with nature, but the more cultivated a human being is and the freer the spiritual foundation of its life, the less these connections matter. To raise itself above entanglement in merely natural life is the very activity of mind.
 Texts:
   The Philosophy of Mind
     §392
 Citations:
+  In its substance, in the natural soul, the mind takes part in the universal planetary life, feels the difference of climates, the changes of the seasons, the periods of the day, etc. In the mind this life of nature emerges only in occasional dark moods.
+    — Encyclopedia §392 (tr. Wallace and Miller, rev. Inwood)
+  In the case of man, the more cultivated he is and the more his whole condition rests on a free, spiritual foundation, the less the significance that such connections have.
+    — Encyclopedia §392, Remark (tr. Wallace and Miller, rev. Inwood)
+  For the activity of mind essentially consists just in raising itself above this entanglement in merely natural life, in grasping itself in its independence, subjecting the world to its thinking and creating it from the concept.
+    — Encyclopedia §392, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -26,8 +26,12 @@ Phr:
   at rest in itself
 
 # ---- Hegel ----
-Def: The ideal in its determinacy, as the divine shown at rest, eternal power in individual shape.
+Def: Ideal determinacy as such is the divine, which art above all must make the centre of its representations, made determinate. Pure unity can only be thought, but as determinate the divine splits into many self-reposing gods, appears as an actual human being, and lives in the senses and hearts of saints and martyrs. Thereby the whole human heart, every deep interest of the soul, becomes the living stuff of art.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Determinacy of the Ideal › Ideal Determinacy as Such
 Citations:
+  We have seen already [in the Introduction, 8(iii)] that art has above all to make the Divine the centre of its representations.
+    — Aesthetics, The Determinacy of the Ideal › Ideal Determinacy as Such (tr. Knox)
+  For the whole human heart with everything whereby it is moved in its innermost being, everything which is powerful in it-every feeling and passion, every deeper interest in the soul-this concrete life forms the living stuff of art, and the Ideal is its representation and expression.
+    — Aesthetics, The Determinacy of the Ideal › Ideal Determinacy as Such (tr. Knox)

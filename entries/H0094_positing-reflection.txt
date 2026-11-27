@@ -35,8 +35,12 @@ Phr:
   to lay down
 
 # ---- Hegel ----
-Def: Reflection that posits what it presupposes, the immediate as only a returning.
+Def: Positing reflection is reflection as the movement of nothing to nothing, negation coinciding with itself. Its self-coincidence is immediacy, but only as the turning back of the negative into itself, which is positedness. There is nothing beforehand from which or to which it would return: only in this turning back is there that which starts out or returns. Because it produces immediacy by sublating the negative, it at the same time presupposes, and in sublating what it posits, passes into external reflection.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Shine › Reflection › Positing reflection
 Citations:
+  Reflection is at first the movement of the nothing to the nothing, and thus negation coinciding with itself.
+    — The Science of Logic, Reflection › Positing reflection (tr. di Giovanni)
+  It is a positing, inasmuch as it is immediacy as a turning back; that is to say, there is not an other beforehand, one either from which or to which it would turn back; it is, therefore, only as a turning back or as the negative of itself.
+    — The Science of Logic, Reflection › Positing reflection (tr. di Giovanni)

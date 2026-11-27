@@ -29,8 +29,12 @@ Phr:
   the light of reason
 
 # ---- Hegel ----
-Def: The philosophies that take reason as the source of knowledge.
+Def: In the first period of metaphysics free thought proceeding from itself is the principle, and what is deemed valid is valid only through thinking: in order to know truth we must attain it by meditative thinking alone. But the concrete is not yet developed necessarily from thought; thought works on a content given by representation, observation, and experience.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › First Period of Metaphysics: Descartes, Spinoza, Malebranche
 Citations:
+  Thinking is the principle, and what is deemed valid is valid only through thinking.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › First Period of Metaphysics: Descartes, Spinoza, Malebranche (tr. Brown)
+  [I]n order to know truth we must attain it by meditative thinking alone.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › First Period of Metaphysics: Descartes, Spinoza, Malebranche (tr. Brown)

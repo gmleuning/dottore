@@ -51,8 +51,12 @@ Phr:
   the fruit doesn't fall far from the tree, like father, like son
 
 # ---- Hegel ----
-Def: Ethical spirit in its immediacy, the substantiality whose determination is love, the feeling of unity.
+Def: The family is ethical spirit in its immediacy, characterized by love, spirit's feeling of its own unity. In it one has self-consciousness of one's individuality within this unity, and so exists in it not as an independent person but as a member. It comprises marriage, family resources, and the education of children with the dissolution of the family.
 Texts:
   The Philosophy of Right
     §§158–181
 Citations:
+  The family, as the immediate substantiality of spirit, is specifically characterized by love, which is spirit’s feeling of its own unity.
+    — The Philosophy of Right §158 (tr. Knox, rev. Houlgate)
+  [W]ith the result that one is in it not as an independent person but as a member.
+    — The Philosophy of Right §158 (tr. Knox, rev. Houlgate)

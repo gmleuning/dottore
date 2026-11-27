@@ -38,8 +38,12 @@ Phr:
   the general rule
 
 # ---- Hegel ----
-Def: Universality as the self-identical that contains particularity within itself and is the substance of its kinds, the creative power.
+Def: The universal concept is the pure concept, absolutely infinite, unconditioned and free: absolute self-identity by being first the negation of negation, the infinite unity of negativity with itself. It is not the abstract universal that leaves determinateness outside it. It is a simple that contains the richest difference and determinateness within itself, so that in determining itself it remains with itself and pervades its other without violence, as free power.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The concept › The universal concept
 Citations:
+  The pure concept is the absolutely infinite, unconditioned and free.
+    — The Science of Logic, The concept › The universal concept (tr. di Giovanni)
+  The universal is, on the contrary, a simple that is at the same time all the richer in itself, for it is the concept.
+    — The Science of Logic, The concept › The universal concept (tr. di Giovanni)

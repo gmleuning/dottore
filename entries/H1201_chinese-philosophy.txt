@@ -32,8 +32,12 @@ Phr:
   the journey of a thousand li begins with a single step [Laozi]
 
 # ---- Hegel ----
-Def: Chinese thought, the moral precepts of Confucius and the abstract categories of the Yi Jing.
+Def: Of Chinese thought two things are to be noted. Confucius gave moral instruction that became the absolute authority for the Chinese, though Hegel finds its lessons conventional. The Yi Jing shows that pure thoughts were also brought to consciousness, in diagrams of lines whose meanings are the most abstract categories of the understanding, passing to the concrete only by way of ordinary representation.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy › Chinese Philosophy
 Citations:
+  A second point to note is that the Chinese were also occupied with abstract thoughts, with pure categories, for they have an ancient Y-jing or Yi-jing, which passes for the oldest book of its kind.
+    — Lectures on the History of Philosophy 1825–6, Oriental Philosophy › Chinese Philosophy (tr. Brown)
+  These meanings are quite abstract categories, the most abstract, and consequently the most superficial, categories of the understanding.
+    — Lectures on the History of Philosophy 1825–6, Oriental Philosophy › Chinese Philosophy (tr. Brown)

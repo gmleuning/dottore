@@ -32,8 +32,12 @@ Phr:
   true to character
 
 # ---- Hegel ----
-Def: Action proper: the universal ethical powers, the individuals who act, and their character, pathos.
+Def: Action proper is the third stage after the state of the world and the situation, presupposing circumstances that lead to collisions, to action and reaction. Art does not begin with the external first origin of an action but takes the listener into the midst of things, since a person's proper nature, the true core of their capacity, is revealed in a single great situation and action. It treats the universal powers, the individuals and their character.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Determinacy of the Ideal › Action › Action
 Citations:
+  We have found already that, in its external relation to the situation, the action presupposes circumstances leading to collisions, to action and reaction.
+    — Aesthetics, Action › Action (tr. Knox)
+  The totality of the circumstances of life, deeds, fates, is of course what shapes the individual, but his proper nature, the true kernel of his disposition and capacity, is revealed without all these, in one great situation and action
+    — Aesthetics, Action › Action (tr. Knox)

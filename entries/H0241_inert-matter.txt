@@ -34,8 +34,12 @@ Phr:
   a body at rest
 
 # ---- Hegel ----
-Def: Matter as indifferent to rest and motion, self-subsistent only by its mass and moved only by another.
+Def: Inert matter is matter as simply universal and immediate, differing at first only in quantity and divided into masses or bodies. A body is indifferent to space and time and so to their relation, motion, which is external to it, as rest is too: it is moved or brought to rest only by an outside cause. This inadequacy to its concept is its finitude.
 Texts:
   The Philosophy of Nature
     §§263–264
 Citations:
+  Matter fills space; this simply means that it is a real limit in space
+    — Encyclopedia §263, Addition (tr. Miller)
+  This is the character given to body by ordinary (physikalischen) mechanics, which postulates as an axiom that a body is set in motion or comes to rest only through an external cause
+    — Encyclopedia §264, Remark (tr. Miller)

@@ -21,8 +21,12 @@ Adv:
   by circumstance
 
 # ---- Hegel ----
-Def: Beschaffenheit, the determinateness something has through its being-for-other: its outward make-up, open to influence and alteration.
+Def: Constitution is the determinateness that belongs to something as external existence: what it has in it, but not as part of its being-in-itself. Constituted in this or that way, something is caught up in external influences and relationships, which appear accidental, although it is the quality of something to be given over to them. When something alters, the alteration falls on its constitution, the unstable surface of its otherness, while the something preserves itself and its determination is left untouched, until the two pass into one another.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Determination, constitution, and limit
 Citations:
+  Constituted in this or that way, the something is caught up in external influences and in external relationships. This external connection on which the constitution depends, and the being determined through an other, appear as something accidental. But it is the quality of the something to be given over to this externality and to have a constitution.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)
+  In so far as something alters, the alteration falls on the side of its constitution; the latter is that in the something which becomes an other. The something itself preserves itself in the alteration; the latter affects only this unstable surface of the something’s otherness, not its determination.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)

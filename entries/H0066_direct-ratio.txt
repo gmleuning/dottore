@@ -28,8 +28,12 @@ Phr:
   the more, the more
 
 # ---- Hegel ----
-Def: Ratio in which the exponent is a fixed quotient of two quanta that vary together.
+Def: Direct ratio is the immediate ratio, in which the determinateness of each quantum lies in that of the other. Both have only one limit, itself a quantum, the exponent. One side counts as unit and the other as amount, and when one is altered the other is increased or decreased in proportion, so that the two really make up only one quantum. Because the exponent, as a mere quotient, does not settle which side is unit and which amount, the direct ratio passes into the inverse ratio.
 Texts:
   The Science of Logic
     The Doctrine of Being › Ratio or the quantitative relation › The direct ratio
 Citations:
+  In the ratio which, as immediate, is direct, the determinateness of each quantum lies in the reciprocal determinateness of the other. There is only one determinateness or limit of both – one which is itself a quantum, namely the exponent of the ratio.
+    — The Science of Logic, Ratio or the quantitative relation › The direct ratio (tr. di Giovanni)
+  Accordingly, the two truly constitute only one quantum; the one side has only the value of unit with respect to the other, not of an amount; and the other only that of amount.
+    — The Science of Logic, Ratio or the quantitative relation › The direct ratio (tr. di Giovanni)

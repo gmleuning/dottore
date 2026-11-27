@@ -30,8 +30,10 @@ Phr:
   necessitas non habet legem [Lat.] [necessity has no law]
 
 # ---- Hegel ----
-Def: Welfare is no justification for wrong, yet in extremity the right of necessity.
+Def: Right and welfare are related in that welfare, the particular will's content, cannot justify a wrong action, and an intention to promote one's own or others' welfare does not make a wrong right. But in extreme danger to life the right of necessity arises: only the necessity of the immediate present can justify a wrong.
 Texts:
   The Philosophy of Right
     §§125–128
 Citations:
+  Hence it is only the necessity of the immediate present which can justify a wrong action, because not to do the action would in turn be to commit an offence, indeed the most wrong of all offences, namely the complete negation of the existence of freedom.
+    — The Philosophy of Right §127, Addition (tr. Knox, rev. Houlgate)

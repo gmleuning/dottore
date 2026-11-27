@@ -47,8 +47,12 @@ Phr:
   acervatim [Lat.]
 
 # ---- Hegel ----
-Def: The one in its self-relation, which repels itself into many ones like itself.
+Def: The one and the many is the development in which the one, the simple reference of being-for-itself to itself, shows that its immediacy cannot hold. The moments that had fallen together in it are now there as existents. As self-reference of the negative the one is a determining, and what is distinct from it is its own self-determining, demoted to reference. As negative unity it is therefore negation of itself as other, excluding the one from itself, so that the one passes into the void and into many ones.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › The one and the many
 Citations:
+  The one is the simple reference of being-for-itself to itself in which its moments have fallen together – in which, therefore, being-for-itself has the form of immediacy and its moments, therefore, are now there as existents.
+    — The Science of Logic, Being-for-itself › The one and the many (tr. di Giovanni)
+  What shows itself to be present as distinct from the one is the one’s own self-determining; its unity with itself, as thus distinct from itself, is demoted to reference, and, as negative unity, it is negation of itself as other, the excluding of the one as an other from itself, from the one.
+    — The Science of Logic, Being-for-itself › The one and the many (tr. di Giovanni)

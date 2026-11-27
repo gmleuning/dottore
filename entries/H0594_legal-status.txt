@@ -30,8 +30,12 @@ Phr:
   equal before the law
 
 # ---- Hegel ----
-Def: The condition of right in which the ethical substance has broken into atomic persons, equal and empty.
+Def: Legal status is the condition into which the living unity of the ethical world passes: a spiritless polity, splintered into the atoms of absolutely many individuals, in which all count equally as persons. The hidden divine law has come out into actuality, and the single one, formerly counting only as the blood of the family, now counts as an independent being. Being recognized is now substantial, but it is an abstract universality, since its content is this aloof self and not a self dissolved in the substance.
 Texts:
   The Phenomenology of Spirit
     ¶¶477–483
 Citations:
+  Henceforth this counts as the essence existing in and for itself.
+    — The Phenomenology of Spirit ¶477 (tr. Pinkard)
+  This, its being recognized, is its substantiality. However, this is abstract universality because its content is this aloof self, not the self which has been dissolved in the substance.
+    — The Phenomenology of Spirit ¶477 (tr. Pinkard)

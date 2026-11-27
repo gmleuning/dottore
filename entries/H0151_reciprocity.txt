@@ -44,8 +44,12 @@ Phr:
   fish wetting each other with moisture, xiang ru yi mo [Chin.] [Zhuangzi]
 
 # ---- Hegel ----
-Def: The infinite reciprocal causality of substances, in which necessity unveils itself as freedom and passes into the concept.
+Def: Reciprocity is the relation in which the externality of finite causality, where one substance acts on another, is sublated. Substances presuppose and condition each other, each at once active and passive, so that their difference is a transparent shine and they are substances only as the identity of active and passive. Causality is conditioned by an influence it produces itself. Reciprocity is only causality itself, in which necessity reveals its inner identity and passes into the concept.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute relation › Reciprocity of action
 Citations:
+  Since the two are thus passive and active at once, their difference is thereby already sublated; it is a totally transparent reflective shine; they are substances only in being the identity of the active and the passive.
+    — The Science of Logic, The absolute relation › Reciprocity of action (tr. di Giovanni)
+  Causality is conditioned and conditioning. As conditioning, it is passive; but it is equally so as conditioned.
+    — The Science of Logic, The absolute relation › Reciprocity of action (tr. di Giovanni)

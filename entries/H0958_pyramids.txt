@@ -31,8 +31,12 @@ Phr:
   a mountain of stone over a dead king
 
 # ---- Hegel ----
-Def: The pyramids, crystal shells that conceal a dead spirit: the invisible enclosed in the visible, the beginning of architecture's service to an end.
+Def: Pyramids belong to housing for the dead, the passage to building that serves an end beyond itself. Egypt first separates the living from the dead and preserves individuality, so that the spiritual is set apart as inner meaning and enclosed in a purely architectural shell. The pyramids, the oldest grandiose mausoleums, astonish by their size, their simple regular form concealing closed chambers.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Transition from Independent to Classical Architecture › Housing for the Dead, Pyramids, etc.
 Citations:
+  Especially among the Egyptians, building works whether below or above ground are linked with a realm of the dead, as in general a realm of the invisible makes its home and occurs in Egypt for the first time.
+    — Aesthetics, Transition from Independent to Classical Architecture › Housing for the Dead, Pyramids, etc. (tr. Knox)
+  The oldest grandiose mausoleums we find in Egypt in the shape of the pyramids.
+    — Aesthetics, Transition from Independent to Classical Architecture › Housing for the Dead, Pyramids, etc. (tr. Knox)

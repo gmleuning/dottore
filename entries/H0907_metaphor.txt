@@ -28,8 +28,12 @@ Phr:
   a figure of speech
 
 # ---- Hegel ----
-Def: Die Metapher: an abbreviated comparison, in which image and meaning are not set apart but only the image is given and the meaning is read from it.
+Def: Metaphor is implicitly already a simile, an entirely compressed and abbreviated comparison that does not set image and meaning against each other but presents the image alone, extinguishing its literal sense and letting the intended meaning be recognized at once from the context, as in a sea of tears. Its meaning thus has only incidental artistic standing, as an adornment.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Metaphor, Image, Simile › Metaphor
 Citations:
+  The metaphorical expression, that is, names only one side, the image; but in the connection in which the image is used, the meaning proper which is intended is so near the surface that it is immediately given at the same time, as it were without direct separation from the image.
+    — Aesthetics, Metaphor, Image, Simile › Metaphor (tr. Knox)
+  It is an entirely compressed and abbreviated comparison, in that it does not oppose image and meaning to one another but presents the image alone
+    — Aesthetics, Metaphor, Image, Simile › Metaphor (tr. Knox)

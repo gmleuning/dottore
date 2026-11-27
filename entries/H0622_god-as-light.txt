@@ -37,8 +37,12 @@ Phr:
   the dawn of the gods
 
 # ---- Hegel ----
-Def: The divine as light, the luminous essence of the dawn, without shape.
+Def: God as light, the luminous essence, is spirit intuiting itself in the form of being filled with spirit, the shape of shapelessness corresponding to sense certainty. It is the all-containing light of sunrise, which suffuses everything and preserves itself in a formless substance, with darkness as its simple other. Its creations are effusions of light and streams of consuming fire, and its sublime essence wanders without constancy, dissolving its own beauty.
 Texts:
   The Phenomenology of Spirit
     ¶¶685–688
 Citations:
+  In virtue of this determination, this shape is the pure, all-containing, luminous essence of the sunrise, which suffuses everything and which preserves itself in its formless substantiality.
+    — The Phenomenology of Spirit ¶686 (tr. Pinkard)
+  Its otherness is the equally simple negative, darkness
+    — The Phenomenology of Spirit ¶686 (tr. Pinkard)

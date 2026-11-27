@@ -44,8 +44,10 @@ Phr:
   seeing is believing
 
 # ---- Hegel ----
-Def: The two forms of pure consciousness that escape the world of culture: faith in a beyond and the pure insight that negates it.
+Def: Faith and pure insight are the two forms of pure consciousness that stand over against the world of culture. Religion appears here only as faith: it is the pure consciousness of substance, alienated from its actual existence and still bearing an opposition to actuality, especially to the actuality of self-consciousness. For faith the essence is thought, but not as concept, and so something opposed to the self; pure insight knows the self to be the essence, at first has no content of its own, and wins one by opposing faith.
 Texts:
   The Phenomenology of Spirit
     ¶¶527–537
 Citations:
+  However, religion has here in part emerged from the substance and is the pure consciousness of that substance; this pure consciousness, the essence, is in part alienated from its actual existence. Thus, it is indeed no longer the movement of substance-less consciousness, but it still bears the determinateness of opposition to actuality as this actuality itself, and it is the opposition to the actuality of self-consciousness in particular. It is thus essentially only a faith.
+    — The Phenomenology of Spirit ¶527 (tr. Pinkard)

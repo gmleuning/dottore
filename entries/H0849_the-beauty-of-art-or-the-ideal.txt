@@ -30,8 +30,12 @@ Phr:
   perfect in every way
 
 # ---- Hegel ----
-Def: The beauty of art, the ideal: the idea brought into a shape that fits it, freed from the contingencies of nature.
+Def: The beauty of art, the ideal, is beauty in which the true unfolds into external reality yet holds its separate parts in unity, so that every one of them lets the soul, the whole, appear. Art has to turn every point of its visible surface into an eye in which spirit is seen. It is considered as the ideal as such, as the ideal's determinacy in the work, and as the creative subjectivity of the artist.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal
 Citations:
+  Now as the pulsating heart shows itself all over the surface of the human, in contrast to the animal, body, so in the same sense it is to be asserted of art that it has to convert every shape in all points of its visible surface into an eye, which is the seat of the soul and brings the spirit into appearance.
+    — Aesthetics, The Beauty of Art or the Ideal (tr. Knox)
+  In relation to the beauty of art we have three chief aspects to consider: First, the Ideal as such Secondly, the work of art as the determinateness of the Ideal Thirdly, the creative subjectivity of the artist.
+    — Aesthetics, The Beauty of Art or the Ideal (tr. Knox)

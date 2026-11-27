@@ -83,8 +83,12 @@ Phr:
   run it up the flagpole and see who salutes
 
 # ---- Hegel ----
-Def: Mind as intelligence, which finds itself determined and makes what it finds its own: intuition, representation, thinking.
+Def: Theoretical mind, or intelligence, finds itself determined, but this is only a semblance from which it starts: as knowledge it consists in positing what is found as its own. Its activity works upon the empty form of finding reason, with the aim that its concept should be for it, so that the content too becomes rational for intelligence. This activity is cognition, which rises through a necessary passage from one determination of intelligent activity, one so-called faculty, to another.
 Texts:
   The Philosophy of Mind
     §§445–468
 Citations:
+  The intelligence finds itself determined; this is its semblance from which in its immediacy it sets out; but as knowledge, intelligence consists in positing what is found as its own.
+    — Encyclopedia §445 (tr. Wallace and Miller, rev. Inwood)
+  The course of this elevation is itself rational, and consists in a necessary transition, determined by the concept, of one determination of intelligent activity (a so-called faculty of mind) into another.
+    — Encyclopedia §445 (tr. Wallace and Miller, rev. Inwood)

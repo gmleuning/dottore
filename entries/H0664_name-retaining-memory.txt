@@ -49,8 +49,12 @@ Phr:
   to put a name to a face
 
 # ---- Hegel ----
-Def: Memory that holds the name together with its meaning, so that the name is the thing as it exists in the realm of representation.
+Def: Name-retaining memory takes possession of the connection that the sign is and by recollection raises it to a universal, permanent connection in which name and meaning are objectively combined, so that content and sign become one representation. Its first achievement is to retain the meaning of names; one may thus understand a foreign word before being able to find the word for one's own representation.
 Texts:
   The Philosophy of Mind
     §461
 Citations:
+  Intelligence takes the connection, which the sign is, into its possession, and by this recollection elevates the individual connection to a universal, i.e. permanent, connection, in which name and meaning are for it objectively combined
+    — Encyclopedia §461 (tr. Wallace and Miller, rev. Inwood)
+  Thus when we hear or see a word belonging to a foreign language, its meaning presents itself to us; but it does not follow that the converse is true, that we can yet come up with the corresponding word-signs for our representations in that language. We learn to speak and write a language later than we understand it.
+    — Encyclopedia §461, Addition (tr. Wallace and Miller, rev. Inwood)

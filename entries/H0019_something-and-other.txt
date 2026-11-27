@@ -39,8 +39,14 @@ Phr:
   one another
 
 # ---- Hegel ----
-Def: Something and its other, each equally a something and an other, so that otherness falls within something itself.
+Def: Something and other are first both existents, and each is equally an other: which is called something and which other is indifferent. At first the distinction falls to an external comparison. But the other taken by itself is the other of itself, that which negates and alters itself, and in going over into another only unites with itself. Something thus preserves itself in its non-being. Its reference to what it is not is being-for-other, and its self-equality against that reference is being-in-itself: two moments of one and the same something.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Something and an other
 Citations:
+  Something and other are, first, both existents or something. Second, each is equally an other. It is indifferent which is named first, and just for this reason it is named something
+    — The Science of Logic, Finitude › Something and an other (tr. di Giovanni)
+  The something preserves itself in its non-being; it is essentially one with it, and essentially not one with it. It therefore stands in reference to an otherness without being just this otherness. The otherness is at once contained in it and yet separated from it; it is being-for-other.
+    — The Science of Logic, Finitude › Something and an other (tr. di Giovanni)
+  Being-for-other and being-in-itself constitute the two moments of something.
+    — The Science of Logic, Finitude › Something and an other (tr. di Giovanni)

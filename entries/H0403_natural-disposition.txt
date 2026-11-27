@@ -38,8 +38,14 @@ Phr:
   born for it
 
 # ---- Hegel ----
-Def: The natural bent of the individual, talent and genius as an inborn gift, which needs cultivation to become actual.
+Def: Natural disposition, or predisposition, is the natural aptitude of an individual as against what they have made of themself by their own activity. It includes talent and genius, a definite direction given to the individual mind by nature, talent producing novelty within a particular province and genius creating a new genre. As mere aptitudes they must be developed by universally valid procedures if they are not to waste away or degenerate; only by that development do they prove that they are there. There is no inborn genius for virtue, which is universal and has to be produced by one's own activity.
 Texts:
   The Philosophy of Mind
     §395
 Citations:
+  By predisposition is understood the natural aptitudes of a man in contrast to what he has become by his own activity. These aptitudes include talent and genius.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)
+  But since talent and genius are initially mere aptitudes, they must be developed—if they are not to go to waste, to decay, to degenerate into bad originality—by universally valid procedures. Only by such development do these aptitudes demonstrate their presence, their power and their range.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)
+  As regards the will, however, one cannot say that there is a genius for virtue; for virtue is something universal, to be required of all men and nothing innate but something to be produced in the individual by his own activity.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)

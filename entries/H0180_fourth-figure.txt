@@ -29,8 +29,12 @@ Phr:
   Q.E.D
 
 # ---- Hegel ----
-Def: U–U–U: the abstract, relationless syllogism in which the terms are equal and the mediation is equality, as in mathematics.
+Def: The fourth, or mathematical, figure is the syllogism that results when all quality is abstracted from the terms: if two things are equal to a third, they are equal to each other. Here there is no longer any relation of inherence or subsumption, and each term can stand as middle. Its evidence rests on this poverty of thought. Its positive result is that mediation must rest on reflection, that is, on a concreteness of the terms.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of existence › The fourth figure
 Citations:
+  The fourth figure: U-U-U, or the mathematical syllogism 1. The mathematical syllogism goes like this: if two things or two determinations are equal to a third, then they are equal to each other.
+    — The Science of Logic, The syllogism of existence › The fourth figure (tr. di Giovanni)
+  The self-evidence of this syllogism rests, therefore, solely on the indigence and abstractness of its mode of thought.
+    — The Science of Logic, The syllogism of existence › The fourth figure (tr. di Giovanni)

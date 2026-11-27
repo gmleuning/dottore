@@ -26,8 +26,12 @@ Phr:
   substance and subject
 
 # ---- Hegel ----
-Def: Indian thought compared with European, as substance with the free subject.
+Def: Indian philosophy reaches an intellectual substantiality: spirit raises itself to universality and is for itself, wholly abstractly, with nature only the means of its liberation. This is a great discovery of the Orient and the essential foundation of philosophy. European thought stands at the opposite pole, reflective subjectivity, in which the I with its beliefs, will, and intentions counts for so much.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy › Indian Philosophy › Summary of Indian Philosophy and Comparison with European Philosophy
 Citations:
+  This intellectual substantiality is the goal. In philosophy, however, it is on the whole the essential foundation, the starting point; it is the idealism in which thinking is for itself, in which thinking is the foundation of truth.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › Summary of Indian Philosophy and Comparison with European Philosophy (tr. Brown)
+  In European philosophy there is the opposite perspective, namely, reflective subjectivity.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › Summary of Indian Philosophy and Comparison with European Philosophy (tr. Brown)

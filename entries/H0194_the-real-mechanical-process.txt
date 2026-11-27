@@ -41,8 +41,12 @@ Phr:
   tel maure tel valet [Fr.]
 
 # ---- Hegel ----
-Def: Communication that becomes the power of one object over another, the negativity of the object's self-subsistence.
+Def: The real mechanical process takes up the result of the formal one: the objects and the process now stand in a more determinate relation, differing definitely from one another. The opposition is distributed among objects as self-standing singularity and dependent universality, the weaker yielding to the stronger only so far as it accepts it and forms one sphere with it. Communication is followed by resistance, and the weaker is overcome by violence.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism › The mechanical process › The real mechanical process
 Citations:
+  They are not merely diverse, but are determinedly differentiated as against one another.
+    — The Science of Logic, The mechanical process › The real mechanical process (tr. di Giovanni)
+  The weaker can be seized and invaded by the stronger only in so far as it accepts the stronger and constitutes one sphere with it.
+    — The Science of Logic, The mechanical process › The real mechanical process (tr. di Giovanni)

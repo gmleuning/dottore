@@ -30,8 +30,12 @@ Phr:
   a mood in sound
 
 # ---- Hegel ----
-Def: The musical treatment of content, which takes it in the form of feeling.
+Def: Music's treatment of its subject matter can free itself from any text, but then remains empty and is not yet art; only as the adequate expression of a spiritual content is it genuine art. Its task is to make the veiled inner life resound, so that inwardness is the form in which it grasps everything, above all as feeling, from cheerfulness to grief, awe and love.
 Texts:
   Aesthetics
     Music › General Character of Music › Musical Treatment of the Subject-matter
 Citations:
+  Only if music becomes a spiritually adequate expression in the sensuous medium of sounds and their varied counterpoint does music rise to being a genuine art
+    — Aesthetics, General Character of Music › Musical Treatment of the Subject-matter (tr. Knox)
+  Inwardness as such is therefore the form in which music can conceive its subject-matter
+    — Aesthetics, General Character of Music › Musical Treatment of the Subject-matter (tr. Knox)

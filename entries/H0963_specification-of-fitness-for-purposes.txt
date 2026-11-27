@@ -37,8 +37,12 @@ Phr:
   load and support
 
 # ---- Hegel ----
-Def: The fitness of each part to its function: bearing and being borne, column and beam, made visible.
+Def: A building's fitness for its purpose is the first question: its function and the circumstances of its erection, including climate, position and landscape, which the architect must satisfy while producing a freely coordinated whole. The Greeks built chiefly public works and the Romans luxurious private ones, but where utility prevails beauty enters only as decoration; the freest purpose is a temple for the god's statue.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › General Character of Classical Architecture › The Building's Fitness for its Purpose
 Citations:
+  In the case of the Greeks the principal architectural subjects were public buildings—temples, colonnades, and porticos for resting and strolling in during the day, and avenues like, for instance, the famous approach up to the Acropolis at Athens, whereas their private houses were very simple.
+    — Aesthetics, General Character of Classical Architecture › The Building's Fitness for its Purpose (tr. Knox)
+  In this sphere, therefore, the freest purpose is that of religion, i.e. the construction of a temple to be an enclosure for a person who himself belongs to fine art and is set up by sculpture as a statue of the god.
+    — Aesthetics, General Character of Classical Architecture › The Building's Fitness for its Purpose (tr. Knox)

@@ -30,8 +30,12 @@ Phr:
   at Marathon
 
 # ---- Hegel ----
-Def: Greece in history: the Persian wars, the rivalry of Athens and Sparta, and the Macedonian empire.
+Def: The period in which Greece enters world history by its contact with the Persians and shows itself at its most glorious, free individuality in small states withstanding the united power of Oriental despotism. There follow the antagonism of Athens and Sparta, the Peloponnesian war, and the Macedonian empire, in which Alexander leads Greece into Asia and spreads its culture over the East.
 Texts:
   The Philosophy of History
     The Greek World › The Wars with the Persians
 Citations:
+  In the case before us, the interest of the World's History hung trembling in the balance. Oriental despotism—a world united under one lord and sovereign—on the one side, and separate states— insignificant in extent and resources, but animated by free individuality—on the other side, stood front to front in array of battle.
+    — The Philosophy of History, The Greek World › The Wars with the Persians (tr. Sibree)
+  It was Alexander's aim to avenge Greece for all that Asia had inflicted upon it for so many years, and to fight out at last the ancient feud and contest between the East and the West.
+    — The Philosophy of History, The Greek World › The Wars with the Persians (tr. Sibree)

@@ -13,8 +13,12 @@ F:
   Greek: synecheia
 
 # ---- Hegel ----
-Def: Quantity posited as continuity, an unbroken self-equality, and as discreteness, a plurality of ones; each contains the other.
+Def: Continuous and discrete magnitude are quantity posited in each of its two moments. Continuity is brought to completion only with discreteness, and quantity is concrete only as the unity of the two, each of which, in its unity with the other, remains the whole. Posited in the determination of continuity, quantity is continuous magnitude; posited in the determinateness immanent to it, the one, it is discrete magnitude. Neither is a separate kind that falls outside the other.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantity › Continuous and discrete magnitude
 Citations:
+  It is to be posited in both, in each as its determination.
+    — The Science of Logic, Quantity › Continuous and discrete magnitude (tr. di Giovanni)
+  These are to be taken, therefore, also as distinct, without however resolving them again into attraction and repulsion but, rather, as they truly are, each remaining in its unity with the other, that is, remaining the whole.
+    — The Science of Logic, Quantity › Continuous and discrete magnitude (tr. di Giovanni)

@@ -36,8 +36,12 @@ Phr:
   a vault of heaven
 
 # ---- Hegel ----
-Def: The round arch and the vault, Roman forms that make the support self-enclosing.
+Def: The Roman construction of arch and vault makes Roman architecture a middle form between Greek and Christian. The Greeks developed column and horizontal beam, but an arch joining two supports is related to a centre that has nothing to do with the column, its parts carrying and continuing one another, so that the column begins to lose its purpose as mere support. The Pantheon is an outstanding example.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Different Styles in Classical Architecture › The Roman Construction of Arch and Vault
 Citations:
+  Secondly, Roman architecture can be regarded as a middle form between Greek and Christian because what especially begins in it is the use of the arch and vaultings.
+    — Aesthetics, The Different Styles in Classical Architecture › The Roman Construction of Arch and Vault (tr. Knox)
+  For the arch in its rise, its curve, and its fall is related to a central point which has nothing to do with a column and its support. The different parts of the arch mutually carry, support, and continue one another, so that they are exempt from the aid of a column to a far greater extent than a superimposed beam is.
+    — Aesthetics, The Different Styles in Classical Architecture › The Roman Construction of Arch and Vault (tr. Knox)

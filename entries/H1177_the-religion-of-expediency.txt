@@ -31,8 +31,12 @@ Phr:
   religio as binding
 
 # ---- Hegel ----
-Def: The Roman religion of expediency, gods in the service of the state's ends.
+Def: The Roman religion of expediency or purposiveness unites the religions of beauty and of sublimity, so that both lose their one-sidedness and also their higher content. The gods are reduced to means, and the One gives way to an empirical, universal aim. That aim is Rome itself: Jupiter Capitolinus is the god who makes Rome dominant, an abstract power and not the genuine spiritual One.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › The Religion of Expediency
 Citations:
+  The religion of beauty loses the concrete individuality of its gods and hence also their ethical, independent content; the gods are reduced to means.
+    — Lectures on the Philosophy of Religion, Determinate Religion (1827) › The Religion of Expediency (tr. Brown, Hodgson and Stewart)
+  This dominant Rome in the form of a ruling god is Jupiter Capitolinus. He is the principal god who makes Rome dominant—the Jupiter who has the meaning of ruling and has a purpose within the world, and it is the Roman people through whom and for whom he accomplishes this purpose.
+    — Lectures on the Philosophy of Religion, Determinate Religion (1827) › The Religion of Expediency (tr. Brown, Hodgson and Stewart)

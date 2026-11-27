@@ -8,8 +8,12 @@ N:
   dithyramb and psalm
 
 # ---- Hegel ----
-Def: The dithyramb and the psalm, in which the soul is carried away beyond itself toward the god in ecstasy or longing.
+Def: Dithyramb and psalm are the more lyrical form of religious elevation, a soaring of the soul in worship in which the poet, shaken by the might of the object, cannot shape any single objective picture and gets no further than exultation. The Old Testament Psalms are the impressive instance of this flight of praise toward the one God.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  A converse (ii) and more lyrical type is a dithyrambic soaring, a subjective elevation in worship.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  More impressive, on the other hand, we find in many of the sublime Psalms in the Old Testament this soaring flight of praise, this jubilation of the soul as it lifts its eye to heaven and cries out to the one God in whom the Psalmist finds the end and aim of his consciousness, the proper source of all might and truth, the proper object of all glory and praise.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

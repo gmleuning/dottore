@@ -38,8 +38,12 @@ Phr:
   life and soul
 
 # ---- Hegel ----
-Def: The idea in its immediacy: the soul in its body, the living concept present in every member.
+Def: Life is the immediate idea. It belongs in logic because the subject matter of logic is absolute truth, truth lies essentially in cognition, and cognition presupposes the idea in its immediacy, which is life. Logical life is to be distinguished from natural life, treated in the philosophy of nature, and from life as bound to spirit: it is life as idea, apprehended in pure thought, and has arisen through the concept's own necessity.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Life
 Citations:
+  But the immediate idea is life.
+    — The Science of Logic, Life (tr. di Giovanni)
+  But if the subject matter of logic is the absolute truth, and truth as such lies essentially in cognition, then cognition at least would have to come in for consideration.
+    — The Science of Logic, Life (tr. di Giovanni)

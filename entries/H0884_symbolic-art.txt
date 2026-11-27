@@ -31,8 +31,12 @@ Phr:
   seeking its form
 
 # ---- Hegel ----
-Def: Art in which the idea is still seeking its true expression, so that shape and meaning do not correspond; the symbol.
+Def: Symbolic art is the beginning of art, in nature and history, only its threshold, belonging especially to the East. Its symbol is an external existence given to contemplation which is to be understood in a wider and more universal sense, so that meaning and expression are distinct. Since the idea is still indeterminate and measureless it finds no wholly corresponding form and transcends its appearance, which gives it the character of sublimity.
 Texts:
   Aesthetics
     The Symbolic Form of Art
 Citations:
+  Symbol as such is an external existent given or immediately present to contemplation, which yet is to be understood not simply as it confronts us immediately on its own account, but in a wider and more universal sense.
+    — Aesthetics, The Symbolic Form of Art (tr. Knox)
+  But in this non-correspondence the Idea transcends its external existence instead of having blossomed or been perfectly enclosed in it.
+    — Aesthetics, The Symbolic Form of Art (tr. Knox)

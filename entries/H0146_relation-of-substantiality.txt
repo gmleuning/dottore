@@ -40,8 +40,12 @@ Phr:
   when all is said and done
 
 # ---- Hegel ----
-Def: Substance as the power over its accidents, which are only its shining; the totality that posits and negates them.
+Def: The relation of substantiality is absolute necessity as being that is because it is, being absolutely mediated with itself. This being is substance, the being in all being: neither an unreflected immediate nor something abstract behind appearance, but immediate actuality itself. Its shining is accidentality, the coming-to-be and passing away in which possibility and actuality turn into one another; this movement is the quiet coming forth of substance itself, which is power.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute relation › The relation of substantiality
 Citations:
+  This being is substance; as the final unity of essence and being, it is the being in all being.
+    — The Science of Logic, The absolute relation › The relation of substantiality (tr. di Giovanni)
+  This movement of accidentality is the actuosity of substance as the tranquil coming forth of itself.
+    — The Science of Logic, The absolute relation › The relation of substantiality (tr. di Giovanni)

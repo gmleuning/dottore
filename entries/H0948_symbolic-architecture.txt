@@ -27,8 +27,12 @@ Phr:
   a monument to
 
 # ---- Hegel ----
-Def: Symbolic architecture, building that is meaningful in itself without a further purpose.
+Def: Independent or symbolic architecture builds works that express a universal idea for no other purpose. Art's primary need is to present a thought produced by spirit as a human work; unable at first to give abstract, indefinite national insights a spiritual shape, it seizes matter with mass and weight, so that meaning and sensuous reality relate only symbolically. The building is a wordless language present for its own sake, meant to stimulate thought.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture
 Citations:
+  On this account the relation between the meaning and the sensuous reality whereby the meaning is to issue from [the artist’s] conception into the spectator’s can be only of a purely symbolical kind.
+    — Aesthetics, Architecture › Symbolic Architecture (tr. Knox)
+  But at the same time a building which is to reveal a universal idea to spectators is constructed for no other purpose than to express this lofty idea in itself, and therefore it is an independent symbol of an absolutely essential and universally valid thought, or a language, present for its own sake, even if it be wordless, for apprehension by spiritual beings.
+    — Aesthetics, Architecture › Symbolic Architecture (tr. Knox)

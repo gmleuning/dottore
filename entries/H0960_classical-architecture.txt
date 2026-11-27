@@ -26,8 +26,12 @@ Phr:
   beauty in use
 
 # ---- Hegel ----
-Def: Building that serves a purpose and is beautiful in serving it, the house of the god, with function and form in harmony.
+Def: Classical architecture is subservient to an end and meaning not immanent in itself: an inorganic surrounding structure ordered by gravity and severe regular forms. Its beauty lies in appropriateness to purpose, freed from confusion with the organic and symbolic, a totality that lets its single purpose shine through all its forms and in the music of its proportions reshapes the useful into beauty.
 Texts:
   Aesthetics
     Architecture › Classical Architecture
 Citations:
+  The beauty of classical architecture consists precisely in this appropriateness to purpose which is freed from immediate confusion with the organic, the spiritual, and the symbolic; although it subserves a purpose, it comprises a perfect totality in itself which makes its one purpose shine clearly through all its forms, and in the music of its proportions reshapes the purely useful into beauty.
+    — Aesthetics, Architecture › Classical Architecture (tr. Knox)
+  Architecture at this stage, however, does correspond with its real essential nature because it cannot entirely endow the spiritual with an adequate existence and therefore can only frame the external and spiritless into a reflection of the spiritual.
+    — Aesthetics, Architecture › Classical Architecture (tr. Knox)

@@ -38,8 +38,12 @@ Phr:
   to mean well
 
 # ---- Hegel ----
-Def: The universal side of the deed, the intention, and the particular content that is the subject's welfare.
+Def: Intention and welfare form the second moment of morality. Intention is the universal character of the deed known by the agent, as distinct from its isolated single consequences; welfare is the particular content of the subject, which is the soul of the action. The subject has the right to find its own satisfaction in what it does.
 Texts:
   The Philosophy of Right
     §§119–128
 Citations:
+  The truth of the individual, however, is the universal
+    — The Philosophy of Right §119 (tr. Knox, rev. Houlgate)
+  But the subject, an entity reflected into himself and so particular in relation to objective particularity, has in his end his own particular content, and this content is the soul of the action and determines its character.
+    — The Philosophy of Right §121 (tr. Knox, rev. Houlgate)

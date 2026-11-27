@@ -43,8 +43,12 @@ Phr:
   one's days are numbered
 
 # ---- Hegel ----
-Def: The finite as such, whose being consists in having its limit within itself as its own end, so that its hour of birth is the hour of its death.
+Def: Finitude as such is the quality of something whose limit is immanent in it, so that its negation constitutes its very being-in-itself. To call things finite is to say not only that they are determinate and limited, but that non-being constitutes their nature. They are, but the truth of this being is their end. Finitude is qualitative negation driven to the extreme and fixed in itself, the most obstinate category of the understanding, which makes the transitoriness of things imperishable and absolute and will not let the finite pass into its affirmative, the infinite.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Finitude
 Citations:
+  When we say of things that they are finite, we understand by this that they not only have a determinateness, that their quality is not only reality and existent determination, that they are not merely limited and as such still have existence outside their limit, but rather that non-being constitutes their nature, their being.
+    — The Science of Logic, Finitude › Finitude (tr. di Giovanni)
+  Because of this qualitative simplicity of negation that has returned to the abstract opposition of nothing and perishing to being, finitude is the most obstinate of the categories of the understanding; negation in general, constitution, limit, are compatible with their other, with existence; even the abstract nothing, by itself, is given up as an abstraction; but finitude is negation fixed in itself and, as such, stands in stark contrast to its affirmative.
+    — The Science of Logic, Finitude › Finitude (tr. di Giovanni)

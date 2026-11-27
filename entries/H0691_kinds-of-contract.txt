@@ -36,8 +36,12 @@ Phr:
   terms and conditions
 
 # ---- Hegel ----
-Def: The division of contracts according to the relation of the wills and the things exchanged.
+Def: The kinds of contract are derived not from external circumstances but from distinctions within the nature of contract itself: between formal and real contract, between ownership and possession or use, and between value and the specific thing. They yield three classes: gift, exchange, and the completion of a contract by pledge.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  The classification of contracts and an intelligent treatment of their various species once classified is not here to be derived from external circumstances but from distinctions lying in the very nature of contract.
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)
+  These distinctions are those between formal and real [reell] contracts, between ownership and possession and use, between value and specific thing
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

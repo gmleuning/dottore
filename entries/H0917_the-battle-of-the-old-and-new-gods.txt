@@ -30,8 +30,12 @@ Phr:
   Titans and Olympians
 
 # ---- Hegel ----
-Def: The struggle of the old nature gods and the new spiritual gods, the Titans and the Olympians.
+Def: The battle of the old and new gods is the higher stage of the debasement of the natural: the genuine gods of classical art have free self-consciousness as individual spiritual powers, with knowledge and will, so that the human shape belongs to their very meaning. Mere personification of natural powers such as sun, sea and earth is insufficient, and the old nature gods must be overcome by the new spiritual ones.
 Texts:
   Aesthetics
     The Classical Form of Art › The Process of Shaping the Classical Art-Form › The Battle between the Old Gods and the New
 Citations:
+  [S]ince the genuine gods of classical art have for their inner character free self-consciousness as the self-reposing power of the individual spirit, they can also come into our view only as possessed of knowledge and will, i.e. as spiritual powers.
+    — Aesthetics, The Process of Shaping the Classical Art-Form › The Battle between the Old Gods and the New (tr. Knox)
+  In this way the human shape in which they are represented is not, as might be supposed, a mere form which is tacked on to their content purely externally by imagination, but is implied in the meaning, the content, the inner itself.
+    — Aesthetics, The Process of Shaping the Classical Art-Form › The Battle between the Old Gods and the New (tr. Knox)

@@ -34,8 +34,12 @@ Phr:
   they were all filled with the Holy Ghost [Bible]
 
 # ---- Hegel ----
-Def: The origin of the community in the outpouring of the spirit.
+Def: The community originates with the outpouring of the Spirit, through a sensible human appearance that is then comprehended spiritually; its confirmation is spiritual and does not rest on investigating historical or sensible particulars. It begins from the truth at hand, that God is triune, that this has appeared, and that the subject is to be united with it through faith. The community is itself the existing Spirit, God existing as community.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Community, Spirit › The Origin of the Community
 Citations:
+  For the origin of faith there is necessary first a human being, a sensible human appearance, and second, spiritual comprehension, consciousness of the spiritual.
+    — Lectures on the Philosophy of Religion, Community, Spirit › The Origin of the Community (tr. Brown, Hodgson and Stewart)
+  Thus the community itself is the existing Spirit, the Spirit in its existence [Existenz], God existing as community.
+    — Lectures on the Philosophy of Religion, Community, Spirit › The Origin of the Community (tr. Brown, Hodgson and Stewart)

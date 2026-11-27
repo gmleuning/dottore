@@ -46,8 +46,14 @@ Phr:
   child's play
 
 # ---- Hegel ----
-Def: Spirit wrapped up in itself, living in unity with its world in trust, the time of natural harmony and of play.
+Def: Childhood is the time of natural harmony, of the individual's peace with itself and with the world: the beginning without opposition, as old age is the end without it. Whatever oppositions arise remain without deeper interest. The child lives in innocence, without lasting pain, in love for its parents and in the feeling of being loved by them. This unity with its genus and with the world is immediate and therefore merely natural, and so it must be sublated: the individual must advance to oppose itself to the universal and grasp its own independence.
 Texts:
   The Philosophy of Mind
     §396
 Citations:
+  Childhood is, therefore, the time of natural harmony, of the peace of the individual with himself and with the world—the oppositionless beginning, just as old age is the oppositionless end.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)
+  The child lives in innocence, without lasting pain, in the love it has for its parents and in the feeling of being loved by them.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)
+  This immediate and therefore unspiritual, purely natural unity of the individual with its genus and with the world generally, must be sublated; the individual must advance to the point where he opposes himself to the universal as the finished and subsisting substance that is in and for itself, to the point where he apprehends himself in his independence.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)

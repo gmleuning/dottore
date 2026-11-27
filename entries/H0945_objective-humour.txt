@@ -15,8 +15,12 @@ Adv:
   with heartfelt humour
 
 # ---- Hegel ----
-Def: Der objektive Humor: an inward humour of feeling that does not destroy the object but dwells in it intimately, as in Goethe's West-Eastern Divan, the close of romantic art.
+Def: Objective humour arises when satisfaction in externality or in subjective portrayal deepens into the heart's immersion in the object, so that the artist grows intimate with it, in a sensitive abandonment that remains an inner movement of imagination devoted to the object, expressible only briefly. Goethe's West-Eastern Divan is among its brilliant modern instances, at the close of romantic art.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art › The End of the Romantic Form of Art
 Citations:
+  But if this satisfaction in externality or in the subjective portrayal is intensified, according to the principle of romantic art, into the heart's deeper immersion in the object, and if, on the other hand, what matters to humour is the object and its configuration within its subjective reflex, then we acquire thereby a growing intimacy with the object, a sort of objective humour.
+    — Aesthetics, Dissolution of the Romantic Form of Art › The End of the Romantic Form of Art (tr. Knox)
+  But what we may regard as necessary here is rather a sensitive abandonment of the heart in the object, which is indeed unfolded but remains a subjective spirited movement of imagination and the heart
+    — Aesthetics, Dissolution of the Romantic Form of Art › The End of the Romantic Form of Art (tr. Knox)

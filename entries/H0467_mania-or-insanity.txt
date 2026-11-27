@@ -38,8 +38,12 @@ Phr:
   whom the gods would destroy, they first make mad
 
 # ---- Hegel ----
-Def: The third form of derangement: the subject knows itself torn into two contradictory modes of consciousness, feels the contradiction between its subjective presentation and the objective world, and yet cannot give it up, but insists on making it actual or on annihilating what is actual.
+Def: Mania or insanity is the third main form of derangement, and only in it is the deranged subject aware of being torn apart into two contradictory modes of consciousness. The sufferer vividly feels the contradiction between their merely subjective representation and what is objective, yet cannot give the representation up and insists on making it actual or on destroying what is actual. It need not spring from an empty illusion: great misfortune, the collapse of one's individual world or an upheaval of the state of the world can bring it about.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  Only when the third main form of the deranged state is present, mania or insanity, do we have the phenomenon that the deranged subject himself is aware of being torn apart into two mutually contradictory modes of consciousness, that the mental patient himself has a vivid feeling of the contradiction between his merely subjective representation and objectivity, and yet cannot give up this representation but insists on making it an actuality or annihilating what is actual.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  It is implied in the concept of mania just indicated that it need not spring from an empty illusion, but can be brought about particularly by a stroke of great misfortune, by a derangement of someone's individual world, or by the violent upheaval and coming out-of-joint of the universal state of the world
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

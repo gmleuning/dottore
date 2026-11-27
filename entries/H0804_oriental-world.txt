@@ -33,8 +33,12 @@ Phr:
   light rises in the East
 
 # ---- Hegel ----
-Def: The Oriental world, where one is free; the substance and the despot.
+Def: The first stage of world history. Its principle is substantiality: moral distinctions are laid down as laws that govern the subjective will from outside, with no place yet for conscience or inward assent. State and religion coincide in theocracy, so that the secular kingdom is also divine and the individual obeys a will that is not recognized as his own.
 Texts:
   The Philosophy of History
     The Oriental World
 Citations:
+  The Oriental World has as its inherent and distinctive principle the Substantial, [the Prescriptive,] in Morality. We have the first example of a subjugation of the mere arbitrary will, which is merged in this substantiality. Moral distinctions and requirements are expressed as Laws, but so that the subjective will is governed by these Laws as by an external force.
+    — The Philosophy of History, The Oriental World (tr. Sibree)
+  What we call God has not yet in the East been realized in consciousness, for our idea of God involves an elevation of the soul to the supersensual. While we obey, because what we are required to do is confirmed by an internal sanction, there the Law is regarded as inherently and absolutely valid without a sense of the want of this subjective confirmation. In the law men recognize not their own will, but one entirely foreign.
+    — The Philosophy of History, The Oriental World (tr. Sibree)

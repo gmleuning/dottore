@@ -25,8 +25,12 @@ Phr:
   the life of the spirit
 
 # ---- Hegel ----
-Def: The religious domain of romantic art: the infinite subject reconciled with God.
+Def: The religious domain of romantic art has for its substantial content the reconciliation of God with the world and so with himself, spirit's union with its essence and the satisfaction of the heart, so that the ideal seems at home again, though in a form quite unlike the classical, which could not admit self-division, grief, sacrifice and renunciation, nor a world of evil to be reconciled.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Religious Domain of Romantic Art
 Citations:
+  In its representation of absolute subjectivity as the whole of truth, romantic art has for its substantial content the reconciliation of God with the world and therefore with himself, the unification of the spirit with its essence, the satisfaction of the heart, and therefore at this stage the Ideal seems at last to be completely at home.
+    — Aesthetics, The Romantic Form of Art › The Religious Domain of Romantic Art (tr. Knox)
+  [A]nd, thirdly, since the underlying principle is the unseparated unity of the individual in himself and in his external world, there cannot appear as an essential factor the negativity of diremption within the self, of bodily and spiritual grief, of sacrifice and renunciation.
+    — Aesthetics, The Romantic Form of Art › The Religious Domain of Romantic Art (tr. Knox)

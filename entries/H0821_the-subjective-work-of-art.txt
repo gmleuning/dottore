@@ -31,8 +31,12 @@ Phr:
   the body beautiful
 
 # ---- Hegel ----
-Def: The subjective work of art: the human body formed by gymnastic and festival into a beautiful shape.
+Def: The first Greek art, in which individuals fashion their own bodies into beautiful shapes before expressing such shapes in marble and painting. Moved by an impulse to display themselves and enjoy doing so, they practise games, dance and song, and so transform the body into an organ of spirit, in which human freedom shows itself.
 Texts:
   The Philosophy of History
     The Greek World › Phases of Individuality Aesthetically Conditioned › The Subjective Work of Art
 Citations:
+  The Greeks first trained their own persons to beautiful configurations before they attempted the expression of such in marble and in paintings.
+    — The Philosophy of History, Phases of Individuality Aesthetically Conditioned › The Subjective Work of Art (tr. Sibree)
+  [M]an shews his Freedom, viz. that he has transformed his body to an organ of Spirit.
+    — The Philosophy of History, Phases of Individuality Aesthetically Conditioned › The Subjective Work of Art (tr. Sibree)

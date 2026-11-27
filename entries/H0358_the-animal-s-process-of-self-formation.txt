@@ -29,8 +29,12 @@ Phr:
   making oneself
 
 # ---- Hegel ----
-Def: The organism's self-formation, its production of itself as a living process, the immediate reproduction of its members.
+Def: In its process of self-formation the living structure converts its own members into a non-organic nature and means, lives on itself and produces itself, each member being both end and means. Nothing in it endures and everything is reproduced; each organ feeds on and gives itself up to the others, and the result is the simple feeling of self.
 Texts:
   The Philosophy of Nature
     §356
 Citations:
+  Structure, as alive, is essentially process, and it is, as such, abstract process, the structural process within structure itself
+    — Encyclopedia §356 (tr. Miller)
+  Nothing in the organism endures, but everything is reproduced, not excepting the bones.
+    — Encyclopedia §356, Addition (tr. Miller)

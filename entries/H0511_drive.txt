@@ -25,8 +25,12 @@ Phr:
   to be driven by
 
 # ---- Hegel ----
-Def: Trieb, self-consciousness's drive to sublate the contradiction between its certainty of itself and the object that stands over against it.
+Def: Drive, or urge, is the form of desire as self-consciousness first bears it: undetermined by thought and directed on an external object in which it seeks satisfaction. Where something identical with itself carries a contradiction within it and feels both its identity and the contradiction, the urge to remove it necessarily arises. The lifeless has no urge, since it cannot endure contradiction and perishes of it, while soul and mind must have urge.
 Texts:
   The Philosophy of Mind
     §426
 Citations:
+  Where something identical with itself bears within itself a contradiction and is filled with the feeling of its implicit identity with itself as well as with the opposite feeling of its inner contradiction, then there necessarily emerges the urge to sublate this contradiction.
+    — Encyclopedia §426, Addition (tr. Wallace and Miller, rev. Inwood)
+  The non-living entity has no urge because it is incapable of enduring contradiction; it perishes when the Other of itself forces its way into it. By contrast, the ensouled creature and the mind necessarily have urge, since neither the soul nor the mind can be, without having contradiction within themselves and either feeling it or being aware of it.
+    — Encyclopedia §426, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -47,8 +47,10 @@ Phr:
   estate coming into possession
 
 # ---- Hegel ----
-Def: The giving up of my property, possible because the thing is mine only by my will.
+Def: Alienation is the giving up of one's property, either by abandoning it or by yielding it to another's will. It is possible because the thing is mine only insofar as I have put my will into it; it is limited to things external by nature, since what constitutes my own personality and freedom cannot be alienated.
 Texts:
   The Philosophy of Right
     §§65–70
 Citations:
+  The reason I can alienate my property is that it is mine only insofar as I put my will into it. Hence I may abandon (derelinquiere) as ownerless anything that I have or yield it to the will of another and so into his possession, provided always that the thing in question is a thing external by nature.
+    — The Philosophy of Right §65 (tr. Knox, rev. Houlgate)

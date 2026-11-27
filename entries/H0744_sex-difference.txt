@@ -38,8 +38,10 @@ Phr:
   vive la différence
 
 # ---- Hegel ----
-Def: The natural difference of the sexes given its ethical significance.
+Def: Sex difference is the natural difference of the two sexes, which has a rational basis and so acquires intellectual and ethical significance. The ethical substance divides itself through it into a concrete unity: one sex directed to personal self-subsistence and free universality, the other to maintaining spirit in unity, in the family.
 Texts:
   The Philosophy of Right
     §§165–166
 Citations:
+  The difference in the natural characteristics of the two sexes has a rational basis and consequently acquires an intellectual and ethical significance. This significance is determined by the difference into which the ethical substantiality, as the concept in itself, sunders itself in order that, through this difference, its vitality may become a concrete unity.
+    — The Philosophy of Right §165 (tr. Knox, rev. Houlgate)

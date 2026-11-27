@@ -70,8 +70,10 @@ Phr:
   lash'd into Latin by the tingling rod [Gay]
 
 # ---- Hegel ----
-Def: Certainty become truth, knowing confirmed in what is known.
+Def: Knowledge is reason as truth that is aware. Because reason is the identity of its own thoughts with the essence of things, it is not only absolute substance but truth as awareness: truth here has as its immanent form the pure concept existing for itself, the I, the certainty of itself as infinite universality. This truth that knows is mind, which Psychology goes on to consider as a knowing that stands in relation only to its own determinations.
 Texts:
   The Philosophy of Mind
     §439
 Citations:
+  This truth that is aware is the mind.
+    — Encyclopedia §439 (tr. Wallace and Miller, rev. Inwood)

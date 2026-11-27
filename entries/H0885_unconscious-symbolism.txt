@@ -30,8 +30,12 @@ Phr:
   half-known
 
 # ---- Hegel ----
-Def: Unconscious symbolism, in which meaning and shape are joined without knowing their difference.
+Def: Unconscious symbolism is the first shape of the symbolic, not yet known as mere image and simile. It rests on an immediate unification of universal spiritual meaning with a sensuous shape that is as adequate as inadequate, with no consciousness yet of their incongruity, although the link must already be formed by imagination and art. Its first presupposition is the immediate unity of the absolute with its existence in nature and human activity.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Unconscious Symbolism
 Citations:
+  The symbol on the one hand has its basis in the immediate unification of the universal and therefore spiritual meaning with the sensuous shape which is just as adequate as inadequate; but as yet there is no consciousness of their incongruity.
+    — Aesthetics, The Symbolic Form of Art › Unconscious Symbolism (tr. Knox)
+  Thus the first presupposition of the symbolical's coming into being is precisely that immediate unity of the Absolute with its existence in the phenomenal world, a unity not produced by art but found, without art, in actual natural objects and human activities.
+    — Aesthetics, The Symbolic Form of Art › Unconscious Symbolism (tr. Knox)

@@ -28,8 +28,12 @@ Phr:
   drink deep
 
 # ---- Hegel ----
-Def: The plant's process with water, its taking up of moisture through the root.
+Def: The process with water is of cardinal importance, since moisture first makes the plant fertile: it has no independent impulse to germinate, and without water the seed stays inanimate. Most plants need no soil for nourishment and can grow in water, introduced through root and leaf, the product being the formation of nodes.
 Texts:
   The Philosophy of Nature
     §347
 Citations:
+  Next to the air-process, the water-process is of cardinal importance, for it is moisture which first makes the plant fertile
+    — Encyclopedia §347, Addition (tr. Miller)
+  Most plants do not require soil for their nourishment
+    — Encyclopedia §347, Addition (tr. Miller)

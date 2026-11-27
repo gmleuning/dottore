@@ -36,8 +36,12 @@ Phr:
   as nature made it
 
 # ---- Hegel ----
-Def: The beauty found in nature, the idea as life, beautiful only for the beholding spirit.
+Def: Natural beauty is the idea as the immediate unity of the concept with its reality, so far as this unity is present immediately in sensuous, real appearance. The first existence of the idea is nature, and beauty begins as the beauty of nature. Its stages run from soulless mechanical bodies, through systems such as the solar system, to higher forms, and its deficiencies show why the ideal must take the shape of art.
 Texts:
   Aesthetics
     The Beauty of Nature
 Citations:
+  The beautiful is the Idea as the immediate unity of the Concept with its reality, the Idea, however, only in so far as this its unity is present immediately in sensuous and real appearance.
+    — Aesthetics, The Beauty of Nature (tr. Knox)
+  Now the first existence of the Idea is nature, and beauty begins as the beauty of nature.
+    — Aesthetics, The Beauty of Nature (tr. Knox)

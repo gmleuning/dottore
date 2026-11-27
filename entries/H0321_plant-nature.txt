@@ -51,8 +51,12 @@ Phr:
   this is the forest primeval [Longfellow]
 
 # ---- Hegel ----
-Def: The first subjective life: the plant, which is not yet a self but is outside itself in its members, each an individual.
+Def: The plant is the first, immediate stage of subjective vitality, in which the objective organism and its subjectivity are still identical. It differentiates and sustains itself by coming out of itself and falling apart into many individuals, each part, bud or branch, being also the whole plant, so that its parts differ only superficially and take over one another's functions.
 Texts:
   The Philosophy of Nature
     §§343–349
 Citations:
+  In the plant, which is only the first, immediate stage of subjective vitality, the objective organism and its subjectivity are still immediately identical.
+    — Encyclopedia §343 (tr. Miller)
+  The plant, as the first self-subsistent subject that still has its origin in immediacy, is, however, the feeble, infantile life that has not yet developed within itself the moment of difference.
+    — Encyclopedia §343, Addition (tr. Miller)

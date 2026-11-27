@@ -64,8 +64,14 @@ Phr:
   morent fecerat usus [Lat.] [Ovid]
 
 # ---- Hegel ----
-Def: The soul's making its feelings and activities its own, a mechanism of self-feeling, so that it is free of them; second nature.
+Def: Habit is the soul's making itself into an abstract universal being and reducing the particular feelings to a determination in it that simply is. The soul possesses the content and moves in it without sensation or consciousness, neither distinguishing itself from it nor absorbed in it, and so is free of it and open to other activity. Produced by repetition or practice, it is the mechanism of self-feeling, a second nature, immediate yet posited by the soul. By it one becomes free, and yet habit also makes one its slave.
 Texts:
   The Philosophy of Mind
     §§409–410
 Citations:
+  That the soul thus makes itself into abstract universal being, and reduces the particularity of feelings (of consciousness too) to a determination in it that just is, is habit.
+    — Encyclopedia §410 (tr. Wallace and Miller, rev. Inwood)
+  Habit has rightly been called a second nature
+    — Encyclopedia §410, Remark (tr. Wallace and Miller, rev. Inwood)
+  But the universal related to mutually external individualities is the necessary. Therefore although, on the one hand, by habit a man becomes free, yet, on the other hand, habit makes him its slave.
+    — Encyclopedia §410, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -47,8 +47,10 @@ Phr:
   to do justice
 
 # ---- Hegel ----
-Def: The restoration of right, the negation of the crime's negation.
+Def: Justice is right restored through the annulment of crime, as retribution: the injury of the injury. Since crime has a determinate extent, its negation is similarly determinate, but the equality it requires is one of value, not of specific kind. Where it takes the form of a particular will, as in revenge, it remains contingent.
 Texts:
   The Philosophy of Right
     §§99–103
 Citations:
+  The annulment [Aufheben] of the crime is retribution insofar as (a) retribution according to its concept is the ‘injury of an injury’
+    — The Philosophy of Right §101 (tr. Knox, rev. Houlgate)

@@ -8,8 +8,12 @@ N:
   inflected languages; inflection, endings, terminations, case endings, quantitative languages, the classical languages, Greek and Latin
 
 # ---- Hegel ----
-Def: The ancient languages, in which inflectional endings and natural length give the syllables a quantity independent of meaning.
+Def: Inflected languages such as Greek and Latin develop the root by declension and conjugation into many sounding syllables, which only modify it, so that the chief meaning and the sounding accent separate, as in amaverunt. The ear is then free to follow the sounds and shape their natural longs and shorts rhythmically.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  For example, in Greek and Latin, owing to the declensions and conjugations, the root syllable is developed into a wealth of variously sounding syllables which do have a meaning in themselves, but only as modifications of the root
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  [W]ith the result that the chief meaning and the sounding accent are separated.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

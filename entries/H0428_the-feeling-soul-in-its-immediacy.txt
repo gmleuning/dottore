@@ -86,8 +86,12 @@ Phr:
   drink down all unkindness [Merry Wives]
 
 # ---- Hegel ----
-Def: The feeling totality as a passive relation to another individual, as the child is with its mother's genius.
+Def: The feeling soul in its immediacy is a monadic individual that is not yet itself, not a subject reflected into itself, and therefore passive. Its selfhood belongs to a subject different from it, which may even be another individual, its genius, which moves it without resistance. This is a magical relationship, immediate and unmediated by objective connections. It first appears as a formal subjectivity, in dreaming, in the child in the womb and in the relation to one's genius, and then as a real division of soul life in magnetic somnambulism and related states.
 Texts:
   The Philosophy of Mind
     §§405–406
 Citations:
+  Initially the feeling individuality is indeed a monadic individual, but, being immediate, it is not yet Itself, not a subject reflected into itself, and is therefore passive.
+    — Encyclopedia §405 (tr. Wallace and Miller, rev. Inwood)
+  A magical force is one whose effect is not determined by the interconnection, the conditions and mediations of objective relationships
+    — Encyclopedia §405, Addition (tr. Wallace and Miller, rev. Inwood)

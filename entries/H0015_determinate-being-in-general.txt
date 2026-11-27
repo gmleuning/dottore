@@ -33,8 +33,10 @@ Phr:
   to a degree
 
 # ---- Hegel ----
-Def: Being with non-being taken up into its simple unity, so that its determinateness has the form of being.
+Def: Existence in general is what first proceeds from becoming: the simple oneness of being and nothing, which has the form of an immediate because the mediation that produced it lies behind it. It is being with a non-being, and the non-being is taken up into simple unity with being, so that the concrete whole has the form of being. This is determinateness as such. The word Dasein names being that is there, but the representation of space does not belong to the thought.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Existence as such › Existence in general
 Citations:
+  It is not mere being but existence, or Dasein [in German]; according to its [German] etymology, it is being (Sein) in a certain place (da). But the representation of space does not belong here. As it follows upon becoming, existence is in general being with a non-being, so that this non-being is taken up into simple unity with being. Non-being thus taken up into being with the result that the concrete whole is in the form of being, of immediacy, constitutes determinateness as such.
+    — The Science of Logic, Existence as such › Existence in general (tr. di Giovanni)

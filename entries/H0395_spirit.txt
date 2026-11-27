@@ -48,8 +48,14 @@ Phr:
   the spirit is willing but the flesh is weak
 
 # ---- Hegel ----
-Def: The idea returned to itself out of nature's externality: spirit, whose essence is freedom, the concept knowing itself; nature's truth and its absolute prius.
+Def: Spirit, or mind, is the idea that has reached its being-for-self, with nature as its presupposition: nature's truth and therefore absolutely first with respect to it, the concept returned out of its externality into identity with itself. Its essence is freedom, the ability to bear the negation of its immediacy and stay self-identical. Its knowledge is the most concrete and hence the highest and hardest, and it is the highest definition of the absolute.
 Texts:
   The Philosophy of Mind
     §§377–577
 Citations:
+  For us mind has nature as its presupposition, though mind is the truth of nature, and is thus absolutely first with respect to it. In this truth nature has vanished, and mind has emerged as the Idea that has reached its being-for-self.
+    — Encyclopedia §381 (tr. Wallace and Miller, rev. Inwood)
+  For this reason formally the essence of mind is freedom, the concept's absolute negativity as identity with itself.
+    — Encyclopedia §382 (tr. Wallace and Miller, rev. Inwood)
+  The absolute is mind. This is the highest definition of the absolute.
+    — Encyclopedia §384, Remark (tr. Wallace and Miller, rev. Inwood)

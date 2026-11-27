@@ -29,8 +29,12 @@ Phr:
   a sanctuary within
 
 # ---- Hegel ----
-Def: The house of God fully enclosed, shut off from external nature, a space for inward devotion.
+Def: The fully enclosed house is the basic form of the Gothic church: as the Christian spirit concentrates itself in the inner life, the building becomes a place shut in on every side for the congregation and its thoughts. Yet worship rises above the finite, so that churches grow out of the ground toward the sky, while light is excluded or glimmers dimly through stained glass.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture › Particular Architectural Formations › The Fully Enclosed House as the Fundamental Form
 Citations:
+  In this way architecture acquires elevation to the infinite as the significance which it is driven to express in architectonic forms, a significance independent of mere purposiveness.
+    — Aesthetics, Particular Architectural Formations › The Fully Enclosed House as the Fundamental Form (tr. Knox)
+  Thus, while the buildings of classical architecture in the main lie on the ground horizontally, the opposite romantic character of Christian churches
+    — Aesthetics, Particular Architectural Formations › The Fully Enclosed House as the Fundamental Form (tr. Knox)

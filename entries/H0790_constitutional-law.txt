@@ -36,8 +36,10 @@ Phr:
   the separation of powers
 
 # ---- Hegel ----
-Def: The state's inner constitution as an organism, the separation and unity of powers.
+Def: Constitutional law is the state's relation to itself, its internal constitution and its sovereignty against other states. The state is the end immanent in family and civil society, and its strength lies in the unity of its universal end with the particular interest of individuals, who have duties to it insofar as they also have rights.
 Texts:
   The Philosophy of Right
     §§260–329
 Citations:
+  In contrast with the spheres of private right and private welfare (the family and civil society), the state is from one point of view an external necessity and their higher authority; its nature is such that their laws and interests are subordinate to it and dependent on it.
+    — The Philosophy of Right §261 (tr. Knox, rev. Houlgate)

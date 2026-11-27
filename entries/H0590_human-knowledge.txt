@@ -19,8 +19,12 @@ Adv:
   by the law of the land
 
 # ---- Hegel ----
-Def: Das menschliche Wissen: the self-conscious knowledge of the human law, manifest in the light of day, which in acting knows only one side of the ethical substance.
+Def: Human knowledge here is the knowing of the consciousness that belongs to the human law. Since ethical consciousness has decided for one power, it sees right only on its own side. The commands of government have a universal and public meaning that lies open in the light of day, and to the consciousness holding to them the other law appears as the obstinacy and disobedience of an inward being-for-itself, and as sacrilege where it contradicts them.
 Texts:
   The Phenomenology of Spirit
     ¶¶465–467
 Citations:
+  While it sees right only on its own side and sees only wrong on the other, the consciousness that belongs to divine law beholds on the other side human, contingent violence; and that consciousness which belongs to human law beholds on the other side the obstinacy and disobedience of inward being-for-itself.
+    — The Phenomenology of Spirit ¶465 (tr. Pinkard)
+  For the commands of government have a universal, public sense lying open to the light of day, but the will of the other law is the sense of the netherworld, sealed up in innerness, a sense which in its existence appears as the will of singular individuality and, when it stands in contradiction to the first, is sacrilege.
+    — The Phenomenology of Spirit ¶465 (tr. Pinkard)

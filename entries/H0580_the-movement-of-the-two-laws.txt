@@ -32,8 +32,14 @@ Phr:
   caught in the middle
 
 # ---- Hegel ----
-Def: The movement in which the two laws pass into each other and come into conflict.
+Def: The movement of the two laws unfolds the differences within each, through which they engage one another and pass into each other. The polity has its liveliness in government, which lets the whole spread into self-sufficient parts and gathers them again, and has the proof of its power in the divine law and the netherworld. The divine law, within the family, moves through the relations of husband and wife, parents and children, and brother and sister, from which the individual passes over into the human law.
 Texts:
   The Phenomenology of Spirit
     ¶¶453–459
 Citations:
+  Now, there are differences and levels in the one law as well as in the other.
+    — The Phenomenology of Spirit ¶453 (tr. Pinkard)
+  The polity therefore has the truth and substantiation of its power in the essence of the divine law and in the realm of the netherworld.
+    — The Phenomenology of Spirit ¶454 (tr. Pinkard)
+  Likewise, the divine law prevailing in the family has for its part differences within itself, and the relations among those differences constitute the living movement of its actuality.
+    — The Phenomenology of Spirit ¶455 (tr. Pinkard)

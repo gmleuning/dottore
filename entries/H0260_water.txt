@@ -46,8 +46,12 @@ Phr:
   highest good is like water, shang shan ruo shui [Chin.] [Laozi]
 
 # ---- Hegel ----
-Def: The element of neutrality, without shape of its own, taking any shape, the possibility of the chemical process.
+Def: Water is the neutral element, opposition returned into itself, devoid of independent individuality and so without rigidity or determinateness of its own: a thorough equilibrium that dissolves whatever is mechanically placed in it and receives its shape from outside. It lacks the unrest of process and is only its possibility, solubility, able to become vapour or solid.
 Texts:
   The Philosophy of Nature
     §284
 Citations:
+  As devoid of independent individuality and therefore without rigidity and determination within itself, it is a thorough-going equilibrium that resolves any determinateness mechanically placed in it; limitation of shape it receives only externally and seeks it from outside (adhesion).
+    — Encyclopedia §284 (tr. Miller)
+  It is an abstract neutrality, not, like salt, an individualized neutrality; for this reason it was early called 'the mother of everything particular'.
+    — Encyclopedia §284, Addition (tr. Miller)

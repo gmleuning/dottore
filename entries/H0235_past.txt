@@ -58,8 +58,12 @@ Phr:
   vetera extollimus recentium incuriosi [Lat.] [Tacitus]
 
 # ---- Hegel ----
-Def: The no-longer, the now that has been, the being of time as already gone over.
+Def: The past is the dimension in which being is the foundation and starting point, posited under the category of non-being: it has been actual, as the history of the world and natural events. The present is only because the past is not. In nature, past and future of time exist as space, since space is negated time.
 Texts:
   The Philosophy of Nature
     §259
 Citations:
+  In the one case, in the Past (in Hades), being is the foundation, the starting point; the Past has been actual as history of the world, as natural events, but posited under the category of non-being which is added to it.
+    — Encyclopedia §259, Addition (tr. Miller)
+  But the past and future of time as being in Nature, are space, for space is negated time
+    — Encyclopedia §259, Remark (tr. Miller)

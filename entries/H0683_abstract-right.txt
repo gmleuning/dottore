@@ -54,8 +54,12 @@ Phr:
   à chaque saint sa chandelle [Fr.]
 
 # ---- Hegel ----
-Def: The will's immediate existence in the person, the capacity for rights, whose command is: be a person and respect others as persons.
+Def: Abstract right is the first sphere of the free will, in which the will exists immediately as a person: the bare capacity for rights, abstracted from all particular aims, welfare and intention. Since it abstracts from the content of action, its commands are mostly prohibitions, and to have a right here is only a possibility or permission.
 Texts:
   The Philosophy of Right
     §§34–104
 Citations:
+  Hence the imperative of right is: ‘Be a person and respect others as persons.’
+    — The Philosophy of Right §36 (tr. Knox, rev. Houlgate)
+  In relation to action in the concrete and to moral and ethical relations, abstract right is, in contrast with the further content which these involve, only a possibility, and to have a right is therefore to have only a permission or a warrant.
+    — The Philosophy of Right §38 (tr. Knox, rev. Houlgate)

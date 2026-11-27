@@ -18,8 +18,12 @@ Adj:
   epidemic, endemic, climatic, miasmatic, malarial, contagious, infectious, catching, pestilential, rheumatic, scrofulous, cutaneous
 
 # ---- Hegel ----
-Def: The first kind of disease, set going by the elemental powers outside the organism (climate, weather, miasma, contagion), which lodges in the organism's most general and least animate parts, the skin, the lymph and the bones.
+Def: The first type of disease is a harmful affection lying in non-organic nature as such, from outside yet also in the organism, as in epidemics and plagues. Of elemental and climatic origin, it is seated at first obscurely in the general, undeveloped foundations of the organism, chiefly skin, lymph and bones, and such diseases also have a history.
 Texts:
   The Philosophy of Nature
     §371
 Citations:
+  Various circumstances contribute to such afflictions which are of an elemental, climatic nature, and therefore also have their seat—namely, their origin—in the elemental determinateness of the organism; they exist therefore, at first, obscurely in the general foundations of the organism which are not as yet a developed, formed system, that is chiefly in the skin, the lymph, and the bones.
+    — Encyclopedia §371, Addition (tr. Miller)
+  Such diseases are not only climatic but also historical, since they appear at certain periods of history, and then disappear.
+    — Encyclopedia §371, Addition (tr. Miller)

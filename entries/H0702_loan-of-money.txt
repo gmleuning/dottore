@@ -58,8 +58,10 @@ Phr:
   ingratitude! thou marble-hearted fiend [Lear]
 
 # ---- Hegel ----
-Def: The loan of money at interest.
+Def: The loan of money is the letting of a universal thing: the lender gives up the use of a sum and remains owner only of the universal, its value. Because rent, that is, interest, is charged, it belongs to the contracts of exchange and not to gift, unlike the gratuitous loan.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (β) letting of a universal thing, so that the lessor remains only the owner of this universal, or in other words of the value—loan [Anleihe] (mutuum, or even commodatum since rent is charged).
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

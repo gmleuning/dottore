@@ -37,8 +37,12 @@ Phr:
   I pause for a reply [Julius Caesar]
 
 # ---- Hegel ----
-Def: The moments of becoming: coming-to-be, where nothing passes into being, and ceasing-to-be, where being passes into nothing; each sublates itself in itself.
+Def: Becoming contains being and nothing not in abstraction but as moments of a determinate unity in which each is only as vanishing, as sublated. Each of them is itself a unity with the other, so becoming is doubly determined. Where nothing is the immediate and refers to being, it is coming-to-be; where being is the immediate and passes into nothing, it is ceasing-to-be. The two are one becoming. As opposed directions they interpenetrate and check each other, and neither is sublated from outside: each sublates itself and is in itself its opposite.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Becoming › The moments of becoming
 Citations:
+  Becoming is the unseparatedness of being and nothing, not the unity that abstracts from being and nothing; as the unity of being and nothing it is rather this determinate unity, or one in which being and nothing equally are. However, inasmuch as being and nothing are each unseparated from its other, each is not. In this unity, therefore, they are, but as vanishing, only as sublated. They sink from their initially represented self-subsistence into moments which are still distinguished but at the same time sublated.
+    — The Science of Logic, Becoming › The moments of becoming (tr. di Giovanni)
+  Becoming is in this way doubly determined. In one determination, nothing is the immediate, that is, the determination begins with nothing and this refers to being; that is to say, it passes over into it. In the other determination, being is the immediate, that is, the determination begins with being and this passes over into nothing – coming-to-be and ceasing-to-be.
+    — The Science of Logic, Becoming › The moments of becoming (tr. di Giovanni)

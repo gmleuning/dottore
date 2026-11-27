@@ -31,8 +31,12 @@ Phr:
   to stand tall
 
 # ---- Hegel ----
-Def: The phallic columns of India, symbols of the generative power of nature.
+Def: Phallic columns arose from the eastern worship of the universal force of life in nature, the productive energy of procreation, represented in the shape of the generative organs. Chiefly in India it produced enormous stone columns, broad at the base like towers, at first ends in themselves and objects of veneration, only later hollowed to hold images of gods, and becoming pagodas.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture › Phallic Columns
 Citations:
+  Our previous treatment of symbolic art gave us occasion to mention that in the East what was emphasized and worshipped was the universal force of life in nature, not the spirituality and power of consciousness but the productive energy of procreation.
+    — Aesthetics, Architectural Works wavering between Architecture and Sculpture › Phallic Columns (tr. Knox)
+  Originally they were ends in themselves, objects of veneration, and only later did people begin to make openings and hollow chambers in them and to place images of the gods in these
+    — Aesthetics, Architectural Works wavering between Architecture and Sculpture › Phallic Columns (tr. Knox)

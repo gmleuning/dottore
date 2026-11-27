@@ -39,8 +39,12 @@ Phr:
   mix and match
 
 # ---- Hegel ----
-Def: The external mixture of bodies, not yet a process that alters their nature.
+Def: Mixture is the merely formal process, to be set aside first: a combination of different but unopposed bodies which need no middle term, since their common nature determines their relation. Their combining or separating is immediate and their properties are preserved, as in alloys of metals or mixtures of acids, or of alcohol with water.
 Texts:
   The Philosophy of Nature
     §327
 Citations:
+  First of all, we must set aside the formal process which is a combination of merely different, unopposed bodies
+    — Encyclopedia §327 (tr. Miller)
+  The determinateness of their existential relationship consists in their common nature or genus; their combination or dissociation is immediate and the properties of the bodies are preserved.
+    — Encyclopedia §327 (tr. Miller)

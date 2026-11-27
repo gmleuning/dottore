@@ -44,8 +44,12 @@ Phr:
   to have in mind
 
 # ---- Hegel ----
-Def: The concept as end in itself, with a content that it opposes to the objective world and strives to realize.
+Def: The subjective purpose is the concept as an essential striving and impulse to posit itself externally. Unlike a force, a substance or a cause, it does not pass over into something else but maintains itself in repelling itself from itself. It is the rational in concrete existence, universal activity that particularizes itself into a content and returns into singularity, and so intrinsically a syllogism, still subjective because its activity is directed on an external object.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Teleology › The subjective purpose
 Citations:
+  Purpose, therefore, is the subjective concept as an essential striving and impulse to posit itself externally. In this, it is exempt from transition.
+    — The Science of Logic, Teleology › The subjective purpose (tr. di Giovanni)
+  But, as such, purpose is to be taken as the rational in its concrete existence.
+    — The Science of Logic, Teleology › The subjective purpose (tr. di Giovanni)

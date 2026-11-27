@@ -30,8 +30,12 @@ Phr:
   to take root
 
 # ---- Hegel ----
-Def: The plant's dual relation: the leaf to light and air, the root to earth and water.
+Def: Leaf and root are the first division in the plant's formation, a simultaneous outward separation directly related to its process with the outer world, the root in reciprocal relation with the earth and the leaf with air and light. A second, more intimate division is the plant's own inner separation into woody fibres and vessels.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  [T]he process begins with the simultaneous outward diremption into root and leaf, and the inner, abstract diremption of the general cellular tissue into woody fibre and 'vital vessels', the former likewise being related to the outer world, and the latter containing the plant's internal circulation.
+    — Encyclopedia §346 (tr. Miller)
+  Whereas the first diremption was directly related to the process outwards, the root being in reciprocal relation with the earth and the leaf with air and light
+    — Encyclopedia §346, Addition (tr. Miller)

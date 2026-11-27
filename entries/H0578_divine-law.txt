@@ -39,8 +39,12 @@ Phr:
   honour thy father and thy mother [Bible]
 
 # ---- Hegel ----
-Def: The law of the family, the unwritten law of the gods below and of the dead, the law of the woman.
+Def: The divine law is ethical substance in the form of immediacy, the universal possibility of ethical life as it is in the family, the natural ethical community that stands against the public spirit of the people. Its relations are ethical only as spirit, and its distinctive aim is the singular individual as such, taken as a universal being, which is the one who has died. The last duty to the dead is its consummation, and it has its power in the individual who is beyond actuality.
 Texts:
   The Phenomenology of Spirit
     ¶¶449–452
 Citations:
+  This last duty thus constitutes the consummate divine law, or it constitutes the positive ethical action vis-à-vis the singular individual.
+    — The Phenomenology of Spirit ¶452 (tr. Pinkard)
+  The positive purpose distinctive of the family is the individual as such a singular individual.
+    — The Phenomenology of Spirit ¶450 (tr. Pinkard)

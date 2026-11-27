@@ -32,8 +32,12 @@ Phr:
   kindred spirit
 
 # ---- Hegel ----
-Def: Spirit's certainty that it is at one with its object.
+Def: Spiritual certainty is spirit's knowledge that it is in itself the totality that constitutes reason, so that what appears to it as an object is no object such as consciousness has but a rational one. Spirit therefore proceeds freely out of itself, neither dependent on an other as consciousness is nor shut up in an abstract identity with itself as self-consciousness is. It is free in the world, having the certainty of rationality.
 Texts:
-  The Philosophy of Mind
+  The Berlin Phenomenology
     §439
 Citations:
+  Spirit has knowledge, it is the certainty of being in itself the totality which constitutes reason, the certainty that that which appears for it as a general object is not a general object such as that of consciousness, but a rational one.
+    — The Berlin Phenomenology §439 (tr. Petry)
+  Spirit therefore proceeds freely forth from out of itself, and is neither dependent upon the other as is consciousness, nor limited only to itself, merely a subject which is abstractedly self-identical, as is self-consciousness.
+    — The Berlin Phenomenology §439 (tr. Petry)

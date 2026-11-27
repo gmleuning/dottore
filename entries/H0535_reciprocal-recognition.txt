@@ -86,8 +86,12 @@ Phr:
   honor pricks me on [Henry IV]
 
 # ---- Hegel ----
-Def: The mutual recognition of free selves, which is the substance of all spirituality.
+Def: Reciprocal recognition is the real universality of self-consciousness: each is aware of being recognized in the free other, in so far as it recognizes the other and knows it to be free. In this condition of universal freedom, being reflected into myself I am immediately reflected into the other, and in relating to the other I relate to myself. Selves completely free and independent are at the same time identical with one another, a thoroughly speculative relationship.
 Texts:
   The Philosophy of Mind
     §436
 Citations:
+  [I]t is universal and objective; and it has real universality in the form of reciprocity, in that it is aware of its recognition in the free other, and is aware of this in so far as it recognizes the other and is aware that it is free.
+    — Encyclopedia §436 (tr. Wallace and Miller, rev. Inwood)
+  In this condition of universal freedom, in being reflected into myself, I am immediately reflected into the other, and, conversely, in relating myself to the other I immediately relate to my own self.
+    — Encyclopedia §436, Addition (tr. Wallace and Miller, rev. Inwood)

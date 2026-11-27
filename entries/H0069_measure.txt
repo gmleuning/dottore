@@ -48,8 +48,12 @@ Phr:
   better fewer, but better, luchshe men'she, da luchshe [Rus.] [Lenin, 1923]
 
 # ---- Hegel ----
-Def: The unity of quality and quantity: the qualitative quantum, beyond whose limits a change of amount becomes a change of kind.
+Def: Measure is the unity of quality and quantity. Being as such is determinateness immediately equal to itself; quantity is being returned to itself as indifferent to determinateness, having it only in an other. Measure is the third, externality referring to itself, which is thus sublated externality and carries its difference within it, the quantitative moment and the qualitative moment. It is the quantum on which the quality of a thing depends.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure
 Citations:
+  Abstractly expressed, quality and quantity are in measure united.
+    — The Science of Logic, Measure (tr. di Giovanni)
+  As third, we now have the externality that refers itself to itself; as self-reference, it is at the same time sublated externality and carries the difference from itself in it – a difference which, as externality, is the quantitative moment, and, as taken back into itself, the qualitative.
+    — The Science of Logic, Measure (tr. di Giovanni)

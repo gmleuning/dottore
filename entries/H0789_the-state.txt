@@ -54,8 +54,12 @@ Phr:
   uneasy lies the head that wears a crown [Henry IV]
 
 # ---- Hegel ----
-Def: The actuality of the ethical idea: the state, the march of God in the world, in which freedom attains its highest right.
+Def: The state is the actuality of the ethical Idea: ethical spirit as the substantial will, knowing and thinking itself and accomplishing what it knows. It is rational in and for itself, the actuality of concrete freedom, in which freedom attains its supreme right; it comprises constitutional law, international law, and world history.
 Texts:
   The Philosophy of Right
     §§257–360
 Citations:
+  The state is the actuality of the ethical Idea. It is ethical spirit as the substantial will manifest and clear to itself, knowing and thinking itself, accomplishing what it knows and insofar as it knows it.
+    — The Philosophy of Right §257 (tr. Knox, rev. Houlgate)
+  The state is the actuality of concrete freedom.
+    — The Philosophy of Right §260 (tr. Knox, rev. Houlgate)

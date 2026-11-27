@@ -50,8 +50,12 @@ Phr:
   and wet his grave with my repentant tears [Richard III]
 
 # ---- Hegel ----
-Def: The knowing of the true universal while the subject wills its particular against it.
+Def: Bad conscience is the first form of evil: the subject knows the true universal, yet wills a particular content against it, and highlights the positive side of the deed to regard it as a duty or a good intention. Acting with this knowledge is acting with a bad conscience, not yet hypocrisy.
 Texts:
   The Philosophy of Right
     §140
 Citations:
+  In every end of a self-conscious subject, there is a positive aspect (see § 135) necessarily present because the end is what is purposed in an actual concrete action. This aspect he knows how to highlight, and he may then proceed to regard it as a duty or a fine intention. By so interpreting it, he is able to pass off his action as good in the eyes both of himself and others, despite the fact that, owing to his reflection into himself and his consciousness of the universal aspect of the will, the essentially negative content of the action stands within him in contrast to this universal.
+    — The Philosophy of Right §140 (tr. Knox, rev. Houlgate)
+  [T]hese determinations characterize acting with a bad conscience, not yet hypocrisy as such.
+    — The Philosophy of Right §140, Remark (tr. Knox, rev. Houlgate)

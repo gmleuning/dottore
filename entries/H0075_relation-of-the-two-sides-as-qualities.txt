@@ -26,8 +26,12 @@ Phr:
   keep pace with
 
 # ---- Hegel ----
-Def: The two sides of a measure each a quality with its own quantum, bound by a determinate ratio, as space and time in fall.
+Def: In the relation of the two sides as qualities, the external quantum that was merely specified is shown to be the quantum of a something with its own quality, so that both sides are qualitative existences for themselves, each with its specific magnitude. Their relation is determined by an exponent of measure, and the quantities are so interwoven that the qualities are determined only through them, as indivisible. Measure is here the immanent quantitative relation of two qualities to each other, as of space and time in the motion of bodies.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Specific quantity › Specifying measure › Relation of the two sides as qualities
 Citations:
+  The two sides thus stand to each other in a qualitative respect, each a qualitative existence for itself
+    — The Science of Logic, Specifying measure › Relation of the two sides as qualities (tr. di Giovanni)
+  Measure is thus the immanent quantitative relating of two qualities to each other.
+    — The Science of Logic, Specifying measure › Relation of the two sides as qualities (tr. di Giovanni)

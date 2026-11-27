@@ -47,8 +47,12 @@ Phr:
   in actual fact
 
 # ---- Hegel ----
-Def: The unity, become immediate, of essence and existence, of inner and outer; what is actual is rational.
+Def: Actuality is the unity of essence and concrete existence, of the inner and the outer, in which shapeless essence and unstable appearance have their truth. It is first the absolute as such, in which form has sublated itself; then actuality proper, whose formal moments are actuality, possibility and necessity; and last the unity of the absolute and its reflection, the absolute relation, or substance. It stands higher than being and concrete existence, as what manifests itself.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality
 Citations:
+  Actuality is the unity of essence and concrete existence; in it, shapeless essence and unstable appearance – or subsistence without determination and manifoldness without permanence – have their truth.
+    — The Science of Logic, Actuality (tr. di Giovanni)
+  Third, the unity of the absolute and its reflection is the absolute relation, or rather the absolute as relation to itself, substance.
+    — The Science of Logic, Actuality (tr. di Giovanni)

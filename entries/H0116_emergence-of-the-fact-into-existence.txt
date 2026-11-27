@@ -44,8 +44,12 @@ Phr:
   sprinkled along the waste of years [Tennyson]
 
 # ---- Hegel ----
-Def: When all its conditions are present the fact enters into existence; the unconditioned become immediacy.
+Def: The emergence of the fact into existence is the procession of the absolutely unconditioned, the absolute ground identical with its condition, the fact in itself. The conditions are the whole content of the fact in the form of formless being, appearing as a scattered manifold. They are not made into material by something else but make themselves into moments of an other, and their becoming is the doing of reflection. When all the conditions are at hand, the fact steps into concrete existence; the fact is, before it exists.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Condition › Procession of the fact into concrete existence
 Citations:
+  When all the conditions of a fact are at hand, the fact steps into concrete existence. The fact is, before it exists concretely
+    — The Science of Logic, Condition › Procession of the fact into concrete existence (tr. di Giovanni)
+  The truth of existence is thus that it is condition; its immediacy is solely by virtue of the reflection of the ground-connection that posits itself as sublated.
+    — The Science of Logic, Condition › Procession of the fact into concrete existence (tr. di Giovanni)

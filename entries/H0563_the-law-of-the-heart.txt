@@ -24,8 +24,10 @@ Phr:
   the heart wants what it wants
 
 # ---- Hegel ----
-Def: Das Gesetz des Herzens: the heart that holds its law immediately within itself and sets out to realize it against a world that oppresses it.
+Def: The law of the heart is the universal that a self-consciousness finds immediately in its own being-for-itself and holds to be necessary and valid for all, richer than the mere singular pursuit of pleasure. When the individual carries it out, the law passes into being: it becomes a universal order and a power indifferent to that heart. The individual no longer finds in it what was its own, and is entangled in an order not only alien but hostile, which its very deed has acknowledged as real.
 Texts:
   The Phenomenology of Spirit
     ¶¶367–372
 Citations:
+  Through its actualization, the law of the heart just ceases to be a law of the heart, for it thereby receives the form of being and is now the universal power for which this heart is a matter of indifference
+    — The Phenomenology of Spirit ¶372 (tr. Pinkard)

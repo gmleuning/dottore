@@ -41,8 +41,10 @@ Phr:
   sublimi feriam sidera vertice [Lat.] [Horace]
 
 # ---- Hegel ----
-Def: The right of intention, that the universal quality of the deed be known and willed.
+Def: The right of intention is that the universal quality of an action be not merely what it is in itself but known by the agent, so that it lay from the start in their subjective will. Conversely, the right of the objectivity of action is that the action be taken as known and willed by the agent as a thinking being.
 Texts:
   The Philosophy of Right
     §120
 Citations:
+  The right of intention is that the universal quality of the action shall not merely be what it is in itself but shall be known by the agent, and so shall have lain from the start in his subjective will. Vice versa, what may be called the right of the objectivity of action is the right of the action to assert itself as known and willed by the subject as a thinker.
+    — The Philosophy of Right §120 (tr. Knox, rev. Houlgate)

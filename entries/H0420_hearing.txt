@@ -28,8 +28,12 @@ Phr:
   hear no evil
 
 # ---- Hegel ----
-Def: Gehör, the sense of the body's inward ideality: it perceives the tremor in which the body gives up its material subsistence as sound.
+Def: Hearing is the sense of the pure inwardness of the corporeal, as against sight, the sense of an ideality without inwardness. It is related to time become physical, to sound. Sound is the temporal positedness of a body: a vibration or mechanical tremor in which the body, without changing its place as a whole, moves only its parts, sets its inner spatiality down in time, lets its pure inwardness come forth and at once restores itself.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  In contrast to sight, which is the sense of ideality devoid of inwardness, hearing is the sense of the pure inwardness of the corporeal. Just as sight is related to space become physical, to light, so hearing is related to time become physical, to sound.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  For sound is the temporal positedness of corporeality, the movement, the vibration of a body within itself, a trembling, a mechanical tremor in which the body, without having to alter its relative place as a whole body, moves only its parts, posits its inner spatiality temporally, thus sublates its indifferent asunderness and by this sublation lets its pure inwardness emerge, but immediately restores itself from the superficial alteration it has undergone from the mechanical tremor.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

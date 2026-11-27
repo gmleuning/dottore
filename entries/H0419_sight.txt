@@ -33,8 +33,14 @@ Phr:
   O dark, dark, dark, amid the blaze of noon [Milton]
 
 # ---- Hegel ----
-Def: Gesicht, the sense of physical ideality, related to light, the ideal physical element; it lets its object be.
+Def: Sight is the sense of the physical ideal that we call light, which is, as it were, space become physical, weightless and without inwardness, whose essence is to manifest its other. It is concerned only with this ideal element and with its darkening, that is, with colour. It lets things subsist calmly and relates itself only to their ideal side, so that its relation to them is theoretical and not yet practical, and for this it may be called the noblest sense. It is also very imperfect, since it gives a body only as surface and not at once as a spatial whole.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  Sight is the sense of the physical ideal that we call light.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  In seeing we have, as it were, a merely theoretical, not yet a practical, relationship to things; for in seeing we let things subsist calmly as beings and relate ourselves only to their ideal side.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  On the other hand, sight is a very imperfect sense because by it a body does not come to us immediately as a spatial totality, as body, always only as surface, only according to the two dimensions of width and height
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

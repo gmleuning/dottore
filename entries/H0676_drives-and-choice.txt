@@ -57,8 +57,14 @@ Phr:
   ubi mel ibi apes [Lat.]
 
 # ---- Hegel ----
-Def: The will's drives, and its choosing among them, the reflective will which weighs and decides.
+Def: In urges and wilfulness the will goes beyond finding agreement between its inner determinacy and external reality, and posits that agreement itself. The urge, a form of volitional intelligence, differs from mere desire in involving a series of satisfactions, though still particular. The reflecting will places itself above the manifold urges and chooses between them, but, taking its content from them, remains contingent and contradictory.
 Texts:
   The Philosophy of Mind
     §§473–478
 Citations:
+  The urge must be distinguished from mere desire.
+    — Encyclopedia §473, Addition (tr. Wallace and Miller, rev. Inwood)
+  The will, as thinking and implicitly free, distinguishes itself from the particularity of the urges, and places itself as simple subjectivity of thinking above their diversified content. It is thus reflecting will.
+    — Encyclopedia §476 (tr. Wallace and Miller, rev. Inwood)
+  That is why the man who is absorbed in urges appears as unfree.
+    — Encyclopedia §473, Addition (tr. Wallace and Miller, rev. Inwood)

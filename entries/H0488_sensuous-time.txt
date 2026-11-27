@@ -31,8 +31,14 @@ Phr:
   just now
 
 # ---- Hegel ----
-Def: Time as given to sense, the now which is many nows.
+Def: The now is the temporal form of the sensuous this. The now that is night, once written down, has by midday turned stale; the now maintains itself, but as a negative that is neither night nor day, and so as a universal. When it is pointed out, it has already ceased to be: it is only as what has been. Pointing it out is therefore a movement which returns to it as reflected into itself, a now that contains many nows, as a day contains hours, and it is experienced as a result and a universal.
 Texts:
   The Phenomenology of Spirit
     ¶¶95–107
 Citations:
+  This self-maintaining Now is thus not an immediate Now but a mediated Now
+    — The Phenomenology of Spirit ¶96 (tr. Pinkard)
+  The Now is pointed out, this Now. Now: It has already ceased to be as it was pointed out; the Now that is is an other than that pointed out, and we see that the Now is just this Now as it no longer is.
+    — The Phenomenology of Spirit ¶106 (tr. Pinkard)
+  Pointing out is thus itself the movement that declares what the Now in truth is, namely, a result, or a plurality of Nows taken together; and pointing out is the experience that the Now is a universal.
+    — The Phenomenology of Spirit ¶107 (tr. Pinkard)

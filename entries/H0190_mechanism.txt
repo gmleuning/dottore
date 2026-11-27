@@ -35,8 +35,12 @@ Phr:
   cogs in a machine
 
 # ---- Hegel ----
-Def: The object whose determinations are external to it, so that its combinations are indifferent to it.
+Def: Mechanism is objectivity in its immediacy: the differentiated moments are complete, self-standing objects which, even in connection, relate as each on its own and remain external in every combination. Whatever connects them is alien to their nature, mere composition, mixture or aggregate. There is spiritual mechanism too: a mechanical memory, habit or mode of acting lacks the pervading presence of spirit in what it grasps or does.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism
 Citations:
+  This is what constitutes the character of mechanism, namely, that whatever the connection that obtains between the things combined, the connection remains one that is alien to them, that does not affect their nature, and even when a reflective semblance of unity is associated with it, the connection remains nothing more than composition, mixture, aggregate, etc.
+    — The Science of Logic, Mechanism (tr. di Giovanni)
+  A mechanical mode of representation, a mechanical memory, a habit, a mechanical mode of acting, mean that the pervasive presence that is proper to spirit is lacking in what spirit grasps or does.
+    — The Science of Logic, Mechanism (tr. di Giovanni)

@@ -27,8 +27,12 @@ Phr:
   mutato nomine de te fabula narratur [Lat.] [Horace]
 
 # ---- Hegel ----
-Def: The metaphor, image and simile, in which a meaning and its image are joined by the poet.
+Def: Metaphor, image and simile make up the figurative sphere, uniting the clarity of allegory with the pleasure of the riddle. A meaning clearly before the mind is illustrated through a cognate external expression, without any riddle to be solved first, so that it shines through perfectly. In these forms the poet joins meaning and image, with the two sides separated to different degrees.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Metaphor, Image, Simile
 Citations:
+  Now the figurative unites the clarity of the allegorical with the pleasantry of the riddle.
+    — Aesthetics, Comparisons which Start from the Meaning › Metaphor, Image, Simile (tr. Knox)
+  The meaning clearly confronting our minds is illustrated in the shape of some cognate external expression, yet so that thereby no problems arise which have first to be deciphered; what does arise is a figurative expression through which the envisaged meaning shines in perfect clarity and at once makes plain what it is.
+    — Aesthetics, Comparisons which Start from the Meaning › Metaphor, Image, Simile (tr. Knox)

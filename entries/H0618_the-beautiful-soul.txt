@@ -34,8 +34,14 @@ Phr:
   to keep one's hands clean
 
 # ---- Hegel ----
-Def: The beautiful soul, which, lest it soil its purity by action, wastes away in yearning.
+Def: The beautiful soul is conscience that, raised above every determinate law, intuits its own divinity within itself and will not entrust itself to existence. Its certainty turns into a fading tone whose echo is all that returns to it. Lacking the force to relinquish itself and to make itself into a thing, fearing to stain its purity by action, it persists in powerlessness, a yearning that finds itself only as lost, until it dissolves like a shapeless vapour.
 Texts:
   The Phenomenology of Spirit
     ¶¶655–658
 Citations:
+  He equally conducts a worship service within himself, for his action is the intuiting of his own divinity.
+    — The Phenomenology of Spirit ¶655 (tr. Pinkard)
+  It lacks the force to relinquish itself, lacks the force to make itself into
+    — The Phenomenology of Spirit ¶658 (tr. Pinkard)
+  In this transparent purity of its moments it becomes an unhappy, so-called beautiful soul, and its burning embers gradually die out, and, as they do, the beautiful soul vanishes like a shapeless vapor dissolving into thin air.
+    — The Phenomenology of Spirit ¶658 (tr. Pinkard)

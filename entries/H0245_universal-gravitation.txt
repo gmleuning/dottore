@@ -33,8 +33,12 @@ Phr:
   everything that rises must converge
 
 # ---- Hegel ----
-Def: Gravity as the true concept of matter, its striving toward a centre outside each body, which forms the system of the heavens.
+Def: Universal gravitation is the true determinate concept of material corporeality realized as idea: universal corporeality divides itself into particular bodies and unites itself in manifest existence in motion, at once a system of several bodies. Hegel counts it a profound thought, though reflection takes it only quantitatively and breaks it into separate attractive and repulsive forces.
 Texts:
   The Philosophy of Nature
     §269
 Citations:
+  Universal corporeality essentially sunders itself (sich urteilt) into particular bodies and achieves conclusion with itself in the moment of individuality or subjectivity as manifested existence in motion which thus is immediately a system of several bodies.
+    — Encyclopedia §269 (tr. Miller)
+  Universal gravitation must be recognized as a profound thought in itself
+    — Encyclopedia §269, Remark (tr. Miller)

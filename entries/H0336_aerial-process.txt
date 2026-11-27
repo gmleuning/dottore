@@ -27,8 +27,12 @@ Phr:
   to breathe
 
 # ---- Hegel ----
-Def: The plant's process with the air, its breathing out and in.
+Def: In the process with air the plant takes in elemental matter, differentiates it and gives it out again as a specific gas, converting air into water and water into air in a breathing in and out. Hegel rejects the view that it merely picks out ready-made parts: organic life wholly transforms the inorganic.
 Texts:
   The Philosophy of Nature
     §347
 Citations:
+  The specifying of air within the plant in the air-process is manifested by the plant giving out the air again as a specific gas, for, in appropriating the elemental matter, it differentiates it.
+    — Encyclopedia §347, Addition (tr. Miller)
+  The process with the air, therefore, must certainly not be represented as an appropriation by the plant of something already formed which it increases only mechanically.
+    — Encyclopedia §347, Addition (tr. Miller)

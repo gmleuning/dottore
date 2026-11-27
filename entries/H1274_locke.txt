@@ -23,8 +23,12 @@ Phr:
   ideas of sensation and reflection
 
 # ---- Hegel ----
-Def: Locke, who derived ideas from sensation and reflection.
+Def: Locke's thought is that our general ideas rest upon experience. Against Spinoza, who begins from definitions, he shows how ideas such as substance, cause, and effect stem from experience; this concerns their empirical origin in consciousness. General ideas are creations of the understanding, which makes them from representations obtained from sensation and reflection by a combining activity.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › John Locke
 Citations:
+  In brief, Locke's philosophical thought is that our general ideas rest upon experience
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › John Locke (tr. Brown)
+  On the contrary, they are the creatures, the creations or inventions, of the understanding. The understanding makes them through representations that it has obtained from sensation and reflection.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › John Locke (tr. Brown)

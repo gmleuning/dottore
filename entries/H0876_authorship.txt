@@ -19,8 +19,12 @@ F:
   Dutch: manjer, handeling, wijze van doen
 
 # ---- Hegel ----
-Def: The artist's subjective manner, the objective style, and originality as their identity.
+Def: Authorship, in the section on manner, style and originality, concerns the identity of the artist's subjectivity with the true objectivity of the work. Having wholly identified with the topic and shaped it from inner heart and imagination, the artist unites what had been separated as genius and objectivity. This unity is the essence of genuine originality, to be reached by overcoming the one-sidedness of subjective manner and of style.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
 Citations:
+  But however far an objectivity in the sense indicated just now must be demanded of the artist, his production is nevertheless the work of his inspiration.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)
+  This identity of the artist subjectively with the true objectivity of his production is the third chief point which we still have to consider briefly, because in this identity we see united what hitherto we have separated as genius and objectivity.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)

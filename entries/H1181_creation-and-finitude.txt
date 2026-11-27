@@ -32,8 +32,12 @@ Phr:
   let there be light
 
 # ---- Hegel ----
-Def: The creation of the world, finitude and nature, the other of God.
+Def: In its act of differentiating, the idea releases the other to exist as free and independent, and this other is the world. The world does not possess genuine actuality in itself: it is not eternal but created, its being only posited. For it, to be means to have being for an instant, so to speak, and then to overcome its separation from God and return to its origin in the relationship of spirit and love.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Representation, Appearance › Differentiation within the Divine Life and in the World
 Citations:
+  This other, released as something free and independent, is the world as such. The truth of the world is only its ideality—for it is not true that it possesses genuine actuality. Its nature is to be, but only in an ideal sense; it is not something eternal in itself but rather something created, whose being is only posited.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Differentiation within the Divine Life and in the World (tr. Brown, Hodgson and Stewart)
+  For the world, to be means to have being only for an instant, so to speak, but also to sublate this its separation or estrangement from God.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Differentiation within the Divine Life and in the World (tr. Brown, Hodgson and Stewart)

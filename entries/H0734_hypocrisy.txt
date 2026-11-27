@@ -43,8 +43,10 @@ Phr:
   conceit in weakest bodies strongest works [Hamlet]
 
 # ---- Hegel ----
-Def: Hypocrisy, the passing off of evil as good for others.
+Def: Hypocrisy is the form of evil that asserts to others that an evil action is good. It is distinguished from the further extreme of subjectivity, in which the subject asserts the action to be good for itself, claiming to be absolute, and so perverts evil into good and good into evil.
 Texts:
   The Philosophy of Right
     §140
 Citations:
+  To assert in this way that the action is good for others is hypocrisy; while to assert that it is good for oneself is to proceed to the even further extreme of subjectivity that claims to be absolute.
+    — The Philosophy of Right §140 (tr. Knox, rev. Houlgate)

@@ -29,8 +29,12 @@ Phr:
   bodying forth the forms of things unknown
 
 # ---- Hegel ----
-Def: The poetic imagination, which makes the inner vivid as image, original rather than abstract.
+Def: The poetic way of imagining shapes its subject inwardly, with the imaginative idea itself serving as what stone, colour or tone are to other arts. It holds together the extremes that ordinary consciousness separates, accidental particulars and abstract universals, and is figurative: it brings concrete reality before us so that essence is recognized in and inseparably from outer individuality.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › The Poetic Way of Imagining Things
 Citations:
+  The power of poetry’s way of putting things consists therefore in the fact that poetry gives shape to a subject-matter within, without proceeding to express it in actual visible shapes or in series of melodies
+    — Aesthetics, Poetic Expression › The Poetic Way of Imagining Things (tr. Knox)
+  On the contrary, a way of putting things is poetic only when these extremes are kept undivided and mediated with one another
+    — Aesthetics, Poetic Expression › The Poetic Way of Imagining Things (tr. Knox)

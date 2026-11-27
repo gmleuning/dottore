@@ -15,8 +15,12 @@ Adj:
   vascular, fibrous, fibrillous†, fasciculated, tubular, cannular†
 
 # ---- Hegel ----
-Def: The vessels into which the cellular tissue draws itself out: the fibrous bast and the spiral vessels, the plant's lines of inner motion.
+Def: Bast and spiral vessels arise as the cellular tissue is differentiated. Bast is the fibrous, tight cellular tissue proper, with long narrow cells; the spiral vessels are what the plant's second, inner division produces together with the vital vessels. Hegel sees in cells, fibres and spiral vessels the antithesis of node and line, with the vessels striving toward roundness.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  Thus we see the original antithesis of grain or node and simple length in the antithesis of utricle and fibre, while the spiral vessels strive to attain to roundness.
+    — Encyclopedia §346, Addition (tr. Miller)
+  [T]he second, more intimate diremption is the plant's own separation of itself into woody fibres or active spiral vessels and into other vessels which Prof. Schultz has called 'vital vessels'
+    — Encyclopedia §346, Addition (tr. Miller)

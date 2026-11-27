@@ -32,8 +32,12 @@ Phr:
   the course of the stage
 
 # ---- Hegel ----
-Def: The concrete course of dramatic poetry and its genres in history.
+Def: The concrete development of dramatic poetry and its genres begins, setting aside the East, with the Greeks, among whom tragedy and comedy reached their highest worth, first clearly distinguished and perfected by Aeschylus, Sophocles and Aristophanes, Roman drama being a pale reflection. It proceeds to modern drama, and the lectures close on art as liberation of spirit and an unfolding of truth.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › The Concrete Development of Dramatic Poetry and its Genres
 Citations:
+  If for the reason given above we exclude oriental beginnings, the first main sphere confronting us at once is the dramatic poetry of the Greeks because that is the stage at which tragedy proper, and comedy too, had their highest intrinsic worth.
+    — Aesthetics, The Genres of Dramatic Poetry › The Concrete Development of Dramatic Poetry and its Genres (tr. Knox)
+  For in art we have to do, not with any agreeable or useful child’s play, but with the liberation of the spirit from the content and forms of finitude, with the presence and reconciliation of the Absolute in what is apparent and visible, with an unfolding of the truth which is not exhausted in natural history but revealed in world-history.
+    — Aesthetics, The Genres of Dramatic Poetry › The Concrete Development of Dramatic Poetry and its Genres (tr. Knox)

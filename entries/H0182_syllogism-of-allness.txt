@@ -32,8 +32,12 @@ Phr:
   begging the question
 
 # ---- Hegel ----
-Def: All men are mortal; Gaius is a man; the major premiss presupposes the conclusion.
+Def: The syllogism of allness is the syllogism of the understanding in its perfection, but no more. Its middle contains all singulars, so that only a predicate belonging concretely to the subject can be attached to it. Yet allness gathers the singular into universality only externally. Its major premise already presupposes the conclusion, since one can assert of all only if the singular case is already included, and so it points to induction.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of reflection › The syllogism of allness
 Citations:
+  The syllogism of allness is the syllogism of the understanding in its perfection, but more than that it is not yet.
+    — The Science of Logic, The syllogism of reflection › The syllogism of allness (tr. di Giovanni)
+  [I]n other words, allness is not yet the universality of the concept, but the external universality of reflection.
+    — The Science of Logic, The syllogism of reflection › The syllogism of allness (tr. di Giovanni)

@@ -12,8 +12,12 @@ Adj:
   accentual-syllabic
 
 # ---- Hegel ----
-Def: The rhymed accentual verse of the modern languages, which joins the rhythm of stressed syllables with the echo of rhyme.
+Def: Rhymed accentual verse combines rhythm and rhyme to a restricted extent. Word accent alone does not occupy the ear enough, so that sounding syllables are needed as supplement, and against rhyme's strength the metre must offer a counterweight, making the beat prominent, as in German rhymed iambics and trochees; rhyme suits only simple metres, not imitated classical stanzas.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Unification of Rhythmical Versification and Rhyme
 Citations:
+  For the dominant distinction between longs and shorts by the word-accent is not throughout a sufficient material principle; and on the sensuous side it does not occupy the ear to an extent that would make it unnecessary for poetry, where the spiritual side predominates, to have recourse to a supplement in the sounding and resounding of syllables and words.
+    — Aesthetics, Versification › Unification of Rhythmical Versification and Rhyme (tr. Knox)
+  But rhyme in general has to be combined only with such metres as, taken in themselves in rhythmically treated modem languages, cannot shape the sensuous element strongly enough, because of their simple alternation of longs and shorts and the firm repetition of similar feet.
+    — Aesthetics, Versification › Unification of Rhythmical Versification and Rhyme (tr. Knox)

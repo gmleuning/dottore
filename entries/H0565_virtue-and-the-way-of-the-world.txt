@@ -38,8 +38,12 @@ Phr:
   tilting at windmills [Cervantes]
 
 # ---- Hegel ----
-Def: Virtue that would sacrifice individuality to the good and learns that the way of the world is the good's actuality.
+Def: Virtue and the way of the world is the shape in which consciousness takes the law to be essential and individuality to be what must be sacrificed, both in itself, by discipline, and in the way of the world, which makes individuality the essence and subordinates the good to itself. Virtue wants to bring the good into existence by giving up individuality, but individuality is the very activity that makes the in-itself actual. The activity of individuality proves an end in itself.
 Texts:
   The Phenomenology of Spirit
     ¶¶381–393
 Citations:
+  For the consciousness of virtue, the law is the essential, and individuality is to be sublated, and therefore to be sublated in its consciousness as well as in the way of the world.
+    — The Phenomenology of Spirit ¶381 (tr. Pinkard)
+  Therefore, what is going-on with individuality is an end in itself, and the use of powers, along with the game of giving them outward expression is what gives life to what otherwise would be the dead in-itself.
+    — The Phenomenology of Spirit ¶393 (tr. Pinkard)

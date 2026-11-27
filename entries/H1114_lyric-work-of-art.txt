@@ -26,8 +26,12 @@ Phr:
   the occasion of the poem
 
 # ---- Hegel ----
-Def: The lyric poem as a unity of feeling, its occasion and its musical form.
+Def: The lyric work of art allows boundless variety of turns and tones, so that only its difference from epic can be considered, in unity, development and outer metre and delivery. Its centre of unity is the poet's inner life, which, to hold the poem together, must enter a definite mood or situation and identify with it; most lyrical is a mood of heart gathered on a concrete situation.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Lyrical Work of Art
 Citations:
+  The central point of unity in a lyric must therefore be regarded as the inner life of the poet.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Lyrical Work of Art (tr. Knox)
+  What is most completely lyrical from this point of view is a mood-of-the heart-concentrated on a concrete situation, because the sensitive heart is what is inmost in the subjective life, and most that life’s own
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Lyrical Work of Art (tr. Knox)

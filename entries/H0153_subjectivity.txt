@@ -35,8 +35,12 @@ Phr:
   from where I stand
 
 # ---- Hegel ----
-Def: The concept in its own element, as concept, judgment and syllogism: thought's forms as forms of the actual.
+Def: Subjectivity is the concept in its beginning, formal or immediate. First the differences within its immediate unity are only a shine, so that they are the concept as such. Second, as absolute negativity it divides itself, and the moments, indifferent to each other, are the judgement. Third, the unity lost in the judgement is posited again through its movement as syllogism, the fully posited concept, whose completeness passes over from subjectivity into objectivity.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Subjectivity
 Citations:
+  The concept is, to start with, formal, the concept in its beginning or as the immediate concept.
+    — The Science of Logic, Subjectivity (tr. di Giovanni)
+  Thus, as the connection of its moments posited as self-subsisting and indifferent, the concept is judgment.
+    — The Science of Logic, Subjectivity (tr. di Giovanni)

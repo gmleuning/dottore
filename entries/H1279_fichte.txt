@@ -25,8 +25,12 @@ Phr:
   I = I
 
 # ---- Hegel ----
-Def: Fichte, who made the I the principle and removed the thing in itself.
+Def: Fichte's philosophy is a more consistent development of Kant's. It begins with the I, the transcendental unity of self-consciousness, which is what is certain. Where Kant took the categories empirically from logic, Fichte's great merit is to have called for and attempted their derivation from the I. The I is active and produces its determinations, yet remains burdened with the antithesis of the not-I.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › Johann Gottlieb Fichte
 Citations:
+  [I]t should be regarded as a more consistent presentation and development of Kant's philosophy.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Johann Gottlieb Fichte (tr. Brown)
+  Fichte went beyond this, and that is his great merit. He called for, and sought to complete, the derivation or construction of the categories of thought from the I
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Johann Gottlieb Fichte (tr. Brown)

@@ -28,8 +28,12 @@ Phr:
   there's a moral in it
 
 # ---- Hegel ----
-Def: Comparisons that begin from an outer object and draw a meaning from it.
+Def: Comparisons originating from the external object begin with something perceived and draw a meaning from it. They comprise fable, then parable, apologue and proverb, and finally metamorphoses, subordinate and hybrid kinds that are hard to arrange into definite species. Generally imperfect, a mere search for true art, they are treated only in relation to the general forms of art and not as kinds of poetry.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object
 Citations:
+  But the kinds indicated belong to the praeambula or the symbolic form of art because they are generally imperfect and therefore a mere search for true art
+    — Aesthetics, Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object (tr. Knox)
+  We will articulate these kinds of art with more precision by dealing first with fable, then with parable, apologue, and proverb, and finally by considering metamorphoses.
+    — Aesthetics, Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object (tr. Knox)

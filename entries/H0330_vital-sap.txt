@@ -26,8 +26,12 @@ Phr:
   life-blood
 
 # ---- Hegel ----
-Def: The sap that nourishes the living tissue.
+Def: Vital sap is the sap now assimilated and fully organized, whose movement Hegel counts an original and important discovery by Schultz, though it is hard to observe in every plant. It circulates in a closed system through all the external parts, and by this circulation the many individuals that make up a plant are combined into a single individual.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  The other point is the quite original and very important discovery by Schultz, the movement of a sap which is now assimilated; although it cannot be demonstrated in every plant because the movement is difficult to observe.
+    — Encyclopedia §346, Addition (tr. Miller)
+  Now it is through this circulation which traverses the entire plant that the many individuals which form a plant are combined into a single individual.
+    — Encyclopedia §346, Addition (tr. Miller)

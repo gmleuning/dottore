@@ -31,8 +31,14 @@ Phr:
   the Fall is therefore the eternal Mythus of Man [Hegel, Philosophy of History, tr. Sibree]
 
 # ---- Hegel ----
-Def: Das Böse: the being-for-self of the natural will set against the universal, the knowledge of good and evil in which man is fallen and yet raised above the animal.
+Def: Evil belongs to the natural human being, for natural being without consciousness and will of its own is what ought not to be, so that even so-called innocence is declared evil before the pure unity known as absolute truth. Evil taken by itself is an abstraction: it exists only in contrast with the good. It becomes infinite only where the good is known as the one, purely spiritual God.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Representation, Appearance › Knowledge, Estrangement, and Evil
 Citations:
+  Evil merely on its own account is an abstraction; it is only in antithesis to the good, and since it is present in the unity of the subject, the latter is split, and this cleavage is infinite anguish.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Knowledge, Estrangement, and Evil (tr. Brown, Hodgson and Stewart)
+  Evil and anguish can be infinite only when the good or God is known as one God, as a pure, spiritual God.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Knowledge, Estrangement, and Evil (tr. Brown, Hodgson and Stewart)
+  This lack of correspondence is characterized as what ought not to be.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Knowledge, Estrangement, and Evil (tr. Brown, Hodgson and Stewart)

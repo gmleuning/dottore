@@ -25,8 +25,12 @@ Phr:
   cell by cell
 
 # ---- Hegel ----
-Def: The plant's abstract inner structure, its cells and the vessels through which its fluids move.
+Def: The plant's inner structure is quite simple, consisting of cells, spiral vessels and tubes. Its general texture is cellular tissue, which separates into woody fibres or spiral vessels on one side and the vessels that carry the plant's circulation on the other. This separation is itself an immediate production, generally a mere multiplication.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  Consequently, the inner physiological construction of the plant is also quite simple.
+    — Encyclopedia §346, Addition (tr. Miller)
+  This separation of the plant in its inner structure, the production of spiral vessels, etc., this, too, is an immediate production, generally a mere multiplication.
+    — Encyclopedia §346, Addition (tr. Miller)

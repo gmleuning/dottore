@@ -25,8 +25,12 @@ Phr:
   to have a body
 
 # ---- Hegel ----
-Def: The individuality of particular bodies in their determinate relation to gravity: specific gravity, cohesion, sound and heat.
+Def: The physics of particular individuality treats bodies in which the former elemental determinatenesses are subject to individual unity. This unity is now an immanent form acting independently, which determines matter in opposition to its gravity, so that matter, spatially determined by its own form, individualizes mechanics: in specific gravity, cohesion, sound and heat.
 Texts:
   The Philosophy of Nature
     §§290–307
 Citations:
+  Since the former elemental determinatenesses are in subjection to the individual unity, this unity is now the immanent form which, acting independently, determines matter in opposition to its gravity.
+    — Encyclopedia §290 (tr. Miller)
+  This part of physics is individualizing mechanics, matter here being spatially determined by the immanent form.
+    — Encyclopedia §290 (tr. Miller)

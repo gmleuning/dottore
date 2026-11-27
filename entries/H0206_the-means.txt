@@ -60,8 +60,12 @@ Phr:
   throw an egg at a stone, yi luan tou shi [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: The middle term of the end's syllogism, the object subdued to the end; the cunning of reason works through it.
+Def: The means is the object determined by the purpose in the first, external negation of the presupposed objective world. Through it the purpose unites with objectivity and, in objectivity, with itself, so that it is the middle term of the syllogism. Because the purpose is finite it needs such a middle, which has the shape of an external existence indifferent to purpose and realization; concept and objectivity are linked in it only externally, as in a merely mechanical object.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Teleology › The means
 Citations:
+  Through a means the purpose unites with objectivity and in objectivity unites with itself. This means is the middle term of the syllogism.
+    — The Science of Logic, Teleology › The means (tr. di Giovanni)
+  Concept and objectivity, therefore, are in the means only externally linked; hence the means is only a merely mechanical object.
+    — The Science of Logic, Teleology › The means (tr. di Giovanni)

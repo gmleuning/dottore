@@ -30,8 +30,12 @@ Phr:
   by the book
 
 # ---- Hegel ----
-Def: Inference through an immediate determinateness, contingent and external: S–P–U.
+Def: The syllogism of existence is the syllogism in its immediate form, whose terms are the abstract determinations of the concept not yet developed through mediation. Singularity and universality are its extremes and particularity stands between them as middle, uniting them immediately. It is the strictly formal syllogism, and formalism consists in stopping there. Its dialectical movement consists in positing the moments of mediation, through its figures.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of existence
 Citations:
+  The syllogism in its immediate form has for its moments the determinations of the concept as immediate.
+    — The Science of Logic, The syllogism › The syllogism of existence (tr. di Giovanni)
+  Now the dialectical movement of the syllogism of existence consists in positing the moments of the mediation that alone constitutes the syllogism.
+    — The Science of Logic, The syllogism › The syllogism of existence (tr. di Giovanni)

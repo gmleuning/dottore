@@ -33,8 +33,12 @@ Phr:
   dead weight
 
 # ---- Hegel ----
-Def: An object complete in itself, indifferent to its determinateness and combined with others only as an aggregate.
+Def: The mechanical object is the syllogism whose mediation has settled into immediate identity, a universality that pervades particularity and in it is immediate singularity. It has neither matter and form nor properties and accidents, since those relations belong to a past the concept has ended. Without determinate opposition within, it holds an indifferent manifold, so that there are several objects, each an aggregate in itself; yet it does not consist of atoms.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism › The mechanical object
 Citations:
+  It is therefore in and for itself a universal – universality, not in the sense of a commonality of properties, but a universality that pervades particularity and in it is immediate singularity.
+    — The Science of Logic, Mechanism › The mechanical object (tr. di Giovanni)
+  Because this indeterminate determinateness is essential to the object, the object is in itself a plurality, and must therefore be regarded as a composite, an aggregate.
+    — The Science of Logic, Mechanism › The mechanical object (tr. di Giovanni)

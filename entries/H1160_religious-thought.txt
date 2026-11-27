@@ -36,8 +36,14 @@ Phr:
   faith seeking understanding
 
 # ---- Hegel ----
-Def: God in the form of thought, which raises the content of religion to the concept, as in the proofs of God's existence.
+Def: Thought is the form in which what is properly objective in religion comes under consideration, as conviction resting on grounds. It dissolves the simple form in which representation holds its content, and for it nothing is merely immediate. Religious knowledge then proves to be an elevation to God, a mediated passage from finite things to the infinite, which is expressed in the proofs of God's existence.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827) › The Knowledge of God › Thought
 Citations:
+  Conviction involves grounds, and these grounds essentially exist only in thought.
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Thought (tr. Brown, Hodgson and Stewart)
+  For thought there is nothing immediate but only the sort of thing in which mediation is essential.
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Thought (tr. Brown, Hodgson and Stewart)
+  This total simplicity, this knowledge of God, is inwardly a movement; more precisely, it is an elevation to God.
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Thought (tr. Brown, Hodgson and Stewart)

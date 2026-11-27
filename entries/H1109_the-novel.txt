@@ -20,8 +20,12 @@ Phr:
   die moderne bürgerliche Epopöe [Ger.] [Hegel, Aesthetics]
 
 # ---- Hegel ----
-Def: The novel, the modern bourgeois epic, whose usual conflict is between the poetry of the heart and the prose of circumstances that opposes it.
+Def: The novel, which Knox calls romance, is the modern popular epic: it has again the wealth of interests, characters and events and the broad background of a world, but lacks the primitive poetic situation of epic proper, presupposing a prosaically ordered world in which it wins back poetry's right. Its typical collision is between the poetry of the heart and the opposing prose of circumstances.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › Particular Characteristics of Epic Proper › The Epic as a Fully Unified Whole
 Citations:
+  But it is quite different with romance, the modern popular epic.
+    — Aesthetics, Particular Characteristics of Epic Proper › The Epic as a Fully Unified Whole (tr. Knox)
+  Consequently one of the commonest, and, for romance, most appropriate, collisions is the conflict between the poetry of the heart and the opposing prose of circumstances and the accidents of external situations
+    — Aesthetics, Particular Characteristics of Epic Proper › The Epic as a Fully Unified Whole (tr. Knox)

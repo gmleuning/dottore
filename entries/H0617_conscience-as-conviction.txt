@@ -31,8 +31,14 @@ Phr:
   to follow one's conscience
 
 # ---- Hegel ----
-Def: Conscience as the certainty of its own conviction, which is immediately duty.
+Def: Conscience as conviction is the self-consciousness for which the essence of action lies in its own conviction of duty. Conscience keeps pure duty as the common element in which self-consciousnesses recognize one another, so that what is done from conviction is at once recognized and therefore actual. It knows that it cannot grasp all the circumstances of a case, yet counts its incomplete knowing, because it is its own, as sufficient.
 Texts:
   The Phenomenology of Spirit
     ¶¶632–654
 Citations:
+  This is so because the essence of the action, duty, consists in the conviction which conscience has about that duty
+    — The Phenomenology of Spirit ¶640 (tr. Pinkard)
+  What is done out of the conviction of duty is therefore immediately the kind of deed which has stability and existence.
+    — The Phenomenology of Spirit ¶640 (tr. Pinkard)
+  However, this acquaintance with and weighing of all the circumstances is not entirely absent; yet it is present only as a moment, as something which is only for others, and its incomplete knowing, because it is its own knowing, counts for it as sufficiently complete knowing.
+    — The Phenomenology of Spirit ¶642 (tr. Pinkard)

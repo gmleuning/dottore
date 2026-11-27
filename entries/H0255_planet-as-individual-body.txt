@@ -34,8 +34,12 @@ Phr:
   spaceship earth
 
 # ---- Hegel ----
-Def: The planet, the body of individuality, the concrete unity of the opposition and the true universal, which bears life.
+Def: The planet is the body of individual totality, in which rigidity opens into real differences held together by a self-like point of unity. Its rotation joined to its motion round the sun expresses its livingness. The planet is the true prius, the subject in which the differences are only ideal moments and life first has real existence; sun, moon and comets are its conditions.
 Texts:
   The Philosophy of Nature
     §280
 Citations:
+  It is the body of the individual totality where rigidity opens up into a separation into real differences and this resolution is held together by a selflike point of unity.
+    — Encyclopedia §280 (tr. Miller)
+  The planet is the veritable prius, the Subject in which the differences exist only as ideal moments, where life first has a real existence.
+    — Encyclopedia §280, Addition (tr. Miller)

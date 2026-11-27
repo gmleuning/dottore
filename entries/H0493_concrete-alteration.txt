@@ -36,8 +36,12 @@ Phr:
   things change
 
 # ---- Hegel ----
-Def: Change in the sensed thing, which undoes the certainty of the this.
+Def: Concrete alteration is the coming and going of the sensory object in consciousness. Known immediately and singly, the object enters my consciousness by chance and disappears from it again, as something given whose existence and constitution I cannot account for. Sensory consciousness is therefore a wholly inadequate form for any content that is universal in and for itself, since it gives what is necessary and eternal a finite, singular, self-external shape.
 Texts:
   The Philosophy of Mind
     §418
 Citations:
+  [A] unit that, at this standpoint, is known by me in an immediate, individualized manner, contingently now enters my consciousness and then disappears from it again
+    — Encyclopedia §418, Addition (tr. Wallace and Miller, rev. Inwood)
+  It is clear from this brief account of the nature of immediate or sensory consciousness that it is a thoroughly inadequate form for the in and for itself universal content of right, of the ethical and of religion, a form that spoils such content
+    — Encyclopedia §418, Addition (tr. Wallace and Miller, rev. Inwood)

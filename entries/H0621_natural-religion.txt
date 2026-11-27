@@ -26,8 +26,12 @@ Phr:
   the gods of nature
 
 # ---- Hegel ----
-Def: Spirit knowing itself in natural shapes: light, plant and animal, and the artificer's work.
+Def: Natural religion is the first shape in which spirit knows itself, in the form of immediate being. As self-conscious essence it is at first only its concept, the night from which its shapes are born, and it intuits itself in the manner that corresponds to immediate consciousness. It passes from the shapeless light, through the religion of plants and animals, to the artisan, who brings forth spirit as an object by an instinctive kind of work.
 Texts:
   The Phenomenology of Spirit
     ¶¶684–698
 Citations:
+  In the first, immediate estrangement of self-knowing absolute spirit, its shape has the determination that corresponds to immediate consciousness, or to sensuous-certainty.
+    — The Phenomenology of Spirit ¶686 (tr. Pinkard)
+  This secret has its revelation within itself, for existence has its necessity in this concept because this concept is spirit knowing itself and thus has within its essence the moment of being consciousness and of representing itself objectively.
+    — The Phenomenology of Spirit ¶685 (tr. Pinkard)

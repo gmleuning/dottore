@@ -29,8 +29,12 @@ Phr:
   painting is silent poetry
 
 # ---- Hegel ----
-Def: Music compared with the visual arts and poetry.
+Def: Comparing music with the other arts shows an affinity with architecture, since both follow laws of quantitative proportion drawn from the spirit's invention and not from existing things. Yet they stand in opposite realms: architecture raises enduring heavy masses to be seen from outside, whereas the swiftly vanishing world of sound passes through the ear into the heart.
 Texts:
   Aesthetics
     Music › General Character of Music › Comparison with the Visual Arts and Poetry
 Citations:
+  In this respect too music may be compared more closely with architecture which derives its forms, not from what exists, but from the spirit’s invention in order to mould them according to the laws of gravity and the rules of symmetry and eurhythmy.
+    — Aesthetics, General Character of Music › Comparison with the Visual Arts and Poetry (tr. Knox)
+  [F]or architecture erects its colossal buildings to endure in symbolic forms to be looked at from outside; but the world of sounds, quickly rustling away, is directly drawn by the ear into the inner life of the heart and harmonizes the soul with emotions in sympathy with it.
+    — Aesthetics, General Character of Music › Comparison with the Visual Arts and Poetry (tr. Knox)

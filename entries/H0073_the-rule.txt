@@ -53,8 +53,12 @@ Phr:
   Stick your neck out and it may get cut off
 
 # ---- Hegel ----
-Def: An external standard, an arbitrary unit applied to things as their measure.
+Def: The rule, or standard, is measure as it first specifies: a magnitude determinate in itself serving as a unit for a quantum belonging to some other concrete existence, which it measures by fixing it as an amount of that unit. The comparison is an external act, and the unit itself is an arbitrary magnitude which can in turn be treated as an amount, as a foot is an amount of inches. Yet measure is not only an external rule, for as specific measure it relates by its own nature to its other.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Specific quantity › Specifying measure › The rule
 Citations:
+  The rule, or the standard which we have just mentioned, is in the first instance as a magnitude which is determinate in itself and is a unit with respect to a quantum of a particular concrete existence: this is a quantum with a concrete existence which is other than the something of the rule – is measured by the latter, that is, is determined as the amount of the said unit.
+    — The Science of Logic, Specifying measure › The rule (tr. di Giovanni)
+  This comparison is an external act, and the unit itself is an arbitrary magnitude
+    — The Science of Logic, Specifying measure › The rule (tr. di Giovanni)

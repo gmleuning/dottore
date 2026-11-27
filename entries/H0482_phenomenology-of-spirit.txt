@@ -38,8 +38,14 @@ Phr:
   aware of
 
 # ---- Hegel ----
-Def: Spirit as appearing, consciousness, the I related to an object that it finds outside it, whose truth it learns to be itself.
+Def: The phenomenology of spirit is the science of the experience of consciousness. Consciousness knows an object and carries its own standard within itself, so that examining knowledge is its comparing itself with itself; when knowing and object fail to correspond, both alter, and a new object arises. This movement is experience. Driven by its necessity through a series of shapes, consciousness comprehends the whole system of consciousness, until it sets aside the semblance of being burdened with something alien, appearance becomes equal to essence, and it reaches absolute knowing.
 Texts:
   The Phenomenology of Spirit
     ¶¶73–808
 Citations:
+  This dialectical movement which consciousness practices in its own self (as well as in its knowing and in its object), insofar as, for consciousness, the new, true object arises out of this movement, is properly what is called experience.
+    — The Phenomenology of Spirit ¶86 (tr. Pinkard)
+  Through this necessity, this path to science is itself already science, and according to its content it is thereby the science of the experience of consciousness.
+    — The Phenomenology of Spirit ¶88 (tr. Pinkard)
+  By consciousness carrying on towards its true existence, it will reach a point where it sets aside its semblance of being burdened with what is alien to it, which only is for it and is as other; a point where the appearance becomes equal to the essence so that its own exposition coincides at this very point with the genuine science of spirit.
+    — The Phenomenology of Spirit ¶89 (tr. Pinkard)

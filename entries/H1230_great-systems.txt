@@ -25,8 +25,12 @@ Phr:
   the School of Athens
 
 # ---- Hegel ----
-Def: The great systems of Plato and Aristotle, in which Greek thought completes itself.
+Def: In the great systems of Plato and Aristotle Greek science takes shape, objective thought forming itself into a whole. Plato's philosophy is oriented toward the intellectual, supersensible world, the domain that Christianity later organized. What is true and universal, the Idea of the good, the beautiful, and the true, resides beforehand in spirit and develops from it.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Great Systems: Plato and Aristotle
 Citations:
+  The Christian religion, which contains this sublime principle [of spirit] within it, came to be the means of organization of the rational domain, became the supersensible realm that it is, because the soil of the supersensible domain had already been tilled by the great beginning that Plato made.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Great Systems: Plato and Aristotle (tr. Brown)
+  Plato presupposes that what is true and universal—the Idea of the Good, the Beautiful, and the True—resides beforehand in spirit itself and simply develops from it.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Great Systems: Plato and Aristotle (tr. Brown)

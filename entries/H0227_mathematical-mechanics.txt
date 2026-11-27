@@ -32,8 +32,12 @@ Phr:
   the coordinates
 
 # ---- Hegel ----
-Def: The abstract universality of nature's self-externality, space and time, prior to any matter that fills them.
+Def: Mathematical mechanics considers space and time, self-externality in complete abstraction, before any matter fills them. Space, the abstract continuity of asunderness, carries negation within it as point, line and plane; negation posited for itself is time, the truth of space; and their unity is place and motion, which collapses into matter.
 Texts:
   The Philosophy of Nature
     §§254–261
 Citations:
+  The truth of space is time, and thus space becomes time
+    — Encyclopedia §257, Addition (tr. Miller)
+  Negativity, as point, relates itself to space, in which it develops its determinations as line and plane
+    — Encyclopedia §257 (tr. Miller)

@@ -26,8 +26,12 @@ Phr:
   out of one's element
 
 # ---- Hegel ----
-Def: The world of self-alienated spirit, a world which spirit has made and which confronts it as alien.
+Def: The world of self-alienated spirit is the real world in which the individual has validity and actuality only through cultural formation, by relinquishing natural being. Its powers are state power and wealth, judged as good and bad, with a noble and a base consciousness relating to them; its mediation runs through service, counsel and language. Each moment inverts itself into its opposite, so that this world ends in disrupted consciousness and its vanity, and over against it there stand faith and pure insight.
 Texts:
   The Phenomenology of Spirit
     ¶¶488–537
 Citations:
+  It is cultural formation through which the individual here has validity and actuality.
+    — The Phenomenology of Spirit ¶488 (tr. Pinkard)
+  This spirit is the absolute and universal inversion and alienation of actuality and of thought; it is pure cultural formation.
+    — The Phenomenology of Spirit ¶520 (tr. Pinkard)

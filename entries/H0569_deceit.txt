@@ -19,8 +19,12 @@ Adv:
   in bad faith, disingenuously
 
 # ---- Hegel ----
-Def: Der Betrug: each claims the matter in hand as a universal concern while the others find they are dealing with someone's private affair; all deceive one another and themselves.
+Def: Deceit arises among individualities who each claim to be concerned with the matter in hand itself. One acts, and others suppose that it is the matter that interests this one and offer their help or announce that they have done it already; then they find that what was meant was only that individual's own activity, and feel cheated. Yet their eagerness was itself a wish to display their own doing, so that they meant to deceive in the same way. Action brings what is one's own into the light, where it becomes everyone's concern.
 Texts:
   The Phenomenology of Spirit
     ¶¶415–418
 Citations:
+  What interests him about the crux of the matter is what it has to do with his own goings-on, and by becoming fully aware that was what he meant by the crux of the matter, they find that they have been hoodwinked.
+    — The Phenomenology of Spirit ¶416 (tr. Pinkard)
+  However, their haste to offer their assistance in fact itself consisted in nothing but their own desire to see and to show off not the crux of the matter but only their own activities, i.e., they wanted to deceive the others in exactly the same manner in which they complain about having been deceived themselves.
+    — The Phenomenology of Spirit ¶416 (tr. Pinkard)

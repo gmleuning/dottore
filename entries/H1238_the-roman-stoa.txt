@@ -17,8 +17,14 @@ Phr:
   some things are up to us
 
 # ---- Hegel ----
-Def: The Roman Stoics, Seneca, Epictetus and Marcus Aurelius, in whom the abstract freedom of self-consciousness becomes moral exhortation in a world of despotism.
+Def: The later Stoics of the Roman age are Seneca; Epictetus, a Phrygian who began as a slave, fled to Nicopolis when Domitian banished the philosophers from Rome, and whose teaching his pupil Arrian compiled in the Enchiridion; and last of all the emperor Marcus Aurelius Antoninus.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Stoicism › The Principal Stoics
 Citations:
+  [L]ater still came Seneca [and] Epictetus, a Phrygian who started out as a slave.
+    — Lectures on the History of Philosophy 1825–6, Stoicism › The Principal Stoics (tr. Brown)
+  When Domitian banished the philosophers from Rome [in AD] 94, Epictetus fled to Nicopolis in Epirus.
+    — Lectures on the History of Philosophy 1825–6, Stoicism › The Principal Stoics (tr. Brown)
+  Last of all came the Emperor Marcus Aurelius Antoninus.
+    — Lectures on the History of Philosophy 1825–6, Stoicism › The Principal Stoics (tr. Brown)

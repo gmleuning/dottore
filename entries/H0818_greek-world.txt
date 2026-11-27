@@ -33,8 +33,12 @@ Phr:
   the glory that was Greece
 
 # ---- Hegel ----
-Def: The Greek world, where some are free: beautiful ethical life, in which the individual lives the universal as custom without reflection.
+Def: The second stage of world history, comparable to youth in its concrete freshness of soul. Its centre is individuality conditioned by beauty: spirit transforms what is natural into an expression of itself, in the culture of the body, the shaping of the gods and the form of the state. The universal is willed as custom, without reflective subjectivity, and slavery is a condition of its democracy.
 Texts:
   The Philosophy of History
     The Greek World
 Citations:
+  At an earlier stage I compared the Greek world with the period of adolescence; not, indeed, in that sense, that youth bears within it a serious, anticipative destiny, and consequently by the very conditions of its culture urges towards an ulterior aim,—presenting thus an inherently incomplete and immature form, and being then most defective when it would deem itself perfect,—but in that sense, that youth does not yet present the activity of work,—does not yet exert itself for a definite intelligent aim,—but rather exhibits a concrete freshness of the soul
+    — The Philosophy of History, The Greek World (tr. Sibree)
+  It was a necessary condition of such occupations, that the citizens should be freed from handicraft occupations; consequently, that what among us is performed by free citizens—the work of daily life—should be done by slaves.
+    — The Philosophy of History, The Greek World (tr. Sibree)

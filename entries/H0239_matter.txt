@@ -38,8 +38,12 @@ Phr:
   it doesn't matter
 
 # ---- Hegel ----
-Def: The identity of space and time, of place and motion, as an immediate existent unity: matter, which has the concept outside it, in gravity.
+Def: Matter is the immediately identical, existing unity of space and time into which motion collapses, the substrate of place and motion. The transition from the ideality of space and time to this reality is incomprehensible to the understanding, which takes them as empty forms filled from outside and treats matter as externally in them, though matter is essentially spatial and temporal.
 Texts:
   The Philosophy of Nature
     §261
 Citations:
+  [T]he immediately identical and existent unity of both, namely, Matter.
+    — Encyclopedia §261 (tr. Miller)
+  The transition from ideality to reality, from abstraction to concrete existence, in this case from space and time to reality, which appears as matter, is incomprehensible to the Understanding; consequently, the transition always presents itself to the Understanding as an external affair, as something already given.
+    — Encyclopedia §261, Remark (tr. Miller)

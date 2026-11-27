@@ -26,8 +26,12 @@ Phr:
   a bump on the head
 
 # ---- Hegel ----
-Def: The reading of mind from the shape of the skull, the lowest form of observing reason.
+Def: Phrenological observation takes as the outer of self-consciousness no speaking sign, like gesture or the face, but an entirely motionless actuality which, separated from self-conscious movement, presents itself as a mere thing: the skull. Observation turns from changeable expression back to hard and fast being, treating externality as the immediate actuality of spirit in the form of a dead thing, so as either to make spirit into a thing or to give dead being the significance of spirit.
 Texts:
   The Phenomenology of Spirit
     ¶¶323–346
 Citations:
+  However, in the determination still up for examination, the outer is finally an entire motionless actuality which is not in its own self a speaking sign but which, separated from self-conscious movement, presents itself for itself and is as a mere thing.
+    — The Phenomenology of Spirit ¶323 (tr. Pinkard)
+  For this reason, observation finally turns away from this changeable language and goes back to hard and fast being.
+    — The Phenomenology of Spirit ¶343 (tr. Pinkard)

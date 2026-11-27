@@ -49,8 +49,12 @@ Phr:
   there is no abstract truth, truth is always concrete, abstraktnoy istiny net, istina vsegda konkretna [Rus.] [Lenin]
 
 # ---- Hegel ----
-Def: The concept that is in agreement with its reality.
+Def: Truth is what spirit seeks and enters into. Freedom began in self-consciousness, but spirit is concretely free, not merely formally as self-consciousness is: it enters into all truth. Since it is implicitly reason, and the certainty that there is nothing but reason, it seeks nothing but truth. Its standpoint is that no abyss lies between the object and the knowing subject, and that there is no impenetrable barrier to knowledge.
 Texts:
-  The Philosophy of Mind
+  The Berlin Phenomenology
     §439
 Citations:
+  In self-consciousness we saw the beginning of freedom, but spirit is concretely free
+    — The Berlin Phenomenology §439 (tr. Petry)
+  Spirit is not merely formally free, as is self-consciousness, but enters into all truth, and since it is implicitly reason, and the certainty that there is nothing but reason, it seeks nothing but truth.
+    — The Berlin Phenomenology §439 (tr. Petry)

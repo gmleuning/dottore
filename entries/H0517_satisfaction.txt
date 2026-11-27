@@ -31,8 +31,12 @@ Phr:
   to have one's fill
 
 # ---- Hegel ----
-Def: Befriedigung, the satisfaction in which the drive is fulfilled and the object's independence negated.
+Def: Satisfaction is the reflection of self-consciousness into itself, the certainty that has become truth, which desire reaches by sublating its object. But in this very satisfaction self-consciousness learns that the object is self-sufficient, since its certainty depends on there being something to sublate. It must be absolutely for itself, and can be so only by sublating the object; true satisfaction therefore requires an object that carries out the negation in itself, which only another self-consciousness does.
 Texts:
   The Phenomenology of Spirit
     ¶175
 Citations:
+  However, in this satisfaction it learns from experience about the self-sufficiency of its object.
+    — The Phenomenology of Spirit ¶175 (tr. Pinkard)
+  For the sake of the self-sufficiency of the object, self-consciousness can thus only arrive at satisfaction by this object itself effecting the negation in itself
+    — The Phenomenology of Spirit ¶175 (tr. Pinkard)

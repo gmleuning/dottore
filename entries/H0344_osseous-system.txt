@@ -53,8 +53,12 @@ Phr:
   bare bones
 
 # ---- Hegel ----
-Def: The bone, sensibility's moment of inertness, a fixed and unprocessual framework.
+Def: The osseous system is sensibility reduced to abstract identity, insensibility, the inert and dead side that still falls within life: in producing bone the organism presupposes its own basis. Like the plant's wood it is dead force reflected into itself, a firm covering and support whose basic form, following Goethe, is the vertebra.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  Sensibility, as self-identity of sensation, if reduced to abstract identity, is insensibility, the inert, dead side of the organism, the deadening of itself which, however, still falls within the sphere of vitality; and this is the production of bone, whereby the organism presupposes its own basis.
+    — Encyclopedia §354, Addition (tr. Miller)
+  The basic organism of the bone is the spinal vertebra, and all else is merely a metamorphosis of it
+    — Encyclopedia §354, Addition (tr. Miller)

@@ -31,8 +31,12 @@ Phr:
   the perfect body
 
 # ---- Hegel ----
-Def: The ideal human figure as sculpture shapes it.
+Def: The ideal of sculpture presupposes, as all perfect art does, an imperfect stage, a sculpture still symbolic in character, such as the Egyptian. There art is hieroglyphic, a rough sketch that merely recalls its object, as a child's figure or a crude devotional image does, arousing a general idea. The ideal instead requires the living expression of the object's presence in a form fully shaped.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture
 Citations:
+  In proceeding to consider the ideal style of sculpture we must once again recall that perfect art is necessarily preceded by imperfect, not merely in technique, which is not our prime concern here, but in the conception of the universal Idea and the manner of portraying it ideally.
+    — Aesthetics, Sculpture › The Ideal of Sculpture (tr. Knox)
+  So art at first is hieroglyphic, not an arbitrary and capricious sign but a rough sketch of the object for our apprehension.
+    — Aesthetics, Sculpture › The Ideal of Sculpture (tr. Knox)

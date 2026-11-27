@@ -36,8 +36,12 @@ Phr:
   second nature
 
 # ---- Hegel ----
-Def: Natural determinations of the soul that it has as nature's qualities, not as its own doing.
+Def: The natural qualities are the determinations the soul has in itself by nature, not as objects over against it. They descend from the most universal to the most singular: the soul shares in the planetary life; this life breaks up into the natural minds of the world regions and of nations; and it is finally differentiated into the individual subject, with temperament, talent and character.
 Texts:
   The Philosophy of Mind
     §§392–395
 Citations:
+  The universal planetary life of the natural mind particularizes itself into the concrete differences of the earth and breaks up into the particular natural minds which, on the whole, express the nature of the geographical regions of the world and constitute the diversities of race.
+    — Encyclopedia §393 (tr. Wallace and Miller, rev. Inwood)
+  The soul is differentiated into the individual subject. But this subjectivity comes into consideration here only as an individualization of natural determinacy.
+    — Encyclopedia §395 (tr. Wallace and Miller, rev. Inwood)

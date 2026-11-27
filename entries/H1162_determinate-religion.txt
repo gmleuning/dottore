@@ -39,8 +39,12 @@ Phr:
   you moonshine revelers and shades of night [Merry Wives]
 
 # ---- Hegel ----
-Def: Religion in its particular historical shapes, as the concept of God develops through the peoples.
+Def: Determinate religions are the particular and therefore finite religions, in which the concept of God first takes on determinations. As God is defined, so human beings define themselves. They are definite stages of the consciousness of spirit and necessary conditions for the emergence of the true religion. For that reason they also exist historically, successively in time and side by side in space.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827)
 Citations:
+  An inferior god or a nature god has inferior, natural and unfree human beings as its correlates; the pure concept of God or the spiritual God has as its correlate spirit that is free and spiritual, that actually knows God.
+    — Lectures on the Philosophy of Religion, Determinate Religion (1827) (tr. Brown, Hodgson and Stewart)
+  These determinate religions are definite stages of the consciousness and knowledge of spirit. They are necessary conditions for the emergence of the true religion
+    — Lectures on the Philosophy of Religion, Determinate Religion (1827) (tr. Brown, Hodgson and Stewart)

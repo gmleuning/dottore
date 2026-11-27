@@ -52,8 +52,12 @@ Phr:
   to set in motion
 
 # ---- Hegel ----
-Def: Force solicited by another force, which is itself solicited, so that each is the condition of the other's expression.
+Def: Solicitation is the relation in which a force conditioned by an externality meets it as another force. The presupposing is reciprocal: each posits its own externality as another force and is a stimulus to it. Neither is passively determined, for the stimulus only solicits, and the force's act consists in sublating the externality, reducing it to a stimulus and positing it as its own self-repulsion, its own expression. Soliciting and being solicited are thus the same.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The essential relation › The relation of force and its expression › The solicitation of force
 Citations:
+  This presupposing is moreover reciprocal. Each of the two forces contains the unity reflected into itself as sublated and is therefore a presupposing; it posits itself as external; this moment of externality is its own; but since it is equally a unity reflected into itself, it posits that externality at the same time not within itself but as another force.
+    — The Science of Logic, The relation of force and its expression › The solicitation of force (tr. di Giovanni)
+  The attitude of each force is not one of passive determination, as if something other than it were thereby being elicited in it; the stimulus rather only solicits it.
+    — The Science of Logic, The relation of force and its expression › The solicitation of force (tr. di Giovanni)

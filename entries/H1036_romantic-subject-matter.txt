@@ -32,8 +32,14 @@ Phr:
   scenes of everyday life
 
 # ---- Hegel ----
-Def: The romantic content of painting, the religious love of the Madonna, and the everyday life of the world.
+Def: The romantic subject matter of painting is the concentration of spirit in itself, the full range of deep feeling expressed in the external, which sculpture must renounce and music cannot show. Its centre is religious love without desire, reconciled and blessed, above all the Madonna's love for her child, and it reaches to deep oneness with everyday surroundings and the joy of independent existence.
 Texts:
   Aesthetics
     Painting › Particular Characteristics of Painting › The Romantic Subject-matter
 Citations:
+  Whereas painting can link both sides together; in the external itself it can express the full range of deep feeling
+    — Aesthetics, Particular Characteristics of Painting › The Romantic Subject-matter (tr. Knox)
+  Here we may specify the Holy Family, and above all the Madonna’s love for her child, as the absolutely suitable ideal subject for this sphere.
+    — Aesthetics, Particular Characteristics of Painting › The Romantic Subject-matter (tr. Knox)
+  [I]t is a deep sense of oneness with what is immediately present, with our everyday surroundings, with the commonest and tiniest details, that becomes the subjectmatter of painting.
+    — Aesthetics, Particular Characteristics of Painting › The Romantic Subject-matter (tr. Knox)

@@ -36,8 +36,12 @@ Phr:
   to rally round the flag
 
 # ---- Hegel ----
-Def: Government, which holds the community together and shakes it by war against the isolation of its members.
+Def: Government is actual spirit reflected into itself, the simple self of the whole ethical substance, in which the polity has its living individuality. It lets the whole spread out into its members and the self-sufficient systems of property, right, acquisition and consumption, and it gathers these into a negative unity. So that they do not harden in isolation and let the spirit of the whole fade, government must from time to time shake them by war, making individuals feel the power of their master, death.
 Texts:
   The Phenomenology of Spirit
     ¶¶454–455
 Citations:
+  The government is actual spirit reflected into itself, the simple self of the whole ethical substance.
+    — The Phenomenology of Spirit ¶454 (tr. Pinkard)
+  In order not to let them become rooted and rigidly fixed within this activity of isolating themselves, which would otherwise let the whole come undone and the spirit within it fade away, the government must from time to time shake them to their core by means of war. As a result, it infringes on their established order, violates their right to self-sufficiency, and throws them into disarray.
+    — The Phenomenology of Spirit ¶454 (tr. Pinkard)

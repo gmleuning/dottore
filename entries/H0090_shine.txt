@@ -46,8 +46,12 @@ Phr:
   appearances can be deceiving
 
 # ---- Hegel ----
-Def: Being reduced to a semblance, which has no being of its own apart from essence and is essence's own shining.
+Def: Shine is what remains of being as it confronts essence, from which it issues. This immediate being is first the unessential; second, it is more than that, being void of essence, shine; and third, shine is nothing external or other than essence but essence's own shining within itself, which is reflection. So the apparent independence of what is immediate against essence dissolves into a movement of essence itself.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Shine
 Citations:
+  As it issues from being, essence seems to stand over against it; this immediate being is, first, the unessential. But, second, it is more than just the unessential; it is being void of essence; it is shine.
+    — The Science of Logic, Shine (tr. di Giovanni)
+  Third, this shine is not something external, something other than essence, but is essence’s own shining. This shining of essence within it is reflection.
+    — The Science of Logic, Shine (tr. di Giovanni)

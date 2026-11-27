@@ -37,8 +37,12 @@ Phr:
   to separate out
 
 # ---- Hegel ----
-Def: The separation of the neutral product into its components; reduction, the inverse of combination.
+Def: Separation is the dissociation of the neutral body, beginning its reversion to particular chemical bodies and their indifference through a series of processes, each dissociation being inseparably linked with a combination. Its forms include reduction, as when a metal combined with sulphur as acid is freed and assumes a pure form, completing the cycle of the chemical process.
 Texts:
   The Philosophy of Nature
     §334
 Citations:
+  The dissociation of the neutral body is the beginning of its reversion to particular chemical bodies, back to their indifference
+    — Encyclopedia §334 (tr. Miller)
+  It is in this way that metals are finally reduced: when, for example, sulphur, which as acid combined with a base, is driven off and the metal assumes a pure form.
+    — Encyclopedia §334, Addition (tr. Miller)

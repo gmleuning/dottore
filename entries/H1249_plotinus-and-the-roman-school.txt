@@ -24,8 +24,12 @@ F:
   Greek: diadochoi, scholarchēs
 
 # ---- Hegel ----
-Def: Plotinus, the chief of the Neoplatonists, with Ammonius Saccas before him and Porphyry, who edited the Enneads; the One, Nous and Soul as the concrete idea.
+Def: Ammonius Saccas founded the school; its most famous member is Plotinus, whose life Porphyry wrote. The whole tenor of Plotinus is guidance to virtue and to intellectual contemplation of the One as its source. The perfect overflows, what is brought forth turns back toward the One, and this return, in which the primary being beholds itself, is understanding, or thinking.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Neoplatonic Philosophy › Ammonius Saccas and Plotinus
 Citations:
+  The whole tenor of his philosophizing is one of guidance to virtue and to the intellectual contemplation of the One as virtue's source.
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › Ammonius Saccas and Plotinus (tr. Brown)
+  This reversal of what is brought forth, this turning-back to the primary unity, is understanding as such.
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › Ammonius Saccas and Plotinus (tr. Brown)

@@ -37,8 +37,12 @@ Phr:
   to make one's living
 
 # ---- Hegel ----
-Def: The living individual against an inorganic nature that it assimilates, so that it sets itself up as itself.
+Def: In the life-process the living individual, a subject that is its own purpose, sets itself against the presupposed objective world, which counts for it only as negative and dependent, and is certain of the nullity of that otherness. The process begins with need: the living being posits itself as negated, refers to what is other, and strives to make the world its own. Feeling its own rupture and contradiction as pain is the prerogative of living natures.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Life › The life-process
 Citations:
+  This process begins with need, that is, the twofold moment of self-determination of the living being by which the latter posits itself as negated and thereby refers itself to an other than it, to the indifferent objectivity
+    — The Science of Logic, Life › The life-process (tr. di Giovanni)
+  Pain is therefore the prerogative of living natures
+    — The Science of Logic, Life › The life-process (tr. di Giovanni)

@@ -17,8 +17,12 @@ F:
   German: Aufgehen in der Sache
 
 # ---- Hegel ----
-Def: Begeisterung proper: the artist wholly filled by the matter and absorbed in it, letting no merely subjective particularity in, until the work is complete.
+Def: Inspiration proper is nothing but being completely filled with the theme, wholly present in it, and not resting until it is stamped and polished into artistic form. Having made the matter their own, artists must forget their personality and its accidents and become only the form in which the theme takes shape; an inspiration in which the subject parades itself is a poor one.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  If we ask further wherein artistic inspiration consists, it is nothing but being completely filled with the theme, being entirely present in the theme, and not resting until the theme has been stamped and polished into artistic shape.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  But if the artist has made the subject-matter into something entirely his own, he must on the other hand be able to forget his own personality and its accidental particular characteristics and immerse himself, for his part, entirely in his material, so that, as subject, he is only as it were the form for the formation of the theme which has taken hold of him.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

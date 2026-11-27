@@ -31,8 +31,12 @@ Phr:
   a train of thought
 
 # ---- Hegel ----
-Def: Imagination that connects images according to their common features and forms general representations.
+Def: Associative imagination relates images to one another, subsuming individual representations under a universal that forms their connection and giving them a subjective bond in place of an objective one. What enables images to relate is what they have in common, so that universal representations arise by the spontaneous activity of intelligence, not by many similar images piling up on one another while a mere spectator looks on.
 Texts:
   The Philosophy of Mind
     §456
 Citations:
+  Hence even the association of representations is to be conceived as subsumption of the individual representations under a universal representation, which forms the connection between them.
+    — Encyclopedia §456 (tr. Wallace and Miller, rev. Inwood)
+  In the production of universal representations, the intelligence thus operates spontaneously, it is, therefore, an inept mistake to assume that universal representations arose, without any help from the mind, by the superimposition of many similar images
+    — Encyclopedia §456, Addition (tr. Wallace and Miller, rev. Inwood)

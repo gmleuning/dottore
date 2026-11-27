@@ -38,8 +38,10 @@ Phr:
   better half
 
 # ---- Hegel ----
-Def: The bond of husband and wife, a unity of natural life transformed into a spiritual unity.
+Def: The marriage relation is the bond of husband and wife, a unity of natural life raised into a spiritual unity. Its ethical aspect lies in the partners' consciousness of this unity as their substantial aim, in their love, trust and common sharing of their whole existence, before which natural drive sinks to a moment destined to vanish.
 Texts:
   The Philosophy of Right
     §§161–163
 Citations:
+  The ethical aspect of marriage consists in the parties’ consciousness of this unity as their substantial aim, and so in their love, trust, and common sharing of their entire existence as individuals.
+    — The Philosophy of Right §163 (tr. Knox, rev. Houlgate)

@@ -54,8 +54,12 @@ Phr:
   now infidel I have thee on the hip [Merchant of Venice]
 
 # ---- Hegel ----
-Def: Revenge, which is justice in content but in form an act of a particular will, a new injury.
+Def: Revenge is the first form of annulling crime, in the sphere where right is immediate. It is just in content, as retribution, but in form it is the act of a subjective will, whose justice is always contingent and appears to the other as particular. Revenge thus becomes a new injury and is inherited indefinitely from generation to generation.
 Texts:
   The Philosophy of Right
     §102
 Citations:
+  The annulling of crime in this sphere where right is immediate is initially revenge, which is just in its content insofar as it is retributive. But in its form it is an act of a subjective will which can place its infinity in every act of transgression and whose justice, therefore, is in all cases contingent, while to the other party too it appears as only particular. Hence revenge, because it is a positive action of a particular will, becomes a new transgression; as thus contradictory in character, it falls into an infinite progression and descends from one generation to another ad infinitum.
+    — The Philosophy of Right §102 (tr. Knox, rev. Houlgate)
+  [R]evenge remains defective inasmuch as it is the act of a subjective will and therefore does not correspond with the content.
+    — The Philosophy of Right §102, Addition (tr. Knox, rev. Houlgate)

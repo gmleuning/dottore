@@ -51,8 +51,12 @@ Phr:
   sculpsit [Lat.], imprimit [Lat.]
 
 # ---- Hegel ----
-Def: Painting, the first romantic art, which shows inwardness as appearance on a surface through light and colour.
+Def: Painting is the art that first opens the way to finite and inherently infinite subjectivity, the principle of our own life, so that in pictures we see what is active in ourselves. Ancient sculpture leaves us somewhat cold, its sightless figures unable to reveal the life of the heart, whereas in painting God appears as a living spiritual person who gives each individual community and reconciliation.
 Texts:
   Aesthetics
     Painting
 Citations:
+  Painting, that is to say, opens the way for the first time to the principle of finite and inherently infinite subjectivity, the principle of our own life and existence, and in paintings we see what is effective and active in ourselves.
+    — Aesthetics, Painting (tr. Knox)
+  In sculpture the god confronts our vision as a mere object; but in painting, on the other hand, God appears in himself as a spiritual and living person who enters the Church and gives to every individual the possibility of placing himself in spiritual community and reconciliation with him.
+    — Aesthetics, Painting (tr. Knox)

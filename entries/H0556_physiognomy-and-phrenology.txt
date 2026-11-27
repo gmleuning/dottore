@@ -27,8 +27,12 @@ Phr:
   skin deep
 
 # ---- Hegel ----
-Def: Reason seeking the mind in its immediate bodily actuality, in face and skull.
+Def: Physiognomy and phrenology are observation's attempts to find the law relating self-consciousness to its immediate actuality, how the inner is expressed in the outer. The whole individuality is now the object: the original, inborn body and the traits that arise through acting. Physiognomy takes the outer as a sign and expression of the inner; phrenology takes it as a motionless thing, the skull. Observation thereby makes the actuality of spirit into a thing, ending in the judgement that the being of spirit is a bone.
 Texts:
   The Phenomenology of Spirit
     ¶¶309–346
 Citations:
+  However, while the individual is at the same time only what he has done, so is his body also the expression of himself which is brought forth by him.
+    — The Phenomenology of Spirit ¶310 (tr. Pinkard)
+  What is up for examination here are the relationships between both aspects. More specifically, what is up for examination is how this relation is to be determined and how we are to understand the expression of the inner in the outer.
+    — The Phenomenology of Spirit ¶311 (tr. Pinkard)

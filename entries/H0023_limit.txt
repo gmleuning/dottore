@@ -26,8 +26,14 @@ Phr:
   good fences make good neighbours [Frost]
 
 # ---- Hegel ----
-Def: Grenze, the non-being of the other in something and of something in the other, through which something is what it is and also is not.
+Def: Limit is the non-being of the other, through which something is what it is. It is not only the non-being of the other but equally that of the something, so that something through its limit both is and is not. Something has its existence outside its limit, yet only in its limit does it have existence; the limit separates the two and is their common distinguishedness. In the limit something is therefore restless, a contradiction that drives it beyond itself, as the point passes into the line.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Determination, constitution, and limit
 Citations:
+  In limiting, something is of course thereby reduced to being limited itself; but, as the ceasing of the other in it, its limit is at the same time itself only the being of the something; this something is what it is by virtue of it, has its quality in it.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)
+  The limit is the mediation in virtue of which something and other each both is and is not.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)
+  The other determination is the unrest of the something in its limit in which it is immanent, the contradiction that propels it beyond itself.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)

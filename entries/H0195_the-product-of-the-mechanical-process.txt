@@ -31,8 +31,12 @@ Phr:
   to come to a standstill
 
 # ---- Hegel ----
-Def: The fate of the mechanical process: rest, a product in which the object has the determination externally posited.
+Def: The product of the mechanical process is, formally, the object as a determinate thing, the process dying out in rest. But the determinateness also withdraws into itself, so that the object becomes an objective singular and the semblance of a self-standing singularity set against universal substance is sublated. This reflected oneness is an individual self-standing unity, the centre; and the universality that particularizes itself from within, a rational fate, is law.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism › The mechanical process › The product of the mechanical process
 Citations:
+  This resulting immanent reflection, the objective oneness of the objects, is now a oneness which is an individual self-subsistence – the center.
+    — The Science of Logic, The mechanical process › The product of the mechanical process (tr. di Giovanni)
+  Secondly, the reflection of negativity is the universality which is not a fate standing over against determinateness, but a rational fate, immanently determined – a universality that particularizes itself from within, the difference that remains at rest and fixed in the unstable particularity of the objects and their process; it is the law.
+    — The Science of Logic, The mechanical process › The product of the mechanical process (tr. di Giovanni)

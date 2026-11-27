@@ -32,8 +32,12 @@ Phr:
   up and down the scale
 
 # ---- Hegel ----
-Def: A measure determined by its series of ratios to other measures, which form its specific scale.
+Def: A series of measure relations arises because something that is in itself a relation of measure is independent and yet able to unite with others of the same kind, preserving itself while specifying a new relation with each. Its specific character is not expressed in one combination alone. Compared with many others it yields different ratios and exponents, so that the independent measure displays its qualitative exponent as the series of these amounts, of which it is itself the unit: a series of specific ways of relating to others.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Real measure › The relation of independent measures › Measure as a series of measure-relations
 Citations:
+  But when something is in itself a measure-relation, it is independent yet at the same time capable of union with another which is also in itself a measure-relation. For in being sublated in union, each preserves itself through the permanence of its quantitative indifference and it behaves as the specifying moment of a new measure-relation.
+    — The Science of Logic, The relation of independent measures › Measure as a series of measure-relations (tr. di Giovanni)
+  The exponents of these ratios are however diverse, and the independent measure consequently displays its qualitative exponent as the series of these different amounts of which it is the unit – a series of specific ways of relating to others.
+    — The Science of Logic, The relation of independent measures › Measure as a series of measure-relations (tr. di Giovanni)

@@ -43,8 +43,12 @@ Phr:
   as boundless as the sea [Romeo and Juliet]
 
 # ---- Hegel ----
-Def: The spurious infinite in quantity: the endless more and less, the ought of quantity never fulfilled.
+Def: The quantitative infinite progress expresses the contradiction in quantum without resolving it. Quantum has a beyond of itself to which it passes; since it is continuous with that beyond, the beyond is again a quantum, which flees beyond itself in turn. The progress is the task of reaching the infinite without reaching it, a perpetual generating of the infinite that never gets past quantum and never has the infinite positively present, though the continuity of the terms gives it the appearance of a resolution.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Quantitative infinity › The quantitative infinite process
 Citations:
+  The infinite progress is now the expression of this contradiction, not the resolution of it; however, because of the continuity of one determinateness in the other, the progress gives rise to the semblance of a resolution in a union of the two.
+    — The Science of Logic, Quantitative infinity › The quantitative infinite process (tr. di Giovanni)
+  As at first posited, such a progress is the task of attaining the infinite but not the attainment of it; it is a perpetual generation of the infinite, without the progress of ever getting beyond the quantum itself, and without the infinite ever becoming something which is positively present.
+    — The Science of Logic, Quantitative infinity › The quantitative infinite process (tr. di Giovanni)

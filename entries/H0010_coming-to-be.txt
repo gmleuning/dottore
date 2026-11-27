@@ -28,8 +28,12 @@ Phr:
   omnium rerum principia parva sunt [Lat.] [Cicero]
 
 # ---- Hegel ----
-Def: Entstehen, the direction of becoming in which nothing goes over into being.
+Def: Coming-to-be is that direction of becoming in which nothing is the immediate and refers to being: the determination begins with nothing and passes over into being. Being here is what nothing goes over into. Coming-to-be is not a process standing apart from ceasing-to-be, for being equally sublates itself and passes back into nothing. Each direction sublates itself in itself and carries its opposite within it.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Becoming › The moments of becoming
 Citations:
+  In one determination, nothing is the immediate, that is, the determination begins with nothing and this refers to being; that is to say, it passes over into it.
+    — The Science of Logic, Becoming › The moments of becoming (tr. di Giovanni)
+  This coming-to-be is the other direction; nothing goes over into being, but being equally sublates itself and is rather the passing-over into nothing; it is ceasing-to-be.
+    — The Science of Logic, Becoming › The moments of becoming (tr. di Giovanni)

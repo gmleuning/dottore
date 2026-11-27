@@ -29,8 +29,12 @@ Phr:
   God is spirit
 
 # ---- Hegel ----
-Def: The consummate religion, Christianity, in which God is revealed as spirit: Trinity, incarnation, community.
+Def: The consummate religion is religion that has become objective to itself, the revelatory religion, in which consciousness knows the absolute essence as its own and spirit is the object of spirit. God is himself consciousness, differentiating himself and giving himself as object. This religion is revealed, in that God has given himself to be known, and also positive, in that it has come to humanity from without.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827)
 Citations:
+  But when religion grasps itself, its content and object is this whole—consciousness relating itself to its essence, knowing itself as its essence and knowing its essence as its own—and that is spiritual religion.
+    — Lectures on the Philosophy of Religion, The Consummate Religion (1827) (tr. Brown, Hodgson and Stewart)
+  This absolute religion is the revelatory [offenbar] religion, the religion that has itself as its content and fulfillment.
+    — Lectures on the Philosophy of Religion, The Consummate Religion (1827) (tr. Brown, Hodgson and Stewart)

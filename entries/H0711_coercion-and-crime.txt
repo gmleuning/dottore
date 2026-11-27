@@ -35,8 +35,10 @@ Phr:
   against one's will
 
 # ---- Hegel ----
-Def: Wrong which violates the existence of freedom by force: coercion and crime.
+Def: Coercion and crime are wrong that violates the existence of freedom by force. Because I place my will in external things, my will can be seized in them and compelled, either subjected to force or made to sacrifice something to keep its possessions. Crime is coercion that infringes right as right.
 Texts:
   The Philosophy of Right
     §§90–103
 Citations:
+  In owning property I place my will in an external thing, and this implies that my will, just by being thus reflected in the object, may be seized in it and brought under compulsion.
+    — The Philosophy of Right §90 (tr. Knox, rev. Houlgate)

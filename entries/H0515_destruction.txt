@@ -34,8 +34,12 @@ Phr:
   to devour
 
 # ---- Hegel ----
-Def: Vernichtung, desire's negation of the independent object, through which it is certain of itself, yet which reproduces both the object and the desire.
+Def: Destruction is what desire does to its object. Its relation to the selfless object is only negative, so that the object is simply consumed: it does not fashion the object, which would preserve its matter and give the subject's form a lasting hold, but annihilates its independence, since self-consciousness cannot yet endure an independent other. Desire is thus destructive in its satisfaction and self-centred in its content, and because satisfaction is single and passing, desire produces itself again.
 Texts:
   The Philosophy of Mind
     §428
 Citations:
+  So desire in its satisfaction is in general destructive, as it is in its content self-centred, and since the satisfaction has only happened in the individual case, and this is transitory, the desire reproduces itself again in the satisfaction.
+    — Encyclopedia §428 (tr. Wallace and Miller, rev. Inwood)
+  The relationship of desire to the object is still completely one of self-centred destruction, not one of fashioning.
+    — Encyclopedia §428, Addition (tr. Wallace and Miller, rev. Inwood)

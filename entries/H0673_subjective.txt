@@ -30,8 +30,12 @@ Phr:
   against the grain
 
 # ---- Hegel ----
-Def: The ought of the practical feeling, its judgment of what is pleasant or unpleasant to it.
+Def: In practical feeling as subjective there is an ought: the will's own self-determination is set against an individuality that counts only so far as it is adequate to it. The feeling will compares how it is determined from outside with what its own nature determines it to be, and demands that the affection agree. Both sides being immediate, the judgement of pleasant and unpleasant that results is utterly subjective and superficial.
 Texts:
   The Philosophy of Mind
     §§471–472
 Citations:
+  Practical feeling involves the ought, its self-determination as being in itself, related to an individuality that is in being and which is allowed to count only in its adequacy to that self-determination.
+    — Encyclopedia §472 (tr. Wallace and Miller, rev. Inwood)
+  The feeling will is, therefore, the comparing of its immediate determinedness coming from outside, with the determinedness posited in it by its own nature.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)

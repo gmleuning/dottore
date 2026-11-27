@@ -14,8 +14,10 @@ Adj:
   precocial, nidifugous, web-footed, palmiped, gallinaceous
 
 # ---- Hegel ----
-Def: Lamarck's first three orders of birds, whose young walk and feed at once: palmipeds, waders and gallinaceous birds, the birds closest to the earth and the water.
+Def: Following Lamarck, the first three orders of birds, the web-footed birds, waders and gallinaceous birds, are set apart because their young, as soon as they leave the egg, can walk and feed themselves, an advantage over all other birds. Hegel questions whether this should put these orders first.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  Lamarck (loc. cit., p. 150) proposes the following classification of birds from this standpoint: 'If one bears in mind that aquatic birds like the palmipedes, for example, sandpipers, and gallinaceous birds, have the advantage over all other birds that their young, as soon as they emerge from the egg, can walk and feed themselves, it will be seen that they must form the first three orders, and that the Columbidae, Passeres, birds of prey, and climbers must form the last four orders of this class; for their young, when they have emerged from the egg, can neither walk, nor feed themselves.'
+    — Encyclopedia §370, Addition (tr. Miller)

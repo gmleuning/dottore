@@ -33,8 +33,12 @@ Phr:
   deficit omne quod nascitur [Lat.] [Quintilian]
 
 # ---- Hegel ----
-Def: Vergehen, the direction of becoming in which being goes over into nothing.
+Def: Ceasing-to-be is that direction of becoming in which being is the immediate and passes over into nothing. It is not an external destruction that comes upon being: being sublates itself and is the passing-over into nothing. Nothing, in turn, is just as much the opposite of itself, a passing into being, so ceasing-to-be is at the same time coming-to-be, and the two paralyze and interpenetrate one another.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Becoming › The moments of becoming
 Citations:
+  In the other determination, being is the immediate, that is, the determination begins with being and this passes over into nothing
+    — The Science of Logic, Becoming › The moments of becoming (tr. di Giovanni)
+  The one is ceasing-to-be; being passes over into nothing, but nothing is just as much the opposite of itself, the passing-over into being, coming-to-be.
+    — The Science of Logic, Becoming › The moments of becoming (tr. di Giovanni)

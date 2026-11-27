@@ -33,8 +33,12 @@ Phr:
   the nine Muses
 
 # ---- Hegel ----
-Def: The system of the particular arts, from architecture through sculpture to painting, music and poetry.
+Def: The system of the individual arts is the third part of aesthetics, treating the work of art actualized in the sensuous element, since only as an object presented to sense does beauty explicitly become the ideal. The totality of artistic beauty here falls apart into independent members, each an individual art able to present all the art forms, developing as the forms do from symbolic to romantic and each flowering and decaying.
 Texts:
   Aesthetics
     The System of the Individual Arts
 Citations:
+  But it is implicit in the very conception of beauty that it shall make itself objective externally as a work of art presented to immediate vision, to sense and sensuous imagination.
+    — Aesthetics, The System of the Individual Arts (tr. Knox)
+  This real world of art is the system of the individual arts.
+    — Aesthetics, The System of the Individual Arts (tr. Knox)

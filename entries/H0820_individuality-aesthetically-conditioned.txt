@@ -28,8 +28,12 @@ Phr:
   noble simplicity and quiet grandeur, edle Einfalt und stille Größe [Ger.] [Winckelmann]
 
 # ---- Hegel ----
-Def: Greek individuality shaped by beauty, spirit expressed in sensuous shape.
+Def: The three forms in which beautiful individuality realizes itself, all of them works of art: the culture of the human being, the shaping of the world of gods, and the constitution of the state. In each the natural is only the starting point and material that spirit works into its own expression, the state uniting the subjective and the objective work as a living, self-conscious universal.
 Texts:
   The Philosophy of History
     The Greek World › Phases of Individuality Aesthetically Conditioned
 Citations:
+  The State unites the two phases just considered, viz., the Subjective and the Objective Work of Art. In the State, Spirit is not a mere Object, like the deities, nor, on the other hand, is it merely subjectively developed to a beautiful physique.
+    — The Philosophy of History, The Greek World › Phases of Individuality Aesthetically Conditioned (tr. Sibree)
+  It is here a living, universal Spirit, but which is at the same time the self-conscious Spirit of the individuals composing the community.
+    — The Philosophy of History, The Greek World › Phases of Individuality Aesthetically Conditioned (tr. Sibree)

@@ -26,8 +26,12 @@ Phr:
   the Grecian nose
 
 # ---- Hegel ----
-Def: The Greek profile, brow and nose in one line, the spiritual brow dominating the animal mouth.
+Def: The Greek profile joins forehead and nose in an almost straight or gently curved unbroken line, at a right angle to a line from the nose's root to the ear. In animals the mouth dominates as the organ of need; in the human face a second centre in brow and eye expresses spirit's theoretical relation to things, and the nose mediates between that and the organs of nourishment.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture › The Greek Profile
 Citations:
+  This profile depends on a specific connection between forehead and nose: in other words on the almost straight or only gently curved line on which the forehead is continued to the nose without interruption
+    — Aesthetics, Particular Aspects of the Ideal Form in Sculpture › The Greek Profile (tr. Knox)
+  Therefore the human face has a second centre in which the soulful and spiritual relation to things is manifested.
+    — Aesthetics, Particular Aspects of the Ideal Form in Sculpture › The Greek Profile (tr. Knox)

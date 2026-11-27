@@ -27,8 +27,12 @@ Phr:
   aspiring heavenward
 
 # ---- Hegel ----
-Def: The general character of romantic building: a fully enclosed space, rising upward, for an inwardness turned to the beyond.
+Def: The general character of romantic building is that enclosure is fundamental while mere utility is transcended: houses of God, entirely suited to worship, rise freely to a pinnacle so that purpose vanishes in the look of independent existence. In grandeur and sublime peace they are lifted into an infinity of their own, while the fullest variety of detail is led back into simple unity.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture › General Character of Romantic Architecture
 Citations:
+  It has and displays a definite purpose; but in its grandeur and sublime peace it is lifted above anything purely utilitarian into an infinity in itself.
+    — Aesthetics, Romantic Architecture › General Character of Romantic Architecture (tr. Knox)
+  The work stands there by itself, fixed, and eternal.
+    — Aesthetics, Romantic Architecture › General Character of Romantic Architecture (tr. Knox)

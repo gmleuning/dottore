@@ -16,8 +16,12 @@ Adj:
   Sufi, Sufic, ecstatic
 
 # ---- Hegel ----
-Def: Die mohammedanische Poesie: in Jalāl al-Dīn Rūmī and Hafez the subject gives itself to the One in blissful, intoxicated love, the rose and the nightingale.
+Def: Mohammedan poetry, above all Persian, develops oriental pantheism more freely and subjectively. The poet who longs to see the divine in everything sacrifices personality, and in the enlarged inner life grows serene, free and blissful, intimate with natural things, the beloved and the tavern. Jalal-ed-Din Rumi is praised above all, and this happy depth of feeling contrasts with the wistful inwardness of the northern romantic.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Symbolism of the Sublime › The Pantheism of Art › Mohammedan Poetry
 Citations:
+  Since the poet longs to descry the Divine in everything and does actually descry it, in face of it he now sacrifices his own personality, but he all the same apprehends the immanence of the Divine in his inner being thus enlarged and freed; and therefore there grows in him that serene inwardness, that free good fortune, that riotous bliss characteristic of the Oriental who, in renouncing his own particularity, immerses himself entirely in the Eternal and the Absolute
+    — Aesthetics, The Pantheism of Art › Mohammedan Poetry (tr. Knox)
+  On the other hand, a free, happy, depth of feeling is characteristic of Orientals, especially the Mohammedan Persians, who openly and cheerfully sacrifice their entire selves to God and to everything praiseworthy
+    — Aesthetics, The Pantheism of Art › Mohammedan Poetry (tr. Knox)

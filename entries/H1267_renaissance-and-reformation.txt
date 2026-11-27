@@ -31,8 +31,12 @@ Phr:
   the rebirth of learning
 
 # ---- Hegel ----
-Def: The revival of learning and the Reformation, in which the subject finds its freedom within itself.
+Def: In the Renaissance humanity came to know itself justified and free, with the strength to act in its own interests; the arts and sciences flourished, and people turned to the works of the ancients, in which human beings count for something. In the Reformation the principle of subjectivity became a moment of religion itself, with Luther's German Bible essential to subjective freedom.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › Renaissance and Reformation
 Citations:
+  People have reached the point of knowing themselves to be free and of getting their freedom recognized; they have reached the point of seeing that it lies in their own hands, that they have the strength to act in their own interests and for their own purposes.
+    — Lectures on the History of Philosophy 1825–6, Medieval Philosophy › Renaissance and Reformation (tr. Brown)
+  This principle of subjectivity became a moment of religion itself and thereby attained to its absolute recognition
+    — Lectures on the History of Philosophy 1825–6, Medieval Philosophy › Renaissance and Reformation (tr. Brown)

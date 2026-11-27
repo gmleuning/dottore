@@ -115,8 +115,12 @@ Phr:
   nervos belli pecuniam infinitam [Lat.]
 
 # ---- Hegel ----
-Def: War, in which the ideality of the particular is shown, and the ethical health of nations is preserved.
+Def: War is the condition in which the vanity of finite things, property and life, is made actual. In it the rights and interests of individuals are posited as a vanishing moment, and the ethical health of peoples is preserved, as winds keep the sea from the stagnation of a long calm.
 Texts:
   The Philosophy of Right
     §324
 Citations:
+  This determination whereby the rights and interests of individuals are posited as a vanishing moment, is at the same time something positive, i.e. the positing not of their contingent, changing individuality, but of their individuality in and for itself.
+    — The Philosophy of Right §324 (tr. Knox, rev. Houlgate)
+  [J]ust as the blowing of the winds preserves the sea from the stagnation which would be the result of a prolonged calm, so also stagnation in peoples would be the product of prolonged, let alone perpetual, peace.’
+    — The Philosophy of Right §324, Remark (tr. Knox, rev. Houlgate)

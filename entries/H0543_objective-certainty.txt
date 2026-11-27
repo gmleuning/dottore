@@ -30,8 +30,12 @@ Phr:
   proven fact
 
 # ---- Hegel ----
-Def: Certainty that has found itself confirmed in the object.
+Def: Objective certainty is the other side of reason's assurance: that the determinations of self-consciousness are objective, determinations of the essence of things. From here reason knows, positing its difference within itself, as rational self-consciousness. Being spiritual, an activity of spirit, it has the determination that what spirit is, things are also. It presupposes that objects, things in themselves, are determinations of reason, which is what spirit is itself.
 Texts:
-  The Philosophy of Mind
-    §§438–439
+  The Berlin Phenomenology
+    §439
 Citations:
+  Since it is spiritual, the activity of spirit, we have self-consciousness with the determination that what spirit is, things are also.
+    — The Berlin Phenomenology §439 (tr. Petry)
+  [T]his presupposes reason i.e. that general objects, things in themselves, are determinations of reason, which is what it is itself, - that things are true in that they have being for it.
+    — The Berlin Phenomenology §439 (tr. Petry)

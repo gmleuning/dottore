@@ -48,8 +48,12 @@ Phr:
   giovane santo diavolo vecchio [It.]
 
 # ---- Hegel ----
-Def: God in the form of feeling, the subjective certainty of the heart, which is formal and can contain anything.
+Def: Feeling is the subjective form of the certainty of God: in it a content is my own, as this particular individual, and I am aware of myself along with it. What is in the heart belongs to one's inmost being. But feeling as such is neither good nor bad, true nor false; any content can be in it, so that it cannot by itself justify what it contains.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827) › The Knowledge of God › Feeling
 Citations:
+  [P]ossession in feeling is nothing else but the fact that a content is my own, and indeed is my own as this particular individual—the fact that it belongs to me and is for me, that I have and know it in its determinateness and that at the same time I know myself in this determinateness.
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Feeling (tr. Brown, Hodgson and Stewart)
+  We cannot say of feeling that it is good or not good, that it is correct and genuine on the one hand, or false or spurious on the other. This indeterminateness is feeling [per se].
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Feeling (tr. Brown, Hodgson and Stewart)

@@ -24,8 +24,12 @@ Phr:
   learn, learn, and learn again, uchit'sya, uchit'sya i yeshcho raz uchit'sya [Rus.] [Lenin, 1899/1924]
 
 # ---- Hegel ----
-Def: As universal family, civil society has the duty and right to oversee education, even against the parents' will: to make them send their children to school and have them vaccinated (§239).
+Def: The provision of education is civil society's right and duty, as a universal family, to superintend and influence education insofar as it bears on the child's capacity to become a member of society. Society's right here is paramount over the preferences of parents: it may compel them to send their children to school and to have them vaccinated.
 Texts:
   The Philosophy of Right
     §239
 Citations:
+  In its character as a universal family, civil society has the right and duty of superintending and influencing education, inasmuch as education bears upon the child’s capacity to become a member of society.
+    — The Philosophy of Right §239 (tr. Knox, rev. Houlgate)
+  [T]o compel parents to send their children to school, to have them vaccinated
+    — The Philosophy of Right §239, Addition (tr. Knox, rev. Houlgate)

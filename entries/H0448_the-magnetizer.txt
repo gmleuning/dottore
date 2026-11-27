@@ -27,8 +27,12 @@ Phr:
   to have a hold over
 
 # ---- Hegel ----
-Def: The magnetizer, who stands as the genius of the patient, whose feeling becomes the patient's.
+Def: The magnetizer is the subject whose power brings another into the magnetic state and who becomes that person's current subjective soul, their genius, able even to fill them with content. In the magical relationship that results, one subject acts on an individual inferior in freedom and independence of will. The patient, a formal self without actuality of its own, has the sensations and ideas of the magnetizer, seeing, tasting and hearing in that other, so that there is only one subjectivity of consciousness between them.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  In this magical relationship, the main point is that a subject acts on an individual subordinate to him in freedom and independence of will.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  In this substantial identity there is only one subjectivity of consciousness, and the individuality of the patient is indeed a being-for-self, but it is an empty being-for-self, not present to itself, not actual
+    — Encyclopedia §406, Remark (tr. Wallace and Miller, rev. Inwood)

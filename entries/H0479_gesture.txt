@@ -48,8 +48,12 @@ Phr:
   tears such as angels weep [Paradise Lost]
 
 # ---- Hegel ----
-Def: The movements of the hand and body that express a meaning.
+Def: Gesture, in the narrower sense, is the mental expression that proceeds from the rest of the body, as the play of features proceeds from the face. The arm and especially the hand, the tool of tools, are suited to endlessly many expressions of the will. The ground of the symbolic meaning of particular gestures, as of nodding or shaking the head, is not always easy to discover. Cultivated people need fewer gestures, since in speech they have the worthiest and most fitting means of expressing themselves.
 Texts:
   The Philosophy of Mind
     §411
 Citations:
+  The human hand, this tool of tools, is suited to serve an endless multitude of expressions of the will.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)
+  The cultured individual does not need to be lavish with looks and gestures; he possesses in talk the worthiest and most suitable means of expressing himself
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)

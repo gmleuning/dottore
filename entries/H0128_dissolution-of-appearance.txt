@@ -31,8 +31,12 @@ Phr:
   the curtain falls
 
 # ---- Hegel ----
-Def: The two worlds each proving to be the essence of the other, so that appearance passes into essential relation.
+Def: The dissolution of appearance is the collapse of the difference between the two worlds. Each is the inversion of the other, the north pole of one being the south pole of the other, and what is positive here negative there. Precisely in this opposition their difference disappears: the world that was to be in itself is the world of appearance, and the latter is essential within. Each is in itself the totality of both, and this unity is essential relation.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Appearance › Appearance › The dissolution of appearance
 Citations:
+  In fact it is precisely in this opposition of the two worlds that their difference has disappeared, and what was supposed to be the world existing in and for itself is itself the world of appearance and this last, conversely, the world essential within.
+    — The Science of Logic, Appearance › The dissolution of appearance (tr. di Giovanni)
+  The north pole in the world of appearance is the south pole in and for itself, and vice-versa
+    — The Science of Logic, Appearance › The dissolution of appearance (tr. di Giovanni)

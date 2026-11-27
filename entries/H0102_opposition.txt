@@ -46,8 +46,12 @@ Phr:
   Thesis, antithesis, synthesis [Marx]
 
 # ---- Hegel ----
-Def: Difference in which each side has its other within itself, as positive and negative.
+Def: Opposition is the determinate reflection, difference, brought to completion: the unity of identity and diversity, whose moments are diverse within one identity and so opposed. Each side contains its relation to its non-being and is the whole only through it. Likeness reflected into itself and containing the reference to unlikeness is the positive; unlikeness containing the reference to likeness is the negative. Each has the other in it, and each becomes a self-subsisting side of the opposition.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The determinations of reflection › Difference › Opposition
 Citations:
+  In opposition, the determinate reflection, difference, is brought to completion. Opposition is the unity of identity and diversity; its moments are diverse in one identity, and so they are opposites.
+    — The Science of Logic, Difference › Opposition (tr. di Giovanni)
+  This self-likeness, reflected into itself and containing the reference to unlikeness within it, is the positive; and the unlikeness that contains within itself the reference to its non-being, to likeness, is the negative.
+    — The Science of Logic, Difference › Opposition (tr. di Giovanni)

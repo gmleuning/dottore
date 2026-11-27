@@ -36,8 +36,12 @@ Phr:
   a chain of events
 
 # ---- Hegel ----
-Def: Causality between finite substances: the cause is itself an effect of another, the spurious infinite of causes.
+Def: The determinate relation of causality is causality with a content, and therefore real and finite. Since one identical content comes up once as cause and once as effect, the causal statement is analytic: there is nothing in the cause that is not in the effect, as rain and wetness are the same water. The difference of form is applied by an external reflection of the understanding, and the finite chain of causes and effects runs on to infinity.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute relation › The relation of causality › The determinate relation of causality
 Citations:
+  The same content is being repeated; there is nothing else in the cause which is not in the effect.
+    — The Science of Logic, The relation of causality › The determinate relation of causality (tr. di Giovanni)
+  Because of this identity of content, this causality is an analytic proposition.
+    — The Science of Logic, The relation of causality › The determinate relation of causality (tr. di Giovanni)

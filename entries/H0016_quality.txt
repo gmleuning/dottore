@@ -42,8 +42,12 @@ Phr:
   for real
 
 # ---- Hegel ----
-Def: Determinateness as immediately existing, one with being; as reality and as negation, since every determination is a negation.
+Def: Quality is determinateness taken by itself as existing immediately: totally simple, not yet detached from being, so that nothing further can be said of it as such. Since existence contains nothing as well as being, quality is posited in both determinations. As existent it is reality; affected by a negating it is negation, still a quality but one that counts as a lack and is further determined as limit or restriction. Both are existence, so reality conceals its negation, and negation is not mere nothing but a quality determined with non-being.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Existence as such › Quality
 Citations:
+  Determinateness thus isolated by itself, as existent determinateness, is quality – something totally simple, immediate.
+    — The Science of Logic, Existence as such › Quality (tr. di Giovanni)
+  Quality, in the distinct value of existent, is reality; when affected by a negating, it is negation in general, still a quality but one that counts as a lack and is further determined as limit, restriction. Both are an existence, but in reality, as quality with the accent on being an existent, that it is determinateness and hence also negation is concealed; reality only has, therefore, the value of something positive from which negating, restriction, lack, are excluded. Negation, for its part, taken as mere lack, would be what nothing is; but it is an existence, a quality, only determined with a non-being.
+    — The Science of Logic, Existence as such › Quality (tr. di Giovanni)

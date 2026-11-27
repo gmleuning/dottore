@@ -22,8 +22,12 @@ Phr:
   in dieser Weise hängt die Kunst und ihre bestimmte Productionsart mit der bestimmten Nationalität der Völker zusammen [Ger.] [Hegel, Aesthetics]
 
 # ---- Hegel ----
-Def: Genius as Naturgabe: a natural gift which Hegel ties to the particular nationality of peoples, so that a people's art and its manner of production go together, as with the improvisers native to Italy.
+Def: Culturation names the tie between artistic gift and a people's nature: because artistic creation includes immediacy and naturalness, the arts are more or less national. Italians have song and melody almost by nature, the Greeks perfected epic and sculpture, the Romans transplanted art from Greece. Poetry spreads most widely, yet folk song is deeply national, and Italian improvisers show marvellous talent.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  Similarly the different arts too are more or less national, connected with the natural side of a people.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  In this way art and its specific mode of production hangs together with the specific nationality of peoples.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

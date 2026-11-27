@@ -38,8 +38,12 @@ Phr:
   dogma and doubt
 
 # ---- Hegel ----
-Def: Dogmatism and skepticism, the schools that sought a criterion of truth.
+Def: Stoicism and Epicureanism, with Skepticism as their contrary, seek a criterion, a universal principle by which everything is to be determined and judged, and set up the figure of the sage who conforms to it. Their shared goal is freedom and independence of spirit, an imperturbability that has ties to nothing and is affected by nothing.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Dogmatic and Skeptical Philosophy
 Citations:
+  One of them is the criterion—a principle in accord with which everything must be determined and everything can be judged
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Dogmatic and Skeptical Philosophy (tr. Brown)
+  The shared standpoint of all these philosophies is that spirit's satisfaction consists only in indifference
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Dogmatic and Skeptical Philosophy (tr. Brown)

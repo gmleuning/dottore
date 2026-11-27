@@ -51,8 +51,12 @@ Phr:
   virtue itself 'scapes not calumnious strokes [Hamlet]
 
 # ---- Hegel ----
-Def: The language of disruption, the witty, torn consciousness that inverts all values and is the truth of culture.
+Def: The language of disruption is the speech of the spirit for which every fixed moment inverts into its opposite: power into powerlessness, good into bad, noble into base. It is witty, destructive judgement, which dissolves all that should count as essence, like the speech of the musician who jumbles every kind of air. Deceiving itself and others, it is for that reason the greatest truth in the shameless statement of the deceit, as against the honest consciousness that holds each moment fixed.
 Texts:
   The Phenomenology of Spirit
     ¶¶519–523
 Citations:
+  The content of spirit’s speech about itself and its speech concerning itself thus inverts all concepts and realities. It is thus the universal deception of itself and others, and, for that very reason, the greatest truth is the shamelessness in stating this deceit.
+    — The Phenomenology of Spirit ¶521 (tr. Pinkard)
+  The honest consciousness takes each moment to be a lasting essentiality and is the uncultured thoughtlessness which does not know that it is just as much the inverse.
+    — The Phenomenology of Spirit ¶520 (tr. Pinkard)

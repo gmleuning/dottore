@@ -8,8 +8,12 @@ N:
   religious lyric; sacred poetry, devotional verse, religious poetry
 
 # ---- Hegel ----
-Def: The religious lyric, in which the self raises itself to the divine and loses itself in it.
+Def: Religious lyric is the aspect in which the poet rises above the private character of personal ideas and feelings and sinks into universal contemplation of God or the gods, whose greatness and power pervade the whole inner life and make individuality disappear. Hymns, dithyrambs, paeans and psalms belong to it, developed differently by different peoples.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  In one aspect of lyric, the poet transcends the particular and private character of his ideas and feelings and immerses himself in the universal contemplation of God or the gods whose greatness and power pervades the entire inner life and makes the individuality of the poet disappear.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  Hymns, dithyrambs, paeans, psalms belong to this class which again is developed in different ways by different peoples.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

@@ -41,8 +41,10 @@ Phr:
   un averti en vaut deux [Fr.]
 
 # ---- Hegel ----
-Def: Public authority's oversight of the contingent harm that free action may do to others, the prevention of wrong and the pursuit of crime (§232-234).
+Def: Criminal justice here is the public authority's task of preventing crime or bringing it to justice, crime being contingency as the arbitrary willing of evil. Beyond crime, lawful actions and the private use of property also affect others, so the authority must oversee the possibility of injury, which has no intrinsic boundary.
 Texts:
   The Philosophy of Right
     §§232–233
 Citations:
+  Crime is contingency as the arbitrary willing of evil, and this is what the universal authority must prevent or bring to justice.
+    — The Philosophy of Right §232 (tr. Knox, rev. Houlgate)

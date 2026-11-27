@@ -15,8 +15,12 @@ Phr:
   die ächtere Manier [Ger.] [Hegel, Aesthetics]
 
 # ---- Hegel ----
-Def: Die ächtere Manier: a manner that lifts itself out of narrow particularity and holds to the nature of the matter in a more general way, as Goethe and Horace end serious beginnings with a cheerful turn.
+Def: Authentic or more genuine manner frees itself from restricted idiosyncrasy and broadens so that special modes of treatment cannot harden into habit, the artist holding in a general way to the nature of the things treated. Goethe's knack of ending even serious pieces with a happy turn, and Horace's way in the Epistles, are manner of this wider kind, which paves the way to style.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
 Citations:
+  Thus the more genuine manner must rid itself of this restricted idiosyncrasy, and so broaden itself within that these specialized modes of treatment cannot mortify into a pure matter of habit; for the genuine artist clings in a more general way to the nature of the things in hand and can make his own this more general mode of treatment in the way that its essence implies.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)
+  This way of treating the thing is indeed manner too and it belongs to the subject's handling of his topic, but to a subjective procedure which is of a more general kind and so within the intended kind of representation works all the time in a necessary way.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)

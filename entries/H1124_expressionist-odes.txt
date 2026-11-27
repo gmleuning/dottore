@@ -11,8 +11,12 @@ Adj:
   Horatian
 
 # ---- Hegel ----
-Def: The Horatian ode, where the subject is mastered less than the poet's own mood and reflection is expressed.
+Def: In odes of this second kind the subject need not be weighty: the poet becomes so important to himself that, taking even slight things, trifling occasions and accidents, as matter, he confers on them dignity and nobility or higher interest, with no struggle against the topic's importance. Much in Horace's odes is of this sort, as in Klopstock.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  But, secondly, the subject-matter need not be really important or of intrinsic value; on the contrary, the poet becomes of such importance to himself in his individuality that now, because he takes even rather insignificant things as his subject, he confers on them dignity and nobility, or, at the very least, a higher interest.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  In this case the poet has no struggle with the importance of his topic; on the contrary he elevates what is inherently unimportant in external occasions, trifling accidents, etc., to the height on which he senses and visualizes himself.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

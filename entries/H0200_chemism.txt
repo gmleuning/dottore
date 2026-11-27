@@ -33,8 +33,12 @@ Phr:
   to hit it off
 
 # ---- Hegel ----
-Def: Objects whose determinateness is their relation to their other, which they strive to complete.
+Def: Chemism is the moment of judgement in objectivity, of difference become objective, and of process. Unlike mechanism it begins from objects whose determinateness and relation to others belong to their very nature. The name is not confined to chemistry proper: meteorological processes fall under it, as do the sex relation among living things and, as their formal basis, the spiritual relations of love and friendship.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Chemism
 Citations:
+  In objectivity as a whole chemism constitutes the moment of judgment, of the difference that has become objective, and of process.
+    — The Science of Logic, Chemism (tr. di Giovanni)
+  In animate things, the sex relation falls under this schema, and the schema also constitutes the formal basis for the spiritual relations of love, friendship, and the like.
+    — The Science of Logic, Chemism (tr. di Giovanni)

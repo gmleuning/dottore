@@ -29,8 +29,12 @@ Phr:
   eyes without pupils
 
 # ---- Hegel ----
-Def: The exclusion of fleeting expression; the sculptural figure has no glance, no momentary mien.
+Def: Exclusion of mien keeps sculpture free of the accidents of personality: the artist may not present facial expression that shows the subject's own inner life and momentary feeling, such as pride, envy or scorn, nor the fleeting smile or flash of an eye. Those changes suit painting; sculpture must reproduce the permanent features of spiritual expression in face and posture.
 Texts:
   Aesthetics
     Sculpture › The Principle of Sculpture Proper › The Beautiful Sculptural Form › Exclusion of Mien
 Citations:
+  Consequently the artist is forbidden, so far as the face is concerned, to propose to go as far as presenting the mien [or a facial expression].
+    — Aesthetics, The Beautiful Sculptural Form › Exclusion of Mien (tr. Knox)
+  Changes of this character, which are a suitable subject for painting, sculpture has to waive.
+    — Aesthetics, The Beautiful Sculptural Form › Exclusion of Mien (tr. Knox)

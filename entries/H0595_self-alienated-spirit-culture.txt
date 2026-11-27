@@ -51,8 +51,12 @@ Phr:
   chaque pays a sa guise [Fr.]
 
 # ---- Hegel ----
-Def: Spirit estranged from itself, the world of culture, where the self must give up its natural being to count as anything.
+Def: Self-alienated spirit, culture, is the world in which substance is spirit as the unity of self and essence, but each means to the other an alienation. Consciousness faces an objective actuality that exists freely on its own, which actual self-consciousness enters by relinquishing itself, and over against this actual world stands pure consciousness and a beyond. It unfolds as the world of culture and the realm of faith and pure insight, then as Enlightenment, and ends in absolute freedom.
 Texts:
   The Phenomenology of Spirit
     ¶¶484–595
 Citations:
+  It is in this manner that substance is spirit, or the self-conscious unity of the self and essence. However, for each other, what each of them means is also alienation from the other.
+    — The Phenomenology of Spirit ¶484 (tr. Pinkard)
+  On the one hand, through its self-relinquishing, actual self-consciousness makes a transition into the actual world, which then passes over again back into actual self-consciousness.
+    — The Phenomenology of Spirit ¶484 (tr. Pinkard)

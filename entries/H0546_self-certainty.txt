@@ -27,8 +27,12 @@ Phr:
   trust thyself [Emerson]
 
 # ---- Hegel ----
-Def: The self's assurance of itself as the knower.
+Def: Self-certainty is the side of substantial knowledge that belongs to the one who knows. The form of reason distinguishes the self-knowing subject from its object, but because this takes place within the one substance, the knower is certain that the object is not truly alien and that its determination is what spirit is in itself, namely rational. Spirit, being implicitly reason, is reason relating itself to reason, and the certainty of reason consists in this relating to what is rational.
 Texts:
-  The Philosophy of Mind
+  The Berlin Phenomenology
     §439
 Citations:
+  This form distinguishes the self-knowing subject and the general object, but since this takes place within the substance, there is the certainty on the side of that which knows, that the general object is not truly alien to it, and that its determination is what spirit is implicitly i.e. rational.
+    — The Berlin Phenomenology §439 (tr. Petry)
+  Since spirit is implicitly reason, it is reason relating itself to reason, the certainty of reason consisting of its relating itself to what is rational.
+    — The Berlin Phenomenology §439 (tr. Petry)

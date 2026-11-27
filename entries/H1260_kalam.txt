@@ -16,8 +16,14 @@ Phr:
   The Incoherence of the Philosophers, Tahāfut al-Falāsifa [Ar.] [al-Ghazālī]
 
 # ---- Hegel ----
-Def: Die Philosophie der Medabberim (the Mutakallimūn), reported by Maimonides: atoms and accidents created anew each moment, all necessary connection denied.
+Def: Maimonides names among the Arabs the school of the medabberim, or speakers. They accepted atoms and the void, and held that no accident endures for two moments, God creating another in its place at every instant. Hegel finds here the complete dissolution of all interdependence and rationality, the Oriental standpoint of the one substance brought to determinate consciousness.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › The Idea of Christianity › Arabic Philosophy
 Citations:
+  They accepted the atoms and the void [as absolute], so that creation is nothing but the joining of atoms and perishing is nothing but their separation.
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › Arabic Philosophy (tr. Brown)
+  [S]ubstance has many accidents but that no accident can endure for two moments
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › Arabic Philosophy (tr. Brown)
+  All we can discern here is the complete dissolution of all interdependence, of everything that pertains to rationality.
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › Arabic Philosophy (tr. Brown)

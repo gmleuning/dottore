@@ -30,8 +30,12 @@ Phr:
   to prefer one to another
 
 # ---- Hegel ----
-Def: The neutral bodies entering into new combinations according to the preference of their affinities.
+Def: Elective affinity arises when neutral bodies, brought back into mutual relation through water, form other particular neutralities by breaking up those already present, so that neutrality and the differences of the chemically active bodies are particularized. Taken alone it is only an abstract relation of acid to base, which the concrete physical properties of bodies modify.
 Texts:
   The Philosophy of Nature
     §333
 Citations:
+  Here we have the particularization of general neutrality, and with it also the particularization of the differences of the chemically active bodies in their mutual opposition.
+    — Encyclopedia §333 (tr. Miller)
+  Elective affinity itself is, however, only an abstract relation of acid to base.
+    — Encyclopedia §333, Remark (tr. Miller)

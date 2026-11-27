@@ -26,8 +26,12 @@ Phr:
   in the beginning was rhythm [attrib. Hans von Bülow]
 
 # ---- Hegel ----
-Def: Der Rhythmus: the animation of the bar by accents, the free movement that enlivens the abstract rule of the measure.
+Def: Rhythm alone properly animates time and bar, asserting the essential divisions within abundant variation. Accent laid on certain parts of the bar gives each kind its own rhythm; in accompaniment it must not clash with poetic metre; and the melody's animated rhythm is free from the bar's strict return, its sharpest counter-thrust in syncopation, so that it avoids pedantry and monotony.
 Texts:
   Aesthetics
     Music › Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm
 Citations:
+  This is brought about by means of rhythm which alone brings proper animation to the time and the bar.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm (tr. Knox)
+  What may be demanded in this connection is, in brief, freedom from the pedantry of metre and the barbarism of a uniform rhythm.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm (tr. Knox)

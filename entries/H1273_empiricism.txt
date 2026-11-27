@@ -25,8 +25,10 @@ Phr:
   experience is the teacher
 
 # ---- Hegel ----
-Def: Empiricism, which takes experience as the source of knowledge.
+Def: The philosophy that rests knowledge on experience, still that of the English and the French, holds that what is true, what we know, rests upon observation and its analysis according to general characteristics drawn from it. This is a metaphysical empiricism, the procedure of the ordinary sciences, opposed in method to Spinoza, who begins from definitions.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › Critique and Second Period of Metaphysics: Locke, Leibniz, and Others
 Citations:
+  This is a metaphysical sort of empiricism, and it is the procedure in the ordinary sciences.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Critique and Second Period of Metaphysics: Locke, Leibniz, and Others (tr. Brown)

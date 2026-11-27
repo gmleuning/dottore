@@ -190,8 +190,12 @@ Phr:
   onor di bocca assai giova e poco costa [It.] [Garrick]
 
 # ---- Hegel ----
-Def: The will in its immediate form, which finds itself determined as a feeling of agreeable and disagreeable.
+Def: Practical feeling is practical mind at first, which has its self-determination in an immediate way and finds itself an individuality determined in its inner nature. It has the content of reason, but as individual, and therefore natural, contingent and subjective, so that it may be rational or bad. To retreat to feeling against thought-out right and duty is suspect, since what feeling adds is only particular subjectivity, vanity and wilfulness.
 Texts:
   The Philosophy of Mind
     §§471–472
 Citations:
+  The practical mind at first has its self-determination within itself in an immediate way, and therefore formally, so that it finds itself as an individuality determined in its internal nature. It is thus practical feeling.
+    — Encyclopedia §471 (tr. Wallace and Miller, rev. Inwood)
+  On the other hand, it is suspect, and in fact far worse, to stick to feeling and heart against thought out rationality, right, duty, law, because what more there is in feeling than in rationality is only particular subjectivity, vanity and wilfulness.
+    — Encyclopedia §471, Remark (tr. Wallace and Miller, rev. Inwood)

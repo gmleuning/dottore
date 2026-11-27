@@ -26,8 +26,12 @@ Phr:
   what it is made of
 
 # ---- Hegel ----
-Def: The content that sense ascribes to its thing.
+Def: The content of the thing is the particular sensory filling, smell, taste, colour and the rest, which as such belongs to sensation. It is the material of consciousness, the substantial and qualitative element that the soul is and finds within itself. What marks sensory consciousness is not that this content comes through the senses but that the object receives no thought determination beyond being and independence, into which the manifold content is concentrated as one unit.
 Texts:
   The Philosophy of Mind
     §418
 Citations:
+  That wealth of filling is constituted by determinations of feeling; they are the material of consciousness (§414), the substantial and qualitative element, that the soul, in the anthropological sphere, is and finds within itself
+    — Encyclopedia §418, Remark (tr. Wallace and Miller, rev. Inwood)
+  The particular content of the sensory, for example, smell, taste, colour, etc., belongs, as we saw in §401, to sensation.
+    — Encyclopedia §418, Addition (tr. Wallace and Miller, rev. Inwood)

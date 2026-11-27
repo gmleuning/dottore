@@ -32,8 +32,12 @@ Phr:
   balance and grouping
 
 # ---- Hegel ----
-Def: The arrangement of the figures in the painting into a unified situation.
+Def: Composition is the arrangement of figures and natural objects, by juxtaposition and grouping, into a whole complete in itself that presents a definite situation. Its chief requirement is the happy choice of a situation suited to painting, from a bunch of flowers to great public events, and the painter must use background, light and incidental figures to bring out the motives within it.
 Texts:
   Aesthetics
     Painting › Particular Characteristics of Painting › Conception, Composition, and Characterization
 Citations:
+  The chief requirement which we may place at the top is the happy choice of a situation suitable for painting.
+    — Aesthetics, Particular Characteristics of Painting › Conception, Composition, and Characterization (tr. Knox)
+  This whole visible mass of material he must, so far as is feasible, use for presenting the motives implicit in the situation, and so he must be able to bring what is external into relation with these motives so that it no longer remains insignificant.
+    — Aesthetics, Particular Characteristics of Painting › Conception, Composition, and Characterization (tr. Knox)

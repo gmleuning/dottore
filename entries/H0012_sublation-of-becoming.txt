@@ -46,8 +46,12 @@ Phr:
   dies Resultat ist das Verschwundensein, aber nicht als Nichts [Ger.] [Hegel, Science of Logic]
 
 # ---- Hegel ----
-Def: The vanishing of the vanishing itself: becoming collapses into a quiescent unity, a vanishedness that is not nothing but the unity of being and nothing become quiescent simplicity; to sublate (aufheben) is at once to negate and to preserve.
+Def: The sublation of becoming is the collapse of the unrest of becoming into a quiet result. Becoming rests on the distinction of being and nothing, yet what it unites is opposed to itself, and such a union destroys itself. When being and nothing vanish, the vanishing itself vanishes. What results is not nothing, which would only be a relapse into one of the sublated moments, but the unity of being and nothing become quiescent simplicity. As being that is now determined by this whole, it is existence.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Becoming › Sublation of becoming
 Citations:
+  Their vanishing is therefore the vanishing of becoming, or the vanishing of the vanishing itself. Becoming is a ceaseless unrest that collapses into a quiescent result.
+    — The Science of Logic, Becoming › Sublation of becoming (tr. di Giovanni)
+  This result is a vanishedness, but it is not nothing; as such, it would be only a relapse into one of the already sublated determinations and not the result of nothing and of being. It is the unity of being and nothing that has become quiescent simplicity.
+    — The Science of Logic, Becoming › Sublation of becoming (tr. di Giovanni)

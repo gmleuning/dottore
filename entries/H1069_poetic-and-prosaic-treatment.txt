@@ -33,8 +33,12 @@ Phr:
   deadly dull and boring, DDB
 
 # ---- Hegel ----
-Def: The poetic grasp, which holds the whole together, and the prosaic, which follows the understanding.
+Def: Poetic treatment takes as its proper matter spiritual interests, the whole realm of human ideas, deeds and fates, with external nature entering only as human environment. Poetry is older than elaborated prose, the original presentation of truth, which does not yet separate the universal from its living existence or oppose law to appearance and end to means, as the understanding does.
 Texts:
   Aesthetics
     Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art › Poetic and Prosaic Treatment
 Citations:
+  The subject-matter really corresponding to poetry is the infinite wealth of the spirit.
+    — Aesthetics, The Poetic Work of Art as Distinguished from a Prose Work of Art › Poetic and Prosaic Treatment (tr. Knox)
+  It is the original presentation of the truth, a knowing which does not yet separate the universal from its living existence in the individual, which does not yet oppose law to appearance, end to means, and then relate them together again by abstract reasoning
+    — Aesthetics, The Poetic Work of Art as Distinguished from a Prose Work of Art › Poetic and Prosaic Treatment (tr. Knox)

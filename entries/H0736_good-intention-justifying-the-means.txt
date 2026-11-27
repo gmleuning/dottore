@@ -38,8 +38,10 @@ Phr:
   for a good cause
 
 # ---- Hegel ----
-Def: The pretence that a good intention justifies an evil means.
+Def: The good intention justifying the means is the maxim that the end justifies the means. Taken generally it is trivial, since a just end justifies the means and an unjust end does not. In use it means that a good intention may make right an action that is in itself a crime.
 Texts:
   The Philosophy of Right
     §140
 Citations:
+  To this context there also belongs the notorious maxim: ‘The end justifies the means.’ In itself and prima facie this expression is trivial and vacuous. Quite so, one may retort in terms equally general, a just end of course justifies the means, while an unjust end does not.
+    — The Philosophy of Right §140, Remark (tr. Knox, rev. Houlgate)

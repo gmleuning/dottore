@@ -25,8 +25,12 @@ F:
   Latin: intellectus agens [the agent intellect] [Avicenna, Averroes]
 
 # ---- Hegel ----
-Def: The philosophy of the Arabs, which preserved Aristotle and transmitted him to Europe.
+Def: The Arabs soon turned to the sciences and became acquainted with Greek philosophy chiefly through the Syrians. Their philosophy constitutes no proper principle or stage of its own in the development of philosophy; they chiefly translated Aristotle and commented on him. Historically it is important as a main channel through which Aristotle became known in the West.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › The Idea of Christianity › Arabic Philosophy
 Citations:
+  We cannot say that Arabic philosophy involves its own proper principle and stage in the development of philosophy. In the main the Arabs took up and translated Aristotle's logical writings in particular.
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › Arabic Philosophy (tr. Brown)
+  So translation from Arabic is one of the main channels through which the writings and philosophy of Aristotle became known in the West.
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › Arabic Philosophy (tr. Brown)

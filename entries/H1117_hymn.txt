@@ -15,8 +15,12 @@ Adj:
   hymnic, hymnal, paeanic
 
 # ---- Hegel ----
-Def: The hymn, in which the self, raised to the divine, sings its praise with self-forgetting objectivity.
+Def: The hymn is the religious lyric in which the poet concentrates the sphere of the divine into one objective picture and, having completed it in inner contemplation, sets it before others to praise the power and glory of the god celebrated. The Homeric Hymns give situations and stories of the god, mostly mythological and illustrated solidly as in epic.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  The poet who rises above the restrictedness of his own inner and outer circumstances and situations and the ideas connected with these, and takes as his subject-matter what appears to him and his nation to be absolute and divine, may (i) concentrate the sphere of the divine into one objective picture, and then this picture, sketched and completed for his inner contemplation, he may place before others to the praise of the power and glory of the god so celebrated.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  These stories are principally mythological, not treated merely symbolically at all, but given solid illustration, as in epic.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

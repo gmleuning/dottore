@@ -36,8 +36,12 @@ Phr:
   to unite into
 
 # ---- Hegel ----
-Def: The chemical process proper, the union of differents into a new totality through a middle.
+Def: The real process of combination runs through stages in which differentiated bodies stand in sheer opposition, each essentially only in connection with its other, and by uniting with it produce a neutral body, salt. In the process in its totality these neutral bodies, returning into relation through water, form the chemical process in complete reality, elective affinity.
 Texts:
   The Philosophy of Nature
     §§330–333
 Citations:
+  Body thus differentiated is in a state of sheer opposition to its other; this is its quality, so that it essentially is, only in its connection with its other.
+    — Encyclopedia §332 (tr. Miller)
+  These neutral bodies, returning into mutual relation, form the chemical process in its complete reality, for the sides of the process are such real bodies.
+    — Encyclopedia §333 (tr. Miller)

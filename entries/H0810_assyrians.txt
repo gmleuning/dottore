@@ -16,8 +16,12 @@ Phr:
   the Assyrian came down like the wolf on the fold [Byron]
 
 # ---- Hegel ----
-Def: Die Assyrer, whose empire with Nineveh is among the peoples the Persian empire gathered into one.
+Def: The people of Assyria proper, in northern Mesopotamia, whose empire consisted in effect of a single city such as Nineveh. Founded according to tradition by Ninus, who brought Babylonia, Media and Bactriana under his sway, it ended when the satraps rose against Sardanapalus, after which it broke up into Assyrian, Median and Babylonian realms.
 Texts:
   The Philosophy of History
     The Oriental World › Persia › The Assyrians, Babylonians, Medes, and Persians
 Citations:
+  In those times one City constituted the whole Empire,—Nineveh for example
+    — The Philosophy of History, Persia › The Assyrians, Babylonians, Medes, and Persians (tr. Sibree)
+  These cities arose in consequence of a twofold necessity,—on the one hand that of giving up the nomade life and pursuing agriculture, handicrafts and trade in a fixed abode; and on the other hand of gaining protection against the roving mountain peoples, and the predatory Arabs.
+    — The Philosophy of History, Persia › The Assyrians, Babylonians, Medes, and Persians (tr. Sibree)

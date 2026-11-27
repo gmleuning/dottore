@@ -40,8 +40,12 @@ Phr:
   si sic omnes! [Lat.]
 
 # ---- Hegel ----
-Def: God in the form of representation, image and story, the form in which religion is for everyone.
+Def: Representation is consciousness of something that one has before oneself as an object, and it is chiefly in this form that God is for human beings. It uses sensible images and figures, such as the begetting of a son, which are known to mean something other than what they immediately say, and developed allegories and stories. Its content is the same truth that philosophy puts into concepts.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827) › The Knowledge of God › Representation
 Citations:
+  In the first place, sensible forms or configurations belong to representation. We can distinguish them by the fact that we call them images [Bilder]. Those sensible forms for which the principal content or the principal mode of representation is taken from immediate intuition can in general be termed images.
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Representation (tr. Brown, Hodgson and Stewart)
+  [I]f we say that God has begotten a son, we know quite well that this is only an image; representation provides us with "son" and "begetter" from a familiar relationship, which, as we well know, is not meant in its immediacy, but is supposed to signify a different relationship, which is something like this one.
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Representation (tr. Brown, Hodgson and Stewart)

@@ -44,8 +44,12 @@ Phr:
   to turn back on itself
 
 # ---- Hegel ----
-Def: The shining of essence within itself: the movement from nothing to nothing and thereby back to itself.
+Def: Reflection is shine taken back from its immediacy: the movement of becoming and passing over that remains within itself, in which what is distinguished is only the negative in itself. It is a movement from nothing to nothing and so back to itself, with no substrate that goes through it and no first immediate from which it starts, since immediacy is this movement itself. It determines itself as positing reflection, as external reflection which starts from something presupposed, and as determining reflection.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Shine › Reflection
 Citations:
+  In essence, therefore, the becoming, the reflective movement of essence, is the movement from nothing to nothing and thereby back to itself.
+    — The Science of Logic, Shine › Reflection (tr. di Giovanni)
+  It is, first, positing reflection. Second, it takes as its starting point the presupposed immediate, and then it is external reflection. Third, it sublates however this presupposition, and because in the sublating of the presupposition it presupposes at the same time, it is determining reflection.
+    — The Science of Logic, Shine › Reflection (tr. di Giovanni)

@@ -76,8 +76,12 @@ Phr:
   non haec in faedera [Lat.]
 
 # ---- Hegel ----
-Def: The will reflecting on its drives and deciding among them, free and yet dependent on a given content.
+Def: Choice, or wilfulness, is the will standing between inclinations, joining itself to one particular urge and so giving itself determinate individuality. It is free as reflected into itself, the negativity of its immediate determination, yet its content is still that of urges, so that it is actual only as contingent. It actualizes itself in a particular that it counts as nothing, passing endlessly from one satisfaction to another.
 Texts:
   The Philosophy of Mind
     §§476–478
 Citations:
+  The will is at the standpoint of choosing between inclinations, and is wilfulness.
+    — Encyclopedia §477 (tr. Wallace and Miller, rev. Inwood)
+  It is a contradiction: it actualizes itself in a particularity, which is at the same time a nullity for it, and has a satisfaction in the particularity which it has at the same time left behind.
+    — Encyclopedia §478 (tr. Wallace and Miller, rev. Inwood)

@@ -17,8 +17,14 @@ Phr:
   live according to nature [Zeno]
 
 # ---- Hegel ----
-Def: The older Stoa of Zeno, Cleanthes and Chrysippus, whose criterion is the grasping representation and whose physics is the rational world-fire.
+Def: The founder of the Stoic school is Zeno of Citium, whose philosophy takes its name from the portico where he taught, who sought to unify philosophy into a whole, and who was known for the strictness of his ethics. Cleanthes was his successor in the Stoa, and Chrysippus, distinguished for logic and dialectic, spread the Stoic philosophy widely.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Stoicism › The Principal Stoics
 Citations:
+  From the portico his philosophy acquired the name 'Stoic philosophy'.
+    — Lectures on the History of Philosophy 1825–6, Stoicism › The Principal Stoics (tr. Brown)
+  Of the subsequent Stoic philosophers, Cleanthes in particular became renowned. He was a disciple of Zeno and was his successor in the Stoa.
+    — Lectures on the History of Philosophy 1825–6, Stoicism › The Principal Stoics (tr. Brown)
+  His distinction rested particularly on his logic and dialectic, which were so outstanding that people said if the gods needed dialectic they would use only that of Chrysippus.
+    — Lectures on the History of Philosophy 1825–6, Stoicism › The Principal Stoics (tr. Brown)

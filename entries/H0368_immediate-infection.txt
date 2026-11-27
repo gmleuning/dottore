@@ -27,8 +27,10 @@ Phr:
   to take in
 
 # ---- Hegel ----
-Def: The immediate infection of the food by the organism's own living power, which transforms it simply by taking it in.
+Def: Because the living being is the universal power over the outer nature opposed to it, assimilation is first immediate: the ingested material is at once fused with animality, infected with it and simply transformed. Only secondly is it mediated digestion, opposition of subject and outer world through the processes of animal water and animal fire.
 Texts:
   The Philosophy of Nature
     §364
 Citations:
+  Because the living being is the universal power over its outer [non-organic] nature which is opposed to it, assimilation is, first, the immediate fusion of the ingested material with animality, an infection with the latter and simple transformation
+    — Encyclopedia §364 (tr. Miller)

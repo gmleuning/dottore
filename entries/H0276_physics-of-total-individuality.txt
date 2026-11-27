@@ -27,8 +27,12 @@ Phr:
   to take shape
 
 # ---- Hegel ----
-Def: Bodies as total individuals, matter that forms itself from within: shape, specification and the chemical process.
+Def: The physics of total individuality treats bodies as individuals whose centre is no longer a point matter merely seeks but a subjectivity immanent in it, with form-determinations developed from within outwards. Such individuality is for itself yet conditioned, involving relation to another, and as it develops these are sublated until it becomes in principle life.
 Texts:
   The Philosophy of Nature
     §§308–336
 Citations:
+  Material individuality, being thus identical with itself in its development, is infinitely for itself, but is at the same time conditioned: it is the subjective totality, but at first only in immediate fashion.
+    — Encyclopedia §308 (tr. Miller)
+  Therefore, though infinitely for itself, it involves relationship to another
+    — Encyclopedia §308 (tr. Miller)

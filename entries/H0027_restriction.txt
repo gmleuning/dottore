@@ -30,8 +30,12 @@ Phr:
   the frog at the bottom of the well, jing di zhi wa [Chin.] [Zhuangzi]
 
 # ---- Hegel ----
-Def: Schranke, the limit as something's own negation, posited as a restriction that its in-itself already transcends.
+Def: Restriction is the limit of something posited as its own negative, a negative that is nonetheless essential to it. A bare limit lies quietly beside the existence of something; it becomes a restriction only when something transcends it in itself, referring to it from within as to something non-existent. Restriction is not anything alien or external to the finite: the finite's own determination is at the same time its restriction, and restriction is both itself and the ought, that in which the two are identical.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Finitude › Restriction and the ought
 Citations:
+  In order for the limit that is in every something to be a restriction, the something must at the same time transcend it in itself – must refer to it from within as to a non-existent.
+    — The Science of Logic, Finitude › Restriction and the ought (tr. di Giovanni)
+  The restriction of the finite is not anything external, but the finite’s own determination is rather also its restriction; and this restriction is both itself and the ought; it is that which is common to both, or rather that in which the two are identical.
+    — The Science of Logic, Finitude › Restriction and the ought (tr. di Giovanni)

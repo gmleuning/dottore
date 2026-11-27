@@ -28,8 +28,12 @@ Phr:
   fixed by tradition
 
 # ---- Hegel ----
-Def: Byzantine painting, traditional, rigid, without life.
+Def: Byzantine painting kept the practice of the Greeks, and with it a good technique in postures and drapery, but wholly abandoned nature and life: traditional facial expression, typical and stiff figures, architectural arrangement, no landscape, little modelling or perspective. Tied to settled types, painting and mosaic often sank into mere craft, though similar work spread to Italy and stirred an urge beyond it.
 Texts:
   Aesthetics
     Painting › Historical Development of Painting › Byzantine Painting
 Citations:
+  On the other hand, this art entirely forsook nature and life; in facial expressions it remained traditional, in figures and modes of expression typical and stiff
+    — Aesthetics, Historical Development of Painting › Byzantine Painting (tr. Knox)
+  The art of painting and mosaic often sank into a mere craft and therefore became more lifeless and spiritless
+    — Aesthetics, Historical Development of Painting › Byzantine Painting (tr. Knox)

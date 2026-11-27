@@ -37,8 +37,12 @@ Phr:
   mother and child
 
 # ---- Hegel ----
-Def: Religious love, the spirit's reconciliation felt in the heart, as in the Madonna.
+Def: Religious love is the one form that meets the demand that absolute spirit, reconciled with itself, be felt and contemplated in art: the depth of feeling of a spirit free and satisfied in itself. Its content is the return out of another into self; its essence is to give up self-consciousness, forget oneself in another self, and in that surrender possess oneself.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Religious Domain of Romantic Art › Religious Love
 Citations:
+  This depth of feeling, which alone corresponds to the essential nature of the spirit which is free and satisfied in itself, is love.
+    — Aesthetics, The Religious Domain of Romantic Art › Religious Love (tr. Knox)
+  The true essence of love consists in giving up the consciousness of oneself, forgetting oneself in another self, yet in this surrender and oblivion having and possessing oneself alone.
+    — Aesthetics, The Religious Domain of Romantic Art › Religious Love (tr. Knox)

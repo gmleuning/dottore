@@ -56,8 +56,12 @@ Phr:
   the thirst of reign and sweetness of a crown [Marlowe]
 
 # ---- Hegel ----
-Def: Each self's imperious demand to be recognized, setting its will over the other.
+Def: Imperiousness belongs to the master, who has in the bondsman and the bondsman's service the intuition that his single being-for-itself counts. He obtains this by the sublation of immediacy, but a sublation that takes place in another. Caught in his egotism, he sees in the servant only an immediate will, and is recognized merely formally by an unfree consciousness, so that he stands lower in worth than the one who serves.
 Texts:
   The Philosophy of Mind
     §435
 Citations:
+  Secondly, in line with the distinction between them, the master has in the bondsman and his service the intuition of the validity of his individual being-for-self; and he has it by means of the sublation of immediate being-for-self, a sublation, however, which occurs in another.
+    — Encyclopedia §435 (tr. Wallace and Miller, rev. Inwood)
+  Accordingly, the bondsman rises above the selfish individuality of his natural will, and to that extent stands higher, as regards his worth, than the master who, caught up in his egotism, beholds in the bondsman only his immediate will and is recognized by an unfree consciousness in a formal way.
+    — Encyclopedia §435, Addition (tr. Wallace and Miller, rev. Inwood)

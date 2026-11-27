@@ -44,8 +44,10 @@ Phr:
   to the pure all things are pure [Shelley]
 
 # ---- Hegel ----
-Def: Monogamy, which rests on the immediate surrender of personality to one another.
+Def: Monogamy belongs to marriage in essence, because what enters the relationship and surrenders itself is personality, immediate exclusive individuality. The truth and inwardness of marriage proceed only from the mutual, undivided surrender of this personality, in which each attains the right of being conscious of itself in the other.
 Texts:
   The Philosophy of Right
     §167
 Citations:
+  In essence marriage is monogamy because it is personality— immediate exclusive individuality—which enters into this relationship and surrenders itself to it; and hence the relationship’s truth and inwardness (i.e. the subjective form of its substantiality) proceeds only from the mutual, undivided, surrender of this personality.
+    — The Philosophy of Right §167 (tr. Knox, rev. Houlgate)

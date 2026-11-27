@@ -34,8 +34,12 @@ Phr:
   to put forth
 
 # ---- Hegel ----
-Def: The plant's formation as the immediate self-production, a growth that is an endless putting out of new individuals.
+Def: Formation as such begins with the germ, whose development is at first mere growth and increase. The germ is already the whole plant or tree in miniature, its parts fully formed and receiving only enlargement, formal repetition and hardening, so that becoming is a superficial movement; yet it is no less a qualitative articulation and shaping, and so an essential process.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  The development of the germ is at first mere growth, mere increase; it is already in itself the whole plant, the whole tree, etc., in miniature.
+    — Encyclopedia §346, Addition (tr. Miller)
+  The parts are already fully formed, receive only an enlargement, a formal repetition, a hardening, and so on.
+    — Encyclopedia §346, Addition (tr. Miller)

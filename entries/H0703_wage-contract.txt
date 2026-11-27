@@ -45,8 +45,10 @@ Phr:
   tibi seris tibi metis [Lat.]
 
 # ---- Hegel ----
-Def: The alienation of my productive capacity for a limited time.
+Def: The wage contract is the alienation of my productive capacity or services for a limited time or in some other restricted way, for wages. Only what is restricted can be alienated, since alienating the whole of my activity would make me another's property. Services that depend on character or gifts are paid not wages but an honorarium.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (3) Contract for wages (locatio operae)—alienation of my productive capacity or my services so far, that is, as these are alienable, the alienation being restricted in time or in some other way (see § 67).
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

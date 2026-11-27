@@ -37,8 +37,12 @@ Phr:
   a broken stick in water
 
 # ---- Hegel ----
-Def: Light passing between two media of different density, whose relation is seen in the displacement of the image.
+Def: Refraction concerns the first determinateness of the transparent medium, specific gravity, which shows itself only in comparison with a medium of different density. An image seen through water into air is displaced, as if the volume of air containing the water were contracted by the water's density. The stick that appears broken is a merely sensuous description; the physical meaning is far harder.
 Texts:
   The Philosophy of Nature
     §§318–319
 Citations:
+  The volume of water with the image in it is thus seen in the transparent air as if the same volume of air in which the volume of water is placed had the greater specific gravity, that of water, i.e. as if the volume of air were contracted into a correspondingly smaller space—so-called refraction.
+    — Encyclopedia §318 (tr. Miller)
+  The expression refraction of light is primarily a sensuous description, correct in so far as, e.g., a stick held in water, as is well known, appears to be broken
+    — Encyclopedia §318, Remark (tr. Miller)

@@ -22,8 +22,12 @@ Phr:
   at peace with oneself
 
 # ---- Hegel ----
-Def: The product of the process: the I closes together with itself and is for itself; its satisfaction shows that it needs another self-consciousness.
+Def: Identification is the result in which self-consciousness, having negated its own immediacy and the external object, raises itself above the self-centredness of destructive desire. It divides itself into a consciousness of a free object, in which the I knows itself as I but which is still outside it. It has filled the other with the I, turned it from something selfless into another self, and so brought itself face to face with itself as a distinct I.
 Texts:
   The Philosophy of Mind
     §429
 Citations:
+  The judgement or diremption of this self-consciousness is the consciousness of a free object, in which I has awareness of itself as I, but which is also still outside it.
+    — Encyclopedia §429 (tr. Wallace and Miller, rev. Inwood)
+  On the inner side, by contrast, or in accordance with the concept, self-consciousness has, by sublation of its subjectivity and of the external object, negated its own immediacy, the standpoint of desire, has posited itself with the determination of otherness towards its own self, has filled the Other with the /, has changed it from something selfless into a free, into a selfish object, into another I.
+    — Encyclopedia §429, Addition (tr. Wallace and Miller, rev. Inwood)

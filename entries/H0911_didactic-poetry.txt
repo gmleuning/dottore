@@ -31,8 +31,12 @@ Phr:
   teaching in verse
 
 # ---- Hegel ----
-Def: Didactic poetry, in which the meaning is given in prose and the art is only external ornament.
+Def: Didactic poetry arises when a meaning is grasped on its own account, already fully formed in prose, and merely embellished externally with artistic ornament for instruction. It is not among the proper forms of art, since art can concern only externals such as metre, diction and episodes that stand beside the content and do not penetrate it. Early Greek philosophy, Hesiod, Lucretius and Virgil offer examples.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art › Didactic Poetry
 Citations:
+  Didactic poetry is not to be numbered amongst the proper forms of art.
+    — Aesthetics, Disappearance of the Symbolic Form of Art › Didactic Poetry (tr. Knox)
+  What has become prosaic in itself is not to be reshaped poetically; it can only be dressed up
+    — Aesthetics, Disappearance of the Symbolic Form of Art › Didactic Poetry (tr. Knox)

@@ -87,8 +87,12 @@ Phr:
   soften the glare, merge with the dust, he guang tong chen [Chin.] [Laozi]
 
 # ---- Hegel ----
-Def: The existent universal self of matter, pure identity with itself, manifestation that is its own showing; light makes visible.
+Def: Light is the existent universal self of matter, pure identity with itself and the first, still quite abstract manifestation. It is absolutely weightless and inseparably self-external, a pure making manifest that cannot be split into rays or bundles. It touches only what is other to it, so that something becomes visible only where darkness, as surface and particular matter, limits it.
 Texts:
   The Philosophy of Nature
     §§275–278
 Citations:
+  Matter in its first qualified state is pure identity-with-self, unity of reflection-into-self, and hence the first, still quite abstract manifestation.
+    — Encyclopedia §275 (tr. Miller)
+  As the abstract self of matter, light is absolutely weightless (das absolut Leichte), and as matter, it is an infinite self-externality; but as pure making manifest, as material ideality, it is inseparable and simple self-externality.
+    — Encyclopedia §276 (tr. Miller)

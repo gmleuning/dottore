@@ -13,8 +13,14 @@ Adj:
   pleasant, unpleasant, comfortable, uncomfortable, sensual, voluptuous, painful
 
 # ---- Hegel ----
-Def: Feelings whose content is the body's own state, pleasure and pain, the pleasant and the unpleasant, felt where they arise.
+Def: The first and most superficial practical feeling is that of the pleasant and the unpleasant. Practical feeling involves an ought, a self-determination related to an individuality that counts only in so far as it is adequate to it. The will compares how it is immediately determined from outside with what its own nature determines it to be: agreement is the pleasant, disagreement the unpleasant. Since that inner measure is still only felt and belongs to natural individuality, the judgement is entirely contingent, and in important matters it is a matter of indifference whether something pleases.
 Texts:
   The Philosophy of Mind
-    §407
+    §472
 Citations:
+  But as both factors, in this immediacy, still lack objective determination, this relation of need to reality is the utterly subjective and superficial feeling of the pleasant or unpleasant.
+    — Encyclopedia §472 (tr. Wallace and Miller, rev. Inwood)
+  This agreement is the pleasant, disagreement is the unpleasant.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)
+  But since this inner determinacy to which the affection is related is itself still an immediate determinacy belonging to my natural individuality, is still subjective, only felt, the judgement resulting from this relation can only be an entirely superficial and contingent judgement.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)

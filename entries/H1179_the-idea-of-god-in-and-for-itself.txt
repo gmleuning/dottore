@@ -30,8 +30,12 @@ Phr:
   God is love [Bible]
 
 # ---- Hegel ----
-Def: God in and for himself, the eternal idea in the element of thought, the Trinity.
+Def: The first element considers God in the eternal idea, in and for himself, apart from the creation of the world, within the element of thought. This idea is expressed as the holy Trinity. Spirit is a life of self-differentiation in which the one distinguished from God is yet God's entire idea, so that the distinction is sublated and the one remains present to itself in the other. In sensible terms this is eternal love.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › The Idea of God In and For Itself
 Citations:
+  Specifically, the eternal idea is expressed in terms of the holy i Trinity: it is God himself, eternally triune.
+    — Lectures on the Philosophy of Religion, The Consummate Religion (1827) › The Idea of God In and For Itself (tr. Brown, Hodgson and Stewart)
+  [A]nd the first differentiation is that spirit is as this universal idea itself. The universal contains the entire idea, although it only contains it, it is only implicitly the idea.
+    — Lectures on the Philosophy of Religion, The Consummate Religion (1827) › The Idea of God In and For Itself (tr. Brown, Hodgson and Stewart)

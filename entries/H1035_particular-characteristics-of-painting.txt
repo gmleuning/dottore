@@ -27,8 +27,12 @@ Phr:
   brush and palette
 
 # ---- Hegel ----
-Def: The particular characteristics of painting, its content, material and craft.
+Def: The particular characteristics of painting concern its subject matter, its sensuous material and the artistic treatment of both. Its content corresponds to that of romantic art, but one must ask which spheres of it best suit painting; its material, colour on a plane surface, must be specified in the forms it can express; and differences of treatment answering to content and material yield particular genres.
 Texts:
   Aesthetics
     Painting › Particular Characteristics of Painting
 Citations:
+  (i) The subject-matter, as we have seen, corresponds with the content of the romantic form of art; but we must raise the further question of what specific spheres of the wealth of this art-form are pre-eminently fitted and appropriate to portrayal in painting.
+    — Aesthetics, Painting › Particular Characteristics of Painting (tr. Knox)
+  (iii) Similarly, there is a question about the specific nature of the artistic treatment and portrayal which corresponds in different ways with the differing character of the subject-matter and therefore introduces particular genres of painting.
+    — Aesthetics, Painting › Particular Characteristics of Painting (tr. Knox)

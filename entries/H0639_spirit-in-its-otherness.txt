@@ -36,8 +36,12 @@ Phr:
   paradise lost
 
 # ---- Hegel ----
-Def: Spirit in its otherness: the creation of the world, the fall into evil, and the mediator.
+Def: Spirit in its otherness is the eternal, abstract spirit becoming other to itself and entering immediate existence: it creates a world, which is representation's word for the movement of the concept. Spirit as being for an other is the subsistence of the moments formerly enclosed in pure thought, split into their particularity. In this element arise the opposition of good and evil and the reconciliation of the two, represented as separate and self-standing beings.
 Texts:
   The Phenomenology of Spirit
     ¶¶774–778
 Citations:
+  It therefore creates a world. This creating is representational thought’s word for the concept itself according to its absolute movement
+    — The Phenomenology of Spirit ¶774 (tr. Pinkard)
+  Spirit in the determination of being for an other, is the motionless stable existence of those moments which were formerly enclosed in pure thinking, and it is therefore the dissolution of their simple universality and their splitting up into their own particularity.
+    — The Phenomenology of Spirit ¶774 (tr. Pinkard)

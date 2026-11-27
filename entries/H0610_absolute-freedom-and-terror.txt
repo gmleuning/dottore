@@ -12,8 +12,12 @@ F:
   French: la Terreur, volonté générale, à la lanterne, sansculottes
 
 # ---- Hegel ----
-Def: The absolute freedom of the universal will, which destroys every institution and, having nothing else to negate, ends in the terror.
+Def: Absolute freedom and terror is spirit grasping its certainty of itself as the essence of all reality, so that the world is simply its will, the universal will of all individuals as such. No power can resist it; the social estates collapse, and each undertakes only the total work. But it can produce neither a positive work nor deed, only negative doing, and its one work is death. This extreme negation turns into the pure knowing and willing of the moral spirit.
 Texts:
   The Phenomenology of Spirit
     ¶¶582–595
 Citations:
+  The world is to it quite simply its will, and this will is the universal will.
+    — The Phenomenology of Spirit ¶584 (tr. Pinkard)
+  This undivided substance of absolute freedom elevates itself to the throne of the world without any power capable of resisting it.
+    — The Phenomenology of Spirit ¶585 (tr. Pinkard)

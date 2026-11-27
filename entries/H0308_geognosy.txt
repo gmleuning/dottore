@@ -30,8 +30,12 @@ Phr:
   lay of the land
 
 # ---- Hegel ----
-Def: The knowledge of the earth's formations as a structure: primitive, stratified and alluvial rock.
+Def: Geognosy considers the structure of the earth's formations as the record of a past process: from primitive rocks through the stratified formations upon them to alluvial terrain. Following Ebel, Hegel notes that fossils lie only in particular strata, few in the oldest and more various in the later, and buried forests in alluvial land.
 Texts:
   The Philosophy of Nature
     §339
 Citations:
+  In the very oldest stratified formations lying directly on the primitive rocks there are, on the whole, very few fossils of sea-animals, and those only of certain species; but in the later deposits their number and variety increase and sometimes, though very rarely, fossil fish, too, are found. Fossil plants, on the other hand, occur only in the more recent strata, and the bones of amphibians, mammals, and birds, only in the most recent strata.
+    — Encyclopedia §339, Addition (tr. Miller)
+  These immense forests are found in all the alluvial terrains of Europe, North and South America, and northern Asia.
+    — Encyclopedia §339, Addition (tr. Miller)

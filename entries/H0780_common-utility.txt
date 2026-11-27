@@ -28,8 +28,10 @@ F:
   German: gemeinsame Nutzen, Straßenbau
 
 # ---- Hegel ----
-Def: The public authority's provision for the common interest in the means that serve all, such as street lighting, bridge building and public health (§235-236).
+Def: Common utility is what is of common interest in the multiplication of day-to-day needs: the unhindered acquisition and exchange of means, and the shortening of transactions. When one person pursues such things, their work is also done for all, and the public authority provides for it, as in the means and arrangements that serve everyone.
 Texts:
   The Philosophy of Right
     §§235–248
 Citations:
+  In the indefinite multiplication and interconnection of day-to-day needs, (a) the acquisition and exchange of the means to their satisfaction—on whose unhindered possibility everyone relies— and (b) the need to make the related enquiries and transactions as short as possible give rise to factors which are of common interest
+    — The Philosophy of Right §235 (tr. Knox, rev. Houlgate)

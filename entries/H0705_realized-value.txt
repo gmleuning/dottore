@@ -46,8 +46,10 @@ Phr:
   not worth the paper it's printed on, not worth a sou
 
 # ---- Hegel ----
-Def: The value of the pledged thing, which secures the fulfilment.
+Def: Value is what remains identical in real contract while the things change owners. In it the objects exchanged are equal however different they are in quality: it is their universal aspect. Each party therefore leaves the contract owning the same value with which it entered, though in a different thing.
 Texts:
   The Philosophy of Right
     §77
 Citations:
+  What remains identical is the value, in respect of which the objects of the contract are equal to one another whatever the qualitative external differences of the things exchanged. Value is their universal aspect (see § 63).
+    — The Philosophy of Right §77 (tr. Knox, rev. Houlgate)

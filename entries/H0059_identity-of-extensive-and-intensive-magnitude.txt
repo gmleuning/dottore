@@ -31,8 +31,12 @@ Phr:
   the same difference
 
 # ---- Hegel ----
-Def: Each kind of magnitude passes into the other: degree is expressed in an outside many, and an extent is felt as one intensity.
+Def: The identity of extensive and intensive magnitude is that they are one determinateness of quantum, distinguished only in that one has its amount within and the other without. Degree has its determinateness through its connection with an amount that is its own, and so is extensive; extensive magnitude collapses into the oneness of degree and steps outside it. With this identity there comes forth a something, mediated with itself through the negation of these distinct terms, which has a quantum while its qualitative existence is indifferent to it.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Extensive and intensive quantum › Identity of extensive and intensive magnitude
 Citations:
+  Extensive magnitude passes over into intensive magnitude because its many collapses in and for itself into oneness and steps outside it. But, conversely, this simple one has its determinateness only in the amount, its amount; indifferent to the otherwise determined intensities, it has the externality of amount in it; thus intensive magnitude is just as essentially extensive magnitude.
+    — The Science of Logic, Extensive and intensive quantum › Identity of extensive and intensive magnitude (tr. di Giovanni)
+  With this identity, the qualitative something comes on the scene; for the identity is the unity that refers back to itself through the negation of its distinct terms
+    — The Science of Logic, Extensive and intensive quantum › Identity of extensive and intensive magnitude (tr. di Giovanni)

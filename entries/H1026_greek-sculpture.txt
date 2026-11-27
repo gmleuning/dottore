@@ -23,8 +23,12 @@ Phr:
   Phidias and Praxiteles
 
 # ---- Hegel ----
-Def: Die Skulptur der Griechen, in which the classical ideal is perfectly achieved, from the Aeginetan marbles to Phidias.
+Def: Greek sculpture brings the sense of self fully to life, though even within it the ideal must strip off early defects. Its beginnings, as in Aeginetan works, remain tied to the typical and to merely natural life; the summit comes when artistic freedom works universal meaning wholly into individual shape, giving a spiritually animated beauty.
 Texts:
   Aesthetics
     Sculpture › Historical Stages in the Development of Sculpture › Greek and Roman Sculpture
 Citations:
+  [I]n this development we have not to make any violent leap from the imperfections of a still symbolic sculpture to the perfection of the classical ideal
+    — Aesthetics, Historical Stages in the Development of Sculpture › Greek and Roman Sculpture (tr. Knox)
+  [N]ot the life of that spiritually animated beauty which displays the life of the spirit unseparated from the life of its natural shape
+    — Aesthetics, Historical Stages in the Development of Sculpture › Greek and Roman Sculpture (tr. Knox)

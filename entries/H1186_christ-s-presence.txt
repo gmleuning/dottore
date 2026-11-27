@@ -19,8 +19,14 @@ Phr:
   the Word was made flesh, and dwelt among us [Bible]
 
 # ---- Hegel ----
-Def: Die Gegenwart Christi: the unity of divine and human nature appearing for immediate certainty as one individual man, whose life and teaching proclaim the kingdom of God.
+Def: The appearance of the God-man can be regarded in two ways. Seen without religion, Christ is an ordinary human being, a teacher and martyr like Socrates; the religious view comes only with the Spirit. As a human being he lives only for the truth and its proclamation. His teaching announces a new consciousness, the reconciliation of humanity with God, which is the kingdom of God, with a revolutionary attitude toward the existing world.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Representation, Appearance › Reconciliation › The Historical, Sensible Presence of Christ
 Citations:
+  When Christ is viewed in the same light as Socrates, then he is regarded as an ordinary human being
+    — Lectures on the Philosophy of Religion, Reconciliation › The Historical, Sensible Presence of Christ (tr. Brown, Hodgson and Stewart)
+  Rather he lives only for the truth, only for its proclamation
+    — Lectures on the Philosophy of Religion, Reconciliation › The Historical, Sensible Presence of Christ (tr. Brown, Hodgson and Stewart)
+  This reconciliation, expressed as a state of affairs, is the kingdom of God, an actuality.
+    — Lectures on the Philosophy of Religion, Reconciliation › The Historical, Sensible Presence of Christ (tr. Brown, Hodgson and Stewart)

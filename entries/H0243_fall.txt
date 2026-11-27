@@ -54,8 +54,12 @@ Phr:
   the bottom fell out
 
 # ---- Hegel ----
-Def: Matter's relative free motion toward its centre, in which the body's own gravity is the moving cause.
+Def: Fall is relatively free motion: free because it is the manifestation of the body's own gravity and so immanent in it, yet conditioned, being only the first negation of externality, since the body's separation from its centre is contingent. Its laws of time and space are immortal discoveries of the understanding, but the usual proof by accelerating and inertial forces destroys their meaning.
 Texts:
   The Philosophy of Nature
     §§267–268
 Citations:
+  But at the same time, as only the first negation of externality, it is conditioned; consequently the separation of the body from its connection with the centre is still a contingent determination, externally posited.
+    — Encyclopedia §267 (tr. Miller)
+  The laws of motion concern magnitude, and essentially that of the time elapsed and the space traversed therein; they are immortal discoveries which redound to the greatest honour of the analysis of the Understanding.
+    — Encyclopedia §267, Remark (tr. Miller)

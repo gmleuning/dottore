@@ -11,8 +11,10 @@ Adj:
   prophetic, vatic
 
 # ---- Hegel ----
-Def: The prophetic lyric of the Hebrew prophets, which laments and warns the people from its relation to God.
+Def: Prophetic lyric belongs to the Hebrew prophets, who, opposed to the multitude, usually strike a fundamental tone of grief and lament over their people's condition, sensing its estrangement and falling away from God, and are fired by sublime zeal and political wrath, which carries them toward a lyric of exhortation.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  The Prophets, in their opposition to the multitude, usually have a fundamental tone of grief and lamentation for the situation of their people; they have a sense of their people’s alienation and falling away from God, and at the same time they are animated by a sublime glow of zeal and political wrath. All this then leads them further in the direction of hortatory lyric.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

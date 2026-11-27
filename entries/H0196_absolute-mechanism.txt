@@ -61,8 +61,12 @@ Phr:
   the wreck of matter and the crush of worlds [Addison]
 
 # ---- Hegel ----
-Def: Mechanism organized as a syllogism: a central body and dependent objects in relations that form a system.
+Def: Absolute, or free, mechanism is the totality in which centre, relative centres and dependent objects each serve as the middle term of one of three syllogisms. The objects' fundamental determination is then objective universality, gravity persisting self-identical in particularization, while pressure and impact belong to mere externality. Hegel finds the same threefold structure in government, individual citizens and their needs. Merely external order passes into immanent determination, that is, law.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism › Absolute mechanism
 Citations:
+  Similarly, the government, the individual citizens, and the needs or the external life of these, are also three terms, of which each is the middle term of the other two.
+    — The Science of Logic, Mechanism › Absolute mechanism (tr. di Giovanni)
+  This totality, whose moments are themselves the completed relations of the concept, the syllogisms in which each of the three different objects runs through the determination of the middle term and the extreme, constitutes free mechanism.
+    — The Science of Logic, Mechanism › Absolute mechanism (tr. di Giovanni)

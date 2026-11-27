@@ -33,8 +33,12 @@ Phr:
   songs without words, Lieder ohne Worte [Ger.] [Mendelssohn]
 
 # ---- Hegel ----
-Def: Music freed from a text, which lives in its own harmonic and melodic development, the province of the connoisseur.
+Def: Independent music is music freed from a given text, whose principle is the inner life of the individual, subjectivity undetermined by fixed content and resting in untrammelled freedom. It draws from itself alone its content, course, unity and development of themes, limiting itself to purely musical means, since the meaning of the whole is not expressed in words.
 Texts:
   Aesthetics
     Music › Relation between Music's Means of Expression and their Content › Independent Music
 Citations:
+  The principle of music is the inner life of the individual.
+    — Aesthetics, Relation between Music's Means of Expression and their Content › Independent Music (tr. Knox)
+  Now if this subjective experience is to gain its full due in music likewise, then music must free itself from a given text and draw entirely out of itself its content, the progress and manner of expression, the unity and unfolding of its work
+    — Aesthetics, Relation between Music's Means of Expression and their Content › Independent Music (tr. Knox)

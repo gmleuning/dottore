@@ -46,8 +46,14 @@ Phr:
   a poker face
 
 # ---- Hegel ----
-Def: The face as the expression of the soul, the spirit visible in its features.
+Def: Physiognomy is bodily expression as it concerns character and is therefore permanent, whereas pathognomic expression relates to passing passions; a passion that holds sway lastingly ingrains itself in the face. Everyone has a physiognomic aspect on which others pass a first, instinctive judgement, but since this immediate exterior corresponds only imperfectly to the mind, the judgement may well be false. A person is known far less by outward appearance than by actions, and to raise physiognomy to a science was vacuous.
 Texts:
   The Philosophy of Mind
     §411
 Citations:
+  The difference between these two determinations is that the pathognomic expression relates more to transient passions, whereas the physiognomic expression concerns the character, hence something permanent.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)
+  The biblical saying: 'Beware of him whom God hath marked', is, therefore, often misused; and a judgement based on physiognomic expression has accordingly only the value of an immediate judgement, which can just as well be untrue as true.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)
+  Man is known much less by his outward appearance than by his actions.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)

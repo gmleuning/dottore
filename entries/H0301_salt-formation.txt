@@ -32,8 +32,12 @@ Phr:
   worth one's salt
 
 # ---- Hegel ----
-Def: The neutralization of acid and base, opposed chemical substances, into a salt.
+Def: Neutralization is the process in which a differentiated body, in sheer opposition to its other and essentially itself only in connection with it, posits itself as identical with its negative: acid and base have a restless urge to sublate themselves by uniting with their opposite. The product is the concrete neutral body, a salt, the fourth kind of body.
 Texts:
   The Philosophy of Nature
     §332
 Citations:
+  The product is the concrete neutral body, a salt, which is the fourth kind of body
+    — Encyclopedia §332 (tr. Miller)
+  Each has in its own self the restless urge to sublate itself, to integrate itself with its opposite and neutralize itself
+    — Encyclopedia §332, Addition (tr. Miller)

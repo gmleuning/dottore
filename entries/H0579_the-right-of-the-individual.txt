@@ -58,8 +58,12 @@ Phr:
   the deep cold shadow of the tomb [Moore]
 
 # ---- Hegel ----
-Def: The family's duty to the dead, which raises the singular individual out of nature into the universal.
+Def: The right of the individual is realized in burial, the duty of the family toward its dead member. Death is a natural event, not something a consciousness does, and the dead are left passive to unreasoning life and the forces of matter. The family adds to nature's movement the movement of consciousness: it takes the deed of destruction upon itself, keeps dishonouring acts away, weds its kin to the womb of the earth, and so makes the dead a member of a community again.
 Texts:
   The Phenomenology of Spirit
     ¶¶451–452
 Citations:
+  The duty of the family member is thus to augment this aspect so that his final being, this universal being, will also not belong solely to nature and remain something non-rational.
+    — The Phenomenology of Spirit ¶451 (tr. Pinkard)
+  The family keeps the dead away from those dishonoring acts of unconscious desire and abstract creatures, and in place of them, it puts their own acts; it weds their kin to the womb of the earth, to the elemental, imperishable individuality.
+    — The Phenomenology of Spirit ¶451 (tr. Pinkard)

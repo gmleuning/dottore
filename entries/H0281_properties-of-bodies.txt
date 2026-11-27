@@ -27,8 +27,12 @@ Phr:
   telling them apart
 
 # ---- Hegel ----
-Def: The individual body specified in its relation to the elements: to light, to air and water, and to fire as electricity.
+Def: The properties of bodies arise as the process of shaping passes into physical specification. The individual body, in itself the physical totality, is to have difference posited in it, held within individuality; these determinations are its properties or predicates, yet also its relations to the free universal elements, with which they form processes: light, air and water, and electricity.
 Texts:
   The Philosophy of Nature
     §§316–325
 Citations:
+  The process of shaping, the space-determining individualization of mechanism, passes over into physical specification.
+    — Encyclopedia §316 (tr. Miller)
+  The body, as subject of these determinations, contains them as properties or predicates, but in such manner that they are at the same time a relationship towards their unbound, universal Elements and form processes with them.
+    — Encyclopedia §316 (tr. Miller)

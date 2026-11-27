@@ -26,8 +26,12 @@ Phr:
   a temple to
 
 # ---- Hegel ----
-Def: The abstract work of art, the statue and temple, hymn and oracle, and the cult.
+Def: The abstract work of art is the first work of art, immediate, abstract and singular. It must move from this objective mode toward self-consciousness, while self-consciousness in the cult seeks to overcome its difference from its own spirit. It appears as the statue of the god, which is a thing without self-consciousness; as the hymn, in which the god exists in language; and as the cult, in which the two sides give up their one-sidedness and become one.
 Texts:
   The Phenomenology of Spirit
     ¶¶705–719
 Citations:
+  The first work of art exists as immediate, abstract, and singular.
+    — The Phenomenology of Spirit ¶705 (tr. Pinkard)
+  For its own part, it has to move itself from this immediate and objective mode into the contrary mode of self-consciousness, just as, on the other hand, self-consciousness, which is for itself in the cult, aims at sublating the difference which it initially gives itself contrary to its own spirit, and it thereby engenders a work of art enlivening itself in its own self.
+    — The Phenomenology of Spirit ¶705 (tr. Pinkard)

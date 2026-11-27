@@ -37,8 +37,12 @@ Phr:
   to pass judgment
 
 # ---- Hegel ----
-Def: The concept's own self-division into its moments, an original division (Ur-teil): the singular is the universal.
+Def: Judgement is the determinateness of the concept posited in the concept itself, the concept's own dividing and setting its determinations against each other. It is the other function of the concept beside conceiving, its first realization. It contains two self-standing sides, subject and predicate, which are determined only through the judgement itself, and their connection is the unity of the concept. Its development into a series of forms is the progressive determination of the concept.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment
 Citations:
+  Judgment is the determinateness of the concept posited in the concept itself.
+    — The Science of Logic, Judgment (tr. di Giovanni)
+  Judging is therefore another function than conceiving; or rather, it is the other function of the concept, for it is the determining of the concept through itself.
+    — The Science of Logic, Judgment (tr. di Giovanni)

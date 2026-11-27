@@ -33,8 +33,12 @@ Phr:
   timeless beauty
 
 # ---- Hegel ----
-Def: Art in which meaning and shape are adequate, the free spiritual individuality in human form: classical art.
+Def: Classical art is the centre of art: a self-enclosed, free totality uniting content with its wholly adequate shape, the reality coinciding with the concept of beauty that symbolic art strove for in vain. Its inner being is free, independent meaning that signifies itself, that is, spirit, which makes itself its own object and takes an external form identical with its inwardness, in the human shape.
 Texts:
   Aesthetics
     The Classical Form of Art
 Citations:
+  The centre of art is a unification, self-enclosed so as to be a free totality, a unification of the content with its entirely adequate shape.
+    — Aesthetics, The Classical Form of Art (tr. Knox)
+  For classical beauty has for its inner being the free independent meaning, i.e. not a meaning of this or that but what means [Bedeutende] itself
+    — Aesthetics, The Classical Form of Art (tr. Knox)

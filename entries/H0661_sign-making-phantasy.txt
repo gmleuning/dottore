@@ -52,8 +52,12 @@ Phr:
   vultus ariete fortior [Lat.]
 
 # ---- Hegel ----
-Def: Phantasy that makes signs, in which the intuition stands for something other than itself, as the pyramid holds a soul.
+Def: Sign-making phantasy is intelligence using an intuition to represent something wholly different from what the intuition shows for itself: the sensory matter is given an alien meaning as its soul, as with a flag, a tombstone or the pyramid. Unlike a symbol, a sign need have nothing in common with what it signifies, so that intelligence displays in it a freer mastery, and its meaning must be learned.
 Texts:
   The Philosophy of Mind
     §§457–458
 Citations:
+  The sign is some immediate intuition, which represents a wholly different content from the content that it has for itself;-the pyramid into which an alien soul is transferred and preserved.
+    — Encyclopedia §458, Remark (tr. Wallace and Miller, rev. Inwood)
+  The sign must be proclaimed a great accomplishment.
+    — Encyclopedia §457, Addition (tr. Wallace and Miller, rev. Inwood)

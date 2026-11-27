@@ -43,8 +43,12 @@ Phr:
   to come full circle
 
 # ---- Hegel ----
-Def: The end, in which the difference is sublated and the method returns to itself as the absolute idea, nature's beginning.
+Def: The end is the result in which the method returns to its beginning, restoring the first immediacy through sublated determinateness, as a system of totality. Each result is a new beginning, so that cognition rolls on from content to content, growing richer and more concrete. By the nature of the method science is a circle of circles, whose links are the single sciences; and logic has returned in the absolute idea to the simple unity of being with which it began.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The absolute idea
 Citations:
+  By virtue of the nature of the method just indicated, the science presents itself as a circle that winds around itself, where the mediation winds the end back to the beginning which is the simple ground; the circle is thus a circle of circles
+    — The Science of Logic, The absolute idea (tr. di Giovanni)
+  So the logic also has returned in the absolute idea to this simple unity which is its beginning; the pure immediacy of being, in which all determination appears at first as extinguished or removed by abstraction, is the idea that through mediation, that is, the sublation of mediation, has come to the likeness corresponding to it.
+    — The Science of Logic, The absolute idea (tr. di Giovanni)

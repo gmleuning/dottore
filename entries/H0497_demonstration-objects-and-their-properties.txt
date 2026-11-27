@@ -30,8 +30,12 @@ Phr:
   to prove the point
 
 # ---- Hegel ----
-Def: Perception's showing of objects and properties to consciousness, by which it finds its contradictions.
+Def: Demonstration, objects and their properties belong to perception, which begins to show things as true by exhibiting how they hang together. Because the individual remains the underlying being over against the universal to which it is only related, the connection is a mixture and a many-sided contradiction: between the single things of sense that are to ground universal experience and the universal that is to be their essence, and between the independent individual and its many properties, which are free of it and of one another.
 Texts:
   The Philosophy of Mind
     §§420–421
 Citations:
+  This demonstration is, however, still a defective, not a final demonstration. For that by which something is here supposed to be demonstrated is itself a presupposition, consequently in need of demonstration
+    — Encyclopedia §420, Addition (tr. Wallace and Miller, rev. Inwood)
+  This connection of the individual and universal is a mixture, since the individual remains the being that lies at the foundation and remains firm in the face of the universal, to which it is nevertheless related.
+    — Encyclopedia §421 (tr. Wallace and Miller, rev. Inwood)

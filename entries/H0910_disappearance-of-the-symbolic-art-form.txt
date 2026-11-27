@@ -26,8 +26,12 @@ Phr:
   the end of the symbol
 
 # ---- Hegel ----
-Def: The disappearance of the symbolic form, when meaning and shape fall apart.
+Def: The disappearance of the symbolic form comes when meaning and shape are posited as wholly external to each other. In symbolic art they never fully interpenetrated, though some kinship held them; since in comparison only caprice joins them, the link becomes mere adornment, leaving on one side a ready-made meaning and on the other bare externality, in subordinate forms that show the symbolic destroying itself.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art
 Citations:
+  Yet if it is not the Concept of the thing itself but only caprice which brings together the meaning and the artistic shape, then both are to be posited as wholly external to one another, so that their association is an unrelated attachment to one another and a mere adornment of one side by the other.
+    — Aesthetics, Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art (tr. Knox)
+  Therefore, as an appendix, we have here to treat of those subordinate forms of art which proceed from such a complete diremption of the factors belonging to genuine art and, in this absence of relation, expose the self-destruction of the symbolic.
+    — Aesthetics, Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art (tr. Knox)

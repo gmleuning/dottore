@@ -34,8 +34,10 @@ Phr:
   das Geschäft des Tausches der vereinzelten Mittel gegeneinander vornehmlich durch das allgemeine Tauschmittel, das Geld [Ger.] [Hegel, Philosophy of Right §204]
 
 # ---- Hegel ----
-Def: The estate of commerce, whose business is the exchange of single means for one another, chiefly through money, the universal medium of exchange (§204).
+Def: The estate of commerce is the branch of the business estate occupied with exchange, in which separate commodities are exchanged for one another, principally by means of money, the universal medium of exchange, in which the abstract value of all goods is actualized.
 Texts:
   The Philosophy of Right
     §204
 Citations:
+  [T]he business of exchange, whereby separate commodities are exchanged the one for the other, principally through the use of the universal medium of exchange, money, in which the abstract value of all goods is actualized—trade.
+    — The Philosophy of Right §204 (tr. Knox, rev. Houlgate)

@@ -26,8 +26,12 @@ Phr:
   the course of the epic
 
 # ---- Hegel ----
-Def: The historical course of the epic from the East through Greece to the romantic world.
+Def: The historical development of epic matters more than that of sculpture, since epic displays the substantial kernel of a nation's life and belongs to every people, though epic proper reached perfection in Greece beside sculpture. Hegel distinguishes the oriental epic centred in the symbolic, the classical epic of the Greeks and its Roman imitation, and the romantic epics of Christian peoples.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › The Historical Development of Epic Poetry
 Citations:
+  Consequently we should not regard it as a matter of accident that epic poetry and sculpture both appeared in Greece in this original and unsurpassed perfection.
+    — Aesthetics, Epic Poetry › The Historical Development of Epic Poetry (tr. Knox)
+  (c) the rich and many-sided development of romantically-epic poetry amongst the Christian peoples who yet first came on the scene in their Germanic heathenism.
+    — Aesthetics, Epic Poetry › The Historical Development of Epic Poetry (tr. Knox)

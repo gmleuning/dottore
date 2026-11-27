@@ -26,8 +26,12 @@ Phr:
   walking in one's sleep
 
 # ---- Hegel ----
-Def: The body made rigid or set walking while the waking self is absent: the soul's life of feeling acting without understanding.
+Def: Catalepsy and sleepwalking are states of immediate feeling awareness in which an object is sensed without its specific sense, which is replaced by the common sense active chiefly in the pit of the stomach or by touch. In catalepsy the organs are paralysed. Sleepwalking is a kind of cataleptic state in which dreaming expresses itself not only in speech but in walking and other actions, guided by an often accurate, though by no means infallible, feeling of surrounding things. The eye is fixed, and with it the distance that consciousness requires.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  Such feeling is displayed both in catalepsy in general, a state in which the organs are paralysed, and especially in sleep-walking, a kind of cataleptic state in which dreaming expresses itself not merely in speech but also in walking about and gives rise to other actions, underlying which there is an often accurate feeling of the relationships of surrounding objects.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  However, the sense of feeling by no means always guides sleep-walkers correctly; their complex actions are a contingent matter.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

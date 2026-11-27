@@ -91,8 +91,12 @@ Phr:
   touch and go
 
 # ---- Hegel ----
-Def: Habit as skill, the body made the soul's instrument, so that the will passes into act without reflection.
+Def: Dexterity is the third form of habit, in which the soul's abstract being is not only held fast for itself but imposed as a subjective purpose upon the body, which is to be subdued and made wholly pervious to it. A particular organ is trained for a determinate purpose until the body becomes an instrument, so that as soon as a representation, such as a sequence of notes, is in me, the body expresses it correctly, unresisting and fluent. Upright posture, seeing and even thinking require such habit.
 Texts:
   The Philosophy of Mind
     §410
 Citations:
+  In dexterity bodiliness is then rendered pervious, made into an instrument, in such a way that as soon as the representation (e.g. a sequence of musical notes) is in me, the physical body too, unresistingly and fluently, has expressed it correctly.
+    — Encyclopedia §410, Remark (tr. Wallace and Miller, rev. Inwood)
+  Habit is a form that embraces all kinds and stages of mind's activity.
+    — Encyclopedia §410, Remark (tr. Wallace and Miller, rev. Inwood)

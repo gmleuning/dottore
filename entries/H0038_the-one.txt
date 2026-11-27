@@ -47,8 +47,12 @@ Phr:
   two souls with but a single thought, two hearts that beat as one
 
 # ---- Hegel ----
-Def: Being-for-self as immediate self-relation, excluding all other: the one, the principle of atomism.
+Def: The one is being-for-itself in the immediacy into which its moments have sunk: the simple unity of itself and its moments, an existent for itself. There is nothing in it but the self-reference of the sublating. Since in this immediacy its inner meaning vanishes, it is the totally abstract limit of itself. Because its moments appear outside one another while remaining inseparable, each determination of the one calls for its opposite, and this contradiction is what makes the exposition of the one difficult.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › Being-for-itself as such › The one
 Citations:
+  Being-for-itself is the simple unity of itself and its moments, of the being for-one.
+    — The Science of Logic, Being-for-itself as such › The one (tr. di Giovanni)
+  Being-for-itself is thus an existent-for-itself, and, since in this immediacy its inner meaning vanishes, it is the totally abstract limit of itself – the one.
+    — The Science of Logic, Being-for-itself as such › The one (tr. di Giovanni)

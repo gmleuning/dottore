@@ -28,8 +28,12 @@ Phr:
   the attributes of the gods
 
 # ---- Hegel ----
-Def: The individuality of the particular gods, each with its own character and attributes.
+Def: The individuality of the particular gods goes beyond abstract particularity of character, since the classical ideal must set individuality in motion, relating it to an opposite, so that each god enters further particular traits. These bring contingency, as traits no longer led back to the substantial meaning surround the gods as arbitrary external accessories, and so raise the question where the material of their individuality comes from.
 Texts:
   Aesthetics
     The Classical Form of Art › The Ideal of the Classical Form of Art › The Individuality of the Gods
 Citations:
+  Now since the classical Ideal does not abide by the individuality that reposes in itself but has to set it in motion, bring it into relation with an opposite and show itself effective thereon, the character of the gods too does not stop at inherently substantial determinacy but enters into further particularizations.
+    — Aesthetics, The Ideal of the Classical Form of Art › The Individuality of the Gods (tr. Knox)
+  But with this sort of individuality there is bound up at the same time the contingency of the particular traits which are no longer brought back to the universal element in the substantial meaning
+    — Aesthetics, The Ideal of the Classical Form of Art › The Individuality of the Gods (tr. Knox)

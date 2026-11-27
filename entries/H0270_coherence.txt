@@ -40,8 +40,12 @@ Phr:
   to stand firm
 
 # ---- Hegel ----
-Def: The body's coherence with itself against the force of another body, by which it maintains its shape.
+Def: Coherence is matter's holding together with itself as its specific being-within-self, a homogeneous mass maintaining itself against another body placed in it, in a ratio of the intensity of its coherence to the other's weight. It is the identity of a body in the externality of its parts, and so a mode of resistance showing its character only through an other.
 Texts:
   The Philosophy of Nature
     §§295–296
 Citations:
+  If, therefore, a mass is pulled or pressed by a weight it reacts with a quantum of its 'in-itself'.
+    — Encyclopedia §296, Addition (tr. Miller)
+  For cohesion is the identity of the body in the mutual externality of its parts
+    — Encyclopedia §296, Addition (tr. Miller)

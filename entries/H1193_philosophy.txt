@@ -43,8 +43,12 @@ Phr:
   the love of wisdom
 
 # ---- Hegel ----
-Def: Absolute spirit in the form of the concept, the thinking cognition of the content of art and religion; the unity of both.
+Def: Philosophy is the unity of art and religion: the intuition of art and the representing totality of religion are held together, gathered into simple spiritual intuition and raised to self-conscious thinking. It is the concept of art and religion thinkingly known, in which the diversity of the content is cognized as necessary and this necessity as free. It shares its content with religion and differs from it in the form of thought.
 Texts:
   The Philosophy of Mind
     §§572–577
 Citations:
+  This knowledge is thus the thinkingly cognized concept of art and religion, in which the diversity in the content is cognized as necessary, and this necessity is cognized as free.
+    — Encyclopedia §572 (tr. Wallace and Miller, rev. Inwood)
+  Only on the basis of this cognition of the forms can the genuine conviction that was in question be won, that the content of philosophy and of religion is the same
+    — Encyclopedia §573, Remark (tr. Wallace and Miller, rev. Inwood)

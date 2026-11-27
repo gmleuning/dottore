@@ -30,8 +30,12 @@ Phr:
   the character of a deity
 
 # ---- Hegel ----
-Def: The individuality of the ideal figure, its particular character among the gods and heroes.
+Def: Individuality of the ideal figures means that sculptures must show substantial individuals who are also particular persons, the group of Greek gods. A single supreme beauty in one statue is foolish, since the ideal's beauty lies in individuality and character, broadening abstract beauty into an ensemble of figures, though Christian virtues resting on the breach of body and spirit have no place among them.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures
 Citations:
+  For the beauty of the ideal consists precisely in its not being a purely universal norm but in essentially having individuality and therefore particularity and character.
+    — Aesthetics, The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures (tr. Knox)
+  In this way alone are sculptures vitalized, and the one abstract beauty is broadened into an ensemble of inherently specific shapes.
+    — Aesthetics, The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures (tr. Knox)

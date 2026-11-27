@@ -26,8 +26,12 @@ Phr:
   to repair our nature with comforting repose [Henry VIII]
 
 # ---- Hegel ----
-Def: The soul's dividing itself from its natural immediacy: waking, its being-for-self, against sleep, its retreat into undivided substance.
+Def: Waking and sleeping are the alternation in which the individual soul distinguishes its being for itself from its mere being. Waking is the soul's own judgement, setting itself against its self-absorbed natural life as one natural state against another. Sleep is not a merely negative rest but an invigoration of waking activity. Unlike the passing differences of the ages of life and the fixed difference of the sexes, this opposition is an enduring alternation that produces itself in one and the same individual, and its empty repetition points on to sensation.
 Texts:
   The Philosophy of Mind
     §398
 Citations:
+  When individuality distinguishes, by immediate judgement, its being for itself from its mere being, this is the awakening of the soul, which initially confronts its self-absorbed natural life as one natural determinacy and state confronts another state, sleep.
+    — Encyclopedia §398 (tr. Wallace and Miller, rev. Inwood)
+  [T]he difference is seen to be neither so transient as in the course of the ages of life nor so fixed as in the sexual relationship, but the self-producing enduring alternation of the states of sleep and waking in one and the same individual.
+    — Encyclopedia §398, Addition (tr. Wallace and Miller, rev. Inwood)

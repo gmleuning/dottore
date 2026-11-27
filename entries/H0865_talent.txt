@@ -15,8 +15,12 @@ Phr:
   a good horse is hard to mount, but it carries you far, liang ma nan cheng, ran ke yi ren zhong zhi yuan [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: Talent, the specific capacity for a particular art, which reaches full life only with genius; one may have talent and not genius.
+Def: Talent is the particular capacity that a particular art demands, such as for violin playing or singing. It is not immediately identical with genius, though perfect creation requires their identity: mere talent can excel only in one separate side of art and still needs the general capacity and inspiration that genius alone confers. Talent without genius gets little beyond external skill.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  But a mere talent can only attain to excellence in one such entirely separate side of art, and, if it is to be perfect in itself, it still requires always over again the capacity for art in general, and the inspiration, which genius alone confers.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  Talent without genius therefore does not get far beyond an external skill.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

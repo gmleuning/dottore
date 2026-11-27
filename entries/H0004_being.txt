@@ -40,8 +40,12 @@ Phr:
   ergo sum cogito [Lat.], thinkest thou existence doth depend on time? [Byron]
 
 # ---- Hegel ----
-Def: The first beginning of the logic: indeterminate immediacy, which proves to be the same as nothing and passes into becoming.
+Def: Being is the first chapter and the beginning of the Logic, the sphere of being, nothing and becoming. Pure being, taken without any further determination, proves to be nothing, and nothing the same as being; their truth is the movement in which each vanishes into the other, becoming, which collapses into existence. Hegel recalls the Eleatics, Parmenides above all, as the first to give voice to the simple thought of pure being as the sole truth.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being
 Citations:
+  The Eleatics were the first to give voice to the simple thought of pure being – notable among them Parmenides, who declared it to be the absolute and sole truth.
+    — The Science of Logic, Being, Remark (tr. di Giovanni)
+  It is customary to oppose nothing to something.
+    — The Science of Logic, Being, Remark (tr. di Giovanni)

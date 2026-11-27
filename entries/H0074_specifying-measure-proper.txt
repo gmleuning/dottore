@@ -26,8 +26,14 @@ Phr:
   according to its capacity
 
 # ---- Hegel ----
-Def: Measure that takes up an external quantum and alters it according to its own nature, as a body takes up heat by its specific capacity.
+Def: Specifying measure proper is the determining of an external, indifferent magnitude by the qualitative side of the measuring something. A something with its own inner measure receives an alteration of magnitude from outside, but does not take it on as an arithmetical sum: it reacts against it as an intensive measure, assimilates it in its own manner and turns it into something else. The specified amount still varies with the external one, but in a constant way, so that measure exists as a ratio whose exponent expresses its specific character.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Specific quantity › Specifying measure › Specifying measure
 Citations:
+  Inasmuch as a something has an internal measure, an alteration of the magnitude of its quality comes to it from outside, and the something does not take on the arithmetical aggregate of the alteration.
+    — The Science of Logic, Specifying measure › Specifying measure (tr. di Giovanni)
+  The specified aggregate is therefore also alterable, but is not for that reason a quantum as such but the external quantum as specified in a constant manner.
+    — The Science of Logic, Specifying measure › Specifying measure (tr. di Giovanni)
+  Measure thus has its determinate existence as a ratio, and its specificity is in general the exponent of this ratio.
+    — The Science of Logic, Specifying measure › Specifying measure (tr. di Giovanni)

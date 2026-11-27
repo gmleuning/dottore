@@ -58,8 +58,12 @@ Phr:
   superfluous lags the veteran on the stage [Johnson]
 
 # ---- Hegel ----
-Def: The unity with the world, gone back into habit, which wanes into the absence of interest and death.
+Def: Old age is the completion of the unity with the world, in which the opposition that gave activity its interest is gone. Habit, which comes as work meets no more resistance in its objects, lets the vitality of the activity expire, and the body grows dull. The old person lives without definite interest, turned toward the universal and the past, preaching the lessons of experience while losing the details of the present. This lifeless coincidence of subject and world leads back to a childhood without opposition, and the body's static habit leads on to death.
 Texts:
   The Philosophy of Mind
     §396
 Citations:
+  The old man lives without any definite interest, for he has abandoned the hope of actualizing the ideals he cherished earlier and the future seems to promise him nothing new at all
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)
+  But this wisdom, this lifeless, complete coincidence of subjective activity with its world, leads back to oppositionless childhood, in the same way that the growth of the activity of his physical organism into a static habit leads on to the abstract negation of the living individuality, to death.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)

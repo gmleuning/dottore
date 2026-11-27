@@ -37,8 +37,12 @@ Phr:
   with gun and camera 1
 
 # ---- Hegel ----
-Def: The artist, whose productive activity gives the content its shape.
+Def: The artist is the subjective productive activity from which the work of art springs, the work being there for the contemplation and feeling of others. This activity, the artist's imagination, permits only a few generalities, since there is no recipe for creation. It is treated as genius and inspiration, as the objectivity of creative activity, and as true originality.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist
 Citations:
+  But since the work of art springs from the spirit, it needs a subjective productive activity as its cause, and as a product thereof it is there for others, i.e. for the contemplation and feeling of the public.
+    — Aesthetics, The Beauty of Art or the Ideal › The Artist (tr. Knox)
+  We might just as well ask for a recipe or prescription for managing this, or for the circumstances and situations in which a man must place himself in order to produce the like.
+    — Aesthetics, The Beauty of Art or the Ideal › The Artist (tr. Knox)

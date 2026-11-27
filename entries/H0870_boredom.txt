@@ -22,8 +22,12 @@ Phr:
   die Wärme des Bluts macht's nicht allein [Ger.] [Hegel, Aesthetics]
 
 # ---- Hegel ----
-Def: The belief that Begeisterung comes from sensuous stimulation: but champagne yields no poetry, and the best genius may lie morning and evening in the green grass gazing at the sky and feel no breath of inspiration.
+Def: The belief that sensuous stimulus produces inspiration fails: heated blood achieves nothing by itself and champagne yields no poetry, as Marmontel found surrounded by six thousand bottles. Even the finest genius may lie on the grass morning and evening, enjoying the breeze and gazing at the sky, without a breath of tender inspiration reaching them.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  But the heat of the blood achieves nothing by itself; champagne produces no poetry, as Marmontel, e.g., tells how in a cellar in Champagne he had six thousand bottles confronting him and yet nothing poetic flowed out of them for him.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  So too the finest genius may often enough lie on the grass morning and evening, enjoying a fresh breeze and gazing up into the sky, but of tender inspiration not a breath reaches him.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

@@ -40,8 +40,12 @@ Phr:
   non est vivere sed valere vita [Lat.] [Marial]
 
 # ---- Hegel ----
-Def: Nature as living: the idea in its existence as organism, the individual that produces itself from within.
+Def: The organic sphere begins when the idea enters into existence as life, immediate at first: body as an infinite process that particularizes itself and returns into itself, subjective in nature. It comprises the geological organism, the plant, still falling apart into members that are themselves individuals, and the animal, concrete subjectivity.
 Texts:
   The Philosophy of Nature
     §§337–376
 Citations:
+  This accomplished, the Idea has entered into existence, at first an immediate existence, Life.
+    — Encyclopedia §337 (tr. Miller)
+  Distinguished from this stage is the beginning of subjective vitality, the living organism in the vegetable kingdom: the individual, but, as external to itself, still falling apart into its members which are themselves individuals.
+    — Encyclopedia §337 (tr. Miller)

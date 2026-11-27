@@ -29,8 +29,12 @@ Phr:
   woven together
 
 # ---- Hegel ----
-Def: The interpenetration of human and divine law.
+Def: The interfusion of the two laws is the content of the ethical world in which each is realized in the other's element. The ethical essences are substance as universal and as singular consciousness, with the people and the family as their actuality and man and woman as their natural self and activating individuality. Here the purposes of earlier shapes of reason are achieved. Justice, as human law, brings what strays from the balance back into the universal, and, as the spirit of one who has suffered wrong, avenges from the netherworld.
 Texts:
   The Phenomenology of Spirit
     ¶¶460–461
 Citations:
+  The universal ethical essences are thus the substance as universal consciousness and as singular consciousness. They have the people and the family for their universal actuality, and they have man and wife for their natural self and their activating individuality.
+    — The Phenomenology of Spirit ¶460 (tr. Pinkard)
+  As such, justice is the government of the people, which is, to itself, the current individuality of the universal essence and the self-conscious will of all.
+    — The Phenomenology of Spirit ¶461 (tr. Pinkard)

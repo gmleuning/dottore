@@ -36,8 +36,12 @@ Phr:
   chivalry is not dead
 
 # ---- Hegel ----
-Def: The chivalry of the secular world, the subject's own infinity as honour, love and fidelity.
+Def: Chivalry is the secular sphere of romantic art. The heart, perfected in simple religious bliss, must leave the heavenly kingdom, look into itself and win a worldly content proper to the individual subject, so that religious inwardness becomes worldly. The infinitude of the person then fills mundane life in honour, love and fidelity, feelings in which one sees oneself affirmed directly in others and not only through a third thing.
 Texts:
   Aesthetics
     The Romantic Form of Art › Chivalry
 Citations:
+  The heart which is only now perfected in its simple bliss has therefore to leave the heavenly kingdom of its substantive sphere, to look into itself, and attain a mundane content appropriate to the individual subject as such.
+    — Aesthetics, The Romantic Form of Art › Chivalry (tr. Knox)
+  Therefore the earlier religious inwardness now becomes one of a worldly kind.
+    — Aesthetics, The Romantic Form of Art › Chivalry (tr. Knox)

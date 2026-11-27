@@ -16,8 +16,12 @@ Adj:
   homicidal, murderous, bloodthirsty
 
 # ---- Hegel ----
-Def: A positive mania for injuring others, even a suddenly awakening desire to kill, which drives its victims against their own horror of murder to kill even those they love.
+Def: Fury is the form in which the malice of the insane becomes a positive mania for injuring others, even a suddenly awakened desire to kill, which with irresistible force drives those in its grip, despite an abhorrence of murder that may be present in them, to kill even people they otherwise love tenderly. This malice does not exclude moral and ethical feelings, which, because of the distress and unmediated opposition within the sufferer, can even be intensified.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  The fury of the insane often becomes a positive mania for injuring others, in fact even a suddenly awakening desire to kill, which with irresistible force compels those in its grip, despite the abhorrence of murder perhaps present in them, to kill even those whom otherwise they love tenderly.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  As we have just indicated, however, the malice of the insane does not exclude moral and ethical feelings; on the contrary, just because of the distress of the insane, because of the unmediated opposition dominant in them, these feelings can have an increased intensity.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

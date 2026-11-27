@@ -37,8 +37,12 @@ Phr:
   to learn the hard way
 
 # ---- Hegel ----
-Def: The particular observations of perception, its many findings.
+Def: Experiences are what the single sensory observations from which perception starts become when they are considered in their connection, reflected upon, and turned into something necessary and universal according to definite categories. Perception does not stop at seeing and hearing but relates what is sensed to a universal that is not immediately observable. Yet its demonstrations rest on presuppositions that themselves need demonstrating, so that experience runs on to infinity; philosophy must rise to proof of the necessity of things.
 Texts:
   The Philosophy of Mind
     §420
 Citations:
+  The sensory certainties of individual apperceptions or observations form the starting-point; these are supposed to be elevated to truth, by being considered in their relation, reflected upon, generally by becoming, in accordance with determinate categories, at the same time something necessary and universal, experiences.
+    — Encyclopedia §420, Remark (tr. Wallace and Miller, rev. Inwood)
+  Everything must be experienced. But if we are supposed to be talking about philosophy, then we must rise above the demonstration that remains tied to presuppositions, above empiricism's demonstration, to the proof of the absolute necessity of things.
+    — Encyclopedia §420, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -66,8 +66,12 @@ Phr:
   what a falling off was there! [Hamlet]
 
 # ---- Hegel ----
-Def: Disease as the disproportion of the organism's being and its self, when one system sets itself up apart from the whole. Hegel sorts diseases by where they start: in the elements, in a particular system, or in the mind; fever is the stage where the whole organism takes up the struggle.
+Def: Disease is a disproportion between the organism's being and its self, when a system or organ, drawn into conflict with an inorganic power, establishes itself in isolation against the whole. Its kinds arise from the elements, a particular system or the soul; in its course the affection spreads to the whole organism, and fever is the beginning of cure.
 Texts:
   The Philosophy of Nature
     §§371–372
 Citations:
+  It finds itself in a state of disease when one of its systems or organs, stimulated into conflict with the inorganic power (Potenz), establishes itself in isolation and persists in its particular activity against the activity of the whole, the fluidity and all-pervading process of which is thus obstructed.
+    — Encyclopedia §371 (tr. Miller)
+  The entire organism, therefore, is involved and its activity deranged because one wheel (Rad) in it has made itself the centre.
+    — Encyclopedia §372, Addition (tr. Miller)

@@ -34,8 +34,12 @@ Phr:
   the sock and buskin
 
 # ---- Hegel ----
-Def: The kinds of drama: tragedy, comedy, and the drama proper.
+Def: Dramatic poetry splits into genres because an action made real on stage must be wholly determined in conception and treatment, and the types come from the different ways characters, aims, conflicts and outcome are presented, with opposition or reconciliation. The chief ones are tragedy and comedy and their conciliation, considered in principle, in ancient and modern forms, and in history.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Genres of Dramatic Poetry
 Citations:
+  The chief modes arising from this difference and having a varied historical development are tragedy and comedy, as well as the conciliation of these two modes of treatment, which only in dramatic poetry become of such essential importance that they may serve as the basis for the division of its different genres.
+    — Aesthetics, Dramatic Poetry › The Genres of Dramatic Poetry (tr. Knox)
+  But if the action is thus to be made real objectively, it must itself be altogether determined and finished in itself in poetic conception and treatment.
+    — Aesthetics, Dramatic Poetry › The Genres of Dramatic Poetry (tr. Knox)

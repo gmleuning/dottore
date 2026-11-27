@@ -30,8 +30,12 @@ Phr:
   the Holy Roman Empire
 
 # ---- Hegel ----
-Def: The elements of the Christian-Germanic world: the migrations, Islam, and the empire of Charlemagne.
+Def: The first period of the German world: the barbarian migrations; Mahometanism, which sets against them the abstract worship of the One, pursued with an enthusiasm that is fanaticism; and the empire of Charlemagne, which gives the Frank dominion a systematic organization and settled institutions, developing arrangements partly already in existence.
 Texts:
   The Philosophy of History
     The German World › The Elements of the Christian German World
 Citations:
+  Abstraction swayed the minds of the Mahometans. Their object was, to establish an abstract worship, and they struggled for its accomplishment with the greatest enthusiasm. This enthusiasm was Fanaticism, that is, an enthusiasm for something abstract—for an abstract thought which sustains a negative position towards the established order of things.
+    — The Philosophy of History, The German World › The Elements of the Christian German World (tr. Sibree)
+  This great empire Charlemagne formed into a systematically organized State, and gave the Frank dominion settled institutions adapted to impart to it strength and consistency.
+    — The Philosophy of History, The German World › The Elements of the Christian German World (tr. Sibree)

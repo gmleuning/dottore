@@ -33,8 +33,12 @@ Phr:
   all bound up together
 
 # ---- Hegel ----
-Def: Necessity as relation: substance, causality, and reciprocity, in which actuality returns into itself as concept.
+Def: The absolute relation is necessity as being that is simply reflection: a distinguishing whose moments are each the whole of necessity, so that their subsisting is one and their difference only the shine of the movement in which the absolute expounds itself. It is manifestation, self-identical absolute actuality. In its immediate concept it is the relation of substance and accidents; as real it is causality; and returning upon itself it is reciprocity, whose truth is the concept.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute relation
 Citations:
+  Absolute necessity is not so much the necessary, even less a necessary, but necessity
+    — The Science of Logic, Actuality › The absolute relation (tr. di Giovanni)
+  This relation in its immediate concept is the relation of substance and accidents, the immediate internal disappearing and becoming of the absolute reflective shine.
+    — The Science of Logic, Actuality › The absolute relation (tr. di Giovanni)

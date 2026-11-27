@@ -30,8 +30,12 @@ Phr:
   all of a piece
 
 # ---- Hegel ----
-Def: The unity of thought and being as reason grasps it.
+Def: Unity is what spirit is absolutely: the certainty of the unity of what is its own with itself. Consciousness already lies within this unity, but spirit rises above its standpoint, holding it as an ideal moment. In consciousness there is a unity of the nature and life of things with the essence of consciousness; this is reason, and spirit is the certainty of this rationality. What holds fast to the barrier of the sensory and the understanding lacks spirit.
 Texts:
-  The Philosophy of Mind
+  The Berlin Phenomenology
     §439
 Citations:
+  Spirit is the absolute unity however, and the certainty of the unity of its own with itself.
+    — The Berlin Phenomenology §439 (tr. Petry)
+  Within consciousness it is self-unity, i.e. the unity of that which the nature and life of things constitutes with the essence of consciousness. This is reason, and spirit is the certainty of this rationality.
+    — The Berlin Phenomenology §439 (tr. Petry)

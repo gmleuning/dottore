@@ -41,8 +41,12 @@ Phr:
   the gist of it
 
 # ---- Hegel ----
-Def: Content as the unity of form and matter, indifferent to form yet only in it.
+Def: Form and content is the relation in which what was ground, subsistence and matter comes again under the dominion of form. Content is the unity of a form and a matter that belong to it essentially, and it stands over against form as that to which form is unessential. It is also what is identical in form and matter. Ground has at first vanished into content; but since content has the ground-connection as its essential form, ground in turn has a content, and so becomes determinate ground.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Absolute ground › Form and content
 Citations:
+  Content has, first, a form and a matter that belong to it essentially; it is their unity.
+    — The Science of Logic, Absolute ground › Form and content (tr. di Giovanni)
+  Content, therefore, has this ground-connection as its essential form, and, contrariwise, the ground has a content.
+    — The Science of Logic, Absolute ground › Form and content (tr. di Giovanni)

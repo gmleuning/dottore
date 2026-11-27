@@ -32,8 +32,12 @@ Phr:
   in good order
 
 # ---- Hegel ----
-Def: Beauty as the abstract unity of external form: regularity, conformity to law, harmony.
+Def: Beauty of abstract form is natural form that is determinate, and so restricted, yet holds a unity and abstract relation to itself. It regulates the external manifold by that determinacy, which never becomes an immanent inwardness or soul that bears the shape, but remains an external determinacy imposed on it. Its kinds are regularity and symmetry, then conformity to law, and finally harmony.
 Texts:
   Aesthetics
     The Beauty of Nature › The External Beauty of the Abstract Form › Beauty of Abstract Form
 Citations:
+  The form of natural beauty, as an abstract form, is on the one hand determinate and therefore restricted; on the other hand it contains a unity and an abstract relation to itself.
+    — Aesthetics, The External Beauty of the Abstract Form › Beauty of Abstract Form (tr. Knox)
+  But, regarded more closely, it regulates the external manifold in accordance with this its determinacy and unity which, however, does not become immanent inwardness and a soul-bearing shape, but remains an external determinacy and a unity imposed on the external.
+    — Aesthetics, The External Beauty of the Abstract Form › Beauty of Abstract Form (tr. Knox)

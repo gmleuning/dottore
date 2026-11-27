@@ -31,8 +31,12 @@ Phr:
   to cultivate oneself
 
 # ---- Hegel ----
-Def: Culture and its realm of actuality, in which the self is what it makes itself through renunciation.
+Def: Culture and its realm of actuality is the formation by which the individual becomes what it is in itself and gains actuality and power in the measure that it is cultivated. Its actuality consists in sublating the natural self, so that original nature is reduced to a difference of greater or lesser energy of will. Here actuality is won only by what empties itself and becomes universal, and every fixed distinction of power and wealth, good and bad, noble and base, is found to turn into its contrary.
 Texts:
   The Phenomenology of Spirit
     ¶¶488–526
 Citations:
+  This individuality culturally educates itself into what it is in itself and only as a result is it in itself, does it have actual existence. The more it has such cultural education, the more it has actuality and power.
+    — The Phenomenology of Spirit ¶488 (tr. Pinkard)
+  What is determined as good is bad, and what is determined as bad is good.
+    — The Phenomenology of Spirit ¶520 (tr. Pinkard)

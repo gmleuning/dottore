@@ -43,8 +43,12 @@ Phr:
   heavier than water
 
 # ---- Hegel ----
-Def: The weight of a body related to its volume, the first individuation of matter in its relation to gravity.
+Def: Specific gravity or density is the first, simple specification of matter, the relation of the weight of a mass to its volume. In it matter, in its selfhood, tears itself free from its abstract relation to the central body and universal gravity, ceases to fill space uniformly and opposes a specific inwardness to abstract externality; pores explain nothing.
 Texts:
   The Philosophy of Nature
     §§293–294
 Citations:
+  The simple, abstract specification is the specific gravity or density of matter, a relation of the weight of its mass to the volume.
+    — Encyclopedia §293 (tr. Miller)
+  In this relation, matter, in its selfhood, tears itself free from its abstract relation to the central body, from universal gravity, ceases to be the uniform filling of space and opposes a specific inwardness to abstract asunderness.
+    — Encyclopedia §293 (tr. Miller)

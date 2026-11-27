@@ -48,8 +48,12 @@ Phr:
   mind over matter
 
 # ---- Hegel ----
-Def: Magic, the power of the self over nature, the first and crudest form of religion.
+Def: The religion of magic is the earliest form of religion, which one may well refuse to call religion at all. In it the spiritual is held to be the power over nature, but spirit is not yet present in its universality: it is only the singular, contingent self-consciousness, sheer desire, which nonetheless knows itself to be nobler than nature. Its power over nature is direct, and belongs especially to magicians.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religion of Magic
 Citations:
+  To be precise, it is the claim that the spiritual aspect is the power over nature; but this spiritual aspect is not yet present as spirit, is not yet present in its universality.
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Religion of Magic (tr. Brown, Hodgson and Stewart)
+  [T]he spiritual is at first just the singular and contingent human self-consciousness which, in spite of being only sheer desire, self-consciously knows itself to be nobler than nature, and knows that self-consciousness is a power transcending nature.
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Religion of Magic (tr. Brown, Hodgson and Stewart)

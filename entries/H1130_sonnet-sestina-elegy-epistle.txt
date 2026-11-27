@@ -11,8 +11,12 @@ Adj:
   epigrammatic
 
 # ---- Hegel ----
-Def: Forms in which reflection enters the song: the sonnet, sestina, elegy and verse epistle.
+Def: Sonnets, sestinas, elegies and epistles form a group that already rises above song: immediacy of feeling is raised to the communication of reflection and meditation that looks about in every direction and gathers particular insights under general categories. Knowledge and culture prevail, and although the individual still joins universal and particular, a wider view is taken.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  These kinds are already rising beyond the previously considered sphere of song.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  The immediacy of feeling and expression is raised here to a communication of reflection and of a meditation that looks around in every direction and brings together under more general categories individual insights and emotional experiences: knowledge, scholarship, culture in general should prevail.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

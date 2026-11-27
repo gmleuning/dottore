@@ -21,8 +21,12 @@ Phr:
   gold and ivory
 
 # ---- Hegel ----
-Def: Elfenbein: with gold, the material of the colossal chryselephantine statues, Phidias' Zeus and Athena.
+Def: Ivory was used with gold by Phidias for the great statues at Olympia and on the Acropolis, the nude parts of laminated ivory, robes of removable gold plates. It is a clean, smooth and costly material, belonging to the time when statues were coloured; in the Middle Ages it served for small crucifixes, images and drinking vessels.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
 Citations:
+  Ivory is a very clean material, smooth without the granular character of marble, and moreover costly
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)
+  In the Middle Ages ivory was used especially for smaller works of the most varied kinds, crucifixes, the Virgin, etc., but also for drinking vessels with pictures of hunts and similar scenes
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)

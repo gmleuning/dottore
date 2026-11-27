@@ -48,8 +48,12 @@ Phr:
   voluptales commendat rarior usus [Lat.] [Juvenal]
 
 # ---- Hegel ----
-Def: The soul's feeling of the determinacy it finds in itself, the dull stirring of spirit in its unconscious individuality.
+Def: Sensation is the form in which mind stirs dully in its unconscious and unintellectual individuality. The waking soul finds within itself, as its own, the determinacies of the content of its sleeping nature; each is simply found, not produced, and yet is taken up into the soul's universality and made ideal. Everything in sensation is immediate, undeveloped in content and not yet set over against a subject as an object, and so it is limited and transient. Everything that emerges in consciousness and reason first appears in it.
 Texts:
   The Philosophy of Mind
     §§399–402
 Citations:
+  Sensation is the form in which the mind weaves its sombre web in its unconscious and unintellectual individuality, where every determinacy is still immediate, posited in an undeveloped way both in its content and as an objective counterpart to the subject, belonging as it does to the subject's own most particular, natural peculiarity.
+    — Encyclopedia §400 (tr. Wallace and Miller, rev. Inwood)
+  Everything is in sensation, and, if you like, everything that emerges in the conscious mind and in reason has its source and origin in sensation; for source and origin just mean the first, most immediate manner in which something appears.
+    — Encyclopedia §400, Remark (tr. Wallace and Miller, rev. Inwood)

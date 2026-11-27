@@ -28,8 +28,12 @@ Phr:
   the circle of circles
 
 # ---- Hegel ----
-Def: The three syllogisms by which philosophy grasps itself, logic, nature and spirit each taking the middle in turn.
+Def: The concept of philosophy is the self-thinking idea, truth that knows, the logical as universality verified in concrete content as its actuality. With it science returns to its beginning, the logical now its result as the spiritual. Three syllogisms develop this appearance, each of logic, nature and spirit in turn serving as middle, until the eternal idea eternally sets itself to work, engenders and enjoys itself as absolute spirit.
 Texts:
   The Philosophy of Mind
     §§572–577
 Citations:
+  This concept of philosophy is the self-thinking Idea, the knowing truth (§236), the logical with the meaning that it is the universality verified in the concrete content as in its actuality.
+    — Encyclopedia §574 (tr. Wallace and Miller, rev. Inwood)
+  The eternal Idea, the Idea that is in and for itself, eternally remains active, engenders and enjoys itself as absolute mind.
+    — Encyclopedia §577 (tr. Wallace and Miller, rev. Inwood)

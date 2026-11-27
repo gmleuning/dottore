@@ -26,8 +26,12 @@ Adv:
   penitently, in penance
 
 # ---- Hegel ----
-Def: Die Buße und Bekehrung: the inward conversion of the heart, which achieves in the spirit what martyrdom sought through the body.
+Def: Repentance and conversion transfer the negation of the sinful self into the inner life, expressed only in spiritual grief and change of heart, and so give ground more fit for ideal art than bodily torture. Faith can make a crime alien to its doer and wash it away. Painting does best to concentrate the conversion in a single picture, as with Mary Magdalene.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Religious Domain of Romantic Art › The Spirit of the Community › Repentance and Conversion
 Citations:
+  This ground is the conversion of the inner life which expresses itself solely in its spiritual grief, in its change of heart.
+    — Aesthetics, The Spirit of the Community › Repentance and Conversion (tr. Knox)
+  Therefore things go most favourably for painting when it concentrates the conversion into one picture alone, without further detailing the crime.
+    — Aesthetics, The Spirit of the Community › Repentance and Conversion (tr. Knox)

@@ -8,8 +8,12 @@ N:
   song proper; art song, simple song
 
 # ---- Hegel ----
-Def: The song proper, in its simplest forms, rooted in a people, a company or a congregation.
+Def: The song proper, meant for singing to oneself or in company, needs little substance or lofty grandeur, which would hinder direct self-expression; whatever joy or grief is deeply felt finds its place there. Fleeting and ever renewed, it must still have universal validity, arousing the same feeling so that it passes from mouth to mouth.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  First, the song proper, meant for warbling in private or for singing in company.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  But all the same every song must not so much be a presentation of the personality of the poet himself as have a universal validity which makes it impress and please everyone and arouse the same feeling so that now it goes from mouth to mouth.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

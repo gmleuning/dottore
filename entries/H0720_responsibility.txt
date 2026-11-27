@@ -52,8 +52,10 @@ Phr:
   indifference is silent support for those who are strong, ravnodushie yest' molchalivaya podderzhka togo, kto silen [Rus.] [Lenin]
 
 # ---- Hegel ----
-Def: Schuld: the deed is imputed to the will as its own; it is responsible for what it has done, and liable for damage done by things it owns (§§115-116).
+Def: Responsibility (Schuld) is the imputation of a deed to the will as its own. Since the will acts on an external object in manifold circumstances, it is responsible in general for what it has altered insofar as the alteration is its own; this extends to damage done by things that are its property.
 Texts:
   The Philosophy of Right
     §§115–116
 Citations:
+  The finitude of the subjective will in the immediacy of acting consists immediately in the fact that its action presupposes an external object in manifold circumstances.
+    — The Philosophy of Right §115 (tr. Knox, rev. Houlgate)

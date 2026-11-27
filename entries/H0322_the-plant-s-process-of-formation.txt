@@ -33,8 +33,12 @@ Phr:
   shoot up
 
 # ---- Hegel ----
-Def: The plant's process of self-formation, its outward going in which each member is a whole plant.
+Def: The plant's process of formation is its inner relation to itself, which in so simple an organism is immediately a relation outward. It transforms absorbed nutriment into its own specific nature and organs, divides outwardly into root and leaf and inwardly into fibre and vessels, grows by fresh formations, and finally produces a new individual, the bud.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  The inner process of the plant's relation to itself is, in keeping with the simple nature of the vegetable organism itself, immediately a relation to an outer world, and an externalization.
+    — Encyclopedia §346 (tr. Miller)
+  The process of formation ought to be only an interior process of the plant, as a production of the plant from within itself; but because in the plant world the plant produces itself by coming out of itself, what it produces is an other—the bud.
+    — Encyclopedia §346, Addition (tr. Miller)

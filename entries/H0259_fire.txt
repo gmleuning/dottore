@@ -53,8 +53,12 @@ Phr:
   where there's smoke there's fire
 
 # ---- Hegel ----
-Def: Air posited as unrest, the materialized time, a consuming of another that is also its own consuming.
+Def: Fire is being-for-self posited as a moment of individuality, its unrest existing on its own account: air posited as a negative, self-relating universality. It is materialized time or selfhood, the absolutely restless and consuming element, which exists only in relation to a particular body it destroys, whether attacking from without or by friction, and in consuming consumes itself.
 Texts:
   The Philosophy of Nature
     §283
 Citations:
+  It is materialized time or selfhood (light identical with heat), the absolutely restless and consuming Element
+    — Encyclopedia §283 (tr. Miller)
+  The first universality (air) is a dead affirmation; the veritable affirmation is fire.
+    — Encyclopedia §283, Addition (tr. Miller)

@@ -28,8 +28,12 @@ Phr:
   true to type
 
 # ---- Hegel ----
-Def: The middle is the genus, the substantial nature of the extremes.
+Def: The categorical syllogism has one or both premises categorical and takes objective universality as its middle term. In its full import it is the first syllogism of necessity, in which a subject is joined with a predicate through its substance, the essential nature of the singular and not just any property. The contingency of connecting a subject with just any quality through just any middle falls away, and with it the endless demand for proof.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of necessity › The categorical syllogism
 Citations:
+  Taken in its full import, the categorical syllogism is the first syllogism of necessity, one in which a subject is conjoined with a predicate through its substance.
+    — The Science of Logic, The syllogism of necessity › The categorical syllogism (tr. di Giovanni)
+  But since the middle term is the essential nature of the singular and not just one or other of its determinacies or properties, and likewise the extreme of universality is not any abstract universal, nor just any singular quality either, but is rather the universal determinateness of the genus, its specific difference, we no longer have the contingency of a subject being conjoined with just any quality through just any middle term.
+    — The Science of Logic, The syllogism of necessity › The categorical syllogism (tr. di Giovanni)

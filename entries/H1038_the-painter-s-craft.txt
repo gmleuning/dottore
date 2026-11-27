@@ -45,8 +45,12 @@ Phr:
   conception, composition, character
 
 # ---- Hegel ----
-Def: The painter's craft, conception, composition and characterization.
+Def: The painter's craft is the manner in which subject matter is conceived and executed in painting's material. It divides into the general modes of conception, advancing toward ever richer liveliness; composition, the pictorial motives of the chosen situation and grouping; and characterization, which proceeds from differences in the objects portrayed and in the way they are conceived.
 Texts:
   Aesthetics
     Painting › Particular Characteristics of Painting › Conception, Composition, and Characterization
 Citations:
+  Thirdly, and finally, it still remains to us to establish the manner in which the artist, as a painter, is to conceive and execute his subject-matter in conformity with this specific sensuous material.
+    — Aesthetics, Particular Characteristics of Painting › Conception, Composition, and Characterization (tr. Knox)
+  First, it is the more general modes of conception which we must distinguish and follow in their advance to an ever richer liveliness.
+    — Aesthetics, Particular Characteristics of Painting › Conception, Composition, and Characterization (tr. Knox)

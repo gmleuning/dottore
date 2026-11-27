@@ -46,8 +46,12 @@ Phr:
   omne ignotum pro magnifico [Lat.]
 
 # ---- Hegel ----
-Def: The struggle of pure insight against faith, in which insight misunderstands faith and itself.
+Def: The struggle of Enlightenment with superstition is the conflict of pure insight with faith, two forms of the same pure consciousness, in which each is the negative of the other. Insight takes every content from faith's calm thought and returns it to the earth. Faith, robbed of what filled it, sinks into longing for an empty beyond and becomes the same as Enlightenment, a relation of the finite to an unknown absolute, only dissatisfied where the other is satisfied.
 Texts:
   The Phenomenology of Spirit
     ¶¶541–573
 Citations:
+  As they come on the scene confronting each other, all content corresponds to faith, for in its element of motionless thinking, every moment gains stable existence.
+    — The Phenomenology of Spirit ¶541 (tr. Pinkard)
+  The only difference is that the Enlightenment is satisfied Enlightenment, whereas faith is the unsatisfied Enlightenment.
+    — The Phenomenology of Spirit ¶573 (tr. Pinkard)

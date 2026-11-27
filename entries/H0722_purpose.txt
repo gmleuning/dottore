@@ -28,8 +28,10 @@ Phr:
   weak resolve stunts wisdom, bad faith fails in action, zhi bu qiang zhe zhi bu da, yan bu xin zhe xing bu guo [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: Vorsatz: the deed as the will purposed it, what lay in its knowledge and aim, as distinct from consequences that fall outside it (§118).
+Def: Purpose (Vorsatz) is the deed as the will intended it. Action passes into external existence and has a multitude of consequences; those that are the outward form of the action's aim belong to it, while others are external and contingent. The will has the right to own only those consequences that lay in its purpose.
 Texts:
   The Philosophy of Right
     §118
 Citations:
+  Hence action has a multitude of consequences. These consequences are the outward form whose inner soul is the aim of the action, and thus they are the consequences of the action, they belong to the action.
+    — The Philosophy of Right §118 (tr. Knox, rev. Houlgate)

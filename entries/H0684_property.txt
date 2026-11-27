@@ -57,8 +57,12 @@ Phr:
   tuum est [Lat.]
 
 # ---- Hegel ----
-Def: The person's sphere of freedom in an external thing, which becomes mine by my will put into it.
+Def: Property is the external sphere in which the person gives its freedom existence. A thing has no end of its own and receives its determination and soul from the will put into it, so the person has the right to make any thing its own. The rationale of property lies not in satisfying needs but in the will gaining an objective existence.
 Texts:
   The Philosophy of Right
     §§41–71
 Citations:
+  A person has as his substantial end the right of putting his will into any and every thing and thereby making it his, because it has no such end in itself and derives its determination and soul from his will. This is the absolute right of appropriation which human beings have over all ‘things’.
+    — The Philosophy of Right §44 (tr. Knox, rev. Houlgate)
+  The rationale of property is to be found not in the satisfaction of needs but in the supersession of the pure subjectivity of personality. In his property a person exists for the first time as reason.
+    — The Philosophy of Right §41, Addition (tr. Knox, rev. Houlgate)

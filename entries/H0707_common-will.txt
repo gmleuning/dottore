@@ -34,8 +34,10 @@ Phr:
   of one mind
 
 # ---- Hegel ----
-Def: The common will of the contract, the identity of wills which is the essence of right.
+Def: The common will of contract is the identity of the parties' wills, which in contract they posit as common. Since the parties are immediate persons, their particular wills agree with the will in itself only by chance, though the will in itself exists only through them. This contingency makes wrong possible.
 Texts:
   The Philosophy of Right
     §81
 Citations:
+  In any relation of immediate persons to one another, their wills, while in themselves [an sich] identical and in contract posited by them as common, are yet particular. Because they are immediate persons, it is a matter of chance whether or not their particular wills actually correspond with the will in itself, although it is only through the former that the latter has its real existence.
+    — The Philosophy of Right §81 (tr. Knox, rev. Houlgate)

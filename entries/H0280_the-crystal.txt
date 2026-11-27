@@ -35,8 +35,12 @@ Phr:
   to crystallize
 
 # ---- Hegel ----
-Def: Shape as the realized totality, the crystal, whose form is shaped from within in three dimensions.
+Def: The crystal is shape as realized totality, the activity of magnetism passed over into its product. The magnetic poles are neutralized, and one active form crystallizes the body outwardly by bounding the sphere and shapes its inner continuity through and through. Here magnetism and sphericity are united, restless activity comes to rest, and everything is set in its place.
 Texts:
   The Philosophy of Nature
     §315
 Citations:
+  In the third determination we first have shape as the unity of magnetism and sphericity
+    — Encyclopedia §315, Addition (tr. Miller)
+  But the individual crystal, as real magnetism, is this totality in which the urge has died down and the oppositions have been neutralized into the form of indifference
+    — Encyclopedia §315, Addition (tr. Miller)

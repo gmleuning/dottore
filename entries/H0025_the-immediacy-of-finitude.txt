@@ -30,8 +30,12 @@ Phr:
   the end of the line
 
 # ---- Hegel ----
-Def: The finite in its immediacy, determined only to perish, its passing away fixed as its unalterable being.
+Def: The immediacy of the finite is finitude taken in its simplest form, as qualitative negation returned to the abstract opposition of perishing and nothing to being. Things are left with no affirmative being apart from their determination to ruin. The finite may be put into flux, for that it should end is its only determination, but it refuses to be brought affirmatively to its affirmative, the infinite. So held, its finitude is eternal. The development of finitude shows, however, that the finite collapses within itself as this contradiction, and that perishing itself perishes.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Finitude › The immediacy of finitude
 Citations:
+  The thought of the finitude of things brings this mournful note with it because finitude is qualitative negation driven to the extreme, and in the simplicity of such a determination there is no longer left to things an affirmative being distinct from their determination as things destined to ruin.
+    — The Science of Logic, Finitude › The immediacy of finitude (tr. di Giovanni)
+  The development of the finite will show that, expressly as this contradiction, it collapses internally, but that, in this collapse, it actually resolves the contradiction; it will show that the finite is not just perishable, and that it perishes, but that the perishing, the nothing, is rather not the last of it; that the perishing rather perishes.
+    — The Science of Logic, Finitude › The immediacy of finitude (tr. di Giovanni)

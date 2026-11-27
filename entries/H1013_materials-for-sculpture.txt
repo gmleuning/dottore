@@ -33,8 +33,12 @@ Phr:
   true to the material
 
 # ---- Hegel ----
-Def: The materials of sculpture, from wood to marble and precious stone.
+Def: The materials of sculpture must be examined because individuality particularizes not only subjects and modes but matter, different kinds of subject and treatment having a secret sympathy with kinds of material. The Greeks amaze by technical skill as much as invention, since complete mastery of the material belongs to the ideal, which wholly enters the sensuous and fuses inner with outer.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture
 Citations:
+  For different kinds of subject-matter and mode of treatment are closely connected with different kinds of physical material and have a secret sympathy and harmony with them.
+    — Aesthetics, The Different Kinds of Portrayal and Material › Materials for Sculpture (tr. Knox)
+  Yet this developed skill in the completely perfect handling of the material is inherent in the very nature of the ideal itself, because the ideal has, as its principle, entire entry into the sensuous field and the fusion of the inner life with its external existence.
+    — Aesthetics, The Different Kinds of Portrayal and Material › Materials for Sculpture (tr. Knox)

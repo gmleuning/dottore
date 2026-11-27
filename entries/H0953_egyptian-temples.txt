@@ -29,8 +29,12 @@ Phr:
   temple of Karnak
 
 # ---- Hegel ----
-Def: The Egyptian temples, avenues of sphinxes, a labyrinth of courts and halls.
+Def: Egyptian temple precincts are huge open constructions, without roofs, of gates, partitions, porticos and forests of columns, which astonish by colossal mass and variety. They do not house a god or a congregation but are symbols of universal meanings, even substitutes for books through their hieroglyphs: long avenues of sphinxes, pylons and courts end in a small shrine. Building was itself a cult uniting king and people.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture › Egyptian Temples
 Citations:
+  It consists in the fact that they are open constructions, without roofing, gates, or passages between partitions, especially between porticos and whole forests of columns.
+    — Aesthetics, Architectural Works wavering between Architecture and Sculpture › Egyptian Temples (tr. Knox)
+  For this reason this building and constructing is seen to be an end in itself, as itself a cult in which King and people are united.
+    — Aesthetics, Architectural Works wavering between Architecture and Sculpture › Egyptian Temples (tr. Knox)

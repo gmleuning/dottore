@@ -29,8 +29,12 @@ Phr:
   the magic of colour
 
 # ---- Hegel ----
-Def: The material of painting: the surface, and light and colour as its element.
+Def: The sensuous material of painting is the surface, with light and colour. Painting contracts three dimensions to two, a reduction implicit in the principle of inwardness and no defect or caprice but the necessary advance beyond sculpture: the object does not remain a real spatial existent but becomes a reflection of spirit, a pure appearance in the domain of spirit presented to spirit.
 Texts:
   Aesthetics
     Painting › General Character of Painting › The Sensuous Material of Painting
 Citations:
+  Painting, however, does allow space to persist and extinguishes only one of the three dimensions, so that a surface becomes the medium of its representations.
+    — Aesthetics, General Character of Painting › The Sensuous Material of Painting (tr. Knox)
+  So painting does indeed work for our vision, but in such a way that the object which it presents does not remain an actual total spatial natural existent but becomes a reflection of the spirit in which the spirit only reveals its spiritual quality by cancelling the real existent and transforming it into a pure appearance in the domain of spirit for apprehension by spirit.
+    — Aesthetics, General Character of Painting › The Sensuous Material of Painting (tr. Knox)

@@ -27,8 +27,12 @@ Phr:
   in a daze
 
 # ---- Hegel ----
-Def: The forms in which the soul's sunken life appears when it is cut loose from mediated consciousness.
+Def: The magnetic states appear when the two sides of soul life, the unmediated relation of the feeling soul to its individual world and the mediated relation to an objectively connected world, come apart and break loose from each other. This divergence is an illness, in which the soul side, grown independent of mental consciousness, usurps its function. It shows itself in sleepwalking, catalepsy and other conditions, and especially in animal magnetism, whether it arises of itself in an individual or is produced in one individual by another.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  When these two sides diverge and break loose from their reliance on each other, this must be designated an illness, since this divergence, in contrast to the modes of formal subjectivity considered in the Zusatz to §405, does not constitute a moment of objective life itself.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  Among the illnesses in which this universal can appear are sleepwalking, catalepsy, the onset of puberty in young women, the state of pregnancy, also St Vitus's dance, and the moment of approaching death as well, if death brings about the relevant splitting of life into a weakening healthy, mediated consciousness and a soulful awareness approaching ever closer to complete ascendancy; but especially we must examine here the state which has been called animal magnetism, both when it develops by itself in an individual and when it is produced in a particular manner in the individual by another individual.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

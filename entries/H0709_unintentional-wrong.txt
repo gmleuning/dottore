@@ -41,8 +41,10 @@ Phr:
   an honest mistake
 
 # ---- Hegel ----
-Def: Wrong without the intent to wrong, a collision of rights claims, as in civil disputes.
+Def: Unintentional wrong arises where several grounds of title clash over one thing, as in civil suits. Each party holds its own claim to be right, but all recognize right as the universal and decisive factor; the dispute is only about which particular claim falls under it, so right itself is not denied.
 Texts:
   The Philosophy of Right
     §§84–86
 Citations:
+  This clash which arises when a thing has been claimed on some ground, and which comprises the sphere of civil suits, entails the recognition of right as the universal and decisive factor, so that it is common ground that the thing in dispute should belong to the party who has the right to it.
+    — The Philosophy of Right §85 (tr. Knox, rev. Houlgate)

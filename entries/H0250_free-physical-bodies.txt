@@ -33,8 +33,12 @@ Phr:
   the starry heavens
 
 # ---- Hegel ----
-Def: The heavenly bodies as physical qualities: light, its opposition in moon and comet, and the planet that unites them.
+Def: The free physical bodies are the heavenly bodies taken as physical qualities. Matter as pure identity with itself exists as light, in the star and the sun; the opposition to light falls apart into a rigid body and a dissolved one, moon and comet; and this opposition, gone back into itself, is the planet, the body of the individual totality.
 Texts:
   The Philosophy of Nature
     §§275–280
 Citations:
+  This existent, universal self of matter is Light—as an individuality it is a star; as a star which is a moment of a totality, it is the sun.
+    — Encyclopedia §275 (tr. Miller)
+  The opposition which has gone back into itself is the Earth, or the Planet as such.
+    — Encyclopedia §280 (tr. Miller)

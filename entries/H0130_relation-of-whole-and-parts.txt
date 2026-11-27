@@ -50,8 +50,12 @@ Phr:
   caetera desunt [Lat.]
 
 # ---- Hegel ----
-Def: The immediate relation: the whole consists of parts and is nothing without them, the parts are parts only of the whole.
+Def: The relation of whole and parts is the first, immediate essential relation. The whole is the self-subsistence reflected into itself, in which the parts are moments; the parts are immediate, manifold existence, to which the unity is only external. Each side is conditioned by the other and also self-subsisting, and they are bound by a mere "also". This contradiction of self-subsisting sides, each only through the other, resolves itself into force.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The essential relation › The relation of whole and parts
 Citations:
+  The whole is the self-subsistent; the parts are only moments of this unity, but they are also equally self-subsistent
+    — The Science of Logic, The essential relation › The relation of whole and parts (tr. di Giovanni)
+  In the relation of whole and parts, the two sides are these self-subsistences but in such a way that each has the other reflectively shining in it and, at the same time, only is as the identity of both.
+    — The Science of Logic, The essential relation › The relation of whole and parts (tr. di Giovanni)

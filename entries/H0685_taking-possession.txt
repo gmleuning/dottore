@@ -44,8 +44,12 @@ Phr:
   uti possidetis [Lat.]
 
 # ---- Hegel ----
-Def: The appropriation of a thing, by bodily seizure, by giving it form, or by marking it as mine.
+Def: Taking possession is the act by which the will makes a thing its own: by grasping it physically, by forming it, or by merely marking it as one's own. The three modes advance from the individual to the universal, from bodily seizure of a single thing to a sign which claims the thing as a whole in idea.
 Texts:
   The Philosophy of Right
     §§54–58
 Citations:
+  We take possession of a thing (α) by directly grasping it physically, (β) by forming it, and (γ) by merely marking it as ours.
+    — The Philosophy of Right §54 (tr. Knox, rev. Houlgate)
+  These modes of taking possession involve the advance from the category of individuality to that of universality. It is only of an individual thing that we can take possession physically, while marking a thing as mine is taking possession of it in idea [Vorstellung].
+    — The Philosophy of Right §54, Addition (tr. Knox, rev. Houlgate)

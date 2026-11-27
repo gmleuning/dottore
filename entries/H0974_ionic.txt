@@ -26,8 +26,12 @@ Phr:
   the matronly order
 
 # ---- Hegel ----
-Def: The Ionic, more slender and graceful, with its spiral volutes.
+Def: Ionic architecture, still simple, rises from Doric's solidity to the slender, graceful and elegant: columns seven to ten diameters high, set on moulded bases, tapering to a slender top with deep flutes, and capitals enriched with shell-like curls. It requires a lighter architrave and no longer points to an origin in building with wood.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders
 Citations:
+  While the Doric style already develops into a character of pleasing solidity, Ionic architecture, though still simple, rises to what is typically slender, graceful, and elegant.
+    — Aesthetics, The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders (tr. Knox)
+  Granted this attractive slenderness and decoration of the columns, Ionic architecture now demands a bearing architrave which is less heavy and therefore is applied to making the building more graceful.
+    — Aesthetics, The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders (tr. Knox)

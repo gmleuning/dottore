@@ -14,8 +14,12 @@ Phr:
   to eat one's fill
 
 # ---- Hegel ----
-Def: Desire that destroys its object, and so must always reproduce it as other.
+Def: Desire destroys the object it meets. Certain of the nullity of the other, self-consciousness sets down that nullity as its truth, annihilates the self-sufficient object and thereby gives itself a certainty of itself that has become objective. Yet the destroying cannot finish its work: for there to be a sublating there must be something other, so that through its negative relation to the object self-consciousness does not get rid of it but engenders it again, and the desire along with it.
 Texts:
   The Phenomenology of Spirit
     ¶¶174–175
 Citations:
+  Certain of the nullity of this other, it posits for itself this nullity as its truth, it destroys the self-sufficient object, and it as a result gives itself the certainty of itself as true certainty, as the sort of certainty which, to itself, has come to be in an objective manner.
+    — The Phenomenology of Spirit ¶174 (tr. Pinkard)
+  Self-consciousness is thus unable through its negative relation to the object to sublate it, and for that reason it again, instead re-engenders the object as well as the desire.
+    — The Phenomenology of Spirit ¶175 (tr. Pinkard)

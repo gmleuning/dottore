@@ -17,8 +17,12 @@ Phr:
   remaining, procession, return, monē, proodos, epistrophē [Gr.] [Proclus]
 
 # ---- Hegel ----
-Def: The Athenian school, Proclus above all, in whom the Neoplatonic triad is most fully developed; it ends with the closing of the schools in 529.
+Def: Proclus, who taught as head of the school in Athens, is much more definite than Plotinus and goes further; his work contains what is most highly developed in the Neoplatonists, the triad of the One, the unlimited, and the limit. In 529 the Emperor Justinian had the school closed and banished the pagan philosophers.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Neoplatonic Philosophy › Proclus
 Citations:
+  Proclus is much more definite and has gone much further than did Plotinus
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › Proclus (tr. Brown)
+  In AD 529 the Emperor Justinian had this school closed, and he banished all pagan philosophers from the Empire
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › Proclus (tr. Brown)

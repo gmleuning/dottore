@@ -36,8 +36,12 @@ Phr:
   I am that I am [Bible]
 
 # ---- Hegel ----
-Def: The totality of conditions and ground, which presupposes nothing further and from which the fact comes forth.
+Def: The absolutely unconditioned is the one whole that condition and ground prove to be. At first each shines in the other while keeping a content of its own. But the forms of condition are not external to immediate existence: it is the nature of being to sublate its immediacy and go to ground, and so to be the becoming of essence. Condition is thus the whole form of the ground-connection, which both founders to the ground and is ground, one and the same movement.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Condition › The absolutely unconditioned
 Citations:
+  Being is as such only the becoming of essence; it is its essential nature to make itself into a positedness and into an identity which is an immediacy through the negation of itself.
+    — The Science of Logic, Condition › The absolutely unconditioned (tr. di Giovanni)
+  Condition is, therefore, the whole form of the ground-connection
+    — The Science of Logic, Condition › The absolutely unconditioned (tr. di Giovanni)

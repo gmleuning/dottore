@@ -26,8 +26,12 @@ Phr:
   when gods walked among men
 
 # ---- Hegel ----
-Def: The epic world-situation, the heroic age in which the individual and the community are one.
+Def: The epic world-situation is a state of life already present to individuals yet closely bound to them by primitive common life: the relations of family and people developed, but not yet fixed in institutions and laws valid apart from living individuals, resting on custom, justice and character. So heroes share an objective community while their action appears to spring freely from their own will.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › Particular Characteristics of Epic Proper › The General World-Situation of Epic
 Citations:
+  The state of human life most suitable as the background of an epic is that in which it exists for individuals already as a present reality but which remains most closely connected with them by the tie of a common primitive life.
+    — Aesthetics, Particular Characteristics of Epic Proper › The General World-Situation of Epic (tr. Knox)
+  Thus in epic we find an underlying community of objective life and action, but nevertheless a freedom in this action and life which appear to proceed entirely from the subjective will of individuals.
+    — Aesthetics, Particular Characteristics of Epic Proper › The General World-Situation of Epic (tr. Knox)

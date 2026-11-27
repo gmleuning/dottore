@@ -42,8 +42,12 @@ Phr:
   to move the goalposts
 
 # ---- Hegel ----
-Def: The dissemblance of the moral consciousness, which shifts its ground at every postulate.
+Def: Dissemblance is what the moral worldview shows itself to be when its postulates are examined: a nest of thoughtless contradictions. Consciousness fixes one moment, passes at once into its opposite and cancels the first, and as soon as it has set up the second it shifts its ground again, making the contrary into the essence. Knowing both its contradiction and its shifting, it confesses that it is in earnest about neither side.
 Texts:
   The Phenomenology of Spirit
     ¶¶616–631
 Citations:
+  The moral worldview is thus in fact nothing but the elaboration of this fundamental contradiction according to its various aspects. It is, to use a most appropriately Kantian phrase here, a whole nest of thoughtless contradictions.
+    — The Phenomenology of Spirit ¶617 (tr. Pinkard)
+  It thereby confesses that it is in fact serious about neither of them.
+    — The Phenomenology of Spirit ¶617 (tr. Pinkard)

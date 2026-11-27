@@ -11,8 +11,12 @@ Adj:
   thematic
 
 # ---- Hegel ----
-Def: The determinate content, taken up by Phantasie, which is the true source of Begeisterung.
+Def: The theme is the specific object and subject matter on which artistic interest has already concentrated before inspiration arises, and to which an artistic urge of the right kind holds firm. Where such interest is lacking, resorting to sensuous stimulus or mere will only proves that heart and imagination have fastened on nothing true. True inspiration kindles on such material and is filled by it.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  But if the artistic urge is of the right kind, this interest has already in advance been concentrated on a specific object and theme and kept firmly to it.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  [A]nd to make use of such means proves only that the heart and the imagination have not yet fastened on any true interest.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

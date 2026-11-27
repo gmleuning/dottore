@@ -26,8 +26,12 @@ Phr:
   thought and being opposed
 
 # ---- Hegel ----
-Def: Modern philosophy, which begins from the thinking self and the opposition of thought and being.
+Def: With the modern era thinking emerges on its own account, separating itself from theology and arising essentially as something subjective, in antithesis to a being that subsists outside it. Its exclusive concern is to reconcile this opposition and conceive the cleavage of being and thinking at its most extreme; from this point onward all philosophy concerns itself with this unity.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy
 Citations:
+  [T]hinking at this stage arises essentially as something subjective in such a way that it has an antithesis in [outwardly] subsistent being.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy (tr. Brown)
+  From this point onward all philosophy concerns itself with this unity.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy (tr. Brown)

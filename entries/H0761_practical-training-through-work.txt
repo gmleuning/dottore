@@ -23,8 +23,10 @@ Phr:
   der Barbar ist faul [Ger.] [Hegel, Philosophy of Right §197 Zusatz]
 
 # ---- Hegel ----
-Def: Practical Bildung through labour: the need for and habit of occupation, the restriction of one's activity by the material and by the will of others, and the general skills won by this discipline (§197).
+Def: Practical education through work is the formation acquired by working: the self-perpetuating need for something to do and the habit of being busy, the strict adaptation of one's activity to the material and to the will of others, and the habit of objective activity and of universally applicable skills.
 Texts:
   The Philosophy of Right
     §197
 Citations:
+  Practical education, acquired through working, consists first in the self-perpetuating need for something to do and the habit of simply being busy; next, in the strict adaptation of one’s activity according not only to the nature of the material worked on, but also, and especially, to the arbitrary will of others
+    — The Philosophy of Right §197 (tr. Knox, rev. Houlgate)

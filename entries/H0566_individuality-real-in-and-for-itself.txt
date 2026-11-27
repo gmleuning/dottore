@@ -31,8 +31,12 @@ Phr:
   to be oneself
 
 # ---- Hegel ----
-Def: Individuality that knows its action to be the real, the interpenetration of self and being.
+Def: Individuality that is real in and for itself is self-consciousness that has grasped its own concept, being certain that in itself it is all reality, and whose purpose is now the self-moving permeation of the universal, its gifts and abilities, with individuality. It no longer sets a purpose against an existing actuality that it must overcome: doing is its own truth and actuality, and the expression of individuality is its end. It appears as the spiritual animal kingdom, then as reason giving laws, and testing them.
 Texts:
   The Phenomenology of Spirit
     ¶¶394–437
 Citations:
+  Self-consciousness has now grasped the concept of itself, which was initially only our concept of it, namely, that in its certainty of itself, it is all reality
+    — The Phenomenology of Spirit ¶394 (tr. Pinkard)
+  The doing is in its own self its own truth and actuality, and the exhibition or expression of individuality is, to itself, its purpose in and for itself.
+    — The Phenomenology of Spirit ¶394 (tr. Pinkard)

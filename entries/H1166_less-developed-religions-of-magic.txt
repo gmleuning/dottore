@@ -46,8 +46,12 @@ Phr:
   adorer le veau d'or [Fr.]
 
 # ---- Hegel ----
-Def: The less developed forms of magic, among peoples of the Eskimos and Africa, as Hegel describes them.
+Def: Hegel illustrates the less developed forms of magic from travellers' and older reports, among the Eskimos and in Africa. There is no representation of a universal being; magicians or conjurers claim to command rain, gales and animals, often by putting themselves into a wild state of ecstasy. Where a state exists the king may stand at their head, and the people may reward or ill-treat their magicians.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religion of Magic › Less Developed Religions of Magic
 Citations:
+  They have no representation of a universal essence.
+    — Lectures on the Philosophy of Religion, The Religion of Magic › Less Developed Religions of Magic (tr. Brown, Hodgson and Stewart)
+  [T]hese people also transport themselves into a state of ecstasy, a wild state of stupefaction. This state is the higher standpoint that they attain in contrast with ordinary consciousness and ordinary action.
+    — Lectures on the Philosophy of Religion, The Religion of Magic › Less Developed Religions of Magic (tr. Brown, Hodgson and Stewart)

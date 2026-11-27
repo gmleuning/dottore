@@ -25,8 +25,12 @@ Phr:
   all is water [Thales]
 
 # ---- Hegel ----
-Def: Greek philosophy from Thales to Aristotle, from the natural principle to thought thinking itself.
+Def: The period from Thales to Aristotle falls into three divisions. From Thales to Anaxagoras the absolute is first determined, ending in objective thought that determines itself. The Sophists, Socrates, and the Socratics bring in the principle of subjectivity. In Plato and Aristotle objective thought shapes itself into a whole, in Aristotle as the idea in its efficacy.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › From Thales to Aristotle
 Citations:
+  We begin from the absolute as such, or with what is simple. Then the first determinations within the absolute come to light. These first attempts at definition, these initial modes of determination, occupy the Greek thinkers down to Anaxagoras.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › From Thales to Aristotle (tr. Brown)
+  Plato and Aristotle, Greek science, where objective thought shapes itself into a whole.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › From Thales to Aristotle (tr. Brown)

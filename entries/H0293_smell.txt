@@ -48,8 +48,12 @@ Phr:
   to follow one's nose
 
 # ---- Hegel ----
-Def: The body's specific individuality as a volatile process with air, its silent consuming of itself into odour.
+Def: Smell is the body's specific individuality as a simple theoretical process with air, the invisible destroyer: the combustible principle of the body relates to air and is silently volatilized in it as odour. Conceived as a separate odorous matter this property is oil, which burns as flame; as a mere property it exists in the smell of metals.
 Texts:
   The Philosophy of Nature
     §321
 Citations:
+  This principle, which is also externally different, is a relationship to the negative side of elemental universality, to air, the invisible destroyer (§ 282); it is the process of air on material body: it is specific individuality as a simple theoretical process, the invisible volatilization of body in air—Odour.
+    — Encyclopedia §321 (tr. Miller)
+  The property of odour possessed by bodies, conceived as a separately existent odorous matter, is oil, matter which burns as flame.
+    — Encyclopedia §321, Remark (tr. Miller)

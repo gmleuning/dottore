@@ -33,8 +33,12 @@ Phr:
   one's sense of
 
 # ---- Hegel ----
-Def: The body's specific difference in relation to air and water: smell and taste.
+Def: Difference in particularized corporeality is the body's specific relation to the elements of air and water, in smell and taste, the senses of difference, which belong already to a developing process. As combustibility the body relates to air, which invisibly volatilizes it into odour; as individualized neutrality, salt, it relates to water, in which it dissolves and is tasted.
 Texts:
   The Philosophy of Nature
     §§321–322
 Citations:
+  The second moment, that of opposition, as exhibited in the individual body, is Odour and Taste; they are the senses of Difference and belong already to self-developing process.
+    — Encyclopedia §321, Addition (tr. Miller)
+  They are very closely allied and in Swabia not distinguished, so that there one has only four senses.
+    — Encyclopedia §321, Addition (tr. Miller)

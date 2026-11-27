@@ -27,8 +27,12 @@ Phr:
   the lyric moment
 
 # ---- Hegel ----
-Def: The particular aspects of the lyric: the poet, the poem, its kinds.
+Def: The particular aspects of lyric are the personality of the poet and the ramification of kinds, which matter here as they did not in the study of primitive epic, because lyric's principle is the individualizing and particularizing of subject matter and forms. They are treated as the lyric poet, the lyric work as product of subjective imagination, and the kinds.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry
 Citations:
+  On the contrary the most important topics for discussion here are the personality of the poet and the ramification of the different kinds into which lyric can expand, since it has as its principle the individualizing and particularizing of its subject-matter and its forms.
+    — Aesthetics, Lyric Poetry › Particular Aspects of Lyric Poetry (tr. Knox)
+  (a) We have to direct our attention to the lyric poet; (b) then we must consider the lyric work of art as a product of his subjective imagination; (c) and finally mention the kinds of lyrical portrayal which emanate from its essential nature.
+    — Aesthetics, Lyric Poetry › Particular Aspects of Lyric Poetry (tr. Knox)

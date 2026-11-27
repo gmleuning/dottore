@@ -34,8 +34,12 @@ Phr:
   drawing and colour
 
 # ---- Hegel ----
-Def: Painting's material in its particularity: linear perspective, drawing, and colour, chiaroscuro and its magic.
+Def: The sensuous material of painting in its particularity includes linear perspective, which on a single surface renders distance by foreground, background and diminishing size; drawing, which gives objects distance and shape, its sculptural element; and above all colour, which makes a painter a painter, in chiaroscuro, where Leonardo and Correggio excelled, and in a play of reflections passing toward music.
 Texts:
   Aesthetics
     Painting › Particular Characteristics of Painting › More Detailed Characterization of the Sensuous Material of Painting
 Citations:
+  Consequently, it is colour, colouring, which makes a painter a painter.
+    — Aesthetics, Particular Characteristics of Painting › More Detailed Characterization of the Sensuous Material of Painting (tr. Knox)
+  What is relevant here, in connection with modelling, is mastery of chiaroscuro where, amongst the Italians, Leonardo da Vinci and, above all, Correggio, were supreme.
+    — Aesthetics, Particular Characteristics of Painting › More Detailed Characterization of the Sensuous Material of Painting (tr. Knox)

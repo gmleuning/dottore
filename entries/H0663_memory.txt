@@ -54,8 +54,12 @@ Phr:
   the memory failing, the memory deserting one, being at fault, being in fault
 
 # ---- Hegel ----
-Def: The mind's retention of names, its reproduction of them, and its mechanical memory, which passes into thought.
+Def: Memory is the third stage of representation, in which intelligence runs through with the intuition of the word the same activities of recollection that representation ran through with the first intuition. It retains the meaning of names, reproduces the thing in the name without intuition or image, and at last holds senseless words in series, becoming something external to itself. Through this it forms the transition to thinking.
 Texts:
   The Philosophy of Mind
     §§461–464
 Citations:
+  Intelligence, as memory, runs through the same activities of recollection regarding the intuition of the word, that intelligence, as representation in general, runs through regarding the first immediate intuition
+    — Encyclopedia §461 (tr. Wallace and Miller, rev. Inwood)
+  We consider memory in three forms: first, name-retaining memory; second, reproductive memory; third, mechanical memory.
+    — Encyclopedia §461, Addition (tr. Wallace and Miller, rev. Inwood)

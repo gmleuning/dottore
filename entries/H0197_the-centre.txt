@@ -44,8 +44,12 @@ Phr:
   the hub of the universe
 
 # ---- Hegel ----
-Def: The objective universality of the object, the centre, as the sun is to the planets.
+Def: The centre is the empty manifold of objects gathered into objective singularity, the self-determining middle point that is their objective universality, their pervading immanent essence. In nature it is the central body, genus of the single bodies, toward which they strive and in union with which they rest, though this unity remains an ought. In spiritual things the centre takes higher forms, but the unity of the concept with its reality must there too be fundamental.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism › Absolute mechanism › The center
 Citations:
+  In the material world it is the central body which is the genus or rather the individualized universality of the single objects and their mechanical process.
+    — The Science of Logic, Absolute mechanism › The center (tr. di Giovanni)
+  In things spiritual the center, and the union with it, assume higher forms; but the unity of the concept and the reality of that unity, which is here in a first instance mechanical centrality, must there too constitute the fundamental determination.
+    — The Science of Logic, Absolute mechanism › The center (tr. di Giovanni)

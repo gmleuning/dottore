@@ -29,8 +29,12 @@ Phr:
   the laws of the Medes and Persians
 
 # ---- Hegel ----
-Def: Persia, the light religion, theocratic monarchy, the first historical people.
+Def: The empire with which continuous history begins, its people being the first that is historical, subject to development and revolution and in the end to passing away. Its principle is light, a pure unity that governs individuals while leaving them free to develop their own character, so that many peoples of distinct customs are held together without losing their individuality.
 Texts:
   The Philosophy of History
     The Oriental World › Persia
 Citations:
+  With the Persian Empire we first enter on continuous History. The Persians are the first Historical People; Persia was the first Empire that passed away.
+    — The Philosophy of History, The Oriental World › Persia (tr. Sibree)
+  We see in the Persian World a pure exalted Unity, as the essence which leaves the special existences that inhere in it, free;—as the Light, which only manifests what bodies are in themselves; — a Unity which governs individuals only to excite them to become powerful for themselves—to develop and assert their individuality.
+    — The Philosophy of History, The Oriental World › Persia (tr. Sibree)

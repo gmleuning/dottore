@@ -28,8 +28,12 @@ Phr:
   from India to Ethiopia
 
 # ---- Hegel ----
-Def: The Persian empire, which let its peoples keep their own natures: Syria with its trade, Judaea with its one God, Egypt with its riddle.
+Def: An empire in the modern sense, composed of dependent states that kept their own individuality, customs and laws, and in some cases their own kings, under a rule that protected their differences as light lets each object show its own colour. Within it the elements of upland, river valley and sea coast coexist, and its Syrian, Jewish and Egyptian parts set the problem that Egypt takes up.
 Texts:
   The Philosophy of History
     The Oriental World › Persia › The Persian Empire and its Constituent Parts
 Citations:
+  The Persian Empire is an Empire in the modern sense,— like that which existed in Germany, and the great imperial realm under the sway of Napoleon; for we find it consisting of a number of states, which are indeed dependent, but which have retained their own individuality, their manners, and laws.
+    — The Philosophy of History, Persia › The Persian Empire and its Constituent Parts (tr. Sibree)
+  As Light illuminates everything—imparting to each object a peculiar vitality—so the Persian Empire extends over a multitude of nations, and leaves to each one its particular character.
+    — The Philosophy of History, Persia › The Persian Empire and its Constituent Parts (tr. Sibree)

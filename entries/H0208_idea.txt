@@ -45,8 +45,12 @@ Phr:
   true to its idea
 
 # ---- Hegel ----
-Def: The concept and its objectivity in absolute unity: the idea, which is the true, and its process.
+Def: The idea is the adequate concept, the objectively true or the true as such: whatever has truth has it by virtue of its idea. Hegel keeps Kant's reclaiming of the word for the concept of reason, the unconditioned, but rejects the view that an idea, because nothing in the senses is congruent with it, lacks actuality or truth. It is the unity of concept and objectivity, appearing first as life, then as cognition, then as the absolute idea.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The idea
 Citations:
+  The idea is the adequate concept, the objectively true, or the true as such. If anything has truth, it has it by virtue of its idea, or something has truth only in so far as it is idea.
+    — The Science of Logic, The idea (tr. di Giovanni)
+  If we now reserve the expression “idea” for the objective or real concept and we distinguish it from the concept itself and still more from mere representation, then we must also even more definitely reject that estimate of it according to which the idea is something with no actuality, and true thoughts are accordingly said to be only ideas.
+    — The Science of Logic, The idea (tr. di Giovanni)

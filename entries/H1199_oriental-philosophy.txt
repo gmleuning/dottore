@@ -34,8 +34,12 @@ Phr:
   the wisdom of the East
 
 # ---- Hegel ----
-Def: The thought of the East, where the individual is lost in the substance, religion rather than philosophy proper.
+Def: Oriental thought is only preliminary to philosophy proper and appears largely as religious representation. Its basic relationship is that the one substance alone truly is, while individuals have no inherent worth and gain it only through unification with that substance, in which they cease to be subjects on their own account and vanish into the unconscious.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy
 Citations:
+  In the Orient the principal relationship is as follows. Only the one substance as such is what truly is. Individuals have no inherent worth and cannot gain any
+    — Lectures on the History of Philosophy 1825–6, Oriental Philosophy (tr. Brown)
+  [I]n this state they cease to be consciousness, to be subjects on their own account, for in it they vanish into what is unconscious.
+    — Lectures on the History of Philosophy 1825–6, Oriental Philosophy (tr. Brown)

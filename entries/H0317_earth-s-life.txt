@@ -28,8 +28,12 @@ Phr:
   the breath of the earth
 
 # ---- Hegel ----
-Def: The earth's vitality as an immediate subject, the life of the sea and land and atmosphere, which brings forth generatio aequivoca.
+Def: The earth's life arises when the inanimate organism, subject of the meteorological process, is fructified into vitality: land and especially sea, the real possibility of life, break out everywhere into punctiform, transient living forms. Generation of this kind, having its organism outside it, does not develop articulated organs or reproduce itself from an egg.
 Texts:
   The Philosophy of Nature
     §341
 Citations:
+  Land and especially sea, as thus the real possibility of life, perpetually erupt at every point into punctiform, transient forms of life: lichens, infusoria, and in the sea countless hosts of phosphorescent points of life.
+    — Encyclopedia §341 (tr. Miller)
+  In other words, because the geological organism is only implicitly (an sich) vitality, the truly living organism is an other than the geological organism itself.
+    — Encyclopedia §341, Addition (tr. Miller)

@@ -18,8 +18,12 @@ Phr:
   es ist kein Satz des Heraklit, den ich nicht in meine Logik aufgenommen [Ger.] [Hegel, Lectures on the History of Philosophy]
 
 # ---- Hegel ----
-Def: Heraclitus, the first concrete thinker: becoming as principle, the unity of being and nothing, the idea in its speculative form.
+Def: Where the Eleatics said that only being is, Heraclitus says that everything flows and nothing is fixed: becoming is the principle. Being no more is than non-being, and becoming contains the identity of the two. By becoming is understood arising and perishing, neither of which is on its own account.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Heraclitus
 Citations:
+  The Eleatics said that only being is, that it is what is true. Heraclitus says that everything is becoming, that becoming is the principle.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Heraclitus (tr. Brown)
+  [F]or becoming contains the identity of the two, of being and non-being.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Heraclitus (tr. Brown)

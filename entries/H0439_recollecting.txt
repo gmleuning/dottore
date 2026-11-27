@@ -35,8 +35,12 @@ Phr:
   on the tip of one's tongue
 
 # ---- Hegel ----
-Def: The recovery, in the trance, of what was lost to waking memory.
+Def: Recollecting is the first content of clairvoyant awareness: the soul becomes aware of a content it had long forgotten and can no longer bring into consciousness when awake. In illness or in the magnetic state people speak a language learned in early youth and since lost, or recite fluently something read long before and never learned by rote. The soul enclosed in its inwardness thus only makes present to itself again what already belongs to it.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  First, there are states in which the soul is aware of a content it had long since forgotten and which, in waking, it is no longer able to bring into consciousness.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  An equally indisputable case is where people in such a state recite with perfect facility something they had read a considerable time before, which they have never learned by rote and which has vanished from their waking consciousness.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

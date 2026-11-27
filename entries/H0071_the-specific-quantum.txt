@@ -26,8 +26,14 @@ Phr:
   in due measure
 
 # ---- Hegel ----
-Def: A quantum that is the existence of a quality, so that the thing is what it is only within this amount.
+Def: The specific quantum is measure in its immediacy, quantum which as self-referring externality is itself quality: an immediate quantum with an immediate quality belonging to it. Whatever is has a measure, a magnitude that belongs to its nature, so that if it exceeds or falls short of it the thing perishes. The quantum can yet vary within limits without the quality changing, and so a thing can be taken unawares: a change that seems merely quantitative suddenly turns qualitative, as with the bald head and the heap.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Specific quantity › The specific quantum
 Citations:
+  Every existence has a magnitude, and this magnitude belongs to the very nature of a something; it constitutes its determinate nature and its in-itself. The something is not indifferent to this magnitude, as if, were the latter to alter, it would remain the same; rather the alteration of the magnitude alters its quality.
+    — The Science of Logic, Specific quantity › The specific quantum (tr. di Giovanni)
+  The ancients had already taken notice of this coincidence, that an alteration which appears to be only quantitative suddenly changes into a qualitative one
+    — The Science of Logic, Specific quantity › The specific quantum (tr. di Giovanni)
+  Quantum, when it is taken as indifferent limit, is the side from which an existence is unsuspectedly attacked and laid low.
+    — The Science of Logic, Specific quantity › The specific quantum (tr. di Giovanni)

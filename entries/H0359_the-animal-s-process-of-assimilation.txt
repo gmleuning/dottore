@@ -36,8 +36,12 @@ Phr:
   to make one's own
 
 # ---- Hegel ----
-Def: The organism's relation to an inorganic nature that it takes into itself and makes its own.
+Def: Assimilation begins as the animal's self-feeling stands exclusive and tense against a non-organic nature that is its external condition and material. Since the organism has negativity within itself, it must posit the external as subjective, appropriate it and make it identical with itself, in three forms: theoretical, practical, and their unity in instinct.
 Texts:
   The Philosophy of Nature
     §§357–366
 Citations:
+  The self-feeling of the individuality is also directly exclusive and in a state of tension with a non-organic nature which stands over against it as its external condition and material.
+    — Encyclopedia §357 (tr. Miller)
+  The organism must therefore posit what is external as subjective, appropriate it, and identify it with itself; and this is assimilation.
+    — Encyclopedia §357, Addition (tr. Miller)

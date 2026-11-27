@@ -27,8 +27,12 @@ Phr:
   to be sure
 
 # ---- Hegel ----
-Def: Reason's assurance that its determinations are as much the determinations of things as of its own thought.
+Def: The certainty and truth of reason is reason as it first comes on the scene, asserting that I am I in the sense that the I is all reality and presence and nothing else counts as other. It has behind it, and forgotten, the path on which otherness vanished: that what is in itself is only in so far as it is for consciousness. As yet the reality is only a pure universal, the simple category, the unity of self-consciousness and being. An idealism that lets this unity fall apart again into consciousness and an in-itself facing it is one-sided and bad.
 Texts:
   The Phenomenology of Spirit
     ¶¶231–239
 Citations:
+  Reason is the certainty of being all reality. However, this in-itself, or this reality, is still for all intents and purposes a universal, the pure abstraction of reality.
+    — The Phenomenology of Spirit ¶235 (tr. Pinkard)
+  Or, to put it differently, the category is this: Self-consciousness and being are the same essence, or the same not in comparison with each other, but rather the same in and for itself.
+    — The Phenomenology of Spirit ¶235 (tr. Pinkard)

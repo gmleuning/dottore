@@ -46,8 +46,12 @@ Phr:
   the present hour alone is man's [Johnson]
 
 # ---- Hegel ----
-Def: The now, which is only as the vanishing of its being into nothing; the present excludes past and future, yet contains them.
+Def: The present is the now, the immediate vanishing of time's differences into singularity, which excludes the other moments yet is wholly continuous with them, being only this vanishing of its being into nothing and of nothing into being. Fixed as being, the finite present is set against past and future, though it is itself abstract and vanishes into nothing.
 Texts:
   The Philosophy of Nature
     §259
 Citations:
+  The immediate vanishing of these differences into singularity is the present as Now which, as singularity, is exclusive of the other moments, and at the same time completely continuous in them, and is only this vanishing of its being into nothing and of nothing into its being.
+    — Encyclopedia §259 (tr. Miller)
+  The finite present is the Now fixed as being and distinguished as the concrete unity, and hence as the affirmative, from what is negative, from the abstract moments of past and future
+    — Encyclopedia §259, Remark (tr. Miller)

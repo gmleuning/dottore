@@ -13,8 +13,14 @@ Adj:
   Iamblichean
 
 # ---- Hegel ----
-Def: The Syrian school of Iamblichus, in which Neoplatonism turns to theurgy and multiplies the orders of the divine.
+Def: Iamblichus is mentioned only in passing in these lectures, among those whose biographies mingle the details of their lives with a host of miracles. Theurgy, which crops up frequently in the Neoplatonists, means making a god: certain symbols, principally names and images, are used for the sake of illumination.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Neoplatonic Philosophy › The Alexandrian School
 Citations:
+  This was an era in which the miraculous element had its part to play.
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › The Alexandrian School (tr. Brown)
+  The topic of theurgy crops up frequently in the Neoplatonists and even in Proclus.
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › The Alexandrian School (tr. Brown)
+  The theurgical view, particularly with reference to the divine images of the pagans, is that the divine thinking produces names, and each name exhibits, as it were, an image
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › The Alexandrian School (tr. Brown)

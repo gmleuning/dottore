@@ -62,8 +62,14 @@ Phr:
   ils n'ont rien appris ne rien oublie [Fr.]
 
 # ---- Hegel ----
-Def: The formal energy by which the individual pursues aims and holds firm to them, and the substance of those aims; what makes a person.
+Def: Character is what always differentiates people, and only through it does the individual attain a stable determinacy. It requires first a formal side, the energy with which someone pursues aims and interests without being diverted and stays in harmony with themself, and secondly a substantial, universal content of the will, for only great aims reveal a great character. A will that clings to trifles has the form of character without its content, which is obstinacy. Though character has a natural foundation, its fixity is not inborn like that of aptitude but must be developed by the will.
 Texts:
   The Philosophy of Mind
     §395
 Citations:
+  Character requires, firstly, a formal element, the energy with which a man, without letting himself be diverted, pursues his aims and interests and in all his actions preserves his harmony with himself.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)
+  But besides formal energy character requires, secondly, a substantial, universal content of the will. Only by carrying out great aims does a man reveal a great character
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)
+  The fixity of character is not so immediate, not so innate, as the fixity of predisposition, but has to be developed by the will.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)

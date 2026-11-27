@@ -22,8 +22,12 @@ Adv:
   minutely, faithfully, to the life, in detail, realistically
 
 # ---- Hegel ----
-Def: Flemish and German painting, with its fidelity to the everyday and its inwardness.
+Def: Flemish and German painting neither could nor wished to attain the free ideal forms of the Italians; it expressed depth of feeling and self-sufficient mind, joined to individual characters troubled by worldly cares who thereby won civil virtues. Its final achievement is utter absorption in the world and daily life, which divides painting into the most varied kinds.
 Texts:
   Aesthetics
     Painting › Historical Development of Painting › Flemish and German Painting
 Citations:
+  The general difference from the Italians consists here in the fact that the German and the Flemish painters neither could nor wished to attain from their own resources those free ideal forms and modes of expression that corresponded with a transition to spiritual and transfigured beauty.
+    — Aesthetics, Historical Development of Painting › Flemish and German Painting (tr. Knox)
+  The final achievement of German and Flemish art is its utterly living absorption in the world and its daily life, and consequently the differentiation of painting into the most varied kinds of portrayal which are distinguished from one another, and one-sidedly developed, in respect of both subject-matter and treatment.
+    — Aesthetics, Historical Development of Painting › Flemish and German Painting (tr. Knox)

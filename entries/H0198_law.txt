@@ -41,8 +41,12 @@ Phr:
   laid down in law
 
 # ---- Hegel ----
-Def: The objective universal become the immanent principle of the system: law, the soul of the object.
+Def: Law is the determinateness of the self-moving principle in which centrality, now opposed to an externality posited as not existing in and for itself, differentiates itself while remaining self-identical. It is the real ideality, the soul of the objective totality. Dead mechanism, which ends in rest, shows at best a uniformity that is a rule but not a law; only free mechanism has law, which as the source of its own differences is free necessity.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism › Absolute mechanism › The law
 Citations:
+  This real ideality is the soul of the hitherto developed objective totality
+    — The Science of Logic, Absolute mechanism › The law (tr. di Giovanni)
+  This uniformity is indeed a rule, but not law. Only free mechanism has a law, the determination proper to pure individuality or to the concept existing for itself.
+    — The Science of Logic, Absolute mechanism › The law (tr. di Giovanni)

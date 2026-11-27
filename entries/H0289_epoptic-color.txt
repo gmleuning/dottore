@@ -28,8 +28,12 @@ Phr:
   oil on water
 
 # ---- Hegel ----
-Def: Colour formed on the surface of thin plates and films, by their mutual pressure.
+Def: Epoptic colours, allied to the entoptic, have a mechanical origin: when a lens is pressed on a glass plate the point of contact is first black and then spreads into rings of different colours. Here merely mechanical pressure produces the colour, and pressure is nothing but an alteration of cohesion in the nearest parts.
 Texts:
   The Philosophy of Nature
     §320
 Citations:
+  Allied to this phenomenon are the epoptic colours, which have a mechanical origin: when a lens is pressed on a glass plate (see above, pp. 206), the point of contact is at first black, but as the pressure is increased, the point spreads out into a number of rings of different colours, green, red, yellow.
+    — Encyclopedia §320, Addition (tr. Miller)
+  Here, it is merely the mechanical pressure which produces the colours; and this pressure is nothing but an alteration of cohesion in the nearest parts
+    — Encyclopedia §320, Addition (tr. Miller)

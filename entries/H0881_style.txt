@@ -37,8 +37,12 @@ Phr:
   the style is the man
 
 # ---- Hegel ----
-Def: Stil, the manner of presentation that follows the conditions of the material and the demands of the art and its kinds, as in the severe, the ideal and the pleasing style.
+Def: Style, beyond the idiosyncrasy expressed in turns of phrase, means a mode of representation that complies with the conditions of its material and with the demands and laws arising from the nature of a given kind of art, as church music differs from opera. A defect of style is either inability to make such a necessary mode one's own or caprice that puts a bad mannerism in its place.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
 Citations:
+  'Style', so interpreted, is applicable to a mode of representation which complies with the conditions of its material as well as corresponding throughout with the demands of definite species of art and the laws originating in their essence.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)
+  In this wider meaning of the word, consequently, defectiveness of style is either the artist's inability to make his own such an inherently necessary mode of representation, or else his subjective caprice which gives free play to his own whims instead of to conformity with rules, and sets up in their place a bad mannerism of his own.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)

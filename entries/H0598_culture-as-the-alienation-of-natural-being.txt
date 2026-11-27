@@ -35,8 +35,12 @@ Phr:
   to make something of oneself
 
 # ---- Hegel ----
-Def: The self's formation through the alienation of its natural being, culture as the self's self-sacrifice.
+Def: Culture as the alienation of natural being is the self-relinquishing which is at once the individual's purpose and the existence of its natural being, the passage of substance conceived in thought into actuality and of the individual into essentiality. The particularity of a nature made into a purpose is powerless and unreal, a futile attempt to give the particular an immediately universal actuality. What is only meant to be counts for what it is, a mere type.
 Texts:
   The Phenomenology of Spirit
     ¶¶488–491
 Citations:
+  Hence, this self-relinquishing is as much his purpose as it is the existence of his natural being.
+    — The Phenomenology of Spirit ¶488 (tr. Pinkard)
+  The particularity of a nature that becomes purpose and content is something powerless and non-actual.
+    — The Phenomenology of Spirit ¶488 (tr. Pinkard)

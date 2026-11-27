@@ -27,8 +27,12 @@ Phr:
   the clutter cut away
 
 # ---- Hegel ----
-Def: The exclusion of the particular, the contingent and the merely natural from the sculptural figure.
+Def: Exclusion of particulars follows from sculpture's content: it investigates only how spirit, substance and individual at once, takes on a body, so that accidental particularity of bodily or spiritual appearance is excluded. It presents only the permanent, universal and regular in the human form, even while this universal must be individualized into a figure closely fused with it, not mere abstract regularity.
 Texts:
   Aesthetics
     Sculpture › The Principle of Sculpture Proper › The Beautiful Sculptural Form › Exclusion of Particulars
 Citations:
+  In other words, owing to the content which is adequate for genuine sculpture, on the one hand the accidental particularity of the external appearance, whether of body or spirit, is excluded.
+    — Aesthetics, The Beautiful Sculptural Form › Exclusion of Particulars (tr. Knox)
+  What sculpture has to present is only the permanent, universal, and regular elements in the form of the human body, even if there is a demand so to individualize this universal element that what is put before our eyes is not only abstract regularity but an individual figure most closely fused with it.
+    — Aesthetics, The Beautiful Sculptural Form › Exclusion of Particulars (tr. Knox)

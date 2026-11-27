@@ -30,8 +30,12 @@ F:
   Italian: viola di gamba, corno di bassetto
 
 # ---- Hegel ----
-Def: Mastery of the instrument, through which the virtuoso makes a foreign tool into a perfect organ of his own soul.
+Def: Mastery of instruments is virtuosity when the instrument is not the voice but something external and lifeless: if inner music penetrates it through and through, the foreign tool becomes a perfectly formed organ of the artist's soul. At its height it shows astounding mastery and unbounded inner freedom, playing with difficulties and even imitating the sounds of other instruments.
 Texts:
   Aesthetics
     Music › Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art
 Citations:
+  If the externality of the instrument disappears altogether, i.e. if inner music penetrates this external reality through and through, then in this virtuosity the foreign instrument appears as a perfectly developed organ of the artistic soul and its very own property.
+    — Aesthetics, Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art (tr. Knox)
+  In this sort of execution we enjoy the topmost peak of musical vitality, the wonderful secret of an external tool’s becoming a perfectly animated instrument
+    — Aesthetics, Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art (tr. Knox)

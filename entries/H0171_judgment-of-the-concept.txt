@@ -34,8 +34,12 @@ Phr:
   up to standard
 
 # ---- Hegel ----
-Def: The judgment of the concept, in which the subject is measured against its concept, its ought.
+Def: The judgement of the concept is that in which the predicate, such as good, bad, true or right, measures the fact against its concept as an ought it presupposes. It has been called the judgement of modality and taken to concern only the copula's value for thought, but it is objective and the truth of the earlier judgements, since it rests on the concept itself and not on external reflection. It is assertoric, then problematic, then apodictic.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of the concept
 Citations:
+  The judgment of the concept has been called the judgment of modality, and has been regarded as containing the form of the connection of subject and predicate as this obtains in an external understanding, and as concerned with the value of the copula only in connection with thought.
+    — The Science of Logic, Judgment › The judgment of the concept (tr. di Giovanni)
+  But the judgment of the concept is instead objective and, as contrasted with the others, it is the truth, for it rests on the concept precisely in its determinateness as concept, not in some external reflection or with reference to some subjective, that is, accidental, thought.
+    — The Science of Logic, Judgment › The judgment of the concept (tr. di Giovanni)

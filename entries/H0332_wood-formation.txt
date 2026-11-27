@@ -33,8 +33,12 @@ Phr:
   knock on wood
 
 # ---- Hegel ----
-Def: The plant's self-relation becoming rigid, wood, the plant's skeleton.
+Def: In wood the plant, like the animal, sets up an opposition between itself and being and posits within itself its inorganic basis, its skeleton. The woody fibre is the pure self sinking back into the inorganic, chemically carbon, combustibility as potential fire. It is dead substance, abstract reflection into itself, and its fibres are bones rather than nerves.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  The plant, too, posits within itself its inorganic basis, its skeleton.
+    — Encyclopedia §346, Addition (tr. Miller)
+  Wood is combustibility as potentiality of fire without itself being heat
+    — Encyclopedia §346, Addition (tr. Miller)

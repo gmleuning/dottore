@@ -45,8 +45,12 @@ Phr:
   make my day [Dirty Harry] [Iron.]
 
 # ---- Hegel ----
-Def: The prohibition of marriage between blood relatives, since marriage is a free act of independent persons.
+Def: The prohibition of incest follows from marriage as the free surrender of two personalities unique in each. Marriage ought not to be concluded within the naturally identical circle of kin, who have no distinct personality in relation to one another; since marriage is a free ethical act, the marriage of blood relations runs counter to its concept.
 Texts:
   The Philosophy of Right
     §168
 Citations:
+  Further, marriage results from the free surrender by both sexes of their personality—a personality infinitely unique in each of the parties. Consequently, it ought not to be concluded within the naturally identical circle of people who are already acquainted and perfectly known to one another
+    — The Philosophy of Right §168 (tr. Knox, rev. Houlgate)
+  [T]he marriage of blood-relations runs counter to this concept and so also to genuine natural feeling.
+    — The Philosophy of Right §168 (tr. Knox, rev. Houlgate)

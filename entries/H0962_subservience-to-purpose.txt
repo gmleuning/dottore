@@ -32,8 +32,12 @@ Phr:
   a shelter for the god
 
 # ---- Hegel ----
-Def: The building's subordination to an end not its own, the image of the god it shelters.
+Def: Subservience to a specific end is the basic character of architecture proper: the spiritual meaning does not reside exclusively in the building, which would then be an independent symbol, but already exists in freedom outside it, either shaped by another art, sculpture above all, or practically proven by human beings in their actual lives; the two may also meet.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › General Character of Classical Architecture › Subservience to a Specific End
 Citations:
+  In line with what I have maintained more than once already, the fundamental character of architecture proper consists in the fact
+    — Aesthetics, General Character of Classical Architecture › Subservience to a Specific End (tr. Knox)
+  This existence may be of two kinds, namely whenever another more far-reaching art and, in the strictly classical sphere, sculpture especially, gives shape to this meaning and presents it independently, or when man contains in himself and gives practical proof of this meaning in a living way in his immediate actual life.
+    — Aesthetics, General Character of Classical Architecture › Subservience to a Specific End (tr. Knox)

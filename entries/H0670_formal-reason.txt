@@ -52,8 +52,12 @@ Phr:
   his argument was demolished by new evidence
 
 # ---- Hegel ----
-Def: Thinking as inference, which knows its content as the concept's own determining.
+Def: Formal reason, the inferring intellect, is the third moment of thinking, which sublates the difference of form and posits the identity of the differences, determining the content from itself. Here the universal is recognized as particularizing itself and gathering itself into individuality, producing content from its own self as the self-developing concept of the thing. Thinking then has no content but its own determinations and finds in the object only itself.
 Texts:
   The Philosophy of Mind
     §467
 Citations:
+  Only at the third stage of pure thinking is the concept recognized as such.
+    — Encyclopedia §467, Addition (tr. Wallace and Miller, rev. Inwood)
+  Accordingly, the universal is here no longer a form external to the content, but the genuine form producing the content from its own self,-the self-developing concept of the thing.
+    — Encyclopedia §467, Addition (tr. Wallace and Miller, rev. Inwood)

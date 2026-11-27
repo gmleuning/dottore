@@ -38,8 +38,12 @@ Phr:
   head in the clouds
 
 # ---- Hegel ----
-Def: The self's withdrawal from its present into a merely subjective self-involvement, oblivious to the objective.
+Def: Absent-mindedness is a modification of the first form of derangement, an unawareness of the immediate present, which often begins madness, though there is also a lofty absent-mindedness in a mind drawn by deep meditation away from everything unimportant. Absent-mindedness proper is a submergence in wholly abstract self-feeling, a suspension of sober objective consciousness. In it the subject takes a false situation for the true one and grasps outer circumstances one-sidedly, outside the totality of their relations.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  This consists in a non-awareness of the immediate present.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  The subject in this state confuses his true situation in the individual case with a false one, and conceives outer circumstances in a one-sided manner, not in the totality of their relations.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

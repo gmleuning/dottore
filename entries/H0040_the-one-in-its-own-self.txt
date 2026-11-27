@@ -37,8 +37,14 @@ Phr:
   at one
 
 # ---- Hegel ----
-Def: The one as simple relation to itself, without any distinction within it.
+Def: The one in its own self simply is. Its being is not an existence or a determination through reference to an other, for it has negated that whole circle of categories, and so it cannot become any other: it is unalterable. Its indeterminateness is that of self-reference, absolutely determined being. Any direction from itself towards another is at once reversed. In it there is nothing, and this nothing, distinguished from its being, is posited as the void, the quality of the one in its immediacy.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › The one and the many › The one within
 Citations:
+  Within it, the one just is; this, its being, is not an existence, not a determination as reference to an other, not a constitution; it is rather its having negated this circle of categories. The one is not capable, therefore, of becoming any other; it is unalterable.
+    — The Science of Logic, The one and the many › The one within (tr. di Giovanni)
+  In the one there is nothing; this nothing, the abstraction of self-reference, is here distinguished from the in-itselfness of the one
+    — The Science of Logic, The one and the many › The one within (tr. di Giovanni)
+  The void is thus the quality of the one in its immediacy.
+    — The Science of Logic, The one and the many › The one within (tr. di Giovanni)

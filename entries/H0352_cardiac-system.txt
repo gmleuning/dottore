@@ -41,8 +41,12 @@ Phr:
   heart and soul
 
 # ---- Hegel ----
-Def: The heart, the living pulsation, the centre of irritability as self-moving.
+Def: In the cardiac system the circulation is concentrated: the heart is the vital muscular principle, pulsating without nerves of its own as the pure vitality of irritability in the centre. Mechanical explanations of how it drives the blood move in a circle; the blood itself is the leaping point, and each part of the organism is a specialized force of the heart.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  No nerves are found in the heart, but what pulsates is the pure vitality of irritability present as muscle in the centre.
+    — Encyclopedia §354, Addition (tr. Miller)
+  Thus the heart is everywhere, and each part of the organism is only the specialized force of the heart itself.
+    — Encyclopedia §354, Addition (tr. Miller)

@@ -30,8 +30,12 @@ Phr:
   in a manner of speaking
 
 # ---- Hegel ----
-Def: Comparisons that begin from a meaning and find an image to clothe it.
+Def: Comparisons that start from the meaning take general ideas, reflections, feelings or maxims and find in the concrete world a picture that makes the abstract content perceptible. Because the two sides are indifferent to each other, their link is subjectively made and shows itself as such, so that the art of the poet as maker stands out; in genuine works such images should be only accessories.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning
 Citations:
+  Now if the meaning is in this way the starting-point, then the expression, the reality, appears as the means, drawn from the concrete world for the sake of making the meaning, as the abstract content, definitely picturable, visible, and perceptible.
+    — Aesthetics, Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning (tr. Knox)
+  Therefore their bearing on one another, not lying objectively in the nature of the case, is something manufactured subjectively which no longer conceals this subjective character but makes it recognizable through the manner of the representation.
+    — Aesthetics, Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning (tr. Knox)

@@ -34,8 +34,12 @@ Phr:
   the curtain falls
 
 # ---- Hegel ----
-Def: The dramatic work, its unity of action, its division into acts, its diction.
+Def: The dramatic work of art must be more tightly concentrated than epic, its characters entering such opposition that their interconnection is their existence in the play. Of the unities of place, time and action only that of action is essential. Its division into acts and scenes, its scope and progress differ from epic, and the inner spirit finds expression chiefly in poetic diction.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Drama as a Poetical Work of Art › The Dramatic Work of Art
 Citations:
+  The first and most general point to be made about the unity of a drama is connected with a remark I made earlier, namely that, in contrast to epic, dramatic poetry must be more strictly selfconcentrated.
+    — Aesthetics, The Drama as a Poetical Work of Art › The Dramatic Work of Art (tr. Knox)
+  [T]he chief thing in drama is not the objective action, but the exposition of the inner spirit of the action
+    — Aesthetics, The Drama as a Poetical Work of Art › The Dramatic Work of Art (tr. Knox)

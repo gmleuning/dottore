@@ -24,8 +24,12 @@ Phr:
   a world in a stone
 
 # ---- Hegel ----
-Def: Edelsteine: the cut stones and cameos of glyptic art, in which the whole wealth of sculpture is repeated in miniature.
+Def: Precious stones were cut as gems, in which the finest figures show supreme beauty like organic works of nature and bear magnification without losing purity of line. Here technique approaches feeling, since the carver holds the stone against small wheels and must have the design in the sense of touch; cameos, by contrast, emboss figures from layered onyx.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Precious Stones and Glass
 Citations:
+  As for gems, the genuine and more perfect figures display supreme beauty like the organic works of nature and they can be examined with a magnifying glass without losing the purity of their delineation.
+    — Aesthetics, Materials for Sculpture › Precious Stones and Glass (tr. Knox)
+  In this way it is the sense of touch which is in possession of the conception, of the intention of the strokes and marks, and it directs them so perfectly that when we see these stones lit up we think we have before us a relief work.
+    — Aesthetics, Materials for Sculpture › Precious Stones and Glass (tr. Knox)

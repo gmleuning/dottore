@@ -35,8 +35,10 @@ Phr:
   blank stare
 
 # ---- Hegel ----
-Def: The first form of derangement: the soul shut up within itself, no longer in immediate connection with actuality, in imbecility, absent-mindedness and rambling.
+Def: Mental closure is the first main form of derangement, a quite indeterminate submergence within oneself. It appears as imbecility, whether natural and incurable or brought on by misfortune or one's own fault; as absent-mindedness, an unawareness of the immediate present and a submergence in abstract self-feeling that suspends sober consciousness; and, in contrast, as rambling, the inability to fix attention on anything determinate. In all of these the soul lacks the power to hold fast to a definite content.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  The first of these three main forms, the quite indeterminate submergence in oneself, appears at first as imbecility.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

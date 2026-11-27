@@ -21,8 +21,12 @@ Phr:
   saints and miracles
 
 # ---- Hegel ----
-Def: Die Wunder und Legenden: the divine shown as breaking the natural connection of things, which for art easily becomes the merely fanciful and adventurous.
+Def: Miracles and legends represent the divine breaking into common contingent reality, inverting and interrupting the natural course of things so as to move hearts. Hegel objects that the divine rules nature only as reason, through the unchangeable laws it has implanted, so that legends easily pass into the abstruse, tasteless, senseless and laughable when faith is to be stirred by what is irrational.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Religious Domain of Romantic Art › The Spirit of the Community › Miracles and Legends
 Citations:
+  In fact, however, the Divine can touch and rule nature only as reason, i.e. as the unchangeable laws of nature itself which God has implanted in it
+    — Aesthetics, The Spirit of the Community › Miracles and Legends (tr. Knox)
+  This is why the legends often pass over without difficulty into what is abstruse, tasteless, senseless, and laughable, because spirit and heart are supposed to be moved towards faith in the presence and activity of God precisely by what is absolutely irrational, false, and non-divine.
+    — Aesthetics, The Spirit of the Community › Miracles and Legends (tr. Knox)

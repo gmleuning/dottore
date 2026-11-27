@@ -45,8 +45,12 @@ Phr:
   the great river is not fed by one spring alone, jiang he zhi shui, fei yi shui zhi yuan ye [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: The immediate existence that is presupposed by ground and that the thing requires to be.
+Def: Condition is the immediate to which ground refers as to its essential presupposition, so that real ground is essentially conditioned. It is first an immediate, manifold existence; then this existence as referred to another, which it is supposed to serve without being for itself; and it is the presupposition of ground, its content as material. Something is not through its condition, which is not its ground. Condition and ground each presuppose the other, and their truth is the absolutely unconditioned, from which the thing proceeds into existence.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Condition
 Citations:
+  The immediate to which ground refers as to its essential presupposition is condition; real ground is accordingly essentially conditioned.
+    — The Science of Logic, Ground › Condition (tr. di Giovanni)
+  Something is not through its condition; its condition is not its ground.
+    — The Science of Logic, Ground › Condition (tr. di Giovanni)

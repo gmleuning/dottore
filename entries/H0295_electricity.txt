@@ -32,8 +32,12 @@ Phr:
   sparks fly
 
 # ---- Hegel ----
-Def: The body's self of individuality appearing in tension with another body, as positive and negative electricity.
+Def: Electricity is the relation of shaped bodies as physical individualities which, not yet in chemical process, preserve themselves in indifference but, in reciprocal tension, manifest their abstractly real selfhood as a light pregnant with difference. Like sound, it needs two bodies, but here both are differently disposed to each other, so that the exciting body too enters into the difference.
 Texts:
   The Philosophy of Nature
     §§323–325
 Citations:
+  Bodies stand in relationship with the Elements according to their specific particularity; but as wholes possessing shape, they also enter into relationship with each other as physical individualities.
+    — Encyclopedia §323 (tr. Miller)
+  As sound depends on a stroke from another body, so electricity too is conditioned by the fact of needing two bodies to produce it.
+    — Encyclopedia §323, Addition (tr. Miller)

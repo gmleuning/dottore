@@ -39,8 +39,14 @@ Phr:
   in round numbers
 
 # ---- Hegel ----
-Def: Quantity: determinateness become indifferent to being, a limit that is no limit, the truth of quality.
+Def: Magnitude is determinateness that has become indifferent to being, a limit which is just as much no limit, as against quality, the first and immediate determinateness. It is being-for-itself identical with being-for-another, the repulsion of the many ones turned into their continuity. The sphere runs from pure quantity through quantum to quantitative ratio, in which quantum returns to itself in its otherness and passes into measure. In ordinary use magnitude means a quantum, a determinate quantity, which Hegel distinguishes from quantity as such.
 Texts:
   The Science of Logic
     The Doctrine of Being › Magnitude (Quantity)
 Citations:
+  Quality is the first, immediate determinateness. Quantity is the determinateness that has become indifferent to being; a limit which is just as much no limit; being-for-itself which is absolutely identical with being-for-another: the repulsion of the many ones which is immediate non-repulsion, their continuity.
+    — The Science of Logic, Magnitude (Quantity) (tr. di Giovanni)
+  The ratio is, therefore, only a formal unity of quality and quantity, and its dialectic is its transition into their absolute unity, in measure.
+    — The Science of Logic, Magnitude (Quantity) (tr. di Giovanni)
+  By the expression magnitude [or Größe in German], we understand quantum as in the given examples, not quantity
+    — The Science of Logic, Magnitude (Quantity), Remark (tr. di Giovanni)

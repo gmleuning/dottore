@@ -8,8 +8,12 @@ N:
   convivial song; drinking song, table song, glee, catch, round, skolion, carousal song
 
 # ---- Hegel ----
-Def: The convivial song, which expresses the shared pleasure of company.
+Def: Convivial songs belong to an enriched culture that delights in cheerful society, full of wit, graceful turns and gallantry, or else turns sentimentally to nature and narrow situations. Mere description soon becomes trivial; the poet must rise above immediate desire through free contemplation, as in many songs of Anacreon, Hafiz and Goethe's Divan.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  In contrast to these there are, secondly, songs of a culture which has already been enriched in many ways and which delights in cheerful conviviality, so that the songs are full of the greatest variety of wit, graceful turns of phrase, little incidents, and other expressions of gallantry.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  This carefree freedom, this expansion of the heart and satisfaction of mind gives the loveliest charm of spiritual freedom and poetry to many of Anacreon’s songs, for example, as well as to the poems of Hafiz and Goethe’s West-östliche Divan.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

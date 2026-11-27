@@ -34,8 +34,12 @@ Phr:
   healing hands
 
 # ---- Hegel ----
-Def: The healing that comes from the magnetic state, a return of the soul to its unity through another's power.
+Def: Healing through the magnetic state is the use of that state against illness. A clairvoyant often gives definite accounts of the nature and course of their own illness and may find a connection between a remedy and an ailment still unknown to intellectual consciousness, being instructed by instinct as animals are. Magnetic cures can be effected even without sleep, so long as the sentient soul becomes independent of mediated consciousness. What is seen is nevertheless a mixture of truth and falsehood and calls for interpretation.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  [M]agnetic cures can be carried out without it.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  In this respect clairvoyants can be compared to animals, for they are instructed by their instinct which things will cure them.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -31,8 +31,14 @@ Phr:
   all men by nature desire to know [Aristotle]
 
 # ---- Hegel ----
-Def: Aristotle, who brought the idea into the actual, the energeia, thought thinking itself.
+Def: In Aristotle the idea appears in its efficacy: what Plato's universal lacks, the principle of vitality or subjectivity, the activity of actualization, comes forward as energy and entelechy over against potentiality. At the summit stands Nous, the thinking of thinking, which of itself constitutes the nature of absolute spirit.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Aristotle
 Citations:
+  The Platonic Idea is in general what is objective; but the principle of vitality [Lebendigkeit] or the principle of subjectivity is not yet emphasized.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Aristotle (tr. Brown)
+  But the rational must also be determined as what is active.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Aristotle (tr. Brown)
+  [T]he thinking of thinking, which is thus defined in abstract fashion and of itself constitutes the nature of absolute spirit.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Aristotle (tr. Brown)

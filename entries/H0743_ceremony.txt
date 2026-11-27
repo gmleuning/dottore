@@ -41,8 +41,10 @@ Phr:
   to say I do
 
 # ---- Hegel ----
-Def: The ceremony by which the bond is made, the declaration of consent before the community.
+Def: The marriage ceremony is the solemn declaration of the partners' consent to enter the ethical bond, and its recognition by their family and community. As the stipulation completes a contract, the ceremony constitutes the formal completion and actuality of marriage, so that the bond is ethical and not only a matter of feeling.
 Texts:
   The Philosophy of Right
     §164
 Citations:
+  Similarly, the solemn declaration by the parties of their consent to enter the ethical bond of marriage, and its corresponding recognition and confirmation by their family and community, constitutes the formal completion and actuality of marriage.
+    — The Philosophy of Right §164 (tr. Knox, rev. Houlgate)

@@ -39,8 +39,12 @@ Phr:
   such as it is
 
 # ---- Hegel ----
-Def: Determinateness immediately one with being, so that a thing ceases to be what it is when its quality changes.
+Def: Determinateness, or quality, is the first section of the doctrine of being. Being as the indeterminate immediate is free of determinateness, being without quality; yet its indeterminateness belongs to it only in opposition to what is determinate, and so itself constitutes its quality. The first being thus shows itself determinate in itself and passes into existence; existence, as finite, sublates itself into the infinite reference of being to itself, and passes into being-for-itself.
 Texts:
   The Science of Logic
     The Doctrine of Being › Determinateness (Quality)
 Citations:
+  Being is the indeterminate immediate; it is free of determinateness with respect to essence, just as it is still free of any determinateness that it can receive within itself.
+    — The Science of Logic, Determinateness (Quality) (tr. di Giovanni)
+  Determinate being thus comes to stand over and against being in general; with that, however, the very indeterminateness of being constitutes its quality.
+    — The Science of Logic, Determinateness (Quality) (tr. di Giovanni)

@@ -35,8 +35,12 @@ Phr:
   poeta nascitur
 
 # ---- Hegel ----
-Def: The poet's activity, which must have both inspiration and the clarity of the shaping understanding.
+Def: The poet's creative activity is less tied than that of other artists to a perceptible material, so that poetic talent is more general and independent, needing only a gift for rich imaginative formulation. The task is both easier, with fewer technical hurdles, and harder, since depth of imagination must replace visible form while the poet reaches all depths of spirit through words.
 Texts:
   Aesthetics
     Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art › The Poet's Creative Activity
 Citations:
+  Poetry is exempt from the complete embodiment of its productions in a particular material, and therefore a talent for it is less subject to such specific conditions and so is more general and independent
+    — Aesthetics, The Poetic Work of Art as Distinguished from a Prose Work of Art › The Poet's Creative Activity (tr. Knox)
+  [B]ecause the less poetry has to create an external embodiment [that can be seen or heard], the more it has to seek a substitute for this lack of perceptibility in the inner proper kernel of art, i.e. in the depth of imagination and genuinely artistic treatment.
+    — Aesthetics, The Poetic Work of Art as Distinguished from a Prose Work of Art › The Poet's Creative Activity (tr. Knox)

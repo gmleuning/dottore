@@ -37,8 +37,12 @@ Phr:
   the plot thickens
 
 # ---- Hegel ----
-Def: The ideal moving into action, through a world-situation, a situation, and the collision of powers.
+Def: Action is the ideal moved out of the inactive repose of bliss into development, which involves one-sidedness, separation and opposition, so that even the gods must struggle and submit to fate. Greatness and force are measured by the opposition out of which spirit brings itself back to unity. Action requires a general state of the world, a determinate situation that brings strain into it, and the subject's response.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Determinacy of the Ideal › Action
 Citations:
+  For greatness and force are truly measured only by the greatness and force of the opposition out of which the spirit brings itself back to unity with itself again.
+    — Aesthetics, The Determinacy of the Ideal › Action (tr. Knox)
+  In this development alone is preserved the might of the Idea and the Ideal, for might consists only in maintaining oneself within the negative of oneself.
+    — Aesthetics, The Determinacy of the Ideal › Action (tr. Knox)

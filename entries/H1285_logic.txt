@@ -28,8 +28,12 @@ Phr:
   the science of the idea in and for itself [Hegel]
 
 # ---- Hegel ----
-Def: The logical idea, the science of the idea in and for itself.
+Def: Logic, the first part of the Encyclopaedia, is the science of the pure Idea, the Idea in the abstract element of thinking. Its thinking is not merely formal: it is the self-developing totality of determinations and laws that thought gives to itself. Logic is the hardest science, since it deals with pure abstractions and demands practice in moving within pure thought, and could also be called the easiest, since its content is our own thinking and its most familiar determinations.
 Texts:
   The Encyclopaedia Logic
     §§19–244
 Citations:
+  The Logic is the science of the pure Idea, that is, of the Idea in the abstract element of thinking.
+    — Encyclopedia §19 (tr. Geraets, Suchting and Harris)
+  The Logic is the most difficult science, inasmuch as it has to do, not with [sensible] intuitions nor even, like geometry, with abstract sense-representations, but with pure abstractions, and inasmuch as it requires a trained ability at withdrawing into pure thought, holding onto it and moving within it.
+    — Encyclopedia §19 (tr. Geraets, Suchting and Harris)

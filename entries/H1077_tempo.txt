@@ -9,8 +9,12 @@ N:
   quantity
 
 # ---- Hegel ----
-Def: Das Zeitmaß, the first element of rhythmic verse: the fixed measure of long and short syllables in time.
+Def: Tempo is the fixed time of syllables in their difference of long and short. Since words of many syllables and monosyllables yield an accidental mixture without measure, poetry, as music fixes the duration of notes by tempo, lays down particular combinations of longs and shorts as the law governing the temporal duration of the succession of syllables.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  First, the fixed tempo of the syllables in their simple difference between long and short and the numerous ways of fitting them together in specific relations and metres.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  To regulate this accidental character is just as much the duty of poetry as it was the task of music to determine with precision, by means of the unity of tempo, the unordered duration of single notes.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

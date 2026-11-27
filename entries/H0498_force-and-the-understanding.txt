@@ -36,8 +36,12 @@ Phr:
   the powers that be
 
 # ---- Hegel ----
-Def: The understanding, which takes the thing as appearance and finds its truth in force and law behind it.
+Def: The understanding takes as its object the unconditioned universal, which has returned into itself from the one-sided concepts of perception. Behind the appearance that is the play of forces it looks into the inner of things, a supersensible world that it fills with the calm realm of law, and then with the inversion of that world. In explaining, it posits differences that are no differences and sublates them again. What it experiences in the inner is in truth only itself, and so it passes over into self-consciousness.
 Texts:
   The Phenomenology of Spirit
     ¶¶132–165
 Citations:
+  This unconditioned universal, which is henceforth the true object of consciousness, is still an object of consciousness; consciousness has not yet grasped its concept as concept.
+    — The Phenomenology of Spirit ¶132 (tr. Pinkard)
+  We see that the understanding in truth experiences in the inner of appearance nothing but appearance itself, but not appearance in the way it is as the play of forces; rather, it experiences the play of forces within their absolutely universal moments and their movement; in fact, the understanding experiences only itself.
+    — The Phenomenology of Spirit ¶165 (tr. Pinkard)

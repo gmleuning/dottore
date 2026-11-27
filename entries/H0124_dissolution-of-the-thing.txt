@@ -50,8 +50,12 @@ Phr:
   ecrasez l'infame [Voltaire]
 
 # ---- Hegel ----
-Def: The thing as the mere also of its matters, porous to them, its unity a contradiction that dissolves it into appearance.
+Def: The dissolution of the thing follows from its being a merely quantitative combination of free matters, absolutely alterable. Matters are added, removed or rearranged, and circulate in and out of this thing, which is porosity without measure or form of its own. Each matter is to subsist where the others subsist and also not to subsist there, so that the thing is the contradiction of being a subsisting whose matters negate one another. As such the thing dissolves into appearance.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Concrete existence › Dissolution of the thing
 Citations:
+  The stuffs circulate unchecked in or out of “this” thing, and the thing itself is absolute porosity without measure or form of its own.
+    — The Science of Logic, Concrete existence › Dissolution of the thing (tr. di Giovanni)
+  The one matter is not what the other is according to the determinateness of its content as contrasted to that of an other; and the one is not to the extent that the other is, in accordance with their self-subsistence.
+    — The Science of Logic, Concrete existence › Dissolution of the thing (tr. di Giovanni)

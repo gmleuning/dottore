@@ -30,8 +30,12 @@ Phr:
   to look within
 
 # ---- Hegel ----
-Def: The somnambulist's seeing of the interior of their own body.
+Def: Inner vision is the clairvoyant soul's awareness of its own interior, its state of soul and of body, returning from relation to something external back to itself. It can reach considerable clarity, but accurate accounts of the bodily state come only from those with medical knowledge in waking life, since the concentrated intuition is hard to put into intellectual form. In this serene inner vision, where the substantial side of the soul comes forth, noble natures find their better self and base ones give themselves up to baseness.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  [I]n the third case the soul, in clairvoyant awareness of its own interior, of its state of soul and physical body, returns from this relation to something external back to itself.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  This side of clairvoyance has a very wide range and can also attain to a considerable clarity and determinacy.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -33,8 +33,10 @@ Phr:
   to dot the i's
 
 # ---- Hegel ----
-Def: The monarch, the will's final decision, the subjectivity of the state.
+Def: The sovereign as person and subject is the monarch, in whom the state's sovereignty exists as subjectivity certain of itself: the will's ungrounded self-determination, in which the finality of decision is rooted. It is this individual aspect that makes the state one; the monarch decides by saying 'I will'.
 Texts:
   The Philosophy of Right
     §279
 Citations:
+  Sovereignty, at first simply the universal thought of this ideality, comes into existence only as subjectivity certain of itself, as the will’s abstract and to that extent ungrounded self-determination in which finality of decision is rooted. This is the strictly individual aspect of the state, and in virtue of this alone is the state one.
+    — The Philosophy of Right §279 (tr. Knox, rev. Houlgate)

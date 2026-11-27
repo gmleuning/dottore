@@ -54,8 +54,10 @@ Phr:
   stare decisis [Lat.], let the decision stand
 
 # ---- Hegel ----
-Def: The deed as the will's purpose, and its responsibility, for it recognizes as its own only what it knew.
+Def: Purpose and responsibility form the first moment of morality. The deed alters an existing external world, and the will is responsible for it in general insofar as the altered existence bears the predicate mine. But the will recognizes as its own action only what lay in its purpose, what it knew of the circumstances.
 Texts:
   The Philosophy of Right
     §§115–118
 Citations:
+  The deed [Tat] posits an alteration in this existence confronting the will, and my will has responsibility [schuld] in general for its deed insofar as the abstract predicate ‘mine’ belongs to the existence so altered.
+    — The Philosophy of Right §115 (tr. Knox, rev. Houlgate)

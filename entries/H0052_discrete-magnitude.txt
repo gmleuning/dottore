@@ -30,8 +30,12 @@ Phr:
   like 'angel visits few and far between' [Campbell]
 
 # ---- Hegel ----
-Def: Diskrete Größe, quantity as a plurality of ones outside one another, which still contains continuity as their unit.
+Def: Discrete magnitude is quantity posited in the determinateness immanent to it, the one: the outsideness of one another as discontinuous, as broken off. Discreteness is a moment of quantity and for that very reason the whole of it, so it never separates from continuity. The broken-off ones do not restore the relation of atom and void, since their discreteness is itself continuous, consisting in the ones being the same as one another and having one unity. It is the many of a unity, not just many ones.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantity › Continuous and discrete magnitude
 Citations:
+  On the other hand, discrete magnitude is this outsideness-of-one-another as discontinuous, as broken off.
+    — The Science of Logic, Quantity › Continuous and discrete magnitude (tr. di Giovanni)
+  Because discrete magnitude is quantity, its discreteness is itself continuous. Such a continuity in the discrete consists in the ones being the same as one another, or in that they have the same unity.
+    — The Science of Logic, Quantity › Continuous and discrete magnitude (tr. di Giovanni)

@@ -54,8 +54,10 @@ Phr:
   es macht nichts [Ger.]
 
 # ---- Hegel ----
-Def: Habit as indifference to satisfaction, in which the desire is dulled by its regular fulfilment.
+Def: Indifference to satisfaction is the second form of habit: desires and urges are dulled by the habit of satisfying them. This is the rational liberation from them, since monkish renunciation and forcible repression neither free us from them nor are rational in content. It goes without saying that urges are thereby kept in their natural place as finite determinacies, subordinated with their satisfaction to the rationality of the will as moments within it.
 Texts:
   The Philosophy of Mind
     §410
 Citations:
+  [D]esires, urges are dulled by the habit of their satisfaction. This is the rational liberation from them; monkish renunciation and forcible repression do not free us from them, nor are they rational in content.
+    — Encyclopedia §410, Remark (tr. Wallace and Miller, rev. Inwood)

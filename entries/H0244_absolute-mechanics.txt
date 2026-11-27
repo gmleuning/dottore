@@ -50,8 +50,12 @@ Phr:
   through knowledge we behold the World's creation [Spenser]
 
 # ---- Hegel ----
-Def: Matter that has its centre and motion within itself: the solar system, freely moving masses whose laws are the concept of matter itself.
+Def: Absolute mechanics treats matter in free motion, which has its centre within a system: gravitation divides corporeality into several bodies that conclude themselves together in motion, a system of centre, dependent lunar and cometary bodies, and planets that are centres for themselves. The planets are the most concrete and perfect of these existences, and their laws are those of absolutely free motion.
 Texts:
   The Philosophy of Nature
     §§269–271
 Citations:
+  The planetary bodies are, as the directly concrete ones, the most perfect in their existence.
+    — Encyclopedia §270, Remark (tr. Miller)
+  But the particular bodies are those which, characterized as well by self-externality as by being-within-self, are centres for themselves, and are related to the first-mentioned body as to their essential unity.
+    — Encyclopedia §270 (tr. Miller)

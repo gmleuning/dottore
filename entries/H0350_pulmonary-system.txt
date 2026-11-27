@@ -27,8 +27,12 @@ Phr:
   der erste Atemzug ist das eigene individuelle Leben des Kindes [Ger.] [Hegel, Encyclopedia §354 Zusatz]
 
 # ---- Hegel ----
-Def: The blood in the pulmonary circulation, the purely negative immaterial life for which nature is air; the first breath is the child's own individual life.
+Def: In the pulmonary circulation the blood is a purely negative, immaterial life for which nature is air, and over which it wins a sheer victory. The infant's first breath is its own individual life: having floated in lymph and fed like a plant, it now relates to nature as air, in an interrupted rhythm in which blood proves itself fire.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  The blood in the pulmonary circulation, having its own movement, is this purely negative immaterial life for which Nature is air and which has here the sheer victory over it.
+    — Encyclopedia §354, Addition (tr. Miller)
+  The infant's first breath is its own individual life; up till then the infant floated in the lymph and absorbed nutriment in vegetative fashion.
+    — Encyclopedia §354, Addition (tr. Miller)

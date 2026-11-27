@@ -48,8 +48,12 @@ Phr:
   where law ends tyranny begins [Earl of Chatham]
 
 # ---- Hegel ----
-Def: Right posited as law, a known universal.
+Def: Right as law is what is right in itself posited in its objective existence: made determinate by thought for consciousness and known as what is right and valid. In becoming law, right becomes positive right, and only what is law is binding.
 Texts:
   The Philosophy of Right
     §§211–214
 Citations:
+  What is right in itself [an sich] becomes law [Gesetz] when it is posited [gesetzt] in its objective existence, i.e. when thinking makes it determinate for consciousness and makes it known as what is right and valid; and in acquiring this determinate character, right becomes positive right as such.
+    — The Philosophy of Right §211 (tr. Knox, rev. Houlgate)
+  [T]he only right that is binding is what is law [Gesetz].
+    — The Philosophy of Right §212 (tr. Knox, rev. Houlgate)

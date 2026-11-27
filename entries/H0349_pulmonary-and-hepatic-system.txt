@@ -12,8 +12,12 @@ Adv:
   by lung and liver
 
 # ---- Hegel ----
-Def: The lungs and liver, the blood's process with air and the inward digestive fire.
+Def: Lungs and liver are the two systems into which the blood's circulation divides. The lung is the animal leaf, related to the atmosphere in breathing out and in; the liver is the return into being-for-self, a heat that rages against otherness and consumes it. The two are intimately connected, each tempering or vivifying the other.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  The lung is the animal leaf which enters into relationship with the atmosphere and forms this self-suspending and self-restoring process of outbreathing and inbreathing.
+    — Encyclopedia §354, Addition (tr. Miller)
+  The distinction between arterial and venous blood takes on reality in the lungs and liver
+    — Encyclopedia §354, Addition (tr. Miller)

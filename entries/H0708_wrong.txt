@@ -45,8 +45,12 @@ Phr:
   filius nullius
 
 # ---- Hegel ----
-Def: The will's existence posited as a semblance, the particular will set against the universal: wrong.
+Def: Wrong is the stage at which right in itself and the particular will part, so that right becomes a semblance. Its forms are unintentional wrong, in which right is merely misjudged; fraud, in which the wrongdoer gives a false semblance of right; and crime, in which right is violated outright. Right reasserts itself by negating this negation of itself.
 Texts:
   The Philosophy of Right
     §§82–104
 Citations:
+  But the truth of this semblance is its nullity and the fact that right reasserts itself by negating this negation of itself.
+    — The Philosophy of Right §82 (tr. Knox, rev. Houlgate)
+  This semblance of right is in itself or immediate—non-malicious wrong or a civil offence; (b) right is posited as a semblance by the subject—fraud
+    — The Philosophy of Right §83 (tr. Knox, rev. Houlgate)

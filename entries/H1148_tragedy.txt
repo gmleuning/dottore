@@ -32,8 +32,12 @@ Phr:
   the rest is silence [Hamlet]
 
 # ---- Hegel ----
-Def: Tragedy, the collision of ethical powers each justified but one-sided, resolved through the downfall of those who embody them.
+Def: Tragedy's proper theme is the divine as it enters the world as concrete ethical order. Its powers, differentiated in action, collide: each side is justified yet can carry out its aim only by violating the other, and so incurs guilt. Eternal justice resolves the conflict by restoring ethical unity through the downfall or surrender of the one-sided individual, giving a sense of reconciliation.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama
 Citations:
+  The original essence of tragedy consists then in the fact that within such a conflict each of the opposed sides, if taken by itself, has justification; while each can establish the true and positive content of its own aim and character only by denying and infringing the equally justified power of the other.
+    — Aesthetics, The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama (tr. Knox)
+  By this means eternal justice is exercised on individuals and their aims in the sense that it restores the substance and unity of ethical life with the downfall of the individual who has disturbed its peace.
+    — Aesthetics, The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama (tr. Knox)

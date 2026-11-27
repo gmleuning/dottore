@@ -30,8 +30,12 @@ Phr:
   by example
 
 # ---- Hegel ----
-Def: The universal joined to the particular through the singular: P–S–U.
+Def: The second figure, particular, singular, universal, expresses the truth of the first: that something is joined to a universal quality not in and for itself but by means of a contingency, in a singular, which is therefore the true middle. Since a conclusion is mediated, it contains negation. One premise is already mediated by the first syllogism, so that the two presuppose each other, and the terms exchange places.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of existence › The second figure
 Citations:
+  The truth of the first qualitative syllogism is that something is not in and for itself united to a qualitative determinateness which is a universal, but is united to it by means of a contingency or in a singularity.
+    — The Science of Logic, The syllogism of existence › The second figure (tr. di Giovanni)
+  [T]he second syllogism thus presupposes the first just as, conversely, the first presupposes the second.
+    — The Science of Logic, The syllogism of existence › The second figure (tr. di Giovanni)

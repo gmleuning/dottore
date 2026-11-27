@@ -16,8 +16,12 @@ Phr:
   by convention sweet, by convention bitter, in reality atoms and void [Democritus]
 
 # ---- Hegel ----
-Def: Democritus, who carries on the atomism of Leucippus, telling what is by convention, sweet and bitter, from what truly is, atoms and void.
+Def: Democritus, the friend and pupil of Leucippus, is said to have elaborated his teacher's doctrine, though what belongs historically to him cannot be decided. Atomism takes the full and the empty, atom and void, as the principles of all things, what is true and has being in and for itself. As a whole the doctrine remains quite undeveloped.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Leucippus and Democritus
 Citations:
+  Democritus is said to have elaborated the teaching of Leucippus further, although it is not possible to decide what historically belongs to him in particular.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Leucippus and Democritus (tr. Brown)
+  The principle is therefore that the atom and the void are what is true
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Leucippus and Democritus (tr. Brown)

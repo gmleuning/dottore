@@ -31,8 +31,14 @@ Phr:
   the substance as subject
 
 # ---- Hegel ----
-Def: The Phenomenology of Spirit, the science of the experience of consciousness, the ladder to the standpoint of science.
+Def: The Phenomenology of Spirit of 1807, announced as the first part of the system of science, presents the coming-to-be of science, or of knowing. It leads consciousness from immediate, sensuous certainty along a long path to the element of science, supplying the individual with the ladder to that standpoint. The dialectical movement consciousness practises on itself, out of which each new object arises, is experience, so that the work is a science of the experience of consciousness.
 Texts:
   The Phenomenology of Spirit
     ¶¶1–808
 Citations:
+  This coming-to-be of science itself, or, of knowing, is what is presented in this phenomenology of spirit as the first part of the system of science.
+    — The Phenomenology of Spirit ¶27 (tr. Pinkard)
+  Conversely, the individual has the right to demand that science provide him at least with the ladder to reach this standpoint.
+    — The Phenomenology of Spirit ¶26 (tr. Pinkard)
+  This dialectical movement which consciousness practices in its own self (as well as in its knowing and in its object), insofar as, for consciousness, the new, true object arises out of this movement, is properly what is called experience.
+    — The Phenomenology of Spirit ¶86 (tr. Pinkard)

@@ -11,8 +11,12 @@ N:
   ottava rima, terza rima
 
 # ---- Hegel ----
-Def: Rhyme proper, the full echo of like sounds at the line's end, in which the modern inward self hears itself; with it the rhymed stanza forms.
+Def: Rhyme proper brings to maturity what alliteration and assonance achieve imperfectly: a complete accord between whole stems apart from initial letters, with one, two or three syllables. Its place is the line's end, in simple return or artful interlacings that satisfy, tease and content the ear, and lyric, loving it for its subjectivity, develops it into stanza systems.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhyme
 Citations:
+  What in this way alliteration and assonance are qualified to achieve only imperfectly, rhyme finally brings to life in full maturity.
+    — Aesthetics, Versification › Rhyme (tr. Knox)
+  Amongst the particular sorts of poetry it is especially lyric which is fondest of using rhymes owing to its subjective character, i.e. its inner feeling and its mode of expressing it.
+    — Aesthetics, Versification › Rhyme (tr. Knox)

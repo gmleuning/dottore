@@ -18,8 +18,12 @@ Phr:
   faithful to the score
 
 # ---- Hegel ----
-Def: The first kind of execution, which gives itself wholly to the work and reproduces only what is there, like the epic reciter who disappears behind his matter.
+Def: The epic manner of execution gives itself wholly to the work, as the rhapsodist lets personality retire behind the events reported, the more effaced the better. Where a composition has objective solidity, the performer must add nothing and be an obedient instrument, though not a mechanical barrel-organ player: life and soul must be given in the composer's sense, with technical freedom.
 Texts:
   Aesthetics
     Music › Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art
 Citations:
+  Epic, in which the poet intends to unfold for us an objective world of events and ways of action, leaves no alternative for the rhapsodist in his recital but to make his individual personality retire in favour of the deeds and events which he is reporting.
+    — Aesthetics, Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art (tr. Knox)
+  The executant artist not only need not, but must not, add anything of his own, or otherwise he will spoil the effect.
+    — Aesthetics, Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art (tr. Knox)

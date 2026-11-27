@@ -21,8 +21,14 @@ Phr:
   death is nothing to us [Epicurus]
 
 # ---- Hegel ----
-Def: The school of Epicurus at Athens, whose canon makes sensation the criterion and whose ethics seeks tranquillity in friendship and withdrawal.
+Def: Epicurus returned to Athens, bought a garden of his own, and taught there, living a regulated and very frugal life. No teacher was so loved and revered by his students, who lived in oneness and intimacy and stayed wholly faithful to his teachings, so that his school resembled a walled-in state that failed to develop.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Epicurean Philosophy › Epicurus and his Followers
 Citations:
+  [P]urchased a garden of his own
+    — Lectures on the History of Philosophy 1825–6, Epicurean Philosophy › Epicurus and his Followers (tr. Brown)
+  No other teacher has been so much loved and so revered by his students as was Epicurus.
+    — Lectures on the History of Philosophy 1825–6, Epicurean Philosophy › Epicurus and his Followers (tr. Brown)
+  In this respect his school resembled a walled-in state; it stagnated and failed to develop.
+    — Lectures on the History of Philosophy 1825–6, Epicurean Philosophy › Epicurus and his Followers (tr. Brown)

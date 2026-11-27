@@ -33,8 +33,12 @@ F:
   Greek: epochē, ataraxia, isostheneia, to pithanon [the persuasive], ou mallon, aphasia, skepsis, akatalēpsia, tropoi
 
 # ---- Hegel ----
-Def: The skeptics, the New Academy and Pyrrhonism, who suspend judgment by setting argument against argument.
+Def: Skepticism has the reputation of being the most formidable adversary of philosophy, the art of dissolving everything determinate. It is the dialectic of everything determinate, and philosophical knowledge contains the same negativity; the difference is that Skepticism stands pat with the negative as its result, saying that what has an internal contradiction dissolves itself and is not.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Skepticism and the New Academy
 Citations:
+  Skepticism is the dialectic of everything determinate, and the universal, the indeterminate, or the infinite is not exalted above the dialectic, since the universal, the indeterminate, the infinite—which stand over against the particular, the determinate, and the finite respectively—are themselves only something determinate too
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Skepticism and the New Academy (tr. Brown)
+  The only difference is that Skepticism stands pat with the negative as a result.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Skepticism and the New Academy (tr. Brown)

@@ -31,8 +31,14 @@ Phr:
   I that is We, and We that is I [Hegel]
 
 # ---- Hegel ----
-Def: The truth of consciousness: the I that is its own object, I = I, whose first form is desire.
+Def: Self-consciousness is the certainty that is equal to its truth: consciousness is its own object, and the otherness it distinguishes is for it no difference at all. With it we enter the native realm of truth. Yet it is not the motionless tautology of "I am I", for it is a return out of otherness, preserving the sensuous world as appearance whose essence is its own unity with itself. This unity must become essential to it, so it is desire; it finds satisfaction only in another self-consciousness, and so the concept of spirit appears.
 Texts:
   The Phenomenology of Spirit
     ¶¶166–230
 Citations:
+  Thus, with self-consciousness we have now entered into the native realm of truth.
+    — The Phenomenology of Spirit ¶167 (tr. Pinkard)
+  However, self-consciousness is in fact the reflection out of the being of the sensuous and perceived world and is essentially the return from out of otherness.
+    — The Phenomenology of Spirit ¶167 (tr. Pinkard)
+  A self-consciousness is for a self-consciousness. Only thereby is there in fact self-consciousness
+    — The Phenomenology of Spirit ¶177 (tr. Pinkard)

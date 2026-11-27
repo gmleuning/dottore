@@ -44,8 +44,12 @@ Phr:
   a precedent embalms a principle [Disraeli]
 
 # ---- Hegel ----
-Def: The beginning, which is immediate and abstract, yet as the start of the method already its own self-movement.
+Def: The beginning of the method is an immediate in the element of thought, simple and universal: not an immediate of sense or representation, but something assumed and found. It has no other determinateness than that, and this is precisely what makes it deficient. Because the method is objective and immanent, the lack belongs to the beginning itself, which must therefore have the impulse to carry itself further: the universal is implicitly the concrete totality, not yet posited.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The absolute idea
 Citations:
+  The beginning, therefore, has for the method no other determinateness than that of being the simple and universal; this is precisely the determinateness that makes it deficient.
+    — The Science of Logic, The absolute idea (tr. di Giovanni)
+  Where the method, however, is the objective and immanent form, the immediate character of the beginning must be a lack inherent in the beginning itself, which must be endowed with the impulse to carry itself further.
+    — The Science of Logic, The absolute idea (tr. di Giovanni)

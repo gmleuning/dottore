@@ -26,8 +26,12 @@ Phr:
   in the nature of things
 
 # ---- Hegel ----
-Def: The judgment in which the universal is the subject's substantial nature, its genus.
+Def: The judgement of necessity is that in which universality exists in and for itself, the objective universality which in the sphere of essence corresponds to substance, but which here has its differences immanent within it. It is posited with a determinateness essential to it and with a particularity diverse from it, so that the universal is determined as genus and species. It unfolds as the categorical, the hypothetical and the disjunctive judgement.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of necessity
 Citations:
+  The determination to which universality has advanced is, as we have seen, the universality that exists in and for itself or the objective universality that in the sphere of essence corresponds to substantiality.
+    — The Science of Logic, Judgment › The judgment of necessity (tr. di Giovanni)
+  In this way the universality is determined as genus and species.
+    — The Science of Logic, Judgment › The judgment of necessity (tr. di Giovanni)

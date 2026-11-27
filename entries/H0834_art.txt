@@ -46,8 +46,12 @@ Phr:
   life is short, art is long
 
 # ---- Hegel ----
-Def: Absolute spirit in the shape of sensuous intuition: the idea present to sense as beauty, the first and immediate form of spirit's self-knowledge.
+Def: Art is one way of bringing to mind and expressing the divine, the deepest interests of humanity and the most comprehensive truths of spirit, a task it fulfils only when free in its end and means and placed in the same sphere as religion and philosophy. It presents the absolute in sensuous form. Its beauty, born of the spirit, stands higher than that of nature, though in its highest vocation art is for us a thing of the past.
 Texts:
   Aesthetics
     Introduction
 Citations:
+  Now, in this its freedom alone is fine art truly art, and it only fulfils its supreme task when it has placed itself in the same sphere as religion and philosophy, and when it is simply one way of bringing to our minds and expressing the Divine, the deepest interests of mankind, and the most comprehensive truths of the spirit.
+    — Aesthetics, Introduction (tr. Knox)
+  In all these respects art, considered in its highest vocation, is and remains for us a thing of the past.
+    — Aesthetics, Introduction (tr. Knox)

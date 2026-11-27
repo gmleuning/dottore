@@ -32,8 +32,12 @@ Phr:
   as cause, so effect
 
 # ---- Hegel ----
-Def: Cause and effect as the same content in different form: the cause is a cause only in its effect.
+Def: Formal causality is the relation of cause and effect taken first by itself. Cause is originative as against effect: substance, determining itself, posits what is determined and returns into itself, and this absolute activity is cause, the power of substance manifested, its effect being what is posited. The effect is substantial only by vanishing, and the cause is actual only in its effect, so that there is nothing in the one that is not in the other.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute relation › The relation of causality › Formal causality
 Citations:
+  Cause is originative as against the effect.
+    — The Science of Logic, The relation of causality › Formal causality (tr. di Giovanni)
+  Absolute actuosity is thus cause – the power of substance in its truth as the manifestation by which that which is in itself, the accident or the positedness, is immediately expounded in its becoming, is posited as positedness, as effect.
+    — The Science of Logic, The relation of causality › Formal causality (tr. di Giovanni)

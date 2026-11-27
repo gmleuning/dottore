@@ -51,8 +51,12 @@ Phr:
   looking before and after [Hamlet], si vis pacem para bellum [Lat.]
 
 # ---- Hegel ----
-Def: The not-yet of the now, into which the present passes as its negation.
+Def: The future is the dimension of time in which non-being is the first determination and being comes later, though not in time: the non-being of the now's being. In nature, where time is only a now, the dimensions do not exist as distinct; they are necessarily only in subjective imagination, in remembrance and in fear or hope.
 Texts:
   The Philosophy of Nature
     §259
 Citations:
+  In the other case, the position is reversed; in the Future, non-being is the first determination, while being is later, though of course not in time.
+    — Encyclopedia §259, Addition (tr. Miller)
+  [T]hey are, of necessity, only in subjective imagination, in remembrance and fear or hope.
+    — Encyclopedia §259, Remark (tr. Miller)

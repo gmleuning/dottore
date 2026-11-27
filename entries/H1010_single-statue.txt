@@ -31,8 +31,12 @@ Phr:
   a figure alone
 
 # ---- Hegel ----
-Def: The single statue, the god in repose, the purest sculptural form.
+Def: The single statue has the proper function of sculpture itself, to provide images in temples, where its surroundings bear upon it. Here sculpture keeps its most perfect purity, setting the gods in beautiful, simple, inactive repose without a definite situation, or in free, naive ones. It departs from this when the position hints at an action's beginning or end.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Modes of Portrayal › The Single Statue
 Citations:
+  The original function of single statues is the real function of sculpture as such, i.e. to furnish images in temples
+    — Aesthetics, Modes of Portrayal › The Single Statue (tr. Knox)
+  Here sculpture retains its most perfect purity because in executing the figure of the gods it sets them in beautiful, simple, inactive repose in no specific situation
+    — Aesthetics, Modes of Portrayal › The Single Statue (tr. Knox)

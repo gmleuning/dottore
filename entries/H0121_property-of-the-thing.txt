@@ -39,8 +39,12 @@ Phr:
   a mark of
 
 # ---- Hegel ----
-Def: The thing's determinateness as its relation to other things: a property is the way a thing has effects on others and shows itself in them.
+Def: A property is the thing's negativity of reflection, by which it relates to something else as to itself. Unlike quality, with which a something is immediately one, the property is a way of reciprocal relating that the thing maintains through alteration. A thing has the property of effecting this or that in another and of expressing itself in a characteristic way, under the condition of a suitable other, but the property is its own, its self-identical substrate. In its properties the thing in itself is present as ground.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Concrete existence › The thing and its properties › Property
 Citations:
+  A thing has the property to effect this or that in an other, and in this connection to express itself in some characteristic way. It demonstrates this property only under the condition that another thing has a corresponding constitution, but at the same time the property is characteristically the thing’s own and its self-identical substrate
+    — The Science of Logic, The thing and its properties › Property (tr. di Giovanni)
+  The thing thereby passes over into an externality, but the property maintains itself in this transition.
+    — The Science of Logic, The thing and its properties › Property (tr. di Giovanni)

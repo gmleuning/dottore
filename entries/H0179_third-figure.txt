@@ -30,8 +30,12 @@ Phr:
   as a rule
 
 # ---- Hegel ----
-Def: Singular and particular joined through the universal: S–U–P, the transition to the mathematical figure.
+Def: The third figure, singular, universal, particular, has no immediate premise left, both having been mediated by the other two figures, so that it presupposes them as each presupposes the others. Its middle is the abstract, indeterminate universal, in which the extremes are contained only according to their universality and not their essential determinateness. It is the truth of the formal syllogism and shows its formalism.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of existence › The third figure
 Citations:
+  This third syllogism no longer has any single immediate premise; the connection S-U has been mediated by the first syllogism; the connection P-U by the second.
+    — The Science of Logic, The syllogism of existence › The third figure (tr. di Giovanni)
+  Considered in itself, the syllogism S-U-P is the truth of the formal syllogism; it expresses the fact that its mediating middle is the abstract universal and that the extremes are not contained in it according to their essential determinateness but only according to their universality
+    — The Science of Logic, The syllogism of existence › The third figure (tr. di Giovanni)

@@ -41,8 +41,12 @@ Phr:
   mix and match
 
 # ---- Hegel ----
-Def: Two self-subsistent measures combined into a third, whose measure is not the sum of theirs.
+Def: The combination of two measures is the union of two things of different inner measure, as of two metals of different specific gravity, each determined by the ratio of its quantitative sides. Each preserves itself in the alteration, but this self-preservation specifies the other and alters its own measure. The weight of the compound is the mere sum of the weights, but the volume is not, so that alteration falls in the exponents. Measure and the quality that rests on it prove to be nothing fixed, having their determinateness in other relations of measure.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Real measure › The relation of independent measures › Combination of two measures
 Citations:
+  Now, on the one hand each of the two measures preserves itself in the alteration they will incur because of the externality of quantum, for each is a measure; but, on the other hand, this self-preservation is itself a negative relating to the quantum, a specification of it, and, since this quantum is the exponent of the ratio of measure, the self-preservation is an alteration of the measure itself and indeed a reciprocal specification.
+    — The Science of Logic, The relation of independent measures › Combination of two measures (tr. di Giovanni)
+  But then, not only is one of the qualitative sides posited as alterable but measure itself, and so also the qualitative determinateness of the something which is based on it, has shown itself not to be something stable within but, like quantum in general, to have its determinateness in other measure-relations.
+    — The Science of Logic, The relation of independent measures › Combination of two measures (tr. di Giovanni)

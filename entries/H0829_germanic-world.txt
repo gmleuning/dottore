@@ -33,8 +33,12 @@ Phr:
   the freedom of a Christian
 
 # ---- Hegel ----
-Def: The Germanic world, where all are free: the principle of Christian freedom, worked out through the history of the Germanic peoples.
+Def: The last stage of world history, whose bearers are the German peoples and whose principle is Christian spiritual freedom. Its aim is to realize truth as the unlimited self-determination of freedom, producing that freedom from the peoples' own self-consciousness. They begin by overrunning older civilizations and develop by taking up a foreign culture, religion and law and fusing these with their own life.
 Texts:
   The Philosophy of History
     The German World
 Citations:
+  The German Spirit is the Spirit of the new World. Its aim is the realization of absolute Truth as the unlimited self-determination of Freedom—that Freedom which has its own absolute form itself as its purport.
+    — The Philosophy of History, The German World (tr. Sibree)
+  The destiny of the German peoples is, to be the bearers of the Christian principle.
+    — The Philosophy of History, The German World (tr. Sibree)

@@ -42,8 +42,12 @@ Phr:
   biting satire
 
 # ---- Hegel ----
-Def: Satire, the prose of the disappointed spirit at odds with a corrupt world, the Roman form.
+Def: Satire is the form in the transition out of classical art, where the opposition between spirit and the corrupt world persists, giving a prosaic relation in place of poetic reconciliation. Unlike symbolic forms, whose shape and meaning were strangers yet friendly, here sides once perfectly interfused separate because they can no longer agree, turning from peaceful reconciliation to enmity. It flourished on Roman soil.
 Texts:
   Aesthetics
     The Classical Form of Art › The Dissolution of the Classical Form of Art › Satire
 Citations:
+  [T]he result is that the classical art-form appears as superseded, since this relation leads to the downfall of the plastic gods and the beautiful world of men.
+    — Aesthetics, The Dissolution of the Classical Form of Art › Satire (tr. Knox)
+  [A]nd if therefore the sides joined together in such a perfect unity are detached from one another, this only happens because they can no longer agree with one another and must desert their peaceful reconciliation for incompatibility and enmity.
+    — Aesthetics, The Dissolution of the Classical Form of Art › Satire (tr. Knox)

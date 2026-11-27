@@ -62,8 +62,12 @@ Phr:
   fight fire with fire
 
 # ---- Hegel ----
-Def: The dissolution of cohesion, the body's self-restoration as the real negation of its specific determinateness, passing into shape.
+Def: Heat is matter's self-restoration to formlessness and fluidity, the triumph of its abstract homogeneity over specific determinatenesses, an existing activity of dissolution which appears formally as expansion. Unlike passive breaking, it belongs to qualitative cohesion: while repelling force the body inwardly yields, and this inner melting is the birthplace of heat, in which sound perishes.
 Texts:
   The Philosophy of Nature
     §§303–307
 Citations:
+  Heat is the self-restoration of matter to its formlessness, its fluidity, the triumph of its abstract homogeneity over specific determinatenesses; its abstract, merely implicit continuity, as negation of the negation, is here posited as an activity, as an existent dissolution.
+    — Encyclopedia §303 (tr. Miller)
+  This inner melting of the body is the birthplace of heat in which sound perishes
+    — Encyclopedia §303, Addition (tr. Miller)

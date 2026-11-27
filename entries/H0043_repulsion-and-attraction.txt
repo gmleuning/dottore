@@ -39,8 +39,12 @@ Phr:
   like poles repel, opposite poles attract
 
 # ---- Hegel ----
-Def: Repulsion, through which the one posits the many, and attraction, through which the many are one; each presupposes the other.
+Def: Repulsion and attraction are the two ways in which the difference of the one and the many refers them to each other. Repulsion is the one's excluding of the many from itself; attraction is the self-positing of the many ones in a one. Each first appears on its own, outside the other, but neither can be had apart. Repulsion, though negative, is essentially connection, since what is fled from still stands in relation, so attraction is within repulsion itself; and attraction presupposes repulsion, which supplies its material. In their equilibrium quality passes over into quantity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › Repulsion and attraction
 Citations:
+  Although negative, repulsion is nonetheless essentially connection; the mutual repulsion and flight is not a liberation from what is repelled and fled from; that which is excluded still stands in connection with what is excluded from it. But this moment of connection is attraction, which is thus within repulsion itself
+    — The Science of Logic, Being-for-itself › Repulsion and attraction (tr. di Giovanni)
+  But it has been established that it is not just repulsion which is presupposed by attraction, but that there equally is present also a reverse connection of repulsion to attraction, and that repulsion no less has attraction for its presupposition.
+    — The Science of Logic, Being-for-itself › Repulsion and attraction (tr. di Giovanni)

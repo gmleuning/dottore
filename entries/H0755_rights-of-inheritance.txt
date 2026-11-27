@@ -40,8 +40,12 @@ Phr:
   the family fortune
 
 # ---- Hegel ----
-Def: Inheritance, the entry of individuals into the family's property after its natural dissolution by death.
+Def: Inheritance is the transfer, upon the family's natural dissolution through the death of the parents, of what are in themselves common resources to individual ownership. Hegel rejects the unrestricted right to make a will, since the arbitrary will of the deceased deserves no more respect than the substantial right of the family.
 Texts:
   The Philosophy of Right
     §§178–180
 Citations:
+  The essence of inheritance is the transfer to individual ownership of what are in themselves common resources.
+    — The Philosophy of Right §178 (tr. Knox, rev. Houlgate)
+  Such arbitrariness by itself contains nothing worthy of higher respect than the right of the family
+    — The Philosophy of Right §180, Remark (tr. Knox, rev. Houlgate)

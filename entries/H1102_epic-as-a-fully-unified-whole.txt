@@ -27,8 +27,12 @@ Phr:
   episode after episode
 
 # ---- Hegel ----
-Def: The epic as a whole, unified yet broad, episodic, governed by circumstance.
+Def: The epic as a fully unified whole must gather everything connected with the action and its ground, differ from lyric and drama in development, and round a widely dispersed content into concrete unity. Its content is the entirety of a world in which an individual action happens, with both inner life and outer reality, the whole poetry of human existence.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › Particular Characteristics of Epic Proper › The Epic as a Fully Unified Whole
 Citations:
+  The contents of the epic, as we saw, are the entirety of a world in which an individual action happens.
+    — Aesthetics, Particular Characteristics of Epic Proper › The Epic as a Fully Unified Whole (tr. Knox)
+  But in epic, over and above the encompassing national life on which the action is based, both inner life and outer reality have their place, and thus here there is spread out before us all the detail of what can be regarded as the poetry of human existence.
+    — Aesthetics, Particular Characteristics of Epic Proper › The Epic as a Fully Unified Whole (tr. Knox)

@@ -24,8 +24,10 @@ Phr:
   the king is dead, long live the king! le roi est mort, vive le roi! [Fr.]
 
 # ---- Hegel ----
-Def: The monarch determined by birth, a natural individual in whom the state's will becomes immediate.
+Def: The sovereign as natural individual is the monarch determined by birth. Since the ultimate self of the state's will, taken abstractly, is immediate individuality, the determination of naturalness lies in its concept: this individual is raised to the dignity of monarchy in an immediate, natural fashion, through birth.
 Texts:
   The Philosophy of Right
     §§280–281
 Citations:
+  The monarch, therefore, is essentially determined as this individual, in abstraction from all other content, and this individual is raised to the dignity of monarchy in an immediate, natural, fashion, i.e. through his natural birth.
+    — The Philosophy of Right §280 (tr. Knox, rev. Houlgate)

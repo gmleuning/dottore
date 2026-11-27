@@ -35,8 +35,12 @@ Phr:
   a living thing
 
 # ---- Hegel ----
-Def: The organism, a subject which is its own end and means, whose members are only moments of the whole.
+Def: The living individual is the idea of life in its immediacy, a creative universal soul that determines itself, particularizes itself and splits into the extremes of a judgement that at once becomes a syllogism. It is a concept with an objectivity that corresponds to it only because the concept, as negative unity of that externality, posits it as corresponding. Objectivity is here no longer what the concept is lost in but is posited by it.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Life › The living individual
 Citations:
+  The concept of life or universal life is the immediate idea, the concept that has an objectivity corresponding to it; but the objectivity corresponds to it only to the extent that the concept is the negative unity of this externality, that is to say, posits it as corresponding to it.
+    — The Science of Logic, Life › The living individual (tr. di Giovanni)
+  The idea of life in its immediacy is as yet only the creative universal soul.
+    — The Science of Logic, Life › The living individual (tr. di Giovanni)

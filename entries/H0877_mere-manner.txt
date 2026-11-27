@@ -21,8 +21,12 @@ Phr:
   die Manier das Schlechteste, dem sich der Künstler hingeben kann [Ger.] [Hegel, Aesthetics]
 
 # ---- Hegel ----
-Def: Bloße Manier, the particular and contingent peculiarity of the artist, which Hegel calls the worst an artist can give himself up to.
+Def: Mere manner, or mannerism, must be essentially distinguished from originality: it concerns the particular and accidental idiosyncrasies of the artist, which come forward in place of the topic and its ideal representation. So understood it is the worst thing to which an artist can submit, since in it one indulges only personal, restricted whims, whereas art demands that such accidental peculiarity be extinguished.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
 Citations:
+  Mere manner [i.e. mannerism] must be essentially distinguished from originality.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)
+  Looked at in this way, manner is the worst thing to which the artist can submit because in it he indulges simply in his own restricted and personal whims.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)

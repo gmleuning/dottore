@@ -16,8 +16,12 @@ Phr:
   nel mezzo del cammin di nostra vita [It.] [Dante]
 
 # ---- Hegel ----
-Def: The Christian epic, whose world is the eternal action of divine justice and love, its great example Dante's Divine Comedy.
+Def: Christian epic has its richest work, the greatest of the Catholic Middle Ages, in Dante's Divine Comedy. Instead of a particular event its subject is the eternal action, the love of God, set in Hell, Purgatory and Paradise, into whose changeless existence the living world of human deeds and fates is plunged and judged, individuals standing solidified for ever like images of bronze.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Romantic Epic
 Citations:
+  Instead of a particular event it has for its subject-matter the eternal action, the absolute end and aim, the love of God in its imperishable activity and unalterable sphere, and for its locality Hell, Purgatory, and Paradise; into this changeless existent it plunges the living world of human action and suffering and, more particularly, the deeds and fates of individuals.
+    — Aesthetics, The Historical Development of Epic Poetry › The Romantic Epic (tr. Knox)
+  For as individuals mere in their passions and sufferings, in their intentions and their accomplishments, so now here they are presented for ever, solidified into images of bronze.
+    — Aesthetics, The Historical Development of Epic Poetry › The Romantic Epic (tr. Knox)

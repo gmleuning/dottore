@@ -29,8 +29,14 @@ Phr:
   within reach
 
 # ---- Hegel ----
-Def: Space as given to sense, the here which is many heres.
+Def: The here is the spatial form of the sensuous this. A here, for instance a tree, vanishes as soon as one turns around and is replaced by a house, while the here itself endures, indifferent to what fills it, as a mediated simplicity, a universality. Even the here that is pointed out is not a simple point but an in front and a behind, an above and a below, a right and a left, each passing into another. What endures is a negative this, a simple gathering of many heres, a universal here.
 Texts:
   The Phenomenology of Spirit
     ¶¶98–108
 Citations:
+  For example, here is the tree. I turn around, this truth vanishes, and it has inverted itself into its contrary: Here there is not a tree but rather a house.
+    — The Phenomenology of Spirit ¶98 (tr. Pinkard)
+  The This shows itself again to be a mediated simplicity, or as being universality.
+    — The Phenomenology of Spirit ¶98 (tr. Pinkard)
+  The Here that has been pointed out and to which I cling is likewise a this here, which is in fact not this here but is rather an in-front-of and behind, or an above and below, or a right and a left.
+    — The Phenomenology of Spirit ¶108 (tr. Pinkard)

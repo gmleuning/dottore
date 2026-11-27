@@ -16,8 +16,12 @@ F:
   French: amour-propre
 
 # ---- Hegel ----
-Def: Vanity and pride, which Hegel names as the chief cause of the soul's cocooning itself within itself: the eremitic consciousness shut in a narrow circle of its own interests.
+Def: Vanity and pride are what Hegel names as the chief cause of the soul's spinning itself into itself. The state arises mostly when someone shuts themself up in their subjectivity out of dissatisfaction with actuality. The mind thus settled in its inwardness easily loses its understanding of actuality and finds its way only among its subjective representations; and if any vitality remains, this solitary consciousness easily creates some content of its own, treats the purely subjective as objective and fixes it there.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  This state of soul mostly comes about when someone shuts himself up in his subjectivity out of dissatisfaction with actuality. The passion of vanity and pride is the chief cause of this self-cocooning of the soul within itself.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  For if there is still any vitality present in it, this eremitic consciousness easily takes the step of creating some content or other from its own resources and regarding this purely subjective item as something objective and fixing it in place.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

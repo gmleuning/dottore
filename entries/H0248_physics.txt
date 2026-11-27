@@ -31,8 +31,12 @@ Phr:
   matter and its qualities
 
 # ---- Hegel ----
-Def: Matter individualized, which has its determinations within it as its qualities: light, the elements, and the individual body.
+Def: Physics treats matter that has individuality, being-for-self developed within itself, and so is determined from within. Matter wrests itself from gravity, manifests itself, and develops its spatial determinations out of its own immanent form instead of receiving them from a centre it merely sought. The sphere runs from universal individuality, through particular individuality, to the total individual body.
 Texts:
   The Philosophy of Nature
     §§272–336
 Citations:
+  Matter has individuality, in so far as it has being-for-self developed within itself, and is therefore determined within itself.
+    — Encyclopedia §272 (tr. Miller)
+  Matter thus wrests itself from gravity, manifests itself, and determines itself within itself.
+    — Encyclopedia §272 (tr. Miller)

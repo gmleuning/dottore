@@ -32,8 +32,12 @@ Phr:
   the forces of nature
 
 # ---- Hegel ----
-Def: The past forces of the formative process of the earth, which, as past, have left behind their products.
+Def: The powers behind the earth's process of formation, which nature leaves behind as self-subsistences beyond the earth, are its connection with the solar system and position within it, its solar, lunar and cometary life, the inclination of its axis, and the magnetic axis. Unlike an animal, whose powers lie within it, the earth merely occupies its place.
 Texts:
   The Philosophy of Nature
     §339
 Citations:
+  The powers behind this process, which Nature leaves behind as self-subsistences beyond the earth, are the connection of the earth with the solar system and its position therein, its solar, lunar, and cometary life, the inclination of its axis to the orbit, and the magnetic axis.
+    — Encyclopedia §339 (tr. Miller)
+  The earth, on the other hand, is merely this, that it has such and such place in the solar system, occupies a place in the series of planets.
+    — Encyclopedia §339, Addition (tr. Miller)

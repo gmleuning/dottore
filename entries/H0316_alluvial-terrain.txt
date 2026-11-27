@@ -35,8 +35,12 @@ Phr:
   silt and sand
 
 # ---- Hegel ----
-Def: The alluvial terrain, the deposits of water, the soil in which the earth's vitality becomes fertile.
+Def: Alluvial terrain is the last moment of the geological advance, the decay into indifferent existence: the transition from stratified formations to alluvial land is a mixture, an abstract layering of clay, sand, lime and marl, completely formless minerals. Primitive rock thus develops until it loses its mineral state and joins a vegetable one.
 Texts:
   The Philosophy of Nature
     §340
 Citations:
+  The last moment, the transition from fletz-formations to alluvial terrain, is a mixture, an abstract stratification of clay, sand, lime, marl, the completely formless minerals.
+    — Encyclopedia §340, Addition (tr. Miller)
+  The primitive rock develops itself to the point where it loses its mineral state and joins on to a vegetable state.
+    — Encyclopedia §340, Addition (tr. Miller)

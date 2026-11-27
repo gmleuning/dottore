@@ -33,8 +33,14 @@ Phr:
   poles apart
 
 # ---- Hegel ----
-Def: Difference in and for itself, the difference of essence, which is only as related to identity.
+Def: Absolute difference is difference in and for itself, the difference of essence. It is not made by something external but refers to itself and is therefore simple: in the difference of A and not-A it is the simple "not" that constitutes it. It is not the otherness of existence, where two things lie outside each other and each is something immediate for itself; the other of essence is the other in and for itself, simple determinateness in itself. As difference from itself, it contains identity.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The determinations of reflection › Difference › Absolute difference
 Citations:
+  It is difference in and for itself, not difference through something external but self-referring, hence simple, difference.
+    — The Science of Logic, Difference › Absolute difference (tr. di Giovanni)
+  In the absolute difference of A and not-A from each other, it is the simple “not” which, as such, constitutes the difference.
+    — The Science of Logic, Difference › Absolute difference (tr. di Giovanni)
+  The other of essence, by contrast, is the other in and for itself, not the other of some other which is to be found outside it; it is simple determinateness in itself.
+    — The Science of Logic, Difference › Absolute difference (tr. di Giovanni)

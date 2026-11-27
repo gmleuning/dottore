@@ -40,8 +40,12 @@ Phr:
   memory lane
 
 # ---- Hegel ----
-Def: The intuition made inward as an image, preserved without the presence of the object.
+Def: Recollection is the first and most abstract stage of representation. Intelligence places the content of intuition in its own inner space and time, making it an image; the image is preserved unconsciously; and at last it is related to a present intuition of the same content and recognized as one's own. By being summoned up often it grows vivid enough to need no outer intuition, and so children pass from intuiting to recollecting.
 Texts:
   The Philosophy of Mind
     §§452–454
 Citations:
+  The images of the past lying hidden in the dark depths of our interior become our actual possession in the following way. They present themselves to the intelligence in the luminous, plastic shape of an occurrent intuition of the same content, and with the help of this present intuition we recognize them as intuitions we have already had.
+    — Encyclopedia §454, Addition (tr. Wallace and Miller, rev. Inwood)
+  In this way children pass from intuition to recollection.
+    — Encyclopedia §454, Addition (tr. Wallace and Miller, rev. Inwood)

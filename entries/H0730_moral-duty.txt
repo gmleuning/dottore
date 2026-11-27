@@ -53,8 +53,12 @@ Phr:
   there is a higher law than the Constitution [Wm. Seward]
 
 # ---- Hegel ----
-Def: Duty, the universal, abstract demand: do your duty for duty's sake, empty formalism if held alone.
+Def: Moral duty is the good as the universal, abstract essentiality of the will, which the particular subject is obliged to do for duty's sake. Hegel credits Kant with this insight, but held alone, without passing over to ethical life, the principle is an empty formalism, from which no particular duties can be derived.
 Texts:
   The Philosophy of Right
     §§133–135
 Citations:
+  Since duty is thus abstract and universal in character, it should be done for duty’s sake.
+    — The Philosophy of Right §133 (tr. Knox, rev. Houlgate)
+  From this point of view, no immanent doctrine of duties is possible
+    — The Philosophy of Right §135, Remark (tr. Knox, rev. Houlgate)

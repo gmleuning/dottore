@@ -45,8 +45,12 @@ Phr:
   in the eye of the beholder
 
 # ---- Hegel ----
-Def: The eye's activity in the production of colour, the subjective colours of seeing.
+Def: Vision enters into colour through the eye's own subjective, physiological phenomena. Like a chemical substance, the eye is a concrete entity with many other determinations, yet it produces colour: with two candles and a red glass, one shadow looks green, the complementary colour to red, and after looking into light the closed eye sees the opposite colour.
 Texts:
   The Philosophy of Nature
     §320
 Citations:
+  Following an experiment of Goethe's, if a red glass is held behind a candle-light, the illumination is red; if a second candle is added, that shadow is red on which the red light falls; the other shadow looks green, since that is the complementary (geforderte) colour to red. This is a physiological fact.
+    — Encyclopedia §320, Addition (tr. Miller)
+  If one looks into light and then closes one's eyes, one sees a circle of the opposite colour to the one first looked at.
+    — Encyclopedia §320, Addition (tr. Miller)

@@ -38,8 +38,12 @@ Phr:
   neutral ground
 
 # ---- Hegel ----
-Def: Two objects, tense against each other, combining through a middle into the neutral product.
+Def: The chemical process starts from objects in tension with one another, their affinity, each striving to sublate its own one-sidedness and so the other's, to produce a reality adequate to the concept. They meet in a medium of communication, water among bodies, and in spirit the sign and language. Their opposed independence is sublated and tension blunted in a tranquil neutrality, where the process dies out until something external rekindles it.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Chemism › The process
 Citations:
+  In the realm of bodies, water fulfills the function of this medium; in that of spirit, inasmuch as there is in it an analog of such a relation, the sign in general, and language more specifically, can be regarded as fulfilling it.
+    — The Science of Logic, Chemism › The process (tr. di Giovanni)
+  Their prior self-subsistent determinateness is thus sublated in the union that conforms to the concept, which is one and the same in both; their opposition and tension are thereby blunted, with the result that in this reciprocal complementation the striving attains its tranquil neutrality.
+    — The Science of Logic, Chemism › The process (tr. di Giovanni)

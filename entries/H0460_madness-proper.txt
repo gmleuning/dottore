@@ -48,8 +48,14 @@ Phr:
   tell it to the marines
 
 # ---- Hegel ----
-Def: Closure within itself that acquires the determinate content of a fixed idea: the mind sticks fast in a merely subjective presentation and holds it to be objective.
+Def: Madness proper is the second main form of derangement. The closure of the natural mind within itself acquires a determinate content, which becomes a fixed idea because the mind, not yet in full control of itself, is absorbed in it. The mind sticks fast in a merely subjective representation and takes it for something objective. Unlike imbecility and rambling, madness holds to something definite and so shows itself still to be consciousness, so that beside the deranged point the mad keep a coherent grasp of things and can act intelligently.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  The second main form of it, madness proper, arises when the closure-within-itself of the natural mind, whose various modifications we considered above, acquires a determinate content and this content becomes a fixed idea
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  But madness in the narrower sense of the word implies that the mind sticks fast in an individual, merely subjective representation and regards it as something objective.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  Therefore the mad have, alongside their craziness in relation to one point, at the same time a good, coherent consciousness, a correct conception of things and the capacity for intelligent action.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

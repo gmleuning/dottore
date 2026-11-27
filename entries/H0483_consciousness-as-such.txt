@@ -36,8 +36,12 @@ Phr:
   in one's right mind
 
 # ---- Hegel ----
-Def: Consciousness of an immediate object, which in its forms is sense, perception and understanding.
+Def: Consciousness as such is the first series of shapes in which consciousness takes its object to be what is essential, something other than itself that is there whether or not it is known. It begins as sensuous certainty, which holds to the immediate this; learns that its truth is universal and so becomes perception, which takes the thing with its properties; and passes into the understanding, which seeks the inner truth behind appearance in force and law, until in that inner it comes upon itself.
 Texts:
   The Phenomenology of Spirit
     ¶¶90–165
 Citations:
+  The object is indifferent as to whether it is known or not. The object remains even when it is not known, but if the object does not exist, then there is no knowing.
+    — The Phenomenology of Spirit ¶93 (tr. Pinkard)
+  In that way, I receive it as it is in truth, and instead of knowing what is immediate, I perceive.
+    — The Phenomenology of Spirit ¶110 (tr. Pinkard)

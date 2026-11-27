@@ -18,8 +18,12 @@ Adv:
   in his own manner
 
 # ---- Hegel ----
-Def: Manier as the artist's contingent peculiarity (zufällige Eigentümlichkeit), concerning not the general nature of the subject but only the particular artist.
+Def: Idiosyncrasy is the accidental peculiarity of the individual artist that constitutes manner. It does not concern the general kinds of art, which rightly require different modes of representation, as the epic poet differs from the lyric, but only this personality and its accomplishment, and may go so far as to contradict the ideal. Art demands that the artist extinguish it.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
 Citations:
+  Manner, then, in this sense [of mannerism] does not concern the general kinds of art which in and for themselves require different modes of representation, as, e.g., the landscape painter has to view his subjects in a way different from that of the historical painter, the epic poet differently from the lyric or dramatic one; on the contrary, 'manner' is a conception appropriate only to this personality and the accidental idiosyncrasy of his accomplishment, and this may go so far as to be in direct contradiction with the true nature of the Ideal.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)
+  But art as such cancels the mere accidentality of the topic as well as of its external appearance and therefore demands of the artist that he shall extinguish in himself the accidental particular characteristics of his own subjective idiosyncrasy.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)

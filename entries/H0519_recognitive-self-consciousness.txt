@@ -38,8 +38,14 @@ Phr:
   use others as a mirror, yi ren wei jing [Chin.] [Tang Taizong]
 
 # ---- Hegel ----
-Def: Self-consciousness that exists only in being recognized by another self-consciousness; a self for a self.
+Def: Recognitive self-consciousness is self-consciousness that is in and for itself only in being so for another: it exists only as recognized. For it there is another self-consciousness, so that it is outside itself, losing itself in the other and also seeing itself there. What either does to the other it does to itself, and a one-sided doing would be useless. In the pure concept of recognition each mediates itself with itself through the other, and they recognize themselves as mutually recognizing each other.
 Texts:
   The Phenomenology of Spirit
     ¶¶178–196
 Citations:
+  Self-consciousness is in and for itself while and as a result of its being in and for itself for an other; i.e., it is only as a recognized being.
+    — The Phenomenology of Spirit ¶178 (tr. Pinkard)
+  A one-sided doing would be useless because what is supposed to happen can only be brought about through both of them bringing it about.
+    — The Phenomenology of Spirit ¶182 (tr. Pinkard)
+  They recognize themselves as mutually recognizing each other.
+    — The Phenomenology of Spirit ¶184 (tr. Pinkard)

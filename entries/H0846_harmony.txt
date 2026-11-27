@@ -50,8 +50,12 @@ Phr:
   discers concordia [Lat.] [Ovid]
 
 # ---- Hegel ----
-Def: The unity of qualitatively different elements that belong together, as of colours and tones.
+Def: Harmony stands higher than conformity to law: a relation of qualitative differences, a totality of them grounded in the nature of the thing, brought into a congruous unity in which their bare opposition is dissolved, as with the basic colours or the tonic, mediant and dominant. It is the highest stage of abstract form and approaches free subjectivity, yet is not yet soul.
 Texts:
   Aesthetics
     The Beauty of Nature › The External Beauty of the Abstract Form › Beauty of Abstract Form › Harmony
 Citations:
+  Therefore at this stage harmony stands higher than mere conformity to law, i.e. harmony is a relation of qualitative differences, and indeed of a totality of such differences, a totality grounded in the essence of the thing itself.
+    — Aesthetics, Beauty of Abstract Form › Harmony (tr. Knox)
+  Mere harmony does not in general manifest either subjective animation as such or spirituality, although it is the highest stage of abstract form and already approaches free subjectivity.
+    — Aesthetics, Beauty of Abstract Form › Harmony (tr. Knox)

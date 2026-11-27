@@ -27,8 +27,12 @@ Phr:
   the reflection of reflection
 
 # ---- Hegel ----
-Def: The principle of treatment in painting: the subjective appearance, given back to the viewer.
+Def: The principle of artistic treatment in painting admits two extremes: depth of subject, religious and moral seriousness in ideal form, and, with insignificant subjects, their detail as they are and the painter's skill. Standing between the plastic ideal and immediate actual detail, painting has both an ideal kind, with the universal as its essence, and a kind presenting the individual closely.
 Texts:
   Aesthetics
     Painting › General Character of Painting › Principle of the Artistic Treatment
 Citations:
+  More than architecture and sculpture, painting admits of two extremes: what is made the chief thing is (a) the depth of the subject-matter, i.e. religious and moral seriousness in the treatment and presentation of the ideal beauty of form, and (ft), in the case of insignificant subjects chosen by the artist, the details of them as they actually are and the subjective skill of the artist in his work.
+    — Aesthetics, General Character of Painting › Principle of the Artistic Treatment (tr. Knox)
+  For this reason two kinds of painting come before us: (i) the ideal kind with the universal as its essence, and (ii) the other which presents what is individual in its closeness of particular detail.
+    — Aesthetics, General Character of Painting › Principle of the Artistic Treatment (tr. Knox)

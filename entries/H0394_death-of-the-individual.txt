@@ -59,8 +59,12 @@ Phr:
   nothing is certain but death and taxes
 
 # ---- Hegel ----
-Def: The individual's inadequacy to universality, its original disease; it dies from habit, and from its death spirit comes forth.
+Def: The disparity between the individual animal's finitude and universality is its original disease and inborn germ of death. It overcomes the disparity only abstractly, its activity hardening into the inertia of habit, and so brings about its own death. Through this death of natural immediacy the concept becomes for itself, and nature passes into spirit.
 Texts:
   The Philosophy of Nature
     §§375–376
 Citations:
+  The disparity between its finitude and universality is its original disease and the inborn germ of death, and the removal of this disparity is itself the accomplishment of this destiny.
+    — Encyclopedia §375 (tr. Miller)
+  The goal of Nature is to destroy itself and to break through its husk of immediate, sensuous existence, to consume itself like the phoenix in order to come forth from this externality rejuvenated as spirit.
+    — Encyclopedia §376, Addition (tr. Miller)

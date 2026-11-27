@@ -9,8 +9,12 @@ N:
   carol, motet
 
 # ---- Hegel ----
-Def: The church song, the congregation's common voice before God.
+Def: Church song shows that a higher, universal content is not excluded from song: most Protestant hymns for the edification of the faithful express longing for God, prayer for mercy, repentance, hope, confidence and doubt. They arise as the concern of an individual heart but are expressed universally, so that everyone may or should share them.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  They express the longing for God, a prayer for his mercy, the repentance, hope, confidence, doubt, faith, etc., of the Protestant heart
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  [B]ut they are expressed in a universal way so that these feelings and situations may or should be at the same time the concern of more or less everyone.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

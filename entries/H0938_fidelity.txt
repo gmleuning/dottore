@@ -40,8 +40,12 @@ Phr:
   to keep faith
 
 # ---- Hegel ----
-Def: Fidelity to a lord, personal loyalty.
+Def: Fidelity, in romantic subjectivity's worldly sphere, is not constancy in love or the friendship of equals, such as youth forms, but loyalty toward a superior, someone of higher rank or a master. The Greeks knew it in servants such as the swineherd of Odysseus, and Shakespeare shows it as a matter wholly of the mind in Kent's wish to serve Lear.
 Texts:
   Aesthetics
     The Romantic Form of Art › Chivalry › Fidelity
 Citations:
+  While fidelity in friendship and love subsists only between equals, fidelity as we have to consider it now affects a superior, someone higher in rank, or a master.
+    — Aesthetics, Chivalry › Fidelity (tr. Knox)
+  It is inherent essentially in the principle of our deeper life that, on the whole, every man fends for himself, i.e. is himself competent to take his place in the world.
+    — Aesthetics, Chivalry › Fidelity (tr. Knox)

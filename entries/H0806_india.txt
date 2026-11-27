@@ -30,8 +30,12 @@ Phr:
   the land of the Vedas
 
 # ---- Hegel ----
-Def: India, the dreaming spirit of caste, theocratic aristocracy.
+Def: The region of phantasy and sensibility, which advances beyond Chinese uniformity by letting differences appear, only to fix them as natural castes. Its idealism is one of imagination without distinct conception, as of Spirit in a dream. Because the distinctions are attributed to Nature, their religious unity yields a theocratic aristocracy, in which the Brahmins count as gods bodily present.
 Texts:
   The Philosophy of History
     The Oriental World › India
 Citations:
+  For we have not the dreaming of an actual Individual, possessing distinct personality, and simply unfettering the latter from limitation, but we have the dreaming of the unlimited absolute Spirit.
+    — The Philosophy of History, The Oriental World › India (tr. Sibree)
+  For the claims of caste are, as already remarked, not merely secular, but essentially religious, and the Brahmins in their exalted dignity are the very gods bodily present.
+    — The Philosophy of History, The Oriental World › India (tr. Sibree)

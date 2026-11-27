@@ -33,8 +33,12 @@ F:
   Italian: attrazione
 
 # ---- Hegel ----
-Def: The Stoics, for whom the criterion is the thought that grasps, the logos.
+Def: The Stoics divide philosophy into logic, physics, and ethics. In logic the question is the source of our knowledge of what is true, the criterion, and for them this is the representation in thought, the cataleptic phantasy, which embraces the true and the good: the true is a representation insofar as it is thought and conforms on the whole to reason.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Stoicism
 Citations:
+  In that of the Stoics the criterion is called the representation in thought
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Stoicism (tr. Brown)
+  The true (and the like) is a representation insofar as it is thought or conceived and conforms on the whole to reason.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Stoicism (tr. Brown)

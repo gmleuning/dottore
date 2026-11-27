@@ -36,8 +36,10 @@ Phr:
   one's own flesh and blood
 
 # ---- Hegel ----
-Def: The tribe or clan, the family's wider natural relations.
+Def: The kinship group is the wider circle of clan or house from which the partners of a new family come. The new family is self-subsistent and based on ethical love, while its tie to the clan rests only on consanguinity; an individual's property is therefore essentially connected with the marriage and only remotely with the clan.
 Texts:
   The Philosophy of Right
     §172
 Citations:
+  A marriage brings into being a new family which is self-subsistent and independent of the clans or ‘houses’ from which its members have been drawn. The tie between these and the new family has a natural basis—consanguinity—but the new family is based on ethical love.
+    — The Philosophy of Right §172 (tr. Knox, rev. Houlgate)

@@ -29,8 +29,12 @@ Phr:
   the measure of all things
 
 # ---- Hegel ----
-Def: Measure as immediate: a quantum to which a quality is bound.
+Def: Specific quantity is the first form of measure, qualitative quantity. It is first an immediate, specific quantum. Second, in relating to another it becomes a specifying of the indifferent quantum, a rule containing the two moments of measure as different, the quantitative determinateness and the external quantum. Third, these two sides themselves become qualities, and the rule becomes a relation of the two, one measure that specifies itself further into a difference of measures.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Specific quantity
 Citations:
+  Qualitative quantity is, first, an immediate, specific quantum; and this quantum, second, in relating itself to another, becomes a quantitative specifying, a sublating of the indifferent quantum.
+    — The Science of Logic, Measure › Specific quantity (tr. di Giovanni)
+  In this difference, however, the two sides become qualities, and the rule becomes a relation of the two
+    — The Science of Logic, Measure › Specific quantity (tr. di Giovanni)

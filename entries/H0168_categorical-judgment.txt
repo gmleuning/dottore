@@ -29,8 +29,12 @@ Phr:
   flat out
 
 # ---- Hegel ----
-Def: The genus or species predicated of the subject as its substantial nature: gold is a metal.
+Def: The categorical judgement is the first, immediate judgement of necessity: its predicate is the universality in which the subject has its immanent nature, as in saying that the rose is a plant or that this ring is gold. What is necessary is the substantial identity of subject and predicate, so that it differs wholly from predicating an accidental property. Yet the subject's singularity still belongs to the immediacy of external existence.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of necessity › The categorical judgment
 Citations:
+  Now the categorical judgment has for predicate such a universality as in it the subject possesses its immanent nature.
+    — The Science of Logic, The judgment of necessity › The categorical judgment (tr. di Giovanni)
+  But what is necessary in it is the substantial identity of subject and predicate
+    — The Science of Logic, The judgment of necessity › The categorical judgment (tr. di Giovanni)

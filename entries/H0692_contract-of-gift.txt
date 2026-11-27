@@ -38,8 +38,10 @@ Phr:
   no strings attached
 
 # ---- Hegel ----
-Def: The formal contract, in which only one party gives.
+Def: The contract of gift is the formal contract, in which only one party alienates and the other only acquires. It has three species: the gift of a thing outright, the loan of a thing, in which part of its use is given while ownership remains, and the gift of a service, such as the safe-keeping of another's property.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  A. Gift. (1) Gift of a thing—gift properly so called. (2) Loan [Leihen] of a thing—i.e. the gift of a portion of it or of restricted use and enjoyment of it
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

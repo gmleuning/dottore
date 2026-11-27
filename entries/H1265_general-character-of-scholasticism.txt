@@ -35,8 +35,12 @@ Phr:
   reason under authority
 
 # ---- Hegel ----
-Def: The general character of scholasticism, reason working within the authority of the church.
+Def: In its general character Scholasticism is the philosophy of the European Middle Ages, arising among new peoples who built on the ruins of an older world and received from outside an alien spiritual principle. The age is marked by duality and antithesis, which it must take into itself and overcome, as spirit makes the natural into its presupposition and works upon it.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › The Scholastics › General Character of Scholastic Philosophy
 Citations:
+  It is European philosophy in the European Middle Ages.
+    — Lectures on the History of Philosophy 1825–6, The Scholastics › General Character of Scholastic Philosophy (tr. Brown)
+  The primary element of the Middle Ages is this duality, this cleavage.
+    — Lectures on the History of Philosophy 1825–6, The Scholastics › General Character of Scholastic Philosophy (tr. Brown)

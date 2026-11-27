@@ -37,8 +37,12 @@ Phr:
   the individual case
 
 # ---- Hegel ----
-Def: The concept returned into itself from its difference: the determinate universal, the subject.
+Def: Singularity is the concept reflected out of its determinateness into itself, the determinate determinate, in which it restores itself as self-equal in absolute negativity. Universality and particularity are in it what they are in and for themselves. Abstraction, which climbs from the singular to ever higher genera, goes astray: its highest universal is an empty surface, while the singularity it scorns is the depth in which the concept grasps itself and is posited as concept.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The concept › The singular
 Citations:
+  At first, therefore, singularity appears as the reflection of the concept out of its determinateness into itself.
+    — The Science of Logic, The concept › The singular (tr. di Giovanni)
+  Its higher and highest universal to which it rises is only a surface that becomes progressively more void of content; the singularity which it scorns is the depth in which the concept grasps itself and where it is posited as concept.
+    — The Science of Logic, The concept › The singular (tr. di Giovanni)

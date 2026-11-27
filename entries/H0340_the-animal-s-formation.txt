@@ -42,8 +42,12 @@ Phr:
   body and soul
 
 # ---- Hegel ----
-Def: The animal organism as shape, the subject's self-formation into its systems: sensibility, irritability and reproduction.
+Def: The animal's formation or shape is the subject as a whole related only to itself, exhibiting its determinations first as simple elements, sensibility, irritability and reproduction, then as systems, then as a total structure and its process. The animal is the negativity of itself, and through its inner process gives itself form in its viscera.
 Texts:
   The Philosophy of Nature
     §§353–356
 Citations:
+  Shape is the animal subject as a whole which is related only to itself.
+    — Encyclopedia §353 (tr. Miller)
+  The animal is the negativity of itself which transcends its shape; it does not let the arrest of its growth issue only in the digestive and sexual processes, but as the negativity of itself, in its own inner process it gives itself form in its viscera.
+    — Encyclopedia §353, Addition (tr. Miller)

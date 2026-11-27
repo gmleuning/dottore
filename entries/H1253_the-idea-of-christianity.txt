@@ -26,8 +26,12 @@ Phr:
   God has become man
 
 # ---- Hegel ----
-Def: The idea of Christianity, that God is spirit and has become man.
+Def: In the Christian religion what God genuinely is has entered human consciousness: the implicit unity of divine and human nature has come to consciousness. The Christian life consists in the individual's being called to attain this unity. The Neoplatonists showed the idea in its universality, but not that trinity alone is what is true.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › The Idea of Christianity
 Citations:
+  The shape that it takes in the Christian religion is, more precisely, that what God genuinely is has entered human consciousness, has become manifest.
+    — Lectures on the History of Philosophy 1825–6, Medieval Philosophy › The Idea of Christianity (tr. Brown)
+  In the work of the Neoplatonists we saw the idea in its universality. But they did not show that three-in-oneness or trinity [ Dreieinigkeit] is what is true
+    — Lectures on the History of Philosophy 1825–6, Medieval Philosophy › The Idea of Christianity (tr. Brown)

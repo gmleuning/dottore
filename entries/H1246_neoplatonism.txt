@@ -30,8 +30,10 @@ Phr:
   the flight of the alone to the alone [Plotinus]
 
 # ---- Hegel ----
-Def: Neoplatonism, in which thought becomes the intellectual world and all things flow from the one.
+Def: The third stage of Greek philosophy follows on the return of self-consciousness into itself, an infinite subjectivity without objectivity. What is now required is that spirit which has so internalized itself become objective again, in an intellectual world born of spirit: both the return to God and God's manifestation to human beings as God is in truth, for spirit.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Neoplatonic Philosophy
 Citations:
+  [I]t is, on the one hand, the return to God but, on the other hand, God's relationship to human beings, God's manifestation or appearance to them, albeit as God is in and for himself in truth, as God is for spirit.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Neoplatonic Philosophy (tr. Brown)

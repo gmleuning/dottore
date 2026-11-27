@@ -31,8 +31,10 @@ Phr:
   master in one's own house
 
 # ---- Hegel ----
-Def: The state's individuality in relation to other states, its independence.
+Def: External sovereignty is the state's individuality in relation to other states. Spirit in its freedom is an infinitely negative relation to itself, a being-for-self that excludes others. Its independence is the primary freedom and highest dignity of a people, and is shown in war and in the estate of courage.
 Texts:
   The Philosophy of Right
     §§321–329
 Citations:
+  In this independence the being-for-self of the actual spirit has its existence; hence it is the primary freedom which a people possesses as well as its highest dignity.
+    — The Philosophy of Right §322 (tr. Knox, rev. Houlgate)

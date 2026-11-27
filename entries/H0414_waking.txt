@@ -28,8 +28,12 @@ F:
   German: Wachen
 
 # ---- Hegel ----
-Def: Waking, the soul's being-for-self against its sleep: it divides itself from its natural immediacy and finds the world as an objective whole.
+Def: Waking is the soul's being-for-self set against its mere being: the individual soul's own act of distinguishing itself from its still undifferentiated universality. It includes in general all self-conscious and rational activity of mind in its distinguishing. Taken concretely, to be awake is to behave as an I and as intellect, before which intuition stands as a concrete whole of determinations, each holding its place by and with all the others, so that every part of the content is confirmed by its interconnection with the rest.
 Texts:
   The Philosophy of Mind
     §398
 Citations:
+  It is not merely for us or externally that waking is distinguished from sleep; waking is itself the judgement of the individual soul, whose being-for-self is for the soul itself the relation of this determination of it, its being-for-self, to its mere being, its distinguishing of itself from its still undifferentiated universality.
+    — Encyclopedia §398 (tr. Wallace and Miller, rev. Inwood)
+  Waking is the concrete consciousness of this reciprocal corroboration of each individual moment of its content by all the others in the pictorial composition of intuition.
+    — Encyclopedia §398, Remark (tr. Wallace and Miller, rev. Inwood)

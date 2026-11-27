@@ -20,8 +20,10 @@ F:
   German: Armenhaus, Krankenhaus, Waisenhaus
 
 # ---- Hegel ----
-Def: The public authority's institutions of care, which take the place of the family for the poor, the sick and the helpless (§241-242).
+Def: Public poorhouses and hospitals are the public institutions that supplement private charity and religious foundations in caring for the poor and the sick. Poverty and distress have a subjective side that calls for subjective aid from love and sympathy, but the public authority provides general arrangements, leaving charity enough still to do.
 Texts:
   The Philosophy of Right
     §242
 Citations:
+  [A]re supplemented by public poorhouses, hospitals, street-lighting, and so forth. There is still quite enough left over and above these things for charity to do on its own account.
+    — The Philosophy of Right §242, Remark (tr. Knox, rev. Houlgate)

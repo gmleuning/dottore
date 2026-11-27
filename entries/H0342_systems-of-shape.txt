@@ -32,8 +32,12 @@ Phr:
   inner workings
 
 # ---- Hegel ----
-Def: The systems of shape in which the functions exist: the nervous, blood and digestive systems.
+Def: The three functions have reality in three systems of shape, nervous, circulatory and digestive, each a totality differentiated within itself. These systems are not separate: every point contains all three, blood, nerves and glandular lymphatic substance being everywhere present, although in each system one function predominates, and animal lymph is their unity.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  [B]lood and nerves are everywhere present, and everywhere, too, there is a glandular, lymphatic substance, that which constitutes reproduction.
+    — Encyclopedia §354, Addition (tr. Miller)
+  The unity of these abstract moments is the animal lymph from which the internal organs are developed
+    — Encyclopedia §354, Addition (tr. Miller)

@@ -32,8 +32,12 @@ Phr:
   on one's own account
 
 # ---- Hegel ----
-Def: Being-for-self taken simply, as the self-relation that has otherness only as sublated within it.
+Def: Being-for-itself as such is being-for-itself taken in its general concept. Something is for itself in so far as it has transcended its limitation, rejecting its connection with an other and holding that other in it only as a moment. It relates to the limiting other polemically, and through negating it is reflected into itself. Consciousness already contains this determination but remains dual, since it still faces an external object; self-consciousness is being-for-itself brought to completion, the nearest example of infinity present, though of an abstract infinity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › Being-for-itself as such
 Citations:
+  Being-for-itself is the polemical, negative relating to the limiting other and, through this negation of the other, is being-reflected-within-itself
+    — The Science of Logic, Being-for-itself › Being-for-itself as such (tr. di Giovanni)
+  Self-consciousness, on the contrary, is being-for-itself brought to completion and posited; the side of reference to another, to an external object, is removed.
+    — The Science of Logic, Being-for-itself › Being-for-itself as such (tr. di Giovanni)

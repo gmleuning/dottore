@@ -27,8 +27,12 @@ Phr:
   at the root of
 
 # ---- Hegel ----
-Def: Ground and grounded with different contents, so that the ground becomes an external determination.
+Def: Real ground is ground in which ground and grounded have different contents, so that the connection ceases to be a tautology: whoever asks for a ground now demands another determination of content than the one whose ground is sought. The grounded contains the content of the ground and also a content of its own. Since the two determinations are indifferent to each other, their unity is only an empty linking by a something that holds them together from outside, and so the connection is no true mediation.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Determinate ground › Real ground
 Citations:
+  Now the moment ground and grounded have a diverse content, the ground-connection has ceased to be a formal one; the turning back to the ground and the procession forward from ground to posited is no longer a tautology; the ground is realized.
+    — The Science of Logic, Determinate ground › Real ground (tr. di Giovanni)
+  But besides this content of the ground, the grounded also now possesses a content of its own and is accordingly the unity of a twofold content.
+    — The Science of Logic, Determinate ground › Real ground (tr. di Giovanni)

@@ -19,8 +19,12 @@ Phr:
   poeta nascitur, non fit [Lat.] [the poet is born, not made]
 
 # ---- Hegel ----
-Def: Genie, the general capacity for true production of art together with the energy to develop and work it out; it has, unlike thought, a side of natural gift.
+Def: Genius is the general ability for the true production of a work of art, with the energy to elaborate and complete it, existing only as subjective, since spiritual production is possible only to a self-conscious subject who makes such creation an aim. It requires a specific aptitude with an essential natural element, in which sense it is inborn, though it also demands long study and industry.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  Genius is the general ability for the true production of a work of art, as well as the energy to elaborate and complete it.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  With art the thing is different; it requires a specific aptitude, in which a natural element plays an essential part too.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

@@ -29,8 +29,12 @@ Phr:
   to bear the strain
 
 # ---- Hegel ----
-Def: Coherence as resistance in a determinate direction, as tensile, breaking or crushing strength.
+Def: Quantitative coherence is ordinary cohesion, the first and merely quantitative coherence of matter with itself: the strength with which it holds together in resistance to weight. The amount of weight decides whether a mass retains its coherence or gives it up, so that glass or wood bears a certain load before breaking; this order does not follow that of specific gravity.
 Texts:
   The Philosophy of Nature
     §296
 Citations:
+  The coherence of matter with its own self is, in the first place, merely quantitative—ordinary cohesion, the strength of matter's holding-together in resistance to the influence of weight
+    — Encyclopedia §296 (tr. Miller)
+  The amount of the weight determines whether the mass retains its coherence or gives it up
+    — Encyclopedia §296, Addition (tr. Miller)

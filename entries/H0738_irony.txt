@@ -37,8 +37,12 @@ Phr:
   nothing is sacred
 
 # ---- Hegel ----
-Def: Irony, the supreme form of subjectivity, which knows itself as master of all ethical content.
+Def: Irony is the supreme form of this subjectivity: it knows itself as the master of every ethical content, which it may accept or set aside at will. It acknowledges law and duty, yet holds itself above them as the one who decides. The name comes from Plato, but Socrates used irony against conceit, not against the Idea.
 Texts:
   The Philosophy of Right
     §140
 Citations:
+  Finally, the supreme form in which this subjectivity is completely comprehended and expressed is the phenomenon which has been called by a name borrowed from Plato—‘irony’.
+    — The Philosophy of Right §140, Remark (tr. Knox, rev. Houlgate)
+  You actually accept a law, it says, and honestly respect it as absolute [an und für sich seiend]. So do I, but I go further than you, because I am beyond this law and can make it to suit myself.
+    — The Philosophy of Right §140, Remark (tr. Knox, rev. Houlgate)

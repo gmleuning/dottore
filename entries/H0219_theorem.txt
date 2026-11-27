@@ -39,8 +39,12 @@ Phr:
   it can be shown that
 
 # ---- Hegel ----
-Def: The singular as the concrete identity of the universal and particular, with a demonstration of its necessity.
+Def: The theorem is the properly synthetic element of synthetic cognition, presenting the subject matter in its reality, in the conditions and forms of real existence, where the relations of its determinations are necessary. Because it joins diverse determinations whose unity is not yet posited, it needs proof. A first difficulty is to distinguish what belongs in the definition from what belongs in theorems, for which no principle lies ready, as Euclid's axiom of parallels shows.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The idea of cognition › The idea of the true › Synthetic cognition › The theorem
 Citations:
+  Now according to the definition just given, the theorem is the properly synthetic element of a subject matter, because the relations of its determinacies are necessary, that is, are grounded in the inner identity of the concept.
+    — The Science of Logic, Synthetic cognition › The theorem (tr. di Giovanni)
+  The synthesis contained in the theorem no longer has, therefore, the form of the concept to justify it; it is a joining together of such as are diverse; consequently, the unity not yet thereby posited still remains to be demonstrated; here proof thus becomes necessary to this cognition itself.
+    — The Science of Logic, Synthetic cognition › The theorem (tr. di Giovanni)

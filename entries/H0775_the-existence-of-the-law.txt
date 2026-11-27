@@ -45,8 +45,12 @@ Phr:
   semel emissum volat irrevocabile verbum [Lat.]
 
 # ---- Hegel ----
-Def: Law as existing, public and known, binding on all.
+Def: The existence of the law is its being universally known and publicly codified. By the right of self-consciousness, laws binding on all must be made known; a public legal code requires simple universal determinations, yet the finite material to which law applies demands further determinations without end.
 Texts:
   The Philosophy of Right
     §§215–218
 Citations:
+  If laws are to have a binding force, it follows that, in view of the right of self-consciousness (see § 132 and the Remark thereto) they must be made universally known.
+    — The Philosophy of Right §215 (tr. Knox, rev. Houlgate)
+  For a public legal code, simple universal determinations are required, and yet the nature of the finite material to which law is applied leads to further determinations ad infinitum.
+    — The Philosophy of Right §216 (tr. Knox, rev. Houlgate)

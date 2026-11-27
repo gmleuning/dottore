@@ -27,8 +27,12 @@ F:
   Arabic: al-ṭabīʿiyyūn [the naturalists]
 
 # ---- Hegel ----
-Def: The Presocratics, who found the principle in water, the infinite, number, being, becoming, atoms and nous.
+Def: The first division runs from Thales to Anaxagoras and takes in the Ionians, the Pythagoreans, the Eleatics, Heraclitus, Empedocles and the atomists, and Anaxagoras. The progression runs from wholly abstract characterizations in natural shape, such as water, air, and the infinite, to number, and then with the Eleatics to pure being, where thought is torn free from sensuous shape.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Presocratics
 Citations:
+  With Thales and others among the Ionians we find wholly abstract characterizations such as water, air, and 'the infinite' [das Unendliche], which nonetheless take a particular shape.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Presocratics (tr. Brown)
+  The Eleatics constitute step (3). Here thought is forcibly torn free from sensuous shape, and from the form of number too. The principle of the Eleatics is pure being.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Presocratics (tr. Brown)

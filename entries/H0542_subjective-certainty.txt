@@ -34,8 +34,12 @@ Phr:
   gut conviction
 
 # ---- Hegel ----
-Def: Certainty within the self, not yet confirmed by its object.
+Def: Subjective certainty is reason as my singularity, no immediate singularity but a universal one, which determines itself in and for itself and so constitutes certainty. As the pure singularity of subjectivity, reason is certain that the determinations of self-consciousness hold objectively: that what I think in my own thoughts belongs equally to the essence of things. In nature the concept is neither certainty nor knowledge; only here does it have the form of reason.
 Texts:
-  The Philosophy of Mind
-    §§438–439
+  The Berlin Phenomenology
+    §439
 Citations:
+  "As the pure singularity of subjectivity, reason is therefore determined in and for itself, and is therefore the certainty that the determinations of self-consciousness are generally objective, determinations of the essence of things, to the extent that they are its own thoughts."
+    — The Berlin Phenomenology §439 (tr. Petry)
+  Reason is therefore my singularity: it is not immediate but universal singularity, and determines itself in and for itself, constitutes certainty.
+    — The Berlin Phenomenology §439 (tr. Petry)

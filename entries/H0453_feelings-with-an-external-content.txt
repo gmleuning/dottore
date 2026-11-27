@@ -11,8 +11,14 @@ N:
   jucundity†, heartquake†, heartsinking†, affrightment†, batophobia†
 
 # ---- Hegel ----
-Def: Feelings whose content comes from outside, from what befalls the self (joy, grief, fear, hope), the self moved by an object or an event.
+Def: Feelings of the second kind are those whose content comes from intuition or representation, so that they are more determinate than the bare pleasant and unpleasant: delight, joy, hope, fear, anguish, pain. Joy is the feeling that my inner determinacy accords with a single event, thing or person, contentment a lasting and peaceful harmony, fear the feeling of my self together with an evil that threatens it. None has a content belonging to its own nature; it enters from outside. Nor need the content become feeling at all.
 Texts:
   The Philosophy of Mind
-    §407
+    §472
 Citations:
+  There are, namely, in the second place, feelings which, since their content derives from intuition or from representation, surpass in determinacy the feeling of the pleasant or unpleasant.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)
+  Joy consists in the feeling of accordance of my determinedness-in-and-for-itself with an individual event, a thing, or person.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)
+  All these feelings have no content immanent in them, belonging to their peculiar nature; the content enters into them from outside.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)

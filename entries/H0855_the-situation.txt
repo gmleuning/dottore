@@ -28,8 +28,12 @@ Phr:
   to set the scene
 
 # ---- Hegel ----
-Def: The situation which, by a collision, provokes the action.
+Def: The situation is the particular state of affairs that opens the general condition of the world into collisions and complications, giving individuals the chance to show what they are in a determinate shape. The general state of the world is still unmoved and only the possibility of individual configuration; art must go beyond it to pictures of definite characters and actions, where the universal powers still hold sway.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Determinacy of the Ideal › Action › The Situation
 Citations:
+  So far as individuals are concerned, the general situation is therefore indeed the stage presented to them, but it opens out into specialized situations, and, with this particularization, into collisions and complications which give the individuals opportunities to show what they are and display themselves as possessed of a determinate shape.
+    — Aesthetics, Action › The Situation (tr. Knox)
+  In this connection, art has thus not at all to sketch only a universal world situation but has to proceed out of this vague idea to pictures of definite characters and actions.
+    — Aesthetics, Action › The Situation (tr. Knox)

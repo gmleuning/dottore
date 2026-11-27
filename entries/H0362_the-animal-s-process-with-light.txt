@@ -25,8 +25,12 @@ Phr:
   skin deep
 
 # ---- Hegel ----
-Def: The animal's relation to light, its colouring and sensitivity, the outward facing of its skin.
+Def: The animal's relation to light, an elemental power outside it, is not what it is for the plant: since animal and human being see, their relation to light is ideal in the theoretical process. Its influence as a physical power shows only in colouring, of plumage and pelts, and of blood and other coloured fluids.
 Texts:
   The Philosophy of Nature
     §362
 Citations:
+  But for animal and man, light as such is not the same power as it is for the plant nature
+    — Encyclopedia §362, Addition (tr. Miller)
+  It is only on the colour of feathered creatures and on the colour of animal's pelts that light exerts an influence
+    — Encyclopedia §362, Addition (tr. Miller)

@@ -37,8 +37,12 @@ Phr:
   dragging one's tail in the mud, yao wei tu zhong [Chin.] [Zhuangzi]
 
 # ---- Hegel ----
-Def: Self-consciousness free in thought, withdrawn from the world into itself: stoicism, skepticism, the unhappy consciousness.
+Def: The freedom of self-consciousness is that of consciousness which thinks: an I that is an object to itself in concepts, so that in moving among them it moves within itself and is not in an other. It is first free only as the universal essence, withdrawn from the manifold of objective being. Its history is stoicism, which withdraws into the simple essentiality of thought; skepticism, which realizes that freedom by annihilating the determinate world; and the unhappy consciousness, which holds the resulting contradiction within one doubled consciousness.
 Texts:
   The Phenomenology of Spirit
     ¶¶197–230
 Citations:
+  Within thinking, I am free because I am not in an other, but rather I remain utterly at one with myself, and the object, which to me is the essence, is in undivided unity my being-formyself; and my moving about in concepts is a movement within myself.
+    — The Phenomenology of Spirit ¶197 (tr. Pinkard)
+  As it consciously appeared in the history of spirit, this freedom of self-consciousness has, as is well known, been called stoicism.
+    — The Phenomenology of Spirit ¶198 (tr. Pinkard)

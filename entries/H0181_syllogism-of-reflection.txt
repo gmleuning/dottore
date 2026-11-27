@@ -26,8 +26,12 @@ Phr:
   as far as anyone knows
 
 # ---- Hegel ----
-Def: Inference whose middle is the subject's reflected totality: all, then many, then one like another.
+Def: The syllogism of reflection arises when the abstractness of the terms is sublated, each determinateness being posited as concrete, with the others shining in it. Its middle is no isolated particularity but the totality of determinations, the posited unity of the extremes, though only as a reflection that embraces them, not yet the identity of the concept. It runs as the syllogism of allness, of induction and of analogy.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of reflection
 Citations:
+  The course of the qualitative syllogism has sublated the abstractness of its terms
+    — The Science of Logic, The syllogism › The syllogism of reflection (tr. di Giovanni)
+  This term is now posited as the totality of the determinations; thus it is the posited unity of the extremes; but this unity is at first that of a reflection embracing the extremes within itself
+    — The Science of Logic, The syllogism › The syllogism of reflection (tr. di Giovanni)

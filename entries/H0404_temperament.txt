@@ -62,8 +62,12 @@ Phr:
   vino tortus et ira [Lat.] [Horace]
 
 # ---- Hegel ----
-Def: The individual's natural manner of activity, the way they go about their aims: sanguine, choleric, phlegmatic, melancholic.
+Def: Temperament is the entirely universal mode and manner in which the individual is active, makes itself objective and maintains itself in actuality. It does not concern the ethical character of an action, the talent shown in it, or any passion with a definite content. Its four traditional kinds differ chiefly by whether one gives oneself to the matter at hand, as the sanguine and phlegmatic do, or is more concerned with one's own individuality, as the choleric and melancholic are. In a cultivated age these differences lose their importance.
 Texts:
   The Philosophy of Mind
     §395
 Citations:
+  It is therefore best to define temperament as the entirely universal mode and manner in which the individual is active, objectifies himself, maintains himself in actuality.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)
+  The main difference between these temperaments is based on whether someone devotes himself to the matter in hand or whether he is more concerned with his own individuality. The former case occurs with the sanguine and phlegmatic, the latter with the choleric and melancholic.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)

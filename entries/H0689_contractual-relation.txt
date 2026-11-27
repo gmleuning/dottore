@@ -52,8 +52,10 @@ Phr:
   to God, thy country, and thy friend be true [Vaughan]
 
 # ---- Hegel ----
-Def: The relation of the contracting wills, a common will which is not yet universal.
+Def: The contractual relation is the relation of two immediate, self-subsistent persons who agree. Contract springs from their arbitrary will; the identical will that it brings into existence is posited by the parties and therefore only common, not universal; and its object is a single external thing, which alone can be alienated by the parties' choice.
 Texts:
   The Philosophy of Right
     §§72–75
 Citations:
+  The two contracting parties are related to each other as immediate self-subsistent persons. Therefore (α) contract arises from the arbitrary will. (β) The identical will which is brought into existence by the contract is only one posited by the parties, and so is only a will shared in common and not a will that is universal
+    — The Philosophy of Right §75 (tr. Knox, rev. Houlgate)

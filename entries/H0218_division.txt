@@ -40,8 +40,12 @@ Phr:
   In vast cumbrous array [Churchill]
 
 # ---- Hegel ----
-Def: The universal particularized, the genus divided according to a principle drawn from the object.
+Def: Division is the step after definition, moving toward the particular. It would need an immanent principle beginning from the universal, which synthetic cognition lacks, so that it takes its determinations from what is given, ordering empirical particulars and finding grounds of division by comparison. Its laws are therefore empty formal rules: it is indifferent to the exhaustion of a concept whether a dozen further species of parrot are discovered.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The idea of cognition › The idea of the true › Synthetic cognition › Division
 Citations:
+  Because of the lack of a principle of self-determination, the only possible laws for this business of division consist in formal, empty rules that lead nowhere.
+    — The Science of Logic, Synthetic cognition › Division (tr. di Giovanni)
+  Actually, what is meant is that the determinateness of the concept should be exhausted; but there is nothing in an empirical manifold of species, internally void of determination, that contributes to this exhaustion whether few or many of them have been discovered
+    — The Science of Logic, Synthetic cognition › Division (tr. di Giovanni)

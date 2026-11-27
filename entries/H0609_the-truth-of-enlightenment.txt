@@ -47,8 +47,12 @@ Phr:
   what's in it for me?
 
 # ---- Hegel ----
-Def: The truth of the Enlightenment, the useful and an empty supreme being.
+Def: The truth of Enlightenment appears when pure insight, victorious, differentiates itself within itself. As pure thinking whose differences are no differences, its absolute essence collapses into the dull weaving of spirit in itself, and can be named either pure thought or pure thinghood, without recognizing that the two are the same. What brings the sides together is the useful, in which consciousness finds its concept; but the useful is still partly an object, and its withdrawal into the self gives rise to absolute freedom.
 Texts:
   The Phenomenology of Spirit
     ¶¶574–581
 Citations:
+  It is the concept alienated from itself – for the concept still remains here at the stage of this alienation
+    — The Phenomenology of Spirit ¶574 (tr. Pinkard)
+  This distinguishing of what is not distinguished thereby consists exactly in the absolute concept’s making itself its own object, and, over and against that movement, in its positing itself as the essence.
+    — The Phenomenology of Spirit ¶574 (tr. Pinkard)

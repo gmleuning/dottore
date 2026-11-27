@@ -18,8 +18,10 @@ Phr:
   scorn not the sonnet [Wordsworth]
 
 # ---- Hegel ----
-Def: Das Sonett: a form in which reflection enters the song, the feeling worked out with art and turned toward a thought, as in Petrarch.
+Def: The sonnet, of which the Italians gave brilliant examples, shows an exquisitely reflective sensibility that does not express its mood or perception directly and in deeply felt concentration, but takes many detours, looks widely into mythology, history, past and present, and yet returns into itself and remains coherent and self-restrained.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  For example, the Italians especially have given us in their sonnets and sestinas a brilliant example of an exquisitely reflective sensibility which in any given situation does not directly express with deeply felt concentration the mere moods of longing, grief, desire, etc., or perceptions of external objects, but allows itself many detours, looks far afield and circumspectly into mythology, history, the past and the present, and yet always returns into itself and remains coherent and self-restricted.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

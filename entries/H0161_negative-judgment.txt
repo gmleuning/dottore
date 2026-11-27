@@ -42,8 +42,12 @@ Phr:
   a white horse is not a horse, bai ma fei ma [Chin.] [Gongsun Long]
 
 # ---- Hegel ----
-Def: The singular is not this abstract universal but a particular: the rose is not blue, but of some other colour.
+Def: The negative judgement is the truth of the positive. Since in the positive judgement the content contradicts itself, it has to be said that the singular is not universal. The negation does not remove all relation of predicate to subject: it denies the abstract determinateness and keeps a universal sphere, so that to say the rose is not red still implies that it has a colour. The singular is thus determined as particular, and the judgement moves on to the infinite judgement.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of existence › The negative judgment
 Citations:
+  It is because of this purely logical content that the positive judgment is not true but has its truth in the negative judgment.
+    — The Science of Logic, The judgment of existence › The negative judgment (tr. di Giovanni)
+  The positive judgment first attains its truth in the negative judgment
+    — The Science of Logic, The judgment of existence › The negative judgment (tr. di Giovanni)

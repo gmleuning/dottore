@@ -26,8 +26,12 @@ Phr:
   figures in action
 
 # ---- Hegel ----
-Def: The group, figures brought together in an action and a situation.
+Def: Groups arise as sculpture proceeds to situations in movement, conflict and action, expanding a more concrete liveliness into opposition and reaction among several figures. Peaceful juxtapositions come first, then groups displaying discord and grief, which the Greeks bound to architecture, as in pediments. The Laocoon keeps nobility and beauty amid profound grief, yet belongs to a later age.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Modes of Portrayal › Groups
 Citations:
+  For what comes into appearance with a more defined action is a more concrete liveliness which is expanded into oppositions and reactions and therefore into essential relations between several figures and their interlacing.
+    — Aesthetics, Modes of Portrayal › Groups (tr. Knox)
+  The most essential thing to consider in the case of this group is that despite the profound grief and profound truth it conveys, despite the convulsive contraction of the body and the tension of all the muscles, still nobility and beauty are preserved, and not in the remotest degree is there any approach to grimaces, distortion, or dislocation.
+    — Aesthetics, Modes of Portrayal › Groups (tr. Knox)

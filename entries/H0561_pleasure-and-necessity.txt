@@ -48,8 +48,12 @@ Phr:
   to live for pleasure
 
 # ---- Hegel ----
-Def: Self-consciousness that plunges into life to take pleasure and is crushed by abstract necessity.
+Def: Pleasure and necessity is the first shape of self-actualizing reason. Self-consciousness, leaving law, custom and theory behind as grey shadows, sets out to find itself as a singular being in another and to enjoy itself there. In the pleasure attained it becomes objective to itself but is also cancelled, for what it meets as its own essence is empty, inexorable necessity, whose only work is the nothingness of individuality. Plunging from dead theory into life, it has plunged into its own lifelessness.
 Texts:
   The Phenomenology of Spirit
     ¶¶360–366
 Citations:
+  This first purpose is to become conscious of itself as a singular essence within that other self-consciousness, or to make this other into itself.
+    — The Phenomenology of Spirit ¶360 (tr. Pinkard)
+  Instead of having plunged from dead theory into life, the only singular individuality, which at first has only the pure concept of reason for its content, has thus instead plunged into the consciousness of its own lifelessness, and, to itself, has come to be only as empty and alien necessity, as dead actuality.
+    — The Phenomenology of Spirit ¶363 (tr. Pinkard)

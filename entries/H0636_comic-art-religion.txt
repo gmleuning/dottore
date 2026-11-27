@@ -44,8 +44,12 @@ Phr:
   to laugh at the gods
 
 # ---- Hegel ----
-Def: Comedy, in which the self takes off the mask and sees through the gods, the self as absolute being.
+Def: Comedy is the shape in which the actual self-consciousness presents itself as the fate of the gods. The universal powers have only an imagined individuality, and the subject, raised above them, wears the mask ironically and lets it drop, appearing in its ordinariness as no different from actor or spectator. The self is the negative power in which the gods vanish while it remains with itself, without fear of anything alien, in a well-being found nowhere outside this comedy.
 Texts:
   The Phenomenology of Spirit
     ¶¶744–747
 Citations:
+  For the moment, it is comedy that has the aspect of actual self-consciousness exhibiting itself as the fate of the gods.
+    — The Phenomenology of Spirit ¶744 (tr. Pinkard)
+  It is the return of all that is universal into the certainty of itself, and this certainty is thus the complete absence of fear, the essencelessness of all that is alien; it is a healthy well-being as well as a consciousness permitting itself to be so, a well-being that outside of this comedy is not to be found.
+    — The Phenomenology of Spirit ¶747 (tr. Pinkard)

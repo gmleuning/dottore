@@ -9,8 +9,12 @@ N:
   fixed idea, monomania, obsession, fixation
 
 # ---- Hegel ----
-Def: Madness with an individualized content, where the fixed idea is drawn either from a particular passion (to be God or king) or from something contingent (to be a barleycorn or a dog).
+Def: Fixations are the forms of madness with an individualized content, which, unlike the indeterminate disgust that kills all vitality, are coupled with lively interest and even passion. The content depends partly on the particular passion from which the madness sprang, as with those who take themselves to be God or a king, and partly on something contingent, as with those who suppose themselves a barleycorn or a dog. In either case the sufferer has no determinate awareness of the contradiction between the fixed idea and what is objective.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  In contrast to the indeterminate form of deranged soul-state just described, killing off all vitality, stands an endless throng, coupled with lively interests and even with passion, of madnesses having an individualized content. This content depends in part on the particular passion from which the madness sprang; but it can also be determined contingently by something else.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  But in both cases the madman as such has no determinate consciousness of the contradiction obtaining between his fixed idea and objectivity. Only we are aware of this contradiction; such a madman himself is not tormented by the feeling of his inner disruption.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

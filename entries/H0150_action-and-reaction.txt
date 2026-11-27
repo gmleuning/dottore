@@ -43,8 +43,12 @@ Phr:
   for every action there is a reaction, equal in force and opposite in direction [Newton]
 
 # ---- Hegel ----
-Def: The effect reacting on the cause, so that each passive substance becomes active; the cause is effect of its own effect.
+Def: Action and reaction arise because causality presupposes an other on which to act: a passive substance, which is only in itself what the active substance is. The cause, acting on it, acts on itself as on another, sublating its otherness and positing the effect in it. Since the passive substance receives this as its own positing and reacts, becoming cause in turn, action is turned back on its originator, and the endless progress of causes bends into reciprocity.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute relation › The relation of causality › Action and reaction
 Citations:
+  Causality is a presupposing activity. The cause is conditioned; it is a negative reference to itself as a presupposed, as an external other which in itself, but only in itself, is causality itself.
+    — The Science of Logic, The relation of causality › Action and reaction (tr. di Giovanni)
+  This cause now acts, for it is the negative power over itself; at the same time it is its own presupposition; thus it acts upon itself as upon an other, upon the passive substance.
+    — The Science of Logic, The relation of causality › Action and reaction (tr. di Giovanni)

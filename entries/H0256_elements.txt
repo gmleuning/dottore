@@ -33,8 +33,12 @@ Phr:
   in one's element
 
 # ---- Hegel ----
-Def: The physical elements as moments of the planet's individuality: air, fire and water, and earth.
+Def: The physical elements are the determinations of elemental totality, which existed as free heavenly bodies, now contained in the planet's individuality as subordinate moments. Hegel rejects the chemist's definition by simplicity: a physical element is a real matter not dissipated into chemical abstraction. There are four, air, fire and water as the elements of opposition, and earth, and light kindles their process.
 Texts:
   The Philosophy of Nature
     §§281–285
 Citations:
+  The determinations of the elemental totality which have an immediate existence as free, independent bodies, are contained in the body of individuality as subordinate moments. As such, they constitute its universal, physical Elements.
+    — Encyclopedia §281 (tr. Miller)
+  In recent times, chemical simplicity has been arbitrarily accepted as the definition of an element.
+    — Encyclopedia §281 (tr. Miller)

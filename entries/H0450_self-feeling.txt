@@ -31,8 +31,10 @@ Phr:
   to feel oneself
 
 # ---- Hegel ----
-Def: The feeling totality which distinguishes itself from its particular feelings and finds itself in them as subject.
+Def: Self-feeling is the feeling totality which, as individuality, distinguishes itself within itself, has particular feelings, and stands as subject over against these determinations of itself. It posits them within itself as its own feelings; immersed in the particular sensation, it at the same time, through the ideality of the particular, joins together with itself as a subjective unity. It is self-feeling, yet only in the particular feeling, and so it remains liable to stick fast in one particularity, which is derangement.
 Texts:
   The Philosophy of Mind
     §§407–408
 Citations:
+  In this way it is self-feeling—and yet it is this only in the particular feeling.
+    — Encyclopedia §407 (tr. Wallace and Miller, rev. Inwood)

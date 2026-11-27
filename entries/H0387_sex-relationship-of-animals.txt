@@ -54,8 +54,12 @@ Phr:
   post coitum omne animal triste est [Lat.]
 
 # ---- Hegel ----
-Def: The genus present in the individual as a feeling of its own deficiency, the drive to find itself in another of its kind.
+Def: The genus is also an affirmative relation of the individual to itself in another. The individual, not accordant with the genus immanent in it, feels this defect and strains to integrate itself through union with the other of its kind, in copulation. The product perishes like its parents, so that the genus preserves itself through their destruction, an endless progression.
 Texts:
   The Philosophy of Nature
     §§368–369
 Citations:
+  This relationship is a process which begins with a need; for the individual as a singular does not accord with the genus immanent in it, and yet at the same time is the identical self-relation of the genus in one unity; it thus has the feeling of this defect.
+    — Encyclopedia §368 (tr. Miller)
+  Here, the Idea of Nature is actual in the male and female couple
+    — Encyclopedia §368, Addition (tr. Miller)

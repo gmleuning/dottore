@@ -33,8 +33,12 @@ Phr:
   the first idols
 
 # ---- Hegel ----
-Def: Carving in wood, the earliest material of sculpture.
+Def: Wood is one of the oldest materials for images of the gods, which began as a post with a head set on it, and it was still used in the time of Phidias, gilded or joined with marble. On the whole, unless gilded or overlaid, its grain makes it unsuited to grand works and better for small ones, as in the Middle Ages.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Wood
 Citations:
+  A stick, a post on the top of which a head was placed—that was the beginning. Many of the earliest temple images are wooden but even in the time of Phidias this material was still used.
+    — Aesthetics, Materials for Sculpture › Wood (tr. Knox)
+  But on the whole, unless wood is gilded or otherwise overlaid, it seems on account of its own grain, and the way the grain runs, to be unsuited for grand works and more adapted to smaller ones
+    — Aesthetics, Materials for Sculpture › Wood (tr. Knox)

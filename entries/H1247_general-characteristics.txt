@@ -28,8 +28,12 @@ Phr:
   the One, Mind and Soul
 
 # ---- Hegel ----
-Def: The general character of Neoplatonism, the concrete idea as a trinity, the totality of the intelligible world.
+Def: The third stage, that of the concrete, opens a new epoch, the shape of philosophy most closely connected with Christianity. What is authentically concrete is the universal that particularizes itself within itself and remains infinitely present to itself in this particularity, unlike a pantheism or emanation in which substance degrades itself without returning.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Neoplatonic Philosophy › General Characteristics
 Citations:
+  This third stage is the shape of philosophy that is most closely connected with Christianity
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › General Characteristics (tr. Brown)
+  What is [authentically] concrete is simply the universal that particularizes itself in itself, and in this particularity or in this finitizing nevertheless remains infinitely present to itself.
+    — Lectures on the History of Philosophy 1825–6, Neoplatonic Philosophy › General Characteristics (tr. Brown)

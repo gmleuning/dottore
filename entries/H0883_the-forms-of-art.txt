@@ -25,8 +25,12 @@ Phr:
   in its proper form
 
 # ---- Hegel ----
-Def: The forms of art: the relations of idea and shape in symbolic, classical and romantic art.
+Def: The forms of art are the actualizations of the idea of the beautiful, which as a totality of essential differences must issue in them: not species brought in from outside but the ideal's own more concrete determinations, spread out by its concept. Through them the idea presses on to representation, and each stage of its content has its own shape, so that defects of artistic form prove to be defects of the idea.
 Texts:
   Aesthetics
     Development of the Ideal into the Particular Forms of Art
 Citations:
+  Now, in more detail, the forms of art, as the actualizing and unfolding of the beautiful, find their origin in the Idea itself
+    — Aesthetics, Development of the Ideal into the Particular Forms of Art (tr. Knox)
+  The consummation of the Idea as content appears therefore simultaneously as also the consummation of form
+    — Aesthetics, Development of the Ideal into the Particular Forms of Art (tr. Knox)

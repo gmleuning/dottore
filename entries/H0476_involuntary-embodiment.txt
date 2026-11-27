@@ -29,8 +29,12 @@ Phr:
   to give oneself away
 
 # ---- Hegel ----
-Def: The soul's expression in the body that occurs without its will: laughing, weeping, the voice.
+Def: Involuntary embodiment is the bodily expression that inner sensations take on without the will, described already among the soul's sensations and shared in part with animals: tears, voice, laughter, sighs and the rest. It differs from the free embodiments of the actual soul, which give the human body a peculiar mental stamp. The line is not fixed, for some involuntary expressions can also be produced consciously and freely, as when the voice becomes speech or laughing turns into laughing at someone.
 Texts:
   The Philosophy of Mind
     §411
 Citations:
+  The involuntary embodiment of inner sensations considered at the close of the first main section of Anthropology (§401) is, in part, something that man has in common with animals.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)
+  Above all the human voice belongs here; when the voice becomes speech, it ceases to be an involuntary expression of the soul. Similarly laughing, in the form of laughing at, becomes something produced with freedom.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -27,8 +27,12 @@ Phr:
   love and piety
 
 # ---- Hegel ----
-Def: The content of painting: the inner life of the subject, feeling, love, piety.
+Def: The chief determinant of painting's subject matter is subjectivity aware of itself. The individual shows an inner life of its own rather than passing wholly into the universal, and lets the external go its own way; painting can therefore take in nature, religion and human life down to fleeting moments, and makes the heart its content, bringing before us the individual's feeling.
 Texts:
   Aesthetics
     Painting › General Character of Painting › The Chief Determinant of the Subject-matter
 Citations:
+  The chief determinant of the subject-matter of painting is, as we saw, subjectivity aware of itself.
+    — Aesthetics, General Character of Painting › The Chief Determinant of the Subject-matter (tr. Knox)
+  Thus painting does of course bring to our vision the inner life in the form of an external object, but the real content which it expresses is the feeling of the individual subject
+    — Aesthetics, General Character of Painting › The Chief Determinant of the Subject-matter (tr. Knox)

@@ -15,8 +15,12 @@ Adj:
   alliterative
 
 # ---- Hegel ----
-Def: Alliteration (Stabreim), the earliest and most abstract echo, the binding of words by their initial sounds.
+Def: Alliteration, developed most thoroughly in old Scandinavian poetry, repeats a single letter, the initial one, without requiring whole syllables to recur. It is the most imperfect kind of rhyme, so weak that the words must already carry accent on their first syllable and stand close together, and meaningful words are chiefly chosen for it.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhyme
 Citations:
+  The principle of alliteration, or one-letter rhymes, is the most imperfect kind of rhyme because it does not demand the recurrence of whole syllables but only insists on the repetition of one and the same letter, and the initial letter at that.
+    — Aesthetics, Versification › Rhyme (tr. Knox)
+  Alliteration we find developed in the greatest thoroughness in the older Scandinavian poetry
+    — Aesthetics, Versification › Rhyme (tr. Knox)

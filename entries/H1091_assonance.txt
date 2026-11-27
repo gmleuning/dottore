@@ -15,8 +15,12 @@ Adj:
   assonant
 
 # ---- Hegel ----
-Def: Assonance, the echo of vowels, especially in Spanish verse, between alliteration and full rhyme.
+Def: Assonance stands between alliteration and full rhyme: it repeats the same letters, chiefly vowels, in the middle or at the end of different words, not initial letters. It need not close a line, though final syllables especially enter into it, and it flourishes richest among Latin peoples, above all the Spaniards with their sonorous language.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhyme
 Citations:
+  Assonance does not affect the initial letters but already approaches rhyme, because it is an identically sounding repetition of the same letters in the middle or at the end of different words.
+    — Aesthetics, Versification › Rhyme (tr. Knox)
+  In its richest development this assonance appears amongst the Latin nations, especially the Spaniards whose sonorous language is especially fitted for the recurrence of the same vowels.
+    — Aesthetics, Versification › Rhyme (tr. Knox)

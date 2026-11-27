@@ -41,8 +41,12 @@ Phr:
   like father, like son
 
 # ---- Hegel ----
-Def: The middle is a singular taken in its essential universality, so that like things are inferred to be alike.
+Def: The syllogism of analogy has as its middle a singular taken in its universal nature: another singular sharing that nature is concluded to share the predicate, as when the earth has inhabitants, the moon is an earth, and so the moon has inhabitants. It is superficial in proportion as the shared universal is a mere quality or mark and identity is taken for similarity. Its form, not any empirical content put into the premises, is what counts.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of reflection › The syllogism of analogy
 Citations:
+  But its middle term is no longer some single quality or other but a universality which is the immanent reflection of a concreted term and is therefore its nature
+    — The Science of Logic, The syllogism of reflection › The syllogism of analogy (tr. di Giovanni)
+  Analogy is all the more superficial, the more the universal in which the two extremes are united, and in accordance with which the one extreme becomes the predicate of the other, is a mere quality or, since quality is a matter of subjectivity, is some distinctive mark or other and the identity of the extremes is therein taken as just a similarity.
+    — The Science of Logic, The syllogism of reflection › The syllogism of analogy (tr. di Giovanni)

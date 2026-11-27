@@ -43,8 +43,12 @@ Phr:
   the hidden soul of harmony [Milton]
 
 # ---- Hegel ----
-Def: The particular means by which music shapes tones: measure, harmony, melody.
+Def: The particular characteristics of music concern the means by which notes become not a natural shriek of feeling but its developed artistic expression. A single note is independent and complete, gaining its own definiteness only through relation to others, a relation external to it, made by a composer for a hearer. These means are the measure of time, harmony and melody.
 Texts:
   Aesthetics
     Music › Particular Characteristics of Music's Means of Expression
 Citations:
+  [T]he next question is about the means that make it possible and necessary for the notes not to be a purely natural shriek of feeling
+    — Aesthetics, Music › Particular Characteristics of Music's Means of Expression (tr. Knox)
+  Bringing different notes together in specific relations is therefore something, if not contradicting the essence of the note, still only artificial and not otherwise already present naturally.
+    — Aesthetics, Music › Particular Characteristics of Music's Means of Expression (tr. Knox)

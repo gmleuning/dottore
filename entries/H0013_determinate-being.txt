@@ -42,8 +42,12 @@ Phr:
   on the scene
 
 # ---- Hegel ----
-Def: Being with a determinateness, the result of becoming: being that is there, existing as quality.
+Def: Existence, or determinate being (Dasein), is the result of becoming: the simple oneness of being and nothing, which has the form of something immediate because its mediation lies behind it. It is not mere being, but being with a non-being taken up into it, so that the whole has determinateness. Through its quality, existent determinateness, something is opposed to an other; it is alterable and finite, and its negation, first opposed to the finite something, turns into the infinite and into being-for-itself.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence
 Citations:
+  Existence is determinate being; its determinateness is existent determinateness, quality. Through its quality, something is opposed to an other; it is alterable and finite, negatively determined not only towards an other, but absolutely within it.
+    — The Science of Logic, Existence (tr. di Giovanni)
+  Existence proceeds from becoming. It is the simple oneness of being and nothing. On account of this simplicity, it has the form of an immediate.
+    — The Science of Logic, Existence (tr. di Giovanni)

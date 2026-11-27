@@ -38,8 +38,12 @@ Phr:
   neither here nor there
 
 # ---- Hegel ----
-Def: The substrate become indifferent to all determinations of quality and quantity, which are now only states of it.
+Def: Absolute indifference is being become indifferent through the negation of every determinateness of quality, of quantity and of their immediate unity, measure, and thereby mediated with itself into a simple unity. Abstract indifference, such as pure quantity, merely lets determinations be external to it. Here determinateness remains only a state, something qualitative and external that has the indifference as its substrate; yet as this empty differentiation vanishes it proves to lie within the indifference itself, which thus ceases to be a mere substrate.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › The becoming of essence › Absolute indifference
 Citations:
+  The indifference which can be called absolute, however, is one which, through the negation of every determinateness of being, of quality and quantity and of their at first immediate unity, that is, of measure, mediates itself with itself to form a simple unity.
+    — The Science of Logic, The becoming of essence › Absolute indifference (tr. di Giovanni)
+  But it is precisely this empty differentiation which is the indifference itself as result.
+    — The Science of Logic, The becoming of essence › Absolute indifference (tr. di Giovanni)

@@ -30,8 +30,12 @@ Phr:
   the house of the image
 
 # ---- Hegel ----
-Def: The kinds of temple, distinguished by how the columns surround the cella.
+Def: The specific forms of the temple develop the house as its model, with load-bearing masses, what they carry, and the enclosure in three dimensions, whose differences must appear and fit together on mathematical principles. The Greek peculiarity is to shape supporting as such, making the column fundamental: unlike a wall it does not enclose but stands free, and unlike a mere post has proportion of its own.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › The Specific Forms of the Temple
 Citations:
+  The peculiarity of Greek architecture is at once seen to consist in the fact that it gives shape to this supporting as such and therefore employs the column as the fundamental element in the purposiveness of architecture and its beauty.
+    — Aesthetics, The Particular Determinants of the Architectural Forms › The Specific Forms of the Temple (tr. Knox)
+  The column has no other purpose, but to be a support
+    — Aesthetics, The Particular Determinants of the Architectural Forms › The Specific Forms of the Temple (tr. Knox)

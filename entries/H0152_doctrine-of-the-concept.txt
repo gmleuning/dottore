@@ -36,8 +36,12 @@ Phr:
   to get the idea
 
 # ---- Hegel ----
-Def: The concept: the free, the self-subsistent power that is its own self-determination; the truth of being and essence.
+Def: The doctrine of the concept is the subjective logic, which treats the concept as the third to being and essence, to immediacy and reflection. Being and essence are the moments of its becoming, but the concept is their foundation and truth, the identity into which they have sunk. The objective logic is its genesis: substance is implicitly what the concept is explicitly, and the movement of substance through causality and reciprocity brings the concept forth.
 Texts:
   The Science of Logic
     The Doctrine of the Concept
 Citations:
+  From this aspect the concept is at first to be regarded simply as the third to being and essence, to the immediate and to reflection.
+    — The Science of Logic, The Doctrine of the Concept (tr. di Giovanni)
+  Hence the objective logic, which treats of being and essence, constitutes in truth the genetic exposition of the concept.
+    — The Science of Logic, The Doctrine of the Concept (tr. di Giovanni)

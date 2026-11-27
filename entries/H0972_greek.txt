@@ -30,8 +30,12 @@ Phr:
   the measure of bearing
 
 # ---- Hegel ----
-Def: The Greek orders, each a different measure of the relation of bearing and borne.
+Def: The Greek orders are distinguished chiefly by the ratio of height to thickness of columns, the kinds of base and capital, and the spacing between columns, each choice altering the column's whole character. The shaft must stay plain, tapering with an almost imperceptible swelling, decorated only by fluting, since the column has nothing to do but support and rise firm, straight and independent.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders
 Citations:
+  The chief points of importance are the relation between the height and the diameter of the columns, the different sorts of pedestal and capital, and the greater or lesser distances between the columns.
+    — Aesthetics, The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders (tr. Knox)
+  [B]ecause the column has nothing to do but fulfil the task of supporting, and in fulfilling it to rise firm, straight, and independent
+    — Aesthetics, The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders (tr. Knox)

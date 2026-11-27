@@ -32,8 +32,12 @@ Phr:
   down in the dumps
 
 # ---- Hegel ----
-Def: Feeling as the immediate response to what is present: joy, contentment, grief.
+Def: Intuitive practical feelings are those whose content comes from intuition or representation, and so are more determinate than the pleasant and unpleasant: delight, joy, hope, fear, anguish and pain. In each the self feels the harmony or discord between itself and some event, thing or person, the content entering from outside. A sensible person of great character may find, or suffer, something without giving way to the feeling.
 Texts:
   The Philosophy of Mind
     §§471–472
 Citations:
+  To this class of feelings belong, for example, delight, joy, hope, fear, anguish, pain, etc.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)
+  A sensible person, a great character, can find something in harmony with his will without giving way to the feeling of joy, and, conversely, can suffer misfortune without giving way to the feeling of pain.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)

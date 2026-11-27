@@ -19,8 +19,12 @@ Phr:
   tempori parendum [Lat.]
 
 # ---- Hegel ----
-Def: The compulsion that forces one self into subjection.
+Def: Coercion and subjection are how the combat for recognition ends. Since life is as essential as freedom, one combatant prefers life, keeps himself as a single self-consciousness and gives up the claim to recognition, while the other holds to relating to himself and is recognized by the first as subjected. Force is the basis in this appearance but not the basis of right: it is the outward beginning of states, not their substantial principle, and a necessary passage to universal self-consciousness.
 Texts:
   The Philosophy of Mind
     §§432–433
 Citations:
+  Because life is as essential as freedom, the combat ends initially as one-sided negation with an asymmetry: one of the combatants prefers life, maintains himself as individual self-consciousness, but surrenders his chance of recognition, while the other holds fast to his relation to himself and is recognized by the first in his subjugation: the relationship of mastery and bondage.
+    — Encyclopedia §433 (tr. Wallace and Miller, rev. Inwood)
+  Force, which is the basis in this appearance, is not on that account the basis of right
+    — Encyclopedia §433, Remark (tr. Wallace and Miller, rev. Inwood)

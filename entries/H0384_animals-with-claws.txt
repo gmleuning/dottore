@@ -17,8 +17,12 @@ Phr:
   to show one's claws
 
 # ---- Hegel ----
-Def: Mammals whose extremities are claws, fitted for seizing and holding: beasts of prey, rodents, bats and sloths.
+Def: Animals with claws form the second great class of mammals, taken together with rodents, bats and sloths: dogs and beasts of prey such as the lion. By opposing itself to its non-organic nature through its weapons, the animal shows that it is a subject for itself, and the classes are accurately distinguished on this basis.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  [I]nto animals whose extremities are claws—dogs, wild beasts like the lion, the king of beasts
+    — Encyclopedia §370, Addition (tr. Miller)
+  By opposing itself as an individual to its non-organic nature through its weapons, the animal demonstrates that it is a subject for itself.
+    — Encyclopedia §370, Addition (tr. Miller)

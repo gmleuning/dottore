@@ -33,8 +33,12 @@ Phr:
   the climate of opinion
 
 # ---- Hegel ----
-Def: The particular meteorological processes of different regions: zones and climates.
+Def: The particular forms of the earth's process depend on its position in relation to the sun, in climates and seasons. There is first the difference of heat and cold, of winter and summer, which is not merely quantitative but shows itself at specific nodal points, such as equinoxes and solstices; then the essential, qualitative alteration, the tension within the earth and between earth and atmosphere.
 Texts:
   The Philosophy of Nature
     §287
 Citations:
+  Under the first aspect, comes the difference of heat and cold, of winter and summer; it gets warmer or colder according to the position of the earth in relation to the sun.
+    — Encyclopedia §287, Addition (tr. Miller)
+  Now the essential point is the qualitative alteration: the tension within the earth itself, and between the earth and the atmosphere.
+    — Encyclopedia §287, Addition (tr. Miller)

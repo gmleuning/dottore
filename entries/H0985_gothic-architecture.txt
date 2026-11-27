@@ -31,8 +31,12 @@ Phr:
   stone that rises to heaven
 
 # ---- Hegel ----
-Def: Gothic building, pointed arches and ribbed vaults soaring upward, the stone that rises above itself toward the infinite.
+Def: Gothic architecture proper developed its special form in the thirteenth century, with the distinctive character already described for the Christian church. Though its origin with the Goths is disputed and some call it German, Hegel keeps the older name, and he distinguishes it essentially from Arabic building, whose mark is the horseshoe arch and not the pointed one.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture › Different Styles in Romantic Architecture › Gothic Architecture Proper
 Citations:
+  Later, in the thirteenth century, Gothic architecture developed in its own special form; its distinctive character I have described above in detail.
+    — Aesthetics, Different Styles in Romantic Architecture › Gothic Architecture Proper (tr. Knox)
+  For what is characteristic of medieval Arabic architecture is not the pointed arch but the so-called horse-shoe arch
+    — Aesthetics, Different Styles in Romantic Architecture › Gothic Architecture Proper (tr. Knox)

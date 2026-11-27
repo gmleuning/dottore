@@ -30,8 +30,12 @@ Phr:
   song and story
 
 # ---- Hegel ----
-Def: The spiritual work of art in language: epic, tragedy and comedy.
+Def: The spiritual work of art is the work whose element and dwelling is language, where the particular spirits of peoples gather into one pantheon for a common undertaking. It unfolds as epic, in which the world is represented through the bard; tragedy, in which the hero speaks in person and the actor is essential to the mask; and comedy, in which the self lets the mask fall and shows itself as the fate of the gods.
 Texts:
   The Phenomenology of Spirit
     ¶¶727–747
 Citations:
+  The spirits of [different] peoples, which become conscious of the shape of their essence in a particular animal, merge into one spirit; in that way, the particular beautiful spirits of a people combine themselves into one pantheon whose element and abode is language.
+    — The Phenomenology of Spirit ¶727 (tr. Pinkard)
+  The self, coming on the scene here with the sense that it is actual, plays with the mask which it once put on in order to be its persona.
+    — The Phenomenology of Spirit ¶744 (tr. Pinkard)

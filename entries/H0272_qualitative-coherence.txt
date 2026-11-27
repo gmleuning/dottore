@@ -62,8 +62,12 @@ Phr:
   hard as flint, soft as wax
 
 # ---- Hegel ----
-Def: Coherence as the inner quality of a body: hard, soft, brittle, ductile, malleable.
+Def: Qualitative coherence is the holding together of homogeneous masses by an immanent characteristic form or limitation, which unfolds as the abstract dimensions of space, the property of yielding to external force while remaining independent in form. It shows itself as point, brittleness or hardness; as line, rigidity and tenacity; and as surface, ductility and malleability.
 Texts:
   The Philosophy of Nature
     §296
 Citations:
+  Qualitative cohesion proper is a holding-together of homogeneous masses by an immanent characteristic form or limitation, which here explicates itself as the abstract dimensions of space.
+    — Encyclopedia §296, Addition (tr. Miller)
+  Cohesion is thus only a mode of resistance to an other, just because its determinations are only isolated forms of individuality, which are not yet manifested as totality.
+    — Encyclopedia §296, Addition (tr. Miller)

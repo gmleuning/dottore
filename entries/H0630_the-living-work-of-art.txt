@@ -26,8 +26,12 @@ Phr:
   flesh made art
 
 # ---- Hegel ----
-Def: The living work of art, the human body as the shape of the god, in mysteries and festivals.
+Def: The living work of art arises in the cult of an ethical people whose god is friendly to consciousness, since the essence has the self within it. The frenzy of the mysteries and the beautiful body of the festival are its two sides: in the one the self is outside itself, in the other the spiritual essence is embodied, but each lacks balance with the other. Their completion, in which inwardness is as outward as outwardness is inward, is language.
 Texts:
   The Phenomenology of Spirit
     ¶¶720–726
 Citations:
+  What is still lacking in them is any equilibrium. In bacchanalian enthusiasm, the self is external to itself, but in beautiful embodiment, it is the spiritual essence.
+    — The Phenomenology of Spirit ¶726 (tr. Pinkard)
+  The completed element within which inwardness is external just as externality is likewise inward is, again, language
+    — The Phenomenology of Spirit ¶726 (tr. Pinkard)

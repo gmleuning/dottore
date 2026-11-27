@@ -23,8 +23,12 @@ Phr:
   a bundle of perceptions
 
 # ---- Hegel ----
-Def: Hume, whose skepticism showed that experience cannot ground universality and necessity.
+Def: Examining what is subsumed under experience, Hume found there the determination of the universal and of necessity, and drew attention consistently to the fact that if we keep to the empirical standpoint, experience is indeed the foundation of what we know but contains neither universality nor necessity. Perception gives one thing following another, not the connection of cause and effect.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › David Hume
 Citations:
+  Hume consistently drew attention to the fact that when we keep to this [empirical] standpoint, then experience, outer and inner, is indeed the foundation of what we know, but the characteristics of universality and necessity are not contained or given within experience.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › David Hume (tr. Brown)
+  [B]ut what we perceive is only the fact that now something occurs and then something else follows upon it.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › David Hume (tr. Brown)

@@ -35,8 +35,12 @@ Phr:
   to be carried away
 
 # ---- Hegel ----
-Def: The power of music, which seizes the self in its simple inwardness.
+Def: The effect of music springs from its working directly on the heart, the simple concentrated centre of human life, without intellectual considerations. Unlike a statue or picture, which remain outside as objects we can view freely, a piece of music vanishes as it sounds, penetrates the secret of all movements of the soul and captivates a consciousness no longer facing an object.
 Texts:
   Aesthetics
     Music › General Character of Music › Effect of Music
 Citations:
+  For it is precisely this sphere of inner sensibility, abstract self-comprehension, which music takes for its own and therefore brings movement into the seat of inner changes, into the heart and mind as this simple concentrated centre of the whole of human life.
+    — Aesthetics, General Character of Music › Effect of Music (tr. Knox)
+  [T]he result is that music with its movements penetrates the arcanum of all the movements of the soul.
+    — Aesthetics, General Character of Music › Effect of Music (tr. Knox)

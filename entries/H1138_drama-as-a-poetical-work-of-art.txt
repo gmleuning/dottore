@@ -28,8 +28,12 @@ Phr:
   beginning, middle and end
 
 # ---- Hegel ----
-Def: Drama as a poetic work, governed by the unity of its action.
+Def: Drama as a poetic work, considered apart from staging, concerns its general principle, its particular characteristics and its relation to the public. It is the product of a developed and organized national life, presupposing epic and lyric as past, since both are combined in it and it is satisfied in neither alone, uniting them in a reconciling whole.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Drama as a Poetical Work of Art
 Citations:
+  Drama is the product of a completely developed and organized national life.
+    — Aesthetics, Dramatic Poetry › The Drama as a Poetical Work of Art (tr. Knox)
+  The poetic treatment of this new subject-matter must be, as I have indicated, a conciliating union of the principles of epic and lyric.
+    — Aesthetics, Dramatic Poetry › The Drama as a Poetical Work of Art (tr. Knox)

@@ -54,8 +54,12 @@ Phr:
   music hath charms to soothe the savage beast
 
 # ---- Hegel ----
-Def: Music, the art of inner feeling, whose material is tone, sound vibrating in time, which seizes the inmost self.
+Def: Music is the romantic art that carries painting's inwardness further, taking subjective inner life as such for its content and cancelling spatial appearance for sound moving in time. Like architecture it rests on quantitative proportion, but its material is tone freed from heavy matter, so that it joins soul and deepest feeling with the most rigorous mathematical law.
 Texts:
   Aesthetics
     Music
 Citations:
+  Consequently what dominates in music is at once the soul and profoundest feeling and the most rigorous mathematical laws
+    — Aesthetics, Music (tr. Knox)
+  Architecture takes heavy visible masses in their peaceful juxtaposition and external spatial shape, whereas music takes the soul of tone, working itself free from spatial matter, in the qualitative differences of sound and in the movement of the ever-rolling stream of time.
+    — Aesthetics, Music (tr. Knox)

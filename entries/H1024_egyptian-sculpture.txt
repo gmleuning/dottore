@@ -27,8 +27,12 @@ Phr:
   fixed by convention
 
 # ---- Hegel ----
-Def: Egyptian sculpture, rigid, symmetrical and without the freedom of individual life.
+Def: Egyptian sculpture is a starting point and source for Greek forms, an imperfect art that classical art had to negate. Its content begins to meet the ideal but cannot be ideally treated because it still belongs to a symbolic outlook that cannot fuse universal meaning with individual visible shape; despite technical perfection it lacks inner creative freedom.
 Texts:
   Aesthetics
     Sculpture › Historical Stages in the Development of Sculpture › Egyptian Sculpture
 Citations:
+  Now this [pre-classical] process of becoming classical consists in the fact that the content of the presentation begins to meet the ideal, yet remains incapable of an ideal treatment because it still belongs to the symbolic outlook which cannot form into one the universality of the meaning and the individual visible shape.
+    — Aesthetics, Historical Stages in the Development of Sculpture › Egyptian Sculpture (tr. Knox)
+  The first thing to mention is the lack of inner and creative freedom, despite all perfection of technique.
+    — Aesthetics, Historical Stages in the Development of Sculpture › Egyptian Sculpture (tr. Knox)

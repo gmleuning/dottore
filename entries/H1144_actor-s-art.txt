@@ -38,8 +38,12 @@ Phr:
   strut and fret his hour upon the stage
 
 # ---- Hegel ----
-Def: The actor's art, which gives the poet's figures living presence.
+Def: The actor's art, fully developed only in modern times, calls on gesture, declamation, music, dance and scenery while giving overwhelming weight to speech and its poetry, which sink to means once the others become independent. In Greece the masked actor came on as a solid objective statue brought to life, assimilating and voicing the poetry.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The External Execution of a Dramatic Work of Art › The Actor's Art
 Citations:
+  In principle it consists in calling on the aid of gestures, action, declamation, music, dancing, and scenery, but in giving overwhelming preponderance to speech and its poetic expression.
+    — Aesthetics, The External Execution of a Dramatic Work of Art › The Actor's Art (tr. Knox)
+  Here the art of speech is bound up with sculpture: the actor comes on the stage as a totally solid objective statue.
+    — Aesthetics, The External Execution of a Dramatic Work of Art › The Actor's Art (tr. Knox)

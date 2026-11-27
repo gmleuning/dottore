@@ -13,8 +13,12 @@ Adj:
   Median
 
 # ---- Hegel ----
-Def: Die Meder, the warlike people whose Magi kept the Zend religion, from whom rule passed to the Persians.
+Def: A mountain people living south of the Caspian, fierce and warlike, who freed themselves from Assyrian supremacy and gathered their tribes under a king at Ecbatana. The Magi, one of their tribes, preserved and spread the Zend religion, though with great modifications, so that the Medes carried it on to other peoples before sovereignty passed to the Persians.
 Texts:
   The Philosophy of History
     The Oriental World › Persia › The Assyrians, Babylonians, Medes, and Persians
 Citations:
+  Among these Medes the Magi are also noticed as one of the six tribes that formed the Median people, whose chief characteristics were fierceness, barbarism, and warlike courage.
+    — The Philosophy of History, Persia › The Assyrians, Babylonians, Medes, and Persians (tr. Sibree)
+  But all the data point to the fact that among the Magi we may look for a comparatively close connection with the Zend religion; but that, although the Magi preserved and extended it, it experienced great modifications in transmission to the various peoples who adopted it.
+    — The Philosophy of History, Persia › The Assyrians, Babylonians, Medes, and Persians (tr. Sibree)

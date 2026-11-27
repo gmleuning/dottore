@@ -28,8 +28,12 @@ Phr:
   the empire long divided must unite, long united must divide [Romance of the Three Kingdoms]
 
 # ---- Hegel ----
-Def: China, the patriarchal theocratic despotism of the substance, a state without inwardness.
+Def: The oldest empire, where history begins, built on the family relation extended to the state. The Emperor governs paternally as father of a people held to be in a condition of nonage; all are equal, but without freedom, so that despotism is the necessary form of government. Morality is fixed by law from above, and what belongs to inward subjectivity is wanting.
 Texts:
   The Philosophy of History
     The Oriental World › China
 Citations:
+  Since equality prevails in China, but without any freedom, despotism is necessarily the mode of government.
+    — The Philosophy of History, The Oriental World › China (tr. Sibree)
+  Its distinguishing feature is, that everything which belongs to Spirit,—unconstrained morality, in practice and theory, Heart, inward Religion, Science and Art properly so called,—is alien to it.
+    — The Philosophy of History, The Oriental World › China (tr. Sibree)

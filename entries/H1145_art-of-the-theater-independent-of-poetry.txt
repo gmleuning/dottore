@@ -45,8 +45,12 @@ Phr:
   the total work of art
 
 # ---- Hegel ----
-Def: The art of the theatre independent of poetry: spectacle, opera, ballet.
+Def: The art of the theatre more independent of poetry arises when performance, freed from poetry's rule, makes what was means and accompaniment an end developed for itself, to the gain of music, dance and acting. In one system the actor is the poet's living organ; in the other, as in the Italian commedia dell'arte, the text is a mere frame for the actor's own art.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The External Execution of a Dramatic Work of Art › The Art of the Theatre more Independently of Poetry
 Citations:
+  Finally, the art of performance acquires a third shape when it is freed from its previous domination by poetry, and makes what was hitherto more or less a means and an accompaniment into an independent end in itself and gives it a development on its own account.
+    — Aesthetics, The External Execution of a Dramatic Work of Art › The Art of the Theatre more Independently of Poetry (tr. Knox)
+  The opposite system of the actor’s art is to be found where everything provided by the author is little more than an accessory and a frame for the natural character, skill, and art of the actor.
+    — Aesthetics, The External Execution of a Dramatic Work of Art › The Art of the Theatre more Independently of Poetry (tr. Knox)

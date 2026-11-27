@@ -39,8 +39,12 @@ Phr:
   enlightenment is man's emergence from his self-incurred immaturity [Kant]
 
 # ---- Hegel ----
-Def: Pure insight become a movement, the Enlightenment, which attacks faith as superstition and is itself what it attacks.
+Def: Enlightenment is the diffusion of pure insight, which, born of substance, knows the pure self of consciousness as absolute and takes it up into the consciousness of all actuality. At first without content, it gives itself one by its negative movement against faith. It strips faith of its content and leaves it an empty longing, and divides itself between pure thought and pure matter, finding its positive truth in utility, out of which absolute freedom arises.
 Texts:
   The Phenomenology of Spirit
     ¶¶538–581
 Citations:
+  This is so because pure insight is born from the substance, and it both knows the pure self of consciousness as absolute, and it incorporates that self into the pure consciousness of the absolute essence of all actuality.
+    — The Phenomenology of Spirit ¶541 (tr. Pinkard)
+  However, pure insight is at first without content; instead, it is the pure disappearance of content, but by its negative movement towards what is negative to it, it will realize itself and give itself a content.
+    — The Phenomenology of Spirit ¶541 (tr. Pinkard)

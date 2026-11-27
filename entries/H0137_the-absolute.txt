@@ -45,8 +45,12 @@ Phr:
   first and last
 
 # ---- Hegel ----
-Def: The absolute identity of form and content, in which all determinations have vanished, positive only as their abyss.
+Def: The absolute is the simple, solid identity into which every determinateness of being, essence and reflection has dissolved, so that determining it seems to be pure negation and the absolute a void of all predicates, yet equally their position. The task of saying what it is cannot be met by external reflection that picks up determinations here and there; it can only be the absolute's own exposition, a displaying of what it is, through its attribute and its mode.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute
 Citations:
+  The simple solid identity of the absolute is indeterminate
+    — The Science of Logic, Actuality › The absolute (tr. di Giovanni)
+  The task is indeed to demonstrate what the absolute is. But this demonstration cannot be either a determining or an external reflection by virtue of which determinations of the absolute would result, but is rather the exposition of the absolute, more precisely the absolute’s own exposition, and only a displaying of what it is.
+    — The Science of Logic, Actuality › The absolute (tr. di Giovanni)

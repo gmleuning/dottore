@@ -34,8 +34,12 @@ Phr:
   to feel for
 
 # ---- Hegel ----
-Def: The feeling life of one soul shared directly with another, without the mediation of signs.
+Def: Immediate sympathy is the highest degree of the rapport between subjects, in which the clairvoyant knows, sees and feels not merely about another but in another. Without attending to the other individual, the subject immediately shares that person's sensations of everything that happens to them, and has the sensations of the other's individuality as their own. The two spheres of life have become one, a substantial identity of which the soul, as truly immaterial, is capable.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  Finally, when this rapport attains the highest degree of intimacy and strength, there occurs, fifthly, the phenomenon in which the clairvoyant subject knows, sees, and feels, not merely about, but in another subject and, without directly attending to the other individual, immediately shares his sensations of everything that happens to him, has within himself the sensations of the other's individuality as his own.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  That the somnambulistic individual senses in himself tastes and smells which are present in the individual with whom he is in rapport, that he is aware of his other current intuitions and inner ideas, but as if they were his own, shows the substantial identity with another, which the soul (which even in its concreteness is genuinely immaterial) is capable of.
+    — Encyclopedia §406, Remark (tr. Wallace and Miller, rev. Inwood)

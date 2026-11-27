@@ -26,8 +26,12 @@ Phr:
   spineless
 
 # ---- Hegel ----
-Def: Animals with the full type: the backbone, the internal skeleton, the head and heart.
+Def: The vertebrates, mammals, birds, fish and amphibians, have a backbone, and with it a greater development, an equilibrium of inner and outer, where both sides form one unity. Their further division therefore turns on the element for which each is destined, land, water or air, though nature also produces transitional mixtures.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  The vertebrates, therefore, have a greater development, an equilibrium of inner and outer
+    — Encyclopedia §370, Addition (tr. Miller)
+  The vertebrates are mammals, birds, fish, and amphibians
+    — Encyclopedia §370, Addition (tr. Miller)

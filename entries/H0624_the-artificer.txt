@@ -36,8 +36,12 @@ Phr:
   set in stone
 
 # ---- Hegel ----
-Def: The artificer, the instinctive worker who makes pyramids and obelisks, and then statues half beast, half man.
+Def: The artificer is spirit appearing as an artisan who brings itself forth as an object by instinctive work, as bees build cells, without yet grasping the thought of itself. The first works are of the abstract understanding, the crystals of pyramids and obelisks, straight lines and plane surfaces that do not have their meaning in themselves and receive spirit only from outside. The work advances by mingling natural and thinking forms until the artisan becomes a spiritual worker.
 Texts:
   The Phenomenology of Spirit
     ¶¶691–698
 Citations:
+  Spirit therefore here appears as the artisan, and his doing, whereby he brings forth himself as object, although not yet having taken hold of the thought of himself, is an instinctive kind of working, much like bees building their cells.
+    — The Phenomenology of Spirit ¶691 (tr. Pinkard)
+  The crystals of the pyramids and of the obelisks, simple combinations of straight lines with even surfaces and equal relations of parts in which the incommensurability of roundness is abolished, are the works of this artisan of rigorous form.
+    — The Phenomenology of Spirit ¶692 (tr. Pinkard)

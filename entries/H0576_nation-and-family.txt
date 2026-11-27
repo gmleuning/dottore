@@ -43,8 +43,12 @@ Phr:
   the folk
 
 # ---- Hegel ----
-Def: The people and the family as the two ethical powers.
+Def: Nation and family are the two shapes of the ethical substance. As actual substance it is a people, and as actual consciousness the citizens, who have their certainty of themselves in a spirit that exists and is in force. The family is the same ethical life in the element of immediacy, a natural ethical community, the unaware concept of the people's conscious actuality, standing over against the universal spirit. Its relations are ethical not through natural tie, sentiment or love but only as spiritual.
 Texts:
   The Phenomenology of Spirit
     ¶¶446–452
 Citations:
+  As the actual substance, it is a people, and as actual consciousness, it is the citizens of the nation.
+    — The Phenomenology of Spirit ¶446 (tr. Pinkard)
+  This moment expressing ethical life in this element of immediacy, or in the element of being, or an immediate consciousness of itself as essence as well as being this self in an other, which is to say, as a natural ethical polity – this moment is the family.
+    — The Phenomenology of Spirit ¶449 (tr. Pinkard)

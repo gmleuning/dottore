@@ -26,8 +26,12 @@ Phr:
   hard as flint
 
 # ---- Hegel ----
-Def: The siliceous moment, quartz and flint, the abstract earth of the primitive rock.
+Def: The siliceous moment belongs to the antithesis, running through all formations, of siliceous, argillaceous and calcareous. In granite it is silica or quartz, absolute earth, the rigid, punctiform principle. In siliceous formations, where granite forms the basis, a more definite difference is present than on the neutral, calcareous side, and the rocks around granite modify it.
 Texts:
   The Philosophy of Nature
     §340
 Citations:
+  [S]ilica, quartz, absolute earth, the rigid, punctiform principle
+    — Encyclopedia §340, Addition (tr. Miller)
+  In siliceous formations, on the contrary, where granite forms the basis, a more definite difference is present.
+    — Encyclopedia §340, Addition (tr. Miller)

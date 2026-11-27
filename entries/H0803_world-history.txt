@@ -48,8 +48,12 @@ Phr:
   urbent latericiam invenit marmoream reliquit [Lat.]
 
 # ---- Hegel ----
-Def: The world court, the development of the consciousness of freedom, in which the spirits of peoples rise and pass.
+Def: World history is the court of judgement of the world, in which the universal spirit exercises its right over the finite spirits of peoples. It is the necessary development, from the concept of spirit's freedom, of the moments of reason and so of spirit's self-consciousness; peoples rise and pass as the bearers of its successive principles.
 Texts:
   The Philosophy of Right
     §§341–360
 Citations:
+  World history is a court of judgement because in its universality in and for itself the particular—i.e. the Penates, civil society, and the spirits of peoples in their variegated actuality—is present as only ideal [Ideelles]
+    — The Philosophy of Right §341 (tr. Knox, rev. Houlgate)
+  The history of spirit is its own act. Spirit is only what it does, and its act is to make itself the object of its own consciousness.
+    — The Philosophy of Right §343 (tr. Knox, rev. Houlgate)

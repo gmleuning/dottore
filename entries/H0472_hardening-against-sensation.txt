@@ -42,8 +42,12 @@ Phr:
   inured to
 
 # ---- Hegel ----
-Def: Habit as the blunting of external sensations, so that the soul is indifferent to them; hardening.
+Def: Hardening is the first form of habit, in which immediate sensation is posited as negated, as something indifferent. Against frost, heat and weariness, against pleasant tastes, and in the hardening of the heart against distress, habit is a strength by which what affects us, though still sensed, is reduced to something external and immediate. The soul's universal being maintains its abstract being-for-itself in it, and self-feeling, consciousness and other purposes are no longer taken up with it.
 Texts:
   The Philosophy of Mind
     §410
 Citations:
+  The immediate sensation is posited as negated, as indifferent.
+    — Encyclopedia §410, Remark (tr. Wallace and Miller, rev. Inwood)
+  Hardening against external sensations (frost, heat, weariness of the limbs, etc., pleasant tastes, etc.), as well as hardening of the heart against distress, is a strength by which affection by such things as frost, etc. and distress, though it is of course sensed by man, is just reduced to an externality and immediacy; the soul's universal being maintains its abstract being-for-self in it, and self-feeling as such, consciousness, reflection, and other purposes and activity, are no longer involved in it.
+    — Encyclopedia §410, Remark (tr. Wallace and Miller, rev. Inwood)

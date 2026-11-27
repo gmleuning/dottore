@@ -46,8 +46,12 @@ Phr:
   to form an idea of
 
 # ---- Hegel ----
-Def: The intuition recollected and made the mind's own: recollection, imagination and memory.
+Def: Representation is the recollected intuition, the mean between intelligence's immediately finding itself determined and its freedom in thinking. It is intelligence's own possession, still one-sidedly subjective and conditioned by immediacy, and its path is to make the immediate inward and then to divest that inwardness of its subjectivity. Its stages, recollection, imagination and memory, are not independent faculties but an organic development of intelligence.
 Texts:
   The Philosophy of Mind
     §§451–464
 Citations:
+  Representation is the recollected intuition and, as such, is the mean between intelligence's immediate finding-itself-determined and intelligence in its freedom, thinking.
+    — Encyclopedia §451 (tr. Wallace and Miller, rev. Inwood)
+  But the genuinely philosophical conception of these forms just consists in comprehending the rational connection obtaining between them, in recognizing the organic development of intelligence occurring in them.
+    — Encyclopedia §451, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -30,8 +30,12 @@ Phr:
   to call up
 
 # ---- Hegel ----
-Def: The imagination that calls images forth from the pit by its own will.
+Def: Reproductive imagination is intelligence calling images forth from the inwardness of the I, which from now on is the power over them. It reproduces images voluntarily and without the help of a present intuition, which distinguishes it from mere recollection. In the process the immediate spatial and temporal concretion of the intuition is dissolved, and a universal representation becomes the associating link among the images.
 Texts:
   The Philosophy of Mind
     §455
 Citations:
+  When it is at work in this possession intelligence is the reproductive imagination, the emergence of images from the I's own inwardness; the I is from now on the power over them.
+    — Encyclopedia §455 (tr. Wallace and Miller, rev. Inwood)
+  But the reproduction of images on the part of imagination occurs voluntarily and without the help of an immediate intuition.
+    — Encyclopedia §455, Addition (tr. Wallace and Miller, rev. Inwood)

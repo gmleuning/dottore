@@ -28,8 +28,12 @@ Phr:
   sacred cows
 
 # ---- Hegel ----
-Def: The divine in the shapes of plant and animal, a religion of flowers and then of hostile animal spirits.
+Def: Plant and animal religion is the religion of spiritual perception, in which the shapeless essence falls apart into countless weaker and stronger spirits. The innocent religion of flowers, a representation of the self without a self, passes into the seriousness of warring life and the guilt of animal religion: scattered peoples take determinate animal shapes as their essence and fight one another to the death. In this hatred pure negativity wears itself out.
 Texts:
   The Phenomenology of Spirit
     ¶¶689–690
 Citations:
+  The innocence of the flower religion, which is only a representation of the self void of any self, passes over into the seriousness of warring life, into the guilt of animal religion
+    — The Phenomenology of Spirit ¶689 (tr. Pinkard)
+  However, in this hatred, the determinateness of purely negative being-for-itself gradually wears itself out
+    — The Phenomenology of Spirit ¶690 (tr. Pinkard)

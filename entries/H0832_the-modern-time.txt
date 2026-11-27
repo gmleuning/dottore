@@ -55,8 +55,12 @@ Phr:
   there is such a party!, yest' takaya partiya! [Rus.] [Lenin, 1917]
 
 # ---- Hegel ----
-Def: The modern age: the Reformation's freedom of conscience, the Enlightenment, and the French Revolution.
+Def: The third period, that of Spirit conscious that it is free in willing what is universal in and for itself. The Reformation establishes that human beings are by their nature destined to freedom; its consequences unfold in states; and the Enlightenment makes the verdict of Spirit itself the criterion of belief and right, until in the French Revolution thought is held to govern spiritual reality.
 Texts:
   The Philosophy of History
     The German World › The Modern Time
 Citations:
+  This is the essence of the Reformation: Man is in his very nature destined to be free.
+    — The Philosophy of History, The German World › The Modern Time (tr. Sibree)
+  This was accordingly a glorious mental dawn. All thinking beings shared in the jubilation of this epoch.
+    — The Philosophy of History, The German World › The Modern Time (tr. Sibree)

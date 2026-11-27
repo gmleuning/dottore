@@ -38,8 +38,14 @@ Phr:
   affection is a coal that must be cool'd else suffer'd it will set the heart on fire [Venus and Adonis]
 
 # ---- Hegel ----
-Def: The soul singularized into the individual subject, with its natural endowment of talent, temperament and character.
+Def: The individual subject is the soul differentiated into singularity, still only as an individualization of natural determinacy and not yet the opposition proper to consciousness. This natural determinacy takes the form of predisposition, temperament, character, physiognomy and the other dispositions and idiosyncrasies found in families and single persons. Here the sphere of contingency begins, and the peculiarities of individuals should not be rated highly: the more cultivated someone is, the less their behaviour shows anything peculiar to themself alone.
 Texts:
   The Philosophy of Mind
     §395
 Citations:
+  The soul is differentiated into the individual subject. But this subjectivity comes into consideration here only as an individualization of natural determinacy. This determinacy becomes the mode of the varying temperament, talent, character, physiognomy, and other dispositions and idiosyncrasies, in families or in single individuals.
+    — Encyclopedia §395 (tr. Wallace and Miller, rev. Inwood)
+  Now first of all we must remark that it is in the individual soul that the sphere of the contingent begins, for only the universal is the necessary.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)
+  The more cultivated a man is, the less his behaviour exhibits anything peculiar only to him, anything therefore contingent.
+    — Encyclopedia §395, Addition (tr. Wallace and Miller, rev. Inwood)

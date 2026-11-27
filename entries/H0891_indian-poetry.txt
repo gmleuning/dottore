@@ -14,8 +14,12 @@ Phr:
   I am the Spirit seated deep in every creature's heart [Bhagavad Gita 10.20, tr. Arnold]
 
 # ---- Hegel ----
-Def: Die indische Poesie: Krishna declaring himself the brightest of lights and the best of each kind, the one essence in all its many shapes.
+Def: Indian poetry offers the first example of pantheistic poetry. Its supreme divinity is the most abstract unity, specified in particular gods who revert into Brahma, the one permanent foundation of everything. In the Bhagavad Gita Krishna declares himself the origin and destruction of the whole world, the taste in water and the splendour of sun and moon, immanent in all things and yet transcending each.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Symbolism of the Sublime › The Pantheism of Art › Indian Poetry
 Citations:
+  Thus it is already clear that this universal constitutes the one permanent and self-identical foundation of everything.
+    — Aesthetics, The Pantheism of Art › Indian Poetry (tr. Knox)
+  Here such a substantial unity is expressed in the most striking way, in respect both of immanence in what is present and also transcendence over everything individual.
+    — Aesthetics, The Pantheism of Art › Indian Poetry (tr. Knox)

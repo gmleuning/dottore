@@ -30,8 +30,10 @@ Phr:
   to band together
 
 # ---- Hegel ----
-Def: The public authority and the corporation, the protection of welfare, a return of the ethical into civil society.
+Def: The public authority and the corporation are the third moment of civil society, in which the welfare of individuals, left contingent in the system of needs, is secured. The administration of justice annuls offences against property and personality; beyond this the right of particular welfare must be actualized, first externally by the public authority, then from within by the corporation.
 Texts:
   The Philosophy of Right
     §§230–256
 Citations:
+  In the system of needs, the livelihood and welfare of every individual is a possibility whose actual attainment is just as much conditioned by his arbitrary and particular nature as by the objective system of needs. Through the administration of justice, offences against property or personality are annulled.
+    — The Philosophy of Right §230 (tr. Knox, rev. Houlgate)

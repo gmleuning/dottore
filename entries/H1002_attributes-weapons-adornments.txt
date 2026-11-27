@@ -8,8 +8,12 @@ F:
   French: bijouterie
 
 # ---- Hegel ----
-Def: The attributes, weapons and adornments by which the individual gods are known.
+Def: Attributes, weapons and adornment are external accessories that great sculpture keeps simple, moderate and limited, so that nothing is there beyond what lets the work be understood, since the figure and its expression provide the spiritual meaning. Such marks are nonetheless needed to recognize gods, whose common divinity makes them closely akin.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment
 Citations:
+  [T]hese externals are, in the great works of sculpture, kept simple, moderate, and limited, so that there is nothing of that kind except what is required to let us understand the work and identify its subject
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment (tr. Knox)
+  Even so, however, such indications are necessary to enable us to recognize the individual gods.
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Attributes, Weapons, Adornment (tr. Knox)

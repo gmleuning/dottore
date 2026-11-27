@@ -25,8 +25,14 @@ Phr:
   a husband lost, another might have been found, and child from another, to replace the first-born: but, father and mother hidden with Hades, no brother's life could ever bloom for me again [Sophocles, Antigone 909–12, tr. Jebb]
 
 # ---- Hegel ----
-Def: Die Schwester: the woman who, as sister, has the highest presentiment of the ethical; the loss of the brother is for her irreplaceable, and her duty to him is the highest.
+Def: The sister has the highest intimation of ethical essence, though it does not rise to consciousness, since the law of the family remains inner feeling. In her brother she meets a being of the same blood, equal to herself, toward whom there is no desire, so that her recognition in him is pure and unmixed with any natural relation. The loss of a brother is therefore irreplaceable to her, and her duty to him is the highest.
 Texts:
   The Phenomenology of Spirit
-    ¶457
+    ¶456
 Citations:
+  The feminine, as the sister, hence has the highest intimation of ethical essence.
+    — The Phenomenology of Spirit ¶456 (tr. Pinkard)
+  But to the sister, the brother is the motionless essence itself, equal to her, and her recognition in him is pure and unmixed with any natural relation.
+    — The Phenomenology of Spirit ¶456 (tr. Pinkard)
+  The loss of a brother is thus irreplaceable to the sister, and her duty towards him is the highest.
+    — The Phenomenology of Spirit ¶456 (tr. Pinkard)

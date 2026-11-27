@@ -43,8 +43,10 @@ Phr:
   to shake on it
 
 # ---- Hegel ----
-Def: The union of two wills in relation to property, the mediation through which I hold property by another's will.
+Def: Contract is the relation in which property is held through the will of another person as well as one's own. In it a common will is brought into existence: I remain an owner by ceasing to be one, alienating my property to another in agreement with that other's will, so that property now contains the moment of another person's will.
 Texts:
   The Philosophy of Right
     §§72–81
 Citations:
+  Contract is the process in which there is revealed and mediated the contradiction that I am and remain the independent owner of something from which I exclude the will of another only insofar as in identifying my will with the will of another I cease to be an owner.
+    — The Philosophy of Right §72 (tr. Knox, rev. Houlgate)

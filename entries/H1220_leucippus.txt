@@ -13,8 +13,14 @@ Adj:
   atomist
 
 # ---- Hegel ----
-Def: Leucippus, with whom the One becomes principle as the atom, being-for-self, and the void as the negative.
+Def: With Leucippus and Democritus the principles become more ideal: the atom and the nothing, or void. The one is what has being for itself, simple relation to self through negation of other-being, and so an essential thought-determination that must play its part in every logical philosophy, though not as what is ultimate. The void is the negative of the one.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Leucippus and Democritus
 Citations:
+  In Leucippus and Democritus, in contrast, we see principles that are more ideal, the atom and the nothing.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Leucippus and Democritus (tr. Brown)
+  The more concrete definition of the one, of unity, or of being, is that the one is being-for-self, namely, being, or simple relation to self.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Leucippus and Democritus (tr. Brown)
+  This thought-determination must play a part in every logical philosophy, as an essential moment though not as what is ultimate.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Leucippus and Democritus (tr. Brown)

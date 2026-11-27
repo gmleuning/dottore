@@ -94,8 +94,12 @@ Phr:
   vide et crede [Lat.]
 
 # ---- Hegel ----
-Def: Intelligence that recognizes itself in its content: the thought is the thing, simple identity of the subjective and objective.
+Def: Thinking is the third and last stage of theoretical mind, in which intelligence knows its universal as genuine universal overarching itself and being. Its product, the thought, is the thing: the simple identity of subjective and objective. It knows that what is thought is, and that what is, is only so far as it is thought. Here intelligence reaches its goal, self-knowing truth, and, determining its own content, becomes will.
 Texts:
   The Philosophy of Mind
     §§465–468
 Citations:
+  It knows that what is thought, is; and that what is, only is in so far as it is a thought
+    — Encyclopedia §465 (tr. Wallace and Miller, rev. Inwood)
+  In thinking, by contrast, this unity acquires the form of a unity that is both subjective and objective, since thinking is aware of its own self as the nature of the thing.
+    — Encyclopedia §465, Addition (tr. Wallace and Miller, rev. Inwood)

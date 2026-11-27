@@ -37,8 +37,12 @@ Phr:
   on the surface
 
 # ---- Hegel ----
-Def: Existence as appearance: a world of things having their subsistence in an other, yet with a stable content, the law.
+Def: Appearance proper is concrete existence posited as what it is: essence in its concrete existence, whose immediacy is reflected and has negativity within it. To call something appearance is not to set it below some truer immediate thing, for appearance is the higher truth, concrete existence as essential. The reflection that makes it appearance is its own and not an external comparison. It unfolds as the law of appearance, the opposition of an apparent world and a world in itself, and the dissolution of that opposition into essential relation.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Appearance › Appearance
 Citations:
+  At first, therefore, appearance is essence in its concrete existence; essence is immediately present in it.
+    — The Science of Logic, Appearance › Appearance (tr. di Giovanni)
+  But if it is said that something is only appearance, meaning that as contrasted with it immediate concrete existence is the truth, then the fact is that appearance is the higher truth
+    — The Science of Logic, Appearance › Appearance (tr. di Giovanni)

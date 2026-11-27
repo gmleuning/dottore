@@ -48,8 +48,14 @@ Phr:
   grin and bear it
 
 # ---- Hegel ----
-Def: Freedom of thought which is indifferent to existence, on the throne or in chains; free only abstractly.
+Def: Stoicism is the freedom of self-consciousness as it first appeared in the history of spirit. Its principle is that consciousness is the thinking essence, and that something is essential, true or good for it only in so far as it behaves in it as a thinking being. It stands neither as master nor as servant, but is free within all the dependences of individual existence, on the throne or in fetters, withdrawing from movement into the simple essentiality of thought. Such abstract freedom is only an incomplete negation of otherness.
 Texts:
   The Phenomenology of Spirit
     ¶¶197–201
 Citations:
+  Its principle is this: Consciousness is the thinking essence and something only has essentiality for consciousness, or is true and good for it, insofar as consciousness conducts itself therein as a thinking being.
+    — The Phenomenology of Spirit ¶198 (tr. Pinkard)
+  Rather, it consists in being free within all the dependencies of his singular existence, whether on the throne or in fetters
+    — The Phenomenology of Spirit ¶199 (tr. Pinkard)
+  In the way it has determined itself as abstract freedom, this thinking consciousness is therefore only the incomplete negation of otherness.
+    — The Phenomenology of Spirit ¶201 (tr. Pinkard)

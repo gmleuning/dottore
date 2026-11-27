@@ -30,8 +30,12 @@ Phr:
   at rest yet alive
 
 # ---- Hegel ----
-Def: The stance and movement of the body, the upright free posture, at rest yet animated.
+Def: Position and movement of the body make trunk and limbs, beautiful sensuously but not directly expressive like the face, give a glimpse of spirit, so that spirit appears poured over the whole figure. It appears through position freely determined from within, movement or repose, and the situation shown. Upright posture, an act of will by which a person tears loose from the ground, already expresses spirit.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture › Position and Movement of the Body
 Citations:
+  For otherwise the expression of the inner life would be concentrated solely in the face, while in the plasticity of sculpture the spirit should appear precisely as effused over the whole figure and not independently isolated and contrasted with the body.
+    — Aesthetics, Particular Aspects of the Ideal Form in Sculpture › Position and Movement of the Body (tr. Knox)
+  This standing is an act of will, for, if we give up willing to stand, our body collapses and falls to the ground.
+    — Aesthetics, Particular Aspects of the Ideal Form in Sculpture › Position and Movement of the Body (tr. Knox)

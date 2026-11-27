@@ -17,8 +17,10 @@ Phr:
   a dark horse
 
 # ---- Hegel ----
-Def: Mammals whose toes end in hoofs, strong in the upper body and tamed to work for man: swine, elephants, cattle, horses.
+Def: Hoofed animals, such as swine, elephants, horned cattle and horses, are a class of mammals whose strength lies in the upper body. Most can be tamed to work, and the formation of their extremities shows a special relation to their non-organic nature; following Lamarck, their feet serve only for walking or running.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  [I]nto hoofed animals, like swine, elephants (which have a trunk), horned cattle, horses, etc. The strength of these animals resides in the upper part of the body, most of them can be tamed to work; and the formation of the extremities shows a special relationship to the animals' non-organic nature.
+    — Encyclopedia §370, Addition (tr. Miller)

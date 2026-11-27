@@ -39,8 +39,12 @@ Phr:
   ubi mel ibi apes [Lat.] [Plautus]
 
 # ---- Hegel ----
-Def: Shape as the linear tension of opposed poles united in a neutral middle, the concept as the north and south of a magnet.
+Def: Magnetism is the principle of formation in its developed but still abstract determinateness: the point becomes a line whose form posits itself as opposed extremes, which exist only in the relation that is their middle term and point of indifference. The poles have an ideal, not mechanical, reality and are inseparable, so that the magnet naively exhibits the concept as syllogism.
 Texts:
   The Philosophy of Nature
     §§312–314
 Citations:
+  The point first becomes the line where the form posits itself as opposed extremes which, as moments, lack an existence of their own, but are held only in their relation which appears as their middle term and as the point of indifference in their opposition.
+    — Encyclopedia §312 (tr. Miller)
+  The poles are the sensibly existent ends of a real line (of a bar or also in a body extending further in every dimension); but as poles, they have no sensible, mechanical reality but an ideal one, and are absolutely inseparable.
+    — Encyclopedia §312, Remark (tr. Miller)

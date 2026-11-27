@@ -27,8 +27,12 @@ Phr:
   the idea in the form of otherness [Hegel]
 
 # ---- Hegel ----
-Def: The philosophy of nature, the science of the idea in its otherness.
+Def: The philosophy of nature is a thinking consideration of nature, the idea in the form of otherness, which seeks the universal in forces, laws and genera and grasps it in its own immanent necessity, presupposing empirical physics. Since externality is nature's specific character, nature shows necessity and contingency rather than freedom. It proceeds through mechanics, physics and organics.
 Texts:
   The Philosophy of Nature
     §§245–376
 Citations:
+  Not only must philosophy be in agreement with our empirical knowledge of Nature, but the origin and formation of the Philosophy of Nature presupposes and is conditioned by empirical physics.
+    — Encyclopedia §246, Remark (tr. Miller)
+  Consequently, Nature exhibits no freedom in its existence, but only necessity and contingency.
+    — Encyclopedia §248 (tr. Miller)

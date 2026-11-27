@@ -30,8 +30,12 @@ Phr:
   the Renaissance masters
 
 # ---- Hegel ----
-Def: Italian painting, which unites religious feeling and beauty of form.
+Def: Italian painting brings to religious subjects a living actuality of spiritual and bodily existence, natural serenity of soul matched by beautiful form. When deep religious feeling animates it, figure and expression reach an original harmony that vividly recalls the classical ideal within Christian art: even grief remains a transfigured suffering of the soul, and a pure song sings through every form.
 Texts:
   Aesthetics
     Painting › Historical Development of Painting › Italian Painting
 Citations:
+  But what above all it introduces for the treatment and artistic elaboration of the religious sphere is the living actuality of the spiritual and corporeal existence into which now all the figures are materialized and animated.
+    — Aesthetics, Historical Development of Painting › Italian Painting (tr. Knox)
+  Now if there is added to this natural endowment the elevation and adornment of the inner life by the deep feeling of religion, by that spiritual trait of a more profound piety which soulfully animates the originally more decided assurance and complete acceptance of existence in this sphere of salvation, then we have before us an original harmony between a figure and its expression which, when it reaches perfection, gives us a vivid reminder, in this sphere of romantic and Christian art, of the pure ideal of art.
+    — Aesthetics, Historical Development of Painting › Italian Painting (tr. Knox)

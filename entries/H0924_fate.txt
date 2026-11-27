@@ -50,8 +50,12 @@ Phr:
   the threads of fate
 
 # ---- Hegel ----
-Def: Fate, the necessity above the gods, the cold unity they cannot reach.
+Def: Fate is the abstract and shapeless necessity that stands higher than the plural gods, overpowering gods and men while remaining incomprehensible. Thought dissolves the gods' plurality into one divinity under whose might they strive. The tranquil mourning that marks the sculpted god in blessed repose already constitutes its fate, showing that something higher stands above and that a passage to universal unity is needed.
 Texts:
   Aesthetics
     The Classical Form of Art › The Dissolution of the Classical Form of Art › Fate
 Citations:
+  It is this mourning which already constitutes their fate because it shows that something higher stands above them, and that a transition is necessary from their existence as particulars to their universal unity.
+    — Aesthetics, The Dissolution of the Classical Form of Art › Fate (tr. Knox)
+  But, looking around for the manner and shape of this higher unity, we find it, contrasted with the individuality and relative determinacy of the gods, in what is inherently abstract and shapeless, namely necessity, the fate which, in this abstraction, is just the higher in general that overpowers gods and men but remains in itself incomprehensible and inconceivable.
+    — Aesthetics, The Dissolution of the Classical Form of Art › Fate (tr. Knox)

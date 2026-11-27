@@ -24,8 +24,12 @@ Phr:
   by definition
 
 # ---- Hegel ----
-Def: Inference whose middle is the universal as essential nature, the genus, so the mediation is substantial.
+Def: The syllogism of necessity has for its middle the genus, the universal nature of the fact: a simple universality that nevertheless contains the whole determinateness of the extremes. Its middle is no adventitious immediate content but the immanent reflection of the extremes' own determinateness, so that the terms are moments of one necessary existence. It is realized, through the categorical, hypothetical and disjunctive forms, when the extremes are posited as the same totality as the middle.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of necessity
 Citations:
+  This syllogism is for this reason the syllogism of necessity, because its middle term is not any adventitious immediate content but is the immanent reflection of the determinateness of the extremes.
+    — The Science of Logic, The syllogism › The syllogism of necessity (tr. di Giovanni)
+  The realization of this syllogism is a matter of determining it in such a way that the extremes are equally posited as this totality which initially the middle term is, and the necessity of the connection, which is at first only the substantial content, shall be a connection of the posited form.
+    — The Science of Logic, The syllogism › The syllogism of necessity (tr. di Giovanni)

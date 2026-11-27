@@ -33,8 +33,12 @@ Phr:
   to know right from wrong
 
 # ---- Hegel ----
-Def: Spirit certain of itself, the moral self, which knows duty as its own essence.
+Def: Spirit certain of itself, morality, is the shape in which knowing at last seems to have become equal to its truth, since the opposition between certainty of self and object has vanished for self-consciousness itself: the object is its own certainty of itself. Arising from the terror of absolute freedom, it knows duty as its absolute essence and is pure knowing. It passes through the moral worldview and its dissemblance to conscience, the beautiful soul, evil and forgiveness.
 Texts:
   The Phenomenology of Spirit
     ¶¶596–671
 Citations:
+  That is to say, self-consciousness has itself gained mastery over the opposition of consciousness.
+    — The Phenomenology of Spirit ¶596 (tr. Pinkard)
+  Self-consciousness knows duty as the absolute essence. It is bound only by duty, and this substance is its own pure consciousness.
+    — The Phenomenology of Spirit ¶599 (tr. Pinkard)

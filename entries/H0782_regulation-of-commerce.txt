@@ -23,8 +23,10 @@ F:
   German: Kameralwissenschaft, Gewerbefreiheit
 
 # ---- Hegel ----
-Def: The conscious regulation that stands above producers and consumers when their interests collide, and that brings the great branches of industry back to the general interest (§236).
+Def: The regulation of commerce is the conscious control that stands above producers and consumers when their differing interests collide. Though the right relation between them comes about on the whole automatically, its adjustment also requires a control consciously undertaken, especially where large branches of industry depend on distant circumstances.
 Texts:
   The Philosophy of Right
     §236
 Citations:
+  The differing interests of producers and consumers may come into collision with each other; and although the right relation between them on the whole comes about automatically, still its adjustment also requires a control which stands above both and is consciously undertaken.
+    — The Philosophy of Right §236 (tr. Knox, rev. Houlgate)

@@ -28,8 +28,10 @@ Phr:
   mind and world as one
 
 # ---- Hegel ----
-Def: Reason which grasps knower and known as one, concept and objectivity.
+Def: Spirit and truth name reason in which truth has the pure concept existing for itself as its own immanent form: the I, certain of itself as infinite universality. Truth here is no longer only the agreement of a representation with its object but the concept that knows itself in objectivity. This truth that is aware of itself is mind, with which the Psychology begins.
 Texts:
   The Philosophy of Mind
     §439
 Citations:
+  For truth here has, as its peculiar determinacy, as its immanent form, the pure concept existing for itself, I, the certainty of itself as infinite universality.
+    — Encyclopedia §439 (tr. Wallace and Miller, rev. Inwood)

@@ -42,8 +42,12 @@ Phr:
   thereby hangs a tale [Taming of the Shrew]
 
 # ---- Hegel ----
-Def: Appearance as relation: two sides that are self-subsistent only in their reference to each other.
+Def: Essential relation is the truth of appearance. Its sides have an immediate self-subsistence and yet each is only as reflection into the other, so that its reflection into the other is reflection into itself. It is not yet the true third to essence and concrete existence but already contains their determinate union, with sides that are self-subsisting totalities, each having its opposite as a beyond. It passes from whole and parts through force and its expression to the relation of outer and inner.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The essential relation
 Citations:
+  The truth of appearance is the essential relation.
+    — The Science of Logic, The essential relation (tr. di Giovanni)
+  The essential relation is therefore not yet the true third to essence and to concrete existence but already contains the determinate union of the two.
+    — The Science of Logic, The essential relation (tr. di Giovanni)

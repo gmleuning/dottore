@@ -45,8 +45,12 @@ Phr:
   to be touched
 
 # ---- Hegel ----
-Def: The inner sensation, the soul's being determined in itself, which embodies itself in the corporeal.
+Def: Sensations, being immediate and merely found, are single and passing determinations, alterations in the soul's substance posited in its being-for-self. That being-for-self is not just a formal moment: the soul is implicitly a reflected totality of sensation, sensing within itself the whole substantiality that it is in itself, and so it is the feeling soul. Sensation stresses the passive side, the finding of a determinacy, and has to do only with what is individual and contingent, which appears to the sentient soul as its own concrete actuality.
 Texts:
   The Philosophy of Mind
     §402
 Citations:
+  Because they are immediate and just found, sensations are individual and transient determinations, alterations in the substantiality of the soul, posited in the soul's being-for-self, which is identical to its substantiality.
+    — Encyclopedia §402 (tr. Wallace and Miller, rev. Inwood)
+  Mere sensation, as we have just remarked, has to do only with what is individual and contingent, with what is immediately given and present; and this content appears to the sentient soul as its own concrete actuality.
+    — Encyclopedia §402, Addition (tr. Wallace and Miller, rev. Inwood)

@@ -36,8 +36,12 @@ Phr:
   a graven image
 
 # ---- Hegel ----
-Def: The god's image and dwelling, the motionless statue and its temple.
+Def: Statue and temple are the first, objective work of art, in which the indwelling god, once the black stone, is drawn out of its animal covering and penetrated by the light of consciousness. The human shape strips off the animal, which remains only as a disguise or sign, and the shape of the god casts off the neediness of natural life. The old gods of nature are banished, and clear ethical spirits of self-conscious peoples take their place.
 Texts:
   The Phenomenology of Spirit
     ¶¶705–709
 Citations:
+  The human shape strips off the animal shape with which it was intermingled.
+    — The Phenomenology of Spirit ¶707 (tr. Pinkard)
+  These ancient gods, in which the luminous essence mates with the darkness and particularizes itself initially as heaven, earth, the ocean, the sun, the blind typhonic fire of the earth, etc., are replaced with shapes which in themselves only have the dark reminiscent echo of those earlier Titans and which are no longer natural beings but rather the clear ethical spirits of self-conscious peoples.
+    — The Phenomenology of Spirit ¶707 (tr. Pinkard)

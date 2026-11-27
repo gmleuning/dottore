@@ -26,8 +26,12 @@ Phr:
   beauty is truth, truth beauty
 
 # ---- Hegel ----
-Def: The beautiful as the idea itself, the concept united with its reality, appearing sensuously.
+Def: The idea of artistic beauty, or the ideal, treats beauty as no abstraction of the understanding but the inherently concrete absolute concept, the absolute idea appearing in a way adequate to itself. That idea in its genuine actuality is universal, infinite and absolute spirit, which determines out of itself what is truly the true. The inquiry places art among the realms of reality and in relation to religion and philosophy.
 Texts:
   Aesthetics
     The Idea of Artistic Beauty, or the Ideal
 Citations:
+  For beauty, as was said already [Introduction, 8] and as is to be expounded further later [ch. I, 1(a)] is no such abstraction of the Understanding but the inherently concrete absolute Concept and, more specifically, the absolute Idea in its appearance in a way adequate to itself.
+    — Aesthetics, The Idea of Artistic Beauty, or the Ideal (tr. Knox)
+  If we wish to indicate briefly what the absolute Idea is in its genuine actuality, we must say that it is spirit, not, as may be supposed, spirit in its restrictedness and involvement with the finite, but the universal infinite and absolute spirit which out of itself determines what is genuinely the true.
+    — Aesthetics, The Idea of Artistic Beauty, or the Ideal (tr. Knox)

@@ -38,8 +38,12 @@ Phr:
   what if
 
 # ---- Hegel ----
-Def: The connection of two contents as necessary, though their being is not posited: if A is, then B is.
+Def: The hypothetical judgement says that if A is, then B is, so that the being of A is just as much the being of another. It posits the necessary connection of immediate things, which the categorical judgement had not yet posited. It asserts neither that A is nor that B is: only their connectedness is posited as existing. In it the being of finite things is expressed as it truly is, as being their own and also not their own.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of necessity › The hypothetical judgment
 Citations:
+  What is posited in this judgment is the necessary connectedness of immediate determinacies, a connectedness which in the categorical judgment is not yet posited.
+    — The Science of Logic, The judgment of necessity › The hypothetical judgment (tr. di Giovanni)
+  [T]he hypothetical judgment does not say either that A is, or that B is, but only that if the one is, then the other is; only the connectedness of the extremes is posited as existing, not the extremes themselves.
+    — The Science of Logic, The judgment of necessity › The hypothetical judgment (tr. di Giovanni)

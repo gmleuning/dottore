@@ -20,8 +20,12 @@ Phr:
   the Ghent altarpiece
 
 # ---- Hegel ----
-Def: Die niederländische Malerei: from the van Eycks' religious painting to the Dutch genre painting of burgher life, the Sunday of life.
+Def: Flemish painting begins in the mastery of the van Eyck brothers, inventors or perfecters of oil painting, whose figures delight by innocence and piety though lacking Italian freedom of form. After the Reformation, the Dutch burgher people painted its neat homes, festivals and peasant life with perfect care and the magic of colour; a naive cheerfulness, the Sunday of life, takes away all evil.
 Texts:
   Aesthetics
     Painting › Historical Development of Painting › Flemish and German Painting
 Citations:
+  Beginning and perfection confront us, so far as our knowledge goes, simultaneously.
+    — Aesthetics, Historical Development of Painting › Flemish and German Painting (tr. Knox)
+  [I]t is the Sunday of life which equalizes everything and removes all evil; people who are so whole-heartedly cheerful cannot be altogether evil and base.
+    — Aesthetics, Historical Development of Painting › Flemish and German Painting (tr. Knox)

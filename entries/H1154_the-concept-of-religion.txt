@@ -34,8 +34,12 @@ Phr:
   God, faith and worship
 
 # ---- Hegel ----
-Def: Religion in its concept: God, the knowledge of God, and the cultus.
+Def: The concept of religion is religion in its general nature, with which the philosophy of religion begins, as a result of the whole of philosophy. Its first moment is God, the universal which is the truth of all things. Its second is the distinction by which consciousness knows God. Its third is the cultus, the practical relationship in which the subject brings about its own union with God.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827)
 Citations:
+  The beginning of religion, more precisely its content, is the concept of religion itself, that God is the absolute truth, the truth of all things, and subjectively that religion alone is the absolutely true knowledge.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) (tr. Brown, Hodgson and Stewart)
+  The first [moment] in the concept of religion is this divine universality, spirit wholly in its indeterminate universality for which there is positively no distinction. The second [moment] after this absolute foundation is distinction in general, and only with distinction does religion as such begin.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) (tr. Brown, Hodgson and Stewart)

@@ -16,8 +16,12 @@ F:
   Greek: splēn, melancholia
 
 # ---- Hegel ----
-Def: The first moment of the blood's digestive circuit: the spleen and venous blood, a state Hegel calls hypochondriacal and melancholic, the blood turned inward and sluggish.
+Def: The first moment of the blood's own digestive circuit is its dull, interior being-for-self, which Hegel calls becoming hypochondriacal and melancholic, its slumber: venous blood in general, which becomes this nocturnal force in the spleen. Here the blood is said to be carbonized, the process in which it becomes earth, that is, absolute subject.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  [T]he dull, interior being-for-self—the state of becoming hypochondriacal and melancholic, its slumber, the venous blood in general, which becomes this nocturnal force in the spleen.
+    — Encyclopedia §354, Addition (tr. Miller)
+  In this, blood is said to be carbonized; this carbonization is precisely the process in which it becomes earth, i.e. absolute subject.
+    — Encyclopedia §354, Addition (tr. Miller)

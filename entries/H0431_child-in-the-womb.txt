@@ -28,8 +28,12 @@ Phr:
   flesh of my flesh
 
 # ---- Hegel ----
-Def: The fetus whose soul is the mother's, who lives as a self only through another self.
+Def: The child in the womb is a soul that is actually for itself not in the child but in the mother, and cannot yet support itself but is supported by the mother's soul. Here two individuals are in undivided unity of soul: one is still no self, unable to resist, and the other is its subject, the single self of both. The relation is neither merely bodily nor merely mental but psychical. The mother is the genius of the child, which receives from her predispositions of form, temperament, character and talent.
 Texts:
   The Philosophy of Mind
     §405
 Citations:
+  In immediate existence this is the relationship of the child in its mother's womb, a relationship neither merely bodily nor merely mental, but psychical—a relationship of the soul.
+    — Encyclopedia §405, Remark (tr. Wallace and Miller, rev. Inwood)
+  The mother is the genius of the child; for by genius we commonly mean the selfish totality of the mind, in so far as it exists for itself, and constitutes the subjective substantiality of another
+    — Encyclopedia §405, Remark (tr. Wallace and Miller, rev. Inwood)

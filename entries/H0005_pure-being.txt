@@ -37,8 +37,12 @@ Phr:
   the bare fact
 
 # ---- Hegel ----
-Def: Being, pure being, without any further determination: indeterminate immediacy, equal only to itself, with nothing to be intuited or thought in it.
+Def: Pure being is the beginning of the Logic: being without any further determination. It is immediacy with nothing indeterminate about it left over to be fixed, equal only to itself and not even unequal to anything else, with no difference inside it or outward. Any content would take away its purity. There is therefore nothing in it to intuit or to think; it is only empty intuiting or empty thinking itself. Precisely as this indeterminate immediacy, being is in fact nothing, neither more nor less.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Being
 Citations:
+  Being, pure being – without further determination. In its indeterminate immediacy it is equal only to itself and also not unequal with respect to another; it has no difference within it, nor any outwardly.
+    — The Science of Logic, Being › Being (tr. di Giovanni)
+  It is pure indeterminateness and emptiness. – There is nothing to be intuited in it, if one can speak here of intuiting; or, it is only this pure empty intuiting itself. Just as little is anything to be thought in it, or, it is equally only this empty thinking. Being, the indeterminate immediate is in fact nothing, and neither more nor less than nothing.
+    — The Science of Logic, Being › Being (tr. di Giovanni)

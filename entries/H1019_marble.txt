@@ -19,8 +19,12 @@ Adv:
   in marble
 
 # ---- Hegel ----
-Def: Marmor, the material best suited to ideal sculpture, whose gentle translucence and softness answer to the human form.
+Def: Marble, with its soft purity, whiteness, absence of colour and delicate sheen, harmonizes most directly with sculpture's aim, and its grain and gentle infusion of light surpass gypsum. The Greeks used it above all in the age of Praxiteles and Scopas, when art passed into softer grace, since its translucency favours soft outlines and shows fine shadows.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
 Citations:
+  [M]arble in its soft purity, whiteness, absence of colour, and the delicacy of its sheen harmonizes in the most direct way with the aim of sculpture
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)
+  For marble (Meyer, op. cit., i. 279) because of its translucency encourages softness of outlines, their gentle blending and tender conjunction
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)

@@ -23,8 +23,12 @@ Phr:
   where there is smoke there is fire [the Nyāya example]
 
 # ---- Hegel ----
-Def: The Nyāya of Gotama, Indian dialectic, which treats the syllogism and the means and objects of knowledge.
+Def: The Nyaya of Gotama is a philosophy of reasoning, an elaborate dialectic that proceeds by naming, definition, and investigation. It treats the kinds of proof, perception, inference, comparison, and affirmation, and the objects to be proven, and it sets out a formal syllogism in five propositions.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy › Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika)
 Citations:
+  The former, the Nyaya of Gotama, is an especially elaborate dialectic, whereas the latter occupies itself more with particular objects, with principles.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika) (tr. Brown)
+  Another category, a fourth, is genuine proof or formal reasoning, which is none other than the formal syllogism.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika) (tr. Brown)

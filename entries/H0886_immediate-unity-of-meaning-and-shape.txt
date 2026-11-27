@@ -29,8 +29,12 @@ Phr:
   the sacred fire
 
 # ---- Hegel ----
-Def: The immediate unity of meaning and shape, as Zoroastrian light, which is at once the divine and natural light.
+Def: The immediate unity of meaning and shape is the intuition in which what appears is itself taken to be the immediate presence of the absolute, with no distinction of inner and outer, soul and body, meaning and form. Its most thoroughgoing instance is the religion of Zoroaster, preserved in the Zend-Avesta, which takes the light of nature, sun, stars and fire, to be the absolute itself, without separating the divinity from the light.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Unconscious Symbolism › Immediate Unity of Meaning and Shape
 Citations:
+  The bodily and the sensuous, the natural and the human, is not merely an expression of a meaning to be distinguished therefrom; on the contrary, what appears is itself apprehended as the immediate actuality and presence of the Absolute.
+    — Aesthetics, Unconscious Symbolism › Immediate Unity of Meaning and Shape (tr. Knox)
+  The religion of Zoroaster, namely, takes light as it exists in nature—the sun, the stars, fire in its luminosity and flames—to be the Absolute, without explicitly separating this divinity from light
+    — Aesthetics, Unconscious Symbolism › Immediate Unity of Meaning and Shape (tr. Knox)

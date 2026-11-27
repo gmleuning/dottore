@@ -37,8 +37,10 @@ Phr:
   held in common
 
 # ---- Hegel ----
-Def: Property as the common possession of the family.
+Def: Family property is common property. The husband represents the family as a legal person and administers its resources, but no member has property of their own, and each has a right in the common stock. This right may conflict with the head's administration, since the ethical disposition of the family is still immediate.
 Texts:
   The Philosophy of Right
     §171
 Citations:
+  These are common property so that, while no member of the family has property of his own, each has his right in the common stock.
+    — The Philosophy of Right §171 (tr. Knox, rev. Houlgate)

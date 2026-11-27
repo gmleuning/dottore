@@ -28,8 +28,12 @@ Phr:
   methodical doubt
 
 # ---- Hegel ----
-Def: Descartes, who began from thought: I think, therefore I am, the beginning of modern philosophy.
+Def: Descartes starts from the I think, which is utterly certain. Everything may be doubted, God, corporeal things, the world, except that we are; being is immediately bound up with the I. In the famous cogito ergo sum thinking and being are inseparably bound together, though they remain distinct.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › René Descartes
 Citations:
+  This 'I think' is then the starting point; it is what is utterly certain
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › René Descartes (tr. Brown)
+  This is the famous cogito ergo sum; in it thinking and being are thus inseparably bound together.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › René Descartes (tr. Brown)

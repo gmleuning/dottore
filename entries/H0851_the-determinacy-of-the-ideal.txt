@@ -29,8 +29,12 @@ Phr:
   given form
 
 # ---- Hegel ----
-Def: The ideal drawn into particular determinacy, entering into difference, situation and action.
+Def: The determinacy of the ideal arises because artistic beauty, as idea, cannot stop at its universal concept but must go out into particularity, externality and finitude, and still maintain itself there. This determinacy is considered first as such; then as it develops into difference and its resolution, which is action; and finally in its external setting.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Determinacy of the Ideal
 Citations:
+  But the beauty of art, by being Idea, cannot stop at its purely general Concept; even in virtue of this Concept it has determinacy and particularity in itself and therefore must advance out of itself into actual determinacy.
+    — Aesthetics, The Beauty of Art or the Ideal › The Determinacy of the Ideal (tr. Knox)
+  Consequently, from this point of view, the question arises in what way, despite exit into externality and finitude and therefore the non-Ideal, the Ideal can still maintain itself, and, conversely, in what way finite existence can assume the Ideality of artistic beauty.
+    — Aesthetics, The Beauty of Art or the Ideal › The Determinacy of the Ideal (tr. Knox)

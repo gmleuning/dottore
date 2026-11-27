@@ -28,8 +28,12 @@ Phr:
   dare to know
 
 # ---- Hegel ----
-Def: Kant, who found the categories in the self and declared the thing in itself unknowable.
+Def: Kant holds that cause and effect and the other categories are intrinsically modes of conjunction, belonging to the subject, and asks how synthetic judgments a priori are possible. We do not know the thing in itself: we have determinations of feeling and categories of thought, modes of the activity of the I, so that what we know are only phenomena.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › Immanuel Kant
 Citations:
+  Kant poses the philosophical question therefore in this way: How are synthetic judgments a priori possible?
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Immanuel Kant (tr. Brown)
+  So we do not in this way know the thing in itself; instead we have on the one hand only determinations of feeling that are connected with our organs, and on the other hand categories of thought, that is, determinate modes of the activity that I am. Thus what we know and define are only phenomena.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Immanuel Kant (tr. Brown)

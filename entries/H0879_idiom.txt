@@ -17,8 +17,12 @@ Adv:
   in the manner of
 
 # ---- Hegel ----
-Def: Manier as a mode of presentation (Darstellungsweise) proper to the artist, his followers and pupils, formed into habit by frequent repetition; it finds most room in painting and music.
+Def: Idiom is the special mode of representation belonging to one artist, with followers and school, which repetition turns into habit, in painting and music especially, showing itself in treatment of tone, light and colour and in handling the brush. The more specialized it is, the greater the risk that it degenerates into a cold, soulless repetition in which art sinks to mere manual skill.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Manner, Style, and Originality
 Citations:
+  A special mode of representation belonging to a particular artist and his disciples and school, and developed by frequent repetition into a habit, constitutes 'manner' here
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)
+  But since such a specific kind of treatment and representation, owing to its constantly returning anew, is generalized into a habit and becomes second nature to the artist, there is a serious risk that, the more specialized the manner is, the more easily does it degenerate into a soulless and therefore cold repetition and fabrication, in which the artist is no longer present with full sensibility and entire inspiration.
+    — Aesthetics, The Artist › Manner, Style, and Originality (tr. Knox)

@@ -64,8 +64,10 @@ Phr:
   a bon marche [Fr.]
 
 # ---- Hegel ----
-Def: The mediation of need and satisfaction through one's own work and the work and needs of others.
+Def: The system of needs is the first moment of civil society: the mediation of need and satisfaction through work, one's own and that of others. Particular need attains satisfaction through external things that are the property and product of others' needs and wills, and through the activity of work mediating between them.
 Texts:
   The Philosophy of Right
     §§189–208
 Citations:
+  Particularity is in the first instance characterized in general by its contrast with the universal of the will and thus is subjective need (see § 59). This attains its objectivity, i.e. its satisfaction, by means of (α) external things, which at this stage are likewise the property and product of the needs and wills of others, and (β) the activity and work that mediate between the two sides.
+    — The Philosophy of Right §189 (tr. Knox, rev. Houlgate)

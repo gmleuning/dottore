@@ -35,8 +35,12 @@ Phr:
   a vision of
 
 # ---- Hegel ----
-Def: The seeing in trance of what lies beyond the waking senses, a knowing still bound to feeling.
+Def: Envisioning is the clairvoyant soul's unmediated awareness of events still external to the feeling subject. Ordinary consciousness knows what is distant in space only by removing the distance through mediation, but space belongs to external nature and not to the soul, which transforms the external by its ideality; so the subject sunk to merely feeling soul is no longer bound to space. It likewise rises above time past, though a fully determinate and intelligent knowledge of the future is impossible.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  But what can seem even more wonderful than the awareness, just considered, of a content already deposited in the interior of the soul, is the unmediated awareness of events which are still external to the feeling subject.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  Space pertains not to the soul but to external nature; and this externality, in being apprehended by the soul, ceases to be spatial, since, transformed by the soul's ideality, it remains external neither to itself nor to us.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

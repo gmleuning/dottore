@@ -27,8 +27,12 @@ Phr:
   the ideal made flesh
 
 # ---- Hegel ----
-Def: Sculpture as the art which reaches the classical ideal, the adequate unity of spirit and body.
+Def: Sculpture is more than any other art the art of the ideal, forming the centre of classical art: beyond the symbolic in the clarity of its spiritual content and its adequacy to it, yet still ignoring the inner subjectivity indifferent to outward shape. Its figures come from an imagination that sets aside all accidents, creating as the gods do by eternal ideas, a sense preeminently at home in Greece.
 Texts:
   Aesthetics
     Sculpture › The Principle of Sculpture Proper › Sculpture as the Art of the Classical Ideal
 Citations:
+  The first inference from the foregoing considerations is that sculpture more than any other art always points particularly to the Ideal.
+    — Aesthetics, The Principle of Sculpture Proper › Sculpture as the Art of the Classical Ideal (tr. Knox)
+  Sculpture must configurate in the way that within their own sphere the gods create according to eternal Ideas, while abandoning everything else in the rest of reality to the freedom and self-will of the creature.
+    — Aesthetics, The Principle of Sculpture Proper › Sculpture as the Art of the Classical Ideal (tr. Knox)

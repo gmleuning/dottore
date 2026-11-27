@@ -29,8 +29,12 @@ Phr:
   to see through
 
 # ---- Hegel ----
-Def: The body's relation to light as its own physical identity, which is transparency, refraction and colour.
+Def: The body's relation to light is the first determination of shaped corporeality. Shape's self-identical selfhood, its abstract manifestation of itself as simple individuality, is light; but shape is not itself luminous, so this property is a relation to light: transparency in the pure crystal, then refraction, then the darkening of the body from which colour arises.
 Texts:
   The Philosophy of Nature
     §§317–320
 Citations:
+  The first determination of shaped corporeality is its self-identical selfhood (Selbstischkeit), the abstract self-manifestation of itself as an indeterminate, simple individuality—Light.
+    — Encyclopedia §317 (tr. Miller)
+  But shape as such is not luminous, for this property is (previous §) a relationship to light.
+    — Encyclopedia §317 (tr. Miller)

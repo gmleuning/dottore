@@ -26,8 +26,12 @@ Phr:
   through and through
 
 # ---- Hegel ----
-Def: Extensive Größe, the quantum whose determinateness lies in a plurality of units outside one another, an amount.
+Def: Extensive quantum is quantum whose limit, as limit, is a plurality: it is discrete in itself and has no being different from its limit and no limit outside it. Its direct opposite is not discrete magnitude but intensive magnitude. It has continuity in it, since its many is everywhere of one kind, and the limit appears as the limiting of a unity. Taken immediately it is number, the amount of one and the same unit, and it differs from number only in that in number the determinateness is expressly posited as plurality.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Extensive and intensive quantum › Their difference
 Citations:
+  Quantum, thus with its limit which as limit is a plurality, is extensive magnitude.
+    — The Science of Logic, Extensive and intensive quantum › Their difference (tr. di Giovanni)
+  Extensive magnitude is to be distinguished from continuous magnitude; its direct opposite is not the discrete, but the intensive magnitude.
+    — The Science of Logic, Extensive and intensive quantum › Their difference (tr. di Giovanni)

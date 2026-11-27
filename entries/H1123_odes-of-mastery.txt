@@ -12,8 +12,12 @@ Adj:
   Pindaric
 
 # ---- Hegel ----
-Def: The Pindaric ode, where the poet's inspiration masters the subject, celebrating victors while ranging freely through myth.
+Def: Odes of mastery, such as many of Pindar's, arise from the opposition between the topic's captivating might and the poet's freedom flashing out against it. This drives the swing and boldness of language and images, apparent lawlessness, digressions and sudden transitions, while the poet's genius resolves the discord into a unified whole that raises the poet above the subject.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  It is mainly the pressure of this opposition which necessitates the swing and boldness of language and images, the apparent absence of rule in the structure and course of the poem, the digressions, gaps, sudden transitions, etc.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  This sort of lyrical enthusiasm is the origin of many of Pindar’s Odes, but all the same their victorious inner magnificence is disclosed by their rhythm which moves variously and yet is given a measure fixed by rule.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

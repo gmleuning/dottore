@@ -31,8 +31,12 @@ Phr:
   all men are mortal, Socrates is a man
 
 # ---- Hegel ----
-Def: Singular joined to universal through the particular: S–P–U, the scheme of the understanding's reasoning.
+Def: The first figure, singular, particular, universal, is the general schema of the determinate syllogism: the singular is connected with the universal not immediately but through particularity, and the universal descends to the singular through it. Its meaning is that the singular, otherwise only inward, emerges through particularity into existence. But the connection is still subjective, and its premises, themselves unmediated, demand proof, which leads to the further figures.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of existence › First figure of the syllogism
 Citations:
+  Singularity connects with universality through particularity; the singular is not universal immediately but by means of particularity
+    — The Science of Logic, The syllogism of existence › First figure of the syllogism (tr. di Giovanni)
+  The general meaning of this syllogism is that the singular, which as such is infinite self-reference and consequently would be only an inwardness, emerges through the medium of particularity into existence, into a universality wherein it no longer belongs just to itself but stands in external conjunction
+    — The Science of Logic, The syllogism of existence › First figure of the syllogism (tr. di Giovanni)

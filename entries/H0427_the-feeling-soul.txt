@@ -46,8 +46,12 @@ Phr:
   in one's heart of hearts
 
 # ---- Hegel ----
-Def: The soul that feels itself as an individual totality, the sentient individual which is only the formal self, still in its nature.
+Def: The feeling soul is the soul as a feeling individual, the simple ideality or subjectivity of sensation. No longer a merely natural but an inward individuality, its task is to posit its merely implicit fulfilment as subjectivity, to take possession of itself and become for itself as the power over itself. Its world is included in it, so that in relating to this world it relates only to itself. It passes from the soul in its immediacy through self-feeling to habit, and in the more developed mind this level can recur as a state of disease.
 Texts:
   The Philosophy of Mind
     §§403–410
 Citations:
+  The feeling individual is the simple ideality, subjectivity, of sensation. What it has to do is to posit its substantiality, its merely implicit fulfilment, as subjectivity, to take possession of itself, and to become for itself as the power over itself.
+    — Encyclopedia §403 (tr. Wallace and Miller, rev. Inwood)
+  The soul is in itself the totality of nature, as an individual soul it is a monad; it is itself the posited totality of its particular world, so that this world is included in it, its fulfilment; in relating to this world it relates only to itself.
+    — Encyclopedia §403, Remark (tr. Wallace and Miller, rev. Inwood)

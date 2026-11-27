@@ -30,8 +30,12 @@ Phr:
   to colour in
 
 # ---- Hegel ----
-Def: Colour become the fixed darkness of the body itself, its own quality as pigment.
+Def: Chemical colour belongs to the body's own specified matter: the metallic principle is the material principle of all colouring, a universal pigment, and every pure metal has its particular colour. The chemical determination of colour, as by acid, involves a different principle of lightening darkness, a more immanent self-manifestation of a fiery activity.
 Texts:
   The Philosophy of Nature
     §320
 Citations:
+  It is well known that the metallic principle is the material principle of all colouring—one can call it the universal pigment if one likes.
+    — Encyclopedia §320, Remark (tr. Miller)
+  The chemical determination of colour by acid, however, involves an entirely different principle of the lightening of darkness, of a more immanent self-manifestation, of a fiery activity (Befeuerung).
+    — Encyclopedia §320, Remark (tr. Miller)

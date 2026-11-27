@@ -37,8 +37,12 @@ Phr:
   built to last
 
 # ---- Hegel ----
-Def: Architecture, the art of the external, which shapes inorganic nature to an enclosure for spirit.
+Def: Architecture is treated first among the particular arts, as art's beginning in concept and in existence. That beginning is not to be found in historical conjectures or charming tales about a cavern or a tree trunk, which make origins seem intelligible without deriving them from the concept. It must be established by deriving it from the very concept of art, whose content now emerges into real, external existence.
 Texts:
   Aesthetics
     Architecture
 Citations:
+  By making its content emerge into a determinate existence in the real world, art becomes a particular art and therefore we can now speak for the first time of art realized and so of the actual beginning of art.
+    — Aesthetics, Architecture (tr. Knox)
+  Yet in answering the question of where art has begun alike in conception and in reality, we must throughout exclude both the empirical facts of history and also the external reflections, conjectures and natural ideas that are so easily and variously propounded about it.
+    — Aesthetics, Architecture (tr. Knox)

@@ -37,8 +37,12 @@ Phr:
   the way of all flesh
 
 # ---- Hegel ----
-Def: The sphere of immediacy, where each determination simply is and passes over into another; the concept only in itself.
+Def: The doctrine of being is the first book of the Logic, in which being is considered as the indeterminate immediate and as the sphere within which its own determinations and the movement of its reflection fall. It is one sphere of the concept, set off against essence. In it being posits itself in three determinations: as determinateness, that is quality; as sublated determinateness, magnitude or quantity; and as qualitatively determined quantity, measure.
 Texts:
   The Science of Logic
     The Doctrine of Being
 Citations:
+  Being is determined, first, as against another in general; secondly, it is internally self-determining; thirdly, as this preliminary division is cast off, it is the abstract indeterminateness and immediacy in which it must be the beginning.
+    — The Science of Logic, The Doctrine of Being (tr. di Giovanni)
+  In this, being will posit itself in three determinations: I. as determinateness; as such, quality; II. as sublated determinateness; magnitude, quantity; III. as qualitatively determined quantity; measure.
+    — The Science of Logic, The Doctrine of Being (tr. di Giovanni)

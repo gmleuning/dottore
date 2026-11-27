@@ -43,8 +43,12 @@ Phr:
   non est vivere sed valere vita [Lat.] [Martial]
 
 # ---- Hegel ----
-Def: The individual's inadequacy to its genus: the disease in which a system isolates itself, and the death in which the genus prevails.
+Def: The individual's relation to the genus as external, inorganic universality may fail: disease sets in when one system isolates itself against the whole. Though the animal overcomes particular inadequacies, it cannot end its general one, that as natural it does not correspond to universality, which stands over it as negative power, and so it dies.
 Texts:
   The Philosophy of Nature
     §§371–376
 Citations:
+  The animal, in overcoming and ridding itself of particular inadequacies, does not put an end to the general inadequacy which is inherent in it
+    — Encyclopedia §374 (tr. Miller)
+  The ground is the necessity of the transition of the individuality into universality
+    — Encyclopedia §374, Addition (tr. Miller)

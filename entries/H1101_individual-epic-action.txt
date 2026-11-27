@@ -29,8 +29,12 @@ Phr:
   one deed that moves a world
 
 # ---- Hegel ----
-Def: The individual epic action, an event in which the whole of a people's life is engaged.
+Def: The individual epic action proceeds on the ground of a world open to conflicts between whole nations: from a national undertaking a particular aim arises, interwoven with the life of the whole people and revealing every side of its character, faith and action. Individually definite, it takes the form of an event, in which outer reality has as full a right as inner will.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › Particular Characteristics of Epic Proper › The Individual Epic Action
 Citations:
+  However firmly the aim of an epic action rests on a universal foundation, it must still be individually alive and definite.
+    — Aesthetics, Particular Characteristics of Epic Proper › The Individual Epic Action (tr. Knox)
+  But on this foundation a particular aim must arise, the realization of which, being most intimately interwoven with the life of the whole nation, brings into view every aspect of the national character, faith, and action.
+    — Aesthetics, Particular Characteristics of Epic Proper › The Individual Epic Action (tr. Knox)

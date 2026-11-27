@@ -53,8 +53,12 @@ Phr:
   the lowring element scowls o'er the darkened landscip [Paradise Lost]
 
 # ---- Hegel ----
-Def: The elements in their living process with one another, the life of the earth: weather, storms, and the alternation of the seasons.
+Def: The meteorological process is the physical life of the earth: the dialectic of the individual identity that binds the elements together with their difference from one another and from their unity. In it alone the elements, as subordinate moments, exist, being generated in it. Through it the earth posits itself as their negative unity and so becomes a real individuality.
 Texts:
   The Philosophy of Nature
     §§286–289
 Citations:
+  The individual identity which binds together the different Elements, as well as their difference from one another and from their unity, is a dialectic which constitutes the physical life of the Earth, the meteorological process.
+    — Encyclopedia §286 (tr. Miller)
+  In its process, the earth posits itself as the negative unity of these abstract, mutually external Elements, and consequently as a real individuality.
+    — Encyclopedia §289 (tr. Miller)

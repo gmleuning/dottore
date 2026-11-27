@@ -40,8 +40,12 @@ Phr:
   the die is cast
 
 # ---- Hegel ----
-Def: The subject's constitution named as the ground of its agreement with its concept: the house, so constituted, is good.
+Def: The apodictic judgement states that the subject, as so and so constituted, is good or right. Its subject contains what it ought to be and also its constitution, which holds the ground why the predicate belongs to it or not. This judgement is truly objective, the truth of judgement in general: subject and predicate correspond and have the same concept. The fact is divided into ought and being and joins them, and this filled copula passes into the syllogism.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of the concept › The apodictic judgment
 Citations:
+  This judgment is now truly objective; or it is the truth of the judgment in general.
+    — The Science of Logic, The judgment of the concept › The apodictic judgment (tr. di Giovanni)
+  The truth of the latter, however, is that it is internally fractured into its ought and its being; this is the absolute judgment on all actuality.
+    — The Science of Logic, The judgment of the concept › The apodictic judgment (tr. di Giovanni)

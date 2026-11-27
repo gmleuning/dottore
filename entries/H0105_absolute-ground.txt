@@ -34,8 +34,12 @@ Phr:
   from first principles
 
 # ---- Hegel ----
-Def: Ground as the relation of ground and grounded, form and essence.
+Def: Absolute ground is ground in its first form, determined as indeterminate: essence which in its negativity is identical with itself. Its determinateness is twofold, that of the ground, essence as against positedness, and that of the grounded, an immediate that is only posited, while one and the same identity runs through both. This mediation unites pure and determining reflection. As its determinations receive a subsistence distinct from their simple identity, it develops as form against essence, then as form and matter, and as form and content.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Absolute ground
 Citations:
+  The determinateness of essence as ground is thus twofold: it is the determinateness of the ground and of the grounded.
+    — The Science of Logic, Ground › Absolute ground (tr. di Giovanni)
+  This mediation of the ground is thus the unity of pure reflection and determining reflection
+    — The Science of Logic, Ground › Absolute ground (tr. di Giovanni)

@@ -29,8 +29,12 @@ Phr:
   the Copernican turn
 
 # ---- Hegel ----
-Def: Critical philosophy, which examines the faculty of knowledge itself, and German idealism.
+Def: The recent philosophy begins from the thesis that universality and necessity have a source other than perception, the I in its self-consciousness. Kant's philosophy is called critical because its first aim is a critique of knowing: before getting at the truth, we are to examine the instrument, to see whether it can accomplish what is required of it. Fichte, Jacobi, and Schelling follow.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › Recent Philosophy: Kant, Fichte, Jacobi, Schelling
 Citations:
+  This is the principal thesis of the Kantian philosophy, which is also called critical philosophy because its first aim is to be a critique of knowing.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Recent Philosophy: Kant, Fichte, Jacobi, Schelling (tr. Brown)
+  [W]e must first investigate the nature or type of the instrument in order to see whether it is capable of accomplishing what is required of it.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Recent Philosophy: Kant, Fichte, Jacobi, Schelling (tr. Brown)

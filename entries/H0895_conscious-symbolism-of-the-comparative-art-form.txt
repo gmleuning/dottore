@@ -32,8 +32,12 @@ Phr:
   compare and contrast
 
 # ---- Hegel ----
-Def: The conscious symbolism of comparison, in which the separation of meaning and shape is known and their joining is the poet's act.
+Def: Conscious symbolism, the comparative form of art, is that in which the meaning is not only explicitly known but expressly posited as different from the external way of representing it. Their relation no longer rests in the meaning itself but is a more or less accidental connection produced by the poet's subjective activity, wit and invention, which may start either from something perceived or from an inner idea.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form
 Citations:
+  By conscious symbolism, I mean, we are to understand that the meaning is not only explicitly known but is expressly posited as different from the external way in which it is represented.
+    — Aesthetics, The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form (tr. Knox)
+  [O]n the contrary, it becomes a more or less accidental concatenation produced by the subjective activity of the poet, by the immersion of his spirit in an external existent, by his wit and his invention in general.
+    — Aesthetics, The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form (tr. Knox)

@@ -30,8 +30,12 @@ Phr:
   I possess, I am not possessed, echō ouk echomai [Gr.] [Aristippus]
 
 # ---- Hegel ----
-Def: The Cyrenaics, who held pleasure to be the good of the individual.
+Def: The Cyrenaics, headed by Aristippus, held that the human vocation, what is supreme and essential, is to seek pleasure, pleasant sensation. The principle at first appears trivial, since pleasure may come from the most diverse circumstances. It belongs to the time when individuals no longer find their place in the customary ethos of their people and begin to ask on their own account what they are to do.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Socratic Schools › The Cyrenaics
 Citations:
+  Simply put, the Cyrenaic principle is that our vocation as human beings, what is supreme and essential for us, is to seek pleasure
+    — Lectures on the History of Philosophy 1825–6, The Socratic Schools › The Cyrenaics (tr. Brown)
+  [O]nce individuals no longer find their place within the customary ethos of their people, and in the religion, laws, and so forth of their land, they no longer have what is substantial for them
+    — Lectures on the History of Philosophy 1825–6, The Socratic Schools › The Cyrenaics (tr. Brown)

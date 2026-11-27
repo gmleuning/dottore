@@ -33,8 +33,12 @@ Phr:
   one situation that holds the whole
 
 # ---- Hegel ----
-Def: The painter's grasp of the subject as one situation, a single moment that holds the whole.
+Def: Conception, the painter's grasp of a subject, starts close to sculpture and architecture in isolated figures at rest and advances to specific situations. Since painting cannot show a succession of changes and can seize only one moment, that moment must show the whole situation in its bloom, concentrating what preceded and what follows, as in the moment of victory in a battle.
 Texts:
   Aesthetics
     Painting › Particular Characteristics of Painting › Conception, Composition, and Characterization
 Citations:
+  From this there follows the quite simple reflection that in this one moment the whole of the situation or action must be portrayed in its bloom, and that therefore painting must look for the instant in which what preceded and what followed is concentrated in one point.
+    — Aesthetics, Particular Characteristics of Painting › Conception, Composition, and Characterization (tr. Knox)
+  For example, in the case of a battle this would be the moment of victory: the fighting is still visible, but at the same time the outcome is already certain.
+    — Aesthetics, Particular Characteristics of Painting › Conception, Composition, and Characterization (tr. Knox)

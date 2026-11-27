@@ -36,8 +36,12 @@ Phr:
   consonance and dissonance
 
 # ---- Hegel ----
-Def: Harmony, the tones in their essential relation according to law.
+Def: Harmony is the realm of notes themselves and their laws, which alone makes music's abstract basis in bar and rhythm concrete. It treats the difference of instruments and the voice, the quantitatively determined system of notes, scales and keys, and the concrete opposition and modulation of notes, whose forward movement rests not on caprice but on laws in which everything musical has its necessary foundation.
 Texts:
   Aesthetics
     Music › Particular Characteristics of Music's Means of Expression › Harmony
 Citations:
+  This more essential province of music comprises the laws of harmony.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Harmony (tr. Knox)
+  This juxtaposition and change does not rest on pure accident and caprice, but is subject to specific laws in which everything genuinely musical has its necessary foundation.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Harmony (tr. Knox)

@@ -40,8 +40,12 @@ Phr:
   gage d'amour
 
 # ---- Hegel ----
-Def: The stipulation, the outward form in which the agreement of wills exists.
+Def: The form of contract is the stipulation, the outward expression in which the agreement of wills exists. Contract is formal when only one party alienates and the other appropriates, as in gift, and real when each both alienates and acquires, as in exchange. In the stipulation the will, the substance of the contract, already exists before performance.
 Texts:
   The Philosophy of Right
     §§76–79
 Citations:
+  Contract is formal when the double consent whereby the common will is brought into existence is apportioned between the two contracting parties so that one of them has the negative moment—the alienation of a thing—and the other the positive moment—the appropriation of the thing. Such a contract is gift. But contract may be called real [reell] when each of the two contracting wills is the totality of these mediating moments and therefore in such a contract becomes a property owner and remains so. This is a contract of exchange.
+    — The Philosophy of Right §76 (tr. Knox, rev. Houlgate)
+  In contract it is the will, and therefore the substance of what is right in contract, that the stipulation enshrines.
+    — The Philosophy of Right §79 (tr. Knox, rev. Houlgate)

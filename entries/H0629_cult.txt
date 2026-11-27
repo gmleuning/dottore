@@ -38,8 +38,14 @@ Phr:
   to pay homage
 
 # ---- Hegel ----
-Def: The cult, in which the god descends to the worshipper and the worshipper rises to the god.
+Def: Cult is the movement in which the god who stirred in the element of self-consciousness and the god motionless as a thing give up their separate determinations and become one, so that the self becomes conscious of the divine essence coming down to it. It begins with the pure sacrifice of a possession, in which the owner renounces property and personality; the essence has already sacrificed itself in becoming animal and fruit, and in the shared meal the self has consciousness of its unity with it.
 Texts:
   The Phenomenology of Spirit
     ¶¶714–719
 Citations:
+  The movement of both sides constitutes the cult.
+    — The Phenomenology of Spirit ¶714 (tr. Pinkard)
+  The action of the cult itself thus begins with the pure sacrificial dedication of a possession, which the owner, without any apparent advantage to himself, pours out or lets rise up in smoke.
+    — The Phenomenology of Spirit ¶718 (tr. Pinkard)
+  This consumption is the negative power that sublates the essence as well as singular individuality, and this consumption is at the same time the positive actuality in which the objective existence of the essence is transformed into self-conscious existence, and the self has consciousness of its unity with the essence.
+    — The Phenomenology of Spirit ¶718 (tr. Pinkard)

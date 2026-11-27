@@ -40,8 +40,12 @@ Phr:
   nemo dat quod non habet [Lat.]
 
 # ---- Hegel ----
-Def: The animal's relation to its genus: the division into species, the sex-relation, and disease and death.
+Def: The genus is at first implicitly one with the individual, but it divides itself and gives itself existence as universal, a process in which the merely natural being perishes. It takes three forms: the sex-relation, procreation through the death of individuals; division into species, bringing violent death; and the individual's relation to itself in disease and natural death.
 Texts:
   The Philosophy of Nature
     §§367–376
 Citations:
+  In this process of the genus, the merely natural being only perishes, for, as such, it does not transcend the natural.
+    — Encyclopedia §367 (tr. Miller)
+  Thus the genus-process, in its turn, has three forms. The first is the sex-relation: what the genus brings forth is the procreation of individuals through the death of other individuals of the same genus; the individual, after reproducing itself as another individual, perishes. Secondly, the genus particularizes itself, divides itself into its species; and these species, behaving as mutually opposed individuals, are, at the same time, nonorganic nature as the genus against individuality—death by violence. The third form is the relation of the individual to itself as genus within a single subjectivity, either as a transitory disharmony in disease, or else ending with the preservation of the genus as such through the transition of the individual into existence as a universal; this is natural death.
+    — Encyclopedia §367, Addition (tr. Miller)

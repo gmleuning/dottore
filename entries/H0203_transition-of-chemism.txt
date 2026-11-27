@@ -30,8 +30,12 @@ Phr:
   to take a new turn
 
 # ---- Hegel ----
-Def: The neutral product separated again into differents; chemism thereby frees the concept and passes into purpose.
+Def: In the transition of chemism it appears as the first negation of indifferent objectivity, still burdened with the immediate independence and externality of its object. It forms a totality of three syllogisms, running from neutrality through disruption to the concept that posits its own presupposition, but because of that immediacy they fall apart. As they sublate the externality, the concept is freed to exist for itself, and so becomes purpose.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Chemism › Transition of chemism
 Citations:
+  Chemism is itself the first negation of the indifferent objectivity and of the externality of determinateness; it is still burdened, therefore, by the immediate self-subsistence of the object and with externality.
+    — The Science of Logic, Chemism › Transition of chemism (tr. di Giovanni)
+  Yet, on account of the immediacy and externality by which the chemical objectivity is still determined, these three syllogisms fall apart.
+    — The Science of Logic, Chemism › Transition of chemism (tr. di Giovanni)

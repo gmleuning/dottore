@@ -17,8 +17,12 @@ Adj:
   trabeated
 
 # ---- Hegel ----
-Def: Building in wood and in stone, the stone column keeping the memory of the tree trunk and timber beam.
+Def: The question whether wooden or stone building was original turns on purpose: the tree supplies posts and beams ready formed, rectilinear pieces suited to the severe purposiveness of classical architecture, while stone is a shapeless mass that must be split and worked and invites excavation. Yet classical architecture, developing into beauty, builds in stone while keeping recognizable the principle of timber.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › Building in Wood and Stone
 Citations:
+  [W]hereas wood owing to its natural form with rectilinear stems is directly more serviceable for the severer purposiveness and mathematical proportions that are the basis of classical architecture.
+    — Aesthetics, The Particular Determinants of the Architectural Forms › Building in Wood and Stone (tr. Knox)
+  But, conversely, classical architecture does not stop at all at building in wood but proceeds on the contrary, where it develops into beauty, to build in stone, with the result that while in its architectural forms the original principle of building in wood is still always recognizable, specific characteristics nevertheless enter which are not inherent in building in wood as such.
+    — Aesthetics, The Particular Determinants of the Architectural Forms › Building in Wood and Stone (tr. Knox)

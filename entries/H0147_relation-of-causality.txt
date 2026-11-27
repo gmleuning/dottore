@@ -54,8 +54,12 @@ Phr:
   I myself must mix with action lest I wither by despair [Tennyson]
 
 # ---- Hegel ----
-Def: Substance as originative, a cause that passes over into its effect, in which it has its actuality.
+Def: The relation of causality is substance as power reflected into itself, power that posits determinations and distinguishes them from itself. What it posits as negative is sublated substantiality, the effect, while the substance that exists for itself is cause. It is first formal causality; then the determinate relation of causality, with a finite content that makes the causal statement a tautology; and then action and reaction, from which reciprocity arises.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute relation › The relation of causality
 Citations:
+  This positedness is, as such, sublated substantiality, the merely posited, the effect; the substance that exists for itself is, however, cause.
+    — The Science of Logic, The absolute relation › The relation of causality (tr. di Giovanni)
+  Substance is power – power reflected into itself, not transitive power but power that posits determinations and distinguishes them from itself.
+    — The Science of Logic, The absolute relation › The relation of causality (tr. di Giovanni)

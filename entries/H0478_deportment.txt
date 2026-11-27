@@ -47,8 +47,12 @@ Phr:
   the very pink of courtesy [Romeo and Juliet]
 
 # ---- Hegel ----
-Def: The upright posture and bearing which the will gives to the body.
+Def: Deportment is the mental expressing itself in the posture of the body. Its foundation is the upright stance, the absolute human gesture: human beings are not erect by nature but make themselves stand upright by the energy of their will, and although habit removes the need for intense effort, the stance must remain pervaded by will if one is not to collapse at once. Gait too is significant, and in it the soul must show its mastery over the body.
 Texts:
   The Philosophy of Mind
     §411
 Citations:
+  Man is not erect by nature, originally; he makes himself stand upright by the energy of his will; and although his stance, after it has become a habit, requires no further intense activity of will, yet it must always remain pervaded by our will if we are not to collapse instantly.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)
+  Above all things, gait must be cultivated; in it the soul must betray its mastery over the physical body.
+    — Encyclopedia §411, Addition (tr. Wallace and Miller, rev. Inwood)

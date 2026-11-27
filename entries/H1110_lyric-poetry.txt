@@ -36,8 +36,12 @@ Phr:
   the poet's own heart
 
 # ---- Hegel ----
-Def: Lyric, which expresses the poet's inwardness, the self's own feeling and reflection.
+Def: Lyric poetry gives not the external thing but the poet's inner vision and feeling of it, the subjective side of creation predominating. Spirit turns from the objectivity of the matter into its own consciousness to display its presence in the heart's experience and imagination, in genuine feelings of universal validity, liberating the spirit not from feeling but in it.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry
 Citations:
+  Out of the objectivity of the subject-matter the spirit descends into itself, looks into its own consciousness, and satisfies the need to display, not the external reality of the matter, but its presence and actuality in the spirit’s own subjective disposition, in the experience of the heart and the reflections of imagination, and at the same time to display the contents and activity of the inner life itself.
+    — Aesthetics, Poetry › Lyric Poetry (tr. Knox)
+  Indeed it has on the contrary a higher vocation: its task, namely, is to liberate the spirit not from but in feeling.
+    — Aesthetics, Poetry › Lyric Poetry (tr. Knox)

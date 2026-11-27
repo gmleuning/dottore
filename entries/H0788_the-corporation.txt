@@ -45,8 +45,12 @@ Phr:
   due teste valgono piu che una sola [It.]
 
 # ---- Hegel ----
-Def: The corporation, the second family, ethical root of the state in civil society.
+Def: The corporation is the association of members of the business estate according to their particular skill, a second family for its members. It assures their livelihood and recognizes their capability, so that their particular interest becomes a common, ethical end. As the family is the first, the corporation is the second ethical root of the state.
 Texts:
   The Philosophy of Right
     §§250–256
 Citations:
+  As the family was the first, so the corporation is the second ethical root of the state, the one planted in civil society.
+    — The Philosophy of Right §255 (tr. Knox, rev. Houlgate)
+  [I]ts right is to come on the scene as a second family for its members
+    — The Philosophy of Right §252 (tr. Knox, rev. Houlgate)

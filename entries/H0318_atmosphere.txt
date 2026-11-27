@@ -36,8 +36,12 @@ Phr:
   under the sky
 
 # ---- Hegel ----
-Def: The air of the earth in its living process, its atmosphere, which is the medium of meteorological life.
+Def: The atmosphere is the first determinate life of the organic earth, air as the universal element generated in the earth's own process with the sea. It is the earth in dissolution and pure tension, the relation of gravity and heat, running through yearly, monthly and daily periods; it vivifies the earth without being its life-process.
 Texts:
   The Philosophy of Nature
     §341
 Citations:
+  Its first determinate life is now the atmosphere. But the meteorological process is not the life-process of the earth, although the earth is vivified by it
+    — Encyclopedia §341, Addition (tr. Miller)
+  The atmosphere is the earth in its state of dissolution, of pure tension, the relation of gravity and heat
+    — Encyclopedia §341, Addition (tr. Miller)

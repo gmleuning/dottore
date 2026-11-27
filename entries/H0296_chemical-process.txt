@@ -38,8 +38,12 @@ Phr:
   to react with
 
 # ---- Hegel ----
-Def: The process in which the total individualities of bodies are negated and reconstituted, as galvanism, fire, neutralization and elective affinity.
+Def: In the chemical process whole particular bodies, each an individual totality, are related only as different. This relation, the identity of non-identical independent bodies, is a contradiction and therefore essentially process, whose function is to posit the differentiated as identical and to differentiate the identical. It is the third stage in the process of shape, after magnetism and electricity.
 Texts:
   The Philosophy of Nature
     §§326–336
 Citations:
+  This relation, as the identity of non-identical, independent bodies, is contradiction, and hence is essentially process
+    — Encyclopedia §326 (tr. Miller)
+  Chemical process is the third stage in the process of shape.
+    — Encyclopedia §326, Addition (tr. Miller)

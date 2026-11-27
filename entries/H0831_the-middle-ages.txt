@@ -35,8 +35,12 @@ Phr:
   sword and cross
 
 # ---- Hegel ----
-Def: The Middle Ages: feudal lordship and church hierarchy, the Crusades, and the transition to monarchy.
+Def: The second period, begun by the reactions that break up the Frank empire and leave individuals to seek protection from the powerful, who become their oppressors, so that universal dependence arises. Feudal lordship and the Church's hierarchy develop; the Crusades seek the holy places and the sepulchre of Christ; and feudalism passes into monarchy, where individual wills are subordinated to a common interest.
 Texts:
   The Philosophy of History
     The German World › The Middle Ages
 Citations:
+  The universality of the power of the state disappeared through this reaction: individuals sought protection with the powerful, and the latter became oppressors.
+    — The Philosophy of History, The German World › The Middle Ages (tr. Sibree)
+  The principle of feudal sovereignty is the outward force of individuals— princes, liege lords; it is a force destitute of intrinsic right.
+    — The Philosophy of History, The German World › The Middle Ages (tr. Sibree)

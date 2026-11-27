@@ -22,8 +22,12 @@ Phr:
   divine inspiration
 
 # ---- Hegel ----
-Def: Begeisterung, the activity of Phantasie and of technical execution considered as a state in the artist.
+Def: Enthusiasm, or inspiration, is the activity of imagination and technical execution taken in itself as the basic condition of the artist: the state of the artist actively forming both the inner conception and the outward execution of the work, a double activity for which it is necessary. It takes fire on a definite material that imagination seizes in order to express it artistically.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  Now the activity of imagination and technical execution, considered in itself as the fundamental condition of the artist, is what is generally called, in the third place, 'inspiration'.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  [M]oreover inspiration is the state of the artist in his active process of forming both his subjective inner conception and his objective execution of the work of art, because for this double activity inspiration is necessary.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

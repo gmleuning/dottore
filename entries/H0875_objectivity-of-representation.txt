@@ -33,8 +33,12 @@ Phr:
   warts and all
 
 # ---- Hegel ----
-Def: The objectivity of representation, the artist's being entirely in the matter.
+Def: Objectivity of representation is not the reproduction of familiar external reality, nor an inwardness too reserved to come to clear expression. True objectivity requires that nothing of the genuine matter that inspires the artist be held back: everything must be wholly unfolded so that the universal substance of the subject appears as clearly as its individual shape. The works are the artist's best part and truth.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Objectivity of the Representation
 Citations:
+  But the aim of art is precisely to strip off the matter of everyday life and its mode of appearance, and by spiritual activity from within bring out only what is absolutely rational and give to it its true external configuration.
+    — Aesthetics, The Artist › Objectivity of the Representation (tr. Knox)
+  On the contrary, his works are the best part and the truth of the artist; what he is [in his works], that he is; but what remains buried in his heart, that is he not.
+    — Aesthetics, The Artist › Objectivity of the Representation (tr. Knox)

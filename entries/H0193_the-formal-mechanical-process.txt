@@ -28,8 +28,12 @@ Phr:
   to set going
 
 # ---- Hegel ----
-Def: The communication of determinations between objects, as motion passed on, a mere sharing.
+Def: The formal mechanical process is the positing of the objects' identical connection by giving the determinateness it generates the form of universality: this is communication, which passes on without turning into the opposite. In spirit a determinateness spreads unaltered from one person to another, like a scent in unresisting air; laws, morals and rational conceptions pervade individuals unawares, as motion or heat spreads among bodies.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Mechanism › The mechanical process › The formal mechanical process
 Citations:
+  This positing consists simply in giving to the determinateness which is generated the form of universality – and this is communication, which occurs without transition into the opposite.
+    — The Science of Logic, The mechanical process › The formal mechanical process (tr. di Giovanni)
+  Laws, morals, rational conceptions in general, are in the region of the spirit communicable entities of this kind; they pervade individuals unconsciously imposing themselves on them.
+    — The Science of Logic, The mechanical process › The formal mechanical process (tr. di Giovanni)

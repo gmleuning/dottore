@@ -33,8 +33,14 @@ Phr:
   all in the mind
 
 # ---- Hegel ----
-Def: The ideality of the finite: what is in being-for-self has no being of its own, but is only for the one.
+Def: Being-for-one expresses how the finite is in its unity with the infinite, as idealized. In being-for-itself negation is no limit and refers to no other existence, so that although something is called being-for-one there is nothing other for which it could be. That for which it is and that which is for it are not yet distinct: what is for-one refers in its other only to itself. Thus the I, spirit, or God are idealizations because they are infinite, and God is for himself in so far as he is himself that which is for him.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › Being-for-itself as such › Being-for-one
 Citations:
+  This moment gives expression to how the finite is in its unity with the infinite or as an idealization.
+    — The Science of Logic, Being-for-itself as such › Being-for-one (tr. di Giovanni)
+  An idealization is necessarily for-one, but it is not for an other; the one, for which it is, is only itself.
+    — The Science of Logic, Being-for-itself as such › Being-for-one (tr. di Giovanni)
+  God is therefore for himself, in so far he is himself that which is for him.
+    — The Science of Logic, Being-for-itself as such › Being-for-one (tr. di Giovanni)

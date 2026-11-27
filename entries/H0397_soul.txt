@@ -49,8 +49,12 @@ Phr:
   am I not a man and a brother? [Wedgwood]
 
 # ---- Hegel ----
-Def: Spirit still immersed in nature, the soul, the sleep of spirit, which is the immaterial substance of the body and its sentient self.
+Def: The soul, the object of Anthropology, is mind as it first comes out of nature as nature's truth: not an individual thing set against the body, but the universal immateriality of nature, its simple ideal life. It is the substance and absolute foundation in which mind finds all the stuff of its determination, though in this abstract form it is only the sleep of mind. It is first the natural soul that merely is, then the feeling soul that enters into relationship with its immediate being, and finally the actual soul that has moulded its bodiliness into itself.
 Texts:
   The Philosophy of Mind
     §§388–412
 Citations:
+  Soul is the substance, the absolute foundation of all the particularizing and individualizing of mind, so that it is in the soul that mind finds all the stuff of its determination
+    — Encyclopedia §389 (tr. Wallace and Miller, rev. Inwood)
+  But in this still abstract determination, the soul is only the sleep of mind—the passive voûs of Aristotle, which is potentially all things.
+    — Encyclopedia §389 (tr. Wallace and Miller, rev. Inwood)

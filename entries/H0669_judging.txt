@@ -74,8 +74,12 @@ Phr:
   parturiunt montes [Lat.]
 
 # ---- Hegel ----
-Def: Thinking that distinguishes and relates its determinations, the universal and the singular.
+Def: Judging is the second moment of pure thinking, in which thinking, as infinite negativity, divides itself, differentiating according to the specific interconnections of the concept and no longer into universality and being. The intellect relates the object to universal thought-determinations and takes it as a relationship, a totality. Yet the object is still conceived as given and conditioned, so that the identity of the related phenomena remains inner and shows only as non-conceptual necessity.
 Texts:
   The Philosophy of Mind
     §467
 Citations:
+  As infinite negativity within itself, thinking is (2) essentially diremption,-judgement, which, however, no longer breaks up the concept into the previous opposition of universality and being, but differentiates in accordance with the specific interconnections of the concept
+    — Encyclopedia §467 (tr. Wallace and Miller, rev. Inwood)
+  Here, therefore, the concept does not yet show itself in its own guise, but in the form of non-conceptual necessity.
+    — Encyclopedia §467, Addition (tr. Wallace and Miller, rev. Inwood)

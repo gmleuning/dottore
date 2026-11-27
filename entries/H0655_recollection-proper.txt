@@ -37,8 +37,12 @@ Phr:
   it comes back to me
 
 # ---- Hegel ----
-Def: The image called up by a present intuition, recognized as one's own.
+Def: Recollection proper is the relation of an abstractly stored image to a present intuition with the same content: the intuition is subsumed under the representation, and intelligence recognizes both as already its own. By repeated summoning the image gains such vitality that no external intuition is needed, so that intelligence can externalize its own property. The more cultivated a person is, the more their intuitions are also recollections.
 Texts:
   The Philosophy of Mind
     §454
 Citations:
+  Such an abstractly stored image needs, for its reality, a real intuition; authentic recollection, as it is called, is the relation of the image to an intuition, in fact the subsumption of the immediate individual intuition under what is universal in form, under the representation which is the same content.
+    — Encyclopedia §454 (tr. Wallace and Miller, rev. Inwood)
+  The more cultivated a man is, the more he lives not in immediate intuition, but, in all his intuitions, at the same time in recollections; so that he sees little that is altogether new
+    — Encyclopedia §454, Addition (tr. Wallace and Miller, rev. Inwood)

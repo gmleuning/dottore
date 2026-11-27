@@ -16,8 +16,12 @@ Adj:
   Roman, veristic
 
 # ---- Hegel ----
-Def: Die Skulptur der Römer, which keeps the Greek forms but turns to portrait and likeness, where the ideal begins to dissolve.
+Def: Roman sculpture begins the dissolution of classical sculpture: conception and execution no longer rest on the ideal proper, and the poetry of spiritual animation and inner nobility peculiar to Greek art gives way to a preference for portraiture and truth to nature. Even so it stands high, inferior to Greek essentially in lacking that poetry.
 Texts:
   Aesthetics
     Sculpture › Historical Stages in the Development of Sculpture › Greek and Roman Sculpture
 Citations:
+  The poetry of spiritual animation, the inner breath and nobility of a representation perfect in itself, these excellences peculiar to Greek plastic art, disappear and give place on the whole to a preference for something more like a portrait.
+    — Aesthetics, Historical Stages in the Development of Sculpture › Greek and Roman Sculpture (tr. Knox)
+  Nevertheless in this its own sphere, it is always at such a high stage that essentially it is only inferior to Greek because it lacks what is really perfect in a work of art, the poetry of the ideal in the strict sense of the word.
+    — Aesthetics, Historical Stages in the Development of Sculpture › Greek and Roman Sculpture (tr. Knox)

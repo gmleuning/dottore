@@ -26,8 +26,12 @@ Phr:
   sound that vanishes as it sounds
 
 # ---- Hegel ----
-Def: Music as the art of the inward, which cancels spatial objectivity and has its element in the vibrating, vanishing tone.
+Def: The general character of music is set out by comparing it with the visual arts and poetry, then showing how it grasps and portrays content, and finally explaining its special effect on the mind. As a romantic art it dissolves the classical identity of inner life and external existence, being able to express only feeling and accompanying articulated ideas with its sounds.
 Texts:
   Aesthetics
     Music › General Character of Music
 Citations:
+  (c) In the light of this manner of treatment we can explain more specifically the special effect which music, in distinction from the other arts, produces on our minds.
+    — Aesthetics, Music › General Character of Music (tr. Knox)
+  [B]ut music remains capable rather of expressing only the element of feeling
+    — Aesthetics, Music › General Character of Music (tr. Knox)

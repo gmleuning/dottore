@@ -17,8 +17,12 @@ Adv:
   patristically, dogmatically, doctrinally, orthodoxly, by the creed, in council
 
 # ---- Hegel ----
-Def: The Church Fathers, who worked out the faith into doctrine.
+Def: The Church Fathers were philosophically cultivated men who introduced philosophy, particularly Neoplatonic philosophy, into the church. They built the philosophical idea into the Christian principle and so developed a system of doctrine, dealing with the nature of God, human freedom, and the origin of evil. Hegel defends this development against those who would return to the letter, since the Spirit gives life.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › The Idea of Christianity › The Church Fathers
 Citations:
+  We know that the church fathers were very cultivated men philosophically and that they introduced philosophy, in particular Neoplatonic philosophy, into the church.
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › The Church Fathers (tr. Brown)
+  They conformed the Christian principle to the philosophical idea and built the philosophical idea into it, and in doing that they developed a Christian system of doctrine [Lehrbegriff].
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › The Church Fathers (tr. Brown)

@@ -33,8 +33,12 @@ Phr:
   under observation
 
 # ---- Hegel ----
-Def: Reason that seeks itself in things by describing, classifying and finding laws, finding at last only itself.
+Def: Observing reason is consciousness that again takes up meaning something and perceiving, but now with the certainty that it is itself the other. It makes its own observations and sets out to know the truth, seeking to find in what is a thing a concept, and so to have in thinghood only the consciousness of itself. It therefore takes a universal interest in the world, certain that the present is rational. It turns first to nature, then to self-consciousness, and then to the relation of self-consciousness to its immediate actuality.
 Texts:
   The Phenomenology of Spirit
     ¶¶240–346
 Citations:
+  Reason sets out to know the truth, and what was a thing for meaning-something and perceiving is now to be found as a concept, which is to say, reason is to have in thinghood only the consciousness of itself.
+    — The Phenomenology of Spirit ¶240 (tr. Pinkard)
+  It seeks its other, while knowing that it possesses nothing else in that other but itself; it seeks only its own infinity.
+    — The Phenomenology of Spirit ¶240 (tr. Pinkard)

@@ -30,8 +30,12 @@ F:
   German: Urtext [the original text of a score]
 
 # ---- Hegel ----
-Def: Performance, in which the musical work exists, either reproducing it faithfully or carrying it as a virtuoso.
+Def: The execution of musical works is needed because, unlike a statue or picture, the musical work is presented only by a performer's action, as in drama the whole person comes alive on the stage. Corresponding to music's two directions there are two chief ways of performing: immersion in the given work, rendering nothing beyond it, and interpretation drawn chiefly from the performer's own resources.
 Texts:
   Aesthetics
     Music › Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art
 Citations:
+  The musical work of art, on the other hand, as we saw, is presented to us only by the action of an executant artist
+    — Aesthetics, Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art (tr. Knox)
+  The one immerses itself entirely in the given work of art and does not wish to render anything beyond what the work in hand already contains: whereas the other does not merely reproduce but draws expression, interpretation, the real animation in short, principally from its own resources and not only from the composition as it exists.
+    — Aesthetics, Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art (tr. Knox)

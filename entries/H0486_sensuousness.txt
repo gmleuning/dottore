@@ -27,8 +27,14 @@ Phr:
   to the touch
 
 # ---- Hegel ----
-Def: The object as given through the senses, in its here and now.
+Def: Sensuousness is the object as it first offers itself to immediate certainty, in its seemingly infinite wealth in space and time, taken just as it is and with nothing left out. For this certainty the thing is, and only because it is; its simple immediacy constitutes its truth, and consciousness is for its part only a pure this that knows the singular. On a closer look much more is in play: what was taken to be immediate is only an example of pure being, split into a this as I and a this as object, each mediated through the other.
 Texts:
   The Phenomenology of Spirit
     ¶¶90–94
 Citations:
+  Rather, the item is, and it is only because it is. For sensuous-certainty this is what is essential, and this pure being, or this simple immediacy constitutes its truth.
+    — The Phenomenology of Spirit ¶91 (tr. Pinkard)
+  However, if we take a look at it there is a good deal more in play in this pure being which constitutes the essence of this certainty and which declares it to be its truth. An actual sensuous-certainty is not only this pure immediacy but also an example of it.
+    — The Phenomenology of Spirit ¶92 (tr. Pinkard)
+  I have certainty through an other, namely, the item, and this likewise is within certainty through an other, namely, through the I.
+    — The Phenomenology of Spirit ¶92 (tr. Pinkard)

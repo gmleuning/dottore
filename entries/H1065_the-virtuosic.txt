@@ -22,8 +22,12 @@ Phr:
   the performer as co-creator
 
 # ---- Hegel ----
-Def: The second kind of execution, in which the performer is no longer a mere reproducer but co-creator, and virtuosity shows the mastery of the living artist.
+Def: The virtuosic manner of execution belongs to works in which the composer's freedom and caprice predominate: the performer is not restricted to rendering what is given but composes in interpreting, fills gaps, deepens the superficial and ensouls the soulless, appearing independent and productive, as Italian singers do in cadenzas, so that we witness the very production of a work of art.
 Texts:
   Aesthetics
     Music › Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art
 Citations:
+  Here the bravura of the virtuoso is in its right place, while genius is not restricted to the mere execution of what is given but has a wider scope so that the executant artist himself composes in his interpretation, fills in gaps, deepens what is superficial, ensouls what is soulless and in this way appears as downright independent and productive.
+    — Aesthetics, Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art (tr. Knox)
+  If this really is genius, the resulting work of art has a quite peculiar attraction, because we have present before us not merely a work of art but the actual production of one.
+    — Aesthetics, Relation between Music's Means of Expression and their Content › The Execution of Musical Works of Art (tr. Knox)

@@ -30,8 +30,12 @@ Phr:
   the sap rises
 
 # ---- Hegel ----
-Def: The saps, the plant's internal fluidity, the vehicle of its self-formation.
+Def: The saps carry the plant's inner formation. Where the spiral vessels first absorb moisture just as it is, the second function is to elaborate the sap into organic form, which the plant, having no stomach, does immediately. The sap circulates through the entire plant, a quivering of vitality within itself that combines its many individuals into one.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  Now if the spiral vessels carry out the first function, namely, to absorb moisture just as it is, the second function is the elaboration of the sap into an organic form.
+    — Encyclopedia §346, Addition (tr. Miller)
+  This sap circulates through the entire plant. This quivering of vitality within itself belongs to the plant because it is alive—restless Time.
+    — Encyclopedia §346, Addition (tr. Miller)

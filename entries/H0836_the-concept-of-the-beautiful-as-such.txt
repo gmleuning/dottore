@@ -53,8 +53,12 @@ Phr:
   thou who hast the fatal gift of beauty [Byron]
 
 # ---- Hegel ----
-Def: The beautiful in its concept: the sensuous shining of the idea, free and infinite, which is not to be grasped by the understanding.
+Def: The beautiful as such is the idea in a determinate form: the unity of concept and reality as it appears to sense. The understanding cannot comprehend it, because it clings to the separation of ideal and real, sensuous and conceptual, objective and subjective, and so stays in the finite. The beautiful is infinite and free: in it the concept ensouls the existence that embodies it and is at home there.
 Texts:
   Aesthetics
     Concept of the Beautiful as Such
 Citations:
+  For this reason, after all, it is impossible for the Understanding to comprehend beauty, because, instead of penetrating to this unity, the Understanding clings fast to the differences exclusively in their independent separation, by regarding reality as something quite different from ideality, the sensuous as quite different from the Concept, the objective as quite different from the subjective, and thinks that such oppositions cannot be [reconciled and] unified.
+    — Aesthetics, Concept of the Beautiful as Such (tr. Knox)
+  The beautiful, on the other hand, is in itself infinite and free.
+    — Aesthetics, Concept of the Beautiful as Such (tr. Knox)

@@ -33,8 +33,12 @@ Phr:
   it stands to reason
 
 # ---- Hegel ----
-Def: The necessity which the understanding finds in its laws.
+Def: Necessity is what the intellect reaches when it takes the object as appearance with an interior that is for itself. That interior is a simple inner difference which stays equal to itself in the change of appearances, the realm of laws, and the essence of law is an inseparable, necessary inner connection of distinct determinations, as of crime with punishment. Speculative reason alone comprehends this unity, but the intellect already discovers it among phenomena and, finding in laws its own nature, becomes an object to itself.
 Texts:
   The Philosophy of Mind
     §422
 Citations:
+  This simple difference is the realm of the laws of appearance
+    — Encyclopedia §422 (tr. Wallace and Miller, rev. Inwood)
+  For the essence of law, whether this relates to external nature or the ethical world order, consists in an inseparable unity, in a necessary interior connection, of distinct determinations.
+    — Encyclopedia §422, Addition (tr. Wallace and Miller, rev. Inwood)

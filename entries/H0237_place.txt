@@ -58,8 +58,12 @@ Phr:
   in the hope to meet shortly again and make our absence sweet [B. Jonson]
 
 # ---- Hegel ----
-Def: The posited identity of space and time, the here that is a now; place is indifferent to itself and so becomes another place.
+Def: Place is the posited identity of space and time: the point, made concrete through the total negativity that is time, a here that is equally a now. As spatial singularity that is only a temporal now, it is at first the posited contradiction of both, indifferent to itself as this place, external to itself, and so another place.
 Texts:
   The Philosophy of Nature
     §260
 Citations:
+  This Here is now equally time, a Present which immediately sublates itself, a Now which has been. The Here is at the same time a Now, for it is the point of duration. This unity of Here and Now is Place.
+    — Encyclopedia §260, Addition (tr. Miller)
+  The point exists here in its truth, namely as a universal, and for this reason it is a whole space as a totality of dimensions.
+    — Encyclopedia §260, Addition (tr. Miller)

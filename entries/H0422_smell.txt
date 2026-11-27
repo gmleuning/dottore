@@ -31,8 +31,12 @@ Phr:
   to smell a rat
 
 # ---- Hegel ----
-Def: Geruch, the sense of the body's invisible volatilization into air, its process of dissolution.
+Def: Smell is the first of the senses of real difference, the sense of the abstract process. It receives a body as it undergoes the simple, indeterminate process of dissipation or evaporation, the silent and imperceptible wasting of all bodies under the action of air. Unlike taste, it does not yet need direct contact with its object.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  The first is the sense of the abstract process, the second the sense of the concrete process.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  With taste, a direct contact with the object is necessary, whereas even the sense of smell does not yet need such contact.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

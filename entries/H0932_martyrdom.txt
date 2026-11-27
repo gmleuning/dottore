@@ -24,8 +24,12 @@ Phr:
   the noble army of martyrs
 
 # ---- Hegel ----
-Def: Die Martyrien: the endurance of pain and torment for faith, the negation of the natural self carried out in the flesh, which in art can turn to the cruel and merely horrible.
+Def: Martyrdom is the endurance of cruelty and freely willed renunciation, sacrifice and privation, through which spirit is to be transfigured, grief being an end in itself and the glory measured by the horror suffered. Physical torture inflicted by persecutors or self-imposed provides its chief topic, so that beauty is easily damaged, such repugnant externals being too far from it for healthy art to choose them.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Religious Domain of Romantic Art › The Spirit of the Community › Martyrs
 Citations:
+  In martyrdom this negative—grief—is an end in itself, and the magnitude of the transfiguration is measured by the awfulness of what the man has suffered and the frightfulness to which he has submitted.
+    — Aesthetics, The Spirit of the Community › Martyrs (tr. Knox)
+  But since in such situations the conversion of the inner life can only be portrayed in dreadfulness and in the brutality of the tortures, the sense of beauty is easily damaged and the topics in this sphere constitute a very hazardous material for art.
+    — Aesthetics, The Spirit of the Community › Martyrs (tr. Knox)

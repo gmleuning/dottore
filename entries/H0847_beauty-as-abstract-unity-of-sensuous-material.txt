@@ -41,8 +41,12 @@ Phr:
   veritatis simplex oratio est [Lat.]
 
 # ---- Hegel ----
-Def: The beauty of a pure and simple material, a clear sky, a pure tone or colour, abstract sensuous unity.
+Def: Beauty as abstract unity of the sensuous material concerns not shape but the stuff perceived, whose only unity is undifferentiated concord, purity of shape, colour or tone. Smooth surfaces, a clear sky, a mirror-like lake, a pure voice and unmixed colours please by their homogeneity. Like abstract form, this purity is lifeless and affords no truly actual unity, which requires ideal subjectivity.
 Texts:
   Aesthetics
     The Beauty of Nature › The External Beauty of the Abstract Form › Beauty as Abstract Unity of the Sensuous Material
 Citations:
+  In this connection the abstract purity of the stuff, in shape, colour, note, etc., is the essential thing at this stage.
+    — Aesthetics, The External Beauty of the Abstract Form › Beauty as Abstract Unity of the Sensuous Material (tr. Knox)
+  The purity of the sky, the clarity of the air, a mirror-like lake, smooth seas, delight us from this point of view.
+    — Aesthetics, The External Beauty of the Abstract Form › Beauty as Abstract Unity of the Sensuous Material (tr. Knox)

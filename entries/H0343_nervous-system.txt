@@ -42,8 +42,12 @@ Phr:
   to get on one's nerves
 
 # ---- Hegel ----
-Def: The system of sensibility, the nerves and brain, and the bone which is the dead mode of sensibility.
+Def: The nervous system is the system of sensibility. Its moment of difference is directed outward, concentrated in the brain and branching to every part, the nerve being the condition both of sensation where the body is touched and of will; turned inward it forms the ganglia, and reduced to abstract identity sensibility becomes bone.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  The moment of difference in sensibility is the nervous system which is directed outwards and is involved in external relationships
+    — Encyclopedia §354, Addition (tr. Miller)
+  The nerve is the condition for sensation where the body is touched; it is also a condition of the will
+    — Encyclopedia §354, Addition (tr. Miller)

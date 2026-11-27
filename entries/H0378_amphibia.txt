@@ -32,8 +32,12 @@ Phr:
   neither fish nor fowl
 
 # ---- Hegel ----
-Def: Backboned animals in the transition between water and land, cold-blooded.
+Def: Amphibians and reptiles are intermediate forms belonging partly to land and partly to water, which is why Hegel finds something repulsive in them. They have a single cardiac ventricle, imperfect lung respiration and smooth or scaly skin, and frogs have gills instead of lungs before maturity: the fish climbing on land.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  Reptiles, or amphibians, are intermediate forms which belong partly to land and partly to water; and that is why there is something repulsive about them.
+    — Encyclopedia §370, Addition (tr. Miller)
+  They have only one cardiac ventricle, an imperfect pulmonary respiration, and a smooth, or else scaly, skin; frogs, before reaching maturity, do not have lungs but gills.
+    — Encyclopedia §370, Addition (tr. Miller)

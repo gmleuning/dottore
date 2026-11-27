@@ -25,8 +25,12 @@ Phr:
   beyond oneself
 
 # ---- Hegel ----
-Def: The object as external to consciousness and to itself.
+Def: Externality is the character of the sensory object in so far as it is something other than consciousness: a unit outside me. For sensory consciousness as such this is not yet the object's being external to itself, dispersed in space and time, which is the form in which intuition grasps it. The object is simply given, so that I know neither why it is, nor why it is constituted as it is, nor whether it is anything true.
 Texts:
   The Philosophy of Mind
     §418
 Citations:
+  [I]n general a unit that is, both in its existence and in its constitution, a given for me, something, therefore, of which I know neither why it is nor why it has this determinate nature, nor whether it is something true.
+    — Encyclopedia §418, Addition (tr. Wallace and Miller, rev. Inwood)
+  But the form peculiar to the sensory, being-external-to-its-own-self, dispersion into space and time, is (as we shall see in §448) the determination of the object apprehended by intuition
+    — Encyclopedia §418, Addition (tr. Wallace and Miller, rev. Inwood)

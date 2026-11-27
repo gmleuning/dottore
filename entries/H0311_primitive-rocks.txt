@@ -29,8 +29,12 @@ Phr:
   solid as a rock
 
 # ---- Hegel ----
-Def: The primitive rocks as the kernel of the earth's formation, granite with its moments.
+Def: Primitive rock is the first forming of the earth's physical organization, with granite as its innermost, mean and basis, to whose traits the other formations attach themselves in two directions. Granite, though primary, has three constituents, quartz, mica and felspar, forming a single hard mass, a simple earthy triad that develops further; its antithesis is primitive limestone.
 Texts:
   The Philosophy of Nature
     §340
 Citations:
+  In the whole, granite is the innermost, the mean, the basis, and it is to its traits in two directions that the other formations first attach themselves.
+    — Encyclopedia §340, Addition (tr. Miller)
+  It has three constituents although it is itself primary; but these three constitute a single, quite hard mass.
+    — Encyclopedia §340, Addition (tr. Miller)

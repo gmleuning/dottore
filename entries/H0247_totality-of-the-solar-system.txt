@@ -34,8 +34,12 @@ Phr:
   the heavenly host
 
 # ---- Hegel ----
-Def: The system of the heavens, the sun, planets, moons and comets, matter's realized concept, the centre and its dependants.
+Def: The totality of the solar system is matter's substance, gravity, developed into the totality of form, so that its self-externality is determined only by that totality. Matter thereby gains within itself the centre it only sought, determinateness of form, and becomes qualified matter, the sphere of physics: the solar system as a whole is what matter is now to be in detail.
 Texts:
   The Philosophy of Nature
     §271
 Citations:
+  Regarded from the opposite point of view matter, in this negation of its self-externality in the totality, has now acquired within itself what it previously only sought, namely, the centre, its self, determinateness of form.
+    — Encyclopedia §271 (tr. Miller)
+  The totality of the being-for-self [of matter] is posited only in the solar system as a whole
+    — Encyclopedia §271, Addition (tr. Miller)

@@ -75,8 +75,10 @@ Phr:
   gibier de potence [Fr.]
 
 # ---- Hegel ----
-Def: The negative infinite judgment, the deliberate negation of right as right, which annuls itself.
+Def: Crime is coercion by a free agent that infringes right as right: a negative infinite judgement, which negates not only the particular claim but the universal, the very capacity for rights. Its gravity varies with the extent of the injury to the will's existence, as in murder or slavery, compared with injuries to a single part.
 Texts:
   The Philosophy of Right
     §§95–96
 Citations:
+  The initial act of coercion as an exercise of force by the free agent, an exercise of force which infringes the existence of freedom in its concrete sense, infringes right as right, is crime—a negatively infinite judgement in its full sense
+    — The Philosophy of Right §95 (tr. Knox, rev. Houlgate)

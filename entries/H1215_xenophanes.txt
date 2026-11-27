@@ -12,8 +12,14 @@ Phr:
   if oxen and horses had hands, they would draw the gods like oxen and horses [Xenophanes]
 
 # ---- Hegel ----
-Def: Xenophanes, the beginner of the Eleatic school, who denies coming-to-be and makes the One the principle, against the gods made in man's image.
+Def: Xenophanes belongs with the Eleatics, who find no satisfaction in the sensible and mythical world and so arrive at the pure, abstract thought that being belongs only to the One. To him is ascribed the argument that nothing can come to be. In his fragments he speaks strongly against the Greek representation of the gods in human shape and with human vices.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Eleatics
 Citations:
+  [B]y so doing arrive at this pure, abstract thought that being belongs only to the One.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Eleatics (tr. Brown)
+  Xenophanes expresses himself very strongly in opposition to the Greeks' representation of the gods.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Eleatics (tr. Brown)
+  He inveighs in similar fashion, as Plato did later on in opposition to Homer and Hesiod, against their ascription to the gods of all that they find shameful in the human race—murder, theft, and adultery.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Eleatics (tr. Brown)

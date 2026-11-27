@@ -26,8 +26,12 @@ Phr:
   made real
 
 # ---- Hegel ----
-Def: The idea in existence, as nature and spirit, its reality in which it shows itself.
+Def: The idea in existence means that everything existent has truth only as an existence of the idea, which alone is genuinely actual. A thing is not true merely because it exists inwardly or outwardly, but because its reality corresponds to the concept. Truth here is not agreement between an object and my representations, but the objective realization of the concept in a self, object, action or situation; otherwise the existent is mere appearance.
 Texts:
   Aesthetics
     Concept of the Beautiful as Such › The Idea in Existence
 Citations:
+  Everything existent, therefore, has truth only in so far as it is an existence of the Idea. For the Idea is alone the genuinely actual.
+    — Aesthetics, Concept of the Beautiful as Such › The Idea in Existence (tr. Knox)
+  And truth not at all in the subjective sense that there is an accordance between some existent and my ideas, but in the objective meaning that the ego or an external object, an action, an event, a situation in its reality is itself a realization of the Concept.
+    — Aesthetics, Concept of the Beautiful as Such › The Idea in Existence (tr. Knox)

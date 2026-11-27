@@ -27,8 +27,12 @@ Phr:
   the heart laid bare
 
 # ---- Hegel ----
-Def: Lyric as the self-expression of the subject, which gives voice to the self in a particular situation.
+Def: The general character of lyric answers the need for self-expression and the mind's apprehension of itself in it, opposite to the epic need to hear an objective whole. Its content is the individual with the details of situation and concern, and the way judgement, joy, admiration and grief come to self-consciousness; it may touch all national life, though one poem only one side.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › General Character of Lyric
 Citations:
+  What leads to epic poetry is the need to listen to something which is unfolded as an independent and self-complete totality, objective over against the subject; whereas in lyric what is satisfied is the opposite need, namely that for self-expression and for the apprehension of the mind in its own self-expression.
+    — Aesthetics, Lyric Poetry › General Character of Lyric (tr. Knox)
+  The content of a lyric work of art cannot be the development of an objective action extending through all its connections into the whole wealth of a world; on the contrary, it must be the individual person and therefore with all the details of his situation and concerns, as well as the way in which his mind with its subjective judgement, its joy, admiration, grief, and, in short, its feeling comes to consciousness of itself in and through such experiences.
+    — Aesthetics, Lyric Poetry › General Character of Lyric (tr. Knox)

@@ -35,8 +35,12 @@ Phr:
   in good faith
 
 # ---- Hegel ----
-Def: Spirit's consciousness of itself as absolute being, in natural religion, art-religion and manifest religion.
+Def: Religion is the self-consciousness of spirit, spirit's consciousness of itself as absolute being. Earlier shapes held religion only from the side of a consciousness aware of the absolute essence. Here spirit knows itself as spirit, but at first in representation, so that its actual world still falls outside it, and its consummation lies in each becoming the same as the other. Religions differ by the shape in which spirit knows itself: natural, as art, and revealed.
 Texts:
   The Phenomenology of Spirit
     ¶¶672–787
 Citations:
+  However, the absolute essence in and for itself, the self-consciousness of spirit, has not appeared in those forms.
+    — The Phenomenology of Spirit ¶672 (tr. Pinkard)
+  It is according to the determinateness of this shape in which spirit knows itself that one religion differentiates itself from another
+    — The Phenomenology of Spirit ¶684 (tr. Pinkard)

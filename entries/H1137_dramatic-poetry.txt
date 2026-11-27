@@ -47,8 +47,12 @@ Phr:
   to wake the soul by tender strokes of art [Pope]
 
 # ---- Hegel ----
-Def: Drama, the unity of epic objectivity and lyric subjectivity: an action that issues from the inner will of the characters.
+Def: Dramatic poetry, the most perfect totality of content and form, is the highest stage of poetry and art, uniting epic objectivity with lyric subjectivity. It shows a complete action happening before our eyes, springing from the characters' minds while its outcome is decided by the substantial nature of aims and collisions, needs full staging, and divides into tragic and comic treatment.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry
 Citations:
+  Because drama has been developed into the most perfect totality of content and form, it must be regarded as the highest stage of poetry and of art generally.
+    — Aesthetics, Poetry › Dramatic Poetry (tr. Knox)
+  It displays a complete action as actually taking place before our eyes; the action originates in the minds of the characters who bring it about, but at the same time its outcome is decided by the really substantive nature of the aims, individuals, and collisions involved.
+    — Aesthetics, Poetry › Dramatic Poetry (tr. Knox)

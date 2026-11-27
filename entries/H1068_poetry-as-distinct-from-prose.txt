@@ -33,8 +33,12 @@ Phr:
   speaking prose without knowing it
 
 # ---- Hegel ----
-Def: Poetry in its difference from prose.
+Def: Poetry as distinct from prose is not defined by collecting features from single works but derived from the concept of poetry, which coincides in general with that of artistic beauty. The poetic imagination, unrestricted by the material that binds the visual arts and music, answers only to the essential demands of ideal, artistically adequate representation, and differs from prose in treatment and in works.
 Texts:
   Aesthetics
     Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art
 Citations:
+  For the nature of poetry coincides in general with the conception of the beauty of art and works of art as such
+    — Aesthetics, Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art (tr. Knox)
+  The poetic imagination, per contra, is subject only to the essential demands of an ideal and artistically adequate mode of representation.
+    — Aesthetics, Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art (tr. Knox)

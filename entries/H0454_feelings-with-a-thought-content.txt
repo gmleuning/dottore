@@ -12,8 +12,14 @@ N:
   practical feeling &c H0672, the ought &c H0673
 
 # ---- Hegel ----
-Def: Feelings with a spiritual content, a thought of right, duty or the divine held in the form of feeling: shame, remorse, reverence, the moral and religious feelings. They are taken up again as practical feeling (&c H0672).
+Def: Feelings of the third kind arise when the substantial content of right, morality, ethical life and religion, which derives from thinking, is taken up into the feeling will. They are distinguished by their own content and justified by it. Shame and remorse belong here, remorse being the felt discord between what one has done and one's duty or advantage. The content does not need the form of feeling, which is only that of immediate, particular subjectivity: what is rational in good feeling is the same content that thought has in its universality and truth.
 Texts:
   The Philosophy of Mind
-    §407
+    §472
 Citations:
+  Lastly, there is a third kind of feelings arising when the substantial content of right, morality, ethics, and religion, a content that derives from thinking, is also taken up into the feeling will. When this happens, we have to do with feelings that are distinguished from one another by their own peculiar content and gain their justification by this content.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)
+  To this class also belong shame and remorse; for both have, as a rule, an ethical basis.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)
+  But when we said that the feelings just discussed have their own peculiar content, this must not be understood to mean that the content of right, ethics, and religion is necessarily in feeling.
+    — Encyclopedia §472, Addition (tr. Wallace and Miller, rev. Inwood)

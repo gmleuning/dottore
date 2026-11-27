@@ -36,8 +36,12 @@ Phr:
   in the guise of
 
 # ---- Hegel ----
-Def: Allegory, an abstract meaning personified, the cold allegorical figure.
+Def: Allegory is the opposite of the riddle: it brings the qualities of a universal idea before our view through sensuous likenesses, aiming at complete clarity. It personifies abstractions such as justice, war or spring, but the subject remains an abstract idea with the empty form of subjectivity, without the individuality of a Greek god or a saint, so that it is rightly called frosty and cold.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Allegory
 Citations:
+  The first concern of allegory therefore consists in personifying, and therefore conceiving as a subject, general abstract situations or qualities belonging to both the human and the natural world, e.g. religion, love, justice, discord, glory, war, peace, spring, summer, autumn, winter, death, fame.
+    — Aesthetics, Comparisons which Start from the Meaning › Allegory (tr. Knox)
+  It is therefore rightly said of allegory that it is frosty and cold and that, owing to the intellectual abstractness of its meanings, it is even in its invention rather an affair of the intellect than of concrete intuition and the heartfelt depth of imagination.
+    — Aesthetics, Comparisons which Start from the Meaning › Allegory (tr. Knox)

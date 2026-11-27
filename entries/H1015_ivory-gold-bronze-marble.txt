@@ -8,8 +8,12 @@ F:
   French: cire perdue
 
 # ---- Hegel ----
-Def: Ivory, gold, bronze and marble, the materials of the classical ideal.
+Def: Ivory, gold, bronze and marble are the materials of first importance. Phidias used ivory and gold for his Zeus and Athene; bronze was the most widespread material of antiquity, cast by the Greeks with supreme mastery; and stone, above all marble, with its permanence, purity, soft sheen and absence of colour, harmonizes most directly with sculpture's aim.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
 Citations:
+  Other materials of the first importance are ivory associated with gold, cast bronze, and marble.
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)
+  The final material for sculpture, the one above all most appropriate to it, is stone which has in itself the objective character of consistency and permanence.
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)

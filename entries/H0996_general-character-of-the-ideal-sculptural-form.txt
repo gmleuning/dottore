@@ -27,8 +27,12 @@ Phr:
   beyond time and change
 
 # ---- Hegel ----
-Def: The ideal sculptural form in general, the human figure purified to the expression of the divine.
+Def: The general character of the ideal sculptural form is the way the classical ideal is realized in the human figure. The difference between human expression of spirit and animal life gives only a vague criterion, since the human form is not ideal from the start; a closer one comes from Greek masterpieces, whose understanding Winckelmann above all advanced by precisely characterizing the forms.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › General Character of the Ideal Sculptural Form
 Citations:
+  But this criterion still remains vague, because the human form as such is not from the start already completely of an ideal kind either as body or as an expression of the spirit.
+    — Aesthetics, The Ideal of Sculpture › General Character of the Ideal Sculptural Form (tr. Knox)
+  [I]t is Winckelmann above all who with the enthusiasm of his reproductive insight no less than with intelligence and sound judgement put an end to vague chatter about the ideal of Greek beauty
+    — Aesthetics, The Ideal of Sculpture › General Character of the Ideal Sculptural Form (tr. Knox)

@@ -46,8 +46,10 @@ Phr:
   delenda est Carthago [Lat.]
 
 # ---- Hegel ----
-Def: Force applied to the existence of a will, which as the first coercion is to be cancelled by a second.
+Def: Coercion is force applied to the existence of a free will. Because the will is in itself free and cannot be coerced, coercion destroys itself in its concept, and this appears in reality in its being cancelled by a second coercion. The second coercion, which annuls the first, is not only lawful but necessary.
 Texts:
   The Philosophy of Right
     §§90–94
 Citations:
+  That coercion is in its concept self-destructive is exhibited in reality by the fact that coercion is annulled by coercion; coercion is thus shown to be not only right under certain conditions but necessary, i.e. as a second act of coercion which is the annulment of one that has preceded.
+    — The Philosophy of Right §93 (tr. Knox, rev. Houlgate)

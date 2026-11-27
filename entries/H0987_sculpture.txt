@@ -44,8 +44,12 @@ Phr:
   the art of the body
 
 # ---- Hegel ----
-Def: The art that shapes spirit in its own bodily form, in three dimensions; the art of the classical ideal.
+Def: Sculpture is the art in which spirit itself enters as content, withdrawing from the inorganic matter that architecture could only make reflect it. Spirit here grasps itself by expressing itself in bodily form and shapes spiritual individuality in solid matter, stone, wood, metal or clay, in all three spatial dimensions, in the shape appropriate to spirit, which is its own body.
 Texts:
   Aesthetics
     Sculpture
 Citations:
+  It is along this road of spirit’s return into itself out of matter and mass that we encounter sculpture.
+    — Aesthetics, Sculpture (tr. Knox)
+  [B]ut the shape appropriate to spirit is, as we have seen, its own body through which sculpture actualizes the spirit in all the spatial dimensions.
+    — Aesthetics, Sculpture (tr. Knox)

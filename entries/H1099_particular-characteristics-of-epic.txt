@@ -27,8 +27,12 @@ Phr:
   in medias res
 
 # ---- Hegel ----
-Def: The particular characteristics of the epic.
+Def: The particular characteristics of epic proper are drawn above all from the Homeric poems, since little can be said generally apart from history. They concern the general state of the world needed as ground for an epic event, the nature of that individual event, and the form in which the two are woven into a work of art, an action ramified into its whole age and nation.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › Particular Characteristics of Epic Proper
 Citations:
+  Yet this difficulty can be removed if we pick out from the many epic bibles one in which we acquire a proof of what can be established as the true fundamental character of epic proper. This one consists of the Homeric poems.
+    — Aesthetics, Epic Poetry › Particular Characteristics of Epic Proper (tr. Knox)
+  We saw right at the beginning that what is accomplished in the genuinely epical event is not a single casual deed, and that consequently it is not a purely accidental happening which is related, but an action ramified into the whole of its age and national circumstances
+    — Aesthetics, Epic Poetry › Particular Characteristics of Epic Proper (tr. Knox)

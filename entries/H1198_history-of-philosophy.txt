@@ -32,8 +32,12 @@ Phr:
   the one philosophy in many
 
 # ---- Hegel ----
-Def: The history of philosophy as the development of the one philosophy, each system a stage of the idea.
+Def: The history of philosophy is the history of free thought, of thought engendering itself. There is only one philosophy, so the diverse philosophies are not sheer refutations of one another: where one is refuted, its principle is also preserved, and each shows itself in its relation to the one truth that all of them know.
 Texts:
   Lectures on the History of Philosophy
     Introduction
 Citations:
+  So, the first thing to be said is that there is only one philosophy, that philosophy is only one.
+    — Lectures on the History of Philosophy 1825–6, Introduction (tr. Brown)
+  Insofar, then, as the philosophies are shown to be refuted in the history of philosophy, they are also shown to be preserved.
+    — Lectures on the History of Philosophy 1825–6, Introduction (tr. Brown)

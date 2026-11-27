@@ -29,8 +29,12 @@ F:
   Italian: ingegno, talento
 
 # ---- Hegel ----
-Def: Imagination, the artist's power to grasp and shape; genius, the natural gift; inspiration, absorption in the subject.
+Def: Imagination, genius and inspiration make up the artist's creative activity. Imagination, unlike passive fancy, is creative: it grasps reality and gives its rationality concrete shape. Genius is the general ability, and energy, to produce a true work of art, including a natural element; inspiration is that activity as the artist's state, being wholly filled with the theme and not resting until it has received artistic form.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  Now this productive activity of imagination whereby the artist takes what is absolutely rational in itself and works it out, as his very own creation, by giving it an external form, is what is called genius, talent, etc.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  For the task of imagination consists solely in giving us a consciousness of that inner rationality, not in the form of general propositions and ideas, but in concrete configuration and individual reality.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

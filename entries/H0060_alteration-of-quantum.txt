@@ -47,8 +47,12 @@ Phr:
   adde parvum parvo magnus acervus erit [Lat.]
 
 # ---- Hegel ----
-Def: The quantum's continual going beyond itself, since its limit is indifferent to it.
+Def: Alteration belongs to quantum by its quality. A quantum is a determinateness posited as sublated, the contradiction of being simple self-reference and yet having its determinateness in another quantum. So it is continuous with its otherness, and not only can every determination of magnitude be passed beyond, it is posited that it must alter. Quantum repels itself from itself and sends itself beyond itself in increase and decrease, each new limit again sublating itself, and so on to infinity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Extensive and intensive quantum › Alteration of quantum
 Citations:
+  A quantum, according to its quality, is therefore in absolute continuity with its externality, with its otherness. Consequently, not only can every determinateness of magnitude be transcended, not only can it be altered: that it must alter is now posited.
+    — The Science of Logic, Extensive and intensive quantum › Alteration of quantum (tr. di Giovanni)
+  Thus quantum sends itself beyond itself; this other which it becomes is at first itself a quantum, but a quantum which is not a static limit but one that impels itself beyond itself. The limit which arises in this beyond is therefore only one that again sublates itself and sends itself to a further limit, and so on to infinity.
+    — The Science of Logic, Extensive and intensive quantum › Alteration of quantum (tr. di Giovanni)

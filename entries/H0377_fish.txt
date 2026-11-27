@@ -34,8 +34,12 @@ Phr:
   a cold fish
 
 # ---- Hegel ----
-Def: Backboned animals of the element of water, cold and gill-breathing, without voice.
+Def: Fish are the least perfect of the true classes of vertebrates. Water is their natural element, as their whole structure shows, restricting their articulation and forcing it inward; their blood is hardly warmer than their element. Breathing through gills, without trachea or larynx, they abandon their young and attain no feeling of unity with them.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  The natural element of fishes is water, as their whole structure shows; articulation is restricted by the element and accordingly is forced inwards.
+    — Encyclopedia §370, Addition (tr. Miller)
+  Fish, and [some] other animals, simply abandon their young, and have no concern for them at all, right from the start
+    — Encyclopedia §370, Addition (tr. Miller)

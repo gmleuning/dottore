@@ -26,8 +26,12 @@ Phr:
   the fossil record
 
 # ---- Hegel ----
-Def: The stratified formations, laid down in layers and bearing the remains of former life.
+Def: In the stratified formations the moments of primitive rock are separated out almost as pure earths, in layers of sandstone, clay, coal, peat, rock-salt, limestone, gypsum and marl. Organic shapes abound here, yet Hegel denies that these forms, with some exceptions, once lived and died: they are stillborn, produced by nature in dead shape.
 Texts:
   The Philosophy of Nature
     §340
 Citations:
+  These principal formations pass over into so-called fletz-formation and alluvial rock, where these moments, separated out almost as pure earths, represent the completely resolved totality
+    — Encyclopedia §340, Addition (tr. Miller)
+  These organic forms (not all, of course, but those others are not in question) are not to be thought of as having once actually lived and then died: on the contrary, they are stillborn.
+    — Encyclopedia §340, Addition (tr. Miller)

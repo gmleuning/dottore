@@ -27,8 +27,10 @@ Phr:
   tibi seris tibi metis [Lat.]
 
 # ---- Hegel ----
-Def: The work of the substantial estate, bound to the seasons and to nature, in which trust in nature counts for more than one's own reflection (§203).
+Def: Agriculture is the work of the substantial estate. Bound to fixed times of the year and dependent on the variability of natural processes, it provides for the future in a way that keeps the character of a livelihood little mediated by reflection and one's own will, and its disposition is an immediate ethical life of trust.
 Texts:
   The Philosophy of Right
     §203
 Citations:
+  In face of the connection of [agricultural] work and its fruits with separate and fixed times of the year, and the dependence of harvests on the variability of natural processes, the aim of need in this estate turns into provision for the future; but owing to the conditions here, the agricultural mode of subsistence remains one which owes comparatively little to reflection and one’s own will, and this mode of life is in general such that this estate has the substantial disposition of an ethical life which is immediate, resting on the family relationship and trust.
+    — The Philosophy of Right §203 (tr. Knox, rev. Houlgate)

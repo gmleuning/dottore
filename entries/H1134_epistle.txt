@@ -13,8 +13,10 @@ Adj:
   epistolary
 
 # ---- Hegel ----
-Def: Die Epistel: the verse letter, a lyric form in which reflection and instruction mingle with personal address.
+Def: The epistle belongs to the group of reflective lyric forms with sonnet, sestina and elegy, in which the immediacy of song is raised to reflective communication. The individual still dominates in linking universal and particular but takes a more general and wider view than in the song proper, with knowledge and culture prevailing.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  And even if what remains conspicuous and dominant in all these respects is the individual who links together and conciliates the universal and the particular, still he takes a more general and wider view than he does in the song proper.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

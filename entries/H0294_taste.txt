@@ -83,8 +83,12 @@ Phr:
   sour as a lemon
 
 # ---- Hegel ----
-Def: The body's specific individuality as a dissolving into water, its neutral relation to it, as salt in taste.
+Def: Taste belongs to the other side of the opposition, neutrality, individualized as salinity and its determinations: a property that remains related to water, in which the neutral body is soluble. Water itself is tasteless; only neutral bodies such as salts, which decompose into opposites, have a definite taste, and the process rests on a contingent encounter.
 Texts:
   The Philosophy of Nature
     §322
 Citations:
+  As abstract neutrality, water again is tasteless; taste first appears with individualized neutrality, the unity of opposites which have collapsed into passive neutrality.
+    — Encyclopedia §322, Addition (tr. Miller)
+  It is therefore only neutral bodies such as salts, which decompose into their opposites, which have a definite taste.
+    — Encyclopedia §322, Addition (tr. Miller)

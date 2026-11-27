@@ -32,8 +32,12 @@ Phr:
   release from rebirth
 
 # ---- Hegel ----
-Def: Indian thought, which seeks the liberation of the soul from the world of change.
+Def: Indian philosophy, in its various schools, theistic and atheistic, aims at the means of attaining eternal bliss: liberation of the soul from metempsychosis, from immersion in corporeality. This liberation is sought by thinking, by an inward concentration in which the soul, withdrawn from all that changes, becomes one with Brahma.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy › Indian Philosophy
 Citations:
+  Liberation from this metempsychosis is the essential goal in all of the atheistic and theistic systems.
+    — Lectures on the History of Philosophy 1825–6, Oriental Philosophy › Indian Philosophy (tr. Brown)
+  Achieving bliss by means of thinking is a principal goal of Indian philosophy.
+    — Lectures on the History of Philosophy 1825–6, Oriental Philosophy › Indian Philosophy (tr. Brown)

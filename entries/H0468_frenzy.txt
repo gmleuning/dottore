@@ -15,8 +15,12 @@ Adj:
   frenzied, frantic, frenetic, raving, delirious, lightheaded, incoherent
 
 # ---- Hegel ----
-Def: The raving of the deranged, a rage of reason against unreason and of unreason against reason, the self in open war with its own contradiction.
+Def: Frenzy is what the insane person's feeling of inner disruption can become. It may remain a quiet pain, but it can also rise to a rage of reason against unreason and of unreason against reason. The unhappy feeling is easily joined by suspicion and malice and by fury at the obstacle offered by surrounding actuality and by those who limit the sufferer's will; and so too the wilfulness of a spoilt person turns to insanity when the rational will sets up a dam that it cannot overleap or break through.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  But in the insane the feeling of their inner disruption may be a tranquil pain, but equally it can also advance to a rage of reason against unreason and of unreason against reason
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  [J]ust as, conversely, in spoilt people, individuals who are accustomed to getting their own way in everything, their rambling obstinacy easily turns to insanity when the rational will that wills the universal erects against them a dam, which their rearing subjectivity is unable to jump over or to break through.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

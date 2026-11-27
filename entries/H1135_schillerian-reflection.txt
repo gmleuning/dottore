@@ -11,8 +11,12 @@ F:
   German: Gedankenlyrik
 
 # ---- Hegel ----
-Def: Schiller's reflective lyric, in which great thoughts of life and the ideal are carried in passionate verse.
+Def: Schiller's reflective lyric, in poems such as The Ideal and Life, is neither song, ode, hymn nor elegy in the classical sense; what is remarkable is its grand fundamental thought, which does not drive the poet into dithyramb or struggle. Mastering it fully, the poet develops it with fiery feeling and breadth, a bard reciting what is dignified to the best people.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  What is remarkable about them is especially the grand fundamental thought in them.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  [O]n the contrary, he is a bard who recites a subject-matter dignified in itself to an assembly of all the best and most prominent people.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

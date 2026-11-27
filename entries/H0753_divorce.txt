@@ -42,8 +42,10 @@ Phr:
   irreconcilable differences
 
 # ---- Hegel ----
-Def: The dissolution of marriage, possible since marriage rests on feeling, but to be made difficult.
+Def: Divorce is the dissolution of a marriage. Since marriage has its actuality only in subjective feeling and disposition, no one can be compelled to marry, and no merely legal bond can hold the partners together once their dispositions have become hostile. But marriage is ethical, so divorce must be made difficult and decided by a third, ethical authority.
 Texts:
   The Philosophy of Right
     §176
 Citations:
+  Marriage is but the ethical Idea in its immediacy and so has its objective actuality only in the inwardness of subjective feeling and disposition. In this fact is rooted the initial contingency of its existence. There can be no compulsion on people to marry; and, on the other hand, there is no merely legal or positive bond
+    — The Philosophy of Right §176 (tr. Knox, rev. Houlgate)

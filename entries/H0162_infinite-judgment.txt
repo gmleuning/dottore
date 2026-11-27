@@ -33,8 +33,12 @@ Phr:
   neither here nor there
 
 # ---- Hegel ----
-Def: The positive infinite judgment, the singular is singular, and the negative, in which subject and predicate do not fit at all: crime.
+Def: The infinite judgement negates not only a particular predicate but its whole universal sphere, so that the very form of judgement is cancelled. Its negative examples, that spirit is not red, that the understanding is not a table, are correct but nonsensical; a real instance is crime, which negates not a particular right but right as such. Its positive side is the negation of negation, singularity reflected into itself: the singular is singular.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of existence › The infinite judgment
 Citations:
+  But the infinite judgment which is supposed to be its truth is, according to its negative expression, the negative infinite, a judgment in which even the form of judgment is sublated.
+    — The Science of Logic, The judgment of existence › The infinite judgment (tr. di Giovanni)
+  But crime is the infinite judgment that negates, not only the particular right, but the universal sphere, the right as right.
+    — The Science of Logic, The judgment of existence › The infinite judgment (tr. di Giovanni)

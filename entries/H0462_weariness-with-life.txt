@@ -59,8 +59,12 @@ Phr:
   crambe repetita [Lat.]
 
 # ---- Hegel ----
-Def: The most indeterminate madness: a groundless disgust with life, the inability to endure it, which the English know as melancholy.
+Def: Weariness with life may be counted the most indeterminate madness, when it is not caused by the loss of loved persons or of ethical relationships. It is a vague and groundless disgust with life that differs from indifference, in which life is endured: it is the inability to endure it, a wavering between inclination and aversion toward all that belongs to actuality, a captivation by the fixed idea that life is loathsome joined with the striving to overcome it. It may appear as melancholy and not seldom leads to the impulse to suicide.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  Weariness with life can be reckoned as the most indeterminate madness when it is not occasioned by the loss of loved and worthy persons and of ethical relationships.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  An indeterminate, groundless disgust with life is not indifference to it, for in indifference life is endured; rather it is the inability to endure it, a fluctuation to and fro between inclination and aversion towards everything pertaining to actuality, a captivation by the fixed idea of the loathsomeness of life and at the same time a striving to overcome this idea.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

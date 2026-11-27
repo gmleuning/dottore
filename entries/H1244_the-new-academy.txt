@@ -13,8 +13,12 @@ Adj:
   Academic
 
 # ---- Hegel ----
-Def: Die neuere Akademie: Arcesilaus and Carneades, who oppose the Stoic criterion and allow only the probable, a subjective conviction.
+Def: The New Academy, a continuation of the Platonic Academy opposed to dogmatism, confronted Stoicism and Epicureanism and stands very close to Skepticism; Arcesilaus begins the Middle Academy and Carneades the New. Carneades holds that criteria for the conduct of life are to be sought, but that they are only convincing representations, something subjective.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Skepticism and the New Academy › Carneades and the New Academy
 Citations:
+  Carneades was a successor to Arcesilaus in the Academy
+    — Lectures on the History of Philosophy 1825–6, Skepticism and the New Academy › Carneades and the New Academy (tr. Brown)
+  But these criteria are only convincing representations; in other words, they must be acknowledged to be something subjective.
+    — Lectures on the History of Philosophy 1825–6, Skepticism and the New Academy › Carneades and the New Academy (tr. Brown)

@@ -34,8 +34,12 @@ Phr:
   a whole and its parts
 
 # ---- Hegel ----
-Def: The poetic work, an organic whole, against the prosaic works of history and oratory.
+Def: The poetic work of art, unlike prose works of history and oratory, must be formed into an organic whole. Its dominant subject, an action or a feeling, must have unity, with everything related to it concretely and freely; the universal and the individuals in whom it appears must stay vitally interwoven, as the Iliad is sustained by the wrath of Achilles.
 Texts:
   Aesthetics
     Poetry › The Poetic Work of Art as Distinguished from a Prose Work of Art › The Poetic and the Prose Work of Art
 Citations:
+  In connection with the poetic work of art in general, we need only repeat the demand that, like any other product of free imagination, it must be formed and rounded into an organic whole.
+    — Aesthetics, The Poetic Work of Art as Distinguished from a Prose Work of Art › The Poetic and the Prose Work of Art (tr. Knox)
+  The universal, which is to be represented, and the individuals, in whose character, histories, and actions, it appears poetically, may therefore not fall apart from one another or be so related that the individuals become servants of purely abstract universals
+    — Aesthetics, The Poetic Work of Art as Distinguished from a Prose Work of Art › The Poetic and the Prose Work of Art (tr. Knox)

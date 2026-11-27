@@ -45,8 +45,14 @@ Phr:
   to break into a sweat
 
 # ---- Hegel ----
-Def: The inner sensations given bodily form, as anger in the breast, shame in a blush, grief in tears.
+Def: Embodiment is the way the determinations that originate within the soul and mind become sensed: to be as if found, they must be posited as distinct from the subject and as identical with it, and this happens only by their externalizing themselves in the body. Just as outer sensations make themselves into symbols for the inner, inner sensations necessarily embody themselves, each in a particular organ or system, as anger and courage are felt in the breast and the blood. The body can serve for this because it offers the soul no resistance.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  The other is the sphere of determinacies originating in the mind and belonging to it, which, in order to be sensed, in order to be as if found, become embodied.
+    — Encyclopedia §401 (tr. Wallace and Miller, rev. Inwood)
+  We should have to comprehend the connection by which anger and courage are felt in the breast, in the blood, in the irritable system, just as contemplation and mental preoccupation are sensed or felt in the head, the centre of the sensitive system.
+    — Encyclopedia §401, Remark (tr. Wallace and Miller, rev. Inwood)
+  Only by the embodiment of inner determinations does the subject get to the stage of sensing them
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

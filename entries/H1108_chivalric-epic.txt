@@ -22,8 +22,12 @@ Phr:
   the matter of Britain
 
 # ---- Hegel ----
-Def: The chivalric epic, whose matter is the knight's honour, love and loyalty, and its adventures, down to Ariosto's comic play with them.
+Def: Chivalric epic concerns love, honour and, with religious aims, mystic knighthood: individual actions touching no national interest, by heroes free yet lacking the realism of the Greek ones, tending to ballad or romance-like adventure around great sagas, of Charlemagne, Arthur and Amadis. Later Ariosto brought chivalry into comic light, letting its fantasy merrily destroy itself.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Romantic Epic
 Citations:
+  The actions achieved here, and the events, do not affect any national interests; on the contrary, they are the actions of individuals with the individual himself as such as their substance
+    — Aesthetics, The Historical Development of Epic Poetry › The Romantic Epic (tr. Knox)
+  Here therefore I will only draw attention to the brilliant adroitness, the attraction and wit, the charm and racy naivete with which Ariosto (whose poem still moves within the poetic aims of the Middle Ages) in a purely hidden way makes the fantastic merrily destroy itself within by incredible buffooneries.
+    — Aesthetics, The Historical Development of Epic Poetry › The Romantic Epic (tr. Knox)

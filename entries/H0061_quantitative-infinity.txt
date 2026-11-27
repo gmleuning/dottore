@@ -34,8 +34,12 @@ Phr:
   on and on
 
 # ---- Hegel ----
-Def: The quantum's self-contradiction: being a definite amount, it is always to be surpassed; the infinite progress.
+Def: Quantitative infinity is the sphere in which quantum, determined in itself and yet outside itself, shows that finitude and infinity each contain the moment of the other. The finitude of quantum is its being limited and its sending itself beyond itself; its infinity is its unlimitedness and its being turned back into itself. Unlike the qualitative infinite, which stands abstractly opposed to the finite, here the finite continues into its beyond and refers to itself in it, first in the infinite progress.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Quantitative infinity
 Citations:
+  In quantum, finitude and infinity (the latter supposedly separate from finitude, as bad infinity) each already possesses within it the moment of the other.
+    — The Science of Logic, Quantum › Quantitative infinity (tr. di Giovanni)
+  The qualitative and quantitative infinite are distinguished inasmuch as in the former the opposition of the finite and infinite is qualitative, and the transition of the finite into the infinite, or the reference of each to the other, is present only in the in-itself, in their concept.
+    — The Science of Logic, Quantum › Quantitative infinity (tr. di Giovanni)

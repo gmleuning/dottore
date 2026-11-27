@@ -32,8 +32,14 @@ Phr:
   seeing is believing
 
 # ---- Hegel ----
-Def: The immediate certainty of a this, here and now, the richest knowledge in appearance and in truth the poorest.
+Def: Sensuous certainty is the immediate knowing of what immediately is, in which consciousness receives the object without altering it or conceptualizing it. It appears as the richest and truest knowledge, but in fact yields the most abstract and poorest truth: it says of its object only that it is, as a pure this, to a pure I. Experience shows that neither the object nor the I is immediate. What is true of the this, the now and the here is the universal, and language, which says only the universal, cannot say what is merely meant.
 Texts:
   The Phenomenology of Spirit
     ¶¶90–110
 Citations:
+  The concrete content of sensuous-certainty permits itself to appear immediately as the richest cognition, indeed, as a knowing of an infinite wealth for which no limit is to be found, whether we venture out into the reaches of space and time as the place where that wealth extends itself, or when we take a piece out of this plenitude, divide it, and thereby delve into it. In addition, it appears as the most veritable, for it has not omitted anything from its object, but rather, has its object in its complete entirety before itself. However, this certainty in fact yields the most abstract and the very poorest truth.
+    — The Phenomenology of Spirit ¶91 (tr. Pinkard)
+  The universal is thus in fact the truth of sensuous-certainty.
+    — The Phenomenology of Spirit ¶96 (tr. Pinkard)
+  However, as we see, language is the more truthful. In language, we immediately refute what we mean to say
+    — The Phenomenology of Spirit ¶97 (tr. Pinkard)

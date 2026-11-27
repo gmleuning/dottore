@@ -37,8 +37,12 @@ Phr:
   in form and in fact
 
 # ---- Hegel ----
-Def: Essence as the substrate of form, and form as the movement of essence's own determinations.
+Def: Form and essence is the first distinction within ground. The determinations that return into ground have their subsistence in it as sublated reflection, and because this subsistence is posited and determinate, they are distinguished from the simple identity of essence and make up form over against it. Essence has a form and determinations of this form. The distinction is not one between two separate things, since form is the reflection by which essence is mediated with itself.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Absolute ground › Form and essence
 Citations:
+  Since this subsistence of the determinations is itself posited or has determinateness, the determinations are consequently distinguished from their simple identity, and they constitute the form as against essence.
+    — The Science of Logic, Absolute ground › Form and essence (tr. di Giovanni)
+  Essence has a form and determinations of this form.
+    — The Science of Logic, Absolute ground › Form and essence (tr. di Giovanni)

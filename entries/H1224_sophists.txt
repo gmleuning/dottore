@@ -32,8 +32,14 @@ Phr:
   making the worse appear the better cause
 
 # ---- Hegel ----
-Def: The Sophists, who made thought a power of argument, dissolving everything fixed.
+Def: The Sophists were the teachers of Greece, through whom general culture came into existence. Calling themselves teachers of wisdom, they traveled from city to city, and their art was to make someone a powerful speaker, turning things around and viewing them from many sides. The bad sense of the name, as refuting or proving anything on false grounds, must be set aside.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Sophists
 Citations:
+  The Sophists are the teachers of Greece, for through them what we call 'general culture' came into existence in Greece.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Sophists (tr. Brown)
+  He says that the art of the Sophist is that of making someone a powerful speaker
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Sophists (tr. Brown)
+  We have to set this bad sense of the term aside and put it out of our minds; we must treat the position of the Sophists in Greece more precisely than that.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Sophists (tr. Brown)

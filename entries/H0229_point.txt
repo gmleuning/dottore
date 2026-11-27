@@ -36,8 +36,12 @@ Phr:
   to a point
 
 # ---- Hegel ----
-Def: Space's first negation, the point, which is spatial yet not extended; its own negation of space within space.
+Def: The point is the first negation of space, since space is immediate self-externality without difference. Yet this negation is spatial negation, so that the point, essentially a relation that sublates itself, passes into the line. It is the being-for-self that negates space within space; line does not consist of points, being rather the point existing outside itself.
 Texts:
   The Philosophy of Nature
     §256
 Citations:
+  As such, it is (a), first, the negation of space itself, because this is immediate differenceless self-externality, the point.
+    — Encyclopedia §256 (tr. Miller)
+  [T]he line is rather the point existing outside of itself, i.e. relating itself to space and sublating itself
+    — Encyclopedia §256, Remark (tr. Miller)

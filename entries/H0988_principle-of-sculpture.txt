@@ -33,8 +33,12 @@ Phr:
   the god in stone
 
 # ---- Hegel ----
-Def: The principle of sculpture: spirit wholly present in a bodily shape, at rest in itself.
+Def: The principle of sculpture proper is the miracle of spirit giving itself an image of itself in something purely material, so forming the external thing that it is present in it and recognizes there the fit shape of its inner life. It asks what kind of spiritual life can appear in visible spatial form, how forms must be shaped to show it beautifully, and why this unity is the classical ideal.
 Texts:
   Aesthetics
     Sculpture › The Principle of Sculpture Proper
 Citations:
+  Sculpture in general comprises the miracle of spirit’s giving itself an image of itself in something purely material. Spirit so forms this external thing that it is present to itself in it and recognizes in it the appropriate shape of its own inner life.
+    — Aesthetics, Sculpture › The Principle of Sculpture Proper (tr. Knox)
+  Thirdly, this unification corresponds with what we have already come to know as the ideal of the classical art-form, so that the plasticity of sculpture turns out to be the real and proper art of the classical ideal.
+    — Aesthetics, Sculpture › The Principle of Sculpture Proper (tr. Knox)

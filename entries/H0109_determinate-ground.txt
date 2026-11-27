@@ -27,8 +27,12 @@ Phr:
   with good reason
 
 # ---- Hegel ----
-Def: Ground with a determinate content, which relates to the grounded.
+Def: Determinate ground is ground that has a content. A content, indifferent to the form of the connection, serves as the substrate in which ground and grounded are one, and the determinateness of that content gives the ground its definiteness. It is first formal ground, where the same content stands on both sides; then real ground, where the two sides differ in content; and finally complete ground, which holds both in one and passes into condition.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Determinate ground
 Citations:
+  The ground has a determinate content. For the form, as we have seen, the determinateness of content is the substrate, the simple immediate as against the mediation of form.
+    — The Science of Logic, Ground › Determinate ground (tr. di Giovanni)
+  The negative implicit in that indifferent substrate is this substrate’s immediate determinateness through which the ground has a determinate content.
+    — The Science of Logic, Ground › Determinate ground (tr. di Giovanni)

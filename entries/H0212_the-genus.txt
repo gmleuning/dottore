@@ -42,8 +42,12 @@ Phr:
   the circle of life
 
 # ---- Hegel ----
-Def: Life related to another life of its own kind, which reproduces itself, and in whose death the universal comes forth as spirit.
+Def: In the genus the living individual, having made itself the negative unity of its otherness, attains identity with its hitherto indifferent other and doubles itself, relating to itself as to another living being. It is the third stage and truth of life still shut within itself. Because the identity is at first only inner, in two independent individuals, it is a contradiction, and the individual has the drive to posit it and realize itself as universal.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Life › The genus
 Citations:
+  But the further determination that it has attained by the sublation of the opposition is that it is genus, identity of itself with its hitherto indifferent otherness.
+    — The Science of Logic, Life › The genus (tr. di Giovanni)
+  This universal is the third stage, the truth of life in so far as life is still shut up within itself.
+    — The Science of Logic, Life › The genus (tr. di Giovanni)

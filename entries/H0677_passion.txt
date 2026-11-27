@@ -71,8 +71,12 @@ Phr:
   What, drunk with choler? [Henry IV]
 
 # ---- Hegel ----
-Def: A drive into which the whole subject has put its energy, so that nothing great has been accomplished without passion.
+Def: Passion is the will in which the totality of practical mind places itself into a single restricted determination, the whole subjectivity of the individual immersed in it, with all vital interest of mind, talent, character and enjoyment in one content. Being a form, it is neither good nor evil. Nothing great has been accomplished without it, and only a lifeless or hypocritical morality attacks the form itself.
 Texts:
   The Philosophy of Mind
     §§473–475
 Citations:
+  Passion involves in its determination that it is restricted to a particularity of the determination of the will, in which the whole subjectivity of the individual immerses itself
+    — Encyclopedia §474, Remark (tr. Wallace and Miller, rev. Inwood)
+  Nothing great has been and nothing great can be accomplished without passion. It is only a dead, too often, indeed, a hypocritical morality which inveighs against the very form of passion.
+    — Encyclopedia §474, Remark (tr. Wallace and Miller, rev. Inwood)

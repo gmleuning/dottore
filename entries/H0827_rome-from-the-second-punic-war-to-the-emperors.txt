@@ -32,8 +32,12 @@ Phr:
   to cross the Rubicon
 
 # ---- Hegel ----
-Def: Rome from the second Punic war to the emperors, the age of conquest and civil war.
+Def: The period opened by the second Punic war, which fixed the character of Roman dominion: Carthage is laid low and conquest extends to Macedonia, Syria and Greece. With no outward power left to confront Rome, patriotism gives way to corruption, wars of plunder are joined by civil strife, and at last the sovereignty of the world passes to a single possessor.
 Texts:
   The Philosophy of History
     The Roman World › Rome from the Second Punic War to the Emperors
 Citations:
+  Rome seemed now to have attained perfect security; no external power confronted it: she was the mistress of the Mediterranean—that is of the media terra of all civilization.
+    — The Philosophy of History, The Roman World › Rome from the Second Punic War to the Emperors (tr. Sibree)
+  Rather, we observe now side by side with wars for conquest, plunder and glory, the fearful spectacle of civil discords in Rome, and intestine wars.
+    — The Philosophy of History, The Roman World › Rome from the Second Punic War to the Emperors (tr. Sibree)

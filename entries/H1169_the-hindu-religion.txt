@@ -30,8 +30,14 @@ Phr:
   the dance of Shiva
 
 # ---- Hegel ----
-Def: The Hindu religion of fantasy, Brahman as the one substance and the countless gods as its scattered shapes.
+Def: In the Hindu religion the one substance is represented in and through the whole external world, in which everything particular is merely accidental. The substance particularizes itself into many powers, spiritual and natural, which appear independent and then vanish back into the One. This formless unity is Brahman; distinguished within itself it is three in one, and the deities also appear in many incarnations.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Hindu Religion
 Citations:
+  The result is that those distinctions are also known as belonging to the absolute, those powers appearing in one aspect as particular and independent, but at the same time vanishing, being consumed, and standing under that initial unity, under the universal being-within-self of the initial substantiality.
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Hindu Religion (tr. Brown, Hodgson and Stewart)
+  This formless unity is Brahman; according to its determinacy it is three in unity.
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Hindu Religion (tr. Brown, Hodgson and Stewart)
+  The Hindus enumerate many different instances of this incarnation. The general point is that here Brahma appears as a human being.
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Hindu Religion (tr. Brown, Hodgson and Stewart)

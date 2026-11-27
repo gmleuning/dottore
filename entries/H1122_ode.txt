@@ -12,8 +12,12 @@ Adj:
   odic
 
 # ---- Hegel ----
-Def: The ode, in which the poet's inwardness takes up a lofty object and both struggle for mastery.
+Def: Odes are lyric in which the poet's own subjective personality is most important. The poet may choose a weighty topic, gods, heroes, love or friendship, and seem wholly mastered by it, yet masters it in turn, interrupting its course with personal reflections, or may confer dignity on trifles; the captivating topic and free subject stand in tension.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  There is a second aspect of lyric, namely those kinds of lyric poetry that may be called by the general name of ‘Odes’ in the newer sense of that word. Here, in contrast to the preceding stage, it is at once the independently emphasized subjective personality of the poet which is the most important thing of all
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  The result is that mastery belongs not to the topic but to his subjective enthusiasm, engrossed by the topic.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

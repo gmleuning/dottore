@@ -27,8 +27,12 @@ Phr:
   a play of light
 
 # ---- Hegel ----
-Def: Colour produced within a transparent body by its own inner structure and tension.
+Def: Entoptic colours arise within a transparent body whose darkening principle is brittleness: brittle glass, though perfectly transparent, is their condition. Brittleness is here an immaterial punctiform determinateness, active only as a force, which becomes outwardly existent as opacity when a transparent crystal is reduced to powder, and so is the inner beginning of darkening.
 Texts:
   The Philosophy of Nature
     §320
 Citations:
+  (It is a familiar fact that brittle glass, though perfectly transparent, is the condition for the entoptic colours.)
+    — Encyclopedia §320 (tr. Miller)
+  The interesting fact about the entoptic colours is that the darkening principle which here is brittleness, is an immaterial punctiform determinateness (i.e. active only as a force), which exists outwardly and produces opacity when a transparent crystal is reduced to powder
+    — Encyclopedia §320, Remark (tr. Miller)

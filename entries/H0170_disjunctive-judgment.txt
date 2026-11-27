@@ -35,8 +35,12 @@ Phr:
   one or the other
 
 # ---- Hegel ----
-Def: The genus as the totality of its species, each excluding the others: A is either B or C.
+Def: The disjunctive judgement says that A is either B or C. Its subject is the genus in simple form and its predicate the same universality as the totality of its differentiated species, so that both sides have one content and extent. The species together constitute the genus, "as well as" expressing the identity of the particular with the universal, and they exclude one another by "either-or". In it the necessity of the concept is posited.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of necessity › The disjunctive judgment
 Citations:
+  It thus contains, first, the concrete universality or the genus in simple form, as the subject; second, the same universality but as the totality of its differentiated determinations.
+    — The Science of Logic, The judgment of necessity › The disjunctive judgment (tr. di Giovanni)
+  This is the necessity of the concept in which, first, the self-identity of the two extremes is of the same extent, content, and universality.
+    — The Science of Logic, The judgment of necessity › The disjunctive judgment (tr. di Giovanni)

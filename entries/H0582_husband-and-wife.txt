@@ -26,8 +26,12 @@ Phr:
   till death us do part
 
 # ---- Hegel ----
-Def: Mann und Frau: the immediate self-recognition of one consciousness in another, mixed with natural feeling, which has its actuality not in itself but in the child.
+Def: Husband and wife stand in the relation within the family in which one consciousness first knows itself immediately in another and knows the recognition to be mutual. Since this self-knowledge is natural and not yet ethical, it is only a representation and image of spirit. It has its actuality not in itself but in the child, an other whose coming to be is the relation and in which it vanishes, so that their piety toward each other remains mixed with a natural tie and with feeling.
 Texts:
   The Phenomenology of Spirit
-    ¶456
+    ¶455
 Citations:
+  However, among the three relationships of man and wife, parents and children, and siblings as brothers and sisters, it is the relationship of man and wife which is initially the immediate self-cognizance of one consciousness in another and the cognizance of reciprocal recognition. Because it is natural self-cognizance and not ethical self-cognizance, it is only the representation and picture of spirit, not actual spirit itself.
+    — The Phenomenology of Spirit ¶455 (tr. Pinkard)
+  However, the representation, or the picture, has its actuality in an other than itself; this relationship therefore does not have its actuality in its own self but in the child – in an other whose coming into being is that relationship and in which the relationship disappears.
+    — The Phenomenology of Spirit ¶455 (tr. Pinkard)

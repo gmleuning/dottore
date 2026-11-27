@@ -40,8 +40,10 @@ Phr:
   the whole story
 
 # ---- Hegel ----
-Def: Ground in its completeness, a real ground grounded in turn, which leads to the condition.
+Def: Complete ground contains formal and real ground together. In real ground the connection of the two contents is external and only posited, and so it has in turn another ground. This new ground has the same content as the one it grounds, and is also the immanent reflection of the link, relating the two determinations of content to each other. With it the identity of ground and grounded returns, and the contents that confronted each other immediately are mediated, each ground-connection resting on another.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Determinate ground › Complete ground
 Citations:
+  The newly arisen ground-connection is therefore the one which is complete, which contains the formal and real ground in itself at the same time and mediates the content determinations which in the real ground confronted each other immediately.
+    — The Science of Logic, Determinate ground › Complete ground (tr. di Giovanni)

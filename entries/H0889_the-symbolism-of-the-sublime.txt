@@ -40,8 +40,12 @@ Phr:
   the heavens declare the glory of God
 
 # ---- Hegel ----
-Def: The symbolism of the sublime, in which the meaning is the one substance that exceeds every shape.
+Def: The symbolism of the sublime lifts the absolute above every immediate existent and so first purifies meaning from the sensuous present, a liberation that is abstract yet founds the life of spirit. The meaning is the one substance, grasped only by pure thought, which cannot find adequate shape in anything external. Hegel takes up Kant, for whom the sublime lies in the mind and not in any sensuous form.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Symbolism of the Sublime
 Citations:
+  Sublimity lifts the Absolute above every immediate existent and therefore brings about the liberation which, though abstract at first, is at least the foundation of the spirit.
+    — Aesthetics, The Symbolic Form of Art › Symbolism of the Sublime (tr. Knox)
+  The sublime in general is the attempt to express the infinite, without finding in the sphere of phenomena an object which proves adequate for this representation.
+    — Aesthetics, The Symbolic Form of Art › Symbolism of the Sublime (tr. Knox)

@@ -56,8 +56,12 @@ Phr:
   there's nothing ill can dwell in such a temple [Tempest]
 
 # ---- Hegel ----
-Def: The cultus, the practice by which the subject reunites itself with God and enjoys the reconciliation.
+Def: The cultus is the practical relationship of religion. In knowing, I am immersed in God; in worship I stand over against God and must bring about my own union with God, knowing myself within God and God within me. It presupposes that the reconciliation of God and humanity is already accomplished. Its first form is devotion, and its most genuine form is ethical life.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827) › The Cultus
 Citations:
+  In the cultus, on the contrary, God is on one side, I am on the other, and the determination is the including, within my own self, of myself with God, the knowing of myself within God and of God within me.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) › The Cultus (tr. Brown, Hodgson and Stewart)
+  The first form of the cultus is what is called devotion in general. Devotion is not the mere faith that God is, but is present when the faith becomes vivid, when the subject prays and is occupied with this content not merely in objective fashion but becomes immersed therein
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) › The Cultus (tr. Brown, Hodgson and Stewart)

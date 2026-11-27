@@ -32,8 +32,12 @@ Phr:
   to paint a picture
 
 # ---- Hegel ----
-Def: Descriptive poetry, which describes external things without a meaning.
+Def: Descriptive poetry is the opposite of didactic: it starts from external things, natural surroundings, buildings, seasons and times of day, and sketches them in their ordinary appearance without penetrating them with spiritual meaning. Such sensuous content belongs only to the external side of art, which has a right to appear only as the reality of spirit, individuality and action, not as externality cut off from spirit.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art › Descriptive Poetry
 Citations:
+  [H]ere conversely the external material confronts us on its own account in its individuality and external appearance, not penetrated by spiritual meanings
+    — Aesthetics, Disappearance of the Symbolic Form of Art › Descriptive Poetry (tr. Knox)
+  Such a sensuous content belongs entirely to only one side of true art, namely to the external existence which in art has the right of appearing solely as the reality of spirit, of individuality and its actions and events on the stage of a surrounding world, but not of appearing on its own account as mere externality cut adrift from spirit.
+    — Aesthetics, Disappearance of the Symbolic Form of Art › Descriptive Poetry (tr. Knox)

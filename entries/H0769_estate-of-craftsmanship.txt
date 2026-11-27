@@ -23,8 +23,10 @@ Phr:
   Arbeit für einzelne Bedürfnisse in konkreterer Weise und auf Verlangen Einzelner [Ger.] [Hegel, Philosophy of Right §204]
 
 # ---- Hegel ----
-Def: The craft estate, whose work meets single needs in a concrete way and at the request of individuals (§204).
+Def: The estate of craftsmanship is the first branch of the business estate, whose work satisfies individual needs in a comparatively concrete way and supplies individual orders. Like the whole estate, it lives by its own work and skill, and stands closest to the single customer and their particular want.
 Texts:
   The Philosophy of Right
     §204
 Citations:
+  [W]ork to satisfy individual needs in a comparatively concrete way and to supply individual orders—craftsmanship
+    — The Philosophy of Right §204 (tr. Knox, rev. Houlgate)

@@ -36,8 +36,12 @@ Phr:
   song and recitative
 
 # ---- Hegel ----
-Def: Music accompanying words, which expresses the feeling of the text without becoming its servant.
+Def: Music as accompaniment is bound more strictly to a specific subject than independent music, since the words give definite ideas from the start. Yet it must not sink into servitude and become an intellectual trick of indicating a ready-made content, nor cast off the text; it must be filled with the sense of words and situation and from that inner animation develop a soulful musical expression.
 Texts:
   Aesthetics
     Music › Relation between Music's Means of Expression and their Content › Music as an Accompaniment
 Citations:
+  But in this interweaving of music and words music must not sink to such servitude that, in order to reproduce the words of the libretto in their really entire character, it forgets the free flow of its own movements and thereby, instead of creating a self-complete work of art
+    — Aesthetics, Relation between Music's Means of Expression and their Content › Music as an Accompaniment (tr. Knox)
+  This art consists, on the contrary, in being filled with the sense of the spoken words, the situation, the action, etc., and then, out of this inner animation, finding and musically developing a soul-laden expression.
+    — Aesthetics, Relation between Music's Means of Expression and their Content › Music as an Accompaniment (tr. Knox)

@@ -40,8 +40,12 @@ Phr:
   the eyes are opened
 
 # ---- Hegel ----
-Def: Religion in which the absolute is revealed as a self, God become man, known as spirit.
+Def: Manifest or revealed religion is the religion in which spirit has passed from the form of substance into that of subject. Its content is that the divine essence essentially and immediately has the shape of self-consciousness, and is known as spirit. Nothing in it remains secret, for what is an object to consciousness is its own self: the divine nature is the same as the human, and this unity is intuited. It is represented as essence, as creation and its other, and as the community.
 Texts:
   The Phenomenology of Spirit
     ¶¶748–787
 Citations:
+  In this religion, the divine essence is for that reason revealed. Its being revealed obviously consists in this, that what it is, is known.
+    — The Phenomenology of Spirit ¶759 (tr. Pinkard)
+  The divine nature is the same as the human nature, and it is this unity which is intuited.
+    — The Phenomenology of Spirit ¶759 (tr. Pinkard)

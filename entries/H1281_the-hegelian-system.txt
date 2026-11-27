@@ -27,8 +27,12 @@ Phr:
   the rational is actual
 
 # ---- Hegel ----
-Def: The system that grasps the absolute as spirit, in which the history of philosophy is completed.
+Def: Hegel's system is the science of the Idea or the Absolute. Since what is concretely true is so only in unfolding itself and holding itself together in unity, that science must be a system. A system in this sense is not a philosophy resting on a restricted principle that shuts out others: it contains all particular principles within itself. Each part of philosophy is a circle closing upon itself, and the whole is a circle of circles.
 Texts:
   The Encyclopaedia Logic
     §§14–18
 Citations:
+  Free and genuine thought is inwardly concrete; hence it is Idea, and in all its universality it is the Idea or the Absolute. The science of it is essentially a system, since what is concretely true is so only in its inward self-unfolding and in taking and holding itself together in unity, i.e., as totality.
+    — Encyclopedia §14 (tr. Geraets, Suchting and Harris)
+  It is erroneous to understand by "system" a philosophy whose principle is restricted and [kept] distinct from other principles; on the contrary, it is the principle of genuine philosophy to contain all particular principles within itself.
+    — Encyclopedia §14 (tr. Geraets, Suchting and Harris)

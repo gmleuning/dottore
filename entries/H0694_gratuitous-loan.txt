@@ -32,8 +32,10 @@ Phr:
   to lend a hand
 
 # ---- Hegel ----
-Def: The giving of a thing for use, without charge.
+Def: The gratuitous loan is the gift of part of a thing, namely a restricted use and enjoyment of it, without interest. The lender remains the owner; the thing lent may be a specific thing, or something counted as universal, such as money. Where interest is charged, the loan passes over into the contract of letting.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (2) Loan [Leihen] of a thing—i.e. the gift of a portion of it or of restricted use and enjoyment of it; here the lender remains the owner of the thing (mutuum and commodatum without payment of interest).
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

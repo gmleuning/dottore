@@ -46,8 +46,12 @@ Phr:
   cabello luengo y corto el seso [Sp.]
 
 # ---- Hegel ----
-Def: Individuality as the immanent form of matter, which gives itself its spatial determination, as magnetism and crystal.
+Def: Shape is the individual body as a quiescent totality, a material mechanism whose external limits and inner connection are determined by its immanent, freely determining form. Form now manifests itself through its own activity rather than as resistance to outside force: without any stimulus the body contains a silent geometrician that organizes it outwardly and inwardly.
 Texts:
   The Philosophy of Nature
     §§310–315
 Citations:
+  In this way, form manifests itself through its own activity, and does not show itself merely as a characteristic mode of resistance to outside force.
+    — Encyclopedia §310 (tr. Miller)
+  Whereas inwardness previously revealed itself only through an outer stimulus and as a reaction against it, here, on the other hand, form manifests itself neither through an outer force nor as destruction of materiality; but without stimulus, body contains in itself a secret, silent, geometrician which, as an all-pervading form, organizes it both outwardly and inwardly.
+    — Encyclopedia §310, Addition (tr. Miller)

@@ -19,8 +19,12 @@ Adv:
   classically
 
 # ---- Hegel ----
-Def: Greek and Roman sculpture, the realized ideal and its decline.
+Def: Greek and Roman sculpture shows sense of self fully alive, removing the Egyptian defects, though without violent leap: Aeginetan and Etruscan works are preliminaries, the ideal arrives when artistic freedom replaces the typical and traditional, and in Roman art classical sculpture begins to dissolve as spiritual animation yields to portraiture.
 Texts:
   Aesthetics
     Sculpture › Historical Stages in the Development of Sculpture › Greek and Roman Sculpture
 Citations:
+  This sense of self we see completely made alive for the first time, so far as sculpture is concerned, in the Greeks, and therefore we find all the deficiencies of this Egyptian preamble expunged.
+    — Aesthetics, Historical Stages in the Development of Sculpture › Greek and Roman Sculpture (tr. Knox)
+  Thirdly, in Roman art we see the dissolution of classical sculpture beginning.
+    — Aesthetics, Historical Stages in the Development of Sculpture › Greek and Roman Sculpture (tr. Knox)

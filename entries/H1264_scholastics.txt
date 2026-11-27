@@ -29,8 +29,12 @@ Phr:
   how many angels can dance on the head of a pin
 
 # ---- Hegel ----
-Def: The scholastics, who brought logic to the faith.
+Def: The Scholastics are the European philosophy of the European Middle Ages. The content of their religion summons thinking, a summons they answered as the church fathers had before. Scholastic philosophy is essentially theology, and this theology is immediately philosophy; but because it starts from a presupposed content, its thinking is essentially inferential and not free.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › The Scholastics
 Citations:
+  In this way Scholastic philosophy is essentially theology and this theology is immediately philosophy.
+    — Lectures on the History of Philosophy 1825–6, Medieval Philosophy › The Scholastics (tr. Brown)
+  The consequence is that with this presupposition thinking will be essentially inferential.
+    — Lectures on the History of Philosophy 1825–6, Medieval Philosophy › The Scholastics (tr. Brown)

@@ -52,8 +52,12 @@ Phr:
   just the facts, ma'am, just the facts [Dragnet]
 
 # ---- Hegel ----
-Def: The drive of cognition to make the given world its own by finding itself in it.
+Def: The idea of the true is the theoretical idea, in which the subjective idea is first the impulse to sublate its subjectivity by filling itself with the content of a presupposed world, and to find its identity with itself in the object. The concept is certain of itself, while the world counts as inessential. Truth here means truth for the subjective concept, in knowledge; this cognition attains only a neutral synthesis of what stays separate.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The idea of cognition › The idea of the true
 Citations:
+  At first the subjective idea is impulse.
+    — The Science of Logic, The idea of cognition › The idea of the true (tr. di Giovanni)
+  Consequently this impulse is the impulse of truth in so far as the truth is in cognition, and therefore of truth in its strict sense as theoretical idea.
+    — The Science of Logic, The idea of cognition › The idea of the true (tr. di Giovanni)

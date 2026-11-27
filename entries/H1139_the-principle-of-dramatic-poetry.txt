@@ -28,8 +28,12 @@ Phr:
   the collision of characters
 
 # ---- Hegel ----
-Def: The principle of drama: the action arising from the will of individuals and colliding with other ends.
+Def: The principle of dramatic poetry is the presentation of actual human actions by persons expressing them in words. Dramatic action is no undisturbed carrying out of an aim but rests entirely on collisions of circumstances, passions and characters, leading to actions and reactions that require resolution, and ends in a peaceful resolution that arises from the whole play of will.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Drama as a Poetical Work of Art › The Principle of Dramatic Poetry
 Citations:
+  But a dramatic action is not confined to the simple and undisturbed accomplishment of a specific aim; on the contrary, it rests entirely on collisions of circumstances, passions, and characters, and leads therefore to actions and then to the reactions which in turn necessitate a resolution of the conflict and discord.
+    — Aesthetics, The Drama as a Poetical Work of Art › The Principle of Dramatic Poetry (tr. Knox)
+  What drama in general needs to be is the presentation, to our minds and imagination, of actual human actions and affairs and therefore of persons expressing their action in words.
+    — Aesthetics, The Drama as a Poetical Work of Art › The Principle of Dramatic Poetry (tr. Knox)

@@ -74,8 +74,10 @@ Phr:
   fin contre fin [Fr.]
 
 # ---- Hegel ----
-Def: Wrong in which the semblance of right is preserved for the other and the substance of right is violated.
+Def: Fraud is wrong in which the wrongdoer preserves the semblance of right for the other while violating right itself. The other's particular will is respected, since they consent, but the universal side of the transaction, its value, is falsified, so that right in itself is reduced to a mere semblance by a particular will.
 Texts:
   The Philosophy of Right
     §§87–89
 Citations:
+  Right in itself, as distinct from right as particular and as determinately existent, is determined as what is demanded, as the essential thing; but as such, it is still only something demanded and from that point of view something merely subjective, and so inessential—a mere semblance.
+    — The Philosophy of Right §87 (tr. Knox, rev. Houlgate)

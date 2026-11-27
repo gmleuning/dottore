@@ -37,8 +37,12 @@ Phr:
   up to the mark
 
 # ---- Hegel ----
-Def: Quantity given a limit within itself, which yields a definite quantity, the quantum.
+Def: The limitation of quantity arises in discrete magnitude, which has the one for its principle, is a plurality of ones, and is essentially continuous. Posited as one magnitude, it has the one as its determinateness, which excludes and so limits. This limit encloses the many ones and also refers to itself. Yet the being so limited is continuity, which passes beyond the limit and is indifferent to it. Real quantity as an existence and a something is therefore quantum, and in this the difference between continuous and discrete magnitude no longer matters.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantity › The limiting of quantity
 Citations:
+  This limit, besides referring to the unity and being the moment of negation in it, is also, as one, self-referred; thus it is enclosing, encompassing limit.
+    — The Science of Logic, Quantity › The limiting of quantity (tr. di Giovanni)
+  Real, discrete quantity is thus one quantity, or quantum – quantity as an existence and a something.
+    — The Science of Logic, Quantity › The limiting of quantity (tr. di Giovanni)

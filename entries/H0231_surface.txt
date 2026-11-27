@@ -60,8 +60,12 @@ Phr:
   to scratch the surface
 
 # ---- Hegel ----
-Def: The negation of the line, the surface, which as the enclosing limit makes space a solid.
+Def: The surface or plane is the negation of the negation into which the line passes: a determinateness opposed to line and point, and yet the sublated negation of space, restoring spatial totality with the negative moment within it, an enclosing surface that marks off a single whole space. Taken from space, it is the first negation.
 Texts:
   The Philosophy of Nature
     §256
 Citations:
+  The line consequently passes over into the plane, which, on the one hand, is a determinateness opposed to line and point, and so surface, simply as such
+    — Encyclopedia §256 (tr. Miller)
+  It is thus the restoration of the spatial totality which now contains the negative moment within itself, an enclosing surface which separates off a single whole space.
+    — Encyclopedia §256 (tr. Miller)

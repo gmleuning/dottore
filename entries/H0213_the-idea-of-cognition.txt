@@ -42,8 +42,12 @@ Phr:
   to find out
 
 # ---- Hegel ----
-Def: The idea that has itself as its object, divided into the theoretical idea of truth and the practical idea of the good.
+Def: The idea of cognition is the idea in its judgement: the concept exists for itself and has the concept as its object, its reality liberated into universality, whereas life was the concept still sunk in objectivity. Thought, spirit and self-consciousness are determinations of this idea. Hegel rejects the old metaphysics of the soul, with its substance, simplicity and immateriality drawn from an empirical subject, and Kant's critique of it.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The idea of cognition
 Citations:
+  Life is the immediate idea, or the idea as its still internally unrealized concept. In its judgment, the idea is cognition in general.
+    — The Science of Logic, The idea of cognition (tr. di Giovanni)
+  Thought, spirit, self-consciousness, are determinations of the idea inasmuch as the latter has itself as the subject matter, and its existence, that is, the determinateness of its being, is its own difference from itself.
+    — The Science of Logic, The idea of cognition (tr. di Giovanni)

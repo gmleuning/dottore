@@ -27,8 +27,10 @@ Phr:
   they toil not, neither do they spin [Bible]
 
 # ---- Hegel ----
-Def: The satisfaction of need by direct seizure of what nature gives; Hegel notes how little such material there is, since even air must be warmed and only water is drunk as found (§196 Zusatz).
+Def: Immediate seizure is the satisfaction of need by what nature supplies directly. Hegel notes how little such material there is: almost all raw material must be worked on, even air must be warmed, and only water can be taken as found. The means of satisfaction are therefore products of human work.
 Texts:
   The Philosophy of Right
     §196
 Citations:
+  There is hardly any raw material which does not need to be worked on before use. Even air has to be worked for because we have to warm it. Water is perhaps the only exception, because we can drink it as we find it.
+    — The Philosophy of Right §196, Addition (tr. Knox, rev. Houlgate)

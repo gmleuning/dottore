@@ -28,8 +28,10 @@ Phr:
   das Vermögen wird so ein unveräußerliches, mit dem Majorate belastetes Erbgut [Ger.] [Hegel, Philosophy of Right §306]
 
 # ---- Hegel ----
-Def: The estate that cannot be sold or divided, bound to the family by entail (Majorat); it frees the landed nobility for political life and sends it to the upper house (§306-307).
+Def: Family property here is landed property attached to the family as permanent resources, the basis of the agricultural estate's substantial and immediate ethical life. Hegel ties the original foundation of states to agriculture and marriage, because cultivation of the land brings exclusively private property and settled life.
 Texts:
   The Philosophy of Right
     §203
 Citations:
+  The real beginning and original foundation of states has been rightly ascribed to the introduction of agriculture along with marriage, because the principle of agriculture brings with it the formation of the land and in consequence exclusively private property
+    — The Philosophy of Right §203, Remark (tr. Knox, rev. Houlgate)

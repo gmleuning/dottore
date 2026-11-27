@@ -43,8 +43,14 @@ Phr:
   c'est la même chose [Fr.]
 
 # ---- Hegel ----
-Def: Essence's simple self-relation, which is not abstract A = A but an identity that contains difference within itself.
+Def: Identity is essence as simple immediacy that has sublated immediacy: in its absolute negativity it is equal to itself, and otherness has vanished into pure self-equality. It is not the equality of being, nor what is left by an abstraction that sets difference aside outside it, but a pure production of unity from and in itself. Identity held apart from difference is the product of external reflection; in truth everything that is self-identical is in that identity also different and contradictory.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The determinations of reflection › Identity
 Citations:
+  Essence is simple immediacy as sublated immediacy. Its negativity is its being; it is equal to itself in its absolute negativity by virtue of which otherness and reference to other have as such simply disappeared into pure self-equality. Essence is therefore simple self-identity.
+    — The Science of Logic, The determinations of reflection › Identity (tr. di Giovanni)
+  It is not that self-equality which being is, or also nothing, but a self-equality which, in producing itself as unity, does not produce itself over again, as from another, but is a pure production, from itself and in itself, essential identity.
+    — The Science of Logic, The determinations of reflection › Identity (tr. di Giovanni)
+  Contrary to this, the identity that stays distant from difference, and the difference that stays distant from identity, are the products of external reflection and of an abstraction that arbitrarily clings to this point of indifferent difference.
+    — The Science of Logic, The determinations of reflection › Identity, Remark (tr. di Giovanni)

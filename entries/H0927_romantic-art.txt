@@ -33,8 +33,12 @@ Phr:
   heart's longing
 
 # ---- Hegel ----
-Def: Art in which spirit withdraws into its own inwardness and the outward shape becomes inadequate: romantic art.
+Def: Romantic art arises because there is something higher than the beautiful appearance of spirit in sensuous shape: spirit is pushed back from reconciliation in the body to reconciliation within itself. The ideal's solid totality falls apart into subjective being and external appearance, so that spirit may reach deeper reconciliation in its own inwardness, where outward shape is no longer adequate, though classical art attained the height of beauty.
 Texts:
   Aesthetics
     The Romantic Form of Art
 Citations:
+  Therefore classical art became a conceptually adequate representation of the Ideal, the consummation of the realm of beauty. Nothing can be or become more beautiful.
+    — Aesthetics, The Romantic Form of Art (tr. Knox)
+  Yet there is something higher than the beautiful appearance of spirit in its immediate sensuous shape, even if this shape be created by spirit as adequate to itself. For this unification, which is achieved in the medium of externality and therefore makes sensuous reality into an appropriate existence [of spirit], nevertheless is once more opposed to the true essence of spirit, with the result that spirit is pushed back into itself out of its reconciliation in the corporeal into a reconciliation of itself within itself.
+    — Aesthetics, The Romantic Form of Art (tr. Knox)

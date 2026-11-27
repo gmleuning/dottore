@@ -93,8 +93,12 @@ Phr:
   degeneres animos timor arguit [Lat.] [Virgil]
 
 # ---- Hegel ----
-Def: The military estate, the estate of valour, whose virtue is courage.
+Def: The estate of valour is the military estate. Sacrifice for the state's individuality is a universal duty, but since it is one side of the ideality of particular existence, it becomes a particular relation with an estate of its own, dedicated to it. Its virtue is courage, whose worth lies in the state's sovereignty.
 Texts:
   The Philosophy of Right
     §§325–328
 Citations:
+  Sacrifice on behalf of the individuality of the state is the substantial relation of all its members and so is a universal duty. Since this relation is one side of the ideality (in contrast to the reality) of particular subsistence [Bestehen], it becomes at the same time a particular relation with an estate [Stand] of its own—the estate of courage—dedicated to it.
+    — The Philosophy of Right §325 (tr. Knox, rev. Houlgate)
+  The worth of courage as a disposition is to be found in the genuine, absolute final end, the sovereignty of the state.
+    — The Philosophy of Right §328 (tr. Knox, rev. Houlgate)

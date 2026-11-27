@@ -32,8 +32,12 @@ Phr:
   as it should be
 
 # ---- Hegel ----
-Def: The concept that has given itself reality and is one with it: the true, which is the idea.
+Def: The idea is nothing but the concept, the real existence of the concept and the unity of the two. The concept alone is not yet the idea, which it is only when present in its reality and one with it. This unity is no neutralization in which each loses its qualities, as acid and alkali form a salt: the concept predominates, generating its reality out of itself, and so remains one with itself in its objectivity.
 Texts:
   Aesthetics
     Concept of the Beautiful as Such › The Idea
 Citations:
+  Now the Idea as such is nothing but the Concept, the real existence of the Concept, and the unity of the two.
+    — Aesthetics, Concept of the Beautiful as Such › The Idea (tr. Knox)
+  On the contrary, in this unity the Concept is predominant. For, in accordance with its own nature, it is this identity implicitly already, and therefore generates reality out of itself as its own
+    — Aesthetics, Concept of the Beautiful as Such › The Idea (tr. Knox)

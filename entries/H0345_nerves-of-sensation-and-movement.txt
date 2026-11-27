@@ -30,8 +30,10 @@ Phr:
   to touch a nerve
 
 # ---- Hegel ----
-Def: The nerves of sensation and of movement, sensibility as related to the outer world.
+Def: The nerves of sensation and of movement make up the outward-directed side of sensibility, sensation as determined either from outside or by self-determination. The motor nerves, mostly from the spinal cord, are the nervous system in its practical function; the sensory nerves, from the brain, are it as receptive, and to these the sense organs belong.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  The motor nerves mostly start from the spinal cord, and the sensory nerves from the brain: the former are the nervous system in its practical function, the latter are that system as receptive of determinations, and to this the sense organs belong.
+    — Encyclopedia §354, Addition (tr. Miller)

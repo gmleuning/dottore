@@ -36,8 +36,14 @@ Phr:
   a world of one's own making
 
 # ---- Hegel ----
-Def: Spirit as ethical actuality, a world of self-consciousnesses, a people whose substance is its custom and law.
+Def: Spirit is reason whose certainty of being all reality has been raised to truth, conscious of itself as its world and of the world as itself. It is ethical actuality, the self of actual consciousness confronting itself as an objective world no longer alien to it. It is the unshakable ground and the purpose of the doing of each and all, and also the universal work that arises through that doing. Its shapes are those of a world: true ethical spirit, self-alienated culture, and spirit certain of itself in morality.
 Texts:
   The Phenomenology of Spirit
     ¶¶438–671
 Citations:
+  Spirit is the self of the actual consciousness which spirit confronts, or rather which confronts itself as an objective actual world, a world which has, for the self, just as much lost all significance as something alien, just as the self has lost all sense of being a dependent or independent being-for-itself separated from that world.
+    — The Phenomenology of Spirit ¶438 (tr. Pinkard)
+  Spirit is the substance and the universal self-equal, lasting essence – it is the unshakable and undissolved ground and point of origin for the doing of each and all
+    — The Phenomenology of Spirit ¶438 (tr. Pinkard)
+  Precisely therein that it is “being” dissolved in the self, the substance is not the dead essence, but rather is actual and alive.
+    — The Phenomenology of Spirit ¶438 (tr. Pinkard)

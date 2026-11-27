@@ -27,8 +27,12 @@ Phr:
   plain and stern
 
 # ---- Hegel ----
-Def: The Doric, the oldest and most serious order, closest to wooden construction, sturdy and plain.
+Def: Doric belongs to the stage where security of the building is the chief concern, with heavy forms in which load-bearing material and gravity dominate. Its columns are the broadest and lowest, giving an impression of simple, serious, unadorned masculinity; standing mostly without bases, with the simplest capitals, it remains nearest to timber building, as triglyphs and metopes show.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders
 Citations:
+  In the earliest buildings the fundamental consideration is the security of the building, and architecture does not go beyond this.
+    — Aesthetics, The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders (tr. Knox)
+  In general, however, the distinctive character of the Doric style is that it is still nearer the original simplicity of building in wood, although it is more susceptible of decorations and adornments than the Tuscan is.
+    — Aesthetics, The Different Styles in Classical Architecture › Doric, Ionic, and Corinthian Orders (tr. Knox)

@@ -34,8 +34,12 @@ Phr:
   behind the scenes
 
 # ---- Hegel ----
-Def: The thing-in-itself as the empty abstraction of the thing without its relations, set over against its existence.
+Def: The thing in itself is the concrete existent as the essential immediate that results from sublated mediation, the unmoved, indeterminate unity that is the substrate of external existence. It is supposed to have no determinate manifold in it, and gets one only from an external reflection, as colour from the eye and smell from the nose. But that external existence is the other side of the same concrete existence, and the thing in itself, abstracted from all relation, shows itself to be empty.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Concrete existence › The thing and its properties › The thing in itself and concrete existence
 Citations:
+  The thing in itself, as the simple reflectedness of the concrete existence within itself, is not the ground of unessential existence; it is the unmoved, indeterminate unity, for it has precisely the determination of being the sublated mediation, and is therefore the substrate of that existence.
+    — The Science of Logic, The thing and its properties › The thing in itself and concrete existence (tr. di Giovanni)
+  (The thing-in-itself has color only when exposed to the eye, smell when exposed to the nose, and so on.)
+    — The Science of Logic, The thing and its properties › The thing in itself and concrete existence (tr. di Giovanni)

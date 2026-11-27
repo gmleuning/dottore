@@ -27,8 +27,12 @@ Phr:
   the gathered congregation
 
 # ---- Hegel ----
-Def: Building whose purpose is to enclose a space for the inward gathering of the congregation: the house of God shut off from nature.
+Def: Romantic architecture, whose real centre is the Gothic of the Middle Ages, long thought crude and barbaric until Goethe led its rehabilitation, unites independent architecture with that serving a purpose. Enclosure is its basic type more than in the Greek temple, yet it transcends mere utility: the house of God stands freely on its own account, fixed and eternal, answering to Christian worship and spirit.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture
 Citations:
+  Nowadays more and more efforts have been made to get to value in these grand works both a peculiar appropriateness to Christian worship and also a correspondence between architectural configuration and the inmost spirit of Christianity.
+    — Aesthetics, Architecture › Romantic Architecture (tr. Knox)
+  In more recent times it was chiefly Goethe who took the lead in bringing it into honour again
+    — Aesthetics, Architecture › Romantic Architecture (tr. Knox)

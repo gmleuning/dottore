@@ -62,8 +62,10 @@ Phr:
   the powers that be
 
 # ---- Hegel ----
-Def: The executive, which subsumes the particular under the universal.
+Def: The executive power is the task of subsuming particulars under the universal: executing and applying the sovereign's decisions, and maintaining existing laws, regulations and organizations for common ends. It includes the judiciary and police, and is carried out by civil servants, who form the greater part of the middle class.
 Texts:
   The Philosophy of Right
     §§287–297
 Citations:
+  This task of subsumption in general is comprised in the executive power, which also includes the powers of the judiciary
+    — The Philosophy of Right §287 (tr. Knox, rev. Houlgate)

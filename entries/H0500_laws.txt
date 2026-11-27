@@ -27,8 +27,14 @@ Phr:
   by the book
 
 # ---- Hegel ----
-Def: The calm realm of laws which the understanding sets beyond the flux of appearance.
+Def: Law is the simple difference which appearance comes to be when related to the inner: the stable picture of unstable appearance. The supersensible world is thus a motionless realm of laws, beyond the perceived world and yet present in it. It is the understanding's first truth but not appearance brought to fulfilment, for each law has its determinateness, so that laws are indefinitely many. Gathered into one, as universal attraction, they say no more than the mere concept of law, namely that all actuality is in itself lawful.
 Texts:
   The Phenomenology of Spirit
     ¶¶148–156
 Citations:
+  It is expressed in law as the stable picture of unstable appearance. The supersensible world is thus a motionless realm of laws.
+    — The Phenomenology of Spirit ¶149 (tr. Pinkard)
+  This realm of laws is, to be sure, the truth of the understanding, which has its content in the difference that lies within the law. However, it is at the same time only the understanding’s first truth and does not completely bring appearance to its fulfillment.
+    — The Phenomenology of Spirit ¶150 (tr. Pinkard)
+  The unification of all laws into universal attraction expresses no further content than that of the mere concept of law itself, which is posited as existing therein.
+    — The Phenomenology of Spirit ¶150 (tr. Pinkard)

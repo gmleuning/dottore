@@ -27,8 +27,12 @@ Phr:
   the way of reflection
 
 # ---- Hegel ----
-Def: The second syllogism, nature–spirit–logic, which has spirit as the middle, the standpoint of spirit's reflection.
+Def: In the second syllogism spirit is the mediator: it presupposes nature and joins it with the logical. This is the standpoint of spirit itself, the syllogism of spiritual reflection within the idea, in which science appears as a subjective cognition whose aim is freedom and which is itself the way of producing that freedom. The first appearance is thereby sublated.
 Texts:
   The Philosophy of Mind
     §576
 Citations:
+  In the second syllogism this appearance is sublated in so far as this syllogism is already the standpoint of the mind itself, which is the mediator of the process, presupposes nature and joins it together with the logical.
+    — Encyclopedia §576 (tr. Wallace and Miller, rev. Inwood)
+  It is the syllogism of spiritual reflexion within the Idea; science appears as a subjective cognition, whose aim is freedom and which is itself the way to produce its freedom.
+    — Encyclopedia §576 (tr. Wallace and Miller, rev. Inwood)

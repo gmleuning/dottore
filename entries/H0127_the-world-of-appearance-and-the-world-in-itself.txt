@@ -39,8 +39,12 @@ Phr:
   through the looking glass
 
 # ---- Hegel ----
-Def: The supersensible world, which is the inverted world of appearance: what is positive in one is negative in the other.
+Def: The world of appearance and the world in itself arise as the existing world raises itself to a calm kingdom of laws. Law is the simple identity of appearance with itself, its substrate rather than its ground; but as negative reflection into itself it is also the other of appearance, containing the whole of its content in an inverted way. So a world that is in and for itself, the totality of existence reflected into itself, comes to stand opposite the world of appearance.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Appearance › Appearance › The world of appearance and the world-in-itself
 Citations:
+  The concrete existing world tranquilly raises itself to a kingdom of laws
+    — The Science of Logic, Appearance › The world of appearance and the world-in-itself (tr. di Giovanni)
+  The immanent reflection of appearance, law, is therefore not only the identical substrate of appearance but the latter has in law its opposite, and law is its negative unity.
+    — The Science of Logic, Appearance › The world of appearance and the world-in-itself (tr. di Giovanni)

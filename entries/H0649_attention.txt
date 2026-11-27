@@ -94,8 +94,14 @@ Phr:
   finish one thing before taking on many, shi wu zhong shi, wu wu duo ye [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: The mind fixing its content and separating it from itself, the first act of intelligence.
+Def: Attention is one of the two moments into which the immediate finding divides: the abstract, identical direction of mind in feeling and in all its later determinations, without which nothing is there for the mind. The other moment casts what is felt out as something existing outside. By this double activity of sublating and restoring its unity with the object, intelligence begins to grasp a content. Attention depends on the will and is the beginning of education.
 Texts:
   The Philosophy of Mind
     §448
 Citations:
+  One of the two moments in the diremption of this immediate finding is the abstract identical direction of the mind in feeling, as in all its other subsequent determinations: attention, without which nothing is for the mind
+    — Encyclopedia §448 (tr. Wallace and Miller, rev. Inwood)
+  Only by this dual activity of sublating and restoring the unity between myself and the other do I get to grasp the content of sensation. This happens initially in attention.
+    — Encyclopedia §448, Addition (tr. Wallace and Miller, rev. Inwood)
+  Attention constitutes, therefore, the beginning of education.
+    — Encyclopedia §448, Addition (tr. Wallace and Miller, rev. Inwood)

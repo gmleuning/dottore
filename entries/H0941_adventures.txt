@@ -42,8 +42,12 @@ Phr:
   tilting at windmills
 
 # ---- Hegel ----
-Def: Adventures, the contingency of the external world, which the knight-errant meets.
+Def: Adventures are the fundamental form of romantic events and actions: spirit withdrawn into itself treats the external world as a place released from it, a scene of complications and endless contingency, and goes into it with contingent ends it does not weave into a consistent whole. Its collisions are determined from outside and by accident, so that what matters is asserting oneself more than accomplishing a lasting work.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Formal Independence of Individual Characters › Adventures
 Citations:
+  For the fixedly enclosed mind, it is just as much a matter of indifference to which circumstances it turns as it is a matter of accident which circumstances confront it.
+    — Aesthetics, The Formal Independence of Individual Characters › Adventures (tr. Knox)
+  Adventure, which provides for the form of events and actions the fundamental type of the romantic, is constituted by this relativity of ends in a relative environment, the specific character and complication of which do not lie in the individual person but are determined from without and accidentally
+    — Aesthetics, The Formal Independence of Individual Characters › Adventures (tr. Knox)

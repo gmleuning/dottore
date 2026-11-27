@@ -32,8 +32,12 @@ Phr:
   fides quaerens intellectum [Lat.] [faith seeking understanding] [Anselm]
 
 # ---- Hegel ----
-Def: The ways in which the finite spirit knows God, from feeling to thought.
+Def: The knowledge of God is the second moment of religion, in which a distinction arises and God becomes the object of consciousness. Seen from God's side, this is God's self-manifestation, the creating of a subjective spirit for which God is. God can therefore be known, since it is God's nature to be revealed. The forms of this knowing are immediate certainty, feeling, representation and thought.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827) › The Knowledge of God
 Citations:
+  Spirit is an absolute manifesting. Its manifesting is a positing of determination and a being for an other. "Manifesting" means "creating an other," and indeed the creating of subjective spirit for which the absolute is.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) › The Knowledge of God (tr. Brown, Hodgson and Stewart)
+  From this it follows that God can be known or cognized, for it is God's nature to reveal himself, to be manifest.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) › The Knowledge of God (tr. Brown, Hodgson and Stewart)

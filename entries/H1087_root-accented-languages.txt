@@ -8,8 +8,12 @@ N:
   root-accented languages; root accent, root syllable, stem stress, accentual languages, stress-timed languages, the modern languages, the Germanic languages
 
 # ---- Hegel ----
-Def: The modern languages, in which the accent falls on the root syllable of meaning, so that sense rather than natural length governs the stress.
+Def: Root-accented languages such as modern German split what the ancients inflected into separate words, leaving the root a simple whole whose weighty meaning draws the accent to itself. Since stress then marks sense, it drowns the natural length of other syllables, and a rhythm independent of the root and its meaning can no longer exist.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  If now, as is the case in full measure with our modem mother-tongue for example, these roots lay claim to the accent almost exclusively for themselves, this is throughout a preponderating accent on the meaning or sense
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  [A]nd since the emphasis and the chief meaning are linked together, this coincidence of the two does not make conspicuous but drowns the natural length or shortness of the other syllables.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

@@ -41,8 +41,12 @@ Phr:
   wear one's heart on one's sleeve
 
 # ---- Hegel ----
-Def: The inner and outer as one content, so that what something is inwardly it is outwardly, and nothing more.
+Def: The relation of outer and inner is the unity in which the difference of force and expression has become transparent. The inner is the form of reflected immediacy or essence, the outer the form of being, but the two are only one identity: one content, replete, which as inner is equally outer, and one fact that is indifferent to these determinations. What is only inner is only outer, and what is only outer is only inner. Their complete identity is actuality.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The essential relation › Relation of outer and inner
 Citations:
+  The inner is determined as the form of reflected immediacy or of essence over against the outer as the form of being; the two, however, are only one identity.
+    — The Science of Logic, The essential relation › Relation of outer and inner (tr. di Giovanni)
+  The outer, in this determination, is not only equal to the inner according to content but the two are rather only one fact.
+    — The Science of Logic, The essential relation › Relation of outer and inner (tr. di Giovanni)

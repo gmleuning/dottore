@@ -29,8 +29,14 @@ Phr:
   to the nth degree
 
 # ---- Hegel ----
-Def: Ratio in which a quantum relates to itself as its own exponent, the power; quantity returned into quality.
+Def: The ratio of powers is the ratio in which quantum, self-identical in its otherness, determines its own passing beyond itself. The amount is determined only by the unit: it is the unit itself, so that a power is an aggregate of units each of which is that aggregate. The exponent is of a wholly qualitative nature. Here quantum fully realizes its concept; it has returned into itself and become quality again, and the truth of quantum is measure.
 Texts:
   The Science of Logic
     The Doctrine of Being › Ratio or the quantitative relation › The ratio of powers
 Citations:
+  This is the case in the ratio of powers where the unit, which in it is amount, is at the same time the amount as against itself as unit. The otherness, the amount of units, is the unit itself.
+    — The Science of Logic, Ratio or the quantitative relation › The ratio of powers (tr. di Giovanni)
+  The ratio of powers is the display of what the quantum is implicitly in itself; it expresses its determinateness of quantum or the quality by which it is distinguished from another.
+    — The Science of Logic, Ratio or the quantitative relation › The ratio of powers (tr. di Giovanni)
+  Quantum is henceforth no longer an indifferent or external determination but is sublated as such, and it is a quality and that by virtue of which anything is what it is; the truth of quantum is to be measure.
+    — The Science of Logic, Ratio or the quantitative relation › The ratio of powers (tr. di Giovanni)

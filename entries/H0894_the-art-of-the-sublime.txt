@@ -35,8 +35,12 @@ Phr:
   vanity of vanities
 
 # ---- Hegel ----
-Def: The negative sublime of Hebrew poetry, where God's power is praised and the creature is nothing before him.
+Def: The art of the sublime in the strict sense, Hebrew poetry, grasps the one substance as pure inwardness and might, independent of finitude: God is imageless, and the world, however splendid, is posited as negative, created, subject to his power and serving him. External existence is degraded before the substance, and this is the only way the shapeless God can be illustrated. In the ideal, by contrast, inner and outer pervade each other.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Symbolism of the Sublime › The Art of the Sublime
 Citations:
+  Only through this intuition of the being of God as the purely spiritual and imageless, contrasted with the mundane and the natural, is spirit completely wrested from nature and sense and released from existence in the finite.
+    — Aesthetics, Symbolism of the Sublime › The Art of the Sublime (tr. Knox)
+  In sublimity, on the contrary, external existence, in which the substance is brought before contemplation, is degraded in comparison with the substance, since this degradation and servitude is the one and only way whereby the one God can be illustrated in art
+    — Aesthetics, Symbolism of the Sublime › The Art of the Sublime (tr. Knox)

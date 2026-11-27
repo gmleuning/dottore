@@ -30,8 +30,14 @@ Phr:
   the twenty-five principles
 
 # ---- Hegel ----
-Def: The Samkhya, which distinguishes nature and the soul, and seeks release through knowledge.
+Def: The Samkhya, ascribed to Kapila, holds that complete liberation from ills is achieved solely through philosophical knowledge, by which the soul is disengaged from nature. It counts out the principles, beginning with productive nature, intelligence, and selfhood. Nature is only the means of the soul's liberation: having displayed herself to the soul she takes her leave, as a performer does when the show is over.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy › Indian Philosophy › The Samkhya Philosophy of Kapila
 Citations:
+  They say, then, that complete liberation from ills can be achieved solely through [philosophical] science.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › The Samkhya Philosophy of Kapila (tr. Brown)
+  So nature is only the means by which the soul is liberated.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › The Samkhya Philosophy of Kapila (tr. Brown)
+  Nature displays herself to the soul and then takes her leave; the soul likewise takes its leave.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › The Samkhya Philosophy of Kapila (tr. Brown)

@@ -25,8 +25,12 @@ Phr:
   the gods are dead
 
 # ---- Hegel ----
-Def: The dissolution of classical art.
+Def: The dissolution of classical art springs from the germ of decline the classical gods carry within them. Spiritual individuality, adequate to immediate bodily existence, broke up into a group of gods whose particular character is not absolutely necessary and so is surrendered to contingency, where the gods find the source of their dissolution, in fate, in anthropomorphism and at last in satire.
 Texts:
   Aesthetics
     The Classical Form of Art › The Dissolution of the Classical Form of Art
 Citations:
+  The germ of their decline the classical gods have in themselves, and when the deficiency implicit in them is revealed to our minds through the development of art itself they therefore bring in their train the dissolution of the classical Ideal.
+    — Aesthetics, The Classical Form of Art › The Dissolution of the Classical Form of Art (tr. Knox)
+  But this individuality broke up into a group of divine individuals whose determinate character is not absolutely necessary and therefore from the start is surrendered to the contingency in which the eternally powerful gods acquire alike for the Greek mind and for artistic representation the source of their dissolution.
+    — Aesthetics, The Classical Form of Art › The Dissolution of the Classical Form of Art (tr. Knox)

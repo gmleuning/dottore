@@ -26,8 +26,12 @@ Phr:
   zum verzehrenden Vulkan [Ger.] [Hegel, Encyclopedia §354 Zusatz, on the portal system]
 
 # ---- Hegel ----
-Def: The liver and the portal system, where the blood's subjectivity becomes activity, a consuming volcano, the inward fire of digestion.
+Def: The hepatic system is the blood's return from its atmospheric process into being-for-self, with its centre in the portal system, where the blood's subjectivity becomes movement and an active process, a consuming volcano. Active in the liver, it works on the chyme prepared in the stomach, seeking a centre and the heat that consumes otherness.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  The liver, on the other hand, is the return from the cometary process into being-for-self, into the lunar process; it is the being-for-self which seeks its centre, the heat of being-for-self, the rage against otherness and the consuming of it.
+    — Encyclopedia §354, Addition (tr. Miller)
+  From here, its centre is the portal system where its subjectivity is movement and becomes an active process, a consuming volcano.
+    — Encyclopedia §354, Addition (tr. Miller)

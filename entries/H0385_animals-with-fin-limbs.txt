@@ -14,8 +14,12 @@ Phr:
   like a beached whale
 
 # ---- Hegel ----
-Def: Mammals with fin-like limbs, the Cetacea: without hind legs, living in water but rising to breathe air.
+Def: Animals with fin-like limbs, the Cetacea, are a class of mammals in which the land animal falls back again into the water. Following Lamarck, they have only two short, flat limbs, no pelvis or hind legs, swallow food unchewed, and usually live in water while surfacing to breathe air: the least highly organized mammals.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  [I]nto animals with fin-like limbs, the Cetacea
+    — Encyclopedia §370, Addition (tr. Miller)
+  [I]n the cetacea, the land animal falls back again into the water
+    — Encyclopedia §370, Addition (tr. Miller)

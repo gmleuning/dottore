@@ -28,8 +28,12 @@ Phr:
   two great principles [Leibniz]
 
 # ---- Hegel ----
-Def: Leibniz, the monads, individuality against Spinoza's substance.
+Def: Leibniz stands in glaring contradiction to Spinoza's substantial unity, in which everything determinate is transitory. Against absolute unity he makes the absolute multiplicity of individual substances his principle, though it is unified in God, the monad of monads. Monads, distinct from atoms, are utterly singular, indivisible, simply one.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › Gottfried Wilhelm Leibniz
 Citations:
+  Over against this principle of absolute unity Leibniz made the absolute multiplicity of individual substances his principle—although this multiplicity is unified in God, the monad of monads.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Gottfried Wilhelm Leibniz (tr. Brown)
+  Monads are what is utterly singular, indivisible, simply one.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Gottfried Wilhelm Leibniz (tr. Brown)

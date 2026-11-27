@@ -45,8 +45,12 @@ Phr:
   learning matters, but conduct is the root, shi sui you xue, er xing wei ben yan [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: Intelligence that knows itself as the determiner of its content: the will, which gives its purposes existence.
+Def: Practical mind is mind as will, which is aware of itself as concluding within itself and fulfilling itself out of itself, and so steps into actuality. Its finitude lies in its formalism, and its vocation is to bring freedom into existence by making freedom its content, rising to the thinking will that can become objective mind. It develops from practical feeling through urge and wilfulness to happiness and the free will.
 Texts:
   The Philosophy of Mind
     §§469–480
 Citations:
+  As will, the mind is aware of itself as reaching a conclusion within itself and fulfilling itself from out of itself.
+    — Encyclopedia §469 (tr. Wallace and Miller, rev. Inwood)
+  This concept, freedom, essentially takes the form of thinking; the way of the will by which it makes itself objective mind is to rise to the thinking will-to give itself the content that it can only have as a will that thinks itself.
+    — Encyclopedia §469 (tr. Wallace and Miller, rev. Inwood)

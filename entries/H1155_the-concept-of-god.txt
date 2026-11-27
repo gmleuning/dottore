@@ -63,8 +63,12 @@ Phr:
   sans Dieu rien [Fr.]
 
 # ---- Hegel ----
-Def: God as the absolute universal, the one substance that is absolutely all; in the end God as spirit.
+Def: God is at first the universal that is in and for itself, embracing and containing everything, through which alone everything is and has subsistence. God is the absolute substance; taken abstractly this is Spinozism or pantheism, but substance does not exclude subjectivity, since God is presupposed to be spirit. Religious consciousness holds God to be that from which everything proceeds and into which everything returns.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827) › The Concept of God
 Citations:
+  Religious consciousness has the conviction that God is really the midpoint, the absolutely true, that from which everything proceeds and into which everything returns, that upon which everything is dependent and apart from which nothing other than it has absolute, true independence.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) › The Concept of God (tr. Brown, Hodgson and Stewart)
+  God is the absolute substance. If we cling to this declaration in its abstract form, then it is certainly Spinozism or pantheism. But the fact that God is substance does not exclude subjectivity, for substance as such is not yet at all distinguished from subjectivity.
+    — Lectures on the Philosophy of Religion, The Concept of Religion (1827) › The Concept of God (tr. Brown, Hodgson and Stewart)

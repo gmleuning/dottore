@@ -103,8 +103,12 @@ Phr:
   mutual love brings order, mutual hate brings chaos, tian xia jian xiang ai ze zhi, jiao xiang wu ze luan [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: The virtues in which universal self-consciousness appears: love, friendship, valour, honour and fame.
+Def: The virtues in which universal self-consciousness appears are love, friendship, courage, honour and fame, for the mutual mirroring of free selves is the form of consciousness of all virtues. Bravery has this substance when life is staked on a universal cause, and honour when its content is not the indifferent singularity of the individual but something substantial and universal. This appearance of the substantial can also be split off and kept for itself, as baseless honour and hollow fame.
 Texts:
   The Philosophy of Mind
     §436
 Citations:
+  [A]s well as of all virtues, of love, friendship, courage
+    — Encyclopedia §436, Remark (tr. Wallace and Miller, rev. Inwood)
+  But this appearance of the substantial may also be separated from the substantial, and be maintained for itself in baseless honour, hollow fame
+    — Encyclopedia §436, Remark (tr. Wallace and Miller, rev. Inwood)

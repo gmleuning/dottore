@@ -38,8 +38,10 @@ Phr:
   the moral fabric
 
 # ---- Hegel ----
-Def: The idea of freedom as the living good, which has its knowledge and will in self-consciousness and its actuality in the ethical world.
+Def: Ethical life is the Idea of freedom as the living good: the good known and willed in self-consciousness and actualized by its action, while self-consciousness has its foundation and motivating end in the ethical world. It is the concept of freedom become an existing world, articulated in the family, civil society and the state.
 Texts:
   The Philosophy of Right
     §§142–360
 Citations:
+  Ethical life is the Idea of freedom in that, on the one hand, it is the living good—the good endowed in self-consciousness with knowing and willing and actualized by self-conscious action—while, on the other hand, self-consciousness has in the ethical realm its foundation in and for itself and its motivating end.
+    — The Philosophy of Right §142 (tr. Knox, rev. Houlgate)

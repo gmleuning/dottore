@@ -49,8 +49,12 @@ Phr:
   less political chatter, closer to life, pomen'she politicheskoy treskotni, poblizhe k zhizni [Rus.] [Lenin]
 
 # ---- Hegel ----
-Def: The vanity of a culture that sees through everything and knows nothing but its own cleverness.
+Def: The vanity of culture is the disrupted consciousness's awareness of itself: a derisive laughter at existence, at the confusion of the whole and at itself, and the fading sound of that confusion heard by itself. This vanity of every actuality and determinate concept is a double reflection of the real world: into this self as this self, which still takes that world as its immediate content, and into pure thought, which turns away from the world toward a heaven beyond it.
 Texts:
   The Phenomenology of Spirit
     ¶¶524–526
 Citations:
+  Its own disruption of consciousness, conscious of itself and giving expression to itself, is the derisive laughter about existence as much as it is about the disorientation of the whole and about itself.
+    — The Phenomenology of Spirit ¶524 (tr. Pinkard)
+  Interrogating itself, this vanity of all actuality and of every determinate concept is the doubled reflection of the real world into itself, at one time in this self of consciousness as this self, and at another time in the pure universality of consciousness, or in thinking.
+    — The Phenomenology of Spirit ¶524 (tr. Pinkard)

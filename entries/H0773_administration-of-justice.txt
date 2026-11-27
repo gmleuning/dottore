@@ -41,8 +41,10 @@ Phr:
   justice is blind
 
 # ---- Hegel ----
-Def: The sphere of right as law, which protects property and personality in civil society.
+Def: The administration of justice is the second moment of civil society, in which abstract right gains determinate existence as something universally recognized, known and willed. Right posited as law, made public and applied by the courts, protects property and personality, and offences against them are annulled.
 Texts:
   The Philosophy of Right
     §§209–229
 Citations:
+  But it is this very sphere of relativity—as that of education—which gives abstract right determinate existence as something universally recognized, known, and willed
+    — The Philosophy of Right §209 (tr. Knox, rev. Houlgate)

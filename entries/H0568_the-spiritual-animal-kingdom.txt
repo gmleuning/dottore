@@ -20,8 +20,12 @@ Phr:
   mind your own business
 
 # ---- Hegel ----
-Def: Das geistige Tierreich: individuality that takes itself as real in and for itself, whose original determinate nature is its element, expressed in its work.
+Def: The spiritual animal kingdom is individuality real in itself as it first appears, singular and determinate, with an original nature that it need only bring to expression. In its work the individual places itself outside itself into the element of universality, where the work exists for others, who find in it an alien actuality and intervene in it with their own interests. The work is thus transitory, and shows the reality of individuality as disappearing rather than achieved; in it consciousness learns what it is in truth.
 Texts:
   The Phenomenology of Spirit
     ¶¶397–408
 Citations:
+  The work is the reality which consciousness gives itself; it is that in which the individual is for the individual what he is in itself
+    — The Phenomenology of Spirit ¶404 (tr. Pinkard)
+  The work is thus something utterly transitory which is erased by the counterplay of other powers and interests and which instead exhibits the reality of individuality itself as disappearing rather than as achieved.
+    — The Phenomenology of Spirit ¶404 (tr. Pinkard)

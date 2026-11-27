@@ -26,8 +26,12 @@ Phr:
   to put into practice
 
 # ---- Hegel ----
-Def: Reason realizing itself through its own action, finding its other in the world it acts upon.
+Def: The self-actualization of reason is the movement in which rational self-consciousness, having found the thing to be itself and itself a thing, no longer observes but seeks to bring about by its own activity its unity with itself in another self-consciousness. Certain that the self-sufficient object facing it is nothing alien, it must raise this certainty to truth. It does so first as pleasure, then as the law of the heart, and then as virtue struggling with the way of the world.
 Texts:
   The Phenomenology of Spirit
     ¶¶347–393
 Citations:
+  To self-consciousness, this certainty must now be elevated to truth.
+    — The Phenomenology of Spirit ¶347 (tr. Pinkard)
+  Self-consciousness is spirit that has the certainty of having its unity with itself in the doubling of its self-consciousness and in the self-sufficiency of both self-consciousnesses.
+    — The Phenomenology of Spirit ¶347 (tr. Pinkard)

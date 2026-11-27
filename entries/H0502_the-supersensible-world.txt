@@ -33,8 +33,14 @@ Phr:
   behind the veil
 
 # ---- Hegel ----
-Def: The supersensible world, the beyond of appearance, which is first empty and then the realm of laws.
+Def: The supersensible world is the enduring beyond which, over against the vanishing world of the senses, is disclosed to the understanding as the true world. At first it is empty, only the nothingness of appearance and the simple universal, and consciousness does not find itself in it. But it comes forth out of appearance, which is its mediation, essence and fulfilment: the supersensible is the sensuous and perceived posited as they are in truth, as appearance. It is therefore appearance as appearance, and in it appearance's flux is held as the motionless difference of law.
 Texts:
   The Phenomenology of Spirit
     ¶¶144–149
 Citations:
+  In this inner true, as the absolutely universal which is purified of the opposition of universal and singular and which has come to be for the understanding, is disclosed for the first time and henceforth a supersensible world as the true world over and above the sensuous world (as the appearing world).
+    — The Phenomenology of Spirit ¶144 (tr. Pinkard)
+  The inner is still a pure other-worldly beyond for consciousness, for consciousness does not encounter itself within it.
+    — The Phenomenology of Spirit ¶146 (tr. Pinkard)
+  The supersensible is the sensuous and the perceived posited as they are in truth. However, the truth of the sensuous and the perceived is to be appearance. The supersensible is therefore appearance as appearance.
+    — The Phenomenology of Spirit ¶147 (tr. Pinkard)

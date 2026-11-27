@@ -39,8 +39,12 @@ Phr:
   et coetera [Lat.]
 
 # ---- Hegel ----
-Def: The concept in its three moments, universality, particularity and singularity, each the whole concept.
+Def: The concept as such contains the three moments of universality, particularity and singularity, each of which is as much the whole concept as it is a determinate moment. It is first pure universality, which, being a totality, determines and distinguishes itself; second, this particular or determinate concept; third, singularity, the concept reflecting itself out of difference into absolute negativity. The understanding is here not the faculty of fixed concepts but of the concept as such.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The concept
 Citations:
+  This universal concept that we now have to consider contains the three moments of universality, particularity, and singularity.
+    — The Science of Logic, The concept (tr. di Giovanni)
+  Since this positedness is in the concept identical with being-in-and-for-itself, each of the moments is just as much the whole concept as it is determinate concept and a determination of the concept.
+    — The Science of Logic, The concept (tr. di Giovanni)

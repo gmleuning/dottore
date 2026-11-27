@@ -39,8 +39,12 @@ Phr:
   the night in which all cows are black
 
 # ---- Hegel ----
-Def: The exposition that shows each finite determination to vanish into the absolute, a negative exposition, Spinoza's method.
+Def: The exposition of the absolute is the display by which the absolute, the unity of inner and outer, shows itself. It is absolute form and absolute content together, an identity each of whose moments is itself the whole, so that determinateness has become a wholly transparent shine. Essence, existence, whole, parts and force have gone to ground in it. Since its form is simple self-identity the absolute does not determine itself, and the exposition appears as a negating of what reflection brings to it.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute › The exposition of the absolute
 Citations:
+  The absolute itself is the absolute unity of the two
+    — The Science of Logic, The absolute › The exposition of the absolute (tr. di Giovanni)
+  Thus the identity of the absolute is for this reason absolute identity, because each of its parts is itself the whole or each determinateness is the totality
+    — The Science of Logic, The absolute › The exposition of the absolute (tr. di Giovanni)

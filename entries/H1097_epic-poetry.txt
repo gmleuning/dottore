@@ -35,8 +35,12 @@ Phr:
   sing, goddess
 
 # ---- Hegel ----
-Def: Epic, which presents an action as a world, in the totality of a people's life and ethos; the poetry of an objective whole.
+Def: Epic, whose name means word or saga, tells what a matter is that has been turned into word: an inherently independent content, brought before the mind in all its relations and events, in the whole sweep of circumstances and development, the topic in the entirety of its existence. It is considered in its general character, its principal particulars and its historical development.
 Texts:
   Aesthetics
     Poetry › Epic Poetry
 Citations:
+  What is to be brought before our minds is the topic as such in all its relations and events, in the sweep of all the circumstances and their development, the topic in the entirety of its existence.
+    — Aesthetics, Poetry › Epic Poetry (tr. Knox)
+  This premissed, we will first describe the general character of epic; secondly, cite the particular points of principal importance in epic proper; thirdly, mention certain particular modes of treatment which have actually occurred in individual epics within the historical development of this kind of poetry.
+    — Aesthetics, Poetry › Epic Poetry (tr. Knox)

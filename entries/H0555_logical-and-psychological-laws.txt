@@ -27,8 +27,14 @@ Phr:
   the workings of the mind
 
 # ---- Hegel ----
-Def: The search for laws of thought and psychological laws, which reason finds empty of real content.
+Def: Logical and psychological laws are what observation finds when it turns from nature back to self-consciousness. First it finds the laws of thought, taken as formal and lacking reality, though as laws of pure thinking they are inseparably essentialities of both form and things. Then it turns to psychology, seeking a law relating individuality to the actuality acting on it. Since individuals can let that influence have its way or turn it on its head, the supposed psychological necessity is an empty phrase.
 Texts:
   The Phenomenology of Spirit
     ¶¶298–308
 Citations:
+  While observation now turns back around into itself, and it directs itself to the actual concept as the free concept, it finds first of all the laws of thought.
+    — The Phenomenology of Spirit ¶299 (tr. Pinkard)
+  Psychological necessity thereby becomes such an empty phrase that it includes the absolute possibility that what is supposed to have had this influence could very well also not have had any influence whatsoever.
+    — The Phenomenology of Spirit ¶307 (tr. Pinkard)
+  This free concept, whose universality has that developed singularity just as absolutely within itself, is found by observation only in the concept existing as the concept itself, or in self-consciousness.
+    — The Phenomenology of Spirit ¶298 (tr. Pinkard)

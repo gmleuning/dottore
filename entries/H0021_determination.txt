@@ -22,8 +22,14 @@ Phr:
   die Bestimmung des Menschen [Ger.] [Fichte]
 
 # ---- Hegel ----
-Def: Bestimmung, the in-itself of something filled with content and maintained against its relation to other.
+Def: Determination is affirmative determinateness: the in-itself by which something abides in its existence while involved with an other that would determine it, preserving its self-equality and holding on to it in its being-for-other. Something fulfils its determination in so far as the further determinateness that comes to it through its relation to the other becomes its filling. So what something is in itself is also present in it. The determination, or vocation, of the human being is rational thought, which is at first only in itself, as an ought.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Determination, constitution, and limit
 Citations:
+  Determination is affirmative determinateness; it is the in-itself by which a something abides in its existence while involved with an other that would determine it, by which it preserves itself in its self-equality, holding on to it in its being-for-other.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)
+  The determination of the human being, its vocation, is rational thought: thinking in general is his simple determinateness
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)
+  Determination implies that what something is in itself is also present in it.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)

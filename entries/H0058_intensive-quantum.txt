@@ -33,8 +33,14 @@ Phr:
   by inches
 
 # ---- Hegel ----
-Def: Intensive Größe, Grad: the quantum whose determinateness is simple, a single degree, which has its many outside it in the scale of other degrees.
+Def: Intensive quantum, or degree, is quantum whose limit is simple and identical with it. The self-external plurality of extensive quantum has gathered itself into a single determination: degree is a determinate magnitude but not an aggregate. The twentieth degree is not a sum of twenty degrees; it is that one degree, in which number is present as a sublated amount. Its determinateness lies outside it, in its connection with other degrees, so that ascent and descent along the scale form a continuous flow.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Extensive and intensive quantum
 Citations:
+  Degree is thus a determinate magnitude, a quantum, but at the same time it is not an aggregate or several within itself
+    — The Science of Logic, Quantum › Extensive and intensive quantum (tr. di Giovanni)
+  When we speak of 10 or 20 degrees, the quantum which has that many degrees – the tenth, the twentieth
+    — The Science of Logic, Quantum › Extensive and intensive quantum (tr. di Giovanni)
+  This reference connecting a degree through itself to its other makes ascent and descent on the scale of degrees a continuous progress, a flow, which is an uninterrupted and indivisible alteration
+    — The Science of Logic, Quantum › Extensive and intensive quantum (tr. di Giovanni)

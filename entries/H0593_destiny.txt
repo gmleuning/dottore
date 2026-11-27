@@ -28,8 +28,12 @@ Phr:
   to pay the price
 
 # ---- Hegel ----
-Def: Das Schicksal: the movement in which both powers and both self-conscious characters perish, and their equal right appears in their common downfall.
+Def: Destiny is the downfall of ethical substance in which both powers are overtaken. The conflict appears as that of the two brothers who have an equal right to the state and destroy each other, after which government honours the one and denies burial to the other. The cause of the collapse lies in the immediacy of ethical life, through which nature enters its action: a people determined by nature is a restricted individuality, its living substance is lost, and its individuals are shattered into many separate points.
 Texts:
   The Phenomenology of Spirit
     ¶¶472–476
 Citations:
+  For that reason, these two brothers are at odds with each other, and their equal right to the power of the state shatters both of them
+    — The Phenomenology of Spirit ¶472 (tr. Pinkard)
+  Its actuality only reveals the contradiction and the germ of corruption which ethical spirit’s beautiful unanimity and motionless equilibrium have in this motionlessness and beauty itself
+    — The Phenomenology of Spirit ¶475 (tr. Pinkard)

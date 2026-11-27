@@ -42,8 +42,10 @@ Phr:
   even exchange
 
 # ---- Hegel ----
-Def: The exchange of one thing for another.
+Def: Exchange as such is the first species of real contract, in which one property is given for another. It divides into barter, the exchange of one specific thing for another, and purchase or sale, the exchange of a specific thing for money, which counts only as value.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (1) Exchange as such: (α) exchange of a thing pure and simple, i.e. exchange of one specific thing for another of the same kind; (β) purchase or sale (emtio, venditio); exchange of a specific thing for one characterized as universal, one which counts as value alone and which lacks the other specific determination of utility—i.e. for money.
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

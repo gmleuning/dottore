@@ -36,8 +36,12 @@ Phr:
   for king and country
 
 # ---- Hegel ----
-Def: The ethical substance in which universal self-consciousness is actual: family, fatherland, state.
+Def: The substance of ethical life is what universal self-consciousness is the form of consciousness for. This mirroring, in which the concept knows itself in its objectivity as a subjectivity identical with itself, belongs to every essential spirituality: the family, the fatherland and the state. The unity of selves that are free and yet identical is present in the family, in love within its form of particularity, and in patriotism, the willing of the universal aims and interests of the state.
 Texts:
   The Philosophy of Mind
     §436
 Citations:
+  This universal mirroring of self-consciousness, the concept that is aware of itself in its objectivity as subjectivity identical with itself and therefore universal, is the form of consciousness of the substance of every essential spirituality—of the family, the fatherland, the state
+    — Encyclopedia §436, Remark (tr. Wallace and Miller, rev. Inwood)
+  It forms the substance of ethical life, especially of the family, of sexual love (there the unity has the form of particularity), of patriotism, this willing of the universal aims and interests of the state
+    — Encyclopedia §436, Addition (tr. Wallace and Miller, rev. Inwood)

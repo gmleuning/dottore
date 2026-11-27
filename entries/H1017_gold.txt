@@ -19,8 +19,12 @@ Adv:
   in gold
 
 # ---- Hegel ----
-Def: Gold, laid over the ivory figure as robe and ornament, its splendour serving the god's majesty.
+Def: Gold, joined with ivory, clothed the colossal statues of Phidias, whose robes and mantle were gold plates that could be removed. The costliness of their divine images mattered greatly to the Athenians, and the statue of Athene at Plataea was only superficially gilded while that at Athens bore solid plates of gold.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
 Citations:
+  The nude parts of the body were made of laminated ivory, her robe and mantle of gold-plates which could be removed.
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)
+  The Athene at Plataea was only superficially gilt, but the one at Athens had solid plates of gold.
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)

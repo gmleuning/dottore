@@ -27,8 +27,12 @@ F:
   Portuguese: Os Lusíadas
 
 # ---- Hegel ----
-Def: The romantic epic of the Middle Ages, the Nibelungen, Dante, the epics of chivalry.
+Def: Romantic epic enters through the faith, deeds and fates of new peoples, Germanic and Latin: the remains of their pagan days, such as the Ossian poems and the Edda, and the medieval epics of national heroes, like the Cid and the Nibelungenlied, of religion, and of chivalry, until the renaissance turned to new matter and forms.
 Texts:
   Aesthetics
     Poetry › Epic Poetry › The Historical Development of Epic Poetry › The Romantic Epic
 Citations:
+  Consequently a new breath and spirit could enter epic poetry only through the outlook, religious faith, deeds, and fates of neo peoples.
+    — Aesthetics, The Historical Development of Epic Poetry › The Romantic Epic (tr. Knox)
+  It is a string of pearls, each single picture is a rounded whole in itself, and yet each is so fitted in to the other that they are ranged together into a single whole
+    — Aesthetics, The Historical Development of Epic Poetry › The Romantic Epic (tr. Knox)

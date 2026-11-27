@@ -32,8 +32,14 @@ Phr:
   under the surface
 
 # ---- Hegel ----
-Def: The sublation of measure into the indifferent substrate that persists through its alterations: essence in becoming.
+Def: The becoming of essence is the movement in which being, through measure, passes into essence. Being first becomes absolute indifference, mediating itself into a simple unity through the negation of every determinateness of quality, quantity and measure, with these as mere states of a substrate. This indifference proves a contradiction: it repels itself from itself in an infinite negative self-reference, so that its determinations are no longer self-subsisting but only posited, referred to their unity. Being which, through the sublation of being, is simple being with itself is essence.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › The becoming of essence
 Citations:
+  The indifference which can be called absolute, however, is one which, through the negation of every determinateness of being, of quality and quantity and of their at first immediate unity, that is, of measure, mediates itself with itself to form a simple unity.
+    — The Science of Logic, Measure › The becoming of essence (tr. di Giovanni)
+  Indifference, now posited as what it in fact is, is simple and infinitely negative self-reference, the incompatibility of itself with itself, the repelling of itself from itself.
+    — The Science of Logic, Measure › The becoming of essence (tr. di Giovanni)
+  And so is being determined as essence – being which, through the sublation of being, is simple being with itself.
+    — The Science of Logic, Measure › The becoming of essence (tr. di Giovanni)

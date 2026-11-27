@@ -43,8 +43,12 @@ Phr:
   ein mal kein mal [Ger.]
 
 # ---- Hegel ----
-Def: Being-for-self become self-identical, indifferent to its limit; the unity of continuity and discreteness.
+Def: Quantity is sublated being-for-itself: the one that behaved only negatively toward the others has gone over into connection with them, and its absolute hardness has melted into a unity that still contains repulsion. As a determinateness indifferent to being, it is first pure quantity, with no determinateness in it; then quantum, determinacy that is only external and passes into infinite progress; and last quantitative ratio. Its moments are continuity and discreteness, and quantity is their unity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantity
 Citations:
+  Quantity is sublated being-for-itself. The repelling one that behaved only negatively towards the excluded one, now that it has gone over in connection with it, behaves towards the other as identical to itself and has therefore lost its determination; being-for-itself has passed over into attraction. The absolute obduracy of the one has melted away into this unity
+    — The Science of Logic, Quantity (tr. di Giovanni)
+  Quantity is the unity of these moments, of continuity and discreteness.
+    — The Science of Logic, Quantity (tr. di Giovanni)

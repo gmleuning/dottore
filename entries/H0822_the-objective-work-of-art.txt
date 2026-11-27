@@ -26,8 +26,12 @@ Phr:
   carved in marble
 
 # ---- Hegel ----
-Def: The objective work of art: the gods, spiritual powers in human shape, made by the poets and artists.
+Def: The shaping of the divine world, in which the Greek idea becomes objective as religion. The gods are beautiful individuals: spirit is their essence and the natural only their point of departure, transformed into spiritual power. Their human form is their truth, yet they are not absolute free Spirit, since each is a particular character bound by human limitation.
 Texts:
   The Philosophy of History
     The Greek World › Phases of Individuality Aesthetically Conditioned › The Objective Work of Art
 Citations:
+  But on the other hand, it must be observed, that the divinity of the Greeks is not yet the absolute, free Spirit, but Spirit in a particular mode, fettered by the limitations of humanity—still dependent as a determinate individuality on external conditions. Individualities, objectively beautiful, are the gods of the Greeks.
+    — The Philosophy of History, Phases of Individuality Aesthetically Conditioned › The Objective Work of Art (tr. Sibree)
+  On the contrary (we may immediately rejoin) man as the Spiritual constitutes the element of truth in the Greek gods, which rendered them superior to all elemental deities, and all mere abstractions of the One and Highest Being.
+    — The Philosophy of History, Phases of Individuality Aesthetically Conditioned › The Objective Work of Art (tr. Sibree)

@@ -29,8 +29,12 @@ Phr:
   the Dark Ages
 
 # ---- Hegel ----
-Def: Medieval philosophy, Christian and Arabic, the content of the faith reflected in thought.
+Def: The second period, a thousand years to the sixteenth century, has its locus in the Christian world, with Arabs and Jews referred to only as historical background. A new religion has arisen, whose essential principle, already known in idea through Neoplatonism, is that God, what has being in and for itself, is spirit.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy
 Citations:
+  In this second period, philosophy has its locus in the Christian world
+    — Lectures on the History of Philosophy 1825–6, Medieval Philosophy (tr. Brown)
+  For the essential principle of it is that what has being in and for itself, or God, is spirit.
+    — Lectures on the History of Philosophy 1825–6, Medieval Philosophy (tr. Brown)

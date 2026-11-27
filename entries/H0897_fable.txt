@@ -34,8 +34,12 @@ Phr:
   sour grapes
 
 # ---- Hegel ----
-Def: The fable, a natural event used to illustrate a universal moral truth.
+Def: A fable, in Aesop's original form, represents a relation or occurrence in nature, especially among animals, taken as it truly is and not invented at whim, so told that a general lesson for human life, chiefly its practical side, can be drawn from it. It is no longer a religious reading of nature as revealing the divine will but an everyday event yielding a maxim, warning or prudential rule.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Fable
 Citations:
+  In keeping with this definition, the genuine fable of Aesop is the representation of some situation or other in animate and inanimate nature, or of an event in the animal world not devised capriciously, as may be supposed, but taken as it actually is in the world and truly observed
+    — Aesthetics, Comparisons Originating from the External Object › Fable (tr. Knox)
+  Instead there is an entirely commonplace course of natural occurrences; from its detailed representation there can be abstracted, in a way we can understand, an ethical maxim, a warning, a doctrine, a prudential rule, and it is presented for the sake of this reflection and displayed to contemplation.
+    — Aesthetics, Comparisons Originating from the External Object › Fable (tr. Knox)

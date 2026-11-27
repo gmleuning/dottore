@@ -42,8 +42,12 @@ Phr:
   gone where the woodbine twineth
 
 # ---- Hegel ----
-Def: The contract made complete by a pledge, which secures its performance.
+Def: The completion of a contract by pledge secures its performance where ownership and possession are separated, as in letting or in an undertaking not completed at once. The pledge puts or keeps me in actual possession of the value that is, or is to become, my property, though not of the specific thing itself.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  C. Completion of a contract (cautio) through giving a pledge.
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)
+  Now what the pledge effects is that in the one case I remain, and in the other case I am put, in actual possession of the value as that which is still or has already become my property, without in either case being in possession of the specific thing which I am handing over or which is to be mine.
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

@@ -54,8 +54,12 @@ Phr:
   a house divided
 
 # ---- Hegel ----
-Def: Consciousness of itself as doubled, the changeable against the unchangeable beyond, which it cannot reach.
+Def: The unhappy consciousness is consciousness of itself as doubled and self-contradicting within one consciousness. It takes the simple unchangeable to be its essence and the manifoldly changeable to be inessential, places itself on the side of the changeable, and must strive to free itself from itself. Its struggle is with an enemy against whom victory means defeat, so that life and action bring only sorrow. Through the surrender of its own will, mediated by a third, there arises for it the representation of reason, the certainty of being all reality.
 Texts:
   The Phenomenology of Spirit
     ¶¶207–230
 Citations:
+  Because, to itself, this contradiction of its essence is one consciousness, this unhappy and estranged consciousness within itself also must always have in one consciousness that of an other consciousness.
+    — The Phenomenology of Spirit ¶207 (tr. Pinkard)
+  As a result, there is a struggle against an enemy in which victory really means defeat and in which attaining one thing means instead losing it in its opposite.
+    — The Phenomenology of Spirit ¶209 (tr. Pinkard)

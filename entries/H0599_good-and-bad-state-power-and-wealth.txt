@@ -41,8 +41,12 @@ Phr:
   money talks
 
 # ---- Hegel ----
-Def: The good and the bad as state power and wealth, each judged good and then bad.
+Def: Good and bad, state power and wealth, are the two spiritual powers of the actual world. The self-equal, unchanging essence is the good, the foundation and result of individuals' doing; the essence that gives itself up and lets individuals become aware of their singleness in it is the bad. Self-consciousness judges them, and at first takes state power as good and wealth as bad; but since each is the permeation of both moments, this first judgement is not yet spiritual, and each can be judged either way.
 Texts:
   The Phenomenology of Spirit
     ¶¶492–499
 Citations:
+  The first is in that former form of simplicity, as the self-equal essence, or the immediate, and unchanging essence of all consciousness, the good
+    — The Phenomenology of Spirit ¶492 (tr. Pinkard)
+  Yet this first judgment cannot be regarded as a spiritual judgment
+    — The Phenomenology of Spirit ¶494 (tr. Pinkard)

@@ -39,8 +39,12 @@ Phr:
   in the ratio of
 
 # ---- Hegel ----
-Def: Quantum related to quantum, where each is determined only through the other, so that quality returns into quantity.
+Def: Quantitative ratio is the infinite quantum as the unity of quantitative and qualitative determinateness. In ratio a quantum is no longer indifferently determined: it refers to its beyond, which is another quantum, and each has its determinateness in this reference, so that in the other it has returned into itself. The relation is itself a magnitude, a self-enclosed whole. It runs from direct ratio through inverse ratio to the ratio of powers, where the qualitative moment, fully posited, becomes measure.
 Texts:
   The Science of Logic
     The Doctrine of Being › Ratio or the quantitative relation
 Citations:
+  In ratio, quantum no longer has a merely indifferent determinateness but is qualitatively determined as simply referring to its beyond.
+    — The Science of Logic, Ratio or the quantitative relation (tr. di Giovanni)
+  It continues in its beyond, and this beyond is at first just an other quantum. Essentially, however, the two do not refer to each other as external quanta but each rather possesses its determinateness in this reference to the other. In this, in their otherness, they have thus returned into themselves; what each is, that it is in its other; the other constitutes the determinateness of each.
+    — The Science of Logic, Ratio or the quantitative relation (tr. di Giovanni)

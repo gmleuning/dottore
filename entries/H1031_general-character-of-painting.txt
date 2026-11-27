@@ -27,8 +27,12 @@ Phr:
   the window on the world
 
 # ---- Hegel ----
-Def: The general character of painting, the reduction of three dimensions to the surface, the inner made visible.
+Def: The general character of painting rests on its essential principle, the subjectivity of mind that embraces heaven and earth in feeling, idea and action, which places its centre in romantic and Christian art. The question is which content by its nature matches painting's means. Antiquity painted well but could not bring painting to the development it reached in the Christian Middle Ages and after.
 Texts:
   Aesthetics
     Painting › General Character of Painting
 Citations:
+  I have specified as the essential principle of painting the subjectivity of mind which in the life of its feelings, ideas, and actions embraces the whole of heaven and earth and is present in a variety of situations and external modes of appearance in the body
+    — Aesthetics, Painting › General Character of Painting (tr. Knox)
+  If, this granted, we ask for a reason why painting has been brought to its own proper height through the content of romantic art alone, the answer is that the spiritual depth of feeling, the bliss and grief of the heart is precisely this deeper content which demands spiritual animation and which has paved the way to the higher artistic perfection of painting and made that necessary.
+    — Aesthetics, Painting › General Character of Painting (tr. Knox)

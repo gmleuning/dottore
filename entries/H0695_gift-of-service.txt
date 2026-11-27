@@ -33,8 +33,10 @@ Phr:
   a sacred trust
 
 # ---- Hegel ----
-Def: The giving of a service gratis, as the keeping of a deposit.
+Def: The gift of service is the third species of the contract of gift: a service given without payment, such as the mere safe-keeping of another's property (deposit). Hegel adds that a gift conditional on the donor's death is a testamentary disposition, which lies outside the concept of contract and presupposes civil society.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (3) Gift of service of any sort, e.g. the mere safe-keeping of a property (depositum).
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

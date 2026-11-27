@@ -26,8 +26,12 @@ Phr:
   the child is father of the man [Wordsworth]
 
 # ---- Hegel ----
-Def: Eltern und Kinder: the parents' piety, moved by seeing their own actuality in another that grows as they fade, and the children's, who owe their being to a source that vanishes.
+Def: Parents and children are bound by a piety on each side that is affected by passing over into another. Parents are moved by the awareness that they have their actuality in the child and see it come to an independence of its own which they cannot take back. Children are moved by coming to be through an other who is vanishing, and by reaching their own independence and self-consciousness only through separation from their origin, a separation in which that origin recedes.
 Texts:
   The Phenomenology of Spirit
-    ¶456
+    ¶455
 Citations:
+  The piety of parents towards their children is affected by the emotion brought on by their awareness that they have their actuality in an other and that they see their children come to their own being-for-itself without the parents being able to get it back. The child’s being for itself remains an alien actuality, an actuality all its own.
+    — The Phenomenology of Spirit ¶455 (tr. Pinkard)
+  But conversely the devotion of children towards their parents is affected by the emotion of their coming-to-be, or having their own in-itself in an other who is vanishing, and in achieving being-for-itself and their own self-consciousness only through separation from their origin – a separation within which the origin recedes.
+    — The Phenomenology of Spirit ¶455 (tr. Pinkard)

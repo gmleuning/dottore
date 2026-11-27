@@ -31,8 +31,12 @@ Phr:
   under one aspect
 
 # ---- Hegel ----
-Def: The absolute as it is for reflection, the whole absolute under one determination, as Spinoza's thought and extension.
+Def: The absolute attribute is the relative absolute, the absolute in a determination of form. Since the form is the absolute's own, the attribute contains the whole content of the absolute, a totality that earlier appeared as a world or as one side of the essential relation, now its single true subsistence. But the determination that makes it an attribute is posited as unessential, a mere reflective shine; so the attribute is the absolute only in the determination of identity.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › The absolute › The absolute attribute
 Citations:
+  The attribute is just the relative absolute, a combination which only signifies the absolute in a form determination.
+    — The Science of Logic, The absolute › The absolute attribute (tr. di Giovanni)
+  But because form is at the same time as the form of the absolute, the attribute is the whole content of the absolute
+    — The Science of Logic, The absolute › The absolute attribute (tr. di Giovanni)

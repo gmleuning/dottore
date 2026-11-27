@@ -34,8 +34,12 @@ Phr:
   to recognize
 
 # ---- Hegel ----
-Def: Cognition, in which reason finds its own determinations in the world.
+Def: Cognition is spirit's getting to know things, in the certainty that in concerning itself with them it will know them. It does this through the stages of intuition, representation and thought. Spirit is not afraid of things or diffident about them: it proceeds from the certainty of reason that things cannot resist it, that they are in themselves what it knows them to be, and in this way it reaches truth. This is the standpoint of spirit.
 Texts:
-  The Philosophy of Mind
+  The Berlin Phenomenology
     §439
 Citations:
+  Spirit wants to know, to think, is certain that in that it concerns itself with things, it gets to know them. It does this through the stages of intuition, presentation and thought, by concerning itself with them.
+    — The Berlin Phenomenology §439 (tr. Petry)
+  It proceeds from the certainty of reason, the certainty that things as they are implicitly are not able to resist it, that they are implicitly what it knows them to be, and in this way it reaches truth.
+    — The Berlin Phenomenology §439 (tr. Petry)

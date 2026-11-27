@@ -34,8 +34,12 @@ Phr:
   to come out of one's shell
 
 # ---- Hegel ----
-Def: The lower animals, in which the systems are not yet developed: worms, mollusks, the shelled animals.
+Def: Worms and molluscs belong to the invertebrates, in which organic and animal life stand opposed, one developed at the other's expense. In them the organism is inwardly more developed than outwardly: they have brain, heart and vessels, but a formless exterior, with hardly any external limbs and few muscles of movement.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  In worms, molluscs, shell-fish, etc., the organism is internally more developed but its exterior is formless
+    — Encyclopedia §370, Addition (tr. Miller)
+  [T]he former have more developed viscera than the insects, but these have a more delicately fashioned exterior.
+    — Encyclopedia §370, Addition (tr. Miller)

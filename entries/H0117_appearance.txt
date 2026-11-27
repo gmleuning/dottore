@@ -47,8 +47,12 @@ Phr:
   editio princeps [Lat.]
 
 # ---- Hegel ----
-Def: Essence that appears, reflected into existence: what exists as appearance has its ground in an other.
+Def: Appearance is the sphere in which essence, which must appear, comes forth. Being is essence, and essence as simple self-equality is likewise being, a being that has come forth out of negativity and inwardness. Its determinations gain an independent subsistence whose reflective shine is completed in appearance. It is first concrete existence and the thing; then appearance as the truth of the thing, with a world in itself opposed to it; and finally essential relation, in which what appears shows the essential.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Appearance
 Citations:
+  Thus essence appears. Reflection is the internal shining of essence.
+    — The Science of Logic, Appearance (tr. di Giovanni)
+  But the being that appears and essential being stand referred to each other absolutely. Thus concrete existence is, third, essential relation; what appears shows the essential, and the essential is in its appearance.
+    — The Science of Logic, Appearance (tr. di Giovanni)

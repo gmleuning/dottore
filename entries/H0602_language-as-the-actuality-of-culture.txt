@@ -38,8 +38,12 @@ Phr:
   the power of speech
 
 # ---- Hegel ----
-Def: Language as the existence of the pure self, the medium in which culture is actual.
+Def: Language is the actuality of culture, the mediating middle in which the two extremes, state power and the noble consciousness, each existing for itself, pass into one another. Obedience subverts state power into the abstract universal called the common good and turns the noble consciousness into honour with a will still lying in wait. Only in language does spirit enter existence, knowing the pure self to be an actuality immediately in force, and so come to exist as spirituality.
 Texts:
   The Phenomenology of Spirit
     ¶¶508–510
 Citations:
+  The unity of the concept in which state-power still stands and into which consciousness has distilled itself becomes actual in this mediating movement, whose simple existence as the mediating middle is language.
+    — The Phenomenology of Spirit ¶509 (tr. Pinkard)
+  Through the latter, spirit comes into existence as spirituality.
+    — The Phenomenology of Spirit ¶508 (tr. Pinkard)

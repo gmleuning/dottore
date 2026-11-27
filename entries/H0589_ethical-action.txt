@@ -16,8 +16,14 @@ F:
   Chinese: ming [fate]
 
 # ---- Hegel ----
-Def: The deed that breaks the balance, the guilt of acting on one law against the other, and the destiny that follows.
+Def: Ethical action is the deed that sets the unmoved into motion. Ethical consciousness knows what it has to do and has decided for one law, divine or human, and is therefore character. Acting links the unconscious to the conscious and turns the harmony of the two laws into their opposition, bringing a violated power out against the agent. In the deed the agent meets guilt, and at last destiny, in which the shape of ethical substance perishes.
 Texts:
   The Phenomenology of Spirit
     ¶¶464–476
 Citations:
+  However, ethical consciousness knows what it has to do, and it has decided whether it is to belong to divine or to human law.
+    — The Phenomenology of Spirit ¶464 (tr. Pinkard)
+  Because it has decided in favor of one of them, ethical consciousness is essentially character.
+    — The Phenomenology of Spirit ¶465 (tr. Pinkard)
+  The deed consists in setting the unmoved into motion, which thereby brings forth what had been sealed off as mere possibility, and it links the unconscious to the conscious and the non-existent to being.
+    — The Phenomenology of Spirit ¶468 (tr. Pinkard)

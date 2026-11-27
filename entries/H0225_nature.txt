@@ -41,8 +41,12 @@ Phr:
   in the nature of things
 
 # ---- Hegel ----
-Def: The idea in the form of otherness: externality is the determination in which nature is nature, a system of stages in which the concept is hidden and seeks itself.
+Def: Nature is the idea in the form of otherness. Since the idea is thus the negative of itself, externality is not merely nature's relation to the idea but the determination in which nature exists as nature, showing necessity and contingency rather than freedom. It is to be regarded as a system of stages, one arising necessarily from another, generated not naturally but in the inner idea that grounds it.
 Texts:
   The Philosophy of Nature
     §§245–376
 Citations:
+  Nature has presented itself as the Idea in the form of otherness.
+    — Encyclopedia §247 (tr. Miller)
+  Nature is to be regarded as a system of stages, one arising necessarily from the other and being the proximate truth of the stage from which it results: but it is not generated naturally out of the other but only in the inner Idea which constitutes the ground of Nature.
+    — Encyclopedia §249 (tr. Miller)

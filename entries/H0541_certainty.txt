@@ -33,8 +33,12 @@ Phr:
   sure as eggs is eggs
 
 # ---- Hegel ----
-Def: Reason in the form of subjective conviction, before it has proved itself in the object.
+Def: Certainty is reason as self-consciousness first has it: the certainty that its determinations are objective, determinations of the essence of things just as much as its own thoughts. Reason is truth in and for itself, the simple identity of the subjectivity of the concept with its objectivity and universality, so that the object once merely given to consciousness now permeates the I, and the I overarches the object.
 Texts:
   The Philosophy of Mind
     §§438–439
 Citations:
+  Self-consciousness is thus the certainty that its determinations are objective, are determinations of the essence of things, just as much as they are its own thoughts.
+    — Encyclopedia §439 (tr. Wallace and Miller, rev. Inwood)
+  Reason is the truth that is in and for itself, and this is the simple identity of the subjectivity of the concept with its objectivity and universality.
+    — Encyclopedia §438 (tr. Wallace and Miller, rev. Inwood)

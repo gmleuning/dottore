@@ -15,8 +15,12 @@ Adj:
   songlike
 
 # ---- Hegel ----
-Def: The song, in which the self expresses its mood most simply and is apt to be sung.
+Def: Song spreads out the endless variety of lyric moods and reflections, where national differences and the traits of individual poets show most fully. Simple in material, movement, metre and language, it begins in the heart, holds tranquilly to one situation or feeling and rounds it into a whole, and every people is most at home in its songs.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  Consequently it is in song that particular national differences and the special characteristics of individual poets are most completely in evidence.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  Therefore every people is most at home and comfortable in its songs.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

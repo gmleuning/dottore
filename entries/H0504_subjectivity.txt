@@ -26,8 +26,14 @@ Phr:
   it's all in the mind
 
 # ---- Hegel ----
-Def: Consciousness discovering that in the inner it has itself before it, and so becoming self-consciousness.
+Def: In infinity, the absolute restlessness in which every determinacy is the opposite of itself, consciousness at last has as its object a difference that is immediately sublated: it distinguishes what is not distinct, and so is self-consciousness. The explanation in which the understanding enjoys only itself already describes this. The curtain that seemed to hide the inner is lifted, and the inner gazes into the inner. Self-consciousness is shown to be the truth of the shapes of consciousness, though at first only for us.
 Texts:
   The Phenomenology of Spirit
     ¶¶161–165
 Citations:
+  Consciousness of an other, of an object as such, is indeed itself necessarily self-consciousness, being-reflected into itself, consciousness of its own self, in its otherness.
+    — The Phenomenology of Spirit ¶164 (tr. Pinkard)
+  It turns out that behind the so-called curtain, which is supposed to hide what is inner, there is nothing to be seen if we ourselves do not go behind it, and one can see something behind the curtain only if there is something behind the curtain to be seen.
+    — The Phenomenology of Spirit ¶165 (tr. Pinkard)
+  Not only is consciousness of things only possible for a self-consciousness; rather, it is this self-consciousness alone which is the truth of those shapes.
+    — The Phenomenology of Spirit ¶164 (tr. Pinkard)

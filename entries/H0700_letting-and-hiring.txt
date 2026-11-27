@@ -31,8 +31,10 @@ Phr:
   to let
 
 # ---- Hegel ----
-Def: The alienation of use for a price, while the ownership remains.
+Def: Letting and hiring is the alienation of the temporary use of a property in return for rent, while the owner keeps ownership. It divides into the letting of a specific thing, such as a house, and the letting of a universal thing, money, where the lender remains owner only of its value.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (2) Letting (locatio, conductio); alienation of the temporary use of a property in return for rent
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

@@ -40,8 +40,12 @@ Phr:
   the makings of
 
 # ---- Hegel ----
-Def: The properties made self-subsistent as matters, free stuffs, so that the thing is only their external collection, an also.
+Def: The constitution of the thing out of matters comes about when properties, being what is essential in things and their true self-subsistence, pass over into self-subsisting stuffs, as chemistry speaks of colouring or odorous matter. The thing then consists of matters that are continuous across different things. Thinghood is reduced to an unessential moment, yet it preserves itself as the negative unity that makes this thing out of these matters, as a merely quantitative combination of them.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Concrete existence › The constitution of the thing out of matters
 Citations:
+  The necessity of making the transition from properties to matters, or of assuming that the properties are truly matters, has resulted from the fact that they are what is the essential in things and consequently their true self-subsistence.
+    — The Science of Logic, Concrete existence › The constitution of the thing out of matters (tr. di Giovanni)
+  Equally current is the saying that things consist of various matters or stuffs.
+    — The Science of Logic, Concrete existence › The constitution of the thing out of matters (tr. di Giovanni)

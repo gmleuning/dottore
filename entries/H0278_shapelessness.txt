@@ -43,8 +43,12 @@ Phr:
   the wreck of matter and the crush of worlds [Addison]
 
 # ---- Hegel ----
-Def: The extremes of shapelessness: the point-like brittleness and the spherical fluidity of the drop.
+Def: Shapelessness is immediate shape, posited as formless within itself, in two extremes: the point-like brittleness of the granular, pulverizable body, and the spherical shape taken by liquids. Sphericity is a self-rounding fluidity that effaces every dimension, so that determinateness remains undeveloped; fluid matter, inwardly indeterminate, assumes it under equal pressure on all sides.
 Texts:
   The Philosophy of Nature
     §311
 Citations:
+  Opposed to this is sphericity, the general self-rounding fluidity which effaces every dimension within itself and which, therefore, although carried out in all three dimensions, is a totality in which determinateness is not developed.
+    — Encyclopedia §311, Addition (tr. Miller)
+  Fluid matter assumes a spherical shape since, being inwardly indeterminate, it has equal atmospheric pressures on all sides
+    — Encyclopedia §311, Addition (tr. Miller)

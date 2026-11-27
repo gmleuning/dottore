@@ -46,8 +46,12 @@ Phr:
   a creature of habit
 
 # ---- Hegel ----
-Def: The subject that has a self within itself, the animal: self-movement, voice, animal heat, feeling; it is the self for itself.
+Def: Animal nature is organic individuality existing as subjectivity: the externality of shape is idealized into members, and in its outward process the organism keeps the unity of the self within. The animal is the self that is for the self, with self-movement, voice, animal heat, interrupted nourishment from individual things and, above all, feeling.
 Texts:
   The Philosophy of Nature
     §§350–376
 Citations:
+  The animal has freedom of self-movement because its subjectivity is, like light, ideality freed from gravity
+    — Encyclopedia §351 (tr. Miller)
+  In the animal, light has found itself, for the animal arrests its relationship to an other; it is the self which is for the self—the existing unity of distinct moments which are pervaded by it.
+    — Encyclopedia §350, Addition (tr. Miller)

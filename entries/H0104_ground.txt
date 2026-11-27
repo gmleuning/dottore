@@ -46,8 +46,14 @@ Phr:
   the reason why
 
 # ---- Hegel ----
-Def: Contradiction resolved: essence posited as the totality, the unity of identity and difference, from which existence comes forth.
+Def: Ground is essence determining itself, the last of the determinations of reflection, determination determined as sublated. In going to ground the opposed determinations receive their true meaning: positedness belongs to essence only as sublating itself. Essence as ground does not proceed from another but, in its negativity, is identical with itself, positing itself as essence. Whereas reflection is pure mediation in general, ground is the real mediation of essence with itself.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground
 Citations:
+  Consequently, ground is itself one of the reflected determinations of essence, but it is the last, or rather, it is determination determined as sublated determination.
+    — The Science of Logic, Ground (tr. di Giovanni)
+  Thus essence, in determining itself as ground, proceeds only from itself.
+    — The Science of Logic, Ground (tr. di Giovanni)
+  Reflection is pure mediation in general; ground, the real mediation of essence
+    — The Science of Logic, Ground (tr. di Giovanni)

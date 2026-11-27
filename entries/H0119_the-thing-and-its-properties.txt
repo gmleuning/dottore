@@ -39,8 +39,12 @@ Phr:
   the thing itself
 
 # ---- Hegel ----
-Def: The existent as a thing with many properties, the unity of reflection-into-self and reflection-into-other.
+Def: The thing is the concretely existing something, an immediacy that has arisen through the reflection of mediation into itself. It is distinct from its concrete existence as something is from its being, yet immediately one with it. This distinction is that of the thing in itself and external existence. The thing's relation to others lies in its properties; these become self-subsisting matters, of which the thing is composed, and as a mere collection of them it dissolves.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Concrete existence › The thing and its properties
 Citations:
+  [T]he concretely existent something is different from the something that exists immediately. The former is essentially an immediacy that has arisen through the reflection of mediation into itself. The concretely existent something is thus a thing.
+    — The Science of Logic, Concrete existence › The thing and its properties (tr. di Giovanni)
+  Concrete existence as such contains this very distinction in the moment of its mediation: the distinction of thing-in-itself and external concrete existence.
+    — The Science of Logic, Concrete existence › The thing and its properties (tr. di Giovanni)

@@ -59,8 +59,12 @@ Phr:
   nullum est jam dictum quod non dictum sit prius [Lat.] [Terence]
 
 # ---- Hegel ----
-Def: Memory that holds words in a series without their meaning, the mind making itself into a being, the passage to thought.
+Def: Mechanical memory is intelligence positing itself as the universal space of names as senseless words, the abstract subjectivity that holds them in series and stable order. We know a composition by heart only when we attach no sense to the words. In this self-externalization mind makes itself a mechanism, yet thereby the difference between meaning and name is sublated, and memory passes into the activity of thought.
 Texts:
   The Philosophy of Mind
     §§463–464
 Citations:
+  We obviously do not really know a composition by heart, until we attach no sense to the words
+    — Encyclopedia §463, Remark (tr. Wallace and Miller, rev. Inwood)
+  Memory is in this way the transition into the activity of the thought
+    — Encyclopedia §464 (tr. Wallace and Miller, rev. Inwood)

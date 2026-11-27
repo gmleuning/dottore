@@ -36,8 +36,12 @@ Phr:
   to till the soil
 
 # ---- Hegel ----
-Def: The estate that has its resources in the soil, its substantiality and trust in nature.
+Def: The substantial or agricultural estate has its resources in the natural products of the soil it cultivates. Since its work is bound to the seasons and dependent on nature, its disposition is that of an immediate ethical life, resting on the family relationship and on trust; with marriage, agriculture is the real beginning of states.
 Texts:
   The Philosophy of Right
     §203
 Citations:
+  The substantial [or agricultural] estate has its resources in the natural products of the soil which it cultivates—soil which is capable of exclusively private ownership and which demands formation in an objective way and not mere haphazard exploitation.
+    — The Philosophy of Right §203 (tr. Knox, rev. Houlgate)
+  The real beginning and original foundation of states has been rightly ascribed to the introduction of agriculture along with marriage
+    — The Philosophy of Right §203, Remark (tr. Knox, rev. Houlgate)

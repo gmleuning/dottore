@@ -29,8 +29,12 @@ Phr:
   pretty as a picture
 
 # ---- Hegel ----
-Def: The outward beauty of natural shapes, their abstract form and the unity of their sensuous material.
+Def: External beauty is the beauty of natural reality whose inner side remains indeterminate and abstract instead of attaining the concrete inwardness of soul. Its unity therefore appears as one determining the object from outside, and form and sensuous material fall apart. It is considered first as abstract form, in regularity, symmetry, conformity to law and harmony, and then as the simple unity of the sensuous material, its purity.
 Texts:
   Aesthetics
     The Beauty of Nature › The External Beauty of the Abstract Form
 Citations:
+  In nature there is an external reality which externally is determined, but its inner being does not get beyond indeterminacy and abstraction instead of attaining concrete inwardness as unity of soul.
+    — Aesthetics, The Beauty of Nature › The External Beauty of the Abstract Form (tr. Knox)
+  But such a concrete unity beauty has not attained at this stage, but has this unity as the Ideal still lying ahead of it.
+    — Aesthetics, The Beauty of Nature › The External Beauty of the Abstract Form (tr. Knox)

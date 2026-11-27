@@ -39,8 +39,12 @@ Phr:
   genus and difference
 
 # ---- Hegel ----
-Def: The given object brought into the form of the concept: genus and specific difference.
+Def: Definition reduces the subject matter to its concept, abstracting from the externalities of its concrete existence, and apprehends it as a determinate universal, simplifying the wealth that description collects for representation. Its content is given and contingent, and there is no principle for deciding which features belong to the concept and which to external reality, though for products of purposive activity the purpose readily supplies the definition.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The idea of cognition › The idea of the true › Synthetic cognition › Definition
 Citations:
+  Description is for representation; it collects this extra content that belongs to reality. But definition reduces this wealth of manifold determinations of the intuited existence to its simplest moments
+    — The Science of Logic, Synthetic cognition › Definition (tr. di Giovanni)
+  There is in fact no principle, therefore, for determining which aspects of the subject matter are to be regarded as belonging to its conceptual determination and which only to its external reality.
+    — The Science of Logic, Synthetic cognition › Definition (tr. di Giovanni)

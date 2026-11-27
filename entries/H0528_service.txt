@@ -49,8 +49,14 @@ Phr:
   acun chemin de fleurs ne conduit a la gloire [Fr.]
 
 # ---- Hegel ----
-Def: The servant's labour, the discipline of service, through which the servant shapes the thing and finds a self in it.
+Def: Service is the discipline in which the servant, who has felt the fear of death and been shaken in all that was fixed, works off natural existence in actuality. Work is desire held in check: unlike the master's consumption, which vanishes, it forms the object into something that lasts, and in it the servant comes to see independent being as their own self. Fear, service and formative activity are all necessary; through them the servant acquires a mind of their own precisely where there seemed to be only another's.
 Texts:
   The Phenomenology of Spirit
     ¶¶194–196
 Citations:
+  In his service, he sublates all of the singular moments of his attachment to natural existence, and he works off his natural existence.
+    — The Phenomenology of Spirit ¶194 (tr. Pinkard)
+  In contrast, work is desire held in check, it is vanishing staved off , or: work cultivates and educates.
+    — The Phenomenology of Spirit ¶195 (tr. Pinkard)
+  Without the discipline of service and obedience, fear is mired in formality and does not diffuse itself over the conscious actuality of existence.
+    — The Phenomenology of Spirit ¶196 (tr. Pinkard)

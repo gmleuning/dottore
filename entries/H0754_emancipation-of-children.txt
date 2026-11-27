@@ -37,8 +37,10 @@ Phr:
   to leave home
 
 # ---- Hegel ----
-Def: The children's coming of age to free personality, to found new families.
+Def: The emancipation of children is the ethical dissolution of the family: once educated to free personality and come of age, children are recognized as persons in law, capable of holding property and founding families of their own. They now have their substantial destiny in the new family, the old family receding into the background.
 Texts:
   The Philosophy of Right
     §177
 Citations:
+  The ethical dissolution of the family consists in this, that once the children have been educated to freedom of personality, and have come of age, they become recognized as persons in the eyes of the law and as capable of holding free property of their own and founding families of their own
+    — The Philosophy of Right §177 (tr. Knox, rev. Houlgate)

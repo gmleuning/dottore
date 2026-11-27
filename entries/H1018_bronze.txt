@@ -22,8 +22,12 @@ Phr:
   aere perennius [Lat.] [more lasting than bronze] [Horace]
 
 # ---- Hegel ----
-Def: Erz, the cast metal the Greeks favoured for its dark warm tone and its fitness for many figures and bold movement.
+Def: Bronze was antiquity's most widespread and favoured material, cast by the Greeks with supreme mastery for gods and other works. Its darker tone and sheen lack marble's abstractness but are warmer; skilful casting made works cheaper and quicker, so pure as to need no chiselling, and its malleability allows every variety of subject and size.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Ivory, Gold, Bronze, and Marble
 Citations:
+  But in antiquity the most widespread and favourite material was bronze, and the Greeks brought the casting of it up to supreme mastery.
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)
+  The very different tone and infinite malleability and, as it were, fluidity of this material, which can be compatible with all sorts of portrayal, permits sculpture to pass into every conceivable variety of productions
+    — Aesthetics, Materials for Sculpture › Ivory, Gold, Bronze, and Marble (tr. Knox)

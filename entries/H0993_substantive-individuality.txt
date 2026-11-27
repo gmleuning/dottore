@@ -27,8 +27,12 @@ Phr:
   a god among gods
 
 # ---- Hegel ----
-Def: Individuality embodying the substantial, the god or hero as the universal in an individual shape.
+Def: Substantive individuality is sculpture's essential task: to implant in the human figure spiritual substance in an individuality not yet subjectively particularized, bringing figure and substance into harmony so that only the universal and permanent in the bodily forms is emphasized and the fortuitous and transient stripped away, while the figure still does not lack individuality.
 Texts:
   Aesthetics
     Sculpture › The Principle of Sculpture Proper › The Beautiful Sculptural Form › Substantive Individuality
 Citations:
+  Thus it turns out that the task of sculpture essentially consists in implanting in a human figure the spiritual substance in its not yet subjectively particularized individuality
+    — Aesthetics, The Beautiful Sculptural Form › Substantive Individuality (tr. Knox)
+  [W]hile the fortuitous and the transient is stripped away, although at the same time the figure must not lack individuality.
+    — Aesthetics, The Beautiful Sculptural Form › Substantive Individuality (tr. Knox)

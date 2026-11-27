@@ -30,8 +30,12 @@ Phr:
   verdächtig zu sein tritt an die Stelle oder hat die Bedeutung und Wirkung, schuldig zu sein [Ger.] [Hegel, Phenomenology]
 
 # ---- Hegel ----
-Def: Der Schrecken: the fury of destruction, whose sole work is death, the coldest and meanest, in which being suspected takes the place of being guilty.
+Def: Terror is what absolute freedom does when only negative doing remains to it. To act at all, the universal will must gather itself into one individual at the head, excluding all others from the deed, so that it is no deed of universal self-consciousness. Its sole work is a death with no inner extent or fulfilment, the negation of the empty point of the free self, the coldest and emptiest of deaths. In this meaningless negativity the terror turns suddenly into the positive knowledge of universal will.
 Texts:
   The Phenomenology of Spirit
     ¶¶589–595
 Citations:
+  Universal freedom can thus produce neither a positive work nor a positive deed, and there remains for it only the negative doing. It is only the fury of disappearing.
+    — The Phenomenology of Spirit ¶589 (tr. Pinkard)
+  The sole work and deed of universal freedom is in fact death, namely, a death which has no inner extent and no inner fulfillment, for what is negated is the unfulfilled empty dot of the absolutely free self. It is therefore the coldest, emptiest death of all, having no more meaning than chopping off a head of cabbage or swallowing a mouthful of water.
+    — The Phenomenology of Spirit ¶590 (tr. Pinkard)

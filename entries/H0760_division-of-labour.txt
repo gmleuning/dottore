@@ -72,8 +72,10 @@ Phr:
   manu forti [Lat.]
 
 # ---- Hegel ----
-Def: The mediation that prepares and acquires means for the particularized needs: labour, which becomes divided and mechanical.
+Def: The division of labour is the universal and objective side of work, brought about by the abstraction that subdivides needs and means. The individual's work becomes simpler, their skill and output greater, and people become dependent on one another for the satisfaction of their other needs.
 Texts:
   The Philosophy of Right
     §198
 Citations:
+  The universal and objective element in work, on the other hand, lies in the process of abstraction which effects the subdivision of needs and means and thereby eo ipso subdivides production and brings about the division of labour. By this division, the work of the individual becomes less complex, and consequently his skill at his abstract work increases, as does the volume of his output.
+    — The Philosophy of Right §198 (tr. Knox, rev. Houlgate)

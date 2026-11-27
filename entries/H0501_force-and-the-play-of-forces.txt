@@ -27,8 +27,14 @@ Phr:
   the play of forces
 
 # ---- Hegel ----
-Def: Force which expresses itself and is driven back into itself, the play of forces.
+Def: Force is the movement in which self-sufficient matters spread out into their being, which is its expression, and are driven back again into a unity, which is force proper. These are not two separate things: the force driven back must express itself, and in expressing it remains within itself. First only a concept of the understanding, force becomes actual by doubling into two forces that solicit and are solicited, each of which is only through the other. So the realization of force is at once the loss of its reality: what proves to be its essence is a universal, the inner of things.
 Texts:
   The Phenomenology of Spirit
     ¶¶136–143
 Citations:
+  This movement is, however, what is called force. One moment of this, namely, the force as the propagation of the self-sufficient matters in their being, is their expression. However, the force as the disappearance of the self-sufficient matters is the force driven out of its expression back into itself, or the genuine force.
+    — The Phenomenology of Spirit ¶136 (tr. Pinkard)
+  Rather, their essence is purely and simply this: Each is only through the other; what each is through the other is immediately no longer to be while it is the other.
+    — The Phenomenology of Spirit ¶141 (tr. Pinkard)
+  The realization of force is therefore at the same time the loss of reality
+    — The Phenomenology of Spirit ¶141 (tr. Pinkard)

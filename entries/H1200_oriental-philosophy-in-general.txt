@@ -29,8 +29,10 @@ Phr:
   the measureless substance
 
 # ---- Hegel ----
-Def: The general character of Eastern thought, the substantial and the measureless.
+Def: The general character of the Oriental standpoint is that the substantial element by itself is the main thing. The individual is without right, will, or consciousness of its own and is submerged in substance, which religion posits directly as what is essential. The Greek freedom of the individual, which sets thought to work in validating its universality, is the higher standpoint.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy › Introduction
 Citations:
+  In the Oriental context, on the contrary, the substantial element by itself is the main thing, and the individual's lack of right, of will, of consciousness, its submergence in the substantial element, is directly bound up with it.
+    — Lectures on the History of Philosophy 1825–6, Oriental Philosophy › Introduction (tr. Brown)

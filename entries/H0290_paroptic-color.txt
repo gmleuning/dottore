@@ -23,8 +23,12 @@ Phr:
   a halo round the moon
 
 # ---- Hegel ----
-Def: Colour formed at the edges of opaque bodies, the fringes of diffraction.
+Def: Paroptic colours appear when the interruption of cohesion goes further than in the epoptic: lamellae and fine cracks are produced in glass, and especially in calcite, where the colour often becomes iridescent. Darkening here results from the transparent body being pressed to the point of an actual breakdown of its togetherness.
 Texts:
   The Philosophy of Nature
     §320
 Citations:
+  If the interruption of cohesion goes further, we have the paroptic colours.
+    — Encyclopedia §320, Addition (tr. Miller)
+  Here a darkening results from the transparent body's being pressed to the point of an actual breakdown in its togetherness.
+    — Encyclopedia §320, Addition (tr. Miller)

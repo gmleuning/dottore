@@ -90,8 +90,12 @@ Phr:
   echoing down the mountain and through the dell
 
 # ---- Hegel ----
-Def: The body's inner ideality set free in its own vibration: the soul of a body, the voice of its inner nature.
+Def: Sound arises when the inner form of a body, its specific simplicity in density and cohesion, becomes free from submergence in material externality. In the vibration of the body, through the momentary negation of its parts and the negation of that negation, this ideality gains independent existence and mechanically soul-like manifestation: materialized space passes into materialized time.
 Texts:
   The Philosophy of Nature
     §§300–302
 Citations:
+  The specific simplicity of the determinateness possessed by body in density and in the principle of its cohesion, this at first inward form, emerging from its submergence in material asunderness, becomes free in the negation of the self-subsistence of this its asunderness.
+    — Encyclopedia §300 (tr. Miller)
+  This is the transition of materialized space into materialized time.
+    — Encyclopedia §300 (tr. Miller)

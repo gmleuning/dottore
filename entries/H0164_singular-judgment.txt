@@ -25,8 +25,12 @@ Phr:
   this one and no other
 
 # ---- Hegel ----
-Def: This singular is essentially universal: this plant is curative.
+Def: The singular judgement is the immediate judgement of reflection, in which the singular is universal, or this is an essential universal. But a this is not an essential universal, so the judgement must be taken negatively. Since the predicate is the implicit being of the subject, the negation falls not on the predicate but on the subject, which needs further determination: not merely a this. So the singular judgement has its truth in the particular judgement.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of reflection › The singular judgment
 Citations:
+  But a “this” is not an essential universal.
+    — The Science of Logic, The judgment of reflection › The singular judgment (tr. di Giovanni)
+  On the contrary, it is the subject that is alterable and needs determination. The negative judgment is therefore to be understood as saying: “‘not a this’ is a universal of reflection”; such an in-itself has a more universal concrete existence than it would have in a “this.” Accordingly, the singular judgment has its proximate truth in the particular judgment.
+    — The Science of Logic, The judgment of reflection › The singular judgment (tr. di Giovanni)

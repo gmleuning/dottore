@@ -38,8 +38,12 @@ Phr:
   surgit amari aliquid [Lat.]
 
 # ---- Hegel ----
-Def: The defect of natural beauty: the living thing does not show its inner soul as free individuality; this deficiency requires art.
+Def: The deficiency of natural beauty explains why the ideal is necessary. The idea is not only substance but concept united with reality, and acquires actuality only through subjectivity that corresponds to the concept; only concrete individuality is true. Natural existence, even animal life, cannot show this inwardness as free, self-transparent individuality, so the imperfection of nature leads to the beauty of art as the one reality adequate to the idea.
 Texts:
   Aesthetics
     The Beauty of Nature › Deficiency of Natural Beauty
 Citations:
+  Our topic proper is the beauty of art as the one reality adequate to the Idea of beauty.
+    — Aesthetics, The Beauty of Nature › Deficiency of Natural Beauty (tr. Knox)
+  We must therefore pose our question thus: why is nature necessarily imperfect in its beauty, and what is the origin of this imperfection?
+    — Aesthetics, The Beauty of Nature › Deficiency of Natural Beauty (tr. Knox)

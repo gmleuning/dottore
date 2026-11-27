@@ -31,8 +31,12 @@ Phr:
   the Athenian democracy
 
 # ---- Hegel ----
-Def: The political work of art: the democratic city-state, where the citizen's will is one with the custom of the people.
+Def: The state as a living universal spirit that is also the self-consciousness of its individual citizens, for which democracy is the fitting constitution. Justice and the common good are willed as custom, before subjective conviction and intention have appeared, so that the affairs of the community can be entrusted to the will and resolve of the citizens.
 Texts:
   The Philosophy of History
     The Greek World › Phases of Individuality Aesthetically Conditioned › The Political Work of Art
 Citations:
+  The main point in Democracy is moral disposition. Virtue is the basis of Democracy, remarks Montesquieu; and this sentiment is as important as it is true in reference to the idea of Democracy commonly entertained.
+    — The Philosophy of History, Phases of Individuality Aesthetically Conditioned › The Political Work of Art (tr. Sibree)
+  The Substance, [the Principle] of Justice, the common weal, the general interest, is the main consideration; but it is so only as Custom, in the form of Objective Will, so that morality properly so called —subjective conviction and intention—has not yet manifested itself.
+    — The Philosophy of History, Phases of Individuality Aesthetically Conditioned › The Political Work of Art (tr. Sibree)

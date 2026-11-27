@@ -31,8 +31,12 @@ Phr:
   you are getting sleepy
 
 # ---- Hegel ----
-Def: The producing of the trance in another, through the magnetizer's power over a weaker soul.
+Def: Inducing is the intentional evoking of the magnetic state, animal magnetism proper. Just as the spontaneous state ends in dependence on an alien power, so an external power can seize a person at the rupture, implicit in them, between feeling life and thinking consciousness, and bring that rupture into existence. The power is chiefly another subject, though certain substances can exercise it, and only those already disposed to the state enter it easily. Its proximate effect is sleep, the separation of the sentient soul from intellectual consciousness.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  Now just as the spontaneously arising magnetic state ends up as dependence on an alien power, so, conversely, an external power can also form the starting-point and—by catching hold of me at the separation, present in itself within me, between my feeling life and my thinking consciousness—bring this rupture within me into existence, and so the magnetic state can be produced artificially.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  What must necessarily take place here is only the sentient soul's becoming independent, its separation from the mediated, intellectual consciousness.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

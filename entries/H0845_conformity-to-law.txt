@@ -35,8 +35,12 @@ Phr:
   as regular as clockwork
 
 # ---- Hegel ----
-Def: A unity of differences that is no longer mere equality, as the curves of the egg and the ellipse.
+Def: Conformity to law stands above regularity and is the transition to the freedom of life, natural and spiritual, though it is not yet free subjective unity. It is a totality of essential differences that display unity and connection, admitting qualitative relations rather than mere calculable differences of size. The ellipse, and more freely the oval, show a law binding aspects that are essentially different, a secret bond the viewer only half grasps.
 Texts:
   Aesthetics
     The Beauty of Nature › The External Beauty of the Abstract Form › Beauty of Abstract Form › Conformity to Law
 Citations:
+  Yet, regarded by itself, conformity to law is certainly not the subjective total unity and freedom itself, though it is already a totality of essential differences
+    — Aesthetics, Beauty of Abstract Form › Conformity to Law (tr. Knox)
+  Yet once again the connection remains as a secret bond which for the spectator is partly something to which he is accustomed, partly the foreshadowing of something deeper.
+    — Aesthetics, Beauty of Abstract Form › Conformity to Law (tr. Knox)

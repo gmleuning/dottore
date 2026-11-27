@@ -27,8 +27,12 @@ Phr:
   the twelve gods
 
 # ---- Hegel ----
-Def: The portrayal of the individual gods, each with its own character.
+Def: Portrayal of the individual gods shows how the Greeks, despite their gods' universality and ideality, kept them individual and distinct without fixed portrait types, invention being subtlest where the substantial type remained its basis. Phidias gave Zeus supremacy, cheerful and benign; Neptune is wilder, Pluto darker; Juno has the greatest majesty among the goddesses.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Portrayal of the Individual Gods
 Citations:
+  [B]ut in this matter the amazing way in which the Greeks have solved this problem in sculpture consisted precisely in their having, despite the universality and ideality of their gods, still preserved their individuality and distinction from one another
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Portrayal of the Individual Gods (tr. Knox)
+  Amongst the female figures Juno has the greatest majesty in form and expression, just as Zeus has amongst the male figures.
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Portrayal of the Individual Gods (tr. Knox)

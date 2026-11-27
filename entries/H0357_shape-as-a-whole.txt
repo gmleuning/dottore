@@ -50,8 +50,12 @@ Phr:
   head and shoulders above
 
 # ---- Hegel ----
-Def: The organism in its complete shape: the three systems as the head and thorax and abdomen, with the limbs.
+Def: Shape as a whole interpenetrates the three systems so that each part contains them, while structure divides into their centres, head for sensibility, thorax for irritability, abdomen for reproduction, with limbs for movement and grasping. It differs also into inward and outward, with symmetry of organs, and as a self-sufficient individual it is particularized into the sex-relation.
 Texts:
   The Philosophy of Nature
     §355
 Citations:
+  Thus the head is the centre of sensibility, the thorax of irritability, and the abdomen of reproduction
+    — Encyclopedia §355, Addition (tr. Miller)
+  The whole, as structure completely developed into a self-subsistent individual, is, in this self-related universality, at the same time particularized into the sex-relation, into a relation outwards with another individual.
+    — Encyclopedia §355 (tr. Miller)

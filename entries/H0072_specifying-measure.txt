@@ -33,8 +33,12 @@ Phr:
   set the standard
 
 # ---- Hegel ----
-Def: Measure as a standard that determines another quantum by itself.
+Def: Specifying measure is the measure of one thing acting on the indifferent, external quantum of another. It is first a rule, an arbitrary unit applied from outside, but as specific measure its nature is to relate to an other. A something with an inner measure does not simply take on an alteration of magnitude that comes from outside: it reacts against it, assimilates it in its own way and makes something else of it, showing itself to be for itself in this externality. Measure then exists as a ratio whose exponent is its specific character.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Specific quantity › Specifying measure
 Citations:
+  Measure is a specific determining of the external magnitude, that is, of the indifferent magnitude which is now posited in the measuring something by some other concrete existence in general.
+    — The Science of Logic, Specific quantity › Specifying measure (tr. di Giovanni)
+  Its measure reacts against it, behaves towards the aggregate as an intensive measure and assimilates it in a way typically its own; it alters the externally imposed alteration, makes something else out of this quantum and demonstrates through this specifying function that in this externality it is for-itself.
+    — The Science of Logic, Specific quantity › Specifying measure (tr. di Giovanni)

@@ -53,8 +53,10 @@ Phr:
   ludere cum sacris [Lat.]
 
 # ---- Hegel ----
-Def: The use of a thing, which realizes my will in it by changing, consuming or destroying it.
+Def: Use is the relation in which the thing possessed exists for my need and serves it. Through use, by changing, consuming or destroying the thing, my need is realized externally and the thing shows itself to be selfless, existing only for the will that has taken possession of it.
 Texts:
   The Philosophy of Right
     §§59–64
 Citations:
+  The use of the thing is my need being externally realized through the change, destruction, and consumption of the thing. The thing thereby stands revealed as naturally selfless and so fulfils its destiny [Bestimmung].
+    — The Philosophy of Right §59 (tr. Knox, rev. Houlgate)

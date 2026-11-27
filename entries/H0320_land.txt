@@ -38,8 +38,12 @@ Phr:
   let the dry land appear [Bible]
 
 # ---- Hegel ----
-Def: The land as productive, covered with vegetation, the terrestrial ground of life.
+Def: The land is the giant corpse of the life once immanent in it, a solid concretion that has freed itself from the sea's neutrality. It shows an infinite fecundity like water's, but whereas the sea brings forth mainly animal life, the earth tends to vegetable life, covering itself everywhere with indeterminate green growth such as lichen and moss.
 Texts:
   The Philosophy of Nature
     §341
 Citations:
+  The land, as the giant corpse of the life which was formerly immanent in it but which has now fled, is this individual concretion (Konsistenz) which has wrested itself free from neutrality, the solid crystal of the lunar Element, while the sea is the cometary Element.
+    — Encyclopedia §341, Addition (tr. Miller)
+  Everywhere the earth covers itself with green vegetation—indeterminate formations which can equally be classed with animal life.
+    — Encyclopedia §341, Addition (tr. Miller)

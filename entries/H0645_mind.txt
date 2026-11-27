@@ -44,8 +44,12 @@ Phr:
   peace of mind
 
 # ---- Hegel ----
-Def: Spirit determined in and for itself, the subject which is its own object: theoretical, practical and free mind.
+Def: Mind, the object of Psychology, is the truth of soul and consciousness: knowledge that is no longer restricted by a content derived from the soul nor related to it as an object, but sets out only from its own being and stands in relation only to its own determinations. Psychology studies its universal modes of activity as such, intuiting, representing, desiring and the rest. Mind has only to realize the concept of its freedom, raising sensations to intuitions, these to representations and those to thoughts.
 Texts:
   The Philosophy of Mind
     §§440–482
 Citations:
+  Mind, therefore, sets out only from its own being and is in relationship only with its own determinations.
+    — Encyclopedia §440 (tr. Wallace and Miller, rev. Inwood)
+  All it has to do now is to realize this concept of its freedom, i.e. sublate the form of immediacy with which it once more begins. The content that is elevated to intuitions is its sensations; similarly it is its intuitions that are transformed into representations, and its representations that are transformed again into thoughts, etc.
+    — Encyclopedia §440, Remark (tr. Wallace and Miller, rev. Inwood)

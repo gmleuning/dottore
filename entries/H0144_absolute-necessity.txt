@@ -65,8 +65,12 @@ Phr:
   Nor all thy piety nor wit shall draw it back to cancel half a [Rubayyat of Omar Khayyam]
 
 # ---- Hegel ----
-Def: Necessity that is because it is: being that has its ground only in itself, at once blind and the self-relation of freedom.
+Def: Absolute necessity is what real necessity becomes when its negation, contingency, which it has within it, is its own becoming. It is an actuality that can no longer be otherwise, since its in-itself is not possibility but necessity; yet, as the unity of itself and possibility, it is also empty and contingent. Its conversion of actuality and possibility into each other is a rejoining of form with itself: it is because it is, and passes into the absolute relation.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › Actuality › Absolute necessity
 Citations:
+  This actuality which is itself as such necessary, since it contains necessity as its in-itself, is absolute actuality – an actuality which can no longer be otherwise, for its in-itself is not possibility but necessity itself.
+    — The Science of Logic, Actuality › Absolute necessity (tr. di Giovanni)
+  The determinateness of necessity consists in its having its negation, contingency, within it.
+    — The Science of Logic, Actuality › Absolute necessity (tr. di Giovanni)

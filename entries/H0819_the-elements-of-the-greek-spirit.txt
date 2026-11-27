@@ -27,8 +27,12 @@ Phr:
   wine-dark sea
 
 # ---- Hegel ----
-Def: The elements of the Greek spirit: a divided land of coast and islands, and the foreign inheritance recast as their own.
+Def: The conditions from which the Greek spirit forms itself: a land broken into peninsulas, islands and small districts linked by the sea, matching the versatility of independent peoples; and a mixture of native and foreign stocks, from which a unity is won through law and custom in place of natural bonds. The result is a spirit that shapes the natural, as the sculptor shapes stone, into its own expression.
 Texts:
   The Philosophy of History
     The Greek World › The Elements of the Greek Spirit
 Citations:
+  This is the elementary character of the Spirit of the Greeks, implying the origination of their culture from independent individualities;—a condition in which individuals take their own ground, and are not, from the very beginning, patriarchally united by a bond of Nature, but realize a union through some other medium,—through Law and Custom having the sanction of Spirit.
+    — The Philosophy of History, The Greek World › The Elements of the Greek Spirit (tr. Sibree)
+  The Greek Spirit is the plastic artist, forming the stone into a work of art. In this formative process the stone does not remain mere stone,—the form being only superinduced from without; but it is made an expression of the Spiritual, even contrary to its nature, and thus transformed.
+    — The Philosophy of History, The Greek World › The Elements of the Greek Spirit (tr. Sibree)

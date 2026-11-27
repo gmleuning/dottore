@@ -59,8 +59,12 @@ Phr:
   tempete dans un verre d'eau [Fr.]
 
 # ---- Hegel ----
-Def: Essence and the unessential, a first distinction of what is important from what is not, still external.
+Def: The essential and the unessential are the first relation of essence to the being it has sublated. Since being has preserved itself over against it, each is taken as an immediate existent indifferent to the other: essence is only the essential, one existence beside another. The distinction thus relapses into the sphere of existence. It is an external positing that leaves the thing untouched and falls to a third, so that the same content can count as essential or unessential according to the point of view taken.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Shine › The essential and the unessential
 Citations:
+  But as contrasted with essence, being is at the same time the unessential; as against essence, it has the determination of something sublated.
+    — The Science of Logic, Shine › The essential and the unessential (tr. di Giovanni)
+  It is dependent on some external standpoint or consideration and the same content can therefore sometimes be considered as essential, sometimes as unessential.
+    — The Science of Logic, Shine › The essential and the unessential (tr. di Giovanni)

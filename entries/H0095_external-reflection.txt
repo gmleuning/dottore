@@ -39,8 +39,14 @@ Phr:
   the view from nowhere [Nagel]
 
 # ---- Hegel ----
-Def: Reflection that finds the immediate given and goes from it to its essence, external reflection.
+Def: External reflection is reflection that presupposes itself as sublated, and is therefore doubled: on one side an immediate that is presupposed, on the other a reflection referring negatively to it. It finds its presupposition already there, starts from it and returns into itself by negating it, and the determinations it posits in the immediate remain external to it. On closer view, however, in negating this immediate it also posits it, so that the immediate is not only in itself but posited as the same as reflection.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Shine › Reflection › External reflection
 Citations:
+  But external or real reflection presupposes itself as sublated, as the negative of itself. In this determination, it is doubled.
+    — The Science of Logic, Reflection › External reflection (tr. di Giovanni)
+  What external reflection determines and posits in the immediate are determinations which to that extent are external to it.
+    — The Science of Logic, Reflection › External reflection (tr. di Giovanni)
+  In this way, the immediate is not only implicitly in itself (that is, for us or in external reflection) the same as what reflection is, but is posited as being the same.
+    — The Science of Logic, Reflection › External reflection (tr. di Giovanni)

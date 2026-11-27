@@ -38,8 +38,12 @@ Phr:
   here and gone
 
 # ---- Hegel ----
-Def: The body of dissolution, a formal process, a transient body of volatility.
+Def: The comet is the body of dissolution, opposite to the rigid moon: it behaves aberrantly, its eccentric path and physical existence showing contingency, a superficial concretion that may again reduce itself to dust. It is a formal process, an unstable translucent mass without a solid nucleus, yet Hegel insists it belongs to the solar system and is generated within it.
 Texts:
   The Philosophy of Nature
     §279
 Citations:
+  The body of dissolution, the opposite to the body of rigidity, on the other hand, behaves aberrantly; it exhibits contingency in its eccentric path as in its physical existence.
+    — Encyclopedia §279, Remark (tr. Miller)
+  The comet appears as a formal process, an unstable mass of vapour
+    — Encyclopedia §279, Remark (tr. Miller)

@@ -27,8 +27,12 @@ Phr:
   it rings a bell
 
 # ---- Hegel ----
-Def: Memory that has the thing in the name and recognizes the meaning in the name without image or intuition.
+Def: Reproductive memory has and recognizes the thing in the name, and with the thing the name, without intuition or image. The name as understood is the simple imageless representation: given the name lion, we need neither the animal nor its picture. It is in names that we think. Hegel rejects the mnemonics that turns names back into images, which reduces memory to imagination.
 Texts:
   The Philosophy of Mind
     §462
 Citations:
+  Given the name lion, we need neither the intuition of such an animal, nor even its image; the name, when we understand it, is the simple image-less representation. It is in names that we think.
+    — Encyclopedia §462, Remark (tr. Wallace and Miller, rev. Inwood)
+  To want to think without words, as Mesmer once attempted, is, therefore, a manifest absurdity which drove this man, as he himself affirmed, to the brink of insanity.
+    — Encyclopedia §462, Addition (tr. Wallace and Miller, rev. Inwood)

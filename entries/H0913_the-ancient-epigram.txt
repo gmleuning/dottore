@@ -33,8 +33,10 @@ Phr:
   short and sweet
 
 # ---- Hegel ----
-Def: The old epigram, an inscription on a thing, its explanation.
+Def: The ancient epigram follows from the one-sidedness of didactic and descriptive poetry, which art cannot retain without cancelling itself, so that external reality is again brought into relation with inwardly grasped meaning. It is an inscription on a thing that states what the object is, in a sentence about its meaning, joining abstract universal and concrete appearance more deeply than their mere juxtaposition.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Disappearance of the Symbolic Form of Art › The Ancient Epigram
 Citations:
+  Consequently, as it turns out, the didactic and the descriptive cannot be retained in this one-sidedness whereby art would be entirely cancelled, and once more we see external reality brought into relation with what is grasped inwardly as meaning, and the abstract universal with its concrete appearance.
+    — Aesthetics, Disappearance of the Symbolic Form of Art › The Ancient Epigram (tr. Knox)

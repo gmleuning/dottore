@@ -32,8 +32,12 @@ Phr:
   buried deep
 
 # ---- Hegel ----
-Def: The night-like pit in which a world of images is kept without being conscious.
+Def: The night-like pit is intelligence as the unconscious store in which a world of infinitely many images and representations is preserved without being in consciousness. To conceive it is to grasp the concept as concrete, as a seed holds in virtual possibility the whole development of the tree, so that no special fibres or places are needed to keep them. The images are ours only formally, not yet at our command.
 Texts:
   The Philosophy of Mind
     §453
 Citations:
+  To conceive intelligence as this nocturnal pit in which is stored a world of infinitely many images and representations, yet without being in consciousness, is on the one hand the universal requirement to conceive the concept as concrete, as we conceive e.g. the seed as affirmatively containing, in virtual possibility, all the determinacies that come into existence only in the development of the tree.
+    — Encyclopedia §453, Remark (tr. Wallace and Miller, rev. Inwood)
+  No one knows what an infinite host of images of the past slumbers in him; now and then they do indeed awake by chance, but one cannot, as we say, call them to mind.
+    — Encyclopedia §453, Addition (tr. Wallace and Miller, rev. Inwood)

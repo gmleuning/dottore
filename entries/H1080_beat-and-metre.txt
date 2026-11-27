@@ -22,8 +22,12 @@ Phr:
   the dactylic hexameter
 
 # ---- Hegel ----
-Def: Takt and Versmaß: the regular return of the same time-measure, built from feet into lines and metres.
+Def: Beat and metre concern how single time relations are ranged into lines governed by rules for number and kind of feet and for beginning, middle and end, and then into stanzas. The great difference from music is the beat: poetry, which has its stability in the ideas it expresses, keeps a time measure but need not submit to a fixed beat.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  This is the reason why, in the third place, poetry ranges the single timerelations into lines governed by a rule in relation to the sort and number of feet and to their beginning, middle, and end.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  This may be given as a reason for the demand that while in poetry a time-measure, but not a beat, must remain the rule, this aspect shall be dominated to a relatively stronger extent by the sense and meaning of the words.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

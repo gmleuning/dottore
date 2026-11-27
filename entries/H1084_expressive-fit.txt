@@ -11,8 +11,12 @@ Phr:
   the sound must seem an echo to the sense [Pope]
 
 # ---- Hegel ----
-Def: The correspondence of the rhythmic movement with the content and its feeling, in which the verse's tempo and accent express the matter.
+Def: Expressive fit is the correspondence that versification, especially rhythmic movement, must have with its subject matter and above all with a particular movement of feeling. The calmly rolling hexameter suits epic narrative, and with the pentameter the elegy; the rushing iambus fits dramatic dialogue; the anapaest suggests something spirited and joyful.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  The whole character of versification must have corresponding to it, especially in connection with rhythmical movement, a specific sort of subject-matter, above all a specific sort of movement in our feelings.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  The iambic, again, rushes forward and is especially appropriate to dialogue in drama
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

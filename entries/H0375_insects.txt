@@ -35,8 +35,12 @@ Phr:
   ants in one's pants
 
 # ---- Hegel ----
-Def: Animals of the outward differentiation, with the systems separated into sections and metamorphoses.
+Def: Insects are invertebrates developed in the opposite direction from molluscs: their organs of movement are far superior, with feet and wings and head, thorax and abdomen quite distinct, while the inner structure is correspondingly less developed, respiration pervading the body and the blood system hardly distinguishable from the digestive.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  The organs of movement in insects are far superior to those in molluscs, which, in general, have only a few motor muscles; for insects have feet and wings, and the head, thorax, and abdomen are quite distinct in them, too.
+    — Encyclopedia §370, Addition (tr. Miller)
+  On the other hand, their interior structure is correspondingly less developed.
+    — Encyclopedia §370, Addition (tr. Miller)

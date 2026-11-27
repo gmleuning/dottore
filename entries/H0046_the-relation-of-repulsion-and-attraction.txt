@@ -32,8 +32,14 @@ Phr:
   tug of war
 
 # ---- Hegel ----
-Def: Repulsion and attraction each the presupposition of the other, so that being-for-self passes over into quantity.
+Def: The relation of repulsion and attraction is that of two determinations which break out of the difference of the one and the many, each first appearing on its own and yet essentially joined with the other. Taken abstractly, repulsion would be the mere dispersion of the many; but even as negative it is connection, so attraction lies within it, and attraction in turn is only through repulsion. Each presupposes the other, and in the other relates to itself. Their unity is a becoming that collapses into simple immediacy, which is quantity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › Repulsion and attraction › The connection of repulsion and attraction
 Citations:
+  The difference of the one and the many has determined itself as a difference of their mutual reference connecting them which breaks down into two, repulsion and attraction, each of which stands at first outside the other on its own, in such a way that the two are essentially joined together nevertheless.
+    — The Science of Logic, Repulsion and attraction › The connection of repulsion and attraction (tr. di Giovanni)
+  In all this, however, the mediation of each with itself through the other is in fact negated; each of the two determinations is its own self-mediation.
+    — The Science of Logic, Repulsion and attraction › The connection of repulsion and attraction (tr. di Giovanni)
+  This being, according to the determination which it has now acquired, is quantity.
+    — The Science of Logic, Repulsion and attraction › The connection of repulsion and attraction (tr. di Giovanni)

@@ -30,8 +30,12 @@ Phr:
   the law of the land and the law of heaven
 
 # ---- Hegel ----
-Def: Ethical life divided into the human law of the community and the divine law of the family, assigned to man and woman.
+Def: The ethical world is ethical substance in its ordered subsistence, absolute spirit realized in a plurality of conscious beings. It exists in two ways, each containing the whole: as the polity, the people and its citizens, under the human law known and publicly valid, and as the family, the immediate, natural ethical community under the divine law. Each has levels and differences within it, and their examination shows how the two engage one another, connect and pass into each other.
 Texts:
   The Phenomenology of Spirit
     ¶¶446–463
 Citations:
+  In this determination, the ethical substance is thus the actual substance, absolute spirit realized in the plurality of determinately existing consciousnesses.
+    — The Phenomenology of Spirit ¶446 (tr. Pinkard)
+  The examination of these differences shows the way in which they engage themselves and the self-consciousness of the two universal essences of the ethical world, as well as showing their connection and their transition into each other.
+    — The Phenomenology of Spirit ¶453 (tr. Pinkard)

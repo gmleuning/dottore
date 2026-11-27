@@ -42,8 +42,12 @@ Phr:
   God befriend us as our cause is just [Henry IV]
 
 # ---- Hegel ----
-Def: The shared care for need and provision, the common interest which unites master and servant.
+Def: The community of need and provision is what the relation of master and bondsman becomes because the bondsman, as the means of mastery, must be kept alive. In place of the brute destruction of the immediate object there come acquiring, preserving and forming it, as the middle in which the independent and the dependent extremes join. The satisfaction of need takes the form of universality: a lasting means and a provision that cares for and secures the future.
 Texts:
   The Philosophy of Mind
     §434
 Citations:
+  On the one hand, this relationship is a community of need and of care for its satisfaction, since the means of mastery, the bondsman, must likewise be maintained in his life.
+    — Encyclopedia §434 (tr. Wallace and Miller, rev. Inwood)
+  In place of the brute destruction of the immediate object there ensues acquisition, preservation, and formation of it, as the intermediary in which the two extremes of independence and non-independence join together—the form of universality in satisfaction of need is a permanent means and a provision that takes care of and secures the future.
+    — Encyclopedia §434 (tr. Wallace and Miller, rev. Inwood)

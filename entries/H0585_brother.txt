@@ -20,8 +20,12 @@ F:
   Greek: adelphos
 
 # ---- Hegel ----
-Def: Der Bruder: the member of the family in whom its spirit becomes individuality turned outward, passing from the divine law to the human law of the community.
+Def: The brother is the side by which the spirit of the family becomes an individuality that turns toward an other and passes into the consciousness of universality. He leaves the immediate, elemental and therefore properly negative ethical life of the family to win and bring forth the actual ethical life that is conscious of itself. He passes from the divine law, in whose sphere he had lived, into the human law, finding his self-conscious essence in the polity.
 Texts:
   The Phenomenology of Spirit
     ¶¶458–459
 Citations:
+  The spirit of the family sends the man out into the polity, and he finds his self-conscious essence in that polity.
+    — The Phenomenology of Spirit ¶459 (tr. Pinkard)
+  He makes a transition from the divine law, in whose sphere he had lived, to the human law.
+    — The Phenomenology of Spirit ¶458 (tr. Pinkard)

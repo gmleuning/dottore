@@ -32,8 +32,12 @@ Phr:
   to change one's shape
 
 # ---- Hegel ----
-Def: The metamorphoses, transformations of human beings into natural things.
+Def: Metamorphoses are symbolic and mythological tales that oppose natural to spiritual, giving a rock, animal, flower or spring the meaning of a degradation and punishment of a spiritual being who falls into guilt or endless grief, as Niobe weeps as stone. By distinguishing natural and spiritual they form the transition from symbolic mythology to mythology proper, in which natural content becomes gods of human shape.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Metamorphoses
 Citations:
+  The rock is not just stone but Niobe who weeps for her children.
+    — Aesthetics, Comparisons Originating from the External Object › Metamorphoses (tr. Knox)
+  The metamorphoses, on the contrary, make the essential distinction between the natural and the spiritual, and they form in this respect the transition from symbolic mythology to mythology strictly so-called
+    — Aesthetics, Comparisons Originating from the External Object › Metamorphoses (tr. Knox)

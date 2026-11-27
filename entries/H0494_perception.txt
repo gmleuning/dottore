@@ -51,8 +51,14 @@ Phr:
   you lie — under a mistake [Shelley]
 
 # ---- Hegel ----
-Def: Consciousness that takes the object as a thing with many properties, and, failing to hold them together, deceives itself.
+Def: Perception takes what exists for it as a universal, and its object is the thing with many properties. The thing is at once an Also, a passive medium in which indifferent properties permeate one another, and a One that excludes. Taking the object to be true and self-equal, consciousness knows that it can be deceived and puts every contradiction down to its own apprehending, then tries to correct itself. It learns that its perceiving is a turning back into itself out of the true, and that the dissolution of this perceiving is its result and truth.
 Texts:
   The Phenomenology of Spirit
     ¶¶111–131
 Citations:
+  On the other hand, perception takes what, to perception, is the existent as universal.
+    — The Phenomenology of Spirit ¶111 (tr. Pinkard)
+  This simple medium is not only an Also, an indifferent unity; it is also a One, an excluding unity.
+    — The Phenomenology of Spirit ¶114 (tr. Pinkard)
+  It has learned from experience about perceiving, namely, that its result and its truth are its dissolution, or that perceiving is the reflective turn into itself from out of the true.
+    — The Phenomenology of Spirit ¶118 (tr. Pinkard)

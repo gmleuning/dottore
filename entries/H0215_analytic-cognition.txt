@@ -33,8 +33,12 @@ Phr:
   to take apart
 
 # ---- Hegel ----
-Def: Cognition that resolves the given concrete into abstract determinations and the form of universality.
+Def: Analytic cognition is the first premise of the syllogism of cognition, the immediate communication of the concept, in which mediation does not yet belong to it. Its principle is abstract identity, excluding transition into an other. Starting from a presupposed concrete subject matter, it brings out conceptual determinations immediately contained there. To say that analysis only explicates what is already in the object is one-sided.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The idea of cognition › The idea of the true › Analytic cognition
 Citations:
+  The specific difference of analytic cognition is already established by the fact that, since it is the first premise of the whole syllogism, mediation does not as yet belong to it; analytic cognition is rather the immediate communication of the concept, a communication that does not as yet contain otherness and in which activity divests itself of its negativity.
+    — The Science of Logic, The idea of the true › Analytic cognition (tr. di Giovanni)
+  Accordingly, analytic cognition has in general this identity for its principle, and the transition into an other, the linking of different terms is excluded from it and from its activity.
+    — The Science of Logic, The idea of the true › Analytic cognition (tr. di Giovanni)

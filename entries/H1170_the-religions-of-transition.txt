@@ -30,8 +30,12 @@ Phr:
   light, pain and riddle
 
 # ---- Hegel ----
-Def: The religions of transition from nature to spirit: light, pain, enigma.
+Def: The religions of transition belong still to nature religion but move toward spirit by taking the manifold of nature back into a concrete unity. In the religion of light God is the good, still in a natural mode. In the second form subjectivity passes through negation, so that death and rising again belong to God himself. In the Egyptian religion the meaning struggles to make itself visible, as an enigma.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religions of Transition
 Citations:
+  The religion of light was the first form in this transition, this resumption of the manifold, the natural, into concrete unity
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Religions of Transition (tr. Brown, Hodgson and Stewart)
+  It is the form in which God is known as what truly has being in and for itself, and known truly as this; so God is in truth what is independent, what is inwardly determinate, and hence God is the good.
+    — Lectures on the Philosophy of Religion, Immediate Religion, or Nature Religion › The Religions of Transition (tr. Brown, Hodgson and Stewart)

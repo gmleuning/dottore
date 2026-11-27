@@ -30,8 +30,12 @@ Phr:
   tsuki ni murakumo, hana ni kaze [Jap.] [clouds over the moon, wind upon the flowers]
 
 # ---- Hegel ----
-Def: The body of rigidity, crystal-like and without process, a waterless, airless satellite.
+Def: The moon is the body of rigidity, subservient to the planet whose satellite it is and in which it has its axis. It lacks atmosphere, water and meteorological process, showing only conical mountains and craters and the combustion of its own rigidity. Hegel calls it the waterless crystal, the earth's hard interior, which strives as it were to unite with our sea and so produces the tides.
 Texts:
   The Philosophy of Nature
     §279
 Citations:
+  The moon has no atmosphere and therefore lacks the meteorological process.
+    — Encyclopedia §279, Remark (tr. Miller)
+  The moon is the waterless crystal, which strives, as it were, to unite itself with our sea and so to quench the thirst of its rigid, immobile nature, and which so produces the ebb and flow of the tides.
+    — Encyclopedia §279, Addition (tr. Miller)

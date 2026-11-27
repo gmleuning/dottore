@@ -13,8 +13,10 @@ F:
   Latin: De officiis
 
 # ---- Hegel ----
-Def: The middle Stoa of Panaetius and Posidonius, which moderated Stoic rigour and taught Cicero and the Roman nobility.
+Def: Between the founders of the Stoa and the Roman Stoics the lectures name only briefly the later members of the school who became prominent, among them Diogenes of Seleucia and Panaetius, the teacher of Cicero.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Stoicism › The Principal Stoics
 Citations:
+  Prominent later on were Diogenes of Seleucia, and Panaetius, who was Cicero's teacher
+    — Lectures on the History of Philosophy 1825–6, Stoicism › The Principal Stoics (tr. Brown)

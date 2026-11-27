@@ -30,8 +30,12 @@ Phr:
   the heap and the bald man
 
 # ---- Hegel ----
-Def: The Megarics, who held the good to be one, and practiced the dialectic of argument.
+Def: The Megarics, or Eristics, whose founder is held to be Eucleides, held the good to be something simple and so what is true in general. With this they joined a highly developed dialectic, applied even to everyday representations and modes of speech, exposing contradictions and entangling others in them, so as to break down what is particular and extract the universal.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Socratic Schools › The Megarics
 Citations:
+  The general point is that the Eristics held the good to be something simple and so to be what is true in general, to be the identity of what is true.
+    — Lectures on the History of Philosophy 1825–6, The Socratic Schools › The Megarics (tr. Brown)
+  They displayed all manner of subtlety in exposing contradictions and entangling others in them so as to throw them into confusion.
+    — Lectures on the History of Philosophy 1825–6, The Socratic Schools › The Megarics (tr. Brown)

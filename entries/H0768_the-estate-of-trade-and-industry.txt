@@ -42,8 +42,10 @@ Phr:
   faber est quisque fortunae suae [Lat.]
 
 # ---- Hegel ----
-Def: The estate of trade and industry, which lives by its own work and reflection.
+Def: The estate of trade and industry, the business estate, gives form to the products of nature and lives by its own work, reflection and understanding, and above all by mediating its needs and work with those of others. It owes what it produces and enjoys mainly to itself, and so has a strong sense of freedom.
 Texts:
   The Philosophy of Right
     §204
 Citations:
+  The business estate has the task of giving form to the products of nature, and for its means of livelihood it is thrown back on its work, on reflection and understanding, and essentially on the mediation of one person’s needs and work with those of others. For what this estate produces and enjoys, it has mainly itself, its own activity, to thank.
+    — The Philosophy of Right §204 (tr. Knox, rev. Houlgate)

@@ -27,8 +27,12 @@ Phr:
   set in stone
 
 # ---- Hegel ----
-Def: Building passing over into sculpture, as columns and obelisks.
+Def: Architecture wavering between building and sculpture adopts more concrete meanings and for their symbolic expression uses more concrete forms, alone or assembled into great buildings, yet handles them architecturally rather than sculpturally. As art enters actual historical views and religious ideas, it loses itself in the contingent, so that architecture and sculpture are confused, though architecture remains decisive.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture
 Citations:
+  The next advance which we must proceed to consider is this, that architecture adopts more concrete meanings as its content
+    — Aesthetics, Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture (tr. Knox)
+  The fundamental character here is that architecture and sculpture are confused, even if architecture remains the decisive element.
+    — Aesthetics, Symbolic Architecture › Architectural Works wavering between Architecture and Sculpture (tr. Knox)

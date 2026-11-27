@@ -27,8 +27,12 @@ Phr:
   image rather than prose
 
 # ---- Hegel ----
-Def: The language of poetry, which is image and representation rather than the prose of the understanding.
+Def: Poetic expression covers the poetic way of imagining, diction and the music of words. Words are neither symbols nor spatial embodiments but signs, which in poetry must be made an end for contemplation. The origin of poetic speech lies not in the choice of words or in sound but in the kind of imagining, though it exists only in words that are spoken.
 Texts:
   Aesthetics
     Poetry › Poetic Expression
 Citations:
+  But as communications of poetic conceptions, these signs too must, in distinction from the prosaic mode of expression [where they are mere means], be made an end for contemplation and appear shaped accordingly.
+    — Aesthetics, Poetry › Poetic Expression (tr. Knox)
+  [B]ut the words are only signs of ideas and therefore the real origin of poetic speech lies neither in the choice of single words and the manner of their collocation into sentences and elaborate paragraphs, nor in euphony, rhythm, rhyme, etc., but in the sort and kind of ideas [or of the way of imagining things].
+    — Aesthetics, Poetry › Poetic Expression (tr. Knox)

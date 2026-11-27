@@ -38,8 +38,12 @@ Phr:
   faith without proof
 
 # ---- Hegel ----
-Def: The immediate certainty of God, faith that is certain without proof.
+Def: Immediate knowledge is the certainty that God, whom I represent to myself, also is, independently of me and of my knowing. Certainty is the immediate relation in which the content, though independent, is inseparably within me. Its first particular form is faith, certainty as it exists in feeling. Faith is commonly set against knowledge, but the opposition is empty, because what I believe I also know.
 Texts:
   Lectures on the Philosophy of Religion
     The Concept of Religion (1827) › The Knowledge of God › Immediate Knowledge
 Citations:
+  [W]e take the consciousness of God to be the consciousness that God also is—not merely [as] my own or [as] a subject within me, but [as] independent of me and of my acts of representing and knowing.
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Immediate Knowledge (tr. Brown, Hodgson and Stewart)
+  Faith is set in opposition to knowledge, [but] this is a vacuous antithesis because what I believe, I also know—it is a content in my consciousness. Knowledge is the universal, whereas belief is only a part of knowledge.
+    — Lectures on the Philosophy of Religion, The Knowledge of God › Immediate Knowledge (tr. Brown, Hodgson and Stewart)

@@ -36,8 +36,14 @@ Phr:
   one and all
 
 # ---- Hegel ----
-Def: The one's self-repulsion, its exclusion of itself from itself, which posits the many ones.
+Def: Plurality arises because the one, as negative reference to itself that is also reference to an existent, repels itself from itself and so is the becoming of many ones. The many are not produced for another and do not strictly come to be: each already is, referring only to itself, and repelled and repelling are alike. Their plurality is therefore not an otherness within them but a determination wholly external to the one. Their limit is the void, which neither joins them nor belongs to them. It is infinity as a self-producing contradiction.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › The one and the many › Many ones
 Citations:
+  This negative reference of the one to itself is repulsion.
+    — The Science of Logic, The one and the many › Many ones (tr. di Giovanni)
+  Thus plurality appears not as an otherness, but as a determination completely external to the one.
+    — The Science of Logic, The one and the many › Many ones (tr. di Giovanni)
+  The plurality of the ones is infinity as a contradiction that unconstrainedly produces itself.
+    — The Science of Logic, The one and the many › Many ones (tr. di Giovanni)

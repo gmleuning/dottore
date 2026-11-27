@@ -26,8 +26,12 @@ Phr:
   für die Industrie das nach außen sie belebende natürliche Element das Meer [Ger.] [Hegel, Philosophy of Right §247]
 
 # ---- Hegel ----
-Def: As the earth is the condition of family life, so the sea is the element of industry: it links distant lands in trade and contract, and drives an overcrowded society to found colonies (§246-248).
+Def: International commerce is the movement by which civil society, driven by its inner dialectic, pushes beyond its limits to seek markets and means of subsistence in other lands. As the earth is the condition of family life, so the sea is the natural element of industry, the greatest means of communication, which links distant countries in trade.
 Texts:
   The Philosophy of Right
     §§246–248
 Citations:
+  This inner dialectic of civil society thus drives it—or at any rate drives a specific civil society—to push beyond its own limits and seek markets, and so its necessary means of subsistence, in other lands which are either deficient in the goods it has overproduced, or else generally backward in creative industry
+    — The Philosophy of Right §246 (tr. Knox, rev. Houlgate)
+  [T]he natural element for industry, animating its outward movement, is the sea.
+    — The Philosophy of Right §247 (tr. Knox, rev. Houlgate)

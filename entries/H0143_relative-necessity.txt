@@ -39,8 +39,12 @@ Phr:
   it stands to reason
 
 # ---- Hegel ----
-Def: Real possibility is the totality of conditions present; when they are all there the fact must follow, but only relative to them.
+Def: Relative necessity arises in real actuality, the existing world of many properties that preserves itself in its manifold and can act, announcing itself by what it produces. Its possibility is real possibility, the fact's full content of conditions and circumstances, and when all of these are present the fact must be actual. Yet this necessity is relative, for it starts from something presupposed and contingent, and so still has contingency within it.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › Actuality › Relative necessity
 Citations:
+  What is actual can act; something announces its actuality by what it produces.
+    — The Science of Logic, Actuality › Relative necessity (tr. di Giovanni)
+  But when we delve into the determinations, the circumstances, the conditions of a fact in order to discover its possibility, we do not stop at this formal possibility but consider its real possibility.
+    — The Science of Logic, Actuality › Relative necessity (tr. di Giovanni)

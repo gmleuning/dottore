@@ -32,8 +32,12 @@ Phr:
   an epic of
 
 # ---- Hegel ----
-Def: The epic, in which the minstrel sings of gods and heroes, and the gods are a pale world beside the deeds of men.
+Def: Epic is the first language of the spiritual work of art, with a universal content in the sense of the completeness of a world, though not yet that of thought. Its element is representation. The bard is the single actual self from whom the world is brought forth and who vanishes into the content, moved not by nature but by memory. It forms a syllogism joining the universal world of the gods with the singular bard through a people in its heroes.
 Texts:
   The Phenomenology of Spirit
     ¶¶729–732
 Citations:
+  This representational thought’s existence, language, is the first language, the epic as such, which contains universal content, or universal at least in the sense of the completeness of the world even though not in the sense of the universality of thought.
+    — The Phenomenology of Spirit ¶729 (tr. Pinkard)
+  He is the organ vanishing within its content; what counts is not his own self but his muse, his universal song.
+    — The Phenomenology of Spirit ¶729 (tr. Pinkard)

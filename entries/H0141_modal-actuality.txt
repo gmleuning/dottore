@@ -35,8 +35,14 @@ Phr:
   as it may be
 
 # ---- Hegel ----
-Def: Actuality as the unity of the actual and the possible, unfolding through contingency to necessity.
+Def: Modal actuality is actuality proper, the absolute as the manifestation that has no content save to manifest itself, absolute form. It stands higher than being, which is not yet actual, and higher than concrete existence, which is not yet the posited unity of reflection and immediacy. Its moments are the modal ones: actuality, possibility and necessity, developed first formally, as contingency, then really, as relative necessity, and finally as absolute necessity.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Actuality › Actuality
 Citations:
+  So, as the manifestation that it is nothing, that it has no content, save to be the manifestation of itself, the absolute is absolute form.
+    — The Science of Logic, Actuality › Actuality (tr. di Giovanni)
+  Being is not yet actual; it is the first immediacy
+    — The Science of Logic, Actuality › Actuality (tr. di Giovanni)
+  Actuality also stands higher than concrete existence.
+    — The Science of Logic, Actuality › Actuality (tr. di Giovanni)

@@ -10,8 +10,12 @@ N:
   Moses Maimonides, Rambam, Saadia Gaon, Judah Halevi, Ibn Gabirol, Avicebron
 
 # ---- Hegel ----
-Def: Jewish philosophy within Arabic culture, Moses Maimonides above all, whose Guide reconciles the Law with Aristotle and reports the doctrines of the Kalam.
+Def: Among the Jews in the Arabic world Moses Maimonides deserves mention, born in Egypt and living in twelfth-century Cordoba. His Guide of the Perplexed, like the work of the church fathers and Philo, takes the historical configuration as fundamental and treats it metaphysically. He is also a source for the Arabs' use of Greek philosophy.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › The Idea of Christianity › Arabic Philosophy
 Citations:
+  Certain Jews, and especially Moses Maimonides, should also be mentioned at this point.
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › Arabic Philosophy (tr. Brown)
+  Like the church fathers and Philo, he takes the historical configuration as fundamental and treats it metaphysically.
+    — Lectures on the History of Philosophy 1825–6, The Idea of Christianity › Arabic Philosophy (tr. Brown)

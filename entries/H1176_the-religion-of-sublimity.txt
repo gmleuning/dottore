@@ -36,8 +36,12 @@ Phr:
   I am that I am
 
 # ---- Hegel ----
-Def: The Jewish religion of sublimity, the one God, the Lord, before whom all creation is nothing.
+Def: In the Jewish religion, the religion of sublimity, spirit is withdrawn from natural and sensible shapes and known in pure thought as one subjective unity, which for us first merits the name of God. This One is absolute power, and the natural is merely posited by it, without independence. The power is also wisdom, whose moments are goodness and justice. The world is God's creation, and God is its initiator, not its result.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › The Religion of the Greeks and the Jews › The Religion of Sublimity
 Citations:
+  This subjective unity is not substance, for it is subjective, but it is indeed absolute power; the natural is only something that is posited by it, is only ideal and not something that is independent.
+    — Lectures on the Philosophy of Religion, The Religion of the Greeks and the Jews › The Religion of Sublimity (tr. Brown, Hodgson and Stewart)
+  Goodness consists in the fact that the world is. The world does not attain being [proper]. Being, the truly actual, is only in God.
+    — Lectures on the Philosophy of Religion, The Religion of the Greeks and the Jews › The Religion of Sublimity (tr. Brown, Hodgson and Stewart)

@@ -32,8 +32,12 @@ Phr:
   out of all proportion
 
 # ---- Hegel ----
-Def: The quantum's determination to be beyond itself, the infinite as its own other.
+Def: The concept of quantitative infinity is that quantum's alteration into another quantum goes on without end because quantum is inherently self-contradictory. It becomes another yet continues in its otherness, so that the other is again a quantum, but the other of quantum as such, its own unlimitedness. Quantum is an ought: it implies being determined for itself, and this is rather being determined in an other. The sending beyond itself that makes it finite is equally the determination of the infinite.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum › Quantitative infinity › Its concept
 Citations:
+  Quantum becomes an other; but it continues in its otherness; the other is therefore also a quantum. This latter, however, is the other, not of a quantum, but of the quantum as such, the negative of itself as a limited something, and hence its own unlimitedness, infinity.
+    — The Science of Logic, Quantitative infinity › Its concept (tr. di Giovanni)
+  Quantum is an ought; it implies that it be determined-for-itself, and this being-determined-for-itself is rather the being determined in an other
+    — The Science of Logic, Quantitative infinity › Its concept (tr. di Giovanni)

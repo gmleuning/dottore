@@ -19,8 +19,12 @@ Phr:
   Hear, O Israel: the Lord our God is one Lord, Shema Yisrael [Heb.] [Bible]
 
 # ---- Hegel ----
-Def: Judäa, where nature is reduced to the created and the One is grasped as pure spirit, though bound to one people.
+Def: The people among whom the spiritual is purified of nature and becomes the pure product of thought: God is grasped as the one creator, and nature is reduced to a creature, external and undivine. This marks the separation of East and West. Yet the unity remains exclusive, since only the one people recognizes this God and is acknowledged by him.
 Texts:
   The Philosophy of History
     The Oriental World › Persia › The Persian Empire and its Constituent Parts › Judæa
 Citations:
+  Nature,—which in the East is the primary and fundamental existence,— is now depressed to the condition of a mere creature; and Spirit now occupies the first place.
+    — The Philosophy of History, The Persian Empire and its Constituent Parts › Judæa (tr. Sibree)
+  This religion must necessarily possess the element of exclusiveness, which consists essentially in this,—that only the One People which adopts it, recognizes the One God, and is acknowledged by him.
+    — The Philosophy of History, The Persian Empire and its Constituent Parts › Judæa (tr. Sibree)

@@ -21,8 +21,14 @@ Phr:
   est modus in rebus, sunt certi denique fines [Lat.] [Horace]
 
 # ---- Hegel ----
-Def: Determination, what something is in itself; constitution, what it is through its relation to other; limit, the non-being of each in the other.
+Def: Determination, constitution and limit are the ways in which something, having taken its being-for-other back into its being-in-itself, holds its otherness within itself. Determination is the in-itself by which something preserves itself while involved with an other; constitution is what in it is exposed to external influence and relation. Each passes over into the other. Since the otherness is now posited within something as its own moment, there are two somethings that negate and join each other through one determinateness, and this is limit.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Finitude › Determination, constitution, and limit
 Citations:
+  The in-itself, in which the something is reflected into itself from its being-for-other, no longer is an abstract in-itself but, as the negation of its being-for-other, is mediated through this latter, which is thus its moment.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)
+  Determination and constitution are thus distinct from each other; something, according to its determination, is indifferent to its constitution.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)
+  It is one determinateness of the two somethings that, on the one hand, as negation of the negation, is identical with the in-itselfness of the somethings, and also, on the other hand, since these negations are to each other as other somethings, joins them together of their own accord and, since each negation negates the other, equally separates them. This determinateness is limit.
+    — The Science of Logic, Finitude › Determination, constitution, and limit (tr. di Giovanni)

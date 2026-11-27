@@ -19,8 +19,12 @@ Adv:
   in glass
 
 # ---- Hegel ----
-Def: Glas, the pastes and cast glass that copy engraved stones and carry the glyptic art into a cheaper material.
+Def: Glass, in the form of pastes, is counted with gems and cameos among the materials in which Greek art repeated in miniature the whole range of sculpture, from the single god through every sort of grouping to cheerful and graceful conceits, in a perfection beyond price. Like the other small works it drew its subjects from myth and tradition.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Materials for Sculpture › Precious Stones and Glass
 Citations:
+  To these most important sorts of material we have to add, in conclusion, precious stones and glass.
+    — Aesthetics, Materials for Sculpture › Precious Stones and Glass (tr. Knox)
+  [B]ecause, although in the smallest compass, they repeat in supreme perfection the whole range of sculpture from the simple figure of a god, through the most varied kinds of grouping, to all possible conceits
+    — Aesthetics, Materials for Sculpture › Precious Stones and Glass (tr. Knox)

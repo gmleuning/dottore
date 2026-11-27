@@ -182,8 +182,12 @@ Phr:
   brevet d'invention [Fr.]
 
 # ---- Hegel ----
-Def: The sign made audible and visible: speech, the element of the name, and writing, preferably alphabetic.
+Def: Language is the system in which the sign finds its most adequate form: a reality in time that vanishes as it is, sound articulated into speech, which gives sensations, intuitions and representations a second, higher existence. Spoken language is original and writing a further development of it; alphabetic writing, signs of signs that keep genuine names, Hegel judges the more intelligent form, above hieroglyphic script.
 Texts:
   The Philosophy of Mind
     §459
 Citations:
+  Sound articulating itself further for determinate representations, speech, and its system, language, give to sensations, intuitions, representations a second, higher reality than their immediate one, in general an existence that carries weight in the realm of representation.
+    — Encyclopedia §459 (tr. Wallace and Miller, rev. Inwood)
+  Alphabetic writing is in and for itself the more intelligent form
+    — Encyclopedia §459, Remark (tr. Wallace and Miller, rev. Inwood)

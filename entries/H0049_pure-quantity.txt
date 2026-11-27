@@ -31,8 +31,12 @@ Phr:
   no matter how much
 
 # ---- Hegel ----
-Def: Quantity without determinate limit, the sublated being-for-self, as continuous and discrete at once.
+Def: Pure quantity is quantity with as yet no determinateness or limit in it, a compact, infinite unity that continues itself into itself. It is attraction as the moment of continuity: simple self-same reference to itself, unbroken by any limit or exclusion, though not an immediate unity but the unity of ones that are for themselves. Plurality is still in it, without distinctions, so that it immediately possesses the moment of discreteness. It is repulsion flowing creatively away from itself into what is the same, and therefore unbroken.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantity › Pure quantity
 Citations:
+  Continuity is therefore simple, self-same reference to itself unbroken by any limit or exclusion – not, however, immediate unity but the unity of ones which have existence for themselves.
+    — The Science of Logic, Quantity › Pure quantity (tr. di Giovanni)
+  But what is repelled is itself; repulsion is thus a creative flowing away from itself.
+    — The Science of Logic, Quantity › Pure quantity (tr. di Giovanni)

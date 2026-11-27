@@ -138,8 +138,12 @@ Phr:
   swift, swift, you dragons of the night [Cymbeline]
 
 # ---- Hegel ----
-Def: Place's passing over into another place, and time positing itself spatially: the unity of space and time as a process.
+Def: Motion is the vanishing and self-renewal of space in time and of time in space, the process in which time posits itself spatially as place while place, as indifferent spatiality, is immediately posited as temporal. This becoming also collapses within itself as the contradiction it is, into the immediately existing unity of space and time, matter.
 Texts:
   The Philosophy of Nature
     §261
 Citations:
+  [A] process in which time posits itself spatially as place, but in which place, too, as indifferent spatiality, is immediately posited as temporal
+    — Encyclopedia §261 (tr. Miller)
+  This becoming, however, is itself just as much the collapse within itself of its contradiction
+    — Encyclopedia §261 (tr. Miller)

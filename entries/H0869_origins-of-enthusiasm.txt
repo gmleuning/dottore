@@ -8,8 +8,12 @@ N:
   origins of enthusiasm; the sources of inspiration, the springs of creation, the creative impulse, stimulus, spur, prompting, the spark
 
 # ---- Hegel ----
-Def: Hegel asks how Begeisterung arises, rejects sensuous stimulus and the bare will to produce, and finds it in an occasion, inner or outer, that hands the artist a content.
+Def: The origin of inspiration has prompted the most varied opinions. Since genius joins the spiritual and the natural, some suppose sensuous stimulus can produce it, others a resolve to be inspired; Hegel denies both. True inspiration kindles on a specific material that imagination seizes. That material need not come from the artist alone, for great works have often arisen from external occasions.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  In this matter the first question raised is about the manner of its origin, in regard to which the most varied ideas are in circulation
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  Thus true inspiration takes fire on some specific material which the imagination seizes with a view to expressing it artistically
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

@@ -31,8 +31,12 @@ Phr:
   time out of mind
 
 # ---- Hegel ----
-Def: The earth as the result of a past process of formation, whose stages are now only lying side by side.
+Def: The history of the earth lies in the past: the members of this implicit organism do not contain the life-process within themselves but form an external system whose shapes display an underlying idea. Hegel holds that creation is eternal rather than a single event and that nature as universal has no history, though the earth must be considered as having come to be.
 Texts:
   The Philosophy of Nature
     §339
 Citations:
+  The members of this merely implicit organism do not therefore contain the life-process within themselves, and constitute an external system whose forms exhibit the unfolding of an underlying Idea, but whose process of formation lies in the past.
+    — Encyclopedia §339 (tr. Miller)
+  But the creation is eternal, it is not an event which once happened; it is an eternal generation, for the infinite creative power of the Idea is a perennial activity.
+    — Encyclopedia §339, Addition (tr. Miller)

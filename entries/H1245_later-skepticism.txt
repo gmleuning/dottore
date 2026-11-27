@@ -19,8 +19,12 @@ Phr:
   equipollence of arguments
 
 # ---- Hegel ----
-Def: Der spätere Skeptizismus: the ten tropes of Aenesidemus and the five of Agrippa, collected by Sextus, which turn dialectic against every determinate claim.
+Def: Later Skepticism, expounded by Sextus Empiricus, works through tropes, procedures of argument against whatever is asserted. Beside the earlier ones, five further tropes pertain to thinking, to the dialectic of the concept, and belong to a more cultivated standpoint of reflective thought; the first of them points to the diversity of opinion about any object.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Skepticism and the New Academy › Skepticism Proper
 Citations:
+  The other five tropes of the Skeptics pertain to thinking, to the dialectic of the concept. They refer to a different, more cultivated standpoint of reflective thinking, and a definite concept is evident in it.
+    — Lectures on the History of Philosophy 1825–6, Skepticism and the New Academy › Skepticism Proper (tr. Brown)
+  Howsoever it may be defined, there is a diversity of opinion about it, and especially of philosophical opinion.
+    — Lectures on the History of Philosophy 1825–6, Skepticism and the New Academy › Skepticism Proper (tr. Brown)

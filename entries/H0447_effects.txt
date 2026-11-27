@@ -26,8 +26,12 @@ Phr:
   at someone's beck and call
 
 # ---- Hegel ----
-Def: The consequences of magnetizing, a dependency of the patient's feeling on the magnetizer.
+Def: The effects of magnetizing begin with the sinking of the magnetized person into the shrouded, undifferentiated natural life of sleep, though sleep is not strictly necessary. Bodily activity passes from the outward organs to the inner. The soul, immersed in its inwardness, intuits its individual world not outside but within itself, and sleep may pass over into clairvoyance. What results is a state of passivity in which the patient falls into the power of the magnetizer and remains in it afterwards.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  The proximate universal effect of magnetizing is the sinking of the magnetic person into the state of his shrouded, undifferentiated natural life, i.e., into sleep.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  The diseased subject accordingly falls into, and after the state continues in, the power of another, the magnetizer
+    — Encyclopedia §406, Remark (tr. Wallace and Miller, rev. Inwood)

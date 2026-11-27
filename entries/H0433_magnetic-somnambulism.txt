@@ -28,8 +28,12 @@ Phr:
   under a spell
 
 # ---- Hegel ----
-Def: The soul's feeling life set free from waking consciousness, its immediate knowing in a trance, a diseased state of the separated soul.
+Def: Magnetic somnambulism and states like it arise when the life of feeling becomes a form of the self-conscious, educated, sober human being, and this is a disease. The individual stands in unmediated relation to the concrete content of its own self, and its sober awareness of itself and of an intelligibly ordered world becomes a state separate from this feeling life. Only the individually determined world of particular interests enters it, so that to expect revelations of universal truth from it is foolish.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  The life of feeling, when it becomes a form, a state, of the self-conscious, educated, sober human being, is a disease, in which the individual stands in unmediated relationship with the concrete content of its own self and has its sober consciousness of itself and of the intelligibly ordered world as a state distinct from its feeling-life.
+    — Encyclopedia §406 (tr. Wallace and Miller, rev. Inwood)
+  It is foolish to expect revelations about Ideas from the somnambulist state.
+    — Encyclopedia §406, Remark (tr. Wallace and Miller, rev. Inwood)

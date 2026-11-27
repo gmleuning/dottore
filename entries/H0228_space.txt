@@ -103,8 +103,12 @@ Phr:
   where there's smoke, there's fire
 
 # ---- Hegel ----
-Def: The first determination of nature: the abstract universality of its self-externality, a mediationless indifference, continuous and without distinction.
+Def: Space is the first, immediate determination of nature: the abstract universality of its self-externality, without mediation or difference. It is an ideal side-by-side that is wholly continuous, containing no specific distinction, a mere form that is only the possibility of mutual externality. It is pure quantity existing immediately and externally, so that nature begins with the quantitative and not the qualitative.
 Texts:
   The Philosophy of Nature
     §§254–256
 Citations:
+  The first or immediate determination of Nature is Space: the abstract universality of Nature's self-externality, self-externality's mediationless indifference.
+    — Encyclopedia §254 (tr. Miller)
+  Space is simply pure Quantity, only no longer as a logical determination, but as existing immediately and externally.
+    — Encyclopedia §254, Remark (tr. Miller)

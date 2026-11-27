@@ -43,8 +43,14 @@ Phr:
   the stuff of
 
 # ---- Hegel ----
-Def: Matter as the formless substrate presupposed by form, and form as what determines it.
+Def: Form and matter arise when the reflection of essence relates itself to essence as to something formless and indeterminate. Matter is simple identity without distinction, the other of form and its substrate, what is left when every form of a thing is abstracted away, and so is never seen or felt except as determinate matter. Neither exists of itself or is eternal: form presupposes matter and is presupposed by it. Matter is indifferent and passive, form active, self-referring negativity and therefore contradiction.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Absolute ground › Form and matter
 Citations:
+  If abstraction is made from every determination, from every form of a something, matter is what is left over. Matter is the absolutely abstract.
+    — The Science of Logic, Absolute ground › Form and matter (tr. di Giovanni)
+  Further, form presupposes a matter to which it refers. But for this reason the two do not find themselves confronting each other externally and accidentally; neither matter nor form derives from itself, is a se, or, in other words, is eternal.
+    — The Science of Logic, Absolute ground › Form and matter (tr. di Giovanni)
+  Matter, determined as indifferent, is the passive as contrasted to form, which is determined as the active.
+    — The Science of Logic, Absolute ground › Form and matter (tr. di Giovanni)

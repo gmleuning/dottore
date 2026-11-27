@@ -30,8 +30,12 @@ Phr:
   a closet drama
 
 # ---- Hegel ----
-Def: Drama read or recited, which needs the stage for its full reality.
+Def: Reading and reciting dramas runs against drama's basic character, since its material is the whole acting person, not the voice and word alone. It is a common error to treat arrangement for the stage as superfluous: a drama's inner dramatic worth comes only from a treatment that makes it excellent on stage, as the Greek tragedies written purely for it prove.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The External Execution of a Dramatic Work of Art › Reading Dramas and Reciting them
 Citations:
+  True, it should not be maintained that a drama cannot be satisfying poetically on the score of its inner value alone, but this inner dramatic value is only to be provided by a treatment which makes a drama excellent on the stage.
+    — Aesthetics, The External Execution of a Dramatic Work of Art › Reading Dramas and Reciting them (tr. Knox)
+  Indeed, after all, most of our recent dramas never see the stage for the simple reason that they are undramatic.
+    — Aesthetics, The External Execution of a Dramatic Work of Art › Reading Dramas and Reciting them (tr. Knox)

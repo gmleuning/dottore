@@ -32,8 +32,12 @@ Phr:
   the three kinds
 
 # ---- Hegel ----
-Def: The kinds of poetry: epic, the objective; lyric, the subjective; drama, their unity.
+Def: The different genres of poetry arise within an art that takes spiritual life as its matter and keeps the middle way between the perceptible and pure inwardness, in imagination, giving a complete world through language. Its works exist only as spoken by living persons, and it divides into epic, which sets out the matter objectively, lyric, which expresses the subject, and drama, which unites them.
 Texts:
   Aesthetics
     Poetry › The Different Genres of Poetry
 Citations:
+  On the contrary it has to keep to the middle way between the extremes of what is directly visible or perceptible by the senses and the subjectivity of feeling and thinking.
+    — Aesthetics, Poetry › The Different Genres of Poetry (tr. Knox)
+  For poetry too has to give us a complete world, the substantive essence of which is spread out before us artistically with the greatest richness precisely in its external reality, i.e. in human actions, events, and outbursts of feeling.
+    — Aesthetics, Poetry › The Different Genres of Poetry (tr. Knox)

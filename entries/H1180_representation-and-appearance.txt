@@ -40,8 +40,12 @@ Phr:
   God appears
 
 # ---- Hegel ----
-Def: God in the element of representation and appearance, the world and the Son.
+Def: The second element considers the eternal idea in the form of consciousness or representation, as it passes out of universality and infinitude into the determinacy of finitude. Here the other, called the Son, receives the determination of otherness, existing as free and actual, outside and apart from God. The idea has to be present to the subject, who is not only a thinker but a concrete, actual self-consciousness.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Representation, Appearance
 Citations:
+  [W]e consider this idea insofar as it emerges out of universality and infinitude into the determinacy of finitude.
+    — Lectures on the Philosophy of Religion, The Consummate Religion (1827) › Representation, Appearance (tr. Brown, Hodgson and Stewart)
+  [T]he primal division of the idea is to be conceived in such a way that the other, which we have also called "Son," obtains the determination of the other as such—that this other exists as a free being for itself, and that it appears as something actual, as something that exists outside of and apart from God.
+    — Lectures on the Philosophy of Religion, The Consummate Religion (1827) › Representation, Appearance (tr. Brown, Hodgson and Stewart)

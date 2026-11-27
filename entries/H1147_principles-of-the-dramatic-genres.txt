@@ -32,8 +32,12 @@ Phr:
   what makes tragedy tragic
 
 # ---- Hegel ----
-Def: The principles that distinguish tragedy, comedy and the drama proper.
+Def: The principles distinguishing the dramatic genres derive from the relation of individuals to their aim and its content, since drama makes central the collision of characters and aims and its necessary resolution. What is effective is the substantial divine in the world and the free subject, according to whether substance or subjective caprice and folly dominates, giving tragedy, comedy and drama.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama
 Citations:
+  Dramatic poetry, finally, makes central the collisions between characters and between their aims, as well as the necessary resolution of this battle.
+    — Aesthetics, The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama (tr. Knox)
+  In whatever form dramatic poetry brings the action on the stage, what is really effective in it is absolute truth, but the specific way in which this effectiveness comes on the scene takes a different, and indeed an opposed, form according to whether what is kept dominant in the individuals and their actions and conflicts is their substantive basis or alternatively their subjective caprice, folly, and perversity.
+    — Aesthetics, The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama (tr. Knox)

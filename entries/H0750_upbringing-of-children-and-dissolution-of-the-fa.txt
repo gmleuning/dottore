@@ -30,8 +30,10 @@ Phr:
   to bring up
 
 # ---- Hegel ----
-Def: The upbringing of children and the natural and ethical dissolution of the family.
+Def: The upbringing of children and the dissolution of the family is the third moment of the family. In children the unity of the marriage first exists objectively. The family dissolves ethically when the children, educated to free personality, come of age and found families of their own, and naturally through the death of the parents, with inheritance.
 Texts:
   The Philosophy of Right
     §§173–180
 Citations:
+  It is only in the children that the unity itself exists for itself, objectively, and as a unity, because the parents love the children as their love, as the existence of their own substance.
+    — The Philosophy of Right §173 (tr. Knox, rev. Houlgate)

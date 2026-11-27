@@ -31,8 +31,12 @@ Phr:
   statue, group and relief
 
 # ---- Hegel ----
-Def: The modes of portrayal: the single statue, the group, the relief.
+Def: Modes of portrayal distinguish sculptures independent of anything else, for which surroundings are merely a prepared place, from those that decorate spaces in or on buildings, whose relation to the building determines their form and largely their content. In the main single statues exist on their own account, while groups and above all reliefs give up independence to serve architecture.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Modes of Portrayal
 Citations:
+  For the former the surroundings are no more than a place prepared already by art, while in the case of the latter the essential thing is always their relation to the building that they decorate, and this determines not only the form of the sculpture but also, for the most part, its content too.
+    — Aesthetics, The Different Kinds of Portrayal and Material › Modes of Portrayal (tr. Knox)
+  In this connection we may say, on the whole and in the main, that single statues exist on their own account, whereas groups, and a fortiori reliefs, begin to give up this independence and are employed by architecture for its own artistic ends.
+    — Aesthetics, The Different Kinds of Portrayal and Material › Modes of Portrayal (tr. Knox)

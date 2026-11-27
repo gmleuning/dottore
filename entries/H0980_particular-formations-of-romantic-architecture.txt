@@ -30,8 +30,12 @@ Phr:
   the house of prayer
 
 # ---- Hegel ----
-Def: The particular forms of romantic building: the enclosed house, its exterior and interior.
+Def: The particular formations of romantic architecture, considered chiefly in Christian churches of the Gothic style, are the fully enclosed house as the basic form, the form of exterior and interior, and the manner of decoration. The Christian spirit's inward concentration yields a place shut in on every side whose impression of tranquil heart and majestic sublimity governs its shape.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture › Particular Architectural Formations
 Citations:
+  In proceeding now to the particular forms in which the specific character of romantic architecture is developed, we will confine our discussion, as we have already noticed earlier, to Gothic architecture proper and mainly to Christian churches in distinction from Greek temples.
+    — Aesthetics, Romantic Architecture › Particular Architectural Formations (tr. Knox)
+  The spatial enclosure corresponds to the concentration of mind within, and results from it.
+    — Aesthetics, Romantic Architecture › Particular Architectural Formations (tr. Knox)

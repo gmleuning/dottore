@@ -40,8 +40,12 @@ Phr:
   in a world of one's own
 
 # ---- Hegel ----
-Def: Being that has sublated all relation to other into relation to itself; infinite being turned back into itself; the truth of quality.
+Def: Being-for-itself is qualitative being brought to completion, infinite being. In it the difference between being and determinateness, or negation, is posited and equalized, so that negation is simple self-reference. Something is for itself in so far as it sublates otherness and its connection with an other, having them in it only as sublated moments; it is the infinite turned back into itself. It is first immediately an existent for itself, the one; then the one passes into many ones through repulsion and attraction, and quality passes over into quantity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself
 Citations:
+  In being-for-itself, qualitative being is brought to completion; it is infinite being
+    — The Science of Logic, Being-for-itself (tr. di Giovanni)
+  We say that something is for itself inasmuch as it sublates otherness, sublates its connection and community with other, has rejected them by abstracting from them. The other is in it only as something sublated, as its moment; being-for-itself consists in having thus transcended limitation, its otherness; it consists in being, as this negation, the infinite turning back into itself.
+    — The Science of Logic, Being-for-itself (tr. di Giovanni)

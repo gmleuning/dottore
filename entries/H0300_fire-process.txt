@@ -47,8 +47,12 @@ Phr:
   burn to ashes
 
 # ---- Hegel ----
-Def: Combustion, the process of fire in which a body is kindled and consumed, burning to an oxide.
+Def: In the fire-process, the activity that was only implicit in the metals' difference exists independently as fire: the combustible, such as sulphur, is kindled into flame, and bodies in which difference is indifferent and inert are energized into the chemical opposition of acid and alkali. Chemical processes do not link up of themselves, so activity must come from outside.
 Texts:
   The Philosophy of Nature
     §331
 Citations:
+  The activity which, in the previous process, was only implicit in the differentiated determinateness of the metals brought into relation, when posited as an independent existence, is Fire, whereby what is in itself combustible (like sulphur)-the third kind of corporeality-is kindled into flame: whereby also, in general, those bodies in which difference is still indifferent and inert (as in neutrality), are energized into the chemical opposition of acid and (caustic) alkali
+    — Encyclopedia §331 (tr. Miller)
+  For chemical processes do not hang together, otherwise we should have Life, the circular return of a process.
+    — Encyclopedia §331, Addition (tr. Miller)

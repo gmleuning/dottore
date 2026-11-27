@@ -84,8 +84,10 @@ Phr:
   unrespited, unpitied, unreprieved [Paradise Lost]
 
 # ---- Hegel ----
-Def: The courts, where the law is applied to the particular case.
+Def: The courts of law are the public authority that knows and actualizes what is right in particular cases, without the subjective feeling of particular interest. By taking the form of law, right steps into existence and must assert itself as universal against particular willing and opinion; this is the work of the court.
 Texts:
   The Philosophy of Right
     §§219–229
 Citations:
+  By taking the form of law, right steps into existence [Dasein]. It is then something on its own account [für sich], and in contrast with particular willing and opinion about what is right, it is self-subsistent and has to assert itself as something universal.
+    — The Philosophy of Right §219 (tr. Knox, rev. Houlgate)

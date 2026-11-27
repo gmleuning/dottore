@@ -46,8 +46,10 @@ Phr:
   from sea to shining sea
 
 # ---- Hegel ----
-Def: The configuration of the earth's surface, the division of land and sea, of continents and mountains.
+Def: Physical geography treats the configuration of the earth's surface, connected with its axes and polarization: the distribution of land and sea, the massing of land in the north and its tapering toward the south, the division into Old and New World and into continents differing in physical, organic and anthropological character, and the mountain ranges.
 Texts:
   The Philosophy of Nature
     §339
 Citations:
+  Standing in closer relationship to these axes and their polarization is the distribution of sea and land, the compact spreading of the land in the north, the division and sharp tapering of the parts towards the south, and then the separation into an Old and a New World, and the further division of the former into continents distinguished from one another and from the New World by their physical, organic, and anthropological character, to all of which is joined a continent even younger and more immature than the New World; mountain ranges, etc.
+    — Encyclopedia §339 (tr. Miller)

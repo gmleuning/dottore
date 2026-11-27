@@ -30,8 +30,12 @@ Phr:
   gods, heroes and men
 
 # ---- Hegel ----
-Def: The differences of age and sex, of gods, heroes, men and animals, as sculpture shapes them.
+Def: Differences of age and sex, and of gods, heroes, humans and animals, must mark living individuality through the figure's own free and beautiful form and expression, not merely by accessories. The Greeks harmonized the smallest traits with the whole; youthful forms flow delicately into one another and are the harder to make, while mature figures show their distinctions more definitely.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Individuality of the Ideal Sculptured Figures › Differences of Age and Sex, and of Gods, Heroes, Men, and Animals
 Citations:
+  It therefore may not be manifested simply by such accessories as attributes, chevelure, weapons and other tools, club, trident, bushel, etc., but must penetrate both the figure itself and its expression.
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Differences of Age and Sex, and of Gods, Heroes, Men, and Animals (tr. Knox)
+  What is especially to be admired in the best sculpture of antiquity is the keen attention with which the artists took care to bring each of the tiniest traits of the figure into harmony with the whole
+    — Aesthetics, Individuality of the Ideal Sculptured Figures › Differences of Age and Sex, and of Gods, Heroes, Men, and Animals (tr. Knox)

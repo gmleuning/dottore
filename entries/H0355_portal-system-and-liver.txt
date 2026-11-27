@@ -16,8 +16,12 @@ F:
   Greek: hēpar
 
 # ---- Hegel ----
-Def: The second moment of the circuit: the portal system and the liver, where the blood, with the gastric and pancreatic juices, turns against the food it has to master.
+Def: In the second moment of the circuit the blood's centre is the portal system, where its subjectivity becomes active, a consuming volcano. Active in the liver, it operates on the chyme of the stomach: after mastication and saliva, the gastric and pancreatic juices act as solvent acids inducing fermentation, a chemical and organic moment.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  As thus active in the liver, it operates on the chyme prepared in the stomach.
+    — Encyclopedia §354, Addition (tr. Miller)
+  The gastric and pancreatic juices are, as it were, the solvent acids which induce fermentation in the food
+    — Encyclopedia §354, Addition (tr. Miller)

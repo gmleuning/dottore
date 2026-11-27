@@ -39,8 +39,12 @@ Phr:
   the sky's the limit
 
 # ---- Hegel ----
-Def: The infinite in its simple concept: the affirmation that results as the negation of the finite.
+Def: The infinite in general is the simple concept of the infinite: the negation of negation, the affirmative, being reinstated out of restrictedness. It is in a more intense sense than immediate being; it is true being, elevation above restriction, in which spirit is at home. It does not stand fixed above the finite, for it arises out of the finite's own nature, which is to refer to itself as restriction, to pass beyond it and so to become infinite. The finite has thus vanished into it, and what is, is only the infinite.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Infinity › The infinite in general
 Citations:
+  The infinite is the negation of negation, the affirmative, being that has reinstated itself out of restrictedness. The infinite is, in a more intense sense than the first immediate being; it is the true being; the elevation above restriction.
+    — The Science of Logic, Infinity › The infinite in general (tr. di Giovanni)
+  At the mention of the infinite, soul and spirit light up, for in the infinite the spirit is at home, and not only abstractly; rather, it rises to itself, to the light of its thinking, its universality, its freedom.
+    — The Science of Logic, Infinity › The infinite in general (tr. di Giovanni)

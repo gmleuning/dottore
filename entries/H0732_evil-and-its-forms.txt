@@ -80,8 +80,12 @@ Phr:
   to sanction vice and hunt decorum down [Bryon]
 
 # ---- Hegel ----
-Def: The forms in which subjectivity, certain of itself, sets its own particularity above the universal: evil.
+Def: Evil is the subjectivity, certain of itself, that sets its own particularity above the universal and makes it its principle. Formal conscience and evil have their common root in this self-certainty. Its forms, in ascending order, are bad conscience, hypocrisy, probabilism, the good intention that justifies the means, conviction, and irony.
 Texts:
   The Philosophy of Right
     §§139–140
 Citations:
+  Once self-consciousness has reduced all otherwise valid determinations to emptiness and itself to the sheer inwardness of the will, it has become the potentiality of either making what is universal in and for itself into its principle, or equally well of elevating above the universal the self-will of its own particularity, taking that as its principle and realizing it through its actions, i.e. it has become potentially evil [böse].
+    — The Philosophy of Right §139 (tr. Knox, rev. Houlgate)
+  To have a conscience, if conscience is only formal subjectivity, is simply to be on the verge of slipping into evil
+    — The Philosophy of Right §139, Remark (tr. Knox, rev. Houlgate)

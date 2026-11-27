@@ -42,8 +42,12 @@ Phr:
   to beguile many and be beguiled by one [Othello]
 
 # ---- Hegel ----
-Def: The subject's own satisfaction in the activity of realizing its aims, its interest.
+Def: Interest is the moment of subjective individuality and its activity contained in what has been brought about, when the content of the urge is distinguished as what matters. Nothing comes about without it, even the most unselfish act, in which the individual must find satisfaction. It must not be confused with selfishness, which prefers its particular content to the objective one.
 Texts:
   The Philosophy of Mind
     §475
 Citations:
+  In so far as the content of the urge is distinguished as the important thing from this activity of the subject, the thing which has come about contains the moment of subjective individuality and its activity: this is interest. Nothing comes about therefore without interest.
+    — Encyclopedia §475 (tr. Wallace and Miller, rev. Inwood)
+  This is my interest. This must not be confused with selfishness; for selfishness prefers its particular content to the objective content.
+    — Encyclopedia §475, Addition (tr. Wallace and Miller, rev. Inwood)

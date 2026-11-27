@@ -37,8 +37,10 @@ Phr:
   salt of the earth
 
 # ---- Hegel ----
-Def: The element of individuality, the earth, which holds the moments together and is the ground of the meteorological process.
+Def: Earth, the element of developed difference and its individual determination, is distinct from the other moments at first as mere earthiness, still indeterminate. But as the totality which holds the different moments together in individual unity, it is the power that kindles them into a process and also sustains that process, the meteorological process of the earth.
 Texts:
   The Philosophy of Nature
     §285
 Citations:
+  The Element of developed difference and its individual determination is Earth: as distinct from the other moments, it is in the first instance earthiness as such, and as yet indeterminate; but, as the totality which holds together the different moments in individual unity, it is the power which kindles them into a process which it also sustains.
+    — Encyclopedia §285 (tr. Miller)

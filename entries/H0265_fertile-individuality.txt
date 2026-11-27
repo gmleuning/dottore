@@ -34,8 +34,12 @@ Phr:
   land of milk and honey
 
 # ---- Hegel ----
-Def: The earth made fertile by the meteorological process, its individuality as the universal ground of life.
+Def: Fertile individuality results from the other moment of the earth's process: the being-for-self toward which the opposed sides strive, pushed to the extreme, sublates itself and kindles the destruction of their separate existence. Their essential linkage is restored and the earth makes itself a real, fertile individuality. Earthquakes and volcanoes belong here, and the thunderstorm is the process fully manifested.
 Texts:
   The Philosophy of Nature
     §288
 Citations:
+  Through this process, the essential linkage of the sides is restored and the earth has made itself into a real and fecund individuality.
+    — Encyclopedia §288 (tr. Miller)
+  But the complete manifestation of this process is the thunderstorm, to which the other meteorological phenomena attach themselves as rudiments, moments, or unripe realizations.
+    — Encyclopedia §288, Remark (tr. Miller)

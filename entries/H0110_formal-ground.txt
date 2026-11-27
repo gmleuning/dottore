@@ -41,8 +41,12 @@ Phr:
   that goes for nothing
 
 # ---- Hegel ----
-Def: The ground that only restates the grounded in another form; the empty explanation by a virtus dormitiva.
+Def: Formal ground is the ground-connection in which ground and grounded have one and the same content, considered once as ground and once as grounded. The content is indifferent to these two forms and is simply one determination in each, so that the difference between the sides is one of form alone. Each passes over into the other and posits it: the mediation can begin equally from either. To explain something by such a ground is to say the same thing twice.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Determinate ground › Formal ground
 Citations:
+  Accordingly, the result is that in the determinate ground we have the following. First, a determinate content is considered from two sides, once in so far as it is ground, then again in so far as it is grounded. The content itself is indifferent to these forms; it is in each simply and solely one determination.
+    — The Science of Logic, Determinate ground › Formal ground (tr. di Giovanni)
+  It is a matter of indifference which of the two determinations is made the first, whether the transition is from the one as posited to the other as ground or from the one as ground to the other as posited.
+    — The Science of Logic, Determinate ground › Formal ground (tr. di Giovanni)

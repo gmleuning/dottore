@@ -12,8 +12,12 @@ Adj:
   balladic
 
 # ---- Hegel ----
-Def: The folk song, in which a people's feeling finds its voice anonymously.
+Def: Folk songs, because of their immediacy, generally remain at the level of song and usually demand a tune. Their subject is national deeds and events in which a nation feels its very life and which live in its memory, or else the feelings and situations of the classes, sympathy with nature and intimate human relations, in every note of joy and grief.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  Their subject-matter consists of national deeds and events in which the nation has a sense of its very own life and which are alive in its memory.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  Alternatively they directly express the feelings and situations of the different classes, sympathy with nature, and the most intimate human relationships, and they strike most various notes of joy or of grief and melancholy.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

@@ -29,8 +29,12 @@ Phr:
   blood is thicker than water
 
 # ---- Hegel ----
-Def: The ethical relation of brother and sister, free of desire, the highest bond of the family.
+Def: Brother and sister stand in the unmixed relationship within the family. They are of the same blood, which in them has come to rest and equilibrium; they neither desire each other nor owe their independence to each other, but are free individualities to one another, so that each can be recognized without the admixture of natural relation. This relation is also the limit at which the self-enclosed family dissolves: the brother passes out into the conscious ethical life of the polity, while the sister remains guardian of the divine law, and the two divide ethical substance between them.
 Texts:
   The Phenomenology of Spirit
     ¶¶457–459
 Citations:
+  This relationship is at the same time the limit at which the self-enclosed family dissolves and moves outside of itself.
+    — The Phenomenology of Spirit ¶457 (tr. Pinkard)
+  In this way, both the sexes overcome their natural essence, and they emerge in their ethical significance as diversities who divide between them the two differences that ethical substance gives itself.
+    — The Phenomenology of Spirit ¶458 (tr. Pinkard)

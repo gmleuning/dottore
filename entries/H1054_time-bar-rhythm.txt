@@ -16,8 +16,12 @@ F:
   Korean: jangdan [rhythmic cycle]
 
 # ---- Hegel ----
-Def: The measurement of tone in time: beat, bar, rhythm.
+Def: Time, bar and rhythm treat the purely temporal side of musical sound. Music sets bodies vibrating and takes up only the duration of that movement, so that time dominates it; the bar is the mathematically regulated measure of time; and rhythm animates this abstract rule by stressing some beats and subordinating others. The self finds itself again in the ordered flow.
 Texts:
   Aesthetics
     Music › Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm
 Citations:
+  If we take in the first place the purely temporal aspect of musical sound, we have to discuss (a) the necessity of time's being in general the dominant thing in music; (6) the bar as the purely mathematically regulated measure of time; (c) rhythm which begins to animate this abstract rule by emphasizing some specific beats and subordinating others.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm (tr. Knox)
+  [M]usic however does not adopt movement as it occurs in space, and therefore there is left for its configuration only the time in which the vibration of the body occurs.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm (tr. Knox)

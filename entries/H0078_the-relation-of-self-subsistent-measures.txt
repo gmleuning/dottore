@@ -30,8 +30,12 @@ Phr:
   tit for tat
 
 # ---- Hegel ----
-Def: Self-subsistent measures related to one another, each maintaining itself through its own measure.
+Def: The relation of independent measures concerns measures that have become self-subsisting because within themselves they are specified relations, so that they are things, physical and at first material. At first the two sides subsist in things external to each other and are combined externally. Yet these material beings are what they are qualitatively only through their quantitative determination as measures, and through it they are related to others in a series, their affinity, until one relation cuts itself off exclusively as elective affinity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Real measure › The relation of independent measures
 Citations:
+  By measures we no longer mean now merely immediate measures, but measures that are self-subsistent because they become within themselves relations which are specified, and in this being-for-itself they are thus a something, things that are physical and at first material.
+    — The Science of Logic, Real measure › The relation of independent measures (tr. di Giovanni)
+  But the self-subsistent materialities are what they qualitatively are only in virtue of the quantitative determination that they have as measures
+    — The Science of Logic, Real measure › The relation of independent measures (tr. di Giovanni)

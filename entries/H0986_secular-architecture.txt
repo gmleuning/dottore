@@ -37,8 +37,12 @@ Phr:
   town and gown
 
 # ---- Hegel ----
-Def: The secular building of the Middle Ages: castles, city walls, town halls, fortifications.
+Def: Secular architecture of the Middle Ages runs parallel to religious building, repeating and modifying its character, but with less room for art since narrow aims and varied needs must be met, and beauty enters only as decoration. Its prominent type is the stronghold of fortified dwellings, in the country and in cities, with strength, security, magnificence and individual forms.
 Texts:
   Aesthetics
     Architecture › Romantic Architecture › Different Styles in Romantic Architecture › Secular Architecture in the Middle Ages
 Citations:
+  Secular architecture runs parallel with this development of religious architecture, and it repeats and modifies from its own point of view the character of the religious buildings.
+    — Aesthetics, Different Styles in Romantic Architecture › Secular Architecture in the Middle Ages (tr. Knox)
+  Walls, doors, towers, bridges, etc., are dictated by need and are decorated and beautified by art.
+    — Aesthetics, Different Styles in Romantic Architecture › Secular Architecture in the Middle Ages (tr. Knox)

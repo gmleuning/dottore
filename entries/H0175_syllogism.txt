@@ -42,8 +42,12 @@ Phr:
   to put two and two together
 
 # ---- Hegel ----
-Def: The unity of concept and judgment: the extremes joined through a mediating middle; everything rational is a syllogism.
+Def: The syllogism is the restoration of the concept within judgement, and so the unity and truth of both. In it the determinations of the concept stand as extremes, as in judgement, and at the same time their determinate unity is posited in a middle. It is therefore the completely posited concept and the rational: not only is the syllogism rational, but everything rational is a syllogism. It is no mere subjective form set apart from the reason that deals with content.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism
 Citations:
+  The syllogism is the result of the restoration of the concept in the judgment, and consequently the unity and the truth of the two.
+    — The Science of Logic, The syllogism (tr. di Giovanni)
+  Therefore, it is not just that the syllogism is rational but that everything rational is a syllogism.
+    — The Science of Logic, The syllogism (tr. di Giovanni)

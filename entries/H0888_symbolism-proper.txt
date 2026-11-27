@@ -34,8 +34,12 @@ Phr:
   written in hieroglyphs
 
 # ---- Hegel ----
-Def: Symbolism proper, Egyptian, the riddle of the sphinx, where the meaning is sought in an obscure shape.
+Def: Symbolism proper, in Egypt, requires that meaning become explicitly free from the immediate sensuous shape, the natural being grasped as negative and to be superseded, and this negative accepted as a moment within the divine itself. Egypt is the country of symbols, which sets spirit the task of deciphering itself without attaining it; its works are riddles, and the sphinx is the symbol of the symbolic itself.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Unconscious Symbolism › Symbolism Proper
 Citations:
+  This liberation can only take place in so far as the sensuous and natural is apprehended and envisaged in itself as negative, as what is to be, and has been, superseded.
+    — Aesthetics, Unconscious Symbolism › Symbolism Proper (tr. Knox)
+  The works of Egyptian art in their mysterious symbolism are therefore riddles; the objective riddle par excellence.
+    — Aesthetics, Unconscious Symbolism › Symbolism Proper (tr. Knox)

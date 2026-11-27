@@ -79,8 +79,12 @@ Phr:
   summa petit livor [Lat.] [Ovid]
 
 # ---- Hegel ----
-Def: The particular feelings in which the self finds itself, its self-feeling caught in a particular sensation. Hegel sorts them by their content: feelings of the body, feelings with an outside content, and feelings whose content is a thought.
+Def: Particular feelings are the determinations that arise as the feeling individuality distinguishes itself within itself. The subject has them and stands over against them as these determinations of itself, positing them within itself as its feelings. It is immersed in the particularity of each sensation and at the same time, through the ideality of what is particular, joins together with itself in it as a subjective unity. It has its feeling of self only in such a particular feeling.
 Texts:
   The Philosophy of Mind
     §407
 Citations:
+  The feeling totality, as individuality, is essentially this: distinguishing itself within itself, and awakening to the judgement within itself, in virtue of which it has particular feelings and stands as a subject in respect of these determinations of itself.
+    — Encyclopedia §407 (tr. Wallace and Miller, rev. Inwood)
+  It is immersed in this particularity of sensations, and at the same time, through the ideality of the particular, in them it joins together with itself as a subjective unit.
+    — Encyclopedia §407 (tr. Wallace and Miller, rev. Inwood)

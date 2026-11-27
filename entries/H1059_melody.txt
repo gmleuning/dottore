@@ -40,8 +40,12 @@ Phr:
   a tune you can hum
 
 # ---- Hegel ----
-Def: Melody, the free soul of music, which moves within harmony.
+Def: Melody is the poetic element of music, the soul's language, pouring inner joy and sorrow into notes while raising itself above the force of feeling into a free abiding with itself. Time, rhythm and harmony are only its lawful ground. It floats independently above them yet exists only through them, finding true freedom not against necessity but in freeing itself from arbitrary caprice.
 Texts:
   Aesthetics
     Music › Particular Characteristics of Music's Means of Expression › Melody
 Citations:
+  The poetic element in music, the language of the soul, which pours out into the notes the inner joy and sorrow of the heart, and in this outpouring mitigates and rises above the natural force of feeling by turning the inner life’s present transports into an apprehension of itself, into a free tarrying with itself, and by liberating the heart in this way from the pressure of joys and sorrows—this free sounding of the soul in the field of music—this is alone melody.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Melody (tr. Knox)
+  But in this close link with harmony; the melody does not forgo its freedom at all; it only liberates itself from the subjectivity of arbitrary caprice in fanciful developments and bizarre changes and only acquires its true independence precisely in this way.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Melody (tr. Knox)

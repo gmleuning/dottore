@@ -27,8 +27,12 @@ Phr:
   to bring someone to heel
 
 # ---- Hegel ----
-Def: Zwang, the compulsion by which the victor forces the other self into submission.
+Def: Coercion belongs to the life-and-death struggle and the force that ends it. Each self-consciousness puts the other's life in danger and exposes its own, bent on compelling the other to recognize it. Such combat in its extreme form occurs only in the state of nature, not in civil society and the state, where recognition is already present; and although a state may arise by force, it does not rest on force, which only brings into existence what is justified in itself.
 Texts:
   The Philosophy of Mind
     §432
 Citations:
+  The combat of recognition is thus a life and death struggle; each of the two self-consciousnesses puts the other's life in danger, and exposes itself to it—but only in danger, for each is equally bent on maintaining his life, since it is the embodiment of his freedom.
+    — Encyclopedia §432 (tr. Wallace and Miller, rev. Inwood)
+  For although the state may arise by force, it does not rest on force; force, in producing the state, has brought into existence only what is justified in and for itself, the laws, the constitution.
+    — Encyclopedia §432, Addition (tr. Wallace and Miller, rev. Inwood)

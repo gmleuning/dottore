@@ -60,8 +60,12 @@ Phr:
   for valor
 
 # ---- Hegel ----
-Def: Honour, the infinite worth of the person in their own eyes.
+Def: Honour, unknown to classical art, is the romantic value an individual ascribes to themselves on their own account, as infinite as they are in their own eyes. Its injury touches not property or position but the personality and its idea of itself, which is placed wholly in some particular possession. Its measure depends not on what a person actually is but on that idea; in it one first has affirmative consciousness of infinite subjectivity.
 Texts:
   Aesthetics
     The Romantic Form of Art › Chivalry › Honour
 Citations:
+  In honour, therefore, the man has the first affirmative consciousness of his infinite subjectivity, no matter what the circumstances.
+    — Aesthetics, Chivalry › Honour (tr. Knox)
+  The measure of honour thus does not depend on what the man actually is but on what this idea of himself is.
+    — Aesthetics, Chivalry › Honour (tr. Knox)

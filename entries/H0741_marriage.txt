@@ -54,8 +54,10 @@ Phr:
   si qua voles apte nubere nube pari [Lat.] [Ovid]
 
 # ---- Hegel ----
-Def: The immediate ethical relation, a free consent of persons to make themselves one person.
+Def: Marriage is the immediate ethical relationship, in which natural sexual union is transformed into a spiritual unity of self-conscious love. Its objective source is the free consent of two persons to make themselves one person, renouncing their natural individual personality; this self-restriction is in fact their liberation, since in it they attain substantial self-consciousness.
 Texts:
   The Philosophy of Right
     §§161–169
 Citations:
+  But its objective source lies in the free consent of the persons, especially in their consent to make themselves one person, to renounce their natural and individual personality to this unity of one with the other.
+    — The Philosophy of Right §162 (tr. Knox, rev. Houlgate)

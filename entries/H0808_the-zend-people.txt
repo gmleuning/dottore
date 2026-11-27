@@ -29,8 +29,12 @@ Phr:
   the good thought
 
 # ---- Hegel ----
-Def: The people of the Zend books, whose religion of light is the first worship of a pure, universal principle.
+Def: The people named after the language of the Zend books, the canonical writings of the religion of Zoroaster. In that religion the one universal being is worshipped in the form of light, which is no particular natural thing but sensuous universality itself, and which signifies the good and the true. It stands opposed to darkness as Ormuzd to Ahriman.
 Texts:
   The Philosophy of History
     The Oriental World › Persia › The Zend People
 Citations:
+  But Light is not a Lama, a Brahmin, a Mountain, a brute,—this or that particular existence,—but sensuous Universality itself; simple manifestation.
+    — The Philosophy of History, Persia › The Zend People (tr. Sibree)
+  Among the Persians, Ormuzd and Ahriman present the antithesis in question. Ormuzd is the Lord of the kingdom of Light—of Good; Ahriman that of Darkness—of Evil.
+    — The Philosophy of History, Persia › The Zend People (tr. Sibree)

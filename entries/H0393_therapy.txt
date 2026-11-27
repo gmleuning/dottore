@@ -65,8 +65,12 @@ Phr:
   nolumus leges Angliae mutari [Lat.]
 
 # ---- Hegel ----
-Def: The remedy as an external stimulus that the organism must assimilate, provoking its return to universal activity.
+Def: Therapy uses a medicine to provoke the organism into ending the particular irritation in which its activity is fixed and restoring that organ's fluidity within the whole. Medicine is an irritant hard to digest, a negative stimulus or poison, against which the organism must gather its strength and so regain self-feeling and subjectivity.
 Texts:
   The Philosophy of Nature
     §§373–374
 Citations:
+  The medicine provokes the organism to put an end to the particular irritation in which the formal activity of the whole is fixed and to restore the fluidity of the particular organ or system within the whole.
+    — Encyclopedia §373 (tr. Miller)
+  Medicines are, so far, negative irritants, poisons; the organism, estranged from itself in disease, is given an irritant which is at the same time an indigestible substance alien and external to it, and to counter it the organism must gather up its strength and enter into process against it in order thereby to regain its self-feeling and its subjectivity.
+    — Encyclopedia §373, Remark (tr. Miller)

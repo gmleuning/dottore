@@ -29,8 +29,12 @@ Phr:
   a nose for it
 
 # ---- Hegel ----
-Def: The soul's immediate sympathy with metals and water, a sentience of the elemental earth.
+Def: Divining is the first appearance of immediate awareness in the magnetic states: people who, fully awake and without the mediation of sight, detect metal or water lying underground, and some who sense salt as well. They may use a forked hazel twig as a divining rod, but its movement has no ground in the wood; it is determined solely by the individual's sensation.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  By this we understand people who in a fully waking state, without the mediation of the sense of sight, detect metal or water lying under the ground.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  It goes without saying that this movement of the wood does not somehow have its ground in the wood itself but is determined solely by the sensation of the individual
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

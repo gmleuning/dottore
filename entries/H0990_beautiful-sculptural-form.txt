@@ -27,8 +27,12 @@ Phr:
   beauty in the round
 
 # ---- Hegel ----
-Def: The beautiful form proper to sculpture, purified of everything contingent.
+Def: The beautiful sculptural form takes the human figure as its given fundamental type, a product of nature and not devised by art, much as architecture takes the house. Unlike the animal body, the human form is the body not only of soul but of spirit, soul being the simple self-awareness of the body and spirit the self-awareness of conscious life with all its feelings, ideas and aims.
 Texts:
   Aesthetics
     Sculpture › The Principle of Sculpture Proper › The Beautiful Sculptural Form
 Citations:
+  The fundamental type is therefore given to sculpture, not devised by it.
+    — Aesthetics, The Principle of Sculpture Proper › The Beautiful Sculptural Form (tr. Knox)
+  Spirit and soul must be essentially distinguished from one another. For soul is only this ideal simple self-awareness of the body as body, while spirit is the self-awareness of conscious and self-conscious life with all the feelings, ideas, and aims of this conscious existent.
+    — Aesthetics, The Principle of Sculpture Proper › The Beautiful Sculptural Form (tr. Knox)

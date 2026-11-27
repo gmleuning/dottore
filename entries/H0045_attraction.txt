@@ -47,8 +47,14 @@ Phr:
   birds of a feather
 
 # ---- Hegel ----
-Def: Attraction: the many ones posited as one, the ideal unity that contains them (das eine Eins der Attraktion).
+Def: The one one of attraction is the ideality toward which repulsion is only the ought, realized as the many ones pass over into one. Attraction presupposes repulsion, which supplies its material, and could not be completed without becoming an inert one that no longer attracts. It is the positing of a one distinct from the others, mediated through their negation. This one does not swallow the attracted ones abstractly into a point; containing repulsion in its determination, it keeps them as many within itself, so that in it repulsion and attraction are united.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › Repulsion and attraction › The one one of attraction
 Citations:
+  Repulsion passes over into attraction, the many ones into one one.
+    — The Science of Logic, Repulsion and attraction › The one one of attraction (tr. di Giovanni)
+  The ideality immediately present in attraction still also has in it the determination of the negation of itself, the many ones to which it refers; attraction is inseparable from repulsion.
+    — The Science of Logic, Repulsion and attraction › The one one of attraction (tr. di Giovanni)
+  It thus does not swallow the attracted ones within it as into one point, that is, does not sublate them abstractly.
+    — The Science of Logic, Repulsion and attraction › The one one of attraction (tr. di Giovanni)

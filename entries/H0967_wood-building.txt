@@ -22,8 +22,12 @@ Phr:
   the column remembers the tree
 
 # ---- Hegel ----
-Def: Der Holzbau: building in wood, the hut, whose posts and beams supply the original forms that stone architecture keeps.
+Def: Building in wood is the first and most natural way to meet the temple's mechanical problem, since its basic determinants are the post that bears and the cross-beams that bind posts together. The tree affords both without extensive workmanship, wood already having a definite linear form whose pieces can be joined at right or other angles into corner posts, supports, beams and roof.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Particular Determinants of the Architectural Forms › Building in Wood and Stone
 Citations:
+  For here the basic determinants are (i) the stanchion as load-bearing, and (ii) the cross-beams which provide the simultaneously necessary binding of stanchions together.
+    — Aesthetics, The Particular Determinants of the Architectural Forms › Building in Wood and Stone (tr. Knox)
+  Without any need for extensive and difficult workmanship, the tree affords both stanchions and beams, because wood has already in itself a definite formation; it consists of separate linear pieces, more or less rectangular, which can be directly put together at right, acute, or obtuse angles, and so provide corner-columns, supports, cross-beams, and a roof.
+    — Aesthetics, The Particular Determinants of the Architectural Forms › Building in Wood and Stone (tr. Knox)

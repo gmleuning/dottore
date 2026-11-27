@@ -11,8 +11,10 @@ F:
   Sanskrit: Nyāya and Vaiśeṣika, pramāṇa [perception, inference, comparison, testimony], paramāṇu [atom], padārtha, pratyakṣa, anumāna, upamāna, śabda, dravya, guṇa, karman, sāmānya, viśeṣa, samavāya, abhāva, tarka, vyāpti, hetu, adṛṣṭa, ānvīkṣikī, vāda
 
 # ---- Hegel ----
-Def: The Nyaya and Vaisheshika, Indian logic and atomism.
+Def: The Nyaya of Gotama and the Vaisheshika of Kanada belong together. The first is a philosophy of reasoning, an especially elaborate dialectic concerned with proof and with what is of interest to know; the second is a philosophy of the particular, which occupies itself with particular objects and principles, enumerating substance, quality, and the other categories.
 Texts:
   Lectures on the History of Philosophy
     Oriental Philosophy › Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika)
 Citations:
+  The philosophy of Gotama is called Nyaya, and is a philosophy of reasoning. That of Kanada is called Vaisesika, and is more a philosophy of the particular.
+    — Lectures on the History of Philosophy 1825–6, Indian Philosophy › The Philosophies of Gotama (Nyaya) and Kanada (Vaisesika) (tr. Brown)

@@ -40,8 +40,12 @@ Phr:
   to see through
 
 # ---- Hegel ----
-Def: The body as the abstract identity of individuality with itself, transparent to light, like the crystal.
+Def: Transparency belongs to the body as pure crystal: in the perfect homogeneity of its neutrally existing inner individualization it is transparent and a medium for light. An unspecified individual body may be transparent, translucent or opaque, but transparency is its immediate, first determination as crystal, whose physical homogeneity is not yet further specified and deepened within itself.
 Texts:
   The Philosophy of Nature
     §317
 Citations:
+  Body as pure crystal, in the perfect homogeneity of its neutrally existing inner individualization, is transparent and a medium for light.
+    — Encyclopedia §317 (tr. Miller)
+  [T]ransparency is its immediate, first determination as crystal, the physical homogeneity of which is not yet further specified and deepened within itself.
+    — Encyclopedia §317, Remark (tr. Miller)

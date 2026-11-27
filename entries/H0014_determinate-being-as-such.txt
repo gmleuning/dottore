@@ -30,8 +30,12 @@ Phr:
   as things are
 
 # ---- Hegel ----
-Def: Determinate being taken simply as it is, prior to the relations of something and other.
+Def: Existence as such is existence taken first by itself, before it stands in relation to an other. It emerges from becoming as simple immediacy, being with a non-being taken up into it, which constitutes determinateness. This determinateness is first distinguished as quality, which counts both as reality and as negation, and then is reflected into itself, so that existence is posited as something, an existent. Determinate being is concrete from the start, so that several determinations and relations of its moments at once emerge in it.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Existence as such
 Citations:
+  In existence (a) as such, its determinateness is first (b) to be distinguished as quality. The latter, however, is to be taken in both the two determinations of existence as reality and negation. In these determinacies, however, existence is equally reflected into itself, and, as so reflected, it is posited as (c) something, an existent.
+    — The Science of Logic, Existence › Existence as such (tr. di Giovanni)
+  But existence is determinate being, something concrete; consequently, several determinations, several distinct relations of its moments, immediately emerge in it.
+    — The Science of Logic, Existence › Existence as such (tr. di Giovanni)

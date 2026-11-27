@@ -32,8 +32,12 @@ Phr:
   littera scripta manet [Lat.]
 
 # ---- Hegel ----
-Def: The measure maintaining itself as a ratio of its two qualitative sides, a being-for-self in measure.
+Def: Being-for-itself in measure arises where the qualitative moment, still immediate and with a magnitude of its own, is bound to its specific relation of measure. In any such relation, as in the law of falling bodies, there is an empirical coefficient, an immediate quantum not derived from the law, which is the being-for-itself of the measure, though only as immediate. As the unity of its two sides, one immediate and external and the other specified within, measure becomes complete self-subsistence: a something which is the unity of qualities in a relation of measure.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Specific quantity › The being-for-itself in measure
 Citations:
+  Here we are only concerned with this conceptual determination, namely that in any determination of measure the empirical coefficient constitutes the being-for-itself, but only the moment of the being-for-itself, in so far as it is in principle and therefore as immediate.
+    — The Science of Logic, Specific quantity › The being-for-itself in measure (tr. di Giovanni)
+  This negative unity is real being-for-itself, the category of a something which is the unity of qualities in a relation of measure – a complete self-subsistence.
+    — The Science of Logic, Specific quantity › The being-for-itself in measure (tr. di Giovanni)

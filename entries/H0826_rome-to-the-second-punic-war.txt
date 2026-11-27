@@ -27,8 +27,10 @@ Phr:
   ab urbe condita [Lat.] [Livy]
 
 # ---- Hegel ----
-Def: Early Rome, founded by robbers, ruled by kings, and growing through the struggle of patricians and plebeians.
+Def: The first period of Rome, which begins as an artificial and violent foundation of robber-herdsmen and a gathering of all sorts of people, and not from natural patriarchal bonds. Under kings and then under consuls the struggle of patricians and plebeians develops; once it is settled by concessions to the plebeians, the state gains the internal strength to defeat the people that preceded it in world history.
 Texts:
   The Philosophy of History
     The Roman World › Rome to the Time of the Second Punic War
 Citations:
+  The Roman State here exhibits its first phase of growth, under Kings; then it receives a republican constitution, at whose head stand Consuls. The struggle between patricians and plebeians begins; and after this has been set at rest by the concession of the plebeian demands, there ensues a state of contentment in the internal affairs of Rome, and it acquires strength to combat victoriously with the nation that preceded it on the stage of general history.
+    — The Philosophy of History, The Roman World › Rome to the Time of the Second Punic War (tr. Sibree)

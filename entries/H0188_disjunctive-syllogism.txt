@@ -28,8 +28,12 @@ Phr:
   if not this, then that
 
 # ---- Hegel ----
-Def: The middle is the genus as the totality of its exclusive species, the mediating and the mediated in one: the syllogism completed.
+Def: The disjunctive syllogism has as middle a universality full of form, the genus sorted out into its species, which includes the particular and excludes the species from one another: A is either B or C or D; but A is B; therefore it is neither C nor D. Mediator and mediated are the same A, so that it is the truth of the hypothetical syllogism and no longer a syllogism at all. With it the formalism and subjectivity of inference sublate themselves.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › The syllogism › The syllogism of necessity › The disjunctive syllogism
 Citations:
+  What is posited in the disjunctive syllogism is thus the truth of the hypothetical syllogism, the unity of the mediator and the mediated, and for that reason the disjunctive syllogism is equally no longer a syllogism at all.
+    — The Science of Logic, The syllogism of necessity › The disjunctive syllogism (tr. di Giovanni)
+  In this way the formalism of the syllogistic inference, and consequently the subjectivity of the syllogism and of the concept in general, has sublated itself.
+    — The Science of Logic, The syllogism of necessity › The disjunctive syllogism (tr. di Giovanni)

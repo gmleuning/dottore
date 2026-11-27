@@ -46,8 +46,12 @@ Phr:
   birds of a feather
 
 # ---- Hegel ----
-Def: The universal of the genus dividing into species according to the animal type, which is fully developed only in the mammal.
+Def: The genus, universal in itself, particularizes itself into species. One animal type underlies all forms and classes, its varieties being modifications that follow the elements and exhibit stages of development from the simplest organization to the most perfect; the developed organism is the standard for understanding the lower, and mammals are the most perfect animals.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  The genus, in its implicit universality, particularizes itself at first simply into species.
+    — Encyclopedia §370 (tr. Miller)
+  There is only one animal type (§ 352, Zusatz, p. 356) and all the varieties are merely modifications of it.
+    — Encyclopedia §370, Addition (tr. Miller)

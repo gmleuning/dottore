@@ -19,8 +19,12 @@ Phr:
   the curfew tolls the knell of parting day [Gray]
 
 # ---- Hegel ----
-Def: Die Elegie: the reflective lyric of mourning and longing, in which feeling is mixed with general reflection.
+Def: Elegy is grouped with sonnet, sestina and epistle as a form in which reflection enters lyric and rises beyond song. Unlike sonnet and sestina, whose singability gives way to verbal music, it may keep a more epic character in its measure of syllables, in reflections and apophthegms, and in a descriptive portrayal of feelings.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  Elegy, on the other hand, may keep a more epic character in the measure of syllables, in reflections, apophthegms, and a descriptive portrayal of feelings.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  Within this comprehensive stage, a second group consisting of sonnets, sestinas, elegies, epistles, etc., may be included.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

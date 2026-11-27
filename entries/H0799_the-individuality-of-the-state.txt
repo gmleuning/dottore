@@ -26,8 +26,10 @@ Phr:
   the family of nations
 
 # ---- Hegel ----
-Def: The state as an individual, exclusive, a being-for-self.
+Def: The individuality of the state is its existence as an exclusive being-for-self, a relation to other states, each independent of the others. In this independence the actual spirit has its existence, and it is the primary freedom of a people; individuals have the substantial duty to preserve it, even at the sacrifice of property and life.
 Texts:
   The Philosophy of Right
     §§321–324
 Citations:
+  Individuality, as exclusive being-for-self, appears as a relation to other states, each of which is independent vis-à-vis the others.
+    — The Philosophy of Right §322 (tr. Knox, rev. Houlgate)

@@ -18,8 +18,12 @@ Adj:
   pneumonic, pulmonic [Med.], phthisic†, dyspeptic, diabetic, varicose, paralytic, palsied
 
 # ---- Hegel ----
-Def: The second kind of disease, where a particular system (the lungs, the liver, the heart, the gut) isolates itself and asserts its own activity against the whole; the disease is the organism divided against itself.
+Def: A second general type of disease is caused by particular harmful influences from outside, affecting one of the organism's particular systems, such as skin or stomach, which then acts only for itself in isolation. It may be acute, when the whole organism can be drawn in and so free itself, or chronic, remaining in one organ and hard to cure.
 Texts:
   The Philosophy of Nature
     §371
 Citations:
+  Another general type of disease is that which is caused by particular, external harmful influences with which the organism comes into contact, and then it is one of the particular systems of the organism—e.g. the skin or the stomach—which is affected. This system is then particularly active (beschäftigt) and so acts only for itself, in isolation from the rest of the organism.
+    — Encyclopedia §371, Addition (tr. Miller)
+  Whereas in health, all the vital functions are held in this ideality, in disease the blood, e.g., is heated, inflamed; and then it is active on its own account.
+    — Encyclopedia §371, Addition (tr. Miller)

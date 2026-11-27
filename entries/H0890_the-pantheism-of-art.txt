@@ -31,8 +31,12 @@ Phr:
   a world in a grain of sand
 
 # ---- Hegel ----
-Def: The affirmative sublime, the pantheism of Indian and Persian poetry and of Christian mysticism.
+Def: The pantheism of art is not the crude belief that every single thing is God, which no religion or philosophy holds, but the intuition of the all as one substance immanent in individuals, which vanish before it. Belonging primarily to the East, it sees the divine in the most excellent of things while passing beyond each, so that the substance rises sublime above them. Only poetry can express it, not visual art.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Symbolism of the Sublime › The Pantheism of Art
 Citations:
+  The 'everything' in what has been called 'Pantheism' is therefore not this or that individual thing, but rather is 'everything' in the sense of the All, i.e. of the one substance which indeed is immanent in individuals
+    — Aesthetics, Symbolism of the Sublime › The Pantheism of Art (tr. Knox)
+  Such a way of looking at things can, on this account, be expressed artistically only in poetry, not in the visual arts
+    — Aesthetics, Symbolism of the Sublime › The Pantheism of Art (tr. Knox)

@@ -27,8 +27,12 @@ Phr:
   the stressed syllable
 
 # ---- Hegel ----
-Def: The union of accentual rhythm and rhyme in modern verse.
+Def: The union of rhythmic versification and rhyme is considered chiefly in modern languages, which have partly restored rhythm or joined it with rhyme. Lacking the plasticity of ancient quantity, they compensate with metrical accent and caesura, which now coincide with word accent; and the combination is allowed only within limits, since the two systems rest on opposed principles.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Unification of Rhythmical Versification and Rhyme
 Citations:
+  But while in the way indicated we have distinguished and contrasted rhythmic versification and rhyme, the question arises whether a unification of the two is not conceivable and has not actually occurred.
+    — Aesthetics, Versification › Unification of Rhythmical Versification and Rhyme (tr. Knox)
+  This element is the metrical accent and the caesura, which now instead of proceeding independently of the word-accent coincide with it.
+    — Aesthetics, Versification › Unification of Rhythmical Versification and Rhyme (tr. Knox)

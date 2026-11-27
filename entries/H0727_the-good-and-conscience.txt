@@ -25,8 +25,12 @@ Phr:
   to do the right thing
 
 # ---- Hegel ----
-Def: The good, the idea as the unity of the will's concept and the particular will, and conscience, the subjectivity which determines it.
+Def: The good and conscience form the third moment of morality. The good is the Idea, the unity of the concept of the will with the particular will, in which right and welfare are superseded and preserved. Conscience is the subject's absolute inward certainty of itself, which determines what is good; the two still stand apart.
 Texts:
   The Philosophy of Right
     §§129–141
 Citations:
+  The good is the Idea as the unity of the concept of the will with the particular will.
+    — The Philosophy of Right §129 (tr. Knox, rev. Houlgate)
+  Subjectivity in its universality reflected into itself is the subject’s absolute inward certainty [Gewißheit] of himself, that which posits the particular and is the determining and decisive element in him, his conscience [Gewissen].
+    — The Philosophy of Right §136 (tr. Knox, rev. Houlgate)

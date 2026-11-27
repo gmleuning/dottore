@@ -32,8 +32,12 @@ Phr:
   sun, moon and stars
 
 # ---- Hegel ----
-Def: Nature religion, in which the divine is known in a natural shape, immediate unity of spirit and nature.
+Def: Immediate religion, or nature religion, is the first form that religion necessarily takes. The name does not here mean what reason can know of God unaided, nor an original and perfect revelation given to humanity in paradise, of which later religions would be a decline. Hegel examines that widespread picture of an original state of innocence and true knowledge before turning to the actual forms of nature religion.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion
 Citations:
+  It was the view that the first religion was also the true and excellent one, and that all subsequent religions present only a degenerate state of this religion.
+    — Lectures on the Philosophy of Religion, Determinate Religion (1827) › Immediate Religion, or Nature Religion (tr. Brown, Hodgson and Stewart)
+  Most religions begin with a sojourn in paradise, and hence with an original state of human innocence
+    — Lectures on the Philosophy of Religion, Determinate Religion (1827) › Immediate Religion, or Nature Religion (tr. Brown, Hodgson and Stewart)

@@ -30,8 +30,12 @@ Phr:
   the show must go on
 
 # ---- Hegel ----
-Def: The external execution of the drama, its performance.
+Def: External execution is required because drama portrays a present action that moves outward into reality and cannot be confined to words. It needs the whole person in speech, gesture and expression, and a definite locality, so that poetry calls on nearly all the other arts, using them as perceptible foundation while some, as music and dance, develop their own independent beauty.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The External Execution of a Dramatic Work of Art
 Citations:
+  [I]ts task, on the contrary, is to portray an action present before us in its present and actual character.
+    — Aesthetics, Dramatic Poetry › The External Execution of a Dramatic Work of Art (tr. Knox)
+  [A]nd consequently dramatic poetry needs the aid of almost all the other arts if all these aspects are not to continue in their immediate accidental character but are to be given artistic shape as an essential feature of art itself.
+    — Aesthetics, Dramatic Poetry › The External Execution of a Dramatic Work of Art (tr. Knox)

@@ -26,8 +26,12 @@ Phr:
   full many a flower is born to blush unseen [Gray]
 
 # ---- Hegel ----
-Def: The senses of ideality, sight of physical light and hearing of the body's inner tremor.
+Def: Sight and hearing are the senses of physical ideality, the first class of senses. Because they sense the abstractly universal and ideal, their totality cannot be concrete but is divided between two moments: for sight the ideal takes the form of simply relating to itself, for hearing the form of producing itself through the negation of the material. Sight is related to space become physical, which is light, and hearing to time become physical, which is sound. Neither requires the direct contact with the object that taste does.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  Hence the first class embraces two senses—seeing and hearing. For seeing, the ideal takes the form of simply relating to itself, for hearing it takes the form of producing itself by the negation of the material.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  Just as sight is related to space become physical, to light, so hearing is related to time become physical, to sound.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

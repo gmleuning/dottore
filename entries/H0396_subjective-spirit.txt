@@ -31,8 +31,14 @@ Phr:
   mind and body
 
 # ---- Hegel ----
-Def: Spirit in relation to itself, ideal within itself: the soul, consciousness and mind of the individual, whose development is liberation from nature.
+Def: Subjective spirit is mind in the form of relation to itself, having the ideal totality of the idea arise within it, still in its undeveloped concept. It is mind as cognitive, developing in three forms: immediate, as the soul or natural mind treated by anthropology; for itself or mediated, as consciousness, treated by phenomenology; and determining itself within itself, as a subject for itself, treated by psychology.
 Texts:
   The Philosophy of Mind
     §§387–482
 Citations:
+  Mind, developing in its ideality, is mind as cognitive.
+    — Encyclopedia §387 (tr. Wallace and Miller, rev. Inwood)
+  Subjective mind is: (A) In itself or immediate: a soul or natural mind—the theme of Anthropology.
+    — Encyclopedia §387 (tr. Wallace and Miller, rev. Inwood)
+  We called the first form of mind we have to consider subjective mind, because here mind is still in its undeveloped concept, has not as yet made its concept an object for itself.
+    — Encyclopedia §387, Addition (tr. Wallace and Miller, rev. Inwood)

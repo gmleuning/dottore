@@ -43,8 +43,12 @@ Phr:
   tired Nature's sweet restorer, balmy sleep [Young]
 
 # ---- Hegel ----
-Def: Sleep, the soul's return into its undivided substance, a strengthening of its activity, not as mere rest but as a return from the world of determinations.
+Def: Sleep is the state of the soul's immersion in its undifferentiated unity. It is not simply the negative of waking or a rest from it: it invigorates the soul's activity as a return from the world of determinacies, from dispersion and hardening in particular details, into the universal essence of subjectivity, which is the substance of those determinacies and the absolute power over them. Over against it stands waking, in which the soul has entered into opposition to that simple unity.
 Texts:
   The Philosophy of Mind
     §398
 Citations:
+  Sleep is an invigoration of this activity, not as a merely negative rest from it, but as a return from the world of determinacies, from dispersion and solidification in individual details, into the universal essence of subjectivity, which is the substance of those determinacies and the absolute power over them.
+    — Encyclopedia §398 (tr. Wallace and Miller, rev. Inwood)
+  Sleep is the state of the soul's immersion in its undifferentiated unity, waking by contrast is the state of the soul's having entered into opposition to this simple unity.
+    — Encyclopedia §398, Addition (tr. Wallace and Miller, rev. Inwood)

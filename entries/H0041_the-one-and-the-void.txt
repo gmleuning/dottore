@@ -42,8 +42,14 @@ Phr:
   nature abhors a vacuum
 
 # ---- Hegel ----
-Def: The one and its non-being outside it, the void, as the atomists set atom and void side by side.
+Def: The one and the void are the first existence of being-for-itself. The one is the void as the abstract self-reference of negation, yet the void, as nothing, is absolutely diverse from the affirmative being of the one, and so stands outside it. Because both stand in one reference to the one, their difference is posited, and in this opposition of the one and the void being-for-itself has again acquired an existence, while its unity withdraws to one side.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being-for-itself › The one and the many › The one and the void
 Citations:
+  The one is the void as the abstract self-reference of negation.
+    — The Science of Logic, The one and the many › The one and the void (tr. di Giovanni)
+  The one and the void have their negative self-reference as their common and simple terrain.
+    — The Science of Logic, The one and the many › The one and the void (tr. di Giovanni)
+  But the void, as nothing, is absolutely diverse from the simple immediacy of the one, from the being of the latter which is also affirmative, and because the two stand in one single reference, namely to the one, their diversity is posited
+    — The Science of Logic, The one and the many › The one and the void (tr. di Giovanni)

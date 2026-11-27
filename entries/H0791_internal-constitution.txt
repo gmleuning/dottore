@@ -35,8 +35,12 @@ Phr:
   checks and balances
 
 # ---- Hegel ----
-Def: The inner constitution, the state as an organism whose powers are distinguished.
+Def: The internal constitution is the state's articulation into distinct powers according to the nature of the concept, each of which is itself the totality. The state is divided into the legislative power, which determines the universal; the executive, which subsumes the particular under it; and the crown, the power of ultimate decision.
 Texts:
   The Philosophy of Right
     §§272–320
 Citations:
+  The constitution is rational insofar as the state inwardly differentiates and determines its activity in accordance with the nature of the concept.
+    — The Philosophy of Right §272 (tr. Knox, rev. Houlgate)
+  [T]he power to determine and establish the universal—the legislative power; (b) the subsumption of individual cases and the spheres of particularity under the universal—the executive power
+    — The Philosophy of Right §273 (tr. Knox, rev. Houlgate)

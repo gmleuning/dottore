@@ -17,8 +17,12 @@ F:
   Sanskrit: gandha and rasa
 
 # ---- Hegel ----
-Def: The senses of real difference, smell and taste, which perceive the body's dissolving into air and water.
+Def: Smell and taste are the senses of real difference, the second class. They enter into relation with real corporeality, not yet as it persists on its own and resists, but only as it is dissolving and entering into process, the process by which bodies consume themselves by their own nature. They differ in that smell receives a body in the abstract, simple and indeterminate process of dissipation or evaporation, whereas taste is related to its real, concrete process and the chemical qualities that emerge in it.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  The senses of the second class enter into relation with real corporeality. But they do not yet have to do with it in so far as it is for itself, offers resistance, but only in so far as it is in the course of dissolution, enters into its process.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  Now although both smell and taste stand in relation to self-dissolving corporeality, yet these two senses are distinguished from each other by the fact that smell receives a body in the abstract, simple, indeterminate process of dissipation or evaporation; whereas taste is related to the real, concrete process of the body and to the chemical determinacies emerging in this process: the sweet, the bitter, the alkaline, the acidic, and the salty.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

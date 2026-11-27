@@ -32,8 +32,12 @@ Phr:
   at odds as fire and water
 
 # ---- Hegel ----
-Def: The elements of opposition: fire, the being-for-self that consumes, and water, the neutral and passive.
+Def: The elements of opposition are fire and water. Fire is being-for-self posited as a moment, the unrest of individuality, materialized time that consumes other things and itself and so passes into neutrality. Water is the neutral element, opposition returned into itself, without rigidity or shape of its own, taking limits from outside and only the possibility of process, solubility.
 Texts:
   The Philosophy of Nature
     §§283–284
 Citations:
+  In consuming an other it also consumes itself and thus passes over into neutrality.
+    — Encyclopedia §283 (tr. Miller)
+  Water is the Element of selfless opposition; it is a passive being-for-another, while fire is an active being-for-another.
+    — Encyclopedia §284, Addition (tr. Miller)

@@ -30,8 +30,14 @@ Phr:
   Occam's razor
 
 # ---- Hegel ----
-Def: The chief moments of scholasticism, Anselm's proof, the realists and nominalists, Aquinas.
+Def: Among the principal moments of Scholasticism, Anselm sought to treat church doctrine philosophically and to give proofs of it, and is famous for the ontological proof of God's existence, which embodies the antithesis of thinking and being. With Peter Lombard, Thomas Aquinas was foremost in making theology philosophical and systematic.
 Texts:
   Lectures on the History of Philosophy
     Medieval Philosophy › The Scholastics › Principal Moments of Scholastic Philosophy
 Citations:
+  His chief endeavor was to treat church doctrine in a philosophical manner, to give proofs for it.
+    — Lectures on the History of Philosophy 1825–6, The Scholastics › Principal Moments of Scholastic Philosophy (tr. Brown)
+  The simple content of this proof embodies the antithesis of thinking and being.
+    — Lectures on the History of Philosophy 1825–6, The Scholastics › Principal Moments of Scholastic Philosophy (tr. Brown)
+  The main thing was to make theology philosophical and more systematic; Peter Lombard and Thomas Aquinas are the most renowned in this respect
+    — Lectures on the History of Philosophy 1825–6, The Scholastics › Principal Moments of Scholastic Philosophy (tr. Brown)

@@ -62,8 +62,12 @@ Phr:
   un bien fait n'est jamais perdu [Fr.]
 
 # ---- Hegel ----
-Def: The law of the community, known and public, the law of government and the man.
+Def: The human law is ethical spirit as it is conscious of itself in the form of actuality. As universal it is the familiar, known law and the prevailing customs; as singular it is the actual certainty of itself in the individual, and as simple individuality it is the government. Its truth is a validity openly in force in the light of day, an existence which takes for immediate certainty the form of something set free to stand on its own.
 Texts:
   The Phenomenology of Spirit
     ¶¶447–448
 Citations:
+  This spirit can be called the human law because it is essentially in the form of actuality conscious of itself. In the form of universality, it is the familiarly known law and extant mores which are both present.
+    — The Phenomenology of Spirit ¶447 (tr. Pinkard)
+  Its truth is the validity in force which is publicly open to the light of day.
+    — The Phenomenology of Spirit ¶447 (tr. Pinkard)

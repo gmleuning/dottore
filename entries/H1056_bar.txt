@@ -23,8 +23,12 @@ Phr:
   in three-four time
 
 # ---- Hegel ----
-Def: Der Takt: the regular repetition of equal units of time, given a definite unity by stress, which orders the uniformity of time-measure into a rule.
+Def: The bar establishes a definite unit of time as the measure and rule of the succession and of the notes' arbitrary durations, and renews it in uniform repetition, as regular columns do in architecture. In this uniformity self-consciousness finds itself again, the more fully since the unity belongs neither to time nor to the notes but is put into time by the self.
 Texts:
   Aesthetics
     Music › Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm
 Citations:
+  Accordingly the simple purpose of the bar is (a) to establish a specific temporal unit as the measure and rule both for the marked interruption of the previously undifferentiated temporal succession and also for the equally arbitrary duration of single notes which now are brought together into a definite unity
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm (tr. Knox)
+  But the satisfaction which the self acquires, owing to the bar, in this rediscovery of itself is all the more complete because the unity and uniformity does not pertain either to time or the notes in themselves; it is something which belongs solely to the self and is inserted into time by the self for its own self-satisfaction.
+    — Aesthetics, Particular Characteristics of Music's Means of Expression › Time, Bar, Rhythm (tr. Knox)

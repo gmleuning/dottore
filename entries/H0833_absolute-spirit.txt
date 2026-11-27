@@ -30,8 +30,12 @@ Phr:
   the highest things
 
 # ---- Hegel ----
-Def: Spirit knowing itself as absolute: art, religion and philosophy.
+Def: Absolute spirit is mind in which the subjective and objective are one: an identity eternally within itself and returning into itself, the single universal substance as spiritual, and a knowing for which that substance is as such. Its reality is knowledge of the absolute idea, and its sphere, generally called religion, issues from the subject and equally from absolute spirit in its community. It unfolds as art, revealed religion and philosophy.
 Texts:
   The Philosophy of Mind
     §§553–577
 Citations:
+  The absolute mind is identity, both an identity that is eternally within itself and an identity that returns and has returned into itself: the one and universal substance as spiritual, the judgement discerning itself into itself and an awareness, an awareness for which the substance is as such.
+    — Encyclopedia §554 (tr. Wallace and Miller, rev. Inwood)
+  That this reality be knowledge of the absolute Idea and thus in identity with the concept, involves the necessary aspect that the implicitly free intelligence be in its actuality liberated to its concept, in order to be the shape worthy of the concept.
+    — Encyclopedia §553 (tr. Wallace and Miller, rev. Inwood)

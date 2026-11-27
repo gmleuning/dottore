@@ -16,8 +16,12 @@ Phr:
   all things are numbers [the Pythagoreans]
 
 # ---- Hegel ----
-Def: Pythagoras, who makes number the principle, midway between the sensuous and the concept, the first thought-determinations.
+Def: The main thesis of the Pythagorean philosophy is that number is the being of things, the organization of the universe being a system of numbers and numerical relationships. It is a bold step beyond sensible principles. The mathematical domain serves Pythagoras in education because it stands midway between the sensible and supersensible worlds, a preliminary exercise leading to what is in and for itself.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Pythagoras and the Pythagoreans
 Citations:
+  The main thesis of Pythagorean philosophy is simply that number is the being of things, and the organization of the universe is a system of numbers and numerical relationships—in short, that number as such is the being of all things.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Pythagoras and the Pythagoreans (tr. Brown)
+  Pythagoras makes use of the mathematical domain, because it stands midway between the sensible and supersensible worlds, as a preliminary exercise for the purpose of leading up to what is in and for itself.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Pythagoras and the Pythagoreans (tr. Brown)

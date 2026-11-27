@@ -32,8 +32,10 @@ Phr:
   the work of the mind
 
 # ---- Hegel ----
-Def: The activity of spirit which makes the object its own.
+Def: Spiritual activity is the work of thinking by which spirit makes good its trust that knowledge and object are identical. Unlike consciousness, which faces external things with an independence of their own, spirit knows identity to be the basis: things cannot conceal themselves, and are as I determine them in thinking them over. In this I do not remain subjective but relate myself wholly objectively, penetrating to the inwardness of things.
 Texts:
-  The Philosophy of Mind
+  The Berlin Phenomenology
     §439
 Citations:
+  Spirit, however, knows the basis to be identity, within which relatedness there is the belief and trust that I am able to cognize things, that they are not able to conceal themselves, that they are as I cognize them to be, as I determine them through the spiritual activity of my thinking them over, - that I do not remain subjective in this, but relate myself wholly objectively, penetrating to the inwardness of things and apprehending general objects as they are.
+    — The Berlin Phenomenology §439 (tr. Petry)

@@ -35,8 +35,12 @@ Phr:
   to speak in riddles
 
 # ---- Hegel ----
-Def: The riddle, a meaning concealed in features whose solution is outside them.
+Def: A riddle belongs to conscious symbolism: its inventor knows the meaning completely and deliberately chooses a veiling shape through which it is to be guessed. Unlike the symbol proper, which stays an unsolved problem, it is wholly soluble. It joins scattered traits in a striking and apparently senseless way that points to a unity, the solving word, putting ingenuity to the test, and belongs especially to the art of speech.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Riddle
 Citations:
+  But the riddle belongs to conscious symbolism and it is distinguished at once from the symbol, strictly so-called, by reason of the fact that the meaning is clearly and completely known to the inventor of the riddle; and the shape that veils it, through which the meaning is to be guessed, is therefore chosen deliberately for this semiveiling.
+    — Aesthetics, Comparisons which Start from the Meaning › Riddle (tr. Knox)
+  Symbols in the strict sense are, both before and after, unsolved problems, while the riddle is absolutely solved
+    — Aesthetics, Comparisons which Start from the Meaning › Riddle (tr. Knox)

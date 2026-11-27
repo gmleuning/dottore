@@ -45,8 +45,12 @@ Phr:
   to go to seed
 
 # ---- Hegel ----
-Def: The plant's genus process, the flower and fruit, in which the plant reproduces itself and dies as an individual.
+Def: In the genus process the plant brings forth its own light in the blossom and arrests its endless sprouting. It reaches only a difference, not a relation of whole individuals, an analogue of sex, and since all its processes already reproduce, this one is superfluous. The plant is destined to be sacrificed to the higher organism, the animal.
 Texts:
   The Philosophy of Nature
     §§348–349
 Citations:
+  The genus-process, the relation of the individual self to the self, as a return into itself, arrests the growth of the plant as an unrestrained sprouting from bud to bud.
+    — Encyclopedia §348 (tr. Miller)
+  The plant is a subordinate organism whose destiny is to sacrifice itself to the higher organism and to be consumed by it.
+    — Encyclopedia §349, Addition (tr. Miller)

@@ -38,8 +38,12 @@ Phr:
   neither one thing nor the other
 
 # ---- Hegel ----
-Def: Being and nothing are the same, and yet absolutely distinct; their unity is not a resting identity but becoming.
+Def: The unity of being and nothing says that pure being and pure nothing are the same. This sameness is not a rest in which the difference has disappeared. Being and nothing are absolutely distinct, yet equally unseparated and inseparable. What is true is neither of them taken alone, but that each has passed over into the other. The proposition "being and nothing are the same" is therefore one-sided if it leaves out their difference; what states the matter adequately is their movement into one another, which is becoming.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Becoming › Unity of being and nothing
 Citations:
+  Pure being and pure nothing are therefore the same. The truth is neither being nor nothing, but rather that being has passed over into nothing and nothing into being – “has passed over,” not passes over.
+    — The Science of Logic, Becoming › Unity of being and nothing (tr. di Giovanni)
+  But the truth is just as much that they are not without distinction; it is rather that they are not the same, that they are absolutely distinct yet equally unseparated and inseparable
+    — The Science of Logic, Becoming › Unity of being and nothing (tr. di Giovanni)

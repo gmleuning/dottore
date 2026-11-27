@@ -17,8 +17,14 @@ F:
   French: mauvaise foi [Sartre]
 
 # ---- Hegel ----
-Def: Individuals each busy with their own work, the matter in hand, and the deceit of claiming it as a universal concern.
+Def: The spiritual animal kingdom and deception, or the matter in hand itself, is the shape in which individuals, each with an original determinate nature, express themselves in their works and take this to be absolute reality. The work proves transient, exposed to the interests of others, and consciousness holds instead to the matter in hand, the unity of actuality and individuality. Each then claims to care for the matter itself while caring for its own activity, deceiving others and being deceived, until the matter becomes the work of each and all.
 Texts:
   The Phenomenology of Spirit
     ¶¶397–418
 Citations:
+  First of all, this individuality which is real in itself is again singular and determinate.
+    — The Phenomenology of Spirit ¶397 (tr. Pinkard)
+  The crux of the matter is opposed to these moments only inasmuch as they are supposed to be valid in isolation, but it is essentially their unity as the permeation of actuality and individuality.
+    — The Phenomenology of Spirit ¶409 (tr. Pinkard)
+  Actualization is instead a matter of putting into the universal element an exhibition of what is one’s own in the universal element, through which what is one’s own both becomes and indeed ought to become the fact of the matter at issue for everyone.
+    — The Phenomenology of Spirit ¶416 (tr. Pinkard)

@@ -20,8 +20,12 @@ Phr:
   a riddle for themselves and for others, the solution of which is only to be found in the Greek World [Hegel, Philosophy of History, tr. Sibree]
 
 # ---- Hegel ----
-Def: Ägypten, the land of the riddle, whose spirit labours toward self-knowledge and whose problem is solved only in Greece.
+Def: The land in which the opposed elements of the Persian world are united as a problem: spirit sunk in nature and the impulse to free it are held together in contradiction. Its symbol is the Sphinx, half animal and half human. Driven to comprehend itself, the Egyptian spirit works out its thought in stone and in enigmatic hieroglyphs without reaching a clear solution.
 Texts:
   The Philosophy of History
     The Oriental World › Persia › Egypt
 Citations:
+  The Sphinx may be regarded as a symbol of the Egyptian Spirit. The human head looking out from the brute body, exhibits Spirit as it begins to emerge from the merely Natural—to tear itself loose therefrom and already to look more freely around it; without, however, entirely freeing itself from the fetters Nature had imposed.
+    — The Philosophy of History, Persia › Egypt (tr. Sibree)
+  It is the distinguishing feature of the Egyptian Spirit, that it stands before us as this mighty task-master. It is not splendour, amusement, pleasure, or the like that it seeks. The force which urges it is the impulse of self-comprehension; and it has no other material or ground to work on, in order to teach itself what it is—to realize itself for itself
+    — The Philosophy of History, Persia › Egypt (tr. Sibree)

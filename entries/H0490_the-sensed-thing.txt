@@ -27,8 +27,12 @@ Phr:
   this very thing
 
 # ---- Hegel ----
-Def: The sensed thing, which proves to be a universal, a this that is many.
+Def: The sensed thing is the object of sensory consciousness, which is aware of it only as a being, a something, an existing thing, an individual. It appears to be the richest in content but is the poorest in thoughts, its wealth consisting of determinations of feeling which the I separates from itself and first determines as being. The manifold content of sensations is gathered into a unit outside me, known immediately and individually, which comes into consciousness and vanishes again.
 Texts:
   The Philosophy of Mind
     §418
 Citations:
+  Sensory consciousness is therefore aware of the object only as a being, a something, an existing thing, an individual, and so on. It appears as the richest in content, but it is the poorest in thoughts.
+    — Encyclopedia §418, Remark (tr. Wallace and Miller, rev. Inwood)
+  The reflection of the soul into itself, I, separates this material from itself, and gives it initially the determination of being.
+    — Encyclopedia §418, Remark (tr. Wallace and Miller, rev. Inwood)

@@ -31,8 +31,14 @@ Phr:
   the way that can be spoken is not the eternal way
 
 # ---- Hegel ----
-Def: The state religion of China, the emperor's mediation of heaven, and the Dao as the way of reason.
+Def: The state religion of China is the religion of heaven, Tian, an abstract universal power that is physical and moral at once. Hegel counts it a developed religion of magic, because the individual's will is still what is highest: it is the emperor, not heaven, who rules on earth and over the invisible spirits. Beside it stands the older religion of the Dao, which means the way, or reason.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religion of Magic › The State Religion of the Chinese Empire and the Dao
 Citations:
+  But the state religion, the religion of the Chinese empire, is the religion of heaven, where heaven or Tian is acknowledged as the highest ruling power.
+    — Lectures on the Philosophy of Religion, The Religion of Magic › The State Religion of the Chinese Empire and the Dao (tr. Brown, Hodgson and Stewart)
+  Dao generally means "the way," the right way of spirit, i.e., it means “reason.”
+    — Lectures on the Philosophy of Religion, The Religion of Magic › The State Religion of the Chinese Empire and the Dao (tr. Brown, Hodgson and Stewart)
+  The emperor is lord over the visible world of the mandarins just as he is over the invisible Shen.
+    — Lectures on the Philosophy of Religion, The Religion of Magic › The State Religion of the Chinese Empire and the Dao (tr. Brown, Hodgson and Stewart)

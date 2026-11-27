@@ -33,8 +33,12 @@ Phr:
   the living earth
 
 # ---- Hegel ----
-Def: The earth as the organism that is only the presupposed framework of life, life in itself, a crystal of life.
+Def: The terrestrial organism is the first, merely implicit organism, which does not exist as a living creature because life is essentially a self-mediating activity. Subjective life makes this organism its own presupposition, an immediacy set over against it as condition and outer subsistence: only the shape of an organism, the earth-body as a universal system of individual bodies.
 Texts:
   The Philosophy of Nature
     §§338–342
 Citations:
+  The first organism, just because it is at first determined as immediate organism or as only implicitly organism, does not exist as a living creature; for as subject and process, life is essentially a self-mediating activity.
+    — Encyclopedia §338 (tr. Miller)
+  This immediate totality presupposed by the subjective totality is only the shape of the organism—the Earth-body as the universal system of individual bodies.
+    — Encyclopedia §338 (tr. Miller)

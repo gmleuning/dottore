@@ -42,8 +42,12 @@ Phr:
   the folds fall freely
 
 # ---- Hegel ----
-Def: The drapery, which lets the body show through, falling freely as determined by the figure.
+Def: Drapery in sculpture is no mere drawback to the nude, since sensuous beauty is not sculpture's final aim; the Greeks showed most women clothed. Clothing arises from protection and shame, and ideally covers organs superfluous to spiritual expression. Greek dress is the ideal model, held by the body and shaped by its pose only as needed, otherwise falling freely, unlike stitched modern clothes.
 Texts:
   Aesthetics
     Sculpture › The Ideal of Sculpture › Particular Aspects of the Ideal Form in Sculpture › Draping [or Clothing]
 Citations:
+  In general it need only be said on this matter that from the point of view of sensuous beauty preference must be given to the nude, but sensuous beauty as such is not the ultimate aim of sculpture, and so it follows that the Greeks did not fall into error by presenting most of their male figures nude but by far the majority of the female ones clothed.
+    — Aesthetics, Particular Aspects of the Ideal Form in Sculpture › Draping [or Clothing] (tr. Knox)
+  Therefore the dress of the Greeks is held up by the body, and determined by its pose, only to the extent necessary to prevent its falling, but otherwise it hangs down freely
+    — Aesthetics, Particular Aspects of the Ideal Form in Sculpture › Draping [or Clothing] (tr. Knox)

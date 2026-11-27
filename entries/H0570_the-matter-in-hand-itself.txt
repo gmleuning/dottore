@@ -21,8 +21,12 @@ Phr:
   it's the thing itself that matters
 
 # ---- Hegel ----
-Def: Die Sache selbst: the true work, the unity of doing and being, of individuality and objectivity, which becomes the concern of all and passes over into ethical substance.
+Def: The matter in hand itself, die Sache selbst, is the unity in which actuality and individuality permeate one another: the doing of this individual and pure doing as such, purpose and its passage into actuality. Its moments are sublated as valid on their own and count only as universal moments, and in it consciousness's certainty of itself becomes an objective essence. It is an object born of self-consciousness as its own, without ceasing to be free-standing and genuine, which distinguishes it from an ordinary thing.
 Texts:
   The Phenomenology of Spirit
     ¶¶409–417
 Citations:
+  The crux of the matter thereby expresses the spiritual essentiality in which all these moments are sublated as valid for themselves, and therefore valid only as universal moments, and in which the certainty that consciousness has of itself is, to consciousness, an objective essence, a crux of the matter.
+    — The Phenomenology of Spirit ¶409 (tr. Pinkard)
+  It is an object born out of self-consciousness as its own object, without thereby ceasing to be a free-standing, genuine object.
+    — The Phenomenology of Spirit ¶409 (tr. Pinkard)

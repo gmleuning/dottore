@@ -22,8 +22,12 @@ Phr:
   the house of the dead
 
 # ---- Hegel ----
-Def: The Egyptian subterranean buildings, rock-tombs and the labyrinth, dwellings for the dead in which the invisible is first given a house.
+Def: The Egyptian subterranean buildings, with those of India, are excavations in upper Egypt and Nubia that rival and surpass surface works. Because excavation starts from what is already there and leaves the main mass alone, it lacks the freedom of building above ground, so that the enormous erections on the surface may be regarded as imitations and blossomings of the subterranean.
 Texts:
   Aesthetics
     Architecture › Symbolic Architecture › Transition from Independent to Classical Architecture › Indian and Egyptian Subterranean Buildings
 Citations:
+  Therefore subterranean building begins rather with what is present already, and, since it leaves the main mass alone as it is, is not erected yet with the freedom inherent in construction above ground.
+    — Aesthetics, Transition from Independent to Classical Architecture › Indian and Egyptian Subterranean Buildings (tr. Knox)
+  In this matter we may picture caves as arising earlier than huts.
+    — Aesthetics, Transition from Independent to Classical Architecture › Indian and Egyptian Subterranean Buildings (tr. Knox)

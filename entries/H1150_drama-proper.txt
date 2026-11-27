@@ -31,8 +31,12 @@ Phr:
   the middle kind
 
 # ---- Hegel ----
-Def: Drama proper, which reconciles the tragic and the comic.
+Def: Drama proper, the third genre between tragedy and comedy, reconciles their difference so that the two sides meet in a concrete whole, though it is of less striking importance. The Greek satyr plays and Plautus' tragicomedy belong here, and modern plays rest on the view that despite conflicts of character and passion human action can produce a harmonious situation.
 Texts:
   Aesthetics
     Poetry › Dramatic Poetry › The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama
 Citations:
+  In the centre between tragedy and comedy there is a third chief genre of dramatic poetry which yet is of less striking importance, despite the fact that it attempts to reconcile the difference between tragedy and comedy; or at least, instead of being isolated in sheer opposition to one another, these two sides meet in it and form a concrete whole.
+    — Aesthetics, The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama (tr. Knox)
+  The heart of this principle is the view that, despite all differences and conflicts of characters and their interests and passions, human action can nevertheless produce a really fully harmonious situation.
+    — Aesthetics, The Genres of Dramatic Poetry › The Principle of Tragedy, Comedy, and Drama (tr. Knox)

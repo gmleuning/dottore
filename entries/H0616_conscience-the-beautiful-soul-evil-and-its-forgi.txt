@@ -35,8 +35,12 @@ Phr:
   a clear conscience
 
 # ---- Hegel ----
-Def: Conscience, the beautiful soul, and evil and its forgiveness, in which the moral self comes to reconciliation.
+Def: Conscience, the beautiful soul, evil and its forgiveness form the last shape of spirit certain of itself. The self of conscience, immediately certain of itself as truth and being, no longer places moral validity in another being but knows its own conviction as duty and has its content within its certainty. Its freedom splits into the beautiful soul that will not act and the acting conscience that the judging consciousness calls evil, until confession and forgiveness let each recognize itself in the other, which is absolute spirit.
 Texts:
   The Phenomenology of Spirit
     ¶¶632–671
 Citations:
+  This self of conscience, spirit immediately certain of itself as absolute truth and being, is the third self which has developed out of the third world of spirit
+    — The Phenomenology of Spirit ¶633 (tr. Pinkard)
+  The word of reconciliation is the existing spirit which immediately intuits in its opposite the pure knowing of itself as the universal essence, intuits it in the pure knowing of itself as singular individuality existing absolutely inwardly – a reciprocal recognition which is absolute spirit.
+    — The Phenomenology of Spirit ¶670 (tr. Pinkard)

@@ -33,8 +33,12 @@ Phr:
   three in one
 
 # ---- Hegel ----
-Def: The content of manifest religion in pure thought: the Father, the Son, the Spirit.
+Def: Spirit in itself, represented in the element of pure thinking, is the simple eternal self-equal essence, which is absolute spirit. Were it to remain a simple essence it would be spirit only in empty words, for spirit is to be actual. As abstraction it is negativity in itself, absolute difference from itself, pure becoming other. Representation tells this necessity of the concept as an event: the eternal essence creates an other and in that otherness immediately returns to itself.
 Texts:
   The Phenomenology of Spirit
     ¶¶769–773
 Citations:
+  Hence, the simple eternal essence would be spirit only according to empty words if it were to remain in representational thought and in the expression of simple eternal essence.
+    — The Phenomenology of Spirit ¶769 (tr. Pinkard)
+  However, in this otherness, it has equally immediately reverted into itself again, for the difference is the difference in itself, i.e., the difference is immediately distinguished only from itself, and it is thus the unity reverted into itself.
+    — The Phenomenology of Spirit ¶769 (tr. Pinkard)

@@ -33,8 +33,12 @@ Phr:
   le silence du people est la legon des rois [Fr.]
 
 # ---- Hegel ----
-Def: The public authority that oversees the universal in the contingency of civil society, its welfare and order.
+Def: The public authority (police) is the universal power that secures welfare in the sphere of contingency. Since the particular will still governs the choice of ends, this authority is restricted to contingencies and is an external organization; its aim is to actualize and maintain the universal contained within the particularity of civil society.
 Texts:
   The Philosophy of Right
     §§231–249
 Citations:
+  Inasmuch as the particular will is still the principle governing the choice of this or that end, the universal authority by which security is ensured remains in the first instance, (a) restricted to the sphere of contingencies, and (b) an external organization.
+    — The Philosophy of Right §231 (tr. Knox, rev. Houlgate)
+  [I]ts primary purpose is to actualize and maintain the universal contained within the particularity of civil society
+    — The Philosophy of Right §249 (tr. Knox, rev. Houlgate)

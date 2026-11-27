@@ -28,8 +28,12 @@ Phr:
   visions and voices
 
 # ---- Hegel ----
-Def: The content of the trance states, which is the soul's own feeling world, not an objective knowledge.
+Def: The content of the trance states is the individual's own actuality, the whole circle of interests and relationships which has coalesced with that individuality and which healthy consciousness knows as an intelligibly connected external world. In somnambulism the individual is a monad inwardly aware of this actuality, intuiting it immediately without the series of mediations that waking consciousness must pass through. Only what is individually determined enters in; scientific discoveries and universal truths need the ground of thought developed to free consciousness.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  The individual is thus a monad which is inwardly aware of its actuality, the self-intuition of the genius.
+    — Encyclopedia §406, Remark (tr. Wallace and Miller, rev. Inwood)
+  The first conclusion to be drawn from the account we have given bears on the content: in somnambulism only the sphere of the individually determined world, of particular interests and restricted relationships, enter into consciousness.
+    — Encyclopedia §406, Remark (tr. Wallace and Miller, rev. Inwood)

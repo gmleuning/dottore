@@ -65,8 +65,10 @@ Phr:
   too high a price to pay, not worth it
 
 # ---- Hegel ----
-Def: The exchange of goods for money, the universal value.
+Def: Sale is the exchange of a specific thing for money, the thing characterized as universal. Money counts only as value and lacks any specific utility of its own, so in sale the qualitative thing is exchanged for its value as such, the universal aspect in which all things are equal.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (β) purchase or sale (emtio, venditio); exchange of a specific thing for one characterized as universal, one which counts as value alone and which lacks the other specific determination of utility—i.e. for money.
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

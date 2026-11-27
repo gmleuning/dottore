@@ -31,8 +31,12 @@ Phr:
   before one's eyes
 
 # ---- Hegel ----
-Def: The content put outside as an object in space and time and grasped as present.
+Def: Intuition proper is intelligence as the concrete unity of attention and the casting of its material into space and time, immediately recollected into itself in this external being and immersed in its own self-externality. The object is both detached from me and mine, but what is mine is present only implicitly, and the objective side predominates. Genuine intuition apprehends the solid substance of its object. Posited as the mind's own, it is raised to representation.
 Texts:
   The Philosophy of Mind
     §§449–450
 Citations:
+  When intelligence is this concrete unity of the two moments, and is in fact to be immediately recollected into itself in the external being of this material and in its recollection-into-itself immersed in self-externality, it is intuition.
+    — Encyclopedia §449 (tr. Wallace and Miller, rev. Inwood)
+  Mindful, genuine intuition, by contrast, apprehends the solid substance of the object.
+    — Encyclopedia §449, Addition (tr. Wallace and Miller, rev. Inwood)

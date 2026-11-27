@@ -27,8 +27,12 @@ Phr:
   the course of the lyric
 
 # ---- Hegel ----
-Def: The historical course of lyric, from the oriental to the classical and the romantic.
+Def: The historical development of lyric must be treated concretely, since in scarcely any art do period, nationality and the poet's genius so determine form and content. It follows the principal forms of art: oriental lyric, absorbed in outer things without individual independence or romantic depth; Greek and Roman, with Pindar at its summit; and the romantic lyric of Germanic, Latin and Slavonic peoples.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Historical Development of Lyric
 Citations:
+  The basis for a general grouping of the manifold national and individual lyric poems must be found, as in the case of epic poetry, in the principal forms into which artistic production has developed and which we have come to know as the symbolic, the classical, and the romantic.
+    — Aesthetics, Lyric Poetry › Historical Development of Lyric (tr. Knox)
+  Just as we saw in the case of epic poetry, so too it is the case with lyric that an original content and spirit enters it only with the appearance of new nations.
+    — Aesthetics, Lyric Poetry › Historical Development of Lyric (tr. Knox)

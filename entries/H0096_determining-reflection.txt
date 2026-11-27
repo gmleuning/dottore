@@ -55,8 +55,12 @@ Phr:
   to call it what it is
 
 # ---- Hegel ----
-Def: The unity of positing and external reflection, which fixes determinations of reflection that hold in and for themselves.
+Def: Determining reflection is the unity of positing and external reflection. Positing reflection begins from nothing, external reflection from immediate being; in their unity positedness, which is negation, is at the same time presupposed and reflected into itself, and so becomes a determination of reflection. Unlike quality, which passes over into another through its relation, such a determination has taken its otherness back into itself. It is negation as the unity of itself and its other, and only through this is it an essentiality.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Shine › Reflection › Determining reflection
 Citations:
+  Determining reflection is in general the unity of positing and external reflection.
+    — The Science of Logic, Reflection › Determining reflection (tr. di Giovanni)
+  The determination of reflection, on the contrary, has taken its otherness back into itself.
+    — The Science of Logic, Reflection › Determining reflection (tr. di Giovanni)

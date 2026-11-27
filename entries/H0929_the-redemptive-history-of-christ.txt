@@ -30,8 +30,12 @@ Phr:
   the passion of Christ
 
 # ---- Hegel ----
-Def: The history of redemption, Christ's life, passion, death and resurrection, the human appearance of the absolute.
+Def: The redemptive history of Christ presents spirit's reconciliation with itself as God's appearance in the world: an individual man is God and God an individual man, so that in Christ every individual beholds their own reconciliation with God as actual. Since this unity is no immediate coalescence, the process of spirit must appear as this man's history: suffering, death, resurrection through death's grief, and presence as spirit in the church.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Religious Domain of Romantic Art › The Redemptive History of Christ
 Citations:
+  The simple heart of this reconciliation is the coalescence of absolute essentiality with the individual human subject; an individual man is God, and God an individual man.
+    — Aesthetics, The Religious Domain of Romantic Art › The Redemptive History of Christ (tr. Knox)
+  This history of the spirit, consummated in one individual, contains nothing except what we have already touched on above, namely that the individual man casts aside his individuality of body and spirit, i.e. that he suffers and dies, but conversely through the grief of death rises out of death, and ascends as God in his glory, as the actual spirit which now has indeed entered existence as an individual, as this subject, yet even so is essentially truly God only as Spirit in his Church.
+    — Aesthetics, The Religious Domain of Romantic Art › The Redemptive History of Christ (tr. Knox)

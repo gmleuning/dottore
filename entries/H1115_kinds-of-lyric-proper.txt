@@ -28,8 +28,12 @@ Phr:
   hymn, ode, and song
 
 # ---- Hegel ----
-Def: The kinds of lyric: hymn and dithyramb, the ode, the song, each a different relation of self and object.
+Def: The kinds of lyric proper differ by the attitude the poet consciously takes to the subject. In one the poet's individuality vanishes into contemplation of God or the gods, as in hymns, dithyrambs and psalms; in odes the poet's own subjective personality is foremost; and in song the endless variety of lyric moods and reflections is spread out.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  The difference between them has its basis in the attitude which the poet consciously adopts to his subject-matter.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  Lastly, the whole endless variety of lyric moods and reflections is spread out at the stage of the song.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

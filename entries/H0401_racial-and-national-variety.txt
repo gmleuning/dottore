@@ -43,8 +43,12 @@ Phr:
   every nation under heaven
 
 # ---- Hegel ----
-Def: The natural differences of spirit among peoples and races, the local spirits of the earth's divisions.
+Def: Racial and national variety is the particularizing of the universal planetary life into the concrete differences of the earth, so that it breaks up into natural minds that express the nature of the geographical regions and, descending further, into the local minds of peoples. Hegel treats these as natural differences of the soul, and holds that since human beings are implicitly rational, descent gives no ground for some to be free and others dominated. His detailed account in the Additions nonetheless ranks races and peoples in terms that are openly racist.
 Texts:
   The Philosophy of Mind
     §§393–394
 Citations:
+  Man is implicitly rational; herein lies the possibility of equality of right for all men—the futility of a rigid distinction between races that have rights and those that have none.
+    — Encyclopedia §393, Addition (tr. Wallace and Miller, rev. Inwood)
+  This differentiation descends into particularities, which may be termed local minds, shown in the outward modes of life, occupation, bodily structure and disposition, but still more in the inner tendency and capacity of the intellectual and ethical character of the several peoples.
+    — Encyclopedia §394 (tr. Wallace and Miller, rev. Inwood)

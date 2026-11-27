@@ -36,8 +36,12 @@ Phr:
   the spectrum
 
 # ---- Hegel ----
-Def: Colour arising when light passes through the prism, the turbidity and displacement of the image.
+Def: Prismatic colour is produced when the prism acts as a means of external obscuration, dimming the light both by its edges and by its shape, whose thickness varies, so that transparency is lessened unevenly. Following Goethe, Hegel says that in the prism the bright overrides the dark or the reverse, each acting independently while displaced.
 Texts:
   The Philosophy of Nature
     §320
 Citations:
+  The most celebrated means for producing external obscuration is the prism, whose dimming action stems from two factors: first, from its outer boundary as such, its edges, and secondly, from its prismatic shape, from the variable transverse diameter between the whole spread of one side and the opposite edge.
+    — Encyclopedia §320, Remark (tr. Miller)
+  He says that in the prism, the bright overrides the dark or vice versa: so that the bright, though modified by the dark, still acts independently qua bright, though dimmed, and (in the case of the prism), disregarding the common displacement, remains in its own place at the very time of its displacement.
+    — Encyclopedia §320, Remark (tr. Miller)

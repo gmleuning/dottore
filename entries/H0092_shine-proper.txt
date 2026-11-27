@@ -35,8 +35,12 @@ Phr:
   for show
 
 # ---- Hegel ----
-Def: Semblance recognized as essence's own shining within itself, not a being alien to it.
+Def: Shine proper is being reduced to its nothingness: it consists only in the sublatedness of being, and apart from essence it does not exist. It still seems to have an immediate side, like the phenomenon of skepticism or the appearance of idealism, with a manifold content simply found. But its immediacy is that of non-being, which is nothing but the negativity within essence. The determinations that distinguish shine from essence are essence's own, so that shine is essence itself in the determinateness of being.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Shine › Shine
 Citations:
+  The being of shine consists solely in the sublatedness of being, in being’s nothingness; this nothingness it has in essence, and apart from its nothingness, apart from essence, it does not exist.
+    — The Science of Logic, Shine › Shine (tr. di Giovanni)
+  Shine is essence itself in the determinateness of being.
+    — The Science of Logic, Shine › Shine (tr. di Giovanni)

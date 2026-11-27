@@ -38,8 +38,12 @@ Phr:
   the strong do not coerce the weak, the rich do not insult the poor, qiang bu zhi ruo, fu bu wu pin [Chin.] [Mozi]
 
 # ---- Hegel ----
-Def: Wealth piles up at one pole while a mass sinks into poverty and loses its sense of right, honour and self-respect: the rabble, which Hegel names a problem that torments modern society (§241-245).
+Def: Care for the poor is the public authority's provision for those reduced to poverty, not only by their own caprice but by contingency, physical conditions and external circumstances. The poor still have the needs of civil society, yet society has taken from them the natural means of acquisition and broken the bond of the family, so that society itself must take the family's place for them.
 Texts:
   The Philosophy of Right
     §241
 Citations:
+  Not only caprice, however, but also contingencies, physical conditions, and factors grounded in external circumstances (see § 200) may reduce people to poverty.
+    — The Philosophy of Right §241 (tr. Knox, rev. Houlgate)
+  The poor still have the needs common to civil society, and yet since society has withdrawn from them the natural means of acquisition (see § 217) and broken the bond of the family
+    — The Philosophy of Right §241 (tr. Knox, rev. Houlgate)

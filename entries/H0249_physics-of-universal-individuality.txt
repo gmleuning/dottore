@@ -26,8 +26,12 @@ Phr:
   the world at large
 
 # ---- Hegel ----
-Def: Matter as qualified in its universal physical forms, the free physical bodies, the elements and their process.
+Def: The physics of universal individuality treats matter as qualified in its universal physical forms: the free physical bodies, which are the heavenly bodies now physically determined, then the physical elements, related to the unity of their totality, and the meteorological process that engenders what is individual in them. Matter here differentiates and determines itself, and exists only through its qualities.
 Texts:
   The Philosophy of Nature
     §§274–289
 Citations:
+  Thrust is no longer external to matter; on the contrary, matter's differentiation is its internal, immanent thrust; matter differentiates and determines itself by itself, is reflection-into-self.
+    — Encyclopedia §274, Addition (tr. Miller)
+  They are material qualities which belong to the substance (Substanz) of matter; what matter is, it is only through its qualities.
+    — Encyclopedia §274, Addition (tr. Miller)

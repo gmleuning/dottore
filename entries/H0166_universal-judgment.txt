@@ -34,8 +34,12 @@ Phr:
   omnis homo mortalis [Lat.]
 
 # ---- Hegel ----
-Def: All singulars, the empirical allness, which becomes the genus, so the subject is a universal in itself.
+Def: The universal judgement makes its subject all: the external universality of reflection, the all of all the singulars, in which each singular remains unchanged. This universality is only a commonality of self-standing singulars, an association made by comparison, which is what representation first takes universality to be, as what fits many. Its truth lies beyond mere allness, in the objective universality of the genus, and with it the judgement of necessity.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of reflection › The universal judgment
 Citations:
+  The universality of the subject of the universal judgment is the external universality of reflection, “allness”; the “all” is the all of all the singulars in which the singular remains unchanged.
+    — The Science of Logic, The judgment of reflection › The universal judgment (tr. di Giovanni)
+  This universality is therefore only a commonality of self-subsisting singulars, an association of such singulars as comes about only by way of comparison.
+    — The Science of Logic, The judgment of reflection › The universal judgment (tr. di Giovanni)

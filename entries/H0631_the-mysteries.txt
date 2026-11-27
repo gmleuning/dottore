@@ -32,8 +32,12 @@ Phr:
   Bacchic frenzy
 
 # ---- Hegel ----
-Def: The mysteries of Ceres and Bacchus, in which the god is eaten in bread and wine.
+Def: The mysteries and bacchic enthusiasm are the cult in which the self-conscious people receives its god not as an empty depth but as an essence at one with the self. What is betrayed to consciousness there is still only immediate spirit, the spirit of nature: its life is the mystery of bread and wine, of Ceres and Bacchus, not that of the higher gods and not yet of flesh and blood.
 Texts:
   The Phenomenology of Spirit
     ¶¶720–724
 Citations:
+  But what has been betrayed to consciousness is still only absolute spirit, the spirit of this simple essence and not the spirit in its own self as spirit; or, what has been betrayed is only immediate spirit, the spirit of nature.
+    — The Phenomenology of Spirit ¶724 (tr. Pinkard)
+  Spirit as self-conscious spirit has not yet sacrificed itself to it, and the mystery of bread and wine is not yet the mystery of flesh and blood.
+    — The Phenomenology of Spirit ¶724 (tr. Pinkard)

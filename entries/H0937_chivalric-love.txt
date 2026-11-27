@@ -39,8 +39,12 @@ Phr:
   kisses honeyed by oblivion [G. Eliot]
 
 # ---- Hegel ----
-Def: Love, the self's surrender to another self, the beauty of feeling.
+Def: Chivalric love is the surrender of the person to another, the sacrifice of independent consciousness so as to have knowledge of oneself only in the other, whereas honour keeps personality in absolute independence. Yet love also realizes honour's need for recognition. It arises in feeling, with a basis in spiritualized nature, and its infinity lies in losing self-consciousness in another and there finding and enjoying oneself.
 Texts:
   Aesthetics
     The Romantic Form of Art › Chivalry › Love
 Citations:
+  While in honour the fundamental characteristic is personal subjectivity envisaged in its absolute independence, in love the supreme thing is rather the surrender of the person to an individual of the opposite sex, the sacrifice of one's independent consciousness
+    — Aesthetics, Chivalry › Love (tr. Knox)
+  What constitutes the infinity of love is this losing, in the other, one's consciousness of self, this splendour of disinterestedness and selflessness through which alone the person finds himself again and becomes a self, this self-forgetfulness in which the lover does not exist, live, and care for himself, but finds the roots of his being in another, and yet in this other does entirely enjoy precisely himself
+    — Aesthetics, Chivalry › Love (tr. Knox)

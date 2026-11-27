@@ -38,8 +38,10 @@ Phr:
   red tape
 
 # ---- Hegel ----
-Def: The estate that has the universal interests of society as its business, the civil service.
+Def: The universal estate, the estate of civil servants, has the universal interests of society as its task. It must therefore be freed from direct labour for its needs, through private means or an allowance from the state, so that its private interest finds satisfaction in its work for the universal.
 Texts:
   The Philosophy of Right
     §205
 Citations:
+  The universal estate [the estate of civil servants] has for its task the universal interests of society. It must therefore be freed from direct labour to meet its needs, either by having private means or by receiving an allowance from the state which claims its industry, with the result that private interest finds its satisfaction in its work for the universal.
+    — The Philosophy of Right §205 (tr. Knox, rev. Houlgate)

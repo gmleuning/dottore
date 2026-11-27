@@ -54,8 +54,12 @@ Phr:
   who can tell? who shall decide when doctors disagree? ambiguas in vulgum spargere voces [Lat.]
 
 # ---- Hegel ----
-Def: The subject judged according to whether it corresponds to its concept, so the judgment is only possibly true.
+Def: The problematic judgement is the assertoric taken negatively as well as positively. Whether the predicate ought to be joined to the subject appears open, and the problematic element lies in the immediacy of the subject, which is thereby determined as contingent: one cannot say that the house is good, but that it is so according to the way it is made. The subject is thus distinguished into its universal nature, what it ought to be, and its particular constitution.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of the concept › The problematic judgment
 Citations:
+  The problematic judgment is the assertoric judgment in so far as the latter must be taken positively as well as negatively.
+    — The Science of Logic, The judgment of the concept › The problematic judgment (tr. di Giovanni)
+  Consequently the subject is itself differentiated into its universality or objective nature, that is, its ought, and the particularized constitution of immediate existence.
+    — The Science of Logic, The judgment of the concept › The problematic judgment (tr. di Giovanni)

@@ -27,8 +27,12 @@ Phr:
   a character of one's own
 
 # ---- Hegel ----
-Def: The formal independence of individual character, cut loose from substantial ends.
+Def: The formal independence of individual character is the third sphere of romantic art, in which religious material and chivalry with its lofty aims have vanished, and the particular, existent world stands on its own feet. What gives satisfaction is thirst for present reality, delight in the finite, so that people wish to see the present as it is, recreated by art, even at the cost of beauty and ideality.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Formal Independence of Individual Characters
 Citations:
+  In this third sphere of the romantic form of art, therefore, the religious materials have vanished together with chivalry and the lofty views and aims which it generated out of its inner being and to which nothing in the present and in reality directly corresponds.
+    — Aesthetics, The Romantic Form of Art › The Formal Independence of Individual Characters (tr. Knox)
+  In his present world man wants to see the present itself as it is-even at the cost of sacrificing beauty and ideality of content and appearance-as a live presence recreated by art, as his own human and spiritual work.
+    — Aesthetics, The Romantic Form of Art › The Formal Independence of Individual Characters (tr. Knox)

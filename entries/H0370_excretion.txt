@@ -57,8 +57,12 @@ Phr:
   they that touch pitch will be defiled [Much Ado About Nothing]
 
 # ---- Hegel ----
-Def: The organism's repulsion of what it does not need, its separation from itself of the inorganic.
+Def: Excretion is the animal's abstract repulsion of itself, by which it makes itself external, the conclusion of assimilation. What it thus puts out is something non-organic in which it is not identical with itself; excrement means only that the organism, recognizing its error, rids itself of its entanglement with outer things.
 Texts:
   The Philosophy of Nature
     §365
 Citations:
+  The animal's abstract repulsion of itself by which it makes itself external to itself is excretion, the conclusion of the process of assimilation.
+    — Encyclopedia §365, Addition (tr. Miller)
+  Excrement has, therefore, no other significance than this, that the organism recognizing its error, gets rid of its entanglement with outside things
+    — Encyclopedia §365, Addition (tr. Miller)

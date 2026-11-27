@@ -41,8 +41,12 @@ Phr:
   slaves - in a land of light and law [Whittier]
 
 # ---- Hegel ----
-Def: The servant as a thing for the master, a consciousness owned by another.
+Def: Slavery is the historical shape of the relation of master and bondsman among peoples who had not risen to the concept of absolute freedom. The Greeks and Romans did not know that the human being as such, as this universal I and rational self-consciousness, is entitled to freedom; they held a person free only if born free. Freedom still had the character of something natural, and so there was slavery in their free states and war by slaves seeking recognition of their human rights.
 Texts:
   The Philosophy of Mind
     §433
 Citations:
+  As regards the historicity of the relationship under discussion, it can be remarked that the ancient peoples, the Greeks and Romans, had not yet risen to the concept of absolute freedom, since they did not know that man as such, as this universal I, as rational self-consciousness, is entitled to freedom.
+    — Encyclopedia §433, Addition (tr. Wallace and Miller, rev. Inwood)
+  With them, therefore, freedom still had the determination of naturalness. That is why there was slavery in their free states and bloody wars arose among the Romans in which the slaves tried to free themselves, to obtain recognition of their eternal human rights.
+    — Encyclopedia §433, Addition (tr. Wallace and Miller, rev. Inwood)

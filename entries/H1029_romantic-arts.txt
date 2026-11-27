@@ -25,8 +25,12 @@ Phr:
   the art of the inner life
 
 # ---- Hegel ----
-Def: The romantic arts, painting, music and poetry, in which the inner life of the subject is expressed.
+Def: The romantic arts, painting, music and poetry, arise from the principle of subjectivity, spirit withdrawing out of the external world into an inner existence, so that it no longer coincides indissolubly with its body. The unity achieved by sculpture dissolves, its factors becoming independent: the divine grasped as subject and personality, and the human subject unfolding the whole heart, reunited through the common principle of subjectivity.
 Texts:
   Aesthetics
     The Romantic Arts
 Citations:
+  Subjectivity is the essential nature of the spirit which is explicitly ideal in its own eyes and withdraws out of the external world into an existence within; and consequently it no longer coincides in indissoluble unity with its body.
+    — Aesthetics, The Romantic Arts (tr. Knox)
+  But both sides here have their point of reunification in the principle of subjectivity which is common to both.
+    — Aesthetics, The Romantic Arts (tr. Knox)

@@ -30,8 +30,12 @@ Phr:
   soul and body as one
 
 # ---- Hegel ----
-Def: The soul which has its body as its sign and work of art, in which it is at home and known as itself.
+Def: The actual soul is the third and last section of Anthropology. When its bodiliness has been thoroughly trained and made its own, the soul becomes an individual subject for itself, and the body is an externality that represents not itself but the soul, of which it is the sign. In this identity of inner and outer, with the outer subdued to the inner, the soul is actual: in its body it has its free shape, in which it feels itself and makes itself felt, and which, as its work of art, bears a human expression.
 Texts:
   The Philosophy of Mind
     §§411–412
 Citations:
+  The soul, when its bodiliness has been thoroughly trained and made its own, becomes an individual subject for itself; and bodiliness is thus the externality as a predicate, in which the subject is related only to itself. This externality represents not itself, but the soul, of which it is the sign.
+    — Encyclopedia §411 (tr. Wallace and Miller, rev. Inwood)
+  As this identity of the inner with the outer, the outer being subjugated to the inner, the soul is actual; in its bodiliness it has its free shape, in which it feels Itself and makes itself felt, and which, as the soul's work of art, has human, pathognomic and physiognomic, expression.
+    — Encyclopedia §411 (tr. Wallace and Miller, rev. Inwood)

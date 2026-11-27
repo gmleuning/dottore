@@ -47,8 +47,12 @@ Phr:
   to make sense of
 
 # ---- Hegel ----
-Def: Thinking as the formal identity that works its recollected representations into genera, species, laws and forces.
+Def: Understanding, the formally identical intellect, is the first moment of thinking, working up recollected representations into genera, species, laws, forces and the categories generally, so that the material has the truth of its being only in these thought-forms. Its activity is abstraction, which separates the contingent from the essential; for it the object falls apart into form and content. It is a necessary moment of rational thinking, without which there is no firmness of character.
 Texts:
   The Philosophy of Mind
     §467
 Citations:
+  In this content, thinking is (1) formally identical intellect, which works up the recollected representations into genera, species, laws, forces, etc., in general into the categories, in the sense that the material only has the truth of its being in these thought-forms.
+    — Encyclopedia §467 (tr. Wallace and Miller, rev. Inwood)
+  Without intellect no firmness of character is possible either, for this requires someone to hold firmly to their individual essentiality.
+    — Encyclopedia §467, Addition (tr. Wallace and Miller, rev. Inwood)

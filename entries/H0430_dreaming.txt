@@ -43,8 +43,10 @@ Phr:
   Zhou dreams he is a butterfly, zhuang zhou meng die [Chin.] [Zhuangzi]
 
 # ---- Hegel ----
-Def: The soul in sleep, feeling its whole world without the waking connection of the understanding.
+Def: Dreaming is a moment of sleep, thoroughly subjective and without the objectivity that the intellect gives. In it the soul is not only filled with single impressions but, more than in the distractions of waking, attains a deep and powerful feeling of its whole individual nature, the entire compass of its past, present and future. Because the individual totality of the soul is sensed in this way, in a simple, immediate relation to itself that has wholly the form of subjectivity, dreaming belongs to the feeling soul.
 Texts:
   The Philosophy of Mind
     §405
 Citations:
+  [T]he only thing we have to add is that in the state of dreaming the human soul is filled not merely with individualized impressions but it attains, more than is usually the case in the distractions of the waking soul, to a profound, powerful feeling of its whole individual nature, of the entire compass of its past, present, and future; and that the fact that the individual totality of the soul is sensed in this way is precisely the reason why dreaming must be mentioned in our consideration of the soul that feels itself.
+    — Encyclopedia §405, Addition (tr. Wallace and Miller, rev. Inwood)

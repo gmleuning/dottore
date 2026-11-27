@@ -58,8 +58,12 @@ Phr:
   wisdom married to immortal verse [Wordsworth]
 
 # ---- Hegel ----
-Def: Poetry, the universal art of the spirit which has become free in itself, whose material is the word and representation.
+Def: Poetry is the art that follows music in withdrawing from external sensuous shape into the sphere of the inner and ideal. Where musical notes are without content and express feeling only symbolically, poetry, whose words give ideas and feelings their exact meaning, brings the realm of ideas into art, so that spiritual content is set out in a form belonging to the inner life of consciousness.
 Texts:
   Aesthetics
     Poetry
 Citations:
+  But the spiritual content, by essentially belonging to the inner life of consciousness, has at the same time an existence alien to that life in the pure element of external appearance and in the vision to which the external shape is offered.
+    — Aesthetics, Poetry (tr. Knox)
+  This was the forward step which we saw music taking, in that it made the inner life as such, and subjective feeling, something for apprehension by the inner life, not in visible shapes, but in the figurations of inwardly reverberating sound.
+    — Aesthetics, Poetry (tr. Knox)

@@ -29,8 +29,10 @@ Phr:
   room to let
 
 # ---- Hegel ----
-Def: The letting of a thing for rent.
+Def: The letting of a thing is letting in the proper sense: the use of a specific thing, such as a flat, furniture or a house, is alienated for a time in return for rent, while the lessor remains its owner. The empirical character of the thing gives rise only to unimportant subdivisions.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (α) letting of a specific thing—letting in the proper sense
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

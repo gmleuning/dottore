@@ -42,8 +42,12 @@ Phr:
   set in motion
 
 # ---- Hegel ----
-Def: Matter whose motion comes to it from outside: inertia, impact, and fall, mechanics as relation of external bodies.
+Def: Finite mechanics treats matter and motion as external to each other. Matter repels and attracts, inseparably both, and as their negative unity is singularity seeking an ideal centre in gravity. Taken as separate masses, bodies are inert and receive motion from outside, communicate it by impact, and in falling show, in a relatively free motion, their own weight.
 Texts:
   The Philosophy of Nature
     §§262–268
 Citations:
+  Matter is inseparably both and is the negative unity of these two moments, singularity.
+    — Encyclopedia §262 (tr. Miller)
+  Besides, only heavy matter is that totality and real existence in which attraction and repulsion can occur
+    — Encyclopedia §262, Remark (tr. Miller)

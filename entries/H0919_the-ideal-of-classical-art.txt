@@ -26,8 +26,12 @@ Phr:
   serene beauty
 
 # ---- Hegel ----
-Def: The ideal of classical art: spirit and human body in perfect union.
+Def: The ideal of classical art is attained where classical art actually achieves its innermost concept: it grasps the spiritual, drawing nature and its powers into its sphere, and gives it the human shape, deed and action, through which spirit shines clearly in complete freedom, the sensuous being no mere symbol but spirit's adequate existence. It is considered in its universality, its particular gods and their individuality.
 Texts:
   Aesthetics
     The Classical Form of Art › The Ideal of the Classical Form of Art
 Citations:
+  For the classical Ideal, our subject now, consists only in the fact that classical art actually attains and sets forth what constitutes its innermost Concept and essence.
+    — Aesthetics, The Classical Form of Art › The Ideal of the Classical Form of Art (tr. Knox)
+  [B]ut for its form it adopts the human shape, deed, and action, through which the spiritual shines clearly in complete freedom, making the sensuous shape its own, not at all as an external thing merely symbolically significant but as a reality which is the adequate existence of spirit.
+    — Aesthetics, The Classical Form of Art › The Ideal of the Classical Form of Art (tr. Knox)

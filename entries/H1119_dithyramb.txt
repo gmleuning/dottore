@@ -19,8 +19,12 @@ Phr:
   the dithyramb
 
 # ---- Hegel ----
-Def: Die Dithyrambe: subjective elevation in worship, the poet shaken by the power of the god and borne beyond himself in rapture.
+Def: The dithyramb is subjective elevation in worship: the poet, enraptured and stunned in the inmost heart, in a mood wholly without definition, is absorbed directly into the absolute and sings in jubilation the infinity and its splendid manifestations. The Greeks soon interrupted such outbursts with mythical narratives, which grew into drama with the chorus.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  The poet, enraptured by the power of his object, shaken as it were and stunned in his inmost heart, and in a mood wholly without definition, is incapable of producing any single objective picture or shape and cannot get beyond an exultation of soul.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  These descriptions, intercalated between the lyrical outbursts, then gradually became the chief thing, and, by presenting a living and complete action explicitly in the form of an action, developed into drama
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

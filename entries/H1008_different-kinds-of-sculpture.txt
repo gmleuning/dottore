@@ -28,8 +28,12 @@ Phr:
   statue and group
 
 # ---- Hegel ----
-Def: The kinds of sculpture, by mode of portrayal, by material and by historical stage.
+Def: The different kinds of sculpture arise because the ideal, being individuality, broadens into a group of gods and its outward execution divides into sorts. These are considered by mode of portrayal, as single statues, groups and reliefs, the last passing toward painting; by the external material in which they are realized; and by the stages of sculpture's historical development.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material
 Citations:
+  Since the ideal is to be understood essentially as individuality, not only does the inner artistic vision broaden out into a group of ideal and separate gods, but the external mode of portrayal and its execution in existing works of art fell apart into the different sorts of sculpture.
+    — Aesthetics, Sculpture › The Different Kinds of Portrayal and Material (tr. Knox)
+  [F]irst, the mode of portrayal which, in actual execution, forms either single statues or groups until finally, in reliefs, it makes the transition to the principle of painting
+    — Aesthetics, Sculpture › The Different Kinds of Portrayal and Material (tr. Knox)

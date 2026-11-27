@@ -33,8 +33,14 @@ Phr:
   know thyself
 
 # ---- Hegel ----
-Def: The Egyptian religion of the enigma, the sphinx, Osiris, where spirit struggles out of nature.
+Def: In the Egyptian religion the principal figure, Osiris, takes the negation into himself: he is killed, is perpetually restored, and rules the realm of the dead, belonging to the realm of representation and spirit rather than to nature. The stage as a whole is that of the enigma: an inner meaning strives to become outwardly visible but has not yet achieved it. In Greek religion the riddle is solved.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religions of Transition › Egyptian Religion
 Citations:
+  The subject is killed, Osiris dies; but he is perpetually restored, and thus—posited as one born a second time, as a representation—he is not something natural but something set apart from the natural and the sensible.
+    — Lectures on the Philosophy of Religion, The Religions of Transition › Egyptian Religion (tr. Brown, Hodgson and Stewart)
+  [T]he meaning is something inner that impels itself to make itself outwardly visible; but it has not yet arrived at the consummation of its portrayal in externality.
+    — Lectures on the Philosophy of Religion, The Religions of Transition › Egyptian Religion (tr. Brown, Hodgson and Stewart)
+  In Greek religion the riddle is solved; according to one very significant and admirable myth the Sphinx is slain by a Greek and the riddle is resolved in this way: the content is the human being, the free, self-knowing spirit.
+    — Lectures on the Philosophy of Religion, The Religions of Transition › Egyptian Religion (tr. Brown, Hodgson and Stewart)

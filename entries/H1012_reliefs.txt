@@ -34,8 +34,12 @@ Phr:
   the frieze of the Parthenon
 
 # ---- Hegel ----
-Def: The relief, figures emerging from a flat ground, the passage toward painting.
+Def: Reliefs are the mode in which sculpture takes a long step toward painting: figures stand on one surface and sculpture's third dimension begins to vanish, though ancient relief keeps to the plane without perspective, favouring figures in profile and actions that proceed along a single line, such as processions. Reliefs adorn walls and vessels in the greatest variety.
 Texts:
   Aesthetics
     Sculpture › The Different Kinds of Portrayal and Material › Modes of Portrayal › Reliefs
 Citations:
+  The last mode of presentation whereby sculpture takes an important step towards the principle of painting is the relief, first the high relief and later the bas-relief.
+    — Aesthetics, Modes of Portrayal › Reliefs (tr. Knox)
+  But the ancient relief does not yet come so near to painting as to proceed to perspective differences between foreground and background
+    — Aesthetics, Modes of Portrayal › Reliefs (tr. Knox)

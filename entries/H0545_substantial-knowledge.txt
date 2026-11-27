@@ -31,8 +31,10 @@ Phr:
   to know the substance
 
 # ---- Hegel ----
-Def: Reason's knowledge of the object as its own, substantial rather than merely subjective.
+Def: Substantial knowledge is reason as absolute substance that knows. Since reason is the identity of what self-consciousness thinks with the essence of things, it is not only absolute substance, the underlying unity of the subjective and the objective, but truth as awareness, a substance which is aware of itself as that unity and knows its own determinations to be those of what is.
 Texts:
   The Philosophy of Mind
     §439
 Citations:
+  Hence it is reason, which, since it is this identity, is not only the absolute substance, but the truth as awareness.
+    — Encyclopedia §439 (tr. Wallace and Miller, rev. Inwood)

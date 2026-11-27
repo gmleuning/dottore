@@ -91,8 +91,12 @@ Phr:
   tout est perdu hors l'honneur [Fr.]
 
 # ---- Hegel ----
-Def: The end realized in the object, which is itself only a means, so that the end becomes the idea.
+Def: The realized purpose is reached when the purpose's activity through its means ceases to be external, sublating itself as such, so that the object merges with it in the unity of the concept. In that the purpose does not act on the object directly but interposes another object, letting mechanical and chemical processes work upon one another under its dominance, lies what Hegel calls the cunning of reason; direct action upon the object may by contrast be regarded as violence.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Teleology › The realized purpose
 Citations:
+  But that the purpose posits itself in a mediate connection with the object, and between itself and this object inserts another object, may be regarded as the cunning of reason.
+    — The Science of Logic, Teleology › The realized purpose (tr. di Giovanni)
+  Their process in this connection is none other than the mechanical or chemical one; the previous relations come up again in this objective externality, but under the dominance of purpose.
+    — The Science of Logic, Teleology › The realized purpose (tr. di Giovanni)

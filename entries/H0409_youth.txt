@@ -47,8 +47,14 @@ Phr:
   youth a the glad season of life [Carlyle]
 
 # ---- Hegel ----
-Def: Spirit in opposition: the ideal confronts a world felt as hostile, and the youth seeks to change it.
+Def: Youth is the stage of developed opposition. As the life of the genus stirs, the young person turns to the substantial universal, conceived as an ideal still more or less subjective, of love and friendship or of a better state of the world. To themself they ascribe the true and the good, and to the existing world what is contingent. This opposition carries the urge to remove it by realizing the ideal, so that youth feels called to transform the world and breaks the peace the child had with it. In trying to actualize the ideal, the youth becomes an adult.
 Texts:
   The Philosophy of Mind
     §396
 Citations:
+  The youth turns, in general, to the substantial universal; his ideal no longer appears to him, as it does to the boy, in the person of a man, but is conceived by him as a universal, independent of such individuality.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)
+  The content of the ideal instills into the youth the feeling of energy; he therefore fancies himself called and qualified to transform the world, or at least to readjust the world that seems to him to be out of joint.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)
+  Thus the peace in which the child lives with the world is broken by the youth.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)

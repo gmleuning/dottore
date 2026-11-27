@@ -23,8 +23,12 @@ Phr:
   a word to the wise
 
 # ---- Hegel ----
-Def: Das Sprichwort: a single case taken from ordinary life and so stated that it carries a general meaning.
+Def: A proverb is a middle form that can be expanded into fable or apologue. It presents a single case, mostly from daily human life, which is to be taken in a universal meaning, as that one hand washes the other. Here universal and concrete appearance do not stand apart as in comparison, the one being immediately expressed with the other. Goethe composed many such aphorisms.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons Originating from the External Object › Parable, Proverb, Apologue › Proverbs
 Citations:
+  A middle stage within this sphere is formed by the proverb.
+    — Aesthetics, Parable, Proverb, Apologue › Proverbs (tr. Knox)
+  They adduce an individual case which is drawn for the most part from day-to-day human life, but which is then to be taken in a universal meaning.
+    — Aesthetics, Parable, Proverb, Apologue › Proverbs (tr. Knox)

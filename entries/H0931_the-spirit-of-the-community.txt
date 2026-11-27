@@ -15,8 +15,12 @@ F:
   Sanskrit: prāyaścitta [penance]
 
 # ---- Hegel ----
-Def: The spirit of the community, its martyrs, repentance and conversion, miracles and legends.
+Def: The spirit of the community broadens the reconciliation made visible in Christ to the plurality of human beings, since God's true reality is not immediate existence but spirit, existing in knowing and inner life. The individual rises to freedom only by converting natural, finite personality, in three ways: martyrdom repeating the passion bodily, repentance and conversion inwardly, and miracles superseding the course of nature.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Religious Domain of Romantic Art › The Spirit of the Community
 Citations:
+  This absolute existence of God as pure universality, alike ideal and subjective, is therefore not restricted to this individual [Jesus] who in his history has made visible the reconciliation of human and divine personality, but is broadened into the human consciousness which is reconciled with God, in short into mankind which exists as a plurality of individuals.
+    — Aesthetics, The Religious Domain of Romantic Art › The Spirit of the Community (tr. Knox)
+  This transcendence of finitude enters here in a threefold way: First, as the external repetition of the Passion story; this becomes actual physical suffering-martyrdom.
+    — Aesthetics, The Religious Domain of Romantic Art › The Spirit of the Community (tr. Knox)

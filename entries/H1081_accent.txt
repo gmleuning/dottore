@@ -9,8 +9,12 @@ N:
   rhythm, accentuation &c H0662
 
 # ---- Hegel ----
-Def: Der Rhythmus proper, the animation of the time-measure by accent and caesura.
+Def: Accent, with caesura, is what really animates rhythmic time measure, corresponding to the rhythmical beat in music. Each time relation has its own accent, certain positions emphasized by law and attracting the rest into a rounded whole, and this opens great variety in the value of syllables as accent falls on long or short ones.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification › Rhythmic Versification
 Citations:
+  But the really animating thing in rhythmical time-measure is introduced only by accent and caesura
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)
+  In poetry too each specific time relation has in the first place its particular accent, i.e. specific positions are emphasized in accordance with a law, and these then attract the others and thus alone form with them a rounded whole.
+    — Aesthetics, Versification › Rhythmic Versification (tr. Knox)

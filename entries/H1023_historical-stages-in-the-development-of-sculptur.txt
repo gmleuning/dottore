@@ -27,8 +27,12 @@ Phr:
   the rise and fall of the ideal
 
 # ---- Hegel ----
-Def: The historical course of sculpture, from Egypt through Greece and Rome to Christian art.
+Def: Historical stages of sculpture arise because the ideal has behind it the symbolic mode it must surmount and ahead the romantic that supersedes it, and both use the human form. So the history includes Egyptian sculpture as preamble, Greek sculpture with the Roman as its proper development, and Christian sculpture with its own principle.
 Texts:
   Aesthetics
     Sculpture › Historical Stages in the Development of Sculpture
 Citations:
+  Both the symbolic and the romantic forms of art likewise take the human form as the medium of their portrayals; they cling to its spatial outline and therefore display it visibly in the manner of sculpture.
+    — Aesthetics, Sculpture › Historical Stages in the Development of Sculpture (tr. Knox)
+  Consequently when our business is with the historical development of sculpture we have to discuss not merely Greek and Roman sculpture, but oriental and Christian sculpture as well.
+    — Aesthetics, Sculpture › Historical Stages in the Development of Sculpture (tr. Knox)

@@ -50,8 +50,10 @@ Phr:
   handsome is that handsome does [Goldsmith]
 
 # ---- Hegel ----
-Def: The giving of a thing outright.
+Def: Gift proper is the giving of a thing outright, the first species of the contract of gift, in which the donor alienates both ownership and use and receives nothing in return. It is gift in the strict sense, distinct from the loan, where ownership is kept, and from the gift of a service.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (1) Gift of a thing—gift properly so called.
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

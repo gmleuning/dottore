@@ -25,8 +25,12 @@ Phr:
   a current runs
 
 # ---- Hegel ----
-Def: The process of metals: different metals in contact through a neutral medium, which is the first form of chemical process.
+Def: Galvanism begins the chemical process with metals, immediate and indifferent bodies distinguished only by specific gravity, which impart to one another their difference and enter into a still electrical tension. In the neutral medium of water, combined with air, their difference is actualized: a real activity arises between metal and water, passing from electrical to chemical process.
 Texts:
   The Philosophy of Nature
     §330
 Citations:
+  The beginning of the process, and consequently of the first particular process, is made by metal
+    — Encyclopedia §330 (tr. Miller)
+  Through the neutrality of water, and hence of its real capacity for differentiation—the water may be pure, or salt, etc., may be added to make it capable of a more concrete action—a real (not merely electrical) activity develops between the metal in its state of tension and the water; with this, there is a transition from the electrical to the chemical process.
+    — Encyclopedia §330 (tr. Miller)

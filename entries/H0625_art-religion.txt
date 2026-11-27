@@ -28,8 +28,12 @@ Phr:
   the beauty of holiness
 
 # ---- Hegel ----
-Def: The religion of art, in which spirit produces its shape as a work of art, the Greek religion of beauty.
+Def: Art-religion is the religion in which the artisan has become a spiritual worker and brings forth its shape in the form of self-consciousness. It is the religion of an ethical people who know their state as the work of their own self. It moves from the abstract work of art, statue, hymn and cult, through the living work, to the spiritual work in language, epic, tragedy and comedy, where the self becomes the absolute essence and art-religion is completed.
 Texts:
   The Phenomenology of Spirit
     ¶¶699–747
 Citations:
+  Spirit has elevated its shape, in which it is for its consciousness, into the form of consciousness itself, and it brings forth such a shape to itself.
+    — The Phenomenology of Spirit ¶699 (tr. Pinkard)
+  The people who approach their god in the cult of the art-religion are an ethical people, who know their state and its actions as the will and accomplishment of their own self.
+    — The Phenomenology of Spirit ¶720 (tr. Pinkard)

@@ -42,8 +42,12 @@ Phr:
   in cold blood
 
 # ---- Hegel ----
-Def: The system of irritability, the blood, the living individual's universal, its circulation.
+Def: The blood system belongs to irritability as inward activity, self-contained living movement that can only be circulation. The blood, in its self-pursuing rotation, is the individual life of the whole, animal time; it is not moved by mechanical forces but is itself the principle of movement, universal substance from which everything draws nutriment.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  The blood as axially rotating, self-pursuing movement, this absolute interior vibration, is the individual life of the whole in which there is no distinction—animal time.
+    — Encyclopedia §354, Addition (tr. Miller)
+  But, on the contrary, this is precisely why the blood must be regarded as itself the principle of the movement
+    — Encyclopedia §354, Addition (tr. Miller)

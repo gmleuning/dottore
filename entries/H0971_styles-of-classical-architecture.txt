@@ -26,8 +26,12 @@ Phr:
   a canon of proportion
 
 # ---- Hegel ----
-Def: The orders and manners of classical building, Greek and Roman.
+Def: The styles of classical architecture differ most strikingly in their columns: the Greek Doric, Ionic and Corinthian orders, than which nothing more beautiful or fitting was found, the Tuscan belonging to simple timber work and the so-called Roman being only richer Corinthian. Rome added the arch and vault and a general character of its own.
 Texts:
   Aesthetics
     Architecture › Classical Architecture › The Different Styles in Classical Architecture
 Citations:
+  Primarily noticeable in this connection are those architectural styles whose difference comes out in the most striking way in the columns.
+    — Aesthetics, Classical Architecture › The Different Styles in Classical Architecture (tr. Knox)
+  The most familiar Orders are the Doric, Ionian, and Corinthian. Neither earlier nor later was anything discovered more architecturally beautiful or appropriate to its purpose.
+    — Aesthetics, Classical Architecture › The Different Styles in Classical Architecture (tr. Knox)

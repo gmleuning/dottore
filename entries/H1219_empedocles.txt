@@ -13,8 +13,12 @@ Adj:
   Empedoclean
 
 # ---- Hegel ----
-Def: Empedocles, who joins the elements by love and parts them by strife, a synthesis still without the concept.
+Def: Empedocles holds to four elements that neither come to be nor pass away, everything arising through their union and separation, and adds friendship and enmity as further principles. In these, Aristotle reports, good and evil emerge for the first time as principles. Purpose as the self-determining concept is what Aristotle misses in earlier philosophy and believes he can find in friendship.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Empedocles
 Citations:
+  [E]verything has come about only through the specific union and separation of these four.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Empedocles (tr. Brown)
+  Empedocles employed friendship and enmity as principles too, and so he has six principles.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Empedocles (tr. Brown)

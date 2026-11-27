@@ -28,8 +28,12 @@ Phr:
   firm of purpose
 
 # ---- Hegel ----
-Def: The independence of individual character, formally firm, as in Shakespeare's figures.
+Def: The independence of individual character is the particular subject, a whole and individual person, whose world is restricted and accidental and who rests not on a substantial, justified pathos but formally on mere subjectivity. It appears in two forms: energetic firmness that puts the whole power of a one-sided individuality into specific ends, and an inward totality that cannot unfold and express itself.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Formal Independence of Individual Characters › The Independence of the Individual Character
 Citations:
+  What the individual is, is not carried and sustained by the substantial inherently justified element in his make-up, but by his character's mere subjectivity, which therefore instead of resting on something substantial and on an explicitly firm 'pathos' rests only formally on its own individual independence.
+    — Aesthetics, The Formal Independence of Individual Characters › The Independence of the Individual Character (tr. Knox)
+  On the one side there is the energetically self-sustaining firmness of character which limits itself to specific ends and puts the whole power of its one-sided individuality into the realization of these ends
+    — Aesthetics, The Formal Independence of Individual Characters › The Independence of the Individual Character (tr. Knox)

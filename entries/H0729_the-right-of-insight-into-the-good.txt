@@ -27,8 +27,10 @@ Phr:
   to be convinced
 
 # ---- Hegel ----
-Def: The subjective will's right that what it recognizes as valid be seen by it as good.
+Def: The right of insight into the good is the subjective will's highest right: that what it is to recognize as valid be seen by it as good, and that its action be imputed to it as right or wrong, good or evil, according to its knowledge of the value the action has.
 Texts:
   The Philosophy of Right
     §132
 Citations:
+  The right of the subjective will is that whatever it is to recognize as valid shall be seen by it as good
+    — The Philosophy of Right §132 (tr. Knox, rev. Houlgate)

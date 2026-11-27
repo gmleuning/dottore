@@ -50,8 +50,12 @@ Phr:
   they make a desert and they call it peace
 
 # ---- Hegel ----
-Def: External state law between independent states, binding only through their particular wills, an ought.
+Def: International law is right between independent states. Since its actuality depends on the different wills of sovereign states, what is right in and for itself in it keeps the form of an ought. Its principle is that treaties ought to be kept; but states are in a state of nature towards one another, and their disputes can be settled only by war.
 Texts:
   The Philosophy of Right
     §§330–340
 Citations:
+  Right between states [das äußere Staatsrecht] springs from the relations between independent states. It is for this reason that what is in and for itself in it retains the form of an ought-to-be [Sollen], since its actuality depends on different wills each of which is sovereign.
+    — The Philosophy of Right §330 (tr. Knox, rev. Houlgate)
+  It follows that if states disagree and their particular wills cannot be harmonized, the matter can only be settled by war.
+    — The Philosophy of Right §334 (tr. Knox, rev. Houlgate)

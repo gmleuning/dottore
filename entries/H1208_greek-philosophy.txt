@@ -29,8 +29,14 @@ Phr:
   at home in the world
 
 # ---- Hegel ----
-Def: Greek philosophy, where thought first becomes free and the individual is at home in the universal.
+Def: Philosophy in the proper sense begins only with the Greeks, among whom educated Europeans feel at home. The standpoint of the Greek world is the spirit of freedom, a cheerful serenity of spirit, in which the subject is for itself. The freedom of the subject is the principle of Greek philosophy: the I that knows itself as infinite, and so thinking, in which the universal is active.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy
 Citations:
+  Only with Greek philosophy do we make our beginning in the proper sense, for what went before was just a preliminary.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy (tr. Brown)
+  The standpoint of the Greek world is therefore the spirit of freedom, and the character of the Greeks is a cheerful serenity [Heiterkeit] of spirit.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy (tr. Brown)
+  The freedom of the subject is the principle of Greek philosophy—the I that knows itself to be infinite, in which the universal is specified as present.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy (tr. Brown)

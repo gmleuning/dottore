@@ -26,8 +26,12 @@ Phr:
   stone cannot weep enough
 
 # ---- Hegel ----
-Def: Christian sculpture, which cannot fully express the inwardness of the romantic content.
+Def: Christian sculpture has from the start a principle that does not cohere directly with sculpture's material: romantic art concerns inward life withdrawn from the external, and grief, torture, death, resurrection and love find no adequate form in three-dimensional shape. So it yields to painting and music and serves chiefly as architecture's adornment, acquiring a pictorial principle.
 Texts:
   Aesthetics
     Sculpture › Historical Stages in the Development of Sculpture › Christian Sculpture
 Citations:
+  Therefore in the romantic field sculpture does not afford, as it does in Greece, the distinctive characteristic of the other arts and indeed of the whole of existence.
+    — Aesthetics, Historical Stages in the Development of Sculpture › Christian Sculpture (tr. Knox)
+  On the contrary the religious sculpture of romantic art remains, to a greater extent than Greek, an adornment of architecture.
+    — Aesthetics, Historical Stages in the Development of Sculpture › Christian Sculpture (tr. Knox)

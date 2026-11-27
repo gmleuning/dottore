@@ -34,8 +34,12 @@ Phr:
   the road travelled
 
 # ---- Hegel ----
-Def: The recollection of all the shapes of consciousness as moments of spirit's self-knowledge.
+Def: The shapes of consciousness are recollected so as to show how consciousness knows its object as itself. The object is in part immediate being, answering to immediate consciousness; in part relation and determinateness, answering to perception; and in part essence or universal, answering to understanding. Absolute knowing does not at first appear as pure comprehension of the whole: it gathers the earlier shapes, in which the totality of the object's moments and of consciousness's conduct can be shown only as distributed.
 Texts:
   The Phenomenology of Spirit
     ¶¶789–797
 Citations:
+  The object is therefore in part immediate being, or a thing per se, something which corresponds to immediate consciousness. In part, it is a coming-to-be-the-other of itself, its relation, or being for an other and being-for-itself, the determinateness – which corresponds to perception, – and, in part, it is essence, or the universal – which corresponds to the understanding.
+    — The Phenomenology of Spirit ¶789 (tr. Pinkard)
+  Consciousness must therefore know the object as itself according to these three determinations.
+    — The Phenomenology of Spirit ¶789 (tr. Pinkard)

@@ -38,8 +38,12 @@ Phr:
   because I say so
 
 # ---- Hegel ----
-Def: The singular is judged good or true by bare assurance, which stands against the equal assurance of its opposite.
+Def: The assertoric judgement is the judgement of the concept in its immediacy: its subject is a concrete singular and its predicate expresses the relation of that singular's actual constitution to its concept, as in "this house is bad" or "this action is good". The singular ought to be something and may or may not conform. Since the connection is only asserted, its warrant is a subjective assurance, and its being good or bad hangs on an external third.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Judgment › The judgment of the concept › The assertoric judgment
 Citations:
+  The subject is a concrete singular in general, and the predicate expresses this same singular as the connection of its actuality, its determinateness or constitution, to its concept.
+    — The Science of Logic, The judgment of the concept › The assertoric judgment (tr. di Giovanni)
+  For this reason the judgment is so far only assertoric; its credential is only a subjective assurance. That something is good or bad, right, suitable or not, hangs on an external third.
+    — The Science of Logic, The judgment of the concept › The assertoric judgment (tr. di Giovanni)

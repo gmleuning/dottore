@@ -41,8 +41,12 @@ Phr:
   a parable for
 
 # ---- Hegel ----
-Def: Phantasy that symbolizes and allegorizes, and poetic phantasy, which is the source of art.
+Def: Symbolizing phantasy is the activity of intelligence that, still guided by the given content of images, chooses to express its universals only through sensory material whose own meaning corresponds to them, as the eagle displays the strength of Jupiter. Allegory expresses the subjective element through an ensemble of details; poetic phantasy uses its material more freely than the plastic arts, yet must select what is adequate to the idea.
 Texts:
   The Philosophy of Mind
     §457
 Citations:
+  This activity of intelligence, which is in this way still conditioned, only relatively free, we call symbolizing fantasy.
+    — Encyclopedia §457, Addition (tr. Wallace and Miller, rev. Inwood)
+  Thus, for example, the strength of Jupiter is displayed by the eagle because this is regarded as being strong.-Allegory expresses the subjective element more by an ensemble of individual details.
+    — Encyclopedia §457, Addition (tr. Wallace and Miller, rev. Inwood)

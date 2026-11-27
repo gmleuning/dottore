@@ -47,8 +47,10 @@ Phr:
   saepe creat molles aspera spina rosas [Lat.] [Ovid]
 
 # ---- Hegel ----
-Def: The cancellation of crime, the negation of the negation by which right restores itself.
+Def: The cancellation of crime is the manifestation of crime's nullity. The infringement of right exists in the external world, but in itself it is void, and this nullity comes into existence when the infringement is itself annihilated. In it right mediates itself with itself by annulling what has infringed it, the negation of the negation.
 Texts:
   The Philosophy of Right
     §§97–103
 Citations:
+  The infringement of right as right is something that happens and has positive existence in the external world, though inherently it is null and void. The manifestation of its nullity is that the annihilation of the infringement also comes into existence. This is right actualized, the necessity of right mediating itself with itself by annulling what has infringed it.
+    — The Philosophy of Right §97 (tr. Knox, rev. Houlgate)

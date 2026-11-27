@@ -38,8 +38,12 @@ Phr:
   a good genius
 
 # ---- Hegel ----
-Def: The individual's genius, the determining inwardness that decides what they are, the selfhood that acts in and through them.
+Def: The genius of an individual is its particularity, which in every situation and relationship decides its conduct and fate. A person is twofold: what they know themself to be in outward life and universal ideas, and what they are within, determined in a particular way. This inner particularity is their destiny, the oracle on which every resolution depends. Even waking, intellectual consciousness is ruled by it so powerfully that the individual stands in dependence on it, as on a selfish other that is nonetheless inseparably one with them.
 Texts:
   The Philosophy of Mind
     §405
 Citations:
+  By genius, we are to understand the particularity of the individual, which in all situations and relationships decides its conduct and fate.
+    — Encyclopedia §405, Addition (tr. Wallace and Miller, rev. Inwood)
+  This particularity of my interior constitutes my destiny, for it is the oracle on whose pronouncement all resolutions of the individual depend
+    — Encyclopedia §405, Addition (tr. Wallace and Miller, rev. Inwood)

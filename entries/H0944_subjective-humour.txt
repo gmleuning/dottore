@@ -36,8 +36,12 @@ Phr:
   surely you jest!
 
 # ---- Hegel ----
-Def: Der subjektive Humor: the artist's subjectivity making itself the content, breaking up every objective shape by wit and the play of fancies, as in Jean Paul; Sterne and Hippel show its truer form.
+Def: Subjective humour brings the artist's own person onto the stage: instead of shaping a topic objectively, the humourist enters the material and by flashes of wit and striking turns dissolves whatever would make itself objective or hold firm shape. It is only play with topics, a rambling of subjective views, easily growing flat; Jean Paul is the favourite example, astonishing in jumbling the remotest things.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art › Subjective Humour
 Citations:
+  Now humour is not set the task of developing and shaping a topic objectively and in a way appropriate to the essential nature of the topic, and, in this development, using its own means to articulate the topic and round it off artistically; on the contrary, it is the artist himself who enters the material
+    — Aesthetics, Dissolution of the Romantic Form of Art › Subjective Humour (tr. Knox)
+  The main thing remains the hither and thither course of the humour which uses every topic only to emphasize the subjective wit of the author.
+    — Aesthetics, Dissolution of the Romantic Form of Art › Subjective Humour (tr. Knox)

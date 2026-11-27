@@ -30,8 +30,12 @@ Phr:
   the facts of the matter
 
 # ---- Hegel ----
-Def: The concept realized as immediacy: a totality of self-subsistent objects, the concept sunk in externality.
+Def: Objectivity is the concept that has sublated the mediation in its self-determination and raised it to immediate self-reference: being in and for itself, pervaded throughout by the concept. Hegel compares the transition into it with the ontological proof. It is not mere sensuous existence but is free of accidentality. It runs through mechanism, where objects stand indifferent to one another; chemism, where they are specifically related; and teleology, where the concept is posited as purpose.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Objectivity
 Citations:
+  At the present standpoint of our treatise, objectivity has the meaning first of all of the being in and for itself of the concept that has sublated the mediation posited in its self-determination, raising it to immediate self-reference.
+    — The Science of Logic, Objectivity (tr. di Giovanni)
+  Third, this essential unity of the objects is thereby posited as distinct from their self-subsistence. It is the subjective concept, but posited as referring in and for itself to the objectivity, as purpose. This is teleology.
+    — The Science of Logic, Objectivity (tr. di Giovanni)

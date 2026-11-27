@@ -33,8 +33,12 @@ Phr:
   the sweet singer
 
 # ---- Hegel ----
-Def: The lyric poet, the subject in whom the world is concentrated.
+Def: The lyric poet, a poetic concrete person, is the centre and proper content of lyric, the inner link joining universal reflections and particular feelings into living individuality. The poet does not act or enter dramatic conflict but lends words to inner life so as to awaken the same spirit in hearers, and even a commissioned bard such as Pindar chiefly portrays himself.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Lyric Poet
 Citations:
+  Thus as the centre and proper content of lyric poetry there must be placed the poetic concrete person, the poet, but he must not proceed to actual deeds and actions or become involved in the movement of dramatic conflicts.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Lyric Poet (tr. Knox)
+  Consequently in his poems he is not so much concerned to honour the hero whose fame he spreads in this way as to make himself, the poet, heard.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Lyric Poet (tr. Knox)

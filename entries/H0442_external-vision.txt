@@ -26,8 +26,12 @@ Phr:
   across the miles
 
 # ---- Hegel ----
-Def: The trance-seeing of what is distant in space or time.
+Def: External vision is the clairvoyant awareness of an external circumstance removed from the senses by distance in space or in time. The soul is immersed in the vision of a single outward event, as when someone sees an absent relative far away. Such seeing is possible because the soul is not subject to the externality of space, but it is no higher knowledge: it may be more obscure or clearer, may mix what is correct with error, and belonged more to times of a more soulful life than to the modern independence of the intellect.
 Texts:
   The Philosophy of Mind
     §406
 Citations:
+  Instances of this kind of clairvoyance occurred more frequently in earlier times, in times of a more soulful life, than in the modern period in which the independence of the intellectual consciousness has developed much further.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)
+  In the intimation of the spatially distant the consciousness can, by the way, be at one time more obscure, at another more lucid.
+    — Encyclopedia §406, Addition (tr. Wallace and Miller, rev. Inwood)

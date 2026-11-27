@@ -22,8 +22,14 @@ Phr:
   liberté, égalité, fraternité [Fr.]
 
 # ---- Hegel ----
-Def: Die absolute Freiheit: self-consciousness that knows itself as the universal will, for which the world is simply its will, and which tolerates no particular sphere of work.
+Def: Absolute freedom is the self-consciousness whose certainty of itself is the essence of the whole real and supersensible world. Its will is no empty idea of tacit or represented consent but the real universal will of all singular individuals, so that each, undivided from the whole, always does everything. All separate social estates are erased, and because it will not let anything become a free-standing object, it can arrive at no positive work, law or institution; where the self is only represented, it is not actual.
 Texts:
   The Phenomenology of Spirit
     ¶¶582–588
 Citations:
+  Indeed, this will is not the empty thought of the will, which is posited as lying in a tacit or in a represented consent; rather, it is posited as lying in a real universal will, the will of all singular individuals as such.
+    — The Phenomenology of Spirit ¶584 (tr. Pinkard)
+  From this, it follows that consciousness cannot arrive at a positive work, neither to universal works of language nor to those of actuality, nor to the laws and the universal institutions of conscious freedom, nor to the deeds and works of willing freedom.
+    — The Phenomenology of Spirit ¶588 (tr. Pinkard)
+  This is so because where the self is only represented and imagined, it is not
+    — The Phenomenology of Spirit ¶588 (tr. Pinkard)

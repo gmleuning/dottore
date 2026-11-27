@@ -24,8 +24,12 @@ Phr:
   seeking a horse in an empty market, qiu ma tang si [Chin.] [Zhuangzi]
 
 # ---- Hegel ----
-Def: Begierde, self-consciousness as desire, certain of the nothingness of the other and setting out to prove it.
+Def: Desire is self-consciousness in its first form, as the negative relation to an independent object. It is certain of itself only through sublating that other, which shows itself as self-sufficient life. In satisfying itself it learns that the object is independent and that both its desire and the certainty gained from it are conditioned by that object. There is therefore something other than self-consciousness that is the essence of desire.
 Texts:
   The Phenomenology of Spirit
     ¶¶174–175
 Citations:
+  There is in fact an other than self-consciousness, the essence of desire
+    — The Phenomenology of Spirit ¶175 (tr. Pinkard)
+  Desire and the certainty of itself achieved in its satisfaction are conditioned by the object, for the certainty is through the sublating of this other.
+    — The Phenomenology of Spirit ¶175 (tr. Pinkard)

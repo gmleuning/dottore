@@ -36,8 +36,12 @@ Phr:
   the seven ages of man
 
 # ---- Hegel ----
-Def: The natural course of the ages of life, in which the individual passes from immediate unity with the genus to habit and death.
+Def: The ages of life are the first of the natural alterations, a series of distinct states through which the individual passes because the genus actualizes itself in a natural individual and so falls into time. They are the child, mind wrapped up in itself; the youth, in tension between subjective ideals and a world that falls short of them; the adult, who recognizes the objective necessity and rationality of the world; and old age, the completed unity with it. The course begins with birth and ends in death, the victory of the genus over individuality.
 Texts:
   The Philosophy of Mind
     §396
 Citations:
+  This sequence of distinct states is the series of the ages of life.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)
+  It begins with the immediate, still undifferentiated unity of the genus and the individuality, with the abstract emergence of the immediate individuality, with the birth of the individual, and ends with the impression of the genus into the individuality, or of the individuality into the genus, with the victory of the genus over the individuality, with the abstract negation of the individuality, —with death.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)

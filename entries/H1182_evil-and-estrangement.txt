@@ -29,8 +29,12 @@ F:
   Spanish: diablo
 
 # ---- Hegel ----
-Def: Evil, the estrangement of the finite spirit from God, the fall.
+Def: Human beings must come to realize within themselves the infinite antithesis of good and evil, and know that as natural beings they are evil. This is not the breaking of one commandment but a universal evil, estrangement from God, which is joined with a rupture from the world, felt as unhappiness. Consciousness of the demand of the good turns this cleavage into infinite anguish, out of which arises the need for reconciliation.
 Texts:
   Lectures on the Philosophy of Religion
     The Consummate Religion (1827) › Representation, Appearance › Knowledge, Estrangement, and Evil
 Citations:
+  It is therefore required that humanity should comprehend this abstract antithesis within itself. It is not that one has transgressed this or that commandment, but rather that one is intrinsically evil—universally evil, purely and simply evil in one's innermost being.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Knowledge, Estrangement, and Evil (tr. Brown, Hodgson and Stewart)
+  [T]his antithesis has now two forms. On the one hand, it is the antithesis of evil as such, the fact that it is humanity itself that is evil: this is the antithesis vis-a-vis God. On the other hand, it is the antithesis vis-a-vis the world, the fact that humanity exists in a state of rupture from the world: this is unhappiness or misery, the cleavage viewed from the other side.
+    — Lectures on the Philosophy of Religion, Representation, Appearance › Knowledge, Estrangement, and Evil (tr. Brown, Hodgson and Stewart)

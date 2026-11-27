@@ -68,8 +68,12 @@ Phr:
   jejunus raro stomachus vulgaria temnit [Lat.] [Horace]
 
 # ---- Hegel ----
-Def: The animal's assimilation of its food: the digestive process, a conflict in which the organism masters the external.
+Def: The digestive process begins with the mechanical seizing of the external object, and assimilation is its conversion into the unity of the self. Because the animal is a subject, this can be neither mechanical nor chemical, for in those processes the substances and activity stay external to one another without living unity.
 Texts:
   The Philosophy of Nature
     §§363–365
 Citations:
+  The process begins with the mechanical seizure of the external object; assimilation itself is the conversion of the externality into the self-like unity.
+    — Encyclopedia §363 (tr. Miller)
+  Since the animal is subject, unitary negativity, the nature of assimilation can be neither mechanical nor chemical, for in these processes both the material substances and the conditions and activity remain external to each other and lack living, absolute unity.
+    — Encyclopedia §363 (tr. Miller)

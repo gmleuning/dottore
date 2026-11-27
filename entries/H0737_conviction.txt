@@ -31,8 +31,10 @@ Phr:
   to the best of my belief
 
 # ---- Hegel ----
-Def: The conviction that holds whatever I believe right to be right, abolishing all objective truth.
+Def: Conviction is the principle that whatever the subject holds to be right is right, so that its own conviction decides the ethical character of an action. Since the good willed is still without content, this makes the subject solely responsible for subsuming an action under the good, and abolishes all objective right and duty.
 Texts:
   The Philosophy of Right
     §140
 Citations:
+  Since the good we will to do is here still without content, the principle of conviction only adds the further specification that the subsumption of an action under the category of good is the responsibility of the subject.
+    — The Philosophy of Right §140, Remark (tr. Knox, rev. Houlgate)

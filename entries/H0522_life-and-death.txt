@@ -41,8 +41,14 @@ Phr:
   proximus ardet Ucalegon [Lat.] [Virgil]
 
 # ---- Hegel ----
-Def: Life put at stake, since only by risking life is freedom proven; but death abolishes recognition.
+Def: Life and death are the terms in which recognition is first tested. Freedom is proven only by putting life at stake, but this trial by death does away with the very truth that was to come of it. Death is the natural negation of consciousness, a negation without self-sufficiency, which leaves no one to give or receive recognition: its deed is abstract negation, not the negation of consciousness, which preserves what it sublates. Self-consciousness learns that life is as essential to it as pure self-consciousness.
 Texts:
   The Phenomenology of Spirit
     ¶¶187–189
 Citations:
+  For just as life is the natural location of consciousness, self-sufficiency without absolute negativity, death is the natural negation of this same consciousness, negation without self-sufficiency, which thus endures without the significance of the recognition which was demanded.
+    — The Phenomenology of Spirit ¶188 (tr. Pinkard)
+  Their deed is abstract negation, not the negation of consciousness, which sublates so that it preserves and maintains what has been sublated and which thereby survives its having become sublated.
+    — The Phenomenology of Spirit ¶188 (tr. Pinkard)
+  In this experience self-consciousness learns that life is as essential to it as is pure self-consciousness.
+    — The Phenomenology of Spirit ¶189 (tr. Pinkard)

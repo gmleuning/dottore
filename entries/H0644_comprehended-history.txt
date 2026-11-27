@@ -30,8 +30,12 @@ Phr:
   the Golgotha of spirit
 
 # ---- Hegel ----
-Def: History comprehended, the recollection and the Golgotha of absolute spirit, the actuality and truth of its throne.
+Def: Comprehended history is the union of two preservations of spirit: history, spirit's existence in the form of contingency, and the science of appearing knowledge, its conceptual organization. History is spirit relinquished into time, a slow succession of spirits, a gallery of images, each taken inward in recollection and born again at a higher level. Together they form the recollection and the Golgotha of absolute spirit, the actuality and certainty of its throne, without which it would be lifeless and alone.
 Texts:
   The Phenomenology of Spirit
     ¶¶806–808
 Citations:
+  This coming-to-be exhibits a languid movement and succession of spirits, a gallery of pictures, of which each, endowed with the entire wealth of spirit, moves itself so slowly because the self has to take hold of and assimilate the whole of this wealth of its substance.
+    — The Phenomenology of Spirit ¶808 (tr. Pinkard)
+  Both together are conceptually grasped history; they form the recollection and the Golgotha of absolute spirit, the actuality, the truth, the certainty of its throne, without which it would be lifeless and alone
+    — The Phenomenology of Spirit ¶808 (tr. Pinkard)

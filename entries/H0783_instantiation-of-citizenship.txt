@@ -19,8 +19,10 @@ Phr:
   so ist das Individuum Sohn der bürgerlichen Gesellschaft geworden [Ger.] [Hegel, Philosophy of Right §238]
 
 # ---- Hegel ----
-Def: Civil society tears the individual out of the family and becomes a universal family to them, with claims on them as they have rights against it (§238-239).
+Def: Instantiation of citizenship names civil society's relation to the individual as a universal family. Civil society tears the individual from family ties, estranges family members, and recognizes them as self-subsistent persons; it puts its own soil in place of the external inorganic nature and paternal soil, and so has claims on the individual as they have rights against it.
 Texts:
   The Philosophy of Right
     §§238–245
 Citations:
+  But civil society tears the individual from his family ties, estranges the members of the family from one another, and recognizes them as self-subsistent persons.
+    — The Philosophy of Right §238 (tr. Knox, rev. Houlgate)

@@ -39,8 +39,10 @@ Phr:
   cambio non e furto [It.]
 
 # ---- Hegel ----
-Def: The exchange of goods for goods.
+Def: Barter is exchange in its simplest form, the exchange of one specific thing for another specific thing. Both sides are particular things with their own utility, and what is equal in them is only their value; the exchange is not yet mediated by money, the thing that counts as universal.
 Texts:
   The Philosophy of Right
     §80
 Citations:
+  (α) exchange of a thing pure and simple, i.e. exchange of one specific thing for another of the same kind
+    — The Philosophy of Right §80 (tr. Knox, rev. Houlgate)

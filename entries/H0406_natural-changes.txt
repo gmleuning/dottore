@@ -26,8 +26,12 @@ Phr:
   to come of age
 
 # ---- Hegel ----
-Def: The natural changes of the soul as an individual: the course of its ages, the sex-relation, and the alternation of waking and sleep.
+Def: The natural alterations are the differences that, in the soul determined as an individual, take the form of changes in one subject persisting through them, moments of its development. They are at once physical and mental: the course of the ages of life, the sex relation in which the individual stands in real opposition to itself, and the alternation of waking and sleep. Through them the immediate individuality of the soul is brought into conformity with its universality, a process of development which is education.
 Texts:
   The Philosophy of Mind
     §§396–398
 Citations:
+  In the soul determined as an individual, the differences take the form of alterations in it, in the single subject persisting in the alterations, and of moments in its development.
+    — Encyclopedia §396 (tr. Wallace and Miller, rev. Inwood)
+  This contradiction between the immediate individuality and the substantial universality implicitly present in it, establishes the life-process of the individual soul, a process by which the immediate individuality of the soul is brought into conformity with the universal, the universal is actualized in the soul and thus the initial, simple unity of the soul with itself is raised to a unity mediated by the opposition, and the initially abstract universality of the soul is developed to concrete universality. This process of development is education.
+    — Encyclopedia §396, Addition (tr. Wallace and Miller, rev. Inwood)

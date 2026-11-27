@@ -43,8 +43,12 @@ Phr:
   for every action there is a reaction, equal in force and opposite in direction [Newton]
 
 # ---- Hegel ----
-Def: Bodies setting themselves in contact by motion, communicating their motion; weight shows itself as momentum.
+Def: Impact is the contact of an inert body set in motion with another, with which it momentarily forms one body, motion being communicated, while each resists the other as an immediate unit. This being-for-self against the other, fixed by mass, is relative weight, which with velocity makes up a single quantity of motion in which each can stand for the other.
 Texts:
   The Philosophy of Nature
     §§265–266
 Citations:
+  The inert body externally set in motion—hence a finite motion—and so connected with another body, momentarily constitutes with this other, one body, for they are only quantitatively distinguished masses. In this way, there is a single motion of both bodies (communication of motion).
+    — Encyclopedia §265 (tr. Miller)
+  This weight, as the real determinateness, together with the ideal or the quantitative determinateness of motion, of velocity, constitutes a single determinateness (quantitas motus) within which weight and velocity can each take the place of the other
+    — Encyclopedia §265 (tr. Miller)

@@ -17,8 +17,12 @@ Adj:
   imagistic
 
 # ---- Hegel ----
-Def: Das Bild: a developed metaphor, in which a whole situation from another sphere is portrayed to express a meaning that is not itself named.
+Def: An image stands between metaphor and simile, a metaphor extended in which the meaning is not separately set against the object compared. It joins two independent situations so that one supplies the meaning made intelligible by the picture of the other, as Goethe's poem on Mahomet portrays the prophet's rise through a spring swelling into a mighty river, only the title showing the meaning.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Metaphor, Image, Simile › Image
 Citations:
+  For it has such a close affinity with metaphor that it is strictly only a metaphor in extenso which therefore now acquires in turn a great resemblance to simile, but with this difference, namely that, in the image as such, the meaning is not explicitly separated out and contrasted with the concrete external object expressly compared with it.
+    — Aesthetics, Metaphor, Image, Simile › Image (tr. Knox)
+  An image occurs especially when two phenomena or situations (more or less independent when taken by themselves) are unified, so that one situation affords the meaning which is to be made intelligible by the image of the other.
+    — Aesthetics, Metaphor, Image, Simile › Image (tr. Knox)

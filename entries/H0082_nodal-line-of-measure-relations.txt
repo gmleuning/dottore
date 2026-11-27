@@ -42,8 +42,14 @@ Phr:
   a sudden leap
 
 # ---- Hegel ----
-Def: A line of gradual quantitative alteration interrupted by qualitative leaps, as at the freezing and boiling of water.
+Def: A nodal line of measures is the series formed when one and the same substrate, in the course of merely quantitative increase and decrease, reaches points at which the altered quantity suddenly becomes a new measure, a new quality, a new something. Up to such a point there is a margin within which the quality is indifferent to the change. The new quality does not grow gradually out of the old: gradualness concerns only the external side of the alteration, and on the qualitative side it is broken off by a leap. The progression goes on to infinity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › Real measure › Nodal lines of measure-relations
 Citations:
+  But there comes a point in the quantitative alteration at which this quality alters and the quantum shows itself to be specifying, so that the altered quantitative relation is suddenly turned into a measure and thereby into a new quality, a new something.
+    — The Science of Logic, Real measure › Nodal lines of measure-relations (tr. di Giovanni)
+  From the qualitative side, therefore, the gradual, merely quantitative progression which has no limits in itself, is absolutely interrupted; and since in its merely quantitative connection the newly emerging quality is with respect to the vanishing one an indeterminate other, one which is indifferent to it, the transition is a leap; the two are posited as wholly external to each other.
+    — The Science of Logic, Real measure › Nodal lines of measure-relations (tr. di Giovanni)
+  It is a favorite practice to try to make an alteration conceptually comprehensible by the gradualness of the transition leading up to it; but gradualness is rather alteration precisely as merely indifferent, the opposite of a qualitative alteration.
+    — The Science of Logic, Real measure › Nodal lines of measure-relations (tr. di Giovanni)

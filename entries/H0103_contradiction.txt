@@ -50,8 +50,14 @@ Phr:
   misfortune is what fortune leans on, fortune is where misfortune hides, huo xi fu suo yi, fu xi huo suo fu [Chin.] [Laozi]
 
 # ---- Hegel ----
-Def: The positive and negative each containing and excluding the other; the root of all movement and life, not an error to be avoided.
+Def: Contradiction arises because each side of opposition is self-subsisting only by containing the other and excluding it in the same respect, so that in its very self-subsistence it excludes its own self-subsistence. Difference is already implicitly this, and the positive and negative are contradiction posited. It resolves itself: the opposites ceaselessly pass over into each other and vanish, yet the result is not only nothing. In sublating its own positedness, opposition goes to ground, and what emerges is essence as a unity with itself.
 Texts:
   The Science of Logic
     The Doctrine of Essence › The determinations of reflection › Contradiction
 Citations:
+  Since the self-subsisting determination of reflection excludes the other in the same respect as it contains it and is self-subsisting for precisely this reason, in its self-subsistence the determination excludes its own self-subsistence from itself.
+    — The Science of Logic, The determinations of reflection › Contradiction (tr. di Giovanni)
+  Difference as such is already implicitly contradiction; for it is the unity of beings which are, only in so far as they are not one – and it is the separation of beings which are, only in so far as they are separated in the same reference connecting them.
+    — The Science of Logic, The determinations of reflection › Contradiction (tr. di Giovanni)
+  But contradiction does not contain merely the negative; it also contains the positive; or the self-excluding reflection is at the same time positing reflection; the result of contradiction is not only the null.
+    — The Science of Logic, The determinations of reflection › Contradiction (tr. di Giovanni)

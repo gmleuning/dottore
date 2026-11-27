@@ -17,8 +17,12 @@ F:
   Greek: cholē
 
 # ---- Hegel ----
-Def: The third moment of the circuit: the duodenum, where the bile, the animal's fire, masters and transforms the food.
+Def: The third moment of the circuit is in the duodenum, where complete mastery over the food is achieved by fire, by the bile produced from the venous blood of the portal vein. The outward process still active in the lymph becomes being-for-self and an animal self, and the chyle returns into blood, so that blood has produced itself.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  It is in the duodenum that the proper, complete mastery over the food is achieved by fire, by the bile, which is produced by the venous blood of the portal vein.
+    — Encyclopedia §354, Addition (tr. Miller)
+  The outward-turned process which is still active in the lymph develops into being-for-self and is now transformed into an animal self.
+    — Encyclopedia §354, Addition (tr. Miller)

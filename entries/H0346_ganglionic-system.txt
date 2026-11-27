@@ -26,8 +26,12 @@ Phr:
   trust your gut
 
 # ---- Hegel ----
-Def: The ganglia, the nerve-centres of the internal organs, sensibility turned inward.
+Def: The ganglionic system, especially the sympathetic nerves, is sensibility withdrawn into itself, a sphere of dull, indeterminate self-feeling without will, not developed into specific senses. Its ganglia are like little brains in the abdomen, not wholly independent of brain and spinal cord, yet distinct in function and structure, withdrawing the internal organs from the will.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  [T]his system forms ganglia which can be regarded as little brains in the abdomen
+    — Encyclopedia §354, Addition (tr. Miller)
+  This division into the brain of the head and the brain of the abdomen is the reason why headaches originate in the abdomen.
+    — Encyclopedia §354, Addition (tr. Miller)

@@ -46,8 +46,12 @@ Phr:
   the circle closes
 
 # ---- Hegel ----
-Def: True infinity, which contains the finite as a moment within itself: being returned to itself, imaged by the circle rather than the endless line.
+Def: Affirmative or true infinity is the process in which the finite and the infinite are each only moments, each returning to itself through its negation. The finite sublates itself, and its infinity consists in this; the infinite is the transcending of the finite and contains it essentially. Neither is taken as a fixed unit, and their unity is not a motionless sameness but a becoming. It is not a beyond but is there, present, with determinateness in it. Its image is not the straight line that runs on but the circle, closed and wholly present, without beginning or end.
 Texts:
   The Science of Logic
     The Doctrine of Being › Existence › Infinity › Affirmative infinity
 Citations:
+  Thus the finite and the infinite are both this movement of each returning to itself through its negation; they are only as implicit mediation, and the affirmative of each contains the negative of each, and is the negation of the negation.
+    — The Science of Logic, Infinity › Affirmative infinity (tr. di Giovanni)
+  The image of the progression in infinity is the straight line; the infinite is only at the two limits of this line, and always only is where the latter (which is existence) is not but transcends itself, in its non-existence, that is, in the indeterminate. As true infinite, bent back upon itself, its image becomes the circle, the line that has reached itself, closed and wholly present, without beginning and end.
+    — The Science of Logic, Infinity › Affirmative infinity (tr. di Giovanni)

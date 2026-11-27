@@ -28,8 +28,12 @@ Phr:
   one thing leads to another
 
 # ---- Hegel ----
-Def: Condition and ground each a relatively unconditioned, each presupposing the other.
+Def: The relatively unconditioned is each of the two sides, condition and ground, taken as standing on its own. Condition is for the ground the moment of unconditioned immediacy: an existence that is indifferent to being a condition, yet determined to become the moment of another. Ground, for its part, is the self-subsisting movement of reflection, which has condition outside it as its presupposition. Each is both unconditioned over against the other and conditioned by it.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Ground › Condition › The relatively unconditioned
 Citations:
+  Condition is therefore, first, an immediate, manifold existence.
+    — The Science of Logic, Condition › The relatively unconditioned (tr. di Giovanni)
+  Condition is for the ground the moment of unconditioned immediacy, but is not itself the movement and the positing that refers itself to itself negatively and that makes itself into a positedness.
+    — The Science of Logic, Condition › The relatively unconditioned (tr. di Giovanni)

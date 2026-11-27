@@ -25,8 +25,12 @@ Phr:
   the sap of spring
 
 # ---- Hegel ----
-Def: The sap that rises through the wood.
+Def: Wood sap is, in Schultz's account which Hegel reports, the plant's still imperfectly assimilated food, taken up by wood, cells and spiral vessels, which absorb water through the root and air above ground. It is only faintly sweet and not yet worked into the plant's peculiar character of smell and taste; capillary action does not explain its uptake.
 Texts:
   The Philosophy of Nature
     §346
 Citations:
+  The wood-sap still has only a slight taste, is only slightly sweet, and is not yet elaborated into the peculiar character of the plant which has a particular smell, taste, etc.
+    — Encyclopedia §346, Addition (tr. Miller)
+  Capillaries and their law of capillary action are not adequate explanations in connection with plants; the plant wants water, is thirsty and so absorbs it.
+    — Encyclopedia §346, Addition (tr. Miller)

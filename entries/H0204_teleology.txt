@@ -43,8 +43,12 @@ Phr:
   for a purpose
 
 # ---- Hegel ----
-Def: The concept existing for itself, the end, which realizes itself in the object through means.
+Def: Teleology treats purpose, the concept in free concrete existence, set against mechanism and chemism, both of which belong to natural necessity. The question is not where each may apply but which is true, or whether one is the truth of the other, and purposive connection proves to be the truth of mechanism. Hegel praises Kant for distinguishing external from internal purposiveness, and so opening the concept of life and the idea.
 Texts:
   The Science of Logic
     The Doctrine of the Concept › Teleology
 Citations:
+  But purposive connection has proved to be the truth of mechanism.
+    — The Science of Logic, Teleology (tr. di Giovanni)
+  One of Kant’s greatest services to philosophy was in drawing the distinction between relative or external purposiveness and internal purposiveness; in the latter he opened up the concept of life, the idea
+    — The Science of Logic, Teleology (tr. di Giovanni)

@@ -22,8 +22,12 @@ Phr:
   my love is like a red, red rose [Burns]
 
 # ---- Hegel ----
-Def: Das Gleichnis: image and meaning both expressly set out side by side, the poet lingering on the likeness, as in Homer's similes.
+Def: Simile sets image and meaning entirely apart, each presented by itself and then related through the likeness of their content. It may seem idle repetition and wearisome superfluity, since the meaning is already explicit. Its proper purpose lies in the poet's imagination, which, however clear about the subject, is driven to give it a concrete shape and so displays its own boldness.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Conscious Symbolism of the Comparative Art-Form › Comparisons which Start from the Meaning › Metaphor, Image, Simile › Simile
 Citations:
+  In simile, on the contrary, both sides, image and meaning, are completely severed
+    — Aesthetics, Metaphor, Image, Simile › Simile (tr. Knox)
+  However clearly he makes himself aware of the subject-matter which he intends to express, however far he has brought this subject home to his mind in its more abstract universality and has expressed it [to himself] in this universality, still he finds himself equally driven to seek a concrete shape for the subject and to make perceptible to himself in a sensuous appearance the meaning already before his mind.
+    — Aesthetics, Metaphor, Image, Simile › Simile (tr. Knox)

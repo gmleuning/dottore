@@ -35,8 +35,14 @@ Phr:
   into the heart of things
 
 # ---- Hegel ----
-Def: Being's going into itself, which reveals that its truth is essence.
+Def: The transition into essence is the self-sublation of indifference. As the totality in which all the determinations of being are contained and sublated, but at first only as a substrate in which differences are external, indifference is a contradiction. Posited as what it is, it is simple and infinitely negative self-reference, repelling itself from itself, in which determining is neither a passing over nor an external change. Its determinations no longer stand on their own but are only posited. Being which through the sublation of being is simple being with itself is essence.
 Texts:
   The Science of Logic
     The Doctrine of Being › Measure › The becoming of essence › Transition into essence
 Citations:
+  But this self-sublation of the determination of indifference has already manifested itself; in the progressive positing of its being it has shown itself on all sides to be contradiction.
+    — The Science of Logic, The becoming of essence › Transition into essence (tr. di Giovanni)
+  Determining and being determined are not a transition, nor an external alteration, nor again an emergence of determinations in it, but its own referring to itself which is the negativity of itself, of its in-itselfness.
+    — The Science of Logic, The becoming of essence › Transition into essence (tr. di Giovanni)
+  Being in general and the being or immediacy of the different determinacies have thereby vanished just as much as the in-itselfness, and the unity is being, immediately presupposed totality, so that it is only this simple self-reference, mediated by the sublation of this presupposition, and this presupposedness, the immediate being, is itself only a moment of its repelling: the original self-subsistence and self-identity are only as the resulting infinite self-rejoining.
+    — The Science of Logic, The becoming of essence › Transition into essence (tr. di Giovanni)

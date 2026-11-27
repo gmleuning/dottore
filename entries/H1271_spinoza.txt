@@ -24,8 +24,14 @@ Phr:
   omnis determinatio est negatio [Hegel, Lat.], der gottbetrunkene Mensch [Novalis, Ger.], le prince des philosophes [Deleuze, Fr.]
 
 # ---- Hegel ----
-Def: Spinoza, the one substance, the necessary beginning of all philosophy.
+Def: For Spinoza only absolute substance truly is, the unity of thinking and being, and the particular is something altogether limited. The great merit of this way of thinking, which must be the foundation of every authentic view, is its renunciation of everything determinate for the One; what is unsatisfying is that the One is fixed and immobile, and the free subject a mere transient modification.
 Texts:
   Lectures on the History of Philosophy
     Modern Philosophy › Benedict Spinoza
 Citations:
+  Spinoza's simple reality [das Einfache] is absolute substance; only absolute substance truly is
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Benedict Spinoza (tr. Brown)
+  The great merit of the Spinozist way of thinking in philosophy is its renunciation of everything determinate and particular, and its orientation solely to the One—heeding and honoring only the One, acknowledging it alone.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Benedict Spinoza (tr. Brown)
+  This view [Ansicht] must be the foundation of every authentic view.
+    — Lectures on the History of Philosophy 1825–6, Modern Philosophy › Benedict Spinoza (tr. Brown)

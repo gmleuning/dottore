@@ -27,8 +27,12 @@ Phr:
   a matter of taste
 
 # ---- Hegel ----
-Def: Geschmack, the sense of the body's dissolution into the neutral element of water, the real process of its being consumed.
+Def: Taste is the second of the senses of real difference, the sense of the concrete process. It relates to the real dissolution of a body and to the chemical determinacies that emerge in that process: the sweet, the bitter, the alkaline, the acid and the salt. It therefore requires direct contact with its object.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  [W]hereas taste is related to the real, concrete process of the body and to the chemical determinacies emerging in this process: the sweet, the bitter, the alkaline, the acidic, and the salty.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  With taste, a direct contact with the object is necessary
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

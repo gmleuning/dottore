@@ -31,8 +31,12 @@ Phr:
   art, considered in its highest vocation, is and remains for us a thing of the past [Hegel]
 
 # ---- Hegel ----
-Def: The dissolution of romantic art into the imitation of nature and humour, subjective and objective.
+Def: The dissolution of romantic art makes plain what romanticism already implied: the material art grasps becomes wholly contingent and external, since inwardness withdrawn into itself leaves the outer world free to go its own way. Any matter may then embody the heart, and everything, supreme or trivial, finds a place, until art splits into imitation of prosaic reality on one side and subjective humour on the other.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art
 Citations:
+  Now here above all there at once comes into consideration the complete contingency and externality of the material which artistic activity grasps and shapes.
+    — Aesthetics, The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art (tr. Knox)
+  In the presentations of romantic art, therefore, everything has a place, every sphere of life, all phenomena, the greatest and the least, the supreme and the trivial, the moral, immoral, and evil
+    — Aesthetics, The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art (tr. Knox)

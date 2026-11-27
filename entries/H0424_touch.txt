@@ -44,8 +44,14 @@ Phr:
   a soft touch
 
 # ---- Hegel ----
-Def: The sense of solid reality, feeling or touch, which encounters the weight and shape of things.
+Def: Feeling, also called touch where it resides chiefly in the fingers, is the sole sense of the third class, that of earthly totality, and the most concrete of all the senses. It relates not to the abstractly ideal or to separated qualities of bodies but to their solid reality. Only for it is there strictly another that subsists for itself, an individual standing against an individual senser. So weight, cohesion, hardness and softness, roughness and smoothness, heat and shape in three dimensions all fall to it.
 Texts:
   The Philosophy of Mind
     §401
 Citations:
+  Feeling is the most concrete of all the senses.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  Only for feeling, therefore, is there strictly an Other subsisting for itself, an individual entity for itself
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)
+  Finally, shape in its three dimensions falls in the province of feeling; for the mechanical determinacy in general pertains entirely to feeling.
+    — Encyclopedia §401, Addition (tr. Wallace and Miller, rev. Inwood)

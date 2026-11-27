@@ -33,8 +33,12 @@ Phr:
   the unexamined life is not worth living
 
 # ---- Hegel ----
-Def: Socrates, whose principle is that the self must find truth by its own thinking; the good as the end.
+Def: The principle of Socrates is that human beings have to discover and learn from themselves what their vocation and final goal are, and what is true in and for itself; they must attain truth by and through themselves. It is the return of consciousness into itself, away from merely particular subjectivity. By irony and questioning he elicited consciousness of the universal, the good, the true, and the beautiful.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Socrates
 Citations:
+  The principle of Socrates is that human beings have to discover and learn [erkennen] from themselves what their vocation and final goal are, and also what the world's purpose is, what is true in and for itself; they must attain truth by and through themselves.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Socrates (tr. Brown)
+  [H]e elicited from them consciousness of the universal, of what is valid in and for itself, of the good, the true, and the beautiful.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › Socrates (tr. Brown)

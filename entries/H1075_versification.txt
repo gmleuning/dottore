@@ -34,8 +34,12 @@ Phr:
   scan a line
 
 # ---- Hegel ----
-Def: Versification, the musical element of poetry, which raises language above prose.
+Def: Versification arises because a poetic idea is not only clothed in words but uttered, passing into the sound of words and syllables. Versified prose makes no poetry, yet metre or rhyme is absolutely necessary to it, as its one sensuous fragrance. It opens a new ground beyond ordinary speech, so that to ban verse as unnatural is superficial.
 Texts:
   Aesthetics
     Poetry › Poetic Expression › Versification
 Citations:
+  [N]evertheless, metre or rhyme is absolutely necessary for poetry, as its one and only sensuous fragrance, and indeed it is even more necessary than the rich imagery of a so-called ‘beautiful’ diction.
+    — Aesthetics, Poetic Expression › Versification (tr. Knox)
+  For this reason it is only a superficial theory which proposes to ban versification on the ground that it is unnatural.
+    — Aesthetics, Poetic Expression › Versification (tr. Knox)

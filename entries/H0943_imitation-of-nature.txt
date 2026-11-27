@@ -21,8 +21,12 @@ Adv:
   realistically
 
 # ---- Hegel ----
-Def: Die subjektive Kunstnachahmung des Vorhandenen: faithful portrayal of everyday reality, as in Dutch painting, whose interest lies in the artist's skill and the life of the passing moment.
+Def: The imitation of nature takes contingent daily reality, domestic and civil life, as subject, and art dissolves into portraiture, painting and poetry especially. Measured by the ideal such products fall short, yet they are works of art through the artist's conception and execution, fidelity and marvellous skill, which make significant what has no significance in itself, and the vivacity with which life is breathed into it.
 Texts:
   Aesthetics
     The Romantic Form of Art › The Formal Independence of Individual Characters › Dissolution of the Romantic Form of Art › The Subjective Artistic Imitation of the Existent Present
 Citations:
+  Therefore the question soon arises whether such productions in general are still to be called works of art.
+    — Aesthetics, Dissolution of the Romantic Form of Art › The Subjective Artistic Imitation of the Existent Present (tr. Knox)
+  On the other hand, art has still another feature which is here essentially of special importance: the artist's subjective conception and execution of the work of art, the aspect of the individual talent which can remain faithful both to the manifestations of spirit and also to the inherently substantial life of nature, even in the extreme limits of the contingency which that life reaches, and can make significant even what is in itself without significance, and this it does through this fidelity and through the most marvellous skill of the portrayal.
+    — Aesthetics, Dissolution of the Romantic Form of Art › The Subjective Artistic Imitation of the Existent Present (tr. Knox)

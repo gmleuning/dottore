@@ -39,8 +39,12 @@ Phr:
   to digest
 
 # ---- Hegel ----
-Def: The system of reproduction, the intestines and their glands, the organism's process with what it takes in.
+Def: The digestive system is the system of reproduction, which creates no structure of its own as the other systems do, its function being assimilation. In crass form it is cellular tissue, glands and skin; turned outward it takes in food by the mouth and works on it with saliva, juices and bile; turned inward it is stomach and intestine.
 Texts:
   The Philosophy of Nature
     §354
 Citations:
+  Reproduction or the system of digestion is not present, strictly speaking, as a developed, articulated whole
+    — Encyclopedia §354, Addition (tr. Miller)
+  The simplest animals are merely an intestinal canal.
+    — Encyclopedia §354, Addition (tr. Miller)

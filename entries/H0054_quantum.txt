@@ -46,8 +46,12 @@ Phr:
   deos fortioribus addesse [Lat.] [Tacitus]
 
 # ---- Hegel ----
-Def: Quantity with a determinate limit: a how-much, whose limit is indifferent to it and drives beyond it.
+Def: Quantum is quantity with a determinateness or limit, whether as continuous or as discrete magnitude. Its principle is the one, as the one of quantity: a unity, a plurality of equal ones, and an excluding of other quanta. Completely posited it is number. It then divides into extensive quantum, a limited plurality, and intensive quantum or degree; and because it is determined in itself and yet has its determinateness outside itself, it points beyond itself and passes into quantitative infinity.
 Texts:
   The Science of Logic
     The Doctrine of Being › Quantum
 Citations:
+  Quantum, which in the first instance is quantity with a determinateness or limit in general, in its complete determinateness is number.
+    — The Science of Logic, Quantum (tr. di Giovanni)
+  This one is therefore the principle of quantum, but as the one of quantity.
+    — The Science of Logic, Quantum (tr. di Giovanni)

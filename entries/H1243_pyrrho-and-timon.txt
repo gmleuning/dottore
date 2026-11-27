@@ -19,8 +19,14 @@ Phr:
   no more this than that, ou mallon [Gr.]
 
 # ---- Hegel ----
-Def: Pyrrho and Timon, the older skepticism, which withholds assent and seeks imperturbability in indifference to all things.
+Def: Pyrrho counts as the founder of Skepticism, whose principle, the negative aspect of all things, is of great antiquity. He seems not to have taught publicly or left any school beyond a few friends he had educated. His follower Timon of Phlius, author of satirical poems, is of little importance.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › Skepticism and the New Academy › Skepticism Proper
 Citations:
+  So Pyrrho counts as the founder of Skepticism.
+    — Lectures on the History of Philosophy 1825–6, Skepticism and the New Academy › Skepticism Proper (tr. Brown)
+  Pyrrho does not seem to have been a public teacher; nor does he seem to have left behind him any school, except for a few friends whom he had educated.
+    — Lectures on the History of Philosophy 1825–6, Skepticism and the New Academy › Skepticism Proper (tr. Brown)
+  Timon of Phlius, the author of Silloi [satirical poems] and a follower of Pyrrho, is not important.
+    — Lectures on the History of Philosophy 1825–6, Skepticism and the New Academy › Skepticism Proper (tr. Brown)

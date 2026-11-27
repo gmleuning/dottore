@@ -24,8 +24,12 @@ Phr:
   chalk and cheese
 
 # ---- Hegel ----
-Def: The calcareous moment, the earth of neutrality, limestone and chalk, which links to the organic.
+Def: The calcareous side is total neutrality, its modifications concerning outer formation more than inwardly specifying difference; primitive limestone is the antithesis of granite. Limestone is at first granular marble, purely mineral, but in later formations tends toward the bony nature of the animal, so that the calcareous formation represents the transition to organic being.
 Texts:
   The Philosophy of Nature
     §340
 Citations:
+  The calcareous side is the total neutrality, and its modifications concern more the outer formation than the inwardly self-specifying diversity.
+    — Encyclopedia §340, Addition (tr. Miller)
+  On the other side, it is the limestone formations which, in their ultimate formations, tend towards the osseous nature of the animal.
+    — Encyclopedia §340, Addition (tr. Miller)

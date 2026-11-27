@@ -26,8 +26,12 @@ Phr:
   a matter of principle
 
 # ---- Hegel ----
-Def: The will reflected into itself, which is infinite within itself: subjectivity, which recognizes only what is its own.
+Def: Morality is the standpoint of the will that is infinite not only in itself but for itself: the will reflected into itself, which makes the person a subject. Its right is to recognize as its own only what it knows and wills. It moves through purpose and responsibility, intention and welfare, to the good and conscience.
 Texts:
   The Philosophy of Right
     §§105–141
 Citations:
+  The standpoint of morality is the standpoint of the will which is infinite not merely in itself but for itself
+    — The Philosophy of Right §105 (tr. Knox, rev. Houlgate)
+  This reflection of the will into itself and its identity for itself, in contrast to its being-in-itself and immediacy and the determinate characteristics developed therein, makes the person into the subject.
+    — The Philosophy of Right §105 (tr. Knox, rev. Houlgate)

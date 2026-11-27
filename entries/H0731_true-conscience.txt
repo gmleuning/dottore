@@ -64,8 +64,10 @@ Phr:
   what stronger breastplate than a heart untainted? [Henry VI]
 
 # ---- Hegel ----
-Def: True conscience, the disposition to will what is good in and for itself, which has fixed principles.
+Def: True conscience is the disposition to will what is good in and for itself. It therefore has fixed principles, which are for it objective determinations and duties. Formal conscience, the self-certainty that decides for itself, is only one side of it; whether a conscience is true is decided by its content.
 Texts:
   The Philosophy of Right
     §§136–138
 Citations:
+  True conscience is the disposition to will what is good in and for itself. It therefore has fixed principles and these are for it determinations and duties that are objective for themselves.
+    — The Philosophy of Right §137 (tr. Knox, rev. Houlgate)

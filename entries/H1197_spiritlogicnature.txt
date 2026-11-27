@@ -26,8 +26,12 @@ Phr:
   the idea in and for itself
 
 # ---- Hegel ----
-Def: The third syllogism, spirit–logic–nature, which has the self-knowing reason, the logical idea, as the middle.
+Def: The third syllogism is the idea of philosophy, which has self-knowing reason, the absolutely universal, for its middle. The middle divides into spirit, as presupposition and process of the idea's subjective activity, and nature, as the universal extreme of the idea that is objectively in itself. Both are determined as manifestations of self-knowing reason, and in it the movement of the matter is equally the activity of cognition.
 Texts:
   The Philosophy of Mind
     §577
 Citations:
+  The third syllogism is the Idea of philosophy, which has self-knowing reason, the absolutely universal, for its middle, a middle that divides into mind and nature
+    — Encyclopedia §577 (tr. Wallace and Miller, rev. Inwood)
+  The self-judging of the Idea into the two appearances (§§575, 576) determines them as its (self-knowing reason's) manifestations, and in it a unification takes place: it is the concept, the nature of the subject-matter, that moves onwards and develops, and this movement is equally the activity of cognition.
+    — Encyclopedia §577 (tr. Wallace and Miller, rev. Inwood)

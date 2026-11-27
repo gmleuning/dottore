@@ -26,8 +26,12 @@ Phr:
   all too human
 
 # ---- Hegel ----
-Def: The decay of the gods through anthropomorphism, their becoming merely human.
+Def: The dissolution of the gods through anthropomorphism follows because absolute necessity is no attribute of theirs: their particular side is given free play and runs into the externalities and finitude of human life, which pervert them into the reverse of the divine. The mind can no longer rest in them, since they lack infinite subjectivity, inwardness that knows itself, which true totality requires.
 Texts:
   Aesthetics
     The Classical Form of Art › The Dissolution of the Classical Form of Art › Dissolution of the Gods through their Anthropomorphism
 Citations:
+  The downfall of these beautiful gods of art is therefore necessitated purely by their own nature, since in the end the mind cannot any longer find rest in them and therefore turns back from them into itself.
+    — Aesthetics, The Dissolution of the Classical Form of Art › Dissolution of the Gods through their Anthropomorphism (tr. Knox)
+  Therefore the plastic Ideal lacks the aspect of being represented as inwardness knowing itself as infinite.
+    — Aesthetics, The Dissolution of the Classical Form of Art › Dissolution of the Gods through their Anthropomorphism (tr. Knox)

@@ -18,8 +18,12 @@ Adj:
   altricial, nidicolous, raptorial, columbine, scansorial
 
 # ---- Hegel ----
-Def: Lamarck's last four orders, whose young are fed in the nest: pigeons, perching and singing birds, birds of prey and climbers; the birds of the air proper, of song and of the hunt.
+Def: The last four of Lamarck's orders, pigeons, perching birds, birds of prey and climbers, have young that can neither walk nor feed themselves when hatched. Hegel suggests that this very circumstance could justify placing them ahead of the others. Among birds are those that not only have voice but sing.
 Texts:
   The Philosophy of Nature
     §370
 Citations:
+  But this very circumstance can be regarded as a reason for placing these latter in front of the others, not to mention that the palmipedes are mongrels (Zwitter).
+    — Encyclopedia §370, Addition (tr. Miller)
+  Consequently, many birds not only have, like mammals, a voice but they also sing
+    — Encyclopedia §370, Addition (tr. Miller)

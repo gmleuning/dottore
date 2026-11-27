@@ -46,8 +46,12 @@ Phr:
   me, myself and I
 
 # ---- Hegel ----
-Def: The soul that has excluded its corporeality from itself as its other: the I, consciousness, which is the leap from soul to spirit.
+Def: The I arises when the soul, which has set its bodily being over against itself and made it its own, completes its reflection into itself. This being-for-itself of free universality is the soul's higher awakening, to abstract universality that is for abstract universality, which thinks and is a subject for itself. Judging, the I excludes from itself the natural totality of its determinations as an object, a world external to it, and relates itself to that world so that in it it is immediately reflected into itself. This is consciousness.
 Texts:
   The Philosophy of Mind
     §412
 Citations:
+  This being-for-self of free universality is the soul's higher awakening to the I, to abstract universality in so far as it is for abstract universality, which is thus thinking and subject for itself, and in fact determinately subject of its judgement in which the I excludes from itself the natural totality of its determinations as an object, as a world external to it
+    — Encyclopedia §412 (tr. Wallace and Miller, rev. Inwood)
+  [F]or the I is the lightning piercing through the natural soul and consuming its naturalness; in the I, therefore, the ideality of naturalness, and so the essence of the soul, becomes for the soul.
+    — Encyclopedia §412, Addition (tr. Wallace and Miller, rev. Inwood)

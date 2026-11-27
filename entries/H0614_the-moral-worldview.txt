@@ -31,8 +31,12 @@ Phr:
   pie in the sky
 
 # ---- Hegel ----
-Def: The moral worldview, which postulates the harmony of duty and nature in a beyond that is never reached.
+Def: The moral worldview is the stance of a self-consciousness that knows duty as its sole essential purpose and is bound by nothing else. Because it is essentially mediation, it is still related to an otherness, which is for it a meaningless actuality: a nature complete in itself, with laws of its own, as unconcerned with moral self-consciousness as that consciousness is with nature. From this relation of mutual indifference and essential claim arise the postulates that would harmonize morality and nature.
 Texts:
   The Phenomenology of Spirit
     ¶¶599–615
 Citations:
+  For self-consciousness, duty cannot assume the form of something alien.
+    — The Phenomenology of Spirit ¶599 (tr. Pinkard)
+  The object is thereby a world perfected within itself with an individuality all its own; it is a self-sufficient whole of laws peculiar to itself as well as a self-sufficient operation of these laws and their free realization – a nature as such, whose laws and activities belong to itself, a nature which, as an essence, is as unconcerned with moral self-consciousness as moral self-consciousness is unconcerned with it.
+    — The Phenomenology of Spirit ¶599 (tr. Pinkard)

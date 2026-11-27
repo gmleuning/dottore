@@ -36,8 +36,12 @@ Phr:
   the heart of the matter
 
 # ---- Hegel ----
-Def: Essence as the reflection in itself of being: an inward movement that posits its own appearing.
+Def: Essence as reflection within itself is essence in its first sphere. Issuing from being, it is not immediately in and for itself but a result, and at first it is taken as something that stands over against another, as essential against unessential. Yet essence is being sublated in and for itself, so that what stands against it is only shine, and this shine is essence's own positing. First essence is reflection; then its determinations, the essentialities, are considered; and last, as the reflection of its own determining, it turns into foundation.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Essence as reflection within
 Citations:
+  But essence is being which has been sublated in and for itself; what stands over against it is only shine. The shine, however, is essence’s own positing.
+    — The Science of Logic, Essence as reflection within (tr. di Giovanni)
+  First, essence is reflection. Reflection determines itself; its determinations are a positedness which is immanent reflection at the same time.
+    — The Science of Logic, Essence as reflection within (tr. di Giovanni)

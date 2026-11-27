@@ -75,8 +75,12 @@ Phr:
   the wearing of the green
 
 # ---- Hegel ----
-Def: The union of light and darkness, the darkening of light by a turbid medium, as Goethe taught against Newton.
+Def: Colour is the manifestation in which the bright element and the dark element, each separately existent, are at once united through transparency in a concrete, individualized unity: brittleness begins darkening, which becomes compact metallic solidity. With Goethe, Hegel rejects Newton's theory that white light is composed of five or seven colours as a barbarism applying composition to light.
 Texts:
   The Philosophy of Nature
     §320
 Citations:
+  Thus the dark element and the bright element, each separately existent, are at the same time posited through the intermediation of transparency in a concrete and individualized unity—the manifestation of colour.
+    — Encyclopedia §320 (tr. Miller)
+  One cannot express oneself too strongly, first, regarding the conceptual barbarism which applies the category of composition, the worst form of reflection, even to light
+    — Encyclopedia §320, Remark (tr. Miller)

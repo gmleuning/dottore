@@ -17,8 +17,12 @@ F:
   German: Gelegenheitsgedicht
 
 # ---- Hegel ----
-Def: An external occasion, a commission or an event, which the genuine artist takes up and fills with his own life.
+Def: External inspiration comes from an outside occasion, such as a commission, an event, or old sagas and chronicles, to which the artist of natural talent is solicited to give form. Pindar's odes were often commissioned, and buildings and paintings frequently prescribed. All that is required is that the artist grasp an essential interest and make the subject live in itself; then inspiration arises of its own accord.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  Yet, on the other side, the greatest works of art have often owed their creation to some quite external stimulus.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  Thus the occasion for production may come entirely from without, and the one important requirement is just that the artist shall lay hold of an essential interest and make the subject-matter become alive in itself. In that event the inspiration of genius arises automatically.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

@@ -29,8 +29,10 @@ Phr:
   man the measure
 
 # ---- Hegel ----
-Def: The turn to subjectivity: the Sophists and Socrates.
+Def: In the second division come the Sophists, Socrates, and the Socratics, with the principle of subjectivity. Beyond the object that thought has before it there is now the thinking subject that has these thoughts. This subjectivity of thinking is an essential feature, the self-relating, determining form, and the question becomes what content the universal receives through it.
 Texts:
   Lectures on the History of Philosophy
     Greek Philosophy › The Sophists, Socrates, and the Socratic Schools
 Citations:
+  Previously one had before oneself only objects, a content—the absolute, God. But this is not the whole of what is present here, and the second factor is the thinking subject that has these thoughts.
+    — Lectures on the History of Philosophy 1825–6, Greek Philosophy › The Sophists, Socrates, and the Socratic Schools (tr. Brown)

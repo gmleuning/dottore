@@ -20,8 +20,12 @@ Phr:
   the Lord is my shepherd [Bible]
 
 # ---- Hegel ----
-Def: Der Psalm: the Hebrew lyric that exalts the Lord's power and glory and cries out of the depths, the soul raised in longing toward God.
+Def: The psalm, in the sublime Old Testament Psalms, is the soul's jubilant flight of praise as it lifts its eyes to heaven and cries to the one God in whom it finds its end and the source of all might and truth. Its ecstasy swells into a vague enthusiasm that cannot put into words what it feels, juxtaposing images in disorder with irregular rhythm.
 Texts:
   Aesthetics
     Poetry › Lyric Poetry › Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper
 Citations:
+  Such an elevation and lyrical sublimity contains ecstasy and therefore there is no such absorption in a concrete subject-matter as enables the imagination, satisfied and at peace, to let things be
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)
+  Instead of a peaceful picture, imagination seizes on external phenomena and juxtaposes them fragmentarily and in disorder, and since in its inner life it does not achieve any firm articulation of its particular ideas, it avails itself in its external expression of only an arbitrary and irregular rhythm.
+    — Aesthetics, Particular Aspects of Lyric Poetry › The Kinds of Lyric Proper (tr. Knox)

@@ -24,8 +24,10 @@ Phr:
   caveat emptor [Lat.]
 
 # ---- Hegel ----
-Def: Because goods of everyday use are offered to the public as a whole, the public authority may inspect them and fix the price of the commonest necessities (§236).
+Def: The protection of the market is the public authority's right to control the exchange of goods of everyday use. Because goods in universal daily demand are offered for sale not to an individual but to the public as universal purchaser, the authority may inspect them and fix the prices of the commonest necessaries, defending the public against fraud.
 Texts:
   The Philosophy of Right
     §236
 Citations:
+  The right to exercise such control in individual cases (e.g. in the fixing of the prices of the commonest necessaries of life) depends on the fact that, by being publicly offered for sale, goods in quite universal daily demand are offered not so much to an individual as such but rather to a universal purchaser, the public; and thus both the defence of the public’s right not to be defrauded
+    — The Philosophy of Right §236 (tr. Knox, rev. Houlgate)

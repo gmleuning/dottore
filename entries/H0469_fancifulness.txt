@@ -12,8 +12,12 @@ Adj:
   fanciful, whimsical, hypochondriac, suspicious, mischievous, malicious, spiteful, splenetic
 
 # ---- Hegel ----
-Def: The hypochondriacal mood tormented by fancies and whims, and the suspicious, false, jealous, mischievous and malicious disposition, the dark subterranean powers of the heart.
+Def: Fancifulness belongs to insanity as the hypochondriac mood tormented by fancies and whims that easily accompanies the unhappy feeling of disruption, together with a suspicious, false, jealous, mischievous and malicious disposition. Traces of malice are in everyone, but ethical or prudent people know how to suppress them. In insanity, where a particular representation usurps power over the rational mind, the subject's particularity comes out without restraint, and the dark subterranean powers of the heart are set free.
 Texts:
   The Philosophy of Mind
     §408
 Citations:
+  For this unhappy feeling is very easily accompanied in the insane not only by a hypochondriacal mood tormented by fancies and whims, but also by a suspicious, false, jealous, mischievous, and malicious disposition
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)
+  Traces of malice occur in everyone; however, ethical or at least prudent people know how to suppress them.
+    — Encyclopedia §408, Addition (tr. Wallace and Miller, rev. Inwood)

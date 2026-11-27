@@ -36,8 +36,12 @@ Phr:
   a word of power
 
 # ---- Hegel ----
-Def: The concept of magic, the immediate power of the individual will over nature.
+Def: Magic rests on a condition in which human beings still live in immediate desire, force and action. They ask no theoretical questions about causes, and their will is not yet restrained by anything universal such as right or duty; desire governs. There is fear in this condition, but it is fear of the contingent forces of nature and not yet the fear of the Lord, which is the beginning of wisdom.
 Texts:
   Lectures on the Philosophy of Religion
     Determinate Religion (1827) › Immediate Religion, or Nature Religion › The Religion of Magic › The Concept of Magic
 Citations:
+  Human beings in that situation still exist in a state of immediate desire, force, and action, behaving in accord with their immediate will.
+    — Lectures on the Philosophy of Religion, The Religion of Magic › The Concept of Magic (tr. Brown, Hodgson and Stewart)
+  There is indeed a fear present here, a consciousness of negation, though not yet the fear of the Lord; it is instead the fear of contingency, of the forces of nature, which display themselves as mighty powers over against humanity.
+    — Lectures on the Philosophy of Religion, The Religion of Magic › The Concept of Magic (tr. Brown, Hodgson and Stewart)

@@ -15,8 +15,12 @@ Phr:
   ich weiß, daß ohne mich Gott nicht ein Nu kann leben [Ger.] [Angelus Silesius]
 
 # ---- Hegel ----
-Def: Die christliche Mystik: in Angelus Silesius and Eckhart the identity of God and the soul is expressed with boldness and depth of intuition.
+Def: Christian mysticism affords pantheistic unity as felt by the subject, who senses God present in consciousness and its unity with God; it developed this more subjective way within Christianity. Hegel cites Angelus Silesius, who expressed with the greatest audacity and depth of intuition the substantial existence of God in things and the union of self and God. Eastern pantheism stresses instead contemplating the one substance in all phenomena.
 Texts:
   Aesthetics
     The Symbolic Form of Art › Symbolism of the Sublime › The Pantheism of Art › Christian Mysticism
 Citations:
+  Now the pantheistic unity, emphasized in relation to the subject who feels himself in this unity with God and senses God as this presence in subjective consciousness, is afforded in general by mysticism, developed as it has been in this more subjective way within Christianity too.
+    — Aesthetics, The Pantheism of Art › Christian Mysticism (tr. Knox)
+  As an example I will only cite Angelus Silesius, who, with the greatest audacity and depth of intuition and feeling, has expressed in a wonderfully mystical power of representation the substantial existence of God in things and the unification of the self with God and of God with human subjectivity.
+    — Aesthetics, The Pantheism of Art › Christian Mysticism (tr. Knox)

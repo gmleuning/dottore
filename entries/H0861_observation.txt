@@ -17,8 +17,12 @@ Adv:
   observantly, from life
 
 # ---- Hegel ----
-Def: The first side of Phantasie: the gift and sense for grasping actuality, which sees much, attends closely and holds the many images of the world in a retentive memory.
+Def: Observation is the first requirement of the artist: the gift and sense for grasping actual reality and its shapes, attentively heard and seen, together with a retentive memory of them. The artist creates from the abundance of life, not of abstract generalities, and so must have seen, heard and retained much, knowing both outward forms and the passions and aims of the human soul.
 Texts:
   Aesthetics
     The Beauty of Art or the Ideal › The Artist › Imagination (Phantasie), Genius, and Inspiration
 Citations:
+  To embark on art and poetry with an ideal is always very suspect, for the artist has to create out of the abundance of life and not out of the abundance of abstract generalities
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)
+  This gift and this interest in a specific grasp of the actual world in its real shape, together with a firm retention of what has been seen, is thus the first requirement of an artist.
+    — Aesthetics, The Artist › Imagination (Phantasie), Genius, and Inspiration (tr. Knox)

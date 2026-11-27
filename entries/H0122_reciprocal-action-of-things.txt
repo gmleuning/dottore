@@ -39,8 +39,12 @@ Phr:
   rub off on
 
 # ---- Hegel ----
-Def: Things related through their properties, so that their distinction lies in the properties, and the properties become self-subsistent.
+Def: The reciprocal action of things follows because things that have properties are many, distinct through themselves, and stand in essential relation by means of those properties. The property is the very relation between them, apart from which the thing is nothing. A thing differs from others only through its property; without it nothing remains but an external gathering of abstract being. So the things vanish as self-subsisting extremes into the continuity that is the property, and thinghood passes over into property.
 Texts:
   The Science of Logic
     The Doctrine of Essence › Concrete existence › The thing and its properties › The reciprocal action of things
 Citations:
+  These many diverse things stand in essential reciprocal action by virtue of their properties; the property is this reciprocal connecting reference itself, apart from which the thing is nothing
+    — The Science of Logic, The thing and its properties › The reciprocal action of things (tr. di Giovanni)
+  The determinateness, in virtue of which a thing is this thing only, lies solely in its properties.
+    — The Science of Logic, The thing and its properties › The reciprocal action of things (tr. di Giovanni)

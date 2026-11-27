@@ -28,8 +28,12 @@ Phr:
   not yet oneself
 
 # ---- Hegel ----
-Def: The soul as a self not yet distinguished from its feeling content, a subjectivity that is only formal.
+Def: Formal subjectivity is the first form of the soul's magical relationship, in which the soul feels the totality of its individual life without claiming what belongs to objective consciousness, being itself a moment of objective life. It is therefore no illness but to be expected in a healthy human being. Its simplicity is undivided, so that there is as yet no relation between two self-subsisting persons and no opposition of subjective to objective consciousness. Its three states are natural dreaming, the life of the child in the womb, and the individual's relation to its genius.
 Texts:
   The Philosophy of Mind
     §405
 Citations:
+  This subjectivity is formal, because far from laying a claim to what belongs to objective consciousness, this subjectivity itself constitutes a moment of objective life.
+    — Encyclopedia §405, Addition (tr. Wallace and Miller, rev. Inwood)
+  For this reason it is no more something that ought not to be, something diseased, than, for example, cutting one's teeth; on the contrary, it is only to be expected in a healthy human being.
+    — Encyclopedia §405, Addition (tr. Wallace and Miller, rev. Inwood)
