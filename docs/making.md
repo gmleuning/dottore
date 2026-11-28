@@ -4,18 +4,16 @@ How the book is edited and built. The project README describes the book itself. 
 (3ed) is published as **Dottore**. Tools can be run from anywhere (they `chdir` to the project folder themselves). The project is a
 git repository: commit after each round of edits.
 
-Two kinds of folder: the finished book and what builds it are in the repository; everything preparatory
+Two kinds of folder: the book's source and what builds it are in the repository; everything preparatory
 lives in `work/`, which is git-ignored and never uploaded.
 
 ```text
 dottore/
-├── editions/      THE PAGE, published: dottore.html (and ten_times_doctor.html) with its logos beside it (dottore_watercolour.png,
-│                  dottore_logo_white.svg, and dottore_logo.svg as the tab icon)
 ├── entries/       THE BOOK: one plain-text file per entry (H0393_the-feeling-soul.txt), glosses included. Edit here.
 ├── data/          what the build reads besides entries/: hegel_nodes.csv (the system's structure: numbering,
 │                  names, parents), native_scripts/ (original scripts for foreign words); hegel_thesaurus.csv is
 │                  built from entries/, never edit it
-├── tools/         the build: build_thesaurus.py, build_rogetta.py, entries.py, convert.py, native_script.py and
+├── tools/         the build: build_thesaurus.py, build_rogetta.py, entries.py, convert.py, native_script.py, publish_site.py, sitepath.py and
 │                  the page's interface source dottore_page.html
 ├── docs/          this file
 └── work/          LOCAL ONLY (git-ignored): preparatory and superseded work
@@ -28,8 +26,10 @@ dottore/
     └── archive/   superseded files and old pipelines
 ```
 
-In short: you write in `entries/`; generators write into `work/review/` for you to vet; `editions/`
-and `data/hegel_thesaurus.csv` are rebuilt.
+The built page is not kept here. Its one home is `pages/` in the `site-workbench` repository, which publishes it.
+
+In short: you write in `entries/`; generators write into `work/review/` for you to vet; the page and
+`data/hegel_thesaurus.csv` are rebuilt.
 
 ## Editing the corpus
 
@@ -89,24 +89,24 @@ The system's structure (names, numbering, which entry sits under which) stays in
 
 ```bash
 python tools/build_thesaurus.py               # entries/ -> data/hegel_thesaurus.csv
-python tools/build_rogetta.py --edition 3ed   # -> editions/dottore.html (+ work/editions/dottore_3ed.md)
+python tools/build_rogetta.py --edition 3ed   # -> site-workbench/pages/dottore.html (+ work/editions/dottore_3ed.md)
+python tools/publish_site.py                  # commit it there and push: the live page updates
 ```
 
-Host the `editions/` folder as it is. `dottore.html` loads its logos from beside it. There are two characters,
+`dottore.html` loads its logos from beside it. There are two characters,
 each with a light and a dark image: il Dottore (`dottore_watercolour.png`, the watercolour cut out of its paper, and
 `dottore_lines_white.png`, its ink lines in white) and Dialectica (`dottore_logo.svg` in black, `dottore_logo_white.svg`
 in white). By default light mode shows il Dottore and dark mode Dialectica; settings let the reader choose either
 character for either mode, and the name beside the logo follows. The logo is a bookplate in the left margin when the
 window (less any open side pane) is wide enough, and sits in the search bar when it is not. `dottore_logo.svg` is also
 the tab icon. The two PNGs are made by `work/design/make_logo_cutouts.py` from the original scan. The page is published
-on the personal site at <https://gmleuning.github.io/dottore.html>: after a build,
-`python work/tools/publish_site.py --push` copies the page, the play page and the logos into the site's source
-repository, which rebuilds the public site.
+on the personal site at <https://gmleuning.github.io/dottore.html>. The builds write into the folder named in
+`tools/sitepath.py` (set `DOTTORE_SITE` if it moves).
 The page's interface is `tools/dottore_page.html`: gloss reveal on headword click,
 settings panel (stored per browser), double-click Wiktionary panel with etymology, IPA and audio (Wiktionary's public
 REST API, so any static host works).
 
-The play at the end of the README, *Doctor Ten-Times*, also has a page of its own, `editions/ten_times_doctor.html`, opened by clicking il Dottore's figure. It is built from the README, so the two never differ: edit the play there, then run `python tools/build_play.py` (template `tools/play_page.html`). The page reads the book's saved settings (theme, accent, typeface, size, spacing) from the same browser.
+The play at the end of the README, *Doctor Ten-Times*, also has a page of its own, `ten_times_doctor.html`, opened by clicking il Dottore's figure. It is built from the README, so the two never differ: edit the play there, then run `python tools/build_play.py` (template `tools/play_page.html`). The page reads the book's saved settings (theme, accent, typeface, size, spacing) from the same browser.
 
 Original scripts for foreign words: Sanskrit and Pali are converted from IAST by `tools/native_script.py`; the other
 languages come from `data/native_scripts/<Language>.tsv` (romanization, original, optional display romanization such

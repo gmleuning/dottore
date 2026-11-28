@@ -2,7 +2,7 @@
 Run from the project root after build_thesaurus.py:
   python tools/build_rogetta.py [path/to/template.html] [out.html]
 Defaults: work/editions/hegelsaurus.html (rebuilt in place, see below), plus work/editions/hegelsaurus_1ed.md (text edition with the gloss definitions).
-  --edition 3ed  -> editions/dottore.html (the published page) and work/editions/dottore_3ed.md (text edition, not published)
+  --edition 3ed  -> pages/dottore.html in the site repository (sitepath.py) and work/editions/dottore_3ed.md (text edition, not published)
 Heads are shown without parentheticals, [Tetrad] tags and quotation marks, except where trimming would make two
 heads identical (Logic, Nature, Spirit, Subjectivity, Phenomenology of Spirit); the source files keep the full names.
 
@@ -15,16 +15,17 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from convert import split_paragraphs
 from entries import split_depth0, CITE, SUB
 import native_script
+from sitepath import PAGES
 
 ROOT = os.getcwd()
 EDITION = sys.argv[sys.argv.index('--edition') + 1] if '--edition' in sys.argv else '1ed'   # e.g. --edition 3ed
 ARGS = [a for i, a in enumerate(sys.argv[1:], 1) if a != '--edition' and sys.argv[i - 1] != '--edition']
 # 1ed keeps refreshing its own page (as the Hegelsaurus); later editions are Dottore, built from the interface
-# source tools/dottore_page.html (which loads editions/dottore_logo.svg from beside the page)
+# source tools/dottore_page.html (which loads dottore_logo.svg from beside the page)
 NAME = 'Hegelsaurus' if EDITION == '1ed' else 'Dottore'
 TEMPLATE = ARGS[0] if len(ARGS) > 0 else os.path.join(ROOT, 'work', 'editions', 'hegelsaurus.html') if EDITION == '1ed' \
     else os.path.join(ROOT, 'tools', 'dottore_page.html')
-OUT = ARGS[1] if len(ARGS) > 1 else (os.path.join(ROOT, 'work', 'editions', 'hegelsaurus.html') if EDITION == '1ed' else os.path.join(ROOT, 'editions', 'dottore.html'))
+OUT = ARGS[1] if len(ARGS) > 1 else (os.path.join(ROOT, 'work', 'editions', 'hegelsaurus.html') if EDITION == '1ed' else os.path.join(PAGES, 'dottore.html'))
 MD = os.path.join(ROOT, 'work', 'editions', 'hegelsaurus_1ed.md' if EDITION == '1ed' else f'dottore_{EDITION}.md')
 TAGLINE = {'1ed': "*Roget's 1911 Thesaurus reorganized under Hegel's system. First edition.*",
            '3ed': "*A thesaurus of English and German ordered by Hegel's system. Third edition: contemporary, colloquial and vulgar "

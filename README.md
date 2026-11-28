@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="editions/dottore_watercolour.png" alt="Il Dottore, the commedia dell'arte doctor, in ink and watercolour" height="300">
+  <img src="https://gmleuning.github.io/dottore_watercolour.png" alt="Il Dottore, the commedia dell'arte doctor, in ink and watercolour" height="300">
 </p>
 
 # Dottore
 
 Dottore is a thesaurus of English, with German and some thirty other languages, built on an expanded model of Hegel's philosophical system. The idea comes from Roget, whose *Thesaurus* (1852) arranged words by the order of ideas rather than the alphabet. Roget's frame was a six-class map of everything that could be thought, inherited from Aristotle, Leibniz and Wilkins. Dottore keeps his method and his words and gives them a larger and stranger frame: the whole architecture of Hegel's Logic, Philosophy of Nature and Philosophy of Spirit. That frame is 1,056 entries deep, from Pure Being to the Hegelian System itself.
 
-It is one web page, `editions/dottore.html` (with its logos beside it), online at **<https://gmleuning.github.io/dottore.html>**. It needs no server and works offline, except for the dictionary panel.
+It is one web page, `dottore.html` (with its logos beside it), online at **<https://gmleuning.github.io/dottore.html>**. It needs no server and works offline, except for the dictionary panel.
 
 ## Using it
 
@@ -43,8 +43,8 @@ It is one web page, `editions/dottore.html` (with its logos beside it), online a
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="editions/dottore_logo_white.svg">
-    <img src="editions/dottore_logo.svg" alt="Dialectica, a head with a bird perched on it, facing left" height="300">
+    <source media="(prefers-color-scheme: dark)" srcset="https://gmleuning.github.io/dottore_logo_white.svg">
+    <img src="https://gmleuning.github.io/dottore_logo.svg" alt="Dialectica, a head with a bird perched on it, facing left" height="300">
   </picture>
 </p>
 
