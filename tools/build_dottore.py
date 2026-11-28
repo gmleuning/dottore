@@ -2,8 +2,8 @@
 
   python tools/build_dottore.py
 
-In order: data/hegel_thesaurus.csv (build_thesaurus.py); the page, pages/dottore.html in the site repository
-(sitepath.py), from the interface source tools/dottore_page.html; a text copy, work/editions/dottore.md (not
+In order: data/dottore.csv (build_thesaurus.py); the page, pages/dottore.html in the site repository
+(sitepath.py), from the interface source tools/dottore_page.html; a text copy, work/text/dottore.md (not
 published); and the play's page (build_play.py). tools/publish_site.py then puts the pages online.
 
 Heads are shown without parentheticals, [Tetrad] tags and quotation marks, except where trimming would make two
@@ -11,7 +11,7 @@ heads identical (Logic, Nature, Spirit, Subjectivity, Phenomenology of Spirit); 
 
 Each entry is headed "6 Reines Nichts • Pure Nothing", with its place in the Hegelian system
 (the node's ancestors) as the path line below. Rows: N., V., Adj., Adv., F. (one line per language), Phr.
-Cross-references "&c (becoming) H0007" become "&c (becoming) 7", which Rogetta links to entry 7."""
+Cross-references "&c (becoming) H0007" become "&c (becoming) 7", which the page links to entry 7."""
 import csv, json, os, re, runpy, sys
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))  # run from the project root
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -23,9 +23,9 @@ from sitepath import PAGES
 ROOT = os.getcwd()
 TEMPLATE = os.path.join(ROOT, 'tools', 'dottore_page.html')
 OUT = os.path.join(PAGES, 'dottore.html')
-MD = os.path.join(ROOT, 'work', 'editions', 'dottore.md')
-TAGLINE = ("*A thesaurus of English and German ordered by Hegel's system. Third edition: contemporary, colloquial and vulgar "
-           "vocabulary added to Roget's 1911, Open English WordNet 2024 (CC BY 4.0) and a frequency audit of everyday English.*")
+MD = os.path.join(ROOT, 'work', 'text', 'dottore.md')
+TAGLINE = ("*A thesaurus of English and German ordered by Hegel's system: Roget's 1911, with contemporary, colloquial and vulgar "
+           "vocabulary, Open English WordNet 2024 (CC BY 4.0) and a frequency audit of everyday English.*")
 
 
 def label(node):
@@ -49,7 +49,7 @@ def xrefs(s):
 
 
 def senses(text):
-    """Sense-paragraphs, each ending with a period, as in Rogetta."""
+    """Sense-paragraphs, each ending with a period, as in Roget."""
     text = re.sub(r'&c (adj|n|v|adv)\.', lambda m: f'&c {m.group(1)}{HOLD}', text.strip())
     out = []
     for p in split_paragraphs(text):
@@ -98,7 +98,7 @@ def trim(s):
 
 def main():
     runpy.run_path(os.path.join(ROOT, 'tools', 'build_thesaurus.py'))   # entries/ -> the table read below
-    rows = list(csv.DictReader(open('data/hegel_thesaurus.csv', encoding='utf-8-sig')))
+    rows = list(csv.DictReader(open('data/dottore.csv', encoding='utf-8-sig')))
     nodes = {r['node_id']: r for r in csv.DictReader(open('data/hegel_nodes.csv', encoding='utf-8-sig'))}
     # head names: trimmed, unless trimming would make two heads identical
     seen = {}

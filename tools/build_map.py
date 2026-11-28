@@ -1,12 +1,12 @@
 """Write the map as Markdown: the whole system as a nested list, each entry with its name, gloss and location in the books.
 Run from the project root:  python tools/build_map.py
-Output: work/editions/dottore_map.md (text, not published). Follows the map on the page (tools/dottore_page.html, #map):
+Output: work/text/dottore_map.md (text, not published). Follows the map on the page (tools/dottore_page.html, #map):
 the same tree (data/hegel_nodes.csv), the same names and section numbers (build_dottore.py), and the Hegelian gloss.
 """
 import csv, os, re, sys
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))   # run from the project root
 from entries import SUB   # a line starting with this is a location under the work above it in Hegel texts
-OUT = os.path.join('work', 'editions', 'dottore_map.md')
+OUT = os.path.join('work', 'text', 'dottore_map.md')
 
 
 def label(node):
@@ -35,7 +35,7 @@ def trim(s):
 
 
 def main():
-    rows = list(csv.DictReader(open('data/hegel_thesaurus.csv', encoding='utf-8-sig')))
+    rows = list(csv.DictReader(open('data/dottore.csv', encoding='utf-8-sig')))
     nodes = {r['node_id']: r for r in csv.DictReader(open('data/hegel_nodes.csv', encoding='utf-8-sig'))}
 
     # head names as on the page: trimmed, unless trimming would make two heads identical

@@ -1,7 +1,6 @@
 # Making Dottore: the corpus, the build and the tools
 
-How the book is edited and built. The project README describes the book itself. The current edition
-(3ed) is published as **Dottore**. Tools can be run from anywhere (they `chdir` to the project folder themselves). The project is a
+How the book is edited and built. The project README describes the book itself. The book is **Dottore**. Tools can be run from anywhere (they `chdir` to the project folder themselves). The project is a
 git repository: commit after each round of edits.
 
 Two kinds of folder: the book's source and what builds it are in the repository; everything preparatory
@@ -11,13 +10,13 @@ lives in `work/`, which is git-ignored and never uploaded.
 dottore/
 ├── entries/       THE BOOK: one plain-text file per entry (H0393_the-feeling-soul.txt), glosses included. Edit here.
 ├── data/          what the build reads besides entries/: hegel_nodes.csv (the system's structure: numbering,
-│                  names, parents), native_scripts/ (original scripts for foreign words); hegel_thesaurus.csv is
+│                  names, parents), native_scripts/ (original scripts for foreign words); dottore.csv is
 │                  built from entries/, never edit it
 ├── tools/         the build: build_dottore.py, build_thesaurus.py, build_play.py, entries.py, convert.py, native_script.py, publish_site.py, sitepath.py and
 │                  the page's interface source dottore_page.html
 ├── docs/          this file
 └── work/          LOCAL ONLY (git-ignored): preparatory and superseded work
-    ├── editions/  dottore.md (text edition), the frozen 2ed Hegelsaurus page and text
+    ├── text/      dottore.md and dottore_map.md, text copies of the page
     ├── work/review/    proposal sheets, applied/ (every sheet already merged), raid/ (the Roget raid's tables)
     ├── sources/   outside texts the book was made from: rogets1911.txt, the outlines, roget/ tables and placements
     ├── tools/     generators and research scripts (raid, WordNet, frequency, review application)
@@ -29,7 +28,7 @@ dottore/
 The built page is not kept here. Its one home is `pages/` in the `site-workbench` repository, which publishes it.
 
 In short: you write in `entries/`; generators write into `work/review/` for you to vet; the page and
-`data/hegel_thesaurus.csv` are rebuilt.
+`data/dottore.csv` are rebuilt.
 
 ## Editing the corpus
 
@@ -88,7 +87,7 @@ The system's structure (names, numbering, which entry sits under which) stays in
 ## Build
 
 ```bash
-python tools/build_dottore.py                 # entries/ -> table, page, play page (+ work/editions/dottore.md)
+python tools/build_dottore.py                 # entries/ -> table, page, play page (+ work/text/dottore.md)
 python tools/publish_site.py                  # commit it there and push: the live page updates
 ```
 
@@ -128,17 +127,15 @@ sense-group), then `## Remove` lines `H0123 | word | reason`. Words an entry alr
 (`.tsv` with node_id, field, target_para, words) are applied the same way. Applying a sheet a second time is not
 entirely harmless: it can restore words a later sheet removed, which is why applied sheets move to `work/review/applied/`.
 
-Generators used for the 3ed (need `pip install wn wordfreq` and `python -c "import wn; wn.download('oewn:2024')"`,
+Word generators (need `pip install wn wordfreq` and `python -c "import wn; wn.download('oewn:2024')"`,
 Open English WordNet 2024, CC BY 4.0):
 
 ```bash
-python work/tools/raid_3ed.py          # Roget heads the 1ed raid never used -> work/review/raid/additions_3ed.tsv
-python work/tools/wordnet_3ed.py       # WordNet kinds under work/tools/wordnet_seeds.tsv -> work/review/wordnet_3ed.md
-python work/tools/frequency_3ed.py     # gaps among the 30,000 commonest words -> work/review/frequency_3ed.md (+ _unplaced.tsv)
+python work/tools/raid_unused_heads.py          # Roget heads the first raid never used -> work/review/raid/additions_unused_heads.tsv
+python work/tools/wordnet_harvest.py       # WordNet kinds under work/tools/wordnet_seeds.tsv -> work/review/wordnet.md
+python work/tools/frequency_gaps.py     # gaps among the 30,000 commonest words -> work/review/frequency.md (+ _unplaced.tsv)
 python work/tools/coverage_probe.py    # domain spot-check of everyday vocabulary
 ```
 
-`work/review/frequency_3ed_unplaced.tsv` lists about 10,000 common words not yet in the book, for hand placement.
-`work/tools/frequency_3ed_exclude.txt` keeps names and misplacements out of the frequency generator.
-
-Paths in `work/archive/docs_1ed/` use the old layouts.
+`work/review/frequency_unplaced.tsv` lists about 10,000 common words not yet in the book, for hand placement.
+`work/tools/frequency_exclude.txt` keeps names and misplacements out of the frequency generator.

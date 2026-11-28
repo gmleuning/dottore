@@ -1,4 +1,4 @@
-"""Build data/hegel_thesaurus.csv from the corpus: one file per entry in entries/ (format in tools/entries.py).
+"""Build data/dottore.csv from the corpus: one file per entry in entries/ (format in tools/entries.py).
 The system's structure (names, numbering, parents) comes from data/hegel_nodes.csv; everything else from the entries.
 build_dottore.py runs this first."""
 import csv, os, re, sys
@@ -17,7 +17,7 @@ E = entries.load()
 missing = sorted(set(nodes) - set(E))
 bad_refs = sorted({(nid, ref) for nid, e in E.items() for v in e.values() for ref in re.findall(r'H\d{4}', v) if ref not in nodes})
 
-with open(os.path.join(HERE, '..', 'data', 'hegel_thesaurus.csv'), 'w', encoding='utf-8', newline='') as f:
+with open(os.path.join(HERE, '..', 'data', 'dottore.csv'), 'w', encoding='utf-8', newline='') as f:
     w = csv.DictWriter(f, fieldnames=FIELDS)
     w.writeheader()
     for nid in sorted(E):
