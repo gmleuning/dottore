@@ -1,4 +1,4 @@
-node_id,label,name,parent_id,depth,path
+﻿node_id,label,name,parent_id,depth,path
 H0001,一.,Logic,,0,一. Logic
 H0002,1.,Doctrine of Being,H0001,1,一. Logic › 1. Doctrine of Being
 H0003,i.,Determinateness (Quality),H0002,2,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality)
@@ -10,7 +10,7 @@ H0008,i.,Unity of Being and Nothing,H0007,5,一. Logic › 1. Doctrine of Being 
 H0009,ii.,Moments of Becoming,H0007,5,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality) › α. Being › c. Becoming › ii. Moments of Becoming
 H0010,1.,Coming-to-Be,H0009,6,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality) › α. Being › c. Becoming › ii. Moments of Becoming › 1. Coming-to-Be
 H0011,2.,Ceasing-to-Be,H0009,6,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality) › α. Being › c. Becoming › ii. Moments of Becoming › 2. Ceasing-to-Be
-H0012,iii.,Sublation of Becoming,H0007,5,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality) › α. Being › c. Becoming › iii. Sublation of Becoming
+H0012,iii.,Sublation,H0007,5,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality) › α. Being › c. Becoming › iii. Sublation
 H0013,β.,Determinate Being,H0003,3,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality) › β. Determinate Being
 H0014,a.,Determinate Being as Such,H0013,4,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality) › β. Determinate Being › a. Determinate Being as Such
 H0015,i.,Determinate Being in General,H0014,5,一. Logic › 1. Doctrine of Being › i. Determinateness (Quality) › β. Determinate Being › a. Determinate Being as Such › i. Determinate Being in General

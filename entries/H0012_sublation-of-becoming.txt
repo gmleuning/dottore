@@ -1,4 +1,4 @@
-# 12 Sublation of Becoming
+# 12 Sublation
 # Logic › 1. Doctrine of Being › I. Determinateness (Quality) › α. Being › c. Becoming
 G: Aufhebung
 Gloss: The coming to rest of change in a stable result, a vanishedness that is not nothing. To sublate is at once to cancel and to preserve: being and nothing are cancelled as separate, yet kept as aspects of what results.
@@ -13,7 +13,7 @@ N:
   vanishedness, the vanishing of vanishing, quiescent unity, quiescent simplicity, quiescent result
 
 V:
-  sublate; supersede, transcend, overcome, surpass, outgrow, outstrip; cancel, abolish, annul, negate; preserve, retain, conserve, keep, save, store up; raise up, lift up, elevate; incorporate, integrate, absorb, assimilate, subsume, take up into; synthesize, resolve; settle, subside, come to rest, precipitate, crystallize
+  sublate; supersede, transcend, overcome, surpass, outgrow, outstrip; cancel, abolish, annul, negate; preserve, retain, conserve, keep, save, store up; relieve; raise up, lift up, elevate; incorporate, integrate, absorb, assimilate, subsume, take up into; synthesize, resolve; settle, subside, come to rest, precipitate, crystallize
   override, set aside
   maintain, sustain, keep up
   raise, lift, exalt, sublimate
@@ -46,7 +46,7 @@ Phr:
   dies Resultat ist das Verschwundensein, aber nicht als Nichts [Ger.] [Hegel, Science of Logic]
 
 # ---- Hegel ----
-Def: The sublation of becoming is the collapse of the unrest of becoming into a quiet result. Becoming rests on the distinction of being and nothing, yet what it unites is opposed to itself, and such a union destroys itself. When being and nothing vanish, the vanishing itself vanishes. What results is not nothing, which would only be a relapse into one of the sublated moments, but the unity of being and nothing become quiescent simplicity. As being that is now determined by this whole, it is existence.
+Def: Here, in becoming, Hegel gives an account of sublation at this early stage: the sublation of becoming is the collapse of the unrest of becoming into a quiet result. Becoming rests on the distinction of being and nothing, yet what it unites is opposed to itself, and such a union destroys itself. When being and nothing vanish, the vanishing itself vanishes. What results is not nothing, which would only be a relapse into one of the sublated moments, but the unity of being and nothing become quiescent simplicity. As being that is now determined by this whole, it is existence. Hegel also gives here a definition of sublation as a form, applicable wherever a determination is taken up into a higher result: to sublate is at once to negate and to preserve, so that what is sublated is both cancelled as a separate determination and kept as a moment of what results.
 Texts:
   The Science of Logic
     The Doctrine of Being › Being › Becoming › Sublation of becoming
