@@ -1,15 +1,18 @@
-"""Build hegelsaurus.html and hegelsaurus_1ed.md: the Hegelsaurus in the Rogetta interface (one self-contained page).
-Run from the project root after build_thesaurus.py:
-  python tools/build_rogetta.py [path/to/template.html] [out.html]
-Defaults: work/editions/hegelsaurus.html (rebuilt in place, see below), plus work/editions/hegelsaurus_1ed.md (text edition with the gloss definitions).
-  --edition 3ed  -> pages/dottore.html in the site repository (sitepath.py) and work/editions/dottore_3ed.md (text edition, not published)
+"""Build Dottore from entries/:
+
+  python tools/build_dottore.py
+
+In order: data/hegel_thesaurus.csv (build_thesaurus.py); the page, pages/dottore.html in the site repository
+(sitepath.py), from the interface source tools/dottore_page.html; a text copy, work/editions/dottore.md (not
+published); and the play's page (build_play.py). tools/publish_site.py then puts the pages online.
+
 Heads are shown without parentheticals, [Tetrad] tags and quotation marks, except where trimming would make two
 heads identical (Logic, Nature, Spirit, Subjectivity, Phenomenology of Spirit); the source files keep the full names.
 
 Each entry is headed "6 Reines Nichts • Pure Nothing", with its place in the Hegelian system
 (the node's ancestors) as the path line below. Rows: N., V., Adj., Adv., F. (one line per language), Phr.
 Cross-references "&c (becoming) H0007" become "&c (becoming) 7", which Rogetta links to entry 7."""
-import csv, json, os, re, sys
+import csv, json, os, re, runpy, sys
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))  # run from the project root
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from convert import split_paragraphs
@@ -18,25 +21,17 @@ import native_script
 from sitepath import PAGES
 
 ROOT = os.getcwd()
-EDITION = sys.argv[sys.argv.index('--edition') + 1] if '--edition' in sys.argv else '1ed'   # e.g. --edition 3ed
-ARGS = [a for i, a in enumerate(sys.argv[1:], 1) if a != '--edition' and sys.argv[i - 1] != '--edition']
-# 1ed keeps refreshing its own page (as the Hegelsaurus); later editions are Dottore, built from the interface
-# source tools/dottore_page.html (which loads dottore_logo.svg from beside the page)
-NAME = 'Hegelsaurus' if EDITION == '1ed' else 'Dottore'
-TEMPLATE = ARGS[0] if len(ARGS) > 0 else os.path.join(ROOT, 'work', 'editions', 'hegelsaurus.html') if EDITION == '1ed' \
-    else os.path.join(ROOT, 'tools', 'dottore_page.html')
-OUT = ARGS[1] if len(ARGS) > 1 else (os.path.join(ROOT, 'work', 'editions', 'hegelsaurus.html') if EDITION == '1ed' else os.path.join(PAGES, 'dottore.html'))
-MD = os.path.join(ROOT, 'work', 'editions', 'hegelsaurus_1ed.md' if EDITION == '1ed' else f'dottore_{EDITION}.md')
-TAGLINE = {'1ed': "*Roget's 1911 Thesaurus reorganized under Hegel's system. First edition.*",
-           '3ed': "*A thesaurus of English and German ordered by Hegel's system. Third edition: contemporary, colloquial and vulgar "
-                  "vocabulary added to Roget's 1911, Open English WordNet 2024 (CC BY 4.0) and a frequency audit of everyday English.*"}
+TEMPLATE = os.path.join(ROOT, 'tools', 'dottore_page.html')
+OUT = os.path.join(PAGES, 'dottore.html')
+MD = os.path.join(ROOT, 'work', 'editions', 'dottore.md')
+TAGLINE = ("*A thesaurus of English and German ordered by Hegel's system. Third edition: contemporary, colloquial and vulgar "
+           "vocabulary added to Roget's 1911, Open English WordNet 2024 (CC BY 4.0) and a frequency audit of everyday English.*")
 
 
-def label(node, edition=EDITION):
-    """Section numbers as shown. From the 3ed on, the three parts (Logic, Nature, Spirit) carry no number and the
-    third level's roman numerals are capitals (I., II.), leaving the sixth level's lowercase (i., ii.)."""
+def label(node):
+    """Section numbers as shown: the three parts (Logic, Nature, Spirit) carry no number and the third level's
+    roman numerals are capitals (I., II.), leaving the sixth level's lowercase (i., ii.)."""
     lab, depth = node['label'], int(node['depth'])
-    if edition == '1ed': return lab
     if depth == 0: return ''
     if depth == 2: return lab.upper()
     return lab
@@ -69,7 +64,7 @@ def foreign(text):
     out = []
     for p in parts:
         lang, sep, words = p.partition(': ')
-        if sep and EDITION != '1ed': words = native_script.mark(lang.strip(), words.strip())   # original scripts
+        if sep: words = native_script.mark(lang.strip(), words.strip())   # original scripts
         out.append(f'[{lang.strip()}] {words.strip()}.' if sep else p.strip() + '.')
     return out
 
@@ -83,7 +78,7 @@ def phrases(text):
     out = []
     for ph in split_depth0(text.strip(), '; '):
         ph = ph.rstrip('.') if ph.endswith('.') and not ph.endswith('..') else ph
-        m = re.match(r'^(.*?)\s*(\[(Gr|Chin|Rus)\.\].*)$', ph) if EDITION != '1ed' else None
+        m = re.match(r'^(.*?)\s*(\[(Gr|Chin|Rus)\.\].*)$', ph)
         if m:
             lang = PHRASE_LANG[m.group(3) + '.']
             items = [x.strip() for x in m.group(1).split(', ')]
@@ -102,6 +97,7 @@ def trim(s):
 
 
 def main():
+    runpy.run_path(os.path.join(ROOT, 'tools', 'build_thesaurus.py'))   # entries/ -> the table read below
     rows = list(csv.DictReader(open('data/hegel_thesaurus.csv', encoding='utf-8-sig')))
     nodes = {r['node_id']: r for r in csv.DictReader(open('data/hegel_nodes.csv', encoding='utf-8-sig'))}
     # head names: trimmed, unless trimming would make two heads identical
@@ -121,7 +117,7 @@ def main():
             out.append(f"{label(nodes[p])} {en[p]}".strip()); p = nodes[p]['parent_id']
         return out[::-1]
 
-    entries, md = [], [f'# {NAME}', '', TAGLINE.get(EDITION, TAGLINE['1ed']), '']
+    entries, md = [], ['# Dottore', '', TAGLINE, '']
     for r in rows:
         nid = r['node_id']
         path = path_of(nid)
@@ -138,7 +134,7 @@ def main():
         d = r.get('Hegelian gloss', '').strip()   # the page shows the Hegelian gloss; the working Gloss stays in the entries for revision
         e = {'id': num(nid), 'h': head, 'g': '', 'o': None, 'p': path, 'pos': pos}
         e['l'], e['k'] = label(nodes[nid]), int(nodes[nid]['depth'])   # label and depth, for the map
-        if EDITION != '1ed': e['d'] = d      # the gloss, revealed by clicking the headword
+        e['d'] = d      # the gloss, revealed by clicking the headword
         hd, ht, hc = (r.get(k, '').strip() for k in ('Hegel definition', 'Hegel texts', 'Hegel citations'))
         texts = []                                        # [work, [locations]]
         for line in ht.split('\n') if ht else []:
@@ -148,7 +144,7 @@ def main():
         for line in hc.split('\n') if hc else []:
             if line.startswith(CITE) and quotes: quotes[-1][1] = line[len(CITE):].strip()
             else: quotes.append([line.strip(), ''])
-        if EDITION != '1ed' and (hd or texts or quotes):
+        if hd or texts or quotes:
             e['H'] = {'d': hd, 't': texts, 'q': quotes}   # the Hegel slide
         entries.append(e)
         md += [f"## {num(nid)} {head}", '']
@@ -164,36 +160,12 @@ def main():
 
     html = open(TEMPLATE, encoding='utf-8').read()
     data = json.dumps(entries, ensure_ascii=False, separators=(',', ':'))
-    if 'const D=/*__DATA__*/[];' in html:
-        # the interface source (tools/hegelsaurus_page.html): drop the data in
-        html = html.replace('const D=/*__DATA__*/[];', 'const D=' + data + ';')
-    elif '<title>Hegelsaurus</title>' in html:
-        # Already a built Hegelsaurus page (the default): keep its interface, replace only the data array.
-        m = re.search(r'^const D=\[.*\];$', html, re.M)
-        if not m: sys.exit('data array not found in ' + TEMPLATE)
-        html = html[:m.start()] + 'const D=' + data + ';' + html[m.end():]
-    else:
-        subs = [
-            ("<title>Roget's Thesaurus</title>", '<title>Hegelsaurus</title>'),
-            ("Roget's Thesaurus <small>1911</small>", 'Hegelsaurus <small>Roget 1911 × Hegel</small>'),
-            ("document.title=\"Roget's Thesaurus\";", 'document.title="Hegelsaurus";'),
-            ('— Roget`', '— Hegelsaurus`'),
-            ("localStorage.setItem('roget.'", "localStorage.setItem('hegelsaurus.'"),
-            ("localStorage.getItem('roget.'", "localStorage.getItem('hegelsaurus.'"),
-            ("the rest follow in Roget's order.", 'the rest follow in the order of the Hegelian system.'),
-            ('Type an entry number (e.g. <kbd>494</kbd>)', 'Type an entry number (e.g. <kbd>6</kbd>)'),
-            ("Underlined numbers are Roget's cross-references", 'Underlined numbers are cross-references'),
-            ('placeholder="Search a word, phrase, or entry number…"', 'placeholder="Search a word (English or German), phrase, or entry number…"'),
-        ]
-        for a, b in subs:
-            n = html.count(a)
-            if not n: sys.exit(f'template text not found: {a!r}')
-            html = html.replace(a, b)
-        if '/*__DATA__*/[]' not in html: sys.exit('data placeholder not found')
-        html = html.replace('/*__DATA__*/[]', data)
+    if 'const D=/*__DATA__*/[];' not in html: sys.exit('data placeholder not found in ' + TEMPLATE)
+    html = html.replace('const D=/*__DATA__*/[];', 'const D=' + data + ';')
     open(OUT, 'w', encoding='utf-8', newline='\n').write(html)
     open(MD, 'w', encoding='utf-8', newline='\n').write('\n'.join(md))
     print(f'{len(entries)} entries -> {OUT} ({os.path.getsize(OUT) // 1024} KB), {MD}')
+    runpy.run_path(os.path.join(ROOT, 'tools', 'build_play.py'))
 
 
 if __name__ == '__main__':

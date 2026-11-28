@@ -1,7 +1,7 @@
 """Write the map as Markdown: the whole system as a nested list, each entry with its name, gloss and location in the books.
 Run from the project root:  python tools/build_map.py
 Output: work/editions/dottore_map.md (text, not published). Follows the map on the page (tools/dottore_page.html, #map):
-the same tree (data/hegel_nodes.csv), the same names and section numbers (build_rogetta.py), and the Hegelian gloss.
+the same tree (data/hegel_nodes.csv), the same names and section numbers (build_dottore.py), and the Hegelian gloss.
 """
 import csv, os, re, sys
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))   # run from the project root
@@ -10,7 +10,7 @@ OUT = os.path.join('work', 'editions', 'dottore_map.md')
 
 
 def label(node):
-    """Section number as on the 3ed page (build_rogetta.label, edition 3ed)."""
+    """Section number as on the page (build_dottore.label)."""
     lab, depth = node['label'], int(node['depth'])
     if depth == 0: return ''
     if depth == 2: return lab.upper()
@@ -18,7 +18,7 @@ def label(node):
 
 
 def hegel_texts(raw):
-    """'Work\\n· location\\n· location\\nWork2' -> [[work, [locations]], ...] (as build_rogetta.py reads them)."""
+    """'Work\\n· location\\n· location\\nWork2' -> [[work, [locations]], ...] (as build_dottore.py reads them)."""
     out = []
     for line in raw.split('\n') if raw else []:
         if not line.strip(): continue
@@ -28,7 +28,7 @@ def hegel_texts(raw):
 
 
 def trim(s):
-    """Head without parentheticals, [Tetrad] tags or quotation marks (build_rogetta.trim)."""
+    """Head without parentheticals, [Tetrad] tags or quotation marks (build_dottore.trim)."""
     s = s.split(';')[0]
     s = re.sub(r'\s*[(\[][^)\]]*[)\]]', '', s).replace('"', '')
     return re.sub(r'\s+', ' ', s).strip()

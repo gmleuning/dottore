@@ -13,11 +13,11 @@ dottore/
 ├── data/          what the build reads besides entries/: hegel_nodes.csv (the system's structure: numbering,
 │                  names, parents), native_scripts/ (original scripts for foreign words); hegel_thesaurus.csv is
 │                  built from entries/, never edit it
-├── tools/         the build: build_thesaurus.py, build_rogetta.py, entries.py, convert.py, native_script.py, publish_site.py, sitepath.py and
+├── tools/         the build: build_dottore.py, build_thesaurus.py, build_play.py, entries.py, convert.py, native_script.py, publish_site.py, sitepath.py and
 │                  the page's interface source dottore_page.html
 ├── docs/          this file
 └── work/          LOCAL ONLY (git-ignored): preparatory and superseded work
-    ├── editions/  dottore_3ed.md (text edition), the frozen 2ed Hegelsaurus page and text
+    ├── editions/  dottore.md (text edition), the frozen 2ed Hegelsaurus page and text
     ├── work/review/    proposal sheets, applied/ (every sheet already merged), raid/ (the Roget raid's tables)
     ├── sources/   outside texts the book was made from: rogets1911.txt, the outlines, roget/ tables and placements
     ├── tools/     generators and research scripts (raid, WordNet, frequency, review application)
@@ -88,8 +88,7 @@ The system's structure (names, numbering, which entry sits under which) stays in
 ## Build
 
 ```bash
-python tools/build_thesaurus.py               # entries/ -> data/hegel_thesaurus.csv
-python tools/build_rogetta.py --edition 3ed   # -> site-workbench/pages/dottore.html (+ work/editions/dottore_3ed.md)
+python tools/build_dottore.py                 # entries/ -> table, page, play page (+ work/editions/dottore.md)
 python tools/publish_site.py                  # commit it there and push: the live page updates
 ```
 
@@ -106,14 +105,11 @@ The page's interface is `tools/dottore_page.html`: gloss reveal on headword clic
 settings panel (stored per browser), double-click Wiktionary panel with etymology, IPA and audio (Wiktionary's public
 REST API, so any static host works).
 
-The play at the end of the README, *Doctor Ten-Times*, also has a page of its own, `ten_times_doctor.html`, opened by clicking il Dottore's figure. It is built from the README, so the two never differ: edit the play there, then run `python tools/build_play.py` (template `tools/play_page.html`). The page reads the book's saved settings (theme, accent, typeface, size, spacing) from the same browser.
+The play at the end of the README, *Doctor Ten-Times*, also has a page of its own, `ten_times_doctor.html`, opened by clicking il Dottore's figure. It is built from the README, so the two never differ: edit the play there, then run the build (template `tools/play_page.html`). The page reads the book's saved settings (theme, accent, typeface, size, spacing) from the same browser.
 
 Original scripts for foreign words: Sanskrit and Pali are converted from IAST by `tools/native_script.py`; the other
 languages come from `data/native_scripts/<Language>.tsv` (romanization, original, optional display romanization such
 as tone-marked pinyin), which can be corrected by hand.
-
-`python tools/build_rogetta.py` without `--edition` rebuilds the old Hegelsaurus page in `work/editions/` from the current corpus, so it
-would no longer be the 2ed; leave it frozen.
 
 ## Adding words in bulk
 

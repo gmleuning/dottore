@@ -1,6 +1,6 @@
 """Build data/hegel_thesaurus.csv from the corpus: one file per entry in entries/ (format in tools/entries.py).
 The system's structure (names, numbering, parents) comes from data/hegel_nodes.csv; everything else from the entries.
-Run from anywhere:  python tools/build_thesaurus.py"""
+build_dottore.py runs this first."""
 import csv, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)

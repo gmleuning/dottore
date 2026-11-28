@@ -1,4 +1,4 @@
-"""Original-script forms for romanized foreign words (the F. rows), used by build_rogetta.py.
+"""Original-script forms for romanized foreign words (the F. rows), used by build_dottore.py.
 - Sanskrit and Pali: IAST converted to Devanagari by rule.
 - Other languages: data/native_scripts/<Language>.tsv, lines "roman<TAB>native[<TAB>display]". 'display' optionally
   replaces the romanization shown (e.g. pinyin with tone marks); leave it out to keep the book's romanization.
